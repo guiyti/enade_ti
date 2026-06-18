@@ -1,0 +1,27 @@
+{
+  "numero": 29,
+  "paginas": [
+    23,
+    24
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q29.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 6512,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "pagina": 23,
+      "x": 29.627729415893555,
+      "y": 300.8559875488281,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737539"
+}

@@ -1,0 +1,26 @@
+{
+  "numero": 77,
+  "paginas": [
+    29
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q77.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 77,
+      "pagina": 29,
+      "x": 293.8800048828125,
+      "y": 46.4000129699707,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 77"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434542"
+}

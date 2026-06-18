@@ -1,0 +1,26 @@
+{
+  "numero": 52,
+  "paginas": [
+    18
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q52.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 52,
+      "pagina": 18,
+      "x": 297.1199951171875,
+      "y": 500.9000244140625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 52"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434416"
+}

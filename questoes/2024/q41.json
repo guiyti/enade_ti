@@ -1,0 +1,27 @@
+{
+  "numero": 41,
+  "paginas": [
+    23,
+    24
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024/q41.png",
+  "caminho_json": "",
+  "largura": 2653,
+  "altura": 7078,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 41,
+      "pagina": 23,
+      "x": 64.6063003540039,
+      "y": 458.3485107421875,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 41"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:39:29.836448"
+}

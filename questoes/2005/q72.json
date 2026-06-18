@@ -1,0 +1,26 @@
+{
+  "numero": 72,
+  "paginas": [
+    28
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q72.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 72,
+      "pagina": 28,
+      "x": 40.560001373291016,
+      "y": 339.9200134277344,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 72"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434529"
+}

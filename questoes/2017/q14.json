@@ -1,0 +1,27 @@
+{
+  "numero": 14,
+  "paginas": [
+    21,
+    22
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017/q14.png",
+  "caminho_json": "",
+  "largura": 2618,
+  "altura": 6888,
+  "confianca": 0.93,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "pagina": 21,
+      "x": 253,
+      "y": 366,
+      "metodo": "OCR",
+      "confianca": 0.91,
+      "texto_original": "QUESTÃO14"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:34:04.412650"
+}

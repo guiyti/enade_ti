@@ -1,0 +1,27 @@
+{
+  "numero": 33,
+  "paginas": [
+    17,
+    18
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q33.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "pagina": 17,
+      "x": 34.1431999206543,
+      "y": 67.57392883300781,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 33"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:38:37.828734"
+}

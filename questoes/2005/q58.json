@@ -1,0 +1,26 @@
+{
+  "numero": 58,
+  "paginas": [
+    21
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q58.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 58,
+      "pagina": 21,
+      "x": 306.29998779296875,
+      "y": 77.84001159667969,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 58"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434457"
+}

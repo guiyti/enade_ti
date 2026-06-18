@@ -1,0 +1,26 @@
+{
+  "numero": 26,
+  "paginas": [
+    22
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q26.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 3256,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 26,
+      "pagina": 22,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 26"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737530"
+}

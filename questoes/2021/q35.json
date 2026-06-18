@@ -1,0 +1,32 @@
+{
+  "numero": 35,
+  "paginas": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q35.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 22743,
+  "confianca": 0.905,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "pagina": 42,
+      "x": 29.763790130615234,
+      "y": 79.37054443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723592"
+}

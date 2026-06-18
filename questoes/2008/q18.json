@@ -1,0 +1,27 @@
+{
+  "numero": 18,
+  "paginas": [
+    9,
+    10
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q18.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "pagina": 9,
+      "x": 304.79901123046875,
+      "y": 393.38226318359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 18"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848470"
+}

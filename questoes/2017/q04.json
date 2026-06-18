@@ -1,0 +1,26 @@
+{
+  "numero": 4,
+  "paginas": [
+    1
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017/q04.png",
+  "caminho_json": "",
+  "largura": 2618,
+  "altura": 3444,
+  "confianca": 0.98,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "pagina": 1,
+      "x": 266,
+      "y": 2287,
+      "metodo": "OCR",
+      "confianca": 0.96,
+      "texto_original": "4."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:34:04.412538"
+}

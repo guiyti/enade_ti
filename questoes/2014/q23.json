@@ -1,0 +1,27 @@
+{
+  "numero": 23,
+  "paginas": [
+    20,
+    21
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q23.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 6512,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "pagina": 20,
+      "x": 29.6276912689209,
+      "y": 537.6760864257812,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737524"
+}

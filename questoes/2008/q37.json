@@ -1,0 +1,26 @@
+{
+  "numero": 37,
+  "paginas": [
+    15
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q37.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 37,
+      "pagina": 15,
+      "x": 336.239013671875,
+      "y": 78.14239501953125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 37"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848541"
+}

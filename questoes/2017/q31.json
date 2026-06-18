@@ -1,0 +1,28 @@
+{
+  "numero": 31,
+  "paginas": [
+    35,
+    36,
+    37
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017/q31.png",
+  "caminho_json": "",
+  "largura": 2618,
+  "altura": 10332,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "pagina": 35,
+      "x": 60.6497917175293,
+      "y": 372.70751953125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:34:04.412805"
+}

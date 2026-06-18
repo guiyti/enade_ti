@@ -1,0 +1,27 @@
+{
+  "numero": 13,
+  "paginas": [
+    8,
+    9
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q13.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 13,
+      "pagina": 8,
+      "x": 36.8390998840332,
+      "y": 653.4222412109375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 13"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848451"
+}

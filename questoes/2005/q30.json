@@ -1,0 +1,26 @@
+{
+  "numero": 30,
+  "paginas": [
+    12
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q30.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "pagina": 12,
+      "x": 41.400001525878906,
+      "y": 44.96001052856445,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434329"
+}

@@ -1,0 +1,27 @@
+{
+  "numero": 74,
+  "paginas": [
+    31,
+    32
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q74.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 74,
+      "pagina": 31,
+      "x": 319.4390869140625,
+      "y": 80.20939636230469,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 74"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848695"
+}

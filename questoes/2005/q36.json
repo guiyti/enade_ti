@@ -1,0 +1,27 @@
+{
+  "numero": 36,
+  "paginas": [
+    13,
+    14
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q36.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 36,
+      "pagina": 13,
+      "x": 44.7599983215332,
+      "y": 572.0599975585938,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 36"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434358"
+}

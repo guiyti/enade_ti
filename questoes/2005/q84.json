@@ -1,0 +1,27 @@
+{
+  "numero": 84,
+  "paginas": [
+    31,
+    32
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q84.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 84,
+      "pagina": 31,
+      "x": 41.63999938964844,
+      "y": 41.96001052856445,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 84"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434574"
+}

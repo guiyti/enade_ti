@@ -1,0 +1,27 @@
+{
+  "numero": 34,
+  "paginas": [
+    32,
+    33
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017/q34.png",
+  "caminho_json": "",
+  "largura": 2618,
+  "altura": 6888,
+  "confianca": 0.84,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "pagina": 32,
+      "x": 253,
+      "y": 366,
+      "metodo": "OCR",
+      "confianca": 0.82,
+      "texto_original": "QUESTÃO34"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:27:44.423734"
+}

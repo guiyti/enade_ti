@@ -1,0 +1,30 @@
+{
+  "numero": 9,
+  "paginas": [
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q09.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 16280,
+  "confianca": 0.8570000000000001,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "pagina": 9,
+      "x": 1737,
+      "y": 1042,
+      "metodo": "OCR",
+      "confianca": 0.93,
+      "texto_original": "9."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737483"
+}

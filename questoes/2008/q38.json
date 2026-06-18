@@ -1,0 +1,26 @@
+{
+  "numero": 38,
+  "paginas": [
+    15
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q38.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 38,
+      "pagina": 15,
+      "x": 336.239013671875,
+      "y": 297.26226806640625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 38"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848545"
+}

@@ -1,0 +1,27 @@
+{
+  "numero": 68,
+  "paginas": [
+    29,
+    30
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q68.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 68,
+      "pagina": 29,
+      "x": 35.99909973144531,
+      "y": 78.28953552246094,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 68"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848672"
+}

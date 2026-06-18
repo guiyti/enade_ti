@@ -1,0 +1,27 @@
+{
+  "numero": 45,
+  "paginas": [
+    29,
+    30
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q45.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 45,
+      "pagina": 29,
+      "x": 34.1431999206543,
+      "y": 66.91859436035156,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 45"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:37:27.715837"
+}

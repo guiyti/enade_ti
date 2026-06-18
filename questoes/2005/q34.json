@@ -1,0 +1,26 @@
+{
+  "numero": 34,
+  "paginas": [
+    12
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q34.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "pagina": 12,
+      "x": 315.05999755859375,
+      "y": 474.7400207519531,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 34"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434340"
+}

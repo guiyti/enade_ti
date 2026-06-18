@@ -1,0 +1,27 @@
+{
+  "numero": 49,
+  "paginas": [
+    31,
+    32
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q49.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 49,
+      "pagina": 31,
+      "x": 34.143898010253906,
+      "y": 529.5386962890625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 49"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:37:27.715855"
+}

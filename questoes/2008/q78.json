@@ -1,0 +1,27 @@
+{
+  "numero": 78,
+  "paginas": [
+    33,
+    34
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q78.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 78,
+      "pagina": 33,
+      "x": 35.99909973144531,
+      "y": 498.409423828125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 78"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848715"
+}

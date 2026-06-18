@@ -1,0 +1,27 @@
+{
+  "numero": 3,
+  "paginas": [
+    3,
+    4
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q03.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "pagina": 3,
+      "x": 36.8390998840332,
+      "y": 570.622314453125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 3"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848383"
+}

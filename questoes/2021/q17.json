@@ -1,0 +1,27 @@
+{
+  "numero": 17,
+  "paginas": [
+    25,
+    26
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q17.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 6498,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "pagina": 25,
+      "x": 29.513790130615234,
+      "y": 79.37054443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723527"
+}

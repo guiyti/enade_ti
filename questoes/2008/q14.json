@@ -1,0 +1,26 @@
+{
+  "numero": 14,
+  "paginas": [
+    8
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q14.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "pagina": 8,
+      "x": 304.79901123046875,
+      "y": 159.02227783203125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848442"
+}

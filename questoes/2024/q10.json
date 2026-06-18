@@ -1,0 +1,32 @@
+{
+  "numero": 10,
+  "paginas": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024/q10.png",
+  "caminho_json": "",
+  "largura": 2653,
+  "altura": 24773,
+  "confianca": 0.905,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "pagina": 1,
+      "x": 66.59839630126953,
+      "y": 689.4002075195312,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "10."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:39:29.836305"
+}

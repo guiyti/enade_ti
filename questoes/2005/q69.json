@@ -1,0 +1,27 @@
+{
+  "numero": 69,
+  "paginas": [
+    26,
+    27
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q69.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 69,
+      "pagina": 26,
+      "x": 310.260009765625,
+      "y": 44.96001052856445,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 69"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434511"
+}

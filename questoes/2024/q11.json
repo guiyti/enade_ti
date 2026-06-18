@@ -1,0 +1,28 @@
+{
+  "numero": 11,
+  "paginas": [
+    7,
+    8,
+    9
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024/q11.png",
+  "caminho_json": "",
+  "largura": 2653,
+  "altura": 10617,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "pagina": 7,
+      "x": 64.6063003540039,
+      "y": 289.83819580078125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:39:29.836309"
+}

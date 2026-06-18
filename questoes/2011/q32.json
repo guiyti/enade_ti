@@ -1,0 +1,27 @@
+{
+  "numero": 32,
+  "paginas": [
+    16,
+    17
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q32.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "pagina": 16,
+      "x": 302.3479309082031,
+      "y": 504.06378173828125,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:38:37.828729"
+}

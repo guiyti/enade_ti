@@ -1,0 +1,26 @@
+{
+  "numero": 75,
+  "paginas": [
+    29
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q75.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 75,
+      "pagina": 29,
+      "x": 40.439998626708984,
+      "y": 44.96001052856445,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 75"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434536"
+}

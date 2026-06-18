@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ exam.arquivo }} - ENADE Auditor</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; padding: 20px; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
+        .header h1 { color: #1a1a1a; }
+        .header .meta { color: #666; }
+        
+        .filters { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+        .filter-group { display: flex; align-items: center; gap: 8px; }
+        .filter-group label { font-size: 14px; color: #333; }
+        .filter-group select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; background: white; }
+        
+        .questions-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+        .question-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s; }
+        .question-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .question-card.low-confidence { border-left: 4px solid #e74c3c; }
+        .question-card.review { border-left: 4px solid #e67e22; }
+        .question-card.rejected { border-left: 4px solid #95a5a6; opacity: 0.7; }
+        
+        .question-header { padding: 16px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
+        .question-number { font-size: 18px; font-weight: 700; color: #1a1a1a; }
+        .question-badges { display: flex; gap: 8px; }
+        .badge { padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+        .badge-pending { background: #e8f8f0; color: #27ae60; }
+        .badge-approved { background: #e8f8f0; color: #27ae60; }
+        .badge-review { background: #fff3e0; color: #e67e22; }
+        .badge-rejected { background: #fdeaea; color: #e74c3c; }
+        .confidence { font-size: 13px; color: #666; }
+        .confidence.low { color: #e74c3c; font-weight: 600; }
+        
+        .question-image { width: 100%; max-height: 200px; object-fit: contain; background: #fafafa; }
+        .question-footer { padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
+        .question-pages { font-size: 12px; color: #999; }
+        .btn { padding: 6px 12px; border: none; border-radius: 4px; font-size: 13px; font-weight: 500; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-primary { background: #3498db; color: white; }
+        .btn-primary:hover { background: #2980b9; }
+        
+        .empty-state { text-align: center; padding: 60px 20px; color: #999; grid-column: 1/-1; }
+        
+        .stats-bar { display: flex; gap: 16px; margin-bottom: 16px; padding: 16px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .stat-item { display: flex; flex-direction: column; }
+        .stat-value { font-size: 24px; font-weight: 700; color: #1a1a1a; }
+        .stat-label { font-size: 12px; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div>
+                <h1>{{ exam.arquivo }}</h1>
+                <div class="meta">{{ exam.ano }} | {{ exam.curso }} | {{ exam.total_paginas }} páginas | Tipo: {{ exam.tipo_pdf }}</div>
+            </div>
+            <a href="/" class="btn" style="background: #95a5a6;">← Voltar</a>
+        </div>
+        
+        <div class="stats-bar">
+            <div class="stat-item">
+                <span class="stat-value">{{ exam.questoes_extraidas }}</span>
+                <span class="stat-label">Questões Extraídas</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ exam.questoes_detectadas }}</span>
+                <span class="stat-label">Marcadores Detectados</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ "%.1f"|format(exam.score_geral) }}%</span>
+                <span class="stat-label">Score Geral</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ status_counts.get('APROVADA', 0) }}</span>
+                <span class="stat-label">Aprovadas</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ status_counts.get('REVISAR', 0) }}</span>
+                <span class="stat-label">Para Revisar</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ status_counts.get('REJEITADA', 0) }}</span>
+                <span class="stat-label">Rejeitadas</span>
+            </div>
+        </div>
+        
+        <div class="filters">
+            <form method="GET">
+                <div class="filter-group">
+                    <label>Status:</label>
+                    <select name="status" onchange="this.form.submit()">
+                        <option value="">Todos</option>
+                        <option value="PENDENTE" {% if status_filter == 'PENDENTE' %}selected{% endif %}>Pendente</option>
+                        <option value="APROVADA" {% if status_filter == 'APROVADA' %}selected{% endif %}>Aprovada</option>
+                        <option value="REVISAR" {% if status_filter == 'REVISAR' %}selected{% endif %}>Revisar</option>
+                        <option value="REJEITADA" {% if status_filter == 'REJEITADA' %}selected{% endif %}>Rejeitada</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Confiança <:</label>
+                    <select name="confidence" onchange="this.form.submit()">
+                        <option value="">Todas</option>
+                        <option value="0.5" {% if confidence_filter == '0.5' %}selected{% endif %}>0.50</option>
+                        <option value="0.7" {% if confidence_filter == '0.7' %}selected{% endif %}>0.70</option>
+                        <option value="0.85" {% if confidence_filter == '0.85' %}selected{% endif %}>0.85</option>
+                    </select>
+                </div>
+                <a href="?status=REVISAR" class="btn btn-primary">Ver Problemas</a>
+            </form>
+        </div>
+        
+        <div class="questions-grid">
+            {% if questions %}
+                {% for q in questions %}
+                <div class="question-card {% if q.confianca < 0.7 %}low-confidence{% endif %} {% if q.status.value == 'REVISAR' %}review{% endif %} {% if q.status.value == 'REJEITADA' %}rejected{% endif %}">
+                    <div class="question-header">
+                        <span class="question-number">Questão {{ q.numero }}</span>
+                        <div class="question-badges">
+                            <span class="badge badge-{{ q.status.value.lower() }}">{{ q.status.value }}</span>
+                            <span class="confidence {% if q.confianca < 0.7 %}low{% endif %}">{{ "%.0f"|format(q.confianca * 100) }}%</span>
+                        </div>
+                    </div>
+                    <a href="/questao/{{ exam.ano }}/{{ exam.arquivo }}/{{ q.numero }}">
+                        <img class="question-image" src="/questoes/{{ exam.ano }}/q{{ "%02d"|format(q.numero) }}.png" alt="Questão {{ q.numero }}" loading="lazy">
+                    </a>
+                    <div class="question-footer">
+                        <span class="question-pages">Páginas: {{ q.paginas|join(', ') }}</span>
+                        <a href="/questao/{{ exam.ano }}/{{ exam.arquivo }}/{{ q.numero }}" class="btn btn-primary">Ver</a>
+                    </div>
+                </div>
+                {% endfor %}
+            {% else %}
+                <div class="empty-state">Nenhuma questão encontrada com os filtros atuais.</div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

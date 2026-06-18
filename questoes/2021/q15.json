@@ -1,0 +1,42 @@
+{
+  "numero": 15,
+  "paginas": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q15.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 55233,
+  "confianca": 0.8480000000000001,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "pagina": 2,
+      "x": 1888,
+      "y": 2519,
+      "metodo": "OCR",
+      "confianca": 0.92,
+      "texto_original": "15."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723504"
+}

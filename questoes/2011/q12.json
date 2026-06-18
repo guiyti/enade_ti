@@ -1,0 +1,27 @@
+{
+  "numero": 12,
+  "paginas": [
+    8,
+    9
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q12.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 0.87,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "pagina": 8,
+      "x": 1997,
+      "y": 710,
+      "metodo": "OCR",
+      "confianca": 0.85,
+      "texto_original": "12."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:38:37.828596"
+}

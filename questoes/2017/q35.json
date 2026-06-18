@@ -1,0 +1,33 @@
+{
+  "numero": 35,
+  "paginas": [
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017/q35.png",
+  "caminho_json": "",
+  "largura": 2618,
+  "altura": 27552,
+  "confianca": 0.47900000000000004,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "pagina": 33,
+      "x": 253,
+      "y": 366,
+      "metodo": "OCR",
+      "confianca": 0.51,
+      "texto_original": "QUESTÃO35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:27:44.423738"
+}

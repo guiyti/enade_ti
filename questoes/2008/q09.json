@@ -1,0 +1,27 @@
+{
+  "numero": 9,
+  "paginas": [
+    6,
+    7
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q09.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "pagina": 6,
+      "x": 36.8390998840332,
+      "y": 76.102294921875,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 9"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848401"
+}

@@ -1,0 +1,27 @@
+{
+  "numero": 50,
+  "paginas": [
+    18,
+    19
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q50.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 50,
+      "pagina": 18,
+      "x": 40.68000030517578,
+      "y": 546.8600463867188,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 50"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434419"
+}

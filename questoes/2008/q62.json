@@ -1,0 +1,27 @@
+{
+  "numero": 62,
+  "paginas": [
+    27,
+    28
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008/q62.png",
+  "caminho_json": "",
+  "largura": 2480,
+  "altura": 7018,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 62,
+      "pagina": 27,
+      "x": 35.99909973144531,
+      "y": 590.929443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 62"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:36:09.848656"
+}

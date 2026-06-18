@@ -1,0 +1,27 @@
+{
+  "numero": 30,
+  "paginas": [
+    37,
+    38
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q30.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 6498,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "pagina": 37,
+      "x": 29.763790130615234,
+      "y": 79.37054443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723576"
+}

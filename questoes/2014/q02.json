@@ -1,0 +1,27 @@
+{
+  "numero": 2,
+  "paginas": [
+    4,
+    5
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q02.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 6512,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 2,
+      "pagina": 4,
+      "x": 29.615766525268555,
+      "y": 451.07611083984375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 02"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737451"
+}

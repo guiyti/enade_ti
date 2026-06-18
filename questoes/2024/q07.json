@@ -1,0 +1,26 @@
+{
+  "numero": 7,
+  "paginas": [
+    1
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024/q07.png",
+  "caminho_json": "",
+  "largura": 2653,
+  "altura": 3539,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 7,
+      "pagina": 1,
+      "x": 66.59839630126953,
+      "y": 624.3901977539062,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "7."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:39:29.836294"
+}

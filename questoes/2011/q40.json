@@ -1,0 +1,27 @@
+{
+  "numero": 40,
+  "paginas": [
+    25,
+    26
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q40.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 40,
+      "pagina": 25,
+      "x": 302.347900390625,
+      "y": 341.9739685058594,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 40"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:37:27.715814"
+}

@@ -1,0 +1,27 @@
+{
+  "numero": 12,
+  "paginas": [
+    20,
+    21
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q12.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 6498,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "pagina": 20,
+      "x": 289.464599609375,
+      "y": 79.37054443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 12"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723514"
+}

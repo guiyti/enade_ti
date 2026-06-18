@@ -1,0 +1,28 @@
+{
+  "numero": 14,
+  "paginas": [
+    22,
+    23,
+    24
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021/q14.png",
+  "caminho_json": "",
+  "largura": 2363,
+  "altura": 9747,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "pagina": 22,
+      "x": 29.763790130615234,
+      "y": 79.37054443359375,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:32:07.723521"
+}

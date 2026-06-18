@@ -1,0 +1,27 @@
+{
+  "numero": 12,
+  "paginas": [
+    14,
+    15
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014/q12.png",
+  "caminho_json": "",
+  "largura": 2432,
+  "altura": 6512,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "pagina": 14,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 12"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:30:48.737491"
+}

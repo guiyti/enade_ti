@@ -1,0 +1,27 @@
+{
+  "numero": 10,
+  "paginas": [
+    9,
+    10
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011/q10.png",
+  "caminho_json": "",
+  "largura": 2419,
+  "altura": 6494,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "pagina": 9,
+      "x": 34.143211364746094,
+      "y": 401.3941650390625,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 10"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:38:37.828608"
+}

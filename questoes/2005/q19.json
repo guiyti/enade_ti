@@ -1,0 +1,26 @@
+{
+  "numero": 19,
+  "paginas": [
+    10
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005/q19.png",
+  "caminho_json": "",
+  "largura": 2484,
+  "altura": 3509,
+  "confianca": 1.0,
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "pagina": 10,
+      "x": 40.79999923706055,
+      "y": 44.96001052856445,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.95,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-06-18T15:35:09.434286"
+}
