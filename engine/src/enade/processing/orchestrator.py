@@ -1,5 +1,4 @@
 import json
-import shutil
 from pathlib import Path
 from typing import List
 
@@ -19,15 +18,7 @@ from .topic_classifier import classify_question_topics
 logger = get_logger(__name__)
 
 
-def save_exam_report(exam: Exam) -> None:
-    report_dir = config.AUDITORIA_DIR / exam.id_prova
-    report_dir.mkdir(parents=True, exist_ok=True)
-    
-    report_path = report_dir / "relatorio.json"
-    with open(report_path, "w", encoding="utf-8") as f:
-        json.dump(exam.to_dict(), f, ensure_ascii=False, indent=2)
-    
-    logger.info(f"Relatório de auditoria salvo: {report_path}")
+
 
 
 def save_exam_metadata(exam: Exam) -> None:
@@ -127,14 +118,7 @@ def save_consolidated_catalog(exams: List[Exam]) -> None:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
     logger.info(f"Catálogo mestre sincronizado com {root_public_data / 'exams.json'}")
     
-    # Sync questoes folder to public/questoes
-    root_public_questoes = config.BASE_DIR / "public" / "questoes"
-    root_public_questoes.mkdir(parents=True, exist_ok=True)
-    try:
-        shutil.copytree(config.QUESTOES_DIR, root_public_questoes, dirs_exist_ok=True)
-        logger.info(f"Arquivos estáticos sincronizados com {root_public_questoes}")
-    except Exception as err:
-        logger.warning(f"Aviso ao sincronizar pastas para public/questoes: {err}")
+
 
 
 def process_exam(pdf_info: PDFInfo) -> Exam:
@@ -172,8 +156,7 @@ def process_exam(pdf_info: PDFInfo) -> Exam:
     # 9. Full validation
     exam = validate_exam(exam)
     
-    # 10. Save reports and metadata
-    save_exam_report(exam)
+    # 10. Save metadata
     save_exam_metadata(exam)
     
     logger.info(f"=== Processamento concluído: {pdf_info.arquivo} | Extraídas: {exam.questoes_extraidas} | Score: {exam.score_geral:.1f}% ===")

@@ -1,8 +1,0 @@
-Considere o circuito combinacional ilustrado acima, que apresenta
-a, b e c como sinais de entrada e s como sinal de saída. A equação
-booleana mínima que descreve a função desse circuito é igual a
-A s = a or not(b) or c.
-B s = a and not(b) and c.
-C s = not(a) or b or not(c).
-D s = not(a) and b and not(c).
-E s = (not(a) and b) or c.

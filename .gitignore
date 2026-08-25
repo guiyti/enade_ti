@@ -13,9 +13,12 @@ htmlcov/
 
 # Logs & Processing Caches (Full-page renders root cache)
 /logs/
-/cache/
 /paginas/
 *.log
+
+# Dados gerados pela engine (binários grandes — não subir para git)
+/public/questoes/
+/public/data/exams.json
 
 # macOS & OS Metadata
 .DS_Store
@@ -35,9 +38,6 @@ Thumbs.db
 
 # Node & Next.js Build Artifacts
 node_modules/
-web/node_modules/
-web/.next/
-web/out/
 .next/
 out/
 npm-debug.log*

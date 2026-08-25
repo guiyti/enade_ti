@@ -112,14 +112,13 @@ def validate_confidence(exam: Exam) -> List[Dict[str, Any]]:
 
 def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
-    
+
     for q in exam.questoes:
         filename = f"{q.id_questao}.png"
         candidates = [
             config.QUESTOES_DIR / exam.id_prova / filename,
-            config.BASE_DIR / "public" / "questoes" / exam.id_prova / filename,
-            config.BASE_DIR / "questoes" / exam.id_prova / filename
         ]
+
         found_path = None
         for cand in candidates:
             if cand.exists():

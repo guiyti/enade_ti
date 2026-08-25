@@ -79,9 +79,9 @@ def test_process_exam_full_pipeline():
         assert Path(page.caminho_imagem).exists()
 
 
-def test_process_exam_generates_reports():
+def test_process_exam_generates_metadata():
     pdf_path = create_sample_pdf(num_pages=3, num_questions=2)
-    
+
     pdf_info = PDFInfo(
         arquivo="2022_ADS_test.pdf",
         caminho=pdf_path,
@@ -92,16 +92,21 @@ def test_process_exam_generates_reports():
         curso="ADS",
         id_prova="2022_ADS_test"
     )
-    
+
     exam = process_exam(pdf_info)
-    
-    report_dir = config.AUDITORIA_DIR / "2022_ADS_test"
-    assert report_dir.exists()
-    assert (report_dir / "relatorio.json").exists()
-    
+
+    # Verify metadata.json is created in QUESTOES_DIR (now public/questoes in prod)
     meta_dir = config.QUESTOES_DIR / "2022_ADS_test"
-    assert meta_dir.exists()
-    assert (meta_dir / "metadata.json").exists()
+    assert meta_dir.exists(), f"Metadata dir not found: {meta_dir}"
+    assert (meta_dir / "metadata.json").exists(), "metadata.json not found"
+
+    # Verify at least one question PNG and JSON were generated
+    assert len(exam.questoes) >= 1
+    for q in exam.questoes:
+        png_path = config.QUESTOES_DIR / exam.id_prova / f"{q.id_questao}.png"
+        json_path = config.QUESTOES_DIR / exam.id_prova / f"{q.id_questao}.json"
+        assert png_path.exists(), f"PNG not found: {png_path}"
+        assert json_path.exists(), f"JSON not found: {json_path}"
 
 
 if __name__ == "__main__":
