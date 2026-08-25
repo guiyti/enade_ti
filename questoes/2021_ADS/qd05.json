@@ -1,0 +1,60 @@
+{
+  "id_questao": "qd05",
+  "numero": 5,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    16,
+    17
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    },
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd05.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd05.txt",
+  "largura": 2185,
+  "altura": 5670,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO DISCURSIVA 05\t\nCom a finalidade de melhorar o atendimento e priorizar os casos mais urgentes, a direção de um hospital \ncriou um sistema de triagem em que um profissional da saúde classifica a ordem de atendimento com \nbase numa avaliação prévia do paciente, entregando-lhe um cartão numerado verde (V) ou amarelo (A), \nque define o menor ou maior grau de urgência da ocorrência, respectivamente. Para informatizar esse \nprocesso, o software desenvolvido tem como base o seguinte trecho de código-fonte:\n1 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n29 \n30 \n31 \n32 \n33 \n34 \n35 \n36 \n37 \nstruct lista { \nint numero; \nchar cor; \nstruct lista* prox; \n}; \ntypedef struct lista Lista; \nLista* inserir_fim(Lista* l, Lista* no) { \nLista* aux; \nno->prox = NULL; \naux = l; \nwhile (aux->prox != NULL) \naux = aux->prox; \naux->prox = no; \nreturn l; \n} \nLista* inserir(Lista* l, int numero, char cor) { \nLista* no = (Lista*) malloc(sizeof(Lista)); \nno->numero = numero; \nno->cor = cor; \nif (l == NULL) { \nno->prox = l; \nl = no; \n} else { \nif (no->cor == 'V') \nl = inserir_fim(l, no); \nelse \nl = inserir_prioridade(l, no); \n} \nreturn l; \n}\n\nNa linha 21, a função inserir recebe o número e a cor do cartão entregue ao paciente na triagem. \nPacientes com cartão verde são inseridos no final da fila pela função inserir_fim (linhas 9-19). \nPacientes com cartão amarelo têm prioridade no atendimento e são inseridos no início da fila, \nem ordem de chegada, pela função inserir_prioridade. Portanto, se são entregues os cartões \n10-V, 11-V, 5-A, 12-V e 6-A, nessa ordem, a fila deve ficar assim organizada:\n5 A\n10\n1\n6 A\nV\n11 V\n12 V\nConsiderando o processo de triagem descrito e o trecho de código-fonte apresentado, implemente a \nfunção inserir_prioridade conforme indicado.\nLista* inserir_prioridade(Lista* l, Lista* no)\n(valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 5,
+      "tipo": "DISCURSIVA",
+      "pagina": 16,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 157.49180603027344,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO DISCURSIVA 05"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:08.963265",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

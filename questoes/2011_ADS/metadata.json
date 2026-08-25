@@ -1,0 +1,693 @@
+{
+  "id_prova": "2011_ADS",
+  "arquivo": "2011_ADS.pdf",
+  "ano": 2011,
+  "curso": "ADS",
+  "total_paginas": 24,
+  "questoes_detectadas": 40,
+  "questoes_extraidas": 40,
+  "score_geral": 97.5,
+  "tipo_pdf": "digital",
+  "questoes": [
+    {
+      "id_questao": "q01",
+      "numero": 1,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        2
+      ],
+      "largura": 2241,
+      "altura": 1379,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q01.png",
+      "caminho_json": "/questoes/2011_ADS/q01.json",
+      "caminho_txt": "/questoes/2011_ADS/q01.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q02",
+      "numero": 2,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        2
+      ],
+      "largura": 2241,
+      "altura": 1523,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q02.png",
+      "caminho_json": "/questoes/2011_ADS/q02.json",
+      "caminho_txt": "/questoes/2011_ADS/q02.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q03",
+      "numero": 3,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        3
+      ],
+      "largura": 1123,
+      "altura": 2857,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q03.png",
+      "caminho_json": "/questoes/2011_ADS/q03.json",
+      "caminho_txt": "/questoes/2011_ADS/q03.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q04",
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        3
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q04.png",
+      "caminho_json": "/questoes/2011_ADS/q04.json",
+      "caminho_txt": "/questoes/2011_ADS/q04.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q05",
+      "numero": 5,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        4
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q05.png",
+      "caminho_json": "/questoes/2011_ADS/q05.json",
+      "caminho_txt": "/questoes/2011_ADS/q05.txt",
+      "num_figuras": 1
+    },
+    {
+      "id_questao": "q06",
+      "numero": 6,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        5
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q06.png",
+      "caminho_json": "/questoes/2011_ADS/q06.json",
+      "caminho_txt": "/questoes/2011_ADS/q06.txt",
+      "num_figuras": 6
+    },
+    {
+      "id_questao": "q07",
+      "numero": 7,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        5
+      ],
+      "largura": 1123,
+      "altura": 2860,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q07.png",
+      "caminho_json": "/questoes/2011_ADS/q07.json",
+      "caminho_txt": "/questoes/2011_ADS/q07.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q08",
+      "numero": 8,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        6
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q08.png",
+      "caminho_json": "/questoes/2011_ADS/q08.json",
+      "caminho_txt": "/questoes/2011_ADS/q08.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "qd01",
+      "numero": 1,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        7
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/qd01.png",
+      "caminho_json": "/questoes/2011_ADS/qd01.json",
+      "caminho_txt": "/questoes/2011_ADS/qd01.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "qd02",
+      "numero": 2,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        8
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/qd02.png",
+      "caminho_json": "/questoes/2011_ADS/qd02.json",
+      "caminho_txt": "/questoes/2011_ADS/qd02.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q09",
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        9
+      ],
+      "largura": 1123,
+      "altura": 1437,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q09.png",
+      "caminho_json": "/questoes/2011_ADS/q09.json",
+      "caminho_txt": "/questoes/2011_ADS/q09.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q10",
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        9
+      ],
+      "largura": 1123,
+      "altura": 1464,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q10.png",
+      "caminho_json": "/questoes/2011_ADS/q10.json",
+      "caminho_txt": "/questoes/2011_ADS/q10.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q11",
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        9
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q11.png",
+      "caminho_json": "/questoes/2011_ADS/q11.json",
+      "caminho_txt": "/questoes/2011_ADS/q11.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q12",
+      "numero": 12,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        10
+      ],
+      "largura": 1123,
+      "altura": 1678,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q12.png",
+      "caminho_json": "/questoes/2011_ADS/q12.json",
+      "caminho_txt": "/questoes/2011_ADS/q12.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q13",
+      "numero": 13,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        10
+      ],
+      "largura": 1123,
+      "altura": 1225,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q13.png",
+      "caminho_json": "/questoes/2011_ADS/q13.json",
+      "caminho_txt": "/questoes/2011_ADS/q13.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q14",
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        10
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q14.png",
+      "caminho_json": "/questoes/2011_ADS/q14.json",
+      "caminho_txt": "/questoes/2011_ADS/q14.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q15",
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        11
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q15.png",
+      "caminho_json": "/questoes/2011_ADS/q15.json",
+      "caminho_txt": "/questoes/2011_ADS/q15.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q16",
+      "numero": 16,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        11
+      ],
+      "largura": 1123,
+      "altura": 2005,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q16.png",
+      "caminho_json": "/questoes/2011_ADS/q16.json",
+      "caminho_txt": "/questoes/2011_ADS/q16.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q17",
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        11
+      ],
+      "largura": 1123,
+      "altura": 899,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q17.png",
+      "caminho_json": "/questoes/2011_ADS/q17.json",
+      "caminho_txt": "/questoes/2011_ADS/q17.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q18",
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1123,
+      "altura": 1993,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q18.png",
+      "caminho_json": "/questoes/2011_ADS/q18.json",
+      "caminho_txt": "/questoes/2011_ADS/q18.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q19",
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1123,
+      "altura": 909,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q19.png",
+      "caminho_json": "/questoes/2011_ADS/q19.json",
+      "caminho_txt": "/questoes/2011_ADS/q19.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q20",
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1123,
+      "altura": 1680,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q20.png",
+      "caminho_json": "/questoes/2011_ADS/q20.json",
+      "caminho_txt": "/questoes/2011_ADS/q20.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q21",
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1123,
+      "altura": 1222,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q21.png",
+      "caminho_json": "/questoes/2011_ADS/q21.json",
+      "caminho_txt": "/questoes/2011_ADS/q21.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q22",
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        13
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q22.png",
+      "caminho_json": "/questoes/2011_ADS/q22.json",
+      "caminho_txt": "/questoes/2011_ADS/q22.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q23",
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        14
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q23.png",
+      "caminho_json": "/questoes/2011_ADS/q23.json",
+      "caminho_txt": "/questoes/2011_ADS/q23.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q24",
+      "numero": 24,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        14
+      ],
+      "largura": 1123,
+      "altura": 1854,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q24.png",
+      "caminho_json": "/questoes/2011_ADS/q24.json",
+      "caminho_txt": "/questoes/2011_ADS/q24.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q25",
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        14
+      ],
+      "largura": 1123,
+      "altura": 1048,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q25.png",
+      "caminho_json": "/questoes/2011_ADS/q25.json",
+      "caminho_txt": "/questoes/2011_ADS/q25.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q26",
+      "numero": 26,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        15
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q26.png",
+      "caminho_json": "/questoes/2011_ADS/q26.json",
+      "caminho_txt": "/questoes/2011_ADS/q26.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q27",
+      "numero": 27,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        15
+      ],
+      "largura": 1123,
+      "altura": 1413,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q27.png",
+      "caminho_json": "/questoes/2011_ADS/q27.json",
+      "caminho_txt": "/questoes/2011_ADS/q27.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q28",
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        15
+      ],
+      "largura": 1123,
+      "altura": 1489,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q28.png",
+      "caminho_json": "/questoes/2011_ADS/q28.json",
+      "caminho_txt": "/questoes/2011_ADS/q28.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q29",
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        16
+      ],
+      "largura": 1123,
+      "altura": 1599,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q29.png",
+      "caminho_json": "/questoes/2011_ADS/q29.json",
+      "caminho_txt": "/questoes/2011_ADS/q29.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q30",
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        16
+      ],
+      "largura": 1123,
+      "altura": 1302,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q30.png",
+      "caminho_json": "/questoes/2011_ADS/q30.json",
+      "caminho_txt": "/questoes/2011_ADS/q30.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q31",
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        16
+      ],
+      "largura": 1123,
+      "altura": 1865,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q31.png",
+      "caminho_json": "/questoes/2011_ADS/q31.json",
+      "caminho_txt": "/questoes/2011_ADS/q31.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q32",
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        16
+      ],
+      "largura": 1123,
+      "altura": 1037,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q32.png",
+      "caminho_json": "/questoes/2011_ADS/q32.json",
+      "caminho_txt": "/questoes/2011_ADS/q32.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q33",
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        17
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q33.png",
+      "caminho_json": "/questoes/2011_ADS/q33.json",
+      "caminho_txt": "/questoes/2011_ADS/q33.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q34",
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        18
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q34.png",
+      "caminho_json": "/questoes/2011_ADS/q34.json",
+      "caminho_txt": "/questoes/2011_ADS/q34.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q35",
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        18
+      ],
+      "largura": 1123,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/q35.png",
+      "caminho_json": "/questoes/2011_ADS/q35.json",
+      "caminho_txt": "/questoes/2011_ADS/q35.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "qd03",
+      "numero": 3,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        19
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/qd03.png",
+      "caminho_json": "/questoes/2011_ADS/qd03.json",
+      "caminho_txt": "/questoes/2011_ADS/qd03.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "qd04",
+      "numero": 4,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        20
+      ],
+      "largura": 2241,
+      "altura": 2856,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/qd04.png",
+      "caminho_json": "/questoes/2011_ADS/qd04.json",
+      "caminho_txt": "/questoes/2011_ADS/qd04.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "qd05",
+      "numero": 5,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        21
+      ],
+      "largura": 2241,
+      "altura": 2855,
+      "confianca": 0.98,
+      "status": "PENDENTE",
+      "anomalias": [],
+      "caminho_png": "/questoes/2011_ADS/qd05.png",
+      "caminho_json": "/questoes/2011_ADS/qd05.json",
+      "caminho_txt": "/questoes/2011_ADS/qd05.txt",
+      "num_figuras": 0
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+QUESTÃO 13	
+Um processo de software é um conjunto de atividades cujo objetivo é o desenvolvimento ou a evolução 
+de um programa. Uma representação simplificada e abstrata é chamada de modelo de processo software. 
+A seguir são apresentados dois exemplos destes modelos.
+•	O modelo em cascata considera as atividades fundamentais do processo, compreendendo a 
+especificação, desenvolvimento, validação e evolução. Esse modelo pode ser representado em fases 
+distintas, tais como especificação de requisitos, projeto de software, implementação, teste e assim 
+por diante.
+•	O desenvolvimento incremental intercala as atividades de especificação, desenvolvimento e 
+validação, com rápido feedback entre as atividades. Ele se baseia na ideia de desenvolver uma 
+implementação inicial a partir de especificações abstratas, que é refinada após feedbacks obtidos 
+do cliente até que o sistema satisfaça as necessidades.
+SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011, p 19 (adaptado).
+Acerca dos modelos de processo de software apresentados, avalie as asserções a seguir e a relação 
+proposta entre elas.
+I.	 O modelo em cascata não prevê validação pelo cliente em todas as fases do processo de 
+desenvolvimento do software.
+PORQUE
+II.	 No desenvolvimento incremental, a rápida versão inicial assim como os sucessivos incrementos do 
+sistema permitem validar a entrega e atender as necessidades do cliente.
+A respeito dessas asserções, assinale a opção correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.
+Área livre

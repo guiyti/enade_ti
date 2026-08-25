@@ -1,0 +1,49 @@
+QUESTÃO 23	
+Optar pela implantação da Gestão de Serviços 
+em TI é um dos maiores desafios encontrados 
+por muitas empresas e organizações que desejam 
+adquirir um processo mensurável e que permita a 
+melhoria contínua de suas atividades. Para ajudar 
+neste desafio, as bibliotecas de boas práticas são 
+uma excelente ferramenta de referência para a 
+implantação e manutenção da Gestão de Serviços. 
+A biblioteca ITIL é uma das mais conhecidas e 
+sugere o ciclo de vida de um serviço dividido em 
+5 fases distintas. 
+Diante desse contexto, avalie as afirmações a seguir, 
+sobre as fases do ciclo de vida do serviço de TI de 
+acordo com a biblioteca ITIL.
+I.	 A Estratégia de Serviço é o estágio onde é 
+definida a direção estratégica dos serviços 
+de TI, quem são os seus clientes e quais 
+serviços serão disponibilizados para eles.
+II.	 O Desenho de Serviço ajuda a organização a 
+planejar e gerenciar mudanças em serviços 
+e implementar liberações no ambiente 
+produtivo.
+III.	 A 
+Transição 
+de 
+Serviço 
+orienta 
+o 
+desenvolvimento 
+de 
+recursos 
+para 
+a 
+implementação de serviços novos ou 
+modificados, além de garantir que os 
+requisitos da Estratégia, incluídos no 
+Desenho, sejam efetivamente realizados.
+IV.	 A Operação de Serviço é momento em que 
+os serviços de TI passam a ser consumidos 
+pelos clientes e usuários, além de ser nesse 
+estágio que o valor do serviço é percebido.
+É correto apenas o que se afirma em
+A	 I e II.
+B	 II e III.
+C	 III e IV.
+D	 I, II e IV.
+E	 I, III e IV.
+Área livre

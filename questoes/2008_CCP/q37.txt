@@ -1,0 +1,41 @@
+junto
+dware
+e as
+a na
+ão de
+Com
+intra-
+itivos
+de do
+o das
+stino.
+adota
+tivos.
+entes
+ta os
+as.
+so de
+d
+d
+QUESTÃO 37
+Considere que a correlação linear entre o
+número de erros de código de programação (Y) e o
+respectivo tamanho de um programa (X), em
+número de linhas de código, seja igual a 0,7.
+A variável aleatória Y segue uma distribuição
+Normal com média e desvio padrão iguais a 0,1 erro
+de código, enquanto que a variável X segue uma
+distribuição Normal com média 15 e desvio padrão
+5 linhas de código. A reta de regressão linear é uma
+esperança condicional na forma E(Y|X = x) =
+ax – 0,11, em que x > 10 é um dado valor para o
+tamanho do programa e a é o coeficiente angular da
+reta de regressão. Nessa situação, para um
+programa cujo tamanho é x = 20, pela reta de
+regressão linear, qual é o número esperado de
+erros de código de programação?
+A 0,10
+B 0,12
+C 0,17
+D 0,20
+E 0,22

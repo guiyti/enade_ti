@@ -32,12 +32,6 @@ class Config:
     
     @classmethod
     def validate(cls):
-        missing = []
-        if not cls.NVIDIA_API_KEY:
-            missing.append("NVIDIA_API_KEY")
-        if missing:
-            raise ValueError(f"Missing required environment variables: {', '.join(missing)}")
-        
         for dir_path in [cls.PROVAS_DIR, cls.PAGINAS_DIR, cls.QUESTOES_DIR, 
                          cls.AUDITORIA_DIR, cls.LOGS_DIR, cls.CACHE_DIR]:
             dir_path.mkdir(parents=True, exist_ok=True)

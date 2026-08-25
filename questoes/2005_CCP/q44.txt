@@ -1,0 +1,82 @@
+Á
+,
+QUESTÃO 44
+Deseja-se supervisionar as redes de comunicação
+de dados de um conjunto de empresas. Cada empresa
+tem a sua própria rede, que é independente das redes
+das outras empresas e é constituída de ramos de fibra
+óptica. Cada ramo conecta duas filiais distintas (ponto-a-
+ponto) da empresa. Há, no máximo, um ramo de fibra
+interligando diretamente um mesmo par de filiais.
+A comunicação entre duas filiais pode ser feita
+diretamente por um ramo de fibra que as interliga, se
+este existir, ou, indiretamente, por meio de uma
+seqüência de ramos e filiais. A rede de cada empresa
+permite a comunicação entre todas as suas filiais.
+A tabela abaixo apresenta algumas informações acerca
+das redes dessas empresas.
+empresa
+n.º de filiais
+número de ramos
+de fibra entre filiais
+E1
+9
+18
+E2
+10
+45
+E3
+14
+13
+E4
+8
+24
+Com relação à situação apresentada acima, é correto deduzir
+que,
+I
+no caso da empresa E1, a falha de um ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se diretamente com todas as outras filiais da
+empresa.
+II
+na rede da empresa E2, a introdução de um novo ramo de
+rede certamente violará a informação de que há somente
+um par de fibras entre duas filiais.
+III no caso da empresa E3, a falha de um único ramo de rede
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se, direta ou indiretamente, com todas as outras
+filiais da empresa.
+IV na rede da empresa E4, todas as filiais da empresa
+comunicam-se entre si diretamente.
+Estão certos apenas os itens
+A I e II.
+D II e IV.
+B I e IV.
+E III e IV.
+C II e III.
+D
+E
+O
+m
+q
+n
+A
+B
+C
+D
+E
+U
+E
+(
+B
+a
+I
+I
+I
+I
+E
+A
+B
+C
+D
+E

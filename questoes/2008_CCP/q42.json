@@ -1,0 +1,51 @@
+{
+  "id_questao": "q42",
+  "numero": 42,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    18
+  ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 156.28671264648438,
+      "x1": 570.1999999999999,
+      "y1": 337.6466979980469,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q42.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q42.txt",
+  "largura": 2302,
+  "altura": 786,
+  "confianca": 0.98,
+  "texto_completo": "G\nO\nU\nÇ O\nQUESTÃO 41\nEm ambientes de manufatura integrada, utilizam-\nse computadores para conectar processos\nconcorrentes separados fisicamente, isto é, um\nsistema \nintegrado \nrequer \ndois \nou \nmais\ncomputadores \nconectados \npara \ntrocar\ninformações. Quando integrados, os processos\npodem compartilhar informações e iniciar ações,\npermitindo decisões mais rápidas com menos\nerros. A automação também permite a execução\nde processos de manufatura sem necessidade\nde intervenções. Um exemplo simples pode ser\num controlador de um robô e um controlador\nlógico programável trabalhando juntos em uma\nú i\ná\ni\nU\nl\nl\né\nQUESTÃO 42\nAo se realizar o acesso a um servidor WWW usando o protocolo\nHTTPS, uma sessão SSL é estabelecida sobre a conexão TCP, entre\no programa navegador do usuário e o processo servidor. Para tanto,\nusam-se mecanismos baseados em criptografia simétrica e\nassimétrica para prover serviços de segurança. Em relação ao\nacesso HTTP, sem SSL, que serviços de segurança são providos\npara o usuário?\nA\nautenticação do servidor e controle de acesso do cliente\nB\nautenticação do cliente e controle da velocidade de transmissão\nC\nautenticação da rede e proteção contra vírus\nD\nautenticação do servidor e confidencialidade das transmissões\nE\nautenticação do cliente e temporização das ações executadas",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 42,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 260.9991149902344,
+      "y": 168.28671264648438,
+      "x1": 330.3623352050781,
+      "y1": 179.3267059326172,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 42"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654304",
+  "categorias": [
+    "Redes e Segurança",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

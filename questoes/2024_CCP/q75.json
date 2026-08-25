@@ -1,0 +1,50 @@
+{
+  "id_questao": "q75",
+  "numero": 75,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    36
+  ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 164.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 332.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q75.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q75.txt",
+  "largura": 2475,
+  "altura": 732,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 75\t\nQue estratégia, ao integrar a avaliação da aprendizagem ao plano de aula, promove o desenvolvimento de conhecimentos e a \nautonomia dos estudantes?\nA\t Aplicar uma prova escrita individual ao final do projeto com robôs, avaliando o conhecimento técnico dos estudantes sobre \nmontagem e programação, como forma de mensurar o aprendizado adquirido.\nB\t Estabelecer uma avaliação por pares, em que os grupos de estudantes analisam os projetos uns dos outros, com base em uma \nrubrica construída colaborativamente, promovendo a reflexão crítica e a corresponsabilidade discente no processo avaliativo.\nC\t Realizar uma competição entre grupos de estudantes, premiando os robôs com melhor desempenho técnico, conforme \ncritérios definidos previamente pelo professor, para estimular o esforço e a busca por resultados de excelência.\nD\t Propor aos estudantes o preenchimento, de forma individual, de uma ficha de autoavaliação sobre o desempenho de sua \nequipe na construção dos robôs, com base em critérios definidos pelo professor.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 75,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 64.6063003540039,
+      "y": 176.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 191.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 75"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153765",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

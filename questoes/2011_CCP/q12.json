@@ -1,0 +1,59 @@
+{
+  "id_questao": "q12",
+  "numero": 12,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    10
+  ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 367.620361328125,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q12.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q12.txt",
+  "largura": 1123,
+  "altura": 1558,
+  "confianca": 0.98,
+  "texto_completo": "1\n,\np\np\nQUESTÃO 12  \nConsidere a gramática a seguir, em que \n, \ne \nsão símbolos não terminais, \n e \nsão terminais e \né a \ncadeia vazia.\nA respeito dessa gramática, analise as afi rmações a seguir.\nI. \nNas cadeias geradas por essa gramática, o último \nsímbolo é .\nII. O número de zeros consecutivos nas cadeias \ngeradas pela gramática é, no máximo, dois.\nIII. O número de uns em cada cadeia gerada pela \ngramática é maior que o número de zeros.\nIV. Nas cadeias geradas por essa gramática, todos os \nuns estão à esquerda de todos os zeros.\nÉ correto apenas o que se afi rma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE   III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig1.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig2.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig3.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig4.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig5.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig6.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig7.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q12_fig8.png"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 34.15312194824219,
+      "y": 379.620361328125,
+      "x1": 103.26310729980469,
+      "y1": 393.4803771972656,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 12"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:33.577246",
+  "categorias": [
+    "Teoria da Computação e Compiladores"
+  ]
+}

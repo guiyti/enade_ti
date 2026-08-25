@@ -1,0 +1,18 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+29
+QUESTÃO 45
+Os amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. 
+Considerando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.
+I. 
+A corrente i1 é idealmente nula.
+II. A corrente i2 é idealmente nula.
+III. O circuito exemplifica um seguidor de tensão.
+IV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.
+V. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.
+É correto apenas o que se afirma em
+A   I, II e III.
+B   I, II e IV.
+C   I, III e V.
+D   II, IV e V.
+E   III, IV e V.
+ÁREA LIVRE

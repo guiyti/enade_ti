@@ -1,0 +1,55 @@
+{
+  "id_questao": "q35",
+  "numero": 35,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    23
+  ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 269.4037170410156,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q35.txt",
+  "largura": 2241,
+  "altura": 1967,
+  "confianca": 0.98,
+  "texto_completo": "23\nq\ng\nQUESTÃO 35  \nQUINO. Toda a Mafalda. Trad. Andréa Stahel M. da Silva et al. São Paulo: Martins Fontes, 1993, p. 71.\nMuitas vezes, os próprios educadores, por incrível que pareça, também vítimas de uma formação alienante, não \nsabem o porquê daquilo que dão, não sabem o significado daquilo que ensinam e quando interrogados dão respostas \nevasivas: “é pré-requisito para as séries seguintes”, “cai no vestibular”, “hoje você não entende, mas daqui a dez anos \nvai entender”. Muitos alunos acabam acreditando que aquilo que se aprende na escola não é para entender mesmo, \nque só entenderão quando forem adultos, ou seja, acabam se conformando com o ensino desprovido de sentido. \nVASCONCELLOS, C. S. Construção do conhecimento em sala de aula. 13ª ed. São Paulo: Libertad, 2002, p. 27-8. \nCorrelacionando a tirinha de Mafalda e o texto de Vasconcellos, avalie as afirmações a seguir.\nI. \nO processo de conhecimento deve ser refletido e encaminhado a partir da perspectiva de uma prática social.\nII. Saber qual conhecimento deve ser ensinado nas escolas continua sendo uma questão nuclear para o processo \npedagógico. \nIII. O processo de conhecimento deve possibilitar compreender, usufruir e transformar a realidade.\nIV. A escola deve ensinar os conteúdos previstos na matriz curricular, mesmo que sejam desprovidos de significado \ne sentido para professores e alunos.\nV. Os projetos curriculares devem desconsiderar a influência do currículo oculto que ocorre na escola com caráter \ninformal e sem planejamento.\nÉ correto apenas o que se afirma em\nA   I e III. \n \nB   I e IV. \n \nC   II e IV. \n \nD   I, II e III. \n \nE   II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q35_fig1.jpeg"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 34.14320373535156,
+      "y": 281.4037170410156,
+      "x1": 103.25318908691406,
+      "y1": 295.26373291015625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:33.577350",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados",
+    "Engenharia de Software",
+    "Sistemas Operacionais e Arquitetura",
+    "Formação Geral e Sociedade"
+  ]
+}

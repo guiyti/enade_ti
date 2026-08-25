@@ -1,0 +1,98 @@
+1
+dEIEK>K'/  ED  E>/^E E DE^E
+QUESTÃO 10
+  ĐůĂƐƐĞ CountOccurrence ĞƐĐƌŝƚĂ ŶĂ ůŝŶŐƵĂŐĞŵ 
+:ĂǀĂ͕   ƚĞŵ  ƉŽƌ  ŽďũĞƟǀŽ  ůŽĐĂůŝǌĂƌ  Ğ  ĐŽŶƚĂƌ  ƋƵĂŶƚĂƐ 
+ŽĐŽƌƌġŶĐŝĂƐ  ĚĞ  Ƶŵ  ĚĞƚĞƌŵŝŶĂĚŽ  ǀĂůŽƌ  ĞǆŝƐƚĞŵ  Ğŵ 
+Ƶŵ ĐŽŶũƵŶƚŽ ƉƌĞĚĞƚĞƌŵŝŶĂĚŽ ĚĞ ǀĂůŽƌĞƐ͕  ƌĞƚŽƌŶĂŶĚŽ 
+Ă ƋƵĂŶƟĚĂĚĞ ĚĞ ǀĞǌĞƐ ƋƵĞ Ƶŵ ĚĞƚĞƌŵŝŶĂĚŽ ǀĂůŽƌ ƐĞ 
+ƌĞƉĞƚĞ ŶŽ ĐŽŶũƵŶƚŽ͘
+1 public class CountConcurrence {
+2
+3
+ public boolean hasValue(int searchValue, int[] array, int i) { 
+4
+ if (i >= array.length)
+5
+ return false;
+6
+7
+ if (array[i] == searchValue)
+8
+ return true;
+9
+ else
+10 
+ return hasValue(searchValue, array, i + 1);
+11
+ }
+12
+13  public int count(int countValue, int[] array, int i) {
+14 
+    if (!hasValue(countValue, array, i) || i >= array.length)
+15
+ return 0;
+16
+17
+ int c = 0;
+18
+ if (array[i] == contValue)
+19
+ c++;
+20
+21
+ c += count(countValue, array, i);
+22
+ return c;
+23
+ }
+24
+25
+ public static void main(String[] args) {
+26
+ int[] array = {2, 3, 5, 6, 9, 7, 8, 8, 9};
+27
+ CountOccurrence co = new CountOccurrence();
+28
+ System.out.println(co.count(5, array, 0));     
+29
+ }
+30 }
+
+3
+EsK>s/DEEdK DE ^/^dED ^
+WĂƌĂ  ƋƵĞ  Ž  ĂůŐŽƌŝƚŵŽ  ĨƵŶĐŝŽŶĞ  ĐŽƌƌĞƚĂŵĞŶƚĞ͕  
+ĂƚĞŶĚĞŶĚŽ Ž ƌĞƋƵŝƐŝƚŽ ƉƌŽƉŽƐƚŽ͕  Ă ŵƵĚĂŶĕĂ Ğŵ ƐƵĂ 
+ĞƐƚƌƵƚƵƌĂ ƋƵĞ ĚĞǀĞ ƐĞƌ ĂƉůŝĐĂĚĂ Ġ
+A ĂůƚĞƌĂƌ Ă ůŝŶŚĂ 15͕  ĚĞ͗ return 0; ƉĂƌĂ͗ return 
+count(countValue, array, 0)͖
+B ĂůƚĞƌĂƌ  Ă  ůŝŶŚĂ  18͕   ĚĞ͗
+if (array[i] == 
+countValue)  ƉĂƌĂ͗
+if 
+(array[c] 
+== 
+countValue)
+C ĂůƚĞƌĂƌ Ă ůŝŶŚĂ 21͕  ĚĞ͗ c += count(countValue, 
+array, i)͖  ƉĂƌĂ͗ c += count(countValue, 
+array, i + 1)͖
+D ĂůƚĞƌĂƌ 
+Ă 
+ůŝŶŚĂ 
+14͕  
+ĚĞ͗  
+if
+(!hasValue(countValue, array, i) 
+|| i >= array.length) ƉĂƌĂ͗  if (i >= 
+array.length)
+E ĂůƚĞƌĂƌ 
+Ă 
+ůŝŶŚĂ 
+10͕  
+ĚĞ͗  
+return
+hasValue(searchValue, array, i + 1);
+ƉĂƌĂ͗   return hasValue(searchValue, 
+array, i - 1)͖
+ÁREA LIVRE
+*R40201413*

@@ -1,0 +1,36 @@
+0
+QUESTÃO 24
+IŽŶƐŝĚĞƌĞ ĂƐ ƐĞŐƵŝŶƚĞƐ ƚĂďĞůĂƐ ĚĞ Ƶŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ͗
+1. &ŽƌŶĞĐĞĚŽƌ ;ĐŽĚͺĨŽƌŶĞĐ͕  ŶŽŵĞͺĨŽƌŶĞĐ͕  ƚĞůĞĨŽŶĞ͕  
+ĐŝĚĂĚĞ͕  h&Ϳ
+2. EƐƚĂĚŽ ;h&͕  ŶŽŵĞͺĞƐƚĂĚŽͿ
+  ĞǆƉƌĞƐƐĆŽ ^Y> ƋƵĞ ŽďƚĠŵ ŽƐ ŶŽŵĞƐ ĚŽƐ ĞƐƚĂĚŽƐ 
+ƉĂƌĂ ŽƐ ƋƵĂŝƐ ŶĆŽ ŚĄ ĨŽƌŶĞĐĞĚŽƌĞƐ ĐĂĚĂƐƚƌĂĚŽƐ Ġ
+A
+SELECT E.UF
+FROM Estado AS E
+WHERE E.nome_estado NOT IN (
+ SELECT F.UF
+ FROM Fornecedor AS F);
+B
+SELECT E.nome_estado
+FROM Estado AS E, FROM 
+Fornecedor AS F
+WHERE E.UF = F.UF;
+C
+SELECT E.nome_estado
+FROM Estado AS E
+WHERE E.UF NOT IN (
+ SELECT F.UF
+ FROM Fornecedor AS F);
+D
+SELECT E.nome_estado
+FROM Estado AS E, FROM 
+Fornecedor AS F
+WHERE E.nome_estado = F.UF;
+E
+SELECT E.nome_estado
+FROM Estado AS E
+WHERE E.UF IN (
+ SELECT F.UF
+ FROM Fornecedor AS F);

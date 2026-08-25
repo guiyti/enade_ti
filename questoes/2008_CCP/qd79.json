@@ -1,0 +1,50 @@
+{
+  "id_questao": "qd79",
+  "numero": 79,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    33
+  ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 300.59999999999997,
+      "y0": 68.44668579101562,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.txt",
+  "largura": 1154,
+  "altura": 3067,
+  "confianca": 0.98,
+  "texto_completo": "2\nestá\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nto e\nntes\nque\no do\nrios,\nmes.\no de\nntes,\ndos\nque\ns em\nente,\ndico\nstros\nele;\ns de\n por\nem o\nque\nação\nque\no.\no na\ns de\numa\nados\nado,\nncia\nade.\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 79 - A\n1\n2\n3\n4\n5\n6\n7\n8\nB Descreva 2 riscos de segurança da informação\nque aumentam quando se substitui o sistema\natual pelo sistema proposto, e que são relativos\nà interação entre pacientes e os serviços da\nreferida secretaria de saúde. Um dos riscos deve\nser relativo à perda de disponibilidade e o outro,\nà perda de integridade.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 79 - B\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 79,
+      "tipo": "DISCURSIVA",
+      "pagina": 33,
+      "x": 332.1590881347656,
+      "y": 80.44668579101562,
+      "x1": 481.3172607421875,
+      "y1": 91.48668670654297,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 79 – DISCURSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654602",
+  "categorias": [
+    "Redes e Segurança"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q04",
+  "numero": 4,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    4
+  ],
+  "segmentos": [
+    {
+      "pagina": 4,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 254.65911865234375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q04.txt",
+  "largura": 2475,
+  "altura": 750,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 04\t\nEm uma escola localizada em território quilombola, as turmas do Ensino Médio estavam envolvidas com a festividade de Santo \nAntônio, padroeiro da comunidade. Um professor de História, aproveitando a situação, convidou professores de outras áreas para \nrealizarem atividades pedagógicas sobre a representatividade da festa para o Inventário Cultural Quilombola. Com a mobilização \ndas áreas, foi proposta uma reflexão sobre a autonomia e a identidade escolar presentes no Projeto Político Pedagógico da escola.\nCom base no cenário apresentado, uma intervenção didática que considera a colaboração entre escola e comunidade quilombola \né aquela que\nA\t realiza leituras de textos sobre a festividade para normatizar saberes na escola.\nB\t insere festividades contemporâneas para renovar os princípios educativos da escola.\nC\t promove atividades para reconhecer ritos significativos para a comunidade durante a organização da festa.\nD\t organiza feiras com produtos industrializados para possibilitar a integração da comunidade com os espaços urbanos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 4,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 04"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153328",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

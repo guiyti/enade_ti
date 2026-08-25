@@ -1,0 +1,52 @@
+{
+  "id_questao": "q42",
+  "numero": 42,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    16
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 249.79556274414062,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q42.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q42.txt",
+  "largura": 2306,
+  "altura": 2311,
+  "confianca": 0.98,
+  "texto_completo": "Á\nÃ\n15\nQUESTÃO 41\nProcessadores atuais incluem mecanismos para o tratamento\nde situações especiais, conhecidas como interrupções. Em uma\ninterrupção, o fluxo normal de instruções é interrompido para\nque a causa da interrupção seja tratada. Com relação a esse\nassunto, assinale a opção correta.\nA Controladores de entrada e saída geram interrupções de\nforma síncrona à execução do processador, para que\nnenhuma instrução fique incompleta devido à ocorrência\nda interrupção.\nB Quando uma interrupção ocorre, o próprio processador\nsalva todo o seu contexto atual, tais como registradores de\ndados e endereço e códigos de condição, para que esse\nmesmo contexto possa ser restaurado pela rotina de\natendimento da interrupção.\nC O processador pode auto-interromper-se para tratar\nexceções de execução, tais como um erro em uma\noperação aritmética, uma tentativa de execução de\ninstrução ilegal ou uma falha de página em memória\nvirtual.\nD Rotinas de tratamento de interrupção devem ser executadas\ncom o mecanismo de interrupção inibido, pois esse tipo de\nrotina não permite aninhamento.\nE O uso de interrupção para realizar entrada ou saída de\ndados somente é eficiente quando o periférico trata\ngrandes quantidades de dados, como é o caso de discos\nmagnéticos e discos ópticos. Para periféricos com pouco\nvolume de dados, como teclados e mouses, o uso de\ninterrupção é ineficiente.\nQUESTÃO 42\nDuas possibilidades para a construção de sistemas com múltiplos\nprocessadores são: processadores idênticos com um único espaço de\nendereçamento interligados por um barramento único (SMP); e\nmáquinas monoprocessadas conectadas por uma rede (cluster). Com\nrelação a esses sistemas, assinale a opção correta.\nA A comunicação entre processadores de um cluster é,\npotencialmente, muito mais rápida que a comunicação entre\nprocessadores de um sistema SMP, pois redes atuais possuem\ntaxa de transmissão da ordem de gigabits/s, enquanto as\nmelhores memórias operam somente com freqüências da ordem\nde centenas de megahertz.\nB Comunicação entre processos pode ser implementada de forma\nmuito mais eficiente em um cluster que em um sistema SMP,\npois, nesse último, todos os processos precisam compartilhar os\nmesmos dispositivos de entrada e saída.\nC Em um sistema SMP, é mais simples substituir um processador\ndefeituoso, pois, em um cluster, toda a rede de comunicação\ndeve ser desabilitada para que a troca seja efetuada sem\nprejudicar a troca de mensagens entre os processos.\nD Alocação de memória para processos é muito mais simples em\num cluster, pois cada processador executa um único processo na\nsua memória exclusiva e, dessa forma, não existe o problema de\ndistribuição de processos no espaço de endereçamento único da\nmáquina SMP.\nE Em um cluster, o custo da escalabilidade é muito menor, pois,\npara a interconexão entre as máquinas, podem ser utilizados\nequipamentos comuns usados em uma rede local de\ncomputadores, ao passo que um sistema SMP exige conexões\nextras no barramento e gabinetes especiais.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 42,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 298.8599853515625,
+      "y": 261.7955627441406,
+      "x1": 345.2879943847656,
+      "y1": 267.7955627441406,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 42"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913148",
+  "categorias": [
+    "Programação e POO",
+    "Sistemas Operacionais e Arquitetura",
+    "Inteligência Artificial e Dados"
+  ]
+}

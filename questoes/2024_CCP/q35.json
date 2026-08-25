@@ -1,0 +1,59 @@
+{
+  "id_questao": "q35",
+  "numero": 35,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    21,
+    22
+  ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 602.8855590820312,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 22,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 180.4859161376953,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q35.txt",
+  "largura": 2475,
+  "altura": 1408,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n21\nCOMPUTAÇÃO\np\np\nQUESTÃO 35\t\nQual alternativa apresenta exemplos de atividades de um plano de aula no modelo híbrido, voltado para o ensino de conceitos \nde Pensamento Computacional?\nA\t Aprendizagem dos pilares do Pensamento Computacional utilizando ambiente on-line, por meio de vídeos e quizzes interativos; \nresolução de problemas em plataformas de programação, com feedback automático; participação em fóruns de discussão.\nB\t Atividades que envolvem discussões em grupo, dinâmicas práticas com materiais físicos, criação de algoritmos visuais em \nsuportes como quadros, resolução colaborativa de desafios em sala e apresentações seguidas de debate, favorecendo a \ninteração direta entre os participantes.\nC\t Aula expositiva sobre os pilares do Pensamento Computacional, com discussão em grupo para aprofundamento dos conceitos; \nrealização de atividades práticas em ambiente da escola para resolver problemas reais aplicando os pilares estudados.\nD\t Estudo dos pilares do Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento de dúvidas e realização \nde exercícios práticos, com aplicação dos pilares na resolução de problemas e uso de recompensas para estimular o engajamento.\n\n2025\nTexto para questões de 36 a 38\nUm professor de Computação precisa escolher, entre três possibilidades, uma abordagem de metodologia ativa para o \nplanejamento de uma sequência didática sobre conceitos iniciais de lógica e algoritmos. Como primeira possibilidade, ele cogita \nusar a metodologia Sala de Aula Invertida, usando linguagens e tecnologias nos momentos extraclasse e presencial. A segunda \npossibilidade seria escolher Objetos de Aprendizagem ancorados à estratégia metodológica de jogos sérios ou uso de softwares \neducacionais. A terceira possibilidade seria planejar a abordagem Gamificada de Competição Controlada.\n*R0404202522*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 64.6063003540039,
+      "y": 614.8855590820312,
+      "x1": 124.34291076660156,
+      "y1": 630.153564453125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153466",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

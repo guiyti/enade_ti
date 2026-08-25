@@ -1,0 +1,50 @@
+{
+  "id_questao": "q16",
+  "numero": 16,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    11
+  ],
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 293.28,
+      "y0": 55.890419006347656,
+      "x1": 555.56,
+      "y1": 529.720458984375,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q16.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q16.txt",
+  "largura": 1123,
+  "altura": 2005,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 16  \nEclipse, \nNetbeans, \nJdeveloper \nsão \nexemplos \nde \nambientes integrados de desenvolvimento, chamados de \nIDE, que têm por objetivo facilitar o desenvolvimento de \nsoftwares, provendo maior produtividade e gerenciamento \nde projetos. A especificação JavaBeans foi criada para \nser um padrão de desenvolvimento de componentes que \npossam ser facilmente usados por outros desenvolvedores \nem diferentes IDE. \nCom relação ao tema, analise as asserções a seguir.\nSeja para o Netbeans ou para o Eclipse, é possível adquirir \ncomponentes de terceiros que facilitem a implementação \ndo seu projeto\nPORQUE\ncomo o código desses componentes está em linguagem \nintermediária, ou seja, independente da arquitetura de um \ncomputador real, só é necessário que a máquina virtual \nesteja instalada no computador onde o aplicativo será \nexecutado e a máquina virtual será a responsável pela \ninterpretação do código para a linguagem de máquina do \ncomputador em execução.\nAcerca dessas asserções, assinale a alternativa correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 16,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 302.347900390625,
+      "y": 67.89041900634766,
+      "x1": 371.4579162597656,
+      "y1": 81.75041961669922,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 16"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:22.373466",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

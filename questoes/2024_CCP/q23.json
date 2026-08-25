@@ -1,0 +1,59 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14,
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 388.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.txt",
+  "largura": 2475,
+  "altura": 1906,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nFORMAÇÃO GERAL DOCENTE\n14\ng\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de\nA\t formação pedagógica que considera o papel do professor-supervisor como coformador.\nB\t interação entre professor-supervisor e estagiários para a aquisição dos conteúdos curriculares.\nC\t aquisição de novas tecnologias pelo professor-supervisor para a aplicação em sala de aula.\nD\t aplicação de conhecimentos teórico-metodológicos do professor-supervisor no cotidiano escolar.\nÁrea livre\n\n2025\n*R0404202515*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 64.6063003540039,
+      "y": 400.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 416.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153411",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

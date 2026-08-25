@@ -1,0 +1,51 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    11
+  ],
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 259.2466735839844,
+      "x1": 570.1999999999999,
+      "y1": 631.646728515625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q23.txt",
+  "largura": 2302,
+  "altura": 1582,
+  "confianca": 0.98,
+  "texto_completo": "O\nO\nU\nÇ O\nQUESTÃO 21\nConsidere a relação EMPREGADO (NumeroEmp, RG, nome,\nsobrenome, salario, endereco), em que o atributo grifado\ncorresponde à chave primária da relação. Suponha que se\ndeseje realizar as seguintes consultas:\n1\nListar o nome dos empregados com sobrenome Silva;\n2\nListar o nome dos empregados em ordem crescente de\nseus sobrenomes.\nEm relação à definição de um índice sobre o atributo\nsobrenome para melhorar o desempenho das consultas\nacima, julgue os itens a seguir.\nI\nUm índice que implemente Árvore-B+ será adequado\npara melhorar o desempenho da consulta 1.\nII\nUm índice que implemente Árvore-B+ será adequado\npara melhorar o desempenho da consulta 2.\nIII Um índice que implemente uma função hash será\nadequado para melhorar o desempenho da consulta 1.\nIV Um índice que implemente uma função hash será\nadequado para melhorar o desempenho da consulta 2.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens III e IV estão certos.\nD\nApenas os itens I, II e III estão certos.\nE\nTodos os itens estão certos.\nQUESTÃO 23 \nConsidere o esquema de banco de dados relacional\napresentado a seguir, formado por 4 relações, que\nrepresenta o conjunto de estudantes de uma universidade\nque podem, ou não, morar em repúblicas (moradias\ncompartilhadas por estudantes). A relação Estudante foi\nmodelada como um subconjunto da relação Pessoa.\nConsidere que os atributos grifados correspondam à\nchave primária da respectiva relação e os atributos que\nsão seguidos da palavra referencia sejam chaves\nestrangeiras.\nPessoa(IdPessoa:integer, \nNome:varchar(40),\nEndereco:varchar(40))\nFonePessoa(IdPessoa:integer referencia Pessoa,\nDDD:varchar(3), Prefixo:char(4), Nro:char(4))\nRepublica(IdRep:integer, \nNome:varchar(30),\nEndereco:varchar(40))\nEstudante(RA:integer, \nEmail:varchar(30),\nIdPessoa:integer \nreferencia \nPessoa,\nIdRep:integer referencia Republica)\nSuponha que existam as seguintes tuplas no banco de\ndados:\nPessoa(1, ‘José Silva’, ‘Rua 1, 20’);\nRepublica(20, ‘Várzea’, ‘Rua Chaves, 2001’)\nQual opção apresenta apenas tuplas válidas para esse\nesquema de banco de dados relacional?",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 310.4390869140625,
+      "y": 271.2466735839844,
+      "x1": 382.55792236328125,
+      "y1": 286.5722351074219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654220",
+  "categorias": [
+    "Banco de Dados",
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

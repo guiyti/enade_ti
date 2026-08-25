@@ -1,0 +1,21 @@
+QUESTÃO 31	
+Para a adoção do modelo COBIT ter sucesso é necessário que seja levado em consideração a maturidade 
+e a cultura da empresa, que definirá em qual nível serão implantados os controles de cada processo 
+e quais processos, e até mesmo a necessidade de tropicalização do modelo para melhor se adequar à 
+realidade da empresa.
+GIAMPAOLI, R. Z.; TESTA, M. G.; LUCIANO, D. M. Contribuições do modelo COBIT para a Governança Corporativa e de 
+Tecnologia da Informação: desafios, problemas e benefícios na percepção de especialistas e CIOs. 
+Análise. Porto Alegre, v. 22, n. 2, p. 120-133, jul./dez. 2011, p. 132 (adaptado).
+Com base no texto apresentado, avalie as asserções a seguir e a relação proposta entre elas.
+I.	 Para garantir o êxito do planejamento estratégico ou mesmo da estratégia de TI das organizações, é 
+necessário a utilização do COBIT, modelo integrador das diversas práticas de governança de TI.
+PORQUE
+II.	 Para tropicalização do COBIT, é necessário que ele seja complementado e utilizado com outros 
+modelos, já que sua implementação ocorre em alto nível, e os demais, em nível operacional.
+A respeito dessas asserções, assinale a opção correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.
+Área livre

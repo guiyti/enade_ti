@@ -1,0 +1,25 @@
+QUESTÃO 09	
+Antes de traçarmos um plano de projeto de software, devemos estabelecer os objetivos do produto e 
+seu escopo, considerar as soluções alternativas e identificar as restrições técnicas e de gerenciamento. 
+Sem tais informações, é impossível definir de forma precisa custos, riscos, análise realística do projeto ou 
+um cronograma. Como gestores do projeto, devemos nos reunir com as partes interessadas para definir 
+os objetivos e o escopo do produto.
+PRESSMAN, R. S.; MAXIM, B. R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH Ed., 2016 (adaptado).
+Suponha que um gerente de projetos é contratado para trabalhar em um dos módulos do sistema de 
+informação que será produzido para uma empresa e que outros módulos serão desenvolvidos de forma 
+simultânea por outras equipes. A direção da empresa informou que será necessário cortar 25% dos custos 
+inicialmente estimados, a fim de reduzir os gastos. 
+Considerando essa situação, para proceder, conforme o preconizado no texto, o gerente de projetos de 
+cada módulo deverá
+A	 iniciar o projeto da forma que foi concebido e procurar, ao longo do desenvolvimento, oportunidades 
+sistêmicas para redução de custos.
+B	 solicitar a cada membro da equipe que, com base nos requisitos de sua responsabilidade, faça uma 
+análise minuciosa e, assim, de forma consciente, corte 25% das tarefas sob sua incumbência.
+C	 analisar, em conjunto com a direção da empresa e com os demais gerentes de projetos, os requisitos 
+de forma geral e negociar quais poderão ser cortados e/ou postergados.
+D	reorganizar as equipes de desenvolvimento e substituir alguns funcionários por outros com 
+menor salário.
+E	 realizar atividades de conscientização da diretoria sobre a importância do desenvolvimento do 
+projeto e o grande impacto de mercado, propondo que os cortes de custos sejam realizados em 
+outros setores da empresa.
+Área livre

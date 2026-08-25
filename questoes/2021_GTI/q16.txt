@@ -1,0 +1,36 @@
+QUESTÃO 16	
+TEXTO I
+O desenvolvimento da Tecnologia da Informação desencadeou o crescimento exponencial do volume 
+de dados. Diante desse cenário, o desafio principal é identificar, ao longo do processo de tomada de 
+decisão estratégica, os dados com verdadeiro potencial de geração de valor à organização e, neste caso, 
+entende-se como geração de valor o potencial agregado em vantagem competitiva. Conseguinte, 
+a Ciência de Dados contribui para a consolidação do espaço significativo e importante para a 
+racionalização da tomada de decisão, ferramentas e filosofias inovadoras relativas ao Big Data espelham 
+a maneira de dirigir a organização.
+SILVA, R. S.; PALLETA, F. C. Big Data e a informação pública: suporte à tomada de decisão estratégica. 
+Revista Inteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (adaptado).
+TEXTO II
+A mente humana realiza tarefas complexas com um poder superior aos computadores, ou seja, 
+trata-se de um processo racional e lógico. Contudo, seus mecanismos de funcionamento são 
+incompreendidos. A tomada de decisão depende dos dados que a suportam, todavia, a qualidade 
+dos dados seja fundamental, não é condição suficiente. Outro fator de influência direta na tomada de 
+decisão, é a interpretação dos dados pela mente humana e seus processos cognitivos característicos.
+BAZERMAN, M. H.; MOORE, D. A. Processo Decisório. 8. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).
+Levando em consideração os textos apresentados, avalie as afirmações a seguir.
+I.	 Em um processo de tomada de decisão, quanto mais informação o gestor tiver, melhor serão suas 
+escolhas.
+II.	 As abordagens visuais são relevantes para compreensão de uma informação e, por consequência, 
+para a tomada de decisão. 
+III.	 O indivíduo analisa a informação para orientar a tomada de decisão a partir de seu próprio 
+conjunto de processos cognitivos, assim, a forma pela qual um dado é apresentado não influencia 
+a tomada de decisão.
+IV.	 A tomada de decisão pode ser prejudicada por vieses heurísticos, ou seja, por processos cognitivos 
+empregados em decisões não racionais, definidos como estratégias que ignoram parte da 
+informação a fim de tornar a escolha fácil e rápida.
+É correto apenas o que se afirma em
+A	 I e II.
+B	 II e IV.
+C	 III e IV.
+D	 I, II e III.
+E	 I, III e IV.
+Área livre

@@ -1,0 +1,60 @@
+{
+  "id_questao": "qd39",
+  "numero": 39,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    16,
+    17
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 64.48672485351562,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 0
+    },
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 294.59999999999997,
+      "y1": 70.52682495117188,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd39.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd39.txt",
+  "largura": 2302,
+  "altura": 3163,
+  "confianca": 0.98,
+  "texto_completo": "15\nCO\nÇÃO\nQUESTÃO 39 – DISCURSIVA\nQualquer expressão aritmética binária pode ser convertida em uma expressão totalmente\nparentizada, bastando reescrever cada subexpressão binária a q b como (a q b), em que q denota\num operador binário. Expressões nesse formato podem ser definidas por regras de uma gramática\nlivre de contexto, conforme apresentado a seguir. Nessa gramática, os símbolos não-terminais E,\nS, O e L representam expressões, subexpressões, operadores e literais, respectivamente, e os\ndemais símbolos das regras são terminais.\nE 6 ( S O S )\nS 6 L | E\nO 6 + | - | * | /\nL 6 a | b | c | d | e\nTendo como referência as informações acima, faça o que se pede a seguir.\nA Mostre que a expressão (a * (b / c)) pode ser obtida por derivações das regras acima. Para isso, desenhe a\nárvore de análise sintática correspondente.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 39 - A\nB Existem diferentes derivações para a expressão (((a + b) * c) + (d * e)). É correto, então, afirmar que a\ngramática acima é ambígua? Justifique sua resposta.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 39 - B\n1\n2\n3\n4\n5\n6\n7\n8",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 39,
+      "tipo": "DISCURSIVA",
+      "pagina": 16,
+      "x": 35.99909973144531,
+      "y": 76.48672485351562,
+      "x1": 185.15719604492188,
+      "y1": 87.52672576904297,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 39 – DISCURSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654291",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados",
+    "Teoria da Computação e Compiladores"
+  ]
+}

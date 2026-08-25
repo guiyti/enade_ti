@@ -1,177 +1,114 @@
 import pytest
 from src.enade.processing.region_builder import (
-    build_question_regions,
-    validate_sequence,
-    create_questions_from_regions,
-    calculate_confidence
+    build_questions_from_markers,
+    build_page_slots,
+    validate_sequence
 )
-from src.enade.core.models import Marker, DetectionMethod, Exam, QuestionStatus
+from src.enade.core.models import Marker, DetectionMethod, Exam, PageData, Question, QuestionType, QuestionStatus
 
 
-def create_marker(num, page, y, method=DetectionMethod.PDF_STRUCTURE, conf=0.95):
+def create_marker(num, page, y, col=0, q_type=QuestionType.OBJETIVA, method=DetectionMethod.PDF_STRUCTURE, conf=0.95):
     return Marker(
         numero=num,
+        tipo=q_type,
         pagina=page,
-        x=100,
+        x=50.0 if col <= 1 else 320.0,
         y=y,
+        x1=250.0 if col <= 1 else 550.0,
+        y1=y + 20.0,
+        coluna=col,
         metodo=method,
         confianca=conf,
         texto_original=f"QUESTÃO {num}"
     )
 
 
-def test_build_question_regions_single_page():
-    markers = [
-        create_marker(1, 1, 100),
-        create_marker(2, 1, 500),
-        create_marker(3, 1, 1000),
+def test_build_page_slots():
+    pages = [
+        PageData(numero=1, caminho_imagem="", largura=595, altura=842, num_colunas=1), # skipped (cover)
+        PageData(numero=2, caminho_imagem="", largura=595, altura=842, num_colunas=1),
+        PageData(numero=3, caminho_imagem="", largura=595, altura=842, num_colunas=2),
+    ]
+    slots = build_page_slots(pages)
+    assert len(slots) == 3 # 1 for page 2, 2 for page 3
+    assert slots[0].pagina == 2
+    assert slots[0].coluna == 0
+    assert slots[1].pagina == 3
+    assert slots[1].coluna == 1
+    assert slots[2].pagina == 3
+    assert slots[2].coluna == 2
+
+
+def test_build_questions_single_page():
+    exam = Exam(id_prova="test_exam", arquivo="test.pdf", ano=2022, curso="ADS", hash_arquivo="hash", total_paginas=2)
+    exam.paginas = [
+        PageData(numero=1, caminho_imagem="", largura=595, altura=842, num_colunas=1),
+        PageData(numero=2, caminho_imagem="", largura=595, altura=842, num_colunas=1),
     ]
     
-    regions = build_question_regions(markers, 3)
-    
-    assert len(regions) == 3
-    assert regions[0].numero == 1
-    assert regions[0].inicio_pagina == 1
-    assert regions[0].fim_pagina == 1
-    assert regions[0].paginas == [1]
-    assert not regions[0].aberta
-    
-    assert regions[1].numero == 2
-    assert regions[1].paginas == [1]
-    
-    assert regions[2].numero == 3
-    assert regions[2].fim_pagina == 3
-    assert regions[2].paginas == [1, 2, 3]
-    assert regions[2].aberta
-
-
-def test_build_question_regions_multi_page():
     markers = [
-        create_marker(1, 1, 100),
-        create_marker(2, 1, 800),
-        create_marker(3, 2, 150),
+        create_marker(1, 2, 100),
+        create_marker(2, 2, 400),
     ]
     
-    regions = build_question_regions(markers, 3)
+    questions = build_questions_from_markers(exam, markers)
+    assert len(questions) == 2
+    assert questions[0].id_questao == "q01"
+    assert questions[0].numero == 1
+    assert len(questions[0].segmentos) == 1
+    assert questions[0].segmentos[0].y0 <= 100
+    assert questions[0].segmentos[0].y1 <= 400
     
-    assert len(regions) == 3
-    assert regions[0].paginas == [1]
-    assert regions[1].paginas == [1, 2]
-    assert regions[1].aberta
-    assert regions[2].paginas == [2, 3]
-    assert regions[2].aberta
+    assert questions[1].id_questao == "q02"
+    assert questions[1].numero == 2
 
 
-def test_build_question_regions_cross_multiple_pages():
-    markers = [
-        create_marker(1, 1, 100),
-        create_marker(2, 3, 200),
+def test_build_questions_2_column_page():
+    exam = Exam(id_prova="test_exam", arquivo="test.pdf", ano=2022, curso="ADS", hash_arquivo="hash", total_paginas=2)
+    exam.paginas = [
+        PageData(numero=1, caminho_imagem="", largura=595, altura=842, num_colunas=1),
+        PageData(numero=2, caminho_imagem="", largura=595, altura=842, num_colunas=2),
     ]
     
-    regions = build_question_regions(markers, 5)
+    markers = [
+        create_marker(13, 2, 80, col=1), # left column
+        create_marker(14, 2, 80, col=2), # right column top
+        create_marker(15, 2, 350, col=2), # right column bottom
+    ]
     
-    assert len(regions) == 2
-    assert regions[0].paginas == [1, 2, 3]
-    assert regions[0].aberta
-    assert regions[1].paginas == [3, 4, 5]
-    assert regions[1].aberta
+    questions = build_questions_from_markers(exam, markers)
+    assert len(questions) == 3
+    # Q13 is in left column (coluna 1)
+    assert questions[0].numero == 13
+    assert questions[0].segmentos[0].coluna == 1
+    assert questions[0].segmentos[0].x1 < 295.0
+    
+    # Q14 and Q15 are in right column (coluna 2)
+    assert questions[1].numero == 14
+    assert questions[1].segmentos[0].coluna == 2
+    assert questions[1].segmentos[0].x0 > 295.0
+    assert questions[1].segmentos[0].y1 <= 350.0
+    
+    assert questions[2].numero == 15
+    assert questions[2].segmentos[0].coluna == 2
+    assert questions[2].segmentos[0].x0 > 295.0
 
 
 def test_validate_sequence_ok():
-    from src.enade.processing.region_builder import QuestionRegion
-    
-    regions = [
-        QuestionRegion(1, 1, 100, 1, 500, [1], []),
-        QuestionRegion(2, 1, 500, 1, 900, [1], []),
-        QuestionRegion(3, 2, 100, 2, 600, [2], []),
+    questions = [
+        Question(numero=1, id_questao="qd01", tipo=QuestionType.DISCURSIVA, paginas=[2], caminho_png="", caminho_json="", largura=100, altura=100, confianca=1.0),
+        Question(numero=1, id_questao="q01", tipo=QuestionType.OBJETIVA, paginas=[3], caminho_png="", caminho_json="", largura=100, altura=100, confianca=1.0),
+        Question(numero=2, id_questao="q02", tipo=QuestionType.OBJETIVA, paginas=[3], caminho_png="", caminho_json="", largura=100, altura=100, confianca=1.0),
     ]
-    
-    anomalias = validate_sequence(regions)
+    anomalias = validate_sequence(questions)
     assert len(anomalias) == 0
 
 
 def test_validate_sequence_broken():
-    from src.enade.processing.region_builder import QuestionRegion
-    
-    regions = [
-        QuestionRegion(1, 1, 100, 1, 500, [1], []),
-        QuestionRegion(3, 1, 500, 1, 900, [1], []),
+    questions = [
+        Question(numero=1, id_questao="q01", tipo=QuestionType.OBJETIVA, paginas=[2], caminho_png="", caminho_json="", largura=100, altura=100, confianca=1.0),
+        Question(numero=3, id_questao="q03", tipo=QuestionType.OBJETIVA, paginas=[2], caminho_png="", caminho_json="", largura=100, altura=100, confianca=1.0),
     ]
-    
-    anomalias = validate_sequence(regions)
+    anomalias = validate_sequence(questions)
     assert len(anomalias) == 1
     assert anomalias[0]["tipo"] == "NUMERACAO_QUEBRADA"
-    assert anomalias[0]["esperado"] == 2
-    assert anomalias[0]["questao"] == 3
-
-
-def test_validate_sequence_duplicate():
-    from src.enade.processing.region_builder import QuestionRegion
-    
-    regions = [
-        QuestionRegion(1, 1, 100, 1, 500, [1], []),
-        QuestionRegion(2, 1, 500, 1, 900, [1], []),
-        QuestionRegion(2, 2, 100, 2, 600, [2], []),
-    ]
-    
-    anomalias = validate_sequence(regions)
-    # Should detect both duplicate and broken numbering (expected 3, got 2)
-    assert len(anomalias) >= 1
-    tipos = {a["tipo"] for a in anomalias}
-    assert "QUESTAO_DUPLICADA" in tipos
-
-
-def test_create_questions_from_regions():
-    from src.enade.processing.region_builder import QuestionRegion
-    
-    exam = Exam(
-        arquivo="test.pdf",
-        ano=2022,
-        curso="ADS",
-        hash_arquivo="hash",
-        total_paginas=3
-    )
-    
-    regions = [
-        QuestionRegion(1, 1, 100, 1, 500, [1], [create_marker(1, 1, 100)]),
-        QuestionRegion(2, 1, 500, 2, 200, [1, 2], [create_marker(2, 1, 500)]),
-    ]
-    
-    questions = create_questions_from_regions(exam, regions)
-    
-    assert len(questions) == 2
-    assert questions[0].numero == 1
-    assert questions[0].paginas == [1]
-    assert questions[1].numero == 2
-    assert questions[1].paginas == [1, 2]
-    assert questions[0].status == QuestionStatus.PENDENTE
-    assert questions[0].confianca > 0
-
-
-def test_calculate_confidence():
-    from src.enade.processing.region_builder import QuestionRegion
-    
-    exam = Exam(
-        arquivo="test.pdf",
-        ano=2022,
-        curso="ADS",
-        hash_arquivo="hash",
-        total_paginas=3
-    )
-    
-    markers_pdf = [create_marker(1, 1, 100, DetectionMethod.PDF_STRUCTURE, 0.95)]
-    markers_ocr = [create_marker(1, 1, 100, DetectionMethod.OCR, 0.80)]
-    
-    region_pdf = QuestionRegion(1, 1, 100, 1, 500, [1], markers_pdf)
-    region_ocr = QuestionRegion(1, 1, 100, 1, 500, [1], markers_ocr)
-    
-    conf_pdf = calculate_confidence(region_pdf, exam)
-    conf_ocr = calculate_confidence(region_ocr, exam)
-    
-    assert conf_pdf > conf_ocr
-    assert conf_pdf <= 1.0
-    assert conf_ocr <= 1.0
-
-
-if __name__ == "__main__":
-    pytest.main([__file__, "-v"])

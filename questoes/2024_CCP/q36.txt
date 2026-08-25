@@ -1,0 +1,10 @@
+QUESTÃO 36	
+A abordagem Gamificada de Competição Controlada é aquela que os estudantes
+A	 participam de desafios progressivos envolvendo lógica e algoritmos, com pontuação por tempo e precisão; os resultados 
+são exibidos em um placar digital, com recompensas simbólicas aos melhores desempenhos.
+B	 desenvolvem vídeos explicativos sobre os conceitos de lógica e algoritmos estudados em aula; os vídeos passam por uma 
+votação entre os próprios estudantes, avaliando clareza e originalidade e o resultado é divulgado em um mural virtual.
+C	 recebem um estudo de caso que simula uma competição entre duas startups para automatizar a irrigação de plantações; em 
+grupos, propõem soluções usando fluxogramas para representar a lógica algorítmica e receber feedback comparativo do professor.
+D	 fazem um brainstorming para reconhecer problemas reais que sejam computacionalmente solucionáveis; em duplas, utilizam 
+ferramentas on-line para implementar e testar soluções para os problemas identificados, com feedback do professor ao final.

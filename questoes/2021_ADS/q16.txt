@@ -1,0 +1,47 @@
+QUESTÃO 16	
+Uma ONG decidiu construir um hospital de campanha para tratamento de pacientes diagnosticados 
+com a Covid-19. Para auxiliar na gerência hospitalar, a ONG contratou alguns programadores voluntários 
+para desenvolver um Sistema de Suporte à Decisão para Gestão Hospitalar. Esse sistema irá auxiliar no 
+registro de todos os procedimentos diários realizados no paciente que dá entrada no hospital, desde sua 
+internação até a saída, seja essa saída por recebimento de alta, por transferência ou óbito. O sistema foi 
+todo desenvolvido em Java de acordo com o Paradigma Orientado a Objetos. Durante o curto processo de 
+análise, devido à urgência, foram construídos diversos diagramas em UML (Unified Modeling Language). 
+Um desses diagramas relaciona a interação entre os objetos do sistema, o Diagrama de Sequência. 
+Esse diagrama é apresentado a seguir.
+Considerando o Diagrama de Sequência apresentado, assinale a opção correta.
+A	 Leito é uma subclasse de UTI.
+B	 O método registraPaciente() é implementado por Paciente.
+C	 Todos os objetos foram criados no instante de execução do Caso de Uso representado.
+D	 O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.
+E	 A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação 
+correta do Diagrama de Sequência representado.
+Área livre
+3: Consulta existência 
+de leitos : 
+consultaLeitos()
+1: Registro do 
+Paciente:
+registraPaciente()
+4: Consulta 
+disponibilidade de UTI :
+consultaUTI()
+UTI
+Intervencao
+Leito
+Registro
+Paciente
+5: UTI gerada
+6: Leito Gerado
+2: Retorna o número
+do paciente.
+7: Realiza Intervenção : realizaIntervencao()
+10: Intervenção Realizada
+11: Liberação do
+Paciente:
+liberaPaciente()
+12: Libera Leito
+8: realizaIntervencao()
+9: Intervenção
+Realizada
+Laço
+Proﬁssional

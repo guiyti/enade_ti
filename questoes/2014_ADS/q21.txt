@@ -1,0 +1,50 @@
+9
+EsK>s/DEEdK DE ^/^dED ^
+QUESTÃO 21
+K  ŵŽĚĞůŽ  ůſŐŝĐŽ  ĚĞ  ĚĂĚŽƐ  ĨŽƌŶĞĐĞ  ƵŵĂ  ǀŝƐĆŽ  ĚĂ 
+ŵĂŶĞŝƌĂ ĐŽŵŽ ŽƐ ĚĂĚŽƐ ƐĞƌĆŽ ĂƌŵĂǌĞŶĂĚŽƐ͘    ĮŐƵƌĂ 
+Ă ƐĞŐƵŝƌ ƌĞƉƌĞƐĞŶƚĂ Ž ŵŽĚĞůŽ ůſŐŝĐŽ ĚĞ Ƶŵ ĂŵďŝĞŶƚĞ 
+ŽďƐĞƌǀĂĚŽ Ğŵ Ƶŵ ĞƐĐƌŝƚſƌŝŽ ĐŽŶƚĄďŝů͘
+CPF INT
+nome VARCHAR(45)
+Malha Fina_Identificador INT
+Contribuinte_CPF INT
+valor INT
+quantidade de prestacoes INT
+endereco VARCHAR(60)
+telefone VARCHAR(15)
+Identificador INT
+ano exercicio DATE
+Contribuinte
+Contribuinte_Malha Fina
+Malha fina
+Indexes
+Contribuinte_CPF INT
+ano exercicio DATE
+ano base DATE 
+valor INT
+restituicao ou pagamento BOOLEAN
+Declaração Imposto de Renda
+Indexes
+Indexes
+Indexes
+Eŵ ƌĞůĂĕĆŽ ĂŽ ŵŽĚĞůŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
+/͘     ĞŶƟĚĂĚĞ Declaração Imposto de Renda Ġ 
+ƵŵĂ ĞŶƟĚĂĚĞ ĨƌĂĐĂ͘
+//͘   K ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ĞŶƚƌĞ Contribuinte e Malha
+Fina Ġ ĚŽ ƟƉŽ E͗ D ;ŵƵŝƚŽƐ ƉĂƌĂ ŵƵŝƚŽƐͿ͘
+///͘   K  ĂƚƌŝďƵƚŽ  CPF  ĚĂ  ĞŶƟĚĂĚĞ  Contribuinte
+ƚĞŵ  Ă  ĨƵŶĕĆŽ  ĚĞ  ĐŚĂǀĞ  ĞƐƚƌĂŶŐĞŝƌĂ  ŶĂ 
+ĞŶƟĚĂĚĞ Declaração Imposto de Renda Ğ ŶŽ 
+ƌĞůĂĐŝŽŶĂŵĞŶƚŽ Contribuinte_MalhaFina.
+/s͘      ĞŶƟĚĂĚĞ  Malha Fina  ŶĆŽ  ƉŽƐƐƵŝ  ĐŚĂǀĞ 
+ƉƌŝŵĄƌŝĂ ƐŽŵĞŶƚĞ ĐŚĂǀĞ ĞƐƚƌĂŶŐĞŝƌĂ͘
+V. K ƌĞůĂĐŝŽŶĂŵĞŶƚŽ Contribuinte_MalhaFina Ġ 
+Ƶŵ ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ƚĞƌŶĄƌŝŽ͘
+ ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
+A /͕  // Ğ ///͘
+B /͕  // Ğ /s͘
+C /͕  /s Ğ s͘
+D //͕  /// Ğ s͘
+E ///͕  /s Ğ s͘
+*R40201419*

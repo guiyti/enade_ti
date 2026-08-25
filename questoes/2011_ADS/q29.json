@@ -1,0 +1,50 @@
+{
+  "id_questao": "q29",
+  "numero": 29,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    16
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 287.28,
+      "y1": 432.8739013671875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q29.txt",
+  "largura": 1123,
+  "altura": 1599,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 29  \nA pilha é uma estrutura de dados que permite a inserção/\nremoção de itens dinamicamente seguindo a norma de \núltimo a entrar, primeiro a sair. Suponha que para uma \nestrutura de dados, tipo pilha, são definidos os comandos:\n• \nPUSH (p, n): Empilha um número “n” em uma estrutura \nde dados do tipo pilha “p”;\n• \nPOP (p): Desempilha o elemento no topo da pilha.\nConsidere que, em uma estrutura de dados tipo pilha “p”, \ninicialmente vazia, sejam executados os seguintes comandos:\n            PUSH (p, 10)\n            PUSH (p, 5)\n            PUSH (p, 3)\n            PUSH (p, 40)\n            POP (p)\n            PUSH (p, 11)\n            PUSH (p, 4)\n            PUSH (p, 7)\n            POP (p)\n            POP (p)\nApós a execução dos comandos, o elemento no topo da \npilha “p” e a soma dos elementos armazenados na pilha \n“p” são, respectivamente,\nA   11 e 29.\nB   11 e 80.\nC   4 e  80.\nD   7 e 29.\nE   7 e 40.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 103.25318908691406,
+      "y1": 82.03392791748047,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:22.373515",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

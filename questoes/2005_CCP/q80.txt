@@ -1,0 +1,12 @@
+E Todos os itens estão certos.
+QUESTÃO 80
+Que cadeia é reconhecida pelo
+autômato 
+representado 
+pelo
+diagrama de estados ao lado?
+A 101010
+B 111011000
+C 11111000
+D 10100
+E 00110011

@@ -1,0 +1,51 @@
+{
+  "id_questao": "q15",
+  "numero": 15,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    9
+  ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 389.7156066894531,
+      "x1": 295.08,
+      "y1": 575.0956420898438,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q15.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q15.txt",
+  "largura": 1155,
+  "altura": 802,
+  "confianca": 0.98,
+  "texto_completo": "E M  (c  1)  M  f.\nQUESTÃO 15\nConsidere o algoritmo que implementa o seguinte processo: uma\ncoleção desordenada de elementos é dividida em duas metades e\ncada metade é utilizada como argumento para a reaplicação\nrecursiva do procedimento. Os resultados das duas reaplicações\nsão, então, combinados pela intercalação dos elementos de ambas,\nresultando em uma coleção ordenada. Qual é a complexidade desse\nalgoritmo?\nA O(n )\n2\nB O(n )\n2n\nC O(2 )\nn\nD O(log n × log n)\nE O(n × log n)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 42.720001220703125,
+      "y": 401.7156066894531,
+      "x1": 89.14800262451172,
+      "y1": 407.7156066894531,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 15"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913068",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

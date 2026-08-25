@@ -1,0 +1,257 @@
+E pa tes
+te essadas
+QUESTÃO 15	
+Uma fundação municipal de arte e cultura oferece cursos para crianças e adolescentes de até 16 anos. 
+Os registros de matrículas são realizados em uma planilha eletrônica ilustrada a seguir, o que dificulta bastante 
+o controle dos dados frente ao número expressivo de estudantes, muitos dos quais solicitam matrícula em mais 
+de um curso. A administração da fundação, então, solicitou o desenvolvimento de um programa para facilitar 
+o registro e a consulta desses dados, incluindo-se a data de efetivação de cada matrícula, para fins de controles 
+específicos da secretaria.
+NÚMERO
+NOME 
+ESTUDANTE
+DATA 
+NASC.
+NOME 
+RESPONSÁVEL
+CONTATOS
+CURSO
+HORÁRIO
+PROFESSOR(A)
+10
+Ada Lovelace
+10/12/2009
+Charles 
+Babbage
+(99)99999-0101
+charles@
+babbage.com
+Violão Básico
+Desenho
+9h - 10h 
+(ter - qui)
+10h - 11h 
+(seg - qua)
+Dennis Ritchie
+John Backus
+11
+Ole-Johan 
+Dahl
+12/10/2008
+Kristen Nygaard -
+Desenho
+9h - 10h
+(seg - qua)
+Mary Keller
+12
+Grace Hopper 09/12/2010
+Howard Aiken
+(99)99999-0091
+(99)99999-0095 Balé
+8h - 10h (sex) Hedy Lamarr
+13
+Alan Turing
+23/06/2009
+Joan Clarke
+(99)99999-0231 Desenho
+Violão Básico
+9h - 10h 
+(seg - qua)
+9h - 10h 
+(ter - qui)
+Mary Keller
+Dennis Ritchie
+14
+Dorothy 
+Vaughan
+20/09/2009
+Katherine 
+Johnson
+(99)99999-0201 Balé
+8h - 10h (sex) Hedy Lamarr
+...
+...
+...
+...
+...
+...
+...
+...
+A equipe de desenvolvimento de softwares da prefeitura, após uma breve entrevista com a administração 
+da fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da 
+especificação dos requisitos do sistema.
+
+Considerando o cenário descrito, assinale a opção 
+corretamente pela equipe de desenvolvimento.
+A
+Contato
+- descricao : String
+- numero : int
+Estudante
+- nascimento : Date
+Responsavel
+Pessoa
+- nome : String
+Matricu
+- data : D
+0..*
+0..*
+1..*
+1
+1
+B
+Contato
+- descricao : String
+- numero : int
+Estudante
+- nascimento : Date
+Responsavel
+Pessoa
+- nome : String
+Matri
+- data :
+0..*
+0..*
+1..*
+1
+1
+C
+Contato
+- descricao : String
+- numero : int
+Estudante
+- nascimento : Date
+Responsavel
+Pessoa
+- nome : String
+Matri
+- data :
+1..*
+0..*
+1..*
+1
+1
+D
+Contato
+- descricao : String
+- numero : int
+Estudante
+- nascimento : Date
+Responsavel
+Pessoa
+- nome : String
+Matri
+- data :
+1..*
+0..*
+1..*
+1
+1
+E
+Contato
+- descricao : String
+- numero : int
+Estudante
+- nascimento : Date
+Responsavel
+Pessoa
+- nome : String
+Matricu
+- data : D
+0..*
+0..*
+1..*
+1
+1
+
+seguir que exibe o Diagrama de Classes modelado 
+- dia : String
+- horaInicio : Date
+- horaFim : Date
+Horario
+Professor
+Curso
+- nome : String
+Turma
+- id : int
+a
+te
+0..*
+0..*
+1..*
+1..*
+1
+1
+1
+- dia : String
+- horaInicio : Date
+- horaFim : Date
+Horario
+Professor
+Curso
+- nome : String
+Turma
+- id : int
+ula
+Date
+0..*
+0..*
+1..*
+1..*
+1
+1
+1
+- dia : String
+- horaInicio : Date
+- horaFim : Date
+Horario
+Professor
+Curso
+- nome : String
+Turma
+- id : int
+ula
+Date
+0..*
+0..*
+1..*
+1
+1
+1
+1
+- dia : String
+- horaInicio : Date
+- horaFim : Date
+Horario
+Professor
+Curso
+- nome : String
+Turma
+- id : int
+ula
+Date
+0..*
+0..*
+1
+1
+1
+1
+1
+- dia : String
+- horaInicio : Date
+- horaFim : Date
+Horario
+Professor
+Curso
+- nome : String
+Turma
+- id : int
+a
+te
+0..*
+0..*
+1..*
+1..*
+1
+1
+1

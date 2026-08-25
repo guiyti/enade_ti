@@ -1,0 +1,50 @@
+{
+  "id_questao": "q73",
+  "numero": 73,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 301.08,
+      "y0": 66.19558715820312,
+      "x1": 571.16,
+      "y1": 574.015625,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q73.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q73.txt",
+  "largura": 1156,
+  "altura": 2147,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 73\nConsidere o seguinte script SQL de criação de um banco de\ndados.\nCREATE TABLE PECAS (CODIGO NUMERIC(5) NOT NULL,\n DESCRICAO VARCHAR(20) NOT NULL,\n ESTOQUE NUMERIC(5) NOT NULL,\n PRIMARY KEY(CODIGO));\nCREATE TABLE FORNECEDORES\n(COD_FORN NUMERIC(3) NOT NULL,\n NOME VARCHAR(30) NOT NULL,\n PRIMARY KEY(COD_FORN));\nCREATE TABLE FORNECIMENTOS\n(COD_PECA NUMERIC(5) NOT NULL,\n COD_FORN NUMERIC(3) NOT NULL,\n QUANTIDADE NUMERIC(4) NOT NULL,\n PRIMARY KEY(COD_PECA, COD_FORN),\n FOREIGN KEY (COD_PECA) REFERENCES PECAS,\n FOREIGN KEY (COD_FORN) REFERENCES\n FORNECEDORES);\nA partir desse script, assinale a opção que apresenta comando\nSQL que permite obter uma lista que contenha o nome de cada\nfornecedor que tenha fornecido alguma peça, o código da peça\nfornecida, a descrição dessa peça e a quantidade fornecida da\nreferida peça.\nA SELECT * FROM PECAS, FORNECEDORES,\nFORNECIMENTOS;\nB SELECT * FROM PECAS, FORNECEDORES,\nFORNECIMENTOS WHERE PECAS.CODIGO =\nFORNECIMENTOS.COD_PECA AND\nFORNECEDORES.COD_FORN =\nFORNECIMENTOS.COD_FORN;\nC SELECT NOME, CODIGO, DESCRICAO, QUANTIDADE\nFROM PECAS, FORNECEDORES, FORNECIMENTOS;\nD SELECT NOME, CODIGO, DESCRICAO, QUANTIDADE\nFROM PECAS, FORNECEDORES, FORNECIMENTOS\nWHERE PECAS.CODIGO = FORNECIMENTOS.COD_PECA\nAND FORNECEDORES.COD_FORN =\nFORNECIMENTOS.COD_FORN;\nE SELECT DISTINCT NOME, CODIGO, DESCRICAO,\nQUANTIDADE \nFROM PECAS, FORNECEDORES, FORNECIMENTOS\nWHERE CODIGO = COD_PECA;",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 73,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 308.5799865722656,
+      "y": 78.19558715820312,
+      "x1": 355.00799560546875,
+      "y1": 84.19558715820312,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 73"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913253",
+  "categorias": [
+    "Banco de Dados"
+  ]
+}

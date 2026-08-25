@@ -1,0 +1,27 @@
+QUESTÃO 24	
+Em razão da Covid-19, muitos estabelecimentos viram no delivery uma forma de manter os negócios 
+funcionando. As mudanças de hábitos dos brasileiros revelaram um aumento do interesse nesse tipo 
+de serviço.
+Nesse contexto, um restaurante solicitou o desenvolvimento de um sistema web que possibilite 
+gerenciar automaticamente os pedidos de entrega. O sistema foi projetado com base em tecnologias 
+web e modelado com UML (Unified Modeling Language). Durante o processo de desenvolvimento 
+foram descritos alguns itens importantes que merecem atenção no processo de teste de software.
+Considerem as seguintes descrições definidas pelo analista de teste:
+01 – Verificar se o método “Finalizar Pedido” da classe “Pedido” está funcionando corretamente.
+02 – Garantir que o sistema funcione corretamente em diferentes navegadores de internet.
+03 – O sistema deve passar por testes rigorosos na estrutura lógica interna do software.
+04 – O sistema deve garantir, no mínimo, o registro de 100 pedidos simultâneos.
+05 – O usuário deve testar o sistema em um ambiente controlado sob a supervisão dos desenvolvedores.
+Considerando o texto e as descrições apresentadas, avalie as afirmações a seguir.
+I.	 A descrição 01 deve ser verificada com teste unitário.
+II.	 A descrição 02 deve ser executada com a abordagem caixa-branca.
+III.	 A descrição 03 deve ser executada com a abordagem caixa-preta.
+IV.	 A descrição 04 deve ser verificada com teste carga.
+V.	 A descrição 05 deve ser classificada como teste alfa.
+É correto apenas o que se afirma em
+A	 II e III.
+B	 I, II e IV.
+C	 I, III e V.
+D	 I, IV e V.
+E	 II, III, IV e V.
+Área livre

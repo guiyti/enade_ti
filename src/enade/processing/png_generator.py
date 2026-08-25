@@ -1,109 +1,195 @@
 import cv2
 import numpy as np
+import fitz
+import json
 from pathlib import Path
-from typing import List
-from PIL import Image
+from typing import List, Tuple, Optional
+from PIL import Image, ImageOps
 
-from ..core.models import Exam, Question, PageData
+from ..core.models import Exam, Question, PageData, Segment
 from ..utils.logging import get_logger
 from ..config import config
+from .structural_extractor import decode_enade_str
 
 logger = get_logger(__name__)
 
 
-def extract_question_image(exam: Exam, question: Question) -> Question:
-    page_images = []
+def crop_segment_image(
+    page_img: np.ndarray, 
+    segment: Segment, 
+    pdf_page_rect: fitz.Rect
+) -> np.ndarray:
+    """
+    Crops a rectangular segment from a rendered page image.
+    Uses exact scaling between PDF point coordinates and pixel dimensions.
+    """
+    img_h, img_w = page_img.shape[:2]
+    scale_x = img_w / pdf_page_rect.width
+    scale_y = img_h / pdf_page_rect.height
     
-    for page_num in question.paginas:
-        page_data = next((p for p in exam.paginas if p.numero == page_num), None)
-        if not page_data:
-            logger.warning(f"Página {page_num} não encontrada para questão {question.numero}")
-            continue
-        
-        img = cv2.imread(page_data.caminho_imagem)
-        if img is None:
-            logger.error(f"Não foi possível carregar imagem: {page_data.caminho_imagem}")
-            continue
-        
-        page_images.append((page_num, img, page_data))
+    px0 = max(0, int(segment.x0 * scale_x))
+    py0 = max(0, int(segment.y0 * scale_y))
+    px1 = min(img_w, int(segment.x1 * scale_x))
+    py1 = min(img_h, int(segment.y1 * scale_y))
     
-    if not page_images:
-        raise ValueError(f"Nenhuma imagem válida para questão {question.numero}")
+    if py1 <= py0 + 10 or px1 <= px0 + 10:
+        # Avoid zero or invalid crops
+        return np.ones((50, 50, 3), dtype=np.uint8) * 255
     
-    if len(page_images) == 1:
-        _, img, page_data = page_images[0]
-        question.largura = img.shape[1]
-        question.altura = img.shape[0]
-    else:
-        widths = [img.shape[1] for _, img, _ in page_images]
-        heights = [img.shape[0] for _, img, _ in page_images]
-        question.largura = max(widths)
-        question.altura = sum(heights)
-    
-    output_dir = config.QUESTOES_DIR / str(exam.ano)
-    output_dir.mkdir(parents=True, exist_ok=True)
-    
-    png_filename = f"q{question.numero:02d}.png"
-    png_path = output_dir / png_filename
-    
-    if len(page_images) == 1:
-        _, img, _ = page_images[0]
-        cv2.imwrite(str(png_path), img, [cv2.IMWRITE_PNG_COMPRESSION, 1])
-    else:
-        combined = combine_pages_vertically(page_images)
-        cv2.imwrite(str(png_path), combined, [cv2.IMWRITE_PNG_COMPRESSION, 1])
-    
-    question.caminho_png = str(png_path)
-    logger.info(f"PNG gerado: {png_path.name} ({question.largura}x{question.altura})")
-    
-    return question
+    cropped = page_img[py0:py1, px0:px1]
+    return cropped
 
 
-def combine_pages_vertically(page_images: List[tuple]) -> np.ndarray:
-    max_width = max(img.shape[1] for _, img, _ in page_images)
-    total_height = sum(img.shape[0] for _, img, _ in page_images)
+def combine_segments_vertically(segment_images: List[np.ndarray], gap_px: int = 15) -> np.ndarray:
+    """
+    Combines cropped segments vertically onto a clean white canvas.
+    Centers segments horizontally if widths vary.
+    """
+    if not segment_images:
+        return np.ones((100, 100, 3), dtype=np.uint8) * 255
     
-    combined = np.ones((total_height, max_width, 3), dtype=np.uint8) * 255
+    if len(segment_images) == 1:
+        img = segment_images[0]
+        # Add 15px white border around the image
+        return cv2.copyMakeBorder(img, 15, 15, 15, 15, cv2.BORDER_CONSTANT, value=(255, 255, 255))
     
-    y_offset = 0
-    for page_num, img, page_data in page_images:
+    max_w = max(img.shape[1] for img in segment_images)
+    total_h = sum(img.shape[0] for img in segment_images) + gap_px * (len(segment_images) - 1) + 30
+    
+    combined = np.ones((total_h, max_w + 30, 3), dtype=np.uint8) * 255
+    
+    y_offset = 15
+    for img in segment_images:
         h, w = img.shape[:2]
+        x_offset = 15 + (max_w - w) // 2
+        combined[y_offset:y_offset + h, x_offset:x_offset + w] = img
+        y_offset += h + gap_px
         
-        if w < max_width:
-            padding = max_width - w
-            left_pad = padding // 2
-            right_pad = padding - left_pad
-            img = cv2.copyMakeBorder(img, 0, 0, left_pad, right_pad, cv2.BORDER_CONSTANT, value=(255, 255, 255))
-        
-        combined[y_offset:y_offset + h, :] = img
-        y_offset += h
-    
     return combined
 
 
-def save_question_metadata(question: Question, exam: Exam) -> Question:
-    output_dir = config.QUESTOES_DIR / str(exam.ano)
+def extract_question_text_and_figures(
+    doc: fitz.Document, 
+    question: Question, 
+    figures_dir: Path
+) -> Tuple[str, List[str]]:
+    """
+    Extracts text inside the question's segment bounding boxes and exports any embedded raster figures.
+    """
+    text_parts = []
+    figure_paths = []
+    fig_count = 0
+    
+    for seg in question.segmentos:
+        if seg.pagina <= 0 or seg.pagina > doc.page_count:
+            continue
+            
+        page = doc[seg.pagina - 1]
+        clip_rect = fitz.Rect(seg.x0, seg.y0, seg.x1, seg.y1)
+        
+        # Extract clipped text
+        raw_text = page.get_text("text", clip=clip_rect)
+        decoded = decode_enade_str(raw_text).strip()
+        if decoded:
+            text_parts.append(decoded)
+        
+        # Check for raster images in this segment
+        try:
+            img_list = page.get_images()
+            for img_info in img_list:
+                xref = img_info[0]
+                # Check if image bbox intersects with segment
+                img_rects = page.get_image_rects(xref)
+                for r in img_rects:
+                    if clip_rect.intersects(r):
+                        fig_count += 1
+                        base_img = doc.extract_image(xref)
+                        ext = base_img.get("ext", "png")
+                        fig_name = f"{question.id_questao}_fig{fig_count}.{ext}"
+                        fig_file = figures_dir / fig_name
+                        figures_dir.mkdir(parents=True, exist_ok=True)
+                        with open(fig_file, "wb") as f:
+                            f.write(base_img["image"])
+                        figure_paths.append(str(fig_file))
+                        break
+        except Exception:
+            pass
+            
+    full_text = "\n\n".join(text_parts)
+    return full_text, figure_paths
+
+
+def extract_and_save_question(
+    exam: Exam, 
+    question: Question, 
+    doc: fitz.Document
+) -> Question:
+    output_dir = config.QUESTOES_DIR / exam.id_prova
+    figures_dir = output_dir / "figuras"
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    json_filename = f"q{question.numero:02d}.json"
-    json_path = output_dir / json_filename
+    segment_images = []
     
-    import json
+    for seg in question.segmentos:
+        page_data = next((p for p in exam.paginas if p.numero == seg.pagina), None)
+        if not page_data or not Path(page_data.caminho_imagem).exists():
+            continue
+            
+        page_img = cv2.imread(page_data.caminho_imagem)
+        if page_img is None:
+            continue
+            
+        pdf_page = doc[seg.pagina - 1]
+        cropped = crop_segment_image(page_img, seg, pdf_page.rect)
+        segment_images.append(cropped)
+    
+    if not segment_images:
+        logger.warning(f"Nenhum segmento válido para {question.id_questao}")
+        return question
+    
+    final_img = combine_segments_vertically(segment_images)
+    h, w = final_img.shape[:2]
+    
+    question.largura = w
+    question.altura = h
+    
+    png_path = output_dir / f"{question.id_questao}.png"
+    cv2.imwrite(str(png_path), final_img, [cv2.IMWRITE_PNG_COMPRESSION, 1])
+    question.caminho_png = str(png_path)
+    
+    # Extract text & embedded figures
+    text, figures = extract_question_text_and_figures(doc, question, figures_dir)
+    question.texto_completo = text
+    question.figuras = figures
+    
+    txt_path = output_dir / f"{question.id_questao}.txt"
+    with open(txt_path, "w", encoding="utf-8") as f:
+        f.write(text)
+    question.caminho_txt = str(txt_path)
+    
+    json_path = output_dir / f"{question.id_questao}.json"
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(question.to_dict(), f, ensure_ascii=False, indent=2)
-    
     question.caminho_json = str(json_path)
+    
+    logger.info(f"Questão {question.id_questao} gerada: {w}x{h}px | Texto: {len(text)} chars | Figuras: {len(figures)}")
     return question
 
 
 def generate_all_question_pngs(exam: Exam) -> Exam:
+    pdf_path = config.PROVAS_DIR / exam.arquivo
+    doc = fitz.open(pdf_path)
+    
+    exam.questoes_extraidas = 0
+    
     for question in exam.questoes:
         try:
-            question = extract_question_image(exam, question)
-            question = save_question_metadata(question, exam)
-            exam.questoes_extraidas += 1
+            question = extract_and_save_question(exam, question, doc)
+            if question.largura > 0 and question.altura > 0:
+                exam.questoes_extraidas += 1
         except Exception as e:
-            logger.error(f"Erro ao gerar PNG para questão {question.numero}: {e}")
-            question.anomalias.append(f"ERRO_GERACAO_PNG: {str(e)}")
-    
+            logger.error(f"Erro ao gerar questão {question.id_questao}: {e}", exc_info=True)
+            question.anomalias.append(f"ERRO_GERACAO: {str(e)}")
+            
+    doc.close()
     return exam

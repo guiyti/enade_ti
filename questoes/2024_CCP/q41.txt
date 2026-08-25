@@ -1,0 +1,28 @@
+PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025
+23
+COMPUTAÇÃO
+ç
+,
+ç
+QUESTÃO 41	
+No tema bancos de dados relacionais, as metodologias ativas podem favorecer abordagens pedagógicas para ensinar tanto 
+os fundamentos da modelagem de dados e da teoria relacional, quanto habilidades práticas, como a criação de diagramas 
+entidade-relacionamento e a elaboração de consultas em SQL. Em bancos de dados orientados a objetos, atividades práticas 
+colaborativas podem ser propostas para exercitar o armazenamento de informações, de acordo com os princípios do paradigma 
+de orientação a objetos.
+Os estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a 
+justificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?
+A	 Optamos por esse modelo porque ele utiliza chaves primárias e estrangeiras para estabelecer ligações entre diferentes estruturas.
+B	 Escolhemos esse modelo porque ele permite representar dados em estruturas que encapsulam atributos e comportamentos.
+C	 Decidimos por esse modelo porque suas estruturas oferecem facilidades em realizar operações como junção, intersecção e união.
+D	 Utilizamos esse modelo porque ele é ideal para normalizar dados e evitar redundâncias entre diferentes estruturas.
+Área livre
+
+2025
+Texto para questões 42 e 43
+Uma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da 
+conectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição 
+possui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e 
+nenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture 
+a rede da escola para testar diferentes configurações.
+*R0404202524*

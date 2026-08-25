@@ -1,0 +1,50 @@
+{
+  "id_questao": "q04",
+  "numero": 4,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    9
+  ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q04.txt",
+  "largura": 2185,
+  "altura": 2823,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 04  \n Além do contexto econômico, o avanço da tecnologia também é um dos responsáveis pelo aumento dos \ntrabalhadores informais. E a tendência de contratação de  freelancers por meio de plataformas digitais,\ncomo aplicati vos de  delivery e de mobilidade urbana, ganhou até um nome:  Gig Economy , ou economia \ndos bicos. Para os gigantes de tecnologia detentores desses aplicati vos, os motoristas são trabalhadores \nautônomos, que não possuem vínculo empregatí cio. Além de não estarem sujeitos a nenhuma \nregulamentação e proteção legal, os profi ssionais que desenvolvem esse ti po de trabalho deixam de \ncontribuir para a Previdência Social e de possuir benefí cios como Fundo de Garanti a por Tempo de \nServiço (FGTS), férias e décimo terceiro salário. Não obstante, ainda arcam com todo o custo da ati vidade \nque exercem. Em uma reportagem que ouviu alguns desses trabalhadores, motoristas afi rmaram sofrer \ncom problemas de coluna e com o estresse no trânsito, além das longas jornadas de trabalho. Por esses \nmoti vos, a  Gig Economy está no centro de uma discussão mundial acerca da responsabilidade dessas \ncompanhias milionárias sobre as condições de trabalho da mão de obra que contratam. No meio do limbo \njurídico, quem sofre são os trabalhadores dessas plataformas, que fi cam duplamente desprotegidos ― \npelas empresas e pelo Estado.\n Disponível em: htt ps://exame.abril.com.br/carreira/quais-sao-as-consequencia-do-trabalho-informal-no-pais/. \nAcesso em: 18 abr. 2020 (adaptado).\n A parti r das informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI.  Trabalhadores autônomos informais que atuam em plataformas digitais sem qualquer vínculo \nempregatí cio, desprotegidos de regulamentação ou lei trabalhista, compõem a  Gig Economy .\n PORQUE\nII.  Os trabalhadores, na  Gig Economy , arcam com todos os custos necessários para desempenhar \no seu trabalho, ganham por produção e enfrentam longas jornadas diárias, o que os deixa mais \ndesgastados e com problemas de saúde.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE  As asserções I e II são proposições falsas.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 104.47579193115234,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 04"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.948892",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q37",
+  "numero": 37,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    22
+  ],
+  "segmentos": [
+    {
+      "pagina": 22,
+      "x0": 25.0,
+      "y0": 328.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 473.24810791015625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q37.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q37.txt",
+  "largura": 2475,
+  "altura": 632,
+  "confianca": 0.98,
+  "texto_completo": "p\np\nç\np\np\n,\np\nQUESTÃO 37\t\nQual alternativa associa tecnologia e sua respectiva linguagem comunicacional?\nA\t A seleção de vídeos curtos explicativos sobre estruturas algorítmicas, como atividade de preparação, está alinhada à \nlinguagem textual.\nB\t A utilização de um audiobook de introdução à lógica computacional, para estudo prévio, condiz com a estratégia de uso da \nlinguagem visual interativa.\nC\t A elaboração de algoritmos em simuladores de pseudocódigo, no momento presencial, é adequada ao uso da linguagem simbólica.\nD\t A implementação de algoritmos em código com uso de um ambiente integrado de desenvolvimento, durante a aula em \nlaboratório, está aderente à linguagem verbal.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 37,
+      "tipo": "OBJETIVA",
+      "pagina": 22,
+      "x": 64.6063003540039,
+      "y": 340.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 356.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 37"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153474",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

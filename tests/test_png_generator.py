@@ -1,96 +1,50 @@
 import pytest
 from pathlib import Path
-import tempfile
 import cv2
 import numpy as np
+import fitz
 
 from src.enade.processing.png_generator import (
-    extract_question_image,
-    combine_pages_vertically,
-    save_question_metadata
+    crop_segment_image,
+    combine_segments_vertically,
+    extract_and_save_question
 )
-from src.enade.core.models import Exam, Question, PageData
+from src.enade.core.models import Exam, Question, PageData, Segment, QuestionType
 
 
 def create_test_image(width, height, color=(255, 255, 255)):
-    img = np.ones((height, width, 3), dtype=np.uint8) * np.array(color, dtype=np.uint8)
-    return img
+    return np.ones((height, width, 3), dtype=np.uint8) * np.array(color, dtype=np.uint8)
 
 
-def test_combine_pages_vertically():
-    img1 = create_test_image(100, 50, (255, 0, 0))
-    img2 = create_test_image(100, 50, (0, 255, 0))
-    img3 = create_test_image(100, 50, (0, 0, 255))
+def test_crop_segment_image():
+    page_img = create_test_image(595, 842, (200, 200, 200))
+    seg = Segment(pagina=2, x0=50.0, y0=100.0, x1=250.0, y1=300.0, coluna=1)
+    rect = fitz.Rect(0, 0, 595, 842)
     
-    page_images = [
-        (1, img1, PageData(numero=1, caminho_imagem="", largura=100, altura=50)),
-        (2, img2, PageData(numero=2, caminho_imagem="", largura=100, altura=50)),
-        (3, img3, PageData(numero=3, caminho_imagem="", largura=100, altura=50)),
-    ]
-    
-    combined = combine_pages_vertically(page_images)
-    
-    assert combined.shape == (150, 100, 3)
-    
-    assert np.array_equal(combined[0:50, :], img1)
-    assert np.array_equal(combined[50:100, :], img2)
-    assert np.array_equal(combined[100:150, :], img3)
+    cropped = crop_segment_image(page_img, seg, rect)
+    assert cropped.shape[1] == 200  # x1 - x0
+    assert cropped.shape[0] == 200  # y1 - y0
 
 
-def test_combine_pages_different_widths():
-    img1 = create_test_image(100, 50, (255, 0, 0))
-    img2 = create_test_image(150, 50, (0, 255, 0))
+def test_combine_segments_vertically():
+    img1 = create_test_image(200, 100, (255, 0, 0))
+    img2 = create_test_image(200, 150, (0, 255, 0))
     
-    page_images = [
-        (1, img1, PageData(numero=1, caminho_imagem="", largura=100, altura=50)),
-        (2, img2, PageData(numero=2, caminho_imagem="", largura=150, altura=50)),
-    ]
-    
-    combined = combine_pages_vertically(page_images)
-    
-    assert combined.shape == (100, 150, 3)
+    combined = combine_segments_vertically([img1, img2], gap_px=10)
+    assert combined.shape[0] == 100 + 150 + 10 + 30
+    assert combined.shape[1] == 200 + 30
 
 
-def test_extract_question_image_single_page(tmp_path):
+def test_extract_and_save_question(tmp_path):
+    pdf_path = tmp_path / "test.pdf"
+    doc = fitz.open()
+    doc.new_page(width=595, height=842)
+    p2 = doc.new_page(width=595, height=842)
+    p2.insert_text((50, 120), "QUESTÃO 1: Texto de teste", fontsize=12)
+    doc.save(str(pdf_path))
+    
     exam = Exam(
-        arquivo="test.pdf",
-        ano=2022,
-        curso="ADS",
-        hash_arquivo="hash",
-        total_paginas=1
-    )
-    
-    img = create_test_image(500, 300)
-    img_path = tmp_path / "page_001.png"
-    cv2.imwrite(str(img_path), img)
-    
-    exam.paginas = [
-        PageData(numero=1, caminho_imagem=str(img_path), largura=500, altura=300)
-    ]
-    
-    question = Question(
-        numero=1,
-        paginas=[1],
-        caminho_png="",
-        caminho_json="",
-        largura=0,
-        altura=0,
-        confianca=0.95
-    )
-    
-    question = extract_question_image(exam, question)
-    
-    assert question.caminho_png != ""
-    assert question.largura == 500
-    assert question.altura == 300
-    
-    saved_img = cv2.imread(question.caminho_png)
-    assert saved_img is not None
-    assert saved_img.shape[:2] == (300, 500)
-
-
-def test_extract_question_image_multi_page(tmp_path):
-    exam = Exam(
+        id_prova="test_exam",
         arquivo="test.pdf",
         ano=2022,
         curso="ADS",
@@ -98,74 +52,33 @@ def test_extract_question_image_multi_page(tmp_path):
         total_paginas=2
     )
     
-    img1 = create_test_image(500, 300, (255, 0, 0))
-    img2 = create_test_image(500, 400, (0, 255, 0))
-    
-    img_path1 = tmp_path / "page_001.png"
-    img_path2 = tmp_path / "page_002.png"
-    cv2.imwrite(str(img_path1), img1)
-    cv2.imwrite(str(img_path2), img2)
+    # Save a dummy page image
+    img = create_test_image(595, 842)
+    page_img_path = tmp_path / "page_002.png"
+    cv2.imwrite(str(page_img_path), img)
     
     exam.paginas = [
-        PageData(numero=1, caminho_imagem=str(img_path1), largura=500, altura=300),
-        PageData(numero=2, caminho_imagem=str(img_path2), largura=500, altura=400),
+        PageData(numero=1, caminho_imagem="", largura=595, altura=842),
+        PageData(numero=2, caminho_imagem=str(page_img_path), largura=595, altura=842)
     ]
     
     question = Question(
         numero=1,
-        paginas=[1, 2],
+        id_questao="q01",
+        tipo=QuestionType.OBJETIVA,
+        paginas=[2],
+        segmentos=[Segment(pagina=2, x0=50.0, y0=100.0, x1=400.0, y1=300.0, coluna=0)],
         caminho_png="",
         caminho_json="",
         largura=0,
         altura=0,
-        confianca=0.95
+        confianca=0.98
     )
     
-    question = extract_question_image(exam, question)
-    
-    assert question.caminho_png != ""
-    assert question.largura == 500
-    assert question.altura == 700
-    
-    saved_img = cv2.imread(question.caminho_png)
-    assert saved_img is not None
-    assert saved_img.shape[:2] == (700, 500)
-
-
-def test_save_question_metadata(tmp_path):
-    exam = Exam(
-        arquivo="test.pdf",
-        ano=2022,
-        curso="ADS",
-        hash_arquivo="hash",
-        total_paginas=1
-    )
-    
-    question = Question(
-        numero=1,
-        paginas=[1],
-        caminho_png=str(tmp_path / "q01.png"),
-        caminho_json="",
-        largura=500,
-        altura=300,
-        confianca=0.95,
-        anomalias=["TEST"]
-    )
-    
-    question = save_question_metadata(question, exam)
-    
-    assert question.caminho_json != ""
+    question = extract_and_save_question(exam, question, doc)
+    assert Path(question.caminho_png).exists()
     assert Path(question.caminho_json).exists()
-    
-    import json
-    with open(question.caminho_json, "r") as f:
-        data = json.load(f)
-    
-    assert data["numero"] == 1
-    assert data["paginas"] == [1]
-    assert data["confianca"] == 0.95
-    assert data["anomalias"] == ["TEST"]
-
-
-if __name__ == "__main__":
-    pytest.main([__file__, "-v"])
+    assert Path(question.caminho_txt).exists()
+    assert question.largura > 0
+    assert question.altura > 0
+    doc.close()

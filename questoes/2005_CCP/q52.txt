@@ -1,0 +1,20 @@
+Ã
+17
+QUESTÃO 52
+método de alocação de espaço de disco utilizado para
+mazenamento de informações em um sistema de arquivos
+etermina o desempenho desse sistema. Com relação a esse assunto,
+lgue os itens seguintes.
+A alocação contígua é um método adequado para sistemas em
+que inserções e remoções de arquivos são freqüentes.
+Na alocação indexada, o tamanho máximo de um arquivo
+depende do número de bits utilizados para representar um índice
+e do tamanho dos blocos de índices.
+I Na alocação encadeada, o tamanho máximo de um arquivo
+depende do tamanho dos blocos de dados.
+ssinale a opção correta.
+Apenas um item está certo.
+Apenas os itens I e II estão certos.
+Apenas os itens I e III estão certos.
+Apenas os itens II e III estão certos.
+Todos os itens estão certos.

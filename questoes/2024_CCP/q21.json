@@ -1,0 +1,59 @@
+{
+  "id_questao": "q21",
+  "numero": 21,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    13,
+    14
+  ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 25.0,
+      "y0": 495.90960693359375,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 288.48590087890625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q21.txt",
+  "largura": 2475,
+  "altura": 2304,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n13\nFORMAÇÃO GERAL DOCENTE\nD\ng\nj\n(\n)\n;\nQUESTÃO 21\t\nConsidere que essa professora atua em uma escola localizada em um centro urbano e quer trabalhar com suas turmas sob uma \nperspectiva freireana. Quais atividades ela deve propor aos estudantes para contemplar as temáticas apresentadas nos textos 1 e 2?\nA\t 1. realizar um levantamento do entorno escolar, problematizando questões ambientais da comunidade; 2. utilizar conceitos \nescolares que ajudam a compreender o tema; 3. aplicar os conhecimentos aprendidos previamente, considerando uma análise \ncrítica das ideias debatidas na COP30 e no rap Chuva Ácida.\nB\t 1. apresentar um vídeo que mostre os grupos de trabalho e os objetivos da COP30; 2. utilizar um modelo de estufa de plantas a \nfim de estudar o ciclo hidrológico; 3. aplicar atividades que ajudem os estudantes a fixar o conhecimento da temática abordada \nna letra de canção.\nC\t 1. realizar um levantamento prévio das ideias dos estudantes sobre os problemas ambientais trazidos no rap Chuva Ácida; \n2. organizar os subsunçores que contribuem para estudar o tema; 3. promover uma exposição de cartazes para a comunidade \nconsiderando as soluções mitigadas na COP30.\nD\t 1. apresentar o vídeo do rap Chuva Ácida abordando os assuntos sobre mudanças climáticas; 2. organizar a Zona de \nDesenvolvimento Proximal, problematizando a interação entre os estudantes que sabem mais sobre o tema; 3. preparar \numa exposição apresentando as soluções mitigadas na COP30.\nÁrea livre\n\n2025\nTexto para questões 22 e 23\nEm uma turma de Educação de Jovens e Adultos (EJA), um professor de História e licenciandos do Estágio Supervisionado \nsentiram dificuldades em desenvolver as atividades planejadas na aula, pois os estudantes estavam dispersos, desanimados \ne afirmavam estar cansados da jornada de trabalho. Buscando motivar a turma, o professor-supervisor e os estagiários \nsolicitaram aos estudantes que relatassem seus cotidianos profissionais. Identificou-se que as profissões de motorista de \naplicativo e de entregador autônomo eram as mais exercidas. Além disso, o professor realizou reflexões com a turma sobre \nas mudanças no mundo do trabalho ao longo do tempo e suas relações sociais e econômicas. Durante o intervalo, o professor \ncompartilhou a experiência com as colegas docentes de Língua Portuguesa e de Matemática que decidiram readequar seus \nplanejamentos para explorar o mundo do trabalho em suas aulas. A professora de Língua Portuguesa elaborou, coletivamente \ncom a turma, um pequeno texto sobre as dificuldades enfrentadas no contexto de trabalho e as expectativas em relação ao \nfuturo profissional. Por sua vez, a professora de Matemática tratou das unidades de medida e do conceito de proporção, \nabordando problemas com cálculos que envolviam quantidades, distâncias e porcentagem relativos ao consumo de combustível \ne a outros itens utilizados no campo profissional dos estudantes. Na semana seguinte, como atividade avaliativa do Estágio \nSupervisionado, o professor-supervisor solicitou aos estagiários a elaboração de uma proposta de intervenção baseada na \nsituação vivenciada em sala de aula.\n*R0404202514*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 64.6063003540039,
+      "y": 507.90960693359375,
+      "x1": 124.34291076660156,
+      "y1": 523.1776123046875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153403",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

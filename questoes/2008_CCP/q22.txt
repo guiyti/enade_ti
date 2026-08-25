@@ -1,0 +1,35 @@
+10
+CO
+ÇÃO
+E
+Todos os itens estão certos.
+QUESTÃO 22
+Qual tipo de software tradutor deve ser utilizado para
+programas em geral, quando a velocidade de execução é
+uma exigência de alta prioridade?
+A
+compiladores
+B
+interpretadores
+C
+tradutores híbridos
+D
+macroprocessadores
+E
+interpretadores de macroinstruções
+esquema de banco de dados relacional?
+A
+Estudante(10, ‘jsilva@ig.com.br’, null, 20);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+B
+Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
+C
+Estudante(10, ‘jsilva@ig.com.br’, 1, 20); 
+FonePessoa(1, null, ‘3761’, ‘1370’)
+D
+Estudante(10, ‘jsilva@ig.com.br’, 1, 50); 
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
+E
+Estudante(10, ‘jsilva@ig.com.br’, 1, null);
+FonePessoa(1, ‘019’, ‘3761’, ‘1370’)

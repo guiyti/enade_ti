@@ -1,0 +1,50 @@
+{
+  "id_questao": "q30",
+  "numero": 30,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    16
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 428.8739013671875,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q30.txt",
+  "largura": 1123,
+  "altura": 1302,
+  "confianca": 0.98,
+  "texto_completo": "1\nE   7 e 40.\nQUESTÃO 30  \nAs revisões técnicas formais são um meio efetivo de \nmelhorar a qualidade do software. Com relação a esse \ntipo de revisão, analise as seguintes asserções.\nNas revisões, os produtos de trabalho de um indivíduo ou \nequipe são revisados por técnicos ou gerentes\nPORQUE\nas revisões fornecem informações sobre defeitos, \naumentando e permitindo o controle da qualidade do \nproduto final.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC    A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 34.1431999206543,
+      "y": 440.8739013671875,
+      "x1": 103.25318908691406,
+      "y1": 454.7339172363281,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:22.373519",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

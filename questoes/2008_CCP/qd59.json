@@ -1,0 +1,52 @@
+{
+  "id_questao": "qd59",
+  "numero": 59,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    25
+  ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 64.48672485351562,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd59.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd59.txt",
+  "largura": 2302,
+  "altura": 3084,
+  "confianca": 0.98,
+  "texto_completo": "24\nCO\nÇÃO\nQUESTÃO 59 — Discursiva\nNo projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.\nEscalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de\ntarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado\npara descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em\nbenefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas\ncom diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração\ndesta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.\nProtocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de\nprioridades. \nConsidere o conjunto de três tarefas com as seguintes características:\nI\nT1 tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante\nde chegada t1 = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do\nrecurso compartilhado R1 durante 2 ut. Para concluir, utiliza o recurso compartilhado R2 durante\n2 ut finais.\nII\nT2 tem prioridade 2, custo de execução total de 8 ut e instante de chegada t2 = 3. A partir de\nseu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2\ndurante 2 ut. \nIII T3 tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada\nt3 = 0. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso\ncompartilhado R1 durante 2 ut.\nA partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um\núnico processador seja possível, utilizando-se o protocolo de herança de prioridade.\n(valor: 10,0 pontos)\nRASCUNHO – QUESTÃO 59",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 59,
+      "tipo": "DISCURSIVA",
+      "pagina": 25,
+      "x": 35.99909973144531,
+      "y": 76.48672485351562,
+      "x1": 178.3124237060547,
+      "y1": 87.52672576904297,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 59 — Discursiva"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654374",
+  "categorias": [
+    "Engenharia de Software",
+    "Redes e Segurança",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

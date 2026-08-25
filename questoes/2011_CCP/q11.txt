@@ -1,0 +1,23 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 11  
+O problema da parada para máquinas de Turing, ou 
+simplesmente problema da parada, pode ser assim 
+descrito: determinar, para quaisquer máquina de Turing M 
+e palavra w, se M irá eventualmente parar com entrada w.
+Mais informalmente, o mesmo problema também pode 
+ser assim descrito: dados um algoritmo e uma entrada 
+fi nita, decidir se o algoritmo termina ou se executará 
+indefi nidamente.
+Para o problema da parada, 
+A   existe algoritmo exato de tempo de execução 
+polinomial para solucioná-lo.
+B   existe algoritmo exato de tempo de execução 
+exponencial para solucioná-lo.
+C   não existe algoritmo que o solucione, não importa 
+quanto tempo seja disponibilizado.
+D   não existe algoritmo exato, mas existe algoritmo de 
+aproximação de tempo de execução polinomial que o 
+soluciona, fornecendo respostas aproximadas.
+E   não existe algoritmo exato, mas existe algoritmo de 
+aproximação de tempo de execução exponencial que 
+o soluciona, fornecendo respostas aproximadas.

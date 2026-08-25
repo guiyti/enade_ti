@@ -1,0 +1,52 @@
+{
+  "id_questao": "q01",
+  "numero": 1,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    2
+  ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 546.0209350585938,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q01.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q01.txt",
+  "largura": 2475,
+  "altura": 1964,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 01\t\nTEXTO 1\nDisponível em: www.educadorinclusivo.org.br. Acesso em: 15 ago. 2025 (adaptado).\nTEXTO 2\nEm uma sala de aula do Ensino Fundamental, uma turma recebeu um estudante surdo e que se comunicava por meio da Língua \nBrasileira de Sinais (Libras). Considerando que o professor regente não era fluente em Libras, para garantir a participação do \nestudante nas atividades, a escola contratou um intérprete que adaptava e conduzia as atividades pedagógicas com o estudante \nsem a participação do professor.\nAo relacionar a situação descrita no Texto 2 com a figura apresentada no Texto 1, conclui-se que está ocorrendo um processo de\nA\t exclusão, pois o professor não dialoga diretamente com o estudante surdo.\nB\t segregação, porque a turma não consegue se comunicar com o estudante surdo.\nC\t inclusão, porque o estudante surdo participa regularmente das aulas com a turma.\nD\t integração, porque o intérprete estabelece uma relação individual com o estudante surdo.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/figuras/q01_fig1.jpeg"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "OBJETIVA",
+      "pagina": 2,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 01"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153296",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

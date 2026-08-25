@@ -1,0 +1,15 @@
+6
+QUESTÃO 32  
+O MPS.BR (Melhoria de Processos do Software Brasileiro) 
+é, ao mesmo tempo, um movimento para melhoria da 
+qualidade e um modelo de qualidade de processo.
+Guia MPS.BR (SOFTEX)
+Com relação às suas características, o MPS.BR
+A   possui 5 níveis de maturidade.
+B   possui representação contínua e por estágios.
+C   está em conformidade com as normas ISO/IEC 12207 
+e 15504.
+D   considera 3 dimensões: pessoas, ferramentas e 
+procedimentos.
+E   divide-se em 3 modelos: desenvolvimento, aquisição 
+e serviços.

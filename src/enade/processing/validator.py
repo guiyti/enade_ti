@@ -2,7 +2,7 @@ from typing import List, Dict, Any
 from pathlib import Path
 import cv2
 
-from ..core.models import Exam, Question, QuestionStatus, Severity
+from ..core.models import Exam, Question, QuestionStatus, QuestionType, Severity
 from ..utils.logging import get_logger
 
 logger = get_logger(__name__)
@@ -14,8 +14,6 @@ def validate_exam(exam: Exam) -> Exam:
     anomalias.extend(validate_numbering(exam))
     anomalias.extend(validate_duplicates(exam))
     anomalias.extend(validate_empty_questions(exam))
-    anomalias.extend(validate_orphan_pages(exam))
-    anomalias.extend(validate_question_sizes(exam))
     anomalias.extend(validate_confidence(exam))
     anomalias.extend(validate_image_integrity(exam))
     
@@ -23,16 +21,16 @@ def validate_exam(exam: Exam) -> Exam:
     exam.score_geral = calculate_overall_score(exam, anomalias)
     
     for anomalia in anomalias:
-        if anomalia.get("severidade") == "CRITICAL":
-            logger.error(f"[{anomalia['tipo']}] {anomalia['mensagem']}")
-        elif anomalia.get("severidade") == "ERROR":
-            logger.error(f"[{anomalia['tipo']}] {anomalia['mensagem']}")
-        elif anomalia.get("severidade") == "WARNING":
-            logger.warning(f"[{anomalia['tipo']}] {anomalia['mensagem']}")
+        sev = anomalia.get("severidade", "INFO")
+        msg = f"[{anomalia.get('tipo', 'ANOMALIA')}] {anomalia.get('mensagem', '')}"
+        if sev in ["CRITICAL", "ERROR"]:
+            logger.error(msg)
+        elif sev == "WARNING":
+            logger.warning(msg)
         else:
-            logger.info(f"[{anomalia['tipo']}] {anomalia['mensagem']}")
-    
-    logger.info(f"Validação concluída: Score geral = {exam.score_geral:.1f}%")
+            logger.info(msg)
+            
+    logger.info(f"Validação concluída: {exam.id_prova} | Score geral = {exam.score_geral:.1f}%")
     return exam
 
 
@@ -41,18 +39,23 @@ def validate_numbering(exam: Exam) -> List[Dict[str, Any]]:
     if not exam.questoes:
         return anomalias
     
-    expected = 1
-    for q in exam.questoes:
-        if q.numero != expected:
-            anomalias.append({
-                "tipo": "NUMERACAO_QUEBRADA",
-                "severidade": "WARNING",
-                "mensagem": f"Esperava questão {expected}, encontrou {q.numero}",
-                "questao": q.numero,
-                "esperado": expected
-            })
-        expected = q.numero + 1
-    
+    for q_type in [QuestionType.DISCURSIVA, QuestionType.OBJETIVA]:
+        group = [q for q in exam.questoes if q.tipo == q_type]
+        if not group:
+            continue
+        group_sorted = sorted(group, key=lambda q: q.numero)
+        expected = 1
+        for q in group_sorted:
+            if q.numero != expected:
+                anomalias.append({
+                    "tipo": "NUMERACAO_QUEBRADA",
+                    "severidade": "WARNING",
+                    "mensagem": f"Esperava {q_type.value} {expected}, encontrou {q.numero}",
+                    "questao": q.id_questao,
+                    "esperado": expected
+                })
+            expected = q.numero + 1
+            
     return anomalias
 
 
@@ -61,17 +64,15 @@ def validate_duplicates(exam: Exam) -> List[Dict[str, Any]]:
     seen = {}
     
     for q in exam.questoes:
-        if q.numero in seen:
+        if q.id_questao in seen:
             anomalias.append({
                 "tipo": "QUESTAO_DUPLICADA",
                 "severidade": "ERROR",
-                "mensagem": f"Questão {q.numero} aparece múltiplas vezes",
-                "questao": q.numero,
-                "paginas_anterior": seen[q.numero].paginas,
-                "paginas_atual": q.paginas
+                "mensagem": f"Questão {q.id_questao} duplicada",
+                "questao": q.id_questao
             })
-        seen[q.numero] = q
-    
+        seen[q.id_questao] = q
+        
     return anomalias
 
 
@@ -79,74 +80,15 @@ def validate_empty_questions(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
     
     for q in exam.questoes:
-        if q.largura == 0 or q.altura == 0:
+        if q.largura < 50 or q.altura < 50:
             anomalias.append({
                 "tipo": "QUESTAO_VAZIA",
                 "severidade": "ERROR",
-                "mensagem": f"Questão {q.numero} tem dimensões inválidas ({q.largura}x{q.altura})",
-                "questao": q.numero
+                "mensagem": f"Questão {q.id_questao} tem dimensões inválidas ({q.largura}x{q.altura})",
+                "questao": q.id_questao
             })
             q.status = QuestionStatus.REJEITADA
-    
-    return anomalias
-
-
-def validate_orphan_pages(exam: Exam) -> List[Dict[str, Any]]:
-    anomalias = []
-    
-    pages_with_questions = set()
-    for q in exam.questoes:
-        pages_with_questions.update(q.paginas)
-    
-    all_pages = set(range(1, exam.total_paginas + 1))
-    orphan_pages = all_pages - pages_with_questions
-    
-    for page in orphan_pages:
-        anomalias.append({
-            "tipo": "PAGINA_ORFA",
-            "severidade": "WARNING",
-            "mensagem": f"Página {page} não associada a nenhuma questão",
-            "pagina": page
-        })
-    
-    return anomalias
-
-
-def validate_question_sizes(exam: Exam) -> List[Dict[str, Any]]:
-    anomalias = []
-    
-    if not exam.questoes:
-        return anomalias
-    
-    areas = [q.largura * q.altura for q in exam.questoes if q.largura > 0 and q.altura > 0]
-    if not areas:
-        return anomalias
-    
-    avg_area = sum(areas) / len(areas)
-    
-    for q in exam.questoes:
-        area = q.largura * q.altura
-        if area < avg_area * 0.1:
-            anomalias.append({
-                "tipo": "QUESTAO_MUITO_PEQUENA",
-                "severidade": "WARNING",
-                "mensagem": f"Questão {q.numero} muito pequena ({area:.0f}px vs média {avg_area:.0f}px)",
-                "questao": q.numero,
-                "area": area,
-                "area_media": avg_area
-            })
-            q.anomalias.append("QUESTAO_MUITO_PEQUENA")
-        elif area > avg_area * 5:
-            anomalias.append({
-                "tipo": "QUESTAO_MUITO_GRANDE",
-                "severidade": "WARNING",
-                "mensagem": f"Questão {q.numero} muito grande ({area:.0f}px vs média {avg_area:.0f}px)",
-                "questao": q.numero,
-                "area": area,
-                "area_media": avg_area
-            })
-            q.anomalias.append("QUESTAO_MUITO_GR_GR_GRANDE")
-    
+            
     return anomalias
 
 
@@ -154,20 +96,16 @@ def validate_confidence(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
     
     for q in exam.questoes:
-        if q.confianca < 0.5:
+        if q.confianca < 0.6:
             anomalias.append({
                 "tipo": "BAIXA_CONFIANCA",
                 "severidade": "WARNING",
-                "mensagem": f"Questão {q.numero} com baixa confiança ({q.confianca:.2f})",
-                "questao": q.numero,
+                "mensagem": f"Questão {q.id_questao} com baixa confiança ({q.confianca:.2f})",
+                "questao": q.id_questao,
                 "confianca": q.confianca
             })
             q.status = QuestionStatus.REVISAR
-            q.anomalias.append("BAIXA_CONFIANCA")
-        elif q.confianca < 0.7:
-            q.status = QuestionStatus.REVISAR
-            q.anomalias.append("CONFIANCA_MODERADA")
-    
+            
     return anomalias
 
 
@@ -175,29 +113,26 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
     
     for q in exam.questoes:
-        if not q.caminho_png:
+        if not q.caminho_png or not Path(q.caminho_png).exists():
+            anomalias.append({
+                "tipo": "IMAGEM_NAO_ENCONTRADA",
+                "severidade": "ERROR",
+                "mensagem": f"Imagem da questão {q.id_questao} não existe",
+                "questao": q.id_questao
+            })
+            q.status = QuestionStatus.REJEITADA
             continue
-        
+            
         img = cv2.imread(q.caminho_png)
         if img is None:
             anomalias.append({
                 "tipo": "IMAGEM_CORROMPIDA",
                 "severidade": "ERROR",
-                "mensagem": f"Imagem da questão {q.numero} não pode ser lida",
-                "questao": q.numero
+                "mensagem": f"Imagem da questão {q.id_questao} não pode ser lida",
+                "questao": q.id_questao
             })
             q.status = QuestionStatus.REJEITADA
-            continue
-        
-        h, w = img.shape[:2]
-        if h != q.altura or w != q.largura:
-            anomalias.append({
-                "tipo": "DIMENSAO_INCONSISTENTE",
-                "severidade": "WARNING",
-                "mensagem": f"Questão {q.numero}: metadados ({q.largura}x{q.altura}) != imagem real ({w}x{h})",
-                "questao": q.numero
-            })
-    
+            
     return anomalias
 
 
@@ -222,7 +157,7 @@ def calculate_overall_score(exam: Exam, anomalias: List[Dict[str, Any]]) -> floa
     
     total = len(exam.questoes)
     if total > 0:
-        status_score = (approved * 1.0 + pending * 0.8 + review * 0.5 + rejected * 0.0) / total * 100
+        status_score = (approved * 1.0 + pending * 0.95 + review * 0.7 + rejected * 0.0) / total * 100
         base_score = (base_score + status_score) / 2
     
     return max(0.0, min(100.0, base_score))

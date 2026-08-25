@@ -1,0 +1,52 @@
+{
+  "id_questao": "q64",
+  "numero": 64,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 68.44668579101562,
+      "x1": 294.59999999999997,
+      "y1": 551.8467407226562,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q64.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q64.txt",
+  "largura": 1153,
+  "altura": 2044,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 64\nA figura abaixo apresenta uma proposta de classificação de\nsistemas de informação, organizada tanto no que se refere\nao nível hierárquico, no qual atuam os sistemas no âmbito\nde uma organização, quanto no que se refere às áreas\nfuncionais nas quais esses sistemas são aplicados.\nConsidere a situação hipotética em que uma rede de\nsupermercados deverá tomar uma decisão com relação à\nsubstituição do sistema de automação de “frente de loja”,\nque apóia as atividades dos caixas nos check-outs.\nA decisão envolve substituir o sistema atual, que emprega\ntecnologia de terminais “burros”, por um que emprega\ncomputadores pessoais e redes sem fio. Nesse sentido e\nconsiderando a proposta de classificação apresentada,\nqual das opções a seguir apresenta uma classificação\nadequada de nível hierárquico, área funcional e grupo\natendido pelo sistema de informações, que oferece apoio\ndireto à referida tomada de decisão?\nA\nestratégico, vendas e marketing, gerentes seniores\nB\nconhecimento, \nfinanças, \ntrabalhadores \ndo\nconhecimento\nC\ngerencial, contabilidade, gerentes médios\nD\noperacional, \nvendas \ne \nmarketing, \ngerentes\noperacionais\nE\nestratégico, recursos humanos, gerentes médios\nTIPOS DE SISTEMAS\nDE INFORMAÇÃO\nÁREAS\nFUNCIONAIS\nGRUPOS\nATENDIDOS\nNível\nestratégico\nNível\ngerencial\nNível de\nconhecimento\nNível de\noperacional\nGerentes\nseniores\nGerentes\nmédios\nTrabalhadores do\nconhecimento e de dados\nGerentes\noperacionais\nVendas e\nmarketing\nFabricação\nFinanças\nContabilidade\nRecursos\nhumanos\nLaudon & Laudon. Sistemas de Informação Gerencial. Pearson, 2004 (com\nadaptações).",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q64_fig1.jpeg"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 64,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 35.99909973144531,
+      "y": 80.44668579101562,
+      "x1": 105.36231231689453,
+      "y1": 91.48668670654297,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 64"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654539",
+  "categorias": [
+    "Inteligência Artificial e Dados"
+  ]
+}

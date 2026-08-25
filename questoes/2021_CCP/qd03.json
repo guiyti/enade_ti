@@ -1,0 +1,59 @@
+{
+  "id_questao": "qd03",
+  "numero": 3,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    14,
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    },
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/qd03.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/qd03.txt",
+  "largura": 2185,
+  "altura": 5670,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO DISCURSIVA 03\t\nUm corpo de conhecimento representado na lógica proposicional utiliza os conectivos lógicos de \nimplicação ( ® ) que representa o condicional, conjunção ( Ù ) que representa o operador lógico AND, \na disjunção ( Ú ) que representa o operador lógico OR e a negação ( Ø ) que representa o operador \nlógico NOT. Seja P o seguinte conjunto de fórmulas da lógica proposicional:\n1.a ® Ø b\n2.b Ù a\n3.Ø b Ú b\nseja Q o seguinte conjunto de fórmulas da lógica proposicional:\n4.a Ú b\n5.b ® a\ne seja R a fórmula\n6.Ø b ® a\nVeja a tabela-verdade para estas fórmulas.\n1\n2\n3\n4\n5\n6\na\nb\na ® Ø b\nb Ù a\nØ b Ú b\na Ú b\nb ® a\nØ b ® a\nF\nF\nV\nF\nV\nF\nV\nF\nF\nV\nV\nF\nV\nV\nF\nV\nV\nF\nV\nF\nV\nV\nV\nV\nV\nV\nF\nV\nV\nV\nV\nV\nSabe-se que cada linha da tabela-verdade corresponde a uma atribuição de valores-verdade para os \nsímbolos proposicionais (a e b) e cada coluna corresponde à avaliação da fórmula para esta atribuição. \nAlgumas definições:\n(i) Uma fórmula é uma tautologia se e somente se, para toda atribuição de valores-verdade, sua avaliação \né verdadeira.\n(ii) Uma atribuição de valores-verdade satisfaz a um conjunto de fórmulas se e somente se, para toda \nfórmula no conjunto, a avaliação é verdadeira.\n(iii) Um conjunto de fórmulas é satisfazível se e somente se existe uma atribuição de valores-verdade que \nsatisfaz o conjunto. Em caso contrário, ele é insatisfazível.\n(iv) Uma fórmula é uma consequência lógica de um conjunto de fórmulas se e somente se, para toda \natribuição de valores-verdade, se a atribuição satisfaz o conjunto então satisfaz a fórmula.\nCOMPONENTE ESPECÍFICO\n\nCom base nas informações apresentadas, responda os itens a seguir.\na)\t Há alguma tautologia nas fórmulas 1 a 6? Justifique sua resposta. (valor: 2,5 pontos)\nb)\t Há algum conjunto (P ou Q) satisfazível? Justifique sua resposta. (valor: 2,5 pontos)\nc)\t Há algum conjunto (P ou Q) insatisfazível? Justifique sua resposta. (valor: 2,5 pontos)\nd)\t A fórmula 6 é consequência lógica de Q? Justifique sua resposta. (valor: 2,5 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "tipo": "DISCURSIVA",
+      "pagina": 14,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 157.51580810546875,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO DISCURSIVA 03"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543558",
+  "categorias": [
+    "Banco de Dados"
+  ]
+}

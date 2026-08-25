@@ -1,0 +1,50 @@
+{
+  "id_questao": "q33",
+  "numero": 33,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    17
+  ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q33.txt",
+  "largura": 2241,
+  "altura": 2855,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n17\nQUESTÃO 33  \nMétricas de confiabilidade de software dizem respeito à probabilidade de um componente de software produzir uma \nsaída incorreta. Originalmente as métricas de confiabilidade foram criadas para componentes de hardware, consistindo \nem desgaste mecânico, aquecimento elétrico e fatores físicos relacionados aos componentes. Não há desgaste em \ncomponentes de software, que podem, inclusive, continuar operando mesmo após a produção de um resultado incorreto.\nObserve os quadros a seguir, a fim de identificar algumas métricas de confiabilidade e disponibilidade de um dado \nsistema SIST.\nQuadro 1\n \nInst1\nInst2\nInst3\nInst4\nInst5\nInst6\nInst7\nInst8\nInst9\nInst 10\nSIST\nS\nS\nN\nN\nN\nN\nN\nN\nS\nS\nEm que S indica que SIST estava disponível no instante de tempo (InstX) de número X e\nN indica que o SIST não estava disponível no instante de tempo (InstX) de número X.\n \nQuadro 2\n \nSoli1\nSoli2\nSoli3\nSoli4\nSoli5\nSoli6\nSoli7\nSoli8\nSoli9\nSoli10\nSIST\nF\nN\nF\nN\nF\nN\nN\nN\nN\nN\nEm que F indica que SIST falhou quando se fez a ele a solicitação (SoliX) de número X e\nN indica que o SIST não falhou quando se fez a ele a solicitação (SoliX) de número X.\nQuadro 3\n \nFal1\nFal2\nFal3\nFal4\nFal5\nFal6\nFal7\nFal8\nFal9\nFal 10\nSIST\n09\n16\n20\n23\n25\n29\n33\n36\n41\n45\nO valor indica o instante, em uma dada unidade de tempo, em que ocorreu a falha (FalX) de número X.\nAssinale a alternativa que corresponde, respectivamente, aos valores das métricas disponibilidade (em porcentagem), \ntaxa de ocorrência de falha (em porcentagem) e tempo médio entre falhas (em unidade de tempo).\nA   40; 30; 27,7.\nB   60; 30; 27,7.\nC   60; 70; 4.\nD   40; 30; 4.\nE   40; 70; 4.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 103.25318908691406,
+      "y1": 82.03392791748047,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 33"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:22.373531",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

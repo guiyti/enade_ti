@@ -1,0 +1,40 @@
+CO
+ÇÃO
+QUESTÃO 16
+O gerenciamento de configuração de software (GCS) é
+uma atividade que deve ser realizada para identificar,
+controlar, auditar e relatar as modificações que ocorrem
+durante todo o desenvolvimento ou mesmo durante a fase
+de manutenção, depois que o software for entregue ao
+cliente. O GCS é embasado nos chamados itens de
+configuração, que são produzidos como resultado das
+atividades de engenharia de software e que ficam
+armazenados em um repositório. Com relação ao GCS,
+analise as duas asserções apresentadas a seguir.
+No GCS, o processo de controle das modificações
+obedece ao seguinte fluxo: começa com um pedido de
+modificação de um item de configuração, que leva à
+aceitação ou não desse pedido e termina com a
+atualização controlada desse item no repositório
+porque 
+o controle das modificações dos itens de configuração
+baseia-se nos processos de check-in e check-out que
+fazem, respectivamente, a inserção de um item de
+configuração no repositório e a retirada de itens de
+configuração do repositório para efeito de realização das
+modificações.
+Acerca dessas asserções, assinale a opção correta.
+A
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B
+As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
+C
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+D
+A primeira asserção é uma proposição falsa, e a
+segunda é uma proposição verdadeira.
+E
+As duas asserções são proposições falsas.

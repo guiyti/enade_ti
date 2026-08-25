@@ -7,7 +7,9 @@ from .models import (
     DetectionMethod,
     QuestionStatus,
     Severity,
-    PDFType
+    PDFType,
+    QuestionType,
+    Segment
 )
 
 __all__ = [
@@ -19,5 +21,7 @@ __all__ = [
     "DetectionMethod",
     "QuestionStatus",
     "Severity",
-    "PDFType"
+    "PDFType",
+    "QuestionType",
+    "Segment"
 ]

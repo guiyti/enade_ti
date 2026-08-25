@@ -1,0 +1,20 @@
+1
+QUESTÃO 13  
+A linguagem gráfica EPC/ARIS é utilizada para modelar 
+processos de negócios. Para isso, utiliza diversos recursos 
+para descrever, representar ou indicar, por exemplo, 
+atividades, funções, processos e fluxos. Nesse contexto, 
+avalie as afirmações a seguir.
+I. 
+A ligação entre dois processos é indicada por um 
+conector.
+II. A descrição de um processo deve iniciar e terminar 
+em um evento.
+III. As funções, ou atividades, são representadas por 
+um retângulo com bordas arredondadas.
+É correto apenas o que se afirma em
+A   I.
+B   II.
+C   III.
+D   I e II.
+E   II e III.

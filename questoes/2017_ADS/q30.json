@@ -1,0 +1,59 @@
+{
+  "id_questao": "q30",
+  "numero": 30,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    34,
+    35
+  ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 781.56,
+      "coluna": 0
+    },
+    {
+      "pagina": 35,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 603.3199999999999,
+      "y1": 364.70751953125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q30.txt",
+  "largura": 2440,
+  "altura": 4272,
+  "confianca": 0.98,
+  "texto_completo": "34\nTECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\nQUESTÃO 30\n  ĄƌĞĂ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ĚĞ ƐŽŌǁĂƌĞ ĞƐƚĄ ƐĞ ƚŽƌŶĂŶĚŽ ĐĂĚĂ ǀĞǌ ŵĂŝƐ ĐŽŵƉůĞǆĂ͘  WĂƌĂ ůŝĚĂƌ ĐŽŵ ĞƐƐĂ \nƌĞĂůŝĚĂĚĞ͕   ŽƐ  ĚĞƐĞŶǀŽůǀĞĚŽƌĞƐ  ĐŽŶƚĂŵ  ĐŽŵ  ůŝŶŐƵĂŐĞŶƐ  ĚĞ  ƉƌŽŐƌĂŵĂĕĆŽ  ďĂƐĞĂĚĂƐ  ŶŽ  ƉĂƌĂĚŝŐŵĂ  ĚĞ \nŽƌŝĞŶƚĂĕĆŽ Ă ŽďũĞƚŽƐ͕  ĐƵũŽƐ ƉŝůĂƌĞƐ ƐĆŽ ĂďƐƚƌĂĕĆŽ͕  ĞŶĐĂƉƐƵůĂŵĞŶƚŽ͕  ŚĞƌĂŶĕĂ Ğ ƉŽůŝŵŽƌĮƐŵŽ͘  EŽ ĐſĚŝŐŽ Ă \nƐĞŐƵŝƌ͕  ŽďƐĞƌǀĂͲƐĞ Ă ŝŵƉůĞŵĞŶƚĂĕĆŽ ĚĞ ĐůĂƐƐĞƐ ƌĞůĂĐŝŽŶĂĚĂƐ͘\npublic abstract class Impressora {\n   String nome;\n   Impressora() {}\n   Impressora(String n) {\n      this.nome = n;\n   }\n   public void imprimir() {}\n}\npublic class Laser extends Impressora {\n   public Laser() {} \n   public void imprimir() {\n      System.out.println(“Imprimindo na Laser”);\n   }\n}\nclass Matricial extends Impressora {\n   public Matricial () {}\n   public void imprimir() {\n      System.out.println(“Imprimindo na Matricial”);\n   }\n}\npublic class JatoDeTinta extends Impressora {\n   public JatoDeTinta() {}\n   public void imprimir(){\n      System.out.println(“Imprimindo na Jato de tinta”);\n   }\n}\npublic class Main {\n   public static void main(String args[]) {\n      Impressora imp[] = new Impressora[3];\n      imp[0] = new Laser();\n      imp[1] = new JatoDeTinta();\n      imp[2] = new Matricial();\n      for(int i = imp.length - 1; i >= 0; i--){\n         imp[i].imprimir();\n      }\n   }\n}\n\nIŽŵ ďĂƐĞ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĚŽ ƚĞǆƚŽ Ğ ŶŽ ĐſĚŝŐŽ ĂƉƌĞƐĞŶƚĂĚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘     ĞǆĞĐƵĕĆŽ ĚŽ ĐſĚŝŐŽ͕  ǀŝĂ ĐůĂƐƐĞ Main͕  ƌĞƐƵůƚĂ ŶĂ ƐĞŐƵŝŶƚĞ ƐĂşĚĂ͗\n/ŵƉƌŝŵŝŶĚŽ ŶĂ >ĂƐĞƌ\n/ŵƉƌŝŵŝŶĚŽ ŶĂ DĂƚƌŝĐŝĂů\n/ŵƉƌŝŵŝŶĚŽ ŶĂ :ĂƚŽ ĚĞ ƟŶƚĂ\n//͘   K ĐſĚŝŐŽ ĨĂǌ ƵƐŽ ĚĂ ƚĠĐŶŝĐĂ ĚĞŶŽŵŝŶĂĚĂ ƉŽůŝŵŽƌĮƐŵŽ͘\n///͘   K ĐſĚŝŐŽ ŶĆŽ ƐĞƌĄ ĐŽŵƉŝůĂĚŽ͕  ƉŽŝƐ Ž ǀĞƚŽƌ imp ĨŽŝ ŝŶƐƚĂŶĐŝĂĚŽ ƉŽƌ ŵĞŝŽ ĚĂ ĐůĂƐƐĞ ĂďƐƚƌĂƚĂ \nImpressora.\n\u001e ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA  //͕  ĂƉĞŶĂƐ͘\nB  ///͕  ĂƉĞŶĂƐ͘\nC  / Ğ //͕  ĂƉĞŶĂƐ͘\nD  / Ğ ///͕  ĂƉĞŶĂƐ͘\nE  /͕  // Ğ ///͘\n*R41201735*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 60.60430145263672,
+      "y": 88.699951171875,
+      "x1": 123.05711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:49:16.481220",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

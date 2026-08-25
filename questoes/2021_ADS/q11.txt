@@ -1,0 +1,54 @@
+QUESTÃO 11	
+O código Java, a seguir, contém a implementação 
+de uma Pilha utilizando a estratégia encadeada.
+public class No{
+public int dado;
+public No prox;
+public No(int dado){
+this.dado = dado;
+}
+}
+public class PilhaEncadeada{
+private No topo;
+public int pop(){
+if (topo == null)
+return -1;
+No lixo = topo;
+topo = topo.prox;
+lixo.prox = null;
+return lixo.dado;
+}
+public int top(){
+if (topo == null)
+return -1;
+return (topo.dado);
+}
+}
+Com base no exposto, assinale a opção que possui 
+a implementação correta do método push para 
+essa Pilha.
+A	 public void push(int elemento){ 
+No novo = new No(elemento);  
+if(topo == null)  
+  topo = novo;  
+else  
+  topo.prox = novo;  
+}
+B	 public void push(int elemento){    
+  No novo = new No(elemento);  
+  topo = novo;  
+}
+C	 public void push(int elemento){  
+topo.dado = elemento;  
+}
+D	 public void push(int elemento){  
+  No novo = new No(elemento);  
+  while (topo != null)  
+    topo = topo.prox;  
+  topo.prox = novo;  
+}
+E	 public void push(int elemento){  
+  No novo = new No(elemento);      
+  novo.prox = topo;  
+  topo = novo;  
+}

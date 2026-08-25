@@ -1,0 +1,59 @@
+{
+  "id_questao": "q33",
+  "numero": 33,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    37,
+    38
+  ],
+  "segmentos": [
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 313.4237976074219,
+      "x1": 603.3199999999999,
+      "y1": 781.56,
+      "coluna": 0
+    },
+    {
+      "pagina": 38,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 603.3199999999999,
+      "y1": 80.67594909667969,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q33.txt",
+  "largura": 2440,
+  "altura": 2103,
+  "confianca": 0.98,
+  "texto_completo": "37\nTECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\n, p\n,\n;\nQUESTÃO 33\n  ŽƌĚĞŶĂĕĆŽ ƉŽƌ ŝŶƐĞƌĕĆŽ ĨƵŶĐŝŽŶĂ ĚĞ ŵŽĚŽ ƐĞŵĞůŚĂŶƚĞ ă ĨŽƌŵĂ ĐŽŵŽ ĂůŐƵŵĂƐ ƉĞƐƐŽĂƐ ŽƌĚĞŶĂŵ ĐĂƌƚĂƐ ĚĞ \nďĂƌĂůŚŽ͘  /ŶŝĐŝĂͲƐĞ ĐŽŵ Ă ŵĆŽ ĞƐƋƵĞƌĚĂ ǀĂǌŝĂ Ğ ĂƐ ĐĂƌƚĂƐ ĞŵƉŝůŚĂĚĂƐ ŶĂ ŵĞƐĂ͘  ZĞŵŽǀĞͲƐĞ ĚĂ ƉŝůŚĂ ƵŵĂ ĐĂƌƚĂ ĚĞ \nĐĂĚĂ ǀĞǌ͕  ŝŶƐĞƌŝŶĚŽͲĂ ŶĂ ƉŽƐŝĕĆŽ ĐŽƌƌĞƚĂ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ͘  WĂƌĂ ƐĞ ŝĚĞŶƟĮĐĂƌ Ă ƉŽƐŝĕĆŽ ĐŽƌƌĞƚĂ ĚĞ ƵŵĂ ĐĂƌƚĂ͕  \nĚĞǀĞͲƐĞ ĐŽŵƉĂƌĄͲůĂ ĐŽŵ ĂƐ ĐĂƌƚĂƐ ƉƌĞƐĞŶƚĞƐ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ͕  ŶŽ ƐĞŶƟĚŽ ĚĂ ĚŝƌĞŝƚĂ ƉĂƌĂ Ă ĞƐƋƵĞƌĚĂ͘  Eŵ ƚŽĚŽƐ \nŽƐ ŵŽŵĞŶƚŽƐ͕  ĂƐ ĐĂƌƚĂƐ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ ĞƐƚĆŽ ŽƌĚĞŶĂĚĂƐ͕  ƚĞŶĚŽ ƐŝĚŽ ŽďƟĚĂƐ ŶŽ ƚŽƉŽ ĚĂ ƉŝůŚĂ ĚĂ ŵĞƐĂ͘\nIKZDEE͕  d͘  ,͘  Ğƚ Ăů͘  /ŶƚƌŽĚƵĐƟŽŶ ƚŽ ĂůŐŽƌŝƚŚŵƐ͘  3͘  ĞĚ͘  IĂŵďƌŝĚŐĞ͗  dŚĞ D/d WƌĞƐƐ͕  2009 ;ĂĚĂƉƚĂĚŽͿ͘\nhŵ ƉƌŽŐƌĂŵĂĚŽƌ ŝŵƉůĞŵĞŶƚŽƵ Ƶŵ ĂůŐŽƌŝƚŵŽ ĚĞ ŽƌĚĞŶĂĕĆŽ ƐĞŵĞůŚĂŶƚĞ ă ĨŽƌŵĂ ĚĞ ŽƌĚĞŶĂĕĆŽ ĚĞ ĐĂƌƚĂƐ \nĚĞƐĐƌŝƚĂ ŶŽ ƚĞǆƚŽ͘   Ž ƌĞĂůŝǌĂƌ Ƶŵ ƚĞƐƚĞ ĐŽŵ Ƶŵ ǀĞƚŽƌ ĚĞ ŶŽǀĞ ƉŽƐŝĕƁĞƐ ;vetor[1..9]Ϳ͕  ǀĞƌŝĮĐŽƵ ƋƵĞ Ž \nĂůŐŽƌŝƚŵŽ ŶĆŽ ĨƵŶĐŝŽŶĂǀĂ ĐŽƌƌĞƚĂŵĞŶƚĞ͘\n01 para i <- 2 até 9 faça\n02\nvalor <- vetor[i]\n03\nj <- i – 1\n04\nenquanto ((j >= 1) e (valor < vetor[j])) faça\n05\n   vetor[i] <- vetor[j]\n06\n      j <- j – 1\n07 \n \nse (j = 0) então\n08\n         interrompa\n\u0013E  \n \n¿P VH\n\u0014\u0013  \n¿P HQTXDQWR\n11\nvetor[j + 1] <- valor\n\u0014\u0015 ¿P SDUD\nIŽŵ ďĂƐĞ ŶĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ Ğŵ ƋƵĞ ƐĞ ĂƉƌĞƐĞŶƚĂŵ Ă ůŝŶŚĂ Ğ Ž ƌĞƐƉĞĐƟǀŽ ĐŽŵĂŶĚŽ \nĂ ƐĞƌ ƐƵďƐƟƚƵşĚŽ͕  ƉĂƌĂ ƋƵĞ Ž ĂůŐŽƌŝƚŵŽ ŽƌĚĞŶĞ ĐŽƌƌĞƚĂŵĞŶƚĞ Ƶŵ ǀĞƚŽƌ ĚĞ ŝŶƚĞŝƌŽƐ ĚĞ ĨŽƌŵĂ ĐƌĞƐĐĞŶƚĞ͘\nA  >ŝŶŚĂ 01; para i <- 1 até 9 faça\nB  >ŝŶŚĂ 03; j <- i\nC  >ŝŶŚĂ 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça\nD  >ŝŶŚĂ 05͖     vetor[j + 1] <- vetor[j]\nE  >ŝŶŚĂ 11͖     vetor[j] <- valor\n\n*R41201738*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 37,
+      "x": 60.65340805053711,
+      "y": 325.4237976074219,
+      "x1": 123.10621643066406,
+      "y1": 337.4237976074219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 33"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:49:16.481233",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

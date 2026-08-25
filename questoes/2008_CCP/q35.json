@@ -1,0 +1,52 @@
+{
+  "id_questao": "q35",
+  "numero": 35,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 66.52682495117188,
+      "x1": 294.59999999999997,
+      "y1": 457.6466979980469,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q35.txt",
+  "largura": 1153,
+  "altura": 1660,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 35\nUma arquitetura de rede é usualmente organizada em um co\nde camadas e protocolos com o propósito de estruturar o har\ne o software de comunicação. Como exemplos, têm-\narquiteturas OSI e TCP/IP. A arquitetura TCP/IP, adota\nInternet, é um exemplo concreto de tecnologia de interconex\nredes e sistemas heterogêneos usada em escala global\nrelação à arquitetura TCP/IP, assinale a opção correta.\nA\nA camada de interface de rede, também denominada\nrede, adota o conceito de portas para identificar os dispo\nda rede física. Cada porta é associada à interface de re\ndispositivo e os quadros enviados transportam o núme\nportas para identificar os dispositivos de origem e de de\nB\nA camada de rede, também denominada inter-rede, \nendereços IP para identificar as redes e seus dispos\nPara interconectar redes físicas que adotam dife\ntamanhos máximos de quadros, a camada de rede ad\nconceitos de fragmentação e remontagem de datagram\nC\nA camada de transporte é responsável pelo proces\nroteamento de datagramas. Nesse processo, a cama\ntransporte deve selecionar os caminhos ou rotas q\ndatagramas devem seguir entre os dispositivos de ori\nde destino, passando assim através das várias \ninterconectadas.\nD\nA camada de aplicação é composta por um conjun\nprotocolos, que são implementados pelos proc\nexecutados nos dispositivos. Cada protocolo de apli\ndeve especificar a interface gráfica ou textual oferecid\nrespectivo processo para permitir a interação com os us\nda aplicação.\nE\nA arquitetura TCP/IP é uma implementação concre\narquitetura conceitual OSI. Portanto, a arquitetura TC\ntambém estruturada em 7 camadas, que são as cam\nfísica, de enlace, de rede, de transporte, de sessã\napresentação e de aplicação.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 35.99909973144531,
+      "y": 78.52682495117188,
+      "x1": 105.36231231689453,
+      "y1": 89.56682586669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654274",
+  "categorias": [
+    "Programação e POO",
+    "Redes e Segurança",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

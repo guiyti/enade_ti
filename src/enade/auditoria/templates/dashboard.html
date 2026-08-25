@@ -6,41 +6,38 @@
     <title>ENADE Auditor - Dashboard</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; padding: 20px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; padding: 24px; color: #2c3e50; }
         .container { max-width: 1200px; margin: 0 auto; }
-        h1 { color: #1a1a1a; margin-bottom: 8px; }
-        .subtitle { color: #666; margin-bottom: 24px; }
+        h1 { color: #1a252f; margin-bottom: 8px; font-size: 28px; }
+        .subtitle { color: #7f8c8d; margin-bottom: 28px; font-size: 15px; }
         
-        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 32px; }
-        .stat-card { background: white; border-radius: 8px; padding: 20px; box-shadow: 0 0 1px 3px rgba(0,0,0,0.1); }
-        .stat-value { font-size: 32px; font-weight: 700; color: #1a1a1a; }
-        .stat-label { font-size: 14px; color: #666; margin-top: 4px; }
-        .stat-card.warning .stat-value { color: #e67e22; }
-        .stat-card.danger .stat-value { color: #e74c3c; }
-        .stat-card.success .stat-value { color: #27ae60; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-bottom: 32px; }
+        .stat-card { background: white; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-left: 4px solid #3498db; }
+        .stat-card.success { border-left-color: #27ae60; }
+        .stat-card.warning { border-left-color: #e67e22; }
+        .stat-value { font-size: 32px; font-weight: 700; color: #2c3e50; }
+        .stat-label { font-size: 13px; color: #7f8c8d; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
         
-        .exams-table { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        .exams-table-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
         table { width: 100%; border-collapse: collapse; }
-        th, td { padding: 16px; text-align: left; border-bottom: 1px solid #eee; }
-        th { background: #fafafa; font-weight: 600; color: #333; font-size: 14px; }
-        tr:hover { background: #fafafa; }
-        .exam-name { font-weight: 600; color: #1a1a1a; }
-        .exam-meta { color: #666; font-size: 14px; }
+        th, td { padding: 16px 20px; text-align: left; border-bottom: 1px solid #edf2f7; }
+        th { background: #f8fafc; font-weight: 600; color: #4a5568; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px; }
+        tr:hover { background: #f8fafc; }
+        .exam-name { font-weight: 600; color: #2d3748; font-size: 15px; }
+        .exam-meta { color: #a0aec0; font-size: 13px; margin-top: 2px; }
         .score-badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600; }
         .score-excellent { background: #e8f8f0; color: #27ae60; }
         .score-good { background: #fff3e0; color: #e67e22; }
         .score-poor { background: #fdeaea; color: #e74c3c; }
-        .btn { display: inline-block; padding: 8px 16px; background: #3498db; color: white; text-decoration: none; border-radius: 6px; font-size: 14px; font-weight: 500; transition: background 0.2s; }
-        .btn:hover { background: #2980b9; }
-        .btn-secondary { background: #95a5a6; }
-        .btn-secondary:hover { background: #7f8c8d; }
-        .empty-state { text-align: center; padding: 60px 20px; color: #999; }
+        .btn { display: inline-block; padding: 8px 16px; background: #3182ce; color: white; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 600; transition: background 0.2s; }
+        .btn:hover { background: #2b6cb0; }
+        .empty-state { text-align: center; padding: 60px 20px; color: #a0aec0; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>ENADE Auditor</h1>
-        <p class="subtitle">Dashboard de auditoria de extração de questões</p>
+        <p class="subtitle">Auditoria e visualização das questões individuais extraídas</p>
         
         <div class="stats-grid">
             <div class="stat-card success">
@@ -61,17 +58,17 @@
             </div>
         </div>
         
-        <div class="exams-table">
+        <div class="exams-table-card">
             {% if exams %}
             <table>
                 <thead>
                     <tr>
-                        <th>Prova</th>
+                        <th>Prova (ID)</th>
                         <th>Ano</th>
                         <th>Curso</th>
                         <th>Páginas</th>
                         <th>Questões</th>
-                        <th>Score</th>
+                        <th>Score Geral</th>
                         <th>Ação</th>
                     </tr>
                 </thead>
@@ -79,20 +76,20 @@
                     {% for exam in exams %}
                     <tr>
                         <td>
-                            <div class="exam-name">{{ exam.arquivo }}</div>
-                            <div class="exam-meta">Tipo: {{ exam.tipo_pdf }}</div>
+                            <div class="exam-name">{{ exam.id_prova }}</div>
+                            <div class="exam-meta">{{ exam.arquivo }} | {{ exam.tipo_pdf }}</div>
                         </td>
-                        <td>{{ exam.ano }}</td>
+                        <td><strong>{{ exam.ano }}</strong></td>
                         <td>{{ exam.curso }}</td>
                         <td>{{ exam.total_paginas }}</td>
-                        <td>{{ exam.questoes_extraidas }} / {{ exam.questoes_detectadas }}</td>
+                        <td><strong>{{ exam.questoes_extraidas }}</strong> / {{ exam.questoes_detectadas }}</td>
                         <td>
                             <span class="score-badge {% if exam.score_geral >= 95 %}score-excellent{% elif exam.score_geral >= 80 %}score-good{% else %}score-poor{% endif %}">
                                 {{ "%.1f"|format(exam.score_geral) }}%
                             </span>
                         </td>
                         <td>
-                            <a href="/prova/{{ exam.ano }}/{{ exam.arquivo }}" class="btn">Auditar</a>
+                            <a href="/prova/{{ exam.id_prova }}" class="btn">Auditar Questões</a>
                         </td>
                     </tr>
                     {% endfor %}
@@ -100,8 +97,8 @@
             </table>
             {% else %}
             <div class="empty-state">
-                <h3>Nenhuma prova processada</h3>
-                <p>Coloque PDFs na pasta <code>/enade/provas</code> e execute o processamento.</p>
+                <h3>Nenhuma prova processada ainda</h3>
+                <p style="margin-top: 8px;">Coloque arquivos PDF na pasta <code>provas/</code> e execute o processador.</p>
             </div>
             {% endif %}
         </div>

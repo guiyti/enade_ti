@@ -1,0 +1,50 @@
+{
+  "id_questao": "q18",
+  "numero": 18,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    9
+  ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 300.59999999999997,
+      "y0": 381.7666931152344,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q18.txt",
+  "largura": 1154,
+  "altura": 1762,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 18\nOs números de Fibonacci constituem uma seqüência\nde números na qual os dois primeiros elementos são 0 e 1\ne os demais, a soma dos dois elementos imediatamente\nanteriores na seqüência. Como exemplo, a seqüência\nformada pelos 10 primeiros números de Fibonacci é: 0, 1,\n1, 2, 3, 5, 8, 13, 21, 34. Mais precisamente, é possível\ndefinir os números de Fibonacci pela seguinte relação de\nrecorrência:\nfib (n) = 0, se n = 0\nfib (n) = 1, se n = 1\nfib (n) = fib (n ! 1) + fib (n ! 2), se n > 1\nAbaixo, apresenta-se uma implementação em\nlinguagem funcional para essa relação de recorrência:\nfib :: Integer -> Integer\nfib 0 = 0\nfib 1 = 1\nfib n = fib (n ! 1) + fib (n ! 2)\nConsiderando que o programa acima não reutilize\nresultados previamente computados, quantas chamadas\nsão feitas à função fib para computar fib 5?\nA\n11\nB\n12\nC\n15\nD\n24\nE\n25",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 304.79901123046875,
+      "y": 393.7666931152344,
+      "x1": 374.1710510253906,
+      "y1": 404.80670166015625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 18"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654202",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

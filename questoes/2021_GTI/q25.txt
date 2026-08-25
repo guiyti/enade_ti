@@ -1,0 +1,25 @@
+QUESTÃO 25	
+Atualmente um número crescente de empresas investe em Tecnologia de Informação (TI), contudo, 
+investir em TI somente por modismo, sem se preocupar com os procedimentos adequados para que isso 
+ocorra, gera um risco elevado. A TI exige qualidade em seu desenvolvimento, principalmente na criação 
+dos sistemas de informações gerenciais, onde a Engenharia de Software deve ser aplicada. O ambiente 
+deve estar preparado para receber esta tecnologia e saber fazer bom uso dela. Em algumas ocasiões, 
+é bastante complexo estabelecer uma forma para mensurar e quantificar a capacidade que a TI possui 
+para criar valores, reduzir custos e avaliar se realmente a empresa está se tornando melhor ou mais 
+competitiva com sua aplicação.
+PRADO, A. et al. Tecnologia da Informação Aplicada de Forma Estratégica nos Processos Organizacionais, por Meio de Sistemas de 
+Informações Gerenciais. Janus Revista de Pesquisa Científica - UNIFATEA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (adaptado).
+Considerando as informações do texto, avalie as afirmações a seguir, acerca das atividades fundamentais 
+da Engenharia de Software. 
+I.	 A Especificação do Software é a etapa em que clientes e engenheiros projetam e programam 
+o software.
+II.	 A Validação de Software é a etapa para assegurar se o programa atende as demandas do cliente.
+III.	 A Evolução do Software é a etapa de modificação para definir a mudança de requisitos, tanto do 
+cliente quanto do mercado.
+É correto o que se afirma em
+A	 I, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 II e III, apenas.
+E	 I, II e III.
+Área livre

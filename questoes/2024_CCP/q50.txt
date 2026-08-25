@@ -1,0 +1,29 @@
+QUESTÃO 50	
+Considerando as especificidades de cada escola e de seus 
+estudantes, qual alternativa apresenta uma abordagem 
+metodológica alinhada às características da Aprendizagem 
+Baseada em Projetos para o ensino de algoritmos de ordenação?
+A	 Na Escola A, propor o desenvolvimento, pelos estudantes, 
+de algoritmos para organizar dados reais, como listas de 
+livros da biblioteca, utilizando linguagens de programação. 
+Na Escola B, os estudantes podem criar simuladores com 
+objetos manuais, como jogos de cartas, representando o 
+funcionamento de algoritmos de ordenação.
+B	 Na Escola A, propor uma competição entre os estudantes 
+para verificar suas habilidades na implementação de 
+algoritmos de ordenação mais eficientes. Na Escola B, 
+organizar desafios para ordenar objetos físicos, como 
+fichas ou papéis, simulando os algoritmos de ordenação 
+e apresentar as estratégias usadas.
+C	 Na Escola A, propor o desenvolvimento de atividades 
+práticas baseadas em repetição de códigos no laboratório, 
+visando a fixação dos algoritmos de ordenação por meio 
+de linguagens de programação. Na Escola B, sugerir que os 
+estudantes criem murais explicativos com os passos dos 
+algoritmos, utilizando materiais recicláveis.
+D	 Na Escola A, propor a realização de uma sequência de 
+oficinas, em que os estudantes explorem diferentes 
+algoritmos de ordenação, com exercícios guiados. 
+Na Escola B, propor atividades em que os estudantes, em 
+grupos, pesquisem algoritmos de ordenação, com base em 
+exemplos do mundo real, discutindo como eles funcionam.

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q19",
+  "numero": 19,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q19.txt",
+  "largura": 2185,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 19\t\nArquitetura de software é uma representação que permite analisar a efetividade do projeto no \nentendimento dos requisitos declarados. Durante a fase de concepção da arquitetura, podem-se \nconsiderar alternativas de arquitetura em um estágio em que mudanças ainda são realizadas com menor \nesforço, diminuindo riscos associados à construção do software ainda na fase inicial.\nPRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. Porto Alegue: AMGH, 2016 (adaptado).\nA respeito dos estilos e padrões arquiteturais contidos na engenharia de software, avalie as afirmações \na seguir.\nI.\t Em arquiteturas orientadas a objetos, a comunicação entre os componentes do software é realizada \npor intermédio da troca de mensagens.\nII.\t As arquiteturas monolíticas consistem de um sistema dividido em pequenas partes, possibilitando \nque estas tenham sua manutenção, execução e evolução individual.\nIII.\t No padrão arquitetural Modelo-Visão-Controle (MVC), a camada de Modelo armazena as interações \nrealizadas no Controle, podendo ser apresentados/manipulados posteriormente na Visão.\nIV.\t Nas arquiteturas microsserviços, o software possui componentes altamente acoplados, dificultando \na manutenção.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t II e III.\nC\t II e IV.\nD\t I, II e IV.\nE\t I, III e IV.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:08.963310",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

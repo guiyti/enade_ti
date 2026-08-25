@@ -1,0 +1,58 @@
+{
+  "id_questao": "q65",
+  "numero": 65,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 547.8467407226562,
+      "x1": 294.59999999999997,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 28,
+      "x0": 300.59999999999997,
+      "y0": 55.0,
+      "x1": 570.1999999999999,
+      "y1": 72.44668579101562,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q65.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q65.txt",
+  "largura": 1154,
+  "altura": 1156,
+  "confianca": 0.98,
+  "texto_completo": "2\nCO\nÇÃO\nQUESTÃO 65\nConsidere os seguintes itens: (i) características do produto;\n(ii) o modelo de maturidade e capacidade; (iii) o paradigma\ne os métodos de desenvolvimento. A quais níveis de\nabstração \nde \nprocessos \nesses \nitens \nestão,\nrespectivamente, associados?\nA\nprocesso padrão, processo especializado e processo\ninstanciado\nB\nprocesso padrão, processo instanciado e processo\nespecializado\nC\nprocesso instanciado, processo padrão e processo\nespecializado\nD\nprocesso instanciado, processo especializado e\nprocesso padrão\nE\nprocesso especializado, processo padrão e processo\ninstanciado",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 65,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 35.99909973144531,
+      "y": 559.8467407226562,
+      "x1": 105.36231231689453,
+      "y1": 570.88671875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 65"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654543",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

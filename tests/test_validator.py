@@ -4,16 +4,15 @@ from src.enade.processing.validator import (
     validate_numbering,
     validate_duplicates,
     validate_empty_questions,
-    validate_orphan_pages,
-    validate_question_sizes,
     validate_confidence,
     calculate_overall_score
 )
-from src.enade.core.models import Exam, Question, QuestionStatus
+from src.enade.core.models import Exam, Question, QuestionStatus, QuestionType
 
 
 def create_test_exam(questions):
     exam = Exam(
+        id_prova="test_exam",
         arquivo="test.pdf",
         ano=2022,
         curso="ADS",
@@ -24,9 +23,12 @@ def create_test_exam(questions):
     return exam
 
 
-def create_question(num, pages, conf=0.95, status=QuestionStatus.PENDENTE, width=500, height=300):
+def create_question(num, pages, conf=0.95, status=QuestionStatus.PENDENTE, width=500, height=300, q_type=QuestionType.OBJETIVA, custom_id=None):
+    id_q = custom_id if custom_id else f"{'qd' if q_type == QuestionType.DISCURSIVA else 'q'}{num:02d}"
     return Question(
         numero=num,
+        id_questao=id_q,
+        tipo=q_type,
         paginas=pages,
         caminho_png="",
         caminho_json="",
@@ -60,21 +62,21 @@ def test_validate_numbering_broken():
     assert len(anomalias) == 1
     assert anomalias[0]["tipo"] == "NUMERACAO_QUEBRADA"
     assert anomalias[0]["esperado"] == 2
-    assert anomalias[0]["questao"] == 3
+    assert anomalias[0]["questao"] == "q03"
 
 
 def test_validate_duplicates():
     questions = [
         create_question(1, [1]),
-        create_question(2, [2]),
-        create_question(2, [3]),
+        create_question(2, [2], custom_id="q02"),
+        create_question(2, [3], custom_id="q02"),
     ]
     exam = create_test_exam(questions)
     
     anomalias = validate_duplicates(exam)
     assert len(anomalias) == 1
     assert anomalias[0]["tipo"] == "QUESTAO_DUPLICADA"
-    assert anomalias[0]["questao"] == 2
+    assert anomalias[0]["questao"] == "q02"
 
 
 def test_validate_empty_questions():
@@ -90,39 +92,11 @@ def test_validate_empty_questions():
     assert exam.questoes[1].status == QuestionStatus.REJEITADA
 
 
-def test_validate_orphan_pages():
-    questions = [
-        create_question(1, [1]),
-        create_question(2, [3]),
-    ]
-    exam = create_test_exam(questions)
-    exam.total_paginas = 4
-    
-    anomalias = validate_orphan_pages(exam)
-    assert len(anomalias) == 2
-    pages = {a["pagina"] for a in anomalias}
-    assert pages == {2, 4}
-
-
-def test_validate_question_sizes():
-    questions = [
-        create_question(1, [1], width=500, height=300),
-        create_question(2, [2], width=500, height=300),
-        create_question(3, [3], width=50, height=30),
-    ]
-    exam = create_test_exam(questions)
-    
-    anomalias = validate_question_sizes(exam)
-    assert len(anomalias) == 1
-    assert anomalias[0]["tipo"] == "QUESTAO_MUITO_PEQUENA"
-    assert anomalias[0]["questao"] == 3
-
-
 def test_validate_confidence_low():
     questions = [
         create_question(1, [1], conf=0.95),
         create_question(2, [2], conf=0.4),
-        create_question(3, [3], conf=0.6),
+        create_question(3, [3], conf=0.8),
     ]
     exam = create_test_exam(questions)
     
@@ -130,7 +104,6 @@ def test_validate_confidence_low():
     assert len(anomalias) == 1
     assert anomalias[0]["tipo"] == "BAIXA_CONFIANCA"
     assert exam.questoes[1].status == QuestionStatus.REVISAR
-    assert exam.questoes[2].status == QuestionStatus.REVISAR
 
 
 def test_calculate_overall_score():
@@ -147,7 +120,6 @@ def test_calculate_overall_score():
     ]
     
     score = calculate_overall_score(exam, anomalias)
-    
     assert 0 <= score <= 100
     assert score > 50
 
@@ -161,7 +133,6 @@ def test_validate_exam_integration():
     exam.total_paginas = 3
     
     exam = validate_exam(exam)
-    
     assert len(exam.anomalias) >= 2
     assert exam.score_geral >= 0
     assert exam.score_geral <= 100

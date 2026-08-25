@@ -1,0 +1,30 @@
+9
+QUESTÃO 49
+A segmentação de imagens é uma das partes essenciais
+na área de processamento de imagens. Assinale a opção
+incorreta em relação à detecção de bordas no contexto da
+segmentação de imagens.
+A
+A detecção de bordas é a determinação dos limites de
+um objeto em uma imagem, envolvendo a avaliação da
+variação nos níveis de cinza dos pixels em uma
+vizinhança, sendo uma das formas de segmentação de
+imagens.
+B
+Sobel, Prewitt e Roberts são operadores usados para
+detecção de bordas, todos embasados em gradientes
+calculados sobre os níveis de cinza de uma imagem.
+C
+A detecção de bordas é um processo de segmentação
+de imagens, mas com princípio diferente das técnicas
+que agrupam pixels vizinhos que compartilham
+determinado atributo.
+D
+Crescimento de regiões é um método de detecção de
+bordas embasado em gradientes, usando como critério
+a disparidade de valores entre pixels vizinhos.
+E
+O operador LoG (laplacian of gaussian) é empregado
+para detecção de bordas, usando os cruzamentos de
+zero na determinação dos pixels que formam o limiar
+entre um objeto e outro em uma imagem.

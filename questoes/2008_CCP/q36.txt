@@ -1,0 +1,37 @@
+1
+CO
+ÇÃO
+p
+ç
+p
+ç
+QUESTÃO 36
+Redes locais sem fio que utilizam tecnologia IEEE 8
+comumente referenciada como Wi-Fi, estão se tornando cad
+mais populares. Julgue os itens abaixo, relativos a essa tecno
+I
+Computadores em redes IEEE 802.11 podem-se comunic
+dois modos básicos: usando uma infra-estrutura coord
+por pontos de acesso à rede (access points — AP), ou no
+ad hoc, em que cada computador troca inform
+diretamente com os demais.
+II
+Para poder transmitir por meio de um ponto de acesso
+interface de rede deve realizar um procediment
+associação, que inclui o conhecimento de um c
+identificador (service set identifier — SSI).
+III Um mecanismo de detecção de colisão durante a transm
+indica a necessidade de retransmissão e evita o env
+mensagens de confirmação.
+IV Um mecanismo de requisição para transmissão (requ
+send — RTS) e de liberação para transmissão (clear to se
+CTS) pode ser usado para evitar colisões.
+V O protocolo WEP (wired equivalent privacy) impede
+interfaces não-autorizadas recebam sinais propagado
+meio.
+Estão certos apenas os itens
+A I, II e IV.
+B I, III e V.
+C I, IV e V.
+D II, III e IV.
+E II, III e V.

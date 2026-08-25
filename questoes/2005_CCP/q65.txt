@@ -1,0 +1,32 @@
+A análise de complexidade provê critérios para a classificação
+de problemas com base na computabilidade de suas soluções,
+utilizando-se a máquina de Turing como modelo referencial e
+possibilitando o agrupamento de problemas em classes. Nesse
+contexto, julgue os itens a seguir.
+I
+É possível demonstrar que P f NP e NP f P.
+II
+É 
+possível 
+demonstrar 
+que 
+se 
+P  
+NP, 
+então
+P 1 NP-Completo = i.
+III Se um problema Q é NP-difícil e Q 0 NP, então Q é
+NP-completo.
+IV O problema da satisfatibilidade de uma fórmula booleana F
+(uma fórmula é satisfatível, se é verdadeira em algum
+modelo) foi provado ser NP-difícil e NP-Completo.
+V
+Encontrar o caminho mais curto entre dois vértices dados
+em um grafo de N vértices e M arestas não é um problema
+da classe P.
+Estão certos apenas os itens
+A I, III e IV.
+B II, III, e IV.
+C III, IV e V.
+D I, II, III, e IV.
+E II, III, IV e V.

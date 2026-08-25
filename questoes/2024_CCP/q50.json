@@ -1,0 +1,50 @@
+{
+  "id_questao": "q50",
+  "numero": 50,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 321.35999999999996,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 466.40728759765625,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q50.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q50.txt",
+  "largura": 1240,
+  "altura": 1632,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 50\t\nConsiderando as especificidades de cada escola e de seus \nestudantes, qual alternativa apresenta uma abordagem \nmetodológica alinhada às características da Aprendizagem \nBaseada em Projetos para o ensino de algoritmos de ordenação?\nA\t Na Escola A, propor o desenvolvimento, pelos estudantes, \nde algoritmos para organizar dados reais, como listas de \nlivros da biblioteca, utilizando linguagens de programação. \nNa Escola B, os estudantes podem criar simuladores com \nobjetos manuais, como jogos de cartas, representando o \nfuncionamento de algoritmos de ordenação.\nB\t Na Escola A, propor uma competição entre os estudantes \npara verificar suas habilidades na implementação de \nalgoritmos de ordenação mais eficientes. Na Escola B, \norganizar desafios para ordenar objetos físicos, como \nfichas ou papéis, simulando os algoritmos de ordenação \ne apresentar as estratégias usadas.\nC\t Na Escola A, propor o desenvolvimento de atividades \npráticas baseadas em repetição de códigos no laboratório, \nvisando a fixação dos algoritmos de ordenação por meio \nde linguagens de programação. Na Escola B, sugerir que os \nestudantes criem murais explicativos com os passos dos \nalgoritmos, utilizando materiais recicláveis.\nD\t Na Escola A, propor a realização de uma sequência de \noficinas, em que os estudantes explorem diferentes \nalgoritmos de ordenação, com exercícios guiados. \nNa Escola B, propor atividades em que os estudantes, em \ngrupos, pesquisem algoritmos de ordenação, com base em \nexemplos do mundo real, discutindo como eles funcionam.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 50,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 325.3937072753906,
+      "y": 94.02613830566406,
+      "x1": 385.1302795410156,
+      "y1": 109.29413604736328,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 50"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153527",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

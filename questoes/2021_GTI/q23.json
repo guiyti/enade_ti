@@ -1,0 +1,52 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 280.56,
+      "y1": 734.76,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q23.txt",
+  "largura": 1095,
+  "altura": 2823,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 23\t\nOptar pela implantação da Gestão de Serviços \nem TI é um dos maiores desafios encontrados \npor muitas empresas e organizações que desejam \nadquirir um processo mensurável e que permita a \nmelhoria contínua de suas atividades. Para ajudar \nneste desafio, as bibliotecas de boas práticas são \numa excelente ferramenta de referência para a \nimplantação e manutenção da Gestão de Serviços. \nA biblioteca ITIL é uma das mais conhecidas e \nsugere o ciclo de vida de um serviço dividido em \n5 fases distintas. \nDiante desse contexto, avalie as afirmações a seguir, \nsobre as fases do ciclo de vida do serviço de TI de \nacordo com a biblioteca ITIL.\nI.\t A Estratégia de Serviço é o estágio onde é \ndefinida a direção estratégica dos serviços \nde TI, quem são os seus clientes e quais \nserviços serão disponibilizados para eles.\nII.\t O Desenho de Serviço ajuda a organização a \nplanejar e gerenciar mudanças em serviços \ne implementar liberações no ambiente \nprodutivo.\nIII.\t A \nTransição \nde \nServiço \norienta \no \ndesenvolvimento \nde \nrecursos \npara \na \nimplementação de serviços novos ou \nmodificados, além de garantir que os \nrequisitos da Estratégia, incluídos no \nDesenho, sejam efetivamente realizados.\nIV.\t A Operação de Serviço é momento em que \nos serviços de TI passam a ser consumidos \npelos clientes e usuários, além de ser nesse \nestágio que o valor do serviço é percebido.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e III.\nC\t III e IV.\nD\t I, II e IV.\nE\t I, III e IV.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.948981",
+  "categorias": [
+    "Engenharia de Software",
+    "Sistemas Operacionais e Arquitetura",
+    "Governança e Gestão de TI"
+  ]
+}

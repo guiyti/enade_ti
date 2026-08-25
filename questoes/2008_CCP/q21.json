@@ -1,0 +1,50 @@
+{
+  "id_questao": "q21",
+  "numero": 21,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    11
+  ],
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 259.2466735839844,
+      "x1": 570.1999999999999,
+      "y1": 279.2466735839844,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q21.txt",
+  "largura": 2302,
+  "altura": 113,
+  "confianca": 0.98,
+  "texto_completo": "O\nO\nU\nÇ O\nQUESTÃO 21\nQUESTÃO 23",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 36.8390998840332,
+      "y": 271.2466735839844,
+      "x1": 106.20230865478516,
+      "y1": 282.28668212890625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654216",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

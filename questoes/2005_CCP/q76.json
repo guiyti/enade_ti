@@ -1,0 +1,51 @@
+{
+  "id_questao": "q76",
+  "numero": 76,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    29
+  ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 336.79559326171875,
+      "x1": 295.08,
+      "y1": 797.16,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q76.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q76.txt",
+  "largura": 1155,
+  "altura": 1949,
+  "confianca": 0.98,
+  "texto_completo": "Á\ng\nQUESTÃO 76\nO termo imagem designa uma função\nintensidade luminosa bidimensional f, em que um valor\nde intensidade é associado a coordenadas espaciais\n(x, y). Uma imagem digital é obtida pela digitalização\ndas coordenadas espaciais por meio de um processo\nconhecido como amostragem da imagem. Dessa\nforma, uma imagem contínua monocromática f(x, y) é\naproximada por amostras igualmente espaçadas,\narranjadas na forma de uma matriz N×M, em que cada\nmin\nmax\nelemento é um valor inteiro g. O intervalo [G\n, G\n],\ndo menor ao maior valor de intensidade g, é\nmin\ndenominado escala de cinza. Normalmente, G\n = 0\nmax\ncorresponde a preto, e G\n = G corresponde ao\nbranco.\nConsiderando os conceitos apresentados acima, assinale a\nopção correta.\nA O processo de digitalização da imagem requer que as\ndimensões N e M da matriz mencionada acima sejam\nmúltiplas do número de tons de cinza na imagem.\nB Para imagens binárias, se L for o número de tons de cinza\nrepresentáveis, e L = 2 , então k = 2.\nk\nC Os métodos para realce de imagens que operam no\ndomínio espacial fazem uso do conceito de vizinhança de\npixel.\nD Métodos de filtragem normalmente usam máscaras para\nimpedir a transformação dos níveis de cinza dos pixels da\nimagem. \nE Limiarização é um tipo de processamento de imagens que\namplia o número de níveis de cinza da imagem.\nD\nE\nD\nlo\nci\nite\nI\nII\nIII\nA\nA\nB\nC\nD\nE",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 76,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 40.439998626708984,
+      "y": 348.79559326171875,
+      "x1": 86.86800384521484,
+      "y1": 354.79559326171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 76"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913261",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

@@ -1,0 +1,9 @@
+p
+p
+p
+QUESTÃO 32	
+A linguagem de programação escolhida para construir o programa precisa ser capaz de
+A	 permitir a herança múltipla para criar várias instâncias de um triângulo.
+B	 adotar a recursividade como principal mecanismo de repetição das instruções.
+C	 ocultar os atributos dentro da classe fazendo com que eles sejam acessados apenas por meio de seus métodos.
+D	 realizar a sobrecarga dos métodos a fim de criar mais de um método com o mesmo nome.

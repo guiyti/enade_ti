@@ -1,0 +1,59 @@
+{
+  "id_questao": "q72",
+  "numero": 72,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    34,
+    35
+  ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 505.24810791015625,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 35,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.txt",
+  "largura": 2475,
+  "altura": 1421,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nCOMPUTAÇÃO\n34\n, p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?\nA\t Pilha, inserindo as tarefas da mais fácil para a mais difícil.\nB\t Grafo, inserindo as tarefas da mais fácil para a mais difícil com nós e sem arestas.\nC\t Fila, inserindo as tarefas da mais fácil para a mais difícil.\nD\t Lista encadeada, inserindo, no início, as tarefas da mais fácil para a mais difícil.\nÁrea livre\n\n2025\n*R0404202535*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 72,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 64.6063003540039,
+      "y": 517.2481079101562,
+      "x1": 124.34291076660156,
+      "y1": 532.51611328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 72"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153753",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

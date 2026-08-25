@@ -1,0 +1,50 @@
+{
+  "id_questao": "q28",
+  "numero": 28,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    36
+  ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 329.4610595703125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q28.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q28.txt",
+  "largura": 2185,
+  "altura": 1133,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 28\t\nO modo clássico de encarar um sistema operacional é como um gerenciador de recursos. Desse ponto de \nvista, o sistema operacional é responsável pelo hardware do sistema. Nesse papel, ele recebe solicitações \nde acesso a recursos por parte das aplicações e concede ou nega tais acessos. Ao conceder solicitações de \nalocação, ele deve dispor com cuidado os recursos, de modo que os programas não interfiram uns nos outros.\nPor exemplo, é uma péssima ideia permitir que os programas tenham acesso sem restrição à memória \nuns dos outros. Se um programa com defeito (ou malicioso) escreve no espaço de memória do outro \nprograma, o segundo programa travará, na melhor das hipóteses, ou produzirá resultados incorretos, na \npior das hipóteses. Ou ainda, se o programa ofensivo modificar a memória do sistema operacional poderá \nafetar o comportamento de todo o sistema.\nSTUART. B. L. Princípios de Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (adaptado).\nConsiderando que o texto alerta para a possibilidade de um programa interferir no outro, a atividade que \num sistema operacional garante essa proteção é\nA\t o programa antivírus.\nB\t o gerenciamento de memória.\nC\t o gerenciamento de arquivos.\nD\t o gerenciamento de processos.\nE\t o gerenciamento de entrada e saída.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 28"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:08.963345",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

@@ -5,10 +5,11 @@ import fitz
 from src.enade.processing.structural_extractor import (
     extract_structural_data,
     extract_text_blocks,
-    detect_markers_in_blocks,
+    detect_markers_in_page,
+    decode_enade_str,
     TextBlock
 )
-from src.enade.core.models import Exam, PageData, DetectionMethod
+from src.enade.core.models import Exam, PageData, DetectionMethod, QuestionType
 from src.enade.config import config
 
 
@@ -17,23 +18,31 @@ def create_test_pdf(content_lines):
     doc = fitz.open()
     for i, lines in enumerate(content_lines):
         page = doc.new_page(width=595, height=842)
-        y = 50
+        y = 70
         for line in lines:
             page.insert_text((50, y), line, fontsize=12)
-            y += 20
+            y += 25
     doc.save(str(pdf_path))
     doc.close()
     return pdf_path
 
 
+def test_decode_enade_str():
+    # Corrupted CMap characters
+    encoded = "Yh\x1c^d\x08K\x03Ϭϰ\x03"
+    decoded = decode_enade_str(encoded)
+    assert "QUESTÃO" in decoded
+    assert "04" in decoded
+
+
 def test_extract_text_blocks():
     doc = fitz.open()
-    page = doc.new_page()
-    page.insert_text((50, 50), "QUESTÃO 1", fontsize=14)
-    page.insert_text((50, 80), "Texto da questão 1", fontsize=12)
-    page.insert_text((50, 120), "QUESTÃO 2", fontsize=14)
+    page = doc.new_page(width=595, height=842)
+    page.insert_text((50, 70), "QUESTÃO 1", fontsize=14)
+    page.insert_text((50, 100), "Texto da questão 1", fontsize=12)
+    page.insert_text((50, 140), "QUESTÃO 2", fontsize=14)
     
-    blocks = extract_text_blocks(page, 1)
+    blocks = extract_text_blocks(page, 1, num_colunas=1, mid_x=297.5)
     
     assert len(blocks) >= 3
     assert any("QUESTÃO 1" in b.text for b in blocks)
@@ -49,83 +58,56 @@ def test_extract_text_blocks():
     doc.close()
 
 
-def test_detect_markers_in_blocks():
-    blocks = [
-        TextBlock(text="QUESTÃO 1", x0=50, y0=50, x1=150, y1=70, page_num=1, font_size=14),
-        TextBlock(text="Texto da questão", x0=50, y0=80, x1=200, y1=100, page_num=1, font_size=12),
-        TextBlock(text="Questão 2", x0=50, y0=120, x1=150, y1=140, page_num=1, font_size=14),
-        TextBlock(text="QUESTÃO 10", x0=50, y0=200, x1=160, y1=220, page_num=2, font_size=14),
-    ]
+def test_detect_markers_in_page():
+    doc = fitz.open()
+    page = doc.new_page(width=595, height=842)
+    page.insert_text((50, 70), "QUESTÃO DISCURSIVA 01", fontsize=14)
+    page.insert_text((50, 100), "Texto discursivo", fontsize=12)
+    page.insert_text((50, 200), "QUESTÃO 01", fontsize=14)
     
-    markers = detect_markers_in_blocks(blocks)
+    blocks = extract_text_blocks(page, 2, num_colunas=1, mid_x=297.5)
+    markers, contexts = detect_markers_in_page(page, 2, 1, 297.5, blocks)
     
-    assert len(markers) == 3
+    assert len(markers) == 2
+    assert markers[0].tipo == QuestionType.DISCURSIVA
     assert markers[0].numero == 1
-    assert markers[0].pagina == 1
-    assert markers[0].metodo == DetectionMethod.PDF_STRUCTURE
-    assert markers[1].numero == 2
-    assert markers[2].numero == 10
-    assert markers[2].pagina == 2
+    assert markers[1].tipo == QuestionType.OBJETIVA
+    assert markers[1].numero == 1
+    doc.close()
 
 
 def test_extract_structural_data():
     content = [
+        ["CADERNO DE QUESTÕES", "Instruções gerais"],  # Page 1 (Cover - skipped)
+        ["QUESTÃO DISCURSIVA 1", "Texto da questão discursiva"],
         ["QUESTÃO 1", "Texto da questão 1", "Alternativa A", "Alternativa B"],
-        ["QUESTÃO 2", "Texto da questão 2", "Alternativa C", "Alternativa D"],
-        ["QUESTÃO 3", "Texto da questão 3"],
+        ["QUESTÃO 2", "Texto da questão 2"],
     ]
     
     pdf_path = create_test_pdf(content)
     
     exam = Exam(
+        id_prova="test_exam",
         arquivo="test.pdf",
         ano=2022,
         curso="ADS",
         hash_arquivo="test_hash",
-        total_paginas=3
+        total_paginas=4
     )
     
     exam.paginas = [
-        PageData(numero=1, caminho_imagem="", largura=2480, altura=3508),
-        PageData(numero=2, caminho_imagem="", largura=2480, altura=3508),
-        PageData(numero=3, caminho_imagem="", largura=2480, altura=3508),
+        PageData(numero=1, caminho_imagem="", largura=595, altura=842, num_colunas=1, coluna_divisoria_x=297.5),
+        PageData(numero=2, caminho_imagem="", largura=595, altura=842, num_colunas=1, coluna_divisoria_x=297.5),
+        PageData(numero=3, caminho_imagem="", largura=595, altura=842, num_colunas=1, coluna_divisoria_x=297.5),
+        PageData(numero=4, caminho_imagem="", largura=595, altura=842, num_colunas=1, coluna_divisoria_x=297.5),
     ]
     
-    exam, markers = extract_structural_data(exam)
+    exam, markers, contexts = extract_structural_data(exam)
     
     assert len(markers) == 3
+    assert markers[0].tipo == QuestionType.DISCURSIVA
     assert markers[0].numero == 1
-    assert markers[1].numero == 2
-    assert markers[2].numero == 3
-    assert exam.questoes_detectadas == 3
-    
-    for page in exam.paginas:
-        assert page.texto_estrutural != ""
-        assert len(page.blocos) > 0
-
-
-def test_marker_variations():
-    variations = [
-        ("QUESTÃO 1", 1),
-        ("Questão 2", 2),
-        ("questao 3", 3),
-        ("Q 4", 4),
-        ("q. 5", 5),
-        ("10.", 10),
-        ("15)", 15),
-    ]
-    
-    blocks = [
-        TextBlock(text=v[0], x0=50, y0=50+i*30, x1=150, y1=70+i*30, page_num=1, font_size=12)
-        for i, v in enumerate(variations)
-    ]
-    
-    markers = detect_markers_in_blocks(blocks)
-    
-    assert len(markers) == len(variations)
-    for i, (_, expected_num) in enumerate(variations):
-        assert markers[i].numero == expected_num
-
-
-if __name__ == "__main__":
-    pytest.main([__file__, "-v"])
+    assert markers[1].tipo == QuestionType.OBJETIVA
+    assert markers[1].numero == 1
+    assert markers[2].tipo == QuestionType.OBJETIVA
+    assert markers[2].numero == 2

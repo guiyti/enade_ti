@@ -1,0 +1,50 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    32
+  ],
+  "segmentos": [
+    {
+      "pagina": 32,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q23.txt",
+  "largura": 2185,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 23\t\nO uso da estrutura de dados tipo Árvore Binária de Busca é uma técnica fundamental de programação. \nUma árvore binária é um conjunto finito de elementos que está vazio ou é particionado em três \nsubconjuntos, a saber: 1) raiz da árvore - elemento inicial (único), 2) subárvore da esquerda - se vista \nisoladamente compõe outra árvore e 3) subárvore da direita - se vista isoladamente compõe outra árvore. \nA árvore pode não ter qualquer elemento (árvore vazia). A definição de árvore é recursiva e, devido a \nisso, muitas operações sobre árvores binárias utilizam recursão. Sendo “A” a raiz de uma árvore binária \ne “B” a raiz de sua subárvore esquerda ou direita, é dito que “A” é pai de “B” e que “B” é filho de “A”. \nUm elemento sem filhos é chamado de folha. A altura da árvore é o número de elementos encontrados \nno caminho descendente mais longo que liga a sua raiz até uma folha. \nUma Árvore de Busca Binária é uma árvore binária especializada, na qual a informação que o elemento \nfilho esquerdo possui é numericamente menor que a informação do elemento pai. De forma análoga, \na informação que o elemento filho direito possui é numericamente maior ou igual à informação do \nelemento pai. O objetivo de organizar dados em Árvores Binárias de Busca é facilitar a tarefa de encontrar \num determinado elemento. O percurso completo de uma árvore binária consiste em visitar todos os \nelementos desta árvore, segundo algum critério, a fim de processá-los. Três formas são bem conhecidas \npara a realização deste percurso: 1) pré-ordem, 2) em-ordem e 3) pós-ordem. A figura a seguir mostra um \nexemplo de árvore binária.\nJ\nO\nR\nL\nD\nA\nK\nM\nFigura – Exemplo de Árvore Binária\nLAUREANO, M. A. P. Estrutura de Dados com Algoritmos. São Paulo: Brasport, 2008. p. 126, 129, 136 (adaptado).\nConsiderando o texto e a figura apresentados e que a seguinte lista de elementos numéricos: \n(27, 34, 40, 18, 23, 5, 25, 36, 10, 7, -2) seja totalmente transferida para uma estrutura de Árvore Binária de \nBusca, inicialmente vazia, elemento a elemento, da esquerda para a direita, assinale a alternativa correta.\nA\tA árvore resultante terá 5 níveis de altura, com 6 elementos à esquerda da raiz principal (inicial) \ne 4 elementos à direita.\nB\t O percurso da árvore em Pré-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): -2, 7, 10, 5, 25, 23, 18, 36, 40, 34, 27.\nC\t O percurso da árvore em Em-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40.\nD\t O percurso da árvore em Pós-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.\nE\t O número máximo de elementos que essa árvore poderá ter com 10 níveis será de 1 024 elementos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 32,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543627",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

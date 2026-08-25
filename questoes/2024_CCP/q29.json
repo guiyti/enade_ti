@@ -1,0 +1,50 @@
+{
+  "id_questao": "q29",
+  "numero": 29,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    17
+  ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 342.9111328125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q29.txt",
+  "largura": 2475,
+  "altura": 1118,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 29\t\nCom a intenção de valorizar a presença de estudantes indígenas em uma turma do Ensino Médio, uma professora de Filosofia \napresentou o pensamento do escritor indígena Daniel Munduruku: “um caçador aprende com um caçador mais experiente; \num jovem aprende sua arte na medida em que é capaz de reproduzir a arte dos mais velhos”. Essa ideia aborda diferentes \nformas de transmissão de conhecimento por meio da oralidade e da experiência cotidiana. \nPensando nisso, a professora organizou uma proposta pedagógica envolvendo a história de vida dos estudantes e suas \nexperiências com foco no uso da mandioca (aipim ou macaxeira), da qual se faz, por exemplo, a tapioca – um alimento ancestral \nbastante consumido atualmente. Para isso, buscou-se a memória social das famílias por meio de entrevistas informais sobre \nos conhecimentos de plantio, de colheita e de preparo da mandioca até o seu consumo na comunidade, a fim de integrar \nconhecimentos ancestrais ao currículo escolar.\nAssinale a alternativa que apresenta uma proposta pedagógica que fomente a cooperação entre escola, família e comunidade \nem relação às populações indígenas. \nA\t Elaborar um estudo de caso que exemplifique o uso atual da tapioca na comunidade urbana como forma de validar as \npráticas agrícolas contemporâneas.\nB\t Apresentar vídeos gravados com a participação da comunidade escolar, registrando técnicas ancestrais e contemporâneas \nde se fazer tapioca.\nC\t Construir um mural escolar com depoimentos de nutricionistas que sugerem o consumo da tapioca nas dietas. \nD\t Transcrever as falas dos entrevistados sobre as práticas ancestrais agrícolas para análise nas aulas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153436",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

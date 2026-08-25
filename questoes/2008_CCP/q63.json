@@ -1,0 +1,62 @@
+{
+  "id_questao": "q63",
+  "numero": 63,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    27,
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 300.59999999999997,
+      "y0": 401.56671142578125,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 2
+    },
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 294.59999999999997,
+      "y1": 72.44668579101562,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q63.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q63.txt",
+  "largura": 1154,
+  "altura": 1766,
+  "confianca": 0.98,
+  "texto_completo": "6\ncreve o\nmodelo\nsenta as\no de vida\nito, qual\nssidades\nI?\ntituições\nrincípios\nidade, a\nniciar um\nauditoria\nual valor\natender?\nQUESTÃO 63\nConsidere \na \nseguinte \nrepresentação \nde\nabstração de generalização/especialização, com\npropriedade de cobertura parcial e sobreposta,\nsegundo notação do diagrama entidade-\nrelacionamento estendido.\nA \nB \nC \nO \natrB \npkA \natrA \natrC \nQual opção apresenta um esquema de banco de\ndados relacional que representa corretamente a\nreferida abstração?\nA\nA(pkA, atrA) B(atrB) C(atrC).\nB\nA(pkA, atrA, atrB, atrC, tipoBouC),\nem que tipoBouC é booleano.\nC\nA(pkA, atrA, atrB, atrC, tipoB,\ntipoC), em que tipoB e tipoC são\nbooleanos.\nD\nB(pkA, atrA, atrB) C(pkA, atrA,\natrC).\nE\nA(pkA, atrA) B(pkB, atrB) C(pkC,\natrC), em que pkB e pkC são atributos\nartificiais criados para ser a chave primária\ndas relações B e C, respectivamente.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q63_fig1.jpeg"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 63,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 350.1590881347656,
+      "y": 413.56671142578125,
+      "x1": 419.5223083496094,
+      "y1": 424.6067199707031,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 63"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654392",
+  "categorias": [
+    "Banco de Dados",
+    "Governança e Gestão de TI"
+  ]
+}

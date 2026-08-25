@@ -1,0 +1,62 @@
+{
+  "id_questao": "qd60",
+  "numero": 60,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    26,
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 64.48672485351562,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 0
+    },
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 294.59999999999997,
+      "y1": 405.56671142578125,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.txt",
+  "largura": 2302,
+  "altura": 4560,
+  "confianca": 0.98,
+  "texto_completo": "25\nCO\nÇÃO\nQUESTÃO 60 – DISCURSIVA\nPara transmissões de sinais em banda base, a largura de banda do canal limita a taxa de\ntransmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de\ntransmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação\na seguir.\nC = 2 × W bauds\nNo entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos\neletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,\né caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído\ntérmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e\napresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.\nC = W × log2 (1 + \n) bps\nTendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão\nmáxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16\ndiferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.\nA Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em\nbits por segundo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\nRASCUNHO – QUESTÃO 60 - A\nB Na presença de ruído térmico, de acordo com a lei de Shannon, qual a taxa de transmissão máxima do canal, em bits\npor segundo? Apresente os cálculos necessário e considere que log10 (1.023) = 3,01.\n(valor: 3,0 pontos)\nRASCUNHO – QUESTÃO 60 - B\nC Na presença de ruído térmico, é possível adotar mais de 16 níveis de sinalização no referido canal? Justifique.\n(valor: 4,0 pontos)\nRASCUNHO – QUESTÃO 60 - C\n\nAs questões de 61 a 80, a seguir, são específicas par\nBACHARELADO EM SIST\nFigura para a questão 61\nEstágios do ciclo d\nGerente do desenvolvimento\nde aplicações\nGerenciamento de aplicações\nCliente\nN\nDesenho e planejamento\nSuporte té\nAdministra\nValida\nserviço\nPlanejar\nserviços\nDefinir\npolíticas\nEstabelecer\nestratégias\nEstratégias, planos e requisitos\nGerente de serviços\nEntrega de serviços",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd60_fig1.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd60_fig2.png"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 60,
+      "tipo": "DISCURSIVA",
+      "pagina": 26,
+      "x": 35.99909973144531,
+      "y": 76.48672485351562,
+      "x1": 185.15719604492188,
+      "y1": 87.52672576904297,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 60 – DISCURSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654378",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

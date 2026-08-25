@@ -1,0 +1,52 @@
+{
+  "id_questao": "q31",
+  "numero": 31,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    35
+  ],
+  "segmentos": [
+    {
+      "pagina": 35,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q31.txt",
+  "largura": 2185,
+  "altura": 2823,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 31\t\nPara a adoção do modelo COBIT ter sucesso é necessário que seja levado em consideração a maturidade \ne a cultura da empresa, que definirá em qual nível serão implantados os controles de cada processo \ne quais processos, e até mesmo a necessidade de tropicalização do modelo para melhor se adequar à \nrealidade da empresa.\nGIAMPAOLI, R. Z.; TESTA, M. G.; LUCIANO, D. M. Contribuições do modelo COBIT para a Governança Corporativa e de \nTecnologia da Informação: desafios, problemas e benefícios na percepção de especialistas e CIOs. \nAnálise. Porto Alegre, v. 22, n. 2, p. 120-133, jul./dez. 2011, p. 132 (adaptado).\nCom base no texto apresentado, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t Para garantir o êxito do planejamento estratégico ou mesmo da estratégia de TI das organizações, é \nnecessário a utilização do COBIT, modelo integrador das diversas práticas de governança de TI.\nPORQUE\nII.\t Para tropicalização do COBIT, é necessário que ele seja complementado e utilizado com outros \nmodelos, já que sua implementação ocorre em alto nível, e os demais, em nível operacional.\nA respeito dessas asserções, assinale a opção correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t A asserção I é uma proposição verdadeira, e a asserção II é uma proposição falsa.\nD\t A asserção I é uma proposição falsa, e a asserção II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 35,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.949016",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura",
+    "Governança e Gestão de TI",
+    "Formação Geral e Sociedade"
+  ]
+}

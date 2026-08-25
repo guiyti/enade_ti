@@ -3,89 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Questão {{ question.numero }} - {{ exam.arquivo }}</title>
+    <title>{{ question.id_questao.upper() }} - {{ exam.id_prova }}</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; padding: 20px; }
-        .container { max-width: 1000px; margin: 0 auto; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; padding: 24px; color: #2c3e50; }
+        .container { max-width: 1200px; margin: 0 auto; }
         .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
-        .header h1 { color: #1a1a1a; }
-        .meta { color: #666; }
+        .header h1 { color: #1a252f; font-size: 26px; }
+        .meta { color: #7f8c8d; font-size: 14px; margin-top: 4px; }
         
-        .info-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
-        .info-card { background: white; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .info-label { font-size: 13px; color: #666; text-transform: uppercase; letter-spacing: 0.5px; }
-        .info-value { font-size: 20px; font-weight: 600; color: #1a1a1a; margin-top: 4px; }
+        .info-panel { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 16px; margin-bottom: 24px; }
+        .info-card { background: white; border-radius: 10px; padding: 18px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .info-label { font-size: 11px; color: #7f8c8d; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+        .info-value { font-size: 18px; font-weight: 700; color: #2c3e50; margin-top: 4px; }
         .info-value.low { color: #e74c3c; }
         .info-value.warning { color: #e67e22; }
         
-        .status-selector { margin-bottom: 24px; }
-        .status-btn { padding: 8px 16px; border: 2px solid #ddd; background: white; border-radius: 6px; font-size: 14px; font-weight: 500; cursor: pointer; margin-right: 8px; transition: all 0.2s; }
-        .status-btn.active { border-color: #3498db; background: #3498db; color: white; }
-        .status-btn:hover:not(.active) { border-color: #3498db; }
-        .status-btn.approved.active { border-color: #27ae60; background: #27ae60; }
-        .status-btn.review.active { border-color: #e67e22; background: #e67e22; }
-        .status-btn.rejected.active { border-color: #e74c3c; background: #e74c3c; }
+        .status-selector { margin-bottom: 24px; background: white; padding: 16px 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); display: flex; align-items: center; gap: 12px; }
+        .status-btn { padding: 8px 18px; border: 2px solid #cbd5e0; background: white; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .status-btn.active { border-color: #3182ce; background: #3182ce; color: white; }
+        .status-btn.approved.active { border-color: #27ae60; background: #27ae60; color: white; }
+        .status-btn.review.active { border-color: #e67e22; background: #e67e22; color: white; }
+        .status-btn.rejected.active { border-color: #e74c3c; background: #e74c3c; color: white; }
         
-        .image-container { background: white; border-radius: 8px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .image-container img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+        .content-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+        @media (max-width: 900px) { .content-layout { grid-template-columns: 1fr; } }
         
-        .anomalies { margin-top: 24px; }
-        .anomalies h3 { color: #1a1a1a; margin-bottom: 12px; }
-        .anomaly { background: #fdeaea; border-left: 4px solid #e74c3c; padding: 12px 16px; border-radius: 4px; margin-bottom: 8px; }
+        .image-container { background: white; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); text-align: center; }
+        .image-container img { max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 4px; border: 1px solid #edf2f7; }
+        
+        .text-container { background: white; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .text-container h3 { font-size: 16px; margin-bottom: 12px; color: #2d3748; }
+        .extracted-text { white-space: pre-wrap; font-family: 'SFMono-Regular', Consolas, Menlo, monospace; font-size: 13px; line-height: 1.6; background: #f8fafc; padding: 16px; border-radius: 6px; border: 1px solid #edf2f7; max-height: 600px; overflow-y: auto; color: #2d3748; }
+        
+        .anomalies { margin-top: 24px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+        .anomalies h3 { color: #1a252f; margin-bottom: 12px; font-size: 16px; }
+        .anomaly { background: #fdeaea; border-left: 4px solid #e74c3c; padding: 10px 14px; border-radius: 4px; margin-bottom: 8px; font-size: 13px; }
         .anomaly.warning { background: #fff3e0; border-color: #e67e22; }
         .anomaly.info { background: #e8f8f0; border-color: #27ae60; }
         
-        .btn { padding: 10px 20px; border: none; border-radius: 6px; font-size: 14px; font-weight: 500; cursor: pointer; text-decoration: none; display: inline-block; }
-        .btn-secondary { background: #95a5a6; color: white; }
-        .btn-secondary:hover { background: #7f8c8d; }
+        .btn { padding: 10px 18px; border: none; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-secondary { background: #718096; color: white; }
+        .btn-secondary:hover { background: #4a5568; }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <div>
-                <h1>Questão {{ question.numero }}</h1>
-                <div class="meta">{{ exam.arquivo }} | {{ exam.ano }} | {{ exam.curso }}</div>
+                <h1>Questão {{ question.id_questao.upper() }} ({{ question.tipo.value }})</h1>
+                <div class="meta">{{ exam.id_prova }} | {{ exam.arquivo }} | Ano {{ exam.ano }}</div>
             </div>
-            <a href="/prova/{{ exam.ano }}/{{ exam.arquivo }}" class="btn btn-secondary">← Voltar</a>
+            <a href="/prova/{{ exam.id_prova }}" class="btn btn-secondary">← Voltar à Prova</a>
         </div>
         
         <div class="info-panel">
             <div class="info-card">
                 <div class="info-label">Status</div>
-                <div class="info-value">{{ question.status.value }}</div>
+                <div class="info-value" id="status-display">{{ question.status.value }}</div>
+            </div>
+            <div class="info-card">
+                <div class="info-label">Tipo</div>
+                <div class="info-value">{{ question.tipo.value }}</div>
             </div>
             <div class="info-card">
                 <div class="info-label">Confiança</div>
-                <div class="info-value {% if question.confianca < 0.5 %}low{% elif question.confianca < 0.7 %}warning{% endif %}">{{ "%.0f"|format(question.confianca * 100) }}%</div>
+                <div class="info-value {% if question.confianca < 0.6 %}low{% elif question.confianca < 0.8 %}warning{% endif %}">{{ "%.0f"|format(question.confianca * 100) }}%</div>
             </div>
             <div class="info-card">
                 <div class="info-label">Páginas</div>
                 <div class="info-value">{{ question.paginas|join(', ') }}</div>
             </div>
             <div class="info-card">
-                <div class="info-label">Dimensões</div>
+                <div class="info-label">Dimensões PNG</div>
                 <div class="info-value">{{ question.largura }} x {{ question.altura }} px</div>
             </div>
         </div>
         
         <div class="status-selector">
+            <span style="font-size: 13px; font-weight: 600; color: #4a5568;">Alterar Status:</span>
             <button class="status-btn {% if question.status.value == 'PENDENTE' %}active{% endif %}" onclick="updateStatus('PENDENTE')">Pendente</button>
             <button class="status-btn approved {% if question.status.value == 'APROVADA' %}active{% endif %}" onclick="updateStatus('APROVADA')">Aprovada</button>
             <button class="status-btn review {% if question.status.value == 'REVISAR' %}active{% endif %}" onclick="updateStatus('REVISAR')">Revisar</button>
             <button class="status-btn rejected {% if question.status.value == 'REJEITADA' %}active{% endif %}" onclick="updateStatus('REJEITADA')">Rejeitada</button>
         </div>
         
-        <div class="image-container">
-            <img src="{{ png_url }}" alt="Questão {{ question.numero }}" id="question-image">
+        <div class="content-layout">
+            <div class="image-container">
+                <h3 style="text-align: left; margin-bottom: 12px; font-size: 15px; color: #2d3748;">Recorte Visual Original (PNG 300 DPI)</h3>
+                <img src="{{ png_url }}" alt="{{ question.id_questao }}" id="question-image">
+            </div>
+            
+            <div class="text-container">
+                <h3>Texto Extraído</h3>
+                {% if question.texto_completo %}
+                <div class="extracted-text">{{ question.texto_completo }}</div>
+                {% else %}
+                <p style="color: #a0aec0; font-style: italic;">Texto estrutural não disponível ou questão estritamente visual.</p>
+                {% endif %}
+            </div>
         </div>
         
         {% if question.anomalias %}
         <div class="anomalies">
-            <h3>Anomalias Detectadas</h3>
+            <h3>Alertas / Diagnóstico</h3>
             {% for anomalia in question.anomalias %}
-            <div class="anomaly {% if 'BAIXA' in anomalia or 'MODERADA' in anomalia %}warning{% elif 'ERRO' in anomalia %}{% else %}info{% endif %}">
+            <div class="anomaly {% if 'BAIXA' in anomalia %}warning{% elif 'ERRO' in anomalia %}{% else %}info{% endif %}">
                 {{ anomalia }}
             </div>
             {% endfor %}
@@ -95,18 +118,22 @@
     
     <script>
         async function updateStatus(newStatus) {
-            const response = await fetch(`/questao/{{ exam.ano }}/{{ exam.arquivo }}/{{ question.numero }}/status`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ status: newStatus })
-            });
-            
-            if (response.ok) {
-                document.querySelectorAll('.status-btn').forEach(btn => btn.classList.remove('active'));
-                event.target.classList.add('active');
-                document.querySelector('.info-value').textContent = newStatus;
-            } else {
-                alert('Erro ao atualizar status');
+            try {
+                const response = await fetch(`/questao/{{ exam.id_prova }}/{{ question.id_questao }}/status`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ status: newStatus })
+                });
+                
+                if (response.ok) {
+                    document.querySelectorAll('.status-btn').forEach(btn => btn.classList.remove('active'));
+                    event.target.classList.add('active');
+                    document.getElementById('status-display').textContent = newStatus;
+                } else {
+                    alert('Erro ao atualizar status');
+                }
+            } catch (err) {
+                alert('Erro na requisição: ' + err);
             }
         }
     </script>

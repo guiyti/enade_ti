@@ -1,0 +1,60 @@
+{
+  "id_questao": "q32",
+  "numero": 32,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    12
+  ],
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 537.9756469726562,
+      "x1": 295.08,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 12,
+      "x0": 301.08,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 466.6156005859375,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q32.txt",
+  "largura": 1156,
+  "altura": 2841,
+  "confianca": 0.98,
+  "texto_completo": "Á\nE risco, tempo e escopo.\nQUESTÃO 32\nO planejamento estratégico de sistemas de informação pode ser\nentendido como o processo de identificação de um porta-fólio\ncomputadorizado de aplicações que dá suporte ao plano de\nnegócios das organizações e auxilia na concretização dos objetivos\norganizacionais. Os principais objetivos do processo de\nplanejamento estratégico de sistemas de informação não incluem\nA o alinhamento das estratégias da área de SI com as estratégias\ndo negócio.\nB o comprometimento da alta administração, pela alocação dos\nrecursos e resultados intermediários e incrementais.\nC a melhoria do desempenho da área de SI, seja pela alocação\nmais eficaz de recursos, seja pelo aumento de produtividade\ndos profissionais.\nD a antecipação de tendências, envolvendo inovação tecnológica\ncontínua.\nE a identificação, a avaliação e a validação dos controles\nrelacionados aos sistemas de informação existentes, do ponto\nde vista de sua eficiência e eficácia.\n\nConsidere que a rede de uma empresa usará os protocolos\nTCP/IP para facilitar o acesso do público às informações dessa\nempresa a partir de máquinas conectadas à Internet. Considere\nainda que, ao serem descritos os protocolos que serão usados na\nrede, alguns erros foram cometidos. As descrições estão\napresentadas nos itens a seguir.\nI\nO Internet Protocol (IP) provê serviço não-orientado a\nconexão, e garante a entrega dos datagramas enviados. Além\nde garantir a entrega dos datagramas enviados, outra\nimportante responsabilidade do IP é rotear os datagramas\npor meio de redes interligadas. O roteamento é feito usando-\nse endereços IP.\nII\nO Internet Control Message Protocol (ICMP) possibilita\nque mensagens de erro e de controle sejam trocadas entre\nmáquinas. As mensagens ICMP são transferidas como dados\nem datagramas do IP.\nIII O Transmission Control Protocol (TCP) provê um serviço\norientado a conexão. Os dados são transferidos por meio de\numa conexão em unidades conhecidas como segmentos.\nO TCP espera que a recepção dos segmentos transmitidos\nseja confirmada pelo destino e retransmite segmentos cuja\nrecepção não seja confirmada.\nIV O User Datagram Protocol (UDP) provê um mecanismo\npara \nque \naplicações \npossam \ncomunicar-se \nusando\ndatagramas. O UDP provê um protocolo de transporte\norientado a conexão e não garante a entrega dos datagramas.\nV\nA emulação de terminal usará o protocolo TELNET, e a\ntransferência de arquivos, o File Transfer Protocol (FTP).\nO correio eletrônico será provido pelo Simple Mail Transfer\nProtocol (SMTP) e as mensagens serão transferidas dos\nservidores de correio eletrônico para as máquinas dos\nusuários via Internet Mail Access Protocol (IMAP).\nEstão corretas apenas as descrições\nA I, II e IV.\nD II, III e V.\nB I, II e V.\nE III, IV e V.\nC I, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 41.400001525878906,
+      "y": 549.9756469726562,
+      "x1": 87.8280029296875,
+      "y1": 555.9756469726562,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913119",
+  "categorias": [
+    "Redes e Segurança",
+    "Sistemas Operacionais e Arquitetura",
+    "Governança e Gestão de TI"
+  ]
+}

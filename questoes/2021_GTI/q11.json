@@ -1,0 +1,50 @@
+{
+  "id_questao": "q11",
+  "numero": 11,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    21
+  ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 385.08074951171875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q11.txt",
+  "largura": 2185,
+  "altura": 1365,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 11\t\nUm software é testado para revelar erros cometidos quando projetado e construído. Uma estratégia de \nteste de software deve ser flexível o suficiente para atender a uma abordagem de teste personalizada e \nrígida o bastante para estimular o planejamento e o acompanhamento à medida que o projeto progride.\n PRESSMAN, R. S.; MAXIM, B. R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH Ed., 2016 (adaptado).\nNesse contexto, considere um sistema com as características descritas a seguir.\n•\tGrande número de interfaces;\n•\tNecessidade de acréscimo de módulos e possíveis modificações ao longo do desenvolvimento; e\n•\tGrande volume de usuários e concorrência com outros sistemas que podem ser processados \nsimultaneamente.\nPara a correta produção desse sistema, a melhor estratégia de testes durante as atividades de \ndesenvolvimento deve ser composta por testes de\nA\t desempenho, unidade e caixa branca.\nB\t caixa branca, esforço e integração.\nC\t integração, regressão e esforço.\nD\t caixa branca, desempenho e integração.\nE\t recuperação, integração e segurança.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.948935",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

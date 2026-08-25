@@ -1,0 +1,59 @@
+{
+  "id_questao": "q30",
+  "numero": 30,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    17,
+    18
+  ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 338.9111328125,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q30.txt",
+  "largura": 2475,
+  "altura": 2114,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n17\nFORMAÇÃO GERAL DOCENTE\np\ng\np\nQUESTÃO 30\t\nUma professora, diante da existência de um aterro no entorno da escola, decidiu abordar o tema da sustentabilidade e do descarte \nconsciente com seus estudantes. Para isso, solicitou que eles elaborassem um projeto, e a turma sugeriu as seguintes ações:\n•\tconvidar trabalhadores de coleta seletiva e participantes de movimentos sociais de preservação do meio ambiente para \numa roda de conversa;\n•\trealizar uma ação com os familiares para aprenderem técnicas de limpeza e separação de material reciclável;\n•\tconduzir uma dinâmica coletiva em que os estudantes troquem materiais descartados por brindes variados.\nEm uma perspectiva crítica da Educação Ambiental, as ações propostas pelos estudantes\nA\t normalizam o consumo e o acúmulo de bens como origem da produção dos resíduos.\nB\t proporcionam uma mudança comportamental em relação ao descarte dos resíduos.\nC\t prejudicam o trabalho dos catadores que têm a coleta dos resíduos como fonte de renda.\nD\t preservam o ambiente ao deslocar os resíduos do entorno escolar para outra área. \nÁrea livre\n\n2025\n*R0404202518*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 64.6063003540039,
+      "y": 350.9111328125,
+      "x1": 124.34291076660156,
+      "y1": 366.1791076660156,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153440",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

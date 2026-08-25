@@ -1,0 +1,50 @@
+{
+  "id_questao": "q69",
+  "numero": 69,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 68.44668579101562,
+      "x1": 294.59999999999997,
+      "y1": 439.8866882324219,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q69.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q69.txt",
+  "largura": 1153,
+  "altura": 1578,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 69\nUm ponto crítico para as organizações é a gerência de se\nsistemas legados. Quanto a esses sistemas, é importan\ndecidir se eles devem sofrer uma reengenharia, send\nreimplementados, ou não. Essa decisão é tomada após \navaliarem os sistemas legados com base em dois parâmetro\nvalor estratégico para a organização, ou seja, o valor que e\nagrega para os serviços e produtos da organização; \nqualidade do sistema, ou seja, o custo de manutenção um\nvez que sistemas de baixa qualidade possuem alto custo d\nmanutenção. Essa avaliação classifica esses sistemas d\nacordo com as situações de I a IV indicadas abaixo.\nEm qual(ais) dessas situações um sistema legado deve s\nclassificado para ser indicado a uma reengenharia? \nA\nApenas na situação I.\nB\nApenas na situação IV.\nC\nApenas nas situações I e II.\nD\nApenas nas situações II e III.\nE\nApenas nas situações III e IV.\nalto valor estratégico\nbaixa qualidade (I)\nbaixo valor estratégico\nbaixa qualidade (IV)\nalto valor estratégico\nalta qualidade (II)\nbaixo valor estratégico\nalta qualidade (III)\nvalor estratégico\nqualidade do sistema",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 69,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 35.99909973144531,
+      "y": 80.44668579101562,
+      "x1": 105.36231231689453,
+      "y1": 91.48668670654297,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 69"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654560",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

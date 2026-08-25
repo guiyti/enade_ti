@@ -1,0 +1,20 @@
+QUESTÃO 21	
+No decorrer de um projeto de desenvolvimento de software é compreensível que mudanças venham 
+a ocorrer, sejam por novos entendimentos dos atores envolvidos ou até mesmo de novas demandas 
+apresentadas pelos clientes. Nesta perspectiva, a Gestão de Configuração de Software estabelece 
+um conjunto de atividades para gerenciar alterações através de todo o ciclo de vida de um software.
+PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. 
+Porto Alegre: Artmed Editora S.A. e McGraw-Hill Education, 2016 (adaptado).
+Com base no texto, assinale a opção correta acerca das atividades de gestão de configuração de 
+software.
+A	 Identificação de itens na configuração de software, gerenciamento de alterações, validação de versões e 
+controle de qualidade.
+B	 Identificação de objetos na configuração de software, controle de versão, controle de alterações, 
+auditoria de configuração e relatório de status.
+C	 Gerência de projeto, gerência de configuração de software, ciclo de vida do projeto, processo de 
+software e evolução das configurações.
+D	 Construção de modelo de requisitos, métricas para modelo de projeto, métricas de controle de versão 
+e relatório de manutenção.
+E	 Identificação de alterações, controle de versão, mapeamento de alteração e notificação da alteração 
+aos envolvidos.
+Área livre

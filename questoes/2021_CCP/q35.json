@@ -1,0 +1,50 @@
+{
+  "id_questao": "q35",
+  "numero": 35,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    43
+  ],
+  "segmentos": [
+    {
+      "pagina": 43,
+      "x0": 25.0,
+      "y0": 467.43438720703125,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q35.txt",
+  "largura": 2185,
+  "altura": 1144,
+  "confianca": 0.98,
+  "texto_completo": "E\t A: 5 B: 6 C: 8 D: 0 E: 3 F: 1 G: 2\nQUESTÃO 35\t\nUm sistema distribuído é aquele no qual os componentes de hardware ou software, localizados em \ncomputadores interligados em rede, comunicam-se e coordenam suas ações apenas enviando mensagens \nentre si.\nCOULOURIS, G. et al. Sistemas distribuídos: conceitos e projeto. 5. ed., Porto Alegre: Bookman, 2013 (adaptado).\nCom base na definição apresentada e nos conceitos básicos de sistemas distribuídos, assinale a opção correta.\nA\t A existência de um relógio físico local sincronizado com um relógio global é o que permite aos usuários \nde um sistema distribuído trocarem mensagens de forma coordenada.\nB\t A falha de um componente em um sistema distribuído peer-to-peer causa a interrupção de todos os \ndemais componentes até o seu retorno.\nC\t O compartilhamento dos recursos distribuídos entre computadores interligados por uma rede \né possível desde que os dispositivos sejam homogêneos em termos de hardware e software.\nD\t A adição de novos dispositivos em um sistema distribuído para atender a uma demanda temporária \nou crescente está ligada à característica de escalabilidade do sistema.\nE\t A possibilidade de vários clientes acessarem de forma concorrente um mesmo recurso compartilhado \nem um servidor é resultado do alto nível de transparência do sistema.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 43,
+      "x": 29.76378631591797,
+      "y": 479.43438720703125,
+      "x1": 94.93578338623047,
+      "y1": 493.1864013671875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543676",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

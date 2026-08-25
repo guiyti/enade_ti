@@ -1,0 +1,52 @@
+{
+  "id_questao": "q73",
+  "numero": 73,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    35
+  ],
+  "segmentos": [
+    {
+      "pagina": 35,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 290.6591796875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q73.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q73.txt",
+  "largura": 2475,
+  "altura": 900,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 73\t\nA avaliação na Educação a Distância impõe desafios relacionados à promoção da autonomia dos estudantes e à garantia da \nética acadêmica, especialmente diante do uso crescente de tecnologias como a Inteligência Artificial (IA). Para além da simples \ndetecção de plágio, a avaliação deve valorizar a autoria e promover reflexões éticas sobre o uso das Tecnologias Digitais de \nInformação e Comunicação.\nQual estratégia avaliativa estimula a análise ética e a autoria dos estudantes?\nA\t Realizar fóruns temáticos em que os estudantes discutam criticamente o uso da IA na educação, relacionando argumentos \néticos, experiências pessoais e produções autorais.\nB\t Empregar ferramentas de IA para otimizar a produção textual dos estudantes, produzindo um relatório final sobre a experiência, \npromovendo autonomia total no processo.\nC\t Aplicar testes objetivos para verificar o conhecimento normativo sobre plágio e uso ético das tecnologias, explorando \nexperiências práticas ou debates coletivos.\nD\t Utilizar softwares de detecção de plágio para a vigilância digital como principal instrumento de integridade acadêmica \nfacilitando o trabalho docente.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 73,
+      "tipo": "OBJETIVA",
+      "pagina": 35,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 73"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153757",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura",
+    "Inteligência Artificial e Dados",
+    "Formação Geral e Sociedade"
+  ]
+}

@@ -1,0 +1,38 @@
+serve a situação representada acima, em que o triângulo
+ntificado por A sofre transformações geométricas que o levam para
+ituação identificada por A’. Considerando-se dx e dy parâmetros
+translação e s, parâmetro fator de escala, então o triângulo A’ pode
+obtido a partir da aplicação da seguinte seqüência de
+nsformações aos vértices do triângulo A:
+c
+c
+rotação em torno do ponto (x , y ); escala com fator uniforme
+s  = 2.
+c
+c
+rotação em torno do ponto (x , y ); escala com fator uniforme
+s = 0,5.
+c
+c
+rotação em torno do ponto (x' , y' ); escala com fator
+uniforme s = 0,5; translação com parâmetros de deslocamento
+c
+c
+dx = !x e dy = !y .
+escala com fator uniforme s = 0,5; translação com parâmetros de
+c
+c
+deslocamento dx = x' e dy = y' ; rotação em torno do
+c
+c
+ponto (x , y ).
+c
+c
+tanslação com parâmetros de deslocamento dx = !x e dy = !y ;
+c
+c
+rotação em torno do ponto (x , y ); translação com parâmetros
+c
+c
+de deslocamento dx = x e dy = y ; escala com fator uniforme
+s = 0,5.

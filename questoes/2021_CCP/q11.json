@@ -1,0 +1,51 @@
+{
+  "id_questao": "q11",
+  "numero": 11,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q11.txt",
+  "largura": 2185,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 11\t\nUma equipe de cientistas da computação de uma determinada empresa de animação foi designada \npara desenvolver um sistema capaz de varrer a web no intuito de detectar sites que possam estar \nusando imagens de seus personagens de animação sem o devido consentimento. Portanto, o sistema \ndeverá receber imagens como entrada, classificá-las entre imagens da empresa e imagens não \nproduzidas pela empresa.\nA figura abaixo esboça uma arquitetura de rede neural profunda e o processo de treinamento que os \ncientistas pretendem usar.\nCHOLLET, F. Deep Learning with Python. New York: Manning Publications, 2017 (adaptado).\nApós uma tentativa, notaram-se duas dificuldades: 1) o tempo de treinamento da rede estava muito \nlongo e 2) a acurácia da rede treinada não estava no patamar aceito pela empresa.\nDiante deste contexto, avalie as afirmações a seguir.\nI.\t Aumentar o número de camadas é uma alternativa que pode levar a uma melhora na acurácia, \nalém de diminuir o tempo de treinamento da rede.\nII.\t Fazer uso de redes convolucionais é uma alternativa que pode levar a uma melhora na acurácia, \nno entanto, pode exigir uso de máquinas com maior poder de processamento.\nIII.\t Aumentar o número de unidades de processamento (neurônios) nas camadas pode levar a uma \npiora na acurácia, além de diminuir o tempo de treinamento da rede.\nIV.\t Aumentar o número de amostras de treinamento é uma alternativa que pode levar a uma melhora \nna acurácia, apesar de aumentar o tempo de treinamento da rede.\nV.\t Fazer uso de redes recorrentes é uma alternativa que pode levar a uma melhora na acurácia, no \nentanto, pode exigir uso de máquinas com maior poder de processamento.\nÉ correto apenas o que se afirma em\nA\t I e IV. \nB\t I e V. \nC\t II e III. \nD\t II e IV. \nE III e V\nEntrada (X)\nPesos 1\nPesos\nPesos n\nAjuste dos\npesos\nOtimizador\nCamada de Entrada\nCamada Intermediária n\nCamada de Saída\nSaídas Previstas (Y’)\nSaídas Reais (Y)\nFunção de Perda\n...\nS",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543579",
+  "categorias": [
+    "Programação e POO",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

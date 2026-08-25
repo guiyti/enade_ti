@@ -1,0 +1,59 @@
+{
+  "id_questao": "q09",
+  "numero": 9,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    6,
+    7
+  ],
+  "segmentos": [
+    {
+      "pagina": 6,
+      "x0": 25.0,
+      "y0": 292.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 7,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.txt",
+  "largura": 2475,
+  "altura": 2306,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nFORMAÇÃO GERAL DOCENTE\n6\ng\np\np\np\nç\np\nQUESTÃO 09\t\nCom base no projeto desenvolvido, a alternativa que, sob uma perspectiva crítica, apresenta a relação coerente entre o \nprocedimento metodológico e a avaliação da aprendizagem sobre o consumo responsável de alimentos é um(a)\nA\t roda de conversa que aborde ações relacionadas ao valor nutricional dos alimentos, seguida pela aplicação de uma prova \nobjetiva sobre os conceitos necessários para a realização dessas ações.\nB\t exposição de banners informativos que apresentem os tipos de alimentos utilizados nas composteiras, seguida por um mapa \nmental sobre o reaproveitamento da alimentação escolar.\nC\t debate que aborde a insegurança alimentar com base nas reflexões provocadas ao longo do projeto, seguido pela produção \nde um artigo de opinião a ser publicado no jornal da escola.\nD\t questionário acerca dos tipos de alimentos consumidos pela comunidade escolar, seguido pela montagem de uma composteira \nconforme orientações de um manual técnico.\nÁrea livre\n\n2025\n*R040420257*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 6,
+      "x": 64.6063003540039,
+      "y": 304.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 320.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 09"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153351",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

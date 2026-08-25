@@ -1,0 +1,55 @@
+{
+  "id_questao": "q29",
+  "numero": 29,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    38
+  ],
+  "segmentos": [
+    {
+      "pagina": 38,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q29.txt",
+  "largura": 2185,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 29\t\nAs operações morfológicas são um conjunto de operações que processam imagens com base em formas. \nAs operações morfológicas aplicam um elemento estruturador B a uma imagem A de entrada e geram \numa imagem de saída.\nEm relação às operações morfológicas de Erosão e Dilatação, avalie as afirmações a seguir.\nI.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de pixel \nsobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, por esse \nvalor máximo; exemplo:\nII.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIII.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIV.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nÉ correto o que se afirma em\nA\t I e III, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD\t II e IV, apenas.\nE\t I, II, III e IV.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/figuras/q29_fig1.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/figuras/q29_fig2.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/figuras/q29_fig3.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/figuras/q29_fig4.png"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 38,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543653",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

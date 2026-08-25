@@ -1,0 +1,59 @@
+{
+  "id_questao": "q17",
+  "numero": 17,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26,
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    },
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 542.12,
+      "y1": 311.91058349609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q17.txt",
+  "largura": 2185,
+  "altura": 3908,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 17\t\nDurante parte do tempo, um processo está ocupado realizando computações internas e outras coisas \nque não levam a condições de corrida. No entanto, às vezes, um processo tem de acessar uma memória \ncompartilhada ou arquivos, ou realizar outras tarefas críticas que podem levar a corridas. Essa parte do \nprograma onde a memória compartilhada é acessada é chamada de região crítica ou seção crítica. Se \nconseguíssemos arranjar as coisas de maneira que dois processos jamais estivessem em suas regiões \ncríticas ao mesmo tempo, poderíamos evitar as corridas. Embora essa exigência evite as condições \nde corrida, ela não é suficiente para garantir que processos em paralelo cooperem de modo correto e \neficiente usando dados compartilhados. Precisamos que quatro condições se mantenham para chegar a \numa boa solução.\n1. Dois processos jamais podem simultaneamente estar dentro de suas regiões críticas.\n2. Nenhuma suposição pode ser feita a respeito de velocidades ou de número de CPUs.\n3. Nenhum processo executando fora de sua região crítica pode bloquear qualquer processo.\n4. Nenhum processo deve ser obrigado a esperar eternamente para entrar em sua região crítica.\nEm um sentido abstrato, o comportamento que queremos é mostrado na figura a seguir.\nFigura - Exclusão mútua usando regiões críticas\nTANENBAUM, A. S. Sistemas Operacionais Modernos. 4. ed. Versão para Biblioteca Virtual Pearson. \nSão Paulo: Pearson Education do Brasil, p. 83, 2016 (adaptado).\nA entra na região crítica\nProcesso A\nProcesso B\nT1\nT2\nT3\nT4\nB bloqueado\n\nB tenta entrar\nna região\ncrítica\nB entra na\nregião crítica\nB deixa a\nregião crítica\nTempo\nA deixa a região crítica\n\nConsiderando o texto e a figura apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t Em algumas situações, a exclusão mútua pode ser obtida por meio da desabilitação da interrupção \ncontrolada pelo Sistema Operacional, não sendo permitido que o seu controle seja feito pelo usuário.\nPORQUE\nII.\t A desabilitação da interrupção é uma técnica que pode impedir que o processador que está \nexecutando um processo em sua região crítica seja interrompido para executar outro código, sendo \nmais eficiente em sistemas de multiprocessadores devido a quantidade de processos concorrentes.\nA respeito dessas asserções, assinale a opção correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:24.543603",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

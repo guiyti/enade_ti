@@ -3,61 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ exam.arquivo }} - ENADE Auditor</title>
+    <title>{{ exam.id_prova }} - ENADE Auditor</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f5f5; padding: 20px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f5f7fa; padding: 24px; color: #2c3e50; }
         .container { max-width: 1400px; margin: 0 auto; }
         .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; }
-        .header h1 { color: #1a1a1a; }
-        .header .meta { color: #666; }
+        .header h1 { color: #1a252f; font-size: 26px; }
+        .header .meta { color: #7f8c8d; font-size: 14px; margin-top: 4px; }
         
-        .filters { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+        .stats-bar { display: flex; gap: 16px; margin-bottom: 24px; padding: 16px 20px; background: white; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); flex-wrap: wrap; }
+        .stat-item { display: flex; flex-direction: column; min-width: 120px; }
+        .stat-value { font-size: 22px; font-weight: 700; color: #2c3e50; }
+        .stat-label { font-size: 11px; color: #7f8c8d; text-transform: uppercase; font-weight: 600; }
+        
+        .filters { display: flex; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; background: white; padding: 16px 20px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); align-items: center; }
         .filter-group { display: flex; align-items: center; gap: 8px; }
-        .filter-group label { font-size: 14px; color: #333; }
-        .filter-group select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px; background: white; }
+        .filter-group label { font-size: 13px; font-weight: 600; color: #4a5568; }
+        .filter-group select { padding: 8px 12px; border: 1px solid #cbd5e0; border-radius: 6px; background: white; font-size: 13px; }
         
-        .questions-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
-        .question-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); transition: transform 0.2s, box-shadow 0.2s; }
-        .question-card:hover { transform: translateY(-2px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .questions-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
+        .question-card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.06); transition: transform 0.2s, box-shadow 0.2s; border: 1px solid #edf2f7; display: flex; flex-direction: column; }
+        .question-card:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,0.1); }
         .question-card.low-confidence { border-left: 4px solid #e74c3c; }
         .question-card.review { border-left: 4px solid #e67e22; }
         .question-card.rejected { border-left: 4px solid #95a5a6; opacity: 0.7; }
         
-        .question-header { padding: 16px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; }
-        .question-number { font-size: 18px; font-weight: 700; color: #1a1a1a; }
-        .question-badges { display: flex; gap: 8px; }
-        .badge { padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+        .question-header { padding: 14px 16px; border-bottom: 1px solid #edf2f7; display: flex; justify-content: space-between; align-items: center; background: #f8fafc; }
+        .question-number { font-size: 16px; font-weight: 700; color: #2d3748; }
+        .question-badges { display: flex; gap: 6px; }
+        .badge { padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; text-transform: uppercase; }
+        .badge-type-disc { background: #ebf8ff; color: #3182ce; }
+        .badge-type-obj { background: #f7fafc; color: #4a5568; border: 1px solid #e2e8f0; }
         .badge-pending { background: #e8f8f0; color: #27ae60; }
         .badge-approved { background: #e8f8f0; color: #27ae60; }
         .badge-review { background: #fff3e0; color: #e67e22; }
         .badge-rejected { background: #fdeaea; color: #e74c3c; }
-        .confidence { font-size: 13px; color: #666; }
-        .confidence.low { color: #e74c3c; font-weight: 600; }
         
-        .question-image { width: 100%; max-height: 200px; object-fit: contain; background: #fafafa; }
-        .question-footer { padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; }
-        .question-pages { font-size: 12px; color: #999; }
-        .btn { padding: 6px 12px; border: none; border-radius: 4px; font-size: 13px; font-weight: 500; cursor: pointer; text-decoration: none; display: inline-block; }
-        .btn-primary { background: #3498db; color: white; }
-        .btn-primary:hover { background: #2980b9; }
+        .image-preview-container { height: 220px; background: #fbfbfb; display: flex; align-items: center; justify-content: center; overflow: hidden; border-bottom: 1px solid #edf2f7; position: relative; }
+        .question-image { max-width: 100%; max-height: 100%; object-fit: contain; }
         
-        .empty-state { text-align: center; padding: 60px 20px; color: #999; grid-column: 1/-1; }
-        
-        .stats-bar { display: flex; gap: 16px; margin-bottom: 16px; padding: 16px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
-        .stat-item { display: flex; flex-direction: column; }
-        .stat-value { font-size: 24px; font-weight: 700; color: #1a1a1a; }
-        .stat-label { font-size: 12px; color: #666; }
+        .question-footer { padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; margin-top: auto; }
+        .question-pages { font-size: 12px; color: #a0aec0; }
+        .btn { padding: 6px 14px; border: none; border-radius: 6px; font-size: 12px; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-block; }
+        .btn-primary { background: #3182ce; color: white; }
+        .btn-primary:hover { background: #2b6cb0; }
+        .empty-state { text-align: center; padding: 60px 20px; color: #a0aec0; grid-column: 1/-1; }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <div>
-                <h1>{{ exam.arquivo }}</h1>
-                <div class="meta">{{ exam.ano }} | {{ exam.curso }} | {{ exam.total_paginas }} páginas | Tipo: {{ exam.tipo_pdf }}</div>
+                <h1>{{ exam.id_prova }}</h1>
+                <div class="meta">{{ exam.arquivo }} | Ano {{ exam.ano }} | {{ exam.curso }} | {{ exam.total_paginas }} páginas | {{ exam.tipo_pdf }}</div>
             </div>
-            <a href="/" class="btn" style="background: #95a5a6;">← Voltar</a>
+            <a href="/" class="btn" style="background: #718096; color: white;">← Voltar ao Dashboard</a>
         </div>
         
         <div class="stats-bar">
@@ -66,12 +67,16 @@
                 <span class="stat-label">Questões Extraídas</span>
             </div>
             <div class="stat-item">
-                <span class="stat-value">{{ exam.questoes_detectadas }}</span>
-                <span class="stat-label">Marcadores Detectados</span>
-            </div>
-            <div class="stat-item">
                 <span class="stat-value">{{ "%.1f"|format(exam.score_geral) }}%</span>
                 <span class="stat-label">Score Geral</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ tipo_counts.get('DISCURSIVA', 0) }}</span>
+                <span class="stat-label">Discursivas</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value">{{ tipo_counts.get('OBJETIVA', 0) }}</span>
+                <span class="stat-label">Objetivas</span>
             </div>
             <div class="stat-item">
                 <span class="stat-value">{{ status_counts.get('APROVADA', 0) }}</span>
@@ -81,59 +86,61 @@
                 <span class="stat-value">{{ status_counts.get('REVISAR', 0) }}</span>
                 <span class="stat-label">Para Revisar</span>
             </div>
-            <div class="stat-item">
-                <span class="stat-value">{{ status_counts.get('REJEITADA', 0) }}</span>
-                <span class="stat-label">Rejeitadas</span>
-            </div>
         </div>
         
         <div class="filters">
-            <form method="GET">
+            <form method="GET" style="display: flex; gap: 16px; flex-wrap: wrap;">
+                <div class="filter-group">
+                    <label>Tipo:</label>
+                    <select name="tipo" onchange="this.form.submit()">
+                        <option value="">Todos os Tipos</option>
+                        <option value="OBJETIVA" {% if tipo_filter == 'OBJETIVA' %}selected{% endif %}>Objetivas</option>
+                        <option value="DISCURSIVA" {% if tipo_filter == 'DISCURSIVA' %}selected{% endif %}>Discursivas</option>
+                    </select>
+                </div>
                 <div class="filter-group">
                     <label>Status:</label>
                     <select name="status" onchange="this.form.submit()">
-                        <option value="">Todos</option>
+                        <option value="">Todos os Status</option>
                         <option value="PENDENTE" {% if status_filter == 'PENDENTE' %}selected{% endif %}>Pendente</option>
                         <option value="APROVADA" {% if status_filter == 'APROVADA' %}selected{% endif %}>Aprovada</option>
                         <option value="REVISAR" {% if status_filter == 'REVISAR' %}selected{% endif %}>Revisar</option>
                         <option value="REJEITADA" {% if status_filter == 'REJEITADA' %}selected{% endif %}>Rejeitada</option>
                     </select>
                 </div>
-                <div class="filter-group">
-                    <label>Confiança <:</label>
-                    <select name="confidence" onchange="this.form.submit()">
-                        <option value="">Todas</option>
-                        <option value="0.5" {% if confidence_filter == '0.5' %}selected{% endif %}>0.50</option>
-                        <option value="0.7" {% if confidence_filter == '0.7' %}selected{% endif %}>0.70</option>
-                        <option value="0.85" {% if confidence_filter == '0.85' %}selected{% endif %}>0.85</option>
-                    </select>
-                </div>
-                <a href="?status=REVISAR" class="btn btn-primary">Ver Problemas</a>
             </form>
         </div>
         
         <div class="questions-grid">
             {% if questions %}
                 {% for q in questions %}
-                <div class="question-card {% if q.confianca < 0.7 %}low-confidence{% endif %} {% if q.status.value == 'REVISAR' %}review{% endif %} {% if q.status.value == 'REJEITADA' %}rejected{% endif %}">
+                <div class="question-card {% if q.confianca < 0.6 %}low-confidence{% elif q.status.value == 'REVISAR' %}review{% elif q.status.value == 'REJEITADA' %}rejected{% endif %}">
                     <div class="question-header">
-                        <span class="question-number">Questão {{ q.numero }}</span>
+                        <span class="question-number">{{ q.id_questao.upper() }} (Q{{ q.numero }})</span>
                         <div class="question-badges">
-                            <span class="badge badge-{{ q.status.value.lower() }}">{{ q.status.value }}</span>
-                            <span class="confidence {% if q.confianca < 0.7 %}low{% endif %}">{{ "%.0f"|format(q.confianca * 100) }}%</span>
+                            <span class="badge {% if q.tipo.value == 'DISCURSIVA' %}badge-type-disc{% else %}badge-type-obj{% endif %}">
+                                {{ q.tipo.value }}
+                            </span>
+                            <span class="badge badge-{{ q.status.value.lower() }}">
+                                {{ q.status.value }}
+                            </span>
                         </div>
                     </div>
-                    <a href="/questao/{{ exam.ano }}/{{ exam.arquivo }}/{{ q.numero }}">
-                        <img class="question-image" src="/questoes/{{ exam.ano }}/q{{ "%02d"|format(q.numero) }}.png" alt="Questão {{ q.numero }}" loading="lazy">
-                    </a>
+                    
+                    <div class="image-preview-container">
+                        <img src="{{ q.caminho_png }}" alt="{{ q.id_questao }}" class="question-image" loading="lazy">
+                    </div>
+                    
                     <div class="question-footer">
-                        <span class="question-pages">Páginas: {{ q.paginas|join(', ') }}</span>
-                        <a href="/questao/{{ exam.ano }}/{{ exam.arquivo }}/{{ q.numero }}" class="btn btn-primary">Ver</a>
+                        <span class="question-pages">Pág. {{ q.paginas|join(', ') }} | {{ q.largura }}x{{ q.altura }}px</span>
+                        <a href="/questao/{{ exam.id_prova }}/{{ q.id_questao }}" class="btn btn-primary">Inspecionar</a>
                     </div>
                 </div>
                 {% endfor %}
             {% else %}
-                <div class="empty-state">Nenhuma questão encontrada com os filtros atuais.</div>
+                <div class="empty-state">
+                    <h3>Nenhuma questão encontrada com os filtros selecionados.</h3>
+                </div>
             {% endif %}
         </div>
     </div>

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q55",
+  "numero": 55,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    29
+  ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 188.4860382080078,
+      "x1": 611.7199999999999,
+      "y1": 368.86712646484375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q55.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q55.txt",
+  "largura": 2475,
+  "altura": 782,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 55\t\nUma abordagem que use a metodologia de programação por pares e permita promover a compreensão do conceito de divisão \ne conquista deve apresentar\nA\t o passo a passo do algoritmo; organizar os estudantes em pares e propor que investiguem como dividir o problema em \npartes menores; resolver cada uma separadamente e depois combinar os resultados compreendendo, na prática, a técnica \nde divisão e conquista.\nB\t o pseudocódigo do algoritmo; explicar detalhadamente sua lógica e a técnica de divisão e conquista; dividir os estudantes \nem pares e propor que eles implementem o algoritmo em uma linguagem de programação e simulem sua execução.\nC\t o roteiro com os passos da técnica de divisão e conquista; organizar os estudantes em pares e orientar que escrevam um \npseudocódigo do algoritmo e simulem manualmente a execução com vetores pequenos e previamente definidos.\nD\t o mecanismo do algoritmo, utilizando como exemplo vetores simples previamente definidos; dividir os estudantes em pares \ne propor exercícios para que simulem a ordenação de vetores mais complexos, com elementos desorganizados.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 55,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 64.6063003540039,
+      "y": 200.4860382080078,
+      "x1": 124.34291076660156,
+      "y1": 215.75404357910156,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 55"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153683",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

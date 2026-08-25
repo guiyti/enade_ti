@@ -1,0 +1,59 @@
+{
+  "id_questao": "q38",
+  "numero": 38,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    22,
+    23
+  ],
+  "segmentos": [
+    {
+      "pagina": 22,
+      "x0": 25.0,
+      "y0": 469.24810791015625,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 238.40724182128906,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q38.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q38.txt",
+  "largura": 2475,
+  "altura": 2206,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nCOMPUTAÇÃO\n22\n,\ng\ng\nQUESTÃO 38\t\nAo escolher Objetos de Aprendizagem, o professor pode planejar o uso de\nA\t jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada \netapa da atividade.\nB\t softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, \nexercícios e feedback automático.\nC\t jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, \nutilizados para modelar a lógica algorítmica.\nD\t softwares educacionais, utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica, \nrecompensas simbólicas e ranqueamento de desempenho.\nÁrea livre\n\n2025\nTexto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.\n*R0404202523*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 38,
+      "tipo": "OBJETIVA",
+      "pagina": 22,
+      "x": 64.6063003540039,
+      "y": 481.24810791015625,
+      "x1": 124.34291076660156,
+      "y1": 496.51611328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 38"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153478",
+  "categorias": [
+    "Banco de Dados"
+  ]
+}

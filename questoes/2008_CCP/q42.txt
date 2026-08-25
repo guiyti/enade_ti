@@ -1,0 +1,51 @@
+G
+O
+U
+Ç O
+QUESTÃO 41
+Em ambientes de manufatura integrada, utilizam-
+se computadores para conectar processos
+concorrentes separados fisicamente, isto é, um
+sistema 
+integrado 
+requer 
+dois 
+ou 
+mais
+computadores 
+conectados 
+para 
+trocar
+informações. Quando integrados, os processos
+podem compartilhar informações e iniciar ações,
+permitindo decisões mais rápidas com menos
+erros. A automação também permite a execução
+de processos de manufatura sem necessidade
+de intervenções. Um exemplo simples pode ser
+um controlador de um robô e um controlador
+lógico programável trabalhando juntos em uma
+ú i
+á
+i
+U
+l
+l
+é
+QUESTÃO 42
+Ao se realizar o acesso a um servidor WWW usando o protocolo
+HTTPS, uma sessão SSL é estabelecida sobre a conexão TCP, entre
+o programa navegador do usuário e o processo servidor. Para tanto,
+usam-se mecanismos baseados em criptografia simétrica e
+assimétrica para prover serviços de segurança. Em relação ao
+acesso HTTP, sem SSL, que serviços de segurança são providos
+para o usuário?
+A
+autenticação do servidor e controle de acesso do cliente
+B
+autenticação do cliente e controle da velocidade de transmissão
+C
+autenticação da rede e proteção contra vírus
+D
+autenticação do servidor e confidencialidade das transmissões
+E
+autenticação do cliente e temporização das ações executadas

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q17",
+  "numero": 17,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 324.6728210449219,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q17.txt",
+  "largura": 2185,
+  "altura": 1114,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 17\t\nOs gestores precisam das informações certas na hora certa e no lugar certo. Este é o mantra das abordagens \nmodernas de Business Intelligence (BI). As organizações precisam atuar com inteligência. Prestar bastante \natenção à gestão das iniciativas de BI é um aspecto necessário aos negócios. Não chega a surpreender, então, \nque as organizações estejam capitaneando cada vez mais o BI, ou sua nova encarnação, a análise de dados.\nSHARDA, R.; DELEN, D.; TURBAN, E. Business Intelligence e Análise de Dados para Gestão do Negócio. Porto Alegre: Bookman, 2019 (adaptado).\nNesse contexto, pode-se definir o BI como\nA\t um conjunto de sistemas de informação e recursos tecnológicos que apoiam as transações de negócios \nque ocorrem internamente e externamente à empresa.\nB\t uma integração de processos de negócios nas áreas de produção, contabilidade, finanças, vendas e \nmarketing, assim como na área de recursos humanos, por meio de um único sistema de software.\nC\t uma ferramenta para tratamento e visualização de dados transacionais e que pode ser utilizada para \ndar suporte ao processo decisório e estratégico da empresa.\nD\t uma infraestrutura para armazenamento, integração, elaboração de relatórios e análise de dados oriundos \ndo ambiente empresarial com todas as informações relevantes para suportar o processo de decisão.\nE\t uma ferramenta que ajuda as empresas a administrar seus fornecedores, por meio do compartilhamento \nde informações sobre pedidos, produção, níveis de estoque e entrega de produtos e serviços.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.948958",
+  "categorias": [
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id_questao": "q44",
+  "numero": 44,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.txt",
+  "largura": 2241,
+  "altura": 2860,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n28\nQUESTÃO 44\nA utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu \ndesempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos \nsignifi cativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas.  Para reduzir \nesse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para \num somador de 8 bits é apresentado na fi gura a seguir.\nOs 4 bits mais signifi cativos são somados de forma redundante, considerando o vem-um 0 no primeiro somador e vem-um \nigual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo \nvai-um resultado da soma dos 4 bits menos signifi cativos. Como os 3 somadores podem realizar as operações ao mesmo \ntempo, o multiplexador pode entregar o resultado mais rapidamente.\nConsidere as seguintes equações dos somadores:\n   e   \nConsidere, ainda, a equação dos multiplexadores a seguir:\nSuponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais signifi cativos \ne que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores, \no aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como \naumento de\nA   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nB   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nC   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nD   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nE   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de \npropagação para a execução da soma.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig1.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig2.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig3.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig4.png"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 44,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 34.1431999206543,
+      "y": 66.35550689697266,
+      "x1": 97.49319458007812,
+      "y1": 80.21550750732422,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 44"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:33.577384",
+  "categorias": [
+    "Engenharia de Software"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id_questao": "q49",
+  "numero": 49,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 460.86712646484375,
+      "x1": 315.35999999999996,
+      "y1": 804.3599999999999,
+      "coluna": 1
+    },
+    {
+      "pagina": 27,
+      "x0": 321.35999999999996,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q49.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q49.txt",
+  "largura": 1240,
+  "altura": 1606,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PM\nCOMPUTAÇÃO\ng\nç\n;\np\nç\np g\nQUESTÃO 49\t\nCom base nas informações das duas escolas e na BNCC \n- Complemento Computação, qual alternativa apresenta a \nabordagem para o ensino de conceitos de algoritmos que \nseja coerente com os contextos de cada escola e as etapas de \nescolarização?\nA\t Aprendizagem Baseada em Projetos para o ensino de \nalgoritmos de inserção, remoção e busca para estudantes \nda Escola A, do 6º ano do Ensino Fundamental.\nB\t Rotação por Estações para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 6º ano do Ensino Fundamental.\nC\t Gamificação para o ensino de algoritmos de inserção, \nremoção e busca para estudantes da Escola A, do 8º ano \ndo Ensino Fundamental.\nD\t Programação por Pares para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 8º ano do Ensino Fundamental.\nÁrea livre\n\n*R0404202527*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 49,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 64.6063003540039,
+      "y": 472.86712646484375,
+      "x1": 124.34291076660156,
+      "y1": 488.1351013183594,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 49"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153524",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

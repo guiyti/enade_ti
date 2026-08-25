@@ -1,0 +1,58 @@
+{
+  "id_questao": "q47",
+  "numero": 47,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 457.36669921875,
+      "x1": 294.59999999999997,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 20,
+      "x0": 300.59999999999997,
+      "y0": 55.0,
+      "x1": 570.1999999999999,
+      "y1": 70.52682495117188,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q47.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q47.txt",
+  "largura": 1154,
+  "altura": 1525,
+  "confianca": 0.98,
+  "texto_completo": "1\nCO\nÇÃO\nQUESTÃO 47\nA transmissão em fibra óptica é realizada pelo envio de\nfeixes de luz através de um cabo óptico que consiste em\num filamento de sílica ou plástico. A fibra óptica funciona\ncom base nos princípios de refração e reflexão dos feixes\nde luz no interior do filamento condutor. Para controlar a\ndireção da propagação dos feixes de luz, o núcleo e a\ncasca do filamento condutor são produzidos com diferentes\níndices de refração. Variando-se os índices de refração do\nnúcleo e da casca, diferentes categorias de fibras ópticas\nsão produzidas. Qual opção apresenta três categorias de\nfibras ópticas?\nA\nmonomodo, bimodo e multimodo\nB\nmonomodo \nrefratário, \nmonomodo \nreflexivo \ne\nmultimodo\nC\nmonomodo, multimodo degrau e multimodo gradual\nD\nmonomodo, multimodo sílico e multimodo plástico\nE\nmonomodo digital, monomodo analógico e multimodo",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 47,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 35.99909973144531,
+      "y": 469.36669921875,
+      "x1": 105.36231231689453,
+      "y1": 480.4067077636719,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 47"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:05.654325",
+  "categorias": [
+    "Banco de Dados"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id_questao": "qd04",
+  "numero": 4,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 56.01392364501953,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/qd04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/qd04.txt",
+  "largura": 2241,
+  "altura": 2856,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n20\nQUESTÃO DISCURSIVA 4 \n \nConsiderando a execução do algoritmo abaixo, responda ao que se pede nos itens a e b.\n01\nalgoritmo Vetores\n02\nvariaveis\n03\n     vetA[1..10], vetB[1..10], i: inteiro\n04\ninicio\n05\n     para i <- 1 ate 10 passo 1 faca\n06\n          vetB[i] <- 0\n07\n          se resto(i,2) = 0 entao\n08\n               vetA[i] <- i\n09\n         senão\n10\n               vetA[i] <- 2 * i\n11\n         fimse\n12\n     fimpara\n13\n     para i <- 1 ate 10 passo 1 faca\n14\n          enquanto(vetA[i] > i)\n15\n               vetB[i] <- vetA[i]\n16\n               vetA[i] <- vetA[i] – 1\n17\n          fimenquanto\n18\n     fimpara\n19\nfimalgoritmo\na) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 12. (valor: 5,0 pontos)\nb) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 19. (valor: 5,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "DISCURSIVA",
+      "pagina": 20,
+      "x": 34.1431999206543,
+      "y": 68.01392364501953,
+      "x1": 157.773193359375,
+      "y1": 82.03392791748047,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO DISCURSIVA 4"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:22.373548",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ]
+}

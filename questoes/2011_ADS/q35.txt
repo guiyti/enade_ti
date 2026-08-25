@@ -1,0 +1,44 @@
+8
+QUESTÃO 35  
+A programação orientada a objeto não é apenas uma 
+forma de programar, é também um jeito de pensar em 
+um problema utilizando conceitos do mundo real e, não 
+somente conceitos computacionais.
+Considerando os conceitos da programação orientada a 
+objetos, analise as afirmações abaixo.
+I. 
+O objeto tem determinadas propriedades que 
+o caracterizam e que são armazenadas no 
+próprio objeto. As propriedades de um objeto são 
+chamadas de instâncias.
+II. As mensagens são informações enviadas ao objeto 
+para que ele se comporte de uma determinada maneira. 
+Um programa orientado a objetos em execução 
+consiste em envios, interpretações e respostas às 
+mensagens. São os métodos, os procedimentos 
+residentes nos objetos, que determinam como eles 
+irão atuar ao receber as mensagens.
+III. A 
+herança 
+é 
+um 
+mecanismo 
+para 
+o 
+compartilhamento de métodos e atributos entre 
+classes e subclasses, permitindo a criação de 
+novas classes através da programação das 
+diferenças entre a nova classe e a classe-pai.
+IV. O encapsulamento é um mecanismo que permite 
+o acesso aos dados de um objeto somente através 
+dos métodos desse. Nenhuma outra parte do 
+programa pode operar sobre os dados do objeto. 
+A comunicação entre os objetos é feita apenas 
+através de troca de mensagens.
+É correto apenas o que afirma em
+A   I e II.
+B   I e III.
+C   III e IV.
+D   I, II e IV.
+E   II, III e IV.
+ÁREA LIVRE

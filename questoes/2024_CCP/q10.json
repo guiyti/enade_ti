@@ -1,0 +1,50 @@
+{
+  "id_questao": "q10",
+  "numero": 10,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    7
+  ],
+  "segmentos": [
+    {
+      "pagina": 7,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 278.6591796875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q10.txt",
+  "largura": 2475,
+  "altura": 850,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 10\t\nDurante uma aula envolvendo o ensino de história e cultura afro-brasileira e africana na Educação Básica, em atendimento ao \ndisposto na Lei n. 10 639/2003, uma professora explorou o movimento do cinema de países africanos, que tomou corpo a partir \nde 1960, como forma de comunicação e instrumento de expressão cultural. Ela explicou que, nesse contexto, as produções \naudiovisuais contrapõem-se às narrativas coloniais e propõem novas formas de representar suas histórias, suas culturas e \nsuas lutas. Entusiasmados com o tema, os estudantes, juntamente com a professora, decidiram realizar uma mostra de filmes \nproduzidos em países africanos para ser apresentada à comunidade escolar. A professora orientou que os estudantes deveriam \nselecionar três filmes, com base em critérios relevantes na compreensão do valor das culturas africanas.\nConsiderando os objetivos previstos na proposta da professora, os estudantes devem selecionar filmes que\nA\t retratem os espaços físicos e a vida animal selvagem como elementos característicos do continente africano.\nB\t produzam a sensação de familiaridade no espectador com base nas narrativas audiovisuais europeias e americanas.\nC\t reconhecem as variadas formas de expressão dos povos africanos, suas subjetividades e questões sociais associadas a esses povos.\nD\t apresentem estereótipos relacionados a temáticas da colonização e seus impactos no modo de vida urbanizado em países africanos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "pagina": 7,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 10"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:55.153355",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ]
+}

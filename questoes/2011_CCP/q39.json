@@ -1,0 +1,50 @@
+{
+  "id_questao": "q39",
+  "numero": 39,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    25
+  ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 293.28,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 334.573974609375,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q39.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q39.txt",
+  "largura": 1123,
+  "altura": 1190,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 39  \nO conceito de Tipo de Dados Abstrato (TDA) é popular em \nlinguagens de programação. Nesse contexto, analise as \nafi rmativas a seguir.\nI. \nA especifi cação de um TDA é composta das \noperações aplicáveis a ele, da sua representação \ninterna, e das implementações das operações.\nII. Dois mecanismos utilizáveis na implementação de \num TDA em programas orientados a objetos são a \ncomposição e a herança.\nIII. Se S é um subtipo de outro T, então entidades do \ntipo S em um programa podem ser substituídas \npor entidades do tipo T, sem alterar a corretude \ndesse programa.\nIV. O encapsulamento em linguagens de programação \norientadas a objetos é um efeito positivo do uso \nde TDA.\nÉ correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 39,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 39"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:48:33.577365",
+  "categorias": [
+    "Programação e POO"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id_questao": "q47",
+  "numero": 47,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    17
+  ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 301.08,
+      "y0": 412.8155822753906,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q47.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q47.txt",
+  "largura": 1156,
+  "altura": 1632,
+  "confianca": 0.98,
+  "texto_completo": "Ã\n16\npç\n,\nç\n,\nç\n,\nç\nQUESTÃO 47\nm estudo recente realizado pela Associação Brasileira das\nmpresas de Software (ABES) e a Business Software Alliance\nBSA) mostra uma redução na pirataria de software no mundo e no\nrasil, de 1994 a 2002. Com relação a esse assunto, julgue os itens\nseguir.\nA redução da pirataria de software no contexto brasileiro traz\nbenefícios para a criação de empregos, aumento da arrecadação\nde impostos e aumento no faturamento da economia.\nA reprodução de software original ou autorizado para fins de\nsegurança ou backup é também considerada pirataria de\nsoftware.\nI As \niniciativas \nantipirataria \ndevem \nincluir \nações \nde\nconscientização, \neducação \ne \natuação \ndireta \nsobre \nos\ncontraventores.\nV A pirataria de software é uma atividade criminosa, contudo não\nhá no Brasil, ainda, legislação específica que regulamente essa\nquestão.\nstão certos apenas os itens\nI e II.\nI e III.\nII e III.\nII e IV.\nIII e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 47,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 299.4599914550781,
+      "y": 424.8155822753906,
+      "x1": 345.88800048828125,
+      "y1": 430.8155822753906,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 47"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:47:48.913167",
+  "categorias": [
+    "Engenharia e Tecnologias"
+  ]
+}

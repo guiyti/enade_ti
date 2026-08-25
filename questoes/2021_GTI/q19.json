@@ -1,0 +1,52 @@
+{
+  "id_questao": "q19",
+  "numero": 19,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    27
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q19.txt",
+  "largura": 2185,
+  "altura": 2823,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 19\t\nO Scrum é uma metodologia ágil utilizada na gestão e planejamento de projetos de software que fornece \num processo de desenvolvimento rápido, iterativo e de qualidade. No Scrum, os projetos são divididos em \nciclos (normalmente de duas a quatro semanas) chamados de Sprints, dentro dos quais um conjunto de \natividades deve ser executado.\nSCHWABER, K.; SUTHERLAND, J. Scrum. Disponível em: http://jeffsutherland.com/ScrumPapers.pdf. \nAcesso em: 21 jul. 2011 (adaptado).\nConsiderando a metodologia Scrum, avalie as afirmações a seguir.\nI.\t Durante a Sprint, tanto a composição do time quanto as metas de qualidade devem ser \nmodificadas, já que o ScrumMaster efetua todas as mudanças necessárias para atingir a meta.\nII.\t A reunião de planejamento da Sprint é o momento onde o ScrumMaster encoraja o time a revisar, \ndentro do modelo de trabalho e das práticas do Scrum, seu processo de desenvolvimento.\nIII.\t O Daily Scrum se caracteriza por uma reunião diária de 15 minutos, que é realizada para avaliação \ndo que foi desenvolvido, dos impedimentos encontrados e do que será feito até a próxima reunião.\nIV.\t O Product Owner é a pessoa responsável pelo Product Backlog, que serve muitas vezes de guia \npara a execução do projeto, por seu conteúdo, por sua disponibilidade e por sua priorização.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e III.\nC\t III e IV.\nD\t I, II e IV.\nE\t I, III e IV.\nÁrea livre",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T12:50:38.948965",
+  "categorias": [
+    "Engenharia de Software",
+    "Redes e Segurança",
+    "Sistemas Operacionais e Arquitetura"
+  ]
+}

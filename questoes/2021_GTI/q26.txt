@@ -1,0 +1,22 @@
+QUESTÃO 26	
+A Política de Segurança é uma declaração que estabelece a hierarquia dos riscos da informação 
+e identifica metas de segurança aceitáveis, assim como mecanismos para atingí-las. Uma das formas 
+de implementá-la é seguir os passos para a certificação ISO 27001, que é uma norma de vigência 
+internacional, cujo objetivo é determinar as diretrizes necessárias para uma gestão de segurança 
+da informação nas organizações, sejam elas especializadas nesse tipo de serviço, sejam aquelas que 
+tenham um setor interno dedicado à proteção de seus dados.
+ LAUDON, K. C; LAUDON, J. P. Sistemas de informação gerenciais. 11. ed. São Paulo: Pearson Prentice Hall, 2014 (adaptado).
+Considerando as informações do texto, avalie as asserções a seguir e a relação proposta entre elas.
+I.	 A Política de Segurança dá origem a outras políticas que determinam o uso aceitável dos recursos 
+de informação da empresa e quais membros terão acesso a esses ativos.
+PORQUE 
+II.	 A Política de Uso Aceitável define os usos aceitáveis dos recursos de informação e dos equipamentos 
+de informática da empresa, incluindo computadores de mesa e laptops, dispositivos sem fio, 
+telefones e internet.
+A respeito dessas asserções, assinale a alternativa correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.
+Área livre

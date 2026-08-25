@@ -1,0 +1,45 @@
+0
+s
+é
+s
+a
+s
+s
+m
+e
+er
+a
+o
+e
+QUESTÃO 74
+No processo de desenvolvimento de software, todo
+software passa pelas fases de análise e projeto,
+associadas, respectivamente, com o que deve ser feito
+e como deve ser feito. A partir dessa informação,
+avalie a opções correta.
+A
+Na fase de análise, três modelos que devem ser
+considerados são: do domínio da informação, o
+funcional e o comportamental. 
+B
+Na fase de projeto, dois níveis de projeto devem
+ser considerados: o projeto detalhado, que se
+preocupa com uma transformação dos requisitos
+em um projeto de dados e arquitetural; e o projeto
+preliminar, que se preocupa em aprimorar o
+projeto detalhado para que a implementação
+possa ser realizada em seguida. 
+C
+O objetivo do projeto arquitetural é desenvolver
+uma estrutura de programa e representar os
+diversos fluxos de dados entre os módulos. 
+D
+O projeto arquitetural independe do paradigma de
+desenvolvimento. 
+E
+Para lidar com a complexidade do software,
+pode-se aplicar o princípio do particionamento,
+quebrando o problema em problemas menores.
+Esse princípio não é aplicado nas outras fases de
+desenvolvimento e ele não causa impacto nos
+custos de desenvolvimento.

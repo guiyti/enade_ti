@@ -1,0 +1,16 @@
+Á
+E O(n  log n)
+QUESTÃO 16
+No processo unificado, cinco workflows acompanham o conjunto
+das fases de desenvolvimento de software. Cada workflow é um
+conjunto de atividades executadas por vários membros do projeto
+Considerando o desenvolvimento de um sistema integrado de
+gestão (ERP), o empacotamento em componentes de software dos
+elementos do modelo de projeto — tais como arquivo de código-
+fonte, biblioteca de ligação dinâmica e componentes executáveis
+— é descrito pelo workflow de
+A teste.
+B análise.
+C projeto.
+D implementação.
+E requisito.

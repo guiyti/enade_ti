@@ -1,0 +1,41 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 10
+Em determinado período letivo, cada estudante de um 
+curso universitário tem aulas com um de três professores, 
+esses identifi cados pelas letras X, Y e Z. As quantidades 
+de estudantes (homens e mulheres) que têm aulas com 
+cada professor é apresentada na tabela de contingência 
+abaixo.
+Professor X
+Professor Y
+Professor Z
+Estudantes 
+homens
+45
+5
+32
+Estudantes 
+mulheres
+67
+2
+4
+A partir do grupo de estudantes desse curso universitário, 
+escolhe-se um estudante ao acaso. Qual é a probabilidade 
+de que esse estudante seja mulher, dado que ele tem 
+aulas apenas com o professor X?
+A    
+61
+73
+B    
+61
+155
+C    
+67
+155
+D    
+22
+112
+E    
+67
+112
+ÁREA LIVRE

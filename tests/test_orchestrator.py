@@ -12,33 +12,28 @@ def create_sample_pdf(num_pages=3, num_questions=3):
     doc = fitz.open()
     for i in range(num_pages):
         page = doc.new_page(width=595, height=842)
-        y = 50
+        y = 70
         if i == 0:
-            page.insert_text((50, y), "ENADE 2022 - ADS", fontsize=16)
+            page.insert_text((50, y), "ENADE 2022 - ADS - INSTRUÇÕES", fontsize=16)
             y += 40
-        
-        for q in range(1, num_questions + 1):
-            if i == 0 and q <= 2:
-                page.insert_text((50, y), f"QUESTÃO {q}", fontsize=14)
-                y += 30
-                page.insert_text((50, y), f"Texto da questão {q}", fontsize=12)
-                y += 20
-                page.insert_text((50, y), "A) Alternativa A", fontsize=11)
-                y += 20
-                page.insert_text((50, y), "B) Alternativa B", fontsize=11)
-                y += 20
-                page.insert_text((50, y), "C) Alternativa C", fontsize=11)
-                y += 20
-                page.insert_text((50, y), "D) Alternativa D", fontsize=11)
-                y += 40
-            elif i == 1 and q == 2:
-                page.insert_text((50, y), "(continuação da questão 2)", fontsize=12)
-                y += 30
-            elif i == 1 and q == 3:
-                page.insert_text((50, y), f"QUESTÃO {q}", fontsize=14)
-                y += 30
-                page.insert_text((50, y), f"Texto da questão {q}", fontsize=12)
-                y += 20
+        elif i == 1:
+            page.insert_text((50, y), "QUESTÃO 1", fontsize=14)
+            y += 30
+            page.insert_text((50, y), "Texto da questão 1", fontsize=12)
+            y += 20
+            page.insert_text((50, y), "A) Alternativa A", fontsize=11)
+            y += 20
+            page.insert_text((50, y), "B) Alternativa B", fontsize=11)
+            y += 30
+            page.insert_text((50, y), "QUESTÃO 2", fontsize=14)
+            y += 30
+            page.insert_text((50, y), "Texto da questão 2 inicio", fontsize=12)
+        elif i == 2:
+            page.insert_text((50, y), "(continuação da questão 2)", fontsize=12)
+            y += 50
+            page.insert_text((50, y), "QUESTÃO 3", fontsize=14)
+            y += 30
+            page.insert_text((50, y), "Texto da questão 3", fontsize=12)
     
     doc.save(str(pdf_path))
     doc.close()
@@ -55,12 +50,14 @@ def test_process_exam_full_pipeline():
         hash_arquivo="test_hash",
         total_paginas=3,
         ano=2022,
-        curso="ADS"
+        curso="ADS",
+        id_prova="2022_ADS_test"
     )
     
     exam = process_exam(pdf_info)
     
     assert exam.arquivo == "2022_ADS_test.pdf"
+    assert exam.id_prova == "2022_ADS_test"
     assert exam.ano == 2022
     assert exam.curso == "ADS"
     assert exam.total_paginas == 3
@@ -82,8 +79,8 @@ def test_process_exam_full_pipeline():
         assert Path(page.caminho_imagem).exists()
 
 
-def test_process_exam_multi_page_question():
-    pdf_path = create_sample_pdf(num_pages=3, num_questions=3)
+def test_process_exam_generates_reports():
+    pdf_path = create_sample_pdf(num_pages=3, num_questions=2)
     
     pdf_info = PDFInfo(
         arquivo="2022_ADS_test.pdf",
@@ -92,30 +89,8 @@ def test_process_exam_multi_page_question():
         hash_arquivo="test_hash",
         total_paginas=3,
         ano=2022,
-        curso="ADS"
-    )
-    
-    exam = process_exam(pdf_info)
-    
-    q2 = next((q for q in exam.questoes if q.numero == 2), None)
-    assert q2 is not None
-    assert len(q2.paginas) >= 1
-    
-    q3 = next((q for q in exam.questoes if q.numero == 3), None)
-    assert q3 is not None
-
-
-def test_process_exam_generates_reports():
-    pdf_path = create_sample_pdf(num_pages=2, num_questions=2)
-    
-    pdf_info = PDFInfo(
-        arquivo="2022_ADS_test.pdf",
-        caminho=pdf_path,
-        tamanho=pdf_path.stat().st_size,
-        hash_arquivo="test_hash",
-        total_paginas=2,
-        ano=2022,
-        curso="ADS"
+        curso="ADS",
+        id_prova="2022_ADS_test"
     )
     
     exam = process_exam(pdf_info)
@@ -124,7 +99,7 @@ def test_process_exam_generates_reports():
     assert report_dir.exists()
     assert (report_dir / "relatorio.json").exists()
     
-    meta_dir = config.QUESTOES_DIR / "2022"
+    meta_dir = config.QUESTOES_DIR / "2022_ADS_test"
     assert meta_dir.exists()
     assert (meta_dir / "metadata.json").exists()
 

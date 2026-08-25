@@ -1,0 +1,23 @@
+1
+CO
+ÇÃO
+g
+p
+QUESTÃO 27
+Em redes locais de computadores, o protocolo de controle 
+acesso ao meio define um conjunto de regras que devem s
+adotadas pelos múltiplos dispositivos para compartilhar o me
+físico de transmissão. No caso de uma rede Ethernet IEE
+802.3 conectada fisicamente a um concentrador (hub), em q
+abordagem se baseia o protocolo de controle de acesso 
+meio?
+A
+na passagem de permissão em anel
+B
+na ordenação com contenção
+C
+na ordenação sem contenção
+D
+na contenção com detecção de colisão
+E
+na arbitragem centralizada
