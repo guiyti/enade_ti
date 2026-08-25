@@ -33,6 +33,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -51,8 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:50.843018",
-  "categorias": [
-    "Governança e Gestão de TI"
-  ]
+  "criado_em": "2026-08-25T14:12:48.321056"
 }

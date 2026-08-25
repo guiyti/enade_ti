@@ -53,16 +53,10 @@ idade
 F
 Cliente
 
-6
 Considerando a situação apresentada, faça o que se pede
 a seguir.
 A Escreva o código de uma consulta em SQL que
 corresponda à solução proposta.
-(valor: 5,0 pontos)
-RASCUNHO – QUESTÃO 40 - A
-B Desenhe a árvore de consulta para essa solução.
-(valor: 5,0 pontos)
-RASCUNHO – QUESTÃO 40 - B
 
 As questões de 41 a 60, a seguir, são específicas para os estudantes de cursos com perfis profissionais de 
 ENGENHARIA DE COMPUTAÇÃO.

@@ -17,7 +17,10 @@ import {
   Sparkles,
   ChevronLeft,
   ChevronRight,
-  Tag
+  Tag,
+  BookOpen,
+  Eye,
+  FileCode
 } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { TagEditor } from "@/components/TagEditor";
@@ -44,6 +47,16 @@ export function PresentationViewer({
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showSidePanel, setShowSidePanel] = useState(false);
   const [activeTab, setActiveTab] = useState<"text" | "tags">("tags");
+  
+  // Full Page Context Modal State
+  const [showFullPageModal, setShowFullPageModal] = useState(false);
+  const [fullPageNum, setFullPageNum] = useState<number>(question.paginas[0] || 1);
+  const [fullPageZoom, setFullPageZoom] = useState(1);
+
+  // Sync page number when question changes
+  useEffect(() => {
+    setFullPageNum(question.paginas[0] || 1);
+  }, [question]);
 
   const handleExit = () => {
     if (typeof window !== "undefined" && window.history.length > 1) {
@@ -61,14 +74,16 @@ export function PresentationViewer({
         return;
       }
 
-      if (e.key === "ArrowLeft" && prevQuestionId) {
+      if (e.key === "ArrowLeft" && !showFullPageModal && prevQuestionId) {
         router.push(`/docente/apresentacao/${exam.id_prova}/${prevQuestionId}`);
-      } else if (e.key === "ArrowRight" && nextQuestionId) {
+      } else if (e.key === "ArrowRight" && !showFullPageModal && nextQuestionId) {
         router.push(`/docente/apresentacao/${exam.id_prova}/${nextQuestionId}`);
       } else if (e.key === "f" || e.key === "F") {
         toggleFullscreen();
       } else if (e.key === "Escape") {
-        if (isFullscreen) {
+        if (showFullPageModal) {
+          setShowFullPageModal(false);
+        } else if (isFullscreen) {
           setIsFullscreen(false);
         } else {
           handleExit();
@@ -78,7 +93,7 @@ export function PresentationViewer({
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [prevQuestionId, nextQuestionId, exam.id_prova, isFullscreen, router]);
+  }, [prevQuestionId, nextQuestionId, exam.id_prova, isFullscreen, showFullPageModal, router]);
 
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
@@ -125,7 +140,7 @@ export function PresentationViewer({
           </div>
         </div>
 
-        {/* Center: Presentation tools (Zoom, Tags, Text Toggle) */}
+        {/* Center: Presentation tools (Zoom, Full Page Context, Tags, Text Toggle) */}
         <div className="flex items-center gap-2 bg-slate-800/80 p-1 rounded-xl border border-slate-700/60">
           <button
             onClick={handleZoomOut}
@@ -147,6 +162,21 @@ export function PresentationViewer({
             title="Aumentar zoom"
           >
             <ZoomIn className="w-4 h-4" />
+          </button>
+
+          <div className="h-4 w-px bg-slate-700 mx-1"></div>
+
+          {/* Full Page Context Button */}
+          <button
+            onClick={() => {
+              setFullPageNum(question.paginas[0] || 1);
+              setShowFullPageModal(true);
+            }}
+            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold transition-all shadow-sm"
+            title="Ver a página inteira do PDF original para ler textos motivadores longos anteriores"
+          >
+            <BookOpen className="w-4 h-4" />
+            <span>📄 Ver Folha Completa da Prova</span>
           </button>
 
           <div className="h-4 w-px bg-slate-700 mx-1"></div>
@@ -287,6 +317,91 @@ export function PresentationViewer({
           </div>
         )}
       </div>
+
+      {/* Full Page Context Modal */}
+      {showFullPageModal && (
+        <div className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex flex-col justify-between p-4 sm:p-6 overflow-hidden">
+          {/* Modal Header */}
+          <div className="flex items-center justify-between bg-slate-900/90 p-4 rounded-2xl border border-slate-800 max-w-6xl w-full mx-auto">
+            <div className="flex items-center gap-3">
+              <div className="p-2 rounded-xl bg-indigo-500/20 text-indigo-400">
+                <BookOpen className="w-5 h-5" />
+              </div>
+              <div>
+                <h2 className="font-extrabold text-sm text-white">
+                  Folha Completa do PDF Original — Página {fullPageNum} de {exam.total_paginas}
+                </h2>
+                <p className="text-xs text-slate-400">
+                  {exam.id_prova} · Consulte textos motivadores longos ou tabelas contextuais
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-3">
+              {/* Zoom Controls */}
+              <div className="flex items-center gap-1 bg-slate-800 p-1 rounded-xl border border-slate-700">
+                <button
+                  onClick={() => setFullPageZoom((prev) => Math.max(prev - 0.25, 0.75))}
+                  className="p-1 rounded text-slate-300 hover:text-white"
+                  title="Reduzir Zoom"
+                >
+                  <ZoomOut className="w-4 h-4" />
+                </button>
+                <span className="px-2 text-xs font-mono font-bold">{Math.round(fullPageZoom * 100)}%</span>
+                <button
+                  onClick={() => setFullPageZoom((prev) => Math.min(prev + 0.25, 2.5))}
+                  className="p-1 rounded text-slate-300 hover:text-white"
+                  title="Aumentar Zoom"
+                >
+                  <ZoomIn className="w-4 h-4" />
+                </button>
+              </div>
+
+              {/* Page Navigator Controls */}
+              <div className="flex items-center gap-2">
+                <button
+                  disabled={fullPageNum <= 1}
+                  onClick={() => setFullPageNum((prev) => Math.max(1, prev - 1))}
+                  className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 disabled:opacity-40 text-xs font-bold text-white transition-colors"
+                >
+                  <ChevronLeft className="w-4 h-4" />
+                  Página Anterior
+                </button>
+                <button
+                  disabled={fullPageNum >= exam.total_paginas}
+                  onClick={() => setFullPageNum((prev) => Math.min(exam.total_paginas, prev + 1))}
+                  className="flex items-center gap-1 px-3 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 disabled:opacity-40 text-xs font-bold text-white transition-colors"
+                >
+                  Próxima Página
+                  <ChevronRight className="w-4 h-4" />
+                </button>
+              </div>
+
+              <button
+                onClick={() => setShowFullPageModal(false)}
+                className="p-2 rounded-xl bg-red-500/20 text-red-400 hover:bg-red-500/30 transition-colors ml-2"
+                title="Fechar folha completa (Tecla ESC)"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+          </div>
+
+          {/* Modal Page Viewer Image */}
+          <div className="flex-1 flex items-center justify-center p-4 overflow-auto">
+            <div
+              style={{ transform: `scale(${fullPageZoom})`, transformOrigin: "center center" }}
+              className="transition-transform duration-200 ease-out max-w-4xl max-h-full flex justify-center"
+            >
+              <img
+                src={`/questoes/${exam.id_prova}/paginas/pagina_${fullPageNum}.png`}
+                alt={`Página ${fullPageNum} do PDF original ${exam.id_prova}`}
+                className="max-h-[80vh] w-auto object-contain rounded-xl shadow-2xl bg-white select-none"
+              />
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

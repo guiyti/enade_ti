@@ -59,8 +59,6 @@ QUESTÃO 10
  }
 30 }
 
-3
-EsK>s/DEEdK DE ^/^dED ^
 WĂƌĂ  ƋƵĞ  Ž  ĂůŐŽƌŝƚŵŽ  ĨƵŶĐŝŽŶĞ  ĐŽƌƌĞƚĂŵĞŶƚĞ͕  
 ĂƚĞŶĚĞŶĚŽ Ž ƌĞƋƵŝƐŝƚŽ ƉƌŽƉŽƐƚŽ͕  Ă ŵƵĚĂŶĕĂ Ğŵ ƐƵĂ 
 ĞƐƚƌƵƚƵƌĂ ƋƵĞ ĚĞǀĞ ƐĞƌ ĂƉůŝĐĂĚĂ Ġ
@@ -94,5 +92,3 @@ return
 hasValue(searchValue, array, i + 1);
 ƉĂƌĂ͗   return hasValue(searchValue, 
 array, i - 1)͖
-ÁREA LIVRE
-*R40201413*

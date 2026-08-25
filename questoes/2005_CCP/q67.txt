@@ -123,9 +123,6 @@ C II, IV, V, VIII, IX e X.
 D III, V, VI, VII, VIII e IX.
 E III, IV, V, VII, VIII e IX.
 
-Á
-Ã
-26
 A máquina finita de estados (MFE) cujo diagrama é visto ao lado
 reconhece seqüências de caracteres compostos pelas letras I, V e X, que
 representam, em notação romana, números correspondentes ao intervalo de
@@ -160,9 +157,5 @@ D
 Considerando essas informações, estenda a MFE apresentada acima para:
 a) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.
 (valor: 5,0 pontos)
-RASCUNHO
-b) reconhecer números no alfabeto romano correspondentes aos números de 1 a 500 no alfabeto arábico, com no máximo oito
-estados. (valor: 5,0 pontos)
-RASCUNHO
 
 ENGENHARIA DE

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 56.173927307128906,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 546.0986328125,
       "coluna": 1
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 2071,
   "confianca": 0.98,
-  "texto_completo": "1\nQUESTÃO 14  \nObserve o diagrama de Venn a seguir.\nA função representada em azul no diagrama também \npoderia ser expressa pela função lógica \nA    \n.\nB    \n.\nC    \n.\nD    \n.\nE    \n.\nÁREA LIVRE",
+  "texto_completo": "QUESTÃO 14  \nObserve o diagrama de Venn a seguir.\nA função representada em azul no diagrama também \npoderia ser expressa pela função lógica \nA    \n.\nB    \n.\nC    \n.\nD    \n.\nE    \n.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -33,6 +33,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig6.png",
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig7.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -51,8 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577255",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218568"
 }

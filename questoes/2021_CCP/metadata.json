@@ -18,9 +18,12 @@
         3
       ],
       "largura": 2185,
-      "altura": 5670,
+      "altura": 2962,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd01.png",
       "caminho_json": "/questoes/2021_CCP/qd01.json",
@@ -35,9 +38,13 @@
         4
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1413,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd02.png",
       "caminho_json": "/questoes/2021_CCP/qd02.json",
@@ -52,9 +59,12 @@
         5
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2197,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q01.png",
       "caminho_json": "/questoes/2021_CCP/q01.json",
@@ -70,9 +80,12 @@
         7
       ],
       "largura": 2185,
-      "altura": 5670,
+      "altura": 5337,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q02.png",
       "caminho_json": "/questoes/2021_CCP/q02.json",
@@ -90,6 +103,9 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q03.png",
       "caminho_json": "/questoes/2021_CCP/q03.json",
@@ -104,9 +120,12 @@
         9
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2165,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q04.png",
       "caminho_json": "/questoes/2021_CCP/q04.json",
@@ -125,6 +144,10 @@
       "altura": 3968,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q05.png",
       "caminho_json": "/questoes/2021_CCP/q05.json",
@@ -142,6 +165,11 @@
       "altura": 1749,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q06.png",
       "caminho_json": "/questoes/2021_CCP/q06.json",
@@ -159,6 +187,10 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q07.png",
       "caminho_json": "/questoes/2021_CCP/q07.json",
@@ -173,9 +205,12 @@
         13
       ],
       "largura": 2185,
-      "altura": 2824,
+      "altura": 2199,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q08.png",
       "caminho_json": "/questoes/2021_CCP/q08.json",
@@ -191,9 +226,12 @@
         15
       ],
       "largura": 2185,
-      "altura": 5670,
+      "altura": 3383,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd03.png",
       "caminho_json": "/questoes/2021_CCP/qd03.json",
@@ -208,9 +246,13 @@
         16
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1435,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd04.png",
       "caminho_json": "/questoes/2021_CCP/qd04.json",
@@ -226,9 +268,12 @@
         18
       ],
       "largura": 2185,
-      "altura": 8518,
+      "altura": 6170,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd05.png",
       "caminho_json": "/questoes/2021_CCP/qd05.json",
@@ -243,9 +288,14 @@
         19
       ],
       "largura": 1095,
-      "altura": 2822,
+      "altura": 2083,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q09.png",
       "caminho_json": "/questoes/2021_CCP/q09.json",
@@ -260,9 +310,13 @@
         19
       ],
       "largura": 1095,
-      "altura": 2822,
+      "altura": 2077,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q10.png",
       "caminho_json": "/questoes/2021_CCP/q10.json",
@@ -280,6 +334,10 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q11.png",
       "caminho_json": "/questoes/2021_CCP/q11.json",
@@ -294,9 +352,14 @@
         21
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1484,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q12.png",
       "caminho_json": "/questoes/2021_CCP/q12.json",
@@ -311,9 +374,12 @@
         22
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1407,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q13.png",
       "caminho_json": "/questoes/2021_CCP/q13.json",
@@ -328,9 +394,14 @@
         23
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2346,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q14.png",
       "caminho_json": "/questoes/2021_CCP/q14.json",
@@ -345,9 +416,13 @@
         24
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1569,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q15.png",
       "caminho_json": "/questoes/2021_CCP/q15.json",
@@ -365,6 +440,9 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q16.png",
       "caminho_json": "/questoes/2021_CCP/q16.json",
@@ -383,6 +461,9 @@
       "altura": 3908,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q17.png",
       "caminho_json": "/questoes/2021_CCP/q17.json",
@@ -400,6 +481,9 @@
       "altura": 1809,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q18.png",
       "caminho_json": "/questoes/2021_CCP/q18.json",
@@ -414,9 +498,13 @@
         28
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1861,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q19.png",
       "caminho_json": "/questoes/2021_CCP/q19.json",
@@ -434,6 +522,9 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q20.png",
       "caminho_json": "/questoes/2021_CCP/q20.json",
@@ -451,6 +542,10 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q21.png",
       "caminho_json": "/questoes/2021_CCP/q21.json",
@@ -465,9 +560,12 @@
         31
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2317,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q22.png",
       "caminho_json": "/questoes/2021_CCP/q22.json",
@@ -485,6 +583,9 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q23.png",
       "caminho_json": "/questoes/2021_CCP/q23.json",
@@ -499,9 +600,13 @@
         33
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1964,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q24.png",
       "caminho_json": "/questoes/2021_CCP/q24.json",
@@ -516,9 +621,12 @@
         34
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2052,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q25.png",
       "caminho_json": "/questoes/2021_CCP/q25.json",
@@ -533,9 +641,13 @@
         35
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1749,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q26.png",
       "caminho_json": "/questoes/2021_CCP/q26.json",
@@ -553,6 +665,9 @@
       "altura": 1880,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q27.png",
       "caminho_json": "/questoes/2021_CCP/q27.json",
@@ -571,6 +686,9 @@
       "altura": 3837,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q28.png",
       "caminho_json": "/questoes/2021_CCP/q28.json",
@@ -585,9 +703,12 @@
         38
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2492,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q29.png",
       "caminho_json": "/questoes/2021_CCP/q29.json",
@@ -602,9 +723,15 @@
         39
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 1826,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura",
+        "Teoria da Computação e Compiladores",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q30.png",
       "caminho_json": "/questoes/2021_CCP/q30.json",
@@ -622,6 +749,10 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Teoria da Computação e Compiladores"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q31.png",
       "caminho_json": "/questoes/2021_CCP/q31.json",
@@ -639,6 +770,10 @@
       "altura": 2822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q32.png",
       "caminho_json": "/questoes/2021_CCP/q32.json",
@@ -653,9 +788,12 @@
         42
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2156,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q33.png",
       "caminho_json": "/questoes/2021_CCP/q33.json",
@@ -673,6 +811,9 @@
       "altura": 1724,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q34.png",
       "caminho_json": "/questoes/2021_CCP/q34.json",
@@ -690,6 +831,9 @@
       "altura": 1144,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q35.png",
       "caminho_json": "/questoes/2021_CCP/q35.json",

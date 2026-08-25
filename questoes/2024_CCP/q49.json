@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 460.86712646484375,
       "x1": 315.35999999999996,
-      "y1": 804.3599999999999,
+      "y1": 681.8787231445312,
       "coluna": 1
     },
     {
@@ -27,12 +27,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q49.txt",
   "largura": 1240,
-  "altura": 1606,
+  "altura": 1095,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PM\nCOMPUTAÇÃO\ng\nç\n;\np\nç\np g\nQUESTÃO 49\t\nCom base nas informações das duas escolas e na BNCC \n- Complemento Computação, qual alternativa apresenta a \nabordagem para o ensino de conceitos de algoritmos que \nseja coerente com os contextos de cada escola e as etapas de \nescolarização?\nA\t Aprendizagem Baseada em Projetos para o ensino de \nalgoritmos de inserção, remoção e busca para estudantes \nda Escola A, do 6º ano do Ensino Fundamental.\nB\t Rotação por Estações para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 6º ano do Ensino Fundamental.\nC\t Gamificação para o ensino de algoritmos de inserção, \nremoção e busca para estudantes da Escola A, do 8º ano \ndo Ensino Fundamental.\nD\t Programação por Pares para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 8º ano do Ensino Fundamental.\nÁrea livre\n\n*R0404202527*",
+  "texto_completo": "g\nç\n;\np\nç\np g\nQUESTÃO 49\t\nCom base nas informações das duas escolas e na BNCC \n- Complemento Computação, qual alternativa apresenta a \nabordagem para o ensino de conceitos de algoritmos que \nseja coerente com os contextos de cada escola e as etapas de \nescolarização?\nA\t Aprendizagem Baseada em Projetos para o ensino de \nalgoritmos de inserção, remoção e busca para estudantes \nda Escola A, do 6º ano do Ensino Fundamental.\nB\t Rotação por Estações para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 6º ano do Ensino Fundamental.\nC\t Gamificação para o ensino de algoritmos de inserção, \nremoção e busca para estudantes da Escola A, do 8º ano \ndo Ensino Fundamental.\nD Programação por Pares para o ensino de algoritmos de\n\n*R0404202527*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -51,8 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153524",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490927"
 }

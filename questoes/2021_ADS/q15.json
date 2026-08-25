@@ -42,6 +42,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -60,10 +61,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:08.963294",
-  "categorias": [
-    "Engenharia de Software",
-    "Programação e POO",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:05.710807"
 }

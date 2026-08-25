@@ -1,4 +1,3 @@
-6
 QUESTÃO 42  
 Sabendo que a principal tarefa de um sistema será de 
 classificação em domínios complexos, um gerente de 
@@ -13,4 +12,3 @@ B   árvores de decisão.
 C   redes neurais artificiais.
 D   ACO (do inglês, Ant-Colony Optimization).
 E   PSO (do inglês, Particle Swarm Optimization).
-ÁREA LIVRE

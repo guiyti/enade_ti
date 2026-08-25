@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 505.24810791015625,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 642.2623291015625,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q67.txt",
   "largura": 2475,
-  "altura": 1865,
+  "altura": 1189,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nCOMPUTAÇÃO\n32\nq\nQUESTÃO 67\t\nQual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?\nA\t Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos \nde memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.\nB\t Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de \ndesempenho e valores de mercado, aplicando conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia \nde memória e suas características, classificando as memórias por custo.\nD\t Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e \ndesempenho, justificando a escolha das memórias a partir de dados técnicos pesquisados.\nÁrea livre\n\n2025\nTexto para questões 68 e 69\nUm professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que \no local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que \neles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. \nOs demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador \npor 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam \ncomparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.\n*R0404202533*",
+  "texto_completo": "q\nQUESTÃO 67\t\nQual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?\nA\t Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos \nde memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.\nB\t Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de \ndesempenho e valores de mercado, aplicando conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia \nde memória e suas características, classificando as memórias por custo.\nD Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e\n\n2025\nTexto para questões 68 e 69\nUm professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que \no local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que \neles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. \nOs demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador \npor 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam \ncomparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.\n*R0404202533*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,9 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153733",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490999"
 }

@@ -27,6 +27,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q03_fig1.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,8 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:08.963230",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:05.710742"
 }

@@ -25,6 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543643",
-  "categorias": [
-    "Redes e Segurança"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187125"
 }

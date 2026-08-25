@@ -23,4 +23,3 @@ C	 se 100 pessoas procurarem o atendimento apresentando ambos os sintomas, a qua
 com dengue será igual a 70.
 D	 cada pessoa que chega apresentando um dos dois sintomas estará com resfriado comum.
 E	 a cada 100 pessoas que procuram atendimento, no máximo 30 estarão doentes.
-Área livre

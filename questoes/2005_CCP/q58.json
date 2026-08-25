@@ -42,6 +42,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig6.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig7.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -60,11 +61,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913209",
-  "categorias": [
-    "Banco de Dados",
-    "Algoritmos e Estruturas de Dados",
-    "Sistemas Operacionais e Arquitetura",
-    "Inteligência Artificial e Dados"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796732"
 }

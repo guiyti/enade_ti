@@ -28,6 +28,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q17_fig1.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q17_fig2.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -46,8 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577267",
-  "categorias": [
-    "Banco de Dados"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218579"
 }

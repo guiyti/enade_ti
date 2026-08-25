@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 56.173927307128906,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 425.348388671875,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/qd01.txt",
   "largura": 2241,
-  "altura": 2855,
+  "altura": 1568,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n7\nQUESTÃO DISCURSIVA 1 \nA Educação a Distância (EaD) é a modalidade de ensino que permite que a \ncomunicação e a construção do conhecimento entre os usuários envolvidos \npossam acontecer em locais e tempos distintos. São necessárias tecnologias \ncada vez mais sofisticadas para essa modalidade de ensino não presencial, com \nvistas à crescente necessidade de uma pedagogia que se desenvolva por meio \nde novas relações de ensino-aprendizagem.\nO Censo da Educação Superior de 2009, realizado pelo MEC/INEP, aponta \npara o aumento expressivo do número de matrículas nessa modalidade. Entre \n2004 e 2009, a participação da EaD na Educação Superior passou de 1,4% \npara 14,1%, totalizando 838 mil matrículas, das quais 50% em cursos de \nlicenciatura. Levantamentos apontam ainda que 37% dos estudantes de EaD \nestão na pós-graduação e que 42% estão fora do seu estado de origem.\nConsiderando as informações acima, enumere três vantagens de um curso a distância, justificando brevemente cada \numa delas. (valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 1 \nA Educação a Distância (EaD) é a modalidade de ensino que permite que a \ncomunicação e a construção do conhecimento entre os usuários envolvidos \npossam acontecer em locais e tempos distintos. São necessárias tecnologias \ncada vez mais sofisticadas para essa modalidade de ensino não presencial, com \nvistas à crescente necessidade de uma pedagogia que se desenvolva por meio \nde novas relações de ensino-aprendizagem.\nO Censo da Educação Superior de 2009, realizado pelo MEC/INEP, aponta \npara o aumento expressivo do número de matrículas nessa modalidade. Entre \n2004 e 2009, a participação da EaD na Educação Superior passou de 1,4% \npara 14,1%, totalizando 838 mil matrículas, das quais 50% em cursos de \nlicenciatura. Levantamentos apontam ainda que 37% dos estudantes de EaD \nestão na pós-graduação e que 42% estão fora do seu estado de origem.\nConsiderando as informações acima, enumere três vantagens de um curso a distância, justificando brevemente cada \numa delas. (valor: 10,0 pontos)",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:22.373428",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:11:24.235116"
 }

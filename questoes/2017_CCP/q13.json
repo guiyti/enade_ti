@@ -25,6 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:34.434018",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:12:32.414678"
 }

@@ -27,4 +27,3 @@ B	 se((salario >= 1045.00) ou (salario <= 1544.00)) entao
 C	 se((valor >= 1045.00) e (valor <= 1544.00)) entao
 D	 se((salario >= 1046.00) ou (salario < 1545.00)) entao
 E	 se((valor >= 1046.00) e (valor <= 1545.00)) entao
-Área livre

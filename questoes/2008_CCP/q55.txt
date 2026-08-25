@@ -17,18 +17,6 @@ O número esperado das ocorrências dos eventos A ou B na
 seqüência X1, X2, ..., Xn é igual a 
 .
 III Os eventos A e B são mutuamente exclusivos e, por isso, são
-independentes.
-Assinale a opção correta.
-A
-Apenas um item está certo.
-B
-Apenas os itens I e II estão certos.
-C
-Apenas os itens I e III estão certos.
-D
-Apenas os itens II e III estão certos.
-E
-Todos os itens estão certos.
 QUESTÃO 55
 Considere que um sistema seja constituído por três
 componentes montados em paralelo que funcionam
@@ -52,4 +40,3 @@ B
 C
 D
 E
-RASCUNHO

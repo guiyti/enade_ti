@@ -18,9 +18,12 @@
         3
       ],
       "largura": 2185,
-      "altura": 5671,
+      "altura": 2963,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd01.png",
       "caminho_json": "/questoes/2021_GTI/qd01.json",
@@ -35,9 +38,13 @@
         4
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1413,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd02.png",
       "caminho_json": "/questoes/2021_GTI/qd02.json",
@@ -52,9 +59,12 @@
         5
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 2197,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q01.png",
       "caminho_json": "/questoes/2021_GTI/q01.json",
@@ -70,9 +80,12 @@
         7
       ],
       "largura": 2185,
-      "altura": 5671,
+      "altura": 5337,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q02.png",
       "caminho_json": "/questoes/2021_GTI/q02.json",
@@ -90,6 +103,9 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q03.png",
       "caminho_json": "/questoes/2021_GTI/q03.json",
@@ -104,9 +120,12 @@
         9
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 2165,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q04.png",
       "caminho_json": "/questoes/2021_GTI/q04.json",
@@ -125,6 +144,10 @@
       "altura": 3968,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q05.png",
       "caminho_json": "/questoes/2021_GTI/q05.json",
@@ -142,6 +165,11 @@
       "altura": 1749,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q06.png",
       "caminho_json": "/questoes/2021_GTI/q06.json",
@@ -159,6 +187,10 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q07.png",
       "caminho_json": "/questoes/2021_GTI/q07.json",
@@ -173,9 +205,12 @@
         13
       ],
       "largura": 2185,
-      "altura": 2824,
+      "altura": 2199,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q08.png",
       "caminho_json": "/questoes/2021_GTI/q08.json",
@@ -191,9 +226,13 @@
         15
       ],
       "largura": 2185,
-      "altura": 5671,
+      "altura": 2963,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd03.png",
       "caminho_json": "/questoes/2021_GTI/qd03.json",
@@ -209,9 +248,12 @@
         17
       ],
       "largura": 2185,
-      "altura": 5671,
+      "altura": 3252,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd04.png",
       "caminho_json": "/questoes/2021_GTI/qd04.json",
@@ -226,9 +268,12 @@
         18
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1145,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd05.png",
       "caminho_json": "/questoes/2021_GTI/qd05.json",
@@ -243,9 +288,12 @@
         19
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1666,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q09.png",
       "caminho_json": "/questoes/2021_GTI/q09.json",
@@ -260,9 +308,12 @@
         20
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1806,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q10.png",
       "caminho_json": "/questoes/2021_GTI/q10.json",
@@ -280,6 +331,9 @@
       "altura": 1365,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q11.png",
       "caminho_json": "/questoes/2021_GTI/q11.json",
@@ -297,6 +351,9 @@
       "altura": 1504,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q12.png",
       "caminho_json": "/questoes/2021_GTI/q12.json",
@@ -311,9 +368,13 @@
         22
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1881,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q13.png",
       "caminho_json": "/questoes/2021_GTI/q13.json",
@@ -331,6 +392,9 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q14.png",
       "caminho_json": "/questoes/2021_GTI/q14.json",
@@ -345,9 +409,12 @@
         24
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1377,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q15.png",
       "caminho_json": "/questoes/2021_GTI/q15.json",
@@ -362,9 +429,13 @@
         25
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 2407,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q16.png",
       "caminho_json": "/questoes/2021_GTI/q16.json",
@@ -382,6 +453,9 @@
       "altura": 1114,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q17.png",
       "caminho_json": "/questoes/2021_GTI/q17.json",
@@ -399,6 +473,11 @@
       "altura": 1756,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q18.png",
       "caminho_json": "/questoes/2021_GTI/q18.json",
@@ -413,9 +492,14 @@
         27
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1476,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q19.png",
       "caminho_json": "/questoes/2021_GTI/q19.json",
@@ -430,9 +514,12 @@
         28
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 2064,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q20.png",
       "caminho_json": "/questoes/2021_GTI/q20.json",
@@ -447,9 +534,13 @@
         29
       ],
       "largura": 1095,
-      "altura": 2823,
+      "altura": 2364,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q21.png",
       "caminho_json": "/questoes/2021_GTI/q21.json",
@@ -464,9 +555,13 @@
         29
       ],
       "largura": 1095,
-      "altura": 2823,
+      "altura": 2628,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q22.png",
       "caminho_json": "/questoes/2021_GTI/q22.json",
@@ -481,9 +576,14 @@
         30
       ],
       "largura": 1095,
-      "altura": 2823,
+      "altura": 2552,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q23.png",
       "caminho_json": "/questoes/2021_GTI/q23.json",
@@ -501,6 +601,10 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q24.png",
       "caminho_json": "/questoes/2021_GTI/q24.json",
@@ -515,9 +619,14 @@
         31
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1722,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q25.png",
       "caminho_json": "/questoes/2021_GTI/q25.json",
@@ -532,9 +641,13 @@
         32
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1475,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q26.png",
       "caminho_json": "/questoes/2021_GTI/q26.json",
@@ -549,9 +662,13 @@
         33
       ],
       "largura": 1095,
-      "altura": 2823,
+      "altura": 2409,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q27.png",
       "caminho_json": "/questoes/2021_GTI/q27.json",
@@ -569,6 +686,9 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q28.png",
       "caminho_json": "/questoes/2021_GTI/q28.json",
@@ -586,6 +706,10 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q29.png",
       "caminho_json": "/questoes/2021_GTI/q29.json",
@@ -603,6 +727,9 @@
       "altura": 2823,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q30.png",
       "caminho_json": "/questoes/2021_GTI/q30.json",
@@ -617,9 +744,14 @@
         35
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1491,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q31.png",
       "caminho_json": "/questoes/2021_GTI/q31.json",
@@ -634,9 +766,13 @@
         36
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 2049,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q32.png",
       "caminho_json": "/questoes/2021_GTI/q32.json",
@@ -651,9 +787,12 @@
         37
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1919,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q33.png",
       "caminho_json": "/questoes/2021_GTI/q33.json",
@@ -668,9 +807,12 @@
         38
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1698,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q34.png",
       "caminho_json": "/questoes/2021_GTI/q34.json",
@@ -685,9 +827,13 @@
         39
       ],
       "largura": 2185,
-      "altura": 2823,
+      "altura": 1662,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q35.png",
       "caminho_json": "/questoes/2021_GTI/q35.json",

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.71854400634766,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 490.7154235839844,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q10.txt",
   "largura": 2185,
-  "altura": 2823,
+  "altura": 1806,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 10\t\nDecidir o que é certo ou errado nem sempre é fácil ou simples. Por essa razão, muitas empresas e \norganizações profissionais desenvolvem seus próprios códigos de ética. Um código de ética é um conjunto \nde princípios destinados a guiar a tomada de decisões pelos membros da organização. A diversidade e o \nuso cada vez mais difundido de aplicações de TI criaram diversos aspectos éticos. Esses aspectos podem \nse encaixar em categorias relacionadas à privacidade da informação, que envolve coletar, armazenar e \ndisseminar informações sobre pessoas.\nTURBAN E.; RAINER K. J.; POTTER R. E. Introdução a Sistemas de Informação: \numa abordagem gerencial. Rio de Janeiro: Elsevier, 2007 (adaptado).\nConsiderando a categoria privacidade do código de ética, avalie as afirmações a seguir.\nI.\t O código de ética determina quem é responsável pela autenticidade, fidelidade e exatidão das \ninformações coletadas. \nII.\t O código de ética estabelece que tipo de vigilância um empregador pode exercer sobre \nseus empregados.\nIII.\t O código de ética orienta como o acesso aos canais de informação deve ser alocado. \nIV.\t O código de ética define quais informações devem ser divulgadas aos usuários de sistemas de \ninformação.\nV.\t O código de ética determina que informações devem ser mantidas em bancos de dados e qual o \nnível de segurança dessas informações.\nÉ correto apenas o que se afirma em\nA\t I, II e III.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, IV e V.\nE\t III, IV e V.\nÁrea livre",
+  "texto_completo": "QUESTÃO 10\t\nDecidir o que é certo ou errado nem sempre é fácil ou simples. Por essa razão, muitas empresas e \norganizações profissionais desenvolvem seus próprios códigos de ética. Um código de ética é um conjunto \nde princípios destinados a guiar a tomada de decisões pelos membros da organização. A diversidade e o \nuso cada vez mais difundido de aplicações de TI criaram diversos aspectos éticos. Esses aspectos podem \nse encaixar em categorias relacionadas à privacidade da informação, que envolve coletar, armazenar e \ndisseminar informações sobre pessoas.\nTURBAN E.; RAINER K. J.; POTTER R. E. Introdução a Sistemas de Informação: \numa abordagem gerencial. Rio de Janeiro: Elsevier, 2007 (adaptado).\nConsiderando a categoria privacidade do código de ética, avalie as afirmações a seguir.\nI.\t O código de ética determina quem é responsável pela autenticidade, fidelidade e exatidão das \ninformações coletadas. \nII.\t O código de ética estabelece que tipo de vigilância um empregador pode exercer sobre \nseus empregados.\nIII.\t O código de ética orienta como o acesso aos canais de informação deve ser alocado. \nIV.\t O código de ética define quais informações devem ser divulgadas aos usuários de sistemas de \ninformação.\nV.\t O código de ética determina que informações devem ser mantidas em bancos de dados e qual o \nnível de segurança dessas informações.\nÉ correto apenas o que se afirma em\nA\t I, II e III.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, IV e V.\nE\t III, IV e V.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:38.948930",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:33.727079"
 }

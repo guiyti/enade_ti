@@ -34,6 +34,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,9 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153318",
-  "categorias": [
-    "Banco de Dados",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490716"
 }

@@ -26,4 +26,3 @@ D	 pilha: topo → B → A.
 fila: início → D → B → C → E.
 E	 pilha: topo → C → B → A. 
 fila: início → D → B → C → E.
-Área livre

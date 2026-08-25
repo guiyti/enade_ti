@@ -1,4 +1,3 @@
-1
 QUESTÃO 52
 A identificação e o tratamento de erros em
 programas de computador estão entre as tarefas dos
@@ -41,4 +40,3 @@ II são funções do analisador léxico.
 E
 A identificação e a comunicação do erro na sentença
 II são funções da análise semântica.
-RASCUNHO

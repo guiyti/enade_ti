@@ -137,7 +137,6 @@ S0
 1
 1
 
-0
 Analise o circuito, os dados das tabelas I e II e as seguintes
 asserções.
 O circuito apresentado converte a tensão analógica vA em
@@ -165,4 +164,3 @@ segunda, uma proposição verdadeira.
 E
 Tanto a primeira quanto a segunda asserções são
 proposições falsas.
-RASCUNHO

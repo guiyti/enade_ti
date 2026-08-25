@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 292.86712646484375,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 341.6299743652344,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.txt",
   "largura": 2475,
-  "altura": 2700,
+  "altura": 771,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n33\nCOMPUTAÇÃO\ng , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\nA\t Vazão, maximizando o número de processos executados por instante de tempo.\nB\t Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.\nC\t Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.\nD\t Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.\nÁrea livre\n\n2025\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.\n*R0404202534*",
+  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\n\n2025\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.\n*R0404202534*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,9 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153741",
-  "categorias": [
-    "Sistemas Operacionais e Arquitetura",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:48.491008"
 }

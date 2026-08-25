@@ -45,6 +45,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q19_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -63,9 +64,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:50.842960",
-  "categorias": [
-    "Banco de Dados",
-    "Redes e Segurança"
-  ]
+  "criado_em": "2026-08-25T14:12:48.320999"
 }

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 55.518592834472656,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 488.5917053222656,
       "coluna": 0
     }
   ],
@@ -19,14 +19,15 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.txt",
   "largura": 2241,
-  "altura": 2858,
+  "altura": 1834,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n29\nQUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.\nÁREA LIVRE",
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q45_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,8 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577388",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218706"
 }

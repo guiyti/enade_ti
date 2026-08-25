@@ -34,6 +34,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig7.png",
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig8.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577234",
-  "categorias": [
-    "Programação e POO"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218548"
 }

@@ -19,9 +19,12 @@
         4
       ],
       "largura": 2440,
-      "altura": 6008,
+      "altura": 3914,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/qd01.png",
       "caminho_json": "/questoes/2017_ADS/qd01.json",
@@ -37,9 +40,12 @@
         5
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 1834,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/qd02.png",
       "caminho_json": "/questoes/2017_ADS/qd02.json",
@@ -58,6 +64,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q01.png",
       "caminho_json": "/questoes/2017_ADS/q01.json",
@@ -76,6 +85,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q02.png",
       "caminho_json": "/questoes/2017_ADS/q02.json",
@@ -94,6 +106,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q03.png",
       "caminho_json": "/questoes/2017_ADS/q03.json",
@@ -112,6 +127,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q04.png",
       "caminho_json": "/questoes/2017_ADS/q04.json",
@@ -130,6 +148,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q05.png",
       "caminho_json": "/questoes/2017_ADS/q05.json",
@@ -148,6 +169,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q06.png",
       "caminho_json": "/questoes/2017_ADS/q06.json",
@@ -166,6 +190,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q07.png",
       "caminho_json": "/questoes/2017_ADS/q07.json",
@@ -184,6 +211,9 @@
       "altura": 3182,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q08.png",
       "caminho_json": "/questoes/2017_ADS/q08.json",
@@ -203,9 +233,12 @@
         18
       ],
       "largura": 2440,
-      "altura": 15164,
+      "altura": 8771,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/qd03.png",
       "caminho_json": "/questoes/2017_ADS/qd03.json",
@@ -223,6 +256,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q09.png",
       "caminho_json": "/questoes/2017_ADS/q09.json",
@@ -241,6 +277,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q10.png",
       "caminho_json": "/questoes/2017_ADS/q10.json",
@@ -259,6 +298,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q11.png",
       "caminho_json": "/questoes/2017_ADS/q11.json",
@@ -276,6 +318,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q12.png",
       "caminho_json": "/questoes/2017_ADS/q12.json",
@@ -294,6 +339,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q13.png",
       "caminho_json": "/questoes/2017_ADS/q13.json",
@@ -311,6 +359,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q14.png",
       "caminho_json": "/questoes/2017_ADS/q14.json",
@@ -329,6 +380,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q15.png",
       "caminho_json": "/questoes/2017_ADS/q15.json",
@@ -347,6 +401,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q16.png",
       "caminho_json": "/questoes/2017_ADS/q16.json",
@@ -364,6 +421,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q17.png",
       "caminho_json": "/questoes/2017_ADS/q17.json",
@@ -381,6 +441,9 @@
       "altura": 1731,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q18.png",
       "caminho_json": "/questoes/2017_ADS/q18.json",
@@ -399,6 +462,10 @@
       "altura": 1405,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q19.png",
       "caminho_json": "/questoes/2017_ADS/q19.json",
@@ -418,6 +485,9 @@
       "altura": 9173,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q20.png",
       "caminho_json": "/questoes/2017_ADS/q20.json",
@@ -435,6 +505,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q21.png",
       "caminho_json": "/questoes/2017_ADS/q21.json",
@@ -453,6 +526,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q22.png",
       "caminho_json": "/questoes/2017_ADS/q22.json",
@@ -470,6 +546,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q23.png",
       "caminho_json": "/questoes/2017_ADS/q23.json",
@@ -488,6 +567,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q24.png",
       "caminho_json": "/questoes/2017_ADS/q24.json",
@@ -506,6 +588,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q25.png",
       "caminho_json": "/questoes/2017_ADS/q25.json",
@@ -524,6 +609,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q26.png",
       "caminho_json": "/questoes/2017_ADS/q26.json",
@@ -543,6 +631,9 @@
       "altura": 6131,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q27.png",
       "caminho_json": "/questoes/2017_ADS/q27.json",
@@ -561,6 +652,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q28.png",
       "caminho_json": "/questoes/2017_ADS/q28.json",
@@ -579,6 +673,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q29.png",
       "caminho_json": "/questoes/2017_ADS/q29.json",
@@ -597,6 +694,9 @@
       "altura": 4272,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q30.png",
       "caminho_json": "/questoes/2017_ADS/q30.json",
@@ -615,6 +715,9 @@
       "altura": 1906,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q31.png",
       "caminho_json": "/questoes/2017_ADS/q31.json",
@@ -633,6 +736,9 @@
       "altura": 4075,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q32.png",
       "caminho_json": "/questoes/2017_ADS/q32.json",
@@ -651,6 +757,9 @@
       "altura": 2103,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q33.png",
       "caminho_json": "/questoes/2017_ADS/q33.json",
@@ -669,6 +778,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q34.png",
       "caminho_json": "/questoes/2017_ADS/q34.json",
@@ -686,6 +798,9 @@
       "altura": 2967,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q35.png",
       "caminho_json": "/questoes/2017_ADS/q35.json",

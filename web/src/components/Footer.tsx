@@ -17,8 +17,6 @@ export function Footer() {
           <Link href="/admin" className="hover:text-slate-900 dark:hover:text-white transition-colors">
             Auditoria Admin
           </Link>
-          <span className="text-slate-300 dark:text-slate-700">|</span>
-          <span className="font-mono text-[11px]">Next.js 15 + Vercel Ready</span>
         </div>
       </div>
     </footer>

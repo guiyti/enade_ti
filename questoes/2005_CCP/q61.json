@@ -27,6 +27,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q61_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,9 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913217",
-  "categorias": [
-    "Programação e POO",
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796739"
 }

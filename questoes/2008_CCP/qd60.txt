@@ -1,6 +1,3 @@
-25
-CO
-ÇÃO
 QUESTÃO 60 – DISCURSIVA
 Para transmissões de sinais em banda base, a largura de banda do canal limita a taxa de
 transmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de
@@ -20,14 +17,6 @@ diferentes níveis de sinalização. Nessa situação, responda aos seguintes qu
 A Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em
 bits por segundo. Apresente os cálculos necessários.
 (valor: 3,0 pontos)
-RASCUNHO – QUESTÃO 60 - A
-B Na presença de ruído térmico, de acordo com a lei de Shannon, qual a taxa de transmissão máxima do canal, em bits
-por segundo? Apresente os cálculos necessário e considere que log10 (1.023) = 3,01.
-(valor: 3,0 pontos)
-RASCUNHO – QUESTÃO 60 - B
-C Na presença de ruído térmico, é possível adotar mais de 16 níveis de sinalização no referido canal? Justifique.
-(valor: 4,0 pontos)
-RASCUNHO – QUESTÃO 60 - C
 
 As questões de 61 a 80, a seguir, são específicas par
 BACHARELADO EM SIST

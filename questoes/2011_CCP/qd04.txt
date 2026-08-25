@@ -1,5 +1,4 @@
 EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-19
 QUESTÃO DISCURSIVA 4
 Listas ordenadas implementadas com vetores são estruturas 
 de dados adequadas para a busca binária, mas possuem o 
@@ -18,19 +17,3 @@ parâmetros, o vetor, índice do primeiro e último elementos, retornando a refe
 árvore criada (valor: 8,0 pontos).
 Observação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser 
 considerada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15

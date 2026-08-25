@@ -10,7 +10,6 @@ B	 Alterar o endereço de IP da estação PROFESSORES01 para 175.16.30.200.
 C	 Alterar a máscara de sub-rede da estação PROFESSORES01 para 255.255.0.0.
 D	 Alterar a máscara de sub-rede da estação PROFESSORES03 para 255.255.255.0. 
 E	 Alterar o gateway da estação PROFESSORES01 para o endereço de IP 175.16.30.200.
-Área livre
 PROFESSORES 01
 PROFESSORES 02
 PROFESSORES 03

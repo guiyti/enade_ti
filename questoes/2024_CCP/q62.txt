@@ -1,5 +1,3 @@
-PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PM
-COMPUTAÇÃO
 p
 g
 QUESTÃO 62	
@@ -11,8 +9,6 @@ B	 Incluir os recursos de navegação por teclado e leitores de
 tela para facilitar o uso pelos usuários da aplicação.
 C	 Utilizar contrastes visuais fortes e aumentar o tamanho da 
 fonte para assegurar as necessidades de acessibilidade.
-D	 Certificar responsividade e compatibilidade com navegadores 
-modernos para reduzir dificuldades enfrentadas pelos usuários.
-Área livre
+D Certificar responsividade e compatibilidade com navegadores
 
 *R0404202531*

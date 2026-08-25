@@ -32,4 +32,3 @@ C	 Lista duplamente ligada, lista simplesmente
 ligada, fila e pilha.
 D	 Pilha, fila, deque e lista simplesmente encadeada.
 E	 Deque, pilha, lista ligada e fila.
-Área livre

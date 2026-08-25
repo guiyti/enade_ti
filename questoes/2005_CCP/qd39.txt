@@ -1,6 +1,3 @@
-Á
-Ã
-13
 Tendo como base a árvore acima, faça o que se pede nos itens a seguir.
 a) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)
 b) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem
@@ -8,9 +5,3 @@ b) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem d
 c) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será
 obtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.
 (valor: 4,0 pontos)
-item a)
-RASCUNHO
-item b)
-RASCUNHO
-item c)
-RASCUNHO

@@ -20,7 +20,7 @@
       "x0": 300.59999999999997,
       "y0": 55.0,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 265.1107177734375,
       "coluna": 2
     },
     {
@@ -36,12 +36,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q77.txt",
   "largura": 1154,
-  "altura": 6070,
+  "altura": 3852,
   "confianca": 0.9,
-  "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 77\nConsidere que você trabalhe em uma empresa de desenvo\nde software e que a empresa tenha decidido desenvolver u\neditor de texto para colocar no mercado. Esse editor deve\nsoftware que forneça recursos adicionais de apoio à \nembasado no estilo de escrita do usuário, o que o torna um \nde funcionalidade mais complexa. Considere que a empres\ndisponibilizar o produto no mercado em versões que agregu\nsuporte de forma gradativa, fazendo análise de risco para \nviabilidade de desenvolvimento de uma nova versão. Te\nescolher um modelo de processo para desenvolver esse \nconhecendo as características dos modelos existentes, \nmodelos abaixo, qual é o modelo apropriado para esse cas\nA\ncascata\nB\nespiral\nC\nRAD (rapid application development)\nD\nprototipação\nE\ncleanroom\n\n1\nem uma empresa\neços IP privados.\no nas redes dessa\nnsiderando que os\ndor WWW externo\nreços IP de origem\não a esse servidor?\nissor,\nguintes\nemail,\nemail,\nte e em\nBoyce-\nNormal\nBoyce-\nmail),\nmail),\nvimento\nm novo\nser um\nautoria,\noftware\ndeseje\nm esse\nvaliar a\nndo de\nditor, e\nntre os\no?\nRASCUNHO\nRoteador do Provedor\nWAN\n138.76.28.4\n10.0.0.254\n10.0.0.1\nComputador A\n10.0.0.2\nComputador B\n10.0.0.10\nLAN\nRoteador com NAPT\n\nTexto para as questões 78 e 79\nA Secretaria de Saúde de determinado município\nexecutando um projeto de automação do seu sistem\natendimento médico e laboratorial, atualmente manual. O ob\ndo projeto é melhorar a satisfação dos usuários com relaçã\nserviços prestados pela Secretaria. O sistema automatizado\ncontemplar os seguintes processos: marcação de con\nmanutenção de prontuário do paciente, além do pedido \nregistro de resultados de exame laboratorial.\nA Secretaria possui vários postos de saúde e cad\ndeles atende a um ou mais bairros do município. As consu\ncada paciente são realizadas no posto de saúde mais próxim\nonde ele reside. Os exames laboratoriais são realizados\nlaboratórios terceirizados e conveniados.\nA solução proposta pela equipe de desenvolvime\nimplantação da automação contempla, entre outros, os segu\naspectos:\n<\nsistema computacional do tipo cliente-servidor na web, em\ncada usuário cadastrado utiliza login e senha para fazer u\nsistema;\n<\numa aplicação, compartilhada por médicos e laborató\ngerencia o pedido e o registro de resultados dos exa\nDurante uma consulta o próprio médico registra o pedid\nexames no sistema;\n<\numa aplicação, compartilhada por médicos e pacie\npermite que ambos tenham acesso aos resultados\nexames laboratoriais; \n<\numa aplicação, compartilhada por médicos e pacientes\nautomatiza o prontuário dos pacientes, em que os registro\nprontuário, efetuados por cada médico para cada pac\nestão disponíveis apenas para o paciente e o m\nespecíficos. Além disso, cada médico pode fazer reg\nprivados no prontuário do paciente, apenas visíveis por \n<\numa aplicação, compartilhada por pacientes e atendente\npostos de saúde, que permite a marcação de consulta\npacientes e(ou) por atendentes. Esses atendentes atend\npaciente no balcão ou por telefone.",
+  "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 77\nConsidere que você trabalhe em uma empresa de desenvo\nde software e que a empresa tenha decidido desenvolver u\neditor de texto para colocar no mercado. Esse editor deve\nsoftware que forneça recursos adicionais de apoio à \nembasado no estilo de escrita do usuário, o que o torna um \nde funcionalidade mais complexa. Considere que a empres\ndisponibilizar o produto no mercado em versões que agregu\nsuporte de forma gradativa, fazendo análise de risco para \nviabilidade de desenvolvimento de uma nova versão. Te\nescolher um modelo de processo para desenvolver esse \nconhecendo as características dos modelos existentes, \nmodelos abaixo, qual é o modelo apropriado para esse cas\nA\ncascata\nB\nespiral\nC\nRAD (rapid application development)\nD\nprototipação\nE\ncleanroom\n\nem uma empresa\neços IP privados.\no nas redes dessa\nnsiderando que os\ndor WWW externo\nreços IP de origem\não a esse servidor?\nRoteador do Provedor\nWAN\n138.76.28.4\n10.0.0.254\n10.0.0.1\nComputador A\n10.0.0.2\nComputador B\n10.0.0.10\nLAN\nRoteador com NAPT\n\nTexto para as questões 78 e 79\nA Secretaria de Saúde de determinado município\nexecutando um projeto de automação do seu sistem\natendimento médico e laboratorial, atualmente manual. O ob\ndo projeto é melhorar a satisfação dos usuários com relaçã\nserviços prestados pela Secretaria. O sistema automatizado\ncontemplar os seguintes processos: marcação de con\nmanutenção de prontuário do paciente, além do pedido \nregistro de resultados de exame laboratorial.\nA Secretaria possui vários postos de saúde e cad\ndeles atende a um ou mais bairros do município. As consu\ncada paciente são realizadas no posto de saúde mais próxim\nonde ele reside. Os exames laboratoriais são realizados\nlaboratórios terceirizados e conveniados.\nA solução proposta pela equipe de desenvolvime\nimplantação da automação contempla, entre outros, os segu\naspectos:\n<\nsistema computacional do tipo cliente-servidor na web, em\ncada usuário cadastrado utiliza login e senha para fazer u\nsistema;\n<\numa aplicação, compartilhada por médicos e laborató\ngerencia o pedido e o registro de resultados dos exa\nDurante uma consulta o próprio médico registra o pedid\nexames no sistema;\n<\numa aplicação, compartilhada por médicos e pacie\npermite que ambos tenham acesso aos resultados\nexames laboratoriais; \n<\numa aplicação, compartilhada por médicos e pacientes\nautomatiza o prontuário dos pacientes, em que os registro\nprontuário, efetuados por cada médico para cada pac\nestão disponíveis apenas para o paciente e o m\nespecíficos. Além disso, cada médico pode fazer reg\nprivados no prontuário do paciente, apenas visíveis por \n<\numa aplicação, compartilhada por pacientes e atendente\npostos de saúde, que permite a marcação de consulta\npacientes e(ou) por atendentes. Esses atendentes atend\npaciente no balcão ou por telefone.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -60,11 +61,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654593",
-  "categorias": [
-    "Engenharia de Software",
-    "Redes e Segurança",
-    "Sistemas Operacionais e Arquitetura",
-    "Governança e Gestão de TI"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229564"
 }

@@ -25,6 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,11 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913231",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Programação e POO",
-    "Teoria da Computação e Compiladores",
-    "Inteligência Artificial e Dados"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796754"
 }

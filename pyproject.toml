@@ -1,0 +1,19 @@
+[tool.vercel]
+entrypoint = "src.enade.auditoria:app"
+
+[project]
+name = "enade-ti"
+version = "1.0.0"
+description = "Banco Visual de Questões ENADE de TI com Extração Geométrica e Frontend Next.js"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "PyMuPDF>=1.23.0",
+    "opencv-python-headless>=4.8.0",
+    "pillow>=10.0.0",
+    "pytesseract>=0.3.10",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.22.0",
+    "jinja2>=3.1.2",
+    "pytest>=7.4.0",
+]

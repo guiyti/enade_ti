@@ -22,6 +22,11 @@
       "altura": 9334,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Redes e Segurança",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q03.png",
       "caminho_json": "/questoes/2005_CCP/q03.json",
@@ -39,9 +44,13 @@
         7
       ],
       "largura": 2306,
-      "altura": 10367,
+      "altura": 7920,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q07.png",
       "caminho_json": "/questoes/2005_CCP/q07.json",
@@ -57,9 +66,12 @@
         8
       ],
       "largura": 2306,
-      "altura": 2958,
+      "altura": 1822,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd10.png",
       "caminho_json": "/questoes/2005_CCP/qd10.json",
@@ -77,6 +89,9 @@
       "altura": 113,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q11.png",
       "caminho_json": "/questoes/2005_CCP/q11.json",
@@ -94,6 +109,10 @@
       "altura": 1269,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q12.png",
       "caminho_json": "/questoes/2005_CCP/q12.json",
@@ -112,6 +131,10 @@
       "altura": 2527,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q13.png",
       "caminho_json": "/questoes/2005_CCP/q13.json",
@@ -129,6 +152,10 @@
       "altura": 802,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q15.png",
       "caminho_json": "/questoes/2005_CCP/q15.json",
@@ -146,6 +173,11 @@
       "altura": 972,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q16.png",
       "caminho_json": "/questoes/2005_CCP/q16.json",
@@ -163,6 +195,11 @@
       "altura": 1312,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q17.png",
       "caminho_json": "/questoes/2005_CCP/q17.json",
@@ -181,6 +218,10 @@
       "altura": 2940,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q18.png",
       "caminho_json": "/questoes/2005_CCP/q18.json",
@@ -198,6 +239,9 @@
       "altura": 797,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q20.png",
       "caminho_json": "/questoes/2005_CCP/q20.json",
@@ -215,6 +259,10 @@
       "altura": 2139,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q21.png",
       "caminho_json": "/questoes/2005_CCP/q21.json",
@@ -232,6 +280,9 @@
       "altura": 1153,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q23.png",
       "caminho_json": "/questoes/2005_CCP/q23.json",
@@ -250,6 +301,12 @@
       "altura": 2097,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q24.png",
       "caminho_json": "/questoes/2005_CCP/q24.json",
@@ -267,6 +324,9 @@
       "altura": 1352,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q26.png",
       "caminho_json": "/questoes/2005_CCP/q26.json",
@@ -284,6 +344,12 @@
       "altura": 2740,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Engenharia de Software",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q27.png",
       "caminho_json": "/questoes/2005_CCP/q27.json",
@@ -302,6 +368,11 @@
       "altura": 2391,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q29.png",
       "caminho_json": "/questoes/2005_CCP/q29.json",
@@ -319,6 +390,10 @@
       "altura": 1099,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q31.png",
       "caminho_json": "/questoes/2005_CCP/q31.json",
@@ -336,6 +411,11 @@
       "altura": 2841,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q32.png",
       "caminho_json": "/questoes/2005_CCP/q32.json",
@@ -354,6 +434,12 @@
       "altura": 3561,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q34.png",
       "caminho_json": "/questoes/2005_CCP/q34.json",
@@ -371,6 +457,9 @@
       "altura": 2449,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q36.png",
       "caminho_json": "/questoes/2005_CCP/q36.json",
@@ -388,6 +477,9 @@
       "altura": 1725,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q38.png",
       "caminho_json": "/questoes/2005_CCP/q38.json",
@@ -402,9 +494,12 @@
         14
       ],
       "largura": 2306,
-      "altura": 3123,
+      "altura": 1150,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd39.png",
       "caminho_json": "/questoes/2005_CCP/qd39.json",
@@ -420,9 +515,13 @@
         16
       ],
       "largura": 2306,
-      "altura": 3966,
+      "altura": 1307,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd40.png",
       "caminho_json": "/questoes/2005_CCP/qd40.json",
@@ -440,6 +539,9 @@
       "altura": 113,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q41.png",
       "caminho_json": "/questoes/2005_CCP/q41.json",
@@ -457,6 +559,11 @@
       "altura": 2311,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q42.png",
       "caminho_json": "/questoes/2005_CCP/q42.json",
@@ -474,6 +581,10 @@
       "altura": 598,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q43.png",
       "caminho_json": "/questoes/2005_CCP/q43.json",
@@ -491,6 +602,9 @@
       "altura": 2572,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q44.png",
       "caminho_json": "/questoes/2005_CCP/q44.json",
@@ -508,6 +622,10 @@
       "altura": 912,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q45.png",
       "caminho_json": "/questoes/2005_CCP/q45.json",
@@ -525,6 +643,9 @@
       "altura": 672,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q46.png",
       "caminho_json": "/questoes/2005_CCP/q46.json",
@@ -542,6 +663,9 @@
       "altura": 1632,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q47.png",
       "caminho_json": "/questoes/2005_CCP/q47.json",
@@ -559,6 +683,9 @@
       "altura": 883,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q48.png",
       "caminho_json": "/questoes/2005_CCP/q48.json",
@@ -576,6 +703,9 @@
       "altura": 1209,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q49.png",
       "caminho_json": "/questoes/2005_CCP/q49.json",
@@ -593,6 +723,10 @@
       "altura": 1124,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q50.png",
       "caminho_json": "/questoes/2005_CCP/q50.json",
@@ -610,6 +744,9 @@
       "altura": 1854,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q51.png",
       "caminho_json": "/questoes/2005_CCP/q51.json",
@@ -627,6 +764,11 @@
       "altura": 1316,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q52.png",
       "caminho_json": "/questoes/2005_CCP/q52.json",
@@ -644,6 +786,10 @@
       "altura": 3123,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q53.png",
       "caminho_json": "/questoes/2005_CCP/q53.json",
@@ -661,6 +807,9 @@
       "altura": 3123,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q54.png",
       "caminho_json": "/questoes/2005_CCP/q54.json",
@@ -675,9 +824,12 @@
         20
       ],
       "largura": 2306,
-      "altura": 3123,
+      "altura": 1331,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd55.png",
       "caminho_json": "/questoes/2005_CCP/qd55.json",
@@ -695,6 +847,9 @@
       "altura": 1858,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q56.png",
       "caminho_json": "/questoes/2005_CCP/q56.json",
@@ -712,6 +867,10 @@
       "altura": 1268,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q57.png",
       "caminho_json": "/questoes/2005_CCP/q57.json",
@@ -730,6 +889,12 @@
       "altura": 6187,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q58.png",
       "caminho_json": "/questoes/2005_CCP/q58.json",
@@ -747,6 +912,9 @@
       "altura": 967,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q60.png",
       "caminho_json": "/questoes/2005_CCP/q60.json",
@@ -764,6 +932,10 @@
       "altura": 2202,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q61.png",
       "caminho_json": "/questoes/2005_CCP/q61.json",
@@ -781,6 +953,9 @@
       "altura": 3123,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q62.png",
       "caminho_json": "/questoes/2005_CCP/q62.json",
@@ -798,6 +973,9 @@
       "altura": 1793,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q63.png",
       "caminho_json": "/questoes/2005_CCP/q63.json",
@@ -815,6 +993,9 @@
       "altura": 1377,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q64.png",
       "caminho_json": "/questoes/2005_CCP/q64.json",
@@ -832,6 +1013,12 @@
       "altura": 1227,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO",
+        "Teoria da Computação e Compiladores",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q65.png",
       "caminho_json": "/questoes/2005_CCP/q65.json",
@@ -850,6 +1037,12 @@
       "altura": 3640,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Redes e Segurança",
+        "Teoria da Computação e Compiladores"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q66.png",
       "caminho_json": "/questoes/2005_CCP/q66.json",
@@ -867,9 +1060,15 @@
         28
       ],
       "largura": 2306,
-      "altura": 10860,
+      "altura": 8964,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q67.png",
       "caminho_json": "/questoes/2005_CCP/q67.json",
@@ -887,6 +1086,9 @@
       "altura": 1137,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q71.png",
       "caminho_json": "/questoes/2005_CCP/q71.json",
@@ -904,6 +1106,10 @@
       "altura": 2064,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q72.png",
       "caminho_json": "/questoes/2005_CCP/q72.json",
@@ -921,6 +1127,9 @@
       "altura": 2147,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q73.png",
       "caminho_json": "/questoes/2005_CCP/q73.json",
@@ -939,6 +1148,11 @@
       "altura": 2183,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q74.png",
       "caminho_json": "/questoes/2005_CCP/q74.json",
@@ -956,6 +1170,10 @@
       "altura": 1949,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q76.png",
       "caminho_json": "/questoes/2005_CCP/q76.json",
@@ -973,6 +1191,9 @@
       "altura": 1556,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q77.png",
       "caminho_json": "/questoes/2005_CCP/q77.json",
@@ -991,6 +1212,9 @@
       "altura": 2686,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q78.png",
       "caminho_json": "/questoes/2005_CCP/q78.json",
@@ -1008,6 +1232,9 @@
       "altura": 584,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q80.png",
       "caminho_json": "/questoes/2005_CCP/q80.json",
@@ -1025,6 +1252,10 @@
       "altura": 3701,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q81.png",
       "caminho_json": "/questoes/2005_CCP/q81.json",
@@ -1042,6 +1273,9 @@
       "altura": 999,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q83.png",
       "caminho_json": "/questoes/2005_CCP/q83.json",

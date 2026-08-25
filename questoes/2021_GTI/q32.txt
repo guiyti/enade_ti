@@ -27,4 +27,3 @@ D	 sofreu mudanças significativas em seu kernel, que passou a residir em um dis
 com isso, pode haver mais processos em execução, deixando o dispositivo mais rápido.
 E	 teve as funçoes do kernel reduzidas, assim os processos relativos à gerência de memória não são mais 
 tratados pelo módulo de escalonamento, o que deixa o desempenho do dispositivo muito melhor.
-Área livre

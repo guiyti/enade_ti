@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 395.2970275878906,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q13.txt",
   "largura": 2185,
-  "altura": 2822,
+  "altura": 1407,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 13\t\nO desenvolvimento de sistemas iterativo e evolutivo é uma abordagem que estabelece ciclos de \ndesenvolvimento, com duração fixa, chamados iterações. O produto de cada iteração é um sistema parcial, \nexecutável, testável e integrável. Cada iteração inclui suas próprias atividades de análises de requisitos, \nprojeto, implementação e teste. O ciclo de vida iterativo é baseado em refinamentos e incrementos \nsucessivos de um sistema por meio de múltiplas iterações, com realimentação e adaptação cíclicas como \nprincipais propulsores para convergir para um sistema adequado.\nCRAIG, L. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos. 3. ed. \nPorto Alegre: Bookman, 2007 (adaptado).\nConsiderando o texto apresentado, assinale a opção correta sobre o desenvolvimento iterativo e evolutivo.\nA\t A mudança nos requisitos do sistema é algo que gera atraso no desenvolvimento, por isso é \naconselhável evitá-la.\nB\t O ciclo de desenvolvimento possui duração fixa, porém, durante o desenvolvimento, poderá ser \nalterado no caso de sistemas críticos.\nC\t O teste de usabilidade deve ser realizado no último ciclo, pois será o momento em que o usuário \nconsegue testar todas as funcionalidades.\nD\t O subsistema gerado pela implementação dos requisitos no fim de uma iteração poderá ser utilizado \npelo cliente como protótipo.\nE\t O documento de teste de usabilidade deve contemplar os critérios de acessibilidade para atender a \ntodos os usuários do sistema.\nÁrea livre",
+  "texto_completo": "QUESTÃO 13\t\nO desenvolvimento de sistemas iterativo e evolutivo é uma abordagem que estabelece ciclos de \ndesenvolvimento, com duração fixa, chamados iterações. O produto de cada iteração é um sistema parcial, \nexecutável, testável e integrável. Cada iteração inclui suas próprias atividades de análises de requisitos, \nprojeto, implementação e teste. O ciclo de vida iterativo é baseado em refinamentos e incrementos \nsucessivos de um sistema por meio de múltiplas iterações, com realimentação e adaptação cíclicas como \nprincipais propulsores para convergir para um sistema adequado.\nCRAIG, L. Utilizando UML e Padrões: Uma Introdução à Análise e ao Projeto Orientados a Objetos. 3. ed. \nPorto Alegre: Bookman, 2007 (adaptado).\nConsiderando o texto apresentado, assinale a opção correta sobre o desenvolvimento iterativo e evolutivo.\nA\t A mudança nos requisitos do sistema é algo que gera atraso no desenvolvimento, por isso é \naconselhável evitá-la.\nB\t O ciclo de desenvolvimento possui duração fixa, porém, durante o desenvolvimento, poderá ser \nalterado no caso de sistemas críticos.\nC\t O teste de usabilidade deve ser realizado no último ciclo, pois será o momento em que o usuário \nconsegue testar todas as funcionalidades.\nD\t O subsistema gerado pela implementação dos requisitos no fim de uma iteração poderá ser utilizado \npelo cliente como protótipo.\nE\t O documento de teste de usabilidade deve contemplar os critérios de acessibilidade para atender a \ntodos os usuários do sistema.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543587",
-  "categorias": [
-    "Engenharia de Software"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187071"
 }

@@ -9,7 +9,7 @@
   "questoes_extraidas": 60,
   "score_geral": 75.5,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T12:47:42.787295",
+  "processado_em": "2026-08-25T14:10:45.648723",
   "paginas": [
     {
       "numero": 1,
@@ -26890,6 +26890,11 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig2.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig3.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados",
+        "Redes e Segurança",
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -26908,7 +26913,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913018"
+      "criado_em": "2026-08-25T14:10:51.796537"
     },
     {
       "id_questao": "q07",
@@ -26934,7 +26939,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 503.5465393066406,
           "coluna": 0
         },
         {
@@ -26942,7 +26947,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 503.6665344238281,
           "coluna": 0
         },
         {
@@ -26958,9 +26963,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q07.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q07.txt",
       "largura": 2306,
-      "altura": 10367,
+      "altura": 7920,
       "confianca": 0.9,
-      "texto_completo": "Ã\n3\nColecção Roberto Marinho. Seis décadas da arte moderna\nbrasileira. Lisboa: Fundação Calouste Gulbenkian, 1989. p. 53.\nA “cidade” retratada na pintura de Alberto da Veiga Guignard está\nematizada nos versos\nA\nPor entre o Beberibe, e o oceano\nEm uma areia sáfia, e lagadiça\nJaz o Recife povoação mestiça,\nQue o belga edificou ímpio tirano.\nGregório de Matos. Obra poética. Ed. James\nAmado. Rio de Janeiro: Record, v. II, 1990. p. 1.191.\nB\nRepousemos na pedra de Ouro Preto,\nRepousemos no centro de Ouro Preto:\nSão Francisco de Assis! igreja ilustre, acolhe,\nÀ tua sombra irmã, meus membros lassos.\nMurilo Mendes. Poesia completa e prosa. Org. Luciana\nStegagno Picchio.  Rio de Janeiro: Nova Aguilar, 1994, p. 460.\nC\nBembelelém\nViva Belém!\nBelém do Pará porto moderno integrado na equatorial\nBeleza eterna da paisagem\nBembelelém\nViva Belém!\nManuel Bandeira. Poesia e prosa. Rio\nde Janeiro: Aguilar, v. I, 1958, p. 196.\nD\nBahia, ao invés de arranha-céus, cruzes e cruzes\nDe braços estendidos para os céus,\nE na entrada do porto, \nAntes do Farol da Barra, \nO primeiro Cristo Redentor do Brasil!\nJorge de Lima. Poesia completa. Org. Alexei\nBueno. Rio de Janeiro: Nova Aguilar, 1997. p. 211.\nE\nNo cimento de Brasília se resguardam\nmaneiras de casa antiga de fazenda,\nde copiar, de casa-grande de engenho,\nenfim, das casaronas de alma fêmea.\nJoão Cabral Melo Neto. Obra completa. Rio\nde Janeiro: Nova Aguilar, 1994, p. 343.\n\nÁ\nÃ\n4\nJB Ecológico. JB, Ano 4, n.º 41, jun./2005, p.21.\nAgora é vero. Deu na imprensa internacional, com base científica\ne fotos de satélite: a continuar o ritmo atual da devastação e a\nincompetência política secular do Governo e do povo brasileiro em\ncontê-las, a Amazônia desaparecerá em menos de 200 anos. A última\ngrande floresta tropical e refrigerador natural do único mundo onde\nvivemos irá virar deserto.\nInternacionalização já! Ou não seremos mais nada. Nem\nbrasileiros, nem terráqueos. Apenas uma lembrança vaga e infeliz de vida\nbreve, vida louca, daqui a dois séculos.\nA quem possa interessar e ouvir, assinam essa declaração: todos\nos rios, os céus, as plantas, os animais, e os povos índios, caboclos e\nuniversais da Floresta Amazônica. Dia cinco de junho de 2005.\nDia Mundial do Meio Ambiente e Dia Mundial da Esperança.  A última.\nFelis Concolor. Amazônia? Internacionalização já! \nIn:\nJB ecológico. Ano 4, n.º 41, jun./2005, p. 14-5 (com adaptações).\nA tese da internacionalização, ainda que circunstancialmente\npossa até ser mencionada por pessoas preocupadas com a região, longe está de ser solução para qualquer dos nossos problemas.\nAssim, escolher a Amazônia para demonstrar preocupação com o futuro da humanidade é louvável se assumido também, com\ntodas as suas conseqüências, que o inaceitável processo de destruição das nossas florestas é o mesmo que produz e reproduz\ndiariamente a pobreza e a desigualdade por todo o mundo.\nSe assim não for, e a prevalecer mera motivação “da propriedade”, então seria justificável também propor devaneios\ncomo a internacionalização do Museu do Louvre ou, quem sabe, dos poços de petróleo ou ainda, e neste caso não totalmente\ndesprovido de razão, do sistema financeiro mundial.\nSimão Jatene. Preconceito e pretensão. In: JB ecológico. Ano 4, n.º 42, jul./2005, p. 46-7 (com adaptações).\nA partir das idéias presentes nos textos acima, expresse a sua opinião, fundamentada em dois argumentos, sobre\na melhor maneira de se preservar a maior floresta equatorial do planeta.\n(valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nÁ\nÃ\n5\nNos dias atuais, as novas tecnologias se desenvolvem de forma acelerada e a Internet ganha papel importante\nna dinâmica do cotidiano das pessoas e da economia mundial. No entanto, as conquistas tecnológicas, ainda que\nrepresentem avanços, promovem conseqüências ameaçadoras.\nLeia os gráficos e a situação-problema expressa por meio de um diálogo entre uma mulher desempregada, à procura de uma vaga no\nmercado de trabalho, e um empregador.\n   Situação-problema\n< mulher:\n— Tenho 43 anos, não tenho curso superior\ncompleto, mas tenho certificado de conclusão de\nsecretariado e de estenografia.\n< empregador:\n— Qual a abrangência de seu conhecimento sobre o\nuso de computadores? Quais as linguagens que\nvocê domina? Você sabe fazer uso da Internet?\n< mulher: \n— Não sei  direito usar o computador. Sou de\nfamília pobre e, como preciso participar\nativamente da despesa familiar, com dois filhos\ne uma mãe doente, não sobra dinheiro para\ncomprar um.\n< empregador: \n— Muito bem,  posso, quando houver uma vaga,\noferecer um trabalho de recepcionista. Para\ntrabalho imediato, posso oferecer uma vaga de\ncopeira para servir cafezinho aos funcionários\nmais graduados.\nApresente uma conclusão que pode ser extraída da análise\na) dos dois gráficos; (valor: 5,0 pontos)\nb) da situação-problema, em relação aos gráficos. (valor: 5,0 pontos)\nitem a)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nAcesso à Internet\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10",
+      "texto_completo": "Ã\n3\nColecção Roberto Marinho. Seis décadas da arte moderna\nbrasileira. Lisboa: Fundação Calouste Gulbenkian, 1989. p. 53.\nA “cidade” retratada na pintura de Alberto da Veiga Guignard está\nematizada nos versos\nA\nPor entre o Beberibe, e o oceano\nEm uma areia sáfia, e lagadiça\nJaz o Recife povoação mestiça,\nQue o belga edificou ímpio tirano.\nGregório de Matos. Obra poética. Ed. James\nAmado. Rio de Janeiro: Record, v. II, 1990. p. 1.191.\nB\nRepousemos na pedra de Ouro Preto,\nRepousemos no centro de Ouro Preto:\nSão Francisco de Assis! igreja ilustre, acolhe,\nÀ tua sombra irmã, meus membros lassos.\nMurilo Mendes. Poesia completa e prosa. Org. Luciana\nStegagno Picchio.  Rio de Janeiro: Nova Aguilar, 1994, p. 460.\nC\nBembelelém\nViva Belém!\nBelém do Pará porto moderno integrado na equatorial\nBeleza eterna da paisagem\nBembelelém\nViva Belém!\nManuel Bandeira. Poesia e prosa. Rio\nde Janeiro: Aguilar, v. I, 1958, p. 196.\nD\nBahia, ao invés de arranha-céus, cruzes e cruzes\nDe braços estendidos para os céus,\nE na entrada do porto, \nAntes do Farol da Barra, \nO primeiro Cristo Redentor do Brasil!\nJorge de Lima. Poesia completa. Org. Alexei\nBueno. Rio de Janeiro: Nova Aguilar, 1997. p. 211.\nE\nNo cimento de Brasília se resguardam\nmaneiras de casa antiga de fazenda,\nde copiar, de casa-grande de engenho,\nenfim, das casaronas de alma fêmea.\nJoão Cabral Melo Neto. Obra completa. Rio\nde Janeiro: Nova Aguilar, 1994, p. 343.\n\nJB Ecológico. JB, Ano 4, n.º 41, jun./2005, p.21.\nAgora é vero. Deu na imprensa internacional, com base científica\ne fotos de satélite: a continuar o ritmo atual da devastação e a\nincompetência política secular do Governo e do povo brasileiro em\ncontê-las, a Amazônia desaparecerá em menos de 200 anos. A última\ngrande floresta tropical e refrigerador natural do único mundo onde\nvivemos irá virar deserto.\nInternacionalização já! Ou não seremos mais nada. Nem\nbrasileiros, nem terráqueos. Apenas uma lembrança vaga e infeliz de vida\nbreve, vida louca, daqui a dois séculos.\nA quem possa interessar e ouvir, assinam essa declaração: todos\nos rios, os céus, as plantas, os animais, e os povos índios, caboclos e\nuniversais da Floresta Amazônica. Dia cinco de junho de 2005.\nDia Mundial do Meio Ambiente e Dia Mundial da Esperança.  A última.\nFelis Concolor. Amazônia? Internacionalização já! \nIn:\nJB ecológico. Ano 4, n.º 41, jun./2005, p. 14-5 (com adaptações).\nA tese da internacionalização, ainda que circunstancialmente\npossa até ser mencionada por pessoas preocupadas com a região, longe está de ser solução para qualquer dos nossos problemas.\nAssim, escolher a Amazônia para demonstrar preocupação com o futuro da humanidade é louvável se assumido também, com\ntodas as suas conseqüências, que o inaceitável processo de destruição das nossas florestas é o mesmo que produz e reproduz\ndiariamente a pobreza e a desigualdade por todo o mundo.\nSe assim não for, e a prevalecer mera motivação “da propriedade”, então seria justificável também propor devaneios\ncomo a internacionalização do Museu do Louvre ou, quem sabe, dos poços de petróleo ou ainda, e neste caso não totalmente\ndesprovido de razão, do sistema financeiro mundial.\nSimão Jatene. Preconceito e pretensão. In: JB ecológico. Ano 4, n.º 42, jul./2005, p. 46-7 (com adaptações).\nA partir das idéias presentes nos textos acima, expresse a sua opinião, fundamentada em dois argumentos, sobre\na melhor maneira de se preservar a maior floresta equatorial do planeta.\n(valor: 10,0 pontos)\n\nNos dias atuais, as novas tecnologias se desenvolvem de forma acelerada e a Internet ganha papel importante\nna dinâmica do cotidiano das pessoas e da economia mundial. No entanto, as conquistas tecnológicas, ainda que\nrepresentem avanços, promovem conseqüências ameaçadoras.\nLeia os gráficos e a situação-problema expressa por meio de um diálogo entre uma mulher desempregada, à procura de uma vaga no\nmercado de trabalho, e um empregador.\n   Situação-problema\n< mulher:\n— Tenho 43 anos, não tenho curso superior\ncompleto, mas tenho certificado de conclusão de\nsecretariado e de estenografia.\n< empregador:\n— Qual a abrangência de seu conhecimento sobre o\nuso de computadores? Quais as linguagens que\nvocê domina? Você sabe fazer uso da Internet?\n< mulher: \n— Não sei  direito usar o computador. Sou de\nfamília pobre e, como preciso participar\nativamente da despesa familiar, com dois filhos\ne uma mãe doente, não sobra dinheiro para\ncomprar um.\n< empregador: \n— Muito bem,  posso, quando houver uma vaga,\noferecer um trabalho de recepcionista. Para\ntrabalho imediato, posso oferecer uma vaga de\ncopeira para servir cafezinho aos funcionários\nmais graduados.\nApresente uma conclusão que pode ser extraída da análise\na) dos dois gráficos; (valor: 5,0 pontos)\nb) da situação-problema, em relação aos gráficos. (valor: 5,0 pontos)\nAcesso à Internet\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -26968,6 +26973,10 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig2.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig3.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig4.jpeg"
+      ],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Formação Geral e Sociedade"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -26987,7 +26996,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913039"
+      "criado_em": "2026-08-25T14:10:51.796558"
     },
     {
       "id_questao": "qd10",
@@ -27003,7 +27012,7 @@
           "x0": 25.0,
           "y0": 294.1955871582031,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 524.6665649414062,
           "coluna": 0
         },
         {
@@ -27019,13 +27028,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd10.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd10.txt",
       "largura": 2306,
-      "altura": 2958,
+      "altura": 1822,
       "confianca": 0.98,
-      "texto_completo": "Á\nÃ\n6\nQUESTÃO 10 – DISC URSIVA\nVilarejos que afundam devido ao derretimento da camada congelada do subsolo, uma explosão na\nquantidade de insetos, números recorde de incêndios florestais e cada vez menos gelo — esses são alguns dos\nsinais mais óbvios e assustadores de que o Alasca está ficando mais quente devido às mudanças climáticas,\ndisseram cientistas.\nAs temperaturas atmosféricas no estado norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\ndécadas, segundo a Avaliação do Impacto do Clima no Ártico, um estudo amplo realizado por pesquisadores\nde oito países.\nFolha de S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno cada vez mais evidente devido a inúmeros acontecimentos que, como os descritos no texto, têm\nafetado toda a humanidade. Apresente duas sugestões de providências a serem tomadas pelos governos que tenham como objetivo\nminimizar o processo de aquecimento global. (valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nespecíficas para os estudantes de cursos com perfil de Bacharelado em Sistemas de\nInformação. Os demais estudantes deverão passar para a questão de número 41.\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Sistemas de Informação\n11 a 38\n39 e 40\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 11 a 40, a seguir, são específicas para os estudantes de cursos com perfil profissional de\nBACHARELADO EM SISTEMAS DE INFORMAÇÃO",
+      "texto_completo": "QUESTÃO 10 – DISC URSIVA\nVilarejos que afundam devido ao derretimento da camada congelada do subsolo, uma explosão na\nquantidade de insetos, números recorde de incêndios florestais e cada vez menos gelo — esses são alguns dos\nsinais mais óbvios e assustadores de que o Alasca está ficando mais quente devido às mudanças climáticas,\ndisseram cientistas.\nAs temperaturas atmosféricas no estado norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\ndécadas, segundo a Avaliação do Impacto do Clima no Ártico, um estudo amplo realizado por pesquisadores\nde oito países.\nFolha de S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno cada vez mais evidente devido a inúmeros acontecimentos que, como os descritos no texto, têm\nafetado toda a humanidade. Apresente duas sugestões de providências a serem tomadas pelos governos que tenham como objetivo\nminimizar o processo de aquecimento global. (valor: 10,0 pontos)\n\nespecíficas para os estudantes de cursos com perfil de Bacharelado em Sistemas de\nInformação. Os demais estudantes deverão passar para a questão de número 41.\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Sistemas de Informação\n11 a 38\n39 e 40\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 11 a 40, a seguir, são específicas para os estudantes de cursos com perfil profissional de\nBACHARELADO EM SISTEMAS DE INFORMAÇÃO",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd10_fig1.jpeg"
+      ],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -27045,7 +27057,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913048"
+      "criado_em": "2026-08-25T14:10:51.796567"
     },
     {
       "id_questao": "q11",
@@ -27074,6 +27086,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27092,7 +27107,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913053"
+      "criado_em": "2026-08-25T14:10:51.796573"
     },
     {
       "id_questao": "q12",
@@ -27121,6 +27136,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27139,7 +27158,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913059"
+      "criado_em": "2026-08-25T14:10:51.796578"
     },
     {
       "id_questao": "q13",
@@ -27177,6 +27196,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27195,7 +27218,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913064"
+      "criado_em": "2026-08-25T14:10:51.796583"
     },
     {
       "id_questao": "q15",
@@ -27224,6 +27247,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27242,7 +27269,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913068"
+      "criado_em": "2026-08-25T14:10:51.796588"
     },
     {
       "id_questao": "q16",
@@ -27271,6 +27298,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27289,7 +27321,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913073"
+      "criado_em": "2026-08-25T14:10:51.796592"
     },
     {
       "id_questao": "q17",
@@ -27318,6 +27350,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27336,7 +27373,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913077"
+      "criado_em": "2026-08-25T14:10:51.796596"
     },
     {
       "id_questao": "q18",
@@ -27374,6 +27411,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27392,7 +27433,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913081"
+      "criado_em": "2026-08-25T14:10:51.796601"
     },
     {
       "id_questao": "q20",
@@ -27421,6 +27462,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27439,7 +27483,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913085"
+      "criado_em": "2026-08-25T14:10:51.796605"
     },
     {
       "id_questao": "q21",
@@ -27476,6 +27520,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27494,7 +27542,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913090"
+      "criado_em": "2026-08-25T14:10:51.796610"
     },
     {
       "id_questao": "q23",
@@ -27523,6 +27571,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27541,7 +27592,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913094"
+      "criado_em": "2026-08-25T14:10:51.796614"
     },
     {
       "id_questao": "q24",
@@ -27579,6 +27630,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27597,7 +27654,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913099"
+      "criado_em": "2026-08-25T14:10:51.796618"
     },
     {
       "id_questao": "q26",
@@ -27632,6 +27689,9 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig4.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig5.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27650,7 +27710,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913102"
+      "criado_em": "2026-08-25T14:10:51.796622"
     },
     {
       "id_questao": "q27",
@@ -27687,6 +27747,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Engenharia de Software",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27705,7 +27771,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913107"
+      "criado_em": "2026-08-25T14:10:51.796627"
     },
     {
       "id_questao": "q29",
@@ -27743,6 +27809,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27761,7 +27832,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913111"
+      "criado_em": "2026-08-25T14:10:51.796631"
     },
     {
       "id_questao": "q31",
@@ -27790,6 +27861,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27808,7 +27883,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913115"
+      "criado_em": "2026-08-25T14:10:51.796635"
     },
     {
       "id_questao": "q32",
@@ -27845,6 +27920,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27863,7 +27943,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913119"
+      "criado_em": "2026-08-25T14:10:51.796639"
     },
     {
       "id_questao": "q34",
@@ -27901,6 +27981,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27919,7 +28005,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913123"
+      "criado_em": "2026-08-25T14:10:51.796643"
     },
     {
       "id_questao": "q36",
@@ -27956,6 +28042,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -27974,7 +28063,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913128"
+      "criado_em": "2026-08-25T14:10:51.796648"
     },
     {
       "id_questao": "q38",
@@ -28003,6 +28092,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28021,7 +28113,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913132"
+      "criado_em": "2026-08-25T14:10:51.796652"
     },
     {
       "id_questao": "qd39",
@@ -28036,7 +28128,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 323.8465576171875,
           "coluna": 0
         }
       ],
@@ -28044,13 +28136,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd39.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd39.txt",
       "largura": 2306,
-      "altura": 3123,
+      "altura": 1150,
       "confianca": 0.98,
-      "texto_completo": "Á\nÃ\n13\nTendo como base a árvore acima, faça o que se pede nos itens a seguir.\na) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)\nb) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem\n(r-e-d, ou pré-fixado à esquerda) na árvore. (valor: 3,0 pontos)\nc) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será\nobtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.\n(valor: 4,0 pontos)\nitem a)\nRASCUNHO\nitem b)\nRASCUNHO\nitem c)\nRASCUNHO",
+      "texto_completo": "Tendo como base a árvore acima, faça o que se pede nos itens a seguir.\na) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)\nb) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem\n(r-e-d, ou pré-fixado à esquerda) na árvore. (valor: 3,0 pontos)\nc) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será\nobtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.\n(valor: 4,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd39_fig1.jpeg"
+      ],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -28070,7 +28165,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913136"
+      "criado_em": "2026-08-25T14:10:51.796656"
     },
     {
       "id_questao": "qd40",
@@ -28086,7 +28181,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 159.25860595703125,
           "coluna": 0
         },
         {
@@ -28102,13 +28197,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd40.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd40.txt",
       "largura": 2306,
-      "altura": 3966,
+      "altura": 1307,
       "confianca": 0.98,
-      "texto_completo": "Á\nÃ\n14\nConsidere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se\nidentificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do\nvalor do aluguel a ser pago.\nCom relação a essa situação, \na) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) \nb) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) \nc) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme\nreservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)\nitem a)\nRASCUNHO\nitem b)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nitem c)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Ciência da Computação e\nEngenharia de Computação\n41 a 54\n55\nBacharelado em Ciência da Computação \n56 a 69\n70\nEngenharia de Computação\n71 a 84\n85\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 41 a 55, a seguir, são comuns para os estudantes de cursos com perfil profissional de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO e ENGENHARIA DA COMPUTAÇÃO",
+      "texto_completo": "Considere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se\nidentificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do\nvalor do aluguel a ser pago.\nCom relação a essa situação, \na) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) \nb) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) \nc) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme\n\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Ciência da Computação e\nEngenharia de Computação\n41 a 54\n55\nBacharelado em Ciência da Computação \n56 a 69\n70\nEngenharia de Computação\n71 a 84\n85\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 41 a 55, a seguir, são comuns para os estudantes de cursos com perfil profissional de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO e ENGENHARIA DA COMPUTAÇÃO",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd40_fig1.jpeg"
+      ],
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -28128,7 +28227,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913140"
+      "criado_em": "2026-08-25T14:10:51.796661"
     },
     {
       "id_questao": "q41",
@@ -28157,6 +28256,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28175,7 +28277,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913144"
+      "criado_em": "2026-08-25T14:10:51.796665"
     },
     {
       "id_questao": "q42",
@@ -28204,6 +28306,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28222,7 +28329,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913148"
+      "criado_em": "2026-08-25T14:10:51.796669"
     },
     {
       "id_questao": "q43",
@@ -28251,6 +28358,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28269,7 +28380,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913152"
+      "criado_em": "2026-08-25T14:10:51.796673"
     },
     {
       "id_questao": "q44",
@@ -28298,6 +28409,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28316,7 +28430,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913156"
+      "criado_em": "2026-08-25T14:10:51.796677"
     },
     {
       "id_questao": "q45",
@@ -28345,6 +28459,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28363,7 +28481,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913160"
+      "criado_em": "2026-08-25T14:10:51.796681"
     },
     {
       "id_questao": "q46",
@@ -28392,6 +28510,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28410,7 +28531,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913163"
+      "criado_em": "2026-08-25T14:10:51.796684"
     },
     {
       "id_questao": "q47",
@@ -28439,6 +28560,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28457,7 +28581,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913167"
+      "criado_em": "2026-08-25T14:10:51.796688"
     },
     {
       "id_questao": "q48",
@@ -28488,6 +28612,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q48_fig1.jpeg"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28506,7 +28633,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913171"
+      "criado_em": "2026-08-25T14:10:51.796692"
     },
     {
       "id_questao": "q49",
@@ -28535,6 +28662,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28553,7 +28683,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913174"
+      "criado_em": "2026-08-25T14:10:51.796696"
     },
     {
       "id_questao": "q50",
@@ -28582,6 +28712,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28600,7 +28734,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913178"
+      "criado_em": "2026-08-25T14:10:51.796700"
     },
     {
       "id_questao": "q51",
@@ -28631,6 +28765,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q51_fig1.jpeg"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28649,7 +28786,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913182"
+      "criado_em": "2026-08-25T14:10:51.796704"
     },
     {
       "id_questao": "q52",
@@ -28678,6 +28815,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28696,7 +28838,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913185"
+      "criado_em": "2026-08-25T14:10:51.796708"
     },
     {
       "id_questao": "q53",
@@ -28725,6 +28867,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28743,7 +28889,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913189"
+      "criado_em": "2026-08-25T14:10:51.796712"
     },
     {
       "id_questao": "q54",
@@ -28772,6 +28918,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28790,7 +28939,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913193"
+      "criado_em": "2026-08-25T14:10:51.796715"
     },
     {
       "id_questao": "qd55",
@@ -28805,7 +28954,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 367.28656005859375,
           "coluna": 0
         }
       ],
@@ -28813,13 +28962,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd55.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd55.txt",
       "largura": 2306,
-      "altura": 3123,
+      "altura": 1331,
       "confianca": 0.98,
-      "texto_completo": "Á\nÃ\n19\nO grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,\nseja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve\numa hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de\ninformação e o tempo típico de acesso à informação armazenada.\nComo pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o\nmesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória\nprincipal.\nConsiderando as informações acima apresentadas, responda às seguintes perguntas.\na) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)\nb) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se\nutilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria\nvantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)\nitem a)\nRASCUNHO\n1\n2\n3\n4\n5\nitem b)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10",
+      "texto_completo": "O grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,\nseja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve\numa hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de\ninformação e o tempo típico de acesso à informação armazenada.\nComo pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o\nmesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória\nprincipal.\nConsiderando as informações acima apresentadas, responda às seguintes perguntas.\na) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)\nb) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se\nutilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria\nvantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd55_fig1.jpeg"
+      ],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -28839,7 +28991,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913197"
+      "criado_em": "2026-08-25T14:10:51.796719"
     },
     {
       "id_questao": "q56",
@@ -28868,6 +29020,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28886,7 +29041,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913201"
+      "criado_em": "2026-08-25T14:10:51.796723"
     },
     {
       "id_questao": "q57",
@@ -28915,6 +29070,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28933,7 +29092,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913204"
+      "criado_em": "2026-08-25T14:10:51.796727"
     },
     {
       "id_questao": "q58",
@@ -28979,6 +29138,12 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig6.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig7.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -28997,7 +29162,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913209"
+      "criado_em": "2026-08-25T14:10:51.796732"
     },
     {
       "id_questao": "q60",
@@ -29028,6 +29193,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q60_fig1.jpeg"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29046,7 +29214,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913213"
+      "criado_em": "2026-08-25T14:10:51.796735"
     },
     {
       "id_questao": "q61",
@@ -29077,6 +29245,10 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q61_fig1.jpeg"
       ],
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29095,7 +29267,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913217"
+      "criado_em": "2026-08-25T14:10:51.796739"
     },
     {
       "id_questao": "q62",
@@ -29127,6 +29299,9 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q62_fig1.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q62_fig2.jpeg"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29145,7 +29320,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913220"
+      "criado_em": "2026-08-25T14:10:51.796743"
     },
     {
       "id_questao": "q63",
@@ -29174,6 +29349,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29192,7 +29370,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913224"
+      "criado_em": "2026-08-25T14:10:51.796747"
     },
     {
       "id_questao": "q64",
@@ -29221,6 +29399,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29239,7 +29420,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913228"
+      "criado_em": "2026-08-25T14:10:51.796751"
     },
     {
       "id_questao": "q65",
@@ -29268,6 +29449,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO",
+        "Teoria da Computação e Compiladores",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29286,7 +29473,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913231"
+      "criado_em": "2026-08-25T14:10:51.796754"
     },
     {
       "id_questao": "q66",
@@ -29328,6 +29515,12 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig2.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig3.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Redes e Segurança",
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29346,7 +29539,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913236"
+      "criado_em": "2026-08-25T14:10:51.796759"
     },
     {
       "id_questao": "q67",
@@ -29388,7 +29581,7 @@
           "x0": 25.0,
           "y0": 55.0,
           "x1": 571.16,
-          "y1": 797.16,
+          "y1": 342.20654296875,
           "coluna": 0
         },
         {
@@ -29404,9 +29597,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q67.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q67.txt",
       "largura": 2306,
-      "altura": 10860,
+      "altura": 8964,
       "confianca": 0.9,
-      "texto_completo": "Á\nÃ\n24\nQUESTÃO 67\nA redução da pirataria de software no Brasil e no mundo\né resultado de esforços advindos da iniciativa privada e das\nentidades representativas do setor. Um estudo objetivando\nmensurar o índice de pirataria no mundo e os benefícios de sua\nredução apresentou os gráficos acima, obtidos de uma amostra\nde 57 países, incluindo-se o Brasil. \nCom base nas informações apresentadas, é correto afirmar que\nI\na taxa de redução do índice de pirataria de software no mundo\nmanteve-se constante ano após ano no período mostrado.\nII\no Brasil reduziu em torno de 25% seu índice de pirataria de\nsoftware, comparando os anos de 1994 e 2002.\nIII o Brasil foi, entre os países mostrados, o que apresentou a maior\nredução do índice de pirataria no período estudado.\nIV países com maior participação do setor de TI no PIB apresentam,\nnormalmente, menores índices de pirataria.\nV\no Brasil apresentou aumento de faturamento no período de 2000\na 2002, apesar do aumento de pirataria.\nEstão certos apenas os itens\nA I e II.\nD III e V.\nB I e III.\nE IV e V.\nC II e IV.\nRASC UNH O\n\nÁ\nSuponha que uma empresa esteja projetando um protocolo de\ntransporte orientado a conexão. Suponha, ainda, que os projetistas\ntenham pouca experiência e que alguns requisitos originalmente\nlistados não sejam típicos de um protocolo de transporte\norientado a conexão. A seguir, apresenta-se a lista dos\nrequisitos propostos pela equipe de projetistas.\nI\nO protocolo deve controlar a transmissão por meio de\nmecanismo de janela deslizante (sliding window). Vários\npacotes poderão ser enviados antes de a origem aguardar uma\nconfirmação de recepção. O número máximo de pacotes\ntransmitidos antes de uma confirmação ser recebida será\nvariável, o que possibilitará o controle do fluxo dos dados. \nII\nO protocolo deve rotear os pacotes entre redes interligadas.\nO roteamento deve ser realizado a partir das informações em\ntabelas de roteamento. Em uma tabela de roteamento, cada\nentrada deve conter o endereço de um destino e o endereço da\npróxima máquina para a qual os pacotes devem ser enviados,\nde modo a serem encaminhados para o destino.\nIII Uma comunicação passará por três fases: estabelecimento da\nconexão, transferência dos dados e término da conexão. O\nprotocolo manterá informações sobre uma conexão em uma\nestrutura de dados. Uma instância dessa estrutura será alocada\nquando uma conexão for estabelecida e será liberada quando\na conexão for terminada.\nIV O protocolo deve calcular dinamicamente o tempo (timeout)\nque a origem de um pacote deve aguardar até retransmitir a\ninformação \ncaso \na \nrecepção \nnão \nseja \nconfirmada,\npossibilitando que atrasos variáveis sejam acomodados. Isso\ndeverá ser feito por meio de um algoritmo de retransmissão\nadaptativo que periodicamente ajuste o timeout.\nPara um protocolo de transporte orientado a conexão, são\nadequados apenas os requisitos\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n\nÃ\n25\nA rede de uma empresa cujo esquema está ilustrado\nacima é composta por 4 redes TCP/IP locais. Essas redes\nTCP/IP são interligadas por uma rede X.25, que opera\ncomo túnel para as 4 redes. As placas dos computadores\npertencentes a essas redes são numeradas com endereços IP\ndas redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a\nrede no acesso à Internet, sendo que, a partir de qualquer\nmáquina na rede, pode-se acessar a Internet. \nA partir dessas informações, julgue os itens a seguir, relativos à\nrede da referida empresa, considerando o seu correto\nfuncionamento.\nI\nÉ correto utilizar a máscara 255.255.0.0 para segmentar a\nrede.\nII\nOs endereços de E1 a E9 podem ser endereços na rede\n10.0.0.0.\nIII\nOs endereços E2, E4, E5 e E7 devem estar em uma mesma\nsub-rede.\nIV\nO endereço E10 deve ser um endereço na rede 164.41.0.0.\nV\nO firewall deve traduzir entre os endereços na rede 10.0.0.0\ne os endereços na rede 164.41.0.0.\nVI\nOs pacotes X.25 são transferidos dentro de pacotes IP.\nVII Não devem ter sido atribuídos endereços X.25 aos\nroteadores 1, 2, 3 e 4.\nVIII A rota default nas tabelas de roteamento dos roteadores\n1, 3 e 4 é o endereço E4.\nIX\nA rota default na tabela de roteamento do roteador 2 é o\nendereço E10.\nX\nOs endereços na rede 10.0.0.0 são visíveis pelas máquinas\nque estiverem na Internet.\nEstão certos apenas os itens\nA I, II, III, V, VIII e X.\nB I, II, III, IV, V e VIII.\nC II, IV, V, VIII, IX e X.\nD III, V, VI, VII, VIII e IX.\nE III, IV, V, VII, VIII e IX.\n\nÁ\nÃ\n26\nA máquina finita de estados (MFE) cujo diagrama é visto ao lado\nreconhece seqüências de caracteres compostos pelas letras I, V e X, que\nrepresentam, em notação romana, números correspondentes ao intervalo de\n1 a 9, na notação arábica. Considere que todas as sentenças de entrada da\nMFE representam números romanos válidos, ou seja, a MFE não tem\nmecanismo de tratamento de erros. Observe a correspondência da\nrepresentação dos alfabetos romano e arábito fornecida pela tabela abaixo.\nalfabeto\n Notação:\nromano\narábico\n  \nestado inicial\n         \nestado final j\n         \nn é o número máximo de transições possíveis no respectivo estado\n   \ntransição após reconhecimento do caractere \"\nI\n  1\nV\n  5\nX\n 10\nL\n50\nC\n100\nD\n500\nConsiderando essas informações, estenda a MFE apresentada acima para:\na) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.\n(valor: 5,0 pontos)\nRASCUNHO\nb) reconhecer números no alfabeto romano correspondentes aos números de 1 a 500 no alfabeto arábico, com no máximo oito\nestados. (valor: 5,0 pontos)\nRASCUNHO\n\nENGENHARIA DE",
+      "texto_completo": "Á\nÃ\n24\nQUESTÃO 67\nA redução da pirataria de software no Brasil e no mundo\né resultado de esforços advindos da iniciativa privada e das\nentidades representativas do setor. Um estudo objetivando\nmensurar o índice de pirataria no mundo e os benefícios de sua\nredução apresentou os gráficos acima, obtidos de uma amostra\nde 57 países, incluindo-se o Brasil. \nCom base nas informações apresentadas, é correto afirmar que\nI\na taxa de redução do índice de pirataria de software no mundo\nmanteve-se constante ano após ano no período mostrado.\nII\no Brasil reduziu em torno de 25% seu índice de pirataria de\nsoftware, comparando os anos de 1994 e 2002.\nIII o Brasil foi, entre os países mostrados, o que apresentou a maior\nredução do índice de pirataria no período estudado.\nIV países com maior participação do setor de TI no PIB apresentam,\nnormalmente, menores índices de pirataria.\nV\no Brasil apresentou aumento de faturamento no período de 2000\na 2002, apesar do aumento de pirataria.\nEstão certos apenas os itens\nA I e II.\nD III e V.\nB I e III.\nE IV e V.\nC II e IV.\nRASC UNH O\n\nÁ\nSuponha que uma empresa esteja projetando um protocolo de\ntransporte orientado a conexão. Suponha, ainda, que os projetistas\ntenham pouca experiência e que alguns requisitos originalmente\nlistados não sejam típicos de um protocolo de transporte\norientado a conexão. A seguir, apresenta-se a lista dos\nrequisitos propostos pela equipe de projetistas.\nI\nO protocolo deve controlar a transmissão por meio de\nmecanismo de janela deslizante (sliding window). Vários\npacotes poderão ser enviados antes de a origem aguardar uma\nconfirmação de recepção. O número máximo de pacotes\ntransmitidos antes de uma confirmação ser recebida será\nvariável, o que possibilitará o controle do fluxo dos dados. \nII\nO protocolo deve rotear os pacotes entre redes interligadas.\nO roteamento deve ser realizado a partir das informações em\ntabelas de roteamento. Em uma tabela de roteamento, cada\nentrada deve conter o endereço de um destino e o endereço da\npróxima máquina para a qual os pacotes devem ser enviados,\nde modo a serem encaminhados para o destino.\nIII Uma comunicação passará por três fases: estabelecimento da\nconexão, transferência dos dados e término da conexão. O\nprotocolo manterá informações sobre uma conexão em uma\nestrutura de dados. Uma instância dessa estrutura será alocada\nquando uma conexão for estabelecida e será liberada quando\na conexão for terminada.\nIV O protocolo deve calcular dinamicamente o tempo (timeout)\nque a origem de um pacote deve aguardar até retransmitir a\ninformação \ncaso \na \nrecepção \nnão \nseja \nconfirmada,\npossibilitando que atrasos variáveis sejam acomodados. Isso\ndeverá ser feito por meio de um algoritmo de retransmissão\nadaptativo que periodicamente ajuste o timeout.\nPara um protocolo de transporte orientado a conexão, são\nadequados apenas os requisitos\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n\nÃ\n25\nA rede de uma empresa cujo esquema está ilustrado\nacima é composta por 4 redes TCP/IP locais. Essas redes\nTCP/IP são interligadas por uma rede X.25, que opera\ncomo túnel para as 4 redes. As placas dos computadores\npertencentes a essas redes são numeradas com endereços IP\ndas redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a\nrede no acesso à Internet, sendo que, a partir de qualquer\nmáquina na rede, pode-se acessar a Internet. \nA partir dessas informações, julgue os itens a seguir, relativos à\nrede da referida empresa, considerando o seu correto\nfuncionamento.\nI\nÉ correto utilizar a máscara 255.255.0.0 para segmentar a\nrede.\nII\nOs endereços de E1 a E9 podem ser endereços na rede\n10.0.0.0.\nIII\nOs endereços E2, E4, E5 e E7 devem estar em uma mesma\nsub-rede.\nIV\nO endereço E10 deve ser um endereço na rede 164.41.0.0.\nV\nO firewall deve traduzir entre os endereços na rede 10.0.0.0\ne os endereços na rede 164.41.0.0.\nVI\nOs pacotes X.25 são transferidos dentro de pacotes IP.\nVII Não devem ter sido atribuídos endereços X.25 aos\nroteadores 1, 2, 3 e 4.\nVIII A rota default nas tabelas de roteamento dos roteadores\n1, 3 e 4 é o endereço E4.\nIX\nA rota default na tabela de roteamento do roteador 2 é o\nendereço E10.\nX\nOs endereços na rede 10.0.0.0 são visíveis pelas máquinas\nque estiverem na Internet.\nEstão certos apenas os itens\nA I, II, III, V, VIII e X.\nB I, II, III, IV, V e VIII.\nC II, IV, V, VIII, IX e X.\nD III, V, VI, VII, VIII e IX.\nE III, IV, V, VII, VIII e IX.\n\nA máquina finita de estados (MFE) cujo diagrama é visto ao lado\nreconhece seqüências de caracteres compostos pelas letras I, V e X, que\nrepresentam, em notação romana, números correspondentes ao intervalo de\n1 a 9, na notação arábica. Considere que todas as sentenças de entrada da\nMFE representam números romanos válidos, ou seja, a MFE não tem\nmecanismo de tratamento de erros. Observe a correspondência da\nrepresentação dos alfabetos romano e arábito fornecida pela tabela abaixo.\nalfabeto\n Notação:\nromano\narábico\n  \nestado inicial\n         \nestado final j\n         \nn é o número máximo de transições possíveis no respectivo estado\n   \ntransição após reconhecimento do caractere \"\nI\n  1\nV\n  5\nX\n 10\nL\n50\nC\n100\nD\n500\nConsiderando essas informações, estenda a MFE apresentada acima para:\na) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.\n(valor: 5,0 pontos)\n\nENGENHARIA DE",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -29417,6 +29610,12 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig5.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig6.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig7.jpeg"
+      ],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Redes e Segurança"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -29436,7 +29635,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913241"
+      "criado_em": "2026-08-25T14:10:51.796765"
     },
     {
       "id_questao": "q71",
@@ -29465,6 +29664,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29483,7 +29685,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913245"
+      "criado_em": "2026-08-25T14:10:51.796769"
     },
     {
       "id_questao": "q72",
@@ -29520,6 +29722,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29538,7 +29744,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913249"
+      "criado_em": "2026-08-25T14:10:51.796773"
     },
     {
       "id_questao": "q73",
@@ -29567,6 +29773,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29585,7 +29794,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913253"
+      "criado_em": "2026-08-25T14:10:51.796777"
     },
     {
       "id_questao": "q74",
@@ -29625,6 +29834,11 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q74_fig1.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados",
+        "Sistemas Operacionais e Arquitetura",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29643,7 +29857,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913258"
+      "criado_em": "2026-08-25T14:10:51.796781"
     },
     {
       "id_questao": "q76",
@@ -29672,6 +29886,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29690,7 +29908,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913261"
+      "criado_em": "2026-08-25T14:10:51.796785"
     },
     {
       "id_questao": "q77",
@@ -29721,6 +29939,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q77_fig1.jpeg"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29739,7 +29960,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913265"
+      "criado_em": "2026-08-25T14:10:51.796789"
     },
     {
       "id_questao": "q78",
@@ -29777,6 +29998,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29795,7 +30019,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913269"
+      "criado_em": "2026-08-25T14:10:51.796793"
     },
     {
       "id_questao": "q80",
@@ -29826,6 +30050,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q80_fig1.jpeg"
       ],
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29844,7 +30071,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913273"
+      "criado_em": "2026-08-25T14:10:51.796797"
     },
     {
       "id_questao": "q81",
@@ -29884,6 +30111,10 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig1.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig2.jpeg"
       ],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29902,7 +30133,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913278"
+      "criado_em": "2026-08-25T14:10:51.796802"
     },
     {
       "id_questao": "q83",
@@ -29931,6 +30162,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -29949,7 +30183,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:47:48.913281"
+      "criado_em": "2026-08-25T14:10:51.796806"
     }
   ],
   "anomalias": [

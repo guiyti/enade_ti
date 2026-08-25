@@ -27,6 +27,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q80_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,8 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913273",
-  "categorias": [
-    "Teoria da Computação e Compiladores"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796797"
 }

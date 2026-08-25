@@ -37,6 +37,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/figuras/q19_fig2.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/figuras/q19_fig3.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -55,8 +56,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:01.042291",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:12:00.947805"
 }

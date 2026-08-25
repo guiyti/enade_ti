@@ -1,6 +1,3 @@
-PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025
-29
-COMPUTAÇÃO
 p
 p
 QUESTÃO 57	
@@ -14,9 +11,7 @@ de uma função matemática.
 C	 aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em 
 pequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação 
 completa dos dados.
-D	 elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as 
-operações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.
-Área livre
+D elaboração de algoritmos como uma sequência de respostas a eventos associando funções a interações específicas como as
 
 2025
 Texto para questões de 58 a 60

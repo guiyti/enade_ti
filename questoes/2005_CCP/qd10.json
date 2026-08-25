@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 294.1955871582031,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 524.6665649414062,
       "coluna": 0
     },
     {
@@ -28,14 +28,15 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd10.txt",
   "largura": 2306,
-  "altura": 2958,
+  "altura": 1822,
   "confianca": 0.98,
-  "texto_completo": "Á\nÃ\n6\nQUESTÃO 10 – DISC URSIVA\nVilarejos que afundam devido ao derretimento da camada congelada do subsolo, uma explosão na\nquantidade de insetos, números recorde de incêndios florestais e cada vez menos gelo — esses são alguns dos\nsinais mais óbvios e assustadores de que o Alasca está ficando mais quente devido às mudanças climáticas,\ndisseram cientistas.\nAs temperaturas atmosféricas no estado norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\ndécadas, segundo a Avaliação do Impacto do Clima no Ártico, um estudo amplo realizado por pesquisadores\nde oito países.\nFolha de S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno cada vez mais evidente devido a inúmeros acontecimentos que, como os descritos no texto, têm\nafetado toda a humanidade. Apresente duas sugestões de providências a serem tomadas pelos governos que tenham como objetivo\nminimizar o processo de aquecimento global. (valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nespecíficas para os estudantes de cursos com perfil de Bacharelado em Sistemas de\nInformação. Os demais estudantes deverão passar para a questão de número 41.\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Sistemas de Informação\n11 a 38\n39 e 40\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 11 a 40, a seguir, são específicas para os estudantes de cursos com perfil profissional de\nBACHARELADO EM SISTEMAS DE INFORMAÇÃO",
+  "texto_completo": "QUESTÃO 10 – DISC URSIVA\nVilarejos que afundam devido ao derretimento da camada congelada do subsolo, uma explosão na\nquantidade de insetos, números recorde de incêndios florestais e cada vez menos gelo — esses são alguns dos\nsinais mais óbvios e assustadores de que o Alasca está ficando mais quente devido às mudanças climáticas,\ndisseram cientistas.\nAs temperaturas atmosféricas no estado norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\ndécadas, segundo a Avaliação do Impacto do Clima no Ártico, um estudo amplo realizado por pesquisadores\nde oito países.\nFolha de S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno cada vez mais evidente devido a inúmeros acontecimentos que, como os descritos no texto, têm\nafetado toda a humanidade. Apresente duas sugestões de providências a serem tomadas pelos governos que tenham como objetivo\nminimizar o processo de aquecimento global. (valor: 10,0 pontos)\n\nespecíficas para os estudantes de cursos com perfil de Bacharelado em Sistemas de\nInformação. Os demais estudantes deverão passar para a questão de número 41.\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Sistemas de Informação\n11 a 38\n39 e 40\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 11 a 40, a seguir, são específicas para os estudantes de cursos com perfil profissional de\nBACHARELADO EM SISTEMAS DE INFORMAÇÃO",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd10_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -54,8 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913048",
-  "categorias": [
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796567"
 }

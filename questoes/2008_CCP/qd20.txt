@@ -1,46 +1,14 @@
-9
-CO
-ÇÃO
 E
 Tanto a primeira quanto a segunda asserções são proposições falsas.
 QUESTÃO 20 – DISCURSIVA
 Tabelas de dispersão (tabelas
-hash) armazenam elementos com
-base no valor absoluto de suas
-chaves e em técnicas de tratamento
-de colisões. As funções de dispersão
-transformam chaves em endereços-
-base da tabela, ao passo que o
-tratamento 
-de 
-colisões 
-resolve
-conflitos em casos em que mais de
-uma chave é mapeada para um
-mesmo endereço-base da tabela. 
-Suponha que uma aplicação
-utilize uma tabela de dispersão com
-23 endereços-base (índices de 0 a 22)
-e empregue h(x) = x mod 23 como
-função de dispersão, em que x
-representa a chave do elemento cujo
-endereço-base deseja-se computar.
-Inicialmente, essa tabela de dispersão
-encontra-se vazia. Em seguida, a
-aplicação solicita uma seqüência de
-inserções de elementos cujas chaves
-aparecem na seguinte ordem: 44, 46,
-49, 70, 27, 71, 90, 97, 95.
+h
+h)
+l
+t
 Com relação à aplicação descrita, faça o que se pede a seguir.
 A Escreva, no espaço reservado, o conjunto das chaves envolvidas em
 colisões.
-(valor: 4,0 pontos)
-RASCUNHO – QUESTÃO 20 - A
-B Assuma que a tabela de dispersão trate colisões por meio de
-encadeamento exterior. Esboce a tabela de dispersão para mostrar
-seu conteúdo após a seqüência de inserções referida.
-(valor: 6,0 pontos)
-RASCUNHO – QUESTÃO 20 - B
 
 1 – A seguir serão apresentadas questões de Múltipla Escolha e Discursivas específicas
 para as modalidades dos cursos de computação, assim distribuídas:

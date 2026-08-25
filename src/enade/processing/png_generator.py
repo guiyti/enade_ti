@@ -14,6 +14,41 @@ from .structural_extractor import decode_enade_str
 logger = get_logger(__name__)
 
 
+def trim_segment_area_livre(doc: fitz.Document, seg: Segment) -> Segment:
+    """
+    Trims dead space (ÁREA LIVRE / RASCUNHO boxes) at the bottom of a segment.
+    Returns a new Segment with adjusted y1 if an AREA LIVRE or RASCUNHO block is found.
+    """
+    if seg.pagina <= 0 or seg.pagina > doc.page_count:
+        return seg
+        
+    page = doc[seg.pagina - 1]
+    clip_rect = fitz.Rect(seg.x0, seg.y0, seg.x1, seg.y1)
+    
+    try:
+        blocks = page.get_text("blocks", clip=clip_rect)
+        for b in blocks:
+            txt = decode_enade_str(b[4]).upper()
+            if "ÁREA LIVRE" in txt or "AREA LIVRE" in txt or "RASCUNHO" in txt:
+                # b[1] is y0 of the block
+                block_y0 = b[1]
+                if block_y0 > seg.y0 + 20.0:
+                    new_y1 = max(seg.y0 + 30.0, block_y0 - 4.0)
+                    logger.debug(f"Segmento Pág {seg.pagina} aparado: y1 {seg.y1:.1f} -> {new_y1:.1f} (Removido {b[4].strip()[:20]})")
+                    return Segment(
+                        pagina=seg.pagina,
+                        x0=seg.x0,
+                        y0=seg.y0,
+                        x1=seg.x1,
+                        y1=new_y1,
+                        coluna=seg.coluna
+                    )
+    except Exception as e:
+        logger.warning(f"Erro ao aparar segmento: {e}")
+        
+    return seg
+
+
 def crop_segment_image(
     page_img: np.ndarray, 
     segment: Segment, 
@@ -98,7 +133,6 @@ def extract_question_text_and_figures(
             img_list = page.get_images()
             for img_info in img_list:
                 xref = img_info[0]
-                # Check if image bbox intersects with segment
                 img_rects = page.get_image_rects(xref)
                 for r in img_rects:
                     if clip_rect.intersects(r):
@@ -127,6 +161,10 @@ def extract_and_save_question(
     output_dir = config.QUESTOES_DIR / exam.id_prova
     figures_dir = output_dir / "figuras"
     output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # 1. Trim segments to remove ÁREA LIVRE / RASCUNHO dead space
+    trimmed_segments = [trim_segment_area_livre(doc, seg) for seg in question.segmentos]
+    question.segmentos = trimmed_segments
     
     segment_images = []
     

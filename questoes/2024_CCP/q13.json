@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 366.40380859375,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 491.4153137207031,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q13.txt",
   "largura": 2475,
-  "altura": 2000,
+  "altura": 695,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n9\nFORMAÇÃO GERAL DOCENTE\nq\nQUESTÃO 13\t\nRelacionando os textos 1 e 2, marque a alternativa que apresenta a percepção docente orientada pela função referencial \nproposta por Choppin (2004).\nA\t “Escolho um livro que apresente temáticas sociais essenciais com reflexões sobre o conteúdo da disciplina”. \nB\t “Prefiro os livros com sistematização coerente dos objetos de conhecimento da disciplina e transposição didática adequada”. \nC\t “Considero adequados os livros que expressam conceitos por meio de elementos variados, como imagens, palavras, mapas \ne gráficos”. \nD\t “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos \napresentados”. \nÁrea livre\n\n2025\n*R0404202510*",
+  "texto_completo": "q\nQUESTÃO 13\t\nRelacionando os textos 1 e 2, marque a alternativa que apresenta a percepção docente orientada pela função referencial \nproposta por Choppin (2004).\nA\t “Escolho um livro que apresente temáticas sociais essenciais com reflexões sobre o conteúdo da disciplina”. \nB\t “Prefiro os livros com sistematização coerente dos objetos de conhecimento da disciplina e transposição didática adequada”. \nC\t “Considero adequados os livros que expressam conceitos por meio de elementos variados, como imagens, palavras, mapas \ne gráficos”. \nD “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos\n\n2025\n*R0404202510*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153369",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490769"
 }

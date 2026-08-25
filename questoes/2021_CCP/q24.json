@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 529.0010375976562,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q24.txt",
   "largura": 2185,
-  "altura": 2822,
+  "altura": 1964,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 24\t\nA criptografia de ponta a ponta do WhatsApp garante que somente você e a pessoa com quem você está \nse comunicando podem ler o que é enviado. Ninguém mais terá acesso a elas, nem mesmo o WhatsApp. \nAs suas mensagens estão seguras com cadeados e somente você e a pessoa que as recebe possuem \nas chaves especiais necessárias para abri-los e ler as mensagens. E, para uma proteção ainda maior, \ncada mensagem que você envia tem um cadeado e uma chave únicos.\nDisponível em: https://faq.whatsapp.com/pt_br/general/28030015. Acesso em: 05 mai. 2020.\nCom base no texto acima e considerando os conceitos de segurança e criptografia, avalie as \nafirmações a seguir.\nI.\t Se um par de chaves é gerado durante a instalação do aplicativo e a chave pública do usuário é \narmazenada no servidor, é possível verificar a autenticidade de uma mensagem recebida usando a \nchave pública do remetente obtida do servidor.\nII.\t A estratégia de utilizar um vetor de inicialização (IV) variável para compor chaves criptográficas \ndiferentes para cada mensagem enviada oculta padrões de dados, além de dificultar os chamados \nataques de reprodução.\nIII.\t O uso do algoritmo AES nas comunicações entre dois usuários indica o emprego de criptografia \nsimétrica, isto é, aquela que utiliza um par de chaves, uma usada pelo remetente, para encriptar a \nmensagem, e outra para o destinatário decriptá-la.\nIV.\t A presença do algoritmo SHA-256, no protocolo de comunicação entre cliente e servidor, \nsugere a verificação de integridade das mensagens, visto que é possível detectar se ocorreu \nalguma modificação comparando-se os valores de hash da mensagem enviada e recebida.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t III e IV.\nD\t I, II e III.\nE\t I, II e IV.\nÁrea livre",
+  "texto_completo": "QUESTÃO 24\t\nA criptografia de ponta a ponta do WhatsApp garante que somente você e a pessoa com quem você está \nse comunicando podem ler o que é enviado. Ninguém mais terá acesso a elas, nem mesmo o WhatsApp. \nAs suas mensagens estão seguras com cadeados e somente você e a pessoa que as recebe possuem \nas chaves especiais necessárias para abri-los e ler as mensagens. E, para uma proteção ainda maior, \ncada mensagem que você envia tem um cadeado e uma chave únicos.\nDisponível em: https://faq.whatsapp.com/pt_br/general/28030015. Acesso em: 05 mai. 2020.\nCom base no texto acima e considerando os conceitos de segurança e criptografia, avalie as \nafirmações a seguir.\nI.\t Se um par de chaves é gerado durante a instalação do aplicativo e a chave pública do usuário é \narmazenada no servidor, é possível verificar a autenticidade de uma mensagem recebida usando a \nchave pública do remetente obtida do servidor.\nII.\t A estratégia de utilizar um vetor de inicialização (IV) variável para compor chaves criptográficas \ndiferentes para cada mensagem enviada oculta padrões de dados, além de dificultar os chamados \nataques de reprodução.\nIII.\t O uso do algoritmo AES nas comunicações entre dois usuários indica o emprego de criptografia \nsimétrica, isto é, aquela que utiliza um par de chaves, uma usada pelo remetente, para encriptar a \nmensagem, e outra para o destinatário decriptá-la.\nIV.\t A presença do algoritmo SHA-256, no protocolo de comunicação entre cliente e servidor, \nsugere a verificação de integridade das mensagens, visto que é possível detectar se ocorreu \nalguma modificação comparando-se os valores de hash da mensagem enviada e recebida.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t III e IV.\nD\t I, II e III.\nE\t I, II e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,9 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543632",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Redes e Segurança"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187114"
 }

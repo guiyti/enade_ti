@@ -1,4 +1,3 @@
-6
 QUESTÃO 28
 Algoritmos criados para resolver um mesmo problema 
 podem diferir de forma drástica quanto a sua eficiência. 
@@ -36,4 +35,3 @@ B   II.
 C   I e IV.
 D   II e III.
 E   III e IV.
-ÁREA LIVRE

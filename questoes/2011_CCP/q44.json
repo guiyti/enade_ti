@@ -30,6 +30,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig3.png",
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q44_fig4.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -48,8 +49,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577384",
-  "categorias": [
-    "Engenharia de Software"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218702"
 }

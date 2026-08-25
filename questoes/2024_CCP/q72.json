@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 505.24810791015625,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 578.010986328125,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.txt",
   "largura": 2475,
-  "altura": 1421,
+  "altura": 477,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nCOMPUTAÇÃO\n34\n, p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?\nA\t Pilha, inserindo as tarefas da mais fácil para a mais difícil.\nB\t Grafo, inserindo as tarefas da mais fácil para a mais difícil com nós e sem arestas.\nC\t Fila, inserindo as tarefas da mais fácil para a mais difícil.\nD\t Lista encadeada, inserindo, no início, as tarefas da mais fácil para a mais difícil.\nÁrea livre\n\n2025\n*R0404202535*",
+  "texto_completo": ", p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?\n\n2025\n*R0404202535*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153753",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
-  ]
+  "criado_em": "2026-08-25T14:13:48.491020"
 }

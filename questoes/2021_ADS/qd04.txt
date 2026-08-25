@@ -15,20 +15,3 @@ com as respectivas multiplicidades. Deverão ser representadas as reservas de id
 de uma associação do tipo generalização (herança) e também ser identificados pelo menos três métodos 
 para a classe Reserva. Para as demais classes não é necessário identificar os métodos. Também não há 
 necessidade de identificar a multiplicidade dos atributos nas classes. (valor: 10,0 pontos).
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Área livre

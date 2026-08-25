@@ -47,6 +47,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig2.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig3.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -65,10 +66,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:47:48.913018",
-  "categorias": [
-    "Banco de Dados",
-    "Redes e Segurança",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:10:51.796537"
 }

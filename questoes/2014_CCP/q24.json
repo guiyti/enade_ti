@@ -34,6 +34,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:01.042313",
-  "categorias": [
-    "Banco de Dados"
-  ]
+  "criado_em": "2026-08-25T14:12:00.947830"
 }

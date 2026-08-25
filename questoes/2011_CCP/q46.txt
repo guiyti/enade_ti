@@ -1,5 +1,4 @@
 EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-3
 QUESTÃO 46
 Em um modelo de dados que descreve a publicação 
 acadêmica de pesquisadores de diferentes instituições 
@@ -34,4 +33,3 @@ SELECT CodDepartamento
 FROM EMPREGADO
 GROUP BY CodDepartamento
 ORDER BY AVG (Salario) > 2000
-ÁREA LIVRE

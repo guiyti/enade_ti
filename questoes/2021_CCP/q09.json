@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 280.56,
-      "y1": 734.76,
+      "y1": 557.4889526367188,
       "coluna": 1
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q09.txt",
   "largura": 1095,
-  "altura": 2822,
+  "altura": 2083,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 09\t\nQuando um computador é multiprogramado, ele \ngeralmente tem múltiplos processos ou threads \nque competem pela CPU ao mesmo tempo. \nEssa situação ocorre sempre que dois ou mais \nprocessos estão simultaneamente no estado \npronto. Se somente uma CPU se encontrar \ndisponível, deverá ser feita uma escolha de \nqual processo executar em seguida. A parte do \nsistema operacional que faz a escolha é chamada \nde escalonador, e o algoritmo que ele usa é o \nalgoritmo de escalonamento.\nTANENBAUM, A. S. Sistemas Operacionais Modernos. \n3. ed., São Paulo: Pearson, 2010 (adaptado).\nConsiderando que em ambientes diferentes são \nnecessários algoritmos diferentes de escalonamento, \ngarantindo assim que seja maximizado o uso de \nseus recursos, assinale a opção que apresenta um \nalgoritmo de escalonamento seguido do tipo de \nambiente no qual deva ser implementado.\nA\t Primeiro a chegar, último a sair (first in, last out \n- FILO); propício para sistemas de tempo real.\nB\t Escalonamento \npor \ntaxas \nmonotônicas \n(rate monotonic scheduling - RMS); propício \npara sistemas em lote.\nC\t Tarefa mais curta primeiro; propício para \nsistemas interativos.\nD\t Escalonamento por chave circular (round-robin); \npropício para sistemas de tempo real.\nE\t Escalonamento por prioridades; propício para \nsistemas interativos.\nÁrea livre",
+  "texto_completo": "QUESTÃO 09\t\nQuando um computador é multiprogramado, ele \ngeralmente tem múltiplos processos ou threads \nque competem pela CPU ao mesmo tempo. \nEssa situação ocorre sempre que dois ou mais \nprocessos estão simultaneamente no estado \npronto. Se somente uma CPU se encontrar \ndisponível, deverá ser feita uma escolha de \nqual processo executar em seguida. A parte do \nsistema operacional que faz a escolha é chamada \nde escalonador, e o algoritmo que ele usa é o \nalgoritmo de escalonamento.\nTANENBAUM, A. S. Sistemas Operacionais Modernos. \n3. ed., São Paulo: Pearson, 2010 (adaptado).\nConsiderando que em ambientes diferentes são \nnecessários algoritmos diferentes de escalonamento, \ngarantindo assim que seja maximizado o uso de \nseus recursos, assinale a opção que apresenta um \nalgoritmo de escalonamento seguido do tipo de \nambiente no qual deva ser implementado.\nA\t Primeiro a chegar, último a sair (first in, last out \n- FILO); propício para sistemas de tempo real.\nB\t Escalonamento \npor \ntaxas \nmonotônicas \n(rate monotonic scheduling - RMS); propício \npara sistemas em lote.\nC\t Tarefa mais curta primeiro; propício para \nsistemas interativos.\nD\t Escalonamento por chave circular (round-robin); \npropício para sistemas de tempo real.\nE\t Escalonamento por prioridades; propício para \nsistemas interativos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,10 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543571",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Programação e POO",
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187055"
 }

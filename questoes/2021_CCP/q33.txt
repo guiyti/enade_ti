@@ -24,4 +24,3 @@ B	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X).
 C	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X,Y).
 D	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X), mulher(Y).
 E	 saoirmas(X,Y):-paide(X,P), maede(Y,M), X\=Y, mulher(X), mulher(Y).
-Área livre

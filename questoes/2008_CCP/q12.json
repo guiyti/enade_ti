@@ -25,6 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,9 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654173",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Engenharia de Software"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229207"
 }

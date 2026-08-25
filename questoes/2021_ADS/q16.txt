@@ -15,7 +15,6 @@ C	 Todos os objetos foram criados no instante de execução do Caso de Uso repre
 D	 O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.
 E	 A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação 
 correta do Diagrama de Sequência representado.
-Área livre
 3: Consulta existência 
 de leitos : 
 consultaLeitos()

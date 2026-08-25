@@ -9,7 +9,7 @@
   "questoes_extraidas": 80,
   "score_geral": 88.5,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T12:47:58.903494",
+  "processado_em": "2026-08-25T14:11:01.539244",
   "paginas": [
     {
       "numero": 1,
@@ -31033,6 +31033,9 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q01_fig4.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q01_fig5.jpeg"
       ],
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31051,7 +31054,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654066"
+      "criado_em": "2026-08-25T14:11:08.229132"
     },
     {
       "id_questao": "q02",
@@ -31082,6 +31085,10 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q02_fig1.jpeg"
       ],
+      "categorias": [
+        "Engenharia de Software",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31100,7 +31107,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654084"
+      "criado_em": "2026-08-25T14:11:08.229155"
     },
     {
       "id_questao": "q03",
@@ -31137,6 +31144,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31155,7 +31165,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654091"
+      "criado_em": "2026-08-25T14:11:08.229162"
     },
     {
       "id_questao": "q04",
@@ -31184,6 +31194,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31202,7 +31216,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654096"
+      "criado_em": "2026-08-25T14:11:08.229167"
     },
     {
       "id_questao": "q05",
@@ -31233,6 +31247,11 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q05_fig1.png"
       ],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO",
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31251,7 +31270,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654101"
+      "criado_em": "2026-08-25T14:11:08.229172"
     },
     {
       "id_questao": "q06",
@@ -31282,6 +31301,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q06_fig1.jpeg"
       ],
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31300,7 +31322,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654106"
+      "criado_em": "2026-08-25T14:11:08.229177"
     },
     {
       "id_questao": "q07",
@@ -31331,6 +31353,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q07_fig1.jpeg"
       ],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31349,7 +31374,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654110"
+      "criado_em": "2026-08-25T14:11:08.229181"
     },
     {
       "id_questao": "q08",
@@ -31384,6 +31409,9 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q08_fig4.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q08_fig5.jpeg"
       ],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31402,7 +31430,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654138"
+      "criado_em": "2026-08-25T14:11:08.229186"
     },
     {
       "id_questao": "qd09",
@@ -31425,7 +31453,7 @@
           "x0": 300.59999999999997,
           "y0": 55.0,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 566.5986938476562,
           "coluna": 2
         }
       ],
@@ -31433,13 +31461,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd09.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd09.txt",
       "largura": 1154,
-      "altura": 6192,
+      "altura": 5231,
       "confianca": 0.98,
-      "texto_completo": "CO\nÇÃO\nLE MONDE Diplomatique Brasil. Ano 2, n. 7, fev. 2008, p. 31.\nQUESTÃO 9 – DISCURSIVA\nDIREITOS HUMAN\né d\nsã\nsit\nNe\nDe\npe\nbr\nint\nm\nint\nno\n<\n<\n<\nTe\nco\nav\nint\nSe\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nOS EM QUESTÃO\nO caráter universalizante dos direitos do homem (...) não\na ordem do saber teórico, mas do operatório ou prático: eles\no invocados para agir, desde o princípio, em qualquer\nação dada.\nFrançois JULIEN, filósofo e sociólogo.\nste ano, em que são comemorados os 60 anos da\nclaração \nUniversal \ndos \nDireitos \nHumanos, \nnovas\nrspectivas e concepções incorporam-se à agenda pública\nsileira. Uma das novas perspectivas em foco é a visão mais\negrada dos direitos econômicos, sociais, civis, políticos e,\nis recentemente, ambientais, ou seja, trata-se da\negralidade ou indivisibilidade dos direitos humanos. Dentre as\nvas concepções de direitos, destacam-se:\na habitação como moradia digna e não apenas como\nnecessidade de abrigo e proteção;\na segurança como bem-estar e não apenas como\nnecessidade de vigilância e punição;\no trabalho como ação para a vida e não apenas como\nnecessidade de emprego e renda.\nndo em vista o exposto acima, selecione uma das\nncepções destacadas e esclareça por que ela representa um\nanço para o exercício pleno da cidadania, na perspectiva da\negralidade dos direitos humanos. \nu texto deve ter entre 8 e 10 linhas.\n(valor: 10,0 pontos)\nRASCUNHO – QUESTÃO 9",
+      "texto_completo": "CO\nÇÃO\nLE MONDE Diplomatique Brasil. Ano 2, n. 7, fev. 2008, p. 31.\nQUESTÃO 9 – DISCURSIVA\nDIREITOS HUMAN\né d\nsã\nsit\nNe\nDe\npe\nbr\nint\nm\nint\nno\n<\n<\n<\nTe\nco\nav\nint\nSe\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nOS EM QUESTÃO\nO caráter universalizante dos direitos do homem (...) não\na ordem do saber teórico, mas do operatório ou prático: eles\no invocados para agir, desde o princípio, em qualquer\nação dada.\nFrançois JULIEN, filósofo e sociólogo.\nste ano, em que são comemorados os 60 anos da\nclaração \nUniversal \ndos \nDireitos \nHumanos, \nnovas\nrspectivas e concepções incorporam-se à agenda pública\nsileira. Uma das novas perspectivas em foco é a visão mais\negrada dos direitos econômicos, sociais, civis, políticos e,\nis recentemente, ambientais, ou seja, trata-se da\negralidade ou indivisibilidade dos direitos humanos. Dentre as\nvas concepções de direitos, destacam-se:\na habitação como moradia digna e não apenas como\nnecessidade de abrigo e proteção;\na segurança como bem-estar e não apenas como\nnecessidade de vigilância e punição;\no trabalho como ação para a vida e não apenas como\nnecessidade de emprego e renda.\nndo em vista o exposto acima, selecione uma das\nncepções destacadas e esclareça por que ela representa um\nanço para o exercício pleno da cidadania, na perspectiva da\negralidade dos direitos humanos. \nu texto deve ter entre 8 e 10 linhas.\n(valor: 10,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd09_fig1.jpeg"
+      ],
+      "categorias": [
+        "Formação Geral e Sociedade"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -31459,7 +31490,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654154"
+      "criado_em": "2026-08-25T14:11:08.229192"
     },
     {
       "id_questao": "qd10",
@@ -31475,7 +31506,7 @@
           "x0": 25.0,
           "y0": 64.48672485351562,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 577.8923950195312,
           "coluna": 0
         },
         {
@@ -31491,14 +31522,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd10.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd10.txt",
       "largura": 2302,
-      "altura": 3445,
+      "altura": 2531,
       "confianca": 0.98,
-      "texto_completo": "6\nCO\nÇÃO\nQUESTÃO 10 – DISCURSIVA\nAlunos dão nota 7,1 para ensino médio\nApesar das várias avaliações que mostram que o ensino médio está\nmuito aquém do desejado, os alunos, ao analisarem a formação que\nreceberam, têm outro diagnóstico. No questionário socioeconômico que\nresponderam no Enem (Exame Nacional do Ensino Médio) do ano\npassado, eles deram para seus colégios nota média 7,1. Essa boa\navaliação varia pouco conforme o desempenho do aluno. Entre os que\nforam mal no exame, a média é de 7,2; entre aqueles que foram bem,\nela fica em 7,1.\nGOIS, Antonio. Folha de S.Paulo, 11 jun. 2008 (Fragmento).\nEntre os piores também em matemática e leitura\nO Brasil teve o quarto pior desempenho, entre 57 países e territórios, no\nmaior teste mundial de matemática, o Programa Internacional de\nAvaliação de Alunos (Pisa) de 2006. Os estudantes brasileiros de\nescolas públicas e particulares ficaram na 54.a posição, à frente apenas de Tunísia, Qatar e Quirguistão. Na prova de\nleitura, que mede a compreensão de textos, o país foi o oitavo pior, entre 56 nações.\nOs resultados completos do Pisa 2006, que avalia jovens de 15 anos, foram anunciados ontem pela Organização para\na Cooperação e o Desenvolvimento (OCDE), entidade que reúne países adeptos da economia de mercado, a maioria\ndo mundo desenvolvido.\nWEBER, Demétrio. Jornal O Globo, 5 dez. 2007, p. 14 (Fragmento).\nEnsino fundamental atinge meta de 2009\nO aumento das médias dos alunos, especialmente em matemática, e a diminuição da reprovação fizeram com que, de\n2005 para 2007, o país melhorasse os indicadores de qualidade da educação. O avanço foi mais visível no ensino\nfundamental. No ensino médio, praticamente não houve melhoria. Numa escala de zero a dez, o ensino fundamental em\nseus anos iniciais (da primeira à quarta série) teve nota 4,2 em 2007. Em 2005, a nota fora 3,8. Nos anos finais (quinta\na oitava), a alta foi de 3,5 para 3,8. No ensino médio, de 3,4 para 3,5. Embora tenha comemorado o aumento da nota,\nela ainda foi considerada “pior do que regular” pelo ministro da Educação, Fernando Haddad.\nGOIS, Antonio; PINHO, Angela. Folha de S.Paulo, 12 jun. 2008 (Fragmento).\nA partir da leitura dos fragmentos motivadores reproduzidos, redija um texto dissertativo (fundamentado em pelo menos\ndois argumentos), sobre o seguinte tema:\nA contradição entre os resultados de avaliações oficiais e a opinião emitida pelos\nprofessores, pais e alunos sobre a educação brasileira.\nNo desenvolvimento do tema proposto, utilize os conhecimentos adquiridos ao longo de sua formação.\nObservações\n•\nSeu texto deve ser de cunho dissertativo-argumentativo (não\ndeve, portanto, ser escrito em forma de poema, de narração\netc.). \n•\nSeu ponto de vista deve estar apoiado em pelo menos dois\nargumentos.\n•\nO texto deve ter entre 8 e 10 linhas. \n•\nO texto deve ser redigido na modalidade padrão da\nlíngua portuguesa.\n•\nSeu texto não deve conter fragmentos dos textos\nmotivadores.\n(valor: 10,0 pontos)\nRASCUNHO – QUESTÃO 10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nRevista Veja, 20 ago. 2008, p. 72-3.\n\nCOMPO\nAs questões de 11 a 20, a seguir, são comu\nBACHARELADO EM CIÊNCIA DA CO\nBACHARELADO EM",
+      "texto_completo": "QUESTÃO 10 – DISCURSIVA\nAlunos dão nota 7,1 para ensino médio\nApesar das várias avaliações que mostram que o ensino médio está\nmuito aquém do desejado, os alunos, ao analisarem a formação que\nreceberam, têm outro diagnóstico. No questionário socioeconômico que\nresponderam no Enem (Exame Nacional do Ensino Médio) do ano\npassado, eles deram para seus colégios nota média 7,1. Essa boa\navaliação varia pouco conforme o desempenho do aluno. Entre os que\nforam mal no exame, a média é de 7,2; entre aqueles que foram bem,\nela fica em 7,1.\nGOIS, Antonio. Folha de S.Paulo, 11 jun. 2008 (Fragmento).\nEntre os piores também em matemática e leitura\nO Brasil teve o quarto pior desempenho, entre 57 países e territórios, no\nmaior teste mundial de matemática, o Programa Internacional de\nAvaliação de Alunos (Pisa) de 2006. Os estudantes brasileiros de\nescolas públicas e particulares ficaram na 54.a posição, à frente apenas de Tunísia, Qatar e Quirguistão. Na prova de\nleitura, que mede a compreensão de textos, o país foi o oitavo pior, entre 56 nações.\nOs resultados completos do Pisa 2006, que avalia jovens de 15 anos, foram anunciados ontem pela Organização para\na Cooperação e o Desenvolvimento (OCDE), entidade que reúne países adeptos da economia de mercado, a maioria\ndo mundo desenvolvido.\nWEBER, Demétrio. Jornal O Globo, 5 dez. 2007, p. 14 (Fragmento).\nEnsino fundamental atinge meta de 2009\nO aumento das médias dos alunos, especialmente em matemática, e a diminuição da reprovação fizeram com que, de\n2005 para 2007, o país melhorasse os indicadores de qualidade da educação. O avanço foi mais visível no ensino\nfundamental. No ensino médio, praticamente não houve melhoria. Numa escala de zero a dez, o ensino fundamental em\nseus anos iniciais (da primeira à quarta série) teve nota 4,2 em 2007. Em 2005, a nota fora 3,8. Nos anos finais (quinta\na oitava), a alta foi de 3,5 para 3,8. No ensino médio, de 3,4 para 3,5. Embora tenha comemorado o aumento da nota,\nela ainda foi considerada “pior do que regular” pelo ministro da Educação, Fernando Haddad.\nGOIS, Antonio; PINHO, Angela. Folha de S.Paulo, 12 jun. 2008 (Fragmento).\nA partir da leitura dos fragmentos motivadores reproduzidos, redija um texto dissertativo (fundamentado em pelo menos\ndois argumentos), sobre o seguinte tema:\nA contradição entre os resultados de avaliações oficiais e a opinião emitida pelos\nprofessores, pais e alunos sobre a educação brasileira.\nNo desenvolvimento do tema proposto, utilize os conhecimentos adquiridos ao longo de sua formação.\nObservações\n•\nSeu texto deve ser de cunho dissertativo-argumentativo (não\ndeve, portanto, ser escrito em forma de poema, de narração\netc.). \n•\nSeu ponto de vista deve estar apoiado em pelo menos dois\nargumentos\n•\nO texto deve ter entre 8 e 10 linhas. \n•\nO texto deve ser redigido na modalidade padrão da\nlíngua portuguesa.\n•\nSeu texto não deve conter fragmentos dos textos\nmotivadores\nRevista Veja, 20 ago. 2008, p. 72-3.\n\nCOMPO\nAs questões de 11 a 20, a seguir, são comu\nBACHARELADO EM CIÊNCIA DA CO\nBACHARELADO EM",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd10_fig1.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd10_fig2.png"
+      ],
+      "categorias": [
+        "Banco de Dados"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -31518,7 +31552,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654162"
+      "criado_em": "2026-08-25T14:11:08.229197"
     },
     {
       "id_questao": "q11",
@@ -31549,6 +31583,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q11_fig1.png"
       ],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31567,7 +31604,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654168"
+      "criado_em": "2026-08-25T14:11:08.229202"
     },
     {
       "id_questao": "q12",
@@ -31596,6 +31633,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31614,7 +31655,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654173"
+      "criado_em": "2026-08-25T14:11:08.229207"
     },
     {
       "id_questao": "q13",
@@ -31651,6 +31692,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31669,7 +31713,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654179"
+      "criado_em": "2026-08-25T14:11:08.229212"
     },
     {
       "id_questao": "q14",
@@ -31707,6 +31751,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31725,7 +31772,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654185"
+      "criado_em": "2026-08-25T14:11:08.229218"
     },
     {
       "id_questao": "q15",
@@ -31754,6 +31801,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31772,7 +31822,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654189"
+      "criado_em": "2026-08-25T14:11:08.229222"
     },
     {
       "id_questao": "q16",
@@ -31809,6 +31859,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31827,7 +31881,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654194"
+      "criado_em": "2026-08-25T14:11:08.229227"
     },
     {
       "id_questao": "q17",
@@ -31856,6 +31910,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31874,7 +31931,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654198"
+      "criado_em": "2026-08-25T14:11:08.229231"
     },
     {
       "id_questao": "q18",
@@ -31903,6 +31960,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31921,7 +31981,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654202"
+      "criado_em": "2026-08-25T14:11:08.229236"
     },
     {
       "id_questao": "q19",
@@ -31950,6 +32010,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -31968,7 +32032,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654207"
+      "criado_em": "2026-08-25T14:11:08.229240"
     },
     {
       "id_questao": "qd20",
@@ -31984,7 +32048,7 @@
           "x0": 25.0,
           "y0": 319.606689453125,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 373.2881774902344,
           "coluna": 0
         },
         {
@@ -32000,13 +32064,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd20.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd20.txt",
       "largura": 2302,
-      "altura": 2904,
+      "altura": 1137,
       "confianca": 0.98,
-      "texto_completo": "9\nCO\nÇÃO\nE\nTanto a primeira quanto a segunda asserções são proposições falsas.\nQUESTÃO 20 – DISCURSIVA\nTabelas de dispersão (tabelas\nhash) armazenam elementos com\nbase no valor absoluto de suas\nchaves e em técnicas de tratamento\nde colisões. As funções de dispersão\ntransformam chaves em endereços-\nbase da tabela, ao passo que o\ntratamento \nde \ncolisões \nresolve\nconflitos em casos em que mais de\numa chave é mapeada para um\nmesmo endereço-base da tabela. \nSuponha que uma aplicação\nutilize uma tabela de dispersão com\n23 endereços-base (índices de 0 a 22)\ne empregue h(x) = x mod 23 como\nfunção de dispersão, em que x\nrepresenta a chave do elemento cujo\nendereço-base deseja-se computar.\nInicialmente, essa tabela de dispersão\nencontra-se vazia. Em seguida, a\naplicação solicita uma seqüência de\ninserções de elementos cujas chaves\naparecem na seguinte ordem: 44, 46,\n49, 70, 27, 71, 90, 97, 95.\nCom relação à aplicação descrita, faça o que se pede a seguir.\nA Escreva, no espaço reservado, o conjunto das chaves envolvidas em\ncolisões.\n(valor: 4,0 pontos)\nRASCUNHO – QUESTÃO 20 - A\nB Assuma que a tabela de dispersão trate colisões por meio de\nencadeamento exterior. Esboce a tabela de dispersão para mostrar\nseu conteúdo após a seqüência de inserções referida.\n(valor: 6,0 pontos)\nRASCUNHO – QUESTÃO 20 - B\n\n1 – A seguir serão apresentadas questões de Múltipla Escolha e Discursivas específicas\npara as modalidades dos cursos de computação, assim distribuídas:\nPerfil do curso\nNúmero das Questões\nMúltipla Escolha\nDiscursivas\nBacharelado em Ciência da Computação\n21 a 38\n39 e 40\nEngenharia de Computação\n41 a 58\n59 e 60\nBacharelado em Sistemas de Informação\n61 a 78\n79 e 80\n2 – Você deve responder apenas às questões referentes ao perfil profissional do curso em\nque você está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3 – Observe atentamente os números das questões correspondentes à modalidade do curso na qual você está inscrito\npara preencher corretamente o Caderno de Respostas.\nAs questões de 21 a 40, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO.",
+      "texto_completo": "E\nTanto a primeira quanto a segunda asserções são proposições falsas.\nQUESTÃO 20 – DISCURSIVA\nTabelas de dispersão (tabelas\nh\nh)\nl\nt\nCom relação à aplicação descrita, faça o que se pede a seguir.\nA Escreva, no espaço reservado, o conjunto das chaves envolvidas em\ncolisões.\n\n1 – A seguir serão apresentadas questões de Múltipla Escolha e Discursivas específicas\npara as modalidades dos cursos de computação, assim distribuídas:\nPerfil do curso\nNúmero das Questões\nMúltipla Escolha\nDiscursivas\nBacharelado em Ciência da Computação\n21 a 38\n39 e 40\nEngenharia de Computação\n41 a 58\n59 e 60\nBacharelado em Sistemas de Informação\n61 a 78\n79 e 80\n2 – Você deve responder apenas às questões referentes ao perfil profissional do curso em\nque você está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3 – Observe atentamente os números das questões correspondentes à modalidade do curso na qual você está inscrito\npara preencher corretamente o Caderno de Respostas.\nAs questões de 21 a 40, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd20_fig1.png"
+      ],
+      "categorias": [
+        "Engenharia e Tecnologias"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -32026,7 +32093,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654211"
+      "criado_em": "2026-08-25T14:11:08.229245"
     },
     {
       "id_questao": "q21",
@@ -32055,6 +32122,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32073,7 +32143,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654216"
+      "criado_em": "2026-08-25T14:11:08.229250"
     },
     {
       "id_questao": "q23",
@@ -32102,6 +32172,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32120,7 +32194,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654220"
+      "criado_em": "2026-08-25T14:11:08.229255"
     },
     {
       "id_questao": "q22",
@@ -32158,6 +32232,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32176,7 +32253,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654224"
+      "criado_em": "2026-08-25T14:11:08.229260"
     },
     {
       "id_questao": "q24",
@@ -32191,7 +32268,7 @@
           "x0": 25.0,
           "y0": 66.52682495117188,
           "x1": 294.59999999999997,
-          "y1": 797.16,
+          "y1": 631.470703125,
           "coluna": 1
         },
         {
@@ -32207,12 +32284,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q24.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q24.txt",
       "largura": 1154,
-      "altura": 3154,
+      "altura": 2463,
       "confianca": 0.98,
-      "texto_completo": "1\nCO\nÇÃO\nQUESTÃO 24\nS1\nS0\nDEC\n0\n1\n2\n3\nentradas\nsaídas\nS1\nS0\n0\n1\n2\n3\n0\n0\n1\n0\n0\n0\n0\n1\n0\n1\n0\n0\n1\n0\n0\n0\n1\n0\n1\n1\n0\n0\n0\n1\nConsidere o bloco decodificador ilustrado acima, o qua\nopera segundo a tabela apresentada. Em cada item a seguir\njulgue se a função lógica mostrada corresponde ao circuito\nlógico a ela associado.\nI\n \nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nII\nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nIII\nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\nRASCUNHO",
+      "texto_completo": "QUESTÃO 24\nS1\nS0\nDEC\n0\n1\n2\n3\nentradas\nsaídas\nS1\nS0\n0\n1\n2\n3\n0\n0\n1\n0\n0\n0\n0\n1\n0\n1\n0\n0\n1\n0\n0\n0\n1\n0\n1\n1\n0\n0\n0\n1\nConsidere o bloco decodificador ilustrado acima, o qua\nopera segundo a tabela apresentada. Em cada item a seguir\njulgue se a função lógica mostrada corresponde ao circuito\nlógico a ela associado.\nI\n \nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nII\nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nIII\nS1\nS0\nDEC\n0\n1\n2\n3\nA\nB\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32231,7 +32311,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654229"
+      "criado_em": "2026-08-25T14:11:08.229265"
     },
     {
       "id_questao": "q25",
@@ -32271,6 +32351,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q25_fig1.png"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32289,7 +32372,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654233"
+      "criado_em": "2026-08-25T14:11:08.229270"
     },
     {
       "id_questao": "q26",
@@ -32321,6 +32404,9 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q26_fig1.png",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q26_fig2.png"
       ],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32339,7 +32425,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654237"
+      "criado_em": "2026-08-25T14:11:08.229274"
     },
     {
       "id_questao": "q27",
@@ -32376,6 +32462,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32394,7 +32484,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654242"
+      "criado_em": "2026-08-25T14:11:08.229279"
     },
     {
       "id_questao": "q28",
@@ -32423,6 +32513,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32441,7 +32536,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654245"
+      "criado_em": "2026-08-25T14:11:08.229283"
     },
     {
       "id_questao": "q29",
@@ -32470,6 +32565,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32488,7 +32586,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654249"
+      "criado_em": "2026-08-25T14:11:08.229287"
     },
     {
       "id_questao": "q30",
@@ -32526,6 +32624,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32544,7 +32645,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654254"
+      "criado_em": "2026-08-25T14:11:08.229291"
     },
     {
       "id_questao": "q31",
@@ -32573,6 +32674,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32591,7 +32696,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654258"
+      "criado_em": "2026-08-25T14:11:08.229295"
     },
     {
       "id_questao": "q32",
@@ -32628,6 +32733,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32646,7 +32754,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654262"
+      "criado_em": "2026-08-25T14:11:08.229300"
     },
     {
       "id_questao": "q33",
@@ -32675,6 +32783,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura",
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32693,7 +32807,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654266"
+      "criado_em": "2026-08-25T14:11:08.229304"
     },
     {
       "id_questao": "q34",
@@ -32731,6 +32845,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32749,7 +32866,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654270"
+      "criado_em": "2026-08-25T14:11:08.229309"
     },
     {
       "id_questao": "q35",
@@ -32778,6 +32895,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32796,7 +32918,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654274"
+      "criado_em": "2026-08-25T14:11:08.229313"
     },
     {
       "id_questao": "q36",
@@ -32833,6 +32955,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32851,7 +32977,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654279"
+      "criado_em": "2026-08-25T14:11:08.229318"
     },
     {
       "id_questao": "q37",
@@ -32880,6 +33006,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32898,7 +33027,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654282"
+      "criado_em": "2026-08-25T14:11:08.229322"
     },
     {
       "id_questao": "q38",
@@ -32913,7 +33042,7 @@
           "x0": 300.59999999999997,
           "y0": 285.6466979980469,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 539.0706787109375,
           "coluna": 2
         }
       ],
@@ -32921,12 +33050,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q38.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q38.txt",
       "largura": 1154,
-      "altura": 2162,
+      "altura": 1086,
       "confianca": 0.98,
-      "texto_completo": "4\nso de\nda de\ne os\nem e\nredes\nto de\nessos\ncação\n pelo\nários\na da\nP/IP é\nadas:\no, de\n2.11,\na vez\nogia.\nar por\nnada\nmodo\nações\numa\no de\nampo\nissão\no de\nest to\nnd —\nque\npelo\n,\n,\nQUESTÃO 38\nNo circuito acima, que possui cinco entradas — A,\nB, C, D e E — e uma saída f (A, B, C, D, E), qual\nopção apresenta uma expressão lógica equivalente\nà função f (A, B, C, D, E)?\nA\nB\nC\nD\nE\nRASCUNHO\nA\nB\nC\nD\nE\nf A B C D E\n( , ,\n,\n,\n)",
+      "texto_completo": "so de\nda de\ne os\nem e\nredes\nto de\nessos\ncação\n pelo\nários\na da\nP/IP é\nadas:\no, de\n2.11,\na vez\nogia.\nar por\nnada\n,\n,\nQUESTÃO 38\nNo circuito acima, que possui cinco entradas — A,\nB, C, D e E — e uma saída f (A, B, C, D, E), qual\nopção apresenta uma expressão lógica equivalente\nà função f (A, B, C, D, E)?\nA\nB\nC\nD\nE\nA\nB\nC\nD\nE\nf A B C D E\n( , ,\n,\n,\n)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -32945,7 +33077,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654286"
+      "criado_em": "2026-08-25T14:11:08.229326"
     },
     {
       "id_questao": "qd39",
@@ -32961,7 +33093,7 @@
           "x0": 25.0,
           "y0": 64.48672485351562,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 333.0787048339844,
           "coluna": 0
         },
         {
@@ -32977,12 +33109,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd39.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd39.txt",
       "largura": 2302,
-      "altura": 3163,
+      "altura": 1229,
       "confianca": 0.98,
-      "texto_completo": "15\nCO\nÇÃO\nQUESTÃO 39 – DISCURSIVA\nQualquer expressão aritmética binária pode ser convertida em uma expressão totalmente\nparentizada, bastando reescrever cada subexpressão binária a q b como (a q b), em que q denota\num operador binário. Expressões nesse formato podem ser definidas por regras de uma gramática\nlivre de contexto, conforme apresentado a seguir. Nessa gramática, os símbolos não-terminais E,\nS, O e L representam expressões, subexpressões, operadores e literais, respectivamente, e os\ndemais símbolos das regras são terminais.\nE 6 ( S O S )\nS 6 L | E\nO 6 + | - | * | /\nL 6 a | b | c | d | e\nTendo como referência as informações acima, faça o que se pede a seguir.\nA Mostre que a expressão (a * (b / c)) pode ser obtida por derivações das regras acima. Para isso, desenhe a\nárvore de análise sintática correspondente.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 39 - A\nB Existem diferentes derivações para a expressão (((a + b) * c) + (d * e)). É correto, então, afirmar que a\ngramática acima é ambígua? Justifique sua resposta.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 39 - B\n1\n2\n3\n4\n5\n6\n7\n8",
+      "texto_completo": "QUESTÃO 39 – DISCURSIVA\nQualquer expressão aritmética binária pode ser convertida em uma expressão totalmente\nparentizada, bastando reescrever cada subexpressão binária a q b como (a q b), em que q denota\num operador binário. Expressões nesse formato podem ser definidas por regras de uma gramática\nlivre de contexto, conforme apresentado a seguir. Nessa gramática, os símbolos não-terminais E,\nS, O e L representam expressões, subexpressões, operadores e literais, respectivamente, e os\ndemais símbolos das regras são terminais.\nE 6 ( S O S )\nS 6 L | E\nO 6 + | - | * | /\nL 6 a | b | c | d | e\nTendo como referência as informações acima, faça o que se pede a seguir.\nA Mostre que a expressão (a * (b / c)) pode ser obtida por derivações das regras acima. Para isso, desenhe a\nárvore de análise sintática correspondente.\n(valor: 5,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33001,7 +33137,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654291"
+      "criado_em": "2026-08-25T14:11:08.229331"
     },
     {
       "id_questao": "qd40",
@@ -33025,7 +33161,7 @@
           "x0": 300.59999999999997,
           "y0": 55.0,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 140.37274169921875,
           "coluna": 2
         },
         {
@@ -33041,13 +33177,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd40.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd40.txt",
       "largura": 2302,
-      "altura": 6636,
+      "altura": 3898,
       "confianca": 0.9,
-      "texto_completo": "1\nCO\nÇÃO\nQUESTÃO 40 – DISCURSIVA\nO banco de dados de um sistema de controle\nbancário implementado por meio de um SGBD relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentadas a seguir, em que a chave primária da\nrelação é grifada.\nCliente(nroCliente, nome, endereco,\ndata_nascimento, renda, idade)\nPara essa relação, foram criados dois índices\nsecundários: IndiceIdade, para o atributo idade, e\nIndiceRenda, para o atributo renda. Existe um tipo de\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos de 40 anos de idade quanto aqueles que\npossuem renda mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão de\nconsulta em SQL foi utilizada:\nSELECT nome, endereco\nFROM Cliente\nWHERE idade < 40 OR renda > 30000;\nCom o aumento do número de clientes desse\nbanco, essa consulta passou a apresentar problemas de\ndesempenho. Verificou-se, então, que o otimizador de\nconsultas não considerava os índices existentes para\nidade e renda, e a consulta era realizada mediante\nvarredura seqüencial na relação Cliente, tornando essa\nconsulta onerosa. O plano de execução da consulta,\nusado pelo otimizador, é apresentado na árvore de\nconsulta abaixo, na qual B e F representam as operações\nde projeção e de seleção, respectivamente.\nPara que o otimizador de consultas passasse a\nutilizar os índices, a solução encontrada foi elaborar a\nconsulta em dois blocos separados — um que recupera os\nclientes com idade inferior a 40 anos, e outro que\nrecupera os clientes com renda mensal superior a 30.000\nreais — para, então, juntar as tuplas das duas relações\ngeradas.\nnome,endereco\nB\nidade\n40 OR renda\n30000\n < \n < \nF\nCliente\n\n6\nConsiderando a situação apresentada, faça o que se pede\na seguir.\nA Escreva o código de uma consulta em SQL que\ncorresponda à solução proposta.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 40 - A\nB Desenhe a árvore de consulta para essa solução.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 40 - B\n\nAs questões de 41 a 60, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nENGENHARIA DE COMPUTAÇÃO.",
+      "texto_completo": "1\nCO\nÇÃO\nQUESTÃO 40 – DISCURSIVA\nO banco de dados de um sistema de controle\nbancário implementado por meio de um SGBD relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentadas a seguir, em que a chave primária da\nrelação é grifada.\nCliente(nroCliente, nome, endereco,\ndata_nascimento, renda, idade)\nPara essa relação, foram criados dois índices\nsecundários: IndiceIdade, para o atributo idade, e\nIndiceRenda, para o atributo renda. Existe um tipo de\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos de 40 anos de idade quanto aqueles que\npossuem renda mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão de\nconsulta em SQL foi utilizada:\nSELECT nome, endereco\nFROM Cliente\nWHERE idade < 40 OR renda > 30000;\nCom o aumento do número de clientes desse\nbanco, essa consulta passou a apresentar problemas de\ndesempenho. Verificou-se, então, que o otimizador de\nconsultas não considerava os índices existentes para\nidade e renda, e a consulta era realizada mediante\nvarredura seqüencial na relação Cliente, tornando essa\nconsulta onerosa. O plano de execução da consulta,\nusado pelo otimizador, é apresentado na árvore de\nconsulta abaixo, na qual B e F representam as operações\nde projeção e de seleção, respectivamente.\nPara que o otimizador de consultas passasse a\nutilizar os índices, a solução encontrada foi elaborar a\nconsulta em dois blocos separados — um que recupera os\nclientes com idade inferior a 40 anos, e outro que\nrecupera os clientes com renda mensal superior a 30.000\nreais — para, então, juntar as tuplas das duas relações\ngeradas.\nnome,endereco\nB\nidade\n40 OR renda\n30000\n < \n < \nF\nCliente\n\nConsiderando a situação apresentada, faça o que se pede\na seguir.\nA Escreva o código de uma consulta em SQL que\ncorresponda à solução proposta.\n\nAs questões de 41 a 60, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nENGENHARIA DE COMPUTAÇÃO.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd40_fig1.png"
+      ],
+      "categorias": [
+        "Banco de Dados",
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -33067,7 +33207,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654296"
+      "criado_em": "2026-08-25T14:11:08.229336"
     },
     {
       "id_questao": "q41",
@@ -33096,6 +33236,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33114,7 +33257,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654300"
+      "criado_em": "2026-08-25T14:11:08.229341"
     },
     {
       "id_questao": "q42",
@@ -33143,6 +33286,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33161,7 +33308,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654304"
+      "criado_em": "2026-08-25T14:11:08.229345"
     },
     {
       "id_questao": "q43",
@@ -33201,6 +33348,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q43_fig1.png"
       ],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33219,7 +33369,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654308"
+      "criado_em": "2026-08-25T14:11:08.229350"
     },
     {
       "id_questao": "q44",
@@ -33256,6 +33406,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33274,7 +33427,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654312"
+      "criado_em": "2026-08-25T14:11:08.229354"
     },
     {
       "id_questao": "q45",
@@ -33290,7 +33443,7 @@
           "x0": 300.59999999999997,
           "y0": 66.52682495117188,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 602.3106689453125,
           "coluna": 2
         },
         {
@@ -33306,14 +33459,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q45.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q45.txt",
       "largura": 1154,
-      "altura": 3154,
+      "altura": 2342,
       "confianca": 0.98,
-      "texto_completo": "8\nQUESTÃO 45\nConsidere y = f(x) uma função contínua e não-negativa\n(f $ 0), definida em um intervalo [a, b], e R a região\ndelimitada pelo eixo x, o gráfico de f e as retas x = a e\nx = b. Considere S o sólido obtido pela rotação do conjunto\nR em torno do eixo das abscissas, conforme ilustram as\nfiguras a seguir. O volume V do sólido S pode ser obtido\ncomo resultado da integral \n.\nCom base nessas informações, julgue os itens a seguir.\nI\nCada seção transversal do sólido S obtida quando este\né interceptado em x = c por um plano paralelo ao plano\nyOz é um círculo centrado no ponto (c, 0, 0) e de raio\nmedindo f(x) e, portanto, de área igual a B(f(x))2.\nII\nSe P é uma partição uniforme do intervalo [a, b], sendo\nP = {a = x0 < x1 < x2 < ... \n< xn = b}, tal que )x = xi !x i-1,\nentão \n para ci 0 [ xi, xi ! 1], 1< i < n.\nIII É igual a 2B o volume do sólido gerado pela rotação em\ntorno do eixo x da região do plano delimitada pelo\neixo x, o gráfico de \n e as retas x = 0 e x = 2.\nAssinale a opção correta.\nA\nApenas o item I está certo.\nB\nApenas o item III está certo.\nC\nApenas os itens I e II estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\nRASCUNHO\ny\na\nb\nR\nx\ny\nx\nO\nS\nz",
+      "texto_completo": "QUESTÃO 45\nConsidere y = f(x) uma função contínua e não-negativa\n(f $ 0), definida em um intervalo [a, b], e R a região\ndelimitada pelo eixo x, o gráfico de f e as retas x = a e\nx = b. Considere S o sólido obtido pela rotação do conjunto\nR em torno do eixo das abscissas, conforme ilustram as\nfiguras a seguir. O volume V do sólido S pode ser obtido\ncomo resultado da integral \n.\nCom base nessas informações, julgue os itens a seguir.\nI\nCada seção transversal do sólido S obtida quando este\né interceptado em x = c por um plano paralelo ao plano\nyOz é um círculo centrado no ponto (c, 0, 0) e de raio\nmedindo f(x) e, portanto, de área igual a B(f(x))2.\nII\nSe P é uma partição uniforme do intervalo [a, b], sendo\nP = {a = x0 < x1 < x2 < ... \n< xn = b}, tal que )x = xi !x i-1,\nentão \n para ci 0 [ xi, xi ! 1], 1< i < n.\nIII É igual a 2B o volume do sólido gerado pela rotação em\ntorno do eixo x da região do plano delimitada pelo\neixo x, o gráfico de \n e as retas x = 0 e x = 2.\nAssinale a opção correta.\nA\nApenas o item I está certo.\nB\nApenas o item III está certo.\nC\nApenas os itens I e II estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\ny\na\nb\nR\nx\ny\nx\nO\nS\nz",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q45_fig1.png",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q45_fig2.jpeg"
+      ],
+      "categorias": [
+        "Engenharia e Tecnologias"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -33333,7 +33489,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654317"
+      "criado_em": "2026-08-25T14:11:08.229359"
     },
     {
       "id_questao": "q46",
@@ -33364,6 +33520,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q46_fig1.png"
       ],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33382,7 +33541,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654320"
+      "criado_em": "2026-08-25T14:11:08.229363"
     },
     {
       "id_questao": "q47",
@@ -33419,6 +33578,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33437,7 +33599,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654325"
+      "criado_em": "2026-08-25T14:11:08.229367"
     },
     {
       "id_questao": "q48",
@@ -33466,6 +33628,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33484,7 +33650,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654329"
+      "criado_em": "2026-08-25T14:11:08.229371"
     },
     {
       "id_questao": "q49",
@@ -33522,6 +33688,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33540,7 +33711,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654333"
+      "criado_em": "2026-08-25T14:11:08.229376"
     },
     {
       "id_questao": "q50",
@@ -33564,7 +33735,7 @@
           "x0": 300.59999999999997,
           "y0": 55.0,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 411.2707214355469,
           "coluna": 2
         },
         {
@@ -33580,13 +33751,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q50.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q50.txt",
       "largura": 1154,
-      "altura": 6262,
+      "altura": 4653,
       "confianca": 0.9,
-      "texto_completo": "2\nCO\nÇÃO\nQUESTÃO 50\nConsidere, a seguir, o circuito combinatório, a tensão\nanalógica VA definida pela tabela I, e a tabela lógica\ndefinida pela tabela II.\ncircuito combinatório\ncircuito de comparação\nvA\nTabela I\nvA (em volts)\nS2\nS1\nS0\nvA < 1\n0\n0\n0\n1 < vA < 2\n0\n0\n1\n2 < vA < 3\n0\n1\n0\n3 < vA < 4\n0\n1\n1\n4 < vA < 5\n1\n0\n0\n5 < vA < 6\n1\n0\n1\n6 < vA < 7\n1\n1\n0\nvA > 7\n1\n1\n1\nTabela II\nXa\nXb\nXc\nXd\nXe\nXf\nXg\nS2\nS1\nS0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n1\n0\n0\n0\n0\n0\n0\n0\n0\n1\n1\n1\n0\n0\n0\n0\n0\n0\n1\n0\n1\n1\n1\n0\n0\n0\n0\n0\n1\n1\n1\n1\n1\n1\n0\n0\n0\n1\n0\n0\n1\n1\n1\n1\n1\n0\n0\n1\n0\n1\n1\n1\n1\n1\n1\n1\n0\n1\n1\n0\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\n0\nAnalise o circuito, os dados das tabelas I e II e as seguintes\nasserções.\nO circuito apresentado converte a tensão analógica vA em\numa palavra de três bits cujo valor binário é uma\nrepresentação quantizada da tensão vA, conforme\napresentado na tabela I\nporque\no circuito combinatório formado pelas portas lógicas\napresenta o comportamento dado pela tabela lógica II\nquando o circuito de comparação é excitado com uma\ntensão vA adequada.\nAssinale a opção correta, com relação às asserções acima.\nA\nAs duas asserções são proposições verdadeiras, e a\nsegunda é uma justificativa correta da primeira.\nB\nAs duas asserções são proposições verdadeiras, mas\na segunda não é uma justificativa correta da primeira.\nC\nA primeira asserção é uma proposição verdadeira, e a\nsegunda, uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e a\nsegunda, uma proposição verdadeira.\nE\nTanto a primeira quanto a segunda asserções são\nproposições falsas.\nRASCUNHO",
+      "texto_completo": "2\nCO\nÇÃO\nQUESTÃO 50\nConsidere, a seguir, o circuito combinatório, a tensão\nanalógica VA definida pela tabela I, e a tabela lógica\ndefinida pela tabela II.\ncircuito combinatório\ncircuito de comparação\nvA\nTabela I\nvA (em volts)\nS2\nS1\nS0\nvA < 1\n0\n0\n0\n1 < vA < 2\n0\n0\n1\n2 < vA < 3\n0\n1\n0\n3 < vA < 4\n0\n1\n1\n4 < vA < 5\n1\n0\n0\n5 < vA < 6\n1\n0\n1\n6 < vA < 7\n1\n1\n0\nvA > 7\n1\n1\n1\nTabela II\nXa\nXb\nXc\nXd\nXe\nXf\nXg\nS2\nS1\nS0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n1\n0\n0\n0\n0\n0\n0\n0\n0\n1\n1\n1\n0\n0\n0\n0\n0\n0\n1\n0\n1\n1\n1\n0\n0\n0\n0\n0\n1\n1\n1\n1\n1\n1\n0\n0\n0\n1\n0\n0\n1\n1\n1\n1\n1\n0\n0\n1\n0\n1\n1\n1\n1\n1\n1\n1\n0\n1\n1\n0\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\nAnalise o circuito, os dados das tabelas I e II e as seguintes\nasserções.\nO circuito apresentado converte a tensão analógica vA em\numa palavra de três bits cujo valor binário é uma\nrepresentação quantizada da tensão vA, conforme\napresentado na tabela I\nporque\no circuito combinatório formado pelas portas lógicas\napresenta o comportamento dado pela tabela lógica II\nquando o circuito de comparação é excitado com uma\ntensão vA adequada.\nAssinale a opção correta, com relação às asserções acima.\nA\nAs duas asserções são proposições verdadeiras, e a\nsegunda é uma justificativa correta da primeira.\nB\nAs duas asserções são proposições verdadeiras, mas\na segunda não é uma justificativa correta da primeira.\nC\nA primeira asserção é uma proposição verdadeira, e a\nsegunda, uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e a\nsegunda, uma proposição verdadeira.\nE\nTanto a primeira quanto a segunda asserções são\nproposições falsas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q50_fig1.png"
+      ],
+      "categorias": [
+        "Banco de Dados"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -33606,7 +33780,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654338"
+      "criado_em": "2026-08-25T14:11:08.229381"
     },
     {
       "id_questao": "q51",
@@ -33643,6 +33817,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33661,7 +33839,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654342"
+      "criado_em": "2026-08-25T14:11:08.229386"
     },
     {
       "id_questao": "q52",
@@ -33677,7 +33855,7 @@
           "x0": 300.59999999999997,
           "y0": 66.52682495117188,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 562.470703125,
           "coluna": 2
         },
         {
@@ -33693,12 +33871,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q52.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q52.txt",
       "largura": 2302,
-      "altura": 3154,
+      "altura": 2176,
       "confianca": 0.98,
-      "texto_completo": "1\nQUESTÃO 52\nA identificação e o tratamento de erros em\nprogramas de computador estão entre as tarefas dos\ncompiladores. Os erros de um programa podem ter\nvariados tipos e precisam ser identificados e tratados em\ndiferentes fases da compilação. Considere uma linguagem\nde programação que exige que as variáveis manipuladas\npor seus programas sejam previamente declaradas, não\npodendo haver duplicidade de identificadores para variáveis\nem um mesmo escopo. Considere, ainda, que a sintaxe\ndessa linguagem tenha sido definida por meio de uma\ngramática livre de contexto e as produções seguintes\ndefinam a forma das declarações de variáveis em seus\nprogramas.\nD ÷ TL; | TL; D\nT ÷ int | real | char\nL ÷ id | id,L\nConsidere os exemplos de sentenças — I e II — a seguir,\ncom a indicação — entre os delimitadores /* e */ — de\ndiferentes tipos de erros.\nI\nint: a, b; /* dois pontos após a palavra\nint */\nII\nint a,b; real a; /* declaração dupla da\nvariável a */\nA partir dessas informações, assinale a opção correta.\nA\nA identificação e a comunicação do erro em qualquer\numa das sentenças são funções do analisador léxico.\nB\nO compilador não tem meios para identificar e relatar\nerros como o da sentença I.\nC\nA identificação e a comunicação do erro na sentença\nI são funções da geração de código intermediário.\nD\nA identificação e a comunicação do erro na sentença\nII são funções do analisador léxico.\nE\nA identificação e a comunicação do erro na sentença\nII são funções da análise semântica.\nRASCUNHO",
+      "texto_completo": "QUESTÃO 52\nA identificação e o tratamento de erros em\nprogramas de computador estão entre as tarefas dos\ncompiladores. Os erros de um programa podem ter\nvariados tipos e precisam ser identificados e tratados em\ndiferentes fases da compilação. Considere uma linguagem\nde programação que exige que as variáveis manipuladas\npor seus programas sejam previamente declaradas, não\npodendo haver duplicidade de identificadores para variáveis\nem um mesmo escopo. Considere, ainda, que a sintaxe\ndessa linguagem tenha sido definida por meio de uma\ngramática livre de contexto e as produções seguintes\ndefinam a forma das declarações de variáveis em seus\nprogramas.\nD ÷ TL; | TL; D\nT ÷ int | real | char\nL ÷ id | id,L\nConsidere os exemplos de sentenças — I e II — a seguir,\ncom a indicação — entre os delimitadores /* e */ — de\ndiferentes tipos de erros.\nI\nint: a, b; /* dois pontos após a palavra\nint */\nII\nint a,b; real a; /* declaração dupla da\nvariável a */\nA partir dessas informações, assinale a opção correta.\nA\nA identificação e a comunicação do erro em qualquer\numa das sentenças são funções do analisador léxico.\nB\nO compilador não tem meios para identificar e relatar\nerros como o da sentença I.\nC\nA identificação e a comunicação do erro na sentença\nI são funções da geração de código intermediário.\nD\nA identificação e a comunicação do erro na sentença\nII são funções do analisador léxico.\nE\nA identificação e a comunicação do erro na sentença\nII são funções da análise semântica.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Teoria da Computação e Compiladores"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33717,7 +33898,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654346"
+      "criado_em": "2026-08-25T14:11:08.229390"
     },
     {
       "id_questao": "q53",
@@ -33746,6 +33927,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33764,7 +33948,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654350"
+      "criado_em": "2026-08-25T14:11:08.229394"
     },
     {
       "id_questao": "q55",
@@ -33779,7 +33963,7 @@
           "x0": 25.0,
           "y0": 66.52682495117188,
           "x1": 570.1999999999999,
-          "y1": 427.2867126464844,
+          "y1": 311.43072509765625,
           "coluna": 0
         }
       ],
@@ -33787,12 +33971,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q55.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q55.txt",
       "largura": 2302,
-      "altura": 1533,
+      "altura": 1050,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 53\nUm sinal a ser registrado por um dispositivo, em intervalos\nregulares de tempo t = 1, 2, 3, ..., n, resultará em uma seqüência\nde variáveis aleatórias contínuas X1, X2, ..., Xn. Considere, nessa\nseqüência, os eventos A e B apresentados a seguir, em que\nt = 2, 3, ..., n – 1.\nA = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0\nB = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0\nNa hipótese de a seqüência X1, X2, ..., Xn ser independente e que\nseja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes\nitens.\nI\nA probabilidade de ocorrer o evento A em uma subseqüência\n{Xt – 1, Xt, Xt + 1} é inferior a 0,3.\nII\nO número esperado das ocorrências dos eventos A ou B na\nseqüência X1, X2, ..., Xn é igual a \n.\nIII Os eventos A e B são mutuamente exclusivos e, por isso, são\nindependentes.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\nQUESTÃO 55\nConsidere que um sistema seja constituído por três\ncomponentes montados em paralelo que funcionam\nindependentemente. \nPara \ncada \num \ndesses\ncomponentes, a probabilidade de que uma falha\nocorra até o tempo t é dada por \n, em que\nt > 0. Os componentes, após falharem, são\nirrecuperáveis. Como os componentes estão\nmontados em paralelo, o sistema falha no instante\nem que todos os três componentes tiverem falhado.\nO sistema é também irrecuperável. Considerando a\nsituação apresentada, qual é a probabilidade de que\no sistema falhe até o tempo t ?\nA\nB\nC\nD\nE\nRASCUNHO",
+      "texto_completo": "QUESTÃO 53\nUm sinal a ser registrado por um dispositivo, em intervalos\nregulares de tempo t = 1, 2, 3, ..., n, resultará em uma seqüência\nde variáveis aleatórias contínuas X1, X2, ..., Xn. Considere, nessa\nseqüência, os eventos A e B apresentados a seguir, em que\nt = 2, 3, ..., n – 1.\nA = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0\nB = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0\nNa hipótese de a seqüência X1, X2, ..., Xn ser independente e que\nseja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes\nitens.\nI\nA probabilidade de ocorrer o evento A em uma subseqüência\n{Xt – 1, Xt, Xt + 1} é inferior a 0,3.\nII\nO número esperado das ocorrências dos eventos A ou B na\nseqüência X1, X2, ..., Xn é igual a \n.\nIII Os eventos A e B são mutuamente exclusivos e, por isso, são\nQUESTÃO 55\nConsidere que um sistema seja constituído por três\ncomponentes montados em paralelo que funcionam\nindependentemente. \nPara \ncada \num \ndesses\ncomponentes, a probabilidade de que uma falha\nocorra até o tempo t é dada por \n, em que\nt > 0. Os componentes, após falharem, são\nirrecuperáveis. Como os componentes estão\nmontados em paralelo, o sistema falha no instante\nem que todos os três componentes tiverem falhado.\nO sistema é também irrecuperável. Considerando a\nsituação apresentada, qual é a probabilidade de que\no sistema falhe até o tempo t ?\nA\nB\nC\nD\nE",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33811,7 +33998,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654354"
+      "criado_em": "2026-08-25T14:11:08.229398"
     },
     {
       "id_questao": "q54",
@@ -33849,6 +34036,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados",
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33867,7 +34059,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654358"
+      "criado_em": "2026-08-25T14:11:08.229403"
     },
     {
       "id_questao": "q56",
@@ -33896,6 +34088,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33914,7 +34109,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654362"
+      "criado_em": "2026-08-25T14:11:08.229407"
     },
     {
       "id_questao": "q57",
@@ -33951,6 +34146,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -33969,7 +34167,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654366"
+      "criado_em": "2026-08-25T14:11:08.229412"
     },
     {
       "id_questao": "q58",
@@ -33984,7 +34182,7 @@
           "x0": 300.59999999999997,
           "y0": 66.52682495117188,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 507.8707275390625,
           "coluna": 2
         }
       ],
@@ -33992,12 +34190,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q58.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q58.txt",
       "largura": 1154,
-      "altura": 3075,
+      "altura": 1869,
       "confianca": 0.98,
-      "texto_completo": "3\nem\nV, e\nser\ne de\npara\nal é\nnível\nque\no.\nados\na de\nsinal\nfará\ngico,\ndas\ns de\nnais\ne ser\nicas\nQUESTÃO 58\nConsiderando o mecanismo de tradução de\nendereços e portas (network address port translation\n– NAPT), para redes que utilizam os endereços IP\nprivados \n(10.0.0.0/8, \n172.16.0.0/12 \ne\n192.168.0.0/16), analise as asserções a seguir.\nAo passar por um roteador com NAPT, os\nendereços de origem nos pacotes originados pelas\nestações da rede privada são substituídos pelo\nendereço externo desse roteador\nporque\nnão há rotas na Internet para o encaminhamento de\npacotes destinados a endereços IP privados, de\nforma que pacotes destinados a esses endereços\nsão descartados ou rejeitados.\nEm relação às asserções acima, assinale a opção\ncorreta.\nA\nAs \nduas \nasserções \nsão \nproposições\nverdadeiras, e a segunda é uma justificativa\ncorreta da primeira.\nB\nAs \nduas \nasserções \nsão \nproposições\nverdadeiras, e a segunda não é uma justificativa\ncorreta da primeira.\nC\nA primeira asserção é uma proposição\nverdadeira, e a segunda é uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e\na segunda é uma proposição verdadeira.\nE\nAs duas asserções são proposições falsas.\nRASCUNHO",
+      "texto_completo": "em\nV, e\nser\ne de\npara\nal é\nnível\nque\no.\nados\na de\nsinal\nfará\ngico,\ndas\ns de\nQUESTÃO 58\nConsiderando o mecanismo de tradução de\nendereços e portas (network address port translation\n– NAPT), para redes que utilizam os endereços IP\nprivados \n(10.0.0.0/8, \n172.16.0.0/12 \ne\n192.168.0.0/16), analise as asserções a seguir.\nAo passar por um roteador com NAPT, os\nendereços de origem nos pacotes originados pelas\nestações da rede privada são substituídos pelo\nendereço externo desse roteador\nporque\nnão há rotas na Internet para o encaminhamento de\npacotes destinados a endereços IP privados, de\nforma que pacotes destinados a esses endereços\nsão descartados ou rejeitados.\nEm relação às asserções acima, assinale a opção\ncorreta.\nA\nAs \nduas \nasserções \nsão \nproposições\nverdadeiras, e a segunda é uma justificativa\ncorreta da primeira.\nB\nAs \nduas \nasserções \nsão \nproposições\nverdadeiras, e a segunda não é uma justificativa\ncorreta da primeira.\nC\nA primeira asserção é uma proposição\nverdadeira, e a segunda é uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e\na segunda é uma proposição verdadeira.\nE\nAs duas asserções são proposições falsas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34016,7 +34217,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654370"
+      "criado_em": "2026-08-25T14:11:08.229416"
     },
     {
       "id_questao": "qd59",
@@ -34031,7 +34232,7 @@
           "x0": 25.0,
           "y0": 64.48672485351562,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 397.35711669921875,
           "coluna": 0
         }
       ],
@@ -34039,12 +34240,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd59.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd59.txt",
       "largura": 2302,
-      "altura": 3084,
+      "altura": 1417,
       "confianca": 0.98,
-      "texto_completo": "24\nCO\nÇÃO\nQUESTÃO 59 — Discursiva\nNo projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.\nEscalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de\ntarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado\npara descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em\nbenefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas\ncom diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração\ndesta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.\nProtocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de\nprioridades. \nConsidere o conjunto de três tarefas com as seguintes características:\nI\nT1 tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante\nde chegada t1 = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do\nrecurso compartilhado R1 durante 2 ut. Para concluir, utiliza o recurso compartilhado R2 durante\n2 ut finais.\nII\nT2 tem prioridade 2, custo de execução total de 8 ut e instante de chegada t2 = 3. A partir de\nseu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2\ndurante 2 ut. \nIII T3 tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada\nt3 = 0. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso\ncompartilhado R1 durante 2 ut.\nA partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um\núnico processador seja possível, utilizando-se o protocolo de herança de prioridade.\n(valor: 10,0 pontos)\nRASCUNHO – QUESTÃO 59",
+      "texto_completo": "QUESTÃO 59 — Discursiva\nNo projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.\nEscalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de\ntarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado\npara descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em\nbenefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas\ncom diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração\ndesta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.\nProtocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de\nprioridades. \nConsidere o conjunto de três tarefas com as seguintes características:\nI\nT1 tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante\nde chegada t1 = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do\nrecurso compartilhado R1 durante 2 ut. Para concluir, utiliza o recurso compartilhado R2 durante\n2 ut finais.\nII\nT2 tem prioridade 2, custo de execução total de 8 ut e instante de chegada t2 = 3. A partir de\nseu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2\ndurante 2 ut. \nIII T3 tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada\nt3 = 0. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso\ncompartilhado R1 durante 2 ut.\nA partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um\núnico processador seja possível, utilizando-se o protocolo de herança de prioridade.\n(valor: 10,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34063,7 +34269,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654374"
+      "criado_em": "2026-08-25T14:11:08.229420"
     },
     {
       "id_questao": "qd60",
@@ -34079,7 +34285,7 @@
           "x0": 25.0,
           "y0": 64.48672485351562,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 362.3171081542969,
           "coluna": 0
         },
         {
@@ -34095,14 +34301,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.txt",
       "largura": 2302,
-      "altura": 4560,
+      "altura": 2747,
       "confianca": 0.98,
-      "texto_completo": "25\nCO\nÇÃO\nQUESTÃO 60 – DISCURSIVA\nPara transmissões de sinais em banda base, a largura de banda do canal limita a taxa de\ntransmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de\ntransmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação\na seguir.\nC = 2 × W bauds\nNo entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos\neletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,\né caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído\ntérmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e\napresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.\nC = W × log2 (1 + \n) bps\nTendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão\nmáxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16\ndiferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.\nA Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em\nbits por segundo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\nRASCUNHO – QUESTÃO 60 - A\nB Na presença de ruído térmico, de acordo com a lei de Shannon, qual a taxa de transmissão máxima do canal, em bits\npor segundo? Apresente os cálculos necessário e considere que log10 (1.023) = 3,01.\n(valor: 3,0 pontos)\nRASCUNHO – QUESTÃO 60 - B\nC Na presença de ruído térmico, é possível adotar mais de 16 níveis de sinalização no referido canal? Justifique.\n(valor: 4,0 pontos)\nRASCUNHO – QUESTÃO 60 - C\n\nAs questões de 61 a 80, a seguir, são específicas par\nBACHARELADO EM SIST\nFigura para a questão 61\nEstágios do ciclo d\nGerente do desenvolvimento\nde aplicações\nGerenciamento de aplicações\nCliente\nN\nDesenho e planejamento\nSuporte té\nAdministra\nValida\nserviço\nPlanejar\nserviços\nDefinir\npolíticas\nEstabelecer\nestratégias\nEstratégias, planos e requisitos\nGerente de serviços\nEntrega de serviços",
+      "texto_completo": "QUESTÃO 60 – DISCURSIVA\nPara transmissões de sinais em banda base, a largura de banda do canal limita a taxa de\ntransmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de\ntransmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação\na seguir.\nC = 2 × W bauds\nNo entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos\neletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,\né caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído\ntérmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e\napresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.\nC = W × log2 (1 + \n) bps\nTendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão\nmáxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16\ndiferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.\nA Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em\nbits por segundo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\n\nAs questões de 61 a 80, a seguir, são específicas par\nBACHARELADO EM SIST\nFigura para a questão 61\nEstágios do ciclo d\nGerente do desenvolvimento\nde aplicações\nGerenciamento de aplicações\nCliente\nN\nDesenho e planejamento\nSuporte té\nAdministra\nValida\nserviço\nPlanejar\nserviços\nDefinir\npolíticas\nEstabelecer\nestratégias\nEstratégias, planos e requisitos\nGerente de serviços\nEntrega de serviços",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd60_fig1.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd60_fig2.png"
+      ],
+      "categorias": [
+        "Engenharia de Software"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -34122,7 +34331,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654378"
+      "criado_em": "2026-08-25T14:11:08.229425"
     },
     {
       "id_questao": "q61",
@@ -34153,6 +34362,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q61_fig1.jpeg"
       ],
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34171,7 +34383,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654383"
+      "criado_em": "2026-08-25T14:11:08.229430"
     },
     {
       "id_questao": "q62",
@@ -34211,6 +34423,10 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q62_fig1.jpeg",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q62_fig2.png"
       ],
+      "categorias": [
+        "Governança e Gestão de TI",
+        "Formação Geral e Sociedade"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34229,7 +34445,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654388"
+      "criado_em": "2026-08-25T14:11:08.229435"
     },
     {
       "id_questao": "q63",
@@ -34269,6 +34485,10 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q63_fig1.jpeg"
       ],
+      "categorias": [
+        "Banco de Dados",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34287,7 +34507,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654392"
+      "criado_em": "2026-08-25T14:11:08.229447"
     },
     {
       "id_questao": "q64",
@@ -34318,6 +34538,9 @@
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q64_fig1.jpeg"
       ],
+      "categorias": [
+        "Inteligência Artificial e Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34336,7 +34559,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654539"
+      "criado_em": "2026-08-25T14:11:08.229451"
     },
     {
       "id_questao": "q65",
@@ -34373,6 +34596,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34391,7 +34617,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654543"
+      "criado_em": "2026-08-25T14:11:08.229456"
     },
     {
       "id_questao": "q66",
@@ -34420,6 +34646,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34438,7 +34669,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654547"
+      "criado_em": "2026-08-25T14:11:08.229460"
     },
     {
       "id_questao": "q67",
@@ -34476,6 +34707,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34494,7 +34728,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654552"
+      "criado_em": "2026-08-25T14:11:08.229465"
     },
     {
       "id_questao": "q68",
@@ -34532,6 +34766,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34550,7 +34787,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654556"
+      "criado_em": "2026-08-25T14:11:08.229470"
     },
     {
       "id_questao": "q69",
@@ -34579,6 +34816,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34597,7 +34837,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654560"
+      "criado_em": "2026-08-25T14:11:08.229474"
     },
     {
       "id_questao": "q70",
@@ -34634,6 +34874,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34652,7 +34896,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654564"
+      "criado_em": "2026-08-25T14:11:08.229482"
     },
     {
       "id_questao": "q71",
@@ -34681,6 +34925,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34699,7 +34946,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654568"
+      "criado_em": "2026-08-25T14:11:08.229487"
     },
     {
       "id_questao": "q72",
@@ -34737,6 +34984,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34755,7 +35005,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654572"
+      "criado_em": "2026-08-25T14:11:08.229492"
     },
     {
       "id_questao": "q73",
@@ -34770,7 +35020,7 @@
           "x0": 25.0,
           "y0": 68.44668579101562,
           "x1": 294.59999999999997,
-          "y1": 797.16,
+          "y1": 627.750732421875,
           "coluna": 1
         },
         {
@@ -34786,13 +35036,16 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q73.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q73.txt",
       "largura": 1154,
-      "altura": 3154,
+      "altura": 2448,
       "confianca": 0.98,
-      "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 73\nUma das técnicas que auxiliam na gerência de projet\nde software é o gráfico de atividades, por meio do qual\npossível calcular, por exemplo, a duração de um projeto, \natividades críticas e as atividades que possuem folga para s\nexecução. Nesse gráfico, os círculos representam os event\niniciais e finais de cada atividade, as arestas representam \natividades, e os números associados às arestas representa\na duração dessas atividades.\nTabela de custo de aceleração\natividade\nunidades de\naceleração\npermitidas\ncusto de aceleração por\nunidade de tempo (R$)\nC-F\n2\n50\nD-E\n1\n300\nE-F\n2\n100\nE-G\n1\n80\nE- H\n2\n75\nF- H\n2\n85\nConsiderando-se o gráfico de atividades acima e a tabela d\ncusto de aceleração das atividades da rede que podem s\naceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) pa\nque o tempo do projeto associado a esse gráfico seja reduzid\nem uma unidade de tempo e para que o custo total d\naceleração seja o menor possível?\nA\napenas a atividade (C-F)\nB\napenas as atividades (D-E) e (E-G)\nC\napenas a atividade (E-G) \nD\napenas as atividades (E-G) e (F-H)\nE\napenas a atividade (E-H)\nRASCUNHO",
+      "texto_completo": "QUESTÃO 73\nUma das técnicas que auxiliam na gerência de projet\nde software é o gráfico de atividades, por meio do qual\npossível calcular, por exemplo, a duração de um projeto, \natividades críticas e as atividades que possuem folga para s\nexecução. Nesse gráfico, os círculos representam os event\niniciais e finais de cada atividade, as arestas representam \natividades, e os números associados às arestas representa\na duração dessas atividades.\nTabela de custo de aceleração\natividade\nunidades de\naceleração\npermitidas\ncusto de aceleração por\nunidade de tempo (R$)\nC-F\n2\n50\nD-E\n1\n300\nE-F\n2\n100\nE-G\n1\n80\nE- H\n2\n75\nF- H\n2\n85\nConsiderando-se o gráfico de atividades acima e a tabela d\ncusto de aceleração das atividades da rede que podem s\naceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) pa\nque o tempo do projeto associado a esse gráfico seja reduzid\nem uma unidade de tempo e para que o custo total d\naceleração seja o menor possível?\nA\napenas a atividade (C-F)\nB\napenas as atividades (D-E) e (E-G)\nC\napenas a atividade (E-G) \nD\napenas as atividades (E-G) e (F-H)\nE\napenas a atividade (E-H)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q73_fig1.png"
+      ],
+      "categorias": [
+        "Banco de Dados"
       ],
       "status": "PENDENTE",
       "marcadores": [
@@ -34812,7 +35065,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654576"
+      "criado_em": "2026-08-25T14:11:08.229496"
     },
     {
       "id_questao": "q74",
@@ -34850,6 +35103,11 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Algoritmos e Estruturas de Dados",
+        "Engenharia de Software",
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34868,7 +35126,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654581"
+      "criado_em": "2026-08-25T14:11:08.229535"
     },
     {
       "id_questao": "q75",
@@ -34897,6 +35155,10 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Programação e POO",
+        "Redes e Segurança"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34915,7 +35177,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654584"
+      "criado_em": "2026-08-25T14:11:08.229550"
     },
     {
       "id_questao": "q76",
@@ -34944,6 +35206,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Banco de Dados"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -34962,7 +35227,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654588"
+      "criado_em": "2026-08-25T14:11:08.229557"
     },
     {
       "id_questao": "q77",
@@ -34986,7 +35251,7 @@
           "x0": 300.59999999999997,
           "y0": 55.0,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 265.1107177734375,
           "coluna": 2
         },
         {
@@ -35002,12 +35267,18 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q77.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q77.txt",
       "largura": 1154,
-      "altura": 6070,
+      "altura": 3852,
       "confianca": 0.9,
-      "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 77\nConsidere que você trabalhe em uma empresa de desenvo\nde software e que a empresa tenha decidido desenvolver u\neditor de texto para colocar no mercado. Esse editor deve\nsoftware que forneça recursos adicionais de apoio à \nembasado no estilo de escrita do usuário, o que o torna um \nde funcionalidade mais complexa. Considere que a empres\ndisponibilizar o produto no mercado em versões que agregu\nsuporte de forma gradativa, fazendo análise de risco para \nviabilidade de desenvolvimento de uma nova versão. Te\nescolher um modelo de processo para desenvolver esse \nconhecendo as características dos modelos existentes, \nmodelos abaixo, qual é o modelo apropriado para esse cas\nA\ncascata\nB\nespiral\nC\nRAD (rapid application development)\nD\nprototipação\nE\ncleanroom\n\n1\nem uma empresa\neços IP privados.\no nas redes dessa\nnsiderando que os\ndor WWW externo\nreços IP de origem\não a esse servidor?\nissor,\nguintes\nemail,\nemail,\nte e em\nBoyce-\nNormal\nBoyce-\nmail),\nmail),\nvimento\nm novo\nser um\nautoria,\noftware\ndeseje\nm esse\nvaliar a\nndo de\nditor, e\nntre os\no?\nRASCUNHO\nRoteador do Provedor\nWAN\n138.76.28.4\n10.0.0.254\n10.0.0.1\nComputador A\n10.0.0.2\nComputador B\n10.0.0.10\nLAN\nRoteador com NAPT\n\nTexto para as questões 78 e 79\nA Secretaria de Saúde de determinado município\nexecutando um projeto de automação do seu sistem\natendimento médico e laboratorial, atualmente manual. O ob\ndo projeto é melhorar a satisfação dos usuários com relaçã\nserviços prestados pela Secretaria. O sistema automatizado\ncontemplar os seguintes processos: marcação de con\nmanutenção de prontuário do paciente, além do pedido \nregistro de resultados de exame laboratorial.\nA Secretaria possui vários postos de saúde e cad\ndeles atende a um ou mais bairros do município. As consu\ncada paciente são realizadas no posto de saúde mais próxim\nonde ele reside. Os exames laboratoriais são realizados\nlaboratórios terceirizados e conveniados.\nA solução proposta pela equipe de desenvolvime\nimplantação da automação contempla, entre outros, os segu\naspectos:\n<\nsistema computacional do tipo cliente-servidor na web, em\ncada usuário cadastrado utiliza login e senha para fazer u\nsistema;\n<\numa aplicação, compartilhada por médicos e laborató\ngerencia o pedido e o registro de resultados dos exa\nDurante uma consulta o próprio médico registra o pedid\nexames no sistema;\n<\numa aplicação, compartilhada por médicos e pacie\npermite que ambos tenham acesso aos resultados\nexames laboratoriais; \n<\numa aplicação, compartilhada por médicos e pacientes\nautomatiza o prontuário dos pacientes, em que os registro\nprontuário, efetuados por cada médico para cada pac\nestão disponíveis apenas para o paciente e o m\nespecíficos. Além disso, cada médico pode fazer reg\nprivados no prontuário do paciente, apenas visíveis por \n<\numa aplicação, compartilhada por pacientes e atendente\npostos de saúde, que permite a marcação de consulta\npacientes e(ou) por atendentes. Esses atendentes atend\npaciente no balcão ou por telefone.",
+      "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 77\nConsidere que você trabalhe em uma empresa de desenvo\nde software e que a empresa tenha decidido desenvolver u\neditor de texto para colocar no mercado. Esse editor deve\nsoftware que forneça recursos adicionais de apoio à \nembasado no estilo de escrita do usuário, o que o torna um \nde funcionalidade mais complexa. Considere que a empres\ndisponibilizar o produto no mercado em versões que agregu\nsuporte de forma gradativa, fazendo análise de risco para \nviabilidade de desenvolvimento de uma nova versão. Te\nescolher um modelo de processo para desenvolver esse \nconhecendo as características dos modelos existentes, \nmodelos abaixo, qual é o modelo apropriado para esse cas\nA\ncascata\nB\nespiral\nC\nRAD (rapid application development)\nD\nprototipação\nE\ncleanroom\n\nem uma empresa\neços IP privados.\no nas redes dessa\nnsiderando que os\ndor WWW externo\nreços IP de origem\não a esse servidor?\nRoteador do Provedor\nWAN\n138.76.28.4\n10.0.0.254\n10.0.0.1\nComputador A\n10.0.0.2\nComputador B\n10.0.0.10\nLAN\nRoteador com NAPT\n\nTexto para as questões 78 e 79\nA Secretaria de Saúde de determinado município\nexecutando um projeto de automação do seu sistem\natendimento médico e laboratorial, atualmente manual. O ob\ndo projeto é melhorar a satisfação dos usuários com relaçã\nserviços prestados pela Secretaria. O sistema automatizado\ncontemplar os seguintes processos: marcação de con\nmanutenção de prontuário do paciente, além do pedido \nregistro de resultados de exame laboratorial.\nA Secretaria possui vários postos de saúde e cad\ndeles atende a um ou mais bairros do município. As consu\ncada paciente são realizadas no posto de saúde mais próxim\nonde ele reside. Os exames laboratoriais são realizados\nlaboratórios terceirizados e conveniados.\nA solução proposta pela equipe de desenvolvime\nimplantação da automação contempla, entre outros, os segu\naspectos:\n<\nsistema computacional do tipo cliente-servidor na web, em\ncada usuário cadastrado utiliza login e senha para fazer u\nsistema;\n<\numa aplicação, compartilhada por médicos e laborató\ngerencia o pedido e o registro de resultados dos exa\nDurante uma consulta o próprio médico registra o pedid\nexames no sistema;\n<\numa aplicação, compartilhada por médicos e pacie\npermite que ambos tenham acesso aos resultados\nexames laboratoriais; \n<\numa aplicação, compartilhada por médicos e pacientes\nautomatiza o prontuário dos pacientes, em que os registro\nprontuário, efetuados por cada médico para cada pac\nestão disponíveis apenas para o paciente e o m\nespecíficos. Além disso, cada médico pode fazer reg\nprivados no prontuário do paciente, apenas visíveis por \n<\numa aplicação, compartilhada por pacientes e atendente\npostos de saúde, que permite a marcação de consulta\npacientes e(ou) por atendentes. Esses atendentes atend\npaciente no balcão ou por telefone.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia de Software",
+        "Redes e Segurança",
+        "Sistemas Operacionais e Arquitetura",
+        "Governança e Gestão de TI"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -35026,7 +35297,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654593"
+      "criado_em": "2026-08-25T14:11:08.229564"
     },
     {
       "id_questao": "q78",
@@ -35063,6 +35334,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -35081,7 +35355,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654598"
+      "criado_em": "2026-08-25T14:11:08.229571"
     },
     {
       "id_questao": "qd79",
@@ -35096,7 +35370,7 @@
           "x0": 300.59999999999997,
           "y0": 68.44668579101562,
           "x1": 570.1999999999999,
-          "y1": 797.16,
+          "y1": 237.5704345703125,
           "coluna": 2
         }
       ],
@@ -35104,12 +35378,15 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.txt",
       "largura": 1154,
-      "altura": 3067,
+      "altura": 735,
       "confianca": 0.98,
-      "texto_completo": "2\nestá\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nto e\nntes\nque\no do\nrios,\nmes.\no de\nntes,\ndos\nque\ns em\nente,\ndico\nstros\nele;\ns de\n por\nem o\nque\nação\nque\no.\no na\ns de\numa\nados\nado,\nncia\nade.\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 79 - A\n1\n2\n3\n4\n5\n6\n7\n8\nB Descreva 2 riscos de segurança da informação\nque aumentam quando se substitui o sistema\natual pelo sistema proposto, e que são relativos\nà interação entre pacientes e os serviços da\nreferida secretaria de saúde. Um dos riscos deve\nser relativo à perda de disponibilidade e o outro,\nà perda de integridade.\n(valor: 5,0 pontos)\nRASCUNHO – QUESTÃO 79 - B\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
+      "texto_completo": "está\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nt\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -35128,7 +35405,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654602"
+      "criado_em": "2026-08-25T14:11:08.229575"
     },
     {
       "id_questao": "qd80",
@@ -35160,6 +35437,10 @@
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd80_fig1.png",
         "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd80_fig2.png"
       ],
+      "categorias": [
+        "Engenharia de Software",
+        "Programação e POO"
+      ],
       "status": "PENDENTE",
       "marcadores": [
         {
@@ -35178,7 +35459,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T12:48:05.654606"
+      "criado_em": "2026-08-25T14:11:08.229580"
     }
   ],
   "anomalias": [

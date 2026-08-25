@@ -36,6 +36,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q18_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -54,8 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:49:50.842955",
-  "categorias": [
-    "Governança e Gestão de TI"
-  ]
+  "criado_em": "2026-08-25T14:12:48.320994"
 }

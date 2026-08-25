@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.5325698852539,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 584.8255004882812,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q08.txt",
   "largura": 2185,
-  "altura": 2824,
+  "altura": 2199,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 08  \nQue é democracia? Em seu famoso discurso em Gett ysburg, Abraham Lincoln disse que “a democracia \né o governo do povo, feito para o povo e pelo povo, e responsável perante o povo”. O crédito desta \ndefi nição é, na verdade, de Daniel Webster, que a elaborou 33 anos antes de Lincoln em outro discurso. \nNesta ideia de “governo pelo povo e para o povo” surge uma questão essencial: e quando o povo esti ver \nem desacordo? E quando o povo ti ver preferências divergentes? O politólogo Arend Lijphart ressalta \nque há duas respostas principais: a resposta da “democracia majoritária” e a resposta da “democracia \nconsensual”. Na democracia majoritária, a resposta é simples e direta: deve-se governar para a maioria \ndo povo. A resposta alternati va, no modelo da democracia consensual é: deve-se governar para o máximo \npossível de pessoas.\n A virtude da democracia consensual é buscar consensos mais amplos no que é interesse de todos;\no desafi o da democracia consensual pressupõe lideranças políti cas mais maduras, tanto no governo \nquanto na oposição. Democratas genuínos têm aversão à ideia do totalitarismo e combatem os delírios \ndaqueles que desejam poder sem limites.\n Disponível em: htt ps://g1.globo.com/politi ca/blog/matheus-leitao/post/2020/02/25/democracia-consensual-contra-a-ti rania-da-maioria.ghtml. \nAcesso em: 2 maio 2020 (adaptado).\n A parti r dos argumentos expostos no texto, avalie as afi rmações a seguir.\nI.  O bem comum, a ser estabelecido por um governo democráti co, nem sempre está associado às \nopiniões da maioria do povo.\nII.  A democracia consensual é caracterizada pelo consenso a ser alcançado entre situação e oposição, \nnas decisões governamentais.\nIII.  Circunstâncias políti cas de polarização, marcadas pela alta competi ti vidade e combati vidade entre \nposições divergentes, caracterizam um modelo de democracia majoritária.\nIV.  Democracia consensual pressupõe que a situação políti ca no poder considere em suas decisões as\nnecessidades das minorias, no senti do de governar para todo o povo.\n É correto apenas o que se afi rma em\nA  I e II.\nB  I e IV.\nC  II e III.\nD  I, III e IV.\nE  II, III e IV.\nÁrea livre",
+  "texto_completo": "QUESTÃO 08  \nQue é democracia? Em seu famoso discurso em Gett ysburg, Abraham Lincoln disse que “a democracia \né o governo do povo, feito para o povo e pelo povo, e responsável perante o povo”. O crédito desta \ndefi nição é, na verdade, de Daniel Webster, que a elaborou 33 anos antes de Lincoln em outro discurso. \nNesta ideia de “governo pelo povo e para o povo” surge uma questão essencial: e quando o povo esti ver \nem desacordo? E quando o povo ti ver preferências divergentes? O politólogo Arend Lijphart ressalta \nque há duas respostas principais: a resposta da “democracia majoritária” e a resposta da “democracia \nconsensual”. Na democracia majoritária, a resposta é simples e direta: deve-se governar para a maioria \ndo povo. A resposta alternati va, no modelo da democracia consensual é: deve-se governar para o máximo \npossível de pessoas.\n A virtude da democracia consensual é buscar consensos mais amplos no que é interesse de todos;\no desafi o da democracia consensual pressupõe lideranças políti cas mais maduras, tanto no governo \nquanto na oposição. Democratas genuínos têm aversão à ideia do totalitarismo e combatem os delírios \ndaqueles que desejam poder sem limites.\n Disponível em: htt ps://g1.globo.com/politi ca/blog/matheus-leitao/post/2020/02/25/democracia-consensual-contra-a-ti rania-da-maioria.ghtml. \nAcesso em: 2 maio 2020 (adaptado).\n A parti r dos argumentos expostos no texto, avalie as afi rmações a seguir.\nI.  O bem comum, a ser estabelecido por um governo democráti co, nem sempre está associado às \nopiniões da maioria do povo.\nII.  A democracia consensual é caracterizada pelo consenso a ser alcançado entre situação e oposição, \nnas decisões governamentais.\nIII.  Circunstâncias políti cas de polarização, marcadas pela alta competi ti vidade e combati vidade entre \nposições divergentes, caracterizam um modelo de democracia majoritária.\nIV.  Democracia consensual pressupõe que a situação políti ca no poder considere em suas decisões as\nnecessidades das minorias, no senti do de governar para todo o povo.\n É correto apenas o que se afi rma em\nA  I e II.\nB  I e IV.\nC  II e III.\nD  I, III e IV.\nE  II, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:38.948909",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:33.727056"
 }

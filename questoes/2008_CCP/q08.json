@@ -31,6 +31,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q08_fig4.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q08_fig5.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -49,8 +50,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654138",
-  "categorias": [
-    "Redes e Segurança"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229186"
 }

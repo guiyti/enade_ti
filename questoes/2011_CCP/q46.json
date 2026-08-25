@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 56.173927307128906,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 590.00390625,
       "coluna": 1
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 2254,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n3\nQUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000\nÁREA LIVRE",
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577392",
-  "categorias": [
-    "Banco de Dados"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218710"
 }

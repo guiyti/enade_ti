@@ -56,7 +56,9 @@ def detect_page_columns(page: fitz.Page) -> Tuple[int, float]:
 def convert_pages_to_png(exam: Exam) -> List[PageData]:
     pdf_path = config.PROVAS_DIR / exam.arquivo
     output_dir = config.PAGINAS_DIR / exam.id_prova
+    web_paginas_dir = config.QUESTOES_DIR / exam.id_prova / "paginas"
     output_dir.mkdir(parents=True, exist_ok=True)
+    web_paginas_dir.mkdir(parents=True, exist_ok=True)
     
     doc = fitz.open(pdf_path)
     pages_data = []
@@ -68,7 +70,10 @@ def convert_pages_to_png(exam: Exam) -> List[PageData]:
         pix = page.get_pixmap(matrix=mat, alpha=False)
         
         img_path = output_dir / f"page_{page_num + 1:03d}.png"
+        web_img_path = web_paginas_dir / f"pagina_{page_num + 1}.png"
+        
         pix.save(str(img_path))
+        pix.save(str(web_img_path))
         
         width = pix.width
         height = pix.height

@@ -32,4 +32,3 @@ D	 Escalonamento por chave circular (round-robin);
 propício para sistemas de tempo real.
 E	 Escalonamento por prioridades; propício para 
 sistemas interativos.
-Área livre

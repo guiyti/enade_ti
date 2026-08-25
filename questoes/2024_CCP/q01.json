@@ -27,6 +27,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/figuras/q01_fig1.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,8 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153296",
-  "categorias": [
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490701"
 }

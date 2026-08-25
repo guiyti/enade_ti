@@ -18,4 +18,3 @@ D	 O subsistema gerado pela implementação dos requisitos no fim de uma iteraç
 pelo cliente como protótipo.
 E	 O documento de teste de usabilidade deve contemplar os critérios de acessibilidade para atender a 
 todos os usuários do sistema.
-Área livre

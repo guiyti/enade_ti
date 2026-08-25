@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 517.2482299804688,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 578.0078125,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q80.txt",
   "largura": 2475,
-  "altura": 1227,
+  "altura": 283,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n37\nCOMPUTAÇÃO\nj\n,\np\ng\nç\nQUESTÃO 80\t\nUma intervenção didática para explorar o conceito de generalização é distribuir cartões com os nomes Personagem, Mago e \nGuerreiro entre grupos de estudantes, solicitando que eles descrevam as ações mover, lançar feitiço e usar espada, de modo que\nA\t identifiquem quais ações são comuns a todos os personagens e quais são específicas de cada tipo.\nB\t atribuam todas as ações, mesmo que repetidas, a todos os personagens, ignorando suas diferenças.\nC\t concentrem todas as ações em um único cartão base para simplificar a organização.\nD\t escolham apenas um cartão para representar todas as ações, eliminando os demais.\nÁrea livre",
+  "texto_completo": "j\n,\np\ng\nç\nQUESTÃO 80\t\nUma intervenção didática para explorar o conceito de generalização é distribuir cartões com os nomes Personagem, Mago e \nGuerreiro entre grupos de estudantes, solicitando que eles descrevam as ações mover, lançar feitiço e usar espada, de modo que",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153784",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:13:48.491055"
 }

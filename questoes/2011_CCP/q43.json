@@ -46,6 +46,7 @@
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q43_fig19.jpeg",
     "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q43_fig20.jpeg"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -64,8 +65,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577380",
-  "categorias": [
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218698"
 }

@@ -27,6 +27,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q05_fig1.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -45,10 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654101",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados",
-    "Programação e POO",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229172"
 }

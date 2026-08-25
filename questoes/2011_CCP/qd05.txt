@@ -1,5 +1,4 @@
 EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-20
 QUESTÃO DISCURSIVA 5 
  
 As memórias cache são usadas para diminuir o tempo de acesso à memória principal, 
@@ -20,22 +19,6 @@ texto que contemple as organizações dessas memórias, demonstrando como são c
 palavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens 
 e desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada 
 uma delas. (valor: 10,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
 
 EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 ATENÇÃO!

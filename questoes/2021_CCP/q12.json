@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 413.8544006347656,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q12.txt",
   "largura": 2185,
-  "altura": 2822,
+  "altura": 1484,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 12\t\nA Lei Geral de Proteção de Dados Pessoais (LGPD) está em vigência desde o final de 2018 e tem por \nobjetivo regulamentar o tratamento de dados pessoais de clientes e usuários de empresas públicas \ne privadas. \nSobre a LGPD, avalie as afirmações a seguir.\nI.\t A lei reprime o uso indiscriminado de dados pessoais considerados sensíveis, como origem racial \nou étnica, convicção religiosa e opinião política, informados em cadastros pelos cidadãos.\nII.\t Os dados anonimizados não serão considerados pessoais, mesmo que, utilizando-se de recursos \npróprios ou tecnológicos avançados, o processo de anonimização possa ser revertido.\nIII.\t O indivíduo poderá exigir que uma empresa informe se possui dados pessoais dele bem como \nsolicitar formalmente que eles sejam corrigidos, atualizados ou eliminados.\nIV.\t A Autoridade Nacional de Proteção de Dados (ANPD) é responsável pela fiscalização e regulação \nda LGPD, prestando esclarecimentos, averiguando possíveis denúncias e modificando a legislação \npertinente quando necessário.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e III.\nC\t II e IV.\nD\t I, III e IV.\nE\t II, III e IV.\nÁrea livre",
+  "texto_completo": "QUESTÃO 12\t\nA Lei Geral de Proteção de Dados Pessoais (LGPD) está em vigência desde o final de 2018 e tem por \nobjetivo regulamentar o tratamento de dados pessoais de clientes e usuários de empresas públicas \ne privadas. \nSobre a LGPD, avalie as afirmações a seguir.\nI.\t A lei reprime o uso indiscriminado de dados pessoais considerados sensíveis, como origem racial \nou étnica, convicção religiosa e opinião política, informados em cadastros pelos cidadãos.\nII.\t Os dados anonimizados não serão considerados pessoais, mesmo que, utilizando-se de recursos \npróprios ou tecnológicos avançados, o processo de anonimização possa ser revertido.\nIII.\t O indivíduo poderá exigir que uma empresa informe se possui dados pessoais dele bem como \nsolicitar formalmente que eles sejam corrigidos, atualizados ou eliminados.\nIV.\t A Autoridade Nacional de Proteção de Dados (ANPD) é responsável pela fiscalização e regulação \nda LGPD, prestando esclarecimentos, averiguando possíveis denúncias e modificando a legislação \npertinente quando necessário.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e III.\nC\t II e IV.\nD\t I, III e IV.\nE\t II, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,10 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543583",
-  "categorias": [
-    "Sistemas Operacionais e Arquitetura",
-    "Governança e Gestão de TI",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187067"
 }

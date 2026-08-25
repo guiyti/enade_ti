@@ -48,10 +48,39 @@ export interface CategoryInfo {
   name: string;
   slug: string;
   count: number;
+  nativeCount?: number;
+  crossCount?: number;
   description: string;
   iconName: string;
   colorClass: string;
 }
+
+export const COURSE_DEFINITIONS: Record<
+  string,
+  { name: string; code: string; description: string; iconName: string; colorClass: string }
+> = {
+  CCP: {
+    name: "Ciência da Computação",
+    code: "CCP",
+    description: "Algoritmos, Teoria da Computação, Arquitetura, Sistemas Operacionais, Banco de Dados e IA.",
+    iconName: "Code2",
+    colorClass: "from-blue-600 to-indigo-700 text-blue-600 bg-blue-50 dark:bg-blue-950/40 border-blue-200 dark:border-blue-800",
+  },
+  ADS: {
+    name: "Análise e Desenvolvimento de Sistemas",
+    code: "ADS",
+    description: "Engenharia de Software, Programação Web, Banco de Dados, Requisitos e Metodologias Ágeis.",
+    iconName: "Boxes",
+    colorClass: "from-emerald-600 to-teal-700 text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-800",
+  },
+  GTI: {
+    name: "Gestão da Tecnologia da Informação",
+    code: "GTI",
+    description: "Governança de TI, ITIL, COBIT, Segurança da Informação, Redes, Gestão de Projetos e LGPD.",
+    iconName: "ShieldAlert",
+    colorClass: "from-purple-600 to-indigo-700 text-purple-600 bg-purple-50 dark:bg-purple-950/40 border-purple-200 dark:border-purple-800",
+  },
+};
 
 export const CATEGORY_DEFINITIONS: Record<
   string,
@@ -187,21 +216,53 @@ export async function getAllCategories(): Promise<CategoryInfo[]> {
     });
   }
 
-  // Include any extra categories discovered in data
-  for (const [name, count] of Object.entries(counts)) {
-    if (!CATEGORY_DEFINITIONS[name]) {
+  return result.sort((a, b) => b.count - a.count);
+}
+
+export async function getCategoriesByCourse(curso: string): Promise<CategoryInfo[]> {
+  const exams = await getAllExams();
+  const nativeCounts: Record<string, number> = {};
+  const crossCounts: Record<string, number> = {};
+
+  const targetCourse = curso.toUpperCase();
+
+  for (const exam of exams) {
+    const isNative = exam.curso.toUpperCase() === targetCourse;
+
+    for (const q of exam.questoes) {
+      const tags = q.categorias && q.categorias.length > 0 ? q.categorias : ["Engenharia e Tecnologias"];
+      for (const t of tags) {
+        if (isNative) {
+          nativeCounts[t] = (nativeCounts[t] || 0) + 1;
+        } else {
+          crossCounts[t] = (crossCounts[t] || 0) + 1;
+        }
+      }
+    }
+  }
+
+  const result: CategoryInfo[] = [];
+
+  for (const [name, def] of Object.entries(CATEGORY_DEFINITIONS)) {
+    const nCnt = nativeCounts[name] || 0;
+    const cCnt = crossCounts[name] || 0;
+    const total = nCnt + cCnt;
+
+    if (total > 0) {
       result.push({
         name,
         slug: slugifyCategory(name),
-        count,
-        description: `Questões da área de ${name}`,
-        iconName: "Layers",
-        colorClass: "from-slate-500 to-zinc-600 text-slate-600 bg-slate-50 border-slate-200",
+        count: total,
+        nativeCount: nCnt,
+        crossCount: cCnt,
+        description: def.description,
+        iconName: def.iconName,
+        colorClass: def.colorClass,
       });
     }
   }
 
-  return result.sort((a, b) => b.count - a.count);
+  return result.sort((a, b) => (b.nativeCount || 0) - (a.nativeCount || 0));
 }
 
 export async function getQuestionsByCategory(categorySlug: string): Promise<{
@@ -225,6 +286,42 @@ export async function getQuestionsByCategory(categorySlug: string): Promise<{
   }
 
   return { category, items };
+}
+
+export async function getQuestionsByCourseAndCategory(
+  curso: string,
+  categorySlug: string
+): Promise<{
+  category: CategoryInfo | null;
+  nativeItems: { exam: ExamData; question: QuestionData }[];
+  crossItems: { exam: ExamData; question: QuestionData }[];
+}> {
+  const exams = await getAllExams();
+  const allCategories = await getAllCategories();
+  const category = allCategories.find((c) => c.slug === categorySlug) || null;
+
+  const nativeItems: { exam: ExamData; question: QuestionData }[] = [];
+  const crossItems: { exam: ExamData; question: QuestionData }[] = [];
+  const targetCourse = curso.toUpperCase();
+
+  for (const exam of exams) {
+    const isNative = exam.curso.toUpperCase() === targetCourse;
+
+    for (const q of exam.questoes) {
+      const tags = q.categorias || [];
+      const matches = tags.some((t) => slugifyCategory(t) === categorySlug);
+
+      if (matches) {
+        if (isNative) {
+          nativeItems.push({ exam, question: q });
+        } else {
+          crossItems.push({ exam, question: q });
+        }
+      }
+    }
+  }
+
+  return { category, nativeItems, crossItems };
 }
 
 export async function getGlobalStats() {

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 495.757080078125,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q30.txt",
   "largura": 2185,
-  "altura": 2822,
+  "altura": 1826,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\t\nUm compilador é um software que traduz um programa descrito em uma linguagem de alto nível para \num programa equivalente em código de máquina para um processador. Em geral, um compilador não \nproduz diretamente o código de máquina, mas sim, um programa em linguagem simbólica (assembly) \nsemanticamente equivalente ao programa em linguagem de alto nível. O programa em linguagem \nsimbólica é, então, traduzido para o programa em linguagem de máquina através de montadores. \nPara realizar esta tarefa, o compilador executa a análise léxica, sintática e semântica do código-fonte \ndo programa que está sendo executado em linguagem abstrata para depois gerar o código de máquina.\nBRANCO, G. A. Jr.; TAMAE, R. Y. Uma breve introdução ao estudo e implementação de compiladores. \nRevista Científica Eletrônica de Psicologia. Ano V, n. 08, fev. 2008 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir.\nI.\t O analisador sintático tem a função de verificar se a sequência de símbolos gerada pelo analisador \nléxico compõe um programa válido ou não.\nII.\t Na análise léxica, o analisador irá identificar cada símbolo que tenha significado para linguagem, \ngerando a mesma classificação para Java, Pascal ou outra linguagem.\nIII.\t O analisador semântico utiliza o código fonte para verificar incoerências quanto ao significado das \nconstruções implementadas.\nIV.\t A fase de otimização do código procura melhorar o código intermediário, visando um código de \nmáquina mais rápido em termos de execução.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t II e IV.\nD\t I, II e III.\nE\t I, III e IV.\nÁrea livre",
+  "texto_completo": "QUESTÃO 30\t\nUm compilador é um software que traduz um programa descrito em uma linguagem de alto nível para \num programa equivalente em código de máquina para um processador. Em geral, um compilador não \nproduz diretamente o código de máquina, mas sim, um programa em linguagem simbólica (assembly) \nsemanticamente equivalente ao programa em linguagem de alto nível. O programa em linguagem \nsimbólica é, então, traduzido para o programa em linguagem de máquina através de montadores. \nPara realizar esta tarefa, o compilador executa a análise léxica, sintática e semântica do código-fonte \ndo programa que está sendo executado em linguagem abstrata para depois gerar o código de máquina.\nBRANCO, G. A. Jr.; TAMAE, R. Y. Uma breve introdução ao estudo e implementação de compiladores. \nRevista Científica Eletrônica de Psicologia. Ano V, n. 08, fev. 2008 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir.\nI.\t O analisador sintático tem a função de verificar se a sequência de símbolos gerada pelo analisador \nléxico compõe um programa válido ou não.\nII.\t Na análise léxica, o analisador irá identificar cada símbolo que tenha significado para linguagem, \ngerando a mesma classificação para Java, Pascal ou outra linguagem.\nIII.\t O analisador semântico utiliza o código fonte para verificar incoerências quanto ao significado das \nconstruções implementadas.\nIV.\t A fase de otimização do código procura melhorar o código intermediário, visando um código de \nmáquina mais rápido em termos de execução.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t II e IV.\nD\t I, II e III.\nE\t I, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,11 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:24.543657",
-  "categorias": [
-    "Programação e POO",
-    "Sistemas Operacionais e Arquitetura",
-    "Teoria da Computação e Compiladores",
-    "Inteligência Artificial e Dados"
-  ]
+  "criado_em": "2026-08-25T14:13:20.187139"
 }

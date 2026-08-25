@@ -11,7 +11,7 @@
       "x0": 293.28,
       "y0": 56.173927307128906,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 384.3438415527344,
       "coluna": 2
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 1397,
   "confianca": 0.98,
-  "texto_completo": "6\nQUESTÃO 42  \nSabendo que a principal tarefa de um sistema será de \nclassificação em domínios complexos, um gerente de \nprojetos precisa decidir como vai incorporar essa capa-\ncidade em um sistema computacional a fim de torná-lo \ninteligente. Existem diversas técnicas de inteligência \ncomputacional / artificial que possibilitam isso.\nNesse contexto, a técnica de inteligência artificial mais \nindicada para o gerente é\nA   lógica nebulosa.\nB   árvores de decisão.\nC   redes neurais artificiais.\nD   ACO (do inglês, Ant-Colony Optimization).\nE   PSO (do inglês, Particle Swarm Optimization).\nÁREA LIVRE",
+  "texto_completo": "QUESTÃO 42  \nSabendo que a principal tarefa de um sistema será de \nclassificação em domínios complexos, um gerente de \nprojetos precisa decidir como vai incorporar essa capa-\ncidade em um sistema computacional a fim de torná-lo \ninteligente. Existem diversas técnicas de inteligência \ncomputacional / artificial que possibilitam isso.\nNesse contexto, a técnica de inteligência artificial mais \nindicada para o gerente é\nA   lógica nebulosa.\nB   árvores de decisão.\nC   redes neurais artificiais.\nD   ACO (do inglês, Ant-Colony Optimization).\nE   PSO (do inglês, Particle Swarm Optimization).",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,8 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:33.577376",
-  "categorias": [
-    "Inteligência Artificial e Dados"
-  ]
+  "criado_em": "2026-08-25T14:11:35.218694"
 }

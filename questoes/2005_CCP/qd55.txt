@@ -1,6 +1,3 @@
-Á
-Ã
-19
 O grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,
 seja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve
 uma hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de
@@ -13,22 +10,3 @@ a) Que características um programa deve ter para que o uso de memória cache se
 b) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se
 utilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria
 vantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)
-item a)
-RASCUNHO
-1
-2
-3
-4
-5
-item b)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10

@@ -1,4 +1,3 @@
-3
 em
 V, e
 ser
@@ -15,9 +14,6 @@ fará
 gico,
 das
 s de
-nais
-e ser
-icas
 QUESTÃO 58
 Considerando o mecanismo de tradução de
 endereços e portas (network address port translation
@@ -62,4 +58,3 @@ A primeira asserção é uma proposição falsa, e
 a segunda é uma proposição verdadeira.
 E
 As duas asserções são proposições falsas.
-RASCUNHO

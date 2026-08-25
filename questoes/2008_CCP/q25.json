@@ -36,6 +36,7 @@
   "figuras": [
     "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q25_fig1.png"
   ],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -54,8 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654233",
-  "categorias": [
-    "Engenharia e Tecnologias"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229270"
 }

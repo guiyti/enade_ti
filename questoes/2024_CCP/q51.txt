@@ -1,5 +1,3 @@
-25PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025
-27
 p
 ,
 QUESTÃO 51	
@@ -15,10 +13,7 @@ exclusão e acesso por índice.
 C	 Criar cartões com condições do tipo: “Se o estudante estiver 
 usando camisa azul, então pule para a frente”, para que 
 sigam comandos baseados em condições.
-D	 Solicitar que o estudante dê instruções precisas, como se 
-programasse um robô, para que outro colega monte um 
-sanduíche, onde cada passo precisa estar em ordem lógica.
-Área livre
+D Solicitar que o estudante dê instruções precisas como se
 
 2025
 Texto para questões de 52 a 54

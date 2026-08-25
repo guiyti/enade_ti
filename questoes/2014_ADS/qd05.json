@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 96.5428466796875,
       "x1": 603.3199999999999,
-      "y1": 781.56,
+      "y1": 427.5469665527344,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/qd05.txt",
   "largura": 2440,
-  "altura": 3084,
+  "altura": 1609,
   "confianca": 0.98,
-  "texto_completo": "11\ndEIEK>K'/  ED  E\u0006>/^E E DE^EEsK>s/DEEdK DE ^/^dED ^\nQUESTÃO DISCURSIVA 5\nDĂƚƌŝǌĞƐ ŵƵůƟĚŝŵĞŶƐŝŽŶĂŝƐ ƐĆŽ ǀĞƚŽƌĞƐ ĐĂƉĂǌĞƐ ĚĞ ĂƌŵĂǌĞŶĂƌĞŵ ŵĂŝƐ ĚĞ ƵŵĂ ƉŽƐŝĕĆŽ ĚĞ ĐĂĚĂ ĞůĞŵĞŶƚŽ \nƋƵĞ ƐĞƌĄ ŝŶĚŝĐĂĚŽ ƉŽƌ ĚŽŝƐ ŽƵ ŵĂŝƐ şŶĚŝĐĞƐ͘  hŵ ĞǆĞŵƉůŽ ĚĞ ŵĂƚƌŝǌĞƐ ŵƵůƟĚŝŵĞŶƐŝŽŶĂŝƐ ƐĆŽ ĂƐ ŵĂƚƌŝǌĞƐ \nŵĂƚĞŵĄƟĐĂƐ͕  ƋƵĞ ƌĞƉƌĞƐĞŶƚĂŵ ǀĂůŽƌĞƐ ƚĂďƵůĂĚŽƐ Ğŵ ůŝŶŚĂƐ Ğ ĐŽůƵŶĂƐ͘\n01 algoritmo “matriz”\n02 var\n03 i, j : inteiro;\n04 m1 : vetor [1..3, 1..3] de inteiro;\n05 m2 : vetor [1..3, 1..3] de inteiro;\n06 inicio\n07 para i de 1 ate 3 faça\n08\n para j de 1 ate 3 faça\n09\n m1[i,j] := i + 1;\n10\n m2[i,j] := j + 1;\n11\n fimpara;\n12 fimpara;\n13 para i de 1 ate 3 faça\n14\n para j de 1 ate 3 faça\n15\n se (m1[i,j] = m2[i,j]) então\n16\n m1[i,j] := 0;\n17\n senão\n18\n m2[i,j] := 1;\n19\n fimse;\n20\n fimpara;\n21 fimpara;\n22 fimalgoritmo\nIŽŶƐŝĚĞƌĂŶĚŽ Ž ĂůŐŽƌŝƚŵŽ ĂĐŝŵĂ Ğ ĐŽŵ ďĂƐĞ ŶŽ ƚĞƐƚĞ ĚĞ ŵĞƐĂ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͘\nĂͿ   ƉƌĞƐĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽƐ ǀĞƚŽƌĞƐ m1 e m2 ĂŽ ƚĠƌŵŝŶŽ ĚĂ ĞǆĞĐƵĕĆŽ ĚĂ ůŝŶŚĂ 12͘  ;ǀĂůŽƌ͗  5͕ 0 ƉŽŶƚŽƐͿ\nďͿ   ƉƌĞƐĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽƐ ǀĞƚŽƌĞƐ m1 e m2 ĂŽ ƚĠƌŵŝŶŽ ĚĂ ĞǆĞĐƵĕĆŽ ĚĂ ůŝŶŚĂ 21͘  ;ǀĂůŽƌ͗  5͕ 0 ƉŽŶƚŽƐͿ\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R40201411*",
+  "texto_completo": "QUESTÃO DISCURSIVA 5\nDĂƚƌŝǌĞƐ ŵƵůƟĚŝŵĞŶƐŝŽŶĂŝƐ ƐĆŽ ǀĞƚŽƌĞƐ ĐĂƉĂǌĞƐ ĚĞ ĂƌŵĂǌĞŶĂƌĞŵ ŵĂŝƐ ĚĞ ƵŵĂ ƉŽƐŝĕĆŽ ĚĞ ĐĂĚĂ ĞůĞŵĞŶƚŽ \nƋƵĞ ƐĞƌĄ ŝŶĚŝĐĂĚŽ ƉŽƌ ĚŽŝƐ ŽƵ ŵĂŝƐ şŶĚŝĐĞƐ͘  hŵ ĞǆĞŵƉůŽ ĚĞ ŵĂƚƌŝǌĞƐ ŵƵůƟĚŝŵĞŶƐŝŽŶĂŝƐ ƐĆŽ ĂƐ ŵĂƚƌŝǌĞƐ \nŵĂƚĞŵĄƟĐĂƐ͕  ƋƵĞ ƌĞƉƌĞƐĞŶƚĂŵ ǀĂůŽƌĞƐ ƚĂďƵůĂĚŽƐ Ğŵ ůŝŶŚĂƐ Ğ ĐŽůƵŶĂƐ͘\n01 algoritmo “matriz”\n02 var\n03 i, j : inteiro;\n04 m1 : vetor [1..3, 1..3] de inteiro;\n05 m2 : vetor [1..3, 1..3] de inteiro;\n06 inicio\n07 para i de 1 ate 3 faça\n08\n para j de 1 ate 3 faça\n09\n m1[i,j] := i + 1;\n10\n m2[i,j] := j + 1;\n11\n fimpara;\n12 fimpara;\n13 para i de 1 ate 3 faça\n14\n para j de 1 ate 3 faça\n15\n se (m1[i,j] = m2[i,j]) então\n16\n m1[i,j] := 0;\n17\n senão\n18\n m2[i,j] := 1;\n19\n fimse;\n20\n fimpara;\n21 fimpara;\n22 fimalgoritmo\nIŽŶƐŝĚĞƌĂŶĚŽ Ž ĂůŐŽƌŝƚŵŽ ĂĐŝŵĂ Ğ ĐŽŵ ďĂƐĞ ŶŽ ƚĞƐƚĞ ĚĞ ŵĞƐĂ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͘\nĂͿ   ƉƌĞƐĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽƐ ǀĞƚŽƌĞƐ m1 e m2 ĂŽ ƚĠƌŵŝŶŽ ĚĂ ĞǆĞĐƵĕĆŽ ĚĂ ůŝŶŚĂ 12͘  ;ǀĂůŽƌ͗  5͕ 0 ƉŽŶƚŽƐͿ\nďͿ   ƉƌĞƐĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽƐ ǀĞƚŽƌĞƐ m1 e m2 ĂŽ ƚĠƌŵŝŶŽ ĚĂ ĞǆĞĐƵĕĆŽ ĚĂ ůŝŶŚĂ 21͘  ;ǀĂůŽƌ͗  5͕ 0 ƉŽŶƚŽƐͿ",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:46.822142",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
-  ]
+  "criado_em": "2026-08-25T14:11:47.903367"
 }

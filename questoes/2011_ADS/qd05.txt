@@ -1,5 +1,4 @@
 EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-21
 QUESTÃO DISCURSIVA 5 
  
 Jogos de tabuleiro são atividades comuns de entretenimento na vida cotidiana das 
@@ -32,19 +31,3 @@ a) calcule, armazene em uma estrutura e escreva em ordem a quantidade de grãos 
 (valor: 8,0 pontos)
 b) calcule, armazene em uma variável e escreva a quantidade total de grãos de trigo presentes no tabuleiro. 
 (valor: 2,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15

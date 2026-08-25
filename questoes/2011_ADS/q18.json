@@ -25,6 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,10 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:22.373474",
-  "categorias": [
-    "Engenharia de Software",
-    "Sistemas Operacionais e Arquitetura",
-    "Governança e Gestão de TI"
-  ]
+  "criado_em": "2026-08-25T14:11:24.235160"
 }

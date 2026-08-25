@@ -12,7 +12,7 @@
       "x0": 300.59999999999997,
       "y0": 66.52682495117188,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 562.470703125,
       "coluna": 2
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q52.txt",
   "largura": 2302,
-  "altura": 3154,
+  "altura": 2176,
   "confianca": 0.98,
-  "texto_completo": "1\nQUESTÃO 52\nA identificação e o tratamento de erros em\nprogramas de computador estão entre as tarefas dos\ncompiladores. Os erros de um programa podem ter\nvariados tipos e precisam ser identificados e tratados em\ndiferentes fases da compilação. Considere uma linguagem\nde programação que exige que as variáveis manipuladas\npor seus programas sejam previamente declaradas, não\npodendo haver duplicidade de identificadores para variáveis\nem um mesmo escopo. Considere, ainda, que a sintaxe\ndessa linguagem tenha sido definida por meio de uma\ngramática livre de contexto e as produções seguintes\ndefinam a forma das declarações de variáveis em seus\nprogramas.\nD ÷ TL; | TL; D\nT ÷ int | real | char\nL ÷ id | id,L\nConsidere os exemplos de sentenças — I e II — a seguir,\ncom a indicação — entre os delimitadores /* e */ — de\ndiferentes tipos de erros.\nI\nint: a, b; /* dois pontos após a palavra\nint */\nII\nint a,b; real a; /* declaração dupla da\nvariável a */\nA partir dessas informações, assinale a opção correta.\nA\nA identificação e a comunicação do erro em qualquer\numa das sentenças são funções do analisador léxico.\nB\nO compilador não tem meios para identificar e relatar\nerros como o da sentença I.\nC\nA identificação e a comunicação do erro na sentença\nI são funções da geração de código intermediário.\nD\nA identificação e a comunicação do erro na sentença\nII são funções do analisador léxico.\nE\nA identificação e a comunicação do erro na sentença\nII são funções da análise semântica.\nRASCUNHO",
+  "texto_completo": "QUESTÃO 52\nA identificação e o tratamento de erros em\nprogramas de computador estão entre as tarefas dos\ncompiladores. Os erros de um programa podem ter\nvariados tipos e precisam ser identificados e tratados em\ndiferentes fases da compilação. Considere uma linguagem\nde programação que exige que as variáveis manipuladas\npor seus programas sejam previamente declaradas, não\npodendo haver duplicidade de identificadores para variáveis\nem um mesmo escopo. Considere, ainda, que a sintaxe\ndessa linguagem tenha sido definida por meio de uma\ngramática livre de contexto e as produções seguintes\ndefinam a forma das declarações de variáveis em seus\nprogramas.\nD ÷ TL; | TL; D\nT ÷ int | real | char\nL ÷ id | id,L\nConsidere os exemplos de sentenças — I e II — a seguir,\ncom a indicação — entre os delimitadores /* e */ — de\ndiferentes tipos de erros.\nI\nint: a, b; /* dois pontos após a palavra\nint */\nII\nint a,b; real a; /* declaração dupla da\nvariável a */\nA partir dessas informações, assinale a opção correta.\nA\nA identificação e a comunicação do erro em qualquer\numa das sentenças são funções do analisador léxico.\nB\nO compilador não tem meios para identificar e relatar\nerros como o da sentença I.\nC\nA identificação e a comunicação do erro na sentença\nI são funções da geração de código intermediário.\nD\nA identificação e a comunicação do erro na sentença\nII são funções do analisador léxico.\nE\nA identificação e a comunicação do erro na sentença\nII são funções da análise semântica.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:48:05.654346",
-  "categorias": [
-    "Teoria da Computação e Compiladores"
-  ]
+  "criado_em": "2026-08-25T14:11:08.229390"
 }

@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 378.82293701171875,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 491.289794921875,
       "coluna": 0
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q15.txt",
   "largura": 2475,
-  "altura": 1948,
+  "altura": 643,
   "confianca": 0.98,
-  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nFORMAÇÃO GERAL DOCENTE\n10\ng\np\ng\nQUESTÃO 15\t\nO letramento científico representa uma competência essencial no contexto educacional e tem como finalidade proporcionar \nque os indivíduos compreendam, apliquem e sejam críticos ao conhecimento científico a ser utilizado em suas vidas cotidianas.\nSOUSA, L. Q.; ABREU, K. F. Análise de Estudos e Pesquisas sobre Letramento Científico. \nCadernos Cajuína, n. 4, 2024.\nConsiderando o que representa o letramento científico, a equipe gestora de uma escola planeja organizar uma palestra com o \nobjetivo de conscientizar a comunidade escolar de que a ciência\nA\t fundamenta-se no rigor metodológico como respaldo para os argumentos produzidos e apresentados publicamente.\nB\t respeita a liberdade individual e a livre tomada de decisão como direitos sobrepostos às escolhas coletivas.\nC\t permite a refutação de resultados amplamente aceitos em função de posicionamentos individuais.\nD\t busca a impessoalidade, a objetividade e a neutralidade, à parte de influências políticas.\nÁrea livre\n\n2025\n*R0404202511*",
+  "texto_completo": "g\np\ng\nQUESTÃO 15\t\nO letramento científico representa uma competência essencial no contexto educacional e tem como finalidade proporcionar \nque os indivíduos compreendam, apliquem e sejam críticos ao conhecimento científico a ser utilizado em suas vidas cotidianas.\nSOUSA, L. Q.; ABREU, K. F. Análise de Estudos e Pesquisas sobre Letramento Científico. \nCadernos Cajuína, n. 4, 2024.\nConsiderando o que representa o letramento científico, a equipe gestora de uma escola planeja organizar uma palestra com o \nobjetivo de conscientizar a comunidade escolar de que a ciência\n\n2025\n*R0404202511*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,8 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153378",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490777"
 }

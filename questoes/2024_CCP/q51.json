@@ -12,7 +12,7 @@
       "x0": 321.35999999999996,
       "y0": 462.40728759765625,
       "x1": 611.7199999999999,
-      "y1": 804.3599999999999,
+      "y1": 669.2188110351562,
       "coluna": 2
     },
     {
@@ -28,12 +28,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q51.txt",
   "largura": 2475,
-  "altura": 2193,
+  "altura": 1629,
   "confianca": 0.98,
-  "texto_completo": "25PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\n27\np\n,\nQUESTÃO 51\t\nConsiderando o contexto das escolas, qual a abordagem que \nrepresenta uma estratégia didático-pedagógica que utiliza a \nComputação Desplugada para o ensino de vetores?\nA\t Promover uma sequência de passos de dança com \ncomandos repetitivos, como “Repita 3 vezes: pular, girar, \nbater palmas”.\nB\t Organizar uma atividade em que os estudantes fiquem em \nfila e manipulem cartões numéricos, simulando inserção, \nexclusão e acesso por índice.\nC\t Criar cartões com condições do tipo: “Se o estudante estiver \nusando camisa azul, então pule para a frente”, para que \nsigam comandos baseados em condições.\nD\t Solicitar que o estudante dê instruções precisas, como se \nprogramasse um robô, para que outro colega monte um \nsanduíche, onde cada passo precisa estar em ordem lógica.\nÁrea livre\n\n2025\nTexto para questões de 52 a 54\nO Brasil, em 2022, contava com 18,6 milhões de pessoas com algum tipo de deficiência, o que representa 8,9% da população \ncom 2 anos ou mais. Desse total, segundo o IBGE, apenas 24,3% das pessoas com deficiência tinham acesso regular à internet. \nTais dados revelam a urgência de políticas públicas educacionais e práticas pedagógicas que não apenas ampliem o acesso, \nmas que também garantam a acessibilidade digital e comunicacional em sentido amplo. O educador deve adotar estratégias \npedagógicas que promovam a inclusão social e digital em sala de aula. Isso implica a seleção de tecnologias que atendam aos \ndiferentes tipos de deficiência — visual, auditiva, motora, intelectual e múltiplas — e que considerem diferentes linguagens: \nvisual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além da seleção adequada dos recursos, espera-se, também, \nque o professor desenvolva nos estudantes as competências investigativas e científicas, capazes de produzir e disseminar o \nconhecimento de forma crítica e colaborativa.\n*R0404202528*",
+  "texto_completo": "p\n,\nQUESTÃO 51\t\nConsiderando o contexto das escolas, qual a abordagem que \nrepresenta uma estratégia didático-pedagógica que utiliza a \nComputação Desplugada para o ensino de vetores?\nA\t Promover uma sequência de passos de dança com \ncomandos repetitivos, como “Repita 3 vezes: pular, girar, \nbater palmas”.\nB\t Organizar uma atividade em que os estudantes fiquem em \nfila e manipulem cartões numéricos, simulando inserção, \nexclusão e acesso por índice.\nC\t Criar cartões com condições do tipo: “Se o estudante estiver \nusando camisa azul, então pule para a frente”, para que \nsigam comandos baseados em condições.\nD Solicitar que o estudante dê instruções precisas como se\n\n2025\nTexto para questões de 52 a 54\nO Brasil, em 2022, contava com 18,6 milhões de pessoas com algum tipo de deficiência, o que representa 8,9% da população \ncom 2 anos ou mais. Desse total, segundo o IBGE, apenas 24,3% das pessoas com deficiência tinham acesso regular à internet. \nTais dados revelam a urgência de políticas públicas educacionais e práticas pedagógicas que não apenas ampliem o acesso, \nmas que também garantam a acessibilidade digital e comunicacional em sentido amplo. O educador deve adotar estratégias \npedagógicas que promovam a inclusão social e digital em sala de aula. Isso implica a seleção de tecnologias que atendam aos \ndiferentes tipos de deficiência — visual, auditiva, motora, intelectual e múltiplas — e que considerem diferentes linguagens: \nvisual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além da seleção adequada dos recursos, espera-se, também, \nque o professor desenvolva nos estudantes as competências investigativas e científicas, capazes de produzir e disseminar o \nconhecimento de forma crítica e colaborativa.\n*R0404202528*",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -52,10 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:55.153532",
-  "categorias": [
-    "Banco de Dados",
-    "Algoritmos e Estruturas de Dados",
-    "Formação Geral e Sociedade"
-  ]
+  "criado_em": "2026-08-25T14:13:48.490935"
 }

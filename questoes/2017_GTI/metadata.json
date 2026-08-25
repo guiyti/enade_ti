@@ -19,9 +19,12 @@
         4
       ],
       "largura": 2440,
-      "altura": 6008,
+      "altura": 3914,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/qd01.png",
       "caminho_json": "/questoes/2017_GTI/qd01.json",
@@ -37,9 +40,12 @@
         5
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 1834,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/qd02.png",
       "caminho_json": "/questoes/2017_GTI/qd02.json",
@@ -58,6 +64,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q01.png",
       "caminho_json": "/questoes/2017_GTI/q01.json",
@@ -76,6 +85,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q02.png",
       "caminho_json": "/questoes/2017_GTI/q02.json",
@@ -94,6 +106,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q03.png",
       "caminho_json": "/questoes/2017_GTI/q03.json",
@@ -112,6 +127,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q04.png",
       "caminho_json": "/questoes/2017_GTI/q04.json",
@@ -130,6 +148,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q05.png",
       "caminho_json": "/questoes/2017_GTI/q05.json",
@@ -148,6 +169,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q06.png",
       "caminho_json": "/questoes/2017_GTI/q06.json",
@@ -166,6 +190,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q07.png",
       "caminho_json": "/questoes/2017_GTI/q07.json",
@@ -184,6 +211,9 @@
       "altura": 3205,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q08.png",
       "caminho_json": "/questoes/2017_GTI/q08.json",
@@ -201,9 +231,12 @@
         16
       ],
       "largura": 2440,
-      "altura": 9056,
+      "altura": 4291,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/qd03.png",
       "caminho_json": "/questoes/2017_GTI/qd03.json",
@@ -221,6 +254,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q09.png",
       "caminho_json": "/questoes/2017_GTI/q09.json",
@@ -239,6 +275,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q10.png",
       "caminho_json": "/questoes/2017_GTI/q10.json",
@@ -256,6 +295,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q11.png",
       "caminho_json": "/questoes/2017_GTI/q11.json",
@@ -274,6 +316,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q12.png",
       "caminho_json": "/questoes/2017_GTI/q12.json",
@@ -291,6 +336,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q13.png",
       "caminho_json": "/questoes/2017_GTI/q13.json",
@@ -309,6 +357,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q14.png",
       "caminho_json": "/questoes/2017_GTI/q14.json",
@@ -326,6 +377,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q15.png",
       "caminho_json": "/questoes/2017_GTI/q15.json",
@@ -344,6 +398,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q16.png",
       "caminho_json": "/questoes/2017_GTI/q16.json",
@@ -362,6 +419,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q17.png",
       "caminho_json": "/questoes/2017_GTI/q17.json",
@@ -380,6 +440,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q18.png",
       "caminho_json": "/questoes/2017_GTI/q18.json",
@@ -399,6 +462,10 @@
       "altura": 6131,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados",
+        "Redes e Segurança"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q19.png",
       "caminho_json": "/questoes/2017_GTI/q19.json",
@@ -417,6 +484,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q20.png",
       "caminho_json": "/questoes/2017_GTI/q20.json",
@@ -435,6 +505,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q21.png",
       "caminho_json": "/questoes/2017_GTI/q21.json",
@@ -452,6 +525,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q22.png",
       "caminho_json": "/questoes/2017_GTI/q22.json",
@@ -470,6 +546,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q23.png",
       "caminho_json": "/questoes/2017_GTI/q23.json",
@@ -487,6 +566,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q24.png",
       "caminho_json": "/questoes/2017_GTI/q24.json",
@@ -505,6 +587,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q25.png",
       "caminho_json": "/questoes/2017_GTI/q25.json",
@@ -522,6 +607,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q26.png",
       "caminho_json": "/questoes/2017_GTI/q26.json",
@@ -540,6 +628,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q27.png",
       "caminho_json": "/questoes/2017_GTI/q27.json",
@@ -557,6 +648,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q28.png",
       "caminho_json": "/questoes/2017_GTI/q28.json",
@@ -575,6 +669,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q29.png",
       "caminho_json": "/questoes/2017_GTI/q29.json",
@@ -592,6 +689,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q30.png",
       "caminho_json": "/questoes/2017_GTI/q30.json",
@@ -610,6 +710,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q31.png",
       "caminho_json": "/questoes/2017_GTI/q31.json",
@@ -627,6 +730,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q32.png",
       "caminho_json": "/questoes/2017_GTI/q32.json",
@@ -645,6 +751,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q33.png",
       "caminho_json": "/questoes/2017_GTI/q33.json",
@@ -663,6 +772,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q34.png",
       "caminho_json": "/questoes/2017_GTI/q34.json",
@@ -680,6 +792,9 @@
       "altura": 2967,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Governança e Gestão de TI"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q35.png",
       "caminho_json": "/questoes/2017_GTI/q35.json",

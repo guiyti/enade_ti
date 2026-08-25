@@ -32,14 +32,6 @@ PESSOA(cpf: texto, nome: texto, codigo_pet: inteiro)
   codigo_pet referencia PET(codigo)
 D	 PET_PESSOA(codigo_pet: inteiro, nome_pet: texto, data_nascimento: data, cpf: texto, nome_pessoa: 
 texto, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto)
-E	 PESSOA(cpf: texto, nome: texto)
-	
-PET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, descricao_tipo_pet, 
-	
-adotante: texto)  
-	
-  adotante referencia PESSOA(cpf)
-Área livre
 cpf
 PESSOA
 (1,1)

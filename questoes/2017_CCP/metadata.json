@@ -19,9 +19,12 @@
         4
       ],
       "largura": 2440,
-      "altura": 6008,
+      "altura": 3914,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/qd01.png",
       "caminho_json": "/questoes/2017_CCP/qd01.json",
@@ -37,9 +40,12 @@
         5
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 1834,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Formação Geral e Sociedade"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/qd02.png",
       "caminho_json": "/questoes/2017_CCP/qd02.json",
@@ -58,6 +64,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q01.png",
       "caminho_json": "/questoes/2017_CCP/q01.json",
@@ -76,6 +85,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q02.png",
       "caminho_json": "/questoes/2017_CCP/q02.json",
@@ -94,6 +106,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q03.png",
       "caminho_json": "/questoes/2017_CCP/q03.json",
@@ -112,6 +127,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q04.png",
       "caminho_json": "/questoes/2017_CCP/q04.json",
@@ -130,6 +148,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q05.png",
       "caminho_json": "/questoes/2017_CCP/q05.json",
@@ -148,6 +169,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q06.png",
       "caminho_json": "/questoes/2017_CCP/q06.json",
@@ -166,6 +190,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q07.png",
       "caminho_json": "/questoes/2017_CCP/q07.json",
@@ -184,6 +211,9 @@
       "altura": 3199,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q08.png",
       "caminho_json": "/questoes/2017_CCP/q08.json",
@@ -201,9 +231,12 @@
         16
       ],
       "largura": 2440,
-      "altura": 9063,
+      "altura": 5167,
       "confianca": 0.9,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/qd03.png",
       "caminho_json": "/questoes/2017_CCP/qd03.json",
@@ -222,6 +255,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q09.png",
       "caminho_json": "/questoes/2017_CCP/q09.json",
@@ -239,6 +275,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q10.png",
       "caminho_json": "/questoes/2017_CCP/q10.json",
@@ -257,6 +296,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q11.png",
       "caminho_json": "/questoes/2017_CCP/q11.json",
@@ -275,6 +317,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Sistemas Operacionais e Arquitetura"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q12.png",
       "caminho_json": "/questoes/2017_CCP/q12.json",
@@ -292,6 +337,9 @@
       "altura": 1818,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q13.png",
       "caminho_json": "/questoes/2017_CCP/q13.json",
@@ -310,6 +358,9 @@
       "altura": 1318,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q14.png",
       "caminho_json": "/questoes/2017_CCP/q14.json",
@@ -327,6 +378,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q15.png",
       "caminho_json": "/questoes/2017_CCP/q15.json",
@@ -345,6 +399,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q16.png",
       "caminho_json": "/questoes/2017_CCP/q16.json",
@@ -362,6 +419,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q17.png",
       "caminho_json": "/questoes/2017_CCP/q17.json",
@@ -380,6 +440,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q18.png",
       "caminho_json": "/questoes/2017_CCP/q18.json",
@@ -398,6 +461,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Banco de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q19.png",
       "caminho_json": "/questoes/2017_CCP/q19.json",
@@ -415,6 +481,9 @@
       "altura": 1039,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q20.png",
       "caminho_json": "/questoes/2017_CCP/q20.json",
@@ -433,6 +502,9 @@
       "altura": 2097,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q21.png",
       "caminho_json": "/questoes/2017_CCP/q21.json",
@@ -450,6 +522,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q22.png",
       "caminho_json": "/questoes/2017_CCP/q22.json",
@@ -468,6 +543,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q23.png",
       "caminho_json": "/questoes/2017_CCP/q23.json",
@@ -485,6 +563,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q24.png",
       "caminho_json": "/questoes/2017_CCP/q24.json",
@@ -503,6 +584,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q25.png",
       "caminho_json": "/questoes/2017_CCP/q25.json",
@@ -520,6 +604,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q26.png",
       "caminho_json": "/questoes/2017_CCP/q26.json",
@@ -538,6 +625,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q27.png",
       "caminho_json": "/questoes/2017_CCP/q27.json",
@@ -555,6 +645,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q28.png",
       "caminho_json": "/questoes/2017_CCP/q28.json",
@@ -573,6 +666,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q29.png",
       "caminho_json": "/questoes/2017_CCP/q29.json",
@@ -591,6 +687,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q30.png",
       "caminho_json": "/questoes/2017_CCP/q30.json",
@@ -609,6 +708,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q31.png",
       "caminho_json": "/questoes/2017_CCP/q31.json",
@@ -627,6 +729,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q32.png",
       "caminho_json": "/questoes/2017_CCP/q32.json",
@@ -645,6 +750,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q33.png",
       "caminho_json": "/questoes/2017_CCP/q33.json",
@@ -663,6 +771,9 @@
       "altura": 3089,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Engenharia e Tecnologias"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q34.png",
       "caminho_json": "/questoes/2017_CCP/q34.json",
@@ -680,6 +791,9 @@
       "altura": 2967,
       "confianca": 0.98,
       "status": "PENDENTE",
+      "categorias": [
+        "Programação e POO"
+      ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q35.png",
       "caminho_json": "/questoes/2017_CCP/q35.json",

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 64.94654846191406,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 674.21875,
       "coluna": 0
     }
   ],
@@ -19,12 +19,13 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q16.txt",
   "largura": 2185,
-  "altura": 2822,
+  "altura": 2570,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 16\t\nUma ONG decidiu construir um hospital de campanha para tratamento de pacientes diagnosticados \ncom a Covid-19. Para auxiliar na gerência hospitalar, a ONG contratou alguns programadores voluntários \npara desenvolver um Sistema de Suporte à Decisão para Gestão Hospitalar. Esse sistema irá auxiliar no \nregistro de todos os procedimentos diários realizados no paciente que dá entrada no hospital, desde sua \ninternação até a saída, seja essa saída por recebimento de alta, por transferência ou óbito. O sistema foi \ntodo desenvolvido em Java de acordo com o Paradigma Orientado a Objetos. Durante o curto processo de \nanálise, devido à urgência, foram construídos diversos diagramas em UML (Unified Modeling Language). \nUm desses diagramas relaciona a interação entre os objetos do sistema, o Diagrama de Sequência. \nEsse diagrama é apresentado a seguir.\nConsiderando o Diagrama de Sequência apresentado, assinale a opção correta.\nA\t Leito é uma subclasse de UTI.\nB\t O método registraPaciente() é implementado por Paciente.\nC\t Todos os objetos foram criados no instante de execução do Caso de Uso representado.\nD\t O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.\nE\t A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação \ncorreta do Diagrama de Sequência representado.\nÁrea livre\n3: Consulta existência \nde leitos : \nconsultaLeitos()\n1: Registro do \nPaciente:\nregistraPaciente()\n4: Consulta \ndisponibilidade de UTI :\nconsultaUTI()\nUTI\nIntervencao\nLeito\nRegistro\nPaciente\n5: UTI gerada\n6: Leito Gerado\n2: Retorna o número\ndo paciente.\n7: Realiza Intervenção : realizaIntervencao()\n10: Intervenção Realizada\n11: Liberação do\nPaciente:\nliberaPaciente()\n12: Libera Leito\n8: realizaIntervencao()\n9: Intervenção\nRealizada\nLaço\nProﬁssional",
+  "texto_completo": "QUESTÃO 16\t\nUma ONG decidiu construir um hospital de campanha para tratamento de pacientes diagnosticados \ncom a Covid-19. Para auxiliar na gerência hospitalar, a ONG contratou alguns programadores voluntários \npara desenvolver um Sistema de Suporte à Decisão para Gestão Hospitalar. Esse sistema irá auxiliar no \nregistro de todos os procedimentos diários realizados no paciente que dá entrada no hospital, desde sua \ninternação até a saída, seja essa saída por recebimento de alta, por transferência ou óbito. O sistema foi \ntodo desenvolvido em Java de acordo com o Paradigma Orientado a Objetos. Durante o curto processo de \nanálise, devido à urgência, foram construídos diversos diagramas em UML (Unified Modeling Language). \nUm desses diagramas relaciona a interação entre os objetos do sistema, o Diagrama de Sequência. \nEsse diagrama é apresentado a seguir.\nConsiderando o Diagrama de Sequência apresentado, assinale a opção correta.\nA\t Leito é uma subclasse de UTI.\nB\t O método registraPaciente() é implementado por Paciente.\nC\t Todos os objetos foram criados no instante de execução do Caso de Uso representado.\nD\t O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.\nE\t A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação \ncorreta do Diagrama de Sequência representado.\n3: Consulta existência \nde leitos : \nconsultaLeitos()\n1: Registro do \nPaciente:\nregistraPaciente()\n4: Consulta \ndisponibilidade de UTI :\nconsultaUTI()\nUTI\nIntervencao\nLeito\nRegistro\nPaciente\n5: UTI gerada\n6: Leito Gerado\n2: Retorna o número\ndo paciente.\n7: Realiza Intervenção : realizaIntervencao()\n10: Intervenção Realizada\n11: Liberação do\nPaciente:\nliberaPaciente()\n12: Libera Leito\n8: realizaIntervencao()\n9: Intervenção\nRealizada\nLaço\nProﬁssional",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
+  "categorias": [],
   "status": "PENDENTE",
   "marcadores": [
     {
@@ -43,10 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T12:50:08.963298",
-  "categorias": [
-    "Engenharia de Software",
-    "Programação e POO",
-    "Sistemas Operacionais e Arquitetura"
-  ]
+  "criado_em": "2026-08-25T14:13:05.710811"
 }
