@@ -9,7 +9,7 @@
     {
       "pagina": 32,
       "x0": 25.0,
-      "y0": 176.4859161376953,
+      "y0": 84.02613830566406,
       "x1": 611.7199999999999,
       "y1": 344.86700439453125,
       "coluna": 0
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q65.txt",
   "largura": 2475,
-  "altura": 732,
+  "altura": 1117,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 65\t\nConsiderando que a turma tem dois estudantes com deficiência visual, qual estratégia deve ser adotada para ensinar a arquitetura \nde Von Neumann?\nA\tTrabalhar com modelo físico representativo da arquitetura de Von Neumann. Explorar a interação entre os blocos \nfuncionais por meio da mediação oral e da manipulação direta pelos estudantes.\nB\t Apresentar vídeo explicativo detalhado sobre a arquitetura de Von Neumann com narração e legendas. Aplicar uma avaliação \nformativa oral para verificar a apreensão dos conceitos pelos estudantes.\nC\t Disponibilizar aos estudantes, para estudo prévio, material em arquivos digitais compostos de textos explicativos e ilustrações \nsobre a arquitetura de Von Neumann. Sanar as dúvidas em aula.\nD\t Apresentar aos estudantes uma linha do tempo sobre a importância da arquitetura de Von Neumann para a evolução da \nComputação. Elucidar esses conceitos por meio de representações esquemáticas usando a lousa.",
+  "texto_completo": "Texto para questões de 65 a 67\nDurante o planejamento de uma sequência didática sobre Organização e Arquitetura de Computadores, um professor de \nComputação observou que sua turma de Ensino Médio está pouco engajada nas aulas teóricas. Nesse contexto, o professor \npretende promover o desenvolvimento das habilidades: 1. compreensão dos fundamentos e da interação básica dos elementos \nda arquitetura de Von Neumann e 2. aplicação dos conhecimentos de hierarquia de memórias, identificando os diversos tipos \ne suas características.\nQUESTÃO 65\t\nConsiderando que a turma tem dois estudantes com deficiência visual, qual estratégia deve ser adotada para ensinar a arquitetura \nde Von Neumann?\nA\tTrabalhar com modelo físico representativo da arquitetura de Von Neumann. Explorar a interação entre os blocos \nfuncionais por meio da mediação oral e da manipulação direta pelos estudantes.\nB\t Apresentar vídeo explicativo detalhado sobre a arquitetura de Von Neumann com narração e legendas. Aplicar uma avaliação \nformativa oral para verificar a apreensão dos conceitos pelos estudantes.\nC\t Disponibilizar aos estudantes, para estudo prévio, material em arquivos digitais compostos de textos explicativos e ilustrações \nsobre a arquitetura de Von Neumann. Sanar as dúvidas em aula.\nD\t Apresentar aos estudantes uma linha do tempo sobre a importância da arquitetura de Von Neumann para a evolução da \nComputação. Elucidar esses conceitos por meio de representações esquemáticas usando a lousa.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094525"
+  "criado_em": "2026-08-25T15:44:45.407701"
 }

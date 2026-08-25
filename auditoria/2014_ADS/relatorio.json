@@ -9,7 +9,7 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T15:05:39.970582",
+  "processado_em": "2026-08-25T15:41:46.873246",
   "paginas": [
     {
       "numero": 1,
@@ -17533,7 +17533,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963242"
+      "criado_em": "2026-08-25T15:41:58.502023"
     },
     {
       "id_questao": "qd02",
@@ -17592,7 +17592,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963281"
+      "criado_em": "2026-08-25T15:41:58.502052"
     },
     {
       "id_questao": "q01",
@@ -17622,7 +17622,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17642,7 +17642,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963288"
+      "criado_em": "2026-08-25T15:41:58.502058"
     },
     {
       "id_questao": "q02",
@@ -17681,7 +17681,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17701,7 +17701,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963295"
+      "criado_em": "2026-08-25T15:41:58.502063"
     },
     {
       "id_questao": "q03",
@@ -17740,7 +17740,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17760,7 +17760,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963301"
+      "criado_em": "2026-08-25T15:41:58.502069"
     },
     {
       "id_questao": "q04",
@@ -17798,7 +17798,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17818,7 +17818,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963307"
+      "criado_em": "2026-08-25T15:41:58.502073"
     },
     {
       "id_questao": "q05",
@@ -17857,7 +17857,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17877,7 +17877,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963313"
+      "criado_em": "2026-08-25T15:41:58.502078"
     },
     {
       "id_questao": "q06",
@@ -17916,7 +17916,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17936,7 +17936,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963319"
+      "criado_em": "2026-08-25T15:41:58.502083"
     },
     {
       "id_questao": "q07",
@@ -17974,7 +17974,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17994,7 +17994,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963325"
+      "criado_em": "2026-08-25T15:41:58.502087"
     },
     {
       "id_questao": "q08",
@@ -18033,7 +18033,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18053,7 +18053,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963331"
+      "criado_em": "2026-08-25T15:41:58.502092"
     },
     {
       "id_questao": "qd03",
@@ -18112,7 +18112,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963337"
+      "criado_em": "2026-08-25T15:41:58.502097"
     },
     {
       "id_questao": "qd04",
@@ -18151,7 +18151,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18171,7 +18171,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963343"
+      "criado_em": "2026-08-25T15:41:58.502101"
     },
     {
       "id_questao": "qd05",
@@ -18210,7 +18210,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18230,7 +18230,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963350"
+      "criado_em": "2026-08-25T15:41:58.502107"
     },
     {
       "id_questao": "q09",
@@ -18289,7 +18289,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963356"
+      "criado_em": "2026-08-25T15:41:58.502111"
     },
     {
       "id_questao": "q10",
@@ -18356,7 +18356,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963362"
+      "criado_em": "2026-08-25T15:41:58.502117"
     },
     {
       "id_questao": "q11",
@@ -18415,7 +18415,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963368"
+      "criado_em": "2026-08-25T15:41:58.502121"
     },
     {
       "id_questao": "q12",
@@ -18473,7 +18473,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963374"
+      "criado_em": "2026-08-25T15:41:58.502126"
     },
     {
       "id_questao": "q13",
@@ -18532,7 +18532,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963380"
+      "criado_em": "2026-08-25T15:41:58.502130"
     },
     {
       "id_questao": "q14",
@@ -18590,7 +18590,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963385"
+      "criado_em": "2026-08-25T15:41:58.502135"
     },
     {
       "id_questao": "q15",
@@ -18649,7 +18649,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963391"
+      "criado_em": "2026-08-25T15:41:58.502139"
     },
     {
       "id_questao": "q16",
@@ -18687,7 +18687,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18707,7 +18707,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963397"
+      "criado_em": "2026-08-25T15:41:58.502144"
     },
     {
       "id_questao": "q17",
@@ -18766,7 +18766,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963402"
+      "criado_em": "2026-08-25T15:41:58.502148"
     },
     {
       "id_questao": "q18",
@@ -18824,7 +18824,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963408"
+      "criado_em": "2026-08-25T15:41:58.502152"
     },
     {
       "id_questao": "q19",
@@ -18883,7 +18883,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963413"
+      "criado_em": "2026-08-25T15:41:58.502157"
     },
     {
       "id_questao": "q20",
@@ -18921,7 +18921,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18941,7 +18941,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963419"
+      "criado_em": "2026-08-25T15:41:58.502161"
     },
     {
       "id_questao": "q21",
@@ -19000,7 +19000,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963424"
+      "criado_em": "2026-08-25T15:41:58.502165"
     },
     {
       "id_questao": "q22",
@@ -19058,7 +19058,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963430"
+      "criado_em": "2026-08-25T15:41:58.502170"
     },
     {
       "id_questao": "q23",
@@ -19117,7 +19117,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963436"
+      "criado_em": "2026-08-25T15:41:58.502174"
     },
     {
       "id_questao": "q24",
@@ -19167,7 +19167,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963441"
+      "criado_em": "2026-08-25T15:41:58.502178"
     },
     {
       "id_questao": "q25",
@@ -19225,7 +19225,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963446"
+      "criado_em": "2026-08-25T15:41:58.502183"
     },
     {
       "id_questao": "q26",
@@ -19284,7 +19284,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963452"
+      "criado_em": "2026-08-25T15:41:58.502187"
     },
     {
       "id_questao": "q27",
@@ -19342,7 +19342,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963457"
+      "criado_em": "2026-08-25T15:41:58.502191"
     },
     {
       "id_questao": "q28",
@@ -19401,7 +19401,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963463"
+      "criado_em": "2026-08-25T15:41:58.502196"
     },
     {
       "id_questao": "q29",
@@ -19468,7 +19468,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963469"
+      "criado_em": "2026-08-25T15:41:58.502201"
     },
     {
       "id_questao": "q30",
@@ -19526,7 +19526,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963474"
+      "criado_em": "2026-08-25T15:41:58.502205"
     },
     {
       "id_questao": "q31",
@@ -19585,7 +19585,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963480"
+      "criado_em": "2026-08-25T15:41:58.502210"
     },
     {
       "id_questao": "q32",
@@ -19643,7 +19643,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963485"
+      "criado_em": "2026-08-25T15:41:58.502214"
     },
     {
       "id_questao": "q33",
@@ -19702,7 +19702,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963490"
+      "criado_em": "2026-08-25T15:41:58.502218"
     },
     {
       "id_questao": "q34",
@@ -19760,7 +19760,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963496"
+      "criado_em": "2026-08-25T15:41:58.502223"
     },
     {
       "id_questao": "q35",
@@ -19810,7 +19810,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:05:51.963501"
+      "criado_em": "2026-08-25T15:41:58.502227"
     }
   ],
   "anomalias": []

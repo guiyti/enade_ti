@@ -1,3 +1,11 @@
+Texto para questões de 78 a 80
+Um professor de Computação, que ministra disciplinas de Programação, percebeu a necessidade de usar linguagens 
+de programação que promovam a aprendizagem dos conceitos básicos de orientação a objetos para estudantes do 
+Ensino Fundamental. Para tornar o aprendizado mais lúdico e concreto, o professor propôs uma atividade em formato de 
+teatro, ambientada em uma história de fantasia épica, na qual as batalhas ocorrem com movimentos dos personagens com 
+base em formas geométricas e os estudantes atuam como os personagens. Os estudantes receberiam cartões com informações 
+de personagens, podendo descrever certas características e aspectos sobre a comunicação entre eles. Durante a encenação, os 
+estudantes deveriam simular essas interações.
 QUESTÃO 78	
 O uso pedagógico das formas geométricas e do posicionamento espacial dos estudantes auxilia a compreensão dos conceitos 
 de atributos e métodos ao abordar que

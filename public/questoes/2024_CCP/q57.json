@@ -3,8 +3,7 @@
   "numero": 57,
   "tipo": "OBJETIVA",
   "paginas": [
-    29,
-    30
+    29
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 717.9644165039062,
       "coluna": 0
-    },
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 83.01449584960938,
-      "x1": 611.7199999999999,
-      "y1": 170.63380432128906,
-      "coluna": 0
     }
   ],
   "caminho_png": "/questoes/2024_CCP/q57.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q57.txt",
   "largura": 2475,
-  "altura": 1198,
+  "altura": 817,
   "confianca": 0.98,
-  "texto_completo": "p\np\nQUESTÃO 57\t\nPara que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções \nmatemáticas, a técnica de programação que favorece essa integração baseia-se na\nA\t modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como \nfunções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.\nB\t utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis \ne bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica \nde uma função matemática.\nC\t aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em \npequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação \ncompleta dos dados.\nD\t elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as \noperações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.\n\nTexto para questões de 58 a 60\nEm uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades \ncom o desenvolvimento das habilidades: organizar ideias, resolver problemas por etapas e propor soluções em atividades \ninterdisciplinares. Os professores almejam ajudar os estudantes a decompor problemas complexos em partes menores, identificar \npadrões em situações semelhantes, abstrair informações essenciais e criar algoritmos simples para descrever soluções.",
+  "texto_completo": "p\np\nQUESTÃO 57\t\nPara que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções \nmatemáticas, a técnica de programação que favorece essa integração baseia-se na\nA\t modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como \nfunções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.\nB\t utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis \ne bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica \nde uma função matemática.\nC\t aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em \npequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação \ncompleta dos dados.\nD\t elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as \noperações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094491"
+  "criado_em": "2026-08-25T15:44:45.407560"
 }

@@ -10,19 +10,3 @@ C	 Aplicar um teste com questões objetivas que envolvam a análise de funções
 mensurar a habilidade técnica de cada estudante.
 D	 Dividir a turma em grupos homogêneos por desempenho, aplicando uma única tarefa escrita padrão com base em códigos 
 recursivos resolvidos em aula.
-
-Texto para questões de 48 a 51
-Duas escolas, A e B, localizadas em regiões diferentes, 
-enfrentam desafios distintos no ensino de algoritmos e 
-estruturas de dados. A Escola A possui um laboratório de 
-informática equipado com computadores individuais e acesso 
-à internet estável. Os estudantes já tiveram contato com lógica 
-de programação básica e noções introdutórias de algoritmos, 
-como fluxogramas e pseudocódigo. Já na Escola B, o acesso 
-à internet é instável e há apenas um laboratório com poucos 
-computadores que precisam ser compartilhados em pequenos 
-grupos de 5 estudantes. Esses estudantes, no entanto, 
-demonstram grande interesse em tecnologia e criatividade 
-para resolver problemas com os recursos disponíveis. A maioria 
-ainda não teve aulas de programação, mas já usou ferramentas 
-como planilhas.

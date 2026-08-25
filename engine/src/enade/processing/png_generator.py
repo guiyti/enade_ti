@@ -33,11 +33,18 @@ FOOTER_PATTERNS = [
 ]
 
 
-def clean_segment_noise(doc: fitz.Document, seg: Segment) -> Segment:
+RE_FUTURE_SHARED_CONTEXT = re.compile(
+    r'(?:Texto|Instru[çc][õoãa]es?|Quadro|Figura|Tabela|Considere|Com\s+base|O\s+texto).*?(?:quest[õo]es|responder)\s*(?:de\s+)?(\d{1,3})',
+    re.IGNORECASE
+)
+
+
+def clean_segment_noise(doc: fitz.Document, seg: Segment, q_num: int = 0) -> Segment:
     """
     Cleans unwanted noise from page borders:
     1. Removes top headers (barcodes, year headers, general course titles).
     2. Removes bottom footers (page numbers, typography lines, barcodes, ÁREA LIVRE / RASCUNHO boxes).
+    3. Truncates before shared context headers intended for upcoming questions (e.g. 'Texto para questões 70 a 72').
     Uses line-level precision so valid text above 'Área Livre' is NEVER cut off.
     """
     if seg.pagina <= 0 or seg.pagina > doc.page_count:
@@ -83,6 +90,16 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment) -> Segment:
                 if re.search(r'ÁREA\s*LIVRE|AREA\s*LIVRE|RASCUNHO', line_text, re.IGNORECASE):
                     if l_box[1] > new_y0 + 25.0:
                         new_y1 = min(new_y1, l_box[1] - 3.0)
+                        
+                # 4. Truncate before upcoming shared context (e.g. 'Texto para questões 70 a 72' in Q69)
+                m_ctx = RE_FUTURE_SHARED_CONTEXT.search(line_text)
+                if m_ctx and q_num > 0:
+                    try:
+                        target_start = int(m_ctx.group(1))
+                        if target_start > q_num and l_box[1] > new_y0 + 25.0:
+                            new_y1 = min(new_y1, l_box[1] - 4.0)
+                    except (ValueError, IndexError):
+                        pass
 
     except Exception as e:
         logger.warning(f"Erro ao limpar ruído de bordas do segmento (Pág {seg.pagina}): {e}")
@@ -216,8 +233,8 @@ def extract_and_save_question(
     figures_dir = output_dir / "figuras"
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # 1. Clean noise (Headers, Footers, Area Livre / Rascunhos)
-    cleaned_segments = [clean_segment_noise(doc, seg) for seg in question.segmentos]
+    # 1. Clean noise (Headers, Footers, Area Livre / Rascunhos, and future shared contexts)
+    cleaned_segments = [clean_segment_noise(doc, seg, question.numero) for seg in question.segmentos]
     question.segmentos = cleaned_segments
     
     segment_images = []

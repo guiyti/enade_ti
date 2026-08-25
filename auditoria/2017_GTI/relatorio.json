@@ -9,7 +9,7 @@
   "questoes_extraidas": 38,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T15:06:58.845389",
+  "processado_em": "2026-08-25T15:43:03.841035",
   "paginas": [
     {
       "numero": 1,
@@ -16222,7 +16222,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278613"
+      "criado_em": "2026-08-25T15:43:16.379383"
     },
     {
       "id_questao": "qd02",
@@ -16272,7 +16272,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278634"
+      "criado_em": "2026-08-25T15:43:16.379398"
     },
     {
       "id_questao": "q01",
@@ -16302,7 +16302,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16322,7 +16322,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278640"
+      "criado_em": "2026-08-25T15:43:16.379404"
     },
     {
       "id_questao": "q02",
@@ -16352,7 +16352,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16372,7 +16372,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278645"
+      "criado_em": "2026-08-25T15:43:16.379409"
     },
     {
       "id_questao": "q03",
@@ -16402,7 +16402,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16422,7 +16422,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278649"
+      "criado_em": "2026-08-25T15:43:16.379414"
     },
     {
       "id_questao": "q04",
@@ -16454,7 +16454,7 @@
         "/questoes/2017_GTI/figuras/q04_fig1.jpeg"
       ],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16474,7 +16474,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278653"
+      "criado_em": "2026-08-25T15:43:16.379420"
     },
     {
       "id_questao": "q05",
@@ -16506,7 +16506,7 @@
         "/questoes/2017_GTI/figuras/q05_fig1.jpeg"
       ],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16526,7 +16526,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278657"
+      "criado_em": "2026-08-25T15:43:16.379425"
     },
     {
       "id_questao": "q06",
@@ -16556,7 +16556,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16576,7 +16576,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278662"
+      "criado_em": "2026-08-25T15:43:16.379429"
     },
     {
       "id_questao": "q07",
@@ -16606,7 +16606,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16626,7 +16626,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278666"
+      "criado_em": "2026-08-25T15:43:16.379434"
     },
     {
       "id_questao": "q08",
@@ -16667,7 +16667,7 @@
         "/questoes/2017_GTI/figuras/q08_fig1.jpeg"
       ],
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16687,7 +16687,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278671"
+      "criado_em": "2026-08-25T15:43:16.379440"
     },
     {
       "id_questao": "qd03",
@@ -16755,7 +16755,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278677"
+      "criado_em": "2026-08-25T15:43:16.379446"
     },
     {
       "id_questao": "q09",
@@ -16805,7 +16805,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278682"
+      "criado_em": "2026-08-25T15:43:16.379451"
     },
     {
       "id_questao": "q10",
@@ -16855,7 +16855,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278686"
+      "criado_em": "2026-08-25T15:43:16.379456"
     },
     {
       "id_questao": "q11",
@@ -16905,7 +16905,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278690"
+      "criado_em": "2026-08-25T15:43:16.379460"
     },
     {
       "id_questao": "q12",
@@ -16955,7 +16955,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278694"
+      "criado_em": "2026-08-25T15:43:16.379465"
     },
     {
       "id_questao": "q13",
@@ -17005,7 +17005,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278698"
+      "criado_em": "2026-08-25T15:43:16.379469"
     },
     {
       "id_questao": "q14",
@@ -17055,7 +17055,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278702"
+      "criado_em": "2026-08-25T15:43:16.379474"
     },
     {
       "id_questao": "q15",
@@ -17105,7 +17105,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278706"
+      "criado_em": "2026-08-25T15:43:16.379478"
     },
     {
       "id_questao": "q16",
@@ -17155,7 +17155,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278710"
+      "criado_em": "2026-08-25T15:43:16.379483"
     },
     {
       "id_questao": "q17",
@@ -17205,7 +17205,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278714"
+      "criado_em": "2026-08-25T15:43:16.379487"
     },
     {
       "id_questao": "q18",
@@ -17257,7 +17257,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278718"
+      "criado_em": "2026-08-25T15:43:16.379492"
     },
     {
       "id_questao": "q19",
@@ -17298,8 +17298,7 @@
         "/questoes/2017_GTI/figuras/q19_fig1.jpeg"
       ],
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança"
+        "Governança e Gestão de TI"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17319,7 +17318,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278722"
+      "criado_em": "2026-08-25T15:43:16.379497"
     },
     {
       "id_questao": "q20",
@@ -17371,7 +17370,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278727"
+      "criado_em": "2026-08-25T15:43:16.379502"
     },
     {
       "id_questao": "q21",
@@ -17421,7 +17420,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278731"
+      "criado_em": "2026-08-25T15:43:16.379507"
     },
     {
       "id_questao": "q22",
@@ -17471,7 +17470,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278735"
+      "criado_em": "2026-08-25T15:43:16.379511"
     },
     {
       "id_questao": "q23",
@@ -17521,7 +17520,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278739"
+      "criado_em": "2026-08-25T15:43:16.379516"
     },
     {
       "id_questao": "q24",
@@ -17571,7 +17570,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278743"
+      "criado_em": "2026-08-25T15:43:16.379521"
     },
     {
       "id_questao": "q25",
@@ -17621,7 +17620,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278747"
+      "criado_em": "2026-08-25T15:43:16.379525"
     },
     {
       "id_questao": "q26",
@@ -17671,7 +17670,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278751"
+      "criado_em": "2026-08-25T15:43:16.379529"
     },
     {
       "id_questao": "q27",
@@ -17721,7 +17720,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278755"
+      "criado_em": "2026-08-25T15:43:16.379534"
     },
     {
       "id_questao": "q28",
@@ -17771,7 +17770,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278759"
+      "criado_em": "2026-08-25T15:43:16.379538"
     },
     {
       "id_questao": "q29",
@@ -17821,7 +17820,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278763"
+      "criado_em": "2026-08-25T15:43:16.379543"
     },
     {
       "id_questao": "q30",
@@ -17871,7 +17870,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278766"
+      "criado_em": "2026-08-25T15:43:16.379547"
     },
     {
       "id_questao": "q31",
@@ -17921,7 +17920,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278771"
+      "criado_em": "2026-08-25T15:43:16.379551"
     },
     {
       "id_questao": "q32",
@@ -17971,7 +17970,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278775"
+      "criado_em": "2026-08-25T15:43:16.379556"
     },
     {
       "id_questao": "q33",
@@ -18021,7 +18020,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278779"
+      "criado_em": "2026-08-25T15:43:16.379560"
     },
     {
       "id_questao": "q34",
@@ -18071,7 +18070,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278782"
+      "criado_em": "2026-08-25T15:43:16.379564"
     },
     {
       "id_questao": "q35",
@@ -18121,7 +18120,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:11.278787"
+      "criado_em": "2026-08-25T15:43:16.379569"
     }
   ],
   "anomalias": []

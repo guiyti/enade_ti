@@ -62,7 +62,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q01.png",
@@ -82,7 +82,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q02.png",
@@ -102,7 +102,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q03.png",
@@ -122,7 +122,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q04.png",
@@ -142,7 +142,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q05.png",
@@ -162,7 +162,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q06.png",
@@ -182,7 +182,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q07.png",
@@ -203,7 +203,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q08.png",
@@ -227,7 +227,7 @@
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/qd03.png",
@@ -447,8 +447,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q19.png",
@@ -569,7 +568,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q25.png",
@@ -610,7 +609,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q27.png",
@@ -732,7 +731,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_ADS/q33.png",

@@ -60,21 +60,3 @@ RASCUNHO
 26
 27
 28
-
-Texto para questões de 31 a 33
-Durante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios 
-da orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na 
-figura define a classe Triangulo, contendo como atributos os lados do triângulo e como métodos as operações para atribuir 
-e retornar os valores dos lados, calcular área e calcular o perímetro.
-Triangulo
-lado1: inteiro
-lado2: inteiro
-lado3: inteiro
-atribuirLado1(lado1: inteiro): vazio
-atribuirLado2(lado2: inteiro): vazio
-atribuirLado3(lado3: inteiro): vazio
-retornaLado1(  ): inteiro
-retornaLado2(  ): inteiro
-retornaLado3(  ): inteiro
-calcularArea(  ): real
-calcularPerimetro(  ): inteiro

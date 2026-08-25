@@ -21,7 +21,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q01.png",
@@ -41,7 +41,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -102,8 +101,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -124,7 +121,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -165,7 +161,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q08.png",
@@ -205,7 +201,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -246,9 +241,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q10.png",
@@ -268,9 +261,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q11.png",
@@ -290,8 +281,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q12.png",
@@ -311,7 +301,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q13.png",
@@ -351,8 +341,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Formação Geral e Sociedade"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q15.png",
@@ -392,7 +381,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q17.png",
@@ -412,9 +401,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q18.png",
@@ -454,7 +441,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Engenharia de Software",
         "Programação e POO"
       ],
@@ -536,7 +522,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q24.png",
@@ -556,7 +542,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q25.png",
@@ -576,8 +562,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q26.png",
@@ -597,8 +582,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q27.png",
@@ -618,8 +602,8 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais e Arquitetura",
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q28.png",
@@ -679,8 +663,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q31.png",
@@ -700,8 +683,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q32.png",
@@ -741,7 +723,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/q34.png",
@@ -781,8 +763,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/qd03.png",
@@ -802,7 +783,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/qd04.png",
@@ -822,7 +803,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2011_ADS/qd05.png",

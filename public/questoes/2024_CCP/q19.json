@@ -3,8 +3,7 @@
   "numero": 19,
   "tipo": "OBJETIVA",
   "paginas": [
-    12,
-    13
+    12
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 489.2340087890625,
       "coluna": 0
-    },
-    {
-      "pagina": 13,
-      "x0": 25.0,
-      "y0": 83.01449584960938,
-      "x1": 611.7199999999999,
-      "y1": 387.780517578125,
-      "coluna": 0
     }
   ],
   "caminho_png": "/questoes/2024_CCP/q19.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q19.txt",
   "largura": 2475,
-  "altura": 1970,
+  "altura": 684,
   "confianca": 0.98,
-  "texto_completo": "p\nj\np\nq\np\np\nQUESTÃO 19\t\nAo realizar a matrícula em uma escola, uma estudante de 15 anos e seus pais solicitaram à secretaria acadêmica o uso de nome \nsocial, já que na certidão de nascimento consta uma identificação masculina. Eles queriam que o nome social fosse usado em \nsala de aula e em documentos internos da instituição, como chamada, boletins e carteirinha estudantil. No entanto, a direção, \nao tomar ciência do caso, recusou o pedido, alegando que, sem a alteração no registro civil, seria impossível atender à solicitação.\nDiante do caso, com base na Resolução MEC n. 1/2018, que trata do uso do nome social, a gestão deve\nA\t permitir o uso do nome social de maneira informal, mantendo os registros escolares internos.\nB\t convocar o conselho estudantil para deliberar sobre o caso, por se tratar de uma questão interna da escola.\nC\t acatar o pedido quando o nome social for oficialmente retificado no registro civil da estudante.\nD\t atender ao pedido mediante formalização da solicitação pelos responsáveis legais da estudante.\n\nTexto para questões 20 e 21\nTEXTO 1\nAs questões ambientais são um tema de preocupação social, econômica e política que perpassam a escola. Elas aparecem na \nesfera política quando o governo federal reconhece a importância de sediar em Belém, no Pará, a 30ª Conferência das Nações \nUnidas sobre Mudanças Climáticas (COP30). O evento trará um olhar global sobre as soluções para os desafios do clima. É urgente \nque abordemos, de forma abrangente e sinérgica, as crises globais interligadas à mudança do clima e à perda de biodiversidade \nno contexto mais amplo da realização dos Objetivos de Desenvolvimento Sustentável (ODS). Ao fazer isso, devemos continuar \nreconhecendo e expandindo o papel e as contribuições dos povos indígenas e das comunidades locais na administração da natureza \ne na liderança climática, ao mesmo tempo que reconhecemos os efeitos desproporcionais que eles sofrem com a mudança do clima.\nDisponível em: www.cop30.br. Acesso em: 1 ago. 2025 (adaptado).\nTEXTO 2\nChuva ácida\nEnquanto ser humano eu vou destruindo o que posso\nO elevador aqui só desce, o demônio é meu sócio\nAbriram, uh, a caixa de Pandora\nSimon diz: saiam agora\nA chuva espalhando, todos os males\nAi ai, uiui, ai como isso arde\nÉ bateria de celulares, césio, similares\nA peste invisível maculando os ares\nMercúrio nos rios, diesel nos mares\nsolo estéril, já fizeram sua parte (uh)\nCRIOLO. Disponível em: www.letras.mus.br. Acesso em: 1 ago. 2025 (adaptado).",
+  "texto_completo": "p\nj\np\nq\np\np\nQUESTÃO 19\t\nAo realizar a matrícula em uma escola, uma estudante de 15 anos e seus pais solicitaram à secretaria acadêmica o uso de nome \nsocial, já que na certidão de nascimento consta uma identificação masculina. Eles queriam que o nome social fosse usado em \nsala de aula e em documentos internos da instituição, como chamada, boletins e carteirinha estudantil. No entanto, a direção, \nao tomar ciência do caso, recusou o pedido, alegando que, sem a alteração no registro civil, seria impossível atender à solicitação.\nDiante do caso, com base na Resolução MEC n. 1/2018, que trata do uso do nome social, a gestão deve\nA\t permitir o uso do nome social de maneira informal, mantendo os registros escolares internos.\nB\t convocar o conselho estudantil para deliberar sobre o caso, por se tratar de uma questão interna da escola.\nC\t acatar o pedido quando o nome social for oficialmente retificado no registro civil da estudante.\nD\t atender ao pedido mediante formalização da solicitação pelos responsáveis legais da estudante.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.092497"
+  "criado_em": "2026-08-25T15:44:45.404188"
 }

@@ -3,8 +3,7 @@
   "numero": 7,
   "tipo": "OBJETIVA",
   "paginas": [
-    5,
-    6
+    5
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 513.984619140625,
       "coluna": 0
-    },
-    {
-      "pagina": 6,
-      "x0": 25.0,
-      "y0": 83.01449584960938,
-      "x1": 611.7199999999999,
-      "y1": 192.4859161376953,
-      "coluna": 0
     }
   ],
   "caminho_png": "/questoes/2024_CCP/q07.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q07.txt",
   "largura": 2475,
-  "altura": 1363,
+  "altura": 891,
   "confianca": 0.98,
-  "texto_completo": "ç\nç\np\ny g\nQUESTÃO 07\t\nLi uma história de um pesquisador europeu no começo do século XX que estava nos EUA e chegou a um território dos hopi. \nEle tinha pedido que alguém daquela aldeia facilitasse o encontro dele com uma anciã que ele queria entrevistar. Quando foi \nencontrá-la, ela estava parada perto de uma rocha. Estava conversando com a irmã dela: uma pedra. Assim como aquela senhora \nhopi que conversava com a pedra, sua irmã, tem um monte de gente que fala com montanhas.\nPor que essas narrativas não nos entusiasmam? Por que elas vão sendo esquecidas e apagadas em favor de uma narrativa \nglobalizante, superficial, que quer contar a mesma história para a gente?\nKRENAK, A. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2020 (adaptado).\nPara contemplar a reflexão de Ailton Krenak, os professores da Educação Básica devem considerar na elaboração de um plano \nde ensino os conhecimentos \nA\t científicos, fundamentados em uma visão eurocêntrica dos conhecimentos tradicionais locais.\nB\t tradicionais locais, pautados por uma visão hegemônica dos conhecimentos científicos.\nC\t científicos, integrados com os conhecimentos tradicionais locais.\nD\t tradicionais locais, subordinados aos conhecimentos científicos.\n\nTexto para questões 08 e 09\nCom base nos princípios da Pedagogia de Projetos e em articulação com os Objetivos de Desenvolvimento Sustentável (ODS), \nespecialmente o ODS 12, que trata da produção e do consumo responsáveis, os professores de uma escola pública de Ensino \nFundamental desenvolveram um projeto interdisciplinar com o intuito de promover ações educativas sobre o reaproveitamento \nde resíduos orgânicos na escola. A iniciativa incluiu o desenvolvimento de atividades de separação e de aproveitamento de \nresíduos da alimentação escolar, bem como a montagem de composteiras artesanais para a produção e o uso de adubo em \njardins e hortas da escola.",
+  "texto_completo": "ç\nç\np\ny g\nQUESTÃO 07\t\nLi uma história de um pesquisador europeu no começo do século XX que estava nos EUA e chegou a um território dos hopi. \nEle tinha pedido que alguém daquela aldeia facilitasse o encontro dele com uma anciã que ele queria entrevistar. Quando foi \nencontrá-la, ela estava parada perto de uma rocha. Estava conversando com a irmã dela: uma pedra. Assim como aquela senhora \nhopi que conversava com a pedra, sua irmã, tem um monte de gente que fala com montanhas.\nPor que essas narrativas não nos entusiasmam? Por que elas vão sendo esquecidas e apagadas em favor de uma narrativa \nglobalizante, superficial, que quer contar a mesma história para a gente?\nKRENAK, A. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2020 (adaptado).\nPara contemplar a reflexão de Ailton Krenak, os professores da Educação Básica devem considerar na elaboração de um plano \nde ensino os conhecimentos \nA\t científicos, fundamentados em uma visão eurocêntrica dos conhecimentos tradicionais locais.\nB\t tradicionais locais, pautados por uma visão hegemônica dos conhecimentos científicos.\nC\t científicos, integrados com os conhecimentos tradicionais locais.\nD\t tradicionais locais, subordinados aos conhecimentos científicos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.092446"
+  "criado_em": "2026-08-25T15:44:45.403812"
 }

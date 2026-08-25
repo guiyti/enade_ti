@@ -160,6 +160,15 @@ def detect_markers_in_page(
         
         # Check shared context header
         if RE_SHARED_CONTEXT.search(text_line):
+            q_list = []
+            m_rng = re.search(r'(?:quest[õo]es|responder)\s*(?:de\s+)?(\d{1,3})\s*(?:a|e|à|ao|até)\s*(\d{1,3})', text_line, re.IGNORECASE)
+            if m_rng:
+                try:
+                    q_start = int(m_rng.group(1))
+                    q_end = int(m_rng.group(2))
+                    q_list = list(range(min(q_start, q_end), max(q_start, q_end) + 1))
+                except Exception:
+                    pass
             contexts.append(SharedContext(
                 pagina=page_num,
                 coluna=b.coluna,
@@ -167,7 +176,8 @@ def detect_markers_in_page(
                 y0=b.y0,
                 x1=b.x1,
                 y1=b.y1,
-                texto=text_line
+                texto=text_line,
+                questoes=q_list
             ))
             continue
         

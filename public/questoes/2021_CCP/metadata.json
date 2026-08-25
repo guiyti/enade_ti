@@ -42,7 +42,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -84,7 +83,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q02.png",
@@ -145,7 +144,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -166,8 +164,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -188,8 +184,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q07.png",
@@ -230,7 +225,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd03.png",
@@ -250,7 +245,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -292,8 +286,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -314,8 +306,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q10.png",
@@ -335,8 +326,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q11.png",
@@ -356,9 +346,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI",
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q12.png",
@@ -398,8 +386,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -420,8 +406,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q15.png",
@@ -441,7 +426,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q16.png",
@@ -502,8 +487,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q19.png",
@@ -543,7 +527,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
       ],
       "anomalias": [],
@@ -604,7 +587,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
       ],
       "anomalias": [],
@@ -645,8 +627,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q26.png",
@@ -666,7 +647,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q27.png",
@@ -687,7 +668,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q28.png",
@@ -707,7 +688,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q29.png",
@@ -727,10 +708,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura",
-        "Teoria da Computação e Compiladores",
-        "Inteligência Artificial e Dados"
+        "Teoria da Computação e Compiladores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q30.png",
@@ -750,7 +728,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Teoria da Computação e Compiladores"
       ],
       "anomalias": [],
@@ -771,7 +748,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
@@ -832,7 +808,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q35.png",

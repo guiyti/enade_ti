@@ -3,8 +3,7 @@
   "numero": 38,
   "tipo": "OBJETIVA",
   "paginas": [
-    22,
-    23
+    22
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 621.9595947265625,
       "coluna": 0
-    },
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 83.01449584960938,
-      "x1": 611.7199999999999,
-      "y1": 238.40724182128906,
-      "coluna": 0
     }
   ],
   "caminho_png": "/questoes/2024_CCP/q38.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q38.txt",
   "largura": 2475,
-  "altura": 1329,
+  "altura": 666,
   "confianca": 0.98,
-  "texto_completo": ",\ng\ng\nQUESTÃO 38\t\nAo escolher Objetos de Aprendizagem, o professor pode planejar o uso de\nA\t jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada \netapa da atividade.\nB\t softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, \nexercícios e feedback automático.\nC\t jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, \nutilizados para modelar a lógica algorítmica.\nD\t softwares educacionais, utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica, \nrecompensas simbólicas e ranqueamento de desempenho.\n\nTexto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.",
+  "texto_completo": ",\ng\ng\nQUESTÃO 38\t\nAo escolher Objetos de Aprendizagem, o professor pode planejar o uso de\nA\t jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada \netapa da atividade.\nB\t softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, \nexercícios e feedback automático.\nC\t jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, \nutilizados para modelar a lógica algorítmica.\nD\t softwares educacionais, utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica, \nrecompensas simbólicas e ranqueamento de desempenho.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.092581"
+  "criado_em": "2026-08-25T15:44:45.404759"
 }

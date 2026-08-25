@@ -9,7 +9,7 @@
     {
       "pagina": 23,
       "x0": 25.0,
-      "y0": 234.40724182128906,
+      "y0": 84.02613830566406,
       "x1": 611.7199999999999,
       "y1": 342.78839111328125,
       "coluna": 0
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q39.txt",
   "largura": 2475,
-  "altura": 482,
+  "altura": 1108,
   "confianca": 0.98,
-  "texto_completo": "p\nQUESTÃO 39\t\nÉ possível afirmar que o professor pode avaliar no modelo entidade-relacionamento os conceitos de\nA\t organização e consistência de dados.\nB\t consultas de linguagem SQL e tuning.\nC\t restrição e integridade referencial.\nD\t chaves primária e estrangeira e cardinalidade.",
+  "texto_completo": "Texto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.\nQUESTÃO 39\t\nÉ possível afirmar que o professor pode avaliar no modelo entidade-relacionamento os conceitos de\nA\t organização e consistência de dados.\nB\t consultas de linguagem SQL e tuning.\nC\t restrição e integridade referencial.\nD\t chaves primária e estrangeira e cardinalidade.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.092585"
+  "criado_em": "2026-08-25T15:44:45.404783"
 }

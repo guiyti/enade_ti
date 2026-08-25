@@ -42,7 +42,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -84,7 +83,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q02.png",
@@ -145,7 +144,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -166,8 +164,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -188,8 +184,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q07.png",
@@ -230,8 +225,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Formação Geral e Sociedade"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd03.png",
@@ -252,7 +246,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd04.png",
@@ -272,7 +266,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd05.png",
@@ -312,7 +306,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q10.png",
@@ -372,8 +366,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q13.png",
@@ -433,7 +426,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
@@ -454,7 +446,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q17.png",
@@ -474,9 +466,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura",
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q18.png",
@@ -496,9 +486,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q19.png",
@@ -518,7 +506,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q20.png",
@@ -538,7 +526,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -559,7 +546,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -580,8 +566,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -602,8 +586,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q24.png",
@@ -623,9 +606,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q25.png",
@@ -645,8 +626,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI",
-        "Formação Geral e Sociedade"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q26.png",
@@ -666,7 +646,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -687,7 +666,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q28.png",
@@ -707,7 +686,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -728,7 +706,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q30.png",
@@ -748,9 +726,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI",
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q31.png",
@@ -770,7 +746,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -831,7 +806,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],

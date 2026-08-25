@@ -3,8 +3,7 @@
   "numero": 60,
   "tipo": "OBJETIVA",
   "paginas": [
-    30,
-    31
+    30
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 773.9274291992188,
       "coluna": 0
-    },
-    {
-      "pagina": 31,
-      "x0": 25.0,
-      "y0": 82.57166290283203,
-      "x1": 315.35999999999996,
-      "y1": 271.13800048828125,
-      "coluna": 1
     }
   ],
   "caminho_png": "/questoes/2024_CCP/q60.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q60.txt",
   "largura": 2475,
-  "altura": 1537,
+  "altura": 737,
   "confianca": 0.98,
-  "texto_completo": "g\np\nQUESTÃO 60\t\nUm professor de Computação dessa escola planeja uma viagem para estimular a postura investigativa e científica em seus \nestudantes. Assim, deve propor a eles\nA\t escolher preferências de destinos para a viagem e calcular os custos básicos de cada alternativa, com base em dados \ncoletados em sites de turismo.\nB\t selecionar critérios relevantes em aplicativos de organização de viagens como insumos para realizar enquete sobre o destino \nda viagem.\nC\t criar, em grupos, representações visuais (infográfico ou linha do tempo interativa) do percurso de uma viagem para subsidiar \na escolha da turma.\nD\t elaborar hipóteses sobre os fatores mais relevantes que impactam cada aspecto da viagem para confrontar diferentes \npropostas colhidas junto à turma.\n\nTexto para questões de 61 a 63\nO processo de desenvolvimento de software é uma atividade \nrealizada por e para pessoas. Assim, as pessoas são o elemento \nessencial em todas as fases do processo, uma vez que os \nprodutos de software têm impacto direto na vida do seu \npúblico-alvo. Os princípios de Diversidade, Equidade e Inclusão \n(DEI) funcionam em conjunto e sua integração ao longo de \ntodo o processo de desenvolvimento de software aumenta o \ndesempenho da equipe, melhora a qualidade e a relevância \ndo produto de software para um público-alvo diversificado.\nMARQUES, A. B. et al. Grandes desafios para diversidade, equidade e \ninclusão (DEI) no Desenvolvimento de Software. Workshop sobre \nAspectos Sociais, Humanos e Econômicos de \nSoftware. SBC, 2024 (adaptado).",
+  "texto_completo": "g\np\nQUESTÃO 60\t\nUm professor de Computação dessa escola planeja uma viagem para estimular a postura investigativa e científica em seus \nestudantes. Assim, deve propor a eles\nA\t escolher preferências de destinos para a viagem e calcular os custos básicos de cada alternativa, com base em dados \ncoletados em sites de turismo.\nB\t selecionar critérios relevantes em aplicativos de organização de viagens como insumos para realizar enquete sobre o destino \nda viagem.\nC\t criar, em grupos, representações visuais (infográfico ou linha do tempo interativa) do percurso de uma viagem para subsidiar \na escolha da turma.\nD\t elaborar hipóteses sobre os fatores mais relevantes que impactam cada aspecto da viagem para confrontar diferentes \npropostas colhidas junto à turma.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094503"
+  "criado_em": "2026-08-25T15:44:45.407615"
 }

@@ -9,7 +9,7 @@
     {
       "pagina": 28,
       "x0": 25.0,
-      "y0": 224.4859161376953,
+      "y0": 84.02613830566406,
       "x1": 611.7199999999999,
       "y1": 344.86700439453125,
       "coluna": 0
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q52.txt",
   "largura": 2475,
-  "altura": 532,
+  "altura": 1117,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 52\t\nUm professor de Computação do Ensino Fundamental está elaborando materiais digitais e precisa tornar um infográfico acessível \na estudantes com os diversos tipos de deficiência visual. Para atender a essa necessidade, ele deverá adaptar o infográfico\nA\t utilizando fonte ampliada e cores adequadas para facilitar a leitura por pessoas com baixa visão.\nB\t incluindo um botão de zoom automático para melhorar a visualização em dispositivos móveis.\nC\t inserindo descrição textual alternativa para torná-lo compatível com leitores de tela.\nD\t acrescentando mais texto embutido nas imagens para adequá-las a recursos de acessibilidade.",
+  "texto_completo": "Texto para questões de 52 a 54\nO Brasil, em 2022, contava com 18,6 milhões de pessoas com algum tipo de deficiência, o que representa 8,9% da população \ncom 2 anos ou mais. Desse total, segundo o IBGE, apenas 24,3% das pessoas com deficiência tinham acesso regular à internet. \nTais dados revelam a urgência de políticas públicas educacionais e práticas pedagógicas que não apenas ampliem o acesso, \nmas que também garantam a acessibilidade digital e comunicacional em sentido amplo. O educador deve adotar estratégias \npedagógicas que promovam a inclusão social e digital em sala de aula. Isso implica a seleção de tecnologias que atendam aos \ndiferentes tipos de deficiência — visual, auditiva, motora, intelectual e múltiplas — e que considerem diferentes linguagens: \nvisual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além da seleção adequada dos recursos, espera-se, também, \nque o professor desenvolva nos estudantes as competências investigativas e científicas, capazes de produzir e disseminar o \nconhecimento de forma crítica e colaborativa.\nQUESTÃO 52\t\nUm professor de Computação do Ensino Fundamental está elaborando materiais digitais e precisa tornar um infográfico acessível \na estudantes com os diversos tipos de deficiência visual. Para atender a essa necessidade, ele deverá adaptar o infográfico\nA\t utilizando fonte ampliada e cores adequadas para facilitar a leitura por pessoas com baixa visão.\nB\t incluindo um botão de zoom automático para melhorar a visualização em dispositivos móveis.\nC\t inserindo descrição textual alternativa para torná-lo compatível com leitores de tela.\nD\t acrescentando mais texto embutido nas imagens para adequá-las a recursos de acessibilidade.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094460"
+  "criado_em": "2026-08-25T15:44:45.407458"
 }

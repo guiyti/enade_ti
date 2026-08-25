@@ -9,7 +9,7 @@
     {
       "pagina": 27,
       "x0": 25.0,
-      "y0": 284.48602294921875,
+      "y0": 84.02613830566406,
       "x1": 315.35999999999996,
       "y1": 464.86712646484375,
       "coluna": 1
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q48.txt",
   "largura": 1240,
-  "altura": 782,
+  "altura": 1617,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 48\t\nNa elaboração de uma atividade de ensino de vetores para \nestudantes do 7º ano do Ensino Fundamental nas duas \nescolas, propõe-se a elaboração de uma atividade que integre \ndiferentes abordagens didático-pedagógicas. Qual alternativa \nrepresenta duas abordagens a serem utilizadas de forma \ncontextualizada nos processos de ensino e aprendizagem, \nrespectivamente, nas escolas A e B?\nA\t Aprendizagem Baseada em Projetos; Programação por Pares.\nB\tAprendizagem Baseada em Design; Gamificação.\nC\tRotação por Estações; Programação em Python.\nD\t Programação em Blocos; Computação Desplugada.",
+  "texto_completo": "Texto para questões de 48 a 51\nDuas escolas, A e B, localizadas em regiões diferentes, \nenfrentam desafios distintos no ensino de algoritmos e \nestruturas de dados. A Escola A possui um laboratório de \ninformática equipado com computadores individuais e acesso \nà internet estável. Os estudantes já tiveram contato com lógica \nde programação básica e noções introdutórias de algoritmos, \ncomo fluxogramas e pseudocódigo. Já na Escola B, o acesso \nà internet é instável e há apenas um laboratório com poucos \ncomputadores que precisam ser compartilhados em pequenos \ngrupos de 5 estudantes. Esses estudantes, no entanto, \ndemonstram grande interesse em tecnologia e criatividade \npara resolver problemas com os recursos disponíveis. A maioria \nainda não teve aulas de programação, mas já usou ferramentas \ncomo planilhas.\nQUESTÃO 48\t\nNa elaboração de uma atividade de ensino de vetores para \nestudantes do 7º ano do Ensino Fundamental nas duas \nescolas, propõe-se a elaboração de uma atividade que integre \ndiferentes abordagens didático-pedagógicas. Qual alternativa \nrepresenta duas abordagens a serem utilizadas de forma \ncontextualizada nos processos de ensino e aprendizagem, \nrespectivamente, nas escolas A e B?\nA\t Aprendizagem Baseada em Projetos; Programação por Pares.\nB\tAprendizagem Baseada em Design; Gamificação.\nC\tRotação por Estações; Programação em Python.\nD\t Programação em Blocos; Computação Desplugada.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.092652"
+  "criado_em": "2026-08-25T15:44:45.407364"
 }

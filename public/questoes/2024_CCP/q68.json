@@ -9,7 +9,7 @@
     {
       "pagina": 33,
       "x0": 25.0,
-      "y0": 188.4860382080078,
+      "y0": 84.02613830566406,
       "x1": 611.7199999999999,
       "y1": 296.86712646484375,
       "coluna": 0
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q68.txt",
   "largura": 2475,
-  "altura": 482,
+  "altura": 917,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 68\t\nQue abordagem de uso do computador pode ser associada a algoritmo de escalonamento de processos?\nA\t Chaveamento circular (round-robin).\nB\t Por loteria (lottery scheduling).\nC\t Tarefa mais curta primeiro (shortest job first).\nD\t Primeiro a chegar, primeiro a ser servido (first-come, first-served).",
+  "texto_completo": "Texto para questões 68 e 69\nUm professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que \no local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que \neles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. \nOs demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador \npor 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam \ncomparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.\nQUESTÃO 68\t\nQue abordagem de uso do computador pode ser associada a algoritmo de escalonamento de processos?\nA\t Chaveamento circular (round-robin).\nB\t Por loteria (lottery scheduling).\nC\t Tarefa mais curta primeiro (shortest job first).\nD\t Primeiro a chegar, primeiro a ser servido (first-come, first-served).",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094539"
+  "criado_em": "2026-08-25T15:44:45.407751"
 }

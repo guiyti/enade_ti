@@ -6,10 +6,3 @@ A	 instanciar objetos da classe Triangulo, dando ao nome da instância o tipo do
 B	 criar um novo método na classe Triangulo para determinar o seu tipo com base nos valores dos lados.
 C	 acrescentar um novo atributo à classe Triangulo de forma que o usuário informe o nome do triângulo criado.
 D	 separar a classe Triangulo em três classes distintas, uma para cada tipo específico de triângulo a ser formado.
-
-Texto para questões 34 e 35
-Durante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a 
-Distância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em 
-sua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.
-Número de licenciados concluintes por modalidade e ano
-Disponível em: www.gov.br/inep. Acesso em: 30 maio 2025.

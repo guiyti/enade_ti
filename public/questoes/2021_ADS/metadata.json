@@ -42,7 +42,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -84,7 +83,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q02.png",
@@ -145,7 +144,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -166,8 +164,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -188,8 +184,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q07.png",
@@ -249,8 +244,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/qd04.png",
@@ -271,8 +265,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/qd05.png",
@@ -313,7 +306,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q10.png",
@@ -333,8 +326,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q11.png",
@@ -354,8 +346,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q12.png",
@@ -395,7 +386,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q14.png",
@@ -416,9 +407,7 @@
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO",
-        "Formação Geral e Sociedade"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q15.png",
@@ -438,9 +427,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q16.png",
@@ -480,7 +467,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Engenharia de Software"
       ],
       "anomalias": [],
@@ -521,8 +507,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q20.png",
@@ -542,9 +527,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q21.png",
@@ -564,8 +547,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q22.png",
@@ -605,9 +587,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q24.png",
@@ -627,8 +607,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q25.png",
@@ -669,9 +648,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q27.png",
@@ -711,7 +688,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q29.png",
@@ -731,8 +708,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q30.png",
@@ -772,8 +748,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Inteligência Artificial e Dados",
-        "Formação Geral e Sociedade"
+        "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q32.png",
@@ -793,8 +768,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Formação Geral e Sociedade"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q33.png",
@@ -834,7 +808,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q35.png",

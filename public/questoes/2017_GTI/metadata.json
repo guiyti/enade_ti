@@ -62,7 +62,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q01.png",
@@ -82,7 +82,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q02.png",
@@ -102,7 +102,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q03.png",
@@ -122,7 +122,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q04.png",
@@ -142,7 +142,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q05.png",
@@ -162,7 +162,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q06.png",
@@ -182,7 +182,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q07.png",
@@ -203,7 +203,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q08.png",
@@ -446,8 +446,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_GTI/q19.png",

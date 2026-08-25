@@ -140,7 +140,69 @@ def build_questions_from_markers(exam: Exam, markers: List[Marker], contexts: Li
         segments: List[Segment] = []
         start_y = max(current_slot.y0, current_m.y - 12.0)
         
-        if not has_next or next_slot.index > current_slot.index:
+        # If this question is the very first question of a shared context located earlier on the same page/slot
+        if contexts:
+            for c in contexts:
+                target_qs = c.questoes or []
+                if target_qs and min(target_qs) == current_m.numero:
+                    if c.pagina == current_slot.pagina and c.y0 < current_m.y:
+                        start_y = max(current_slot.y0, c.y0 - 10.0)
+                        break
+        
+        # Check if there is an intervening SharedContext for upcoming questions (e.g. 'Texto para questões 70 a 72' after Q69)
+        intervening_ctx = None
+        if contexts:
+            for c in contexts:
+                target_qs = c.questoes or []
+                min_target = min(target_qs) if target_qs else None
+                if min_target and min_target > current_m.numero:
+                    c_slot = next((s for s in slots if s.pagina == c.pagina and (s.coluna == c.coluna or c.coluna == 0)), None)
+                    if c_slot and c_slot.index >= current_slot.index:
+                        if not has_next or c_slot.index <= next_slot.index:
+                            if not intervening_ctx or c_slot.index < intervening_ctx[1].index:
+                                intervening_ctx = (c, c_slot)
+                                
+        if intervening_ctx:
+            c, c_slot = intervening_ctx
+            if c_slot.index == current_slot.index:
+                end_y = min(current_slot.y1, c.y0 - 4.0)
+                segments.append(Segment(
+                    pagina=current_slot.pagina,
+                    x0=current_slot.x0,
+                    y0=start_y,
+                    x1=current_slot.x1,
+                    y1=end_y,
+                    coluna=current_slot.coluna
+                ))
+            else:
+                segments.append(Segment(
+                    pagina=current_slot.pagina,
+                    x0=current_slot.x0,
+                    y0=start_y,
+                    x1=current_slot.x1,
+                    y1=current_slot.y1,
+                    coluna=current_slot.coluna
+                ))
+                for k in range(current_slot.index + 1, c_slot.index):
+                    inter_slot = slots[k]
+                    segments.append(Segment(
+                        pagina=inter_slot.pagina,
+                        x0=inter_slot.x0,
+                        y0=inter_slot.y0,
+                        x1=inter_slot.x1,
+                        y1=inter_slot.y1,
+                        coluna=inter_slot.coluna
+                    ))
+                if c.y0 > c_slot.y0 + 40.0:
+                    segments.append(Segment(
+                        pagina=c_slot.pagina,
+                        x0=c_slot.x0,
+                        y0=c_slot.y0,
+                        x1=c_slot.x1,
+                        y1=c.y0 - 4.0,
+                        coluna=c_slot.coluna
+                    ))
+        elif not has_next or next_slot.index > current_slot.index:
             # First segment in current slot
             segments.append(Segment(
                 pagina=current_slot.pagina,

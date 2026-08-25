@@ -23,8 +23,6 @@
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -48,7 +46,6 @@
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
       "anomalias": [],
@@ -70,7 +67,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd10.png",
@@ -90,7 +87,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q11.png",
@@ -110,7 +107,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -132,8 +128,8 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Algoritmos e Estruturas de Dados"
+        "Algoritmos e Estruturas de Dados",
+        "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q13.png",
@@ -153,8 +149,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q15.png",
@@ -174,9 +169,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q16.png",
@@ -196,9 +189,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q17.png",
@@ -219,8 +210,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q18.png",
@@ -240,7 +230,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q20.png",
@@ -281,7 +271,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q23.png",
@@ -302,10 +292,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura",
-        "Formação Geral e Sociedade"
+        "Banco de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q24.png",
@@ -345,10 +332,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Engenharia de Software",
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q27.png",
@@ -369,9 +353,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Banco de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q29.png",
@@ -391,7 +373,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -412,9 +393,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q32.png",
@@ -435,10 +414,8 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Engenharia de Software",
-        "Programação e POO",
-        "Redes e Segurança"
+        "Redes e Segurança",
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q34.png",
@@ -458,7 +435,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q36.png",
@@ -478,7 +455,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q38.png",
@@ -519,8 +496,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd40.png",
@@ -540,7 +516,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q41.png",
@@ -560,9 +536,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura",
-        "Inteligência Artificial e Dados"
+        "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q42.png",
@@ -582,7 +556,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q43.png",
@@ -602,7 +576,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q44.png",
@@ -622,8 +596,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q45.png",
@@ -643,7 +616,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q46.png",
@@ -663,7 +636,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q47.png",
@@ -683,7 +656,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q48.png",
@@ -703,7 +676,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q49.png",
@@ -723,8 +696,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q50.png",
@@ -744,7 +716,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q51.png",
@@ -764,8 +736,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
       "anomalias": [],
@@ -786,8 +756,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q53.png",
@@ -868,7 +837,8 @@
       "status": "APROVADA",
       "categorias": [
         "Programação e POO",
-        "Inteligência Artificial e Dados"
+        "Inteligência Artificial e Dados",
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q57.png",
@@ -889,10 +859,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura",
-        "Inteligência Artificial e Dados"
+        "Banco de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q58.png",
@@ -912,7 +879,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q60.png",
@@ -932,8 +899,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q61.png",
@@ -953,7 +919,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q62.png",
@@ -973,7 +939,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados"
+        "Teoria da Computação e Compiladores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q63.png",
@@ -1013,8 +979,6 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO",
         "Teoria da Computação e Compiladores"
       ],
       "anomalias": [],
@@ -1036,10 +1000,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Programação e POO",
-        "Redes e Segurança",
-        "Teoria da Computação e Compiladores"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q66.png",
@@ -1061,10 +1022,8 @@
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Algoritmos e Estruturas de Dados",
-        "Engenharia de Software",
-        "Redes e Segurança"
+        "Redes e Segurança",
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q67.png",
@@ -1146,9 +1105,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados",
-        "Sistemas Operacionais e Arquitetura",
-        "Inteligência Artificial e Dados"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q74.png",
@@ -1168,8 +1125,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q76.png",
@@ -1189,7 +1145,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q77.png",
@@ -1210,7 +1166,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q78.png",
@@ -1230,7 +1186,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Teoria da Computação e Compiladores"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q80.png",
@@ -1250,8 +1206,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Redes e Segurança"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q81.png",
@@ -1271,7 +1226,7 @@
       "confianca": 0.98,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q83.png",

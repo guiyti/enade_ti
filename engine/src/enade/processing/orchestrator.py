@@ -94,7 +94,7 @@ def save_consolidated_catalog(exams: List[Exam]) -> None:
         for q in exam.questoes:
             # Ensure categories are classified
             if not q.categorias:
-                q.categorias = classify_question_topics(q.texto_completo, exam.curso, q.numero, q.tipo)
+                q.categorias = classify_question_topics(q.texto_completo, exam.curso, q.numero, q.tipo, exam.ano)
                 
             exam_entry["questoes"].append({
                 "id_questao": q.id_questao,
@@ -167,7 +167,7 @@ def process_exam(pdf_info: PDFInfo) -> Exam:
     
     # 8. Classify question topics automatically
     for q in exam.questoes:
-        q.categorias = classify_question_topics(q.texto_completo, exam.curso, q.numero, q.tipo)
+        q.categorias = classify_question_topics(q.texto_completo, exam.curso, q.numero, q.tipo, exam.ano)
     
     # 9. Full validation
     exam = validate_exam(exam)

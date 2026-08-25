@@ -1,3 +1,17 @@
+Texto para questões de 61 a 63
+O processo de desenvolvimento de software é uma atividade 
+realizada por e para pessoas. Assim, as pessoas são o elemento 
+essencial em todas as fases do processo, uma vez que os 
+produtos de software têm impacto direto na vida do seu 
+público-alvo. Os princípios de Diversidade, Equidade e Inclusão 
+(DEI) funcionam em conjunto e sua integração ao longo de 
+todo o processo de desenvolvimento de software aumenta o 
+desempenho da equipe, melhora a qualidade e a relevância 
+do produto de software para um público-alvo diversificado.
+MARQUES, A. B. et al. Grandes desafios para diversidade, equidade e 
+inclusão (DEI) no Desenvolvimento de Software. Workshop sobre 
+Aspectos Sociais, Humanos e Econômicos de 
+Software. SBC, 2024 (adaptado).
 QUESTÃO 61	
 Para atender pessoas com deficiência, idosos e pessoas com 
 baixo letramento digital, de acordo com os princípios DEI, qual 

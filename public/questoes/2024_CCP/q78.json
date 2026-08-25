@@ -9,7 +9,7 @@
     {
       "pagina": 37,
       "x0": 25.0,
-      "y0": 200.4860382080078,
+      "y0": 84.02613830566406,
       "x1": 611.7199999999999,
       "y1": 368.86712646484375,
       "coluna": 0
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q78.txt",
   "largura": 2475,
-  "altura": 732,
+  "altura": 1217,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 78\t\nO uso pedagógico das formas geométricas e do posicionamento espacial dos estudantes auxilia a compreensão dos conceitos \nde atributos e métodos ao abordar que\nA\t a movimentação é representada e controlada a partir de métodos dos personagens que alteram os atributos de posição \ne direção contidos nas células do tabuleiro.\nB\t as posições e direções de cada personagem são atributos que podem ser armazenados em variáveis e passados como \nparâmetros para possíveis métodos de movimentação.\nC\t o tabuleiro é um vetor bidimensional onde cada posição armazena os atributos de um personagem e contém métodos \nde movimentação.\nD\t os personagens possuem atributos que representam sua posição e direção e possuem métodos de movimentação ou giro, \nsimulando ações em um espaço geométrico.",
+  "texto_completo": "Texto para questões de 78 a 80\nUm professor de Computação, que ministra disciplinas de Programação, percebeu a necessidade de usar linguagens \nde programação que promovam a aprendizagem dos conceitos básicos de orientação a objetos para estudantes do \nEnsino Fundamental. Para tornar o aprendizado mais lúdico e concreto, o professor propôs uma atividade em formato de \nteatro, ambientada em uma história de fantasia épica, na qual as batalhas ocorrem com movimentos dos personagens com \nbase em formas geométricas e os estudantes atuam como os personagens. Os estudantes receberiam cartões com informações \nde personagens, podendo descrever certas características e aspectos sobre a comunicação entre eles. Durante a encenação, os \nestudantes deveriam simular essas interações.\nQUESTÃO 78\t\nO uso pedagógico das formas geométricas e do posicionamento espacial dos estudantes auxilia a compreensão dos conceitos \nde atributos e métodos ao abordar que\nA\t a movimentação é representada e controlada a partir de métodos dos personagens que alteram os atributos de posição \ne direção contidos nas células do tabuleiro.\nB\t as posições e direções de cada personagem são atributos que podem ser armazenados em variáveis e passados como \nparâmetros para possíveis métodos de movimentação.\nC\t o tabuleiro é um vetor bidimensional onde cada posição armazena os atributos de um personagem e contém métodos \nde movimentação.\nD\t os personagens possuem atributos que representam sua posição e direção e possuem métodos de movimentação ou giro, \nsimulando ações em um espaço geométrico.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T15:08:34.094581"
+  "criado_em": "2026-08-25T15:44:45.407875"
 }

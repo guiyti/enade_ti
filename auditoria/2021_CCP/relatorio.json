@@ -9,7 +9,7 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T15:07:39.372958",
+  "processado_em": "2026-08-25T15:43:46.238479",
   "paginas": [
     {
       "numero": 1,
@@ -16654,7 +16654,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011300"
+      "criado_em": "2026-08-25T15:44:00.469181"
     },
     {
       "id_questao": "qd02",
@@ -16684,7 +16684,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
@@ -16705,7 +16704,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011316"
+      "criado_em": "2026-08-25T15:44:00.469200"
     },
     {
       "id_questao": "q01",
@@ -16755,7 +16754,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011322"
+      "criado_em": "2026-08-25T15:44:00.469206"
     },
     {
       "id_questao": "q02",
@@ -16796,7 +16795,7 @@
         "/questoes/2021_CCP/figuras/q02_fig1.png"
       ],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -16816,7 +16815,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011327"
+      "criado_em": "2026-08-25T15:44:00.469211"
     },
     {
       "id_questao": "q03",
@@ -16868,7 +16867,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011332"
+      "criado_em": "2026-08-25T15:44:00.469216"
     },
     {
       "id_questao": "q04",
@@ -16918,7 +16917,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011336"
+      "criado_em": "2026-08-25T15:44:00.469220"
     },
     {
       "id_questao": "q05",
@@ -16959,7 +16958,6 @@
         "/questoes/2021_CCP/figuras/q05_fig1.png"
       ],
       "categorias": [
-        "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
@@ -16980,7 +16978,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011341"
+      "criado_em": "2026-08-25T15:44:00.469225"
     },
     {
       "id_questao": "q06",
@@ -17010,8 +17008,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Redes e Segurança",
-        "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
@@ -17032,7 +17028,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011345"
+      "criado_em": "2026-08-25T15:44:00.469230"
     },
     {
       "id_questao": "q07",
@@ -17062,8 +17058,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17083,7 +17078,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011349"
+      "criado_em": "2026-08-25T15:44:00.469235"
     },
     {
       "id_questao": "q08",
@@ -17133,7 +17128,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011353"
+      "criado_em": "2026-08-25T15:44:00.469239"
     },
     {
       "id_questao": "qd03",
@@ -17172,7 +17167,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Banco de Dados"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17192,7 +17187,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011358"
+      "criado_em": "2026-08-25T15:44:00.469244"
     },
     {
       "id_questao": "qd04",
@@ -17222,7 +17217,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
       "status": "APROVADA",
@@ -17243,7 +17237,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011363"
+      "criado_em": "2026-08-25T15:44:00.469248"
     },
     {
       "id_questao": "qd05",
@@ -17310,7 +17304,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011368"
+      "criado_em": "2026-08-25T15:44:00.469254"
     },
     {
       "id_questao": "q09",
@@ -17340,8 +17334,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
       "status": "APROVADA",
@@ -17362,7 +17354,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011373"
+      "criado_em": "2026-08-25T15:44:00.469258"
     },
     {
       "id_questao": "q10",
@@ -17392,8 +17384,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Programação e POO"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17413,7 +17404,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011377"
+      "criado_em": "2026-08-25T15:44:00.469262"
     },
     {
       "id_questao": "q11",
@@ -17443,8 +17434,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura"
+        "Inteligência Artificial e Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17464,7 +17454,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011381"
+      "criado_em": "2026-08-25T15:44:00.469267"
     },
     {
       "id_questao": "q12",
@@ -17494,9 +17484,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
-        "Governança e Gestão de TI",
-        "Formação Geral e Sociedade"
+        "Governança e Gestão de TI"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17516,7 +17504,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011385"
+      "criado_em": "2026-08-25T15:44:00.469271"
     },
     {
       "id_questao": "q13",
@@ -17566,7 +17554,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011389"
+      "criado_em": "2026-08-25T15:44:00.469275"
     },
     {
       "id_questao": "q14",
@@ -17596,8 +17584,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software",
-        "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
       "status": "APROVADA",
@@ -17618,7 +17604,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011393"
+      "criado_em": "2026-08-25T15:44:00.469279"
     },
     {
       "id_questao": "q15",
@@ -17648,8 +17634,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software",
-        "Programação e POO"
+        "Engenharia de Software"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17669,7 +17654,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011397"
+      "criado_em": "2026-08-25T15:44:00.469283"
     },
     {
       "id_questao": "q16",
@@ -17699,7 +17684,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17719,7 +17704,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011402"
+      "criado_em": "2026-08-25T15:44:00.469287"
     },
     {
       "id_questao": "q17",
@@ -17778,7 +17763,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011406"
+      "criado_em": "2026-08-25T15:44:00.469292"
     },
     {
       "id_questao": "q18",
@@ -17828,7 +17813,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011410"
+      "criado_em": "2026-08-25T15:44:00.469296"
     },
     {
       "id_questao": "q19",
@@ -17858,8 +17843,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia de Software",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -17879,7 +17863,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011415"
+      "criado_em": "2026-08-25T15:44:00.469300"
     },
     {
       "id_questao": "q20",
@@ -17929,7 +17913,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011419"
+      "criado_em": "2026-08-25T15:44:00.469305"
     },
     {
       "id_questao": "q21",
@@ -17959,7 +17943,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
       ],
       "status": "APROVADA",
@@ -17980,7 +17963,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011423"
+      "criado_em": "2026-08-25T15:44:00.469309"
     },
     {
       "id_questao": "q22",
@@ -18030,7 +18013,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011427"
+      "criado_em": "2026-08-25T15:44:00.469313"
     },
     {
       "id_questao": "q23",
@@ -18080,7 +18063,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011431"
+      "criado_em": "2026-08-25T15:44:00.469317"
     },
     {
       "id_questao": "q24",
@@ -18110,7 +18093,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
       ],
       "status": "APROVADA",
@@ -18131,7 +18113,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011435"
+      "criado_em": "2026-08-25T15:44:00.469321"
     },
     {
       "id_questao": "q25",
@@ -18181,7 +18163,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011439"
+      "criado_em": "2026-08-25T15:44:00.469325"
     },
     {
       "id_questao": "q26",
@@ -18211,8 +18193,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18232,7 +18213,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011443"
+      "criado_em": "2026-08-25T15:44:00.469329"
     },
     {
       "id_questao": "q27",
@@ -18262,7 +18243,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Redes e Segurança"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18282,7 +18263,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011447"
+      "criado_em": "2026-08-25T15:44:00.469334"
     },
     {
       "id_questao": "q28",
@@ -18321,7 +18302,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18341,7 +18322,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011452"
+      "criado_em": "2026-08-25T15:44:00.469338"
     },
     {
       "id_questao": "q29",
@@ -18376,7 +18357,7 @@
         "/questoes/2021_CCP/figuras/q29_fig4.png"
       ],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Sistemas Operacionais e Arquitetura"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18396,7 +18377,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011456"
+      "criado_em": "2026-08-25T15:44:00.469343"
     },
     {
       "id_questao": "q30",
@@ -18426,10 +18407,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Programação e POO",
-        "Sistemas Operacionais e Arquitetura",
-        "Teoria da Computação e Compiladores",
-        "Inteligência Artificial e Dados"
+        "Teoria da Computação e Compiladores"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18449,7 +18427,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011461"
+      "criado_em": "2026-08-25T15:44:00.469348"
     },
     {
       "id_questao": "q31",
@@ -18479,7 +18457,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
         "Teoria da Computação e Compiladores"
       ],
       "status": "APROVADA",
@@ -18500,7 +18477,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011464"
+      "criado_em": "2026-08-25T15:44:00.469352"
     },
     {
       "id_questao": "q32",
@@ -18530,7 +18507,6 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Banco de Dados",
         "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
@@ -18551,7 +18527,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011468"
+      "criado_em": "2026-08-25T15:44:00.469356"
     },
     {
       "id_questao": "q33",
@@ -18601,7 +18577,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011472"
+      "criado_em": "2026-08-25T15:44:00.469361"
     },
     {
       "id_questao": "q34",
@@ -18651,7 +18627,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011476"
+      "criado_em": "2026-08-25T15:44:00.469365"
     },
     {
       "id_questao": "q35",
@@ -18681,7 +18657,7 @@
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Algoritmos e Estruturas de Dados"
       ],
       "status": "APROVADA",
       "marcadores": [
@@ -18701,7 +18677,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T15:07:53.011480"
+      "criado_em": "2026-08-25T15:44:00.469369"
     }
   ],
   "anomalias": []
