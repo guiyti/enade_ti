@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { TagEditor } from "@/components/TagEditor";
+import { AuditFlagModal } from "@/components/AuditFlagModal";
 import { getPresentationContext, type PlaylistItem } from "@/lib/presentationContext";
 
 interface PresentationViewerProps {
@@ -151,7 +152,7 @@ export function PresentationViewer({
   return (
     <div className={`min-h-screen bg-slate-950 text-white flex flex-col ${isFullscreen ? "fixed inset-0 z-50" : ""}`}>
       {/* Control Topbar */}
-      <div className="h-16 px-6 border-b border-slate-800/80 bg-slate-900/90 backdrop-blur flex items-center justify-between gap-4 select-none">
+      <div className="sticky top-0 z-40 h-16 px-6 border-b border-slate-800/80 bg-slate-900/90 backdrop-blur flex items-center justify-between gap-4 select-none">
         {/* Left: Exit & Question Title */}
         <div className="flex items-center gap-4">
           <button
@@ -178,7 +179,7 @@ export function PresentationViewer({
           </div>
         </div>
 
-        {/* Center: Presentation tools (Zoom, Full Page Context, Tags, Text Toggle) */}
+        {/* Center: Presentation tools (Zoom, Full Page Context, Tags, Text Toggle, Audit Flag) */}
         <div className="flex items-center gap-2 bg-slate-800/80 p-1 rounded-xl border border-slate-700/60">
           <button
             onClick={handleZoomOut}
@@ -252,6 +253,16 @@ export function PresentationViewer({
             <FileText className="w-3.5 h-3.5" />
             <span>Texto</span>
           </button>
+
+          <div className="h-4 w-px bg-slate-700 mx-1"></div>
+
+          {/* Audit Flag Modal Trigger */}
+          <AuditFlagModal
+            id_prova={exam.id_prova}
+            id_questao={question.id_questao}
+            variant="presentation"
+            reportedFrom="docente"
+          />
 
           <button
             onClick={toggleFullscreen}

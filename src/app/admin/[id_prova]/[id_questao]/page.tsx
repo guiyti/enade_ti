@@ -18,6 +18,7 @@ import {
 } from "lucide-react";
 
 import { AdminFullPageModal } from "@/components/AdminFullPageModal";
+import { AuditFlagModal } from "@/components/AuditFlagModal";
 
 export const dynamic = "force-static";
 
@@ -65,6 +66,13 @@ export default async function AdminQuestionDetailPage({ params }: PageProps) {
         </Link>
 
         <div className="flex items-center gap-3 text-xs">
+          <AuditFlagModal
+            id_prova={exam.id_prova}
+            id_questao={question.id_questao}
+            variant="admin"
+            reportedFrom="admin"
+          />
+
           <AdminFullPageModal
             id_prova={exam.id_prova}
             totalPaginas={exam.total_paginas}

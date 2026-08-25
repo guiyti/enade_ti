@@ -15,6 +15,7 @@ import {
 } from "lucide-react";
 
 import { AdminFullPageModal } from "@/components/AdminFullPageModal";
+import { AuditFlagModal } from "@/components/AuditFlagModal";
 
 export const dynamic = "force-static";
 
@@ -183,13 +184,22 @@ export default async function AdminExamDetailPage({ params }: PageProps) {
                     Pág. {q.paginas.join(", ")} · {q.largura}x{q.altura}px
                   </div>
 
-                  <Link
-                    href={`/admin/${exam.id_prova}/${q.id_questao}`}
-                    className="inline-flex items-center gap-1 font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 group-hover:translate-x-0.5 transition-transform"
-                  >
-                    Auditar
-                    <ArrowRight className="w-3.5 h-3.5" />
-                  </Link>
+                  <div className="flex items-center gap-2">
+                    <AuditFlagModal
+                      id_prova={exam.id_prova}
+                      id_questao={q.id_questao}
+                      variant="compact"
+                      reportedFrom="admin"
+                    />
+
+                    <Link
+                      href={`/admin/${exam.id_prova}/${q.id_questao}`}
+                      className="inline-flex items-center gap-1 font-semibold text-indigo-600 dark:text-indigo-400 hover:text-indigo-700 group-hover:translate-x-0.5 transition-transform"
+                    >
+                      Auditar
+                      <ArrowRight className="w-3.5 h-3.5" />
+                    </Link>
+                  </div>
                 </div>
               </div>
             );

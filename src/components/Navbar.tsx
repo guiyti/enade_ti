@@ -16,6 +16,11 @@ export function Navbar() {
   const pathname = usePathname();
   const isAdmin = pathname.startsWith("/admin");
   const isDocente = pathname.startsWith("/docente");
+  const isApresentacao = pathname.startsWith("/docente/apresentacao");
+
+  if (isApresentacao) {
+    return null;
+  }
 
   return (
     <header className="sticky top-0 z-50 w-full glass-panel border-b border-slate-200/80 dark:border-slate-800/80">

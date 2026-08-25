@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getAllExams, getGlobalStats } from "@/lib/enade";
+import { AdminAuditFlagsSection } from "@/components/AdminAuditFlagsSection";
 import { 
   ShieldCheck, 
   AlertTriangle, 
@@ -90,6 +91,9 @@ export default async function AdminDashboardPage() {
           <div className="text-xs text-slate-500 mt-1">Score geral inferior a 90%</div>
         </div>
       </div>
+
+      {/* Audit Flags Section (Sinalizações de Docentes e Auditores) */}
+      <AdminAuditFlagsSection />
 
       {/* Exams Table */}
       <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm overflow-hidden">
