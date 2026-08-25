@@ -25,13 +25,13 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig1.jpeg",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig2.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig3.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig4.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig5.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig6.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q14_fig7.png"
+    "/questoes/2011_CCP/figuras/q14_fig1.jpeg",
+    "/questoes/2011_CCP/figuras/q14_fig2.png",
+    "/questoes/2011_CCP/figuras/q14_fig3.png",
+    "/questoes/2011_CCP/figuras/q14_fig4.png",
+    "/questoes/2011_CCP/figuras/q14_fig5.png",
+    "/questoes/2011_CCP/figuras/q14_fig6.png",
+    "/questoes/2011_CCP/figuras/q14_fig7.png"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -52,5 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:50:27.656410"
+  "criado_em": "2026-08-25T15:05:31.109564"
 }

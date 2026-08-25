@@ -69,8 +69,8 @@ def test_process_exam_full_pipeline():
     
     for q in exam.questoes:
         assert q.numero > 0
-        assert q.caminho_png != ""
-        assert Path(q.caminho_png).exists()
+        assert q.caminho_png.startswith("/questoes/")
+        assert (config.QUESTOES_DIR / exam.id_prova / f"{q.id_questao}.png").exists()
         assert q.caminho_json != ""
         assert Path(q.caminho_json).exists()
         assert q.confianca > 0

@@ -7,9 +7,9 @@
   "total_paginas": 40,
   "questoes_detectadas": 38,
   "questoes_extraidas": 38,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:51:47.034069",
+  "processado_em": "2026-08-25T15:06:58.845389",
   "paginas": [
     {
       "numero": 1,
@@ -16204,7 +16204,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -16222,7 +16222,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146270"
+      "criado_em": "2026-08-25T15:07:11.278613"
     },
     {
       "id_questao": "qd02",
@@ -16254,7 +16254,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -16272,7 +16272,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146312"
+      "criado_em": "2026-08-25T15:07:11.278634"
     },
     {
       "id_questao": "q01",
@@ -16304,7 +16304,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -16322,7 +16322,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146317"
+      "criado_em": "2026-08-25T15:07:11.278640"
     },
     {
       "id_questao": "q02",
@@ -16354,7 +16354,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -16372,7 +16372,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146322"
+      "criado_em": "2026-08-25T15:07:11.278645"
     },
     {
       "id_questao": "q03",
@@ -16404,7 +16404,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -16422,7 +16422,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146326"
+      "criado_em": "2026-08-25T15:07:11.278649"
     },
     {
       "id_questao": "q04",
@@ -16451,12 +16451,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q04_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q04_fig1.jpeg"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -16474,7 +16474,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146330"
+      "criado_em": "2026-08-25T15:07:11.278653"
     },
     {
       "id_questao": "q05",
@@ -16503,12 +16503,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q05_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q05_fig1.jpeg"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -16526,7 +16526,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146334"
+      "criado_em": "2026-08-25T15:07:11.278657"
     },
     {
       "id_questao": "q06",
@@ -16558,7 +16558,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 6,
@@ -16576,7 +16576,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146339"
+      "criado_em": "2026-08-25T15:07:11.278662"
     },
     {
       "id_questao": "q07",
@@ -16608,7 +16608,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 7,
@@ -16626,7 +16626,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146344"
+      "criado_em": "2026-08-25T15:07:11.278666"
     },
     {
       "id_questao": "q08",
@@ -16664,12 +16664,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q08_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q08_fig1.jpeg"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 8,
@@ -16687,7 +16687,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146349"
+      "criado_em": "2026-08-25T15:07:11.278671"
     },
     {
       "id_questao": "qd03",
@@ -16737,7 +16737,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -16755,7 +16755,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146354"
+      "criado_em": "2026-08-25T15:07:11.278677"
     },
     {
       "id_questao": "q09",
@@ -16787,7 +16787,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 9,
@@ -16805,7 +16805,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146358"
+      "criado_em": "2026-08-25T15:07:11.278682"
     },
     {
       "id_questao": "q10",
@@ -16837,7 +16837,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 10,
@@ -16855,7 +16855,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146363"
+      "criado_em": "2026-08-25T15:07:11.278686"
     },
     {
       "id_questao": "q11",
@@ -16887,7 +16887,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 11,
@@ -16905,7 +16905,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146367"
+      "criado_em": "2026-08-25T15:07:11.278690"
     },
     {
       "id_questao": "q12",
@@ -16937,7 +16937,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 12,
@@ -16955,7 +16955,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146372"
+      "criado_em": "2026-08-25T15:07:11.278694"
     },
     {
       "id_questao": "q13",
@@ -16987,7 +16987,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 13,
@@ -17005,7 +17005,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146376"
+      "criado_em": "2026-08-25T15:07:11.278698"
     },
     {
       "id_questao": "q14",
@@ -17037,7 +17037,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 14,
@@ -17055,7 +17055,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146380"
+      "criado_em": "2026-08-25T15:07:11.278702"
     },
     {
       "id_questao": "q15",
@@ -17087,7 +17087,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 15,
@@ -17105,7 +17105,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146385"
+      "criado_em": "2026-08-25T15:07:11.278706"
     },
     {
       "id_questao": "q16",
@@ -17137,7 +17137,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 16,
@@ -17155,7 +17155,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146389"
+      "criado_em": "2026-08-25T15:07:11.278710"
     },
     {
       "id_questao": "q17",
@@ -17187,7 +17187,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 17,
@@ -17205,7 +17205,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146393"
+      "criado_em": "2026-08-25T15:07:11.278714"
     },
     {
       "id_questao": "q18",
@@ -17234,12 +17234,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q18_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q18_fig1.jpeg"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 18,
@@ -17257,7 +17257,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146397"
+      "criado_em": "2026-08-25T15:07:11.278718"
     },
     {
       "id_questao": "q19",
@@ -17295,13 +17295,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q19_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q19_fig1.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
         "Redes e Segurança"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 19,
@@ -17319,7 +17319,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146402"
+      "criado_em": "2026-08-25T15:07:11.278722"
     },
     {
       "id_questao": "q20",
@@ -17348,12 +17348,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/figuras/q20_fig1.jpeg"
+        "/questoes/2017_GTI/figuras/q20_fig1.jpeg"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 20,
@@ -17371,7 +17371,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146406"
+      "criado_em": "2026-08-25T15:07:11.278727"
     },
     {
       "id_questao": "q21",
@@ -17403,7 +17403,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 21,
@@ -17421,7 +17421,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146410"
+      "criado_em": "2026-08-25T15:07:11.278731"
     },
     {
       "id_questao": "q22",
@@ -17453,7 +17453,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 22,
@@ -17471,7 +17471,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146415"
+      "criado_em": "2026-08-25T15:07:11.278735"
     },
     {
       "id_questao": "q23",
@@ -17503,7 +17503,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 23,
@@ -17521,7 +17521,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146419"
+      "criado_em": "2026-08-25T15:07:11.278739"
     },
     {
       "id_questao": "q24",
@@ -17553,7 +17553,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 24,
@@ -17571,7 +17571,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146423"
+      "criado_em": "2026-08-25T15:07:11.278743"
     },
     {
       "id_questao": "q25",
@@ -17603,7 +17603,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 25,
@@ -17621,7 +17621,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146427"
+      "criado_em": "2026-08-25T15:07:11.278747"
     },
     {
       "id_questao": "q26",
@@ -17653,7 +17653,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 26,
@@ -17671,7 +17671,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146431"
+      "criado_em": "2026-08-25T15:07:11.278751"
     },
     {
       "id_questao": "q27",
@@ -17703,7 +17703,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 27,
@@ -17721,7 +17721,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146435"
+      "criado_em": "2026-08-25T15:07:11.278755"
     },
     {
       "id_questao": "q28",
@@ -17753,7 +17753,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 28,
@@ -17771,7 +17771,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146440"
+      "criado_em": "2026-08-25T15:07:11.278759"
     },
     {
       "id_questao": "q29",
@@ -17803,7 +17803,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 29,
@@ -17821,7 +17821,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146444"
+      "criado_em": "2026-08-25T15:07:11.278763"
     },
     {
       "id_questao": "q30",
@@ -17853,7 +17853,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 30,
@@ -17871,7 +17871,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146448"
+      "criado_em": "2026-08-25T15:07:11.278766"
     },
     {
       "id_questao": "q31",
@@ -17903,7 +17903,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 31,
@@ -17921,7 +17921,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146452"
+      "criado_em": "2026-08-25T15:07:11.278771"
     },
     {
       "id_questao": "q32",
@@ -17953,7 +17953,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 32,
@@ -17971,7 +17971,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146456"
+      "criado_em": "2026-08-25T15:07:11.278775"
     },
     {
       "id_questao": "q33",
@@ -18003,7 +18003,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 33,
@@ -18021,7 +18021,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146460"
+      "criado_em": "2026-08-25T15:07:11.278779"
     },
     {
       "id_questao": "q34",
@@ -18053,7 +18053,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 34,
@@ -18071,7 +18071,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146464"
+      "criado_em": "2026-08-25T15:07:11.278782"
     },
     {
       "id_questao": "q35",
@@ -18103,7 +18103,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 35,
@@ -18121,237 +18121,8 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:52:00.146469"
+      "criado_em": "2026-08-25T15:07:11.278787"
     }
   ],
-  "anomalias": [
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd01 não existe",
-      "questao": "qd01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd02 não existe",
-      "questao": "qd02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q01 não existe",
-      "questao": "q01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q02 não existe",
-      "questao": "q02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q03 não existe",
-      "questao": "q03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q04 não existe",
-      "questao": "q04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q05 não existe",
-      "questao": "q05"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q06 não existe",
-      "questao": "q06"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q07 não existe",
-      "questao": "q07"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q08 não existe",
-      "questao": "q08"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd03 não existe",
-      "questao": "qd03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q09 não existe",
-      "questao": "q09"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q10 não existe",
-      "questao": "q10"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q11 não existe",
-      "questao": "q11"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q12 não existe",
-      "questao": "q12"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q13 não existe",
-      "questao": "q13"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q14 não existe",
-      "questao": "q14"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q15 não existe",
-      "questao": "q15"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q16 não existe",
-      "questao": "q16"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q17 não existe",
-      "questao": "q17"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q18 não existe",
-      "questao": "q18"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q19 não existe",
-      "questao": "q19"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q20 não existe",
-      "questao": "q20"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q21 não existe",
-      "questao": "q21"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q22 não existe",
-      "questao": "q22"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q23 não existe",
-      "questao": "q23"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q24 não existe",
-      "questao": "q24"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q25 não existe",
-      "questao": "q25"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q26 não existe",
-      "questao": "q26"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q27 não existe",
-      "questao": "q27"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q28 não existe",
-      "questao": "q28"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q29 não existe",
-      "questao": "q29"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q30 não existe",
-      "questao": "q30"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q31 não existe",
-      "questao": "q31"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q32 não existe",
-      "questao": "q32"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q33 não existe",
-      "questao": "q33"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q34 não existe",
-      "questao": "q34"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q35 não existe",
-      "questao": "q35"
-    }
-  ]
+  "anomalias": []
 }

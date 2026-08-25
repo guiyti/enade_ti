@@ -25,8 +25,8 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q26_fig1.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q26_fig2.png"
+    "/questoes/2008_CCP/figuras/q26_fig1.png",
+    "/questoes/2008_CCP/figuras/q26_fig2.png"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -47,5 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:49:50.887060"
+  "criado_em": "2026-08-25T15:04:50.751156"
 }

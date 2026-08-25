@@ -33,7 +33,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd09_fig1.jpeg"
+    "/questoes/2008_CCP/figuras/qd09_fig1.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -54,5 +54,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:49:50.886988"
+  "criado_em": "2026-08-25T15:04:50.751070"
 }

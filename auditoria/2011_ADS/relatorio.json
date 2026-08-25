@@ -7,9 +7,9 @@
   "total_paginas": 24,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:50:02.319606",
+  "processado_em": "2026-08-25T15:05:04.002828",
   "paginas": [
     {
       "numero": 1,
@@ -14469,7 +14469,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -14487,7 +14487,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560072"
+      "criado_em": "2026-08-25T15:05:12.822302"
     },
     {
       "id_questao": "q02",
@@ -14520,7 +14520,7 @@
         "Engenharia de Software",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -14538,7 +14538,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560097"
+      "criado_em": "2026-08-25T15:05:12.822319"
     },
     {
       "id_questao": "q03",
@@ -14570,7 +14570,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -14588,7 +14588,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560103"
+      "criado_em": "2026-08-25T15:05:12.822325"
     },
     {
       "id_questao": "q04",
@@ -14620,7 +14620,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -14638,7 +14638,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560107"
+      "criado_em": "2026-08-25T15:05:12.822331"
     },
     {
       "id_questao": "q05",
@@ -14667,14 +14667,14 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q05_fig1.jpeg"
+        "/questoes/2011_ADS/figuras/q05_fig1.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -14692,7 +14692,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560112"
+      "criado_em": "2026-08-25T15:05:12.822336"
     },
     {
       "id_questao": "q06",
@@ -14721,18 +14721,18 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig3.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig4.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig5.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/figuras/q06_fig6.jpeg"
+        "/questoes/2011_ADS/figuras/q06_fig1.jpeg",
+        "/questoes/2011_ADS/figuras/q06_fig2.jpeg",
+        "/questoes/2011_ADS/figuras/q06_fig3.jpeg",
+        "/questoes/2011_ADS/figuras/q06_fig4.jpeg",
+        "/questoes/2011_ADS/figuras/q06_fig5.jpeg",
+        "/questoes/2011_ADS/figuras/q06_fig6.jpeg"
       ],
       "categorias": [
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 6,
@@ -14750,7 +14750,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560117"
+      "criado_em": "2026-08-25T15:05:12.822341"
     },
     {
       "id_questao": "q07",
@@ -14782,7 +14782,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 7,
@@ -14800,7 +14800,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560121"
+      "criado_em": "2026-08-25T15:05:12.822346"
     },
     {
       "id_questao": "q08",
@@ -14832,7 +14832,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 8,
@@ -14850,7 +14850,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560125"
+      "criado_em": "2026-08-25T15:05:12.822351"
     },
     {
       "id_questao": "qd01",
@@ -14882,7 +14882,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -14900,7 +14900,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560130"
+      "criado_em": "2026-08-25T15:05:12.822356"
     },
     {
       "id_questao": "qd02",
@@ -14933,7 +14933,7 @@
         "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -14951,7 +14951,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560134"
+      "criado_em": "2026-08-25T15:05:12.822361"
     },
     {
       "id_questao": "q09",
@@ -14983,7 +14983,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 9,
@@ -15001,7 +15001,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560139"
+      "criado_em": "2026-08-25T15:05:12.822366"
     },
     {
       "id_questao": "q10",
@@ -15035,7 +15035,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 10,
@@ -15053,7 +15053,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560143"
+      "criado_em": "2026-08-25T15:05:12.822371"
     },
     {
       "id_questao": "q11",
@@ -15087,7 +15087,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 11,
@@ -15105,7 +15105,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560147"
+      "criado_em": "2026-08-25T15:05:12.822376"
     },
     {
       "id_questao": "q12",
@@ -15138,7 +15138,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 12,
@@ -15156,7 +15156,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560151"
+      "criado_em": "2026-08-25T15:05:12.822380"
     },
     {
       "id_questao": "q13",
@@ -15188,7 +15188,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 13,
@@ -15206,7 +15206,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560156"
+      "criado_em": "2026-08-25T15:05:12.822385"
     },
     {
       "id_questao": "q14",
@@ -15238,7 +15238,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 14,
@@ -15256,7 +15256,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560160"
+      "criado_em": "2026-08-25T15:05:12.822390"
     },
     {
       "id_questao": "q15",
@@ -15289,7 +15289,7 @@
         "Programação e POO",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 15,
@@ -15307,7 +15307,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560165"
+      "criado_em": "2026-08-25T15:05:12.822395"
     },
     {
       "id_questao": "q16",
@@ -15339,7 +15339,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 16,
@@ -15357,7 +15357,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560169"
+      "criado_em": "2026-08-25T15:05:12.822400"
     },
     {
       "id_questao": "q17",
@@ -15389,7 +15389,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 17,
@@ -15407,7 +15407,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560173"
+      "criado_em": "2026-08-25T15:05:12.822404"
     },
     {
       "id_questao": "q18",
@@ -15441,7 +15441,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 18,
@@ -15459,7 +15459,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560177"
+      "criado_em": "2026-08-25T15:05:12.822409"
     },
     {
       "id_questao": "q19",
@@ -15491,7 +15491,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 19,
@@ -15509,7 +15509,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560183"
+      "criado_em": "2026-08-25T15:05:12.822414"
     },
     {
       "id_questao": "q20",
@@ -15543,7 +15543,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 20,
@@ -15561,7 +15561,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560187"
+      "criado_em": "2026-08-25T15:05:12.822418"
     },
     {
       "id_questao": "q21",
@@ -15593,7 +15593,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 21,
@@ -15611,7 +15611,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560192"
+      "criado_em": "2026-08-25T15:05:12.822423"
     },
     {
       "id_questao": "q22",
@@ -15643,7 +15643,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 22,
@@ -15661,7 +15661,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560195"
+      "criado_em": "2026-08-25T15:05:12.822428"
     },
     {
       "id_questao": "q23",
@@ -15693,7 +15693,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 23,
@@ -15711,7 +15711,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560199"
+      "criado_em": "2026-08-25T15:05:12.822433"
     },
     {
       "id_questao": "q24",
@@ -15743,7 +15743,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 24,
@@ -15761,7 +15761,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560203"
+      "criado_em": "2026-08-25T15:05:12.822437"
     },
     {
       "id_questao": "q25",
@@ -15793,7 +15793,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 25,
@@ -15811,7 +15811,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560207"
+      "criado_em": "2026-08-25T15:05:12.822442"
     },
     {
       "id_questao": "q26",
@@ -15844,7 +15844,7 @@
         "Banco de Dados",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 26,
@@ -15862,7 +15862,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560212"
+      "criado_em": "2026-08-25T15:05:12.822446"
     },
     {
       "id_questao": "q27",
@@ -15895,7 +15895,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 27,
@@ -15913,7 +15913,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560216"
+      "criado_em": "2026-08-25T15:05:12.822451"
     },
     {
       "id_questao": "q28",
@@ -15946,7 +15946,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 28,
@@ -15964,7 +15964,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560220"
+      "criado_em": "2026-08-25T15:05:12.822456"
     },
     {
       "id_questao": "q29",
@@ -15996,7 +15996,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 29,
@@ -16014,7 +16014,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560224"
+      "criado_em": "2026-08-25T15:05:12.822460"
     },
     {
       "id_questao": "q30",
@@ -16046,7 +16046,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 30,
@@ -16064,7 +16064,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560228"
+      "criado_em": "2026-08-25T15:05:12.822465"
     },
     {
       "id_questao": "q31",
@@ -16097,7 +16097,7 @@
         "Banco de Dados",
         "Redes e Segurança"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 31,
@@ -16115,7 +16115,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560232"
+      "criado_em": "2026-08-25T15:05:12.822470"
     },
     {
       "id_questao": "q32",
@@ -16148,7 +16148,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 32,
@@ -16166,7 +16166,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560236"
+      "criado_em": "2026-08-25T15:05:12.822474"
     },
     {
       "id_questao": "q33",
@@ -16198,7 +16198,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 33,
@@ -16216,7 +16216,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560241"
+      "criado_em": "2026-08-25T15:05:12.822481"
     },
     {
       "id_questao": "q34",
@@ -16248,7 +16248,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 34,
@@ -16266,7 +16266,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560245"
+      "criado_em": "2026-08-25T15:05:12.822486"
     },
     {
       "id_questao": "q35",
@@ -16298,7 +16298,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 35,
@@ -16316,7 +16316,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560249"
+      "criado_em": "2026-08-25T15:05:12.822491"
     },
     {
       "id_questao": "qd03",
@@ -16349,7 +16349,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -16367,7 +16367,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560253"
+      "criado_em": "2026-08-25T15:05:12.822496"
     },
     {
       "id_questao": "qd04",
@@ -16399,7 +16399,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -16417,7 +16417,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560257"
+      "criado_em": "2026-08-25T15:05:12.822501"
     },
     {
       "id_questao": "qd05",
@@ -16449,7 +16449,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -16467,249 +16467,8 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:50:10.560262"
+      "criado_em": "2026-08-25T15:05:12.822506"
     }
   ],
-  "anomalias": [
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q01 não existe",
-      "questao": "q01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q02 não existe",
-      "questao": "q02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q03 não existe",
-      "questao": "q03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q04 não existe",
-      "questao": "q04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q05 não existe",
-      "questao": "q05"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q06 não existe",
-      "questao": "q06"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q07 não existe",
-      "questao": "q07"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q08 não existe",
-      "questao": "q08"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd01 não existe",
-      "questao": "qd01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd02 não existe",
-      "questao": "qd02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q09 não existe",
-      "questao": "q09"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q10 não existe",
-      "questao": "q10"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q11 não existe",
-      "questao": "q11"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q12 não existe",
-      "questao": "q12"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q13 não existe",
-      "questao": "q13"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q14 não existe",
-      "questao": "q14"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q15 não existe",
-      "questao": "q15"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q16 não existe",
-      "questao": "q16"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q17 não existe",
-      "questao": "q17"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q18 não existe",
-      "questao": "q18"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q19 não existe",
-      "questao": "q19"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q20 não existe",
-      "questao": "q20"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q21 não existe",
-      "questao": "q21"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q22 não existe",
-      "questao": "q22"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q23 não existe",
-      "questao": "q23"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q24 não existe",
-      "questao": "q24"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q25 não existe",
-      "questao": "q25"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q26 não existe",
-      "questao": "q26"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q27 não existe",
-      "questao": "q27"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q28 não existe",
-      "questao": "q28"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q29 não existe",
-      "questao": "q29"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q30 não existe",
-      "questao": "q30"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q31 não existe",
-      "questao": "q31"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q32 não existe",
-      "questao": "q32"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q33 não existe",
-      "questao": "q33"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q34 não existe",
-      "questao": "q34"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q35 não existe",
-      "questao": "q35"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd03 não existe",
-      "questao": "qd03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd04 não existe",
-      "questao": "qd04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd05 não existe",
-      "questao": "qd05"
-    }
-  ]
+  "anomalias": []
 }

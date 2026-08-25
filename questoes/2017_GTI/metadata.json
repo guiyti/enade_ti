@@ -6,7 +6,7 @@
   "total_paginas": 40,
   "questoes_detectadas": 38,
   "questoes_extraidas": 38,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
   "questoes": [
     {
@@ -20,7 +20,7 @@
       "largura": 2440,
       "altura": 3651,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -40,7 +40,7 @@
       "largura": 2440,
       "altura": 1716,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -60,7 +60,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -80,7 +80,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -100,7 +100,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -120,7 +120,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -140,7 +140,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -160,7 +160,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -180,7 +180,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -201,7 +201,7 @@
       "largura": 2440,
       "altura": 3060,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -223,7 +223,7 @@
       "largura": 2440,
       "altura": 4015,
       "confianca": 0.9,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -243,7 +243,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -263,7 +263,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -283,7 +283,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -303,7 +303,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -323,7 +323,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -343,7 +343,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -363,7 +363,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -383,7 +383,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -403,7 +403,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -423,7 +423,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -444,7 +444,7 @@
       "largura": 2440,
       "altura": 5532,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Banco de Dados",
         "Redes e Segurança"
@@ -465,7 +465,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -485,7 +485,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -505,7 +505,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -525,7 +525,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -545,7 +545,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -565,7 +565,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -585,7 +585,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -605,7 +605,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -625,7 +625,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -645,7 +645,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -665,7 +665,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -685,7 +685,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -705,7 +705,7 @@
       "largura": 1222,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -725,7 +725,7 @@
       "largura": 1223,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -745,7 +745,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -765,7 +765,7 @@
       "largura": 2440,
       "altura": 2905,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],

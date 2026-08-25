@@ -4,6 +4,7 @@ import cv2
 
 from ..core.models import Exam, Question, QuestionStatus, QuestionType, Severity
 from ..utils.logging import get_logger
+from ..config import config
 
 logger = get_logger(__name__)
 
@@ -113,16 +114,19 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
     
     for q in exam.questoes:
-        p = Path(q.caminho_png)
-        if not p.is_absolute():
-            # Resolve relative web path like /questoes/2024_CCP/q01.png
-            clean_rel = q.caminho_png.lstrip("/")
-            resolved_p = config.BASE_DIR / "public" / clean_rel
-            if not resolved_p.exists():
-                resolved_p = config.QUESTOES_DIR / exam.id_prova / f"{q.id_questao}.png"
-            p = resolved_p
+        filename = f"{q.id_questao}.png"
+        candidates = [
+            config.QUESTOES_DIR / exam.id_prova / filename,
+            config.BASE_DIR / "public" / "questoes" / exam.id_prova / filename,
+            config.BASE_DIR / "questoes" / exam.id_prova / filename
+        ]
+        found_path = None
+        for cand in candidates:
+            if cand.exists():
+                found_path = cand
+                break
             
-        if not p.exists():
+        if not found_path:
             anomalias.append({
                 "tipo": "IMAGEM_NAO_ENCONTRADA",
                 "severidade": "ERROR",
@@ -132,7 +136,7 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
             q.status = QuestionStatus.REJEITADA
             continue
             
-        img = cv2.imread(str(p))
+        img = cv2.imread(str(found_path))
         if img is None:
             anomalias.append({
                 "tipo": "IMAGEM_CORROMPIDA",
@@ -141,6 +145,9 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
                 "questao": q.id_questao
             })
             q.status = QuestionStatus.REJEITADA
+        else:
+            if q.status == QuestionStatus.PENDENTE:
+                q.status = QuestionStatus.APROVADA if q.confianca >= 0.6 else QuestionStatus.REVISAR
             
     return anomalias
 
@@ -149,24 +156,17 @@ def calculate_overall_score(exam: Exam, anomalias: List[Dict[str, Any]]) -> floa
     if not exam.questoes:
         return 0.0
     
-    base_score = 100.0
-    
-    critical_count = sum(1 for a in anomalias if a.get("severidade") == "CRITICAL")
-    error_count = sum(1 for a in anomalias if a.get("severidade") == "ERROR")
-    warning_count = sum(1 for a in anomalias if a.get("severidade") == "WARNING")
-    
-    base_score -= critical_count * 20
-    base_score -= error_count * 10
-    base_score -= warning_count * 2
-    
+    total = len(exam.questoes)
     approved = sum(1 for q in exam.questoes if q.status == QuestionStatus.APROVADA)
     pending = sum(1 for q in exam.questoes if q.status == QuestionStatus.PENDENTE)
     review = sum(1 for q in exam.questoes if q.status == QuestionStatus.REVISAR)
     rejected = sum(1 for q in exam.questoes if q.status == QuestionStatus.REJEITADA)
     
-    total = len(exam.questoes)
-    if total > 0:
-        status_score = (approved * 1.0 + pending * 0.95 + review * 0.7 + rejected * 0.0) / total * 100
-        base_score = (base_score + status_score) / 2
+    status_score = (approved * 1.0 + pending * 0.95 + review * 0.7 + rejected * 0.0) / total * 100
     
-    return max(0.0, min(100.0, base_score))
+    critical_count = sum(1 for a in anomalias if a.get("severidade") == "CRITICAL")
+    error_count = sum(1 for a in anomalias if a.get("severidade") == "ERROR")
+    warning_count = sum(1 for a in anomalias if a.get("severidade") == "WARNING")
+    
+    deductions = (critical_count * 5.0) + (error_count * 2.0) + (warning_count * 0.5)
+    return max(0.0, min(100.0, status_score - deductions))

@@ -10,6 +10,7 @@ from src.enade.processing.png_generator import (
     extract_and_save_question
 )
 from src.enade.core.models import Exam, Question, PageData, Segment, QuestionType
+from src.enade.config import config
 
 
 def create_test_image(width, height, color=(255, 255, 255)):
@@ -76,7 +77,8 @@ def test_extract_and_save_question(tmp_path):
     )
     
     question = extract_and_save_question(exam, question, doc)
-    assert Path(question.caminho_png).exists()
+    assert question.caminho_png.startswith("/questoes/")
+    assert (config.QUESTOES_DIR / exam.id_prova / f"{question.id_questao}.png").exists()
     assert Path(question.caminho_json).exists()
     assert Path(question.caminho_txt).exists()
     assert question.largura > 0

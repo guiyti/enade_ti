@@ -157,10 +157,11 @@ def combine_segments_vertically(segment_images: List[np.ndarray], gap_px: int = 
 def extract_question_text_and_figures(
     doc: fitz.Document, 
     question: Question, 
-    figures_dir: Path
+    figures_dir: Path,
+    exam_id: str = ""
 ) -> Tuple[str, List[str]]:
     """
-    Extracts text inside the question's segment bounding boxes and exports any embedded raster figures.
+    Extracts high fidelity text and embedded diagrams/raster figures from question segments.
     """
     text_parts = []
     figure_paths = []
@@ -195,7 +196,9 @@ def extract_question_text_and_figures(
                         figures_dir.mkdir(parents=True, exist_ok=True)
                         with open(fig_file, "wb") as f:
                             f.write(base_img["image"])
-                        figure_paths.append(str(fig_file))
+                        
+                        web_path = f"/questoes/{exam_id}/figuras/{fig_name}" if exam_id else str(fig_file)
+                        figure_paths.append(web_path)
                         break
         except Exception:
             pass
@@ -247,7 +250,7 @@ def extract_and_save_question(
     question.caminho_png = f"/questoes/{exam.id_prova}/{question.id_questao}.png"
     
     # Extract text & embedded figures
-    text, figures = extract_question_text_and_figures(doc, question, figures_dir)
+    text, figures = extract_question_text_and_figures(doc, question, figures_dir, exam.id_prova)
     question.texto_completo = text
     question.figuras = figures
     

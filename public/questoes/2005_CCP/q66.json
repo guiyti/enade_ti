@@ -34,9 +34,9 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig1.jpeg",
-    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig2.jpeg",
-    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig3.jpeg"
+    "/questoes/2005_CCP/figuras/q66_fig1.jpeg",
+    "/questoes/2005_CCP/figuras/q66_fig2.jpeg",
+    "/questoes/2005_CCP/figuras/q66_fig3.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -57,5 +57,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:49:27.752989"
+  "criado_em": "2026-08-25T15:04:22.986393"
 }

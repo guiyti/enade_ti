@@ -17,6 +17,8 @@ import {
   Tag
 } from "lucide-react";
 
+import { AdminFullPageModal } from "@/components/AdminFullPageModal";
+
 export const dynamic = "force-static";
 
 export async function generateStaticParams() {
@@ -53,7 +55,7 @@ export default async function AdminQuestionDetailPage({ params }: PageProps) {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-6">
       {/* Top Breadcrumb */}
-      <div className="flex items-center justify-between">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <Link
           href={`/admin/${exam.id_prova}`}
           className="inline-flex items-center gap-2 text-xs font-semibold text-slate-500 hover:text-slate-900 dark:hover:text-white transition-colors"
@@ -63,11 +65,20 @@ export default async function AdminQuestionDetailPage({ params }: PageProps) {
         </Link>
 
         <div className="flex items-center gap-3 text-xs">
+          <AdminFullPageModal
+            id_prova={exam.id_prova}
+            totalPaginas={exam.total_paginas}
+            initialPage={question.paginas[0] || 1}
+            questionId={question.id_questao}
+            questionPngUrl={question.caminho_png}
+            buttonLabel="📄 Ver Folha Completa & Adjacentes"
+          />
+
           <Link
             href={`/docente/apresentacao/${exam.id_prova}/${question.id_questao}`}
-            className="px-3.5 py-1.5 rounded-lg bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300 font-semibold hover:bg-sky-100 transition-colors"
+            className="px-3.5 py-2 rounded-xl bg-sky-50 text-sky-700 dark:bg-sky-950 dark:text-sky-300 font-semibold hover:bg-sky-100 transition-colors"
           >
-            Apresentar em Sala de Aula
+            Apresentar em Sala
           </Link>
         </div>
       </div>

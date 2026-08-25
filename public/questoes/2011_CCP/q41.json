@@ -25,7 +25,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q41_fig1.jpeg"
+    "/questoes/2011_CCP/figuras/q41_fig1.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:50:27.656527"
+  "criado_em": "2026-08-25T15:05:31.109698"
 }

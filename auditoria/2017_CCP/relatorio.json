@@ -7,9 +7,9 @@
   "total_paginas": 40,
   "questoes_detectadas": 38,
   "questoes_extraidas": 38,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:51:28.033489",
+  "processado_em": "2026-08-25T15:06:39.171840",
   "paginas": [
     {
       "numero": 1,
@@ -16184,7 +16184,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -16202,7 +16202,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621229"
+      "criado_em": "2026-08-25T15:06:51.721152"
     },
     {
       "id_questao": "qd02",
@@ -16234,7 +16234,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -16252,7 +16252,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621259"
+      "criado_em": "2026-08-25T15:06:51.721178"
     },
     {
       "id_questao": "q01",
@@ -16284,7 +16284,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -16302,7 +16302,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621264"
+      "criado_em": "2026-08-25T15:06:51.721184"
     },
     {
       "id_questao": "q02",
@@ -16334,7 +16334,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -16352,7 +16352,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621268"
+      "criado_em": "2026-08-25T15:06:51.721189"
     },
     {
       "id_questao": "q03",
@@ -16384,7 +16384,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -16402,7 +16402,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621273"
+      "criado_em": "2026-08-25T15:06:51.721193"
     },
     {
       "id_questao": "q04",
@@ -16431,12 +16431,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q04_fig1.jpeg"
+        "/questoes/2017_CCP/figuras/q04_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -16454,7 +16454,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621277"
+      "criado_em": "2026-08-25T15:06:51.721197"
     },
     {
       "id_questao": "q05",
@@ -16483,12 +16483,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q05_fig1.jpeg"
+        "/questoes/2017_CCP/figuras/q05_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -16506,7 +16506,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621281"
+      "criado_em": "2026-08-25T15:06:51.721201"
     },
     {
       "id_questao": "q06",
@@ -16538,7 +16538,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 6,
@@ -16556,7 +16556,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621285"
+      "criado_em": "2026-08-25T15:06:51.721205"
     },
     {
       "id_questao": "q07",
@@ -16588,7 +16588,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 7,
@@ -16606,7 +16606,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621290"
+      "criado_em": "2026-08-25T15:06:51.721210"
     },
     {
       "id_questao": "q08",
@@ -16644,12 +16644,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q08_fig1.jpeg"
+        "/questoes/2017_CCP/figuras/q08_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 8,
@@ -16667,7 +16667,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621295"
+      "criado_em": "2026-08-25T15:06:51.721214"
     },
     {
       "id_questao": "qd03",
@@ -16717,7 +16717,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -16735,7 +16735,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621300"
+      "criado_em": "2026-08-25T15:06:51.721220"
     },
     {
       "id_questao": "q09",
@@ -16767,7 +16767,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 9,
@@ -16785,7 +16785,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621305"
+      "criado_em": "2026-08-25T15:06:51.721224"
     },
     {
       "id_questao": "q10",
@@ -16817,7 +16817,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 10,
@@ -16835,7 +16835,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621309"
+      "criado_em": "2026-08-25T15:06:51.721229"
     },
     {
       "id_questao": "q11",
@@ -16867,7 +16867,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 11,
@@ -16885,7 +16885,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621313"
+      "criado_em": "2026-08-25T15:06:51.721232"
     },
     {
       "id_questao": "q12",
@@ -16917,7 +16917,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 12,
@@ -16935,7 +16935,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621317"
+      "criado_em": "2026-08-25T15:06:51.721236"
     },
     {
       "id_questao": "q13",
@@ -16967,7 +16967,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 13,
@@ -16985,7 +16985,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621321"
+      "criado_em": "2026-08-25T15:06:51.721240"
     },
     {
       "id_questao": "q14",
@@ -17017,7 +17017,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 14,
@@ -17035,7 +17035,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621325"
+      "criado_em": "2026-08-25T15:06:51.721244"
     },
     {
       "id_questao": "q15",
@@ -17067,7 +17067,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 15,
@@ -17085,7 +17085,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621329"
+      "criado_em": "2026-08-25T15:06:51.721248"
     },
     {
       "id_questao": "q16",
@@ -17117,7 +17117,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 16,
@@ -17135,7 +17135,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621333"
+      "criado_em": "2026-08-25T15:06:51.721252"
     },
     {
       "id_questao": "q17",
@@ -17167,7 +17167,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 17,
@@ -17185,7 +17185,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621337"
+      "criado_em": "2026-08-25T15:06:51.721256"
     },
     {
       "id_questao": "q18",
@@ -17217,7 +17217,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 18,
@@ -17235,7 +17235,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621341"
+      "criado_em": "2026-08-25T15:06:51.721260"
     },
     {
       "id_questao": "q19",
@@ -17267,7 +17267,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 19,
@@ -17285,7 +17285,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621344"
+      "criado_em": "2026-08-25T15:06:51.721263"
     },
     {
       "id_questao": "q20",
@@ -17317,7 +17317,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 20,
@@ -17335,7 +17335,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621348"
+      "criado_em": "2026-08-25T15:06:51.721267"
     },
     {
       "id_questao": "q21",
@@ -17367,7 +17367,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 21,
@@ -17385,7 +17385,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621352"
+      "criado_em": "2026-08-25T15:06:51.721271"
     },
     {
       "id_questao": "q22",
@@ -17417,7 +17417,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 22,
@@ -17435,7 +17435,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621356"
+      "criado_em": "2026-08-25T15:06:51.721275"
     },
     {
       "id_questao": "q23",
@@ -17467,7 +17467,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 23,
@@ -17485,7 +17485,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621360"
+      "criado_em": "2026-08-25T15:06:51.721279"
     },
     {
       "id_questao": "q24",
@@ -17517,7 +17517,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 24,
@@ -17535,7 +17535,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621364"
+      "criado_em": "2026-08-25T15:06:51.721282"
     },
     {
       "id_questao": "q25",
@@ -17567,7 +17567,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 25,
@@ -17585,7 +17585,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621368"
+      "criado_em": "2026-08-25T15:06:51.721286"
     },
     {
       "id_questao": "q26",
@@ -17614,12 +17614,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q26_fig1.jpeg"
+        "/questoes/2017_CCP/figuras/q26_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 26,
@@ -17637,7 +17637,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621371"
+      "criado_em": "2026-08-25T15:06:51.721290"
     },
     {
       "id_questao": "q27",
@@ -17666,12 +17666,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q27_fig1.jpeg"
+        "/questoes/2017_CCP/figuras/q27_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 27,
@@ -17689,7 +17689,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621375"
+      "criado_em": "2026-08-25T15:06:51.721294"
     },
     {
       "id_questao": "q28",
@@ -17721,7 +17721,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 28,
@@ -17739,7 +17739,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621379"
+      "criado_em": "2026-08-25T15:06:51.721298"
     },
     {
       "id_questao": "q29",
@@ -17771,7 +17771,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 29,
@@ -17789,7 +17789,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621383"
+      "criado_em": "2026-08-25T15:06:51.721302"
     },
     {
       "id_questao": "q30",
@@ -17821,7 +17821,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 30,
@@ -17839,7 +17839,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621387"
+      "criado_em": "2026-08-25T15:06:51.721305"
     },
     {
       "id_questao": "q31",
@@ -17871,7 +17871,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 31,
@@ -17889,7 +17889,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621391"
+      "criado_em": "2026-08-25T15:06:51.721309"
     },
     {
       "id_questao": "q32",
@@ -17918,12 +17918,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q32_fig1.png"
+        "/questoes/2017_CCP/figuras/q32_fig1.png"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 32,
@@ -17941,7 +17941,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621394"
+      "criado_em": "2026-08-25T15:06:51.721313"
     },
     {
       "id_questao": "q33",
@@ -17973,7 +17973,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 33,
@@ -17991,7 +17991,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621398"
+      "criado_em": "2026-08-25T15:06:51.721317"
     },
     {
       "id_questao": "q34",
@@ -18023,7 +18023,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 34,
@@ -18041,7 +18041,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621402"
+      "criado_em": "2026-08-25T15:06:51.721321"
     },
     {
       "id_questao": "q35",
@@ -18073,7 +18073,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 35,
@@ -18091,237 +18091,8 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:51:40.621406"
+      "criado_em": "2026-08-25T15:06:51.721324"
     }
   ],
-  "anomalias": [
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd01 não existe",
-      "questao": "qd01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd02 não existe",
-      "questao": "qd02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q01 não existe",
-      "questao": "q01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q02 não existe",
-      "questao": "q02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q03 não existe",
-      "questao": "q03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q04 não existe",
-      "questao": "q04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q05 não existe",
-      "questao": "q05"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q06 não existe",
-      "questao": "q06"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q07 não existe",
-      "questao": "q07"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q08 não existe",
-      "questao": "q08"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd03 não existe",
-      "questao": "qd03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q09 não existe",
-      "questao": "q09"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q10 não existe",
-      "questao": "q10"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q11 não existe",
-      "questao": "q11"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q12 não existe",
-      "questao": "q12"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q13 não existe",
-      "questao": "q13"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q14 não existe",
-      "questao": "q14"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q15 não existe",
-      "questao": "q15"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q16 não existe",
-      "questao": "q16"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q17 não existe",
-      "questao": "q17"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q18 não existe",
-      "questao": "q18"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q19 não existe",
-      "questao": "q19"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q20 não existe",
-      "questao": "q20"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q21 não existe",
-      "questao": "q21"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q22 não existe",
-      "questao": "q22"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q23 não existe",
-      "questao": "q23"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q24 não existe",
-      "questao": "q24"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q25 não existe",
-      "questao": "q25"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q26 não existe",
-      "questao": "q26"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q27 não existe",
-      "questao": "q27"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q28 não existe",
-      "questao": "q28"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q29 não existe",
-      "questao": "q29"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q30 não existe",
-      "questao": "q30"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q31 não existe",
-      "questao": "q31"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q32 não existe",
-      "questao": "q32"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q33 não existe",
-      "questao": "q33"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q34 não existe",
-      "questao": "q34"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q35 não existe",
-      "questao": "q35"
-    }
-  ]
+  "anomalias": []
 }

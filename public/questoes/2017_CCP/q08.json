@@ -34,7 +34,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/figuras/q08_fig1.jpeg"
+    "/questoes/2017_CCP/figuras/q08_fig1.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:51:40.621295"
+  "criado_em": "2026-08-25T15:06:51.721214"
 }

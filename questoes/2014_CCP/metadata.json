@@ -6,7 +6,7 @@
   "total_paginas": 32,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
   "questoes": [
     {
@@ -19,7 +19,7 @@
       "largura": 2254,
       "altura": 1404,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -39,7 +39,7 @@
       "largura": 2254,
       "altura": 1007,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -59,7 +59,7 @@
       "largura": 2254,
       "altura": 1564,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -79,7 +79,7 @@
       "largura": 2254,
       "altura": 1207,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -99,7 +99,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -119,7 +119,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -139,7 +139,7 @@
       "largura": 1130,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -159,7 +159,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -179,7 +179,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -199,7 +199,7 @@
       "largura": 1130,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -219,7 +219,7 @@
       "largura": 2254,
       "altura": 1405,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -239,7 +239,7 @@
       "largura": 2254,
       "altura": 1390,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -259,7 +259,7 @@
       "largura": 2254,
       "altura": 676,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -279,7 +279,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -299,7 +299,7 @@
       "largura": 1129,
       "altura": 1825,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -319,7 +319,7 @@
       "largura": 1130,
       "altura": 2095,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -339,7 +339,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -359,7 +359,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -379,7 +379,7 @@
       "largura": 1130,
       "altura": 1152,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -399,7 +399,7 @@
       "largura": 1130,
       "altura": 1301,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -419,7 +419,7 @@
       "largura": 1130,
       "altura": 5433,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -439,7 +439,7 @@
       "largura": 2254,
       "altura": 1205,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -459,7 +459,7 @@
       "largura": 2254,
       "altura": 1053,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -479,7 +479,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -499,7 +499,7 @@
       "largura": 1130,
       "altura": 2450,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
@@ -520,7 +520,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
@@ -541,7 +541,7 @@
       "largura": 1129,
       "altura": 1925,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -561,7 +561,7 @@
       "largura": 1129,
       "altura": 846,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -581,7 +581,7 @@
       "largura": 1130,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
       ],
@@ -601,7 +601,7 @@
       "largura": 2254,
       "altura": 2306,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -621,7 +621,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -641,7 +641,7 @@
       "largura": 1130,
       "altura": 1432,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -661,7 +661,7 @@
       "largura": 2254,
       "altura": 938,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -681,7 +681,7 @@
       "largura": 2254,
       "altura": 1833,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -701,7 +701,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -721,7 +721,7 @@
       "largura": 1130,
       "altura": 1562,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -741,7 +741,7 @@
       "largura": 1129,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -761,7 +761,7 @@
       "largura": 1130,
       "altura": 2279,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -781,7 +781,7 @@
       "largura": 2254,
       "altura": 2724,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -801,7 +801,7 @@
       "largura": 2254,
       "altura": 1906,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],

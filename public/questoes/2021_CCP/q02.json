@@ -34,7 +34,7 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/figuras/q02_fig1.png"
+    "/questoes/2021_CCP/figuras/q02_fig1.png"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:52:41.914579"
+  "criado_em": "2026-08-25T15:07:53.011327"
 }

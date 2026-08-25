@@ -7,9 +7,9 @@
   "total_paginas": 40,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:52:48.443938",
+  "processado_em": "2026-08-25T15:08:00.539504",
   "paginas": [
     {
       "numero": 1,
@@ -14760,7 +14760,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -14778,7 +14778,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382597"
+      "criado_em": "2026-08-25T15:08:12.385622"
     },
     {
       "id_questao": "qd02",
@@ -14811,7 +14811,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -14829,7 +14829,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382635"
+      "criado_em": "2026-08-25T15:08:12.385644"
     },
     {
       "id_questao": "q01",
@@ -14861,7 +14861,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 1,
@@ -14879,7 +14879,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382640"
+      "criado_em": "2026-08-25T15:08:12.385650"
     },
     {
       "id_questao": "q02",
@@ -14917,12 +14917,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/figuras/q02_fig1.png"
+        "/questoes/2021_GTI/figuras/q02_fig1.png"
       ],
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 2,
@@ -14940,7 +14940,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382645"
+      "criado_em": "2026-08-25T15:08:12.385655"
     },
     {
       "id_questao": "q03",
@@ -14969,12 +14969,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/figuras/q03_fig1.png"
+        "/questoes/2021_GTI/figuras/q03_fig1.png"
       ],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -14992,7 +14992,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382649"
+      "criado_em": "2026-08-25T15:08:12.385659"
     },
     {
       "id_questao": "q04",
@@ -15024,7 +15024,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -15042,7 +15042,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382654"
+      "criado_em": "2026-08-25T15:08:12.385663"
     },
     {
       "id_questao": "q05",
@@ -15080,13 +15080,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/figuras/q05_fig1.png"
+        "/questoes/2021_GTI/figuras/q05_fig1.png"
       ],
       "categorias": [
         "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -15104,7 +15104,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382658"
+      "criado_em": "2026-08-25T15:08:12.385668"
     },
     {
       "id_questao": "q06",
@@ -15138,7 +15138,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 6,
@@ -15156,7 +15156,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382663"
+      "criado_em": "2026-08-25T15:08:12.385673"
     },
     {
       "id_questao": "q07",
@@ -15189,7 +15189,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 7,
@@ -15207,7 +15207,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382667"
+      "criado_em": "2026-08-25T15:08:12.385677"
     },
     {
       "id_questao": "q08",
@@ -15239,7 +15239,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 8,
@@ -15257,7 +15257,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382671"
+      "criado_em": "2026-08-25T15:08:12.385681"
     },
     {
       "id_questao": "qd03",
@@ -15299,7 +15299,7 @@
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -15317,7 +15317,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382676"
+      "criado_em": "2026-08-25T15:08:12.385686"
     },
     {
       "id_questao": "qd04",
@@ -15358,7 +15358,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 4,
@@ -15376,7 +15376,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382681"
+      "criado_em": "2026-08-25T15:08:12.385691"
     },
     {
       "id_questao": "qd05",
@@ -15408,7 +15408,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 5,
@@ -15426,7 +15426,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382685"
+      "criado_em": "2026-08-25T15:08:12.385695"
     },
     {
       "id_questao": "q09",
@@ -15458,7 +15458,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 9,
@@ -15476,7 +15476,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382689"
+      "criado_em": "2026-08-25T15:08:12.385699"
     },
     {
       "id_questao": "q10",
@@ -15508,7 +15508,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 10,
@@ -15526,7 +15526,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382693"
+      "criado_em": "2026-08-25T15:08:12.385703"
     },
     {
       "id_questao": "q11",
@@ -15558,7 +15558,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 11,
@@ -15576,7 +15576,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382697"
+      "criado_em": "2026-08-25T15:08:12.385708"
     },
     {
       "id_questao": "q12",
@@ -15608,7 +15608,7 @@
       "categorias": [
         "Redes e Segurança"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 12,
@@ -15626,7 +15626,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382701"
+      "criado_em": "2026-08-25T15:08:12.385712"
     },
     {
       "id_questao": "q13",
@@ -15659,7 +15659,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 13,
@@ -15677,7 +15677,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382705"
+      "criado_em": "2026-08-25T15:08:12.385716"
     },
     {
       "id_questao": "q14",
@@ -15709,7 +15709,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 14,
@@ -15727,7 +15727,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382709"
+      "criado_em": "2026-08-25T15:08:12.385720"
     },
     {
       "id_questao": "q15",
@@ -15759,7 +15759,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 15,
@@ -15777,7 +15777,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382713"
+      "criado_em": "2026-08-25T15:08:12.385724"
     },
     {
       "id_questao": "q16",
@@ -15810,7 +15810,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 16,
@@ -15828,7 +15828,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382717"
+      "criado_em": "2026-08-25T15:08:12.385728"
     },
     {
       "id_questao": "q17",
@@ -15860,7 +15860,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 17,
@@ -15878,7 +15878,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382721"
+      "criado_em": "2026-08-25T15:08:12.385732"
     },
     {
       "id_questao": "q18",
@@ -15912,7 +15912,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 18,
@@ -15930,7 +15930,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382725"
+      "criado_em": "2026-08-25T15:08:12.385736"
     },
     {
       "id_questao": "q19",
@@ -15964,7 +15964,7 @@
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 19,
@@ -15982,7 +15982,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382729"
+      "criado_em": "2026-08-25T15:08:12.385740"
     },
     {
       "id_questao": "q20",
@@ -16014,7 +16014,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 20,
@@ -16032,7 +16032,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382733"
+      "criado_em": "2026-08-25T15:08:12.385743"
     },
     {
       "id_questao": "q21",
@@ -16065,7 +16065,7 @@
         "Redes e Segurança",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 21,
@@ -16083,7 +16083,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382736"
+      "criado_em": "2026-08-25T15:08:12.385747"
     },
     {
       "id_questao": "q22",
@@ -16116,7 +16116,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 22,
@@ -16134,7 +16134,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382740"
+      "criado_em": "2026-08-25T15:08:12.385752"
     },
     {
       "id_questao": "q23",
@@ -16168,7 +16168,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 23,
@@ -16186,7 +16186,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382744"
+      "criado_em": "2026-08-25T15:08:12.385755"
     },
     {
       "id_questao": "q24",
@@ -16219,7 +16219,7 @@
         "Algoritmos e Estruturas de Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 24,
@@ -16237,7 +16237,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382748"
+      "criado_em": "2026-08-25T15:08:12.385759"
     },
     {
       "id_questao": "q25",
@@ -16271,7 +16271,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 25,
@@ -16289,7 +16289,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382752"
+      "criado_em": "2026-08-25T15:08:12.385763"
     },
     {
       "id_questao": "q26",
@@ -16322,7 +16322,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 26,
@@ -16340,7 +16340,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382756"
+      "criado_em": "2026-08-25T15:08:12.385767"
     },
     {
       "id_questao": "q27",
@@ -16373,7 +16373,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 27,
@@ -16391,7 +16391,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382760"
+      "criado_em": "2026-08-25T15:08:12.385771"
     },
     {
       "id_questao": "q28",
@@ -16423,7 +16423,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 28,
@@ -16441,7 +16441,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382763"
+      "criado_em": "2026-08-25T15:08:12.385775"
     },
     {
       "id_questao": "q29",
@@ -16474,7 +16474,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 29,
@@ -16492,7 +16492,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382770"
+      "criado_em": "2026-08-25T15:08:12.385779"
     },
     {
       "id_questao": "q30",
@@ -16524,7 +16524,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 30,
@@ -16542,7 +16542,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382774"
+      "criado_em": "2026-08-25T15:08:12.385783"
     },
     {
       "id_questao": "q31",
@@ -16576,7 +16576,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 31,
@@ -16594,7 +16594,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382778"
+      "criado_em": "2026-08-25T15:08:12.385787"
     },
     {
       "id_questao": "q32",
@@ -16627,7 +16627,7 @@
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 32,
@@ -16645,7 +16645,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382781"
+      "criado_em": "2026-08-25T15:08:12.385791"
     },
     {
       "id_questao": "q33",
@@ -16677,7 +16677,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 33,
@@ -16695,7 +16695,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382785"
+      "criado_em": "2026-08-25T15:08:12.385795"
     },
     {
       "id_questao": "q34",
@@ -16727,7 +16727,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 34,
@@ -16745,7 +16745,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382789"
+      "criado_em": "2026-08-25T15:08:12.385799"
     },
     {
       "id_questao": "q35",
@@ -16778,7 +16778,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 35,
@@ -16796,249 +16796,8 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:53:01.382793"
+      "criado_em": "2026-08-25T15:08:12.385803"
     }
   ],
-  "anomalias": [
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd01 não existe",
-      "questao": "qd01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd02 não existe",
-      "questao": "qd02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q01 não existe",
-      "questao": "q01"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q02 não existe",
-      "questao": "q02"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q03 não existe",
-      "questao": "q03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q04 não existe",
-      "questao": "q04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q05 não existe",
-      "questao": "q05"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q06 não existe",
-      "questao": "q06"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q07 não existe",
-      "questao": "q07"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q08 não existe",
-      "questao": "q08"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd03 não existe",
-      "questao": "qd03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd04 não existe",
-      "questao": "qd04"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd05 não existe",
-      "questao": "qd05"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q09 não existe",
-      "questao": "q09"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q10 não existe",
-      "questao": "q10"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q11 não existe",
-      "questao": "q11"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q12 não existe",
-      "questao": "q12"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q13 não existe",
-      "questao": "q13"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q14 não existe",
-      "questao": "q14"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q15 não existe",
-      "questao": "q15"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q16 não existe",
-      "questao": "q16"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q17 não existe",
-      "questao": "q17"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q18 não existe",
-      "questao": "q18"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q19 não existe",
-      "questao": "q19"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q20 não existe",
-      "questao": "q20"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q21 não existe",
-      "questao": "q21"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q22 não existe",
-      "questao": "q22"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q23 não existe",
-      "questao": "q23"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q24 não existe",
-      "questao": "q24"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q25 não existe",
-      "questao": "q25"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q26 não existe",
-      "questao": "q26"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q27 não existe",
-      "questao": "q27"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q28 não existe",
-      "questao": "q28"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q29 não existe",
-      "questao": "q29"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q30 não existe",
-      "questao": "q30"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q31 não existe",
-      "questao": "q31"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q32 não existe",
-      "questao": "q32"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q33 não existe",
-      "questao": "q33"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q34 não existe",
-      "questao": "q34"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q35 não existe",
-      "questao": "q35"
-    }
-  ]
+  "anomalias": []
 }

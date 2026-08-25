@@ -6,7 +6,7 @@
   "total_paginas": 40,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 0.0,
+  "score_geral": 100.0,
   "tipo_pdf": "digital",
   "questoes": [
     {
@@ -20,7 +20,7 @@
       "largura": 2185,
       "altura": 3928,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -40,7 +40,7 @@
       "largura": 2185,
       "altura": 1374,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
@@ -61,7 +61,7 @@
       "largura": 2185,
       "altura": 2158,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -82,7 +82,7 @@
       "largura": 2185,
       "altura": 5152,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -102,7 +102,7 @@
       "largura": 2185,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -122,7 +122,7 @@
       "largura": 2185,
       "altura": 2126,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -143,7 +143,7 @@
       "largura": 2185,
       "altura": 3779,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Banco de Dados",
         "Formação Geral e Sociedade"
@@ -164,7 +164,7 @@
       "largura": 2185,
       "altura": 1686,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança",
         "Governança e Gestão de TI",
@@ -186,7 +186,7 @@
       "largura": 2185,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
@@ -207,7 +207,7 @@
       "largura": 2185,
       "altura": 2159,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -228,7 +228,7 @@
       "largura": 2185,
       "altura": 3916,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança",
         "Formação Geral e Sociedade"
@@ -250,7 +250,7 @@
       "largura": 2185,
       "altura": 3067,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -270,7 +270,7 @@
       "largura": 2185,
       "altura": 1106,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
       ],
@@ -290,7 +290,7 @@
       "largura": 2185,
       "altura": 1627,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
       ],
@@ -310,7 +310,7 @@
       "largura": 2185,
       "altura": 1767,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -330,7 +330,7 @@
       "largura": 2185,
       "altura": 1322,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
       ],
@@ -350,7 +350,7 @@
       "largura": 2185,
       "altura": 1441,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança"
       ],
@@ -370,7 +370,7 @@
       "largura": 2185,
       "altura": 1842,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
@@ -391,7 +391,7 @@
       "largura": 2185,
       "altura": 2569,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
       ],
@@ -411,7 +411,7 @@
       "largura": 2185,
       "altura": 1338,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -431,7 +431,7 @@
       "largura": 2185,
       "altura": 2369,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
@@ -452,7 +452,7 @@
       "largura": 2185,
       "altura": 1071,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -472,7 +472,7 @@
       "largura": 2185,
       "altura": 1693,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura",
@@ -494,7 +494,7 @@
       "largura": 2185,
       "altura": 1438,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software",
         "Redes e Segurança",
@@ -516,7 +516,7 @@
       "largura": 2185,
       "altura": 2025,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -536,7 +536,7 @@
       "largura": 1095,
       "altura": 2325,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança",
         "Governança e Gestão de TI"
@@ -557,7 +557,7 @@
       "largura": 1095,
       "altura": 2589,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
@@ -578,7 +578,7 @@
       "largura": 1095,
       "altura": 2513,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura",
@@ -600,7 +600,7 @@
       "largura": 1095,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Formação Geral e Sociedade"
@@ -621,7 +621,7 @@
       "largura": 2185,
       "altura": 1683,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura",
@@ -643,7 +643,7 @@
       "largura": 2185,
       "altura": 1436,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
@@ -664,7 +664,7 @@
       "largura": 1095,
       "altura": 2370,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
@@ -685,7 +685,7 @@
       "largura": 1095,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -705,7 +705,7 @@
       "largura": 1095,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
@@ -726,7 +726,7 @@
       "largura": 1095,
       "altura": 2717,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -746,7 +746,7 @@
       "largura": 2185,
       "altura": 1452,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI",
@@ -768,7 +768,7 @@
       "largura": 2185,
       "altura": 2010,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
@@ -789,7 +789,7 @@
       "largura": 2185,
       "altura": 1880,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -809,7 +809,7 @@
       "largura": 2185,
       "altura": 1659,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -829,7 +829,7 @@
       "largura": 2185,
       "altura": 1623,
       "confianca": 0.98,
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"

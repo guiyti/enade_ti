@@ -61,9 +61,9 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/figuras/qd03_fig1.jpeg",
-    "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/figuras/qd03_fig2.jpeg",
-    "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/figuras/qd03_fig3.jpeg"
+    "/questoes/2017_ADS/figuras/qd03_fig1.jpeg",
+    "/questoes/2017_ADS/figuras/qd03_fig2.jpeg",
+    "/questoes/2017_ADS/figuras/qd03_fig3.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -84,5 +84,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:51:20.493974"
+  "criado_em": "2026-08-25T15:06:30.876966"
 }

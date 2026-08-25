@@ -14,6 +14,8 @@ import {
   ArrowRight
 } from "lucide-react";
 
+import { AdminFullPageModal } from "@/components/AdminFullPageModal";
+
 export const dynamic = "force-static";
 
 export async function generateStaticParams() {
@@ -52,10 +54,17 @@ export default async function AdminExamDetailPage({ params }: PageProps) {
           Voltar ao Painel de Auditoria
         </Link>
 
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-3">
+          <AdminFullPageModal
+            id_prova={exam.id_prova}
+            totalPaginas={exam.total_paginas}
+            initialPage={1}
+            buttonLabel="📄 Visualizar Caderno Completo do PDF"
+          />
+
           <Link
             href={`/docente/prova/${exam.id_prova}`}
-            className="px-3.5 py-1.5 rounded-lg bg-sky-50 text-sky-700 dark:bg-sky-950/60 dark:text-sky-300 hover:bg-sky-100 text-xs font-semibold transition-colors"
+            className="px-3.5 py-2 rounded-xl bg-sky-50 text-sky-700 dark:bg-sky-950/60 dark:text-sky-300 hover:bg-sky-100 text-xs font-semibold transition-colors"
           >
             Visualizar no Modo Aula (Docente)
           </Link>

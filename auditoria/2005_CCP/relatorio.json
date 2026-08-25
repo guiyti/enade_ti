@@ -7,9 +7,9 @@
   "total_paginas": 32,
   "questoes_detectadas": 60,
   "questoes_extraidas": 60,
-  "score_geral": 0.0,
+  "score_geral": 89.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:49:15.357459",
+  "processado_em": "2026-08-25T15:04:09.333973",
   "paginas": [
     {
       "numero": 1,
@@ -26886,16 +26886,16 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q03_fig3.jpeg"
+        "/questoes/2005_CCP/figuras/q03_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q03_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q03_fig3.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 3,
@@ -26913,7 +26913,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752766"
+      "criado_em": "2026-08-25T15:04:22.981211"
     },
     {
       "id_questao": "q07",
@@ -26969,16 +26969,16 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig3.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q07_fig4.jpeg"
+        "/questoes/2005_CCP/figuras/q07_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q07_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q07_fig3.jpeg",
+        "/questoes/2005_CCP/figuras/q07_fig4.jpeg"
       ],
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 7,
@@ -26996,7 +26996,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752788"
+      "criado_em": "2026-08-25T15:04:22.985613"
     },
     {
       "id_questao": "qd10",
@@ -27034,12 +27034,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd10_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/qd10_fig1.jpeg"
       ],
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 10,
@@ -27057,7 +27057,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752797"
+      "criado_em": "2026-08-25T15:04:22.985682"
     },
     {
       "id_questao": "q11",
@@ -27089,7 +27089,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 11,
@@ -27107,7 +27107,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752802"
+      "criado_em": "2026-08-25T15:04:22.985705"
     },
     {
       "id_questao": "q12",
@@ -27140,7 +27140,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 12,
@@ -27158,7 +27158,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752808"
+      "criado_em": "2026-08-25T15:04:22.985725"
     },
     {
       "id_questao": "q13",
@@ -27200,7 +27200,7 @@
         "Banco de Dados",
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 13,
@@ -27218,7 +27218,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752813"
+      "criado_em": "2026-08-25T15:04:22.985744"
     },
     {
       "id_questao": "q15",
@@ -27251,7 +27251,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 15,
@@ -27269,7 +27269,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752817"
+      "criado_em": "2026-08-25T15:04:22.985759"
     },
     {
       "id_questao": "q16",
@@ -27303,7 +27303,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 16,
@@ -27321,7 +27321,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752822"
+      "criado_em": "2026-08-25T15:04:22.985775"
     },
     {
       "id_questao": "q17",
@@ -27355,7 +27355,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 17,
@@ -27373,7 +27373,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752826"
+      "criado_em": "2026-08-25T15:04:22.985790"
     },
     {
       "id_questao": "q18",
@@ -27415,7 +27415,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 18,
@@ -27433,7 +27433,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752831"
+      "criado_em": "2026-08-25T15:04:22.985807"
     },
     {
       "id_questao": "q20",
@@ -27465,7 +27465,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 20,
@@ -27483,7 +27483,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752835"
+      "criado_em": "2026-08-25T15:04:22.985822"
     },
     {
       "id_questao": "q21",
@@ -27524,7 +27524,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 21,
@@ -27542,7 +27542,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752840"
+      "criado_em": "2026-08-25T15:04:22.985840"
     },
     {
       "id_questao": "q23",
@@ -27574,7 +27574,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 23,
@@ -27592,7 +27592,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752844"
+      "criado_em": "2026-08-25T15:04:22.985855"
     },
     {
       "id_questao": "q24",
@@ -27636,7 +27636,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 24,
@@ -27654,7 +27654,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752848"
+      "criado_em": "2026-08-25T15:04:22.985871"
     },
     {
       "id_questao": "q26",
@@ -27683,16 +27683,16 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig3.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig4.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q26_fig5.jpeg"
+        "/questoes/2005_CCP/figuras/q26_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q26_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q26_fig3.jpeg",
+        "/questoes/2005_CCP/figuras/q26_fig4.jpeg",
+        "/questoes/2005_CCP/figuras/q26_fig5.jpeg"
       ],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 26,
@@ -27710,7 +27710,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752852"
+      "criado_em": "2026-08-25T15:04:22.985886"
     },
     {
       "id_questao": "q27",
@@ -27753,7 +27753,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 27,
@@ -27771,7 +27771,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752857"
+      "criado_em": "2026-08-25T15:04:22.985903"
     },
     {
       "id_questao": "q29",
@@ -27814,7 +27814,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 29,
@@ -27832,7 +27832,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752861"
+      "criado_em": "2026-08-25T15:04:22.985919"
     },
     {
       "id_questao": "q31",
@@ -27865,7 +27865,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 31,
@@ -27883,7 +27883,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752865"
+      "criado_em": "2026-08-25T15:04:22.985933"
     },
     {
       "id_questao": "q32",
@@ -27925,7 +27925,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 32,
@@ -27943,7 +27943,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752869"
+      "criado_em": "2026-08-25T15:04:22.985949"
     },
     {
       "id_questao": "q34",
@@ -27987,7 +27987,7 @@
         "Programação e POO",
         "Redes e Segurança"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 34,
@@ -28005,7 +28005,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752874"
+      "criado_em": "2026-08-25T15:04:22.985965"
     },
     {
       "id_questao": "q36",
@@ -28045,7 +28045,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 36,
@@ -28063,7 +28063,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752878"
+      "criado_em": "2026-08-25T15:04:22.985982"
     },
     {
       "id_questao": "q38",
@@ -28095,7 +28095,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 38,
@@ -28113,7 +28113,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752882"
+      "criado_em": "2026-08-25T15:04:22.985997"
     },
     {
       "id_questao": "qd39",
@@ -28142,12 +28142,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd39_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/qd39_fig1.jpeg"
       ],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 39,
@@ -28165,7 +28165,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752886"
+      "criado_em": "2026-08-25T15:04:22.986011"
     },
     {
       "id_questao": "qd40",
@@ -28203,13 +28203,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd40_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/qd40_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 40,
@@ -28227,7 +28227,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752891"
+      "criado_em": "2026-08-25T15:04:22.986027"
     },
     {
       "id_questao": "q41",
@@ -28259,7 +28259,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 41,
@@ -28277,7 +28277,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752895"
+      "criado_em": "2026-08-25T15:04:22.986042"
     },
     {
       "id_questao": "q42",
@@ -28311,7 +28311,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 42,
@@ -28329,7 +28329,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752899"
+      "criado_em": "2026-08-25T15:04:22.986056"
     },
     {
       "id_questao": "q43",
@@ -28361,7 +28361,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 43,
@@ -28379,7 +28379,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752903"
+      "criado_em": "2026-08-25T15:04:22.986072"
     },
     {
       "id_questao": "q44",
@@ -28411,7 +28411,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 44,
@@ -28429,7 +28429,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752907"
+      "criado_em": "2026-08-25T15:04:22.986087"
     },
     {
       "id_questao": "q45",
@@ -28462,7 +28462,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 45,
@@ -28480,7 +28480,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752911"
+      "criado_em": "2026-08-25T15:04:22.986102"
     },
     {
       "id_questao": "q46",
@@ -28512,7 +28512,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 46,
@@ -28530,7 +28530,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752915"
+      "criado_em": "2026-08-25T15:04:22.986116"
     },
     {
       "id_questao": "q47",
@@ -28562,7 +28562,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 47,
@@ -28580,7 +28580,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752918"
+      "criado_em": "2026-08-25T15:04:22.986131"
     },
     {
       "id_questao": "q48",
@@ -28609,12 +28609,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q48_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q48_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 48,
@@ -28632,7 +28632,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752922"
+      "criado_em": "2026-08-25T15:04:22.986146"
     },
     {
       "id_questao": "q49",
@@ -28664,7 +28664,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 49,
@@ -28682,7 +28682,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752926"
+      "criado_em": "2026-08-25T15:04:22.986160"
     },
     {
       "id_questao": "q50",
@@ -28715,7 +28715,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 50,
@@ -28733,7 +28733,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752930"
+      "criado_em": "2026-08-25T15:04:22.986174"
     },
     {
       "id_questao": "q51",
@@ -28762,12 +28762,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q51_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q51_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 51,
@@ -28785,7 +28785,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752934"
+      "criado_em": "2026-08-25T15:04:22.986188"
     },
     {
       "id_questao": "q52",
@@ -28819,7 +28819,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 52,
@@ -28837,7 +28837,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752937"
+      "criado_em": "2026-08-25T15:04:22.986203"
     },
     {
       "id_questao": "q53",
@@ -28870,7 +28870,7 @@
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 53,
@@ -28888,7 +28888,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752941"
+      "criado_em": "2026-08-25T15:04:22.986218"
     },
     {
       "id_questao": "q54",
@@ -28920,7 +28920,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 54,
@@ -28938,7 +28938,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752945"
+      "criado_em": "2026-08-25T15:04:22.986232"
     },
     {
       "id_questao": "qd55",
@@ -28967,12 +28967,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd55_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/qd55_fig1.jpeg"
       ],
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 55,
@@ -28990,7 +28990,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752949"
+      "criado_em": "2026-08-25T15:04:22.986247"
     },
     {
       "id_questao": "q56",
@@ -29022,7 +29022,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 56,
@@ -29040,7 +29040,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752953"
+      "criado_em": "2026-08-25T15:04:22.986261"
     },
     {
       "id_questao": "q57",
@@ -29073,7 +29073,7 @@
         "Programação e POO",
         "Inteligência Artificial e Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 57,
@@ -29091,7 +29091,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752957"
+      "criado_em": "2026-08-25T15:04:22.986276"
     },
     {
       "id_questao": "q58",
@@ -29129,13 +29129,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig3.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig4.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig5.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig6.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q58_fig7.jpeg"
+        "/questoes/2005_CCP/figuras/q58_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig3.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig4.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig5.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig6.jpeg",
+        "/questoes/2005_CCP/figuras/q58_fig7.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
@@ -29143,7 +29143,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 58,
@@ -29161,7 +29161,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752961"
+      "criado_em": "2026-08-25T15:04:22.986293"
     },
     {
       "id_questao": "q60",
@@ -29190,12 +29190,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q60_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q60_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 60,
@@ -29213,7 +29213,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752965"
+      "criado_em": "2026-08-25T15:04:22.986306"
     },
     {
       "id_questao": "q61",
@@ -29242,13 +29242,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q61_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q61_fig1.jpeg"
       ],
       "categorias": [
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 61,
@@ -29266,7 +29266,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752969"
+      "criado_em": "2026-08-25T15:04:22.986320"
     },
     {
       "id_questao": "q62",
@@ -29295,13 +29295,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q62_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q62_fig2.jpeg"
+        "/questoes/2005_CCP/figuras/q62_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q62_fig2.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 62,
@@ -29319,7 +29319,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752973"
+      "criado_em": "2026-08-25T15:04:22.986333"
     },
     {
       "id_questao": "q63",
@@ -29351,7 +29351,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 63,
@@ -29369,7 +29369,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752977"
+      "criado_em": "2026-08-25T15:04:22.986347"
     },
     {
       "id_questao": "q64",
@@ -29401,7 +29401,7 @@
       "categorias": [
         "Teoria da Computação e Compiladores"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 64,
@@ -29419,7 +29419,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752980"
+      "criado_em": "2026-08-25T15:04:22.986362"
     },
     {
       "id_questao": "q65",
@@ -29453,7 +29453,7 @@
         "Programação e POO",
         "Teoria da Computação e Compiladores"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 65,
@@ -29471,7 +29471,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752984"
+      "criado_em": "2026-08-25T15:04:22.986377"
     },
     {
       "id_questao": "q66",
@@ -29509,9 +29509,9 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q66_fig3.jpeg"
+        "/questoes/2005_CCP/figuras/q66_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q66_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q66_fig3.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
@@ -29519,7 +29519,7 @@
         "Redes e Segurança",
         "Teoria da Computação e Compiladores"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 66,
@@ -29537,7 +29537,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752989"
+      "criado_em": "2026-08-25T15:04:22.986393"
     },
     {
       "id_questao": "q67",
@@ -29592,13 +29592,13 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig2.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig3.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig4.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig5.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig6.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig7.jpeg"
+        "/questoes/2005_CCP/figuras/q67_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig2.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig3.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig4.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig5.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig6.jpeg",
+        "/questoes/2005_CCP/figuras/q67_fig7.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
@@ -29606,7 +29606,7 @@
         "Engenharia de Software",
         "Redes e Segurança"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 67,
@@ -29624,7 +29624,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752994"
+      "criado_em": "2026-08-25T15:04:22.986414"
     },
     {
       "id_questao": "q71",
@@ -29656,7 +29656,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 71,
@@ -29674,7 +29674,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.752999"
+      "criado_em": "2026-08-25T15:04:22.986428"
     },
     {
       "id_questao": "q72",
@@ -29707,7 +29707,7 @@
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 72,
@@ -29725,7 +29725,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753002"
+      "criado_em": "2026-08-25T15:04:22.986443"
     },
     {
       "id_questao": "q73",
@@ -29757,7 +29757,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 73,
@@ -29775,7 +29775,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753006"
+      "criado_em": "2026-08-25T15:04:22.986457"
     },
     {
       "id_questao": "q74",
@@ -29813,14 +29813,14 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q74_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q74_fig1.jpeg"
       ],
       "categorias": [
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura",
         "Inteligência Artificial e Dados"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 74,
@@ -29838,7 +29838,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753011"
+      "criado_em": "2026-08-25T15:04:22.986474"
     },
     {
       "id_questao": "q76",
@@ -29871,7 +29871,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 76,
@@ -29889,7 +29889,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753015"
+      "criado_em": "2026-08-25T15:04:22.986489"
     },
     {
       "id_questao": "q77",
@@ -29918,12 +29918,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q77_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q77_fig1.jpeg"
       ],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 77,
@@ -29941,7 +29941,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753019"
+      "criado_em": "2026-08-25T15:04:22.986503"
     },
     {
       "id_questao": "q78",
@@ -29982,7 +29982,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 78,
@@ -30000,7 +30000,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753023"
+      "criado_em": "2026-08-25T15:04:22.986519"
     },
     {
       "id_questao": "q80",
@@ -30029,12 +30029,12 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q80_fig1.jpeg"
+        "/questoes/2005_CCP/figuras/q80_fig1.jpeg"
       ],
       "categorias": [
         "Teoria da Computação e Compiladores"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 80,
@@ -30052,7 +30052,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753027"
+      "criado_em": "2026-08-25T15:04:22.986534"
     },
     {
       "id_questao": "q81",
@@ -30089,14 +30089,14 @@
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig1.jpeg",
-        "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig2.jpeg"
+        "/questoes/2005_CCP/figuras/q81_fig1.jpeg",
+        "/questoes/2005_CCP/figuras/q81_fig2.jpeg"
       ],
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 81,
@@ -30114,7 +30114,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753032"
+      "criado_em": "2026-08-25T15:04:22.986552"
     },
     {
       "id_questao": "q83",
@@ -30146,7 +30146,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "REJEITADA",
+      "status": "APROVADA",
       "marcadores": [
         {
           "numero": 83,
@@ -30164,7 +30164,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:49:27.753035"
+      "criado_em": "2026-08-25T15:04:22.986565"
     }
   ],
   "anomalias": [
@@ -30321,366 +30321,6 @@
       "mensagem": "Esperava OBJETIVA 82, encontrou 83",
       "questao": "q83",
       "esperado": 82
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q03 não existe",
-      "questao": "q03"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q07 não existe",
-      "questao": "q07"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd10 não existe",
-      "questao": "qd10"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q11 não existe",
-      "questao": "q11"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q12 não existe",
-      "questao": "q12"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q13 não existe",
-      "questao": "q13"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q15 não existe",
-      "questao": "q15"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q16 não existe",
-      "questao": "q16"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q17 não existe",
-      "questao": "q17"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q18 não existe",
-      "questao": "q18"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q20 não existe",
-      "questao": "q20"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q21 não existe",
-      "questao": "q21"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q23 não existe",
-      "questao": "q23"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q24 não existe",
-      "questao": "q24"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q26 não existe",
-      "questao": "q26"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q27 não existe",
-      "questao": "q27"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q29 não existe",
-      "questao": "q29"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q31 não existe",
-      "questao": "q31"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q32 não existe",
-      "questao": "q32"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q34 não existe",
-      "questao": "q34"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q36 não existe",
-      "questao": "q36"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q38 não existe",
-      "questao": "q38"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd39 não existe",
-      "questao": "qd39"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd40 não existe",
-      "questao": "qd40"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q41 não existe",
-      "questao": "q41"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q42 não existe",
-      "questao": "q42"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q43 não existe",
-      "questao": "q43"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q44 não existe",
-      "questao": "q44"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q45 não existe",
-      "questao": "q45"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q46 não existe",
-      "questao": "q46"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q47 não existe",
-      "questao": "q47"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q48 não existe",
-      "questao": "q48"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q49 não existe",
-      "questao": "q49"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q50 não existe",
-      "questao": "q50"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q51 não existe",
-      "questao": "q51"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q52 não existe",
-      "questao": "q52"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q53 não existe",
-      "questao": "q53"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q54 não existe",
-      "questao": "q54"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão qd55 não existe",
-      "questao": "qd55"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q56 não existe",
-      "questao": "q56"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q57 não existe",
-      "questao": "q57"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q58 não existe",
-      "questao": "q58"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q60 não existe",
-      "questao": "q60"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q61 não existe",
-      "questao": "q61"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q62 não existe",
-      "questao": "q62"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q63 não existe",
-      "questao": "q63"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q64 não existe",
-      "questao": "q64"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q65 não existe",
-      "questao": "q65"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q66 não existe",
-      "questao": "q66"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q67 não existe",
-      "questao": "q67"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q71 não existe",
-      "questao": "q71"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q72 não existe",
-      "questao": "q72"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q73 não existe",
-      "questao": "q73"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q74 não existe",
-      "questao": "q74"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q76 não existe",
-      "questao": "q76"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q77 não existe",
-      "questao": "q77"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q78 não existe",
-      "questao": "q78"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q80 não existe",
-      "questao": "q80"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q81 não existe",
-      "questao": "q81"
-    },
-    {
-      "tipo": "IMAGEM_NAO_ENCONTRADA",
-      "severidade": "ERROR",
-      "mensagem": "Imagem da questão q83 não existe",
-      "questao": "q83"
     }
   ]
 }

@@ -25,12 +25,12 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig1.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig2.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig3.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig4.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig5.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/figuras/q31_fig6.png"
+    "/questoes/2021_ADS/figuras/q31_fig1.png",
+    "/questoes/2021_ADS/figuras/q31_fig2.png",
+    "/questoes/2021_ADS/figuras/q31_fig3.png",
+    "/questoes/2021_ADS/figuras/q31_fig4.png",
+    "/questoes/2021_ADS/figuras/q31_fig5.png",
+    "/questoes/2021_ADS/figuras/q31_fig6.png"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -51,5 +51,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:52:21.616038"
+  "criado_em": "2026-08-25T15:07:32.253224"
 }

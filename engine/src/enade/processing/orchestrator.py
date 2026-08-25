@@ -120,12 +120,21 @@ def save_consolidated_catalog(exams: List[Exam]) -> None:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
     logger.info(f"Catálogo mestre consolidado salvo: {master_path}")
     
-    # Sync with web/public/data/ if directory exists
-    web_data_dir = Path("web/public/data")
-    if web_data_dir.exists():
-        with open(web_data_dir / "exams.json", "w", encoding="utf-8") as f:
-            json.dump(catalog, f, ensure_ascii=False, indent=2)
-        logger.info("Catálogo mestre sincronizado com web/public/data/exams.json")
+    # Sync with Root public/data/exams.json
+    root_public_data = config.BASE_DIR / "public" / "data"
+    root_public_data.mkdir(parents=True, exist_ok=True)
+    with open(root_public_data / "exams.json", "w", encoding="utf-8") as f:
+        json.dump(catalog, f, ensure_ascii=False, indent=2)
+    logger.info(f"Catálogo mestre sincronizado com {root_public_data / 'exams.json'}")
+    
+    # Sync questoes folder to public/questoes
+    root_public_questoes = config.BASE_DIR / "public" / "questoes"
+    root_public_questoes.mkdir(parents=True, exist_ok=True)
+    try:
+        shutil.copytree(config.QUESTOES_DIR, root_public_questoes, dirs_exist_ok=True)
+        logger.info(f"Arquivos estáticos sincronizados com {root_public_questoes}")
+    except Exception as err:
+        logger.warning(f"Aviso ao sincronizar pastas para public/questoes: {err}")
 
 
 def process_exam(pdf_info: PDFInfo) -> Exam:

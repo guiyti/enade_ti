@@ -25,8 +25,8 @@
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
-    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q45_fig1.png",
-    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/q45_fig2.jpeg"
+    "/questoes/2008_CCP/figuras/q45_fig1.png",
+    "/questoes/2008_CCP/figuras/q45_fig2.jpeg"
   ],
   "categorias": [],
   "status": "PENDENTE",
@@ -47,5 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:49:50.887136"
+  "criado_em": "2026-08-25T15:04:50.751249"
 }
