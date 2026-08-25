@@ -6,4 +6,5 @@ A	 “Escolho um livro que apresente temáticas sociais essenciais com reflexõe
 B	 “Prefiro os livros com sistematização coerente dos objetos de conhecimento da disciplina e transposição didática adequada”. 
 C	 “Considero adequados os livros que expressam conceitos por meio de elementos variados, como imagens, palavras, mapas 
 e gráficos”. 
-D “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos
+D	 “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos 
+apresentados”.

@@ -18,7 +18,7 @@
         3
       ],
       "largura": 2185,
-      "altura": 3924,
+      "altura": 3928,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -38,7 +38,7 @@
         4
       ],
       "largura": 2185,
-      "altura": 1370,
+      "altura": 1374,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -59,7 +59,7 @@
         5
       ],
       "largura": 2185,
-      "altura": 2154,
+      "altura": 2158,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -80,7 +80,7 @@
         7
       ],
       "largura": 2185,
-      "altura": 5148,
+      "altura": 5152,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -120,7 +120,7 @@
         9
       ],
       "largura": 2185,
-      "altura": 2122,
+      "altura": 2126,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -205,7 +205,7 @@
         13
       ],
       "largura": 2185,
-      "altura": 2155,
+      "altura": 2159,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -226,7 +226,7 @@
         15
       ],
       "largura": 2185,
-      "altura": 3912,
+      "altura": 3916,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -248,7 +248,7 @@
         17
       ],
       "largura": 2185,
-      "altura": 3063,
+      "altura": 3067,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -268,7 +268,7 @@
         18
       ],
       "largura": 2185,
-      "altura": 1102,
+      "altura": 1106,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -288,7 +288,7 @@
         19
       ],
       "largura": 2185,
-      "altura": 1623,
+      "altura": 1627,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -308,7 +308,7 @@
         20
       ],
       "largura": 2185,
-      "altura": 1763,
+      "altura": 1767,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -368,7 +368,7 @@
         22
       ],
       "largura": 2185,
-      "altura": 1838,
+      "altura": 1842,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -389,7 +389,7 @@
         23
       ],
       "largura": 2185,
-      "altura": 2717,
+      "altura": 2569,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -409,7 +409,7 @@
         24
       ],
       "largura": 2185,
-      "altura": 1334,
+      "altura": 1338,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -429,7 +429,7 @@
         25
       ],
       "largura": 2185,
-      "altura": 2364,
+      "altura": 2369,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -492,7 +492,7 @@
         27
       ],
       "largura": 2185,
-      "altura": 1433,
+      "altura": 1438,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -514,7 +514,7 @@
         28
       ],
       "largura": 2185,
-      "altura": 2021,
+      "altura": 2025,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -534,7 +534,7 @@
         29
       ],
       "largura": 1095,
-      "altura": 2321,
+      "altura": 2325,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -555,7 +555,7 @@
         29
       ],
       "largura": 1095,
-      "altura": 2585,
+      "altura": 2589,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -576,7 +576,7 @@
         30
       ],
       "largura": 1095,
-      "altura": 2509,
+      "altura": 2513,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -619,7 +619,7 @@
         31
       ],
       "largura": 2185,
-      "altura": 1679,
+      "altura": 1683,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -641,7 +641,7 @@
         32
       ],
       "largura": 2185,
-      "altura": 1432,
+      "altura": 1436,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -662,7 +662,7 @@
         33
       ],
       "largura": 1095,
-      "altura": 2366,
+      "altura": 2370,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -744,7 +744,7 @@
         35
       ],
       "largura": 2185,
-      "altura": 1448,
+      "altura": 1452,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -766,7 +766,7 @@
         36
       ],
       "largura": 2185,
-      "altura": 2006,
+      "altura": 2010,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -787,7 +787,7 @@
         37
       ],
       "largura": 2185,
-      "altura": 1876,
+      "altura": 1880,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -807,7 +807,7 @@
         38
       ],
       "largura": 2185,
-      "altura": 1655,
+      "altura": 1659,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -827,7 +827,7 @@
         39
       ],
       "largura": 2185,
-      "altura": 1619,
+      "altura": 1623,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [

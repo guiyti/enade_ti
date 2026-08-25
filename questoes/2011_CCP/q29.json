@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 287.28,
-      "y1": 475.78924560546875,
+      "y1": 476.78924560546875,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.txt",
   "largura": 1123,
-  "altura": 1700,
+  "altura": 1704,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 29  \nUma antiga empresa de desenvolvimento de software \nresolveu atualizar toda sua infraestrutura computacional \nadquirindo \num \nsistema \noperacional \nmultitarefa, \nprocessadores multi-core (múltiplos núcleos) e o uso de \numa linguagem de programação com suporte a threads.\nO sistema operacional multitarefa de um computador \né capaz de executar vários processos (programas) em \nparalelo. Considerando esses processos implementados \ncom mais de uma thread (multi-threads), analise as \nafirmações abaixo.\nI. \nOs ciclos de vida de processos e threads são idênticos.\nII. Threads de diferentes processos compartilham \nmemória.\nIII. Somente processadores multi-core são capazes \nde executar programas multi-threads.\nIV. Em sistemas operacionais multitarefa, threads \npodem migrar de um processo para outro.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   I e IV.\nE   II e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:20.232240"
+  "criado_em": "2026-08-25T14:50:27.656468"
 }

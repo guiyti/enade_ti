@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 333.6466979980469,
       "x1": 570.1999999999999,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q43.txt",
   "largura": 2302,
-  "altura": 1885,
+  "altura": 1889,
   "confianca": 0.98,
   "texto_completo": "g\np\ng\nj\núnica máquina. Um exemplo complexo é uma\nplanta \ninteira \nde \nmanufatura \nenvolvendo\ncentenas de estações conectadas a bancos de\ndados com instruções e planejamento de\noperações e tarefas em tempo real, envolvendo\nsensores, atuadores, transdutores, conversores\netc. Entender, projetar e construir esses sistemas\né um grande desafio que impõe uma abordagem\nsistemática \npelo \nuso \nde \nferramentas \ne\nconhecimento conceitual de modelagem lógica,\nmanipulação \nmatemática, \nabstração,\ndecomposição, \nconcorrência \netc. \nNesse\ncontexto, julgue os seguintes itens.\nI\nControladores lógicos programáveis são\ncomputadores \npara \nprocessamento \nde\nentradas e saídas, sendo que a maioria\npermite múltiplos programas que podem ser\nutilizados como sub-rotinas.\nII\nPara leituras de um sinal analógico que varia\nentre ± 10 volts, com precisão de ± 0,05 volts,\né necessário um conversor AD com, no\nmínimo, 9 bits.\nIII O principal objetivo das redes de Petri\nColoridas é a redução do tamanho do modelo,\npermitindo \nque \ntokens \nindividualizados\n(coloridos) representem diferentes processos\nou recursos em uma mesma sub-rede.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\nQUESTÃO 43\nConsidere que seja necessário escrever um código para um\nmicrocontrolador capaz de identificar teclas acionadas em um teclado\nconectado como mostrado abaixo. O microcontrolador atribui valores\nlógicos às linhas X3, X2, X1 e X0 de uma porta de saída do tipo coletor\naberto, e lê os valores lógicos das linhas Y3, Y2, Y1 e Y0 em uma porta\nde entrada.\nCaso apenas a tecla 9 do teclado esteja pressionada e o\nmicrocontrolador esteja atribuindo os valores lógicos 1011 às linhas\nX3, X2, X1 e X0 , respectivamente, qual o padrão binário que deverá ser\nlido nas linhas Y3, Y2, Y1 e Y0, respectivamente?\nA\n0111\nB\n1011\nC\n1101\nD\n1110\nE\n1111\n+5 V\n+5 V +5 V +5 V\nteclado\nmicrocontrolador\nporta de saída\nporta de entrada",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738859"
+  "criado_em": "2026-08-25T14:49:50.887128"
 }

@@ -9,7 +9,8 @@ B	 softwares educacionais, estruturando um enredo, com uso de storytelling, cont
 exercícios e feedback automático.
 C	 jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, 
 utilizados para modelar a lógica algorítmica.
-D softwares educacionais utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica
+D	 softwares educacionais, utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica, 
+recompensas simbólicas e ranqueamento de desempenho.
 
 Texto para questões 39 e 40
 Um professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar 

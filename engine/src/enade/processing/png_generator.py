@@ -38,6 +38,7 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment) -> Segment:
     Cleans unwanted noise from page borders:
     1. Removes top headers (barcodes, year headers, general course titles).
     2. Removes bottom footers (page numbers, typography lines, barcodes, ÁREA LIVRE / RASCUNHO boxes).
+    Uses line-level precision so valid text above 'Área Livre' is NEVER cut off.
     """
     if seg.pagina <= 0 or seg.pagina > doc.page_count:
         return seg
@@ -49,37 +50,39 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment) -> Segment:
     new_y1 = seg.y1
     
     try:
-        # 1. Check Top (Headers) if starting near page top
-        if new_y0 < 95.0:
-            top_clip = fitz.Rect(seg.x0, 0, seg.x1, min(100.0, new_y1))
-            blocks_top = page.get_text("blocks", clip=top_clip)
-            for b in blocks_top:
-                txt = decode_enade_str(b[4]).strip()
-                for pat in HEADER_PATTERNS:
-                    if re.search(pat, txt, re.IGNORECASE):
-                        if b[3] < new_y1 - 25.0:
-                            new_y0 = max(new_y0, b[3] + 2.0)
-                        break
-
-        # 2. Check Bottom (Footers, Area Livre, Rascunhos)
-        bot_clip = fitz.Rect(seg.x0, max(new_y0 + 20.0, h - 140.0), seg.x1, h)
-        blocks_bot = page.get_text("blocks", clip=bot_clip)
-        for b in blocks_bot:
-            txt = decode_enade_str(b[4]).strip()
-            for pat in FOOTER_PATTERNS:
-                if re.search(pat, txt, re.IGNORECASE):
-                    if b[1] > new_y0 + 25.0:
-                        new_y1 = min(new_y1, b[1] - 4.0)
-                    break
+        dict_data = page.get_text("dict")
+        for b in dict_data.get("blocks", []):
+            if "lines" not in b:
+                continue
+            for l in b["lines"]:
+                l_box = l["bbox"]
+                # Skip lines outside segment x-span
+                if l_box[2] < seg.x0 or l_box[0] > seg.x1:
+                    continue
+                
+                line_text = decode_enade_str("".join(s["text"] for s in l["spans"])).strip()
+                if not line_text:
+                    continue
                     
-        # Check any Area Livre / Rascunho inside the entire segment
-        clip_all = fitz.Rect(seg.x0, new_y0, seg.x1, new_y1)
-        blocks_all = page.get_text("blocks", clip=clip_all)
-        for b in blocks_all:
-            txt = decode_enade_str(b[4]).upper()
-            if "ÁREA LIVRE" in txt or "AREA LIVRE" in txt or "RASCUNHO" in txt:
-                if b[1] > new_y0 + 25.0:
-                    new_y1 = min(new_y1, b[1] - 4.0)
+                # 1. Top noise (Headers)
+                if l_box[1] < 95.0 and l_box[3] <= new_y0 + 20.0:
+                    for pat in HEADER_PATTERNS:
+                        if re.search(pat, line_text, re.IGNORECASE):
+                            if l_box[3] < new_y1 - 25.0:
+                                new_y0 = max(new_y0, l_box[3] + 2.0)
+                            break
+                            
+                # 2. Bottom noise (Footers)
+                if l_box[1] >= max(new_y0 + 25.0, h - 130.0):
+                    for pat in FOOTER_PATTERNS:
+                        if re.search(pat, line_text, re.IGNORECASE):
+                            new_y1 = min(new_y1, l_box[1] - 3.0)
+                            break
+                            
+                # 3. Area Livre / Rascunho ANYWHERE at the bottom of the question
+                if re.search(r'ÁREA\s*LIVRE|AREA\s*LIVRE|RASCUNHO', line_text, re.IGNORECASE):
+                    if l_box[1] > new_y0 + 25.0:
+                        new_y1 = min(new_y1, l_box[1] - 3.0)
 
     except Exception as e:
         logger.warning(f"Erro ao limpar ruído de bordas do segmento (Pág {seg.pagina}): {e}")

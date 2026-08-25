@@ -2,8 +2,9 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Play, Layers, Filter, Check } from "lucide-react";
+import { Play, Layers, Check } from "lucide-react";
 import type { ExamData, QuestionData, CategoryInfo } from "@/lib/enade";
+import { savePresentationContext } from "@/lib/presentationContext";
 
 interface CourseGalleryClientProps {
   courseDef: { name: string; code: string; description: string };
@@ -23,6 +24,14 @@ export function CourseGalleryClient({
   const displayItems = includeCrossCourse
     ? [...nativeItems, ...crossItems]
     : nativeItems;
+
+  const handleStartPresentation = () => {
+    const playlist = displayItems.map((item) => ({
+      id_prova: item.exam.id_prova,
+      id_questao: item.question.id_questao,
+    }));
+    savePresentationContext(playlist);
+  };
 
   return (
     <div className="space-y-6">
@@ -119,6 +128,7 @@ export function CourseGalleryClient({
 
                   <Link
                     href={`/docente/apresentacao/${exam.id_prova}/${question.id_questao}`}
+                    onClick={handleStartPresentation}
                     className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-gradient-to-r from-sky-600 to-indigo-600 hover:from-sky-700 hover:to-indigo-700 text-white font-bold text-xs shadow-sm transition-all"
                   >
                     <Play className="w-3 h-3 fill-current" />

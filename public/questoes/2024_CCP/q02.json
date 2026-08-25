@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 542.0209350585938,
       "x1": 611.7199999999999,
-      "y1": 772.9274291992188,
+      "y1": 773.9274291992188,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q02.txt",
   "largura": 2475,
-  "altura": 993,
+  "altura": 997,
   "confianca": 0.98,
   "texto_completo": "g\nç\n, p\nq\np\nç\nQUESTÃO 02\t\nUm professor, diante de questionamentos acerca da eficácia das vacinas na comunidade, propõe aos estudantes a realização de \npráticas pedagógicas sobre a relação entre o aumento da ocorrência de doenças que haviam sido erradicadas e o baixo índice \nde vacinação referente aos imunizantes do Programa Nacional de Imunizações (PNI). Considerando o papel da escola como \nespaço de promoção do letramento científico, o professor inicia um projeto de conscientização da comunidade escolar quanto \nà importância da atualização das carteiras vacinais e do combate à desinformação. A fim de atender aos objetivos do projeto, \nfoi elaborada uma proposta de prática pedagógica.\nPara que essa proposta promova o letramento científico, o professor deve\nA\t solicitar uma pesquisa em que os estudantes façam um levantamento junto aos familiares relativo a pendências na carteira \nde vacinação.\nB\t desenvolver um projeto interdisciplinar em que os estudantes investiguem dados científicos sobre vacinação e apresentem \nos resultados em uma feira de ciências com a participação da comunidade escolar.\nC\t promover rodas de conversa em que os estudantes construam um espaço de escuta e reflexão coletiva sobre a importância \ndo conhecimento para a tomada de decisão em relação à escolha das melhores vacinas.\nD\t propor uma prática pedagógica em que os estudantes tenham acesso aos materiais informativos da campanha de vacinação \norganizada pela Secretaria de Saúde na própria unidade escolar.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516010"
+  "criado_em": "2026-08-25T14:53:23.716239"
 }

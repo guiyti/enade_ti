@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 421.37091064453125,
       "x1": 611.7199999999999,
-      "y1": 619.138427734375,
+      "y1": 634.83837890625,
       "coluna": 0
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q43.txt",
   "largura": 2475,
-  "altura": 854,
+  "altura": 919,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 43\t\nCom base na situação-problema, a turma foi dividida para representar a estrutura física da rede:\n•\tAlguns estudantes seguram switches de papelão;\n•\tOutros estudantes são computadores;\n•\tBarbantes conectam os estudantes representando cabos de rede;\n•\tDois alunos representam os switches antigos da escola;\n•\tUm grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.\nQual alternativa apresenta a melhor descrição da rede representada pelos estudantes?\nA\t A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.\nB\t A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros \nda cidade.\nC\t A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.\nD A rede simulada é uma LAN pois os estudantes representaram uma conexão entre diversos setores da escola com switches",
+  "texto_completo": "QUESTÃO 43\t\nCom base na situação-problema, a turma foi dividida para representar a estrutura física da rede:\n•\tAlguns estudantes seguram switches de papelão;\n•\tOutros estudantes são computadores;\n•\tBarbantes conectam os estudantes representando cabos de rede;\n•\tDois alunos representam os switches antigos da escola;\n•\tUm grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.\nQual alternativa apresenta a melhor descrição da rede representada pelos estudantes?\nA\t A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.\nB\t A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros \nda cidade.\nC\t A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.\nD\t A rede simulada é uma LAN, pois os estudantes representaram uma conexão entre diversos setores da escola, com switches \ne cabos simbólicos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516187"
+  "criado_em": "2026-08-25T14:53:23.720425"
 }

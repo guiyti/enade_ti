@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 555.56,
-      "y1": 433.0987854003906,
+      "y1": 434.0987854003906,
       "coluna": 0
     },
     {
@@ -28,7 +28,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.txt",
   "largura": 2241,
-  "altura": 2644,
+  "altura": 2648,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO DISCURSIVA 5 \n \nAs memórias cache são usadas para diminuir o tempo de acesso à memória principal, \nmantendo cópias de seus dados. Uma função de mapeamento é usada para determinar \nem que parte da memória cache um dado da memória principal será mapeado. Em certos \ncasos, é necessário usar um algoritmo de substituição para determinar qual parte da cache \nserá substituída.\nSuponha uma arquitetura hipotética com as seguintes características:\n• \nA memória principal possui 4 Gbytes, em que cada byte é diretamente endereçável \ncom um endereço 32 bits.\n• \nA memória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.\n• \nOs dados são transferidos entre as duas memórias em blocos de 4 bytes.\nConsiderando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um \ntexto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das \npalavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens \ne desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada \numa delas. (valor: 10,0 pontos)\n\nATENÇÃO!\n1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente \nEspecífico dos cursos da área de Computação, assim distribuídas: \n2 - Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito, \nconforme consta no Caderno de Respostas.\n3 - Observe atentamente os números das questões de múltipla escolha correspondentes ao curso \nno qual você está inscrito para assinalar corretamente no Caderno de Respostas. \nPrezado(a) estudante,\nCursos\nNúmero das questões\nLicenciatura\n31 a 35\nCiência da Computação \n36 a 40\nEngenharia de Computação\n41 a 45\nSistemas de Informação\n46 a 50",
   "texto_enunciado": "",
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:20.232260"
+  "criado_em": "2026-08-25T14:50:27.656484"
 }

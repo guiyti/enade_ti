@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 627.646728515625,
       "x1": 570.1999999999999,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q22.txt",
   "largura": 2302,
-  "altura": 660,
+  "altura": 664,
   "confianca": 0.98,
   "texto_completo": "E\nTodos os itens estão certos.\nQUESTÃO 22\nQual tipo de software tradutor deve ser utilizado para\nprogramas em geral, quando a velocidade de execução é\numa exigência de alta prioridade?\nA\ncompiladores\nB\ninterpretadores\nC\ntradutores híbridos\nD\nmacroprocessadores\nE\ninterpretadores de macroinstruções\nesquema de banco de dados relacional?\nA\nEstudante(10, ‘jsilva@ig.com.br’, null, 20);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nB\nEstudante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nC\nEstudante(10, ‘jsilva@ig.com.br’, 1, 20); \nFonePessoa(1, null, ‘3761’, ‘1370’)\nD\nEstudante(10, ‘jsilva@ig.com.br’, 1, 50); \nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)\nE\nEstudante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738770"
+  "criado_em": "2026-08-25T14:49:50.887047"
 }

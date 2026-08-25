@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 434.0931091308594,
+      "y1": 435.0931091308594,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q15.txt",
   "largura": 2185,
-  "altura": 1527,
+  "altura": 1531,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 15\t\nO surgimento das metodologias ágeis eliminou o gerenciamento baseado em planos, substituindo-o \npelo planejamento incremental. A documentação de projeto foi reduzida ao mínimo e deixou de ser \nprevisto um gerente de projeto. Infelizmente, esse tipo de abordagem não atende as necessidades das \norganizações, em que gerentes de negócio necessitam acompanhar o andamento dos projetos, controlar \norçamento, estabelecer prioridades e atualizar seus planos de negócio. Nesse contexto, foi desenvolvido \no SCRUM, um framework para a organização de projetos ágeis. O SCRUM prevê dois indivíduos: o \nScrum Master e o Product Owner, que são responsáveis por atuar como interface entre a equipe de \ndesenvolvimento e a organização.\nSOMMERVILLE, I. Engineering Software Products: An Introduction to Modern Software Engineering. Boston: Pearson, 2019 (adaptado).\nEm relação à metodologia SCRUM, avalie as afirmações a seguir.\nI.\t O papel do Scrum Master é guiar a equipe no uso efetivo da metodologia SCRUM.\nII.\t O papel do Product Owner é garantir o foco no produto, evitando que o mesmo se perca em \nquestões técnicas menos relevantes.\nIII.\t Tanto o Scrum Master como o Product Owner têm autoridade direta sobre a equipe.\nÉ correto o que se afirma em\nA\t II, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t I e III, apenas.\nE\t I, II e III.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902078"
+  "criado_em": "2026-08-25T14:52:41.914654"
 }

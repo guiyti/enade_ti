@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 464.7500305175781,
+      "y1": 465.7500305175781,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q34.txt",
   "largura": 2185,
-  "altura": 1655,
+  "altura": 1659,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 34\t\nEm um mundo competitivo com grandes mudanças ocorrendo a todo instante, as organizações precisam \ncada vez mais alinhar e integrar a Tecnologia da Informação (TI), de forma que se possa fornecer \nmaior sustentação ao negócio. Dentro dessa abordagem, é fundamental compreender quais são as \ncompetências do Chief Executive Officer (CEO) dentro da organização.\nTESTA, M. G.; BECKER, C. A.; LUCIANO, E. M. Competências individuais relevantes para os Chief Information Officers na percepção de \nprofissionais de tecnologia da informação. RESI: Revista Eletrônica de Sistemas de Informação. v. 11, n. 1, jan-jun.2012 (adaptado).\nA partir do texto apresentado, avalie as afirmações a seguir:\nI.\t O perfil do Gestor de TI está se aproximando gradativamente daquele dos gestores de outras \náreas, o que pode ser resultante das políticas e esforços para alinhamento entre TI e negócio.\nII.\t O crescimento da dependência da TI para o sucesso dos negócios das empresas fez com que \nos CEOs passassem a ocupar um espaço mais representativo como membros dos conselhos \nexecutivos nas empresas.\nIII.\tO CEO deve estabelecer relações de confiança com a equipe de TI para obter o \ncomprometimento da equipe e alcançar a melhoria contínua nas metas da organização.\nIV.\t A capacidade de relacionamento interpessoal é mais importante para o CEO do que o conhecimento \ne a experiência técnica na área.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e IV.\nC\t III e IV.\nD\t I, II e III.\nE\t II, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426317"
+  "criado_em": "2026-08-25T14:53:01.382789"
 }

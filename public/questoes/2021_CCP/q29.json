@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 655.6194458007812,
+      "y1": 656.6194458007812,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q29.txt",
   "largura": 2185,
-  "altura": 2450,
+  "altura": 2454,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 29\t\nAs operações morfológicas são um conjunto de operações que processam imagens com base em formas. \nAs operações morfológicas aplicam um elemento estruturador B a uma imagem A de entrada e geram \numa imagem de saída.\nEm relação às operações morfológicas de Erosão e Dilatação, avalie as afirmações a seguir.\nI.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de pixel \nsobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, por esse \nvalor máximo; exemplo:\nII.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIII.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIV.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nÉ correto o que se afirma em\nA\t I e III, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD\t II e IV, apenas.\nE\t I, II, III e IV.",
   "texto_enunciado": "",
@@ -49,5 +49,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902151"
+  "criado_em": "2026-08-25T14:52:41.914885"
 }

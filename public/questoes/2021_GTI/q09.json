@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 457.23822021484375,
+      "y1": 458.23822021484375,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q09.txt",
   "largura": 2185,
-  "altura": 1623,
+  "altura": 1627,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 09\t\nAntes de traçarmos um plano de projeto de software, devemos estabelecer os objetivos do produto e \nseu escopo, considerar as soluções alternativas e identificar as restrições técnicas e de gerenciamento. \nSem tais informações, é impossível definir de forma precisa custos, riscos, análise realística do projeto ou \num cronograma. Como gestores do projeto, devemos nos reunir com as partes interessadas para definir \nos objetivos e o escopo do produto.\nPRESSMAN, R. S.; MAXIM, B. R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH Ed., 2016 (adaptado).\nSuponha que um gerente de projetos é contratado para trabalhar em um dos módulos do sistema de \ninformação que será produzido para uma empresa e que outros módulos serão desenvolvidos de forma \nsimultânea por outras equipes. A direção da empresa informou que será necessário cortar 25% dos custos \ninicialmente estimados, a fim de reduzir os gastos. \nConsiderando essa situação, para proceder, conforme o preconizado no texto, o gerente de projetos de \ncada módulo deverá\nA\t iniciar o projeto da forma que foi concebido e procurar, ao longo do desenvolvimento, oportunidades \nsistêmicas para redução de custos.\nB\t solicitar a cada membro da equipe que, com base nos requisitos de sua responsabilidade, faça uma \nanálise minuciosa e, assim, de forma consciente, corte 25% das tarefas sob sua incumbência.\nC\t analisar, em conjunto com a direção da empresa e com os demais gerentes de projetos, os requisitos \nde forma geral e negociar quais poderão ser cortados e/ou postergados.\nD\treorganizar as equipes de desenvolvimento e substituir alguns funcionários por outros com \nmenor salário.\nE\t realizar atividades de conscientização da diretoria sobre a importância do desenvolvimento do \nprojeto e o grande impacto de mercado, propondo que os cortes de custos sejam realizados em \noutros setores da empresa.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426217"
+  "criado_em": "2026-08-25T14:53:01.382689"
 }

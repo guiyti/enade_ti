@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 600.88671875,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q27.txt",
   "largura": 1153,
-  "altura": 771,
+  "altura": 775,
   "confianca": 0.98,
   "texto_completo": "g\np\nQUESTÃO 27\nEm redes locais de computadores, o protocolo de controle \nacesso ao meio define um conjunto de regras que devem s\nadotadas pelos múltiplos dispositivos para compartilhar o me\nfísico de transmissão. No caso de uma rede Ethernet IEE\n802.3 conectada fisicamente a um concentrador (hub), em q\nabordagem se baseia o protocolo de controle de acesso \nmeio?\nA\nna passagem de permissão em anel\nB\nna ordenação com contenção\nC\nna ordenação sem contenção\nD\nna contenção com detecção de colisão\nE\nna arbitragem centralizada",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738788"
+  "criado_em": "2026-08-25T14:49:50.887063"
 }

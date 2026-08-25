@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 287.28,
-      "y1": 585.2459716796875,
+      "y1": 586.2459716796875,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q06.txt",
   "largura": 1123,
-  "altura": 2156,
+  "altura": 2160,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 6 \nA educação é o Xis da questão\nDesemprego\nAqui se vê que a taxa de\n   desemprego é menor para\n      quem fica mais tempo\n          na escola\n13,05%\n3,83%\n2,66%\nAté 10 anos\n    de estudo\nSalário                      \nAqui se vê que os salários\naumentam conforme os       \n anos de estudo (em reais)      \n18 500\n8 600\n1 800\nSalário de\nquem tem   \ndoutorado     \nou MBA        \nSalário de\nquem tem curso  \nsuperior e fala       \numa língua           \nestrangeira              \nSalário de\nquem conclui   \no ensino      \nmédio         \n7,91%\n12 a 14 anos\n   de estudo\n15 a 17 anos\n    de estudo\nMais de\n  17 anos\n     de estudo\nFontes: Manager Assessoria\nem Recursos Humanos e IBGE\nDisponível em: <http://ead.uepb.edu.br/noticias,82>. Acesso em: 24 ago. 2011.\nA expressão “o Xis da questão” usada no título do \ninfográfico diz respeito\nA   à quantidade de anos de estudos necessários para \ngarantir um emprego estável com salário digno.\nB   às oportunidades de melhoria salarial que surgem à medida \nque aumenta o nível de escolaridade dos indivíduos.\nC   à influência que o ensino de língua estrangeira nas \nescolas tem exercido na vida profissional dos indivíduos.\nD   aos questionamentos que são feitos acerca da \nquantidade mínima de anos de estudo que os \nindivíduos precisam para ter boa educação.\nE   à redução da taxa de desemprego em razão da política \natual de controle da evasão escolar e de aprovação \nautomática de ano de acordo com a idade.",
   "texto_enunciado": "",
@@ -51,5 +51,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:01.738674"
+  "criado_em": "2026-08-25T14:50:10.560117"
 }

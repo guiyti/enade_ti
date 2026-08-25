@@ -11,7 +11,7 @@
       "x0": 300.59999999999997,
       "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 602.3106689453125,
+      "y1": 603.3106689453125,
       "coluna": 2
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q45.txt",
   "largura": 1154,
-  "altura": 2228,
+  "altura": 2232,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 45\nConsidere y = f(x) uma função contínua e não-negativa\n(f $ 0), definida em um intervalo [a, b], e R a região\ndelimitada pelo eixo x, o gráfico de f e as retas x = a e\nx = b. Considere S o sólido obtido pela rotação do conjunto\nR em torno do eixo das abscissas, conforme ilustram as\nfiguras a seguir. O volume V do sólido S pode ser obtido\ncomo resultado da integral \n.\nCom base nessas informações, julgue os itens a seguir.\nI\nCada seção transversal do sólido S obtida quando este\né interceptado em x = c por um plano paralelo ao plano\nyOz é um círculo centrado no ponto (c, 0, 0) e de raio\nmedindo f(x) e, portanto, de área igual a B(f(x))2.\nII\nSe P é uma partição uniforme do intervalo [a, b], sendo\nP = {a = x0 < x1 < x2 < ... \n< xn = b}, tal que )x = xi !x i-1,\nentão \n para ci 0 [ xi, xi ! 1], 1< i < n.\nIII É igual a 2B o volume do sólido gerado pela rotação em\ntorno do eixo x da região do plano delimitada pelo\neixo x, o gráfico de \n e as retas x = 0 e x = 2.\nAssinale a opção correta.\nA\nApenas o item I está certo.\nB\nApenas o item III está certo.\nC\nApenas os itens I e II estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\ny\na\nb\nR\nx\ny\nx\nO\nS\nz",
   "texto_enunciado": "",
@@ -47,5 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738868"
+  "criado_em": "2026-08-25T14:49:50.887136"
 }

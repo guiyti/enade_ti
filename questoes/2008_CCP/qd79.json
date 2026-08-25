@@ -11,7 +11,7 @@
       "x0": 300.59999999999997,
       "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 237.5704345703125,
+      "y1": 252.1970672607422,
       "coluna": 2
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.txt",
   "largura": 1154,
-  "altura": 708,
+  "altura": 769,
   "confianca": 0.98,
-  "texto_completo": "está\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nt\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.",
+  "texto_completo": "está\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nto e\nntes\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.\n(valor: 5,0 pontos)",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.739021"
+  "criado_em": "2026-08-25T14:49:50.887277"
 }

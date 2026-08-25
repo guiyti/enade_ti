@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 435.8866882324219,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q70.txt",
   "largura": 1153,
-  "altura": 1459,
+  "altura": 1463,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 70\nEthernet e suas evoluções de 100 Mbps e 1 Gbps sã\ntecnologias padronizadas para comunicações em redes loca\ncom infra-estrutura de transmissão compartilhada. Acerca d\ntransmissões que usam essas tecnologias, assinale a opçã\nincorreta.\nA\nEmbora diversos segmentos de uma rede possam s\ndefinidos com o uso de equipamentos de comutaçã\n(switches), transmissões de pacotes com endereço d\nbroadcast (difusão) atingem todos os computadores \nmesma rede.\nB\nO mecanismo de controle de acesso ao meio utilizado\ndistribuído e, nas redes com concentradores (hubs), cad\ninterface de rede deve determinar quando é possív\nrealizar uma transmissão.\nC\nComutadores (switches) realizam o encaminhamen\nseletivo de quadros com base nos endereços IP de cad\nestação.\nD\nA escuta do meio durante as transmissões perm\ndetectar colisões em segmentos compartilhados e \nnecessidade de retransmissões, mas não há envio d\nquadros (frames) de confirmação de recebimento.\nE\nUm mecanismo de controle de consistência é usado pa\nverificar a integridade de cada quadro (frame) transmitid",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738981"
+  "criado_em": "2026-08-25T14:49:50.887238"
 }

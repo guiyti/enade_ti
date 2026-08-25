@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 362.3171081542969,
+      "y1": 363.3171081542969,
       "coluna": 0
     },
     {
@@ -28,7 +28,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.txt",
   "largura": 2302,
-  "altura": 2620,
+  "altura": 2625,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 60 – DISCURSIVA\nPara transmissões de sinais em banda base, a largura de banda do canal limita a taxa de\ntransmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de\ntransmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação\na seguir.\nC = 2 × W bauds\nNo entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos\neletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,\né caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído\ntérmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e\napresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.\nC = W × log2 (1 + \n) bps\nTendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão\nmáxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16\ndiferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.\nA Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em\nbits por segundo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\n\nAs questões de 61 a 80, a seguir, são específicas par\nBACHARELADO EM SIST\nFigura para a questão 61\nEstágios do ciclo d\nGerente do desenvolvimento\nde aplicações\nGerenciamento de aplicações\nCliente\nN\nDesenho e planejamento\nSuporte té\nAdministra\nValida\nserviço\nPlanejar\nserviços\nDefinir\npolíticas\nEstabelecer\nestratégias\nEstratégias, planos e requisitos\nGerente de serviços\nEntrega de serviços",
   "texto_enunciado": "",
@@ -56,5 +56,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738935"
+  "criado_em": "2026-08-25T14:49:50.887197"
 }

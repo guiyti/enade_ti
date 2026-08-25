@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 286.6591796875,
       "x1": 611.7199999999999,
-      "y1": 399.6748046875,
+      "y1": 455.63482666015625,
       "coluna": 0
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q17.txt",
   "largura": 2475,
-  "altura": 501,
+  "altura": 734,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional de Avaliação da Educação Básica (Saeb), são utilizadas \ncomo instrumentos de aferição da qualidade da Educação Básica no Brasil. Seu resultado é utilizado no cálculo do Índice de \nDesenvolvimento da Educação Básica (Ideb) das escolas. Uma determinada escola recebeu sua nota do Ideb, e o resultado ficou \nabaixo da média prevista. Diante disso, a direção fez uma reunião com o corpo docente para traçar metas para a melhoria do \ndesempenho da escola.\nA análise dos resultados do Ideb deve orientar as ações pedagógicas para",
+  "texto_completo": "QUESTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional de Avaliação da Educação Básica (Saeb), são utilizadas \ncomo instrumentos de aferição da qualidade da Educação Básica no Brasil. Seu resultado é utilizado no cálculo do Índice de \nDesenvolvimento da Educação Básica (Ideb) das escolas. Uma determinada escola recebeu sua nota do Ideb, e o resultado ficou \nabaixo da média prevista. Diante disso, a direção fez uma reunião com o corpo docente para traçar metas para a melhoria do \ndesempenho da escola.\nA análise dos resultados do Ideb deve orientar as ações pedagógicas para\nA\t direcionar o planejamento de forma estratégica.\nB\t reduzir o espaço de determinadas áreas do currículo.\nC\t dedicar maior atenção a conteúdos extracurriculares.\nD\t focalizar o desenvolvimento de habilidades socioemocionais.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516076"
+  "criado_em": "2026-08-25T14:53:23.716304"
 }

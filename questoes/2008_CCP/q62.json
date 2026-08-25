@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 579.166748046875,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     },
     {
@@ -27,7 +27,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q62.txt",
   "largura": 1154,
-  "altura": 2255,
+  "altura": 2259,
   "confianca": 0.98,
   "texto_completo": "E\ngerente de desenvolvimento de aplicações\nQUESTÃO 62\nO código de ética da Organização Internacional de In\nSupremas de Auditoria (INTOSAI) define como valores e \nbásicos da atuação da auditoria a independência, a objeti\nimparcialidade, o segredo profissional e a competência. Ao \ntrabalho de auditoria sem definir claramente a finalidade da\ne o modelo de conformidade no qual a auditoria se apóia, q\nou princípio um auditor estaria primariamente falhando em \nA\nindependência\nB\nobjetividade\nC\nimparcialidade\nD\nsegredo profissional\nE\ncompetência\n\na os estudantes de cursos com perfis profissionais de \nEMAS DE INFORMAÇÃO.\nvida de um serviço de TI\nUsuário\ngócios\nSoluções de negócios\nnico\não\nOperações\nImplantação\nGerenciamento de\ninfra-estrutura de TIC\nTratar\nobsolescência\nOperar\nserviços\nImplantar\nserviços\nOperador de suporte técnico\nSuporte a serviços",
   "texto_enunciado": "",
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738946"
+  "criado_em": "2026-08-25T14:49:50.887206"
 }

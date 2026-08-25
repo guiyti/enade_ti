@@ -9,6 +9,10 @@ colaborativas podem ser propostas para exercitar o armazenamento de informaçõe
 de orientação a objetos.
 Os estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a 
 justificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?
+A	 Optamos por esse modelo porque ele utiliza chaves primárias e estrangeiras para estabelecer ligações entre diferentes estruturas.
+B	 Escolhemos esse modelo porque ele permite representar dados em estruturas que encapsulam atributos e comportamentos.
+C	 Decidimos por esse modelo porque suas estruturas oferecem facilidades em realizar operações como junção, intersecção e união.
+D	 Utilizamos esse modelo porque ele é ideal para normalizar dados e evitar redundâncias entre diferentes estruturas.
 
 Texto para questões 42 e 43
 Uma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da 

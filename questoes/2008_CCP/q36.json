@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 453.6466979980469,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q36.txt",
   "largura": 1153,
-  "altura": 1385,
+  "altura": 1389,
   "confianca": 0.98,
   "texto_completo": "p\nç\np\nç\nQUESTÃO 36\nRedes locais sem fio que utilizam tecnologia IEEE 8\ncomumente referenciada como Wi-Fi, estão se tornando cad\nmais populares. Julgue os itens abaixo, relativos a essa tecno\nI\nComputadores em redes IEEE 802.11 podem-se comunic\ndois modos básicos: usando uma infra-estrutura coord\npor pontos de acesso à rede (access points — AP), ou no\nad hoc, em que cada computador troca inform\ndiretamente com os demais.\nII\nPara poder transmitir por meio de um ponto de acesso\ninterface de rede deve realizar um procediment\nassociação, que inclui o conhecimento de um c\nidentificador (service set identifier — SSI).\nIII Um mecanismo de detecção de colisão durante a transm\nindica a necessidade de retransmissão e evita o env\nmensagens de confirmação.\nIV Um mecanismo de requisição para transmissão (requ\nsend — RTS) e de liberação para transmissão (clear to se\nCTS) pode ser usado para evitar colisões.\nV O protocolo WEP (wired equivalent privacy) impede\ninterfaces não-autorizadas recebam sinais propagado\nmeio.\nEstão certos apenas os itens\nA I, II e IV.\nB I, III e V.\nC I, IV e V.\nD II, III e IV.\nE II, III e V.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738826"
+  "criado_em": "2026-08-25T14:49:50.887099"
 }

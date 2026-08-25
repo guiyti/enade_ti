@@ -13,7 +13,8 @@ B	 Selecionar jogos educacionais que permitam ajustes de navegação, suporte a 
 e tamanho de fonte, ampliando as possibilidades de uso para públicos diversos.
 C	 Utilizar jogos digitais que apresentem apelo gráfico e narrativo, priorizando o engajamento e a experiência de jogo como 
 fator principal dos processos de ensino e aprendizagem.
-D Incluir jogos educacionais com comandos táteis e visuais responsivos buscando atender à maioria dos usuários ainda que
+D	 Incluir jogos educacionais com comandos táteis e visuais responsivos, buscando atender à maioria dos usuários, ainda que 
+com limitações de adaptação a diferentes recursos de acessibilidade.
 
 Texto para questões de 75 a 77
 Um professor de Computação está elaborando um plano de aula para turmas do Ensino Fundamental. Ao propor desafios 

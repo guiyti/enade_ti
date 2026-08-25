@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 654.31298828125,
+      "y1": 655.31298828125,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q31.txt",
   "largura": 2185,
-  "altura": 2445,
+  "altura": 2449,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 31\t\nFoi solicitado o desenvolvimento de um software para o controle e gestão das matrículas dos alunos \nem uma universidade. Os alunos poderão realizá-las diretamente no sistema, em um terminal a ser \ndisponibilizado na universidade. Além dessas características, o sistema deverá considerar as restrições \nrepresentadas no diagrama a seguir:\nRealizar\nMatricula Fora \ndo Prazo\nRealizar\nMatricula \nValidar via\nReƟna\nValidar via\nDigital\nValidar Aluno\nAluno\n<<extend>>\n<<include>>\nCom base no texto e no diagrama, avalie as afirmações a seguir.\nI.\t O aluno poderá realizar a matrícula fora do prazo e as tratativas são as mesmas da matrícula feita \ndentro do prazo.\nII.\t O aluno poderá, opcionalmente, realizar a matrícula fora do prazo.\nIII.\t O sistema, obrigatoriamente, deverá validar o aluno que realizar a matrícula fora do prazo.\nIV.\t A validação do aluno deverá ser feita a partir da sua matrícula informada no sistema.\nV.\t A validação do aluno, a ser feita por retina, é diferente da validação feita pela digital.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, III e V.\nE\t II, III, IV e V.",
   "texto_enunciado": "",
@@ -51,5 +51,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:31.778451"
+  "criado_em": "2026-08-25T14:52:21.616038"
 }

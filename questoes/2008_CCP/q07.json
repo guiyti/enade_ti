@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 514.4867553710938,
       "x1": 570.1999999999999,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q07.txt",
   "largura": 2302,
-  "altura": 1131,
+  "altura": 1135,
   "confianca": 0.98,
   "texto_completo": "Disponível em http://www.ipea.gov.br    \nç\ng\np\nQUESTÃO 7\nApesar do progresso verificado nos últimos anos, o Brasil continua\nsendo um país em que há uma grande desigualdade de renda\nentre os cidadãos. Uma forma de se constatar este fato é por meio\nda Curva de Lorenz, que fornece, para cada valor de x entre 0 e\n100, o percentual da renda total do País auferido pelos x% de\nbrasileiros de menor renda. Por exemplo, na Curva de Lorenz para\n2004, apresentada ao lado, constata-se que a renda total dos 60%\nde menor renda representou apenas 20% da renda total.\nDe acordo com o mesmo gráfico, o percentual da renda\ntotal \ncorrespondente \naos \n20% \nde \nmaior \nrenda \nfoi,\naproximadamente, igual a\nA 20%.\nB 40%.\nC 50%.\nD 60%.\nE 80%.",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738693"
+  "criado_em": "2026-08-25T14:49:50.886979"
 }

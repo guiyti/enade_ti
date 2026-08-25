@@ -13,6 +13,7 @@ import {
   BookOpen
 } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
+import { savePresentationContext } from "@/lib/presentationContext";
 
 interface SearchClientProps {
   exams: ExamData[];
@@ -220,6 +221,13 @@ export function SearchClient({ exams }: SearchClientProps) {
 
                     <Link
                       href={`/docente/apresentacao/${exam.id_prova}/${question.id_questao}`}
+                      onClick={() => {
+                        const playlist = results.map((r) => ({
+                          id_prova: r.exam.id_prova,
+                          id_questao: r.question.id_questao,
+                        }));
+                        savePresentationContext(playlist);
+                      }}
                       className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-sky-600 hover:bg-sky-700 text-white font-semibold text-xs shadow-sm transition-all"
                     >
                       <Play className="w-3 h-3 fill-current" />

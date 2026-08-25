@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 83.01449584960938,
       "x1": 611.7199999999999,
-      "y1": 698.4948120117188,
+      "y1": 714.19482421875,
       "coluna": 0
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q03.txt",
   "largura": 2475,
-  "altura": 2595,
+  "altura": 2661,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 03\t\nA fim de cumprir a Lei n. 14 986/2024, que inclui na Lei de Diretrizes e Bases da Educação (LDB) a “obrigatoriedade de abordagens \nfundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio”, \num professor do Ensino Médio apresentou aos estudantes dados do Relatório “Em direção à equidade de gênero no Brasil” \nsobre a participação de mulheres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área do conhecimento\nParticipação feminina em cada área do conhecimento para publicações com autores no Brasil no período 2018 a 2022. \nDisponível em: www.static.poder360.com.br. Acesso em: 29 jul. 2025 (adaptado).\nOs dados do gráfico seguem a classificação de áreas de pesquisa das revistas científicas em que as publicações foram \neditadas e revelam marcante presença feminina em áreas como Enfermagem (80%) e Psicologia (61%), mas baixos índices em \nMatemática (19%), Ciência da Computação (21%) e Engenharia (24%).\nA partir desse material, a proposta pedagógica que representa uma ação do professor para estimular a equidade de gênero \nnas áreas do conhecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas de favorecimento por questões de gênero.\nB\t analisar os dados com o intuito de promover investigações sobre a falta de representatividade feminina em áreas de exatas.\nC utilizar os dados para reforçar que as escolhas profissionais são determinadas por aptidões naturais distintas.",
+  "texto_completo": "QUESTÃO 03\t\nA fim de cumprir a Lei n. 14 986/2024, que inclui na Lei de Diretrizes e Bases da Educação (LDB) a “obrigatoriedade de abordagens \nfundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio”, \num professor do Ensino Médio apresentou aos estudantes dados do Relatório “Em direção à equidade de gênero no Brasil” \nsobre a participação de mulheres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área do conhecimento\nParticipação feminina em cada área do conhecimento para publicações com autores no Brasil no período 2018 a 2022. \nDisponível em: www.static.poder360.com.br. Acesso em: 29 jul. 2025 (adaptado).\nOs dados do gráfico seguem a classificação de áreas de pesquisa das revistas científicas em que as publicações foram \neditadas e revelam marcante presença feminina em áreas como Enfermagem (80%) e Psicologia (61%), mas baixos índices em \nMatemática (19%), Ciência da Computação (21%) e Engenharia (24%).\nA partir desse material, a proposta pedagógica que representa uma ação do professor para estimular a equidade de gênero \nnas áreas do conhecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas de favorecimento por questões de gênero.\nB\t analisar os dados com o intuito de promover investigações sobre a falta de representatividade feminina em áreas de exatas.\nC\t utilizar os dados para reforçar que as escolhas profissionais são determinadas por aptidões naturais distintas.\nD\t promover olimpíadas científicas escolares para motivar a competição entre meninas e meninos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516015"
+  "criado_em": "2026-08-25T14:53:23.716244"
 }

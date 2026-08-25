@@ -12,13 +12,13 @@
       "x0": 25.0,
       "y0": 469.24810791015625,
       "x1": 611.7199999999999,
-      "y1": 618.2650146484375,
+      "y1": 633.9649658203125,
       "coluna": 0
     },
     {
       "pagina": 29,
       "x0": 25.0,
-      "y0": 82.57166290283203,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 192.4860382080078,
       "coluna": 0
@@ -28,9 +28,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q54.txt",
   "largura": 2475,
-  "altura": 1124,
+  "altura": 1188,
   "confianca": 0.98,
-  "texto_completo": "g\n,\ng\n,\nç\np\np\nQUESTÃO 54\t\nUm professor de Computação está planejando uma atividade sobre a evolução da internet e seus impactos socioculturais, com \na finalidade de disseminar conhecimentos de forma crítica e colaborativa. Assim, deve propor aos estudantes que\nA\t pesquisem sobre os marcos históricos e o desenvolvimento da internet no mundo e apresentem as principais descobertas \nem um seminário em sala de aula.\nB\t realizem uma pesquisa bibliográfica sobre o uso da internet para acessar serviços do governo e construam infográficos para \npublicar estatísticas sobre cidadania digital no mural da escola.\nC\t assistam a documentários selecionados sobre as transformações sociais decorrentes da evolução da internet e elaborem \numa resenha crítica de acordo com as normas da ABNT.\nD entrevistem membros da comunidade do entorno sobre o uso da internet e produzam um podcast discutindo os desafios\n\nTexto para questões de 55 a 57\nUm professor de Computação pretende ensinar algoritmos de ordenação e decide utilizar o Merge Sort, que consiste em dividir \numa lista recursivamente até obter listas com um único elemento e combinar as listas ordenando os elementos até reconstruir \na lista original. Por ser um exemplo clássico da técnica de divisão e conquista, seu objetivo é proporcionar aos estudantes uma \nexperiência de aprendizagem em que percebam, de forma prática, como problemas complexos podem ser compreendidos e \nresolvidos por meio da reestruturação em tarefas mais simples. Além disso, o professor percebe que pode relacionar o conteúdo \na conceitos matemáticos, estabelecendo conexões que favorecem o raciocínio lógico.",
+  "texto_completo": "g\n,\ng\n,\nç\np\np\nQUESTÃO 54\t\nUm professor de Computação está planejando uma atividade sobre a evolução da internet e seus impactos socioculturais, com \na finalidade de disseminar conhecimentos de forma crítica e colaborativa. Assim, deve propor aos estudantes que\nA\t pesquisem sobre os marcos históricos e o desenvolvimento da internet no mundo e apresentem as principais descobertas \nem um seminário em sala de aula.\nB\t realizem uma pesquisa bibliográfica sobre o uso da internet para acessar serviços do governo e construam infográficos para \npublicar estatísticas sobre cidadania digital no mural da escola.\nC\t assistam a documentários selecionados sobre as transformações sociais decorrentes da evolução da internet e elaborem \numa resenha crítica de acordo com as normas da ABNT.\nD\t entrevistem membros da comunidade do entorno sobre o uso da internet e produzam um podcast discutindo os desafios \ne avanços da inclusão digital no contexto local.\n\nTexto para questões de 55 a 57\nUm professor de Computação pretende ensinar algoritmos de ordenação e decide utilizar o Merge Sort, que consiste em dividir \numa lista recursivamente até obter listas com um único elemento e combinar as listas ordenando os elementos até reconstruir \na lista original. Por ser um exemplo clássico da técnica de divisão e conquista, seu objetivo é proporcionar aos estudantes uma \nexperiência de aprendizagem em que percebam, de forma prática, como problemas complexos podem ser compreendidos e \nresolvidos por meio da reestruturação em tarefas mais simples. Além disso, o professor percebe que pode relacionar o conteúdo \na conceitos matemáticos, estabelecendo conexões que favorecem o raciocínio lógico.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516236"
+  "criado_em": "2026-08-25T14:53:23.720476"
 }

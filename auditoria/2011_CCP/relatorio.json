@@ -9,7 +9,7 @@
   "questoes_extraidas": 55,
   "score_geral": 0.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:35:06.806896",
+  "processado_em": "2026-08-25T14:50:15.848843",
   "paginas": [
     {
       "numero": 1,
@@ -17839,7 +17839,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232056"
+      "criado_em": "2026-08-25T14:50:27.656321"
     },
     {
       "id_questao": "q02",
@@ -17890,7 +17890,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232092"
+      "criado_em": "2026-08-25T14:50:27.656350"
     },
     {
       "id_questao": "q03",
@@ -17940,7 +17940,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232099"
+      "criado_em": "2026-08-25T14:50:27.656356"
     },
     {
       "id_questao": "q04",
@@ -17990,7 +17990,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232104"
+      "criado_em": "2026-08-25T14:50:27.656360"
     },
     {
       "id_questao": "q05",
@@ -18044,7 +18044,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232110"
+      "criado_em": "2026-08-25T14:50:27.656365"
     },
     {
       "id_questao": "q06",
@@ -18059,7 +18059,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 287.28,
-          "y1": 585.2459716796875,
+          "y1": 586.2459716796875,
           "coluna": 1
         }
       ],
@@ -18067,7 +18067,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q06.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q06.txt",
       "largura": 1123,
-      "altura": 2156,
+      "altura": 2160,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 6 \nA educação é o Xis da questão\nDesemprego\nAqui se vê que a taxa de\n   desemprego é menor para\n      quem fica mais tempo\n          na escola\n13,05%\n3,83%\n2,66%\nAté 10 anos\n    de estudo\nSalário                      \nAqui se vê que os salários\naumentam conforme os       \n anos de estudo (em reais)      \n18 500\n8 600\n1 800\nSalário de\nquem tem   \ndoutorado     \nou MBA        \nSalário de\nquem tem curso  \nsuperior e fala       \numa língua           \nestrangeira              \nSalário de\nquem conclui   \no ensino      \nmédio         \n7,91%\n12 a 14 anos\n   de estudo\n15 a 17 anos\n    de estudo\nMais de\n  17 anos\n     de estudo\nFontes: Manager Assessoria\nem Recursos Humanos e IBGE\nDisponível em: <http://ead.uepb.edu.br/noticias,82>. Acesso em: 24 ago. 2011.\nA expressão “o Xis da questão” usada no título do \ninfográfico diz respeito\nA   à quantidade de anos de estudos necessários para \ngarantir um emprego estável com salário digno.\nB   às oportunidades de melhoria salarial que surgem à medida \nque aumenta o nível de escolaridade dos indivíduos.\nC   à influência que o ensino de língua estrangeira nas \nescolas tem exercido na vida profissional dos indivíduos.\nD   aos questionamentos que são feitos acerca da \nquantidade mínima de anos de estudo que os \nindivíduos precisam para ter boa educação.\nE   à redução da taxa de desemprego em razão da política \natual de controle da evasão escolar e de aprovação \nautomática de ano de acordo com a idade.",
       "texto_enunciado": "",
@@ -18102,7 +18102,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232115"
+      "criado_em": "2026-08-25T14:50:27.656369"
     },
     {
       "id_questao": "q07",
@@ -18152,7 +18152,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232121"
+      "criado_em": "2026-08-25T14:50:27.656373"
     },
     {
       "id_questao": "q08",
@@ -18167,7 +18167,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 538.6409912109375,
+          "y1": 539.6409912109375,
           "coluna": 0
         }
       ],
@@ -18175,7 +18175,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q08.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q08.txt",
       "largura": 2241,
-      "altura": 1962,
+      "altura": 1966,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 8 \nEm reportagem, Owen Jones, autor do livro Chavs: a difamação da classe trabalhadora, publicado no Reino \nUnido, comenta as recentes manifestações de rua em Londres e em outras principais cidades inglesas.\nJones prefere chamar atenção para as camadas sociais mais desfavorecidas do país, que desde o início dos \ndistúrbios, ficaram conhecidas no mundo todo pelo apelido chavs, usado pelos britânicos para escarnecer dos hábitos \nde consumo da classe trabalhadora. Jones denuncia um sistemático abandono governamental dessa parcela da \npopulação: “Os políticos insistem em culpar os indivíduos pela desigualdade”, diz. (...) “você não vai ver alguém assumir \nser um chav, pois se trata de um insulto criado como forma de generalizar o comportamento das classes mais baixas. \nMeu medo não é o preconceito e, sim, a cortina de fumaça que ele oferece. Os distúrbios estão servindo como o \nargumento ideal para que se faça valer a ideologia de que os problemas sociais são resultados de defeitos individuais, \nnão de falhas maiores. Trata-se de uma filosofia que tomou conta da sociedade britânica com a chegada de Margaret \nThatcher ao poder, em 1979, e que basicamente funciona assim: você é culpado pela falta de oportunidades. (...) Os \npolíticos insistem em culpar os indivíduos pela desigualdade”.\nSuplemento  Prosa & Verso, O Globo, Rio de Janeiro, 20 ago. 2011, p. 6 (adaptado).\nConsiderando as ideias do texto, avalie as afirmações a seguir.\nI. \nChavs é um apelido que exalta hábitos de consumo de parcela da população britânica.\nII. Os distúrbios ocorridos na Inglaterra serviram para atribuir deslizes de comportamento individual como causas \nde problemas sociais.\nIII. Indivíduos da classe trabalhadora britânica são responsabilizados pela falta de oportunidades decorrente da \nausência de políticas públicas.\nIV. As manifestações de rua na Inglaterra reivindicavam formas de inclusão nos padrões de consumo vigente.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e IV.\nC   II e III.\nD   I, III e IV.\nE   II, III e IV.",
       "texto_enunciado": "",
@@ -18202,7 +18202,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232126"
+      "criado_em": "2026-08-25T14:50:27.656377"
     },
     {
       "id_questao": "qd01",
@@ -18217,7 +18217,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 425.348388671875,
+          "y1": 426.348388671875,
           "coluna": 0
         }
       ],
@@ -18225,7 +18225,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd01.txt",
       "largura": 2241,
-      "altura": 1490,
+      "altura": 1494,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 1 \nA Educação a Distância (EaD) é a modalidade de ensino que permite que a \ncomunicação e a construção do conhecimento entre os usuários envolvidos \npossam acontecer em locais e tempos distintos. São necessárias tecnologias \ncada vez mais sofisticadas para essa modalidade de ensino não presencial, com \nvistas à crescente necessidade de uma pedagogia que se desenvolva por meio \nde novas relações de ensino-aprendizagem.\nO Censo da Educação Superior de 2009, realizado pelo MEC/INEP, aponta \npara o aumento expressivo do número de matrículas nessa modalidade. Entre \n2004 e 2009, a participação da EaD na Educação Superior passou de 1,4% \npara 14,1%, totalizando 838 mil matrículas, das quais 50% em cursos de \nlicenciatura. Levantamentos apontam ainda que 37% dos estudantes de EaD \nestão na pós-graduação e que 42% estão fora do seu estado de origem.\nConsiderando as informações acima, enumere três vantagens de um curso a distância, justificando brevemente cada \numa delas. (valor: 10,0 pontos)",
       "texto_enunciado": "",
@@ -18252,7 +18252,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232131"
+      "criado_em": "2026-08-25T14:50:27.656381"
     },
     {
       "id_questao": "qd02",
@@ -18267,7 +18267,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 428.82879638671875,
+          "y1": 429.82879638671875,
           "coluna": 0
         }
       ],
@@ -18275,7 +18275,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd02.txt",
       "largura": 2241,
-      "altura": 1504,
+      "altura": 1509,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 2 \nA Síntese de Indicadores Sociais (SIS 2010) utiliza-se \nda Pesquisa Nacional por Amostra de Domicílios (PNAD) \npara apresentar sucinta análise das condições de vida no \nBrasil. Quanto ao analfabetismo, a SIS 2010 mostra que \nos maiores índices se concentram na população idosa, em \ncamadas de menores rendimentos e predominantemente \nna região Nordeste, conforme dados do texto a seguir.\nA taxa de analfabetismo referente a pessoas de 15 anos \nou mais de idade baixou de 13,3% em 1999 para 9,7% \nem 2009. Em números absolutos, o contingente era de \n14,1 milhões de pessoas analfabetas. Dessas, 42,6% \ntinham mais de 60 anos, 52,2% residiam no Nordeste \ne 16,4% viviam com ½ salário-mínimo de renda familiar \nper capita. Os maiores decréscimos no analfabetismo \npor grupos etários entre 1999 a 2009 ocorreram na faixa \ndos 15 a 24 anos. Nesse grupo, as mulheres eram mais \nalfabetizadas, mas a população masculina apresentou \nqueda um pouco mais acentuada dos índices de \nanalfabetismo, que passou de 13,5% para 6,3%, contra \n6,9% para 3,0% para as mulheres.\nSIS 2010: Mulheres mais escolarizadas são mães mais tarde e têm menos filhos. \nDisponível em: <www.ibge.gov.br/home/presidencia/noticias>.\n Acesso em: 25 ago. 2011 (adaptado).\nCom base nos dados apresentados, redija um texto dissertativo acerca da importância de políticas e programas \neducacionais para a erradicação do analfabetismo e para a empregabilidade, considerando as disparidades \nsociais e as dificuldades de obtenção de emprego provocadas pelo analfabetismo. Em seu texto, apresente uma \nproposta para a superação do analfabetismo e para o aumento da empregabilidade. (valor: 10,0 pontos)\nPopulação analfabeta com idade superior a 15 anos \nano \nporcentagem\n2000\n13,6\n2001\n12,4\n2002\n11,8\n2003\n11,6\n2004\n11,2\n2005\n10,7\n2006\n10,2\n2007\n9,9\n2008\n10,0\n2009\n9,7\nFonte:  IBGE",
       "texto_enunciado": "",
@@ -18303,7 +18303,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232136"
+      "criado_em": "2026-08-25T14:50:27.656385"
     },
     {
       "id_questao": "q09",
@@ -18362,7 +18362,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232141"
+      "criado_em": "2026-08-25T14:50:27.656389"
     },
     {
       "id_questao": "q10",
@@ -18377,7 +18377,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 477.83380126953125,
+          "y1": 478.83380126953125,
           "coluna": 2
         }
       ],
@@ -18385,7 +18385,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.txt",
       "largura": 1123,
-      "altura": 1709,
+      "altura": 1713,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 10\nEm determinado período letivo, cada estudante de um \ncurso universitário tem aulas com um de três professores, \nesses identifi cados pelas letras X, Y e Z. As quantidades \nde estudantes (homens e mulheres) que têm aulas com \ncada professor é apresentada na tabela de contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nEstudantes \nhomens\n45\n5\n32\nEstudantes \nmulheres\n67\n2\n4\nA partir do grupo de estudantes desse curso universitário, \nescolhe-se um estudante ao acaso. Qual é a probabilidade \nde que esse estudante seja mulher, dado que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nD    \n22\n112\nE    \n67\n112",
       "texto_enunciado": "",
@@ -18412,7 +18412,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232146"
+      "criado_em": "2026-08-25T14:50:27.656393"
     },
     {
       "id_questao": "q11",
@@ -18463,7 +18463,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232152"
+      "criado_em": "2026-08-25T14:50:27.656397"
     },
     {
       "id_questao": "q12",
@@ -18522,7 +18522,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232157"
+      "criado_em": "2026-08-25T14:50:27.656402"
     },
     {
       "id_questao": "q13",
@@ -18573,7 +18573,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232162"
+      "criado_em": "2026-08-25T14:50:27.656406"
     },
     {
       "id_questao": "q14",
@@ -18588,7 +18588,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 287.28,
-          "y1": 546.0986328125,
+          "y1": 547.0986328125,
           "coluna": 1
         }
       ],
@@ -18596,7 +18596,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.txt",
       "largura": 1123,
-      "altura": 1993,
+      "altura": 1997,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 14  \nObserve o diagrama de Venn a seguir.\nA função representada em azul no diagrama também \npoderia ser expressa pela função lógica \nA    \n.\nB    \n.\nC    \n.\nD    \n.\nE    \n.",
       "texto_enunciado": "",
@@ -18631,7 +18631,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232167"
+      "criado_em": "2026-08-25T14:50:27.656410"
     },
     {
       "id_questao": "q15",
@@ -18681,7 +18681,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232172"
+      "criado_em": "2026-08-25T14:50:27.656413"
     },
     {
       "id_questao": "q16",
@@ -18731,7 +18731,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232177"
+      "criado_em": "2026-08-25T14:50:27.656417"
     },
     {
       "id_questao": "q17",
@@ -18784,7 +18784,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232182"
+      "criado_em": "2026-08-25T14:50:27.656421"
     },
     {
       "id_questao": "q18",
@@ -18834,7 +18834,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232187"
+      "criado_em": "2026-08-25T14:50:27.656425"
     },
     {
       "id_questao": "q19",
@@ -18884,7 +18884,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232192"
+      "criado_em": "2026-08-25T14:50:27.656429"
     },
     {
       "id_questao": "q20",
@@ -18936,7 +18936,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232197"
+      "criado_em": "2026-08-25T14:50:27.656433"
     },
     {
       "id_questao": "q21",
@@ -18986,7 +18986,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232201"
+      "criado_em": "2026-08-25T14:50:27.656437"
     },
     {
       "id_questao": "q22",
@@ -19001,7 +19001,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 287.28,
-          "y1": 541.1332397460938,
+          "y1": 542.1332397460938,
           "coluna": 1
         }
       ],
@@ -19009,7 +19009,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q22.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q22.txt",
       "largura": 1123,
-      "altura": 1972,
+      "altura": 1977,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 22  \nConsidere a seguinte tabela  verdade, na qual estão \ndefi nidas quatro entradas – A, B, C e D – e uma saída S. \nA\nB\nC\nD\nS\n0\n0\n0\n0\n1\n0\n0\n0\n1\n0\n0\n0\n1\n0\n1\n0\n0\n1\n1\n0\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n0\n0\n0\n1\n1\n0\n0\n1\n1\n1\n0\n1\n0\n0\n1\n0\n1\n1\n1\n1\n1\n0\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n1\n1\n1\n1\n1\nA menor expressão de chaveamento representada por \numa soma de produtos correspondente à saída S é\nA   AB’(D+C’)+A’D’+ABC.\nB   AD + A’BD’+A’BC+A’B’C’.\nC   A’D’ + AB’D+AB’C’+ABC.\nD   (A’+D)(A+B+C’)(A+B’+C+D’).\nE    (A+D’)(A’+B’+C)(A’+B+C’+D).",
       "texto_enunciado": "",
@@ -19036,7 +19036,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232206"
+      "criado_em": "2026-08-25T14:50:27.656441"
     },
     {
       "id_questao": "q23",
@@ -19051,7 +19051,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 541.4235229492188,
+          "y1": 542.4235229492188,
           "coluna": 2
         }
       ],
@@ -19059,7 +19059,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q23.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q23.txt",
       "largura": 1123,
-      "altura": 1974,
+      "altura": 1978,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 23\nAutômatos fi nitos possuem diversas aplicações práticas, \ncomo na detecção de sequências de caracteres em \num texto. A fi gura abaixo apresenta um autômato que \nreconhece sequências sobre o alfabeto \ne \numa gramática livre de contexto que gera um subconjunto \nde \n, em que \nrepresenta o string vazio.\nAnalisando a gramática e o autômato acima, \nconclui-se que\nA   a linguagem gerada pela gramática é inerentemente \nambígua.\nB   a gramática é regular e gera uma linguagem livre de \ncontexto.\nC   a linguagem reconhecida pelo autômato é a mesma \ngerada pela gramática.\nD   o autômato reconhece a linguagem sobre \n em que \nos strings possuem o prefi xo ababc.\nE   a linguagem reconhecida pelo autômato é a \nmesma que a representada pela expressão regular \n.",
       "texto_enunciado": "",
@@ -19094,7 +19094,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232211"
+      "criado_em": "2026-08-25T14:50:27.656444"
     },
     {
       "id_questao": "q24",
@@ -19144,7 +19144,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232216"
+      "criado_em": "2026-08-25T14:50:27.656448"
     },
     {
       "id_questao": "q25",
@@ -19196,7 +19196,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232220"
+      "criado_em": "2026-08-25T14:50:27.656452"
     },
     {
       "id_questao": "q26",
@@ -19248,7 +19248,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232225"
+      "criado_em": "2026-08-25T14:50:27.656456"
     },
     {
       "id_questao": "q27",
@@ -19299,7 +19299,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232230"
+      "criado_em": "2026-08-25T14:50:27.656460"
     },
     {
       "id_questao": "q28",
@@ -19314,7 +19314,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 606.05029296875,
+          "y1": 607.05029296875,
           "coluna": 2
         }
       ],
@@ -19322,7 +19322,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.txt",
       "largura": 1123,
-      "altura": 2243,
+      "altura": 2247,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 28\nAlgoritmos criados para resolver um mesmo problema \npodem diferir de forma drástica quanto a sua eficiência. \nPara evitar este fato, são utilizadas técnicas algorítmicas, \nisto é, conjunto de técnicas que compreendem os métodos \nde codificação de algoritmos de forma a salientar sua \ncomplexidade, levando-se em conta a forma pela qual \ndeterminado algoritmo chega à solução desejada.\nConsiderando os diferentes paradigmas e técnicas de \nprojeto de algoritmos, analise as afirmações abaixo.\nI. \nA técnica de tentativa e erro (backtracking) efetua \numa escolha ótima local, na esperança de obter \numa solução ótima global.\nII. A técnica de divisão e conquista pode ser dividida \nem três etapas: dividir a instância do problema \nem duas ou mais instâncias menores; resolver \nas instâncias menores recursivamente; obter a \nsolução para as instâncias originais (maiores) por \nmeio da combinação dessas soluções.\nIII. A \ntécnica \nde \nprogramação \ndinâmica \ndecompõe o processo em um número finito de \nsubtarefas parciais que devem ser exploradas \nexaustivamente.\nIV. O uso de heurísticas (ou algoritmos aproximados) \né caracterizado pela ação de um procedimento \nchamar a si próprio, direta ou indiretamente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
       "texto_enunciado": "",
@@ -19350,7 +19350,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232235"
+      "criado_em": "2026-08-25T14:50:27.656464"
     },
     {
       "id_questao": "q29",
@@ -19365,7 +19365,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 287.28,
-          "y1": 475.78924560546875,
+          "y1": 476.78924560546875,
           "coluna": 1
         }
       ],
@@ -19373,7 +19373,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.txt",
       "largura": 1123,
-      "altura": 1700,
+      "altura": 1704,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 29  \nUma antiga empresa de desenvolvimento de software \nresolveu atualizar toda sua infraestrutura computacional \nadquirindo \num \nsistema \noperacional \nmultitarefa, \nprocessadores multi-core (múltiplos núcleos) e o uso de \numa linguagem de programação com suporte a threads.\nO sistema operacional multitarefa de um computador \né capaz de executar vários processos (programas) em \nparalelo. Considerando esses processos implementados \ncom mais de uma thread (multi-threads), analise as \nafirmações abaixo.\nI. \nOs ciclos de vida de processos e threads são idênticos.\nII. Threads de diferentes processos compartilham \nmemória.\nIII. Somente processadores multi-core são capazes \nde executar programas multi-threads.\nIV. Em sistemas operacionais multitarefa, threads \npodem migrar de um processo para outro.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   I e IV.\nE   II e IV.",
       "texto_enunciado": "",
@@ -19401,7 +19401,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232240"
+      "criado_em": "2026-08-25T14:50:27.656468"
     },
     {
       "id_questao": "q30",
@@ -19416,7 +19416,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 332.06396484375,
+          "y1": 333.06396484375,
           "coluna": 2
         }
       ],
@@ -19424,7 +19424,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q30.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q30.txt",
       "largura": 1123,
-      "altura": 1101,
+      "altura": 1105,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 30  \nSuponha que se queira pesquisar a chave 287 em uma \nárvore binária de pesquisa com chaves entre 1 e 1 000. \nDurante uma pesquisa como essa, uma sequência de \nchaves é examinada. Cada sequência abaixo é uma \nsuposta sequência de chaves examinadas em uma busca \nda chave 287.\nI. \n7, 342, 199, 201, 310, 258, 287\nII. 110, 132, 133, 156, 289, 288, 287\nIII. 252, 266, 271, 294, 295, 289, 287\nIV. 715, 112, 530, 249, 406, 234, 287\nÉ válido apenas o que se apresenta em\nA   I.\nB   III.\nC   I e II.\nD   II e IV.\nE   III e IV.",
       "texto_enunciado": "",
@@ -19451,7 +19451,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232244"
+      "criado_em": "2026-08-25T14:50:27.656472"
     },
     {
       "id_questao": "qd03",
@@ -19466,7 +19466,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 281.51458740234375,
+          "y1": 282.51458740234375,
           "coluna": 0
         }
       ],
@@ -19474,7 +19474,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.txt",
       "largura": 2241,
-      "altura": 891,
+      "altura": 895,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 3 \n \nOs números de Fibonacci correspondem à uma sequência infi nita na \nqual os dois primeiros termos são 0 e 1. Cada termo da sequência, \nà exceção dos dois primeiros, é igual à soma dos dois anteriores, \nconforme a relação de recorrência abaixo.\nDesenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n > 0, retorna o n-ésimo termo \nda sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)",
       "texto_enunciado": "",
@@ -19503,7 +19503,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232249"
+      "criado_em": "2026-08-25T14:50:27.656476"
     },
     {
       "id_questao": "qd04",
@@ -19518,7 +19518,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 434.2294921875,
+          "y1": 435.2294921875,
           "coluna": 0
         }
       ],
@@ -19526,7 +19526,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.txt",
       "largura": 2241,
-      "altura": 1527,
+      "altura": 1531,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 4\nListas ordenadas implementadas com vetores são estruturas \nde dados adequadas para a busca binária, mas possuem o \ninconveniente de exigirem custo computacional de ordem linear \npara a inserção de novos elementos. Se as operações de inserção \nou remoção de elementos forem frequentes, uma alternativa é \ntransformar a lista em uma árvore binária de pesquisa balanceada, \nque permitirá a execução dessas operações com custo logarítmico.\nConsiderando essas informações, escreva um algoritmo recursivo que construa uma árvore binária de pesquisa \ncompleta, implementada por estruturas auto-referenciadas ou apontadores, a partir de um vetor ordenado, v, de n \ninteiros, em que n = 2m - 1, m > 0. O algoritmo deve construir a árvore em tempo linear, sem precisar fazer qualquer \ncomparação entre os elementos do vetor, uma vez que este já está ordenado. Para isso,\na) descreva a estrutura de dados utilizada para a implementação da árvore (valor = 2,0 pontos)\nb) escreva o algoritmo para a construção da árvore. A chamada principal à função recursiva deve passar, como \nparâmetros, o vetor, índice do primeiro e último elementos, retornando a referência ou apontador para a raiz da \nárvore criada (valor: 8,0 pontos).\nObservação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser \nconsiderada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.",
       "texto_enunciado": "",
@@ -19555,7 +19555,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232254"
+      "criado_em": "2026-08-25T14:50:27.656479"
     },
     {
       "id_questao": "qd05",
@@ -19571,7 +19571,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 433.0987854003906,
+          "y1": 434.0987854003906,
           "coluna": 0
         },
         {
@@ -19587,7 +19587,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.txt",
       "largura": 2241,
-      "altura": 2644,
+      "altura": 2648,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 5 \n \nAs memórias cache são usadas para diminuir o tempo de acesso à memória principal, \nmantendo cópias de seus dados. Uma função de mapeamento é usada para determinar \nem que parte da memória cache um dado da memória principal será mapeado. Em certos \ncasos, é necessário usar um algoritmo de substituição para determinar qual parte da cache \nserá substituída.\nSuponha uma arquitetura hipotética com as seguintes características:\n• \nA memória principal possui 4 Gbytes, em que cada byte é diretamente endereçável \ncom um endereço 32 bits.\n• \nA memória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.\n• \nOs dados são transferidos entre as duas memórias em blocos de 4 bytes.\nConsiderando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um \ntexto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das \npalavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens \ne desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada \numa delas. (valor: 10,0 pontos)\n\nATENÇÃO!\n1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente \nEspecífico dos cursos da área de Computação, assim distribuídas: \n2 - Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito, \nconforme consta no Caderno de Respostas.\n3 - Observe atentamente os números das questões de múltipla escolha correspondentes ao curso \nno qual você está inscrito para assinalar corretamente no Caderno de Respostas. \nPrezado(a) estudante,\nCursos\nNúmero das questões\nLicenciatura\n31 a 35\nCiência da Computação \n36 a 40\nEngenharia de Computação\n41 a 45\nSistemas de Informação\n46 a 50",
       "texto_enunciado": "",
@@ -19615,7 +19615,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232260"
+      "criado_em": "2026-08-25T14:50:27.656484"
     },
     {
       "id_questao": "q31",
@@ -19665,7 +19665,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232265"
+      "criado_em": "2026-08-25T14:50:27.656488"
     },
     {
       "id_questao": "q32",
@@ -19716,7 +19716,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232270"
+      "criado_em": "2026-08-25T14:50:27.656492"
     },
     {
       "id_questao": "q33",
@@ -19768,7 +19768,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232275"
+      "criado_em": "2026-08-25T14:50:27.656496"
     },
     {
       "id_questao": "q34",
@@ -19819,7 +19819,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232279"
+      "criado_em": "2026-08-25T14:50:27.656500"
     },
     {
       "id_questao": "q35",
@@ -19874,7 +19874,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232284"
+      "criado_em": "2026-08-25T14:50:27.656504"
     },
     {
       "id_questao": "q36",
@@ -19925,7 +19925,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232289"
+      "criado_em": "2026-08-25T14:50:27.656508"
     },
     {
       "id_questao": "q37",
@@ -19976,7 +19976,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232293"
+      "criado_em": "2026-08-25T14:50:27.656511"
     },
     {
       "id_questao": "q38",
@@ -20066,7 +20066,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232298"
+      "criado_em": "2026-08-25T14:50:27.656515"
     },
     {
       "id_questao": "q39",
@@ -20116,7 +20116,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232303"
+      "criado_em": "2026-08-25T14:50:27.656519"
     },
     {
       "id_questao": "q40",
@@ -20169,7 +20169,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232307"
+      "criado_em": "2026-08-25T14:50:27.656523"
     },
     {
       "id_questao": "q41",
@@ -20221,7 +20221,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232312"
+      "criado_em": "2026-08-25T14:50:27.656527"
     },
     {
       "id_questao": "q42",
@@ -20236,7 +20236,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 384.3438415527344,
+          "y1": 385.3438415527344,
           "coluna": 2
         }
       ],
@@ -20244,7 +20244,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.txt",
       "largura": 1123,
-      "altura": 1319,
+      "altura": 1323,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 42  \nSabendo que a principal tarefa de um sistema será de \nclassificação em domínios complexos, um gerente de \nprojetos precisa decidir como vai incorporar essa capa-\ncidade em um sistema computacional a fim de torná-lo \ninteligente. Existem diversas técnicas de inteligência \ncomputacional / artificial que possibilitam isso.\nNesse contexto, a técnica de inteligência artificial mais \nindicada para o gerente é\nA   lógica nebulosa.\nB   árvores de decisão.\nC   redes neurais artificiais.\nD   ACO (do inglês, Ant-Colony Optimization).\nE   PSO (do inglês, Particle Swarm Optimization).",
       "texto_enunciado": "",
@@ -20271,7 +20271,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232317"
+      "criado_em": "2026-08-25T14:50:27.656531"
     },
     {
       "id_questao": "q43",
@@ -20342,7 +20342,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232322"
+      "criado_em": "2026-08-25T14:50:27.656535"
     },
     {
       "id_questao": "q44",
@@ -20397,7 +20397,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232326"
+      "criado_em": "2026-08-25T14:50:27.656539"
     },
     {
       "id_questao": "q45",
@@ -20412,7 +20412,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 488.5917053222656,
+          "y1": 489.5917053222656,
           "coluna": 0
         }
       ],
@@ -20420,7 +20420,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.txt",
       "largura": 2241,
-      "altura": 1753,
+      "altura": 1758,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.",
       "texto_enunciado": "",
@@ -20449,7 +20449,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232331"
+      "criado_em": "2026-08-25T14:50:27.656543"
     },
     {
       "id_questao": "q46",
@@ -20464,7 +20464,7 @@
           "x0": 25.0,
           "y0": 75.0,
           "x1": 287.28,
-          "y1": 590.00390625,
+          "y1": 591.00390625,
           "coluna": 1
         }
       ],
@@ -20472,7 +20472,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.txt",
       "largura": 1123,
-      "altura": 2176,
+      "altura": 2180,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000",
       "texto_enunciado": "",
@@ -20499,7 +20499,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232336"
+      "criado_em": "2026-08-25T14:50:27.656546"
     },
     {
       "id_questao": "q47",
@@ -20514,7 +20514,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 589.9337158203125,
+          "y1": 590.9337158203125,
           "coluna": 2
         }
       ],
@@ -20522,7 +20522,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.txt",
       "largura": 1123,
-      "altura": 2176,
+      "altura": 2180,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 47\nUma empresa de natureza estritamente operacional \ndeseja implantar um setor de suporte ao processo \nde tomada de decisão, já que os resultados que vem \napresentando demonstram contínua queda da margem \nde lucro e aumento do custo operacional. Para isso, os \nexecutivos de alto escalão da empresa decidiram investir \nna aquisição de uma ferramenta OLAP acoplada a uma \ndata warehouse.\nNessa situação, avalie as afirmações a seguir.\nI. \nNo que tange ao tipo de suporte propiciado, os \nsistemas OLAP podem ser classificados como \nsistemas de trabalhadores do conhecimento.\nII. Ferramentas OLAP apresentam foco orientado a \nassunto, em contraposição a sistemas OLTP, que \nsão orientados a aplicação.\nIII. Tendo em vista que data marts são construídos \nutilizando-se os sistemas legados da empresa, \nsem a utilização de dados externos, o processo \nde extração, transformação e carga envolve a \nintegração de dados, suprimindo-se a tarefa de \nlimpeza.\nIV. O projeto de um data warehouse define a forma \ncom que a base de dados será construída. Uma \ndas opções é a abordagem data mart, em que os \ndiversos data marts são integrados, até que se \nobtenha, ao final do processo, um data warehouse \nda empresa.\nÉ correto o que se afirma em\nA   I e III, apenas.\nB   I e IV, apenas.\nC   II e III, apenas.\nD   II e IV, apenas.\nE   I, II, III e IV.",
       "texto_enunciado": "",
@@ -20549,7 +20549,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232341"
+      "criado_em": "2026-08-25T14:50:27.656550"
     },
     {
       "id_questao": "q48",
@@ -20601,7 +20601,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232345"
+      "criado_em": "2026-08-25T14:50:27.656554"
     },
     {
       "id_questao": "q49",
@@ -20651,7 +20651,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232350"
+      "criado_em": "2026-08-25T14:50:27.656558"
     },
     {
       "id_questao": "q50",
@@ -20666,7 +20666,7 @@
           "x0": 293.28,
           "y0": 75.0,
           "x1": 555.56,
-          "y1": 450.4603271484375,
+          "y1": 451.4603271484375,
           "coluna": 2
         }
       ],
@@ -20674,7 +20674,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q50.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q50.txt",
       "largura": 1123,
-      "altura": 1595,
+      "altura": 1599,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 50  \nUma empresa vem desenvolvendo um programa de \nmelhoria de seus processos de software utilizando o \nmodelo de qualidade CMMI. O programa envolveu a \ndefinição de todos os processos padrão da organização, \nimplementação de técnicas de controle estatístico de \nprocessos e métodos de melhoria contínua. Após a \navaliação SCAMPI, classe A, foi detectado que a área \nde processo de PP - Project Planning (Planejamento de \nProjeto) não estava aderente ao modelo.\nNesse contexto, considerando a representação por \nestágios do CMMI, a empresa seria classificada em que \nnível de maturidade?\nA   Nível 1.\nB   Nível 2.\nC   Nível 3.\nD   Nível 4.\nE   Nível 5.",
       "texto_enunciado": "",
@@ -20702,7 +20702,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:35:20.232356"
+      "criado_em": "2026-08-25T14:50:27.656562"
     }
   ],
   "anomalias": [

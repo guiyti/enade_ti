@@ -11,7 +11,8 @@ de uma função matemática.
 C	 aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em 
 pequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação 
 completa dos dados.
-D elaboração de algoritmos como uma sequência de respostas a eventos associando funções a interações específicas como as
+D	 elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as 
+operações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.
 
 Texto para questões de 58 a 60
 Em uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades 

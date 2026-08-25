@@ -11,7 +11,7 @@
       "x0": 300.59999999999997,
       "y0": 398.2066955566406,
       "x1": 570.1999999999999,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 2
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q49.txt",
   "largura": 1154,
-  "altura": 1616,
+  "altura": 1620,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 49\nA segmentação de imagens é uma das partes essenciais\nna área de processamento de imagens. Assinale a opção\nincorreta em relação à detecção de bordas no contexto da\nsegmentação de imagens.\nA\nA detecção de bordas é a determinação dos limites de\num objeto em uma imagem, envolvendo a avaliação da\nvariação nos níveis de cinza dos pixels em uma\nvizinhança, sendo uma das formas de segmentação de\nimagens.\nB\nSobel, Prewitt e Roberts são operadores usados para\ndetecção de bordas, todos embasados em gradientes\ncalculados sobre os níveis de cinza de uma imagem.\nC\nA detecção de bordas é um processo de segmentação\nde imagens, mas com princípio diferente das técnicas\nque agrupam pixels vizinhos que compartilham\ndeterminado atributo.\nD\nCrescimento de regiões é um método de detecção de\nbordas embasado em gradientes, usando como critério\na disparidade de valores entre pixels vizinhos.\nE\nO operador LoG (laplacian of gaussian) é empregado\npara detecção de bordas, usando os cruzamentos de\nzero na determinação dos pixels que formam o limiar\nentre um objeto e outro em uma imagem.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738886"
+  "criado_em": "2026-08-25T14:49:50.887152"
 }

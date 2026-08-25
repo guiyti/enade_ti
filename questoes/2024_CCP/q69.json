@@ -12,13 +12,13 @@
       "x0": 25.0,
       "y0": 292.86712646484375,
       "x1": 611.7199999999999,
-      "y1": 341.6299743652344,
+      "y1": 397.5899963378906,
       "coluna": 0
     },
     {
       "pagina": 34,
       "x0": 25.0,
-      "y0": 82.57166290283203,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 180.4859161376953,
       "coluna": 0
@@ -28,9 +28,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.txt",
   "largura": 2475,
-  "altura": 656,
+  "altura": 888,
   "confianca": 0.98,
-  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\n\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.",
+  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\nA\t Vazão, maximizando o número de processos executados por instante de tempo.\nB\t Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.\nC\t Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.\nD\t Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.\n\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516421"
+  "criado_em": "2026-08-25T14:53:23.720544"
 }

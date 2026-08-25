@@ -18,7 +18,7 @@
         3
       ],
       "largura": 2440,
-      "altura": 3647,
+      "altura": 3651,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -38,7 +38,7 @@
         4
       ],
       "largura": 2440,
-      "altura": 1712,
+      "altura": 1716,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [
@@ -221,7 +221,7 @@
         15
       ],
       "largura": 2440,
-      "altura": 4879,
+      "altura": 4892,
       "confianca": 0.9,
       "status": "REJEITADA",
       "categorias": [
@@ -241,7 +241,7 @@
         16
       ],
       "largura": 2440,
-      "altura": 2540,
+      "altura": 2656,
       "confianca": 0.98,
       "status": "REJEITADA",
       "categorias": [

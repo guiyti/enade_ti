@@ -36,11 +36,7 @@ processo, o software desenvolvido tem como base o seguinte trecho de código-fon
 30 
 31 
 32 
-33 
-34 
-35 
-36 
-37 
+33
 struct lista { 
 int numero; 
 char cor; 
@@ -67,10 +63,7 @@ l = no;
 if (no->cor == 'V') 
 l = inserir_fim(l, no); 
 else 
-l = inserir_prioridade(l, no); 
-} 
-return l; 
-}
+l = inserir prioridade(l, no);
 
 Na linha 21, a função inserir recebe o número e a cor do cartão entregue ao paciente na triagem. 
 Pacientes com cartão verde são inseridos no final da fila pela função inserir_fim (linhas 9-19). 

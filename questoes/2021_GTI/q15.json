@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 387.84613037109375,
+      "y1": 388.84613037109375,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q15.txt",
   "largura": 2185,
-  "altura": 1334,
+  "altura": 1338,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 15\t\nA implantação de soluções tecnológicas baseadas em software como um serviço (SaaS - Software as \na Service) é uma tendência mundial. São exemplos o Google Apps e o Sales Force.\nMANOEL, V. Cloud Computing: nova Arquitetura da TI. Rio de Janeiro: Brasport, 2012 (adaptado).\nAcerca da arquitetura computacional de tecnologias baseadas em SaaS, avalie as asserções a seguir e a \nrelação proposta entre elas.\nI.\t Os SaaS são soluções hospedadas na nuvem para uma grande quantidade de clientes, como uma \nalternativa ao processamento local.\nPORQUE \nII.\t Os softwares oferecidos como um serviço por provedores são acessados pelos clientes por meio \nde navegadores, já o gerenciamento da rede, dos sistemas operacionais, dos servidores e do \narmazenamento é realizado principalmente pelo provedor de serviços.\nA respeito dessas asserções, assinale a alternativa correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426243"
+  "criado_em": "2026-08-25T14:53:01.382713"
 }

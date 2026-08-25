@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 571.16,
-      "y1": 323.8465576171875,
+      "y1": 324.8465576171875,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd39.txt",
   "largura": 2306,
-  "altura": 1067,
+  "altura": 1071,
   "confianca": 0.98,
   "texto_completo": "Tendo como base a árvore acima, faça o que se pede nos itens a seguir.\na) Descreva uma ordem de visita dos nós para uma busca em profundidade a partir do nó de valor 41. (valor: 3,0 pontos)\nb) Considerando que o nó de valor 33 seja a raiz da árvore, descreva a ordem de visita para uma varredura em pré-ordem\n(r-e-d, ou pré-fixado à esquerda) na árvore. (valor: 3,0 pontos)\nc) Considerando que a árvore cuja raiz é o nó de valor 33 represente uma árvore de busca binária, desenhe a nova árvore que será\nobtida após a realização das seguintes operações: inserir um nó de valor 21; remover o nó de valor 47; inserir um nó de valor 48.\n(valor: 4,0 pontos)",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:18.145978"
+  "criado_em": "2026-08-25T14:49:27.752886"
 }

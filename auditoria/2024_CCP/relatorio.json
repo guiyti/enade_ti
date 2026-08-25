@@ -9,7 +9,7 @@
   "questoes_extraidas": 81,
   "score_geral": 0.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:38:21.988279",
+  "processado_em": "2026-08-25T14:53:07.561929",
   "paginas": [
     {
       "numero": 1,
@@ -15391,7 +15391,7 @@
         {
           "pagina": 2,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 546.0209350585938,
           "coluna": 0
@@ -15401,7 +15401,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q01.txt",
       "largura": 2475,
-      "altura": 1961,
+      "altura": 1960,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 01\t\nTEXTO 1\nDisponível em: www.educadorinclusivo.org.br. Acesso em: 15 ago. 2025 (adaptado).\nTEXTO 2\nEm uma sala de aula do Ensino Fundamental, uma turma recebeu um estudante surdo e que se comunicava por meio da Língua \nBrasileira de Sinais (Libras). Considerando que o professor regente não era fluente em Libras, para garantir a participação do \nestudante nas atividades, a escola contratou um intérprete que adaptava e conduzia as atividades pedagógicas com o estudante \nsem a participação do professor.\nAo relacionar a situação descrita no Texto 2 com a figura apresentada no Texto 1, conclui-se que está ocorrendo um processo de\nA\t exclusão, pois o professor não dialoga diretamente com o estudante surdo.\nB\t segregação, porque a turma não consegue se comunicar com o estudante surdo.\nC\t inclusão, porque o estudante surdo participa regularmente das aulas com a turma.\nD\t integração, porque o intérprete estabelece uma relação individual com o estudante surdo.",
       "texto_enunciado": "",
@@ -15430,7 +15430,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.515995"
+      "criado_em": "2026-08-25T14:53:23.716202"
     },
     {
       "id_questao": "q02",
@@ -15445,7 +15445,7 @@
           "x0": 25.0,
           "y0": 542.0209350585938,
           "x1": 611.7199999999999,
-          "y1": 772.9274291992188,
+          "y1": 773.9274291992188,
           "coluna": 0
         }
       ],
@@ -15453,7 +15453,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q02.txt",
       "largura": 2475,
-      "altura": 993,
+      "altura": 997,
       "confianca": 0.98,
       "texto_completo": "g\nç\n, p\nq\np\nç\nQUESTÃO 02\t\nUm professor, diante de questionamentos acerca da eficácia das vacinas na comunidade, propõe aos estudantes a realização de \npráticas pedagógicas sobre a relação entre o aumento da ocorrência de doenças que haviam sido erradicadas e o baixo índice \nde vacinação referente aos imunizantes do Programa Nacional de Imunizações (PNI). Considerando o papel da escola como \nespaço de promoção do letramento científico, o professor inicia um projeto de conscientização da comunidade escolar quanto \nà importância da atualização das carteiras vacinais e do combate à desinformação. A fim de atender aos objetivos do projeto, \nfoi elaborada uma proposta de prática pedagógica.\nPara que essa proposta promova o letramento científico, o professor deve\nA\t solicitar uma pesquisa em que os estudantes façam um levantamento junto aos familiares relativo a pendências na carteira \nde vacinação.\nB\t desenvolver um projeto interdisciplinar em que os estudantes investiguem dados científicos sobre vacinação e apresentem \nos resultados em uma feira de ciências com a participação da comunidade escolar.\nC\t promover rodas de conversa em que os estudantes construam um espaço de escuta e reflexão coletiva sobre a importância \ndo conhecimento para a tomada de decisão em relação à escolha das melhores vacinas.\nD\t propor uma prática pedagógica em que os estudantes tenham acesso aos materiais informativos da campanha de vacinação \norganizada pela Secretaria de Saúde na própria unidade escolar.",
       "texto_enunciado": "",
@@ -15480,7 +15480,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516010"
+      "criado_em": "2026-08-25T14:53:23.716239"
     },
     {
       "id_questao": "q03",
@@ -15495,7 +15495,7 @@
           "x0": 25.0,
           "y0": 83.01449584960938,
           "x1": 611.7199999999999,
-          "y1": 698.4948120117188,
+          "y1": 714.19482421875,
           "coluna": 0
         }
       ],
@@ -15503,9 +15503,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q03.txt",
       "largura": 2475,
-      "altura": 2595,
+      "altura": 2661,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 03\t\nA fim de cumprir a Lei n. 14 986/2024, que inclui na Lei de Diretrizes e Bases da Educação (LDB) a “obrigatoriedade de abordagens \nfundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio”, \num professor do Ensino Médio apresentou aos estudantes dados do Relatório “Em direção à equidade de gênero no Brasil” \nsobre a participação de mulheres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área do conhecimento\nParticipação feminina em cada área do conhecimento para publicações com autores no Brasil no período 2018 a 2022. \nDisponível em: www.static.poder360.com.br. Acesso em: 29 jul. 2025 (adaptado).\nOs dados do gráfico seguem a classificação de áreas de pesquisa das revistas científicas em que as publicações foram \neditadas e revelam marcante presença feminina em áreas como Enfermagem (80%) e Psicologia (61%), mas baixos índices em \nMatemática (19%), Ciência da Computação (21%) e Engenharia (24%).\nA partir desse material, a proposta pedagógica que representa uma ação do professor para estimular a equidade de gênero \nnas áreas do conhecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas de favorecimento por questões de gênero.\nB\t analisar os dados com o intuito de promover investigações sobre a falta de representatividade feminina em áreas de exatas.\nC utilizar os dados para reforçar que as escolhas profissionais são determinadas por aptidões naturais distintas.",
+      "texto_completo": "QUESTÃO 03\t\nA fim de cumprir a Lei n. 14 986/2024, que inclui na Lei de Diretrizes e Bases da Educação (LDB) a “obrigatoriedade de abordagens \nfundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio”, \num professor do Ensino Médio apresentou aos estudantes dados do Relatório “Em direção à equidade de gênero no Brasil” \nsobre a participação de mulheres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área do conhecimento\nParticipação feminina em cada área do conhecimento para publicações com autores no Brasil no período 2018 a 2022. \nDisponível em: www.static.poder360.com.br. Acesso em: 29 jul. 2025 (adaptado).\nOs dados do gráfico seguem a classificação de áreas de pesquisa das revistas científicas em que as publicações foram \neditadas e revelam marcante presença feminina em áreas como Enfermagem (80%) e Psicologia (61%), mas baixos índices em \nMatemática (19%), Ciência da Computação (21%) e Engenharia (24%).\nA partir desse material, a proposta pedagógica que representa uma ação do professor para estimular a equidade de gênero \nnas áreas do conhecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas de favorecimento por questões de gênero.\nB\t analisar os dados com o intuito de promover investigações sobre a falta de representatividade feminina em áreas de exatas.\nC\t utilizar os dados para reforçar que as escolhas profissionais são determinadas por aptidões naturais distintas.\nD\t promover olimpíadas científicas escolares para motivar a competição entre meninas e meninos.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -15533,7 +15533,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516015"
+      "criado_em": "2026-08-25T14:53:23.716244"
     },
     {
       "id_questao": "q04",
@@ -15546,7 +15546,7 @@
         {
           "pagina": 4,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 254.65911865234375,
           "coluna": 0
@@ -15556,7 +15556,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q04.txt",
       "largura": 2475,
-      "altura": 747,
+      "altura": 746,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 04\t\nEm uma escola localizada em território quilombola, as turmas do Ensino Médio estavam envolvidas com a festividade de Santo \nAntônio, padroeiro da comunidade. Um professor de História, aproveitando a situação, convidou professores de outras áreas para \nrealizarem atividades pedagógicas sobre a representatividade da festa para o Inventário Cultural Quilombola. Com a mobilização \ndas áreas, foi proposta uma reflexão sobre a autonomia e a identidade escolar presentes no Projeto Político Pedagógico da escola.\nCom base no cenário apresentado, uma intervenção didática que considera a colaboração entre escola e comunidade quilombola \né aquela que\nA\t realiza leituras de textos sobre a festividade para normatizar saberes na escola.\nB\t insere festividades contemporâneas para renovar os princípios educativos da escola.\nC\t promove atividades para reconhecer ritos significativos para a comunidade durante a organização da festa.\nD\t organiza feiras com produtos industrializados para possibilitar a integração da comunidade com os espaços urbanos.",
       "texto_enunciado": "",
@@ -15583,7 +15583,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516020"
+      "criado_em": "2026-08-25T14:53:23.716249"
     },
     {
       "id_questao": "q05",
@@ -15598,7 +15598,7 @@
           "x0": 25.0,
           "y0": 250.65911865234375,
           "x1": 611.7199999999999,
-          "y1": 399.6748046875,
+          "y1": 455.63482666015625,
           "coluna": 0
         }
       ],
@@ -15606,14 +15606,14 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q05.txt",
       "largura": 2475,
-      "altura": 651,
+      "altura": 884,
       "confianca": 0.98,
-      "texto_completo": "g\np\np\np\ng\nç\np ç\nQUESTÃO 05\t\nEm uma escola da rede pública municipal, a equipe de educadores está revisando o Projeto Político Pedagógico (PPP) à luz \ndo novo referencial curricular do município, elaborado de acordo com a Base Nacional Comum Curricular (BNCC). Durante as \nreuniões, surgem diferentes percepções entre os professores: alguns compreendem que esse documento apresenta uma lista de \nconteúdos obrigatórios a serem cumpridos; e outros entendem que ele orienta as decisões didáticas que deverão ser adaptadas, \nconsiderando o contexto da escola e as necessidades dos estudantes. Diante dessa problemática, a coordenadora pedagógica \napresenta a perspectiva do currículo moldado, segundo a reflexão de Gimeno Sacristán (2000): “O currículo moldado vai além \ndo currículo prescrito (normativo) e do apresentado (materiais didáticos), devendo ser articulado e ressignificado de acordo \ncom os diferentes componentes curriculares, de modo a convergir para o contexto local e regional”.\nDiante do exposto, a concepção curricular apresentada pela coordenadora implica assumir o currículo como",
+      "texto_completo": "g\np\np\np\ng\nç\np ç\nQUESTÃO 05\t\nEm uma escola da rede pública municipal, a equipe de educadores está revisando o Projeto Político Pedagógico (PPP) à luz \ndo novo referencial curricular do município, elaborado de acordo com a Base Nacional Comum Curricular (BNCC). Durante as \nreuniões, surgem diferentes percepções entre os professores: alguns compreendem que esse documento apresenta uma lista de \nconteúdos obrigatórios a serem cumpridos; e outros entendem que ele orienta as decisões didáticas que deverão ser adaptadas, \nconsiderando o contexto da escola e as necessidades dos estudantes. Diante dessa problemática, a coordenadora pedagógica \napresenta a perspectiva do currículo moldado, segundo a reflexão de Gimeno Sacristán (2000): “O currículo moldado vai além \ndo currículo prescrito (normativo) e do apresentado (materiais didáticos), devendo ser articulado e ressignificado de acordo \ncom os diferentes componentes curriculares, de modo a convergir para o contexto local e regional”.\nDiante do exposto, a concepção curricular apresentada pela coordenadora implica assumir o currículo como\nA\t construção social e o professor como agente mediador no desenvolvimento curricular.\nB\t elemento neutro e o professor como agente condutor dos referenciais curriculares.\nC\t diretriz nacional e o professor como agente executor do currículo apresentado.\nD\t produto e o professor como agente educacional na apropriação curricular.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Formação Geral e Sociedade"
       ],
       "status": "REJEITADA",
       "marcadores": [
@@ -15633,7 +15633,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516025"
+      "criado_em": "2026-08-25T14:53:23.716253"
     },
     {
       "id_questao": "q06",
@@ -15683,7 +15683,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516029"
+      "criado_em": "2026-08-25T14:53:23.716257"
     },
     {
       "id_questao": "q07",
@@ -15699,13 +15699,13 @@
           "x0": 25.0,
           "y0": 307.1630859375,
           "x1": 611.7199999999999,
-          "y1": 458.02459716796875,
+          "y1": 513.984619140625,
           "coluna": 0
         },
         {
           "pagina": 6,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 192.4859161376953,
           "coluna": 0
@@ -15715,9 +15715,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q07.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q07.txt",
       "largura": 2475,
-      "altura": 1131,
+      "altura": 1363,
       "confianca": 0.98,
-      "texto_completo": "ç\nç\np\ny g\nQUESTÃO 07\t\nLi uma história de um pesquisador europeu no começo do século XX que estava nos EUA e chegou a um território dos hopi. \nEle tinha pedido que alguém daquela aldeia facilitasse o encontro dele com uma anciã que ele queria entrevistar. Quando foi \nencontrá-la, ela estava parada perto de uma rocha. Estava conversando com a irmã dela: uma pedra. Assim como aquela senhora \nhopi que conversava com a pedra, sua irmã, tem um monte de gente que fala com montanhas.\nPor que essas narrativas não nos entusiasmam? Por que elas vão sendo esquecidas e apagadas em favor de uma narrativa \nglobalizante, superficial, que quer contar a mesma história para a gente?\nKRENAK, A. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2020 (adaptado).\nPara contemplar a reflexão de Ailton Krenak, os professores da Educação Básica devem considerar na elaboração de um plano \nde ensino os conhecimentos\n\nTexto para questões 08 e 09\nCom base nos princípios da Pedagogia de Projetos e em articulação com os Objetivos de Desenvolvimento Sustentável (ODS), \nespecialmente o ODS 12, que trata da produção e do consumo responsáveis, os professores de uma escola pública de Ensino \nFundamental desenvolveram um projeto interdisciplinar com o intuito de promover ações educativas sobre o reaproveitamento \nde resíduos orgânicos na escola. A iniciativa incluiu o desenvolvimento de atividades de separação e de aproveitamento de \nresíduos da alimentação escolar, bem como a montagem de composteiras artesanais para a produção e o uso de adubo em \njardins e hortas da escola.",
+      "texto_completo": "ç\nç\np\ny g\nQUESTÃO 07\t\nLi uma história de um pesquisador europeu no começo do século XX que estava nos EUA e chegou a um território dos hopi. \nEle tinha pedido que alguém daquela aldeia facilitasse o encontro dele com uma anciã que ele queria entrevistar. Quando foi \nencontrá-la, ela estava parada perto de uma rocha. Estava conversando com a irmã dela: uma pedra. Assim como aquela senhora \nhopi que conversava com a pedra, sua irmã, tem um monte de gente que fala com montanhas.\nPor que essas narrativas não nos entusiasmam? Por que elas vão sendo esquecidas e apagadas em favor de uma narrativa \nglobalizante, superficial, que quer contar a mesma história para a gente?\nKRENAK, A. Ideias para adiar o fim do mundo. São Paulo: Companhia das Letras, 2020 (adaptado).\nPara contemplar a reflexão de Ailton Krenak, os professores da Educação Básica devem considerar na elaboração de um plano \nde ensino os conhecimentos \nA\t científicos, fundamentados em uma visão eurocêntrica dos conhecimentos tradicionais locais.\nB\t tradicionais locais, pautados por uma visão hegemônica dos conhecimentos científicos.\nC\t científicos, integrados com os conhecimentos tradicionais locais.\nD\t tradicionais locais, subordinados aos conhecimentos científicos.\n\nTexto para questões 08 e 09\nCom base nos princípios da Pedagogia de Projetos e em articulação com os Objetivos de Desenvolvimento Sustentável (ODS), \nespecialmente o ODS 12, que trata da produção e do consumo responsáveis, os professores de uma escola pública de Ensino \nFundamental desenvolveram um projeto interdisciplinar com o intuito de promover ações educativas sobre o reaproveitamento \nde resíduos orgânicos na escola. A iniciativa incluiu o desenvolvimento de atividades de separação e de aproveitamento de \nresíduos da alimentação escolar, bem como a montagem de composteiras artesanais para a produção e o uso de adubo em \njardins e hortas da escola.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -15742,7 +15742,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516034"
+      "criado_em": "2026-08-25T14:53:23.716262"
     },
     {
       "id_questao": "q08",
@@ -15792,7 +15792,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516038"
+      "criado_em": "2026-08-25T14:53:23.716266"
     },
     {
       "id_questao": "q09",
@@ -15807,7 +15807,7 @@
           "x0": 25.0,
           "y0": 292.86700439453125,
           "x1": 611.7199999999999,
-          "y1": 441.8785095214844,
+          "y1": 457.5784912109375,
           "coluna": 0
         }
       ],
@@ -15815,9 +15815,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.txt",
       "largura": 2475,
-      "altura": 651,
+      "altura": 716,
       "confianca": 0.98,
-      "texto_completo": "g\np\np\np\nç\np\nQUESTÃO 09\t\nCom base no projeto desenvolvido, a alternativa que, sob uma perspectiva crítica, apresenta a relação coerente entre o \nprocedimento metodológico e a avaliação da aprendizagem sobre o consumo responsável de alimentos é um(a)\nA\t roda de conversa que aborde ações relacionadas ao valor nutricional dos alimentos, seguida pela aplicação de uma prova \nobjetiva sobre os conceitos necessários para a realização dessas ações.\nB\t exposição de banners informativos que apresentem os tipos de alimentos utilizados nas composteiras, seguida por um mapa \nmental sobre o reaproveitamento da alimentação escolar.\nC\t debate que aborde a insegurança alimentar com base nas reflexões provocadas ao longo do projeto, seguido pela produção \nde um artigo de opinião a ser publicado no jornal da escola.\nD questionário acerca dos tipos de alimentos consumidos pela comunidade escolar seguido pela montagem de uma composteira",
+      "texto_completo": "g\np\np\np\nç\np\nQUESTÃO 09\t\nCom base no projeto desenvolvido, a alternativa que, sob uma perspectiva crítica, apresenta a relação coerente entre o \nprocedimento metodológico e a avaliação da aprendizagem sobre o consumo responsável de alimentos é um(a)\nA\t roda de conversa que aborde ações relacionadas ao valor nutricional dos alimentos, seguida pela aplicação de uma prova \nobjetiva sobre os conceitos necessários para a realização dessas ações.\nB\t exposição de banners informativos que apresentem os tipos de alimentos utilizados nas composteiras, seguida por um mapa \nmental sobre o reaproveitamento da alimentação escolar.\nC\t debate que aborde a insegurança alimentar com base nas reflexões provocadas ao longo do projeto, seguido pela produção \nde um artigo de opinião a ser publicado no jornal da escola.\nD\t questionário acerca dos tipos de alimentos consumidos pela comunidade escolar, seguido pela montagem de uma composteira \nconforme orientações de um manual técnico.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -15842,7 +15842,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516042"
+      "criado_em": "2026-08-25T14:53:23.716270"
     },
     {
       "id_questao": "q10",
@@ -15892,7 +15892,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516046"
+      "criado_em": "2026-08-25T14:53:23.716274"
     },
     {
       "id_questao": "q11",
@@ -15909,15 +15909,15 @@
           "x0": 25.0,
           "y0": 274.6591796875,
           "x1": 611.7199999999999,
-          "y1": 407.1920166015625,
+          "y1": 463.1466064453125,
           "coluna": 0
         },
         {
           "pagina": 8,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
-          "y1": 564.646240234375,
+          "y1": 565.646240234375,
           "coluna": 0
         },
         {
@@ -15933,9 +15933,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q11.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q11.txt",
       "largura": 2475,
-      "altura": 3384,
+      "altura": 3621,
       "confianca": 0.9,
-      "texto_completo": "p\np\nç\np\np\nQUESTÃO 11\t\nJustiça determina melhorias imediatas nas vias de acesso e  \nna estrutura de escolas em assentamentos\nEntre as precariedades identificadas pelo Ministério Público Federal (MPF) está o desgaste da infraestrutura dos prédios das \nescolas com pisos de areia e barro. Os professores e os estudantes são orientados a fazerem as necessidades fisiológicas na \nmata porque não há banheiro, nem rede de água ou de esgotamento sanitário.\nDisponível em: www.g1.globo.com. Acesso em: 11 maio 2025 (adaptado).\nDiante da situação retratada na matéria jornalística, que ação compete à escola e contribui para o enfrentamento dessa realidade?\n\nTexto para questões 12 e 13\nTEXTO 1\nO Programa Nacional do Livro e do Material Didático (PNLD), regulamentado pelo Decreto n. 12 021/2024, que altera o \nDecreto n. 9 099/2017, tem como objetivos avaliação, aquisição e distribuição de materiais didáticos e demais materiais de \napoio à prática educativa para toda a rede pública de ensino básico do país. Os materiais inscritos, avaliados, selecionados e \ndisponíveis para a escolha chegam às escolas participantes do PNLD de forma sistemática, regular e gratuita. As etapas que \ncompõem o processo de avaliação estão apresentadas a seguir:\nDisponível em: www.gov.br. Acesso em: 1 ago. 2025 (adaptado).\n\nTEXTO 2\nOs livros escolares assumem, conjuntamente ou não, múltiplas funções:\n•\tFunção referencial: expressa a noção de que os livros didáticos são suportes privilegiados de conteúdos, de conhecimentos \ne de técnicas, estando relacionados àquilo que é considerado importante para determinado grupo social. \n•\tFunção instrumental: o livro didático coloca em prática métodos de aprendizagem, propõe exercícios ou atividades \nque facilitam a memorização de conhecimentos, favorece a aquisição de competências disciplinares e a apropriação \nde habilidades. \n•\tFunção ideológica e cultural: o livro didático afirma-se como um dos vetores essenciais da língua, da cultura e dos valores \ndas classes dirigentes. Instrumento privilegiado de construção simbólica de identidade, assume um importante papel político.\n•\tFunção documental: o livro didático fornece um conjunto de documentos, textuais ou icônicos, cuja observação ou \nconfrontação podem desenvolver o espírito crítico do aluno.\nCHOPPIN, A. História dos livros e das edições didáticas: sobre o estado da arte. \nEducação e Pesquisa. set.-dez. 2004 (adaptado).",
+      "texto_completo": "p\np\nç\np\np\nQUESTÃO 11\t\nJustiça determina melhorias imediatas nas vias de acesso e  \nna estrutura de escolas em assentamentos\nEntre as precariedades identificadas pelo Ministério Público Federal (MPF) está o desgaste da infraestrutura dos prédios das \nescolas com pisos de areia e barro. Os professores e os estudantes são orientados a fazerem as necessidades fisiológicas na \nmata porque não há banheiro, nem rede de água ou de esgotamento sanitário.\nDisponível em: www.g1.globo.com. Acesso em: 11 maio 2025 (adaptado).\nDiante da situação retratada na matéria jornalística, que ação compete à escola e contribui para o enfrentamento dessa realidade?\nA\t A elaboração de um projeto com base em um diagnóstico sobre a situação da rede de água para solucionar o problema. \nB\t A instalação mínima de redes de água e de esgotamento sanitário nas escolas para superar as condições precárias de infraestrutura.\nC\t A articulação da gestão escolar com as autoridades competentes em busca de ações para melhorar a infraestrutura.\nD\t A convocação da comunidade escolar para proceder à despoluição de um rio do entorno.\n\nTexto para questões 12 e 13\nTEXTO 1\nO Programa Nacional do Livro e do Material Didático (PNLD), regulamentado pelo Decreto n. 12 021/2024, que altera o \nDecreto n. 9 099/2017, tem como objetivos avaliação, aquisição e distribuição de materiais didáticos e demais materiais de \napoio à prática educativa para toda a rede pública de ensino básico do país. Os materiais inscritos, avaliados, selecionados e \ndisponíveis para a escolha chegam às escolas participantes do PNLD de forma sistemática, regular e gratuita. As etapas que \ncompõem o processo de avaliação estão apresentadas a seguir:\nDisponível em: www.gov.br. Acesso em: 1 ago. 2025 (adaptado).\n\nTEXTO 2\nOs livros escolares assumem, conjuntamente ou não, múltiplas funções:\n•\tFunção referencial: expressa a noção de que os livros didáticos são suportes privilegiados de conteúdos, de conhecimentos \ne de técnicas, estando relacionados àquilo que é considerado importante para determinado grupo social. \n•\tFunção instrumental: o livro didático coloca em prática métodos de aprendizagem, propõe exercícios ou atividades \nque facilitam a memorização de conhecimentos, favorece a aquisição de competências disciplinares e a apropriação \nde habilidades. \n•\tFunção ideológica e cultural: o livro didático afirma-se como um dos vetores essenciais da língua, da cultura e dos valores \ndas classes dirigentes. Instrumento privilegiado de construção simbólica de identidade, assume um importante papel político.\n•\tFunção documental: o livro didático fornece um conjunto de documentos, textuais ou icônicos, cuja observação ou \nconfrontação podem desenvolver o espírito crítico do aluno.\nCHOPPIN, A. História dos livros e das edições didáticas: sobre o estado da arte. \nEducação e Pesquisa. set.-dez. 2004 (adaptado).",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -15964,7 +15964,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516052"
+      "criado_em": "2026-08-25T14:53:23.716280"
     },
     {
       "id_questao": "q12",
@@ -16014,7 +16014,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516056"
+      "criado_em": "2026-08-25T14:53:23.716284"
     },
     {
       "id_questao": "q13",
@@ -16029,7 +16029,7 @@
           "x0": 25.0,
           "y0": 366.40380859375,
           "x1": 611.7199999999999,
-          "y1": 491.4153137207031,
+          "y1": 507.11529541015625,
           "coluna": 0
         }
       ],
@@ -16037,9 +16037,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q13.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q13.txt",
       "largura": 2475,
-      "altura": 551,
+      "altura": 617,
       "confianca": 0.98,
-      "texto_completo": "q\nQUESTÃO 13\t\nRelacionando os textos 1 e 2, marque a alternativa que apresenta a percepção docente orientada pela função referencial \nproposta por Choppin (2004).\nA\t “Escolho um livro que apresente temáticas sociais essenciais com reflexões sobre o conteúdo da disciplina”. \nB\t “Prefiro os livros com sistematização coerente dos objetos de conhecimento da disciplina e transposição didática adequada”. \nC\t “Considero adequados os livros que expressam conceitos por meio de elementos variados, como imagens, palavras, mapas \ne gráficos”. \nD “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos",
+      "texto_completo": "q\nQUESTÃO 13\t\nRelacionando os textos 1 e 2, marque a alternativa que apresenta a percepção docente orientada pela função referencial \nproposta por Choppin (2004).\nA\t “Escolho um livro que apresente temáticas sociais essenciais com reflexões sobre o conteúdo da disciplina”. \nB\t “Prefiro os livros com sistematização coerente dos objetos de conhecimento da disciplina e transposição didática adequada”. \nC\t “Considero adequados os livros que expressam conceitos por meio de elementos variados, como imagens, palavras, mapas \ne gráficos”. \nD\t “Levo em consideração livros que apresentem a norma culta da língua e valores sociais predominantes nos conteúdos \napresentados”.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16064,7 +16064,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516060"
+      "criado_em": "2026-08-25T14:53:23.716288"
     },
     {
       "id_questao": "q14",
@@ -16077,7 +16077,7 @@
         {
           "pagina": 10,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 382.82293701171875,
           "coluna": 0
@@ -16087,7 +16087,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q14.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q14.txt",
       "largura": 2475,
-      "altura": 1281,
+      "altura": 1280,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 14\t\nTEXTO 1\nA Educação de Jovens e Adultos (EJA) é uma modalidade de ensino destinada a pessoas que não estão inseridas na educação \nregular por motivos diversos. Nesse contexto educacional, esse estudante possui uma história de vida, sobretudo por ser, \nefetivamente, um sujeito ativo nas esferas sociais.\nPEREIRA, P. F.; REINALDO, M. A. G. Ensino-aprendizagem de charge na EJA: \numa experiência no contexto de estágio supervisionado. III CINTED (adaptado). \nTEXTO 2\nAs concepções restritas veem a EJA apenas em seu caráter marginal e secundário, camuflando os aspectos políticos, culturais \ne pedagógicos. Sob uma abordagem sistêmica, a EJA é tratada como parte da história da educação do país e, como tal, \numa modalidade importante no processo de democratização do direito à educação.\nALMEIDA, A. EJA: uma educação para o trabalho ou para a classe trabalhadora? \nRevista Brasileira de Educação de Jovens e Adultos, 2016 (adaptado).\nConsiderando os textos 1 e 2, a alternativa que apresenta uma ação pedagógica condizente com a abordagem sistêmica da EJA é\nA\t garantir a inclusão de temas relacionados à profissionalização dos estudantes e de atividades relativas ao mundo do trabalho.\nB\t propor uma organização curricular que oportunize a obtenção de um diploma àquelas pessoas que não puderam frequentar a escola.\nC\t desenvolver projetos de letramento que integrem experiências de vida dos estudantes a temas como trabalho, identidades \nculturais e vivências intergeracionais.\nD\t elaborar uma proposta de organização curricular que assegure o cumprimento das diretrizes nacionais aos estudantes e a \ngarantia dos mesmos conteúdos e dos mesmos métodos aplicados ao ensino regular.",
       "texto_enunciado": "",
@@ -16115,7 +16115,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516064"
+      "criado_em": "2026-08-25T14:53:23.716292"
     },
     {
       "id_questao": "q15",
@@ -16130,7 +16130,7 @@
           "x0": 25.0,
           "y0": 378.82293701171875,
           "x1": 611.7199999999999,
-          "y1": 491.289794921875,
+          "y1": 547.2498168945312,
           "coluna": 0
         }
       ],
@@ -16138,9 +16138,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q15.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q15.txt",
       "largura": 2475,
-      "altura": 499,
+      "altura": 732,
       "confianca": 0.98,
-      "texto_completo": "g\np\ng\nQUESTÃO 15\t\nO letramento científico representa uma competência essencial no contexto educacional e tem como finalidade proporcionar \nque os indivíduos compreendam, apliquem e sejam críticos ao conhecimento científico a ser utilizado em suas vidas cotidianas.\nSOUSA, L. Q.; ABREU, K. F. Análise de Estudos e Pesquisas sobre Letramento Científico. \nCadernos Cajuína, n. 4, 2024.\nConsiderando o que representa o letramento científico, a equipe gestora de uma escola planeja organizar uma palestra com o \nobjetivo de conscientizar a comunidade escolar de que a ciência",
+      "texto_completo": "g\np\ng\nQUESTÃO 15\t\nO letramento científico representa uma competência essencial no contexto educacional e tem como finalidade proporcionar \nque os indivíduos compreendam, apliquem e sejam críticos ao conhecimento científico a ser utilizado em suas vidas cotidianas.\nSOUSA, L. Q.; ABREU, K. F. Análise de Estudos e Pesquisas sobre Letramento Científico. \nCadernos Cajuína, n. 4, 2024.\nConsiderando o que representa o letramento científico, a equipe gestora de uma escola planeja organizar uma palestra com o \nobjetivo de conscientizar a comunidade escolar de que a ciência\nA\t fundamenta-se no rigor metodológico como respaldo para os argumentos produzidos e apresentados publicamente.\nB\t respeita a liberdade individual e a livre tomada de decisão como direitos sobrepostos às escolhas coletivas.\nC\t permite a refutação de resultados amplamente aceitos em função de posicionamentos individuais.\nD\t busca a impessoalidade, a objetividade e a neutralidade, à parte de influências políticas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16165,7 +16165,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516068"
+      "criado_em": "2026-08-25T14:53:23.716296"
     },
     {
       "id_questao": "q16",
@@ -16215,7 +16215,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516072"
+      "criado_em": "2026-08-25T14:53:23.716300"
     },
     {
       "id_questao": "q17",
@@ -16230,7 +16230,7 @@
           "x0": 25.0,
           "y0": 286.6591796875,
           "x1": 611.7199999999999,
-          "y1": 399.6748046875,
+          "y1": 455.63482666015625,
           "coluna": 0
         }
       ],
@@ -16238,9 +16238,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q17.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q17.txt",
       "largura": 2475,
-      "altura": 501,
+      "altura": 734,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional de Avaliação da Educação Básica (Saeb), são utilizadas \ncomo instrumentos de aferição da qualidade da Educação Básica no Brasil. Seu resultado é utilizado no cálculo do Índice de \nDesenvolvimento da Educação Básica (Ideb) das escolas. Uma determinada escola recebeu sua nota do Ideb, e o resultado ficou \nabaixo da média prevista. Diante disso, a direção fez uma reunião com o corpo docente para traçar metas para a melhoria do \ndesempenho da escola.\nA análise dos resultados do Ideb deve orientar as ações pedagógicas para",
+      "texto_completo": "QUESTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional de Avaliação da Educação Básica (Saeb), são utilizadas \ncomo instrumentos de aferição da qualidade da Educação Básica no Brasil. Seu resultado é utilizado no cálculo do Índice de \nDesenvolvimento da Educação Básica (Ideb) das escolas. Uma determinada escola recebeu sua nota do Ideb, e o resultado ficou \nabaixo da média prevista. Diante disso, a direção fez uma reunião com o corpo docente para traçar metas para a melhoria do \ndesempenho da escola.\nA análise dos resultados do Ideb deve orientar as ações pedagógicas para\nA\t direcionar o planejamento de forma estratégica.\nB\t reduzir o espaço de determinadas áreas do currículo.\nC\t dedicar maior atenção a conteúdos extracurriculares.\nD\t focalizar o desenvolvimento de habilidades socioemocionais.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16265,7 +16265,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516076"
+      "criado_em": "2026-08-25T14:53:23.716304"
     },
     {
       "id_questao": "q18",
@@ -16278,7 +16278,7 @@
         {
           "pagina": 12,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 336.25909423828125,
           "coluna": 0
@@ -16288,7 +16288,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q18.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q18.txt",
       "largura": 2475,
-      "altura": 1087,
+      "altura": 1086,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 18\t\nEm O alienista, o protagonista da trama é Simão Bacamarte, médico que funda a clínica Casa Verde para pessoas com distúrbios \nmentais, na pequena cidade de Itaguaí. Simão começa a tratar as pessoas da cidade que apresentam sinais de loucura e passa a \nbuscar, por meio de seus estudos, formas de estabelecer quais comportamentos da população podem ser considerados normais \nou anormais, o que se torna uma obsessão. A história é relatada por um narrador-observador que, ironicamente, fundamenta \nsua narrativa no registro histórico das crônicas da vila de Itaguaí. Com temáticas distintas, porém universais, o estudante do \nEnsino Médio é convidado a acompanhar de perto as experiências de Simão Bacamarte e se depara com dilemas envolvendo \nciência, ética, exclusão social, loucura, imortalidade, entre outros temas também ambientados no contexto da época retratada \npor Machado de Assis.\nGuia Digital do PNLD Literário 2021. Disponível em: www.pnld.nees.ufal.br. Acesso em: 15 maio 2025. \nUm grupo de professores do Ensino Médio utiliza a obra O alienista para desenvolver um Projeto de Vida que promova discussões \nsobre saúde mental e bem-estar coletivo na comunidade escolar. Essa obra foi selecionada por permitir o desenvolvimento de \npropostas pedagógicas que\nA\t estimulem a emissão de laudos pela equipe psicopedagógica para subsidiar intervenções feitas pelos professores.\nB\t desenvolvam ações de escuta entre os estudantes para que eles relacionem os temas abordados com suas vivências.\nC\tfavoreçam críticas à excessiva medicamentalização dos comportamentos incomuns para promover reflexões sobre \nética profissional.\nD\t abordem a ciência médica por um viés objetivo para definir quais padrões de comportamento são socialmente aceitos.",
       "texto_enunciado": "",
@@ -16315,7 +16315,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516080"
+      "criado_em": "2026-08-25T14:53:23.716307"
     },
     {
       "id_questao": "q19",
@@ -16331,13 +16331,13 @@
           "x0": 25.0,
           "y0": 332.25909423828125,
           "x1": 611.7199999999999,
-          "y1": 433.27398681640625,
+          "y1": 489.2340087890625,
           "coluna": 0
         },
         {
           "pagina": 13,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 387.780517578125,
           "coluna": 0
@@ -16347,9 +16347,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q19.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q19.txt",
       "largura": 2475,
-      "altura": 1738,
+      "altura": 1970,
       "confianca": 0.98,
-      "texto_completo": "p\nj\np\nq\np\np\nQUESTÃO 19\t\nAo realizar a matrícula em uma escola, uma estudante de 15 anos e seus pais solicitaram à secretaria acadêmica o uso de nome \nsocial, já que na certidão de nascimento consta uma identificação masculina. Eles queriam que o nome social fosse usado em \nsala de aula e em documentos internos da instituição, como chamada, boletins e carteirinha estudantil. No entanto, a direção, \nao tomar ciência do caso, recusou o pedido, alegando que, sem a alteração no registro civil, seria impossível atender à solicitação.\nDiante do caso, com base na Resolução MEC n. 1/2018, que trata do uso do nome social, a gestão deve\n\nTexto para questões 20 e 21\nTEXTO 1\nAs questões ambientais são um tema de preocupação social, econômica e política que perpassam a escola. Elas aparecem na \nesfera política quando o governo federal reconhece a importância de sediar em Belém, no Pará, a 30ª Conferência das Nações \nUnidas sobre Mudanças Climáticas (COP30). O evento trará um olhar global sobre as soluções para os desafios do clima. É urgente \nque abordemos, de forma abrangente e sinérgica, as crises globais interligadas à mudança do clima e à perda de biodiversidade \nno contexto mais amplo da realização dos Objetivos de Desenvolvimento Sustentável (ODS). Ao fazer isso, devemos continuar \nreconhecendo e expandindo o papel e as contribuições dos povos indígenas e das comunidades locais na administração da natureza \ne na liderança climática, ao mesmo tempo que reconhecemos os efeitos desproporcionais que eles sofrem com a mudança do clima.\nDisponível em: www.cop30.br. Acesso em: 1 ago. 2025 (adaptado).\nTEXTO 2\nChuva ácida\nEnquanto ser humano eu vou destruindo o que posso\nO elevador aqui só desce, o demônio é meu sócio\nAbriram, uh, a caixa de Pandora\nSimon diz: saiam agora\nA chuva espalhando, todos os males\nAi ai, uiui, ai como isso arde\nÉ bateria de celulares, césio, similares\nA peste invisível maculando os ares\nMercúrio nos rios, diesel nos mares\nsolo estéril, já fizeram sua parte (uh)\nCRIOLO. Disponível em: www.letras.mus.br. Acesso em: 1 ago. 2025 (adaptado).",
+      "texto_completo": "p\nj\np\nq\np\np\nQUESTÃO 19\t\nAo realizar a matrícula em uma escola, uma estudante de 15 anos e seus pais solicitaram à secretaria acadêmica o uso de nome \nsocial, já que na certidão de nascimento consta uma identificação masculina. Eles queriam que o nome social fosse usado em \nsala de aula e em documentos internos da instituição, como chamada, boletins e carteirinha estudantil. No entanto, a direção, \nao tomar ciência do caso, recusou o pedido, alegando que, sem a alteração no registro civil, seria impossível atender à solicitação.\nDiante do caso, com base na Resolução MEC n. 1/2018, que trata do uso do nome social, a gestão deve\nA\t permitir o uso do nome social de maneira informal, mantendo os registros escolares internos.\nB\t convocar o conselho estudantil para deliberar sobre o caso, por se tratar de uma questão interna da escola.\nC\t acatar o pedido quando o nome social for oficialmente retificado no registro civil da estudante.\nD\t atender ao pedido mediante formalização da solicitação pelos responsáveis legais da estudante.\n\nTexto para questões 20 e 21\nTEXTO 1\nAs questões ambientais são um tema de preocupação social, econômica e política que perpassam a escola. Elas aparecem na \nesfera política quando o governo federal reconhece a importância de sediar em Belém, no Pará, a 30ª Conferência das Nações \nUnidas sobre Mudanças Climáticas (COP30). O evento trará um olhar global sobre as soluções para os desafios do clima. É urgente \nque abordemos, de forma abrangente e sinérgica, as crises globais interligadas à mudança do clima e à perda de biodiversidade \nno contexto mais amplo da realização dos Objetivos de Desenvolvimento Sustentável (ODS). Ao fazer isso, devemos continuar \nreconhecendo e expandindo o papel e as contribuições dos povos indígenas e das comunidades locais na administração da natureza \ne na liderança climática, ao mesmo tempo que reconhecemos os efeitos desproporcionais que eles sofrem com a mudança do clima.\nDisponível em: www.cop30.br. Acesso em: 1 ago. 2025 (adaptado).\nTEXTO 2\nChuva ácida\nEnquanto ser humano eu vou destruindo o que posso\nO elevador aqui só desce, o demônio é meu sócio\nAbriram, uh, a caixa de Pandora\nSimon diz: saiam agora\nA chuva espalhando, todos os males\nAi ai, uiui, ai como isso arde\nÉ bateria de celulares, césio, similares\nA peste invisível maculando os ares\nMercúrio nos rios, diesel nos mares\nsolo estéril, já fizeram sua parte (uh)\nCRIOLO. Disponível em: www.letras.mus.br. Acesso em: 1 ago. 2025 (adaptado).",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16374,7 +16374,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516084"
+      "criado_em": "2026-08-25T14:53:23.716312"
     },
     {
       "id_questao": "q20",
@@ -16424,7 +16424,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516088"
+      "criado_em": "2026-08-25T14:53:23.716316"
     },
     {
       "id_questao": "q21",
@@ -16440,13 +16440,13 @@
           "x0": 25.0,
           "y0": 495.90960693359375,
           "x1": 611.7199999999999,
-          "y1": 703.3779296875,
+          "y1": 704.3779296875,
           "coluna": 0
         },
         {
           "pagina": 14,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 288.48590087890625,
           "coluna": 0
@@ -16456,7 +16456,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q21.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q21.txt",
       "largura": 2475,
-      "altura": 1768,
+      "altura": 1771,
       "confianca": 0.98,
       "texto_completo": "D\ng\nj\n(\n)\n;\nQUESTÃO 21\t\nConsidere que essa professora atua em uma escola localizada em um centro urbano e quer trabalhar com suas turmas sob uma \nperspectiva freireana. Quais atividades ela deve propor aos estudantes para contemplar as temáticas apresentadas nos textos 1 e 2?\nA\t 1. realizar um levantamento do entorno escolar, problematizando questões ambientais da comunidade; 2. utilizar conceitos \nescolares que ajudam a compreender o tema; 3. aplicar os conhecimentos aprendidos previamente, considerando uma análise \ncrítica das ideias debatidas na COP30 e no rap Chuva Ácida.\nB\t 1. apresentar um vídeo que mostre os grupos de trabalho e os objetivos da COP30; 2. utilizar um modelo de estufa de plantas a \nfim de estudar o ciclo hidrológico; 3. aplicar atividades que ajudem os estudantes a fixar o conhecimento da temática abordada \nna letra de canção.\nC\t 1. realizar um levantamento prévio das ideias dos estudantes sobre os problemas ambientais trazidos no rap Chuva Ácida; \n2. organizar os subsunçores que contribuem para estudar o tema; 3. promover uma exposição de cartazes para a comunidade \nconsiderando as soluções mitigadas na COP30.\nD\t 1. apresentar o vídeo do rap Chuva Ácida abordando os assuntos sobre mudanças climáticas; 2. organizar a Zona de \nDesenvolvimento Proximal, problematizando a interação entre os estudantes que sabem mais sobre o tema; 3. preparar \numa exposição apresentando as soluções mitigadas na COP30.\n\nTexto para questões 22 e 23\nEm uma turma de Educação de Jovens e Adultos (EJA), um professor de História e licenciandos do Estágio Supervisionado \nsentiram dificuldades em desenvolver as atividades planejadas na aula, pois os estudantes estavam dispersos, desanimados \ne afirmavam estar cansados da jornada de trabalho. Buscando motivar a turma, o professor-supervisor e os estagiários \nsolicitaram aos estudantes que relatassem seus cotidianos profissionais. Identificou-se que as profissões de motorista de \naplicativo e de entregador autônomo eram as mais exercidas. Além disso, o professor realizou reflexões com a turma sobre \nas mudanças no mundo do trabalho ao longo do tempo e suas relações sociais e econômicas. Durante o intervalo, o professor \ncompartilhou a experiência com as colegas docentes de Língua Portuguesa e de Matemática que decidiram readequar seus \nplanejamentos para explorar o mundo do trabalho em suas aulas. A professora de Língua Portuguesa elaborou, coletivamente \ncom a turma, um pequeno texto sobre as dificuldades enfrentadas no contexto de trabalho e as expectativas em relação ao \nfuturo profissional. Por sua vez, a professora de Matemática tratou das unidades de medida e do conceito de proporção, \nabordando problemas com cálculos que envolviam quantidades, distâncias e porcentagem relativos ao consumo de combustível \ne a outros itens utilizados no campo profissional dos estudantes. Na semana seguinte, como atividade avaliativa do Estágio \nSupervisionado, o professor-supervisor solicitou aos estagiários a elaboração de uma proposta de intervenção baseada na \nsituação vivenciada em sala de aula.",
       "texto_enunciado": "",
@@ -16483,7 +16483,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516093"
+      "criado_em": "2026-08-25T14:53:23.716320"
     },
     {
       "id_questao": "q22",
@@ -16533,7 +16533,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516097"
+      "criado_em": "2026-08-25T14:53:23.716324"
     },
     {
       "id_questao": "q23",
@@ -16548,7 +16548,7 @@
           "x0": 25.0,
           "y0": 388.86700439453125,
           "x1": 611.7199999999999,
-          "y1": 437.6299133300781,
+          "y1": 493.5899353027344,
           "coluna": 0
         }
       ],
@@ -16556,9 +16556,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.txt",
       "largura": 2475,
-      "altura": 233,
+      "altura": 466,
       "confianca": 0.98,
-      "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de",
+      "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de\nA\t formação pedagógica que considera o papel do professor-supervisor como coformador.\nB\t interação entre professor-supervisor e estagiários para a aquisição dos conteúdos curriculares.\nC\t aquisição de novas tecnologias pelo professor-supervisor para a aplicação em sala de aula.\nD\t aplicação de conhecimentos teórico-metodológicos do professor-supervisor no cotidiano escolar.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16583,7 +16583,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516101"
+      "criado_em": "2026-08-25T14:53:23.716328"
     },
     {
       "id_questao": "q24",
@@ -16633,7 +16633,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516105"
+      "criado_em": "2026-08-25T14:53:23.716332"
     },
     {
       "id_questao": "q25",
@@ -16683,7 +16683,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516109"
+      "criado_em": "2026-08-25T14:53:23.716336"
     },
     {
       "id_questao": "q26",
@@ -16698,7 +16698,7 @@
           "x0": 25.0,
           "y0": 480.59613037109375,
           "x1": 611.7199999999999,
-          "y1": 537.101806640625,
+          "y1": 593.0618286132812,
           "coluna": 0
         }
       ],
@@ -16706,9 +16706,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q26.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q26.txt",
       "largura": 2475,
-      "altura": 266,
+      "altura": 499,
       "confianca": 0.98,
-      "texto_completo": "p\ng\np\nç\nq\np\nj\np\nQUESTÃO 26\t\nA História da Educação no Brasil pode ser organizada em períodos com características específicas de paradigmas educacionais \nde cada época, a exemplo da Escola Nova (décadas de 1920-1930), cujas práticas pedagógicas",
+      "texto_completo": "p\ng\np\nç\nq\np\nj\np\nQUESTÃO 26\t\nA História da Educação no Brasil pode ser organizada em períodos com características específicas de paradigmas educacionais \nde cada época, a exemplo da Escola Nova (décadas de 1920-1930), cujas práticas pedagógicas\nA\ttinham uma visão filosófica essencialista de sujeito e uma perspectiva didática centrada no professor.\nB\t partiam do pressuposto da neutralidade científica, inspiradas nos princípios da racionalidade e da eficiência.\nC\t promoviam o aprendizado do português para os indígenas e seguiam ancoradas na doutrina cristã.\nD\t centralizavam a educação nas vivências, nas estratégias de ensino e no interesse do estudante.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16733,7 +16733,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516113"
+      "criado_em": "2026-08-25T14:53:23.716340"
     },
     {
       "id_questao": "q27",
@@ -16746,9 +16746,9 @@
         {
           "pagina": 16,
           "x0": 25.0,
-          "y0": 82.02613830566406,
+          "y0": 83.01449584960938,
           "x1": 315.35999999999996,
-          "y1": 589.9307861328125,
+          "y1": 605.6307983398438,
           "coluna": 1
         }
       ],
@@ -16756,9 +16756,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q27.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q27.txt",
       "largura": 1240,
-      "altura": 2147,
+      "altura": 2208,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 27\t\nMotivado pela revisão da Lei n. 12 711/2012, ocorrida no \nano de 2023, um professor do Ensino Médio propôs uma \nroda de conversa, utilizando a charge de jornal como recurso \nmobilizador para a discussão sobre os impactos das ações \nafirmativas no sistema educacional brasileiro. A atividade \npromoveu a reflexão e a crítica sobre os princípios do Plano \nNacional de Educação em Direitos Humanos (PNEDH), como \no respeito à dignidade humana e o exercício da cidadania \ndemocrática no Estado de Direito.\nLAERTE. Disponível em: www1.folha.uol.com.br. Acesso em: 12 maio 2025.\nA atividade proposta pelo professor possibilita ao estudante\nA\t reconhecer as ações afirmativas previstas em lei desvinculadas \ndo processo histórico de formação do povo brasileiro.\nB\t compreender as ações afirmativas previstas em lei como uma \nconquista democrática decorrente da mobilização social.\nC\t constatar a neutralidade dos meios de comunicação em \nrelação ao racismo estrutural e às ações afirmativas.\nD entender o debate sobre as ações afirmativas como garantia",
+      "texto_completo": "QUESTÃO 27\t\nMotivado pela revisão da Lei n. 12 711/2012, ocorrida no \nano de 2023, um professor do Ensino Médio propôs uma \nroda de conversa, utilizando a charge de jornal como recurso \nmobilizador para a discussão sobre os impactos das ações \nafirmativas no sistema educacional brasileiro. A atividade \npromoveu a reflexão e a crítica sobre os princípios do Plano \nNacional de Educação em Direitos Humanos (PNEDH), como \no respeito à dignidade humana e o exercício da cidadania \ndemocrática no Estado de Direito.\nLAERTE. Disponível em: www1.folha.uol.com.br. Acesso em: 12 maio 2025.\nA atividade proposta pelo professor possibilita ao estudante\nA\t reconhecer as ações afirmativas previstas em lei desvinculadas \ndo processo histórico de formação do povo brasileiro.\nB\t compreender as ações afirmativas previstas em lei como uma \nconquista democrática decorrente da mobilização social.\nC\t constatar a neutralidade dos meios de comunicação em \nrelação ao racismo estrutural e às ações afirmativas.\nD\t entender o debate sobre as ações afirmativas como garantia \nda superação da discriminação racial.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -16786,7 +16786,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516117"
+      "criado_em": "2026-08-25T14:53:23.716344"
     },
     {
       "id_questao": "q28",
@@ -16801,7 +16801,7 @@
           "x0": 321.35999999999996,
           "y0": 82.57166290283203,
           "x1": 611.7199999999999,
-          "y1": 556.3416137695312,
+          "y1": 584.0416259765625,
           "coluna": 2
         }
       ],
@@ -16809,9 +16809,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q28.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q28.txt",
       "largura": 1240,
-      "altura": 2004,
+      "altura": 2119,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 28\t\nO espaço escolar é um lugar de convívio. Nele encontramos \nnão apenas as relações das pessoas com o conhecimento, \nmas também o aprendizado de como as pessoas se relacionam \nentre si e com o restante do mundo. Exatamente por isso os \nconflitos aparecem, e a gestão da escola deve saber como \nlidar com eles. Por reproduzir as lógicas sociais, encontramos, \ntambém na escola, relações que desvalorizam o que é \nentendido como contra-hegemônico nas culturas. E isso \nimpacta negativamente nas pessoas negras e nas praticantes \ndas Religiões de Matrizes Africanas. Talvez os signos de Exu e \nde Ogum sejam boas pistas sobre como lidar com a escola na \nbusca de espaços menos opressivos. Essas duas divindades do \npanteão iorubano são vinculadas aos caminhos, à comunicação, \nà política, aos conflitos e, de algum modo, à própria educação. \nExu e Ogum nos ensinam que a convivência não precisa de \numa suposição de que todas e todos pensem do mesmo modo, \ndesejem do mesmo modo, caminhem pelos mesmos caminhos. \nMas ensinam que o mundo é criado coletivamente e que, entre \nconflitos e andanças, devemos preservar as diferenças.\nNASCIMENTO, W. F. As religiões de matrizes africanas, resistência \ne contexto escolar: entre encruzilhadas. In: Memórias do \nBaobá II. Fortaleza: Editora UFC, 2017 (adaptado).\nCom base no texto e nas ações de enfrentamento ao racismo \nreligioso no espaço escolar, é correto afirmar que a\nA\t abordagem da religião e da cultura iorubanas em sala de \naula permite que professores e estudantes reflitam sobre os \nefeitos das violências materiais e simbólicas na sociedade.\nB\t apresentação de conteúdos vinculados às religiões de \nmatrizes africanas e a valorização do diálogo na resolução \nde conflitos nas escolas buscam uma identidade comum a \ntodos os estudantes.\nC\t concepção do ambiente escolar como espaço de convívio \nreligioso distancia-se da função social da educação, \nque  deve focalizar conhecimentos gerais, formação \ndisciplinar e cidadania.\nD utilização de trechos da mitologia africana nas aulas de",
+      "texto_completo": "QUESTÃO 28\t\nO espaço escolar é um lugar de convívio. Nele encontramos \nnão apenas as relações das pessoas com o conhecimento, \nmas também o aprendizado de como as pessoas se relacionam \nentre si e com o restante do mundo. Exatamente por isso os \nconflitos aparecem, e a gestão da escola deve saber como \nlidar com eles. Por reproduzir as lógicas sociais, encontramos, \ntambém na escola, relações que desvalorizam o que é \nentendido como contra-hegemônico nas culturas. E isso \nimpacta negativamente nas pessoas negras e nas praticantes \ndas Religiões de Matrizes Africanas. Talvez os signos de Exu e \nde Ogum sejam boas pistas sobre como lidar com a escola na \nbusca de espaços menos opressivos. Essas duas divindades do \npanteão iorubano são vinculadas aos caminhos, à comunicação, \nà política, aos conflitos e, de algum modo, à própria educação. \nExu e Ogum nos ensinam que a convivência não precisa de \numa suposição de que todas e todos pensem do mesmo modo, \ndesejem do mesmo modo, caminhem pelos mesmos caminhos. \nMas ensinam que o mundo é criado coletivamente e que, entre \nconflitos e andanças, devemos preservar as diferenças.\nNASCIMENTO, W. F. As religiões de matrizes africanas, resistência \ne contexto escolar: entre encruzilhadas. In: Memórias do \nBaobá II. Fortaleza: Editora UFC, 2017 (adaptado).\nCom base no texto e nas ações de enfrentamento ao racismo \nreligioso no espaço escolar, é correto afirmar que a\nA\t abordagem da religião e da cultura iorubanas em sala de \naula permite que professores e estudantes reflitam sobre os \nefeitos das violências materiais e simbólicas na sociedade.\nB\t apresentação de conteúdos vinculados às religiões de \nmatrizes africanas e a valorização do diálogo na resolução \nde conflitos nas escolas buscam uma identidade comum a \ntodos os estudantes.\nC\t concepção do ambiente escolar como espaço de convívio \nreligioso distancia-se da função social da educação, \nque  deve focalizar conhecimentos gerais, formação \ndisciplinar e cidadania.\nD\t utilização de trechos da mitologia africana nas aulas de \nensino religioso cumpre o prescrito na lei que trata do \nensino da história iorubana e indígena.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16836,7 +16836,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516121"
+      "criado_em": "2026-08-25T14:53:23.716348"
     },
     {
       "id_questao": "q29",
@@ -16886,7 +16886,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516125"
+      "criado_em": "2026-08-25T14:53:23.716352"
     },
     {
       "id_questao": "q30",
@@ -16901,7 +16901,7 @@
           "x0": 25.0,
           "y0": 338.9111328125,
           "x1": 611.7199999999999,
-          "y1": 463.9267578125,
+          "y1": 519.8867797851562,
           "coluna": 0
         }
       ],
@@ -16909,9 +16909,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q30.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q30.txt",
       "largura": 2475,
-      "altura": 551,
+      "altura": 784,
       "confianca": 0.98,
-      "texto_completo": "p\ng\np\nQUESTÃO 30\t\nUma professora, diante da existência de um aterro no entorno da escola, decidiu abordar o tema da sustentabilidade e do descarte \nconsciente com seus estudantes. Para isso, solicitou que eles elaborassem um projeto, e a turma sugeriu as seguintes ações:\n•\tconvidar trabalhadores de coleta seletiva e participantes de movimentos sociais de preservação do meio ambiente para \numa roda de conversa;\n•\trealizar uma ação com os familiares para aprenderem técnicas de limpeza e separação de material reciclável;\n•\tconduzir uma dinâmica coletiva em que os estudantes troquem materiais descartados por brindes variados.\nEm uma perspectiva crítica da Educação Ambiental, as ações propostas pelos estudantes",
+      "texto_completo": "p\ng\np\nQUESTÃO 30\t\nUma professora, diante da existência de um aterro no entorno da escola, decidiu abordar o tema da sustentabilidade e do descarte \nconsciente com seus estudantes. Para isso, solicitou que eles elaborassem um projeto, e a turma sugeriu as seguintes ações:\n•\tconvidar trabalhadores de coleta seletiva e participantes de movimentos sociais de preservação do meio ambiente para \numa roda de conversa;\n•\trealizar uma ação com os familiares para aprenderem técnicas de limpeza e separação de material reciclável;\n•\tconduzir uma dinâmica coletiva em que os estudantes troquem materiais descartados por brindes variados.\nEm uma perspectiva crítica da Educação Ambiental, as ações propostas pelos estudantes\nA\t normalizam o consumo e o acúmulo de bens como origem da produção dos resíduos.\nB\t proporcionam uma mudança comportamental em relação ao descarte dos resíduos.\nC\t prejudicam o trabalho dos catadores que têm a coleta dos resíduos como fonte de renda.\nD\t preservam o ambiente ao deslocar os resíduos do entorno escolar para outra área.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -16936,7 +16936,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516129"
+      "criado_em": "2026-08-25T14:53:23.716356"
     },
     {
       "id_questao": "qd01",
@@ -16951,23 +16951,23 @@
         {
           "pagina": 18,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
-          "y1": 517.4671020507812,
+          "y1": 560.0084228515625,
           "coluna": 0
         },
         {
           "pagina": 19,
           "x0": 25.0,
-          "y0": 75.0,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
-          "y1": 96.61512756347656,
+          "y1": 728.363525390625,
           "coluna": 0
         },
         {
           "pagina": 20,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 353.74578857421875,
           "coluna": 0
@@ -16977,9 +16977,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/qd01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/qd01.txt",
       "largura": 2475,
-      "altura": 3092,
+      "altura": 5867,
       "confianca": 0.9,
-      "texto_completo": "QUESTÃO DISCURSIVA\nTEXTO 1\nA natureza do idadismo\nO idadismo refere-se aos estereótipos (como pensamos), aos preconceitos (como nos sentimos) e à discriminação (como \nagimos) direcionados às pessoas com base em sua idade. Pode ser institucional, interpessoal ou autodirecionado. O idadismo \ninstitucional refere-se às leis, às regras, às normas sociais, às políticas e às práticas de instituições que restringem injustamente \noportunidades e sistematicamente desfavorecem indivíduos devido à sua idade. O idadismo interpessoal surge nas interações \nentre dois ou mais indivíduos; enquanto o idadismo autodirecionado ocorre quando é internalizado e voltado contra si mesmo.\nRelatório mundial sobre o idadismo. Organização Pan-Americana da Saúde, 2022. \nDisponível em: www.iris.paho.org. Acesso em: 29 jul. 2025.\nTEXTO 2\nEstatuto do Idoso\nArt. 22. Nos currículos mínimos dos diversos níveis de ensino formal serão inseridos conteúdos voltados ao processo de \nenvelhecimento, ao respeito e à valorização da pessoa idosa, de forma a eliminar o preconceito e a produzir conhecimentos \nsobre a matéria (Redação dada pela Lei n. 14 423/22).\n Disponível em: www.planalto.gov.br. Acesso em: 29 jul. 2025.\nTEXTO 3\nOs critérios de avaliação da idade, da juventude ou da velhice não podem ser puramente os do calendário. Ninguém é velho só \nporque nasceu há muito tempo ou jovem porque nasceu há pouco. Além disso, somos velhos ou moços muito mais em função \nde como pensamos o mundo, da disponibilidade com que nos damos, curiosos, ao saber, cuja procura jamais nos cansa e cujo \nachado jamais nos deixa satisfeitos e imobilizados. Somos moços ou velhos muito mais em função da vivacidade, da esperança \ncom que estamos sempre prontos a começar tudo de novo, se o que fizemos continua a encarnar sonho nosso. Sonho eticamente \nválido e politicamente necessário. Somos velhos ou moços muito mais em função de se nos inclinarmos ou não a aceitar a \nmudança como sinal de vida e não a paralisação como sinal de morte.\nFREIRE, P. À sombra desta mangueira. Rio de Janeiro: Paz & Terra, 2015.\nEm uma reunião pedagógica, os professores, motivados pela Lei n. 14 423/22 e pelos recorrentes discursos idadistas na escola, \nplanejam atividades didáticas que abordem esse tema em seus planos de aula. \nCom base na situação-problema e na leitura dos textos motivadores, elabore um texto dissertativo-argumentativo que, \nrespeitando os Direitos Humanos,\n\n2025\n*R0404202519*\n\nTexto para questões de 31 a 33\nDurante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios \nda orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na \nfigura define a classe Triangulo, contendo como atributos os lados do triângulo e como métodos as operações para atribuir \ne retornar os valores dos lados, calcular área e calcular o perímetro.\nTriangulo\nlado1: inteiro\nlado2: inteiro\nlado3: inteiro\natribuirLado1(lado1: inteiro): vazio\natribuirLado2(lado2: inteiro): vazio\natribuirLado3(lado3: inteiro): vazio\nretornaLado1(  ): inteiro\nretornaLado2(  ): inteiro\nretornaLado3(  ): inteiro\ncalcularArea(  ): real\ncalcularPerimetro(  ): inteiro",
+      "texto_completo": "QUESTÃO DISCURSIVA\nTEXTO 1\nA natureza do idadismo\nO idadismo refere-se aos estereótipos (como pensamos), aos preconceitos (como nos sentimos) e à discriminação (como \nagimos) direcionados às pessoas com base em sua idade. Pode ser institucional, interpessoal ou autodirecionado. O idadismo \ninstitucional refere-se às leis, às regras, às normas sociais, às políticas e às práticas de instituições que restringem injustamente \noportunidades e sistematicamente desfavorecem indivíduos devido à sua idade. O idadismo interpessoal surge nas interações \nentre dois ou mais indivíduos; enquanto o idadismo autodirecionado ocorre quando é internalizado e voltado contra si mesmo.\nRelatório mundial sobre o idadismo. Organização Pan-Americana da Saúde, 2022. \nDisponível em: www.iris.paho.org. Acesso em: 29 jul. 2025.\nTEXTO 2\nEstatuto do Idoso\nArt. 22. Nos currículos mínimos dos diversos níveis de ensino formal serão inseridos conteúdos voltados ao processo de \nenvelhecimento, ao respeito e à valorização da pessoa idosa, de forma a eliminar o preconceito e a produzir conhecimentos \nsobre a matéria (Redação dada pela Lei n. 14 423/22).\n Disponível em: www.planalto.gov.br. Acesso em: 29 jul. 2025.\nTEXTO 3\nOs critérios de avaliação da idade, da juventude ou da velhice não podem ser puramente os do calendário. Ninguém é velho só \nporque nasceu há muito tempo ou jovem porque nasceu há pouco. Além disso, somos velhos ou moços muito mais em função \nde como pensamos o mundo, da disponibilidade com que nos damos, curiosos, ao saber, cuja procura jamais nos cansa e cujo \nachado jamais nos deixa satisfeitos e imobilizados. Somos moços ou velhos muito mais em função da vivacidade, da esperança \ncom que estamos sempre prontos a começar tudo de novo, se o que fizemos continua a encarnar sonho nosso. Sonho eticamente \nválido e politicamente necessário. Somos velhos ou moços muito mais em função de se nos inclinarmos ou não a aceitar a \nmudança como sinal de vida e não a paralisação como sinal de morte.\nFREIRE, P. À sombra desta mangueira. Rio de Janeiro: Paz & Terra, 2015.\nEm uma reunião pedagógica, os professores, motivados pela Lei n. 14 423/22 e pelos recorrentes discursos idadistas na escola, \nplanejam atividades didáticas que abordem esse tema em seus planos de aula. \nCom base na situação-problema e na leitura dos textos motivadores, elabore um texto dissertativo-argumentativo que, \nrespeitando os Direitos Humanos,\n1.\tdiscuta o idadismo como desafio social e educacional no Brasil;\n2.\taborde os efeitos das diferenças geracionais nas relações estabelecidas no contexto escolar;\n3.\tapresente, ao menos, uma proposta de atividade para combater o idadismo e promover a integração intergeracional na escola.\n\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n\nTexto para questões de 31 a 33\nDurante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios \nda orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na \nfigura define a classe Triangulo, contendo como atributos os lados do triângulo e como métodos as operações para atribuir \ne retornar os valores dos lados, calcular área e calcular o perímetro.\nTriangulo\nlado1: inteiro\nlado2: inteiro\nlado3: inteiro\natribuirLado1(lado1: inteiro): vazio\natribuirLado2(lado2: inteiro): vazio\natribuirLado3(lado3: inteiro): vazio\nretornaLado1(  ): inteiro\nretornaLado2(  ): inteiro\nretornaLado3(  ): inteiro\ncalcularArea(  ): real\ncalcularPerimetro(  ): inteiro",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17006,7 +17006,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516134"
+      "criado_em": "2026-08-25T14:53:23.716361"
     },
     {
       "id_questao": "q31",
@@ -17056,7 +17056,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516138"
+      "criado_em": "2026-08-25T14:53:23.720350"
     },
     {
       "id_questao": "q32",
@@ -17107,7 +17107,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516142"
+      "criado_em": "2026-08-25T14:53:23.720372"
     },
     {
       "id_questao": "q33",
@@ -17123,13 +17123,13 @@
           "x0": 25.0,
           "y0": 558.5079956054688,
           "x1": 611.7199999999999,
-          "y1": 619.2708740234375,
+          "y1": 675.2308959960938,
           "coluna": 0
         },
         {
           "pagina": 21,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 408.504638671875,
           "coluna": 0
@@ -17139,16 +17139,17 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q33.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q33.txt",
       "largura": 2475,
-      "altura": 1656,
+      "altura": 1888,
       "confianca": 0.98,
-      "texto_completo": "g\nQUESTÃO 33\t\nUm estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estudante deve\n\nTexto para questões 34 e 35\nDurante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a \nDistância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em \nsua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.\nNúmero de licenciados concluintes por modalidade e ano\nDisponível em: www.gov.br/inep. Acesso em: 30 maio 2025.",
+      "texto_completo": "g\nQUESTÃO 33\t\nUm estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estudante deve\nA\t instanciar objetos da classe Triangulo, dando ao nome da instância o tipo do triângulo formado.\nB\t criar um novo método na classe Triangulo para determinar o seu tipo com base nos valores dos lados.\nC\t acrescentar um novo atributo à classe Triangulo de forma que o usuário informe o nome do triângulo criado.\nD\t separar a classe Triangulo em três classes distintas, uma para cada tipo específico de triângulo a ser formado.\n\nTexto para questões 34 e 35\nDurante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a \nDistância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em \nsua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.\nNúmero de licenciados concluintes por modalidade e ano\nDisponível em: www.gov.br/inep. Acesso em: 30 maio 2025.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
         "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/figuras/q33_fig1.jpeg"
       ],
       "categorias": [
-        "Engenharia e Tecnologias"
+        "Banco de Dados",
+        "Programação e POO"
       ],
       "status": "REJEITADA",
       "marcadores": [
@@ -17168,7 +17169,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516146"
+      "criado_em": "2026-08-25T14:53:23.720380"
     },
     {
       "id_questao": "q34",
@@ -17218,7 +17219,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516150"
+      "criado_em": "2026-08-25T14:53:23.720385"
     },
     {
       "id_questao": "q35",
@@ -17234,13 +17235,13 @@
           "x0": 25.0,
           "y0": 602.8855590820312,
           "x1": 611.7199999999999,
-          "y1": 772.9274291992188,
+          "y1": 773.9274291992188,
           "coluna": 0
         },
         {
           "pagina": 22,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 180.4859161376953,
           "coluna": 0
@@ -17250,7 +17251,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q35.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q35.txt",
       "largura": 2475,
-      "altura": 1162,
+      "altura": 1165,
       "confianca": 0.98,
       "texto_completo": "p\np\nQUESTÃO 35\t\nQual alternativa apresenta exemplos de atividades de um plano de aula no modelo híbrido, voltado para o ensino de conceitos \nde Pensamento Computacional?\nA\t Aprendizagem dos pilares do Pensamento Computacional utilizando ambiente on-line, por meio de vídeos e quizzes interativos; \nresolução de problemas em plataformas de programação, com feedback automático; participação em fóruns de discussão.\nB\t Atividades que envolvem discussões em grupo, dinâmicas práticas com materiais físicos, criação de algoritmos visuais em \nsuportes como quadros, resolução colaborativa de desafios em sala e apresentações seguidas de debate, favorecendo a \ninteração direta entre os participantes.\nC\t Aula expositiva sobre os pilares do Pensamento Computacional, com discussão em grupo para aprofundamento dos conceitos; \nrealização de atividades práticas em ambiente da escola para resolver problemas reais aplicando os pilares estudados.\nD\t Estudo dos pilares do Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento de dúvidas e realização \nde exercícios práticos, com aplicação dos pilares na resolução de problemas e uso de recompensas para estimular o engajamento.\n\nTexto para questões de 36 a 38\nUm professor de Computação precisa escolher, entre três possibilidades, uma abordagem de metodologia ativa para o \nplanejamento de uma sequência didática sobre conceitos iniciais de lógica e algoritmos. Como primeira possibilidade, ele cogita \nusar a metodologia Sala de Aula Invertida, usando linguagens e tecnologias nos momentos extraclasse e presencial. A segunda \npossibilidade seria escolher Objetos de Aprendizagem ancorados à estratégia metodológica de jogos sérios ou uso de softwares \neducacionais. A terceira possibilidade seria planejar a abordagem Gamificada de Competição Controlada.",
       "texto_enunciado": "",
@@ -17277,7 +17278,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516155"
+      "criado_em": "2026-08-25T14:53:23.720390"
     },
     {
       "id_questao": "q36",
@@ -17327,7 +17328,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516158"
+      "criado_em": "2026-08-25T14:53:23.720395"
     },
     {
       "id_questao": "q37",
@@ -17377,7 +17378,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516162"
+      "criado_em": "2026-08-25T14:53:23.720399"
     },
     {
       "id_questao": "q38",
@@ -17393,13 +17394,13 @@
           "x0": 25.0,
           "y0": 469.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 606.2595825195312,
+          "y1": 621.9595947265625,
           "coluna": 0
         },
         {
           "pagina": 23,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 238.40724182128906,
           "coluna": 0
@@ -17409,9 +17410,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q38.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q38.txt",
       "largura": 2475,
-      "altura": 1265,
+      "altura": 1329,
       "confianca": 0.98,
-      "texto_completo": ",\ng\ng\nQUESTÃO 38\t\nAo escolher Objetos de Aprendizagem, o professor pode planejar o uso de\nA\t jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada \netapa da atividade.\nB\t softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, \nexercícios e feedback automático.\nC\t jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, \nutilizados para modelar a lógica algorítmica.\nD softwares educacionais utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica\n\nTexto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.",
+      "texto_completo": ",\ng\ng\nQUESTÃO 38\t\nAo escolher Objetos de Aprendizagem, o professor pode planejar o uso de\nA\t jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada \netapa da atividade.\nB\t softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, \nexercícios e feedback automático.\nC\t jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, \nutilizados para modelar a lógica algorítmica.\nD\t softwares educacionais, utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica, \nrecompensas simbólicas e ranqueamento de desempenho.\n\nTexto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17436,7 +17437,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516167"
+      "criado_em": "2026-08-25T14:53:23.720404"
     },
     {
       "id_questao": "q39",
@@ -17486,7 +17487,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516171"
+      "criado_em": "2026-08-25T14:53:23.720408"
     },
     {
       "id_questao": "q40",
@@ -17537,7 +17538,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516174"
+      "criado_em": "2026-08-25T14:53:23.720412"
     },
     {
       "id_questao": "q41",
@@ -17553,13 +17554,13 @@
           "x0": 25.0,
           "y0": 443.16949462890625,
           "x1": 611.7199999999999,
-          "y1": 568.1810302734375,
+          "y1": 624.1329956054688,
           "coluna": 0
         },
         {
           "pagina": 24,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 180.4859161376953,
           "coluna": 0
@@ -17569,9 +17570,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q41.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q41.txt",
       "largura": 2475,
-      "altura": 974,
+      "altura": 1207,
       "confianca": 0.98,
-      "texto_completo": "ç\n,\nç\nQUESTÃO 41\t\nNo tema bancos de dados relacionais, as metodologias ativas podem favorecer abordagens pedagógicas para ensinar tanto \nos fundamentos da modelagem de dados e da teoria relacional, quanto habilidades práticas, como a criação de diagramas \nentidade-relacionamento e a elaboração de consultas em SQL. Em bancos de dados orientados a objetos, atividades práticas \ncolaborativas podem ser propostas para exercitar o armazenamento de informações, de acordo com os princípios do paradigma \nde orientação a objetos.\nOs estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a \njustificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?\n\nTexto para questões 42 e 43\nUma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da \nconectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição \npossui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e \nnenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture \na rede da escola para testar diferentes configurações.",
+      "texto_completo": "ç\n,\nç\nQUESTÃO 41\t\nNo tema bancos de dados relacionais, as metodologias ativas podem favorecer abordagens pedagógicas para ensinar tanto \nos fundamentos da modelagem de dados e da teoria relacional, quanto habilidades práticas, como a criação de diagramas \nentidade-relacionamento e a elaboração de consultas em SQL. Em bancos de dados orientados a objetos, atividades práticas \ncolaborativas podem ser propostas para exercitar o armazenamento de informações, de acordo com os princípios do paradigma \nde orientação a objetos.\nOs estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a \njustificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?\nA\t Optamos por esse modelo porque ele utiliza chaves primárias e estrangeiras para estabelecer ligações entre diferentes estruturas.\nB\t Escolhemos esse modelo porque ele permite representar dados em estruturas que encapsulam atributos e comportamentos.\nC\t Decidimos por esse modelo porque suas estruturas oferecem facilidades em realizar operações como junção, intersecção e união.\nD\t Utilizamos esse modelo porque ele é ideal para normalizar dados e evitar redundâncias entre diferentes estruturas.\n\nTexto para questões 42 e 43\nUma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da \nconectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição \npossui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e \nnenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture \na rede da escola para testar diferentes configurações.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17597,7 +17598,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516179"
+      "criado_em": "2026-08-25T14:53:23.720417"
     },
     {
       "id_questao": "q42",
@@ -17647,7 +17648,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516183"
+      "criado_em": "2026-08-25T14:53:23.720421"
     },
     {
       "id_questao": "q43",
@@ -17662,7 +17663,7 @@
           "x0": 25.0,
           "y0": 421.37091064453125,
           "x1": 611.7199999999999,
-          "y1": 619.138427734375,
+          "y1": 634.83837890625,
           "coluna": 0
         }
       ],
@@ -17670,9 +17671,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q43.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q43.txt",
       "largura": 2475,
-      "altura": 854,
+      "altura": 919,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 43\t\nCom base na situação-problema, a turma foi dividida para representar a estrutura física da rede:\n•\tAlguns estudantes seguram switches de papelão;\n•\tOutros estudantes são computadores;\n•\tBarbantes conectam os estudantes representando cabos de rede;\n•\tDois alunos representam os switches antigos da escola;\n•\tUm grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.\nQual alternativa apresenta a melhor descrição da rede representada pelos estudantes?\nA\t A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.\nB\t A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros \nda cidade.\nC\t A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.\nD A rede simulada é uma LAN pois os estudantes representaram uma conexão entre diversos setores da escola com switches",
+      "texto_completo": "QUESTÃO 43\t\nCom base na situação-problema, a turma foi dividida para representar a estrutura física da rede:\n•\tAlguns estudantes seguram switches de papelão;\n•\tOutros estudantes são computadores;\n•\tBarbantes conectam os estudantes representando cabos de rede;\n•\tDois alunos representam os switches antigos da escola;\n•\tUm grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.\nQual alternativa apresenta a melhor descrição da rede representada pelos estudantes?\nA\t A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.\nB\t A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros \nda cidade.\nC\t A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.\nD\t A rede simulada é uma LAN, pois os estudantes representaram uma conexão entre diversos setores da escola, com switches \ne cabos simbólicos.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17697,7 +17698,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516187"
+      "criado_em": "2026-08-25T14:53:23.720425"
     },
     {
       "id_questao": "q44",
@@ -17713,13 +17714,13 @@
           "x0": 25.0,
           "y0": 83.01449584960938,
           "x1": 611.7199999999999,
-          "y1": 644.2908935546875,
+          "y1": 659.9909057617188,
           "coluna": 0
         },
         {
           "pagina": 26,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 168.4859161376953,
           "coluna": 0
@@ -17729,9 +17730,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q44.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q44.txt",
       "largura": 2475,
-      "altura": 2743,
+      "altura": 2807,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 44\t\nUm professor explicou que o campus universitário contém dois institutos envolvendo áreas distintas do conhecimento e que \nficam geograficamente afastados. Há o Instituto de Ciências Exatas com os cursos de Matemática e de Computação, e o Instituto \nde Ciências Humanas com os cursos de História e Filosofia. Cada curso possui um laboratório de informática, os quais são \nconectados por meio de switches e roteadores. O professor desenhou no quadro a topologia da rede da universidade como \nmostra a figura. O objetivo era simular como eram feitas as transmissões dos dados na rede de computadores da universidade.\nPara fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, cada laboratório representaria \numa rede local (Local Area Network — LAN), cada instituto separadamente comporia uma rede metropolitana (Metropolitan \nArea Network — MAN) e a rede de todo o campus universitário se assemelharia a uma rede de longa distância (Wide Area \nNetwork — WAN).\nEm relação à classificação de redes de computadores e a topologia na figura, afirma-se que\nA\t o laboratório de informática do curso de Matemática deixaria de ser uma LAN, caso tivesse um único computador.\nB\t pela analogia, a adição de novos institutos no campus universitário acarretaria no surgimento de mais uma rede de longa \ndistância (WAN).\nC\t os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores \nestivessem conectados ao mesmo switch.\nD o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador\n\nTexto para questões de 45 a 47\nEm turmas de Educação Básica, a presença de estudantes neuroatípicos exige que o planejamento de ensino seja sensível à \ndiversidade cognitiva. Dentre os principais desafios enfrentados pelos professores, está a promoção de práticas pedagógicas \nque considerem diferentes modos de aprender, exigindo a integração consciente de tecnologias e linguagens variadas no \nprocesso educativo.",
+      "texto_completo": "QUESTÃO 44\t\nUm professor explicou que o campus universitário contém dois institutos envolvendo áreas distintas do conhecimento e que \nficam geograficamente afastados. Há o Instituto de Ciências Exatas com os cursos de Matemática e de Computação, e o Instituto \nde Ciências Humanas com os cursos de História e Filosofia. Cada curso possui um laboratório de informática, os quais são \nconectados por meio de switches e roteadores. O professor desenhou no quadro a topologia da rede da universidade como \nmostra a figura. O objetivo era simular como eram feitas as transmissões dos dados na rede de computadores da universidade.\nPara fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, cada laboratório representaria \numa rede local (Local Area Network — LAN), cada instituto separadamente comporia uma rede metropolitana (Metropolitan \nArea Network — MAN) e a rede de todo o campus universitário se assemelharia a uma rede de longa distância (Wide Area \nNetwork — WAN).\nEm relação à classificação de redes de computadores e a topologia na figura, afirma-se que\nA\t o laboratório de informática do curso de Matemática deixaria de ser uma LAN, caso tivesse um único computador.\nB\t pela analogia, a adição de novos institutos no campus universitário acarretaria no surgimento de mais uma rede de longa \ndistância (WAN).\nC\t os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores \nestivessem conectados ao mesmo switch.\nD\t o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador \nsem fio capaz de conectar diferentes tipos de dispositivos na mesma rede.\n\nTexto para questões de 45 a 47\nEm turmas de Educação Básica, a presença de estudantes neuroatípicos exige que o planejamento de ensino seja sensível à \ndiversidade cognitiva. Dentre os principais desafios enfrentados pelos professores, está a promoção de práticas pedagógicas \nque considerem diferentes modos de aprender, exigindo a integração consciente de tecnologias e linguagens variadas no \nprocesso educativo.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -17760,7 +17761,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516191"
+      "criado_em": "2026-08-25T14:53:23.720430"
     },
     {
       "id_questao": "q45",
@@ -17810,7 +17811,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516195"
+      "criado_em": "2026-08-25T14:53:23.720434"
     },
     {
       "id_questao": "q46",
@@ -17861,7 +17862,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516199"
+      "criado_em": "2026-08-25T14:53:23.720438"
     },
     {
       "id_questao": "q47",
@@ -17877,7 +17878,7 @@
           "x0": 25.0,
           "y0": 505.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 654.2595825195312,
+          "y1": 669.9595947265625,
           "coluna": 0
         },
         {
@@ -17893,9 +17894,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q47.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q47.txt",
       "largura": 2475,
-      "altura": 1524,
+      "altura": 1589,
       "confianca": 0.98,
-      "texto_completo": "ç\nQUESTÃO 47\t\nConsiderando a importância de respeitar os diferentes níveis de compreensão e dificuldades de comunicação verbal e os \ndiferentes domínios cognitivos, qual estratégia de avaliação formativa sobre recursividade atende a esses objetivos?\nA\t Propor desafios visuais com fluxogramas e recursos manipuláveis digitais, permitindo diferentes formas de registro e \njustificativa da lógica recursiva empregada.\nB\t Solicitar que todos os estudantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usando \nexemplos matemáticos previamente trabalhados em sala.\nC\t Aplicar um teste com questões objetivas que envolvam a análise de funções recursivas, sem contextualização, para \nmensurar a habilidade técnica de cada estudante.\nD Dividir a turma em grupos homogêneos por desempenho aplicando uma única tarefa escrita padrão com base em códigos\n\nTexto para questões de 48 a 51\nDuas escolas, A e B, localizadas em regiões diferentes, \nenfrentam desafios distintos no ensino de algoritmos e \nestruturas de dados. A Escola A possui um laboratório de \ninformática equipado com computadores individuais e acesso \nà internet estável. Os estudantes já tiveram contato com lógica \nde programação básica e noções introdutórias de algoritmos, \ncomo fluxogramas e pseudocódigo. Já na Escola B, o acesso \nà internet é instável e há apenas um laboratório com poucos \ncomputadores que precisam ser compartilhados em pequenos \ngrupos de 5 estudantes. Esses estudantes, no entanto, \ndemonstram grande interesse em tecnologia e criatividade \npara resolver problemas com os recursos disponíveis. A maioria \nainda não teve aulas de programação, mas já usou ferramentas \ncomo planilhas.",
+      "texto_completo": "ç\nQUESTÃO 47\t\nConsiderando a importância de respeitar os diferentes níveis de compreensão e dificuldades de comunicação verbal e os \ndiferentes domínios cognitivos, qual estratégia de avaliação formativa sobre recursividade atende a esses objetivos?\nA\t Propor desafios visuais com fluxogramas e recursos manipuláveis digitais, permitindo diferentes formas de registro e \njustificativa da lógica recursiva empregada.\nB\t Solicitar que todos os estudantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usando \nexemplos matemáticos previamente trabalhados em sala.\nC\t Aplicar um teste com questões objetivas que envolvam a análise de funções recursivas, sem contextualização, para \nmensurar a habilidade técnica de cada estudante.\nD\t Dividir a turma em grupos homogêneos por desempenho, aplicando uma única tarefa escrita padrão com base em códigos \nrecursivos resolvidos em aula.\n\nTexto para questões de 48 a 51\nDuas escolas, A e B, localizadas em regiões diferentes, \nenfrentam desafios distintos no ensino de algoritmos e \nestruturas de dados. A Escola A possui um laboratório de \ninformática equipado com computadores individuais e acesso \nà internet estável. Os estudantes já tiveram contato com lógica \nde programação básica e noções introdutórias de algoritmos, \ncomo fluxogramas e pseudocódigo. Já na Escola B, o acesso \nà internet é instável e há apenas um laboratório com poucos \ncomputadores que precisam ser compartilhados em pequenos \ngrupos de 5 estudantes. Esses estudantes, no entanto, \ndemonstram grande interesse em tecnologia e criatividade \npara resolver problemas com os recursos disponíveis. A maioria \nainda não teve aulas de programação, mas já usou ferramentas \ncomo planilhas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17920,7 +17921,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516203"
+      "criado_em": "2026-08-25T14:53:23.720446"
     },
     {
       "id_questao": "q48",
@@ -17971,7 +17972,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516209"
+      "criado_em": "2026-08-25T14:53:23.720450"
     },
     {
       "id_questao": "q49",
@@ -17986,7 +17987,7 @@
           "x0": 25.0,
           "y0": 460.86712646484375,
           "x1": 315.35999999999996,
-          "y1": 708.5787353515625,
+          "y1": 709.5787353515625,
           "coluna": 1
         }
       ],
@@ -17994,7 +17995,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q49.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q49.txt",
       "largura": 1240,
-      "altura": 1062,
+      "altura": 1067,
       "confianca": 0.98,
       "texto_completo": "g\nç\n;\np\nç\np g\nQUESTÃO 49\t\nCom base nas informações das duas escolas e na BNCC \n- Complemento Computação, qual alternativa apresenta a \nabordagem para o ensino de conceitos de algoritmos que \nseja coerente com os contextos de cada escola e as etapas de \nescolarização?\nA\t Aprendizagem Baseada em Projetos para o ensino de \nalgoritmos de inserção, remoção e busca para estudantes \nda Escola A, do 6º ano do Ensino Fundamental.\nB\t Rotação por Estações para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 6º ano do Ensino Fundamental.\nC\t Gamificação para o ensino de algoritmos de inserção, \nremoção e busca para estudantes da Escola A, do 8º ano \ndo Ensino Fundamental.\nD\t Programação por Pares para o ensino de algoritmos de \ninserção, remoção e busca para estudantes da Escola B, \ndo 8º ano do Ensino Fundamental.",
       "texto_enunciado": "",
@@ -18021,7 +18022,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516213"
+      "criado_em": "2026-08-25T14:53:23.720455"
     },
     {
       "id_questao": "q50",
@@ -18071,7 +18072,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516219"
+      "criado_em": "2026-08-25T14:53:23.720459"
     },
     {
       "id_questao": "q51",
@@ -18087,13 +18088,13 @@
           "x0": 321.35999999999996,
           "y0": 462.40728759765625,
           "x1": 611.7199999999999,
-          "y1": 696.62353515625,
+          "y1": 697.62353515625,
           "coluna": 2
         },
         {
           "pagina": 28,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 228.4859161376953,
           "coluna": 0
@@ -18103,7 +18104,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q51.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q51.txt",
       "largura": 2475,
-      "altura": 1629,
+      "altura": 1632,
       "confianca": 0.98,
       "texto_completo": "p\n,\nQUESTÃO 51\t\nConsiderando o contexto das escolas, qual a abordagem que \nrepresenta uma estratégia didático-pedagógica que utiliza a \nComputação Desplugada para o ensino de vetores?\nA\t Promover uma sequência de passos de dança com \ncomandos repetitivos, como “Repita 3 vezes: pular, girar, \nbater palmas”.\nB\t Organizar uma atividade em que os estudantes fiquem em \nfila e manipulem cartões numéricos, simulando inserção, \nexclusão e acesso por índice.\nC\t Criar cartões com condições do tipo: “Se o estudante estiver \nusando camisa azul, então pule para a frente”, para que \nsigam comandos baseados em condições.\nD\t Solicitar que o estudante dê instruções precisas, como se \nprogramasse um robô, para que outro colega monte um \nsanduíche, onde cada passo precisa estar em ordem lógica.\n\nTexto para questões de 52 a 54\nO Brasil, em 2022, contava com 18,6 milhões de pessoas com algum tipo de deficiência, o que representa 8,9% da população \ncom 2 anos ou mais. Desse total, segundo o IBGE, apenas 24,3% das pessoas com deficiência tinham acesso regular à internet. \nTais dados revelam a urgência de políticas públicas educacionais e práticas pedagógicas que não apenas ampliem o acesso, \nmas que também garantam a acessibilidade digital e comunicacional em sentido amplo. O educador deve adotar estratégias \npedagógicas que promovam a inclusão social e digital em sala de aula. Isso implica a seleção de tecnologias que atendam aos \ndiferentes tipos de deficiência — visual, auditiva, motora, intelectual e múltiplas — e que considerem diferentes linguagens: \nvisual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além da seleção adequada dos recursos, espera-se, também, \nque o professor desenvolva nos estudantes as competências investigativas e científicas, capazes de produzir e disseminar o \nconhecimento de forma crítica e colaborativa.",
       "texto_enunciado": "",
@@ -18132,7 +18133,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516224"
+      "criado_em": "2026-08-25T14:53:23.720463"
     },
     {
       "id_questao": "q52",
@@ -18182,7 +18183,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516227"
+      "criado_em": "2026-08-25T14:53:23.720467"
     },
     {
       "id_questao": "q53",
@@ -18232,7 +18233,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516231"
+      "criado_em": "2026-08-25T14:53:23.720471"
     },
     {
       "id_questao": "q54",
@@ -18248,13 +18249,13 @@
           "x0": 25.0,
           "y0": 469.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 618.2650146484375,
+          "y1": 633.9649658203125,
           "coluna": 0
         },
         {
           "pagina": 29,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 192.4860382080078,
           "coluna": 0
@@ -18264,9 +18265,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q54.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q54.txt",
       "largura": 2475,
-      "altura": 1124,
+      "altura": 1188,
       "confianca": 0.98,
-      "texto_completo": "g\n,\ng\n,\nç\np\np\nQUESTÃO 54\t\nUm professor de Computação está planejando uma atividade sobre a evolução da internet e seus impactos socioculturais, com \na finalidade de disseminar conhecimentos de forma crítica e colaborativa. Assim, deve propor aos estudantes que\nA\t pesquisem sobre os marcos históricos e o desenvolvimento da internet no mundo e apresentem as principais descobertas \nem um seminário em sala de aula.\nB\t realizem uma pesquisa bibliográfica sobre o uso da internet para acessar serviços do governo e construam infográficos para \npublicar estatísticas sobre cidadania digital no mural da escola.\nC\t assistam a documentários selecionados sobre as transformações sociais decorrentes da evolução da internet e elaborem \numa resenha crítica de acordo com as normas da ABNT.\nD entrevistem membros da comunidade do entorno sobre o uso da internet e produzam um podcast discutindo os desafios\n\nTexto para questões de 55 a 57\nUm professor de Computação pretende ensinar algoritmos de ordenação e decide utilizar o Merge Sort, que consiste em dividir \numa lista recursivamente até obter listas com um único elemento e combinar as listas ordenando os elementos até reconstruir \na lista original. Por ser um exemplo clássico da técnica de divisão e conquista, seu objetivo é proporcionar aos estudantes uma \nexperiência de aprendizagem em que percebam, de forma prática, como problemas complexos podem ser compreendidos e \nresolvidos por meio da reestruturação em tarefas mais simples. Além disso, o professor percebe que pode relacionar o conteúdo \na conceitos matemáticos, estabelecendo conexões que favorecem o raciocínio lógico.",
+      "texto_completo": "g\n,\ng\n,\nç\np\np\nQUESTÃO 54\t\nUm professor de Computação está planejando uma atividade sobre a evolução da internet e seus impactos socioculturais, com \na finalidade de disseminar conhecimentos de forma crítica e colaborativa. Assim, deve propor aos estudantes que\nA\t pesquisem sobre os marcos históricos e o desenvolvimento da internet no mundo e apresentem as principais descobertas \nem um seminário em sala de aula.\nB\t realizem uma pesquisa bibliográfica sobre o uso da internet para acessar serviços do governo e construam infográficos para \npublicar estatísticas sobre cidadania digital no mural da escola.\nC\t assistam a documentários selecionados sobre as transformações sociais decorrentes da evolução da internet e elaborem \numa resenha crítica de acordo com as normas da ABNT.\nD\t entrevistem membros da comunidade do entorno sobre o uso da internet e produzam um podcast discutindo os desafios \ne avanços da inclusão digital no contexto local.\n\nTexto para questões de 55 a 57\nUm professor de Computação pretende ensinar algoritmos de ordenação e decide utilizar o Merge Sort, que consiste em dividir \numa lista recursivamente até obter listas com um único elemento e combinar as listas ordenando os elementos até reconstruir \na lista original. Por ser um exemplo clássico da técnica de divisão e conquista, seu objetivo é proporcionar aos estudantes uma \nexperiência de aprendizagem em que percebam, de forma prática, como problemas complexos podem ser compreendidos e \nresolvidos por meio da reestruturação em tarefas mais simples. Além disso, o professor percebe que pode relacionar o conteúdo \na conceitos matemáticos, estabelecendo conexões que favorecem o raciocínio lógico.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18292,7 +18293,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516236"
+      "criado_em": "2026-08-25T14:53:23.720476"
     },
     {
       "id_questao": "q55",
@@ -18342,7 +18343,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516239"
+      "criado_em": "2026-08-25T14:53:23.720480"
     },
     {
       "id_questao": "q56",
@@ -18392,7 +18393,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516243"
+      "criado_em": "2026-08-25T14:53:23.720484"
     },
     {
       "id_questao": "q57",
@@ -18408,13 +18409,13 @@
           "x0": 25.0,
           "y0": 529.2482299804688,
           "x1": 611.7199999999999,
-          "y1": 702.259765625,
+          "y1": 717.9644165039062,
           "coluna": 0
         },
         {
           "pagina": 30,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 170.63380432128906,
           "coluna": 0
@@ -18424,9 +18425,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q57.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q57.txt",
       "largura": 2475,
-      "altura": 1133,
+      "altura": 1198,
       "confianca": 0.98,
-      "texto_completo": "p\np\nQUESTÃO 57\t\nPara que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções \nmatemáticas, a técnica de programação que favorece essa integração baseia-se na\nA\t modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como \nfunções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.\nB\t utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis \ne bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica \nde uma função matemática.\nC\t aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em \npequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação \ncompleta dos dados.\nD elaboração de algoritmos como uma sequência de respostas a eventos associando funções a interações específicas como as\n\nTexto para questões de 58 a 60\nEm uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades \ncom o desenvolvimento das habilidades: organizar ideias, resolver problemas por etapas e propor soluções em atividades \ninterdisciplinares. Os professores almejam ajudar os estudantes a decompor problemas complexos em partes menores, identificar \npadrões em situações semelhantes, abstrair informações essenciais e criar algoritmos simples para descrever soluções.",
+      "texto_completo": "p\np\nQUESTÃO 57\t\nPara que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções \nmatemáticas, a técnica de programação que favorece essa integração baseia-se na\nA\t modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como \nfunções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.\nB\t utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis \ne bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica \nde uma função matemática.\nC\t aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em \npequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação \ncompleta dos dados.\nD\t elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as \noperações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.\n\nTexto para questões de 58 a 60\nEm uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades \ncom o desenvolvimento das habilidades: organizar ideias, resolver problemas por etapas e propor soluções em atividades \ninterdisciplinares. Os professores almejam ajudar os estudantes a decompor problemas complexos em partes menores, identificar \npadrões em situações semelhantes, abstrair informações essenciais e criar algoritmos simples para descrever soluções.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18452,7 +18453,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516247"
+      "criado_em": "2026-08-25T14:53:23.720489"
     },
     {
       "id_questao": "q58",
@@ -18502,7 +18503,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516251"
+      "criado_em": "2026-08-25T14:53:23.720493"
     },
     {
       "id_questao": "q59",
@@ -18554,7 +18555,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516256"
+      "criado_em": "2026-08-25T14:53:23.720497"
     },
     {
       "id_questao": "q60",
@@ -18570,7 +18571,7 @@
           "x0": 25.0,
           "y0": 604.2833862304688,
           "x1": 611.7199999999999,
-          "y1": 772.9274291992188,
+          "y1": 773.9274291992188,
           "coluna": 0
         },
         {
@@ -18586,7 +18587,7 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q60.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q60.txt",
       "largura": 2475,
-      "altura": 1533,
+      "altura": 1537,
       "confianca": 0.98,
       "texto_completo": "g\np\nQUESTÃO 60\t\nUm professor de Computação dessa escola planeja uma viagem para estimular a postura investigativa e científica em seus \nestudantes. Assim, deve propor a eles\nA\t escolher preferências de destinos para a viagem e calcular os custos básicos de cada alternativa, com base em dados \ncoletados em sites de turismo.\nB\t selecionar critérios relevantes em aplicativos de organização de viagens como insumos para realizar enquete sobre o destino \nda viagem.\nC\t criar, em grupos, representações visuais (infográfico ou linha do tempo interativa) do percurso de uma viagem para subsidiar \na escolha da turma.\nD\t elaborar hipóteses sobre os fatores mais relevantes que impactam cada aspecto da viagem para confrontar diferentes \npropostas colhidas junto à turma.\n\nTexto para questões de 61 a 63\nO processo de desenvolvimento de software é uma atividade \nrealizada por e para pessoas. Assim, as pessoas são o elemento \nessencial em todas as fases do processo, uma vez que os \nprodutos de software têm impacto direto na vida do seu \npúblico-alvo. Os princípios de Diversidade, Equidade e Inclusão \n(DEI) funcionam em conjunto e sua integração ao longo de \ntodo o processo de desenvolvimento de software aumenta o \ndesempenho da equipe, melhora a qualidade e a relevância \ndo produto de software para um público-alvo diversificado.\nMARQUES, A. B. et al. Grandes desafios para diversidade, equidade e \ninclusão (DEI) no Desenvolvimento de Software. Workshop sobre \nAspectos Sociais, Humanos e Econômicos de \nSoftware. SBC, 2024 (adaptado).",
       "texto_enunciado": "",
@@ -18613,7 +18614,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516261"
+      "criado_em": "2026-08-25T14:53:23.720502"
     },
     {
       "id_questao": "q61",
@@ -18663,7 +18664,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516265"
+      "criado_em": "2026-08-25T14:53:23.720506"
     },
     {
       "id_questao": "q62",
@@ -18678,7 +18679,7 @@
           "x0": 25.0,
           "y0": 431.51910400390625,
           "x1": 315.35999999999996,
-          "y1": 580.5306396484375,
+          "y1": 596.2352905273438,
           "coluna": 1
         }
       ],
@@ -18686,9 +18687,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q62.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q62.txt",
       "largura": 1240,
-      "altura": 651,
+      "altura": 716,
       "confianca": 0.98,
-      "texto_completo": "p\ng\nQUESTÃO 62\t\nCom base nos princípios DEI, qual ação atende aos requisitos \nde acessibilidade durante o desenvolvimento de software?\nA\t Incorporar diretrizes de acessibilidade ao processo para \ngarantir testes baseados em tecnologias assistivas.\nB\t Incluir os recursos de navegação por teclado e leitores de \ntela para facilitar o uso pelos usuários da aplicação.\nC\t Utilizar contrastes visuais fortes e aumentar o tamanho da \nfonte para assegurar as necessidades de acessibilidade.\nD Certificar responsividade e compatibilidade com navegadores",
+      "texto_completo": "p\ng\nQUESTÃO 62\t\nCom base nos princípios DEI, qual ação atende aos requisitos \nde acessibilidade durante o desenvolvimento de software?\nA\t Incorporar diretrizes de acessibilidade ao processo para \ngarantir testes baseados em tecnologias assistivas.\nB\t Incluir os recursos de navegação por teclado e leitores de \ntela para facilitar o uso pelos usuários da aplicação.\nC\t Utilizar contrastes visuais fortes e aumentar o tamanho da \nfonte para assegurar as necessidades de acessibilidade.\nD\t Certificar responsividade e compatibilidade com navegadores \nmodernos para reduzir dificuldades enfrentadas pelos usuários.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18714,7 +18715,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516269"
+      "criado_em": "2026-08-25T14:53:23.720510"
     },
     {
       "id_questao": "q63",
@@ -18764,7 +18765,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516272"
+      "criado_em": "2026-08-25T14:53:23.720514"
     },
     {
       "id_questao": "q64",
@@ -18780,13 +18781,13 @@
           "x0": 321.35999999999996,
           "y0": 318.40728759765625,
           "x1": 611.7199999999999,
-          "y1": 699.6707763671875,
+          "y1": 715.3707885742188,
           "coluna": 2
         },
         {
           "pagina": 32,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 180.4859161376953,
           "coluna": 0
@@ -18796,9 +18797,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q64.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q64.txt",
       "largura": 2475,
-      "altura": 2042,
+      "altura": 2107,
       "confianca": 0.98,
-      "texto_completo": "p\nQUESTÃO 64\t\nO professor de Computação deseja ensinar os estados do \nprocesso em sistemas operacionais (novo, pronto, em \nexecução, bloqueado, encerrado), adaptando sua metodologia \na diferentes etapas da Educação Básica, conforme os níveis de \ndesenvolvimento cognitivo dos estudantes, fundamentados \npela BNCC - Complemento Computação.\nConsiderando seu plano de ensino, centrado em estratégias \nacessíveis, linguagem cinestésica e computação desplugada, qual \ndas ações deve ser implementada ao contexto apresentado?\nA\t Nos Anos Finais do Ensino Fundamental, solicitar que \nos estudantes desenhem os estados do processo em \num fluxograma impresso, seguindo definições prévias e \nidentificando transições com base em material expositivo \npreviamente lido.\nB\t No Ensino Médio, apresentar vídeos técnicos sobre os \nestados do processo e, em seguida, pedir que os estudantes \ncriem resumos individuais relacionando os conceitos com \no funcionamento do sistema operacional.\nC\t No Ensino Médio, propor uma atividade na qual estudantes \ndramatizam os estados do processo, movimentando-\nse entre estações da sala que representam os estados, \nrealizando ações típicas de cada um, de forma guiada por \numa sequência lógica, simulando o comportamento do \nsistema operacional.\nD\t Nos Anos Iniciais do Ensino Fundamental, organizar uma \natividade em que os estudantes agrupam figuras que \nsimbolizam tarefas (comer, correr, dormir) aos estados do \nprocesso justificando oralmente suas escolhas com apoio\n\nTexto para questões de 65 a 67\nDurante o planejamento de uma sequência didática sobre Organização e Arquitetura de Computadores, um professor de \nComputação observou que sua turma de Ensino Médio está pouco engajada nas aulas teóricas. Nesse contexto, o professor \npretende promover o desenvolvimento das habilidades: 1. compreensão dos fundamentos e da interação básica dos elementos \nda arquitetura de Von Neumann e 2. aplicação dos conhecimentos de hierarquia de memórias, identificando os diversos tipos \ne suas características.",
+      "texto_completo": "p\nQUESTÃO 64\t\nO professor de Computação deseja ensinar os estados do \nprocesso em sistemas operacionais (novo, pronto, em \nexecução, bloqueado, encerrado), adaptando sua metodologia \na diferentes etapas da Educação Básica, conforme os níveis de \ndesenvolvimento cognitivo dos estudantes, fundamentados \npela BNCC - Complemento Computação.\nConsiderando seu plano de ensino, centrado em estratégias \nacessíveis, linguagem cinestésica e computação desplugada, qual \ndas ações deve ser implementada ao contexto apresentado?\nA\t Nos Anos Finais do Ensino Fundamental, solicitar que \nos estudantes desenhem os estados do processo em \num fluxograma impresso, seguindo definições prévias e \nidentificando transições com base em material expositivo \npreviamente lido.\nB\t No Ensino Médio, apresentar vídeos técnicos sobre os \nestados do processo e, em seguida, pedir que os estudantes \ncriem resumos individuais relacionando os conceitos com \no funcionamento do sistema operacional.\nC\t No Ensino Médio, propor uma atividade na qual estudantes \ndramatizam os estados do processo, movimentando-\nse entre estações da sala que representam os estados, \nrealizando ações típicas de cada um, de forma guiada por \numa sequência lógica, simulando o comportamento do \nsistema operacional.\nD\t Nos Anos Iniciais do Ensino Fundamental, organizar uma \natividade em que os estudantes agrupam figuras que \nsimbolizam tarefas (comer, correr, dormir) aos estados do \nprocesso, justificando oralmente suas escolhas com apoio \ndo professor.\n\nTexto para questões de 65 a 67\nDurante o planejamento de uma sequência didática sobre Organização e Arquitetura de Computadores, um professor de \nComputação observou que sua turma de Ensino Médio está pouco engajada nas aulas teóricas. Nesse contexto, o professor \npretende promover o desenvolvimento das habilidades: 1. compreensão dos fundamentos e da interação básica dos elementos \nda arquitetura de Von Neumann e 2. aplicação dos conhecimentos de hierarquia de memórias, identificando os diversos tipos \ne suas características.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18823,7 +18824,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516277"
+      "criado_em": "2026-08-25T14:53:23.720519"
     },
     {
       "id_questao": "q65",
@@ -18873,7 +18874,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516281"
+      "criado_em": "2026-08-25T14:53:23.720525"
     },
     {
       "id_questao": "q66",
@@ -18923,7 +18924,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516285"
+      "criado_em": "2026-08-25T14:53:23.720529"
     },
     {
       "id_questao": "q67",
@@ -18939,13 +18940,13 @@
           "x0": 25.0,
           "y0": 505.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 642.2623291015625,
+          "y1": 657.9622802734375,
           "coluna": 0
         },
         {
           "pagina": 33,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 192.4860382080078,
           "coluna": 0
@@ -18955,9 +18956,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q67.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q67.txt",
       "largura": 2475,
-      "altura": 1074,
+      "altura": 1138,
       "confianca": 0.98,
-      "texto_completo": "q\nQUESTÃO 67\t\nQual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?\nA\t Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos \nde memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.\nB\t Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de \ndesempenho e valores de mercado, aplicando conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia \nde memória e suas características, classificando as memórias por custo.\nD Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e\n\nTexto para questões 68 e 69\nUm professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que \no local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que \neles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. \nOs demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador \npor 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam \ncomparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.",
+      "texto_completo": "q\nQUESTÃO 67\t\nQual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?\nA\t Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos \nde memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.\nB\t Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de \ndesempenho e valores de mercado, aplicando conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia \nde memória e suas características, classificando as memórias por custo.\nD\t Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e \ndesempenho, justificando a escolha das memórias a partir de dados técnicos pesquisados.\n\nTexto para questões 68 e 69\nUm professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que \no local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que \neles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. \nOs demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador \npor 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam \ncomparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18983,7 +18984,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516289"
+      "criado_em": "2026-08-25T14:53:23.720535"
     },
     {
       "id_questao": "q68",
@@ -19034,7 +19035,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516293"
+      "criado_em": "2026-08-25T14:53:23.720539"
     },
     {
       "id_questao": "q69",
@@ -19050,13 +19051,13 @@
           "x0": 25.0,
           "y0": 292.86712646484375,
           "x1": 611.7199999999999,
-          "y1": 341.6299743652344,
+          "y1": 397.5899963378906,
           "coluna": 0
         },
         {
           "pagina": 34,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 180.4859161376953,
           "coluna": 0
@@ -19066,9 +19067,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.txt",
       "largura": 2475,
-      "altura": 656,
+      "altura": 888,
       "confianca": 0.98,
-      "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\n\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.",
+      "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\nA\t Vazão, maximizando o número de processos executados por instante de tempo.\nB\t Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.\nC\t Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.\nD\t Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.\n\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19094,7 +19095,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516421"
+      "criado_em": "2026-08-25T14:53:23.720544"
     },
     {
       "id_questao": "q70",
@@ -19145,7 +19146,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516425"
+      "criado_em": "2026-08-25T14:53:23.720548"
     },
     {
       "id_questao": "q71",
@@ -19195,7 +19196,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516429"
+      "criado_em": "2026-08-25T14:53:23.720552"
     },
     {
       "id_questao": "q72",
@@ -19210,7 +19211,7 @@
           "x0": 25.0,
           "y0": 505.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 578.010986328125,
+          "y1": 633.970947265625,
           "coluna": 0
         }
       ],
@@ -19218,9 +19219,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.txt",
       "largura": 2475,
-      "altura": 333,
+      "altura": 567,
       "confianca": 0.98,
-      "texto_completo": ", p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?",
+      "texto_completo": ", p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?\nA\t Pilha, inserindo as tarefas da mais fácil para a mais difícil.\nB\t Grafo, inserindo as tarefas da mais fácil para a mais difícil com nós e sem arestas.\nC\t Fila, inserindo as tarefas da mais fácil para a mais difícil.\nD\t Lista encadeada, inserindo, no início, as tarefas da mais fácil para a mais difícil.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19245,7 +19246,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516433"
+      "criado_em": "2026-08-25T14:53:23.720556"
     },
     {
       "id_questao": "q73",
@@ -19297,7 +19298,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516437"
+      "criado_em": "2026-08-25T14:53:23.720560"
     },
     {
       "id_questao": "q74",
@@ -19313,13 +19314,13 @@
           "x0": 25.0,
           "y0": 286.6591796875,
           "x1": 611.7199999999999,
-          "y1": 513.774658203125,
+          "y1": 529.4746704101562,
           "coluna": 0
         },
         {
           "pagina": 36,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 168.4859161376953,
           "coluna": 0
@@ -19329,9 +19330,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q74.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q74.txt",
       "largura": 2475,
-      "altura": 1350,
+      "altura": 1414,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 74\t\nNo contexto educacional, a aplicação dos princípios da arquitetura da informação em sites e Ambientes Virtuais de Aprendizagem \ncontribui para a promoção da autonomia dos estudantes, especialmente quando planejada de forma inclusiva e acessível. \nAvaliar a assimilação desses conceitos permite identificar se os estudantes conseguem aplicar critérios como hierarquia de \ninformação, estrutura navegável e coerência entre os elementos, o que é essencial para projetos educacionais acessíveis e em \nconformidade com as Políticas Públicas de Inclusão.\nInformation Architecture (IA) Study Guide. Disponível em: www.nngroup.com. Acesso em: 29 maio 2025 (adaptado).\nConsiderando os princípios de acessibilidade e inclusão, qual prática pedagógica é coerente com o uso de tecnologias assistivas \nem jogos educacionais?\nA\t Considerar jogos que promovam imersão sensorial por meio de elementos visuais e sonoros, atendendo um perfil padrão \nde estudante.\nB\t Selecionar jogos educacionais que permitam ajustes de navegação, suporte a leitores de tela e personalização de contraste \ne tamanho de fonte, ampliando as possibilidades de uso para públicos diversos.\nC\t Utilizar jogos digitais que apresentem apelo gráfico e narrativo, priorizando o engajamento e a experiência de jogo como \nfator principal dos processos de ensino e aprendizagem.\nD Incluir jogos educacionais com comandos táteis e visuais responsivos buscando atender à maioria dos usuários ainda que\n\nTexto para questões de 75 a 77\nUm professor de Computação está elaborando um plano de aula para turmas do Ensino Fundamental. Ao propor desafios \nque envolvem planejamento, construção e programação de robôs, os estudantes são incentivados a tomar decisões, resolver \nproblemas de forma colaborativa e refletir sobre seu processo de aprendizagem. Nesse sentido, metodologias ativas podem ser \nintegradas aos planos de aula para ampliar o engajamento e a responsabilidade dos estudantes sobre sua própria aprendizagem.",
+      "texto_completo": "QUESTÃO 74\t\nNo contexto educacional, a aplicação dos princípios da arquitetura da informação em sites e Ambientes Virtuais de Aprendizagem \ncontribui para a promoção da autonomia dos estudantes, especialmente quando planejada de forma inclusiva e acessível. \nAvaliar a assimilação desses conceitos permite identificar se os estudantes conseguem aplicar critérios como hierarquia de \ninformação, estrutura navegável e coerência entre os elementos, o que é essencial para projetos educacionais acessíveis e em \nconformidade com as Políticas Públicas de Inclusão.\nInformation Architecture (IA) Study Guide. Disponível em: www.nngroup.com. Acesso em: 29 maio 2025 (adaptado).\nConsiderando os princípios de acessibilidade e inclusão, qual prática pedagógica é coerente com o uso de tecnologias assistivas \nem jogos educacionais?\nA\t Considerar jogos que promovam imersão sensorial por meio de elementos visuais e sonoros, atendendo um perfil padrão \nde estudante.\nB\t Selecionar jogos educacionais que permitam ajustes de navegação, suporte a leitores de tela e personalização de contraste \ne tamanho de fonte, ampliando as possibilidades de uso para públicos diversos.\nC\t Utilizar jogos digitais que apresentem apelo gráfico e narrativo, priorizando o engajamento e a experiência de jogo como \nfator principal dos processos de ensino e aprendizagem.\nD\t Incluir jogos educacionais com comandos táteis e visuais responsivos, buscando atender à maioria dos usuários, ainda que \ncom limitações de adaptação a diferentes recursos de acessibilidade.\n\nTexto para questões de 75 a 77\nUm professor de Computação está elaborando um plano de aula para turmas do Ensino Fundamental. Ao propor desafios \nque envolvem planejamento, construção e programação de robôs, os estudantes são incentivados a tomar decisões, resolver \nproblemas de forma colaborativa e refletir sobre seu processo de aprendizagem. Nesse sentido, metodologias ativas podem ser \nintegradas aos planos de aula para ampliar o engajamento e a responsabilidade dos estudantes sobre sua própria aprendizagem.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19356,7 +19357,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516443"
+      "criado_em": "2026-08-25T14:53:23.720564"
     },
     {
       "id_questao": "q75",
@@ -19406,7 +19407,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516446"
+      "criado_em": "2026-08-25T14:53:23.720568"
     },
     {
       "id_questao": "q76",
@@ -19456,7 +19457,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516450"
+      "criado_em": "2026-08-25T14:53:23.720572"
     },
     {
       "id_questao": "q77",
@@ -19472,13 +19473,13 @@
           "x0": 25.0,
           "y0": 493.24810791015625,
           "x1": 611.7199999999999,
-          "y1": 642.2595825195312,
+          "y1": 657.9595947265625,
           "coluna": 0
         },
         {
           "pagina": 37,
           "x0": 25.0,
-          "y0": 82.57166290283203,
+          "y0": 83.01449584960938,
           "x1": 611.7199999999999,
           "y1": 204.4860382080078,
           "coluna": 0
@@ -19488,9 +19489,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q77.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q77.txt",
       "largura": 2475,
-      "altura": 1174,
+      "altura": 1238,
       "confianca": 0.98,
-      "texto_completo": "p\np\nQUESTÃO 77\t\nPensando em promover, nas turmas, o pensamento crítico sobre os impactos sociais da ciência e da tecnologia, qual objetivo \nde aprendizagem deve ser proposto pelo professor?\nA\t Discutir os fundamentos da robótica e sua evolução histórica, relacionando-os às transformações nos sistemas produtivos \ndesde a Revolução Industrial.\nB\t Desenvolver robôs com sensores de presença, utilizando kits educacionais, e analisar a eficiência dos projetos em simulações \nde linhas de montagem.\nC\t Analisar estudos de caso sobre automação e debater os efeitos da robótica nas relações de trabalho, na inclusão digital e \nna desigualdade social.\nD Apresentar diferentes tipos de robôs industriais e explicar os avanços obtidos em produtividade e desempenho nos setores\n\nTexto para questões de 78 a 80\nUm professor de Computação, que ministra disciplinas de Programação, percebeu a necessidade de usar linguagens \nde programação que promovam a aprendizagem dos conceitos básicos de orientação a objetos para estudantes do \nEnsino Fundamental. Para tornar o aprendizado mais lúdico e concreto, o professor propôs uma atividade em formato de \nteatro, ambientada em uma história de fantasia épica, na qual as batalhas ocorrem com movimentos dos personagens com \nbase em formas geométricas e os estudantes atuam como os personagens. Os estudantes receberiam cartões com informações \nde personagens, podendo descrever certas características e aspectos sobre a comunicação entre eles. Durante a encenação, os \nestudantes deveriam simular essas interações.",
+      "texto_completo": "p\np\nQUESTÃO 77\t\nPensando em promover, nas turmas, o pensamento crítico sobre os impactos sociais da ciência e da tecnologia, qual objetivo \nde aprendizagem deve ser proposto pelo professor?\nA\t Discutir os fundamentos da robótica e sua evolução histórica, relacionando-os às transformações nos sistemas produtivos \ndesde a Revolução Industrial.\nB\t Desenvolver robôs com sensores de presença, utilizando kits educacionais, e analisar a eficiência dos projetos em simulações \nde linhas de montagem.\nC\t Analisar estudos de caso sobre automação e debater os efeitos da robótica nas relações de trabalho, na inclusão digital e \nna desigualdade social.\nD\t Apresentar diferentes tipos de robôs industriais e explicar os avanços obtidos em produtividade e desempenho nos setores \nlogístico e automotivo.\n\nTexto para questões de 78 a 80\nUm professor de Computação, que ministra disciplinas de Programação, percebeu a necessidade de usar linguagens \nde programação que promovam a aprendizagem dos conceitos básicos de orientação a objetos para estudantes do \nEnsino Fundamental. Para tornar o aprendizado mais lúdico e concreto, o professor propôs uma atividade em formato de \nteatro, ambientada em uma história de fantasia épica, na qual as batalhas ocorrem com movimentos dos personagens com \nbase em formas geométricas e os estudantes atuam como os personagens. Os estudantes receberiam cartões com informações \nde personagens, podendo descrever certas características e aspectos sobre a comunicação entre eles. Durante a encenação, os \nestudantes deveriam simular essas interações.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19515,7 +19516,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516455"
+      "criado_em": "2026-08-25T14:53:23.720579"
     },
     {
       "id_questao": "q78",
@@ -19565,7 +19566,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516459"
+      "criado_em": "2026-08-25T14:53:23.720583"
     },
     {
       "id_questao": "q79",
@@ -19615,7 +19616,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516462"
+      "criado_em": "2026-08-25T14:53:23.720587"
     },
     {
       "id_questao": "q80",
@@ -19630,7 +19631,7 @@
           "x0": 25.0,
           "y0": 517.2482299804688,
           "x1": 611.7199999999999,
-          "y1": 578.0078125,
+          "y1": 633.9677734375,
           "coluna": 0
         }
       ],
@@ -19638,9 +19639,9 @@
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q80.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q80.txt",
       "largura": 2475,
-      "altura": 283,
+      "altura": 516,
       "confianca": 0.98,
-      "texto_completo": "j\n,\np\ng\nç\nQUESTÃO 80\t\nUma intervenção didática para explorar o conceito de generalização é distribuir cartões com os nomes Personagem, Mago e \nGuerreiro entre grupos de estudantes, solicitando que eles descrevam as ações mover, lançar feitiço e usar espada, de modo que",
+      "texto_completo": "j\n,\np\ng\nç\nQUESTÃO 80\t\nUma intervenção didática para explorar o conceito de generalização é distribuir cartões com os nomes Personagem, Mago e \nGuerreiro entre grupos de estudantes, solicitando que eles descrevam as ações mover, lançar feitiço e usar espada, de modo que\nA\t identifiquem quais ações são comuns a todos os personagens e quais são específicas de cada tipo.\nB\t atribuam todas as ações, mesmo que repetidas, a todos os personagens, ignorando suas diferenças.\nC\t concentrem todas as ações em um único cartão base para simplificar a organização.\nD\t escolham apenas um cartão para representar todas as ações, eliminando os demais.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19665,7 +19666,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:38:37.516466"
+      "criado_em": "2026-08-25T14:53:23.720591"
     }
   ],
   "anomalias": [

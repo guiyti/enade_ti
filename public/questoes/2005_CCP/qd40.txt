@@ -4,6 +4,7 @@ Com relação a essa situação,
 a) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) 
 b) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) 
 c) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme
+reservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)
 
 PERFIL DO CURSO
 OBJETIVAS

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 287.28,
-      "y1": 551.096435546875,
+      "y1": 552.096435546875,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q34.txt",
   "largura": 1123,
-  "altura": 2014,
+  "altura": 2018,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 34  \nO plano de negócios é um documento usado para \ndescrever um empreendimento e o modelo de negócios \nque sustentam a empresa. Sua elaboração envolve \num processo de aprendizagem e autoconhecimento \ne ainda permite ao empreendedor situar-se no seu \nambiente de negócios.\nDORNELAS, J. C. A. Empreendedorismo: transformando ideias em negócios. \nRio de Janeiro: Campus, 2001, p. 97\nA respeito do plano de negócios, avalie as seguintes \nasserções.\nO plano de negócios é importante para gerenciar de forma \nmais eficaz a empresa e tomar decisões acertadas e \nidentificar oportunidades e transformá-las em diferencial \ncompetitivo para a empresa\nPORQUE\npermite estabelecer comunicação interna eficaz na \nempresa e convencer o público-alvo externo: fornecedores, \nparceiros, clientes, bancos, investidores, etc. sobre os \nbenefícios e os custos do negócio.\nAcerca dessas asserções, assinale a opção correta\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   As duas asserções são proposições falsas.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:01.738810"
+  "criado_em": "2026-08-25T14:50:10.560245"
 }

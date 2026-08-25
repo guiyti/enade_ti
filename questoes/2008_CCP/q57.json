@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 431.68670654296875,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 709.0924682617188,
       "coluna": 1
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q57.txt",
   "largura": 1153,
-  "altura": 1476,
+  "altura": 1186,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 57\nDeseja-se projetar um bloco lógico do tipo look-up table que\nparte de um dispositivo lógico programável. O bloco ló\nilustrado abaixo, deve produzir em sua saída qualquer uma\ndiferentes funções lógicas possíveis envolvendo três entrad\ndados, dependendo dos valores lógicos aplicados a n s\nbinários de controle.\nPara esse bloco lógico, qual é o menor valor de n que pod\nusado para selecionar uma das diferentes funções ló\npossíveis?\nA\n4\nB\n8\nC\n16\nD\n256\nE\n65.536\nbloco\nlógico\n3 entradas de dados\nsaída\nn sinais de controle",
+  "texto_completo": "QUESTÃO 57\nDeseja-se projetar um bloco lógico do tipo look-up table que\nparte de um dispositivo lógico programável. O bloco ló\nilustrado abaixo, deve produzir em sua saída qualquer uma\ndiferentes funções lógicas possíveis envolvendo três entrad\ndados, dependendo dos valores lógicos aplicados a n s\nbinários de controle.\nPara esse bloco lógico, qual é o menor valor de n que pod\nusado para selecionar uma das diferentes funções ló\npossíveis?\nA\n4\nbloco\nlógico\n3 entradas de dados\nsaída\nn sinais de controle",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738921"
+  "criado_em": "2026-08-25T14:49:50.887184"
 }

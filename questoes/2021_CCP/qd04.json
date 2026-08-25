@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 402.0682373046875,
+      "y1": 403.0682373046875,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/qd04.txt",
   "largura": 2185,
-  "altura": 1393,
+  "altura": 1397,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO DISCURSIVA 04\t\nA soma de dois números binários é feita bit a bit, começando da direita (menos significativo) para a \nesquerda (mais significativo), passando o transporte, vai um (do inglês, carry out, representado na figura \ncomo Cout), para o bit seguinte como vem um (do inglês, carry in, representado na figura como Cin). \nUma forma simples de implementar um somador de N bits é implementar N somadores elementares de \n1 bit. Cada somador de um bit tem as entradas A, B e carry in (Cin) e as saídas Soma (S) e carry out (Cout).\nDELGADO, J.; RIBEIRO, C. Arquitetura de Computadores. Rio de Janeiro: LTC, 2009 (adaptado).\nNesse contexto, considere a figura a seguir.\nCom base no somador completo de 1-bit apresentado na figura, descreva sua tabela verdade e o diagrama \ndo seu circuito lógico. (valor: 10,0 pontos)\nSomador Completo\nde 1-bit\nEntradas\nSaídas\nS\nA\nB\nCin\nCout",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902036"
+  "criado_em": "2026-08-25T14:52:41.914618"
 }

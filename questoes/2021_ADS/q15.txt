@@ -149,19 +149,11 @@ Matri
 E
 Contato
 - descricao : String
-- numero : int
-Estudante
-- nascimento : Date
-Responsavel
 Pessoa
 - nome : String
 Matricu
 - data : D
 0..*
-0..*
-1..*
-1
-1
 
 seguir que exibe o Diagrama de Classes modelado 
 - dia : String

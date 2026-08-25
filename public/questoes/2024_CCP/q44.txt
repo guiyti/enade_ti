@@ -14,7 +14,8 @@ B	 pela analogia, a adição de novos institutos no campus universitário acarre
 distância (WAN).
 C	 os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores 
 estivessem conectados ao mesmo switch.
-D o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador
+D	 o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador 
+sem fio capaz de conectar diferentes tipos de dispositivos na mesma rede.
 
 Texto para questões de 45 a 47
 Em turmas de Educação Básica, a presença de estudantes neuroatípicos exige que o planejamento de ensino seja sensível à 

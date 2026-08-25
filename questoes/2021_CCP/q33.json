@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 574.9666137695312,
+      "y1": 575.9666137695312,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q33.txt",
   "largura": 2185,
-  "altura": 2114,
+  "altura": 2118,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 33\t\nA linguagem PROLOG pertence ao paradigma da programação lógica, no qual a lógica proposicional e \nalgorítmica pode ser expressa na forma de descritores de fatos e regras de produção de respostas. No contexto \nda árvore genealógica de uma família, analise a seguinte base de fatos descrita em linguagem Prolog.\npaide(ana,francisco).\npaide(maria,francisco).\npaide(luiz,francisco).\nmaede(jose,maria).\nmaede(angelica,ana).\npaide(luiza,luiz).\npaide(joaquim,luiz).\nhomem(francisco).\nhomem(jose).\nhomem(luiz).\nhomem(joaquim).\nmulher(ana).\nmulher(maria).\nmulher(angelica).\nmulher(luiza)\nQual regra lógica de produção está corretamente escrita para verificar uma das situações lógicas em que \nduas pessoas são irmãs?\nA\t saoirmas(X,Y):-paide(X,P), paide(Y,P), X\\=Y.\nB\t saoirmas(X,Y):-paide(X,P), paide(Y,P), X\\=Y, mulher(X).\nC\t saoirmas(X,Y):-paide(X,P), paide(Y,P), X\\=Y, mulher(X,Y).\nD\t saoirmas(X,Y):-paide(X,P), paide(Y,P), X\\=Y, mulher(X), mulher(Y).\nE\t saoirmas(X,Y):-paide(X,P), maede(Y,M), X\\=Y, mulher(X), mulher(Y).",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902170"
+  "criado_em": "2026-08-25T14:52:41.914905"
 }

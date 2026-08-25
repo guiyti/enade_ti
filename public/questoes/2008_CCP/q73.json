@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 294.59999999999997,
-      "y1": 627.750732421875,
+      "y1": 628.750732421875,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q73.txt",
   "largura": 1153,
-  "altura": 2334,
+  "altura": 2338,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 73\nUma das técnicas que auxiliam na gerência de projet\nde software é o gráfico de atividades, por meio do qual\npossível calcular, por exemplo, a duração de um projeto, \natividades críticas e as atividades que possuem folga para s\nexecução. Nesse gráfico, os círculos representam os event\niniciais e finais de cada atividade, as arestas representam \natividades, e os números associados às arestas representa\na duração dessas atividades.\nTabela de custo de aceleração\natividade\nunidades de\naceleração\npermitidas\ncusto de aceleração por\nunidade de tempo (R$)\nC-F\n2\n50\nD-E\n1\n300\nE-F\n2\n100\nE-G\n1\n80\nE- H\n2\n75\nF- H\n2\n85\nConsiderando-se o gráfico de atividades acima e a tabela d\ncusto de aceleração das atividades da rede que podem s\naceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) pa\nque o tempo do projeto associado a esse gráfico seja reduzid\nem uma unidade de tempo e para que o custo total d\naceleração seja o menor possível?\nA\napenas a atividade (C-F)\nB\napenas as atividades (D-E) e (E-G)\nC\napenas a atividade (E-G) \nD\napenas as atividades (E-G) e (F-H)\nE\napenas a atividade (E-H)",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738994"
+  "criado_em": "2026-08-25T14:49:50.887252"
 }

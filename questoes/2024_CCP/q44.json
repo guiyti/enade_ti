@@ -12,13 +12,13 @@
       "x0": 25.0,
       "y0": 83.01449584960938,
       "x1": 611.7199999999999,
-      "y1": 644.2908935546875,
+      "y1": 659.9909057617188,
       "coluna": 0
     },
     {
       "pagina": 26,
       "x0": 25.0,
-      "y0": 82.57166290283203,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 168.4859161376953,
       "coluna": 0
@@ -28,9 +28,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q44.txt",
   "largura": 2475,
-  "altura": 2743,
+  "altura": 2807,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 44\t\nUm professor explicou que o campus universitário contém dois institutos envolvendo áreas distintas do conhecimento e que \nficam geograficamente afastados. Há o Instituto de Ciências Exatas com os cursos de Matemática e de Computação, e o Instituto \nde Ciências Humanas com os cursos de História e Filosofia. Cada curso possui um laboratório de informática, os quais são \nconectados por meio de switches e roteadores. O professor desenhou no quadro a topologia da rede da universidade como \nmostra a figura. O objetivo era simular como eram feitas as transmissões dos dados na rede de computadores da universidade.\nPara fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, cada laboratório representaria \numa rede local (Local Area Network — LAN), cada instituto separadamente comporia uma rede metropolitana (Metropolitan \nArea Network — MAN) e a rede de todo o campus universitário se assemelharia a uma rede de longa distância (Wide Area \nNetwork — WAN).\nEm relação à classificação de redes de computadores e a topologia na figura, afirma-se que\nA\t o laboratório de informática do curso de Matemática deixaria de ser uma LAN, caso tivesse um único computador.\nB\t pela analogia, a adição de novos institutos no campus universitário acarretaria no surgimento de mais uma rede de longa \ndistância (WAN).\nC\t os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores \nestivessem conectados ao mesmo switch.\nD o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador\n\nTexto para questões de 45 a 47\nEm turmas de Educação Básica, a presença de estudantes neuroatípicos exige que o planejamento de ensino seja sensível à \ndiversidade cognitiva. Dentre os principais desafios enfrentados pelos professores, está a promoção de práticas pedagógicas \nque considerem diferentes modos de aprender, exigindo a integração consciente de tecnologias e linguagens variadas no \nprocesso educativo.",
+  "texto_completo": "QUESTÃO 44\t\nUm professor explicou que o campus universitário contém dois institutos envolvendo áreas distintas do conhecimento e que \nficam geograficamente afastados. Há o Instituto de Ciências Exatas com os cursos de Matemática e de Computação, e o Instituto \nde Ciências Humanas com os cursos de História e Filosofia. Cada curso possui um laboratório de informática, os quais são \nconectados por meio de switches e roteadores. O professor desenhou no quadro a topologia da rede da universidade como \nmostra a figura. O objetivo era simular como eram feitas as transmissões dos dados na rede de computadores da universidade.\nPara fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, cada laboratório representaria \numa rede local (Local Area Network — LAN), cada instituto separadamente comporia uma rede metropolitana (Metropolitan \nArea Network — MAN) e a rede de todo o campus universitário se assemelharia a uma rede de longa distância (Wide Area \nNetwork — WAN).\nEm relação à classificação de redes de computadores e a topologia na figura, afirma-se que\nA\t o laboratório de informática do curso de Matemática deixaria de ser uma LAN, caso tivesse um único computador.\nB\t pela analogia, a adição de novos institutos no campus universitário acarretaria no surgimento de mais uma rede de longa \ndistância (WAN).\nC\t os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores \nestivessem conectados ao mesmo switch.\nD\t o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador \nsem fio capaz de conectar diferentes tipos de dispositivos na mesma rede.\n\nTexto para questões de 45 a 47\nEm turmas de Educação Básica, a presença de estudantes neuroatípicos exige que o planejamento de ensino seja sensível à \ndiversidade cognitiva. Dentre os principais desafios enfrentados pelos professores, está a promoção de práticas pedagógicas \nque considerem diferentes modos de aprender, exigindo a integração consciente de tecnologias e linguagens variadas no \nprocesso educativo.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516191"
+  "criado_em": "2026-08-25T14:53:23.720430"
 }

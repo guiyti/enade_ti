@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 555.56,
-      "y1": 488.5917053222656,
+      "y1": 489.5917053222656,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.txt",
   "largura": 2241,
-  "altura": 1753,
+  "altura": 1758,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:20.232331"
+  "criado_em": "2026-08-25T14:50:27.656543"
 }

@@ -8,7 +8,8 @@ B	 Solicitar que todos os estudantes escrevam uma função recursiva e expliquem
 exemplos matemáticos previamente trabalhados em sala.
 C	 Aplicar um teste com questões objetivas que envolvam a análise de funções recursivas, sem contextualização, para 
 mensurar a habilidade técnica de cada estudante.
-D Dividir a turma em grupos homogêneos por desempenho aplicando uma única tarefa escrita padrão com base em códigos
+D	 Dividir a turma em grupos homogêneos por desempenho, aplicando uma única tarefa escrita padrão com base em códigos 
+recursivos resolvidos em aula.
 
 Texto para questões de 48 a 51
 Duas escolas, A e B, localizadas em regiões diferentes, 

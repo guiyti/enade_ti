@@ -9,7 +9,7 @@
     {
       "pagina": 2,
       "x0": 25.0,
-      "y0": 82.57166290283203,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 546.0209350585938,
       "coluna": 0
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q01.txt",
   "largura": 2475,
-  "altura": 1961,
+  "altura": 1960,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 01\t\nTEXTO 1\nDisponível em: www.educadorinclusivo.org.br. Acesso em: 15 ago. 2025 (adaptado).\nTEXTO 2\nEm uma sala de aula do Ensino Fundamental, uma turma recebeu um estudante surdo e que se comunicava por meio da Língua \nBrasileira de Sinais (Libras). Considerando que o professor regente não era fluente em Libras, para garantir a participação do \nestudante nas atividades, a escola contratou um intérprete que adaptava e conduzia as atividades pedagógicas com o estudante \nsem a participação do professor.\nAo relacionar a situação descrita no Texto 2 com a figura apresentada no Texto 1, conclui-se que está ocorrendo um processo de\nA\t exclusão, pois o professor não dialoga diretamente com o estudante surdo.\nB\t segregação, porque a turma não consegue se comunicar com o estudante surdo.\nC\t inclusão, porque o estudante surdo participa regularmente das aulas com a turma.\nD\t integração, porque o intérprete estabelece uma relação individual com o estudante surdo.",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.515995"
+  "criado_em": "2026-08-25T14:53:23.716202"
 }

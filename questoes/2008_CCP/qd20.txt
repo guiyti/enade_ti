@@ -2,13 +2,11 @@ E
 Tanto a primeira quanto a segunda asserções são proposições falsas.
 QUESTÃO 20 – DISCURSIVA
 Tabelas de dispersão (tabelas
-h
-h)
-l
-t
+hash) armazenam elementos com
 Com relação à aplicação descrita, faça o que se pede a seguir.
 A Escreva, no espaço reservado, o conjunto das chaves envolvidas em
 colisões.
+(valor: 4,0 pontos)
 
 1 – A seguir serão apresentadas questões de Múltipla Escolha e Discursivas específicas
 para as modalidades dos cursos de computação, assim distribuídas:

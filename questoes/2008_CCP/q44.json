@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q44.txt",
   "largura": 1153,
-  "altura": 2963,
+  "altura": 2967,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 44\nConsidere um banco de dados relacional que contém\nas seguintes tabelas, em que o grifo representa a chave\nprimeira da tabela\nProdutos (idProduto, descricao, valorUnitario)\nEstoque (idFilial, idProduto, quantidade)\nA tabela Produtos é populada com aproximadamente\n10.000 registros, enquanto a tabela Estoque é populada\ncom aproximadamente 100.000 registros. Para escrever\numa consulta em SQL que determine o valor total das\nmercadorias em estoque de uma filial cujo identificador é\nigual a 132, pode-se usar uma das duas codificações\napresentadas a seguir.\nConsulta 1\nSELECT \nSUM(valorUnitario * quantidade)\nFROM \nEstoque, Produtos\nWHERE \nEstoque.idFilial = 132 AND \nProdutos.idProduto = Estoque.idProduto\nConsulta 2\nSELECT \nSUM(valorUnitario * quantidade)\nFROM \nProdutos, Estoque\nWHERE \nEstoque.idFilial = 132 AND \nProdutos.idProduto = Estoque.idProduto\nA partir dessas informações e considerando que a tabela\nEstoque possua um índice sobre a coluna idFilial,\nanalise as seguintes asserções.\nO processamento da Consulta 1 tem melhor desempenho\nque o da Consulta 2\nporque\na quantidade de registros processados na consulta 1 é, no\npior caso, igual a 10.000, enquanto o pior caso na consulta\n2 terá (10.000)2 registros.\nAssinale a opção correta a respeito dessas asserções.\nA\nAs duas asserções são proposições verdadeiras, e a\nsegunda é uma justificativa correta da primeira.\nB\nAs duas asserções são proposições verdadeiras, mas\na segunda não é justificativa correta da primeira.\nC\nA primeira asserção é uma proposição verdadeira, e a\nsegunda, uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e a\nsegunda, uma proposição verdadeira.\nE\nTanto a primeira quanto a segunda asserções são\nproposições falsas.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738864"
+  "criado_em": "2026-08-25T14:49:50.887132"
 }

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 547.8467407226562,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q65.txt",
   "largura": 1153,
-  "altura": 992,
+  "altura": 996,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 65\nConsidere os seguintes itens: (i) características do produto;\n(ii) o modelo de maturidade e capacidade; (iii) o paradigma\ne os métodos de desenvolvimento. A quais níveis de\nabstração \nde \nprocessos \nesses \nitens \nestão,\nrespectivamente, associados?\nA\nprocesso padrão, processo especializado e processo\ninstanciado\nB\nprocesso padrão, processo instanciado e processo\nespecializado\nC\nprocesso instanciado, processo padrão e processo\nespecializado\nD\nprocesso instanciado, processo especializado e\nprocesso padrão\nE\nprocesso especializado, processo padrão e processo\ninstanciado",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738959"
+  "criado_em": "2026-08-25T14:49:50.887218"
 }

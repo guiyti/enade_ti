@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 620.518310546875,
+      "y1": 621.518310546875,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q14.txt",
   "largura": 2185,
-  "altura": 2304,
+  "altura": 2308,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 14\t\nO primeiro computador criado foi o ENIAC (Electronic Numerical Integrator And Computer), desenvolvido \npor Eckert e Mauchly na Universidade da Pennsylvania, Estados Unidos. O projeto iniciou-se em 1943, \nfinanciado pelo governo americano. O período era da Segunda Guerra Mundial e o objetivo era poder \ncalcular de forma mais ágil as melhores trajetórias para transporte de armas e mantimentos em meio aos \nexércitos inimigos. Esse é o tipo de cálculo que pequenos aparelhos celulares fazem hoje para encontrar \nrotas nas cidades por meio de GPS (Global Positioning System) e análise de mapa. O projeto só foi concluído \nem 1946, tarde demais para ser utilizado para a Segunda Guerra, mas foi bastante utilizado até 1955.\nMuitos projetos surgiram depois do ENIAC, mas eles eram barrados por algumas dificuldades e limitações, \ncomo por exemplo, o fato de não serem programados e trabalharem com números decimais. O problema \nde trabalhar com decimais é que cada algarismo armazenado possui 10 estados possíveis, representando os \nnúmeros de 0 a 9. Dentro de um sistema eletrônico, isso é complicado por que a carga de cada dispositivo, \nseja transistor, seja válvula, deveria ser medida para se verificar que número ela estava representando. \nOs erros eram muito frequentes. Bastava que uma válvula estivesse fora da temperatura ideal para que \nos resultados das operações começassem a sair errado. Von Neumann recomendou, então, que, em sua \narquitetura, os dados e instruções passasem a ser armazenados em código binário, facilitando a análise \ndos mesmos e reduzindo a quantidade de erros.\nBRITO, A. V. Introdução a Arquitetura de Computadores. UFPB Virtual, 2020. Disponível em: http://producao.virtual.ufpb.br/. \nAcesso em: 05 maio 2020 (adaptado).\nAcerca da arquitetura de Von Neumann, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t Embora as arquiteturas de computadores tenham evoluído muito do ENIAC aos modernos \nnotebooks de hoje, a arquitetura de Von Neumann, conceito da década de 1950, tem se mantido \naté os dias atuais.\nPORQUE\nII.\t A arquitetura de Von Neumann permite que a CPU realize a busca de uma ou mais instruções além da \npróxima a ser executada; essa técnica é utilizada para acelerar a velocidade de operação da CPU, \numa vez que a próxima instrução a ser executada está normalmente armazenada nos registradores \nda CPU e não precisa ser buscada da memória principal, que é muito mais lenta.\nA respeito dessas asserções, assinale a opção correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.\nA asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902073"
+  "criado_em": "2026-08-25T14:52:41.914650"
 }

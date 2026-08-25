@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 555.56,
-      "y1": 281.51458740234375,
+      "y1": 282.51458740234375,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.txt",
   "largura": 2241,
-  "altura": 891,
+  "altura": 895,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO DISCURSIVA 3 \n \nOs números de Fibonacci correspondem à uma sequência infi nita na \nqual os dois primeiros termos são 0 e 1. Cada termo da sequência, \nà exceção dos dois primeiros, é igual à soma dos dois anteriores, \nconforme a relação de recorrência abaixo.\nDesenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n > 0, retorna o n-ésimo termo \nda sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:20.232249"
+  "criado_em": "2026-08-25T14:50:27.656476"
 }

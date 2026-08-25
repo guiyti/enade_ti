@@ -11,7 +11,7 @@
       "x0": 293.28,
       "y0": 75.0,
       "x1": 555.56,
-      "y1": 477.83380126953125,
+      "y1": 478.83380126953125,
       "coluna": 2
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.txt",
   "largura": 1123,
-  "altura": 1709,
+  "altura": 1713,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 10\nEm determinado período letivo, cada estudante de um \ncurso universitário tem aulas com um de três professores, \nesses identifi cados pelas letras X, Y e Z. As quantidades \nde estudantes (homens e mulheres) que têm aulas com \ncada professor é apresentada na tabela de contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nEstudantes \nhomens\n45\n5\n32\nEstudantes \nmulheres\n67\n2\n4\nA partir do grupo de estudantes desse curso universitário, \nescolhe-se um estudante ao acaso. Qual é a probabilidade \nde que esse estudante seja mulher, dado que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nD    \n22\n112\nE    \n67\n112",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:35:20.232146"
+  "criado_em": "2026-08-25T14:50:27.656393"
 }

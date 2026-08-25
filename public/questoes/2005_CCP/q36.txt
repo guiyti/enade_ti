@@ -16,21 +16,9 @@ Após testes, João verificou que a saída do circuito é 0 para
 todos os valores de entrada, exceto para o valor 2.
 Qual das expressões a seguir representa adequadamente o circuito
 analisado por João?
-0
-1
-A x and (not x )
-0
-1
-B (not x ) or (not x )
-0
-1
-C (not x ) and x
-0
-1
-D x and x
-0
-1
-E x or (not x )
+A
+d (
+)
 
 TI examinou a seguinte planilha sobre andamento de
 projetos.

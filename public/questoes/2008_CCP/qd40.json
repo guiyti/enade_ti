@@ -12,7 +12,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 294.59999999999997,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 1
     },
     {
@@ -20,7 +20,7 @@
       "x0": 300.59999999999997,
       "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 140.37274169921875,
+      "y1": 157.43869018554688,
       "coluna": 2
     },
     {
@@ -36,9 +36,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd40.txt",
   "largura": 2302,
-  "altura": 3620,
+  "altura": 3696,
   "confianca": 0.9,
-  "texto_completo": "QUESTÃO 40 – DISCURSIVA\nO banco de dados de um sistema de controle\nbancário implementado por meio de um SGBD relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentadas a seguir, em que a chave primária da\nrelação é grifada.\nCliente(nroCliente, nome, endereco,\ndata_nascimento, renda, idade)\nPara essa relação, foram criados dois índices\nsecundários: IndiceIdade, para o atributo idade, e\nIndiceRenda, para o atributo renda. Existe um tipo de\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos de 40 anos de idade quanto aqueles que\npossuem renda mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão de\nconsulta em SQL foi utilizada:\nSELECT nome, endereco\nFROM Cliente\nWHERE idade < 40 OR renda > 30000;\nCom o aumento do número de clientes desse\nbanco, essa consulta passou a apresentar problemas de\ndesempenho. Verificou-se, então, que o otimizador de\nconsultas não considerava os índices existentes para\nidade e renda, e a consulta era realizada mediante\nvarredura seqüencial na relação Cliente, tornando essa\nconsulta onerosa. O plano de execução da consulta,\nusado pelo otimizador, é apresentado na árvore de\nconsulta abaixo, na qual B e F representam as operações\nde projeção e de seleção, respectivamente.\nPara que o otimizador de consultas passasse a\nutilizar os índices, a solução encontrada foi elaborar a\nconsulta em dois blocos separados — um que recupera os\nclientes com idade inferior a 40 anos, e outro que\nrecupera os clientes com renda mensal superior a 30.000\nreais — para, então, juntar as tuplas das duas relações\ngeradas.\nnome,endereco\nB\nidade\n40 OR renda\n30000\n < \n < \nF\nCliente\n\nConsiderando a situação apresentada, faça o que se pede\na seguir.\nA Escreva o código de uma consulta em SQL que\ncorresponda à solução proposta.\n\nAs questões de 41 a 60, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nENGENHARIA DE COMPUTAÇÃO.",
+  "texto_completo": "QUESTÃO 40 – DISCURSIVA\nO banco de dados de um sistema de controle\nbancário implementado por meio de um SGBD relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentadas a seguir, em que a chave primária da\nrelação é grifada.\nCliente(nroCliente, nome, endereco,\ndata_nascimento, renda, idade)\nPara essa relação, foram criados dois índices\nsecundários: IndiceIdade, para o atributo idade, e\nIndiceRenda, para o atributo renda. Existe um tipo de\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos de 40 anos de idade quanto aqueles que\npossuem renda mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão de\nconsulta em SQL foi utilizada:\nSELECT nome, endereco\nFROM Cliente\nWHERE idade < 40 OR renda > 30000;\nCom o aumento do número de clientes desse\nbanco, essa consulta passou a apresentar problemas de\ndesempenho. Verificou-se, então, que o otimizador de\nconsultas não considerava os índices existentes para\nidade e renda, e a consulta era realizada mediante\nvarredura seqüencial na relação Cliente, tornando essa\nconsulta onerosa. O plano de execução da consulta,\nusado pelo otimizador, é apresentado na árvore de\nconsulta abaixo, na qual B e F representam as operações\nde projeção e de seleção, respectivamente.\nPara que o otimizador de consultas passasse a\nutilizar os índices, a solução encontrada foi elaborar a\nconsulta em dois blocos separados — um que recupera os\nclientes com idade inferior a 40 anos, e outro que\nrecupera os clientes com renda mensal superior a 30.000\nreais — para, então, juntar as tuplas das duas relações\ngeradas.\nnome,endereco\nB\nidade\n40 OR renda\n30000\n < \n < \nF\nCliente\n\nConsiderando a situação apresentada, faça o que se pede\na seguir.\nA Escreva o código de uma consulta em SQL que\ncorresponda à solução proposta.\n(valor: 5,0 pontos)\n\nAs questões de 41 a 60, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nENGENHARIA DE COMPUTAÇÃO.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -63,5 +63,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.738845"
+  "criado_em": "2026-08-25T14:49:50.887116"
 }

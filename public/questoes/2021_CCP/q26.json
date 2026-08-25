@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 477.2929992675781,
+      "y1": 478.2929992675781,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q26.txt",
   "largura": 2185,
-  "altura": 1707,
+  "altura": 1711,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 26\t\nAs interfaces adaptativas realizam as adaptações e personalizações de forma automática e dinâmica \ndurante o processo de navegação, com base na aprendizagem da navegação e da interação do usuário. \nTécnicas de interfaces adaptativas podem ser utilizadas para adaptar interfaces às preferências do usuário, \nà sua capacidade cognitiva e ao seu estilo de navegação, tornando as interações mais naturais e atrativas. \nEssas técnicas de adaptação podem ser empregadas tanto para a reorganização dos objetos no ambiente, \ncomo para alterar a forma de apresentar informações. As adaptações podem ocorrer em diferentes níveis \nou de diferentes formas: adaptação de conteúdo, adaptação da navegação e adaptação da apresentação \ndo conteúdo. Cada um desses níveis de adaptação possui métodos e técnicas de adaptação próprios.\n NIENOW, A. L. Interfaces adaptativas no comércio eletrônico como facilitadoras da inclusão digital de idosos. \nRevista Tecnologia e Tendências, v. 9, n. 2, p. 116-136, 2017 (adaptado).\nConsiderando a construção de interfaces adaptativas na interação homem-computador, avalie as \nafirmações a seguir quanto aos níveis e técnicas de adaptação.\nI.\t No nível de conteúdo, podem-se considerar as técnicas de fragmentos de texto, fragmentos \ncondicionais, páginas variantes e abordagem baseada em frames.\nII.\t No nível de navegação, podem-se considerar as técnicas de layouts de página e guias de estilos.\nIII.\t No nível de apresentação, podem-se considerar as técnicas de orientação direta, anotação de links, \napresentação e ocultação e ordenação de links.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902134"
+  "criado_em": "2026-08-25T14:52:41.914701"
 }

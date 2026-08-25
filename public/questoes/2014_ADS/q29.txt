@@ -57,7 +57,6 @@ adicional, double desconto){
 24
 return this.getSalario() + adicional - desconto;
 
-3
 hƟůŝǌĂŶĚŽ  Ă  ĞŶŐĞŶŚĂƌŝĂ  ƌĞǀĞƌƐĂ  ŶĞƐƐĞ  ƚƌĞĐŚŽ  ĚĞ 
 ĐſĚŝŐŽ͕  Ž ĚŝĂŐƌĂŵĂ hD> ĚĞ ĐůĂƐƐĞƐ ĐŽƌƌĞƐƉŽŶĚĞŶƚĞ Ġ
 A

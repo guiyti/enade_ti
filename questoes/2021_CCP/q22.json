@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 627.9705200195312,
+      "y1": 675.0025024414062,
       "coluna": 0
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q22.txt",
   "largura": 2185,
-  "altura": 2335,
+  "altura": 2531,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22\t\nUma Organização Não Governamental (ONG), relacionada à causa animal, registra os pets (animais de \nestimação) amparados por ela, de acordo com o seguinte Diagrama Entidade Relacionamento (DER).\nA partir das regras de mapeamento do Modelo Conceitual para o Modelo Lógico Relacional, assinale o \nEsquema Relacional mais adequado a ser gerado. Considere que as chaves primárias estão sublinhadas.\nA\t PESSOA(cpf: texto, nome: texto)\n\t\nTIPO_PET(codigo: inteiro, descricao: texto)\n\t\nPET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, adotante: texto) \n\t\n  codigo_tipo_pet referencia TIPO_PET(codigo)\n\t\n  adotante referencia PESSOA(cpf)\nB\t PET(codigo: inteiro, nome: texto, data_nascimento: data)\n\t\nPESSOA(cpf: texto, nome: texto, codigo_pet: inteiro) \n\t\n  codigo_pet referencia PET(codigo)\n\t\nTIPO_PET(codigo: inteiro, descricao: texto, codigo_pet: inteiro) \n\t\n  codigo_pet referencia PET(codigo)\nC\t TIPO_PET(codigo: inteiro, descricao: texto)\n\t\nPET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro)  \n\t\n  codigo_tipo_pet referencia TIPO_PET(codigo)\n\t\nPESSOA(cpf: texto, nome: texto, codigo_pet: inteiro)  \n\t\n  codigo_pet referencia PET(codigo)\nD\t PET_PESSOA(codigo_pet: inteiro, nome_pet: texto, data_nascimento: data, cpf: texto, nome_pessoa: \ntexto, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto)\nE PESSOA(cpf: texto, nome: texto)\ncpf\nPESSOA\n(1,1)\n(0,n)\n(1,n)\n(1,1)\nadotar\ncodigo\ndescricao\nnome\ndata_nascimento\ncodigo\nPET\npertencer\nTIPO_PET\nnome",
+  "texto_completo": "QUESTÃO 22\t\nUma Organização Não Governamental (ONG), relacionada à causa animal, registra os pets (animais de \nestimação) amparados por ela, de acordo com o seguinte Diagrama Entidade Relacionamento (DER).\nA partir das regras de mapeamento do Modelo Conceitual para o Modelo Lógico Relacional, assinale o \nEsquema Relacional mais adequado a ser gerado. Considere que as chaves primárias estão sublinhadas.\nA\t PESSOA(cpf: texto, nome: texto)\n\t\nTIPO_PET(codigo: inteiro, descricao: texto)\n\t\nPET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, adotante: texto) \n\t\n  codigo_tipo_pet referencia TIPO_PET(codigo)\n\t\n  adotante referencia PESSOA(cpf)\nB\t PET(codigo: inteiro, nome: texto, data_nascimento: data)\n\t\nPESSOA(cpf: texto, nome: texto, codigo_pet: inteiro) \n\t\n  codigo_pet referencia PET(codigo)\n\t\nTIPO_PET(codigo: inteiro, descricao: texto, codigo_pet: inteiro) \n\t\n  codigo_pet referencia PET(codigo)\nC\t TIPO_PET(codigo: inteiro, descricao: texto)\n\t\nPET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro)  \n\t\n  codigo_tipo_pet referencia TIPO_PET(codigo)\n\t\nPESSOA(cpf: texto, nome: texto, codigo_pet: inteiro)  \n\t\n  codigo_pet referencia PET(codigo)\nD\t PET_PESSOA(codigo_pet: inteiro, nome_pet: texto, data_nascimento: data, cpf: texto, nome_pessoa: \ntexto, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto)\nE\t PESSOA(cpf: texto, nome: texto)\n\t\nPET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, descricao_tipo_pet, \n\t\nadotante: texto)  \n\t\n  adotante referencia PESSOA(cpf)\ncpf\nPESSOA\n(1,1)\n(0,n)\n(1,n)\n(1,1)\nadotar\ncodigo\ndescricao\nnome\ndata_nascimento\ncodigo\nPET\npertencer\nTIPO_PET\nnome",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:37:55.902115"
+  "criado_em": "2026-08-25T14:52:41.914685"
 }

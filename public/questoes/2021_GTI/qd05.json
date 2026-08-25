@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 332.13623046875,
+      "y1": 333.13623046875,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/qd05.txt",
   "largura": 2185,
-  "altura": 1102,
+  "altura": 1106,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO DISCURSIVA 05\t\nHá alguns anos, uma empresa automobilística enfrentava, nos Estados Unidos, um problema com \na gestão de dados. Os computadores da empresa geravam grandes quantidades de relatórios, mas \nnenhum direcionamento. Com isso, a administração da empresa era incapaz de exercer controle \nsobre todos esses documentos e, como consequência, não conseguia adotar estratégias e tomar \ndecisões data-oriented. Além disso, os números que apareciam nos documentos não eram exatos, \no que prejudicava também o setor de logística da empresa. A empresa, então, decidiu implementar o \nBusiness Intelligence (BI). O resultado foi impressionante. A Chief Information Officer (CIO) detectou que \nera necessário um data warehouse, isto é: um repositório central de dados históricos, com acesso ágil \nvia web. Além disso, foram adotadas novas ferramentas para efetuar o processamento, a exploração \ne a manipulação desses dados, por meio de um sistema em tempo real. Em pouco tempo, a empresa \nconseguiu otimizar o custo de fabricação dos automóveis e os fluxos de trabalho dos funcionários. \nO retorno sobre o investimento é o que mais impressiona: 506%.\nTURBAN, E. et al. Business Intelligence: um enfoque gerencial para inteligência do negócio. Porto Alegre: Bookman, 2009 (adaptado).\nConsiderando a situação apresentada e a importância do BI nas organizações, elenque dois objetivos \ndiretos que podem ser alcançados com um projeto. (valor: 10,0 pontos)",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426213"
+  "criado_em": "2026-08-25T14:53:01.382685"
 }

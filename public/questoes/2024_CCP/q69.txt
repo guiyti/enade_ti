@@ -4,6 +4,10 @@ g , p
 )
 QUESTÃO 69	
 A simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?
+A	 Vazão, maximizando o número de processos executados por instante de tempo.
+B	 Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.
+C	 Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.
+D	 Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.
 
 Texto para questões de 70 a 72
 Um professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de 

@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 778.6522827148438,
+      "y1": 779.6522827148438,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd80.txt",
   "largura": 2302,
-  "altura": 2963,
+  "altura": 2967,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 80 – DISCURSIVA\n0..*\nDurante a análise de um sistema de controle de contas bancárias (SCCB), um analista elaborou\no diagrama de classes acima, em que são especificados os objetos de negócio da aplicação, por meio\ndo qual foram distribuídas as responsabilidades e colaborações entre os elementos do modelo. Foi\natribuída a outro analista a tarefa de elaborar o diagrama de seqüência do caso de uso chamado\nDUPLA_CONTA, que apresenta o seguinte comportamento: cria um banco, cria uma agência bancária,\ncria um cliente e duas contas bancárias associadas ao cliente e agência bancária anteriormente\ncriados, e, por fim, realiza uma transferência de valores entre essas duas contas bancárias. O\ndiagrama de seqüência em UML apresentado abaixo foi elaborado com o intuito de corresponder ao\ncaso de uso em questão.",
   "texto_enunciado": "",
@@ -47,5 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:34:41.739027"
+  "criado_em": "2026-08-25T14:49:50.887281"
 }

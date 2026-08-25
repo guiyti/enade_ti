@@ -1,29 +1,23 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { 
-  ArrowLeft, 
-  ArrowRight, 
   ZoomIn, 
   ZoomOut, 
   Maximize, 
   Minimize, 
-  RotateCcw, 
   X, 
   FileText, 
-  ImageIcon, 
-  Sparkles,
   ChevronLeft,
   ChevronRight,
   Tag,
-  BookOpen,
-  Eye,
-  FileCode
+  BookOpen
 } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { TagEditor } from "@/components/TagEditor";
+import { getPresentationContext, type PlaylistItem } from "@/lib/presentationContext";
 
 interface PresentationViewerProps {
   exam: ExamData;
@@ -37,10 +31,10 @@ interface PresentationViewerProps {
 export function PresentationViewer({
   exam,
   question,
-  currentIndex,
-  totalQuestions,
-  prevQuestionId,
-  nextQuestionId,
+  currentIndex: defaultIndex,
+  totalQuestions: defaultTotal,
+  prevQuestionId: defaultPrevId,
+  nextQuestionId: defaultNextId,
 }: PresentationViewerProps) {
   const router = useRouter();
   const [zoomLevel, setZoomLevel] = useState(1);
@@ -48,6 +42,49 @@ export function PresentationViewer({
   const [showSidePanel, setShowSidePanel] = useState(false);
   const [activeTab, setActiveTab] = useState<"text" | "tags">("tags");
   
+  // Presentation Context (Playlist & Return URL)
+  const [playlist, setPlaylist] = useState<PlaylistItem[] | null>(null);
+  const [returnUrl, setReturnUrl] = useState<string | null>(null);
+
+  // Load presentation context from sessionStorage on mount
+  useEffect(() => {
+    const ctx = getPresentationContext();
+    if (ctx.playlist && ctx.playlist.length > 0) {
+      setPlaylist(ctx.playlist);
+    }
+    if (ctx.returnUrl) {
+      setReturnUrl(ctx.returnUrl);
+    }
+  }, []);
+
+  // Compute active navigation based on playlist (if present) or default exam
+  const { currentIndex, totalQuestions, prevUrl, nextUrl, isPlaylistActive } = useMemo(() => {
+    if (playlist && playlist.length > 0) {
+      const idx = playlist.findIndex(
+        (item) => item.id_prova === exam.id_prova && item.id_questao === question.id_questao
+      );
+      if (idx !== -1) {
+        const prevItem = idx > 0 ? playlist[idx - 1] : null;
+        const nextItem = idx < playlist.length - 1 ? playlist[idx + 1] : null;
+        return {
+          currentIndex: idx,
+          totalQuestions: playlist.length,
+          prevUrl: prevItem ? `/docente/apresentacao/${prevItem.id_prova}/${prevItem.id_questao}` : null,
+          nextUrl: nextItem ? `/docente/apresentacao/${nextItem.id_prova}/${nextItem.id_questao}` : null,
+          isPlaylistActive: true,
+        };
+      }
+    }
+
+    return {
+      currentIndex: defaultIndex,
+      totalQuestions: defaultTotal,
+      prevUrl: defaultPrevId ? `/docente/apresentacao/${exam.id_prova}/${defaultPrevId}` : null,
+      nextUrl: defaultNextId ? `/docente/apresentacao/${exam.id_prova}/${defaultNextId}` : null,
+      isPlaylistActive: false,
+    };
+  }, [playlist, exam.id_prova, question.id_questao, defaultIndex, defaultTotal, defaultPrevId, defaultNextId]);
+
   // Full Page Context Modal State
   const [showFullPageModal, setShowFullPageModal] = useState(false);
   const [fullPageNum, setFullPageNum] = useState<number>(question.paginas[0] || 1);
@@ -59,25 +96,25 @@ export function PresentationViewer({
   }, [question]);
 
   const handleExit = () => {
-    if (typeof window !== "undefined" && window.history.length > 1) {
-      router.back();
+    if (returnUrl) {
+      router.push(returnUrl);
     } else {
-      router.push("/docente");
+      router.push(`/docente/prova/${exam.id_prova}`);
     }
   };
 
   // Keyboard navigation
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Don't trigger shortcuts if typing inside an input
+      // Don't trigger shortcuts if typing inside an input or textarea
       if (document.activeElement?.tagName === "INPUT" || document.activeElement?.tagName === "TEXTAREA") {
         return;
       }
 
-      if (e.key === "ArrowLeft" && !showFullPageModal && prevQuestionId) {
-        router.push(`/docente/apresentacao/${exam.id_prova}/${prevQuestionId}`);
-      } else if (e.key === "ArrowRight" && !showFullPageModal && nextQuestionId) {
-        router.push(`/docente/apresentacao/${exam.id_prova}/${nextQuestionId}`);
+      if (e.key === "ArrowLeft" && !showFullPageModal && prevUrl) {
+        router.push(prevUrl);
+      } else if (e.key === "ArrowRight" && !showFullPageModal && nextUrl) {
+        router.push(nextUrl);
       } else if (e.key === "f" || e.key === "F") {
         toggleFullscreen();
       } else if (e.key === "Escape") {
@@ -93,7 +130,7 @@ export function PresentationViewer({
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [prevQuestionId, nextQuestionId, exam.id_prova, isFullscreen, showFullPageModal, router]);
+  }, [prevUrl, nextUrl, isFullscreen, showFullPageModal, router, returnUrl, exam.id_prova]);
 
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
@@ -120,7 +157,7 @@ export function PresentationViewer({
           <button
             onClick={handleExit}
             className="p-2 rounded-lg bg-slate-800 text-slate-300 hover:text-white hover:bg-slate-700 transition-colors"
-            title="Sair do modo apresentação (Voltar à tela anterior)"
+            title="Sair do modo apresentação (Retornar à galeria filtrada)"
           >
             <X className="w-5 h-5" />
           </button>
@@ -136,6 +173,7 @@ export function PresentationViewer({
             </div>
             <p className="text-[11px] text-slate-400">
               {exam.id_prova} · Questão {currentIndex + 1} de {totalQuestions}
+              {isPlaylistActive && " (Filtro Ativo)"}
             </p>
           </div>
         </div>
@@ -226,9 +264,9 @@ export function PresentationViewer({
 
         {/* Right: Quick Question Navigator */}
         <div className="flex items-center gap-2">
-          {prevQuestionId ? (
+          {prevUrl ? (
             <Link
-              href={`/docente/apresentacao/${exam.id_prova}/${prevQuestionId}`}
+              href={prevUrl}
               className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-xs font-bold text-slate-200 transition-colors"
               title="Questão Anterior (Seta Esquerda)"
             >
@@ -242,9 +280,9 @@ export function PresentationViewer({
             </span>
           )}
 
-          {nextQuestionId ? (
+          {nextUrl ? (
             <Link
-              href={`/docente/apresentacao/${exam.id_prova}/${nextQuestionId}`}
+              href={nextUrl}
               className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg bg-sky-600 hover:bg-sky-500 text-xs font-bold text-white transition-colors"
               title="Próxima Questão (Seta Direita)"
             >

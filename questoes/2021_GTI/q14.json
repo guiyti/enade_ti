@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 719.76,
+      "y1": 684.0999755859375,
       "coluna": 0
     }
   ],
@@ -19,9 +19,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q14.txt",
   "largura": 2185,
-  "altura": 2717,
+  "altura": 2569,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 14\t\nA estrutura lógica global de um banco de dados pode ser expressa graficamente por um diagrama de \nentidades (representado por retângulos), por relacionamentos (representados por losangos) e pelos \natributos de cada entidade ou relacionamento por meio de elipses (notação Peter Chen).\nA conectividade descreve as restrições no mapeamento das associações existentes entre as ocorrências \nde entidades em um relacionamento. Os valores de conectividade estão sempre entre um ou muitos em \num dos lados do relacionamento.\nMACHADO, F. N. R. Banco de Dados: projeto e implementação. São Paulo: Érica, p. 74, 2020 (adaptado).\nA partir das informações do texto, considere que uma empresa mantém o controle de seus pedidos em \numa planilha eletrônica, armazenando as informações de clientes, pedidos e produtos conforme a figura \na seguir.\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nCliente CPF Endereço Telefone Nro Pedido Data Valor Total Pedido Nro Item Pedido Produto Qtd Valor unitário\nCom o crescimento das vendas, a empresa decidiu migrar as informações para um banco de dados e \nutilizar um sistema para o cadastro dos pedidos.\nDiante do exposto, assinale a alternativa que apresenta corretamente o diagrama da estrutura lógica do \nbanco de dados a ser implementado na empresa, seguindo regras de normalização.\nA\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\nN\nN\nB\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\n1\nN\nC\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\n1\nD\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\nN\nE\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\n1\nN\nN",
+  "texto_completo": "QUESTÃO 14\t\nA estrutura lógica global de um banco de dados pode ser expressa graficamente por um diagrama de \nentidades (representado por retângulos), por relacionamentos (representados por losangos) e pelos \natributos de cada entidade ou relacionamento por meio de elipses (notação Peter Chen).\nA conectividade descreve as restrições no mapeamento das associações existentes entre as ocorrências \nde entidades em um relacionamento. Os valores de conectividade estão sempre entre um ou muitos em \num dos lados do relacionamento.\nMACHADO, F. N. R. Banco de Dados: projeto e implementação. São Paulo: Érica, p. 74, 2020 (adaptado).\nA partir das informações do texto, considere que uma empresa mantém o controle de seus pedidos em \numa planilha eletrônica, armazenando as informações de clientes, pedidos e produtos conforme a figura \na seguir.\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nCliente CPF Endereço Telefone Nro Pedido Data Valor Total Pedido Nro Item Pedido Produto Qtd Valor unitário\nCom o crescimento das vendas, a empresa decidiu migrar as informações para um banco de dados e \nutilizar um sistema para o cadastro dos pedidos.\nDiante do exposto, assinale a alternativa que apresenta corretamente o diagrama da estrutura lógica do \nbanco de dados a ser implementado na empresa, seguindo regras de normalização.\nA\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\nN\nN\nB\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\n1\nN\nC\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\n1\nD\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\nN",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426239"
+  "criado_em": "2026-08-25T14:53:01.382709"
 }

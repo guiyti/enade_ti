@@ -12,13 +12,13 @@
       "x0": 25.0,
       "y0": 286.6591796875,
       "x1": 611.7199999999999,
-      "y1": 513.774658203125,
+      "y1": 529.4746704101562,
       "coluna": 0
     },
     {
       "pagina": 36,
       "x0": 25.0,
-      "y0": 82.57166290283203,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 168.4859161376953,
       "coluna": 0
@@ -28,9 +28,9 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q74.txt",
   "largura": 2475,
-  "altura": 1350,
+  "altura": 1414,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 74\t\nNo contexto educacional, a aplicação dos princípios da arquitetura da informação em sites e Ambientes Virtuais de Aprendizagem \ncontribui para a promoção da autonomia dos estudantes, especialmente quando planejada de forma inclusiva e acessível. \nAvaliar a assimilação desses conceitos permite identificar se os estudantes conseguem aplicar critérios como hierarquia de \ninformação, estrutura navegável e coerência entre os elementos, o que é essencial para projetos educacionais acessíveis e em \nconformidade com as Políticas Públicas de Inclusão.\nInformation Architecture (IA) Study Guide. Disponível em: www.nngroup.com. Acesso em: 29 maio 2025 (adaptado).\nConsiderando os princípios de acessibilidade e inclusão, qual prática pedagógica é coerente com o uso de tecnologias assistivas \nem jogos educacionais?\nA\t Considerar jogos que promovam imersão sensorial por meio de elementos visuais e sonoros, atendendo um perfil padrão \nde estudante.\nB\t Selecionar jogos educacionais que permitam ajustes de navegação, suporte a leitores de tela e personalização de contraste \ne tamanho de fonte, ampliando as possibilidades de uso para públicos diversos.\nC\t Utilizar jogos digitais que apresentem apelo gráfico e narrativo, priorizando o engajamento e a experiência de jogo como \nfator principal dos processos de ensino e aprendizagem.\nD Incluir jogos educacionais com comandos táteis e visuais responsivos buscando atender à maioria dos usuários ainda que\n\nTexto para questões de 75 a 77\nUm professor de Computação está elaborando um plano de aula para turmas do Ensino Fundamental. Ao propor desafios \nque envolvem planejamento, construção e programação de robôs, os estudantes são incentivados a tomar decisões, resolver \nproblemas de forma colaborativa e refletir sobre seu processo de aprendizagem. Nesse sentido, metodologias ativas podem ser \nintegradas aos planos de aula para ampliar o engajamento e a responsabilidade dos estudantes sobre sua própria aprendizagem.",
+  "texto_completo": "QUESTÃO 74\t\nNo contexto educacional, a aplicação dos princípios da arquitetura da informação em sites e Ambientes Virtuais de Aprendizagem \ncontribui para a promoção da autonomia dos estudantes, especialmente quando planejada de forma inclusiva e acessível. \nAvaliar a assimilação desses conceitos permite identificar se os estudantes conseguem aplicar critérios como hierarquia de \ninformação, estrutura navegável e coerência entre os elementos, o que é essencial para projetos educacionais acessíveis e em \nconformidade com as Políticas Públicas de Inclusão.\nInformation Architecture (IA) Study Guide. Disponível em: www.nngroup.com. Acesso em: 29 maio 2025 (adaptado).\nConsiderando os princípios de acessibilidade e inclusão, qual prática pedagógica é coerente com o uso de tecnologias assistivas \nem jogos educacionais?\nA\t Considerar jogos que promovam imersão sensorial por meio de elementos visuais e sonoros, atendendo um perfil padrão \nde estudante.\nB\t Selecionar jogos educacionais que permitam ajustes de navegação, suporte a leitores de tela e personalização de contraste \ne tamanho de fonte, ampliando as possibilidades de uso para públicos diversos.\nC\t Utilizar jogos digitais que apresentem apelo gráfico e narrativo, priorizando o engajamento e a experiência de jogo como \nfator principal dos processos de ensino e aprendizagem.\nD\t Incluir jogos educacionais com comandos táteis e visuais responsivos, buscando atender à maioria dos usuários, ainda que \ncom limitações de adaptação a diferentes recursos de acessibilidade.\n\nTexto para questões de 75 a 77\nUm professor de Computação está elaborando um plano de aula para turmas do Ensino Fundamental. Ao propor desafios \nque envolvem planejamento, construção e programação de robôs, os estudantes são incentivados a tomar decisões, resolver \nproblemas de forma colaborativa e refletir sobre seu processo de aprendizagem. Nesse sentido, metodologias ativas podem ser \nintegradas aos planos de aula para ampliar o engajamento e a responsabilidade dos estudantes sobre sua própria aprendizagem.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:37.516443"
+  "criado_em": "2026-08-25T14:53:23.720564"
 }

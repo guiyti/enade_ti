@@ -11,7 +11,7 @@
       "x0": 25.0,
       "y0": 75.0,
       "x1": 542.12,
-      "y1": 635.0886840820312,
+      "y1": 636.0886840820312,
       "coluna": 0
     }
   ],
@@ -19,7 +19,7 @@
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q16.txt",
   "largura": 2185,
-  "altura": 2364,
+  "altura": 2369,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 16\t\nTEXTO I\nO desenvolvimento da Tecnologia da Informação desencadeou o crescimento exponencial do volume \nde dados. Diante desse cenário, o desafio principal é identificar, ao longo do processo de tomada de \ndecisão estratégica, os dados com verdadeiro potencial de geração de valor à organização e, neste caso, \nentende-se como geração de valor o potencial agregado em vantagem competitiva. Conseguinte, \na Ciência de Dados contribui para a consolidação do espaço significativo e importante para a \nracionalização da tomada de decisão, ferramentas e filosofias inovadoras relativas ao Big Data espelham \na maneira de dirigir a organização.\nSILVA, R. S.; PALLETA, F. C. Big Data e a informação pública: suporte à tomada de decisão estratégica. \nRevista Inteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (adaptado).\nTEXTO II\nA mente humana realiza tarefas complexas com um poder superior aos computadores, ou seja, \ntrata-se de um processo racional e lógico. Contudo, seus mecanismos de funcionamento são \nincompreendidos. A tomada de decisão depende dos dados que a suportam, todavia, a qualidade \ndos dados seja fundamental, não é condição suficiente. Outro fator de influência direta na tomada de \ndecisão, é a interpretação dos dados pela mente humana e seus processos cognitivos característicos.\nBAZERMAN, M. H.; MOORE, D. A. Processo Decisório. 8. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).\nLevando em consideração os textos apresentados, avalie as afirmações a seguir.\nI.\t Em um processo de tomada de decisão, quanto mais informação o gestor tiver, melhor serão suas \nescolhas.\nII.\t As abordagens visuais são relevantes para compreensão de uma informação e, por consequência, \npara a tomada de decisão. \nIII.\t O indivíduo analisa a informação para orientar a tomada de decisão a partir de seu próprio \nconjunto de processos cognitivos, assim, a forma pela qual um dado é apresentado não influencia \na tomada de decisão.\nIV.\t A tomada de decisão pode ser prejudicada por vieses heurísticos, ou seja, por processos cognitivos \nempregados em decisões não racionais, definidos como estratégias que ignoram parte da \ninformação a fim de tornar a escolha fácil e rápida.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e IV.\nC\t III e IV.\nD\t I, II e III.\nE\t I, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:38:16.426247"
+  "criado_em": "2026-08-25T14:53:01.382717"
 }
