@@ -11,10 +11,10 @@ __pycache__/
 .coverage
 htmlcov/
 
-# Logs & Processing Caches (Full-page renders)
-logs/
-cache/
-paginas/
+# Logs & Processing Caches (Full-page renders root cache)
+/logs/
+/cache/
+/paginas/
 *.log
 
 # macOS & OS Metadata
