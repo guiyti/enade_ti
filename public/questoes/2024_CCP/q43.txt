@@ -1,0 +1,16 @@
+QUESTÃO 43	
+Com base na situação-problema, a turma foi dividida para representar a estrutura física da rede:
+•	Alguns estudantes seguram switches de papelão;
+•	Outros estudantes são computadores;
+•	Barbantes conectam os estudantes representando cabos de rede;
+•	Dois alunos representam os switches antigos da escola;
+•	Um grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.
+Qual alternativa apresenta a melhor descrição da rede representada pelos estudantes?
+A	 A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.
+B	 A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros 
+da cidade.
+C	 A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.
+D A rede simulada é uma LAN pois os estudantes representaram uma conexão entre diversos setores da escola com switches
+
+2025
+*R0404202525*

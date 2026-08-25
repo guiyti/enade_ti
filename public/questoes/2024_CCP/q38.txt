@@ -1,0 +1,25 @@
+,
+g
+g
+QUESTÃO 38	
+Ao escolher Objetos de Aprendizagem, o professor pode planejar o uso de
+A	 jogos sérios, usando vídeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final de cada 
+etapa da atividade.
+B	 softwares educacionais, estruturando um enredo, com uso de storytelling, contendo explicações visuais sobre lógica algorítmica, 
+exercícios e feedback automático.
+C	 jogos sérios, selecionando objetos com elementos gráficos e instruções guiadas sobre a construção de fluxogramas, 
+utilizados para modelar a lógica algorítmica.
+D softwares educacionais utilizando uma plataforma de exercícios com trilhas de aprendizagem sobre lógica algorítmica
+
+2025
+Texto para questões 39 e 40
+Um professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar 
+o planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento 
+para a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.
+Para que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:
+1.	Envio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;
+2.	Realização da atividade em sala;
+3.	Compartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;
+4.	Pesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou 
+estruturas baseadas em características e comportamentos.
+*R0404202523*

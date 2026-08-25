@@ -1,0 +1,48 @@
+{
+  "id_questao": "q34",
+  "numero": 34,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    43
+  ],
+  "segmentos": [
+    {
+      "pagina": 43,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 471.43438720703125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q34.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q34.txt",
+  "largura": 2185,
+  "altura": 1724,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 34\t\nO algoritmo de Dijkstra para o problema do caminho mínimo em dígrafos com pesos utiliza uma fila \nde prioridades de vértices, na qual as prioridades são uma estimativa do custo final. A cada iteração, \num vértice é retirado da fila, e os arcos que começam nesse vértice são analisados. Considere o seguinte \ngrafo, no qual deseja-se conhecer o custo de um caminho mínimo para cada vértice, a partir do vértice D. \nConsidere que -1 representa um custo “infinito”, ou seja, nenhum caminho até o vértice foi até o \nmomento descoberto.\n  \n5\n2\n8\n1\n9\n1\n3\n5\n1\n1\n5\nA\nB\nC\nF\nD\nG\nE\nCom base nas informações e no grafo apresentados, assinale a alternativa que representa a estimativa \nde custo após duas iterações do algoritmo. \nA\t A: 5 B: 6 C: 10 D: 0 E: 4 F: 1 G: -1\nB\t A: 5 B: 9 C: -1 D: 0 E: 5 F: 1 G: -1\nC\t A: 5 B: 9 C: -1 D: 0 E: 4 F: 1 G: 2\nD\t A: 5 B: 7 C: 8 D: 0 E: 4 F: 1 G: 2\nE\t A: 5 B: 6 C: 8 D: 0 E: 3 F: 1 G: 2",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "pagina": 43,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 34"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:20.187154"
+}

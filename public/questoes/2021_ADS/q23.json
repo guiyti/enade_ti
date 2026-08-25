@@ -1,0 +1,48 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    31
+  ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q23.txt",
+  "largura": 2185,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 23\t\nA evolução de sistemas de software legados pode ser dividida em três categorias: manutenção, \nmodernização e substituição. De acordo com a figura a seguir, conforme o tempo aumenta, a quantidade \nde funcionalidades também cresce. No primeiro período de evolução a manutenção é realizada, pois as \nnecessidades de negócio são alteradas e o sistema precisa suprir as mudanças por meio da manutenção. \nNo segundo período é realizada a modernização do sistema, pois as necessidades de negócio continuam \na crescer, mas há mudanças mais significativas que se fazem necessárias. Além da substituição do sistema \nde software, nos casos em que o modelo de negócio não atende mais a necessidade da empresa, \na manutenção e modernização também não são mais suficientes.\nSoftware é\nconstruído\nModernização\nSubstituição\ndo software\nManutenção\ndo segundo\nsoftware\nTempo\nFuncionalidade\nSoftware  1\nSoftware  2\nNecessidades de Negócio\nSegundo\nperíodo de\nmanutenção\nManutenção\nSEACORD, R. C.; PLAKOSH, D.; LEWIS, G. A. Modernizing Legancy Systems. Boston: Pearson Education, 2003 (adaptado).\nDe acordo com a figura apresentada e considerando um sistema de software implantado de ERP (Enterprise \nResource Planning - Planejamento de Recursos Empresariais) contendo um conjunto de módulos que \nintegra todos os departamentos existentes de uma empresa, observou-se a necessidade de criação de um \nrelatório gerencial de comissão da equipe de vendas. Nesse contexto, é correto afirmar que a manutenção \na ser realizada é\nA\t corretiva.\nB\t evolutiva.\nC\t funcional.\nD\t preventiva.\nE\t adaptativa.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710838"
+}

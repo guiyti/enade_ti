@@ -1,0 +1,48 @@
+{
+  "id_questao": "q08",
+  "numero": 8,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    6
+  ],
+  "segmentos": [
+    {
+      "pagina": 6,
+      "x0": 25.0,
+      "y0": 188.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 296.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q08.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q08.txt",
+  "largura": 2475,
+  "altura": 482,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 08\t\nCom base na situação descrita, a ação educativa que intervém concretamente no contexto escolar é \nA\t realizar um levantamento sobre o desperdício na alimentação escolar e divulgá-lo em um evento científico.\nB\tmapear os locais de descarte de alimentos e elaborar uma redação sobre o uso dos resíduos gerados.\nC\tpesquisar o uso de adubos orgânicos e analisar dados estatísticos sobre os benefícios da compostagem.\nD\t organizar uma oficina para o reaproveitamento de alimentos e acompanhar as mudanças comportamentais na escola.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 8,
+      "tipo": "OBJETIVA",
+      "pagina": 6,
+      "x": 64.6063003540039,
+      "y": 200.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 215.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 08"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490745"
+}

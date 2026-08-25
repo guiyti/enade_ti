@@ -1,0 +1,24 @@
+Á
+E Todos os itens estão certos.
+QUESTÃO 57
+A escolha de uma boa representação de conhecimento é tarefa
+fundamental na resolução de problemas que envolvem
+inteligência artificial. Acerca desse assunto, assinale a opção
+correta.
+A O encadeamento regressivo, por utilizar busca em largura
+para resolução de conflitos, é menos usado que o progressivo.
+B O encadeamento progressivo utiliza busca gulosa para fazer
+a comparação entre os fatos armazenados na memória de
+trabalho do sistema e os antecedentes das regras a disparar.
+C As redes semânticas, mecanismo mais expressivo que a
+lógica de primeira ordem, foram desenvolvidas para se
+superar uma dificuldade dos sistemas embasados em lógica
+de representar categorias.
+D A representação de conhecimento frames é uma boa
+alternativa para esse tipo de problema, por incluir, além de
+um mecanismo de inferência semanticamente bem definido,
+mecanismos de encapsulamento e componentes, comuns ao
+paradigma orientado a objeto. 
+E Tanto redes semânticas quanto frames representam
+facilmente conhecimento estrutural, comportamental e
+procedural.

@@ -1,0 +1,37 @@
+E
+,
+QUESTÃO 10  
+Várias 
+técnicas 
+relacionadas 
+à 
+programação 
+extrema (XP) são diretamente ligadas ao código, 
+incluindo a refatoração, programação em pares e 
+integração contínua. A programação em pares é a 
+prática preferida dos desenvolvedores XP trabalhando 
+em pares em um computador. 
+SCOTT, K. O Processo Unificado Explicado. Porto Alegre: Artmed, 2002.
+BECK, K. Programação Extrema (XP) Explicada. Porto Alegre: Artmed, 2000.
+A programação em pares auxilia no desenvolvimento de 
+código de melhor qualidade quando os pares
+A   elaboram 
+e 
+utilizam 
+padrões 
+de 
+codificação 
+conjuntamente, os quais, quando utilizados corretamente 
+e apropriadamente, reduzem problemas individuais.
+B   estão acostumados ao desenvolvimento e à propriedade 
+coletiva, limitando-se a fazer pequenas mudanças na 
+ocorrência de erros em tempo de execução.
+C   minimizam os riscos de insucesso no projeto através 
+da utilização de ferramentas para a geração automática 
+de testes funcionais e protótipos de interface.
+D   escrevem testes em separado e discutem os resultados 
+posteriormente, o que dá a eles a chance de se 
+sintonizarem antes de começarem a implementação.
+E   trabalham em projetos complexos onde a codificação 
+seja desenvolvida de forma conjunta, minimizando erros 
+e agregando valor onde quer que o sistema necessite.

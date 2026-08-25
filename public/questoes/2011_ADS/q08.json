@@ -1,0 +1,48 @@
+{
+  "id_questao": "q08",
+  "numero": 8,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    6
+  ],
+  "segmentos": [
+    {
+      "pagina": 6,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 538.6409912109375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q08.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q08.txt",
+  "largura": 2241,
+  "altura": 2040,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 8 \nEm reportagem, Owen Jones, autor do livro Chavs: a difamação da classe trabalhadora, publicado no Reino \nUnido, comenta as recentes manifestações de rua em Londres e em outras principais cidades inglesas.\nJones prefere chamar atenção para as camadas sociais mais desfavorecidas do país, que desde o início dos \ndistúrbios, ficaram conhecidas no mundo todo pelo apelido chavs, usado pelos britânicos para escarnecer dos hábitos \nde consumo da classe trabalhadora. Jones denuncia um sistemático abandono governamental dessa parcela da \npopulação: “Os políticos insistem em culpar os indivíduos pela desigualdade”, diz. (...) “você não vai ver alguém assumir \nser um chav, pois se trata de um insulto criado como forma de generalizar o comportamento das classes mais baixas. \nMeu medo não é o preconceito e, sim, a cortina de fumaça que ele oferece. Os distúrbios estão servindo como o \nargumento ideal para que se faça valer a ideologia de que os problemas sociais são resultados de defeitos individuais, \nnão de falhas maiores. Trata-se de uma filosofia que tomou conta da sociedade britânica com a chegada de Margaret \nThatcher ao poder, em 1979, e que basicamente funciona assim: você é culpado pela falta de oportunidades. (...) Os \npolíticos insistem em culpar os indivíduos pela desigualdade”.\nSuplemento  Prosa & Verso, O Globo, Rio de Janeiro, 20 ago. 2011, p. 6 (adaptado).\nConsiderando as ideias do texto, avalie as afirmações a seguir.\nI. \nChavs é um apelido que exalta hábitos de consumo de parcela da população britânica.\nII. Os distúrbios ocorridos na Inglaterra serviram para atribuir deslizes de comportamento individual como causas \nde problemas sociais.\nIII. Indivíduos da classe trabalhadora britânica são responsabilizados pela falta de oportunidades decorrente da \nausência de políticas públicas.\nIV. As manifestações de rua na Inglaterra reivindicavam formas de inclusão nos padrões de consumo vigente.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e IV.\nC   II e III.\nD   I, III e IV.\nE   II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 8,
+      "tipo": "OBJETIVA",
+      "pagina": 6,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 94.71319580078125,
+      "y1": 82.03392791748047,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 8"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235111"
+}

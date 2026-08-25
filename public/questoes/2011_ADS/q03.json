@@ -1,0 +1,48 @@
+{
+  "id_questao": "q03",
+  "numero": 3,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    3
+  ],
+  "segmentos": [
+    {
+      "pagina": 3,
+      "x0": 25.0,
+      "y0": 55.890419006347656,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q03.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q03.txt",
+  "largura": 1123,
+  "altura": 2857,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 3 \nA cibercultura pode ser vista como herdeira legítima \n(embora distante) do projeto progressista dos filósofos \ndo século XVII. De fato, ela valoriza a participação das \npessoas em comunidades de debate e argumentação. \nNa linha reta das morais da igualdade, ela incentiva uma \nforma de reciprocidade essencial nas relações humanas. \nDesenvolveu-se a partir de uma prática assídua de trocas \nde informações e conhecimentos, coisa que os filósofos \ndo Iluminismo viam como principal motor do progresso. \n(...) A cibercultura não seria pós-moderna, mas estaria \ninserida perfeitamente na continuidade dos ideais \nrevolucionários e republicanos de liberdade, igualdade e \nfraternidade. A diferença é apenas que, na cibercultura, \nesses “valores” se encarnam em dispositivos técnicos \nconcretos. Na era das mídias eletrônicas, a igualdade se \nconcretiza na possibilidade de cada um transmitir a todos; \na liberdade toma forma nos softwares de codificação e no \nacesso a múltiplas comunidades virtuais, atravessando \nfronteiras, enquanto a fraternidade, finalmente, se traduz \nem interconexão mundial.\nLEVY, P. Revolução virtual. Folha de S. Paulo. \nCaderno Mais, 16 ago. 1998, p.3 (adaptado).\nO desenvolvimento de redes de relacionamento por meio \nde computadores e a expansão da Internet abriram novas \nperspectivas para a cultura, a comunicação e a educação. \nDe acordo com as ideias do texto acima, a cibercultura\nA   representa uma modalidade de cultura pós-moderna \nde liberdade de comunicação e ação.\nB   constituiu \nnegação \ndos \nvalores \nprogressistas \ndefendidos pelos filósofos do Iluminismo.\nC   banalizou a ciência ao disseminar o conhecimento nas \nredes sociais.\nD   valorizou o isolamento dos indivíduos pela produção \nde softwares de codificação.\nE   incorpora valores do Iluminismo ao favorecer o \ncompartilhamento de informações e conhecimentos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "tipo": "OBJETIVA",
+      "pagina": 3,
+      "x": 34.1431999206543,
+      "y": 67.89041900634766,
+      "x1": 94.71319580078125,
+      "y1": 81.75041961669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 3"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235090"
+}

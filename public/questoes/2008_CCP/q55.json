@@ -1,0 +1,48 @@
+{
+  "id_questao": "q55",
+  "numero": 55,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    23
+  ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 66.52682495117188,
+      "x1": 570.1999999999999,
+      "y1": 311.43072509765625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q55.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q55.txt",
+  "largura": 2302,
+  "altura": 1050,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 53\nUm sinal a ser registrado por um dispositivo, em intervalos\nregulares de tempo t = 1, 2, 3, ..., n, resultará em uma seqüência\nde variáveis aleatórias contínuas X1, X2, ..., Xn. Considere, nessa\nseqüência, os eventos A e B apresentados a seguir, em que\nt = 2, 3, ..., n – 1.\nA = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0\nB = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0\nNa hipótese de a seqüência X1, X2, ..., Xn ser independente e que\nseja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes\nitens.\nI\nA probabilidade de ocorrer o evento A em uma subseqüência\n{Xt – 1, Xt, Xt + 1} é inferior a 0,3.\nII\nO número esperado das ocorrências dos eventos A ou B na\nseqüência X1, X2, ..., Xn é igual a \n.\nIII Os eventos A e B são mutuamente exclusivos e, por isso, são\nQUESTÃO 55\nConsidere que um sistema seja constituído por três\ncomponentes montados em paralelo que funcionam\nindependentemente. \nPara \ncada \num \ndesses\ncomponentes, a probabilidade de que uma falha\nocorra até o tempo t é dada por \n, em que\nt > 0. Os componentes, após falharem, são\nirrecuperáveis. Como os componentes estão\nmontados em paralelo, o sistema falha no instante\nem que todos os três componentes tiverem falhado.\nO sistema é também irrecuperável. Considerando a\nsituação apresentada, qual é a probabilidade de que\no sistema falhe até o tempo t ?\nA\nB\nC\nD\nE",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 55,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 332.1590881347656,
+      "y": 78.52682495117188,
+      "x1": 401.5223083496094,
+      "y1": 89.56682586669922,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 55"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229398"
+}

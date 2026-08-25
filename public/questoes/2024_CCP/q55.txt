@@ -1,0 +1,12 @@
+QUESTÃO 55	
+Uma abordagem que use a metodologia de programação por pares e permita promover a compreensão do conceito de divisão 
+e conquista deve apresentar
+A	 o passo a passo do algoritmo; organizar os estudantes em pares e propor que investiguem como dividir o problema em 
+partes menores; resolver cada uma separadamente e depois combinar os resultados compreendendo, na prática, a técnica 
+de divisão e conquista.
+B	 o pseudocódigo do algoritmo; explicar detalhadamente sua lógica e a técnica de divisão e conquista; dividir os estudantes 
+em pares e propor que eles implementem o algoritmo em uma linguagem de programação e simulem sua execução.
+C	 o roteiro com os passos da técnica de divisão e conquista; organizar os estudantes em pares e orientar que escrevam um 
+pseudocódigo do algoritmo e simulem manualmente a execução com vetores pequenos e previamente definidos.
+D	 o mecanismo do algoritmo, utilizando como exemplo vetores simples previamente definidos; dividir os estudantes em pares 
+e propor exercícios para que simulem a ordenação de vetores mais complexos, com elementos desorganizados.

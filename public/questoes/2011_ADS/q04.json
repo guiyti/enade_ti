@@ -1,0 +1,48 @@
+{
+  "id_questao": "q04",
+  "numero": 4,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    3
+  ],
+  "segmentos": [
+    {
+      "pagina": 3,
+      "x0": 293.28,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q04.txt",
+  "largura": 1123,
+  "altura": 2855,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 4 \nCom o advento da República, a discussão sobre a questão \neducacional torna-se pauta significativa nas esferas dos \nPoderes Executivo e Legislativo, tanto no âmbito Federal \nquanto no Estadual. Já na Primeira República, a expansão \nda demanda social se propaga com o movimento da escola-\nnovista; no período getulista, encontram-se as reformas \nde Francisco Campos e Gustavo Capanema; no momento \nde crítica e balanço do pós-1946, ocorre a promulgação \nda primeira Lei de Diretrizes e Bases da Educação \nNacional, em 1961. É somente com a Constituição de \n1988, no entanto, que os brasileiros têm assegurada a \neducação de forma universal, como um direito de todos, \ntendo em vista o pleno desenvolvimento da pessoa no que \nse refere a sua preparação para o exercício da cidadania \ne sua qualificação para o trabalho. O artigo 208 do texto \nconstitucional prevê como dever do Estado a oferta da \neducação tanto a crianças como àqueles que não tiveram \nacesso ao ensino em idade própria à escolarização cabida. \nNesse contexto, avalie as seguintes asserções e a relação \nproposta entre elas.\nA relação entre educação e cidadania se estabelece na \nbusca da universalização da educação como uma das \ncondições necessárias para a consolidação da democracia \nno Brasil.\nPORQUE\nPor meio da atuação de seus representantes nos Poderes \nExecutivos e Legislativo, no decorrer do século XX, \npassou a ser garantido no Brasil o direito de acesso à \neducação, inclusive aos jovens e adultos que já estavam \nfora da idade escolar.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas são proposições verdadeiras, e a segunda é \numa justificativa correta da primeira.\nB   As duas são proposições verdadeiras, mas a segunda \nnão é uma justificativa correta da primeira.\nC   A primeira é uma proposição verdadeira, e a segunda, falsa.\nD   A primeira é uma proposição falsa, e a segunda, verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 3,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 362.91790771484375,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 4"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235095"
+}

@@ -1,0 +1,48 @@
+{
+  "id_questao": "q20",
+  "numero": 20,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    13
+  ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 25.0,
+      "y0": 383.780517578125,
+      "x1": 611.7199999999999,
+      "y1": 499.90960693359375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q20.txt",
+  "largura": 2475,
+  "altura": 514,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 20\t\nUma professora organiza um conjunto de ações para discussão crítica de aspectos relacionados às questões ambientais abordadas \nnos textos 1 e 2. Para isso, ela planeja atividades como\nA\t palestras com rappers na escola; e listagem dos objetivos da COP30 no quadro.\nB\t leitura coletiva dos textos; e fichamento das ideias centrais e secundárias da letra da canção.\nC\t interpretação da letra da canção; e pesquisa sobre ações que contribuem com a preservação da natureza.\nD\t registro dos Objetivos de Desenvolvimento Sustentável (ODS) no caderno; e consulta de termos técnicos em dicionários.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 64.6063003540039,
+      "y": 395.780517578125,
+      "x1": 124.34291076660156,
+      "y1": 411.0484924316406,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490798"
+}

@@ -1,0 +1,37 @@
+QUESTÃO 12
+Ao longo de todo o desenvolvimento do software,
+devem ser aplicadas atividades de garantia de
+qualidade de software (GQS), entre as quais se
+encontra a atividade de teste. Um dos critérios
+de teste utilizados para gerar casos de teste é o
+denominado critério dos caminhos básicos, cujo
+número de caminhos pode ser determinado com
+base 
+na 
+complexidade 
+ciclomática.
+Considerando-se o grafo de fluxo de controle
+apresentado na figura ao lado, no qual os nós
+representam os blocos de comandos e as
+arestas representam a transferência de controle,
+qual a quantidade de caminhos básicos que
+devem ser testados no programa associado a esse grafo
+de fluxo de controle, sabendo-se que essa quantidade é
+igual à complexidade ciclomática mais um?
+A
+1.
+B
+3.
+C
+4.
+D
+7.
+E
+8.
+1
+2
+3
+4
+5
+6
+7

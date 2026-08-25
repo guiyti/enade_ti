@@ -1,0 +1,60 @@
+{
+  "id_questao": "q19",
+  "numero": 19,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    18
+  ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 74.31988525390625,
+      "x1": 288.84,
+      "y1": 736.4399999999999,
+      "coluna": 1
+    },
+    {
+      "pagina": 18,
+      "x0": 294.84,
+      "y0": 55.0,
+      "x1": 558.68,
+      "y1": 78.31988525390625,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q19.txt",
+  "largura": 1130,
+  "altura": 2901,
+  "confianca": 0.98,
+  "texto_completo": "1\nQUESTÃO 19\nK  ĂůŐŽƌŝƚŵŽ  ĚĞ  ƚƌĂĕĂĚŽ  ĚĞ  ƌĂŝŽƐ  ;ray-tracingͿ  Ġ \nĐŽŶƐŝĚĞƌĂĚŽ  Ƶŵ  ŵĂƌĐŽ  ŶŽ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ \nƚĠĐŶŝĐĂƐ  ĚĞ  ĐŽŵƉƵƚĂĕĆŽ  ŐƌĄĮĐĂ  ƉĂƌĂ  Ă  ŐĞƌĂĕĆŽ  ĚĞ \nŝŵĂŐĞŶƐ ƌĞĂůŝƐƚĂƐ͘\n/ŵĂŐĞŵ 1\nDŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉ͗ͬͬ\nǁǁǁ͘ ǁŝŬŝƉĞĚŝĂ͘ ŽƌŐх͘   ĐĞƐƐŽ Ğŵ͗  18 ũƵŶ͘  2014͘  \n/ŵĂŐĞŵ 2 \nDŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉ͗ͬͬ\nǁǁǁ͘ĐŽůĞŐŝŽǁĞď͘ ĐŽŵ͘ ďƌх͘   ĐĞƐƐŽ Ğŵ͗  18 ũƵŶ͘  2014͘\n/ŵĂŐĞŵ 3\nDŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉ͗ͬͬ\nǁǁǁ͘ ĐŐǁ͘ ĐŽŵх͘   ĐĞƐƐŽ Ğŵ͗  18 ũƵŶ͘  2014͘\n  ƉĂƌƟƌ ĚĂ ĂŶĄůŝƐĞ ĚĂƐ ŝŵĂŐĞŶƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĐŽŶĐůƵŝͲƐĞ \nƋƵĞ Ă ƚĠĐŶŝĐĂ ĚĞ ƚƌĂĕĂĚŽ ĚĞ ƌĂŝŽƐ ĨŽŝ ƵƟůŝǌĂĚĂ ƉĂƌĂ Ă ŐĞƌĂĕĆŽ\nA ĂƉĞŶĂƐ ĚĂ ŝŵĂŐĞŵ 1͘\nB ĂƉĞŶĂƐ ĚĂ ŝŵĂŐĞŵ 2͘\nC ĂƉĞŶĂƐ ĚĂƐ ŝŵĂŐĞŶƐ 1 Ğ 3͘\nD ĂƉĞŶĂƐ ĚĂƐ ŝŵĂŐĞŶƐ 2 Ğ 3͘\nE ĚĂƐ ŝŵĂŐĞŶƐ 1͕  2 Ğ 3͘",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/figuras/q19_fig1.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/figuras/q19_fig2.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/figuras/q19_fig3.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 30.052900314331055,
+      "y": 86.31988525390625,
+      "x1": 92.50570678710938,
+      "y1": 98.31988525390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:12:00.947805"
+}

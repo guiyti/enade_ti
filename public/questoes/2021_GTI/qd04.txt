@@ -1,0 +1,77 @@
+QUESTÃO DISCURSIVA 04	
+A notação Business Process Model Notation (BPMN) adota diversos elementos padronizados para 
+representação de processos. Analise o processo de homologação de estágio em uma Instituição de Ensino 
+Superior, representado no diagrama a seguir.
+Homologação de Estágio da Educação à Distância
+Pólo de Educação 
+a Distância
+Coordenação de Estágio
+Acadêmico/Estagiário
+Receber email
+e veriﬁcar
+documentos
+Não
+Sim
+Correto?
+Não
+Sim
+Adequado?
+Receber
+documentos
+pdf e imprimir
+3 vias
+Iniciar o
+estágio
+Preencher plano
+de atividades e
+termos de
+compromisso
+Encaminhar
+documentos
+via malote
+Assinar
+documentos e
+entregar no
+Pólo
+Receber
+documentos e
+analisar
+Avisar o
+acadêmico
+dos erros
+Assinar e
+devolver
+2 cópias
+Registrar no
+Siga e arquivar
+documento
+Receber
+documentos e
+entregar para o
+estagiário
+Receber
+documentos e
+entregar via da
+concedente
+Mandar email
+relatando
+os erros
+Encaminhar
+documentos
+em formato
+pdf por email
+Encaminhar por
+email para
+coordenação
+de estágio
+Arrumar os
+erros e
+encaminhar
+novamente
+UFJF. Escritório de Processos. Disponível em: www2.ufjf.br/escritoriodeprocessos/portifolio/ 
+Acesso em: 26 Ago. 2021 (adaptado).
+
+Considerando o diagrama apresentado, faça o que se pede nos itens a seguir.
+a)	 Cite o nome de duas tarefas, dois gateways e duas raias que podem ser identificados. (valor: 6,0 pontos)
+b)	 Se o estagiário entregar os documentos errados, cite as tarefas que deverão ser realizadas e por quem. 
+(valor: 4,0 pontos)

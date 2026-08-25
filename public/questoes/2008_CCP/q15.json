@@ -1,0 +1,48 @@
+{
+  "id_questao": "q15",
+  "numero": 15,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    9
+  ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 79.12667846679688,
+      "x1": 294.59999999999997,
+      "y1": 288.8066711425781,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q15.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q15.txt",
+  "largura": 1153,
+  "altura": 904,
+  "confianca": 0.98,
+  "texto_completo": "E\nTodos os itens estão certos.\nQUESTÃO 15\nAlém do acesso a páginas html, a Internet tem sido usada\ncada vez mais para a cópia e troca de arquivos de\nmúsicas, filmes, jogos e programas. Muitos desses\narquivos possuem direitos autorais e restrições de uso.\nConsiderando o uso das redes ponto-a-ponto para a troca\nde arquivos de músicas, filmes, jogos e programas na\nInternet, a quem cabe a identificação e o cumprimento das\nrestrições de uso associados a esses arquivos?\nA\naos programas de troca de arquivo\nB\naos usuários\nC\nao sistema operacional\nD\naos produtores dos arquivos\nE\naos equipamentos roteadores da Internet",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 36.8390998840332,
+      "y": 91.12667846679688,
+      "x1": 106.20230865478516,
+      "y1": 102.16667938232422,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 15"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229222"
+}

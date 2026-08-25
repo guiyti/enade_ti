@@ -1,0 +1,23 @@
+QUESTÃO 35	
+Um auditor de TI deve ter um forte entendimento das técnicas de controle interno para cobrir muitas 
+das tecnologias e processos presentes na empresa, e para tal deve usar os controles gerais de TI que 
+cobrem todos os aspectos das operações de TI, como atividades de processamento, acesso a programas 
+e dados, desenvolvimento e alterações de programas, controles de rede e muitos outros. Estes controles 
+estão organizados em uma hierarquia dividida em três grupos de TI: Controles Gerais de Governança; 
+Controles Gerais de Gerenciamento; e Controles Gerais de Ambiente Técnico.
+MOELLER, R. IT audit, control, and security. New Jersey: 
+John Wiley & Sons Inc., 2010 (adaptado).
+A respeito dos controles gerais de TI, avalie as afirmações a seguir.
+I.	 Fazem parte do grupo de Governança de TI os controles que envolvem a garantia de princípios, 
+políticas e processos eficazes de gerenciamento e segurança.
+II.	 Fazem parte do grupo de Gerenciamento de TI os controles que cobrem áreas como desenvolvimento 
+de sistemas, aquisição de software, documentação e procedimentos de controle.
+III.	 Fazem parte do grupo de Ambiente Técnico de TI os controles que permitem uma compreensão 
+da organização, seus procedimentos de controle estabelecidos e os deveres e responsabilidades 
+especializados de qualquer operação.
+É correto o que se afirma em
+A	 I, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 II e III, apenas.
+E	 I, II e III.

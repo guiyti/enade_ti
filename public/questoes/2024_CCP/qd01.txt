@@ -1,0 +1,52 @@
+QUESTÃO DISCURSIVA
+TEXTO 1
+A natureza do idadismo
+O idadismo refere-se aos estereótipos (como pensamos), aos preconceitos (como nos sentimos) e à discriminação (como 
+agimos) direcionados às pessoas com base em sua idade. Pode ser institucional, interpessoal ou autodirecionado. O idadismo 
+institucional refere-se às leis, às regras, às normas sociais, às políticas e às práticas de instituições que restringem injustamente 
+oportunidades e sistematicamente desfavorecem indivíduos devido à sua idade. O idadismo interpessoal surge nas interações 
+entre dois ou mais indivíduos; enquanto o idadismo autodirecionado ocorre quando é internalizado e voltado contra si mesmo.
+Relatório mundial sobre o idadismo. Organização Pan-Americana da Saúde, 2022. 
+Disponível em: www.iris.paho.org. Acesso em: 29 jul. 2025.
+TEXTO 2
+Estatuto do Idoso
+Art. 22. Nos currículos mínimos dos diversos níveis de ensino formal serão inseridos conteúdos voltados ao processo de 
+envelhecimento, ao respeito e à valorização da pessoa idosa, de forma a eliminar o preconceito e a produzir conhecimentos 
+sobre a matéria (Redação dada pela Lei n. 14 423/22).
+ Disponível em: www.planalto.gov.br. Acesso em: 29 jul. 2025.
+TEXTO 3
+Os critérios de avaliação da idade, da juventude ou da velhice não podem ser puramente os do calendário. Ninguém é velho só 
+porque nasceu há muito tempo ou jovem porque nasceu há pouco. Além disso, somos velhos ou moços muito mais em função 
+de como pensamos o mundo, da disponibilidade com que nos damos, curiosos, ao saber, cuja procura jamais nos cansa e cujo 
+achado jamais nos deixa satisfeitos e imobilizados. Somos moços ou velhos muito mais em função da vivacidade, da esperança 
+com que estamos sempre prontos a começar tudo de novo, se o que fizemos continua a encarnar sonho nosso. Sonho eticamente 
+válido e politicamente necessário. Somos velhos ou moços muito mais em função de se nos inclinarmos ou não a aceitar a 
+mudança como sinal de vida e não a paralisação como sinal de morte.
+FREIRE, P. À sombra desta mangueira. Rio de Janeiro: Paz & Terra, 2015.
+Em uma reunião pedagógica, os professores, motivados pela Lei n. 14 423/22 e pelos recorrentes discursos idadistas na escola, 
+planejam atividades didáticas que abordem esse tema em seus planos de aula. 
+Com base na situação-problema e na leitura dos textos motivadores, elabore um texto dissertativo-argumentativo que, 
+respeitando os Direitos Humanos,
+
+2025
+*R0404202519*
+
+2025
+Texto para questões de 31 a 33
+Durante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios 
+da orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na 
+figura define a classe Triangulo, contendo como atributos os lados do triângulo e como métodos as operações para atribuir 
+e retornar os valores dos lados, calcular área e calcular o perímetro.
+Triangulo
+lado1: inteiro
+lado2: inteiro
+lado3: inteiro
+atribuirLado1(lado1: inteiro): vazio
+atribuirLado2(lado2: inteiro): vazio
+atribuirLado3(lado3: inteiro): vazio
+retornaLado1(  ): inteiro
+retornaLado2(  ): inteiro
+retornaLado3(  ): inteiro
+calcularArea(  ): real
+calcularPerimetro(  ): inteiro
+*R0404202520*

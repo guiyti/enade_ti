@@ -1,0 +1,56 @@
+{
+  "id_questao": "q34",
+  "numero": 34,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 96.5428466796875,
+      "x1": 311.15999999999997,
+      "y1": 537.385986328125,
+      "coluna": 1
+    },
+    {
+      "pagina": 26,
+      "x0": 317.15999999999997,
+      "y0": 55.0,
+      "x1": 603.3199999999999,
+      "y1": 100.51788330078125,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q34.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q34.txt",
+  "largura": 1223,
+  "altura": 2071,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 34\nK  ŐĞƌĞŶĐŝĂŵĞŶƚŽ  ĚĞ  ƉƌŽũĞƚŽƐ  ĚĞ  ƐŝƐƚĞŵĂƐ  Ġ \nĞƐƐĞŶĐŝĂů  ƉĂƌĂ  Ă  ĞŶŐĞŶŚĂƌŝĂ  ĚĞ  ƐŽŌǁĂƌĞ͘   hŵ  ŵĂƵ \nŐĞƌĞŶĐŝĂŵĞŶƚŽ  ĂĐĂƌƌĞƚĂ  ĂƚƌĂƐŽ  ŶĂ  ĞŶƚƌĞŐĂ  ĚŽ \nƉƌŽŐƌĂŵĂ͕  ĐƵƐƚŽ ŵĂŝŽƌ ĚŽ ƋƵĞ Ž ƉƌŽŐƌĂŵĂĚŽ Ğ ĨĂůŚĂ \nŶŽ  ĂƚĞŶĚŝŵĞŶƚŽ  ĂŽƐ  ƌĞƋƵŝƐŝƚŽƐ͘   K  ƋƵĂĚƌŽ  Ă  ƐĞŐƵŝƌ \nƌĞƉƌĞƐĞŶƚĂ  ĚĞ  ĨŽƌŵĂ  ŚŝƉŽƚĠƟĐĂ  ĂůŐƵŵĂƐ  ƚĂƌĞĨĂƐ \nĚĞ  Ƶŵ  ƉƌŽũĞƚŽ  ĚĞ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  ƐŽŌǁĂƌĞ.\nEƐƐĞ ƋƵĂĚƌŽ ŵŽƐƚƌĂ ĂƐ ĂƟǀŝĚĂĚĞƐ͕  ƐƵĂ ĚƵƌĂĕĆŽ Ğ ĂƐ \nƌĞƐƉĞĐƟǀĂƐ ŝŶƚĞƌĚĞƉĞŶĚġŶĐŝĂƐ͘  \ndĂƌĞĨĂ\nDuração (dias)\nDependências\nT1\n5\n-\nT2\n8\nT1\nd3\n2\nT2\nT4\n4\n-\nT5\n2\nd3͕  d4\nT6\n4\n-\nT7\n3\nT5\nIŽŵ  ďĂƐĞ  ŶĂ  ĂŶĄůŝƐĞ  ĚŽ  ƋƵĂĚƌŽ͕   Ž  ƚĞŵƉŽ  ŵşŶŝŵŽ \nŶĞĐĞƐƐĄƌŝŽ ƉĂƌĂ ƚĞƌŵŝŶĂƌ Ž ƉƌŽũĞƚŽ Ġ ĚĞ\nA 13 ĚŝĂƐ͘\nB 15 ĚŝĂƐ͘\nC 16 ĚŝĂƐ͘\nD 20 ĚŝĂƐ͘\nE 28 ĚŝĂƐ͘",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 52.14179992675781,
+      "y": 108.5428466796875,
+      "x1": 114.59461212158203,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 34"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:47.903483"
+}

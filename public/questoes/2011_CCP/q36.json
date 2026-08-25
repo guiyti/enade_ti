@@ -1,0 +1,48 @@
+{
+  "id_questao": "q36",
+  "numero": 36,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    24
+  ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.txt",
+  "largura": 1123,
+  "altura": 2855,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n2\nQUESTÃO 36  \nO problema P versus NP é um problema ainda não \nresolvido e um dos mais estudados em Computação. \nEm linhas gerais, deseja-se saber se todo problema \ncuja solução pode ser eficientemente verificada por um \ncomputador, também pode ser eficientemente obtida \npor um computador. Por “eficientemente” ou “eficiente” \nsignifica “em tempo polinomial”.\nA classe dos problemas cujas soluções podem ser \neficientemente obtidas por um computador é chamada de \nclasse P. Os algoritmos que solucionam os problemas \ndessa classe têm complexidade de pior caso polinomial \nno tamanho das suas entradas.\nPara alguns problemas computacionais, não se conhece \nsolução eficiente, isto é, não se conhece algoritmo eficiente \npara resolvê-los. No entanto, se para uma dada solução \nde um problema é possível verificá-la eficientemente, \nentão o problema é dito estar em NP. Dessa forma, a \nclasse de problemas para os quais suas soluções podem \nser eficientemente verificadas é chamada de classe NP.\nUm problema é dito ser NP-completo se pertence à \nclasse NP e, além disso, se qualquer outro problema na \nclasse NP pode ser eficientemente transformado nesse \nproblema. Essa transformação eficiente envolve as \nentradas e saídas dos problemas.\nConsiderando as noções de complexidade computacional \napresentadas acima, analise as afirmações que se seguem.\nI. \nExistem problemas na classe P que não estão na \nclasse NP.\nII. Se o problema A pode ser eficientemente \ntransformado no problema B e B está na classe P, \nentão A está na classe P.\nIII. Se P = NP, então um problema NP-completo pode \nser solucionado eficientemente.\nIV. Se P é diferente de NP, então existem problemas \nna classe P que são NP-completos.\nÉ correto apenas o que se afirma em\nA   I.\nB   IV.\nC   I e III.\nD   II e III.\nE   II e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 36,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 103.25318908691406,
+      "y1": 82.03392791748047,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 36"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218669"
+}

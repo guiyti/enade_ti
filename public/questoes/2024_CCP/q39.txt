@@ -1,0 +1,7 @@
+p
+QUESTÃO 39	
+É possível afirmar que o professor pode avaliar no modelo entidade-relacionamento os conceitos de
+A	 organização e consistência de dados.
+B	 consultas de linguagem SQL e tuning.
+C	 restrição e integridade referencial.
+D	 chaves primária e estrangeira e cardinalidade.

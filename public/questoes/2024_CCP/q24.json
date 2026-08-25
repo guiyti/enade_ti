@@ -1,0 +1,48 @@
+{
+  "id_questao": "q24",
+  "numero": 24,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 292.5111083984375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q24.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q24.txt",
+  "largura": 2475,
+  "altura": 908,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 24\t\nO acesso à internet e aos recursos tecnológicos, como dispositivos móveis e outros, vem crescendo na atualidade, impactando \nos sistemas educacionais no Brasil e no mundo. Com isso, o uso de Metodologias Ativas foi intensificado, visando atender às \ndiferentes demandas da comunidade escolar. Muitas dessas metodologias são implementadas via plataformas digitais, excluindo \numa parcela considerável de estudantes que não têm acesso a tais plataformas devido a desigualdades sociais, conforme \napontam dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Os dados indicam que cerca de 60% das pessoas não \npossuem acesso à internet devido aos altos custos dos serviços e dos equipamentos.\nIBGE. Pesquisa Nacional por Amostra de Domicílios Contínua. Rio de Janeiro: IBGE, 2023 (adaptado).\nNesse contexto, uma atividade de ensino que utilize Metodologias Ativas na Educação Básica para minimizar a exclusão na sala \nde aula é\nA\t uma aula expositiva realizada pelo professor que aborde o tema de tecnologias, seguida de exercícios de múltipla escolha. \nB\t jogos desplugados produzidos pelos estudantes, seguidos da socialização das aprendizagens em uma plenária.\nC\t leitura de um texto de referência sobre tecnologias proposta pelo professor, seguida de uma avaliação.\nD\t uma aula gamificada com seus dispositivos móveis planejada pelos estudantes, seguida da socialização dos resultados.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 24,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 24"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490815"
+}

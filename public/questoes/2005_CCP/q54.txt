@@ -1,0 +1,16 @@
+Ã
+18
+Considere que, durante a análise de um problema de programação,
+enha sido obtida a seguinte fórmula recursiva que descreve a
+olução para o problema.
+Qual a complexidade da solução encontrada?
+A O (n × log n)
+B O (n )
+2
+C O (n × log n)
+2
+D O (2 )
+n
+E O (n )
+3
+RASC UNH O

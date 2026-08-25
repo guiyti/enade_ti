@@ -1,0 +1,59 @@
+{
+  "id_questao": "qd20",
+  "numero": 20,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    10,
+    11
+  ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 319.606689453125,
+      "x1": 570.1999999999999,
+      "y1": 373.2881774902344,
+      "coluna": 0
+    },
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 570.1999999999999,
+      "y1": 263.2466735839844,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd20.txt",
+  "largura": 2302,
+  "altura": 1137,
+  "confianca": 0.98,
+  "texto_completo": "E\nTanto a primeira quanto a segunda asserções são proposições falsas.\nQUESTÃO 20 – DISCURSIVA\nTabelas de dispersão (tabelas\nh\nh)\nl\nt\nCom relação à aplicação descrita, faça o que se pede a seguir.\nA Escreva, no espaço reservado, o conjunto das chaves envolvidas em\ncolisões.\n\n1 – A seguir serão apresentadas questões de Múltipla Escolha e Discursivas específicas\npara as modalidades dos cursos de computação, assim distribuídas:\nPerfil do curso\nNúmero das Questões\nMúltipla Escolha\nDiscursivas\nBacharelado em Ciência da Computação\n21 a 38\n39 e 40\nEngenharia de Computação\n41 a 58\n59 e 60\nBacharelado em Sistemas de Informação\n61 a 78\n79 e 80\n2 – Você deve responder apenas às questões referentes ao perfil profissional do curso em\nque você está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3 – Observe atentamente os números das questões correspondentes à modalidade do curso na qual você está inscrito\npara preencher corretamente o Caderno de Respostas.\nAs questões de 21 a 40, a seguir, são específicas para os estudantes de cursos com perfis profissionais de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/figuras/qd20_fig1.png"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "DISCURSIVA",
+      "pagina": 10,
+      "x": 36.8390998840332,
+      "y": 331.606689453125,
+      "x1": 185.9971923828125,
+      "y1": 342.6466979980469,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 20 – DISCURSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229245"
+}

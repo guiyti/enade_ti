@@ -1,0 +1,48 @@
+{
+  "id_questao": "q11",
+  "numero": 11,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 280.56,
+      "y1": 734.76,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q11.txt",
+  "largura": 1095,
+  "altura": 2822,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 11\t\nO código Java, a seguir, contém a implementação \nde uma Pilha utilizando a estratégia encadeada.\npublic class No{\npublic int dado;\npublic No prox;\npublic No(int dado){\nthis.dado = dado;\n}\n}\npublic class PilhaEncadeada{\nprivate No topo;\npublic int pop(){\nif (topo == null)\nreturn -1;\nNo lixo = topo;\ntopo = topo.prox;\nlixo.prox = null;\nreturn lixo.dado;\n}\npublic int top(){\nif (topo == null)\nreturn -1;\nreturn (topo.dado);\n}\n}\nCom base no exposto, assinale a opção que possui \na implementação correta do método push para \nessa Pilha.\nA\t public void push(int elemento){ \nNo novo = new No(elemento);  \nif(topo == null)  \n  topo = novo;  \nelse  \n  topo.prox = novo;  \n}\nB\t public void push(int elemento){    \n  No novo = new No(elemento);  \n  topo = novo;  \n}\nC\t public void push(int elemento){  \ntopo.dado = elemento;  \n}\nD\t public void push(int elemento){  \n  No novo = new No(elemento);  \n  while (topo != null)  \n    topo = topo.prox;  \n  topo.prox = novo;  \n}\nE\t public void push(int elemento){  \n  No novo = new No(elemento);      \n  novo.prox = topo;  \n  topo = novo;  \n}",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710790"
+}

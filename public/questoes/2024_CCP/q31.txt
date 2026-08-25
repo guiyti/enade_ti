@@ -1,0 +1,6 @@
+QUESTÃO 31	
+O código do método calcularPerimetro( ) deve
+A	 ser criado fora da classe Triangulo.
+B	 estar dentro do método calcularArea( ).
+C	 retornar um valor do tipo real após seu processamento.
+D	 ter modificador de acesso público para ser executado a partir de outra classe.

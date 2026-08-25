@@ -1,0 +1,42 @@
+QUESTÃO 53
+Um sinal a ser registrado por um dispositivo, em intervalos
+regulares de tempo t = 1, 2, 3, ..., n, resultará em uma seqüência
+de variáveis aleatórias contínuas X1, X2, ..., Xn. Considere, nessa
+seqüência, os eventos A e B apresentados a seguir, em que
+t = 2, 3, ..., n – 1.
+A = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0
+B = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0
+Na hipótese de a seqüência X1, X2, ..., Xn ser independente e que
+seja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes
+itens.
+I
+A probabilidade de ocorrer o evento A em uma subseqüência
+{Xt – 1, Xt, Xt + 1} é inferior a 0,3.
+II
+O número esperado das ocorrências dos eventos A ou B na
+seqüência X1, X2, ..., Xn é igual a 
+.
+III Os eventos A e B são mutuamente exclusivos e, por isso, são
+QUESTÃO 55
+Considere que um sistema seja constituído por três
+componentes montados em paralelo que funcionam
+independentemente. 
+Para 
+cada 
+um 
+desses
+componentes, a probabilidade de que uma falha
+ocorra até o tempo t é dada por 
+, em que
+t > 0. Os componentes, após falharem, são
+irrecuperáveis. Como os componentes estão
+montados em paralelo, o sistema falha no instante
+em que todos os três componentes tiverem falhado.
+O sistema é também irrecuperável. Considerando a
+situação apresentada, qual é a probabilidade de que
+o sistema falhe até o tempo t ?
+A
+B
+C
+D
+E

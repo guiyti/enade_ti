@@ -1,0 +1,48 @@
+{
+  "id_questao": "q66",
+  "numero": 66,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 300.59999999999997,
+      "y0": 68.44668579101562,
+      "x1": 570.1999999999999,
+      "y1": 585.3267211914062,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q66.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q66.txt",
+  "largura": 1154,
+  "altura": 2184,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 66\nSegundo o modelo COBIT (control objectives for\ninformation technology), os processos de TI devem ser\nauditados por meio de um processo composto pelas etapas\nde: (i) COMPREENSÃO dos riscos relacionados aos\nrequisitos de negócios e das medidas de controle\nrelevantes; \n(ii) \navaliação \nda \nADEQUABILIDADE\n(PROPRIEDADE) dos controles declarados; (iii) avaliação\nde CONFORMIDADE por meio do teste de funcionamento\nconsistente e contínuo dos controles, conforme prescritos;\ne (iv) SUBSTANCIAÇÃO do risco dos objetivos de controle\nnão serem alcançados por meio de técnicas analíticas\ne(ou) consulta a fontes alternativas. Com relação a essas\netapas, assinale a opção correta.\nA\nDurante a etapa de SUBSTANCIAÇÃO, são realizadas\nentrevistas com o gestor e os empregados que\ndesempenham o processo de TI, visando identificar\nleis e regulamentos aplicáveis.\nB\nDurante \na \netapa \nde \nCONFORMIDADE, \nsão\ndocumentadas as fraquezas dos controles em prática,\ncom a indicação das ameaças e vulnerabilidades\npresentes.\nC\nDurante a etapa de ADEQUABILIDADE, são obtidas\nevidências \ndiretas \ne \nindiretas \naplicáveis \na\ndeterminados artefatos e períodos de tempo\ndiretamente relacionados ao processo de TI, visando-\nse garantir que os procedimentos em prática sejam\ncompatíveis com os controles declarados.\nD\nDurante \na \netapa \nde \nCOMPREENSÃO, \nsão\nidentificados e documentados impactos reais e\npotenciais para a organização, empregando-se\nanálises de causa-raiz.\nE\nDurante a etapa de ADEQUABILIDADE, é avaliada a\nconveniência das medidas de controle adotadas para\no processo de TI, por meio da consideração de\ncritérios bem definidos, práticas padronizadas da\nindústria, fatores críticos de sucesso para as medidas\nde controle, bem como o julgamento profissional pelo\nauditor.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 66,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 304.4390869140625,
+      "y": 80.44668579101562,
+      "x1": 373.80230712890625,
+      "y1": 91.48668670654297,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 66"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229460"
+}

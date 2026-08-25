@@ -1,0 +1,50 @@
+{
+  "id_questao": "q26",
+  "numero": 26,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 293.28,
+      "y0": 411.5016174316406,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q26.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q26.txt",
+  "largura": 1123,
+  "altura": 1375,
+  "confianca": 0.98,
+  "texto_completo": "5\nE\nQUESTÃO 26\nUm baralho tem 52 cartas, organizadas em 4 naipes, \ncom 13 valores diferentes para cada naipe. \nOs valores possíveis são: Ás, 2, 3, ..., 10, J, Q, K. \nNo jogo de poker, uma das combinações de 5 cartas \nmais valiosas é o full house, que é formado por \ntrês cartas de mesmo valor e outras duas cartas de \nmesmo valor. São exemplos de full houses: i) três \ncartas K e duas 10 (como visto na figura) ou ii) três \ncartas 4 e duas Ás.\nQuantas possibilidades para full house existem em um \nbaralho de 52 cartas?\nA   156.\nB   624.\nC   1872.\nD   3744.\nE   7488.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q26_fig1.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 26,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 302.3486633300781,
+      "y": 423.5016174316406,
+      "x1": 365.69866943359375,
+      "y1": 437.36163330078125,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 26"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218617"
+}

@@ -1,0 +1,15 @@
+equisitos de um sistema são freqüentemente classificados como
+ncionais, não-funcionais e de domínio. Qual a definição que
+elhor descreve requisitos não-funcionais?
+São ferramentas automatizadas de apoio ao processo de
+desenvolvimento de sistemas.
+São requisitos que descrevem o que o sistema deve fazer, como
+deve reagir a determinadas entradas e como deve comportar-se
+em situações particulares.
+São requisitos que derivam do domínio da aplicação e que
+refletem características e restrições desse domínio.
+São requisitos que não estão diretamente relacionados com as
+funções específicas do sistema.
+São requisitos que especificam como deve ser testada uma parte
+do sistema, incluindo-se as entradas, os resultados esperados e as
+condições sob as quais os testes devem ocorrer.

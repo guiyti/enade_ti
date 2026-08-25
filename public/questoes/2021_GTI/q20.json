@@ -1,0 +1,48 @@
+{
+  "id_questao": "q20",
+  "numero": 20,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 552.6807861328125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q20.txt",
+  "largura": 2185,
+  "altura": 2064,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 20\t\nNos algoritmos, os operadores são utilizados para realizar comparações, cálculos, entre outros, conforme \nexemplificado a seguir.\n•\tOperadores aritméticos: ( *, /, %, +, - );\n•\tOperadores relacionais: ( <, <=, >, >=, =, <> );\n•\tOperadores lógicos: ( nao, e, ou ).\nConsidere o pseudocódigo a seguir cuja função é calcular e apresentar um bônus salarial de 10% apenas \naos funcionários que recebem salários entre R$1.045,00 a R$1.544,00, inclusive. Para os salários que \nnão estão neste critério deve ser apresentada apenas uma mensagem que o salário não está nos \ncritérios de bônus.\n01: algoritmo “bonus_salarial_1”\n02: var\n03:    salario, bonus : real\n04: inicio\n05:       leia(salario)\n06:       se(_______) entao\n07:           bonus := (salario * 10)/100\n08:           escreva(“Bônus =”, bonus)\n09:        senao\n10:           escreva(“O salário não está nos critérios de bônus!”)\n11:        fimse\n12: fimalgoritmo\nCom base nos operadores e na lógica de programação apresentada, assinale a opção que representa a \nlinha 6 na estrutura de decisão do código para atender corretamente aos critérios da tarefa.\nA\t se((salario >= 1045.00) e (salario <= 1544.00)) entao\nB\t se((salario >= 1045.00) ou (salario <= 1544.00)) entao\nC\t se((valor >= 1045.00) e (valor <= 1544.00)) entao\nD\t se((salario >= 1046.00) ou (salario < 1545.00)) entao\nE\t se((valor >= 1046.00) e (valor <= 1545.00)) entao",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:33.727121"
+}

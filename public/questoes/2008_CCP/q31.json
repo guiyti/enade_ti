@@ -1,0 +1,48 @@
+{
+  "id_questao": "q31",
+  "numero": 31,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 66.52682495117188,
+      "x1": 294.59999999999997,
+      "y1": 365.8467102050781,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q31.txt",
+  "largura": 1153,
+  "altura": 1277,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 31\nJulgue os itens a seguir, relativos a métodos de busca com\ninformação (busca heurística) e sem informação (busca\ncega), aplicados a problemas em que todas as ações têm\no mesmo custo, o grafo de busca tem fator de ramificação\nfinito e as ações não retornam a estados já visitados.\nI\nA primeira solução encontrada pela estratégia de busca\nem largura é a solução ótima.\nII\nA primeira solução encontrada pela estratégia de busca\nem profundidade é a solução ótima.\nIII As estratégias de busca com informação usam funções\nheurísticas que, quando bem definidas, permitem\nmelhorar a eficiência da busca.\nIV A estratégia de busca gulosa é eficiente porque\nexpande apenas os nós que estão no caminho da\nsolução.\nEstão certos apenas os itens\nA\nI e II.\nB\nI e III.\nC\nI e IV.\nD\nII e IV.\nE\nIII e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 35.99909973144531,
+      "y": 78.52682495117188,
+      "x1": 105.36231231689453,
+      "y1": 89.56682586669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229295"
+}

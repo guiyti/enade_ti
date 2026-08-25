@@ -1,0 +1,28 @@
+QUESTÃO 13	
+Considere que as variáveis pilha e fila correspondem, respectivamente, às estruturas de dados do tipo 
+Pilha e Fila. Para testar as duas estruturas, um programador realizou a série de operações a seguir.
+Pilha pilha = new Pilha();
+Fila fila = new Fila();
+pilha.push(‘A’);
+pilha.push(‘B’);
+pilha.push(‘C’);
+fila.enqueue(pilha.top());
+fila.enqueue(pilha.top());
+fila.enqueue(‘D’);
+pilha.push(fila.dequeue());
+fila.enqueue(fila.dequeue());
+fila.enqueue(pilha.pop());
+pilha.push(‘E’);
+fila.enqueue(‘E’);
+pilha.pop();
+Após essas operações, ao imprimir o conteúdo de pilha e fila, respectivamente, seria exibido:
+A	 pilha: topo → C → A → E.  
+fila: início → D → A → A → E.
+B	 pilha: topo →A.  
+fila: início → D → B → C → E.
+C	 pilha: topo → C → B → A. 
+fila: início → D → C → C → E.
+D	 pilha: topo → B → A. 
+fila: início → D → B → C → E.
+E	 pilha: topo → C → B → A. 
+fila: início → D → B → C → E.

@@ -1,0 +1,48 @@
+{
+  "id_questao": "q37",
+  "numero": 37,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    24
+  ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 293.28,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q37.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q37.txt",
+  "largura": 1123,
+  "altura": 2855,
+  "confianca": 0.98,
+  "texto_completo": "4\nQUESTÃO 37  \nEscopo dinâmico: para as linguagens com escopo \ndinâmico, a vinculação das variáveis ao escopo é realizada \nem tempo de execução. (...) Se uma variável é local ao \nbloco, então o uso da dada variável no bloco será sempre \nvinculado àquela local. Contudo, se a variável for não-\nlocal, a sua vinculação depende da ordem de execução, \na última vinculada na execução. A consequência disso é \nque, em um mesmo bloco de comandos, um identificador \npode ter significados diferentes, e o programador precisa \nter a ideia precisa de qual variável está sendo usada.\nde MELO, A. C. V.; da SILVA, F. S. C. Princípios de Linguagens de \nProgramação. São Paulo: Edgard Blücher, 2003. p.65.\nSuponha que uma linguagem de programação tenha sido \nprojetada com vinculação e verificação estáticas para tipos \nde variáveis, além de passagem de parâmetros por valor. \nTambém é exigido pela especificação da linguagem que \nprogramas sejam compilados integralmente e que não é \npermitido compilar bibliotecas separadamente. Durante \numa revisão da especificação da linguagem, alguém \npropôs que seja adicionado um mecanismo para suporte \na variáveis com escopo dinâmico.\nA respeito da proposta de modificação da linguagem, \nanalise as seguintes afirmações.\nI. \nAs variáveis com escopo dinâmico podem ser \ntratadas como se fossem parâmetros para \nos subprogramas que as utilizam, sem que o \nprogramador tenha que especificá-las ou declarar \nseu tipo (o compilador fará isso). Assim, elimina-\nse a necessidade de polimorfismo e é possível \nverificar tipos em tempo de compilação.\nII. Como diferentes subprogramas podem declarar \nvariáveis com o mesmo nome mas com tipos \ndiferentes, se as variáveis com escopo dinâmico \nnão forem declaradas no escopo onde são \nreferenciadas, será necessário que a linguagem \nsuporte polimorfismo de tipos.\nIII. Se as variáveis dinâmicas forem declaradas \ntanto nos escopos onde são criadas como \nnos subprogramas em que são referenciadas, \nmarcadas como tendo escopo dinâmico, será \npossível identificar todos os erros de tipo em \ntempo de compilação.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e III.\nE   I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 37,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 37"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218673"
+}

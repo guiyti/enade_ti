@@ -1,0 +1,48 @@
+{
+  "id_questao": "q32",
+  "numero": 32,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    39
+  ],
+  "segmentos": [
+    {
+      "pagina": 39,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 396.2544250488281,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q32.txt",
+  "largura": 2185,
+  "altura": 1411,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 32\t\nUm modelo de negócios descreve a lógica de criação, entrega e captura de valor por parte de uma \norganização. A ferramenta de geração de modelo de negócios Canvas, desenvolvida por Osterwalder, \ntem sido uma das mais utilizadas, principalmente entre as startups. O Canvas é dividido em nove \ncomponentes básicos, que cobrem as quatro áreas principais de um negócio: clientes, oferta, infraestrutura \ne viabilidade financeira. Os componentes são os seguintes: 1) segmentos de clientes; 2) proposta de valor; \n3) canais; 4) relacionamento com cliente; 5) fontes de receita; 6) recursos principais; 7) atividades-chave; \n8) parcerias principais; e 9) estrutura de custo.\nOSTERWALDER, A.; PIGNEUR, Y. Business Model Generation - Inovação em Modelos de Negócios: \num manual para visionários, inovadores e revolucionários. Rio de Janeiro: Alta Books, 2011 (adaptado).\nDiante deste contexto, conclui-se que as startups\nA\t financeiras desenvolvem primeiro o plano de negócios, para em seguida partir para o Canvas.\nB\t de big data utilizam o Canvas para a modelagem da validação da ideia de negócio, ou seja, do problema \na ser resolvido.\nC\t de educação dispensam a utilização do Canvas, ou seja, os modelos de negócios deste segmento já \nnascem validados.\nD\t de logística utilizam o plano de negócios ao invés do Canvas, ou seja, elas nascem a partir de um produto \nmínimo viável (MVP).\nE\t de impacto social podem desconsiderar o componente 1 (segmentos de clientes), pois possuem \nsomente um segmento.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 39,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710874"
+}

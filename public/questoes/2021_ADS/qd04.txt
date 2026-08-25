@@ -1,0 +1,17 @@
+QUESTÃO DISCURSIVA 04	
+Um analista de requisitos identificou as seguintes histórias de usuários para um sistema web de reserva 
+de passagens de uma empresa aérea:
+HST 01: COMO cliente, GOSTARIA de me cadastrar no site da empresa informando meu e-mail, nome, CPF, 
+telefone e endereço PARA poder usar os serviços web da empresa.
+HST 02: COMO cliente, GOSTARIA de pesquisar por preços das passagens aéreas informando data, hora, 
+cidade e aeroporto de ida e de volta PARA poder escolher uma opção de reserva que me interessa.
+HST 03: COMO cliente, GOSTARIA de confirmar uma reserva de passagem aérea selecionada, escolhendo 
+uma das formas de pagamento disponibilizada pela empresa PARA poder viajar para o local escolhido 
+na reserva.
+HST 04: COMO cliente, GOSTARIA de fazer o check-in online da reserva PARA poder realizar meu embarque.
+Tendo por base essas histórias de usuários, elabore um diagrama de classes da UML (Unified Modeling 
+Language) para o sistema, identificando as classes (máximo seis), atributos e associações entre as classes 
+com as respectivas multiplicidades. Deverão ser representadas as reservas de ida e de volta como classes 
+de uma associação do tipo generalização (herança) e também ser identificados pelo menos três métodos 
+para a classe Reserva. Para as demais classes não é necessário identificar os métodos. Também não há 
+necessidade de identificar a multiplicidade dos atributos nas classes. (valor: 10,0 pontos).

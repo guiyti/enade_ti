@@ -1,0 +1,59 @@
+Á
+O problema do buffer limitado de tamanho N é um
+problema clássico de sincronização de processos: um grupo de
+processos utiliza um buffer de tamanho N para armazenar
+temporariamente itens produzidos; processos produtores
+produzem os itens, um a um, e os armazenam no buffer;
+processos consumidores retiram os itens do buffer, um a um,
+para processamento. O problema do buffer limitado de tamanho
+N pode ser resolvido com a utilização de semáforos, que são
+mecanismos de software para controle de concorrência entre
+processos. Duas operações são definidas para um semáforo
+s: wait(s) e signal(s).
+Considere o problema do buffer limitado de tamanho N
+cujos pseudocódigos dos processos produtor e consumidor
+estão mostrados na tabela abaixo. Pode-se resolver esse
+problema com a utilização dos semáforos mutex, cheio e vazio,
+inicializados, respectivamente, com 1, 0 e N.
+processo produtor
+processo consumidor
+produz item
+comando_a
+comando_b
+coloca no buffer
+comando_c
+comando_d
+comando_e
+comando_f
+retira do buffer
+comando_g
+comando_h
+consome o item
+A partir dessas informações, para que o problema do buffer
+limitado 
+de 
+tamanho 
+N 
+cujos 
+pseudocódigos 
+foram
+apresentados possa ser resolvido a partir do uso dos semáforos
+mutex, cheio e vazio, é necessário que comando_a,
+comando_b, comando_c, comando_d, comando_e,
+comando_f, comando_g e comando_h correspondam,
+respectivamente, às operações
+A wait(vazio), wait(mutex), signal(mutex),
+signal(cheio), wait(cheio), wait(mutex),
+signal(mutex) e signal(vazio).
+B wait(cheio), wait(mutex), signal(mutex),
+signal(vazio), wait(vazio), signal(mutex),
+signal(mutex) e wait(cheio).
+C wait(mutex), wait(vazio), signal(cheio),
+signal(mutex), wait(mutex), wait(vazio),
+signal(cheio) e signal(mutex).
+D wait(mutex), wait(vazio), signal(cheio),
+signal(mutex), wait(mutex), wait(cheio),
+signal(vazio) e signal(mutex).
+E wait(vazio), signal(mutex), signal(cheio),
+wait(mutex), wait(cheio), signal(mutex),
+signal(vazio) e signal(mutex).

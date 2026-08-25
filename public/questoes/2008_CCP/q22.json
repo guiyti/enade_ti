@@ -1,0 +1,57 @@
+{
+  "id_questao": "q22",
+  "numero": 22,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    11,
+    12
+  ],
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 627.646728515625,
+      "x1": 570.1999999999999,
+      "y1": 797.16,
+      "coluna": 0
+    },
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 294.59999999999997,
+      "y1": 70.52682495117188,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q22.txt",
+  "largura": 2302,
+  "altura": 816,
+  "confianca": 0.98,
+  "texto_completo": "10\nCO\nÇÃO\nE\nTodos os itens estão certos.\nQUESTÃO 22\nQual tipo de software tradutor deve ser utilizado para\nprogramas em geral, quando a velocidade de execução é\numa exigência de alta prioridade?\nA\ncompiladores\nB\ninterpretadores\nC\ntradutores híbridos\nD\nmacroprocessadores\nE\ninterpretadores de macroinstruções\nesquema de banco de dados relacional?\nA\nEstudante(10, ‘jsilva@ig.com.br’, null, 20);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nB\nEstudante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nC\nEstudante(10, ‘jsilva@ig.com.br’, 1, 20); \nFonePessoa(1, null, ‘3761’, ‘1370’)\nD\nEstudante(10, ‘jsilva@ig.com.br’, 1, 50); \nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)\nE\nEstudante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 36.8390998840332,
+      "y": 639.646728515625,
+      "x1": 106.20230865478516,
+      "y1": 650.6867065429688,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229260"
+}

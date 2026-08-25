@@ -1,0 +1,56 @@
+Á
+g
+QUESTÃO 76
+O termo imagem designa uma função
+intensidade luminosa bidimensional f, em que um valor
+de intensidade é associado a coordenadas espaciais
+(x, y). Uma imagem digital é obtida pela digitalização
+das coordenadas espaciais por meio de um processo
+conhecido como amostragem da imagem. Dessa
+forma, uma imagem contínua monocromática f(x, y) é
+aproximada por amostras igualmente espaçadas,
+arranjadas na forma de uma matriz N×M, em que cada
+min
+max
+elemento é um valor inteiro g. O intervalo [G
+, G
+],
+do menor ao maior valor de intensidade g, é
+min
+denominado escala de cinza. Normalmente, G
+ = 0
+max
+corresponde a preto, e G
+ = G corresponde ao
+branco.
+Considerando os conceitos apresentados acima, assinale a
+opção correta.
+A O processo de digitalização da imagem requer que as
+dimensões N e M da matriz mencionada acima sejam
+múltiplas do número de tons de cinza na imagem.
+B Para imagens binárias, se L for o número de tons de cinza
+representáveis, e L = 2 , então k = 2.
+k
+C Os métodos para realce de imagens que operam no
+domínio espacial fazem uso do conceito de vizinhança de
+pixel.
+D Métodos de filtragem normalmente usam máscaras para
+impedir a transformação dos níveis de cinza dos pixels da
+imagem. 
+E Limiarização é um tipo de processamento de imagens que
+amplia o número de níveis de cinza da imagem.
+D
+E
+D
+lo
+ci
+ite
+I
+II
+III
+A
+A
+B
+C
+D
+E

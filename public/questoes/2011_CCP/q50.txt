@@ -1,0 +1,19 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 50  
+Uma empresa vem desenvolvendo um programa de 
+melhoria de seus processos de software utilizando o 
+modelo de qualidade CMMI. O programa envolveu a 
+definição de todos os processos padrão da organização, 
+implementação de técnicas de controle estatístico de 
+processos e métodos de melhoria contínua. Após a 
+avaliação SCAMPI, classe A, foi detectado que a área 
+de processo de PP - Project Planning (Planejamento de 
+Projeto) não estava aderente ao modelo.
+Nesse contexto, considerando a representação por 
+estágios do CMMI, a empresa seria classificada em que 
+nível de maturidade?
+A   Nível 1.
+B   Nível 2.
+C   Nível 3.
+D   Nível 4.
+E   Nível 5.

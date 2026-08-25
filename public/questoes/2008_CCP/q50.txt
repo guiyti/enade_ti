@@ -1,0 +1,166 @@
+2
+CO
+ÇÃO
+QUESTÃO 50
+Considere, a seguir, o circuito combinatório, a tensão
+analógica VA definida pela tabela I, e a tabela lógica
+definida pela tabela II.
+circuito combinatório
+circuito de comparação
+vA
+Tabela I
+vA (em volts)
+S2
+S1
+S0
+vA < 1
+0
+0
+0
+1 < vA < 2
+0
+0
+1
+2 < vA < 3
+0
+1
+0
+3 < vA < 4
+0
+1
+1
+4 < vA < 5
+1
+0
+0
+5 < vA < 6
+1
+0
+1
+6 < vA < 7
+1
+1
+0
+vA > 7
+1
+1
+1
+Tabela II
+Xa
+Xb
+Xc
+Xd
+Xe
+Xf
+Xg
+S2
+S1
+S0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+1
+0
+0
+1
+1
+1
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+Analise o circuito, os dados das tabelas I e II e as seguintes
+asserções.
+O circuito apresentado converte a tensão analógica vA em
+uma palavra de três bits cujo valor binário é uma
+representação quantizada da tensão vA, conforme
+apresentado na tabela I
+porque
+o circuito combinatório formado pelas portas lógicas
+apresenta o comportamento dado pela tabela lógica II
+quando o circuito de comparação é excitado com uma
+tensão vA adequada.
+Assinale a opção correta, com relação às asserções acima.
+A
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
+B
+As duas asserções são proposições verdadeiras, mas
+a segunda não é uma justificativa correta da primeira.
+C
+A primeira asserção é uma proposição verdadeira, e a
+segunda, uma proposição falsa.
+D
+A primeira asserção é uma proposição falsa, e a
+segunda, uma proposição verdadeira.
+E
+Tanto a primeira quanto a segunda asserções são
+proposições falsas.

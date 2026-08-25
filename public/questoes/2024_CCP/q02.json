@@ -1,0 +1,57 @@
+{
+  "id_questao": "q02",
+  "numero": 2,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    2,
+    3
+  ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 542.0209350585938,
+      "x1": 611.7199999999999,
+      "y1": 804.3599999999999,
+      "coluna": 0
+    },
+    {
+      "pagina": 3,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q02.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q02.txt",
+  "largura": 2475,
+  "altura": 1268,
+  "confianca": 0.98,
+  "texto_completo": "PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PMD2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025PND2025\nFORMAÇÃO GERAL DOCENTE\n2\ng\nç\n, p\nq\np\nç\nQUESTÃO 02\t\nUm professor, diante de questionamentos acerca da eficácia das vacinas na comunidade, propõe aos estudantes a realização de \npráticas pedagógicas sobre a relação entre o aumento da ocorrência de doenças que haviam sido erradicadas e o baixo índice \nde vacinação referente aos imunizantes do Programa Nacional de Imunizações (PNI). Considerando o papel da escola como \nespaço de promoção do letramento científico, o professor inicia um projeto de conscientização da comunidade escolar quanto \nà importância da atualização das carteiras vacinais e do combate à desinformação. A fim de atender aos objetivos do projeto, \nfoi elaborada uma proposta de prática pedagógica.\nPara que essa proposta promova o letramento científico, o professor deve\nA\t solicitar uma pesquisa em que os estudantes façam um levantamento junto aos familiares relativo a pendências na carteira \nde vacinação.\nB\t desenvolver um projeto interdisciplinar em que os estudantes investiguem dados científicos sobre vacinação e apresentem \nos resultados em uma feira de ciências com a participação da comunidade escolar.\nC\t promover rodas de conversa em que os estudantes construam um espaço de escuta e reflexão coletiva sobre a importância \ndo conhecimento para a tomada de decisão em relação à escolha das melhores vacinas.\nD\t propor uma prática pedagógica em que os estudantes tenham acesso aos materiais informativos da campanha de vacinação \norganizada pela Secretaria de Saúde na própria unidade escolar.\n\n2025\n*R040420253*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 2,
+      "tipo": "OBJETIVA",
+      "pagina": 2,
+      "x": 64.60639953613281,
+      "y": 554.0209350585938,
+      "x1": 124.34300231933594,
+      "y1": 569.2889404296875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 02"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490716"
+}

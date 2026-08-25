@@ -1,0 +1,86 @@
+QUESTÃO 24
+S1
+S0
+DEC
+0
+1
+2
+3
+entradas
+saídas
+S1
+S0
+0
+1
+2
+3
+0
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+1
+Considere o bloco decodificador ilustrado acima, o qua
+opera segundo a tabela apresentada. Em cada item a seguir
+julgue se a função lógica mostrada corresponde ao circuito
+lógico a ela associado.
+I
+ 
+S1
+S0
+DEC
+0
+1
+2
+3
+A
+B
+II
+S1
+S0
+DEC
+0
+1
+2
+3
+A
+B
+III
+S1
+S0
+DEC
+0
+1
+2
+3
+A
+B
+Assinale a opção correta.
+A
+Apenas um item está certo.
+B
+Apenas os itens I e II estão certos.
+C
+Apenas os itens I e III estão certos.
+D
+Apenas os itens II e III estão certos.
+E
+Todos os itens estão certos.

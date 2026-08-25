@@ -1,0 +1,30 @@
+QUESTÃO 20	
+Uma secretaria municipal de esportes decidiu criar e disponibilizar um site que sirva como portal de 
+comunicação com pessoas da terceira idade. A finalidade é fornecer orientações que propiciem práticas 
+para uma vida mais saudável, além de divulgar eventos esportivos ofertados pelo município para esse 
+público-alvo. O projeto ainda prevê a interação entre os usuários do site, por meio da publicação de fotos, 
+que podem ser curtidas e comentadas.
+A iniciativa de criação do site foi embasada em uma pesquisa mostrando que a maioria da população de 
+terceira idade do município dispõe de acesso à internet, especialmente por meio de dispositivos móveis 
+(smartphones e tablets), embora uma parcela dessa população prefira realizar o acesso com computadores 
+de mesa e notebooks.
+Considerando as informações do texto e as responsabilidades inerentes ao desenvolvimento do site, 
+avalie as afirmações a seguir.
+I.	 A segurança no uso é um fator crítico de usabilidade a ser considerado no projeto de interface para 
+o site, tendo em vista que pessoas da terceira idade são temerosas quanto ao registro de dados 
+pessoais e confidenciais em sites e aplicativos.
+II.	 A responsividade, que pressupõe o uso de valores relativos para definir as dimensões de elementos 
+na estilização de páginas HTML, deve ser considerada na construção do site, tendo em vista que o 
+acesso deve ocorrer através de dispositivos com diferentes tamanhos de tela.
+III.	 A construção de protótipos pode antecipar problemas de design de interação e minimizar custos 
+de desenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o 
+público-alvo e assim possibilitar a validação de usabilidade e da experiência do usuário.
+IV.	 O design participativo é um processo de design de Interação Humano-Computador (IHC) viável 
+para direcionar o projeto de interfaces e de experiência com o usuário do site, pois o público-alvo 
+tende a apresentar dificuldades no manuseio de tecnologias da informação e da comunicação.
+É correto apenas o que se afirma em
+A	 I e II.
+B	 I e III.
+C	 II e IV.
+D	 I, III e IV.
+E	 II, III e IV.

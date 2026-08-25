@@ -1,0 +1,50 @@
+{
+  "id_questao": "q40",
+  "numero": 40,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    25
+  ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 293.28,
+      "y0": 330.573974609375,
+      "x1": 555.56,
+      "y1": 734.28,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q40.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q40.txt",
+  "largura": 1123,
+  "altura": 1712,
+  "confianca": 0.98,
+  "texto_completo": "5\nQUESTÃO 40  \nConsidere que a fi gura abaixo corresponde ao cenário de \num jogo de computador. Esse cenário é dividido em 24 \nquadrados e a movimentação de um personagem entre \ncada quadrado tem custo 1, sendo permitida apenas na \nhorizontal ou na vertical. Os quadrados marcados em preto \ncorrespondem a regiões para as quais os personagens \nnão podem se mover.\nNesse cenário, o algoritmo A* vai ser usado para determinar \no caminho de custo mínimo pelo qual um personagem \ndeve se mover desde o quadrado verde até o quadrado \nvermelho. Considere que, no A*, o custo f(x) = g(x) + h(x) \nde determinado nó x é computado somando-se o custo \nreal g(x) ao custo da função heurística h(x) e que a função \nheurística utilizada é a distância de Manhattan (soma das \ndistâncias horizontal e vertical de x até o objetivo). Desse \nmodo, o custo f(x) do quadrado verde é igual a\nA  2.\nB  3.\nC  5.\nD  7.\nE  9.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q40_fig1.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 40,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 302.347900390625,
+      "y": 342.573974609375,
+      "x1": 371.4579162597656,
+      "y1": 356.4339904785156,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 40"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218685"
+}

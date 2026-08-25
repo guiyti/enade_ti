@@ -1,0 +1,48 @@
+{
+  "id_questao": "q34",
+  "numero": 34,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    21
+  ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 404.504638671875,
+      "x1": 611.7199999999999,
+      "y1": 606.8855590820312,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q34.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q34.txt",
+  "largura": 2475,
+  "altura": 874,
+  "confianca": 0.98,
+  "texto_completo": "Disponível em: www.gov.br/inep. Acesso em: 30 maio 2025.\nQUESTÃO 34\t\nCom base nas características de cada modalidade de ensino, qual alternativa aponta metodologias do ensino presencial e a \ndistância, respectivamente?\nA\t Avaliação Diversificada, com avaliações realizadas por meio de atividades no AVA, participação em fóruns, entregas de \ntrabalhos, provas on-line; Uso de Tecnologias Digitais como ambiente principal de aprendizagem, por meio de plataformas \nvirtuais que centralizam conteúdos, atividades e interações.\nB\t Aulas Expositivas e Práticas, com a possibilidade da realização de aulas teóricas intercaladas com atividades práticas, como \noficinas, laboratórios e observação de campo; Interação Direta, com presença entre estudantes e professores, possibilitando \ntrocas imediatas, durante todas as aulas.\nC\t Interação Direta, em que a aprendizagem é centrada no contato entre estudantes e professores, facilitando discussões, \natividades em grupo, dinâmicas e trocas imediatas; Aprendizagem Autônoma, em que o estudante tem maior responsabilidade \npela gestão do seu tempo e pela construção do próprio conhecimento.\nD\t Ambiente de Aprendizagem Físico, em que a sala de aula, os laboratórios e espaços físicos da instituição são os principais \nlocais de ensino; Formação Interativa, com as relações interpessoais, a convivência acadêmica e o desenvolvimento de \ncompetências socioemocionais sendo estimuladas pela convivência.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 64.6063003540039,
+      "y": 416.504638671875,
+      "x1": 124.34291076660156,
+      "y1": 431.7726135253906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 34"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490863"
+}

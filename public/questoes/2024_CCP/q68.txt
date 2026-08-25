@@ -1,0 +1,6 @@
+QUESTÃO 68	
+Que abordagem de uso do computador pode ser associada a algoritmo de escalonamento de processos?
+A	 Chaveamento circular (round-robin).
+B	 Por loteria (lottery scheduling).
+C	 Tarefa mais curta primeiro (shortest job first).
+D	 Primeiro a chegar, primeiro a ser servido (first-come, first-served).

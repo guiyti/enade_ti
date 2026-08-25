@@ -1,0 +1,57 @@
+{
+  "id_questao": "q21",
+  "numero": 21,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    19,
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 317.15999999999997,
+      "y0": 96.5428466796875,
+      "x1": 603.3199999999999,
+      "y1": 781.56,
+      "coluna": 2
+    },
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 311.15999999999997,
+      "y1": 100.5428466796875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q21.txt",
+  "largura": 1223,
+  "altura": 3088,
+  "confianca": 0.98,
+  "texto_completo": "9\nEsK>s/DEEdK DE ^/^dED ^\nQUESTÃO 21\nK  ŵŽĚĞůŽ  ůſŐŝĐŽ  ĚĞ  ĚĂĚŽƐ  ĨŽƌŶĞĐĞ  ƵŵĂ  ǀŝƐĆŽ  ĚĂ \nŵĂŶĞŝƌĂ ĐŽŵŽ ŽƐ ĚĂĚŽƐ ƐĞƌĆŽ ĂƌŵĂǌĞŶĂĚŽƐ͘    ĮŐƵƌĂ \nĂ ƐĞŐƵŝƌ ƌĞƉƌĞƐĞŶƚĂ Ž ŵŽĚĞůŽ ůſŐŝĐŽ ĚĞ Ƶŵ ĂŵďŝĞŶƚĞ \nŽďƐĞƌǀĂĚŽ Ğŵ Ƶŵ ĞƐĐƌŝƚſƌŝŽ ĐŽŶƚĄďŝů͘\nCPF INT\nnome VARCHAR(45)\nMalha Fina_Identificador INT\nContribuinte_CPF INT\nvalor INT\nquantidade de prestacoes INT\nendereco VARCHAR(60)\ntelefone VARCHAR(15)\nIdentificador INT\nano exercicio DATE\nContribuinte\nContribuinte_Malha Fina\nMalha fina\nIndexes\nContribuinte_CPF INT\nano exercicio DATE\nano base DATE \nvalor INT\nrestituicao ou pagamento BOOLEAN\nDeclaração Imposto de Renda\nIndexes\nIndexes\nIndexes\nEŵ ƌĞůĂĕĆŽ ĂŽ ŵŽĚĞůŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘     ĞŶƟĚĂĚĞ Declaração Imposto de Renda Ġ \nƵŵĂ ĞŶƟĚĂĚĞ ĨƌĂĐĂ͘\n//͘   K ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ĞŶƚƌĞ Contribuinte e Malha\nFina Ġ ĚŽ ƟƉŽ E͗ D ;ŵƵŝƚŽƐ ƉĂƌĂ ŵƵŝƚŽƐͿ͘\n///͘   K  ĂƚƌŝďƵƚŽ  CPF  ĚĂ  ĞŶƟĚĂĚĞ  Contribuinte\nƚĞŵ  Ă  ĨƵŶĕĆŽ  ĚĞ  ĐŚĂǀĞ  ĞƐƚƌĂŶŐĞŝƌĂ  ŶĂ \nĞŶƟĚĂĚĞ Declaração Imposto de Renda Ğ ŶŽ \nƌĞůĂĐŝŽŶĂŵĞŶƚŽ Contribuinte_MalhaFina.\n/s͘      ĞŶƟĚĂĚĞ  Malha Fina  ŶĆŽ  ƉŽƐƐƵŝ  ĐŚĂǀĞ \nƉƌŝŵĄƌŝĂ ƐŽŵĞŶƚĞ ĐŚĂǀĞ ĞƐƚƌĂŶŐĞŝƌĂ͘\nV. K ƌĞůĂĐŝŽŶĂŵĞŶƚŽ Contribuinte_MalhaFina Ġ \nƵŵ ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ƚĞƌŶĄƌŝŽ͘\n\u001e ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA /͕  // Ğ ///͘\nB /͕  // Ğ /s͘\nC /͕  /s Ğ s͘\nD //͕  /// Ğ s͘\nE ///͕  /s Ğ s͘\n*R40201419*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 19,
+      "x": 321.1419982910156,
+      "y": 108.5428466796875,
+      "x1": 383.5948181152344,
+      "y1": 120.5428466796875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:47.903427"
+}

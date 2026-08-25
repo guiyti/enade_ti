@@ -1,0 +1,29 @@
+2
+CO
+ÇÃO
+QUESTÃO 65
+Considere os seguintes itens: (i) características do produto;
+(ii) o modelo de maturidade e capacidade; (iii) o paradigma
+e os métodos de desenvolvimento. A quais níveis de
+abstração 
+de 
+processos 
+esses 
+itens 
+estão,
+respectivamente, associados?
+A
+processo padrão, processo especializado e processo
+instanciado
+B
+processo padrão, processo instanciado e processo
+especializado
+C
+processo instanciado, processo padrão e processo
+especializado
+D
+processo instanciado, processo especializado e
+processo padrão
+E
+processo especializado, processo padrão e processo
+instanciado

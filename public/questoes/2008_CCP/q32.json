@@ -1,0 +1,56 @@
+{
+  "id_questao": "q32",
+  "numero": 32,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 361.8467102050781,
+      "x1": 294.59999999999997,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 14,
+      "x0": 300.59999999999997,
+      "y0": 55.0,
+      "x1": 570.1999999999999,
+      "y1": 70.52682495117188,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q32.txt",
+  "largura": 1154,
+  "altura": 1924,
+  "confianca": 0.98,
+  "texto_completo": "1\nCO\nÇÃO\nQUESTÃO 32\nUma \nempresa \nrealizou \numa \navaliação \nde\ndesempenho de um sistema web. Nessa avaliação, foram\ndeterminados o desvio padrão e a média do tempo de\nresposta do referido sistema, tendo como base 10\nconsultas realizadas. Constatou-se que o tempo de\nresposta do sistema web possui distribuição normal. Para\num nível de confiança de 95%, identificou-se o intervalo de\nconfiança para a média do tempo de resposta das\nconsultas.\nCom relação a essa avaliação de desempenho, julgue os\nitens abaixo.\nI\nCom a medição do tempo de resposta do sistema para\n10 consultas adicionais, é possível que a média e o\ndesvio padrão do tempo de resposta para o conjunto\ndas 20 consultas aumente ou diminua.\nII\nCom a medição do tempo de resposta do sistema para\n15 consultas adicionais, com nível de confiança de\n95%, o intervalo de confiança para o conjunto das 25\nconsultas é maior que o intervalo de confiança para o\nconjunto das 10 consultas iniciais.\nIII Na medição do tempo de resposta das 10 consultas\niniciais, o intervalo de confiança com nível de confiança\nde 99% é maior que o intervalo de confiança com nível\nde confiança de 95%.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 35.99909973144531,
+      "y": 373.8467102050781,
+      "x1": 105.36231231689453,
+      "y1": 384.88671875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229300"
+}

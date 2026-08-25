@@ -1,0 +1,57 @@
+{
+  "id_questao": "q32",
+  "numero": 32,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    36,
+    37
+  ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 781.56,
+      "coluna": 0
+    },
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 603.3199999999999,
+      "y1": 317.4237976074219,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q32.txt",
+  "largura": 2440,
+  "altura": 4075,
+  "confianca": 0.98,
+  "texto_completo": "36\nTECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\nQUESTÃO 32 \nhŵ ĐůŝĞŶƚĞ ƐŽůŝĐŝƚŽƵ Ă ƵŵĂ ĞŵƉƌĞƐĂ Ă ĐƌŝĂĕĆŽ ĚĞ Ƶŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ ƉĂƌĂ ĂƌŵĂǌĞŶĂƌ Ž ƌĞƐƵůƚĂĚŽ ĚĞ \nƵŵĂ ĞůĞŝĕĆŽ ƉƌĞƐŝĚĞŶĐŝĂů͕  ĐŽŵ ĚĂĚŽƐ ƐŽďƌĞ ŽƐ ƉĂƌƟĚŽƐ ƉŽůşƟĐŽƐ͕  ŽƐ ĐĂŶĚŝĚĂƚŽƐ Ğ Ă ǀŽƚĂĕĆŽ ŽďƟĚĂ ƉŽƌ \nĐĂĚĂ ĐĂŶĚŝĚĂƚŽ Ğŵ ĐĂĚĂ ƵŶŝĚĂĚĞ ĚĂ ĨĞĚĞƌĂĕĆŽ͘  K ƐĞŐƵŝŶƚĞ ĚŝĂŐƌĂŵĂ ĚĞ EŶƟĚĂĚĞͲZĞůĂĐŝŽŶĂŵĞŶƚŽ ĨŽŝ \nĞůĂďŽƌĂĚŽ ĐŽŵŽ ƌĞƉƌĞƐĞŶƚĂĕĆŽ ĚŽƐ ƌĞƋƵŝƐŝƚŽƐ ŽďƟĚŽƐ ĐŽŵ Ž ĐůŝĞŶƚĞ͘\n Ɛ ƚĂďĞůĂƐ Ă ƐĞŐƵŝƌ ĐŽŶƚġŵ ŽƐ ĚĂĚŽƐ ƌĞŐŝƐƚƌĂĚŽƐ Ă ƉĂƌƟƌ ĚŽ ƌĞƐƵůƚĂĚŽ ĚĞƐƐĂ ĞůĞŝĕĆŽ͘\nWĂƌƟĚŽ\nIĂŶĚŝĚĂƚŽ\nsŽƚĂĕĆŽ\nŶƷŵĞƌŽ\nŶŽŵĞ\nƐŝŐůĂ\nŶƷŵĞƌŽ\nŶŽŵĞ\nƉĂƌƟĚŽ\nǀŽƚŽƐ\nĞƐƚĂĚŽ\n91\nWĂƌƟĚŽ 1\nW1\n91\nIĂŶĚŝĚĂƚŽ 1\n91\n12 345\n I\n92\nWĂƌƟĚŽ 2\nW2\n92\nIĂŶĚŝĚĂƚŽ 2\n91\n98 323\nWE\n93\nWĂƌƟĚŽ 3\nW3\n93\nIĂŶĚŝĚĂƚŽ 3\n91\n1 726 453\n^W\n94\nWĂƌƟĚŽ 4\nW4\n94\nIĂŶĚŝĚĂƚŽ 4\n92\n98 463\n I\n95\nWĂƌƟĚŽ 5\nW5\n95\nIĂŶĚŝĚĂƚŽ 5\n92\n192 837\nWE\n92\n4 283 747\n^W\n93\n16 253\n I\n93\n293 845\nWE\n93\n6 253 745\n^W\n94\n98 372\n I\n94\n598 333\nWE\n94\n8 271 347\n^W\n95\n46 837\n I\n95\n327 264\nWE\n95\n5 938 374\n^W\nsigla\nnome\nnumero\nCandidato\nPartido\nVotacao\nnome\nnumero\npartido\nestado\nFilia\n1\n1\n1\nN\nPossui\nvotos\n\nIŽŵ ďĂƐĞ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ Ğ ŶĂ ƐŝƚƵĂĕĆŽ ĂƉƌĞƐĞŶƚĂĚĂ͕  ƋƵĂů Ž ĐŽŵĂŶĚŽ ^Y> ƋƵĞ ƐĞůĞĐŝŽŶĂ ĐŽƌƌĞƚĂŵĞŶƚĞ \nŽƐ ŶŽŵĞƐ ĚŽƐ ĐĂŶĚŝĚĂƚŽƐ͕  ƐĞƵƐ ƉĂƌƟĚŽƐ Ğ Ž ƚŽƚĂů ĚĞ ǀŽƚŽƐ ĚĞ ĐĂĚĂ ƉĂƌƟĚŽ ŶĞƐƐĂ ĞůĞŝĕĆŽ͍\nA SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero;\nB SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome;\nC SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome;\nD SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v \nWHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome, \np.nome, SUM(v.votos);\nE SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome, v.votos;\n*R41201737*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 124.55430603027344,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:12:15.182946"
+}

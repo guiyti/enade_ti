@@ -1,0 +1,41 @@
+so de
+da de
+e os
+em e
+redes
+to de
+essos
+cação
+ pelo
+ários
+a da
+P/IP é
+adas:
+o, de
+2.11,
+a vez
+ogia.
+ar por
+nada
+,
+,
+QUESTÃO 38
+No circuito acima, que possui cinco entradas — A,
+B, C, D e E — e uma saída f (A, B, C, D, E), qual
+opção apresenta uma expressão lógica equivalente
+à função f (A, B, C, D, E)?
+A
+B
+C
+D
+E
+A
+B
+C
+D
+E
+f A B C D E
+( , ,
+,
+,
+)

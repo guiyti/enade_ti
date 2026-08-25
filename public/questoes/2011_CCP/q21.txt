@@ -1,0 +1,28 @@
+3
+p
+p
+ç
+QUESTÃO 21  
+No desenvolvimento de um software que analisa bases de 
+DNA, representadas pelas letras A, C, G, T, utilizou-se as 
+estruturas de dados: pilha e fi la. Considere que, se uma 
+sequência representa uma pilha, o topo é o elemento mais 
+à esquerda; e se uma sequência representa uma fi la, a 
+sua frente é o elemento mais à esquerda. 
+Analise o seguinte cenário: “a sequência inicial fi cou 
+armazenada na primeira estrutura de dados na seguinte 
+ordem: (A,G,T,C,A,G,T,T). Cada elemento foi retirado 
+da primeira estrutura de dados e inserido na segunda 
+estrutura de dados, e a sequência fi cou armazenada na 
+seguinte ordem: (T,T,G,A,C,T,G,A). Finalmente, cada 
+elemento foi retirado da segunda estrutura de dados e 
+inserido na terceira estrutura de dados e a sequência fi cou 
+armazenada na seguinte ordem: (T,T,G,A,C,T,G,A)”.
+Qual a única sequência de estruturas de dados 
+apresentadas a seguir pode ter sido usada no cenário 
+descrito acima?
+A   Fila - Pilha - Fila.
+B   Fila - Fila - Pilha.
+C   Fila - Pilha - Pilha.
+D   Pilha - Fila - Pilha.
+E   Pilha - Pilha - Pilha.

@@ -1,0 +1,48 @@
+{
+  "id_questao": "q65",
+  "numero": 65,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    24
+  ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 301.08,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 342.235595703125,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q65.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q65.txt",
+  "largura": 1156,
+  "altura": 1227,
+  "confianca": 0.98,
+  "texto_completo": "A análise de complexidade provê critérios para a classificação\nde problemas com base na computabilidade de suas soluções,\nutilizando-se a máquina de Turing como modelo referencial e\npossibilitando o agrupamento de problemas em classes. Nesse\ncontexto, julgue os itens a seguir.\nI\nÉ possível demonstrar que P f NP e NP f P.\nII\nÉ \npossível \ndemonstrar \nque \nse \nP  \nNP, \nentão\nP 1 NP-Completo = i.\nIII Se um problema Q é NP-difícil e Q 0 NP, então Q é\nNP-completo.\nIV O problema da satisfatibilidade de uma fórmula booleana F\n(uma fórmula é satisfatível, se é verdadeira em algum\nmodelo) foi provado ser NP-difícil e NP-Completo.\nV\nEncontrar o caminho mais curto entre dois vértices dados\nem um grafo de N vértices e M arestas não é um problema\nda classe P.\nEstão certos apenas os itens\nA I, III e IV.\nB II, III, e IV.\nC III, IV e V.\nD I, II, III, e IV.\nE II, III, IV e V.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 65,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 316.1400146484375,
+      "y": 48.555572509765625,
+      "x1": 362.5680236816406,
+      "y1": 54.55557632446289,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 65"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796754"
+}

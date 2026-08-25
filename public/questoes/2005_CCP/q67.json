@@ -1,0 +1,91 @@
+{
+  "id_questao": "q67",
+  "numero": 67,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    25,
+    26,
+    27,
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 454.5755920410156,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 0
+    },
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 295.08,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 26,
+      "x0": 301.08,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 2
+    },
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 342.20654296875,
+      "coluna": 0
+    },
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 295.08,
+      "y1": 70.19558715820312,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q67.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q67.txt",
+  "largura": 2306,
+  "altura": 8964,
+  "confianca": 0.9,
+  "texto_completo": "Á\nÃ\n24\nQUESTÃO 67\nA redução da pirataria de software no Brasil e no mundo\né resultado de esforços advindos da iniciativa privada e das\nentidades representativas do setor. Um estudo objetivando\nmensurar o índice de pirataria no mundo e os benefícios de sua\nredução apresentou os gráficos acima, obtidos de uma amostra\nde 57 países, incluindo-se o Brasil. \nCom base nas informações apresentadas, é correto afirmar que\nI\na taxa de redução do índice de pirataria de software no mundo\nmanteve-se constante ano após ano no período mostrado.\nII\no Brasil reduziu em torno de 25% seu índice de pirataria de\nsoftware, comparando os anos de 1994 e 2002.\nIII o Brasil foi, entre os países mostrados, o que apresentou a maior\nredução do índice de pirataria no período estudado.\nIV países com maior participação do setor de TI no PIB apresentam,\nnormalmente, menores índices de pirataria.\nV\no Brasil apresentou aumento de faturamento no período de 2000\na 2002, apesar do aumento de pirataria.\nEstão certos apenas os itens\nA I e II.\nD III e V.\nB I e III.\nE IV e V.\nC II e IV.\nRASC UNH O\n\nÁ\nSuponha que uma empresa esteja projetando um protocolo de\ntransporte orientado a conexão. Suponha, ainda, que os projetistas\ntenham pouca experiência e que alguns requisitos originalmente\nlistados não sejam típicos de um protocolo de transporte\norientado a conexão. A seguir, apresenta-se a lista dos\nrequisitos propostos pela equipe de projetistas.\nI\nO protocolo deve controlar a transmissão por meio de\nmecanismo de janela deslizante (sliding window). Vários\npacotes poderão ser enviados antes de a origem aguardar uma\nconfirmação de recepção. O número máximo de pacotes\ntransmitidos antes de uma confirmação ser recebida será\nvariável, o que possibilitará o controle do fluxo dos dados. \nII\nO protocolo deve rotear os pacotes entre redes interligadas.\nO roteamento deve ser realizado a partir das informações em\ntabelas de roteamento. Em uma tabela de roteamento, cada\nentrada deve conter o endereço de um destino e o endereço da\npróxima máquina para a qual os pacotes devem ser enviados,\nde modo a serem encaminhados para o destino.\nIII Uma comunicação passará por três fases: estabelecimento da\nconexão, transferência dos dados e término da conexão. O\nprotocolo manterá informações sobre uma conexão em uma\nestrutura de dados. Uma instância dessa estrutura será alocada\nquando uma conexão for estabelecida e será liberada quando\na conexão for terminada.\nIV O protocolo deve calcular dinamicamente o tempo (timeout)\nque a origem de um pacote deve aguardar até retransmitir a\ninformação \ncaso \na \nrecepção \nnão \nseja \nconfirmada,\npossibilitando que atrasos variáveis sejam acomodados. Isso\ndeverá ser feito por meio de um algoritmo de retransmissão\nadaptativo que periodicamente ajuste o timeout.\nPara um protocolo de transporte orientado a conexão, são\nadequados apenas os requisitos\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.\n\nÃ\n25\nA rede de uma empresa cujo esquema está ilustrado\nacima é composta por 4 redes TCP/IP locais. Essas redes\nTCP/IP são interligadas por uma rede X.25, que opera\ncomo túnel para as 4 redes. As placas dos computadores\npertencentes a essas redes são numeradas com endereços IP\ndas redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a\nrede no acesso à Internet, sendo que, a partir de qualquer\nmáquina na rede, pode-se acessar a Internet. \nA partir dessas informações, julgue os itens a seguir, relativos à\nrede da referida empresa, considerando o seu correto\nfuncionamento.\nI\nÉ correto utilizar a máscara 255.255.0.0 para segmentar a\nrede.\nII\nOs endereços de E1 a E9 podem ser endereços na rede\n10.0.0.0.\nIII\nOs endereços E2, E4, E5 e E7 devem estar em uma mesma\nsub-rede.\nIV\nO endereço E10 deve ser um endereço na rede 164.41.0.0.\nV\nO firewall deve traduzir entre os endereços na rede 10.0.0.0\ne os endereços na rede 164.41.0.0.\nVI\nOs pacotes X.25 são transferidos dentro de pacotes IP.\nVII Não devem ter sido atribuídos endereços X.25 aos\nroteadores 1, 2, 3 e 4.\nVIII A rota default nas tabelas de roteamento dos roteadores\n1, 3 e 4 é o endereço E4.\nIX\nA rota default na tabela de roteamento do roteador 2 é o\nendereço E10.\nX\nOs endereços na rede 10.0.0.0 são visíveis pelas máquinas\nque estiverem na Internet.\nEstão certos apenas os itens\nA I, II, III, V, VIII e X.\nB I, II, III, IV, V e VIII.\nC II, IV, V, VIII, IX e X.\nD III, V, VI, VII, VIII e IX.\nE III, IV, V, VII, VIII e IX.\n\nA máquina finita de estados (MFE) cujo diagrama é visto ao lado\nreconhece seqüências de caracteres compostos pelas letras I, V e X, que\nrepresentam, em notação romana, números correspondentes ao intervalo de\n1 a 9, na notação arábica. Considere que todas as sentenças de entrada da\nMFE representam números romanos válidos, ou seja, a MFE não tem\nmecanismo de tratamento de erros. Observe a correspondência da\nrepresentação dos alfabetos romano e arábito fornecida pela tabela abaixo.\nalfabeto\n Notação:\nromano\narábico\n  \nestado inicial\n         \nestado final j\n         \nn é o número máximo de transições possíveis no respectivo estado\n   \ntransição após reconhecimento do caractere \"\nI\n  1\nV\n  5\nX\n 10\nL\n50\nC\n100\nD\n500\nConsiderando essas informações, estenda a MFE apresentada acima para:\na) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.\n(valor: 5,0 pontos)\n\nENGENHARIA DE",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig1.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig2.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig3.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig4.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig5.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig6.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q67_fig7.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 67,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 39.36000061035156,
+      "y": 466.5755920410156,
+      "x1": 85.78800201416016,
+      "y1": 472.5755920410156,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 67"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796765"
+}

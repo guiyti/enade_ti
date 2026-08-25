@@ -1,0 +1,20 @@
+ç
+,
+ç
+QUESTÃO 41	
+No tema bancos de dados relacionais, as metodologias ativas podem favorecer abordagens pedagógicas para ensinar tanto 
+os fundamentos da modelagem de dados e da teoria relacional, quanto habilidades práticas, como a criação de diagramas 
+entidade-relacionamento e a elaboração de consultas em SQL. Em bancos de dados orientados a objetos, atividades práticas 
+colaborativas podem ser propostas para exercitar o armazenamento de informações, de acordo com os princípios do paradigma 
+de orientação a objetos.
+Os estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a 
+justificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?
+
+2025
+Texto para questões 42 e 43
+Uma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da 
+conectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição 
+possui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e 
+nenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture 
+a rede da escola para testar diferentes configurações.
+*R0404202524*

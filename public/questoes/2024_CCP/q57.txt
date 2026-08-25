@@ -1,0 +1,22 @@
+p
+p
+QUESTÃO 57	
+Para que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções 
+matemáticas, a técnica de programação que favorece essa integração baseia-se na
+A	 modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como 
+funções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.
+B	 utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis 
+e bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica 
+de uma função matemática.
+C	 aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em 
+pequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação 
+completa dos dados.
+D elaboração de algoritmos como uma sequência de respostas a eventos associando funções a interações específicas como as
+
+2025
+Texto para questões de 58 a 60
+Em uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades 
+com o desenvolvimento das habilidades: organizar ideias, resolver problemas por etapas e propor soluções em atividades 
+interdisciplinares. Os professores almejam ajudar os estudantes a decompor problemas complexos em partes menores, identificar 
+padrões em situações semelhantes, abstrair informações essenciais e criar algoritmos simples para descrever soluções.
+*R0404202530*

@@ -1,0 +1,29 @@
+QUESTÃO 32	
+Um empreendedor, com o auxílio de um tecnólogo em gestão da tecnologia da informação, precisa definir 
+um sistema operacional que ofereça suporte adequado ao aplicativo inovador a ser desenvolvido, que 
+alavancará os negócios da startup. O objetivo é atingir o máximo de usuários possíveis e conseguir alto 
+desempenho de processamento em dispositivos móveis. Ao pesquisar na internet, encontrou a seguinte 
+notícia de um fabricante:
+“Entre as novidades, o sistema operacional ABC para dispositivos móveis terá, entre outros recursos, nova 
+página inicial e nova tela de bloqueio, que é ligada assim que o aparelho é suspenso.
+Houve mudança, também, no app de fotos, que ficou mais inteligente, sendo capaz de reconhecer rostos 
+e de mostrar imagens em um mapa. No app de mensagens passou a ser possível enviar textos escritos à 
+mão e desenhos animados.
+A empresa abriu o seu assistente de linguagem natural para desenvolvedores externos. Assim, será possível 
+solicitar carro nos aplicativos mais conhecidos, publicar foto nos apps mais populares, fazer chamada no 
+Skype por comando de voz e enviar mensagens usando apps como WeChat ou WhatsApp. Também será 
+possível fazer buscas por fotos, documentos, músicas e outros arquivos por comando de voz."
+Disponível em: http://veja.abril.com.br/tecnologia. Acesso em: 3 jul. 2017 (adaptado).
+Como indica a notícia, o ABC possibilitará novas oportunidades de desenvolvimento de aplicativos com 
+interfaces mais naturais e imediatas, mostrando-se ideal para os negócios da startup. Analisando as 
+características técnicas, o tecnólogo afirmou, corretamente, que o sistema operacional ABC
+A	 teve suas funções básicas ampliadas em seu kernel, possibilitando uma maior capacidade de 
+processamento dos aplicativos independente da arquitetura do dispositivo.
+B	 teve sua capacidade natural ampliada em função das mudanças no app de fotos, com isto o seu kernel 
+passou a executar menos processos tornando o dispositivo mais rápido.
+C	 sofreu alteração na camada de apresentação, sua nova página inicial é tratada por um ou mais 
+processos e seu kernel continua sendo responsável por escalonar os processos dos aplicativos.
+D	 sofreu mudanças significativas em seu kernel, que passou a residir em um dispositivo fora da memória, 
+com isso, pode haver mais processos em execução, deixando o dispositivo mais rápido.
+E	 teve as funçoes do kernel reduzidas, assim os processos relativos à gerência de memória não são mais 
+tratados pelo módulo de escalonamento, o que deixa o desempenho do dispositivo muito melhor.

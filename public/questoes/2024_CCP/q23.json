@@ -1,0 +1,57 @@
+{
+  "id_questao": "q23",
+  "numero": 23,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14,
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 388.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 437.6299133300781,
+      "coluna": 0
+    },
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 86.02613830566406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.txt",
+  "largura": 2475,
+  "altura": 377,
+  "confianca": 0.98,
+  "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de\n\n2025\n*R0404202515*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 64.6063003540039,
+      "y": 400.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 416.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490811"
+}

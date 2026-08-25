@@ -1,0 +1,29 @@
+QUESTÃO 29  
+Uma antiga empresa de desenvolvimento de software 
+resolveu atualizar toda sua infraestrutura computacional 
+adquirindo 
+um 
+sistema 
+operacional 
+multitarefa, 
+processadores multi-core (múltiplos núcleos) e o uso de 
+uma linguagem de programação com suporte a threads.
+O sistema operacional multitarefa de um computador 
+é capaz de executar vários processos (programas) em 
+paralelo. Considerando esses processos implementados 
+com mais de uma thread (multi-threads), analise as 
+afirmações abaixo.
+I. 
+Os ciclos de vida de processos e threads são idênticos.
+II. Threads de diferentes processos compartilham 
+memória.
+III. Somente processadores multi-core são capazes 
+de executar programas multi-threads.
+IV. Em sistemas operacionais multitarefa, threads 
+podem migrar de um processo para outro.
+É correto apenas o que se afirma em
+A   I.
+B   II.
+C   I e III.
+D   I e IV.
+E   II e IV.

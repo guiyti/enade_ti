@@ -1,0 +1,90 @@
+QUESTÃO DISCURSIVA 05	
+Com a finalidade de melhorar o atendimento e priorizar os casos mais urgentes, a direção de um hospital 
+criou um sistema de triagem em que um profissional da saúde classifica a ordem de atendimento com 
+base numa avaliação prévia do paciente, entregando-lhe um cartão numerado verde (V) ou amarelo (A), 
+que define o menor ou maior grau de urgência da ocorrência, respectivamente. Para informatizar esse 
+processo, o software desenvolvido tem como base o seguinte trecho de código-fonte:
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+34 
+35 
+36 
+37 
+struct lista { 
+int numero; 
+char cor; 
+struct lista* prox; 
+}; 
+typedef struct lista Lista; 
+Lista* inserir_fim(Lista* l, Lista* no) { 
+Lista* aux; 
+no->prox = NULL; 
+aux = l; 
+while (aux->prox != NULL) 
+aux = aux->prox; 
+aux->prox = no; 
+return l; 
+} 
+Lista* inserir(Lista* l, int numero, char cor) { 
+Lista* no = (Lista*) malloc(sizeof(Lista)); 
+no->numero = numero; 
+no->cor = cor; 
+if (l == NULL) { 
+no->prox = l; 
+l = no; 
+} else { 
+if (no->cor == 'V') 
+l = inserir_fim(l, no); 
+else 
+l = inserir_prioridade(l, no); 
+} 
+return l; 
+}
+
+Na linha 21, a função inserir recebe o número e a cor do cartão entregue ao paciente na triagem. 
+Pacientes com cartão verde são inseridos no final da fila pela função inserir_fim (linhas 9-19). 
+Pacientes com cartão amarelo têm prioridade no atendimento e são inseridos no início da fila, 
+em ordem de chegada, pela função inserir_prioridade. Portanto, se são entregues os cartões 
+10-V, 11-V, 5-A, 12-V e 6-A, nessa ordem, a fila deve ficar assim organizada:
+5 A
+10
+1
+6 A
+V
+11 V
+12 V
+Considerando o processo de triagem descrito e o trecho de código-fonte apresentado, implemente a 
+função inserir_prioridade conforme indicado.
+Lista* inserir_prioridade(Lista* l, Lista* no)
+(valor: 10,0 pontos)

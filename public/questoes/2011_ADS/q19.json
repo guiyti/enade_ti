@@ -1,0 +1,48 @@
+{
+  "id_questao": "q19",
+  "numero": 19,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    12
+  ],
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 523.3363037109375,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q19.txt",
+  "largura": 1123,
+  "altura": 909,
+  "confianca": 0.98,
+  "texto_completo": "1\nQUESTÃO 19  \nCom relação ao valor lógico, avalie as afirmações a seguir.\nI. \n¬ (p ^¬q)\nII. p→(q→p)\nIII. (pv¬q)→¬p\nIV. (p^q)v(¬p^¬q)\nÉ tautologia apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE   III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 34.143890380859375,
+      "y": 535.3363037109375,
+      "x1": 103.25387573242188,
+      "y1": 549.1962890625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235164"
+}

@@ -1,0 +1,20 @@
+q
+QUESTÃO 67	
+Qual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?
+A	 Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos 
+de memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.
+B	 Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de 
+desempenho e valores de mercado, aplicando conceitos estatísticos.
+C	 Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia 
+de memória e suas características, classificando as memórias por custo.
+D Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e
+
+2025
+Texto para questões 68 e 69
+Um professor de Computação, durante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estudantes e que 
+o local disponibilizado para uma aula de 60 minutos possui apenas 1 computador. O professor então informa aos estudantes que 
+eles irão revezar o uso do computador. O primeiro estudante a comparecer na sala de aula terá acesso imediato ao computador. 
+Os demais, por ordem de chegada, formarão e permanecerão em uma fila de espera. Cada estudante poderá utilizar o computador 
+por 5 minutos. Após esse tempo, o estudante voltará para o final da fila. O professor explicou que os estudantes seriam 
+comparáveis aos processos e que o esquema utilizado para uso do computador seria comparável ao escalonador de processos.
+*R0404202533*

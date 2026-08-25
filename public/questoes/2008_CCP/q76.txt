@@ -1,0 +1,26 @@
+QUESTÃO 76
+Considere o esquema de relação Cliente(CPF, nome, RGem
+RGnro, endereco, loginemail, dominioemail) e as s
+dependências funcionais (DF) válidas sobre o esquema:
+DF1: CPF ÷ nome, RGemissor, RGnro, endereco, logi
+dominioemail
+DF2: RGemissor, RGnro ÷ CPF, nome, endereco, logi
+dominioemail
+DF3: loginemail, dominioemail ÷ CPF
+Qual é o conjunto completo de chaves candidatas de Clien
+que forma normal mais alta essa relação está?
+A
+{(RGemissor, RGnro), (CPF)}, na Forma Normal de
+Codd (FNBC).
+B
+{(RGemissor, RGnro), (CPF)}, na Segunda Forma
+(2FN).
+C
+{(loginemail, dominioemail)}, na Forma Normal de
+Codd (FNBC).
+D
+{(RGemissor, RGnro), (loginemail, dominioe
+(CPF)}, na Forma Normal de Boyce-Codd (FNBC).
+E
+{(RGemissor, RGnro), (loginemail, dominioe
+(CPF)}, na Segunda Forma Normal (2FN).

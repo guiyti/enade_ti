@@ -1,0 +1,88 @@
+3
+CO
+ÇÃO
+QUESTÃO 77
+Considere que você trabalhe em uma empresa de desenvo
+de software e que a empresa tenha decidido desenvolver u
+editor de texto para colocar no mercado. Esse editor deve
+software que forneça recursos adicionais de apoio à 
+embasado no estilo de escrita do usuário, o que o torna um 
+de funcionalidade mais complexa. Considere que a empres
+disponibilizar o produto no mercado em versões que agregu
+suporte de forma gradativa, fazendo análise de risco para 
+viabilidade de desenvolvimento de uma nova versão. Te
+escolher um modelo de processo para desenvolver esse 
+conhecendo as características dos modelos existentes, 
+modelos abaixo, qual é o modelo apropriado para esse cas
+A
+cascata
+B
+espiral
+C
+RAD (rapid application development)
+D
+prototipação
+E
+cleanroom
+
+em uma empresa
+eços IP privados.
+o nas redes dessa
+nsiderando que os
+dor WWW externo
+reços IP de origem
+ão a esse servidor?
+Roteador do Provedor
+WAN
+138.76.28.4
+10.0.0.254
+10.0.0.1
+Computador A
+10.0.0.2
+Computador B
+10.0.0.10
+LAN
+Roteador com NAPT
+
+Texto para as questões 78 e 79
+A Secretaria de Saúde de determinado município
+executando um projeto de automação do seu sistem
+atendimento médico e laboratorial, atualmente manual. O ob
+do projeto é melhorar a satisfação dos usuários com relaçã
+serviços prestados pela Secretaria. O sistema automatizado
+contemplar os seguintes processos: marcação de con
+manutenção de prontuário do paciente, além do pedido 
+registro de resultados de exame laboratorial.
+A Secretaria possui vários postos de saúde e cad
+deles atende a um ou mais bairros do município. As consu
+cada paciente são realizadas no posto de saúde mais próxim
+onde ele reside. Os exames laboratoriais são realizados
+laboratórios terceirizados e conveniados.
+A solução proposta pela equipe de desenvolvime
+implantação da automação contempla, entre outros, os segu
+aspectos:
+<
+sistema computacional do tipo cliente-servidor na web, em
+cada usuário cadastrado utiliza login e senha para fazer u
+sistema;
+<
+uma aplicação, compartilhada por médicos e laborató
+gerencia o pedido e o registro de resultados dos exa
+Durante uma consulta o próprio médico registra o pedid
+exames no sistema;
+<
+uma aplicação, compartilhada por médicos e pacie
+permite que ambos tenham acesso aos resultados
+exames laboratoriais; 
+<
+uma aplicação, compartilhada por médicos e pacientes
+automatiza o prontuário dos pacientes, em que os registro
+prontuário, efetuados por cada médico para cada pac
+estão disponíveis apenas para o paciente e o m
+específicos. Além disso, cada médico pode fazer reg
+privados no prontuário do paciente, apenas visíveis por 
+<
+uma aplicação, compartilhada por pacientes e atendente
+postos de saúde, que permite a marcação de consulta
+pacientes e(ou) por atendentes. Esses atendentes atend
+paciente no balcão ou por telefone.

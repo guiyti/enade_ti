@@ -1,0 +1,48 @@
+{
+  "id_questao": "q28",
+  "numero": 28,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    33
+  ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 286.56,
+      "y0": 64.71854400634766,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q28.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q28.txt",
+  "largura": 1095,
+  "altura": 2823,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 28\t\nTEXTO I\nGerenciamento por Processos do Negócio é \na tradução do inglês para Business Process \nManagement (BPM), conceito que estabelece \numa forma de mapear fluxos de trabalho em \norganizações. Por essa abordagem, as organizações \nsó agregam valores aos clientes, a partes \ninteressadas e a si próprias se os processos de \nnegócios forem otimizados continuadamente. \nROJAS, R. et al. Utilização da Metodologia BPMB para adequação \nde um sistema de Gestão Integrada e Retenção de Conhecimento \nem uma Instituição Pública de Ensino Superior. Revista GUAL. \nFlorianópolis, Edição especial 2011, p.115-132 (adaptado).\nTEXTO II\nA especificação Business Process Model and \nNotation (BPMN) tem como principal objetivo \ndisponibilizar uma notação padrão de mercado \ncompreensível para os usuários e analistas de \nprocessos de negócio, bem como para os técnicos e \nprogramadores que irão automatizar, implementar \ne monitorar a tecnologia que irá suportar os \nprocessos.\n CAVALCANTI, R. Modelagem de Processos de Negócios. \nRio de Janeiro: Brasport, 2017 (adaptado).\nSobre BPM e BPMN, avalie as afirmações a seguir.\nI.\t O BPM permite modelar um processo \nexistente e simular propostas de melhoria.\nII.\t O BPM não se resume apenas ao desenho \ne à implantação dos processos de negócio, \nmas também inclui o controle executivo, \nadministrativo e de supervisão sobre \neles, favorecendo que permaneçam em \nconformidade com os objetivos de negócios.\nIII.\t A BPMN é uma linguagem gráfica utilizada \npara representação de processos e exige que \ntodas as atividades dos processos modelados \nsejam detalhadamente representadas.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 289.464599609375,
+      "y": 76.71854400634766,
+      "x1": 354.6246337890625,
+      "y1": 92.04254150390625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 28"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:33.727155"
+}

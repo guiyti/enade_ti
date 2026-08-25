@@ -1,0 +1,56 @@
+{
+  "id_questao": "q78",
+  "numero": 78,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    33
+  ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 25.0,
+      "y0": 486.6466979980469,
+      "x1": 294.59999999999997,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 33,
+      "x0": 300.59999999999997,
+      "y0": 55.0,
+      "x1": 570.1999999999999,
+      "y1": 72.44668579101562,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q78.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q78.txt",
+  "largura": 1154,
+  "altura": 1411,
+  "confianca": 0.98,
+  "texto_completo": "3\nCO\nÇÃO\nQUESTÃO 78\nConsiderando o contexto acima, julgue os seguintes itens.\nI\nNo contexto do projeto acima descrito, aquele \ndesempenha o papel de usuário do sistema de inform\nautomatizado não é apenas o paciente, e aquele\ndesempenha o papel de cliente pode não ser um médic\nII\nO sistema de informação manual atualmente em us\nreferida secretaria de saúde não dá suporte aos process\nnegócio dessa secretaria.\nIII O projeto de automação dos serviços de saúde não é\nsolução de outsourcing.\nIV No sistema acima, os riscos de não-repúdio são aument\ncom a automação.\nV Para o gestor do sistema de informação a ser automatiz\na acessibilidade é uma característica de menor import\njurídica frente à necessidade de ampliar a confidencialid\nEstão certos apenas os itens\nA I e II.\nB I e III.\nC II e IV.\nD III e V.\nE IV e V.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 78,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 35.99909973144531,
+      "y": 498.6466979980469,
+      "x1": 105.36231231689453,
+      "y1": 509.68670654296875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 78"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229571"
+}

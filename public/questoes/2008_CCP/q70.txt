@@ -1,0 +1,32 @@
+2
+CO
+ÇÃO
+QUESTÃO 70
+Ethernet e suas evoluções de 100 Mbps e 1 Gbps sã
+tecnologias padronizadas para comunicações em redes loca
+com infra-estrutura de transmissão compartilhada. Acerca d
+transmissões que usam essas tecnologias, assinale a opçã
+incorreta.
+A
+Embora diversos segmentos de uma rede possam s
+definidos com o uso de equipamentos de comutaçã
+(switches), transmissões de pacotes com endereço d
+broadcast (difusão) atingem todos os computadores 
+mesma rede.
+B
+O mecanismo de controle de acesso ao meio utilizado
+distribuído e, nas redes com concentradores (hubs), cad
+interface de rede deve determinar quando é possív
+realizar uma transmissão.
+C
+Comutadores (switches) realizam o encaminhamen
+seletivo de quadros com base nos endereços IP de cad
+estação.
+D
+A escuta do meio durante as transmissões perm
+detectar colisões em segmentos compartilhados e 
+necessidade de retransmissões, mas não há envio d
+quadros (frames) de confirmação de recebimento.
+E
+Um mecanismo de controle de consistência é usado pa
+verificar a integridade de cada quadro (frame) transmitid

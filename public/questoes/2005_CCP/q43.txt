@@ -1,0 +1,15 @@
+No processo de pesquisa binária em um vetor ordenado, os
+números máximos de comparações necessárias para se
+determinar se um elemento faz parte de vetores com tamanhos
+50, 1.000 e 300 são, respectivamente, iguais a
+A 5, 100 e 30.
+B 6, 10 e 9.
+C 8, 31 e 18.
+D 10, 100 e 30.
+E 25, 500 e 150.
+R
+f
+m
+A
+B
+C

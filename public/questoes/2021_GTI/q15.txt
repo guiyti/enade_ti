@@ -1,0 +1,18 @@
+QUESTÃO 15	
+A implantação de soluções tecnológicas baseadas em software como um serviço (SaaS - Software as 
+a Service) é uma tendência mundial. São exemplos o Google Apps e o Sales Force.
+MANOEL, V. Cloud Computing: nova Arquitetura da TI. Rio de Janeiro: Brasport, 2012 (adaptado).
+Acerca da arquitetura computacional de tecnologias baseadas em SaaS, avalie as asserções a seguir e a 
+relação proposta entre elas.
+I.	 Os SaaS são soluções hospedadas na nuvem para uma grande quantidade de clientes, como uma 
+alternativa ao processamento local.
+PORQUE 
+II.	 Os softwares oferecidos como um serviço por provedores são acessados pelos clientes por meio 
+de navegadores, já o gerenciamento da rede, dos sistemas operacionais, dos servidores e do 
+armazenamento é realizado principalmente pelo provedor de serviços.
+A respeito dessas asserções, assinale a alternativa correta.
+A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+E	 As asserções I e II são proposições falsas.

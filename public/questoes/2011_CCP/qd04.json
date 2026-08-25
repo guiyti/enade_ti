@@ -1,0 +1,48 @@
+{
+  "id_questao": "qd04",
+  "numero": 4,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    19
+  ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 434.2294921875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.txt",
+  "largura": 2241,
+  "altura": 1605,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 4\nListas ordenadas implementadas com vetores são estruturas \nde dados adequadas para a busca binária, mas possuem o \ninconveniente de exigirem custo computacional de ordem linear \npara a inserção de novos elementos. Se as operações de inserção \nou remoção de elementos forem frequentes, uma alternativa é \ntransformar a lista em uma árvore binária de pesquisa balanceada, \nque permitirá a execução dessas operações com custo logarítmico.\nConsiderando essas informações, escreva um algoritmo recursivo que construa uma árvore binária de pesquisa \ncompleta, implementada por estruturas auto-referenciadas ou apontadores, a partir de um vetor ordenado, v, de n \ninteiros, em que n = 2m - 1, m > 0. O algoritmo deve construir a árvore em tempo linear, sem precisar fazer qualquer \ncomparação entre os elementos do vetor, uma vez que este já está ordenado. Para isso,\na) descreva a estrutura de dados utilizada para a implementação da árvore (valor = 2,0 pontos)\nb) escreva o algoritmo para a construção da árvore. A chamada principal à função recursiva deve passar, como \nparâmetros, o vetor, índice do primeiro e último elementos, retornando a referência ou apontador para a raiz da \nárvore criada (valor: 8,0 pontos).\nObservação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser \nconsiderada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "DISCURSIVA",
+      "pagina": 19,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 155.273193359375,
+      "y1": 82.03392791748047,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO DISCURSIVA 4"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218641"
+}

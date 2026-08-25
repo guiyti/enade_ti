@@ -1,0 +1,57 @@
+{
+  "id_questao": "q28",
+  "numero": 28,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    36,
+    37
+  ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 504.65777587890625,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    },
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q28.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q28.txt",
+  "largura": 2185,
+  "altura": 3837,
+  "confianca": 0.98,
+  "texto_completo": "E\n,\nq\np\nj\n[\n,\n]\nQUESTÃO 28\t\nA figura 1 ilustra um pipeline com cinco unidades, também denominadas estágios. O estágio 1 busca \na instrução na memória e a coloca em um buffer até que ela seja necessária. O estágio 2 decodifica \na instrução, determina seu tipo e de quais operandos ela necessita. O estágio 3 localiza e busca os \noperandos, seja nos registradores, seja na memória. O estágio 4 é que realiza o trabalho de executar \na instrução, normalmente fazendo os operandos passar pelo caminho de dados. Por fim, o estágio 5 \nescreve o resultado de volta no registrador adequado. Na figura 2, vemos como o pipeline funciona em \nfunção do tempo. Durante o ciclo de relógio 1, o estágio S1 está trabalhando na instrução 1, buscando-a \nna memória. Durante o ciclo 2, o estágio S2 decodifica a instrução 1, enquanto o estágio S1 busca a \ninstrução 2. Durante o ciclo 3, o estágio S3 busca os operandos da instrução 1, o estágio S2 decodifica a \ninstrução 2, e o estágio S1 busca a terceira instrução. Durante o ciclo 4, o estágio S4 executa a instrução \n1, S3 busca os operandos para a instrução 2, S2 decodifica a instrução 3 e S1 busca a instrução 4. \nPor fim, durante o ciclo 5, S5 escreve (grava) o resultado da instrução 1 de volta no registrador, \nenquanto os outros estágios trabalham nas instruções seguintes.\n\nUnidade de\nbusca de \ninstrução\nS1\nS1 :\nFigura 1 - Pipeline de 5 estágios.\n...\n1\n2\n3\n4\n5\n6\nFigura 2 - Estado de cada estágio como uma função do tempo. São ilustrados 9 ciclos do relógio.\nTempo \n7\n8\n9\nS2 :\nS3 :\nS4 :\nS5 :\nS2\nS3\nS4\nS5\nUnidade de\ndecodiﬁcação\nde instrução\nUnidade de\nbusca de\noperando\nUnidade de\nexecução de\ninstrução\nUnidade \nde\nGravação\n1\n2\n1\n3\n2\n1\n4\n5\n3\n2\n1\n4\n3\n2\n1\n6\n5\n4\n3\n2\n7\n6\n5\n4\n3\n8\n7\n6\n5\n4\n9\n8\n7\n6\n5\nTANENBAUM, A. S. Organização Estruturada de Computadores. 5. ed. São Paulo: Pearson Prentice Hall, p. 35, 2007 (adaptado).\nConsiderando o modelo teórico do pipeline apresentado, avalie as afirmações a seguir.\nI.\t Uma falta na busca de instrução (nenhuma instrução buscada), em determinado ciclo, causará \numa bolha (ausência de instrução útil) no estágio S1, e essa bolha percorrerá todos os estágios \nseguintes, um após o outro, nos próximos 4 ciclos, até ser eliminada do pipeline.\nII.\t Cada instrução leva 5 ciclos para ser executada, mas se alguma instrução não precisar passar por \ndeterminado estágio, ela poderá percorrer o pipeline em um número menor de ciclos, por exemplo, \nse a instrução não possuir operandos ela não precisará passar pelo estágio S3 e assim poderá ser \nmovida diretamente para o estágio S4.\nIII.\t Dispondo de cache de dados separada da cache de instruções, o estágio S1 busca instruções na \ncache de instruções e dados na cache de dados.\nIV.\t Dispondo de BTB (branch target buffer), após a busca de uma instrução de desvio condicional, \nas instruções seguintes podem ser buscadas e colocadas no pipeline, o que evita bolhas em seus \nvários estágios.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e IV.\nC\t III e IV.\nD\t I, II e III.\nE II III e IV",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 29.75189971923828,
+      "y": 516.6577758789062,
+      "x1": 94.92389678955078,
+      "y1": 530.4097900390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 28"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:20.187130"
+}

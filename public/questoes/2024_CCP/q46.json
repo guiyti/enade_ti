@@ -1,0 +1,48 @@
+{
+  "id_questao": "q46",
+  "numero": 46,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 340.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 509.24810791015625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q46.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q46.txt",
+  "largura": 2475,
+  "altura": 732,
+  "confianca": 0.98,
+  "texto_completo": "ç\nç\np\np\nQUESTÃO 46\t\nConsiderando a necessidade de estimular a postura investigativa e disseminar o conhecimento entre os estudantes com \ndificuldades de comunicação verbal, qual proposta contempla os princípios da inclusão com o uso pedagógico de tecnologias?\nA\t Criar vídeoaulas expositivas sobre algoritmos com linguagem técnica e objetiva, seguidas de testes automáticos para reforçar \no conteúdo de forma individualizada.\nB\t Propor vídeos curtos sobre lógica e questionários on-line, avaliando o desempenho individual dos estudantes por tempo \nlimitado e com correção automática.\nC\t Encaminhar materiais teóricos em arquivo texto com roteiro de estudo e solicitar explicações escritas sobre algoritmos \nbaseados nos exemplos do conteúdo.\nD\t Disponibilizar tutoriais interativos com vídeos acessíveis e blocos visuais, promovendo a resolução colaborativa de desafios \ncom mediação docente.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 46,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 64.6063003540039,
+      "y": 352.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 368.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 46"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490915"
+}

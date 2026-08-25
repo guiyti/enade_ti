@@ -1,0 +1,48 @@
+{
+  "id_questao": "q59",
+  "numero": 59,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 385.4586181640625,
+      "x1": 611.7199999999999,
+      "y1": 608.2833862304688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q59.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q59.txt",
+  "largura": 2475,
+  "altura": 958,
+  "confianca": 0.98,
+  "texto_completo": "g\ng\ng\np\ng\np\nQUESTÃO 59\t\nUm professor de Computação dessa escola planeja uma viagem, com a turma do 6º ano, como estratégia para desenvolver os \nquatro pilares do Pensamento Computacional. Quais atividades devem constar no plano de aula?\nA\t Pesquisar com os colegas as preferências com relação à logística da viagem; sintetizar os comentários dos viajantes obtidos \nem sites de viagens; criar um mapa mental com o roteiro da viagem; apresentar a proposta de roteiro para o restante da \nturma no formato pitch, com tempo máximo de 5 minutos.\nB\t Realizar um brainstorming com a finalidade de levantar os requisitos da viagem; usar uma árvore decisória para encontrar \nopções de roteiro para a viagem; explorar a geografia do local com uso de mapas digitais; resumir os pontos essenciais do \nplanejamento em um vídeo para apresentação à turma.\nC\t Dividir o planejamento com base em critérios logísticos; selecionar as decisões que são essenciais para o planejamento; \nanalisar outras viagens para encontrar exemplos logísticos comuns; escrever, em português, o passo a passo do \nplanejamento da viagem.\nD\t Definir, por meio de votação, o destino da viagem; usar um assistente virtual baseado em inteligência artificial para elaborar \nroteiros explorando opções turísticas; definir uma lista de tarefas para concluir a viagem; criar um quadro Kanban para \norganizar e acompanhar as tarefas identificadas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 59,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 64.6063003540039,
+      "y": 397.4586181640625,
+      "x1": 124.34291076660156,
+      "y1": 412.7265930175781,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 59"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490967"
+}

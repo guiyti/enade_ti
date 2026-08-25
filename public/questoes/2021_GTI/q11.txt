@@ -1,0 +1,17 @@
+QUESTÃO 11	
+Um software é testado para revelar erros cometidos quando projetado e construído. Uma estratégia de 
+teste de software deve ser flexível o suficiente para atender a uma abordagem de teste personalizada e 
+rígida o bastante para estimular o planejamento e o acompanhamento à medida que o projeto progride.
+ PRESSMAN, R. S.; MAXIM, B. R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH Ed., 2016 (adaptado).
+Nesse contexto, considere um sistema com as características descritas a seguir.
+•	Grande número de interfaces;
+•	Necessidade de acréscimo de módulos e possíveis modificações ao longo do desenvolvimento; e
+•	Grande volume de usuários e concorrência com outros sistemas que podem ser processados 
+simultaneamente.
+Para a correta produção desse sistema, a melhor estratégia de testes durante as atividades de 
+desenvolvimento deve ser composta por testes de
+A	 desempenho, unidade e caixa branca.
+B	 caixa branca, esforço e integração.
+C	 integração, regressão e esforço.
+D	 caixa branca, desempenho e integração.
+E	 recuperação, integração e segurança.

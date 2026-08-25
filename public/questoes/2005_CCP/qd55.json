@@ -1,0 +1,50 @@
+{
+  "id_questao": "qd55",
+  "numero": 55,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    20
+  ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 367.28656005859375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd55.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd55.txt",
+  "largura": 2306,
+  "altura": 1331,
+  "confianca": 0.98,
+  "texto_completo": "O grande desejo de todos os desenvolvedores de programas é utilizar quantidades ilimitadas de memória que, por sua vez,\nseja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve\numa hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de\ninformação e o tempo típico de acesso à informação armazenada.\nComo pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o\nmesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória\nprincipal.\nConsiderando as informações acima apresentadas, responda às seguintes perguntas.\na) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)\nb) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se\nutilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria\nvantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/qd55_fig1.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 55,
+      "tipo": "DISCURSIVA",
+      "pagina": 20,
+      "x": 40.91999816894531,
+      "y": 46.155609130859375,
+      "x1": 139.70399475097656,
+      "y1": 52.15561294555664,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 55 – DISC URSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796719"
+}

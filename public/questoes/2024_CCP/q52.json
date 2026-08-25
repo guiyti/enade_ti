@@ -1,0 +1,48 @@
+{
+  "id_questao": "q52",
+  "numero": 52,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 224.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 344.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q52.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q52.txt",
+  "largura": 2475,
+  "altura": 532,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 52\t\nUm professor de Computação do Ensino Fundamental está elaborando materiais digitais e precisa tornar um infográfico acessível \na estudantes com os diversos tipos de deficiência visual. Para atender a essa necessidade, ele deverá adaptar o infográfico\nA\t utilizando fonte ampliada e cores adequadas para facilitar a leitura por pessoas com baixa visão.\nB\t incluindo um botão de zoom automático para melhorar a visualização em dispositivos móveis.\nC\t inserindo descrição textual alternativa para torná-lo compatível com leitores de tela.\nD\t acrescentando mais texto embutido nas imagens para adequá-las a recursos de acessibilidade.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 52,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 64.6063003540039,
+      "y": 236.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 251.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 52"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490939"
+}

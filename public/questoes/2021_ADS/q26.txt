@@ -1,0 +1,32 @@
+QUESTÃO 26	
+Empreender em computação não se resume apenas ao fato de ter uma ideia sobre um aplicativo, 
+implementá-la e disponibilizá-la aos seus usuários finais. Esse conceito vai além, é preciso analisar uma 
+série de variáveis, como questões sociais e humanísticas, profissionais, ambientais, legais, políticas e 
+tecnológicas.
+Dentre as ações necessárias para empreender em computação, é imprescindível observar a legislação vigente. 
+No Brasil, a Lei Geral de Proteção de Dados Pessoais (LGPD), n. 13.709/2018, dispõe sobre o tratamento de 
+dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público 
+ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre 
+desenvolvimento da personalidade da pessoa natural.
+Acerca das providências dispostas no art. 2º da LGPD, assinale os fundamentos da disciplina da proteção 
+de dados pessoais.
+A	 O direito ao usuário; das obrigações das organizações nacionais ou estrangeiras; obrigatoriedade do 
+consentimento; a livre iniciativa, a livre concorrência e a defesa do consumidor; os direitos humanos, o 
+livre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais 
+e regulação da Autoridade Nacional de Proteção de Dados Pessoais (ANPD).
+B	 O direito à revogação de um consentimento; a transferência de dados para outro fornecedor de 
+serviços; a solicitação de remoção de dados pessoais; a inviolabilidade da intimidade, da honra e 
+da imagem; o desenvolvimento econômico e tecnológico e inovação; a preservação da vida e da 
+integridade física de uma pessoa.
+C	 O respeito à privacidade; obrigatoriedade do consentimento; os deveres e obrigações dos usuários 
+finais; os deveres e obrigações das organizações nacionais ou estrangeiras; a observação ao código de 
+defesa do consumidor; e, a obrigatoriedade do respeito à honra e à imagem.
+D	 O direito ao anonimato; a liberdade de expressão; a inviolabilidade da intimidade; a adoção de 
+medidas preventivas de segurança; o direito ao recurso e revisão; a administração de riscos e falhas; 
+o estabelecimento de agentes de tratamento; e, regulação da Autoridade Nacional de Proteção de 
+Dados Pessoais (ANPD).
+E	 O respeito à privacidade; a autodeterminação informativa; a liberdade de expressão, de informação, de 
+comunicação e de opinião; a inviolabilidade da intimidade, da honra e da imagem; o desenvolvimento 
+econômico e tecnológico e a inovação; a livre iniciativa, a livre concorrência e a defesa do consumidor; 
+e, os direitos humanos, o livre desenvolvimento da personalidade, dignidade e o exercício da cidadania 
+pelas pessoas naturais.

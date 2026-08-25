@@ -1,0 +1,48 @@
+{
+  "id_questao": "q31",
+  "numero": 31,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    12
+  ],
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 285.4355773925781,
+      "x1": 295.08,
+      "y1": 541.9756469726562,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q31.txt",
+  "largura": 1155,
+  "altura": 1099,
+  "confianca": 0.98,
+  "texto_completo": "E nível 3, KPA SPE  engenharia de produtos de software.\nQUESTÃO 31\nO modelo de gerenciamento de projetos do PMI\n(Project Management Institute), descrito no PMBOK, envolve\num conjunto de nove áreas de conhecimento a serem\nconsideradas com vistas a melhorar o processo de gestão de\num projeto, ampliando-se, conseqüentemente, suas chances\nde sucesso. Considere que, no desenvolvimento de um\nsistema de vendas de uma empresa que atua no segmento\nindustrial, o orçamento inicial tenha sido extrapolado em\n120% e que a equipe da área de sistemas tenha concluído o\nsistema com mais de quatro meses de atraso. Nas reuniões\ncom os usuários para a entrega do sistema, foi constatado que\neste não atendia às especificações esperadas pelos usuários. \nNessa situação, evidenciam-se áreas de conhecimento que\ncompõem a chamada tripla restrição, que são as áreas de\ngerenciamento de\nA escopo, contratação e custo.\nB tempo, contratação e risco.\nC custo, tempo e escopo.\nD contratação, custo e tempo.\nE risco, tempo e escopo.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 41.400001525878906,
+      "y": 297.4355773925781,
+      "x1": 87.8280029296875,
+      "y1": 303.4355773925781,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796635"
+}

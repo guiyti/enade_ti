@@ -1,0 +1,22 @@
+QUESTÃO 71
+Sistemas operacionais de tempo real são utilizados em controle
+de processos automatizados, em que o tempo de resposta a
+determinados eventos é um fator crítico. Com relação a esse
+assunto, julgue os itens seguintes.
+I
+Sistemas de tempo real estritos (hard real-time) não utilizam
+dispositivos de memória secundária (como discos), pois estes
+não oferecem garantia de término das operações dentro de
+uma quantidade máxima de tempo.
+II
+Um sistema operacional de propósito geral pode ser
+modificado para ser de tempo real atribuindo-se prioridades
+fixas para cada um dos processos.
+III O escalonamento mais utilizado por sistemas operacionais de
+tempo real é o shortest-job-first (tarefa mais curta primeiro).
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

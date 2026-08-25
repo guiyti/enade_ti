@@ -1,0 +1,9 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO DISCURSIVA 3 
+ 
+Os números de Fibonacci correspondem à uma sequência infi nita na 
+qual os dois primeiros termos são 0 e 1. Cada termo da sequência, 
+à exceção dos dois primeiros, é igual à soma dos dois anteriores, 
+conforme a relação de recorrência abaixo.
+Desenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n > 0, retorna o n-ésimo termo 
+da sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)

@@ -1,0 +1,11 @@
+QUESTÃO 78	
+O uso pedagógico das formas geométricas e do posicionamento espacial dos estudantes auxilia a compreensão dos conceitos 
+de atributos e métodos ao abordar que
+A	 a movimentação é representada e controlada a partir de métodos dos personagens que alteram os atributos de posição 
+e direção contidos nas células do tabuleiro.
+B	 as posições e direções de cada personagem são atributos que podem ser armazenados em variáveis e passados como 
+parâmetros para possíveis métodos de movimentação.
+C	 o tabuleiro é um vetor bidimensional onde cada posição armazena os atributos de um personagem e contém métodos 
+de movimentação.
+D	 os personagens possuem atributos que representam sua posição e direção e possuem métodos de movimentação ou giro, 
+simulando ações em um espaço geométrico.

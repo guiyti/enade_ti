@@ -1,0 +1,12 @@
+QUESTÃO 20
+A orientação a objetos é uma forma abstrata de pensar um
+problema utilizando-se conceitos do mundo real e não, apenas,
+conceitos computacionais. Nessa perspectiva, a adoção do
+paradigma orientado a objetos implica necessariamente que
+A os usuários utilizem as aplicações de forma mais simples.
+B os sistemas sejam encapsulados por outros sistemas.
+C os programadores de aplicações sejam mais especializados.
+D os objetos sejam implementados de maneira eficiente e
+simples.
+E a computação seja acionada por troca de mensagens entre
+objetos.

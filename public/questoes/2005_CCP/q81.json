@@ -1,0 +1,59 @@
+{
+  "id_questao": "q81",
+  "numero": 81,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 433.8155822753906,
+      "x1": 295.08,
+      "y1": 797.16,
+      "coluna": 1
+    },
+    {
+      "pagina": 30,
+      "x0": 301.08,
+      "y0": 55.0,
+      "x1": 571.16,
+      "y1": 568.7356567382812,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q81.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q81.txt",
+  "largura": 1156,
+  "altura": 3701,
+  "confianca": 0.98,
+  "texto_completo": "Á\nE 00110011\nQUESTÃO 81\nO estudo de dimensionamento e de desempenho de redes d\ncomunicação é uma ciência que usa constantemente os resultados d\nteoria de filas. Nesse tipo de análise, é comum a adoção de modelo\nde filas M/M/1 para a análise de enlaces de roteadores \ncomutadores. Nesse tipo de modelo, a chegada de pacotes par\ntransmissão e a transmissão deles são processos de Poisson. Assim\nas características da fila que se forma em cada enlace podem se\ndeterminadas em função da taxa de chegada (tempo médio decorrid\nentre a chegada de pacotes sucessivos encaminhados par\ntransmissão pelo enlace) e da taxa de serviço (tempo médio par\ntransmissão de um pacote). Acerca do modelo M/M/1 aplicado a\nestudo de capacidade e desempenho de enlaces de redes, po\ncomutação de pacotes, assinale a opção correta.\nA Caso a taxa de chegada seja maior que a taxa de serviço (taxa d\nsaída), conclui-se que o enlace está subdimensionado e haver\nperda de pacotes.\nB A taxa de serviço é independente do tamanho do pacote.\nC Em um roteador com múltiplos enlaces, a taxa de chegada par\ncada enlace é igual ao somatório das capacidades de todos o\nenlaces dividido pelo número de enlaces do roteador.\nD O modelo M/M/1 apresenta instabilidade numérica sempre qu\na taxa de chegada for próxima de zero.\nE Quando a taxa de chegada é menor que a taxa de serviço\npode-se esperar que o número médio de pacotes na fila seja igua\na zero.\n\nConsidere que, em uma rede WLAN, a função de\ndensidade de probabilidade (PDF) de erro de bit na\ntransmissão entre um computador conectado à rede e o\nerro\nponto de acesso (access point) — p\n(d) — seja dada\npela função cujo gráfico está mostrado acima, em que d\n$ 0 é a distância entre o ponto de acesso e o\ncomputador.\nConsiderando essas informações, julgue os itens a seguir.\nI\nA probabilidade de erro de bit na transmissão no caso de o\n0\ncomputador estar localizado à distância d é dada\npor \n.\nII\nSabendo-se que a média da distribuição correspondente\nà PDF acima mencionada é igual a x, conclui-se que é de\n0,5 a probabilidade de erro de bit na transmissão no caso\nde o computador estar localizado à distância d = x.\nIII Supondo-se que o sistema de transmissão seja binário, as\ninformações \napresentadas \nsão \nsuficientes \npara \nse\nconcluir que a probabilidade de erro dado que foi enviado\num bit 1 é igual à probabilidade de erro dado que foi\nenviado um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig1.jpeg",
+    "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/figuras/q81_fig2.jpeg"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 81,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 40.20000076293945,
+      "y": 445.8155822753906,
+      "x1": 86.62800598144531,
+      "y1": 451.8155822753906,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 81"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796802"
+}

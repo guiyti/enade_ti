@@ -1,0 +1,57 @@
+{
+  "id_questao": "q78",
+  "numero": 78,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    29,
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 301.08,
+      "y0": 417.2555847167969,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 2
+    },
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 295.08,
+      "y1": 308.7555847167969,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q78.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q78.txt",
+  "largura": 1156,
+  "altura": 2686,
+  "confianca": 0.98,
+  "texto_completo": "Ã\n28\ns  0,5.\nUESTÃO 78\nspositivos Lógicos Programáveis (DLP, ou PLD — programmable\nic devices) são muito utilizados hoje em dia para o projeto de\ncuitos digitais especiais. Com relação a esse assunto, julgue os\nns a seguir.\nComo um PLA (programmable logic array) somente implementa\nequações booleanas descritas na forma de soma de termos-\nproduto, e não implementa portas lógicas multinível, então nem\ntodas as funções booleanas podem ser implementadas em um\nPLA.\nEm uma PROM (programmable ROM), o arranjo de portas AND\né fixo, e somente o arranjo de portas OR pode ser programado; em\num PAL (programmable array logic), o arranjo de portas OR é\nfixo, e somente o array de portas AND é programável; e, em um\nPLA (programmable logic array), tanto o arranjo de portas AND\ncomo o de portas OR são programáveis.\nUm circuito digital implementado por meio de um dispositivo\nlógico programável ocupa mais área e consome mais potência do\nque um circuito integrado dedicado, mas, em compensação, ele\npode operar em freqüências maiores, pois seus transistores e\nportas lógicas são projetados de forma a otimizar o chaveamento\nde estados.\nsinale a opção correta.\nApenas o item II está certo.\nApenas o item III está certo.\nApenas os itens I e II estão certos.\nApenas os itens I e III estão certos.\nApenas os itens II e III estão certos.\n\nxpto( [ ], R, R ).\nxpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 )\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos predicados escritos em Prolog acima, julgue o\nitens a seguir.\nI\nA execução de xpto([1,2,3],[ ], F) conclui com sucess\ninstanciando F para [1,2,3].\nII\nA execução de zpto(5,[1,2,3] ) conclui sem sucesso.\nIII A \nexecução \nde \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso\ninstanciando X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 78,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 294.8399963378906,
+      "y": 429.2555847167969,
+      "x1": 341.2080078125,
+      "y1": 435.2555847167969,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 78"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796793"
+}

@@ -1,0 +1,22 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO DISCURSIVA 3 
+ 
+Um jogo consiste de dois dados, cada um deles com 6 faces. As faces dos 
+dados são numeradas de 1 até 6. Para ganhar uma partida, o jogador deverá 
+fazer 3 lançamentos de dados, vencendo ao menos 2 deles. O jogador vence um 
+lançamento se a soma dos dados for igual a 7 ou 11. Para iniciar um novo jogo, 
+deve-se pressionar o botão “JOGAR”. Quando pressionado, ele imediatamente 
+fica desabilitado e os dois dados aparecem girando na frente do jogador. Ao 
+se pressionar o botão “LANÇAR”, os dados começam a girar mais lentamente 
+até parar, mostrando os valores das suas faces em um sistema tridimensional. 
+Nesse momento, encerra-se o lançamento e aparece “VENCEU” ou “PERDEU” 
+na tela da aplicação, juntamente com um sinal sonoro de alerta  e a quantidade 
+de lançamentos restantes. Somente quando o jogador pressiona novamente 
+o botão “LANÇAR” é que se inicia novo lançamento de dados. A qualquer 
+momento, o jogador poderá encerrar o jogo: pressionando o botão “PARAR”. 
+Tal ação reabilita o botão “JOGAR”.
+(LARMAN, C. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design
+and Iterative Development. Prentice Hall, 3.ed, 2004. (com adaptações)
+Considerando a caracterização do jogo de dados, elabore os seguintes artefatos da análise de requisitos.
+a) Desenhe um diagrama de classes  de domínio (UML) para o problema apresentado. (valor: 6,0 pontos)
+b) Liste três requisitos funcionais referentes ao comportamento funcional essencial do jogo. (valor: 4,0 pontos)

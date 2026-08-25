@@ -1,0 +1,94 @@
+17
+CO
+ÇÃO
+g
+p
+g
+j
+única máquina. Um exemplo complexo é uma
+planta 
+inteira 
+de 
+manufatura 
+envolvendo
+centenas de estações conectadas a bancos de
+dados com instruções e planejamento de
+operações e tarefas em tempo real, envolvendo
+sensores, atuadores, transdutores, conversores
+etc. Entender, projetar e construir esses sistemas
+é um grande desafio que impõe uma abordagem
+sistemática 
+pelo 
+uso 
+de 
+ferramentas 
+e
+conhecimento conceitual de modelagem lógica,
+manipulação 
+matemática, 
+abstração,
+decomposição, 
+concorrência 
+etc. 
+Nesse
+contexto, julgue os seguintes itens.
+I
+Controladores lógicos programáveis são
+computadores 
+para 
+processamento 
+de
+entradas e saídas, sendo que a maioria
+permite múltiplos programas que podem ser
+utilizados como sub-rotinas.
+II
+Para leituras de um sinal analógico que varia
+entre ± 10 volts, com precisão de ± 0,05 volts,
+é necessário um conversor AD com, no
+mínimo, 9 bits.
+III O principal objetivo das redes de Petri
+Coloridas é a redução do tamanho do modelo,
+permitindo 
+que 
+tokens 
+individualizados
+(coloridos) representem diferentes processos
+ou recursos em uma mesma sub-rede.
+Assinale a opção correta.
+A
+Apenas um item está certo.
+B
+Apenas os itens I e II estão certos.
+C
+Apenas os itens I e III estão certos.
+D
+Apenas os itens II e III estão certos.
+E
+Todos os itens estão certos.
+QUESTÃO 43
+Considere que seja necessário escrever um código para um
+microcontrolador capaz de identificar teclas acionadas em um teclado
+conectado como mostrado abaixo. O microcontrolador atribui valores
+lógicos às linhas X3, X2, X1 e X0 de uma porta de saída do tipo coletor
+aberto, e lê os valores lógicos das linhas Y3, Y2, Y1 e Y0 em uma porta
+de entrada.
+Caso apenas a tecla 9 do teclado esteja pressionada e o
+microcontrolador esteja atribuindo os valores lógicos 1011 às linhas
+X3, X2, X1 e X0 , respectivamente, qual o padrão binário que deverá ser
+lido nas linhas Y3, Y2, Y1 e Y0, respectivamente?
+A
+0111
+B
+1011
+C
+1101
+D
+1110
+E
+1111
++5 V
++5 V +5 V +5 V
+teclado
+microcontrolador
+porta de saída
+porta de entrada

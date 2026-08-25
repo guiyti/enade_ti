@@ -1,0 +1,57 @@
+{
+  "id_questao": "q41",
+  "numero": 41,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    23,
+    24
+  ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 443.16949462890625,
+      "x1": 611.7199999999999,
+      "y1": 568.1810302734375,
+      "coluna": 0
+    },
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 611.7199999999999,
+      "y1": 180.4859161376953,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q41.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q41.txt",
+  "largura": 2475,
+  "altura": 1089,
+  "confianca": 0.98,
+  "texto_completo": "ç\n,\nç\nQUESTÃO 41\t\nNo tema bancos de dados relacionais, as metodologias ativas podem favorecer abordagens pedagógicas para ensinar tanto \nos fundamentos da modelagem de dados e da teoria relacional, quanto habilidades práticas, como a criação de diagramas \nentidade-relacionamento e a elaboração de consultas em SQL. Em bancos de dados orientados a objetos, atividades práticas \ncolaborativas podem ser propostas para exercitar o armazenamento de informações, de acordo com os princípios do paradigma \nde orientação a objetos.\nOs estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a \njustificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?\n\n2025\nTexto para questões 42 e 43\nUma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da \nconectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição \npossui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e \nnenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture \na rede da escola para testar diferentes configurações.\n*R0404202524*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 41,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 64.6063003540039,
+      "y": 455.16949462890625,
+      "x1": 124.34291076660156,
+      "y1": 470.4375,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 41"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490894"
+}

@@ -1,0 +1,36 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 18  
+A Norma ISO/IEC FDIS 14764 (2006) estabelece 
+definições de vários tipos de manutenção e fornece um 
+guia para gerenciar o processo de manutenção, que pode 
+ser aplicado no planejamento, execução e controle, revisão 
+e avaliação, e fechamento do processo de manutenção. 
+Segundo essa Norma, solicitações de modificação são 
+classificadas como corretiva, preventiva, adaptativa ou 
+perfectiva. Os detalhes de como implementar ou realizar as 
+atividades e tarefas de manutenção não são  especificadas 
+pela Norma, sendo de responsabilidade do mantenedor.
+ISO/IEC FDIS 14764. Software Engineering – Software Life Cycle Processes - 
+Maintenance. 2006.
+Considerando os tipos de manutenção e as atividades de 
+implementação do processo, avalie as afirmações a seguir.
+I. 
+O mantenedor deve desenvolver, documentar e 
+executar planos e procedimentos para realizar as 
+atividades e tarefas do processo de manutenção.
+II. O mantenedor deve alterar a configuração do 
+sistema para corrigir erros identificados pelos 
+usuários usando a manutenção perfectiva.
+III. O mantenedor deve estabelecer procedimentos 
+para receber, registrar e rastrear solicitações de 
+modificação/registro de problemas dos usuários, 
+e também prover realimentação para os usuários.
+IV. O mantenedor deve documentar a estratégia a ser 
+usada para  melhorar a manutebilidade futura do 
+sistema, usando a manutenção corretiva.
+É correto apenas o que se afirma em
+A   I.
+B   II.
+C   I e III.
+D   II e IV.
+E   III e IV.

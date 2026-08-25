@@ -1,0 +1,65 @@
+{
+  "id_questao": "q15",
+  "numero": 15,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    22,
+    23
+  ],
+  "segmentos": [
+    {
+      "pagina": 22,
+      "x0": 25.0,
+      "y0": 302.4624328613281,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 0
+    },
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 280.56,
+      "y1": 734.76,
+      "coluna": 1
+    },
+    {
+      "pagina": 23,
+      "x0": 286.56,
+      "y0": 55.0,
+      "x1": 542.12,
+      "y1": 734.76,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q15.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q15.txt",
+  "largura": 2185,
+  "altura": 7528,
+  "confianca": 0.9,
+  "texto_completo": "E pa tes\nte essadas\nQUESTÃO 15\t\nUma fundação municipal de arte e cultura oferece cursos para crianças e adolescentes de até 16 anos. \nOs registros de matrículas são realizados em uma planilha eletrônica ilustrada a seguir, o que dificulta bastante \no controle dos dados frente ao número expressivo de estudantes, muitos dos quais solicitam matrícula em mais \nde um curso. A administração da fundação, então, solicitou o desenvolvimento de um programa para facilitar \no registro e a consulta desses dados, incluindo-se a data de efetivação de cada matrícula, para fins de controles \nespecíficos da secretaria.\nNÚMERO\nNOME \nESTUDANTE\nDATA \nNASC.\nNOME \nRESPONSÁVEL\nCONTATOS\nCURSO\nHORÁRIO\nPROFESSOR(A)\n10\nAda Lovelace\n10/12/2009\nCharles \nBabbage\n(99)99999-0101\ncharles@\nbabbage.com\nViolão Básico\nDesenho\n9h - 10h \n(ter - qui)\n10h - 11h \n(seg - qua)\nDennis Ritchie\nJohn Backus\n11\nOle-Johan \nDahl\n12/10/2008\nKristen Nygaard -\nDesenho\n9h - 10h\n(seg - qua)\nMary Keller\n12\nGrace Hopper 09/12/2010\nHoward Aiken\n(99)99999-0091\n(99)99999-0095 Balé\n8h - 10h (sex) Hedy Lamarr\n13\nAlan Turing\n23/06/2009\nJoan Clarke\n(99)99999-0231 Desenho\nViolão Básico\n9h - 10h \n(seg - qua)\n9h - 10h \n(ter - qui)\nMary Keller\nDennis Ritchie\n14\nDorothy \nVaughan\n20/09/2009\nKatherine \nJohnson\n(99)99999-0201 Balé\n8h - 10h (sex) Hedy Lamarr\n...\n...\n...\n...\n...\n...\n...\n...\nA equipe de desenvolvimento de softwares da prefeitura, após uma breve entrevista com a administração \nda fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da \nespecificação dos requisitos do sistema.\n\nConsiderando o cenário descrito, assinale a opção \ncorretamente pela equipe de desenvolvimento.\nA\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\nB\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n0..*\n0..*\n1..*\n1\n1\nC\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nD\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nE\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\n\nseguir que exibe o Diagrama de Classes modelado \n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\na\nte\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\na\nte\n0..*\n0..*\n1..*\n1..*\n1\n1\n1",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "pagina": 22,
+      "x": 29.76378631591797,
+      "y": 314.4624328613281,
+      "x1": 94.92378997802734,
+      "y1": 328.2144470214844,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 15"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710807"
+}

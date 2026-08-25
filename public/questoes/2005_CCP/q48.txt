@@ -1,0 +1,8 @@
+Considerando o diagrama de Hasse apresentado acima,
+assinale a opção que apresenta uma lista ordenada, da
+esquerda para a direita, que preserva a ordem do diagrama.
+A Marcos, José Roberto, Emerson, Ronaldo, Adriano
+B Emerson, Marcos, Ronaldo, Adriano, José Roberto
+C Adriano, Ronaldo, José Roberto, Marcos, Emerson
+D Ronaldo, Marcos, Emerson, Adriano, José Roberto
+E Marcos, Adriano, Emerson, José Roberto, Ronaldo

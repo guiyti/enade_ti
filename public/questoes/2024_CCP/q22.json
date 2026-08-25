@@ -1,0 +1,48 @@
+{
+  "id_questao": "q22",
+  "numero": 22,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 284.48590087890625,
+      "x1": 611.7199999999999,
+      "y1": 392.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q22.txt",
+  "largura": 2475,
+  "altura": 482,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 22\t\nConsiderando o contexto apresentado, as ações pedagógicas desenvolvidas pelos professores\nA\t priorizam os conteúdos disciplinares específicos como estratégia motivadora educacional.\nB\t favorecem a experiência de estudantes, enfatizando saberes de uma área de conhecimento. \nC\t incentivam a valorização do mundo do trabalho com base em metodologias de ensino inovadoras. \nD\t integram as vivências dos estudantes ao currículo, promovendo reflexões sobre o mundo do trabalho.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 64.6063003540039,
+      "y": 296.48590087890625,
+      "x1": 124.34291076660156,
+      "y1": 311.75390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490807"
+}

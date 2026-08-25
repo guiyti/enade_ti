@@ -1,0 +1,14 @@
+p
+g
+QUESTÃO 62	
+Com base nos princípios DEI, qual ação atende aos requisitos 
+de acessibilidade durante o desenvolvimento de software?
+A	 Incorporar diretrizes de acessibilidade ao processo para 
+garantir testes baseados em tecnologias assistivas.
+B	 Incluir os recursos de navegação por teclado e leitores de 
+tela para facilitar o uso pelos usuários da aplicação.
+C	 Utilizar contrastes visuais fortes e aumentar o tamanho da 
+fonte para assegurar as necessidades de acessibilidade.
+D Certificar responsividade e compatibilidade com navegadores
+
+*R0404202531*

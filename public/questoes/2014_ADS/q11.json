@@ -1,0 +1,57 @@
+{
+  "id_questao": "q11",
+  "numero": 11,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    14,
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 96.5428466796875,
+      "x1": 603.3199999999999,
+      "y1": 623.8909301757812,
+      "coluna": 0
+    },
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 311.15999999999997,
+      "y1": 100.5428466796875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q11.txt",
+  "largura": 2440,
+  "altura": 2431,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 11\nLivro\nAutor\nEmpréstimo\nAluno\nPK\nPK\nPK\nFK\nFK\nPK\nliv_cod\ntitúlo\nautor_cod\nint\nint\nint\nint\nint\nint\nint\nvarchar\nvarchar\nvarchar\naut_cod\nnome\nnome\nemp_cod\nmatricula\ndata_emp\ndata_dev\ndata_nasc\naluno_mat\nlivro_cod\ndate\ndate\ndate\nFK\nK  ŵŽĚĞůŽ  ĚĞ  ĞŶƟĚĂĚĞ  ƌĞůĂĐŝŽŶĂŵĞŶƚŽ  ĂƉƌĞƐĞŶƚĂĚŽ͕   ƌĞƉƌĞƐĞŶƚĂ  ĚĞ  ĨŽƌŵĂ  ƐƵĐŝŶƚĂ  ƵŵĂ  ƐŽůƵĕĆŽ  ƉĂƌĂ \nƉĞƌƐŝƐƚġŶĐŝĂ ĚĞ ĚĂĚŽƐ ĚĞ ƵŵĂ ďŝďůŝŽƚĞĐĂ͘  IŽŶƐŝĚĞƌĂŶĚŽ ƋƵĞ Ƶŵ ůŝǀƌŽ ĞƐƚĄ ĞŵƉƌĞƐƚĂĚŽ ƋƵĂŶĚŽ ƉŽƐƐƵŝƌ Ƶŵ \nƌĞŐŝƐƚƌŽ ǀŝŶĐƵůĂĚŽ Ă ĞůĞ ŶĂ ƚĂďĞůĂ ͞ EŵƉƌĞƐƟŵŽ͕͟  Ğ ĞƐƐĂ ƚƵƉůĂ ŶĆŽ ƉŽƐƐƵŝƌ ǀĂůŽƌ ŶĂ ĐŽůƵŶĂ ͞ ĚĂƚĂͺĚĞǀ͕͟  Ž \nĐŽŵĂŶĚŽ ^Y> ƋƵĞ ĚĞǀĞ ƐĞƌ ƵƟůŝǌĂĚŽ ƉĂƌĂ ůŝƐƚĂƌ ŽƐ ơƚƵůŽƐ ĚŽƐ ůŝǀƌŽƐ ĚŝƐƉŽŶşǀĞŝƐ ƉĂƌĂ ĞŵƉƌĠƐƟŵŽ Ġ\nA select titulo from livro \nexcept\nselect l.titulo from emprestimo e inner join livro l\non e.livro_cod = l.liv_cod where e.data_dev is null\nB select titulo from livro\nunion\nselect l.titulo from emprestimo e inner join livro l\non e.livro_cod = l.liv_cod where e.data_dev is null\nC select titulo from livro\nexcept\nselect l.titulo from emprestimo e inner join livro l\non e.livro_cod = l.liv_cod where e.data_dev is not null\nD select titulo from livro\nunion select l.titulo from emprestimo e left join livro l\non e.livro_cod = l.liv_cod where e.data_dev is null\nE select titulo from livro\nexcept\nselect l.titulo from emprestimo e right join livro l\non e.livro_cod = l.liv_cod where e.data_dev is not null",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:47.903382"
+}

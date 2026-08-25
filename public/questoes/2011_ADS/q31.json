@@ -1,0 +1,48 @@
+{
+  "id_questao": "q31",
+  "numero": 31,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    16
+  ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 293.28,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 496.6637878417969,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q31.txt",
+  "largura": 1123,
+  "altura": 1865,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 31  \nEm um determinado momento, uma rede recebe uma \nquantidade de requisições de operações, vindas de \nnúmeros IPs distintos, muito acima das condições \noperacionais previstas para os seus recursos e “trava”, isto \né, os seus serviços são interrompidos. Muitas empresas \ne entidades governamentais sofrem esse tipo de ataque \nhacker. Para realizá-lo, um atacante precisa distribuir \num código, em vários computadores, normalmente sem \no consentimento dos destinatários, que se tornam seus \n“zumbis”. Em um momento, o atacante ativa os “zumbis” \nque fazem muitos acessos a um determinado alvo, \nacabando por esgotar seus recursos e derrubando o \nsistema de informações.\nA respeito desse tipo de ataque, analise as \nafirmações abaixo.\nI. \nÉ um ataque de negação de serviço distribuído \n(Distributed Denial Of Service).\nII. É um ataque que ameaça o atributo da \ndisponibilidade do sistema.\nIII. É um ataque em que os zumbis roubam as senhas \ndos usuários, para poder enviar requisições.\nIV. É um ataque não detectável por sistemas de antivírus.\nEstá correto apenas o que se afirma em\nA   I.\nB   III.\nC   I e II.\nD   II e IV.\nE   III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235211"
+}

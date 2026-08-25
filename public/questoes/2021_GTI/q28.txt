@@ -1,0 +1,44 @@
+QUESTÃO 28	
+TEXTO I
+Gerenciamento por Processos do Negócio é 
+a tradução do inglês para Business Process 
+Management (BPM), conceito que estabelece 
+uma forma de mapear fluxos de trabalho em 
+organizações. Por essa abordagem, as organizações 
+só agregam valores aos clientes, a partes 
+interessadas e a si próprias se os processos de 
+negócios forem otimizados continuadamente. 
+ROJAS, R. et al. Utilização da Metodologia BPMB para adequação 
+de um sistema de Gestão Integrada e Retenção de Conhecimento 
+em uma Instituição Pública de Ensino Superior. Revista GUAL. 
+Florianópolis, Edição especial 2011, p.115-132 (adaptado).
+TEXTO II
+A especificação Business Process Model and 
+Notation (BPMN) tem como principal objetivo 
+disponibilizar uma notação padrão de mercado 
+compreensível para os usuários e analistas de 
+processos de negócio, bem como para os técnicos e 
+programadores que irão automatizar, implementar 
+e monitorar a tecnologia que irá suportar os 
+processos.
+ CAVALCANTI, R. Modelagem de Processos de Negócios. 
+Rio de Janeiro: Brasport, 2017 (adaptado).
+Sobre BPM e BPMN, avalie as afirmações a seguir.
+I.	 O BPM permite modelar um processo 
+existente e simular propostas de melhoria.
+II.	 O BPM não se resume apenas ao desenho 
+e à implantação dos processos de negócio, 
+mas também inclui o controle executivo, 
+administrativo e de supervisão sobre 
+eles, favorecendo que permaneçam em 
+conformidade com os objetivos de negócios.
+III.	 A BPMN é uma linguagem gráfica utilizada 
+para representação de processos e exige que 
+todas as atividades dos processos modelados 
+sejam detalhadamente representadas.
+É correto o que se afirma em
+A	 I, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 II e III, apenas.
+E	 I, II e III.

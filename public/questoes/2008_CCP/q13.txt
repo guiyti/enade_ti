@@ -1,0 +1,20 @@
+CO
+ÇÃO
+QUESTÃO 13
+Considerando o conjunto A = {1, 2, 3, 4, 5, 6}, qual opção
+corresponde a uma partição desse conjunto?
+A
+{{1}, {2}, {3}, {4}, {5}, {6}}
+B
+{{1}, {1,2}, {3,4}, {5, 6}}
+C
+{{ }, {1, 2, 3}, {4, 5, 6}}
+D
+{{1, 2, 3}, {5, 6}}
+
+NENTE ESPECÍFICO
+ns para os estudantes de cursos com perfis profissionais de
+MPUTAÇÃO, ENGENHARIA DE COMPUTAÇÃO e 
+ SISTEMAS DE INFORMAÇÃO.
+E
+{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}

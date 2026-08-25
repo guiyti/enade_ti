@@ -1,0 +1,34 @@
+3
+QUESTÃO 34
+Modems são dispositivos capazes de converter um sinal
+digital em um sinal analógico e vice-versa. No processo de
+modulação, para representar o sinal digital, o modem pode
+manipular as características de uma onda portadora
+(amplitude, freqüência e fase), derivando diferentes técnicas
+de modulação, por exemplo: chaveamento da amplitude
+(ASK), chaveamento da freqüência (FSK) e chaveamento
+da fase (PSK). Com relação a técnicas de modulação,
+julgue os itens a seguir.
+I
+A modulação ASK é suscetível a ruídos.
+II
+A modulação FSK possui maior imunidade a ruídos
+quando comparada à modulação ASK.
+III Na modulação PSK, a fase da portadora é modificada
+durante o intervalo de sinalização.
+IV Existem técnicas híbridas de modulação digital que
+modificam tanto a amplitude quanto a fase da portadora.
+V As diversas técnicas de modulação transmitem, no
+mínimo, um único bit e, no máximo, 2 bits, por intervalo
+de sinalização.
+Estão certos apenas os itens
+A
+I, II e IV.
+B
+I, II e V.
+C
+I, III e IV.
+D
+II, III e V.
+E
+III, IV e V.

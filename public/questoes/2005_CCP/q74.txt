@@ -1,0 +1,53 @@
+Ã
+27
+WHERE CODIGO  COD_PECA;
+QUESTÃO 74
+No que diz respeito às redes neurais, assinale a opção correta.
+A O treinamento de uma rede neural tem tempo determinado de
+execução.
+B Não há problemas em realizar o teste de desempenho de uma
+rede neural com o mesmo conjunto de dados usado para o
+treinamento.
+C O número de pesos de uma rede neural não influencia a
+rapidez com que ela processa dados.
+D O aprendizado supervisionado é o paradigma de treinamento
+mais utilizado para desenvolver aplicações de redes neurais
+para classificação e predição.
+E O número de camadas ocultas de uma rede de alimentação
+direta é inversamente proporcional ao aumento do espaço de
+hipóteses que ela pode representar.
+
+Um engenheiro de uma companhia fabricante de
+memórias semicondutoras estudou o comportamento
+do custo em função do número de bits da fabricação de
+um chip de memória RAM com determinada
+tecnologia. 
+Ele 
+chegou 
+à 
+conclusão 
+de 
+que,
+considerando-se a evolução tecnológica, o custo C(x),
+expresso em determinada unidade monetária, de um
+chip de memória RAM com x bits, na data de conclusão
+do processo de fabricação, seria determinado pela
+equação
+Considerando-se que o modelo desenvolvido pelo engenheiro
+esteja correto, caso a empresa decida pelo chip de menor
+custo, ela deverá optar por um chip com memória de
+capacidade de 
+A 256 megabits.
+B 512 megabits.
+C 1.024 megabits.
+D 2.048 megabits.
+E 4.096 megabits.
+O
+id
+a 
+de
+se
+tra
+A
+B
+C

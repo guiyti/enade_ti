@@ -1,0 +1,48 @@
+{
+  "id_questao": "q09",
+  "numero": 9,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    18
+  ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 280.73321533203125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q09.txt",
+  "largura": 2185,
+  "altura": 930,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 09\t\nA etapa de definição de requisitos é voltada para estabelecer quais as funções são requeridas pelo sistema \ne as restrições sobre a operação e o desenvolvimento do software. Os requisitos de software podem ser \nclassificados como requisitos funcionais e não funcionais.\nSOMMERVILLE, I. Engenharia de Software, 10. ed. São Paulo: Pearson Education, 2019 (adaptado).\nConsiderando as informações do texto, assinale a alternativa em que o item é um requisito funcional.\nA\t O software deve ser operacionalizado no sistema Linux.\nB\t O tempo de desenvolvimento não deve ultrapassar seis meses.\nC\t O software deve emitir relatórios de compras a cada quinze dias.\nD\t O tempo de resposta do sistema não deve ultrapassar 30 segundos.\nE\t A base de dados deve ser protegida para acesso apenas de usuários autorizados.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 09"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710781"
+}

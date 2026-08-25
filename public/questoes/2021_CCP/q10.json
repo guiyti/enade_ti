@@ -1,0 +1,48 @@
+{
+  "id_questao": "q10",
+  "numero": 10,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    19
+  ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 286.56,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 555.9467163085938,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q10.txt",
+  "largura": 1095,
+  "altura": 2077,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 10\t\nA biblioteca de coleções da linguagem Java \ndisponibiliza implementações de propósito \ngeral para estruturas de dados elementares, \ncomo listas, filas e pilhas. Considere as \nseguintes definições de classes que representam \nimplementações \nde \nestruturas \nde \ndados \ndisponíveis na biblioteca da linguagem:\n•\tClasse A: os objetos são organizados em uma \nordem linear e podem ser inseridos somente \nno início ou no final dessa sequência;\n•\tClasse B: os objetos são organizados em uma \nordem linear determinada por uma referência \nao próximo objeto;\n•\tClasse C: os objetos são removidos na ordem \noposta em que foram inseridos;\n•\tClasse D: os objetos são inseridos e removidos \nrespeitando a seguinte regra: o elemento \na ser removido é sempre aquele que foi \ninserido primeiro.\nNesse contexto, assinale a alternativa que \nrepresenta, respectivamente, as estruturas de \ndados implementadas pelas classes A, B, C e D.\nA\t Lista circular, lista simplesmente ligada, pilha \ne fila.\nB\t Deque, lista simplesmente ligada, pilha e fila.\nC\t Lista duplamente ligada, lista simplesmente \nligada, fila e pilha.\nD\t Pilha, fila, deque e lista simplesmente encadeada.\nE\t Deque, pilha, lista ligada e fila.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "pagina": 19,
+      "x": 289.464599609375,
+      "y": 76.94654846191406,
+      "x1": 354.6366271972656,
+      "y1": 90.69854736328125,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 10"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:20.187059"
+}

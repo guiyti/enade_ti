@@ -1,0 +1,48 @@
+{
+  "id_questao": "qd05",
+  "numero": 5,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    21
+  ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 555.56,
+      "y1": 424.698486328125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/qd05.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/qd05.txt",
+  "largura": 2241,
+  "altura": 1565,
+  "confianca": 0.98,
+  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 5 \n \nJogos de tabuleiro são atividades comuns de entretenimento na vida cotidiana das \npessoas. Uma de suas características é a necessidade do uso de um tabuleiro \ncom localizações bem definidas para o posicionamento de peças, podendo indicar \ntambém as fases do jogo. No livro O Homem que Calculava, de Malba Tahan \n(São Paulo: Record, 2002, p. 120), há uma história na qual um rei deveria efetuar \no pagamento pelos serviços de um de seus conselheiros, dando-lhe uma certa \nquantidade de grãos de trigo a ser calculada da seguinte forma: coloca-se 1 grão \nde trigo na primeira casa do tabuleiro, 2 na segunda casa, 4 na terceira casa, 8 na \nquarta casa e assim dobrando-se sucessivamente até a última casa.\n1\n3\n6\n8\n9\n11\n14\n16\n2\n4\n5\n7\n13\n15\n10\n12\nConsiderando o tabuleiro 4 x 4 ilustrado acima, contendo a indicação da ordem das casas, construa um único algoritmo que:\na) calcule, armazene em uma estrutura e escreva em ordem a quantidade de grãos de trigo em cada casa do tabuleiro; \n(valor: 8,0 pontos)\nb) calcule, armazene em uma variável e escreva a quantidade total de grãos de trigo presentes no tabuleiro. \n(valor: 2,0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 5,
+      "tipo": "DISCURSIVA",
+      "pagina": 21,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 158.05319213867188,
+      "y1": 82.03392791748047,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO DISCURSIVA 5"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:24.235239"
+}

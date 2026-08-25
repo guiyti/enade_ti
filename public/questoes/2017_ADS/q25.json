@@ -1,0 +1,57 @@
+{
+  "id_questao": "q25",
+  "numero": 25,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    28,
+    29
+  ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 781.56,
+      "coluna": 0
+    },
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 55.0,
+      "x1": 603.3199999999999,
+      "y1": 80.699951171875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q25.txt",
+  "largura": 2440,
+  "altura": 3089,
+  "confianca": 0.98,
+  "texto_completo": "28\nTECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS\nQUESTÃO 25 \nK ĨƌĂŐŵĞŶƚŽ ĚĞ ĐſĚŝŐŽ Iнн͕  Ă ƐĞŐƵŝƌ͕ ĐŽŶƚĠŵ Ă ŝŵƉůĞŵĞŶƚĂĕĆŽ ĚĂ ŝŶƐĞƌĕĆŽ ĚĞ Ƶŵ Ŷſ Ğŵ ƵŵĂ ĄƌǀŽƌĞ ďŝŶĄƌŝĂ͘\n...\nstruct noArvore {\n   int dado;\n   noArvore *esquerda;\n   noArvore *direita;\n};\nnoArvore *insere(noArvore *arvore, int valor) {\n   if (arvore == NULL) {\n      arvore = new noArvore;\n      arvore->esquerda = NULL;\n      arvore->direita = NULL;\n      arvore->dado = valor;\n   } else if(valor < arvore->dado) {\n        arvore->esquerda = insere (arvore->esquerda, valor);\n     } \n     else {\n        arvore->direita = insere (arvore->direita, valor);\n     } \n     return(arvore);\n}\n...\nIŽŵ ďĂƐĞ ŶŽ ĞǆƉŽƐƚŽ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ƋƵĞ ĂƉƌĞƐĞŶƚĂ Ž ĨƌĂŐŵĞŶƚŽ ĚĞ ƉƌŽŐƌĂŵĂ ƉĂƌĂ ŝŵƉƌŝŵŝƌ ŽƐ ǀĂůŽƌĞƐ \nĐŽŶƟĚŽƐ ŶŽƐ ŶſƐ͕  ƉĞƌĐŽƌƌĞŶĚŽ Ă ĄƌǀŽƌĞ Ğŵ ƉƌĠͲŽƌĚĞŵ͘\nA void preorder(noArvore *raiz) {\nif (raiz != NULL) { \n      cout << raiz->dado << \" \";\n      preorder(raiz->esquerda);\n      preorder(raiz->direita); \n   } \n}\nB void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->direita); \n      preorder(raiz->esquerda); \n      cout << raiz->dado << \" \"; \n   }\n}\nC void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->esquerda); \n      cout << raiz->dado << \" \"; \n      preorder(raiz->direita); \n}\n}\nD void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->esquerda); \n      preorder(raiz->direita); \n      cout << raiz->dado << \" \"; \n}\n}\nE void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->direita); \n      cout << raiz->dado << \" \"; \n      preorder(raiz->esquerda); \n   } \n}\n\n*R41201729*",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 25"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:12:15.182914"
+}

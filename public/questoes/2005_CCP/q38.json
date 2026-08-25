@@ -1,0 +1,48 @@
+{
+  "id_questao": "q38",
+  "numero": 38,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    13
+  ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 301.08,
+      "y0": 390.55560302734375,
+      "x1": 571.16,
+      "y1": 797.16,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q38.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q38.txt",
+  "largura": 1156,
+  "altura": 1725,
+  "confianca": 0.98,
+  "texto_completo": "Ã\n12\nE III e IV.\nQUESTÃO 38\nO objetivo da Teoria Geral dos Sistemas (TGS) é a formulação\ndos princípios válidos para os sistemas em geral, qualquer que\nseja a natureza dos elementos que os compõem e as relações ou\nforças existentes entre eles. Na área de sistemas de informação,\ndiversos problemas requerem abordagem multidisciplinar para\nserem resolvidos. Por exemplo, na área de desenvolvimento de\nsoftware, a especificação de requisitos apresenta vários desafios\ndesse tipo, tais como aspectos de relacionamento interpessoal,\nconhecimento do negócio, resolução de conflitos, diferenças\nculturais etc. Os propósitos da TGS que podem contribuir para\na resolução desses problemas incluem\nI\no \nincentivo \nà \nespecialização \ntotal \ndas \náreas \ndo\nconhecimento.\nII\no desenvolvimento dos princípios unificadores que\ntranscendem o universo das ciências individuais.\nIII a integração de contribuições de várias ciências na busca de\nsolução dos problemas.\nIV o desenvolvimento de princípios únicos para cada área do\nconhecimento.\nV\no desenvolvimento de estudos que visem à ampliação da\nseparação entre as ciências naturais e sociais.\nEstão certos apenas os itens\nA I e II.\nB I e V.\nC II e III.\nD III e IV.\nE IV e V.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 38,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 315.05999755859375,
+      "y": 402.55560302734375,
+      "x1": 361.4880065917969,
+      "y1": 408.55560302734375,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 38"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:10:51.796652"
+}

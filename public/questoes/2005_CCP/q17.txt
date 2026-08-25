@@ -1,0 +1,27 @@
+No processo de desenvolvimento de um sistema de
+controle de materiais (matérias-primas) para uma
+metalúrgica, a equipe de projeto, responsável pelo
+mapeamento dos requisitos, desenvolveu seus trabalhos
+seguindo os quatro subprocessos da engenharia de
+requisitos. Inicialmente, foram feitas a análise e a avaliação
+para se verificar se o sistema seria útil ao negócio. Em um
+segundo momento, os requisitos foram identificados e
+analisados e, logo em seguida, foram documentados.
+Finalmente, foi verificado se os requisitos identificados
+atendiam às demandas dos usuários. Tendo sido executado
+esse procedimento, uma empresa independente de
+auditoria, após análise, identificou dois problemas no
+processo: a documentação dos requisitos (formulários e
+padrões utilizados) estava inadequada e não possibilitava
+o entendimento correto dos requisitos; o processo de
+checagem entre as demandas dos usuários e as
+especificações relatadas não foi bem conduzido e seus
+resultados eram insatisfatórios.
+Considerando o relatório da auditoria independente, quais foram
+as duas fases do processo de engenharia de requisitos que
+apresentaram problemas?
+A Entendimento do domínio e especificação.
+B Elicitação e validação.
+C Validação e entendimento do domínio.
+D Especificação e validação.
+E Validação e elicitação.

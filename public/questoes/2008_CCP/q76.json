@@ -1,0 +1,48 @@
+{
+  "id_questao": "q76",
+  "numero": 76,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    32
+  ],
+  "segmentos": [
+    {
+      "pagina": 32,
+      "x0": 25.0,
+      "y0": 248.44668579101562,
+      "x1": 294.59999999999997,
+      "y1": 536.7267456054688,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q76.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q76.txt",
+  "largura": 1153,
+  "altura": 1231,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 76\nConsidere o esquema de relação Cliente(CPF, nome, RGem\nRGnro, endereco, loginemail, dominioemail) e as s\ndependências funcionais (DF) válidas sobre o esquema:\nDF1: CPF ÷ nome, RGemissor, RGnro, endereco, logi\ndominioemail\nDF2: RGemissor, RGnro ÷ CPF, nome, endereco, logi\ndominioemail\nDF3: loginemail, dominioemail ÷ CPF\nQual é o conjunto completo de chaves candidatas de Clien\nque forma normal mais alta essa relação está?\nA\n{(RGemissor, RGnro), (CPF)}, na Forma Normal de\nCodd (FNBC).\nB\n{(RGemissor, RGnro), (CPF)}, na Segunda Forma\n(2FN).\nC\n{(loginemail, dominioemail)}, na Forma Normal de\nCodd (FNBC).\nD\n{(RGemissor, RGnro), (loginemail, dominioe\n(CPF)}, na Forma Normal de Boyce-Codd (FNBC).\nE\n{(RGemissor, RGnro), (loginemail, dominioe\n(CPF)}, na Segunda Forma Normal (2FN).",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 76,
+      "tipo": "OBJETIVA",
+      "pagina": 32,
+      "x": 35.99909973144531,
+      "y": 260.4466857910156,
+      "x1": 105.36231231689453,
+      "y1": 271.4866943359375,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 76"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:08.229557"
+}

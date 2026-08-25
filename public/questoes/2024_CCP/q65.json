@@ -1,0 +1,48 @@
+{
+  "id_questao": "q65",
+  "numero": 65,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    32
+  ],
+  "segmentos": [
+    {
+      "pagina": 32,
+      "x0": 25.0,
+      "y0": 176.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 344.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q65.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q65.txt",
+  "largura": 2475,
+  "altura": 732,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 65\t\nConsiderando que a turma tem dois estudantes com deficiência visual, qual estratégia deve ser adotada para ensinar a arquitetura \nde Von Neumann?\nA\tTrabalhar com modelo físico representativo da arquitetura de Von Neumann. Explorar a interação entre os blocos \nfuncionais por meio da mediação oral e da manipulação direta pelos estudantes.\nB\t Apresentar vídeo explicativo detalhado sobre a arquitetura de Von Neumann com narração e legendas. Aplicar uma avaliação \nformativa oral para verificar a apreensão dos conceitos pelos estudantes.\nC\t Disponibilizar aos estudantes, para estudo prévio, material em arquivos digitais compostos de textos explicativos e ilustrações \nsobre a arquitetura de Von Neumann. Sanar as dúvidas em aula.\nD\t Apresentar aos estudantes uma linha do tempo sobre a importância da arquitetura de Von Neumann para a evolução da \nComputação. Elucidar esses conceitos por meio de representações esquemáticas usando a lousa.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 65,
+      "tipo": "OBJETIVA",
+      "pagina": 32,
+      "x": 64.6063003540039,
+      "y": 188.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 203.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 65"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490991"
+}

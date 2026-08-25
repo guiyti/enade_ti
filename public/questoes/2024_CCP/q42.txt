@@ -1,0 +1,17 @@
+QUESTÃO 42	
+Durante a aula, o professor propôs que os próprios estudantes representem as funções das camadas do modelo OSI de 
+forma lúdica:
+•	Um grupo de estudantes entregava bilhetes entre si, simulando a transmissão de dados físicos por cabos, com o fio 
+representado por um barbante;
+•	Outro grupo escrevia, codificava e traduzia mensagens para diferentes idiomas entre estudantes representando distintas 
+aplicações, como se fossem navegadores e sistemas de e-mail;
+•	Havia ainda estudantes que controlavam o caminho das mensagens, decidindo por onde elas passariam entre os ambientes 
+da escola.
+A relação entre os papéis dos estudantes e as camadas do modelo OSI é estabelecida quando eles
+A	 entregam bilhetes que simulam a camada de aplicação, pois estão lidando diretamente com os dados visíveis aos usuários.
+B	 codificam e traduzem mensagens que simulam a camada de sessão, pois garantem que a entrega da informação seja 
+ordenada e contínua.
+C	 determinam o caminho das mensagens entre setores da escola que simulam a camada de rede, pois são responsáveis pelo 
+roteamento e endereçamento lógico.
+D	 codificam as mensagens que simulam a camada de enlace de dados, pois garantem que as mensagens cheguem ao destino 
+sem erros.

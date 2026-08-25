@@ -1,0 +1,38 @@
+EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
+QUESTÃO 11  
+O conjunto de casos de uso representa as possíveis 
+interações que serão representadas nos requisitos do 
+sistema. A figura a seguir desenvolve um exemplo de 
+biblioteca e mostra outros casos de uso (use-cases) nesse 
+ambiente.
+Usuário da
+biblioteca
+Serviços de Emprestimo
+Administração de usuário
+Pessoal da
+biblioteca
+Serviços do catálogo
+Fornecedor
+SOMMERVILLE, I. Engenharia de software. 6. ed. São Paulo: 
+Makron Books, 2003, p. 113.
+Com relação ao tema, analise as asserções a seguir.
+A figura também ilustra os pontos essenciais da notação de 
+casos de uso. Os agentes no processo são representados 
+por bonecos e cada tipo de interação é representada por 
+uma elipse com um nome
+PORQUE
+a UML é um padrão para a modelagem orientada a objetos 
+e, assim, os casos de uso e a obtenção de requisitos com 
+base em casos de uso são cada vez mais utilizados para 
+obter requisitos.
+Acerca dessas asserções, assinale a opção correta.
+A   As duas asserções são proposições verdadeiras, e a 
+segunda é uma justificativa correta da primeira.
+B   As duas asserções são proposições verdadeiras, mas 
+a segunda não é uma justificativa correta da primeira.
+C   A primeira asserção é uma proposição verdadeira, e a 
+segunda, uma proposição falsa.
+D   A primeira asserção é uma proposição falsa, e a 
+segunda, uma proposição verdadeira.
+E   Tanto a primeira quanto a segunda asserções são 
+proposições falsas.

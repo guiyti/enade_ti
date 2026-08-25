@@ -1,0 +1,48 @@
+{
+  "id_questao": "q14",
+  "numero": 14,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    15
+  ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 294.84,
+      "y0": 74.31988525390625,
+      "x1": 558.68,
+      "y1": 344.27606201171875,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q14.txt",
+  "largura": 1130,
+  "altura": 1155,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 14\n^ĞũĂ Ž ƵŶŝǀĞƌƐŽ h с ΂10͕  20͕  30͕  40΃ Ğ Ž ĐŽŶũƵŶƚŽ ĚŽƐ \nŶƷŵĞƌŽƐ  ŶĂƚƵƌĂŝƐ  E͘   IŽŵ  ďĂƐĞ  ŶŽ  ĐŽŶŚĞĐŝŵĞŶƚŽ \nƐŽďƌĞ Ă ůſŐŝĐĂ ĚĞ ƉƌĞĚŝĐĂĚŽƐ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ \nĂ ƐĞŐƵŝƌ͘\n/͘   , с ;׊ǆ א EͿ;׌Ǉ א hͿ;ǆ ф ǇͿ Ġ ǀĄůŝĚĂ͘\n//͘   , с ;׊ǆ א EͿ;׌Ǉ א EͿ;Ǉ ф ǆͿ Ġ ǀĄůŝĚĂ͘\n///͘  , с ;׊ǆ א hͿ;׌Ǉ א hͿ;ǆ х ǇͿ Ġ ŝŶǀĄůŝĚĂ͕  ƐĞŶĚŽ \nǆ с 10 Ƶŵ ĐŽŶƚƌĂͲĞǆĞŵƉůŽ͘\n\u001e ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA /͕  ĂƉĞŶĂƐ͘\nB ///͕  ĂƉĞŶĂƐ͘\nC / Ğ //͕  ĂƉĞŶĂƐ͘\nD // Ğ ///͕  ĂƉĞŶĂƐ͘\nE /͕  // Ğ ///͘",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 298.9193115234375,
+      "y": 86.31988525390625,
+      "x1": 361.37213134765625,
+      "y1": 98.31988525390625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:12:00.947781"
+}

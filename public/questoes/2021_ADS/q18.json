@@ -1,0 +1,48 @@
+{
+  "id_questao": "q18",
+  "numero": 18,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 64.94654846191406,
+      "x1": 542.12,
+      "y1": 479.5611572265625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q18.txt",
+  "largura": 2185,
+  "altura": 1758,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 18\t\nA engenharia de requisitos é uma área que inclui quatro subprocessos relacionados de alto nível. \nEsses subprocessos são: 1) avaliação se o sistema será útil para a empresa (estudo de viabilidade); \n2) obtenção de requisitos (elicitação de requisitos); 3) conversão desses requisitos em alguma forma \npadrão (especificação); 4) verificação se os requisitos realmente definem o sistema que o cliente deseja \n(validação).\nSOMMERVILLE, I. Engenharia de Software. São Paulo: Pearson Addison-Wesley, 2017 (adaptado).\nUma equipe de Tecnologia da Informação de uma empresa de consultoria desenvolverá um software \nde Suporte Técnico para uma grande empresa fornecedora de equipamentos eletrônicos. O estudo de \nviabilidade do software já foi realizado e aprovado. A equipe de Tecnologia da Informação seguirá os três \nsubprocessos seguintes de alto nível de engenharia de requisitos descritos no texto de Sommerville, ou seja, \nos subprocessos de elicitação de requisitos, especificação e validação.\nPara esses três subprocessos, quais são os artefatos que podem ser utilizados por essa equipe de \nTecnologia da Informação?\nA\t Documento de entrevista com usuários; modelo de caso de uso para os requisitos funcionais; \nprototipação de telas.\nB\t Documento de estudo de viabilidade; modelo de caso de uso para os requisitos funcionais; prototipação \nde telas.\nC\t Matriz de rastreabilidade; modelo de caso de uso para os requisitos não-funcionais; prototipação \nde telas.\nD\t Documento de entrevista com usuários; modelo de caso de uso para os requisitos não-funcionais; \nmatriz de rastreabilidade.\nE\t Documento de estudo de viabilidade; modelo de caso de uso para os requisitos funcionais; matriz de \nrastreabilidade.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 18"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:05.710818"
+}

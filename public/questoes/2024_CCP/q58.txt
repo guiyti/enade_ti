@@ -1,0 +1,15 @@
+QUESTÃO 58	
+Um professor de Computação elabora o planejamento de uma aula de Pensamento Computacional articulada com conteúdos 
+de Matemática. Qual atividade expressa o pilar do Pensamento Computacional e a associação interdisciplinar correspondente?
+A	 Algoritmo — após estudar diferentes tipos de problemas matemáticos envolvendo múltiplas operações, os estudantes criam 
+uma sequência detalhada de instruções ordenadas que oriente como resolver qualquer um desses problemas, considerando 
+variações nos dados. Essa sequência é refinada após testes com os colegas.
+B	 Decomposição — em grupos, os estudantes recebem um problema extenso envolvendo planejamento de gastos com materiais 
+escolares. São orientados a separar os dados apresentados, classificá-los por tipo (valor unitário, quantidade, prioridade) e 
+organizar subetapas para montar um plano de compra eficiente.
+C	 Abstração — após resolverem diversas situações-problema que envolvem proporções em contextos do cotidiano (receitas, 
+escalas e mapas), os estudantes analisam quais etapas se repetem na resolução desses problemas e generalizam uma 
+estrutura comum que possa ser aplicada em novos casos.
+D	 Reconhecimento de padrões — os estudantes exploram diferentes formas de conversão de medidas (tempo, massa e 
+comprimento), observando que os procedimentos operacionais são similares. A partir disso, elaboram um conjunto de 
+regras estruturadas, em linguagem natural, para ensinar outro grupo a realizar as conversões.

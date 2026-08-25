@@ -1,0 +1,48 @@
+{
+  "id_questao": "q70",
+  "numero": 70,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    34
+  ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 176.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 344.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q70.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q70.txt",
+  "largura": 2475,
+  "altura": 732,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 70\t\nConsiderando os fundamentos teórico-metodológicos no uso do AVA, qual a teoria de aprendizagem que foi adotada \npelo professor?\nA\t Behaviorista, ao focar em estímulos e respostas, organiza o AVA com atividades estruturadas, uso de reforços e feedbacks \nimediatos, priorizando o condicionamento do comportamento.\nB\t Cognitivista, ao valorizar os processos mentais internos, propõe trilhas de aprendizagem com conteúdos organizados por \nníveis de complexidade e foco no processamento da informação.\nC\t Construcionista, ao estimular a autoria e a produção de artefatos significativos, fundamenta o uso do AVA como um espaço \nde investigação, colaboração e construção ativa do conhecimento.\nD\t Conectivista, ao enfatizar o aprendizado em redes digitais, estrutura o AVA para promover conexões entre fontes diversas \nde informação, comunidades virtuais e experiências digitais em tempo real.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 70,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 64.6063003540039,
+      "y": 188.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 203.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 70"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.491012"
+}

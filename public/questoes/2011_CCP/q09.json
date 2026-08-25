@@ -1,0 +1,57 @@
+{
+  "id_questao": "q09",
+  "numero": 9,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    9
+  ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 56.173927307128906,
+      "x1": 287.28,
+      "y1": 734.28,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q09.txt",
+  "largura": 1123,
+  "altura": 2855,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 9\nSeja A um conjunto e seja ~ uma relação entre pares de \nelementos de A.\nDiz-se que ~ é uma relação de equivalência entre pares \nde elementos de A se as seguintes propriedades são \nverifi cadas, para quaisquer elementos a, a’ e a’’ de A:\n(i)    a ~ a;\n(ii)   se a ~ a’, então a’ ~ a;\n(iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.\nUma classe de equivalência do elemento a de A com \nrespeito à relação ~ é o conjunto \nO conjunto quociente de A pela relação de \nequivalência ~ é o conjunto de todas as classes de \nequivalência relativamente à relação ~, definido e \ndenotado como a seguir:\nA função \n  é chamada projeção canônica e é \ndefi nida como \nConsiderando as defi nições acima, analise as afi rmações \na seguir.\nI. \nA relação de equivalência ~ no conjunto A \nparticiona o conjunto A em subconjuntos disjuntos: \nas classes de equivalência.\nII. A união das classes de equivalência da relação de \nequivalência ~ no conjunto A resulta no conjunto \ndas partes de A.\nIII. As três relações seguintes\nsão relações de equivalência no conjunto dos \nnúmeros inteiros \n.\nIV. Qualquer relação de equivalência no conjunto A é \nproveniente de sua projeção canônica.\nÉ correto apenas o que se afi rma em\nA   II.\nB   III.\nC   I e III.\nD   I e IV.\nE   II e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig1.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig2.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig3.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig4.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig5.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig6.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig7.png",
+    "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/figuras/q09_fig8.png"
+  ],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 91.93319702148438,
+      "y1": 82.03392791748047,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 9"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:11:35.218548"
+}

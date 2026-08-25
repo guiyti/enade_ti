@@ -1,0 +1,48 @@
+{
+  "id_questao": "q14",
+  "numero": 14,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    10
+  ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 82.02613830566406,
+      "x1": 611.7199999999999,
+      "y1": 382.82293701171875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q14.txt",
+  "largura": 2475,
+  "altura": 1284,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 14\t\nTEXTO 1\nA Educação de Jovens e Adultos (EJA) é uma modalidade de ensino destinada a pessoas que não estão inseridas na educação \nregular por motivos diversos. Nesse contexto educacional, esse estudante possui uma história de vida, sobretudo por ser, \nefetivamente, um sujeito ativo nas esferas sociais.\nPEREIRA, P. F.; REINALDO, M. A. G. Ensino-aprendizagem de charge na EJA: \numa experiência no contexto de estágio supervisionado. III CINTED (adaptado). \nTEXTO 2\nAs concepções restritas veem a EJA apenas em seu caráter marginal e secundário, camuflando os aspectos políticos, culturais \ne pedagógicos. Sob uma abordagem sistêmica, a EJA é tratada como parte da história da educação do país e, como tal, \numa modalidade importante no processo de democratização do direito à educação.\nALMEIDA, A. EJA: uma educação para o trabalho ou para a classe trabalhadora? \nRevista Brasileira de Educação de Jovens e Adultos, 2016 (adaptado).\nConsiderando os textos 1 e 2, a alternativa que apresenta uma ação pedagógica condizente com a abordagem sistêmica da EJA é\nA\t garantir a inclusão de temas relacionados à profissionalização dos estudantes e de atividades relativas ao mundo do trabalho.\nB\t propor uma organização curricular que oportunize a obtenção de um diploma àquelas pessoas que não puderam frequentar a escola.\nC\t desenvolver projetos de letramento que integrem experiências de vida dos estudantes a temas como trabalho, identidades \nculturais e vivências intergeracionais.\nD\t elaborar uma proposta de organização curricular que assegure o cumprimento das diretrizes nacionais aos estudantes e a \ngarantia dos mesmos conteúdos e dos mesmos métodos aplicados ao ensino regular.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.98,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-25T14:13:48.490773"
+}
