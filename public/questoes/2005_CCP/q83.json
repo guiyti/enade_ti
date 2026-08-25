@@ -11,17 +11,17 @@
       "x0": 301.08,
       "y0": 564.7356567382812,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q83.png",
+  "caminho_png": "/questoes/2005_CCP/q83.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q83.txt",
   "largura": 1156,
-  "altura": 999,
+  "altura": 936,
   "confianca": 0.98,
-  "texto_completo": "Ã\n29\nE Todos os itens estão certos.\nQUESTÃO 83\nCom relação à tecnologia bluetooth, que possibilita a\ncomunicação sem fios entre dispositivos, assinale a opção\ncorreta.\nA Essa tecnologia utiliza a transmissão em enlace via rádio na\nbanda de freqüência VHF.\nB Essa tecnologia possibilita a transmissão de voz e dados a\ncurtas distâncias.\nC Um dispositivo pode assumir, simultaneamente, o papel de\nmestre e de escravo em uma mesma piconet que utiliza essa\ntecnologia.\nD Uma piconet pode ser formada por até 255 mestres e\n255 escravos.\nE Um dispositivo pode participar, simultaneamente, de duas\npiconets, desde que ele seja mestre em ambas.",
+  "texto_completo": "E Todos os itens estão certos.\nQUESTÃO 83\nCom relação à tecnologia bluetooth, que possibilita a\ncomunicação sem fios entre dispositivos, assinale a opção\ncorreta.\nA Essa tecnologia utiliza a transmissão em enlace via rádio na\nbanda de freqüência VHF.\nB Essa tecnologia possibilita a transmissão de voz e dados a\ncurtas distâncias.\nC Um dispositivo pode assumir, simultaneamente, o papel de\nmestre e de escravo em uma mesma piconet que utiliza essa\ntecnologia.\nD Uma piconet pode ser formada por até 255 mestres e\n255 escravos.\nE Um dispositivo pode participar, simultaneamente, de duas\npiconets, desde que ele seja mestre em ambas.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796806"
+  "criado_em": "2026-08-25T14:34:18.146142"
 }

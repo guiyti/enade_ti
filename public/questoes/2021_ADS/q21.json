@@ -9,17 +9,17 @@
     {
       "pagina": 29,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 384.6890869140625,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q21.png",
+  "caminho_png": "/questoes/2021_ADS/q21.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q21.txt",
   "largura": 2185,
-  "altura": 1363,
+  "altura": 1321,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 21\t\nNo decorrer de um projeto de desenvolvimento de software é compreensível que mudanças venham \na ocorrer, sejam por novos entendimentos dos atores envolvidos ou até mesmo de novas demandas \napresentadas pelos clientes. Nesta perspectiva, a Gestão de Configuração de Software estabelece \num conjunto de atividades para gerenciar alterações através de todo o ciclo de vida de um software.\nPRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. \nPorto Alegre: Artmed Editora S.A. e McGraw-Hill Education, 2016 (adaptado).\nCom base no texto, assinale a opção correta acerca das atividades de gestão de configuração de \nsoftware.\nA\t Identificação de itens na configuração de software, gerenciamento de alterações, validação de versões e \ncontrole de qualidade.\nB\t Identificação de objetos na configuração de software, controle de versão, controle de alterações, \nauditoria de configuração e relatório de status.\nC\t Gerência de projeto, gerência de configuração de software, ciclo de vida do projeto, processo de \nsoftware e evolução das configurações.\nD\t Construção de modelo de requisitos, métricas para modelo de projeto, métricas de controle de versão \ne relatório de manutenção.\nE\t Identificação de alterações, controle de versão, mapeamento de alteração e notificação da alteração \naos envolvidos.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710830"
+  "criado_em": "2026-08-25T14:37:31.778400"
 }

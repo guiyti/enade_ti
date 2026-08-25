@@ -9,17 +9,17 @@
     {
       "pagina": 34,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 579.0827026367188,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q26.png",
+  "caminho_png": "/questoes/2021_ADS/q26.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q26.txt",
   "largura": 2185,
-  "altura": 2173,
+  "altura": 2131,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 26\t\nEmpreender em computação não se resume apenas ao fato de ter uma ideia sobre um aplicativo, \nimplementá-la e disponibilizá-la aos seus usuários finais. Esse conceito vai além, é preciso analisar uma \nsérie de variáveis, como questões sociais e humanísticas, profissionais, ambientais, legais, políticas e \ntecnológicas.\nDentre as ações necessárias para empreender em computação, é imprescindível observar a legislação vigente. \nNo Brasil, a Lei Geral de Proteção de Dados Pessoais (LGPD), n. 13.709/2018, dispõe sobre o tratamento de \ndados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público \nou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre \ndesenvolvimento da personalidade da pessoa natural.\nAcerca das providências dispostas no art. 2º da LGPD, assinale os fundamentos da disciplina da proteção \nde dados pessoais.\nA\t O direito ao usuário; das obrigações das organizações nacionais ou estrangeiras; obrigatoriedade do \nconsentimento; a livre iniciativa, a livre concorrência e a defesa do consumidor; os direitos humanos, o \nlivre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais \ne regulação da Autoridade Nacional de Proteção de Dados Pessoais (ANPD).\nB\t O direito à revogação de um consentimento; a transferência de dados para outro fornecedor de \nserviços; a solicitação de remoção de dados pessoais; a inviolabilidade da intimidade, da honra e \nda imagem; o desenvolvimento econômico e tecnológico e inovação; a preservação da vida e da \nintegridade física de uma pessoa.\nC\t O respeito à privacidade; obrigatoriedade do consentimento; os deveres e obrigações dos usuários \nfinais; os deveres e obrigações das organizações nacionais ou estrangeiras; a observação ao código de \ndefesa do consumidor; e, a obrigatoriedade do respeito à honra e à imagem.\nD\t O direito ao anonimato; a liberdade de expressão; a inviolabilidade da intimidade; a adoção de \nmedidas preventivas de segurança; o direito ao recurso e revisão; a administração de riscos e falhas; \no estabelecimento de agentes de tratamento; e, regulação da Autoridade Nacional de Proteção de \nDados Pessoais (ANPD).\nE\t O respeito à privacidade; a autodeterminação informativa; a liberdade de expressão, de informação, de \ncomunicação e de opinião; a inviolabilidade da intimidade, da honra e da imagem; o desenvolvimento \neconômico e tecnológico e a inovação; a livre iniciativa, a livre concorrência e a defesa do consumidor; \ne, os direitos humanos, o livre desenvolvimento da personalidade, dignidade e o exercício da cidadania \npelas pessoas naturais.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710850"
+  "criado_em": "2026-08-25T14:37:31.778425"
 }

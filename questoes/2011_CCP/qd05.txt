@@ -1,4 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 QUESTÃO DISCURSIVA 5 
  
 As memórias cache são usadas para diminuir o tempo de acesso à memória principal, 
@@ -20,7 +19,6 @@ palavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada 
 e desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada 
 uma delas. (valor: 10,0 pontos)
 
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 ATENÇÃO!
 1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente 
 Específico dos cursos da área de Computação, assim distribuídas: 

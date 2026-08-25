@@ -18,19 +18,19 @@
     {
       "pagina": 34,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 82.57166290283203,
       "x1": 611.7199999999999,
       "y1": 180.4859161376953,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.png",
+  "caminho_png": "/questoes/2024_CCP/q69.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.txt",
   "largura": 2475,
-  "altura": 771,
+  "altura": 656,
   "confianca": 0.98,
-  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\n\n2025\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.\n*R0404202534*",
+  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\n\nTexto para questões de 70 a 72\nUm professor de Computação decide organizar sua disciplina sobre Educação Inclusiva utilizando um Ambiente Virtual de \nAprendizagem (AVA). Para isso, o professor fundamenta sua prática em uma teoria de aprendizagem que valoriza a construção \nativa do conhecimento e a autonomia dos estudantes. Com base nessa abordagem, o docente estrutura os conteúdos de modo \nque os estudantes possam explorar recursos diversos, interagir com seus pares, produzir artefatos digitais e refletir sobre os \nprocessos de ensino e aprendizagem.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.491008"
+  "criado_em": "2026-08-25T14:38:37.516421"
 }

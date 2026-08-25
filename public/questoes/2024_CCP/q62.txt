@@ -10,5 +10,3 @@ tela para facilitar o uso pelos usuários da aplicação.
 C	 Utilizar contrastes visuais fortes e aumentar o tamanho da 
 fonte para assegurar as necessidades de acessibilidade.
 D Certificar responsividade e compatibilidade com navegadores
-
-*R0404202531*

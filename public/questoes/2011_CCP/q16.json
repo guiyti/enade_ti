@@ -11,17 +11,17 @@
       "x0": 293.28,
       "y0": 346.4012756347656,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.png",
+  "caminho_png": "/questoes/2011_CCP/q16.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.txt",
   "largura": 1123,
-  "altura": 1646,
+  "altura": 1584,
   "confianca": 0.98,
-  "texto_completo": "1\nQUESTÃO 16  \nUm navegador Web executa em um hospedeiro A, em \numa rede de uma organização, e acessa uma página \nlocalizada de um servidor Web em um hospedeiro B, \nsituado em outra rede na Internet. A rede em que A se \nsitua conta com um servidor DNS local. Um profi ssional \ndeseja fazer uma lista com a sequência de protocolos \nempregados e comparar com o resultado apresentado \npor uma ferramenta de monitoramento executada no \nhospedeiro A. A lista assume que\ni)   todas as tabelas com informações temporárias e \ncaches estão vazias;\nii) o hospedeiro cliente está confi gurado com o \nendereço IP do servidor DNS local.\nQual das sequências a seguir representa a ordem em que \nmensagens, segmentos e pacotes serão observados em \num meio físico ao serem enviados pelo hospedeiro A?\nA   ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.\nB   ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.\nC   DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.\nD   DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.\nE   HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.",
+  "texto_completo": "QUESTÃO 16  \nUm navegador Web executa em um hospedeiro A, em \numa rede de uma organização, e acessa uma página \nlocalizada de um servidor Web em um hospedeiro B, \nsituado em outra rede na Internet. A rede em que A se \nsitua conta com um servidor DNS local. Um profi ssional \ndeseja fazer uma lista com a sequência de protocolos \nempregados e comparar com o resultado apresentado \npor uma ferramenta de monitoramento executada no \nhospedeiro A. A lista assume que\ni)   todas as tabelas com informações temporárias e \ncaches estão vazias;\nii) o hospedeiro cliente está confi gurado com o \nendereço IP do servidor DNS local.\nQual das sequências a seguir representa a ordem em que \nmensagens, segmentos e pacotes serão observados em \num meio físico ao serem enviados pelo hospedeiro A?\nA   ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.\nB   ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.\nC   DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.\nD   DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.\nE   HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218575"
+  "criado_em": "2026-08-25T14:35:20.232177"
 }

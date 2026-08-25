@@ -11,6 +11,3 @@ B	 A rede representada é uma MAN, pois os estudantes simulam conexões interset
 da cidade.
 C	 A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.
 D A rede simulada é uma LAN pois os estudantes representaram uma conexão entre diversos setores da escola com switches
-
-2025
-*R0404202525*

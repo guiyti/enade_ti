@@ -12,25 +12,25 @@
       "x0": 301.08,
       "y0": 462.6156005859375,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     },
     {
       "pagina": 13,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 295.08,
       "y1": 563.9356079101562,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q34.png",
+  "caminho_png": "/questoes/2005_CCP/q34.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q34.txt",
   "largura": 1156,
-  "altura": 3561,
+  "altura": 3415,
   "confianca": 0.98,
-  "texto_completo": "Ã\n11\nC I, III e IV.\nQUESTÃO 34\nJulgue os seguintes itens referentes a teste de software.\nI\nA técnica de teste funcional, que estabelece os requisitos de\nteste com base em determinada implementação, permite\nverificar se são atendidos os detalhes do código e solicita a\nexecução de partes ou de componentes elementares do\nprograma; a técnica de teste estrutural aborda o software de\num ponto de vista macroscópico e estabelece os requisitos\nde teste, com base em determinada implementação.\nII\nNa fase de teste de unidade, o objetivo é explorar-se a\nmenor unidade de projeto, procurando-se identificar erros de\nlógica e de implementação de cada módulo; na fase de teste\nde integração, o objetivo é descobrir erros associados às\ninterfaces entre os módulos quando esses são integrados,\npara se construir a estrutura do software, estabelecida na\nfase de projeto.\nIII Critérios com base na complexidade, em fluxo de controle\ne em fluxo de dados, são utilizados pela técnica estrutural de\nteste.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.\n\nUma empresa tem a sua sede em Natal e filiais em Brasília e\nFlorianópolis. Em cada cidade, a empresa possui computadores que\nserão interligados. A seguir, encontram-se os requisitos que devem\nser observados no projeto da rede.\nRequisito A: Em Natal, existem dois prédios. Para interligá-los,\ndevem ser usados dispositivos que dividam o tráfego entre os prédios.\nOs dispositivos devem atuar na camada de enlace e a presença dos\nmesmos deve ser transparente às máquinas na rede.\nRequisito B: Em Brasília, há computadores em vários departamentos.\nPara interligar os departamentos, devem ser usados dispositivos que\ndividam o tráfego entre os departamentos e que possibilitem a\ncomunicação simultânea entre esses departamentos.\nRequisito C: As redes em Natal, Brasília e Florianópolis devem ser\ninterligadas por dispositivos que dividam o tráfego e que possibilitem\na interligação de redes com diferentes protocolos da camada física.\nPara decidir os destinos dos dados, devem ser usados endereços de\nrede. Os dispositivos devem possibilitar que o tráfego seja filtrado.\nRequisito D: A rede deve usar TCP/IP. O endereço da rede será da\nclasse B e um dos bytes identificará o segmento da rede localizado em\ncada \ncidade. \nEm \ncada \nsegmento, \nservidores \ndistribuirão\nautomaticamente os endereços IP entre as máquinas.\nRequisito E: Os nomes das máquinas serão traduzidos em endereços\nIP por servidores em cada cidade. Esses servidores estarão\norganizados em uma hierarquia. Cada servidor será responsável por\num ou por vários subdomínios.\nA seguir, encontram-se as decisões que foram tomadas para cada\nrequisito.\nI\nUsar repetidores para atender ao requisito A.\nII\nUsar comutadores (switches) para atender ao requisito B.\nIII Usar roteadores para atender ao requisito C.\nIV Usar o endereço de rede 164.41.0.0, a máscara 255.255.0.0 e\nservidores DHCP para atender ao requisito D.\nV\nConfigurar servidores Domain Name System (DNS) para\natender ao requisito E.\nEstão corretas apenas as decisões\nA I, II e IV.\nD II, III e V.\nB I, II e V.\nE III, IV e V.\nC I, III e IV.",
+  "texto_completo": "C I, III e IV.\nQUESTÃO 34\nJulgue os seguintes itens referentes a teste de software.\nI\nA técnica de teste funcional, que estabelece os requisitos de\nteste com base em determinada implementação, permite\nverificar se são atendidos os detalhes do código e solicita a\nexecução de partes ou de componentes elementares do\nprograma; a técnica de teste estrutural aborda o software de\num ponto de vista macroscópico e estabelece os requisitos\nde teste, com base em determinada implementação.\nII\nNa fase de teste de unidade, o objetivo é explorar-se a\nmenor unidade de projeto, procurando-se identificar erros de\nlógica e de implementação de cada módulo; na fase de teste\nde integração, o objetivo é descobrir erros associados às\ninterfaces entre os módulos quando esses são integrados,\npara se construir a estrutura do software, estabelecida na\nfase de projeto.\nIII Critérios com base na complexidade, em fluxo de controle\ne em fluxo de dados, são utilizados pela técnica estrutural de\nteste.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.\n\nFlorianópolis. Em cada cidade, a empresa possui computadores que\nserão interligados. A seguir, encontram-se os requisitos que devem\nser observados no projeto da rede.\nRequisito A: Em Natal, existem dois prédios. Para interligá-los,\ndevem ser usados dispositivos que dividam o tráfego entre os prédios.\nOs dispositivos devem atuar na camada de enlace e a presença dos\nmesmos deve ser transparente às máquinas na rede.\nRequisito B: Em Brasília, há computadores em vários departamentos.\nPara interligar os departamentos, devem ser usados dispositivos que\ndividam o tráfego entre os departamentos e que possibilitem a\ncomunicação simultânea entre esses departamentos.\nRequisito C: As redes em Natal, Brasília e Florianópolis devem ser\ninterligadas por dispositivos que dividam o tráfego e que possibilitem\na interligação de redes com diferentes protocolos da camada física.\nPara decidir os destinos dos dados, devem ser usados endereços de\nrede. Os dispositivos devem possibilitar que o tráfego seja filtrado.\nRequisito D: A rede deve usar TCP/IP. O endereço da rede será da\nclasse B e um dos bytes identificará o segmento da rede localizado em\ncada \ncidade. \nEm \ncada \nsegmento, \nservidores \ndistribuirão\nautomaticamente os endereços IP entre as máquinas.\nRequisito E: Os nomes das máquinas serão traduzidos em endereços\nIP por servidores em cada cidade. Esses servidores estarão\norganizados em uma hierarquia. Cada servidor será responsável por\num ou por vários subdomínios.\nA seguir, encontram-se as decisões que foram tomadas para cada\nrequisito.\nI\nUsar repetidores para atender ao requisito A.\nII\nUsar comutadores (switches) para atender ao requisito B.\nIII Usar roteadores para atender ao requisito C.\nIV Usar o endereço de rede 164.41.0.0, a máscara 255.255.0.0 e\nservidores DHCP para atender ao requisito D.\nV\nConfigurar servidores Domain Name System (DNS) para\natender ao requisito E.\nEstão corretas apenas as decisões\nA I, II e IV.\nD II, III e V.\nB I, II e V.\nE III, IV e V.\nC I, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796643"
+  "criado_em": "2026-08-25T14:34:18.145964"
 }

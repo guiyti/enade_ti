@@ -1,5 +1,3 @@
-30
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 QUESTÃO 27
 K ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞ ĂƉƌĞƐĞŶƚĂĚŽ ŶĂ ĮŐƵƌĂ Ă ƐĞŐƵŝƌ ŵĂƉĞŝĂ Ƶŵ ƉƌŽĐĞƐƐŽ ĚĞ Ƶŵ ƐŝŵƵůĂĚŽƌ ĚĞ ǀŽŽ͘  
 EĞƐƐĞ  ĚŝĂŐƌĂŵĂ͕   Ġ  ƵƟůŝǌĂĚŽ  Ž  ƉĂĚƌĆŽ  ĚĞ  ƉƌŽũĞƚŽ  Strategy͕   ƋƵĞ  ĚĞĮŶĞ  ƵŵĂ  ĨĂŵşůŝĂ  ĚĞ  ĂůŐŽƌŝƚŵŽƐ͕  
@@ -58,8 +56,6 @@ public class PousarDia implements Pousar {
    }
 }
 
-31
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 public class PousarNoite implements Pousar {
    public void pousar() {
       System.out.println(“Pousar durante a noite.”);
@@ -116,6 +112,3 @@ sŽĂƌ ĚƵƌĂŶƚĞ Ă ŶŽŝƚĞ͟  Ğ ͞ WŽƵƐĂƌ ĚƵƌĂŶƚĞ Ă ŶŽ
 E  YƵĂŶĚŽ ĨŽƌ ĞǆĞĐƵƚĂĚĂ͕  Ă ĐůĂƐƐĞ SimuladorBoeing757 ĂƉƌĞƐĞŶƚĂƌĄ Ƶŵ ĞƌƌŽ Ğŵ ƚĞŵƉŽ ĚĞ ĞǆĞĐƵĕĆŽ 
 ƉŽƌƋƵĞ ŽƐ ŵĠƚŽĚŽƐ setVoar e setPousar ƌĞĐĞďĞŵ ƌĞƐƉĞĐƟǀĂŵĞŶƚĞ͕  ĐŽŵŽ ƉĂƌąŵĞƚƌŽƐ͕  ǀĂƌŝĄǀĞŝƐ 
 ĚŽ ƟƉŽ ĐůĂƐƐĞ͕  Ž ƋƵĞ ŶĆŽ Ġ ƉĞƌŵŝƟĚŽ ŶĂ ŽƌŝĞŶƚĂĕĆŽ Ă ŽďũĞƚŽƐ͘
-*R41201731*
-
-*R41201732*

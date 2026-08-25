@@ -9,17 +9,17 @@
     {
       "pagina": 33,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 545.4344482421875,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q25.png",
+  "caminho_png": "/questoes/2021_ADS/q25.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q25.txt",
   "largura": 2185,
-  "altura": 2033,
+  "altura": 1991,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 25\t\nUma determinada empresa do ramo de piscicultura solicitou a uma instituição especializada no \ndesenvolvimento de softwares de gestão a construção de um sistema que fosse capaz de gerenciar o \nprocesso de criação dos peixes, que começava ainda na fase de alevinos, estendia-se para a engorda, \nfinalizando na fase adulta com a venda do peixe. O sistema deveria disponibilizar funcionalidades \npara armazenar informações sobre toda a etapa da criação, mortandade e rações utilizadas na \nengorda dos peixes, viabilizando uma melhor tomada de decisão dos investidores. Como não havia \nnenhuma solução e a demanda por peixes estava aumentando, a empresa solicitou extrema urgência \nna construção da aplicação.\nConsiderando o processo de desenvolvimento de software que deverá ser utilizado para construir o \nsistema mencionado no texto, avalie as afirmações a seguir.\nI.\t Para desenvolver o sistema, deve ser adotado um processo baseado no modelo cascata, pois ele \nse adapta melhor a cenários com muitas mudanças.\nII.\t Por se tratar de uma aplicação com escopo pequeno, o modelo espiral deverá ser utilizado \nno desenvolvimento do sistema solicitado, já que reduzirá riscos por meio da prototipação de \nespecificações de cada fase dos peixes e diminuirá o tempo de entrega.\nIII.\t O modelo incremental deve ser utilizado na construção do software descrito no cenário, já que \npartes do sistema referentes à fase inicial dos peixes poderiam ser disponibilizadas, enquanto as \ndemais estão nas etapas de concepção e desenvolvimento.\nIV.\t Em razão da extrema urgência no desenvolvimento do software solicitado, a empresa deve elaborar \nseu processo utilizando o modelo RAD (Rapid Application Development).\nÉ correto apenas o que se afirma em\nA\t I.\nB\t IV.\nC\t I e II.\nD\t II e III.\nE\t III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710846"
+  "criado_em": "2026-08-25T14:37:31.778420"
 }

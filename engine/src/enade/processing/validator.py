@@ -113,7 +113,16 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
     anomalias = []
     
     for q in exam.questoes:
-        if not q.caminho_png or not Path(q.caminho_png).exists():
+        p = Path(q.caminho_png)
+        if not p.is_absolute():
+            # Resolve relative web path like /questoes/2024_CCP/q01.png
+            clean_rel = q.caminho_png.lstrip("/")
+            resolved_p = config.BASE_DIR / "public" / clean_rel
+            if not resolved_p.exists():
+                resolved_p = config.QUESTOES_DIR / exam.id_prova / f"{q.id_questao}.png"
+            p = resolved_p
+            
+        if not p.exists():
             anomalias.append({
                 "tipo": "IMAGEM_NAO_ENCONTRADA",
                 "severidade": "ERROR",
@@ -123,7 +132,7 @@ def validate_image_integrity(exam: Exam) -> List[Dict[str, Any]]:
             q.status = QuestionStatus.REJEITADA
             continue
             
-        img = cv2.imread(q.caminho_png)
+        img = cv2.imread(str(p))
         if img is None:
             anomalias.append({
                 "tipo": "IMAGEM_CORROMPIDA",

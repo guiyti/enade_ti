@@ -1,4 +1,3 @@
-4
 QUESTÃO 25  
 Em projetos de desenvolvimento de software, vários tipos de 
 testes podem ser empregados para garantia da qualidade 
@@ -13,4 +12,4 @@ sobrecarga.
 D   verificar a existência de defeitos após alterações em 
 um sistema (ou parte dele) já testado.
 E   verificar a existência de defeitos em um sistema ou 
-parte dele.
+parte dele

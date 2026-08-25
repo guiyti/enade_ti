@@ -9,19 +9,19 @@
     {
       "pagina": 11,
       "x0": 25.0,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q15.png",
+  "caminho_png": "/questoes/2011_ADS/q15.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q15.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "1\nQUESTÃO 15  \nOs mapas de navegação enfocam como as pessoas \nse movimentam por um site ou aplicação. Cada página \ndo site ou local da aplicação é representado com uma \ncaixa ou cabeçalho e todas as páginas que puderem ser \nacessadas a partir dela devem usá-la como referência. \nUma técnica bastante utilizada é colocar todos os fluxos \npossíveis no mapa de navegação, já que isso destacará \nseções onde há necessidade de uma revisão no projeto \nda interface.\nBENYON, D. Interação humano-computador. 2.ed. São Paulo: Pearson \nPrentice Hall, 2011.\nCom relação ao tema, analise as asserções a seguir.\nOs mapas de navegação são redesenhados muitas vezes \nno decorrer do ciclo de vida do projeto\nPORQUE\na interface deve ser projetada para atender pessoas \n(capacidades \ne \nlimitações \nmotoras, \nneurológicas, \ncognitivas, etc.), atividades que as pessoas querem \nrealizar (questões temporais, com ou sem cooperação, \nse são críticas em termos de segurança ,etc.), contextos \nnos quais a interação acontece (ambiente físico, contexto \nsocial ou organizacional ,etc.), e ater-se às tecnologias \nempregadas (hardware, plataformas, normas, linguagens \nde programação, políticas de acesso em ambientes de \ntrabalho e residencial, etc.). As combinações desses \nelementos são muito diferentes, por exemplo, em um \nquiosque público, em um sistema de agenda compartilhada, \nem uma cabine de avião ou em um telefone celular.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_completo": "QUESTÃO 15  \nOs mapas de navegação enfocam como as pessoas \nse movimentam por um site ou aplicação. Cada página \ndo site ou local da aplicação é representado com uma \ncaixa ou cabeçalho e todas as páginas que puderem ser \nacessadas a partir dela devem usá-la como referência. \nUma técnica bastante utilizada é colocar todos os fluxos \npossíveis no mapa de navegação, já que isso destacará \nseções onde há necessidade de uma revisão no projeto \nda interface.\nBENYON, D. Interação humano-computador. 2.ed. São Paulo: Pearson \nPrentice Hall, 2011.\nCom relação ao tema, analise as asserções a seguir.\nOs mapas de navegação são redesenhados muitas vezes \nno decorrer do ciclo de vida do projeto\nPORQUE\na interface deve ser projetada para atender pessoas \n(capacidades \ne \nlimitações \nmotoras, \nneurológicas, \ncognitivas, etc.), atividades que as pessoas querem \nrealizar (questões temporais, com ou sem cooperação, \nse são críticas em termos de segurança ,etc.), contextos \nnos quais a interação acontece (ambiente físico, contexto \nsocial ou organizacional ,etc.), e ater-se às tecnologias \nempregadas (hardware, plataformas, normas, linguagens \nde programação, políticas de acesso em ambientes de \ntrabalho e residencial, etc.). As combinações desses \nelementos são muito diferentes, por exemplo, em um \nquiosque público, em um sistema de agenda compartilhada, \nem uma cabine de avião ou em um telefone celular.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235148"
+  "criado_em": "2026-08-25T14:35:01.738726"
 }

@@ -1,4 +1,3 @@
-0
 QUESTÃO 14  
 O diagrama de atividades é um dos diagramas disponíveis 
 na UML (Linguagem de Modelagem Unificada) para a 
@@ -30,4 +29,4 @@ A   I e II.
 B   II e III.
 C   III e IV.
 D   I, II e IV.
-E   I, III e IV.
+E I III e IV

@@ -9,19 +9,19 @@
     {
       "pagina": 10,
       "x0": 25.0,
-      "y0": 55.890419006347656,
+      "y0": 75.0,
       "x1": 287.28,
       "y1": 451.3507080078125,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q12.png",
+  "caminho_png": "/questoes/2011_ADS/q12.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q12.txt",
   "largura": 1123,
-  "altura": 1678,
+  "altura": 1598,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 12  \nAnalise as seguintes afirmações sobre a UML (Linguagem \nde Modelagem Unificada).\nI. \nA UML é uma metodologia para o desenvolvimento \nde software orientado a objetos, uma vez que \nfornece um conjunto de representações gráficas \ne sua semântica para a modelagem de software.\nII. O diagrama de casos de uso procura, por \nmeio de uma linguagem simples, demonstrar \no comportamento externo do sistema. Esse \ndiagrama apresenta o sistema sob a perspectiva \ndo usuário, e é dentre todos da UML, o mais \nabstrato, flexível e informal.\nIII. Um relacionamento de extensão de um caso de \nuso “A” para um caso de uso “B” significa que \ntoda vez que “A” for executado ele incorporará o \ncomportamento definido em “B”.\nIV. Os diagramas de comportamento da UML \ndemonstram \ncomo \nocorrem \nas \ntrocas \nde \nmensagens entre os objetos do sistema para se \natingir um determinado objetivo. \nÉ correto apenas o que se afirma em\nA   I e II.\nB   II e IV.\nC   III e IV.\nD   I, II e III.\nE   II, III e IV.",
+  "texto_completo": "QUESTÃO 12  \nAnalise as seguintes afirmações sobre a UML (Linguagem \nde Modelagem Unificada).\nI. \nA UML é uma metodologia para o desenvolvimento \nde software orientado a objetos, uma vez que \nfornece um conjunto de representações gráficas \ne sua semântica para a modelagem de software.\nII. O diagrama de casos de uso procura, por \nmeio de uma linguagem simples, demonstrar \no comportamento externo do sistema. Esse \ndiagrama apresenta o sistema sob a perspectiva \ndo usuário, e é dentre todos da UML, o mais \nabstrato, flexível e informal.\nIII. Um relacionamento de extensão de um caso de \nuso “A” para um caso de uso “B” significa que \ntoda vez que “A” for executado ele incorporará o \ncomportamento definido em “B”.\nIV. Os diagramas de comportamento da UML \ndemonstram \ncomo \nocorrem \nas \ntrocas \nde \nmensagens entre os objetos do sistema para se \natingir um determinado objetivo. \nÉ correto apenas o que se afirma em\nA   I e II.\nB   II e IV.\nC   III e IV.\nD   I, II e III.\nE   II, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235136"
+  "criado_em": "2026-08-25T14:35:01.738712"
 }

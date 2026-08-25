@@ -31,7 +31,6 @@ respeitando os Direitos Humanos,
 2025
 *R0404202519*
 
-2025
 Texto para questões de 31 a 33
 Durante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios 
 da orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na 
@@ -49,4 +48,3 @@ retornaLado2(  ): inteiro
 retornaLado3(  ): inteiro
 calcularArea(  ): real
 calcularPerimetro(  ): inteiro
-*R0404202520*

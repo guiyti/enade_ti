@@ -3,6 +3,3 @@ QUESTÃO 72
 Os recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor 
 de Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o 
 estudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?
-
-2025
-*R0404202535*

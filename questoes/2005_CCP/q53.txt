@@ -1,5 +1,3 @@
-Á
-O problema do buffer limitado de tamanho N é um
 problema clássico de sincronização de processos: um grupo de
 processos utiliza um buffer de tamanho N para armazenar
 temporariamente itens produzidos; processos produtores

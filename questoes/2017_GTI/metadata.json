@@ -6,7 +6,7 @@
   "total_paginas": 40,
   "questoes_detectadas": 38,
   "questoes_extraidas": 38,
-  "score_geral": 97.5,
+  "score_geral": 0.0,
   "tipo_pdf": "digital",
   "questoes": [
     {
@@ -15,13 +15,12 @@
       "tipo": "DISCURSIVA",
       "paginas": [
         2,
-        3,
-        4
+        3
       ],
       "largura": 2440,
-      "altura": 3914,
-      "confianca": 0.9,
-      "status": "PENDENTE",
+      "altura": 3647,
+      "confianca": 0.98,
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -36,13 +35,12 @@
       "numero": 2,
       "tipo": "DISCURSIVA",
       "paginas": [
-        4,
-        5
+        4
       ],
       "largura": 2440,
-      "altura": 1834,
+      "altura": 1712,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -57,13 +55,12 @@
       "numero": 1,
       "tipo": "OBJETIVA",
       "paginas": [
-        5,
-        6
+        5
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -78,13 +75,12 @@
       "numero": 2,
       "tipo": "OBJETIVA",
       "paginas": [
-        6,
-        7
+        6
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -99,13 +95,12 @@
       "numero": 3,
       "tipo": "OBJETIVA",
       "paginas": [
-        7,
-        8
+        7
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -120,13 +115,12 @@
       "numero": 4,
       "tipo": "OBJETIVA",
       "paginas": [
-        8,
-        9
+        8
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -141,13 +135,12 @@
       "numero": 5,
       "tipo": "OBJETIVA",
       "paginas": [
-        9,
-        10
+        9
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -162,13 +155,12 @@
       "numero": 6,
       "tipo": "OBJETIVA",
       "paginas": [
-        10,
-        11
+        10
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -183,13 +175,12 @@
       "numero": 7,
       "tipo": "OBJETIVA",
       "paginas": [
-        11,
-        12
+        11
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -208,9 +199,9 @@
         13
       ],
       "largura": 2440,
-      "altura": 3205,
+      "altura": 3060,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -227,13 +218,12 @@
       "paginas": [
         13,
         14,
-        15,
-        16
+        15
       ],
       "largura": 2440,
-      "altura": 4291,
+      "altura": 4003,
       "confianca": 0.9,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -250,10 +240,10 @@
       "paginas": [
         16
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -268,13 +258,12 @@
       "numero": 10,
       "tipo": "OBJETIVA",
       "paginas": [
-        16,
-        17
+        16
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -291,10 +280,10 @@
       "paginas": [
         17
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -309,13 +298,12 @@
       "numero": 12,
       "tipo": "OBJETIVA",
       "paginas": [
-        17,
-        18
+        17
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -332,10 +320,10 @@
       "paginas": [
         18
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -350,13 +338,12 @@
       "numero": 14,
       "tipo": "OBJETIVA",
       "paginas": [
-        18,
-        19
+        18
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -373,10 +360,10 @@
       "paginas": [
         19
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -391,13 +378,12 @@
       "numero": 16,
       "tipo": "OBJETIVA",
       "paginas": [
-        19,
-        20
+        19
       ],
-      "largura": 2440,
-      "altura": 3089,
+      "largura": 1223,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -412,13 +398,12 @@
       "numero": 17,
       "tipo": "OBJETIVA",
       "paginas": [
-        20,
-        21
+        20
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -433,13 +418,12 @@
       "numero": 18,
       "tipo": "OBJETIVA",
       "paginas": [
-        21,
-        22
+        21
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -455,13 +439,12 @@
       "tipo": "OBJETIVA",
       "paginas": [
         22,
-        23,
-        24
+        23
       ],
       "largura": 2440,
-      "altura": 6131,
-      "confianca": 0.9,
-      "status": "PENDENTE",
+      "altura": 5802,
+      "confianca": 0.98,
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados",
         "Redes e Segurança"
@@ -477,13 +460,12 @@
       "numero": 20,
       "tipo": "OBJETIVA",
       "paginas": [
-        24,
-        25
+        24
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -498,13 +480,12 @@
       "numero": 21,
       "tipo": "OBJETIVA",
       "paginas": [
-        25,
-        26
+        25
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -521,10 +502,10 @@
       "paginas": [
         26
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -539,13 +520,12 @@
       "numero": 23,
       "tipo": "OBJETIVA",
       "paginas": [
-        26,
-        27
+        26
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -562,10 +542,10 @@
       "paginas": [
         27
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -580,13 +560,12 @@
       "numero": 25,
       "tipo": "OBJETIVA",
       "paginas": [
-        27,
-        28
+        27
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -603,10 +582,10 @@
       "paginas": [
         28
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -621,13 +600,12 @@
       "numero": 27,
       "tipo": "OBJETIVA",
       "paginas": [
-        28,
-        29
+        28
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -644,10 +622,10 @@
       "paginas": [
         29
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -662,13 +640,12 @@
       "numero": 29,
       "tipo": "OBJETIVA",
       "paginas": [
-        29,
-        30
+        29
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -685,10 +662,10 @@
       "paginas": [
         30
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -703,13 +680,12 @@
       "numero": 31,
       "tipo": "OBJETIVA",
       "paginas": [
-        30,
-        31
+        30
       ],
       "largura": 1223,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -726,10 +702,10 @@
       "paginas": [
         31
       ],
-      "largura": 1223,
-      "altura": 3089,
+      "largura": 1222,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -744,13 +720,12 @@
       "numero": 33,
       "tipo": "OBJETIVA",
       "paginas": [
-        31,
-        32
+        31
       ],
-      "largura": 2440,
-      "altura": 3089,
+      "largura": 1223,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -765,13 +740,12 @@
       "numero": 34,
       "tipo": "OBJETIVA",
       "paginas": [
-        32,
-        33
+        32
       ],
       "largura": 2440,
-      "altura": 3089,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],
@@ -789,9 +763,9 @@
         33
       ],
       "largura": 2440,
-      "altura": 2967,
+      "altura": 2905,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI"
       ],

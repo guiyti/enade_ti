@@ -1,6 +1,3 @@
-Á
-Ã
-24
 QUESTÃO 67
 A redução da pirataria de software no Brasil e no mundo
 é resultado de esforços advindos da iniciativa privada e das
@@ -30,8 +27,13 @@ E IV e V.
 C II e IV.
 RASC UNH O
 
-Á
-Suponha que uma empresa esteja projetando um protocolo de
+p
+q
+p
+j
+p
+j
+p
 transporte orientado a conexão. Suponha, ainda, que os projetistas
 tenham pouca experiência e que alguns requisitos originalmente
 listados não sejam típicos de um protocolo de transporte
@@ -77,8 +79,6 @@ C II e III.
 D I, III e IV.
 E II, III e IV.
 
-Ã
-25
 A rede de uma empresa cujo esquema está ilustrado
 acima é composta por 4 redes TCP/IP locais. Essas redes
 TCP/IP são interligadas por uma rede X.25, que opera
@@ -123,7 +123,6 @@ C II, IV, V, VIII, IX e X.
 D III, V, VI, VII, VIII e IX.
 E III, IV, V, VII, VIII e IX.
 
-A máquina finita de estados (MFE) cujo diagrama é visto ao lado
 reconhece seqüências de caracteres compostos pelas letras I, V e X, que
 representam, em notação romana, números correspondentes ao intervalo de
 1 a 9, na notação arábica. Considere que todas as sentenças de entrada da
@@ -157,5 +156,3 @@ D
 Considerando essas informações, estenda a MFE apresentada acima para:
 a) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.
 (valor: 5,0 pontos)
-
-ENGENHARIA DE

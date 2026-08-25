@@ -22,8 +22,8 @@ class FlowSlot:
 def build_page_slots(
     pages: List[PageData], 
     margin_x: float = 25.0, 
-    header_y: float = 55.0, 
-    footer_y_offset: float = 45.0,
+    header_y: float = 75.0, 
+    footer_y_offset: float = 60.0,
     dpi: int = 300
 ) -> List[FlowSlot]:
     slots: List[FlowSlot] = []

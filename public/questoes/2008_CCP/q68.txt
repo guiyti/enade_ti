@@ -1,6 +1,3 @@
-28
-CO
-ÇÃO
 QUESTÃO 68
 Considere as seguintes tabelas:
 CREATE TABLE Departamento

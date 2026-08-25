@@ -12,33 +12,33 @@
       "x0": 25.0,
       "y0": 96.5428466796875,
       "x1": 311.15999999999997,
-      "y1": 781.56,
+      "y1": 703.4030151367188,
       "coluna": 1
     },
     {
       "pagina": 23,
       "x0": 317.15999999999997,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 603.3199999999999,
-      "y1": 781.56,
+      "y1": 756.2910766601562,
       "coluna": 2
     },
     {
       "pagina": 24,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 311.15999999999997,
       "y1": 100.5428466796875,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q29.png",
+  "caminho_png": "/questoes/2014_ADS/q29.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q29.txt",
   "largura": 1223,
-  "altura": 6130,
+  "altura": 5533,
   "confianca": 0.9,
-  "texto_completo": "2\ndEIEK>K'/  ED  E\u0006>/^E E DE^E\nQUESTÃO 29\nhD>  Ġ  ƵŵĂ  ůŝŶŐƵĂŐĞŵ  ƉĂĚƌĆŽ  ƉĂƌĂ  ĚĞƐĞŶǀŽůǀĞƌ  Ğ \nĚŽĐƵŵĞŶƚĂƌ  ƉƌŽũĞƚŽƐ  ĚĞ  ƐŽŌǁĂƌĞ  Ğ  ƉĞƌŵŝƚĞ  ƋƵĞ \nĚĞƐĞŶǀŽůǀĞĚŽƌĞƐ  ǀŝƐƵĂůŝǌĞŵ  ŽƐ  ƉƌŽĚƵƚŽƐ  ĚĞ  ƐĞƵƐ \nƚƌĂďĂůŚŽƐ  Ğŵ  ĚŝĂŐƌĂŵĂƐ  ƉĂĚƌŽŶŝǌĂĚŽƐ͘   EůĂ  ƐƵƌŐŝƵ \nĐŽŵŽ  ƵŵĂ  ƉƌŽƉŽƐƚĂ  ĚĞ  ƐĞƌ  ƵŵĂ  ůŝŶŐƵĂŐĞŵ  ƉĂƌĂ \nŵŽĚĞůĂŐĞŵ ĚĞ ĚĂĚŽƐ ƋƵĞ ƵƐĂǀĂ ĚŝǀĞƌƐŽƐ ĂƌƚĞĨĂƚŽƐ \nƉĂƌĂ ƌĞƉƌĞƐĞŶƚĂƌ Ž ŵŽĚĞůŽ ĚĞ ŶĞŐſĐŝŽ Ğ Ƶŵ ĚĞƐƐĞƐ \nĂƌƚĞĨĂƚŽƐ Ġ Ž ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞƐ͘\nWZE^^D E͕  Z͘  ^͘  Engenharia de ƐŽŌǁĂƌĞ͘  6 ĞĚ͘  WŽƌƚŽ  ůĞŐƌĞ͗  \n\u0011ŽŽŬŵĂŶ͕  2006 ;ĂĚĂƉƚĂĚŽͿ͘\n^Ğ Ƶŵ ƉƌŽũĞƚŽ ŶĆŽ ƚĞŵ Ă ĚŽĐƵŵĞŶƚĂĕĆŽ ĂƉƌŽƉƌŝĂĚĂ \nŽƵ ƐĞ ĞƐƚĄ ĐŽŵ Ă ĚŽĐƵŵĞŶƚĂĕĆŽ ĚĞƐĂƚƵĂůŝǌĂĚĂ͕  ƵŵĂ \nŽƉĕĆŽ Ġ Ă ĞŶŐĞŶŚĂƌŝĂ ƌĞǀĞƌƐĂ ƋƵĞ ƉŽƐƐŝďŝůŝƚĂ ŵĂƉĞĂƌ \nĐſĚŝŐŽƐ ƉĂƌĂ ĚŝĂŐƌĂŵĂƐ hD>͘    ƐĞŐƵŝƌ͕  Ġ ĂƉƌĞƐĞŶƚĂĚŽ \nƵŵ ĐſĚŝŐŽ ŶĂ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ : s ͘\n1 package default; \n2\n3 public class Funcionario extends Pessoa {\n4\nprivate double salario;\n5\n6\npublic Funcionario(int rg, String nome,\n7\ndouble salario) {\n8\nsuper(rg, nome);\n9\n this.salario= salario;\n10\n}\n11\npublic double getSalario() {\n12\nreturn salario; \n13\n14\n}\n15\npublic double obterSalario(double\n16\npercentualAcrescimo) {\n17\ndouble salarioReajustado = salario +\n1 8\nsalario * percentualAcrescimo / 100;\n19\nreturn salarioReajustado; \n20\n21\n}\n22\npublic double obterSalario(double\n23\nadicional, double desconto){\n24\nreturn this.getSalario() + adicional - desconto;\n25\n26\n}\n27 }\n\n3\nEsK>s/DEEdK DE ^/^dED ^\nhƟůŝǌĂŶĚŽ  Ă  ĞŶŐĞŶŚĂƌŝĂ  ƌĞǀĞƌƐĂ  ŶĞƐƐĞ  ƚƌĞĐŚŽ  ĚĞ \nĐſĚŝŐŽ͕  Ž ĚŝĂŐƌĂŵĂ hD> ĚĞ ĐůĂƐƐĞƐ ĐŽƌƌĞƐƉŽŶĚĞŶƚĞ Ġ\nA\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nB\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nC\nPessoa\nFuncionario\n+Funcionario(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nD\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\nE\nPessoa\nFuncionario\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(percentualAcrescimo:double): double\n+obterSalario(adicional:double,desconto:double): double\n*R40201423*",
+  "texto_completo": "QUESTÃO 29\nhD>  Ġ  ƵŵĂ  ůŝŶŐƵĂŐĞŵ  ƉĂĚƌĆŽ  ƉĂƌĂ  ĚĞƐĞŶǀŽůǀĞƌ  Ğ \nĚŽĐƵŵĞŶƚĂƌ  ƉƌŽũĞƚŽƐ  ĚĞ  ƐŽŌǁĂƌĞ  Ğ  ƉĞƌŵŝƚĞ  ƋƵĞ \nĚĞƐĞŶǀŽůǀĞĚŽƌĞƐ  ǀŝƐƵĂůŝǌĞŵ  ŽƐ  ƉƌŽĚƵƚŽƐ  ĚĞ  ƐĞƵƐ \nƚƌĂďĂůŚŽƐ  Ğŵ  ĚŝĂŐƌĂŵĂƐ  ƉĂĚƌŽŶŝǌĂĚŽƐ͘   EůĂ  ƐƵƌŐŝƵ \nĐŽŵŽ  ƵŵĂ  ƉƌŽƉŽƐƚĂ  ĚĞ  ƐĞƌ  ƵŵĂ  ůŝŶŐƵĂŐĞŵ  ƉĂƌĂ \nŵŽĚĞůĂŐĞŵ ĚĞ ĚĂĚŽƐ ƋƵĞ ƵƐĂǀĂ ĚŝǀĞƌƐŽƐ ĂƌƚĞĨĂƚŽƐ \nƉĂƌĂ ƌĞƉƌĞƐĞŶƚĂƌ Ž ŵŽĚĞůŽ ĚĞ ŶĞŐſĐŝŽ Ğ Ƶŵ ĚĞƐƐĞƐ \nĂƌƚĞĨĂƚŽƐ Ġ Ž ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞƐ͘\nWZE^^D E͕  Z͘  ^͘  Engenharia de ƐŽŌǁĂƌĞ͘  6 ĞĚ͘  WŽƌƚŽ  ůĞŐƌĞ͗  \n\u0011ŽŽŬŵĂŶ͕  2006 ;ĂĚĂƉƚĂĚŽͿ͘\n^Ğ Ƶŵ ƉƌŽũĞƚŽ ŶĆŽ ƚĞŵ Ă ĚŽĐƵŵĞŶƚĂĕĆŽ ĂƉƌŽƉƌŝĂĚĂ \nŽƵ ƐĞ ĞƐƚĄ ĐŽŵ Ă ĚŽĐƵŵĞŶƚĂĕĆŽ ĚĞƐĂƚƵĂůŝǌĂĚĂ͕  ƵŵĂ \nŽƉĕĆŽ Ġ Ă ĞŶŐĞŶŚĂƌŝĂ ƌĞǀĞƌƐĂ ƋƵĞ ƉŽƐƐŝďŝůŝƚĂ ŵĂƉĞĂƌ \nĐſĚŝŐŽƐ ƉĂƌĂ ĚŝĂŐƌĂŵĂƐ hD>͘    ƐĞŐƵŝƌ͕  Ġ ĂƉƌĞƐĞŶƚĂĚŽ \nƵŵ ĐſĚŝŐŽ ŶĂ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ : s ͘\n1 package default; \n2\n3 public class Funcionario extends Pessoa {\n4\nprivate double salario;\n5\n6\npublic Funcionario(int rg, String nome,\n7\ndouble salario) {\n8\nsuper(rg, nome);\n9\n this.salario= salario;\n10\n}\n11\npublic double getSalario() {\n12\nreturn salario; \n13\n14\n}\n15\npublic double obterSalario(double\n16\npercentualAcrescimo) {\n17\ndouble salarioReajustado = salario +\n1 8\nsalario * percentualAcrescimo / 100;\n19\nreturn salarioReajustado; \n20\n21\n}\n22\npublic double obterSalario(double\n23\nadicional, double desconto){\n24\nreturn this.getSalario() + adicional - desconto;\n\n3\nhƟůŝǌĂŶĚŽ  Ă  ĞŶŐĞŶŚĂƌŝĂ  ƌĞǀĞƌƐĂ  ŶĞƐƐĞ  ƚƌĞĐŚŽ  ĚĞ \nĐſĚŝŐŽ͕  Ž ĚŝĂŐƌĂŵĂ hD> ĚĞ ĐůĂƐƐĞƐ ĐŽƌƌĞƐƉŽŶĚĞŶƚĞ Ġ\nA\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nB\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nC\nPessoa\nFuncionario\n+Funcionario(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\n+obterSalario(percentualAcrescimo:double): double\nD\nPessoa\nFuncionario\n+Pessoa(rg:int,nome:String)\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(adicional:double,desconto:double): double\nE\nPessoa\nFuncionario\n+Funcionario(rg:int,nome:String,salario:double)\n+getSalario(): double\n+obterSalario(percentualAcrescimo:double): double\n+obterSalario(adicional:double,desconto:double): double",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -61,5 +61,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:47.903462"
+  "criado_em": "2026-08-25T14:35:41.029757"
 }

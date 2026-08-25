@@ -13,9 +13,10 @@ exclusão e acesso por índice.
 C	 Criar cartões com condições do tipo: “Se o estudante estiver 
 usando camisa azul, então pule para a frente”, para que 
 sigam comandos baseados em condições.
-D Solicitar que o estudante dê instruções precisas como se
+D	 Solicitar que o estudante dê instruções precisas, como se 
+programasse um robô, para que outro colega monte um 
+sanduíche, onde cada passo precisa estar em ordem lógica.
 
-2025
 Texto para questões de 52 a 54
 O Brasil, em 2022, contava com 18,6 milhões de pessoas com algum tipo de deficiência, o que representa 8,9% da população 
 com 2 anos ou mais. Desse total, segundo o IBGE, apenas 24,3% das pessoas com deficiência tinham acesso regular à internet. 
@@ -26,4 +27,3 @@ diferentes tipos de deficiência — visual, auditiva, motora, intelectual e mú
 visual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além da seleção adequada dos recursos, espera-se, também, 
 que o professor desenvolva nos estudantes as competências investigativas e científicas, capazes de produzir e disseminar o 
 conhecimento de forma crítica e colaborativa.
-*R0404202528*

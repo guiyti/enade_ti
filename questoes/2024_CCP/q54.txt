@@ -16,7 +16,6 @@ C	 assistam a documentários selecionados sobre as transformações sociais deco
 uma resenha crítica de acordo com as normas da ABNT.
 D entrevistem membros da comunidade do entorno sobre o uso da internet e produzam um podcast discutindo os desafios
 
-2025
 Texto para questões de 55 a 57
 Um professor de Computação pretende ensinar algoritmos de ordenação e decide utilizar o Merge Sort, que consiste em dividir 
 uma lista recursivamente até obter listas com um único elemento e combinar as listas ordenando os elementos até reconstruir 
@@ -24,4 +23,3 @@ a lista original. Por ser um exemplo clássico da técnica de divisão e conquis
 experiência de aprendizagem em que percebam, de forma prática, como problemas complexos podem ser compreendidos e 
 resolvidos por meio da reestruturação em tarefas mais simples. Além disso, o professor percebe que pode relacionar o conteúdo 
 a conceitos matemáticos, estabelecendo conexões que favorecem o raciocínio lógico.
-*R0404202529*

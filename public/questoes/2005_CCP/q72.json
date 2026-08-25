@@ -11,25 +11,17 @@
       "x0": 25.0,
       "y0": 327.79559326171875,
       "x1": 295.08,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 1
-    },
-    {
-      "pagina": 28,
-      "x0": 301.08,
-      "y0": 55.0,
-      "x1": 571.16,
-      "y1": 70.19558715820312,
-      "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q72.png",
+  "caminho_png": "/questoes/2005_CCP/q72.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q72.txt",
-  "largura": 1156,
-  "altura": 2064,
+  "largura": 1155,
+  "altura": 1923,
   "confianca": 0.98,
-  "texto_completo": "Á\nE Todos os itens estão certos.\nQUESTÃO 72\n1\n2\n3\nT\nT\nT\n1\n2\n3\n4\n5\n6\n7\n8\nbloqueia A\nrecupera A\natualiza A\ndesbloqueia A\nbloqueia B\nrecupera B\natualiza B\ndesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\natualiza A\ndesbloqueia A\ndesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\ndesbloqueia A\ndesbloqueia B\ni\nj\nA execução de duas transações, T e T , em um banco de dados,\né serializável se produz o mesmo resultado para a execução serial\nde qualquer intercalação de operações dessas transações\ni\nj\nj\ni\n(T seguida de T ou T seguida de T ). O uso de bloqueios (locks)\né uma maneira de se garantir que transações concorrentes sejam\nserializáveis. A tabela acima mostra informações relativas a três\n1\n2\n3\ntransações, T , T e T , que operam sobre dois dados\ncompartilhados, A e B, e utilizam bloqueios para controle de\n1\n2\n3\nconcorrência. Com relação às transações T , T e T , julgue os\nitens seguintes.\n1\n2\nI\nO conjunto (T , T ) não é serializável, e há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\n1\n3\nII\nO conjunto (T , T ) não é serializável, mas não há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\n2\n3\nIII O conjunto (T , T ) é serializável, e não há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.\n\nE COMPUTAÇÃO",
+  "texto_completo": "E Todos os itens estão certos.\nQUESTÃO 72\n1\n2\n3\nT\nT\nT\n1\n2\n3\n4\n5\n6\n7\n8\nbloqueia A\nrecupera A\natualiza A\ndesbloqueia A\nbloqueia B\nrecupera B\natualiza B\ndesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\natualiza A\ndesbloqueia A\ndesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\ndesbloqueia A\ndesbloqueia B\ni\nj\nA execução de duas transações, T e T , em um banco de dados,\né serializável se produz o mesmo resultado para a execução serial\nde qualquer intercalação de operações dessas transações\ni\nj\nj\ni\n(T seguida de T ou T seguida de T ). O uso de bloqueios (locks)\né uma maneira de se garantir que transações concorrentes sejam\nserializáveis. A tabela acima mostra informações relativas a três\n1\n2\n3\ntransações, T , T e T , que operam sobre dois dados\ncompartilhados, A e B, e utilizam bloqueios para controle de\n1\n2\n3\nconcorrência. Com relação às transações T , T e T , julgue os\nitens seguintes.\n1\n2\nI\nO conjunto (T , T ) não é serializável, e há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\n1\n3\nII\nO conjunto (T , T ) não é serializável, mas não há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\n2\n3\nIII O conjunto (T , T ) é serializável, e não há o perigo de\nocorrer deadlock durante a execução concorrente dessas\ntransações.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -52,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796773"
+  "criado_em": "2026-08-25T14:34:18.146105"
 }

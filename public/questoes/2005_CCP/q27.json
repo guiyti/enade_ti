@@ -11,25 +11,25 @@
       "x0": 25.0,
       "y0": 568.2156372070312,
       "x1": 295.08,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 1
     },
     {
       "pagina": 11,
       "x0": 301.08,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
       "y1": 472.8555908203125,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q27.png",
+  "caminho_png": "/questoes/2005_CCP/q27.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q27.txt",
   "largura": 1156,
-  "altura": 2740,
+  "altura": 2594,
   "confianca": 0.98,
-  "texto_completo": "Á\nQUESTÃO 27\nNa etapa de projeto orientado a objetos, no contexto de um\nprocesso de desenvolvimento de software, são desenvolvidas as\natividades de\nA definição da arquitetura do sistema e conversão das bases de\ndados do sistema.\nB identificação dos objetos do sistema e definição da\narquitetura do sistema.\nC conversão das bases de dados do sistema e teste de\nintegração do sistema.\nD teste de integração do sistema e análise de requisitos do\nsistema.\nE análise de requisitos do sistema e definição da arquitetura\ndo sistema.\n\nO gerente de tecnologia de uma empresa de TI\nrecebeu a incumbência de especificar a arquitetura de um\nsistema de informação para atender a um cliente na área de\ndiagnóstico por imagem (raio X, tomografia computadorizada\ne ressonância magnética). O cliente está interessado em\nagilizar o diagnóstico por armazenamento e recuperação de\nimagens digitalizadas e em se manter na vanguarda do\nmercado, dada a melhoria contínua de sua solução em TI.\nO cliente pretende iniciar digitalizando 1.000 imagens por\nmês, cada imagem com tamanho médio de 20 kilobytes, até\nchegar, em 12 meses, a 20.000 imagens por mês.\nConsiderando essas informações, julgue os seguintes itens.\nUm SBD orientado a objeto é adequado para a arquitetura do SI\ndo cliente porque é voltado justamente para aplicações que\ntratam objetos complexos e tem alta integração com linguagens\nde programação orientadas a objetos.\nI\nUm SBD relacional não é adequado para a arquitetura do SI do\ncliente porque não constitui ainda uma tecnologia bem\nestabelecida e bem testada, apesar de ser uma linguagem de\nconsulta poderosa.\nII Um SBD objeto-relacional é adequado para a arquitetura do SI\ndo cliente porque alia estruturas não-normalizadas, capazes de\nrepresentar objetos complexos, a uma linguagem de consulta\npoderosa.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
+  "texto_completo": "QUESTÃO 27\nNa etapa de projeto orientado a objetos, no contexto de um\nprocesso de desenvolvimento de software, são desenvolvidas as\natividades de\nA definição da arquitetura do sistema e conversão das bases de\ndados do sistema.\nB identificação dos objetos do sistema e definição da\narquitetura do sistema.\nC conversão das bases de dados do sistema e teste de\nintegração do sistema.\nD teste de integração do sistema e análise de requisitos do\nsistema.\nE análise de requisitos do sistema e definição da arquitetura\ndo sistema.\n\nrecebeu a incumbência de especificar a arquitetura de um\nsistema de informação para atender a um cliente na área de\ndiagnóstico por imagem (raio X, tomografia computadorizada\ne ressonância magnética). O cliente está interessado em\nagilizar o diagnóstico por armazenamento e recuperação de\nimagens digitalizadas e em se manter na vanguarda do\nmercado, dada a melhoria contínua de sua solução em TI.\nO cliente pretende iniciar digitalizando 1.000 imagens por\nmês, cada imagem com tamanho médio de 20 kilobytes, até\nchegar, em 12 meses, a 20.000 imagens por mês.\nConsiderando essas informações, julgue os seguintes itens.\nUm SBD orientado a objeto é adequado para a arquitetura do SI\ndo cliente porque é voltado justamente para aplicações que\ntratam objetos complexos e tem alta integração com linguagens\nde programação orientadas a objetos.\nI\nUm SBD relacional não é adequado para a arquitetura do SI do\ncliente porque não constitui ainda uma tecnologia bem\nestabelecida e bem testada, apesar de ser uma linguagem de\nconsulta poderosa.\nII Um SBD objeto-relacional é adequado para a arquitetura do SI\ndo cliente porque alia estruturas não-normalizadas, capazes de\nrepresentar objetos complexos, a uma linguagem de consulta\npoderosa.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -52,5 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796627"
+  "criado_em": "2026-08-25T14:34:18.145945"
 }

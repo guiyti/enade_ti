@@ -50,5 +50,4 @@ D	 public void push(int elemento){
 E	 public void push(int elemento){  
   No novo = new No(elemento);      
   novo.prox = topo;  
-  topo = novo;  
-}
+  topo = novo;

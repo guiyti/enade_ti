@@ -12,25 +12,25 @@
       "x0": 301.08,
       "y0": 570.015625,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     },
     {
       "pagina": 29,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 295.08,
       "y1": 340.79559326171875,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q74.png",
+  "caminho_png": "/questoes/2005_CCP/q74.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q74.txt",
   "largura": 1156,
-  "altura": 2183,
+  "altura": 2037,
   "confianca": 0.98,
-  "texto_completo": "Ã\n27\nWHERE CODIGO  COD_PECA;\nQUESTÃO 74\nNo que diz respeito às redes neurais, assinale a opção correta.\nA O treinamento de uma rede neural tem tempo determinado de\nexecução.\nB Não há problemas em realizar o teste de desempenho de uma\nrede neural com o mesmo conjunto de dados usado para o\ntreinamento.\nC O número de pesos de uma rede neural não influencia a\nrapidez com que ela processa dados.\nD O aprendizado supervisionado é o paradigma de treinamento\nmais utilizado para desenvolver aplicações de redes neurais\npara classificação e predição.\nE O número de camadas ocultas de uma rede de alimentação\ndireta é inversamente proporcional ao aumento do espaço de\nhipóteses que ela pode representar.\n\nUm engenheiro de uma companhia fabricante de\nmemórias semicondutoras estudou o comportamento\ndo custo em função do número de bits da fabricação de\num chip de memória RAM com determinada\ntecnologia. \nEle \nchegou \nà \nconclusão \nde \nque,\nconsiderando-se a evolução tecnológica, o custo C(x),\nexpresso em determinada unidade monetária, de um\nchip de memória RAM com x bits, na data de conclusão\ndo processo de fabricação, seria determinado pela\nequação\nConsiderando-se que o modelo desenvolvido pelo engenheiro\nesteja correto, caso a empresa decida pelo chip de menor\ncusto, ela deverá optar por um chip com memória de\ncapacidade de \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nD 2.048 megabits.\nE 4.096 megabits.\nO\nid\na \nde\nse\ntra\nA\nB\nC",
+  "texto_completo": "WHERE CODIGO  COD_PECA;\nQUESTÃO 74\nNo que diz respeito às redes neurais, assinale a opção correta.\nA O treinamento de uma rede neural tem tempo determinado de\nexecução.\nB Não há problemas em realizar o teste de desempenho de uma\nrede neural com o mesmo conjunto de dados usado para o\ntreinamento.\nC O número de pesos de uma rede neural não influencia a\nrapidez com que ela processa dados.\nD O aprendizado supervisionado é o paradigma de treinamento\nmais utilizado para desenvolver aplicações de redes neurais\npara classificação e predição.\nE O número de camadas ocultas de uma rede de alimentação\ndireta é inversamente proporcional ao aumento do espaço de\nhipóteses que ela pode representar.\n\nmemórias semicondutoras estudou o comportamento\ndo custo em função do número de bits da fabricação de\num chip de memória RAM com determinada\ntecnologia. \nEle \nchegou \nà \nconclusão \nde \nque,\nconsiderando-se a evolução tecnológica, o custo C(x),\nexpresso em determinada unidade monetária, de um\nchip de memória RAM com x bits, na data de conclusão\ndo processo de fabricação, seria determinado pela\nequação\nConsiderando-se que o modelo desenvolvido pelo engenheiro\nesteja correto, caso a empresa decida pelo chip de menor\ncusto, ela deverá optar por um chip com memória de\ncapacidade de \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nD 2.048 megabits.\nE 4.096 megabits.\nO\nid\na \nde\nse\ntra\nA\nB\nC",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796781"
+  "criado_em": "2026-08-25T14:34:18.146114"
 }

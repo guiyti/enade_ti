@@ -1,5 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-2
 QUESTÃO 36  
 O problema P versus NP é um problema ainda não 
 resolvido e um dos mais estudados em Computação. 
@@ -42,4 +40,4 @@ A   I.
 B   IV.
 C   I e III.
 D   II e III.
-E   II e IV.
+E II e IV

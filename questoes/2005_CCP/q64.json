@@ -11,17 +11,17 @@
       "x0": 25.0,
       "y0": 474.1355895996094,
       "x1": 295.08,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q64.png",
+  "caminho_png": "/questoes/2005_CCP/q64.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q64.txt",
   "largura": 1155,
-  "altura": 1377,
+  "altura": 1314,
   "confianca": 0.98,
-  "texto_completo": "Á\nQUESTÃO 64\nConsidere a necessidade de se implementar um componente de\nsoftware que realiza cálculos de expressões matemáticas simples\npara as operações básicas (soma, subtração, multiplicação, divisão\ne exponenciação). O software reproduz na tela do computador a\nentrada, os resultados parciais e o resultado final da expressão e,\nainda, trata os operadores de exponenciação, multiplicação e\ndivisão com precedência sobre os operadores de soma e subtração\nPara obter o referido software, é correto que o projetista\nI\ndefina uma cadeia de caracteres para armazenar e imprimir toda\na expressão de entrada.\nII\ndefina uma gramática regular para identificar as expressões\naritméticas válidas.\nIII defina um reconhecedor de linguagem regular com autômato\nfinito determinístico.\nIV especifique a ordem de precedência dos operadores com uma\nnotação de gramática livre de contexto.\nEstão certos apenas os itens\nA I e II.\nD I, III e IV.\nB III e IV.\nE II, III e IV.\nC I, II e IV.",
+  "texto_completo": "QUESTÃO 64\nConsidere a necessidade de se implementar um componente de\nsoftware que realiza cálculos de expressões matemáticas simples\npara as operações básicas (soma, subtração, multiplicação, divisão\ne exponenciação). O software reproduz na tela do computador a\nentrada, os resultados parciais e o resultado final da expressão e,\nainda, trata os operadores de exponenciação, multiplicação e\ndivisão com precedência sobre os operadores de soma e subtração\nPara obter o referido software, é correto que o projetista\nI\ndefina uma cadeia de caracteres para armazenar e imprimir toda\na expressão de entrada.\nII\ndefina uma gramática regular para identificar as expressões\naritméticas válidas.\nIII defina um reconhecedor de linguagem regular com autômato\nfinito determinístico.\nIV especifique a ordem de precedência dos operadores com uma\nnotação de gramática livre de contexto.\nEstão certos apenas os itens\nA I e II.\nD I, III e IV.\nB III e IV.\nE II, III e IV.\nC I, II e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796751"
+  "criado_em": "2026-08-25T14:34:18.146081"
 }

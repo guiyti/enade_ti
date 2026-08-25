@@ -9,17 +9,17 @@
     {
       "pagina": 14,
       "x0": 293.28,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 555.56,
       "y1": 494.0238952636719,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q24.png",
+  "caminho_png": "/questoes/2011_ADS/q24.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q24.txt",
   "largura": 1123,
-  "altura": 1854,
+  "altura": 1776,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 24  \nNo que diz respeito aos baselines (linhas base) da \ngerência de configuração, avalie as seguintes afirmações.\nI. \nAs baselines representam conjuntos de itens de \nconfiguração formalmente aprovados que servem de \nbase para as etapas seguintes de desenvolvimento.\nII. As baselines são definidas e podem ocorrer \nao final de cada uma das fases do processo de \ndesenvolvimento de software, ou de algum outro \nmodo definido pela gerência.\nIII. Um item de configuração de software “baselined” \npode ser alterado a qualquer momento durante o \ndesenvolvimento de software independentemente \nde um procedimento formal.\nIV. Ao término de uma etapa do desenvolvimento, e \napós sua aceitação formal, a baseline na qual a \netapa se baseou pode ser descartada pois já se \nencontra representada nos artefatos gerados.\nV. Uma das funções da tarefa “Identificação da \nConfiguração”, envolve a definição de uma \nnomenclatura que possibilite a identificação \ninequívoca dos itens de configuração, baselines \ne releases. \nÉ correto apenas o que se afirma em\nA   III e V.\nB   III e IV.\nC   I, II e III.\nD   I, II e IV.\nE   I, II e V.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235183"
+  "criado_em": "2026-08-25T14:35:01.738766"
 }

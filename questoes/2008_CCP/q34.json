@@ -3,8 +3,7 @@
   "numero": 34,
   "tipo": "OBJETIVA",
   "paginas": [
-    14,
-    15
+    14
   ],
   "segmentos": [
     {
@@ -12,25 +11,17 @@
       "x0": 300.59999999999997,
       "y0": 431.4466857910156,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 778.6522827148438,
       "coluna": 2
-    },
-    {
-      "pagina": 15,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 294.59999999999997,
-      "y1": 70.52682495117188,
-      "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q34.png",
+  "caminho_png": "/questoes/2008_CCP/q34.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q34.txt",
   "largura": 1154,
-  "altura": 1633,
+  "altura": 1477,
   "confianca": 0.98,
-  "texto_completo": "3\nQUESTÃO 34\nModems são dispositivos capazes de converter um sinal\ndigital em um sinal analógico e vice-versa. No processo de\nmodulação, para representar o sinal digital, o modem pode\nmanipular as características de uma onda portadora\n(amplitude, freqüência e fase), derivando diferentes técnicas\nde modulação, por exemplo: chaveamento da amplitude\n(ASK), chaveamento da freqüência (FSK) e chaveamento\nda fase (PSK). Com relação a técnicas de modulação,\njulgue os itens a seguir.\nI\nA modulação ASK é suscetível a ruídos.\nII\nA modulação FSK possui maior imunidade a ruídos\nquando comparada à modulação ASK.\nIII Na modulação PSK, a fase da portadora é modificada\ndurante o intervalo de sinalização.\nIV Existem técnicas híbridas de modulação digital que\nmodificam tanto a amplitude quanto a fase da portadora.\nV As diversas técnicas de modulação transmitem, no\nmínimo, um único bit e, no máximo, 2 bits, por intervalo\nde sinalização.\nEstão certos apenas os itens\nA\nI, II e IV.\nB\nI, II e V.\nC\nI, III e IV.\nD\nII, III e V.\nE\nIII, IV e V.",
+  "texto_completo": "QUESTÃO 34\nModems são dispositivos capazes de converter um sinal\ndigital em um sinal analógico e vice-versa. No processo de\nmodulação, para representar o sinal digital, o modem pode\nmanipular as características de uma onda portadora\n(amplitude, freqüência e fase), derivando diferentes técnicas\nde modulação, por exemplo: chaveamento da amplitude\n(ASK), chaveamento da freqüência (FSK) e chaveamento\nda fase (PSK). Com relação a técnicas de modulação,\njulgue os itens a seguir.\nI\nA modulação ASK é suscetível a ruídos.\nII\nA modulação FSK possui maior imunidade a ruídos\nquando comparada à modulação ASK.\nIII Na modulação PSK, a fase da portadora é modificada\ndurante o intervalo de sinalização.\nIV Existem técnicas híbridas de modulação digital que\nmodificam tanto a amplitude quanto a fase da portadora.\nV As diversas técnicas de modulação transmitem, no\nmínimo, um único bit e, no máximo, 2 bits, por intervalo\nde sinalização.\nEstão certos apenas os itens\nA\nI, II e IV.\nB\nI, II e V.\nC\nI, III e IV.\nD\nII, III e V.\nE\nIII, IV e V.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229309"
+  "criado_em": "2026-08-25T14:34:41.738818"
 }

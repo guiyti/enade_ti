@@ -6,7 +6,7 @@
   "total_paginas": 48,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 97.5,
+  "score_geral": 0.0,
   "tipo_pdf": "digital",
   "questoes": [
     {
@@ -18,9 +18,9 @@
         3
       ],
       "largura": 2185,
-      "altura": 2962,
+      "altura": 3925,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -38,9 +38,9 @@
         4
       ],
       "largura": 2185,
-      "altura": 1413,
+      "altura": 1371,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
@@ -59,9 +59,9 @@
         5
       ],
       "largura": 2185,
-      "altura": 2197,
+      "altura": 2155,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -80,9 +80,9 @@
         7
       ],
       "largura": 2185,
-      "altura": 5337,
+      "altura": 5149,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -100,9 +100,9 @@
         8
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -120,9 +120,9 @@
         9
       ],
       "largura": 2185,
-      "altura": 2165,
+      "altura": 2123,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -141,9 +141,9 @@
         11
       ],
       "largura": 2185,
-      "altura": 3968,
+      "altura": 3779,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados",
         "Formação Geral e Sociedade"
@@ -162,9 +162,9 @@
         11
       ],
       "largura": 2185,
-      "altura": 1749,
+      "altura": 1686,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Redes e Segurança",
         "Governança e Gestão de TI",
@@ -184,9 +184,9 @@
         12
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
@@ -205,9 +205,9 @@
         13
       ],
       "largura": 2185,
-      "altura": 2199,
+      "altura": 2155,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Formação Geral e Sociedade"
       ],
@@ -226,9 +226,9 @@
         15
       ],
       "largura": 2185,
-      "altura": 3383,
+      "altura": 3195,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados"
       ],
@@ -246,9 +246,9 @@
         16
       ],
       "largura": 2185,
-      "altura": 1435,
+      "altura": 1393,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
@@ -268,9 +268,9 @@
         18
       ],
       "largura": 2185,
-      "altura": 6170,
+      "altura": 5836,
       "confianca": 0.9,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -288,9 +288,9 @@
         19
       ],
       "largura": 1095,
-      "altura": 2083,
+      "altura": 2041,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Programação e POO",
@@ -310,9 +310,9 @@
         19
       ],
       "largura": 1095,
-      "altura": 2077,
+      "altura": 2035,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Programação e POO"
@@ -331,9 +331,9 @@
         20
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
@@ -352,9 +352,9 @@
         21
       ],
       "largura": 2185,
-      "altura": 1484,
+      "altura": 1442,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI",
@@ -374,9 +374,9 @@
         22
       ],
       "largura": 2185,
-      "altura": 1407,
+      "altura": 1365,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia de Software"
       ],
@@ -394,9 +394,9 @@
         23
       ],
       "largura": 2185,
-      "altura": 2346,
+      "altura": 2304,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia de Software",
         "Redes e Segurança",
@@ -416,9 +416,9 @@
         24
       ],
       "largura": 2185,
-      "altura": 1569,
+      "altura": 1527,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia de Software",
         "Programação e POO"
@@ -437,9 +437,9 @@
         25
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -458,9 +458,9 @@
         27
       ],
       "largura": 2185,
-      "altura": 3908,
+      "altura": 3720,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -478,9 +478,9 @@
         27
       ],
       "largura": 2185,
-      "altura": 1809,
+      "altura": 1746,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Inteligência Artificial e Dados"
       ],
@@ -498,9 +498,9 @@
         28
       ],
       "largura": 2185,
-      "altura": 1861,
+      "altura": 1819,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
@@ -519,9 +519,9 @@
         29
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -539,9 +539,9 @@
         30
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
@@ -560,9 +560,9 @@
         31
       ],
       "largura": 2185,
-      "altura": 2317,
+      "altura": 2335,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados"
       ],
@@ -580,9 +580,9 @@
         32
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -600,9 +600,9 @@
         33
       ],
       "largura": 2185,
-      "altura": 1964,
+      "altura": 1922,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Redes e Segurança"
@@ -621,9 +621,9 @@
         34
       ],
       "largura": 2185,
-      "altura": 2052,
+      "altura": 2010,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -641,9 +641,9 @@
         35
       ],
       "largura": 2185,
-      "altura": 1749,
+      "altura": 1707,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
@@ -662,9 +662,9 @@
         36
       ],
       "largura": 2185,
-      "altura": 1880,
+      "altura": 1838,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Redes e Segurança"
       ],
@@ -683,9 +683,9 @@
         37
       ],
       "largura": 2185,
-      "altura": 3837,
+      "altura": 3628,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
@@ -703,9 +703,9 @@
         38
       ],
       "largura": 2185,
-      "altura": 2492,
+      "altura": 2450,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],
@@ -723,9 +723,9 @@
         39
       ],
       "largura": 2185,
-      "altura": 1826,
+      "altura": 1784,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura",
@@ -746,9 +746,9 @@
         40
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados",
         "Teoria da Computação e Compiladores"
@@ -767,9 +767,9 @@
         41
       ],
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Banco de Dados",
         "Algoritmos e Estruturas de Dados"
@@ -788,9 +788,9 @@
         42
       ],
       "largura": 2185,
-      "altura": 2156,
+      "altura": 2114,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -808,9 +808,9 @@
         43
       ],
       "largura": 2185,
-      "altura": 1724,
+      "altura": 1682,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
@@ -828,9 +828,9 @@
         43
       ],
       "largura": 2185,
-      "altura": 1144,
+      "altura": 1081,
       "confianca": 0.98,
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "categorias": [
         "Engenharia e Tecnologias"
       ],

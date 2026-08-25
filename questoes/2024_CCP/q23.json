@@ -3,8 +3,7 @@
   "numero": 23,
   "tipo": "OBJETIVA",
   "paginas": [
-    14,
-    15
+    14
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 437.6299133300781,
       "coluna": 0
-    },
-    {
-      "pagina": 15,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 611.7199999999999,
-      "y1": 86.02613830566406,
-      "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.png",
+  "caminho_png": "/questoes/2024_CCP/q23.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.txt",
   "largura": 2475,
-  "altura": 377,
+  "altura": 233,
   "confianca": 0.98,
-  "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de\n\n2025\n*R0404202515*",
+  "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490811"
+  "criado_em": "2026-08-25T14:38:37.516101"
 }

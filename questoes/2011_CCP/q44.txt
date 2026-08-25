@@ -1,5 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-28
 QUESTÃO 44
 A utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu 
 desempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos 
@@ -26,4 +24,4 @@ do tempo para a execução da soma.
 D   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% 
 do tempo para a execução da soma.
 E   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de 
-propagação para a execução da soma.
+propagação para a execução da soma

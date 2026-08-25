@@ -9,17 +9,17 @@
     {
       "pagina": 32,
       "x0": 25.0,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 411.2461242675781,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q26.png",
+  "caminho_png": "/questoes/2021_GTI/q26.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q26.txt",
   "largura": 2185,
-  "altura": 1475,
+  "altura": 1432,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 26\t\nA Política de Segurança é uma declaração que estabelece a hierarquia dos riscos da informação \ne identifica metas de segurança aceitáveis, assim como mecanismos para atingí-las. Uma das formas \nde implementá-la é seguir os passos para a certificação ISO 27001, que é uma norma de vigência \ninternacional, cujo objetivo é determinar as diretrizes necessárias para uma gestão de segurança \nda informação nas organizações, sejam elas especializadas nesse tipo de serviço, sejam aquelas que \ntenham um setor interno dedicado à proteção de seus dados.\n LAUDON, K. C; LAUDON, J. P. Sistemas de informação gerenciais. 11. ed. São Paulo: Pearson Prentice Hall, 2014 (adaptado).\nConsiderando as informações do texto, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t A Política de Segurança dá origem a outras políticas que determinam o uso aceitável dos recursos \nde informação da empresa e quais membros terão acesso a esses ativos.\nPORQUE \nII.\t A Política de Uso Aceitável define os usos aceitáveis dos recursos de informação e dos equipamentos \nde informática da empresa, incluindo computadores de mesa e laptops, dispositivos sem fio, \ntelefones e internet.\nA respeito dessas asserções, assinale a alternativa correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727147"
+  "criado_em": "2026-08-25T14:38:16.426286"
 }

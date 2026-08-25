@@ -9,19 +9,19 @@
     {
       "pagina": 20,
       "x0": 286.56,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q12.png",
+  "caminho_png": "/questoes/2021_ADS/q12.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q12.txt",
   "largura": 1095,
-  "altura": 2822,
+  "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 12\t\nUma fábrica de software está realizando entrevistas \npara contração de um profissional que esteja \nalinhado às exigências do atual mundo corporativo. \nSabe-se que processos ágeis de desenvolvimento \ntêm se tornado essenciais para empresas que \ndesejam realizar entregas rápidas e frequentes de \nprodutos e/ou serviços de software. Essa empresa \npossui uma equipe de desenvolvimento que faz \nuso de processos ágeis como o Scrum e eXtreme \nProgramming (XP) e o acompanhamento por meio \ndo quadro Kanban. Sendo assim, um conjunto \nde características deve ser verificado durante a \nentrevista para garantir que o candidato a ser \ncontratado possua conhecimentos necessários \npara atuar juntamente a esta equipe.\nCom base no texto e nos processos ágeis de \ndesenvolvimento de software, avalie as afirmações \na seguir.\nI.\t Métodos Ágeis são baseados em ciclos \niterativo e incremental que se concentram \nno desenvolvimento rápido e na flexibilidade \nàs mudanças, com a participação do cliente \nno processo de software.\nII.\t Uma forte característica da XP é a garantia \nda qualidade do código produzido e, para \nisso, os desenvolvedores produzem testes \nautomatizados antes mesmo de codificar \numa funcionalidade.\nIII.\t O planejamento no Scrum é baseado na \nelaboração dos itens do product backlog, \nque é uma lista de funcionalidades desejadas \npelo cliente, sendo o Scrum Master o \nresponsável por gerenciá-lo.\nIV.\t O quadro Kanban permite monitorar a \nevolução das tarefas necessárias durante \no \nprocesso \nágil \nde \ndesenvolvimento \nde \nsoftware, \npossibilitando \num \nacompanhamento de forma visual das \natividades em construção.\nÉ correto apenas o que se afirma em\nA\t II.\nB\t I e III.\nC\t I, II e IV.\nD\t I, III e IV.\nE\t II, III e IV.",
+  "texto_completo": "QUESTÃO 12\t\nUma fábrica de software está realizando entrevistas \npara contração de um profissional que esteja \nalinhado às exigências do atual mundo corporativo. \nSabe-se que processos ágeis de desenvolvimento \ntêm se tornado essenciais para empresas que \ndesejam realizar entregas rápidas e frequentes de \nprodutos e/ou serviços de software. Essa empresa \npossui uma equipe de desenvolvimento que faz \nuso de processos ágeis como o Scrum e eXtreme \nProgramming (XP) e o acompanhamento por meio \ndo quadro Kanban. Sendo assim, um conjunto \nde características deve ser verificado durante a \nentrevista para garantir que o candidato a ser \ncontratado possua conhecimentos necessários \npara atuar juntamente a esta equipe.\nCom base no texto e nos processos ágeis de \ndesenvolvimento de software, avalie as afirmações \na seguir.\nI.\t Métodos Ágeis são baseados em ciclos \niterativo e incremental que se concentram \nno desenvolvimento rápido e na flexibilidade \nàs mudanças, com a participação do cliente \nno processo de software.\nII.\t Uma forte característica da XP é a garantia \nda qualidade do código produzido e, para \nisso, os desenvolvedores produzem testes \nautomatizados antes mesmo de codificar \numa funcionalidade.\nIII.\t O planejamento no Scrum é baseado na \nelaboração dos itens do product backlog, \nque é uma lista de funcionalidades desejadas \npelo cliente, sendo o Scrum Master o \nresponsável por gerenciá-lo.\nIV.\t O quadro Kanban permite monitorar a \nevolução das tarefas necessárias durante \no \nprocesso \nágil \nde \ndesenvolvimento \nde \nsoftware, \npossibilitando \num \nacompanhamento de forma visual das \natividades em construção.\nÉ correto apenas o que se afirma em\nA\t II.\nB\t I e III.\nC\t I, II e IV.\nD\t I, III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710794"
+  "criado_em": "2026-08-25T14:37:31.778352"
 }

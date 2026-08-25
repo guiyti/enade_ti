@@ -9,17 +9,17 @@
     {
       "pagina": 4,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 396.7107238769531,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/qd02.png",
+  "caminho_png": "/questoes/2021_CCP/qd02.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/qd02.txt",
   "largura": 2185,
-  "altura": 1413,
+  "altura": 1371,
   "confianca": 0.98,
   "texto_completo": "QuEStãO diSCuRSiVa 02 \n \n tEXtO i\n Uma cidade é considerada inteligente quando: i) nela se uti liza a tecnologia para melhorar a sua \ninfraestrutura e seus serviços, tornando os setores de administração, educação, saúde, segurança pública, \nmoradia e transporte mais inteligentes, interconectados e efi cientes, benefi ciando toda a população; \ne ii) está comprometi da com o meio ambiente e com sua herança histórica e cultural.\n AQUINO, A. L. L.  et al . Cidades inteligentes, um novo paradigma da sociedade do conhecimento.  Blucher Educati on Proceedings , \nv. 1, n. 1, p. 165-178, 2015 (adaptado).\n tEXtO ii\n A evolução para uma cidade mais inteligente, mais integrada, mais inovadora pressupõe uma \nvisão holísti ca e sistêmica do espaço urbano e a integração efeti va dos vários atores e setores. \nPara tal, é necessário ir além dos investi mentos em inovação tecnológica e inovar também na gestão, \nno planejamento, no modelo de governança e no desenvolvimento de políti cas públicas.\n CAMPOS, C. C.  et al .  Cidades inteligentes e mobilidade urbana .  Cadernos FGV projetos , n. 24, 2014 (adaptado).\n A parti r do conceito de cidade inteligente exposto nos textos, faça o que se pede nos itens a seguir.\na)  Explique de que modo as cidades inteligentes podem contribuir para a melhoria das questões \nrelacionadas ao desenvolvimento sustentável. (valor: 5,0 pontos)\nb)  Apresente uma proposta de intervenção urbana que pode gerar impacto social e contribuir para a \nmelhoria da vida em comunidade. (valor: 5,0 pontos)",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:20.187001"
+  "criado_em": "2026-08-25T14:37:55.901972"
 }

@@ -9,17 +9,17 @@
     {
       "pagina": 14,
       "x0": 300.59999999999997,
-      "y0": 66.52682495117188,
+      "y0": 75.0,
       "x1": 570.1999999999999,
       "y1": 435.4466857910156,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q33.png",
+  "caminho_png": "/questoes/2008_CCP/q33.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q33.txt",
   "largura": 1154,
-  "altura": 1567,
+  "altura": 1532,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 33\nCompiladores de linguagens de programação traduzem\nprogramas-fonte, em uma linguagem de entrada, para\nprogramas-objeto, em uma linguagem de saída. Durante o\nprocesso de tradução, o compilador deve verificar se as\nsentenças do programa-fonte estão sintaticamente corretas.\nEsse processo de análise sintática pode ser realizado\nconstruindo-se uma árvore de análise segundo duas\nprincipais abordagens: top-down, quando a árvore é\ninvestigada da raiz às folhas; ou bottom-up, das folhas à\nraiz. Acerca desse assunto, julgue os itens seguintes.\nI\nA análise top-down é adequada quando a linguagem de\nentrada é definida por uma gramática recursiva à\nesquerda.\nII\nIndependentemente da abordagem adotada, top-down\nou bottom-up, o analisador sintático utiliza informações\nresultantes da análise léxica.\nIII Se os programas em uma linguagem podem ser\nanalisados tanto em abordagem top-down como em\nbottom-up, a gramática dessa linguagem é ambígua.\nIV A \nanálise \nbottom-up \nutiliza \nações \ncomumente\nconhecidas como deslocamentos e reduções sobre as\nsentenças do programa-fonte. \nEstão certos apenas os itens\nA\nI e II.\nB\nI e III.\nC\nII e IV.\nD\nI, III e IV.\nE\nII, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229304"
+  "criado_em": "2026-08-25T14:34:41.738813"
 }

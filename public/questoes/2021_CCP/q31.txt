@@ -47,5 +47,4 @@ IV.	 Existe um autômato com pilha que também aceita a linguagem de M.
 A	 I e II. 
 B	 I e IV. 
 C	 II e III. 
-D	 I, III e IV. 
-E II III e IV
+D I, III e IV.

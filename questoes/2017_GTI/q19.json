@@ -4,8 +4,7 @@
   "tipo": "OBJETIVA",
   "paginas": [
     22,
-    23,
-    24
+    23
   ],
   "segmentos": [
     {
@@ -13,33 +12,25 @@
       "x0": 25.0,
       "y0": 76.699951171875,
       "x1": 603.3199999999999,
-      "y1": 781.56,
+      "y1": 766.56,
       "coluna": 0
     },
     {
       "pagina": 23,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 603.3199999999999,
-      "y1": 781.56,
-      "coluna": 0
-    },
-    {
-      "pagina": 24,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 603.3199999999999,
-      "y1": 80.699951171875,
+      "y1": 766.56,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/q19.png",
+  "caminho_png": "/questoes/2017_GTI/q19.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/q19.txt",
   "largura": 2440,
-  "altura": 6131,
-  "confianca": 0.9,
-  "texto_completo": "22\nTECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO\nQUESTÃO 19\nIŽŶƐŝĚĞƌĞ Ž ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ Ă ƐĞŐƵŝƌ͘  \n  ĞŵƉƌĞƐĂ ƋƵĞ ƐĞ ƵƟůŝǌŽƵ ĚŽ ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ ĂƉƌĞƐĞŶƚĂĚŽ ĚĞƐĞũĂǀĂ ŽďƚĞƌ Ƶŵ ƌĞůĂƚſƌŝŽ ĐŽŵ Ă ƋƵĂŶƟĚĂĚĞ \nĞ Ž ƚŽƚĂů ĚĞ ǀĞŶĚĂƐ ƉŽƌ ǀĞŶĚĞĚŽƌ͕  Ă ĐĂĚĂ ĂŶŽ͕  ĐŽŶĨŽƌŵĞ Ă ƚĂďĞůĂ Ă ƐĞŐƵŝƌ͘\n ŶŽ\nsĞŶĚĞĚŽƌ\nYƵĂŶƟĚĂĚĞ ĚĞ ǀĞŶĚĂƐ\ndŽƚĂů ĚĞ ǀĞŶĚĂƐ\n2015\nsĞŶĚĞĚŽƌ  \n53\n54 658\n2015\nsĞŶĚĞĚŽƌ \u0011\n57\n33 874\n2015\nsĞŶĚĞĚŽƌ I\n65\n85 489\n2016\nsĞŶĚĞĚŽƌ  \n80\n45 987\n2016\nsĞŶĚĞĚŽƌ \u0011\n73\n86 458\n2016\nsĞŶĚĞĚŽƌ I\n49\n89 452\n2016\nsĞŶĚĞĚŽƌ D\n95\n78 698\n\n23\nTECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO\nIŽŵ ďĂƐĞ ŶĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽŵ Ă ĐŽŶƐƵůƚĂ ^Y> ƋƵĞ ŐĞƌĂ ĐŽƌƌĞƚĂŵĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽ \nƌĞůĂƚſƌŝŽ ƐŽůŝĐŝƚĂĚŽ ƉĞůĂ ĞŵƉƌĞƐĂ͘\nA SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nB SELECT\n  YEAR(dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY dt_pedido, ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nC SELECT\n  YEAR(dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  AVG(p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nOUTER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nOUTER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nD SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY p.dt_pedido, v.ds_nome\nORDER BY p.dt_pedido, v.ds_nome;\nE SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  AVG(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_pedido p\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nRIGHT JOIN tb_vendedor v ON p.id_vendedor =  v.id_vendedor\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\n*R43201723*\n\n*R43201724*",
+  "altura": 5802,
+  "confianca": 0.98,
+  "texto_completo": "QUESTÃO 19\nIŽŶƐŝĚĞƌĞ Ž ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ Ă ƐĞŐƵŝƌ͘  \n  ĞŵƉƌĞƐĂ ƋƵĞ ƐĞ ƵƟůŝǌŽƵ ĚŽ ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ ĂƉƌĞƐĞŶƚĂĚŽ ĚĞƐĞũĂǀĂ ŽďƚĞƌ Ƶŵ ƌĞůĂƚſƌŝŽ ĐŽŵ Ă ƋƵĂŶƟĚĂĚĞ \nĞ Ž ƚŽƚĂů ĚĞ ǀĞŶĚĂƐ ƉŽƌ ǀĞŶĚĞĚŽƌ͕  Ă ĐĂĚĂ ĂŶŽ͕  ĐŽŶĨŽƌŵĞ Ă ƚĂďĞůĂ Ă ƐĞŐƵŝƌ͘\n ŶŽ\nsĞŶĚĞĚŽƌ\nYƵĂŶƟĚĂĚĞ ĚĞ ǀĞŶĚĂƐ\ndŽƚĂů ĚĞ ǀĞŶĚĂƐ\n2015\nsĞŶĚĞĚŽƌ  \n53\n54 658\n2015\nsĞŶĚĞĚŽƌ \u0011\n57\n33 874\n2015\nsĞŶĚĞĚŽƌ I\n65\n85 489\n2016\nsĞŶĚĞĚŽƌ  \n80\n45 987\n2016\nsĞŶĚĞĚŽƌ \u0011\n73\n86 458\n2016\nsĞŶĚĞĚŽƌ I\n49\n89 452\n2016\nsĞŶĚĞĚŽƌ D\n95\n78 698\n\nIŽŵ ďĂƐĞ ŶĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽŵ Ă ĐŽŶƐƵůƚĂ ^Y> ƋƵĞ ŐĞƌĂ ĐŽƌƌĞƚĂŵĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽ \nƌĞůĂƚſƌŝŽ ƐŽůŝĐŝƚĂĚŽ ƉĞůĂ ĞŵƉƌĞƐĂ͘\nA SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nB SELECT\n  YEAR(dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY dt_pedido, ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nC SELECT\n  YEAR(dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  AVG(p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nOUTER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nOUTER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;\nD SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  COUNT(p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_vendedor v\nINNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nGROUP BY p.dt_pedido, v.ds_nome\nORDER BY p.dt_pedido, v.ds_nome;\nE SELECT\n  YEAR(p.dt_pedido) AS ano,\n  v.ds_nome AS vendedor,\n  AVG(DISTINCT p.id_pedido) AS qtd_vendas,\n  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas\nFROM tb_pedido p\nINNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido\nRIGHT JOIN tb_vendedor v ON p.id_vendedor =  v.id_vendedor\nGROUP BY year(p.dt_pedido), v.ds_nome\nORDER BY year(p.dt_pedido), v.ds_nome;",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -64,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:12:48.320999"
+  "criado_em": "2026-08-25T14:37:08.426761"
 }

@@ -1,4 +1,3 @@
-1
 ,
 p
 p
@@ -26,4 +25,4 @@ A   I.
 B   II.
 C   I e III.
 D   II e IV.
-E   III e IV.
+E III e IV

@@ -1,5 +1,3 @@
-37
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 , p
 ,
 ;
@@ -44,5 +42,3 @@ B  >ŝŶŚĂ 03; j <- i
 C  >ŝŶŚĂ 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
 D  >ŝŶŚĂ 05͖     vetor[j + 1] <- vetor[j]
 E  >ŝŶŚĂ 11͖     vetor[j] <- valor
-
-*R41201738*

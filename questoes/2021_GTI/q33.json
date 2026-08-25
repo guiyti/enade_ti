@@ -9,17 +9,17 @@
     {
       "pagina": 37,
       "x0": 25.0,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 517.9154052734375,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q33.png",
+  "caminho_png": "/questoes/2021_GTI/q33.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q33.txt",
   "largura": 2185,
-  "altura": 1919,
+  "altura": 1876,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 33\t\nAs corporações que compreendem a importância da Tecnologia da Informação (TI) e do seu valor agregado \nentendem que os recursos de infraestrutura de TI precisam estar alinhados à estratégia de negócio. \nEste alinhamento pode ser alcançado e mantido por meio de práticas de Governança de Tecnologia da \nInformação que estabeleçam papéis, controles e direções, assim como o atendimento a demandas de \nregulamentação e negócio, gerenciando as expectativas de todos os interessados. \nARAÚJO, A. P.; COSTA, I; GONÇALVES, R. F. Gestão da Produção, Operações e Sistemas. \nGepros. Bauru, ano 8, n. 3, jul./set. 2013, p. 99-111 (adaptado).\nNesse contexto, considerando o alinhamento entre a TI e o planejamento estratégico das organizações, \navalie as afirmações a seguir.\nI.\t O alinhamento estratégico da TI com o negócio ocorre quando os investimentos e os projetos da TI \ncontribuem para alcançar a missão, os objetivos e as estratégias organizacionais.\nII.\t As tecnologias da informação podem estar a serviço de variados tipos de estratégias de negócio, \npor isso o planejamento estratégico da TI deve ser desenvolvido de forma independente de modo \na garantir flexibilidade no uso das tecnologias.\nIII.\t O apoio da alta administração aos projetos da TI é fator relevante que colabora para alcançar o \nalinhamento estratégico da TI com o negócio.\nIV.\t Os projetos e ações da TI nas organizações, quando alinhados ao negócio, colaboram também com \no atendimento de demandas legais, sociais e ambientais a que a organização está sujeita.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t II e III.\nC\t II e IV.\nD\t I, II e IV.\nE\t I, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727174"
+  "criado_em": "2026-08-25T14:38:16.426313"
 }

@@ -12,25 +12,25 @@
       "x0": 25.0,
       "y0": 276.73321533203125,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 0
     },
     {
       "pagina": 19,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q10.png",
+  "caminho_png": "/questoes/2021_ADS/q10.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q10.txt",
   "largura": 2185,
-  "altura": 4787,
+  "altura": 4578,
   "confianca": 0.98,
-  "texto_completo": "E\np\ng\np\np\nQUESTÃO 10\t\nUma fábrica adquiriu máquinas de costura industrial para a produção de jogos de toalhas de mesa e guardanapos \nde tecido com estampas quadriculadas. Cada quadrículo tem tamanho padrão de 5 cm X 5 cm. Para a configuração \nda costura, é preciso um programa de computador para criar um molde em que sejam informadas as quantidades \nde quadrículos por comprimento e por largura, além do desenho da estampa a ser costurada. Por exemplo, \npara um guardanapo de tecido que tenha 30 cm X 30 cm, com uma estampa representada pelo caractere “#”, \no seguinte molde precisa ser criado:\nComo uma toalha pode ter, no máximo, 250 cm de comprimento e 200 cm de largura, o programador \ndeclarou uma matriz char molde[40][50] para ser possível representar moldes cujas medidas \ncompreendam esses limites. Ele também implementou, entre outras, as seguintes funções:\n- criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à \nmatriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que \nrepresenta a estampa;\n- alternar_estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n5 cm\n5 cm\n\nConsiderando o cenário descrito, que alternativa a seguir apresenta a implementação correta das funções \ncriar_molde e alternar_estampa?\nA\t char alternar_estampa(char estampa, char *proxima) {      \n\t\n *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nB\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n}\nC\t char alternar_estampa(char estampa, char *proxima) {  \n    return *proxima == estampa ? ' ' : estampa;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nD\t char alternar_estampa(char estampa, char *proxima) {  \n    *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n        proxima = molde[i][0];  \n    }  \n}\nE\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) { \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n        proxima = molde[i][0];  \n    }  \n}",
+  "texto_completo": "E\np\ng\np\np\nQUESTÃO 10\t\nUma fábrica adquiriu máquinas de costura industrial para a produção de jogos de toalhas de mesa e guardanapos \nde tecido com estampas quadriculadas. Cada quadrículo tem tamanho padrão de 5 cm X 5 cm. Para a configuração \nda costura, é preciso um programa de computador para criar um molde em que sejam informadas as quantidades \nde quadrículos por comprimento e por largura, além do desenho da estampa a ser costurada. Por exemplo, \npara um guardanapo de tecido que tenha 30 cm X 30 cm, com uma estampa representada pelo caractere “#”, \no seguinte molde precisa ser criado:\nComo uma toalha pode ter, no máximo, 250 cm de comprimento e 200 cm de largura, o programador \ndeclarou uma matriz char molde[40][50] para ser possível representar moldes cujas medidas \ncompreendam esses limites. Ele também implementou, entre outras, as seguintes funções:\n- criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à \nmatriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que \nrepresenta a estampa;\n- alternar estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n5 cm\n5 cm\n\nConsiderando o cenário descrito, que alternativa a seguir apresenta a implementação correta das funções \ncriar_molde e alternar_estampa?\nA\t char alternar_estampa(char estampa, char *proxima) {      \n\t\n *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nB\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n}\nC\t char alternar_estampa(char estampa, char *proxima) {  \n    return *proxima == estampa ? ' ' : estampa;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nD\t char alternar_estampa(char estampa, char *proxima) {  \n    *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n        proxima = molde[i][0];  \n    }  \n}\nE\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) { \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n        proxima = molde[i][0];  \n    }  \n}",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710786"
+  "criado_em": "2026-08-25T14:37:31.778342"
 }

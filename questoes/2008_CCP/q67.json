@@ -3,8 +3,7 @@
   "numero": 67,
   "tipo": "OBJETIVA",
   "paginas": [
-    28,
-    29
+    28
   ],
   "segmentos": [
     {
@@ -12,25 +11,17 @@
       "x0": 300.59999999999997,
       "y0": 581.3267211914062,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 778.6522827148438,
       "coluna": 2
-    },
-    {
-      "pagina": 29,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 570.1999999999999,
-      "y1": 70.52682495117188,
-      "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q67.png",
+  "caminho_png": "/questoes/2008_CCP/q67.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q67.txt",
-  "largura": 2302,
-  "altura": 1009,
+  "largura": 1154,
+  "altura": 853,
   "confianca": 0.98,
-  "texto_completo": "7\nQUESTÃO 67\nNo desenvolvimento e na programação de aplicações em\nredes TCP/IP, qual tipo de protocolo de transporte libera o\nprogramador da responsabilidade de detectar e corrigir\nerros durante a transmissão, objetivando tornar a\nprogramação da aplicação mais simples?\nA\nsem conexão\nB\norientado a conexão\nC\norientado a bit\nD\norientado a byte \nE\ndatagrama confirmado",
+  "texto_completo": "QUESTÃO 67\nNo desenvolvimento e na programação de aplicações em\nredes TCP/IP, qual tipo de protocolo de transporte libera o\nprogramador da responsabilidade de detectar e corrigir\nerros durante a transmissão, objetivando tornar a\nprogramação da aplicação mais simples?\nA\nsem conexão\nB\norientado a conexão\nC\norientado a bit\nD\norientado a byte \nE\ndatagrama confirmado",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229465"
+  "criado_em": "2026-08-25T14:34:41.738968"
 }

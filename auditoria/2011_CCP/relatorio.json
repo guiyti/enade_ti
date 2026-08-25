@@ -7,9 +7,9 @@
   "total_paginas": 32,
   "questoes_detectadas": 55,
   "questoes_extraidas": 55,
-  "score_geral": 97.5,
+  "score_geral": 0.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:11:29.088833",
+  "processado_em": "2026-08-25T14:35:06.806896",
   "paginas": [
     {
       "numero": 1,
@@ -17802,26 +17802,26 @@
         {
           "pagina": 2,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 379.9777526855469,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q01.png",
+      "caminho_png": "/questoes/2011_CCP/q01.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q01.txt",
       "largura": 2241,
-      "altura": 1379,
+      "altura": 1301,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 1 \nRetrato de uma princesa desconhecida\nPara que ela tivesse um pescoço tão fino\nPara que os seus pulsos tivessem um quebrar de caule\nPara que os seus olhos fossem tão frontais e limpos\nPara que a sua espinha fosse tão direita\nE ela usasse a cabeça tão erguida\nCom uma tão simples claridade sobre a testa\nForam necessárias sucessivas gerações de escravos\nDe corpo dobrado e grossas mãos pacientes\nServindo sucessivas gerações de príncipes\nAinda um pouco toscos e grosseiros\nÁvidos cruéis e fraudulentos\nFoi um imenso desperdiçar de gente\nPara que ela fosse aquela perfeição\nSolitária exilada sem destino\n ANDRESEN, S. M. B. Dual. Lisboa: Caminho, 2004. p. 73.\nNo poema, a autora sugere que\nA   os príncipes e as princesas são naturalmente belos.\nB   os príncipes generosos cultivavam a beleza da princesa.\nC   a beleza da princesa é desperdiçada pela miscigenação racial.\nD   o trabalho compulsório de escravos proporcionou privilégios aos príncipes.\nE   o exílio e a solidão são os responsáveis pela manutenção do corpo esbelto da princesa.\nÇ",
+      "texto_completo": "QUESTÃO 1 \nRetrato de uma princesa desconhecida\nPara que ela tivesse um pescoço tão fino\nPara que os seus pulsos tivessem um quebrar de caule\nPara que os seus olhos fossem tão frontais e limpos\nPara que a sua espinha fosse tão direita\nE ela usasse a cabeça tão erguida\nCom uma tão simples claridade sobre a testa\nForam necessárias sucessivas gerações de escravos\nDe corpo dobrado e grossas mãos pacientes\nServindo sucessivas gerações de príncipes\nAinda um pouco toscos e grosseiros\nÁvidos cruéis e fraudulentos\nFoi um imenso desperdiçar de gente\nPara que ela fosse aquela perfeição\nSolitária exilada sem destino\n ANDRESEN, S. M. B. Dual. Lisboa: Caminho, 2004. p. 73.\nNo poema, a autora sugere que\nA   os príncipes e as princesas são naturalmente belos.\nB   os príncipes generosos cultivavam a beleza da princesa.\nC   a beleza da princesa é desperdiçada pela miscigenação racial.\nD   o trabalho compulsório de escravos proporcionou privilégios aos príncipes.\nE   o exílio e a solidão são os responsáveis pela manutenção do corpo esbelto da princesa.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 1,
@@ -17839,7 +17839,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218495"
+      "criado_em": "2026-08-25T14:35:20.232056"
     },
     {
       "id_questao": "q02",
@@ -17854,17 +17854,17 @@
           "x0": 25.0,
           "y0": 375.9777526855469,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q02.png",
+      "caminho_png": "/questoes/2011_CCP/q02.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q02.txt",
       "largura": 2241,
-      "altura": 1523,
+      "altura": 1461,
       "confianca": 0.98,
-      "texto_completo": "2\nE   o exílio e a solidão são os responsáveis pela manutenção do corpo esbelto da princesa.\nQUESTÃO 2 \nExclusão digital é um conceito que diz respeito às extensas camadas sociais que ficaram à margem do fenômeno da \nsociedade da informação e da extensão das redes digitais. O problema da exclusão digital se apresenta como um dos \nmaiores desafios dos dias de hoje, com implicações diretas e indiretas sobre os mais variados aspectos da sociedade \ncontemporânea.\nNessa nova sociedade, o conhecimento é essencial para aumentar a produtividade e a competição global. É fundamental \npara a invenção, para a inovação e para a geração de riqueza. As tecnologias de informação e comunicação (TICs) \nproveem uma fundação para a construção e aplicação do conhecimento nos setores públicos e privados. É nesse \ncontexto que se aplica o termo exclusão digital, referente à falta de acesso às vantagens e aos benefícios trazidos por \nessas novas tecnologias, por motivos sociais, econômicos, políticos ou culturais.\nConsiderando as ideias do texto acima, avalie as afirmações a seguir.\nI. \nUm mapeamento da exclusão digital no Brasil permite aos gestores de políticas públicas escolherem o público-\nalvo de possíveis ações de inclusão digital.\nII. O uso das TICs pode cumprir um papel social, ao prover informações àqueles que tiveram esse direito negado \nou negligenciado e, portanto, permitir maiores graus de mobilidade social e econômica.\nIII. O direito à informação diferencia-se dos direitos sociais, uma vez que esses estão focados nas relações entre \nos indivíduos e, aqueles, na relação entre o indivíduo e o conhecimento.\nIV. O maior problema de acesso digital no Brasil está na deficitária tecnologia existente em território nacional, muito \naquém da disponível na maior parte dos países do primeiro mundo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   II e IV.\nC   III e IV.\nD   I, II e III.\nE   I, III e IV.",
+      "texto_completo": "E   o exílio e a solidão são os responsáveis pela manutenção do corpo esbelto da princesa.\nQUESTÃO 2 \nExclusão digital é um conceito que diz respeito às extensas camadas sociais que ficaram à margem do fenômeno da \nsociedade da informação e da extensão das redes digitais. O problema da exclusão digital se apresenta como um dos \nmaiores desafios dos dias de hoje, com implicações diretas e indiretas sobre os mais variados aspectos da sociedade \ncontemporânea.\nNessa nova sociedade, o conhecimento é essencial para aumentar a produtividade e a competição global. É fundamental \npara a invenção, para a inovação e para a geração de riqueza. As tecnologias de informação e comunicação (TICs) \nproveem uma fundação para a construção e aplicação do conhecimento nos setores públicos e privados. É nesse \ncontexto que se aplica o termo exclusão digital, referente à falta de acesso às vantagens e aos benefícios trazidos por \nessas novas tecnologias, por motivos sociais, econômicos, políticos ou culturais.\nConsiderando as ideias do texto acima, avalie as afirmações a seguir.\nI. \nUm mapeamento da exclusão digital no Brasil permite aos gestores de políticas públicas escolherem o público-\nalvo de possíveis ações de inclusão digital.\nII. O uso das TICs pode cumprir um papel social, ao prover informações àqueles que tiveram esse direito negado \nou negligenciado e, portanto, permitir maiores graus de mobilidade social e econômica.\nIII. O direito à informação diferencia-se dos direitos sociais, uma vez que esses estão focados nas relações entre \nos indivíduos e, aqueles, na relação entre o indivíduo e o conhecimento.\nIV. O maior problema de acesso digital no Brasil está na deficitária tecnologia existente em território nacional, muito \naquém da disponível na maior parte dos países do primeiro mundo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   II e IV.\nC   III e IV.\nD   I, II e III.\nE I III e IV",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17872,7 +17872,7 @@
         "Engenharia de Software",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 2,
@@ -17890,7 +17890,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218509"
+      "criado_em": "2026-08-25T14:35:20.232092"
     },
     {
       "id_questao": "q03",
@@ -17903,26 +17903,26 @@
         {
           "pagina": 3,
           "x0": 25.0,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q03.png",
+      "caminho_png": "/questoes/2011_CCP/q03.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q03.txt",
       "largura": 1123,
-      "altura": 2857,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 3 \nA cibercultura pode ser vista como herdeira legítima \n(embora distante) do projeto progressista dos filósofos \ndo século XVII. De fato, ela valoriza a participação das \npessoas em comunidades de debate e argumentação. \nNa linha reta das morais da igualdade, ela incentiva uma \nforma de reciprocidade essencial nas relações humanas. \nDesenvolveu-se a partir de uma prática assídua de trocas \nde informações e conhecimentos, coisa que os filósofos \ndo Iluminismo viam como principal motor do progresso. \n(...) A cibercultura não seria pós-moderna, mas estaria \ninserida perfeitamente na continuidade dos ideais \nrevolucionários e republicanos de liberdade, igualdade e \nfraternidade. A diferença é apenas que, na cibercultura, \nesses “valores” se encarnam em dispositivos técnicos \nconcretos. Na era das mídias eletrônicas, a igualdade se \nconcretiza na possibilidade de cada um transmitir a todos; \na liberdade toma forma nos softwares de codificação e no \nacesso a múltiplas comunidades virtuais, atravessando \nfronteiras, enquanto a fraternidade, finalmente, se traduz \nem interconexão mundial.\nLEVY, P. Revolução virtual. Folha de S. Paulo. \nCaderno Mais, 16 ago. 1998, p.3 (adaptado).\nO desenvolvimento de redes de relacionamento por meio \nde computadores e a expansão da Internet abriram novas \nperspectivas para a cultura, a comunicação e a educação. \nDe acordo com as ideias do texto acima, a cibercultura\nA   representa uma modalidade de cultura pós-moderna \nde liberdade de comunicação e ação.\nB   constituiu \nnegação \ndos \nvalores \nprogressistas \ndefendidos pelos filósofos do Iluminismo.\nC   banalizou a ciência ao disseminar o conhecimento nas \nredes sociais.\nD   valorizou o isolamento dos indivíduos pela produção \nde softwares de codificação.\nE   incorpora valores do Iluminismo ao favorecer o \ncompartilhamento de informações e conhecimentos.",
+      "texto_completo": "QUESTÃO 3 \nA cibercultura pode ser vista como herdeira legítima \n(embora distante) do projeto progressista dos filósofos \ndo século XVII. De fato, ela valoriza a participação das \npessoas em comunidades de debate e argumentação. \nNa linha reta das morais da igualdade, ela incentiva uma \nforma de reciprocidade essencial nas relações humanas. \nDesenvolveu-se a partir de uma prática assídua de trocas \nde informações e conhecimentos, coisa que os filósofos \ndo Iluminismo viam como principal motor do progresso. \n(...) A cibercultura não seria pós-moderna, mas estaria \ninserida perfeitamente na continuidade dos ideais \nrevolucionários e republicanos de liberdade, igualdade e \nfraternidade. A diferença é apenas que, na cibercultura, \nesses “valores” se encarnam em dispositivos técnicos \nconcretos. Na era das mídias eletrônicas, a igualdade se \nconcretiza na possibilidade de cada um transmitir a todos; \na liberdade toma forma nos softwares de codificação e no \nacesso a múltiplas comunidades virtuais, atravessando \nfronteiras, enquanto a fraternidade, finalmente, se traduz \nem interconexão mundial.\nLEVY, P. Revolução virtual. Folha de S. Paulo. \nCaderno Mais, 16 ago. 1998, p.3 (adaptado).\nO desenvolvimento de redes de relacionamento por meio \nde computadores e a expansão da Internet abriram novas \nperspectivas para a cultura, a comunicação e a educação. \nDe acordo com as ideias do texto acima, a cibercultura\nA   representa uma modalidade de cultura pós-moderna \nde liberdade de comunicação e ação.\nB   constituiu \nnegação \ndos \nvalores \nprogressistas \ndefendidos pelos filósofos do Iluminismo.\nC   banalizou a ciência ao disseminar o conhecimento nas \nredes sociais.\nD   valorizou o isolamento dos indivíduos pela produção \nde softwares de codificação.\nE   incorpora valores do Iluminismo ao favorecer o \ncompartilhamento de informações e conhecimentos",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 3,
@@ -17940,7 +17940,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218514"
+      "criado_em": "2026-08-25T14:35:20.232099"
     },
     {
       "id_questao": "q04",
@@ -17953,26 +17953,26 @@
         {
           "pagina": 3,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q04.png",
+      "caminho_png": "/questoes/2011_CCP/q04.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q04.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 4 \nCom o advento da República, a discussão sobre a questão \neducacional torna-se pauta significativa nas esferas dos \nPoderes Executivo e Legislativo, tanto no âmbito Federal \nquanto no Estadual. Já na Primeira República, a expansão \nda demanda social se propaga com o movimento da escola-\nnovista; no período getulista, encontram-se as reformas \nde Francisco Campos e Gustavo Capanema; no momento \nde crítica e balanço do pós-1946, ocorre a promulgação \nda primeira Lei de Diretrizes e Bases da Educação \nNacional, em 1961. É somente com a Constituição de \n1988, no entanto, que os brasileiros têm assegurada a \neducação de forma universal, como um direito de todos, \ntendo em vista o pleno desenvolvimento da pessoa no que \nse refere a sua preparação para o exercício da cidadania \ne sua qualificação para o trabalho. O artigo 208 do texto \nconstitucional prevê como dever do Estado a oferta da \neducação tanto a crianças como àqueles que não tiveram \nacesso ao ensino em idade própria à escolarização cabida. \nNesse contexto, avalie as seguintes asserções e a relação \nproposta entre elas.\nA relação entre educação e cidadania se estabelece na \nbusca da universalização da educação como uma das \ncondições necessárias para a consolidação da democracia \nno Brasil.\nPORQUE\nPor meio da atuação de seus representantes nos Poderes \nExecutivos e Legislativo, no decorrer do século XX, \npassou a ser garantido no Brasil o direito de acesso à \neducação, inclusive aos jovens e adultos que já estavam \nfora da idade escolar.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas são proposições verdadeiras, e a segunda é \numa justificativa correta da primeira.\nB   As duas são proposições verdadeiras, mas a segunda \nnão é uma justificativa correta da primeira.\nC   A primeira é uma proposição verdadeira, e a segunda, falsa.\nD   A primeira é uma proposição falsa, e a segunda, verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+      "texto_completo": "QUESTÃO 4 \nCom o advento da República, a discussão sobre a questão \neducacional torna-se pauta significativa nas esferas dos \nPoderes Executivo e Legislativo, tanto no âmbito Federal \nquanto no Estadual. Já na Primeira República, a expansão \nda demanda social se propaga com o movimento da escola-\nnovista; no período getulista, encontram-se as reformas \nde Francisco Campos e Gustavo Capanema; no momento \nde crítica e balanço do pós-1946, ocorre a promulgação \nda primeira Lei de Diretrizes e Bases da Educação \nNacional, em 1961. É somente com a Constituição de \n1988, no entanto, que os brasileiros têm assegurada a \neducação de forma universal, como um direito de todos, \ntendo em vista o pleno desenvolvimento da pessoa no que \nse refere a sua preparação para o exercício da cidadania \ne sua qualificação para o trabalho. O artigo 208 do texto \nconstitucional prevê como dever do Estado a oferta da \neducação tanto a crianças como àqueles que não tiveram \nacesso ao ensino em idade própria à escolarização cabida. \nNesse contexto, avalie as seguintes asserções e a relação \nproposta entre elas.\nA relação entre educação e cidadania se estabelece na \nbusca da universalização da educação como uma das \ncondições necessárias para a consolidação da democracia \nno Brasil.\nPORQUE\nPor meio da atuação de seus representantes nos Poderes \nExecutivos e Legislativo, no decorrer do século XX, \npassou a ser garantido no Brasil o direito de acesso à \neducação, inclusive aos jovens e adultos que já estavam \nfora da idade escolar.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas são proposições verdadeiras, e a segunda é \numa justificativa correta da primeira.\nB   As duas são proposições verdadeiras, mas a segunda \nnão é uma justificativa correta da primeira.\nC   A primeira é uma proposição verdadeira, e a segunda, falsa.\nD   A primeira é uma proposição falsa, e a segunda, verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 4,
@@ -17990,7 +17990,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218518"
+      "criado_em": "2026-08-25T14:35:20.232104"
     },
     {
       "id_questao": "q05",
@@ -18003,19 +18003,19 @@
         {
           "pagina": 4,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q05.png",
+      "caminho_png": "/questoes/2011_CCP/q05.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q05.txt",
       "largura": 2241,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n4\nQUESTÃO 5 \nDesmatamento na Amazônia Legal. Disponível em: <www.imazon.org.br/mapas/desmatamento-mensal-2011>. Acesso em: 20 ago. 2011.\nO ritmo de desmatamento na Amazônia Legal diminuiu no mês de junho de 2011, segundo levantamento feito pela \norganização ambiental brasileira Imazon (Instituto do Homem e Meio Ambiente da Amazônia). O relatório elaborado \npela ONG, a partir de imagens de satélite, apontou desmatamento de 99 km² no bioma em junho de 2011, uma redução \nde 42% no comparativo com junho de 2010. No acumulado entre agosto de 2010 e junho de 2011, o desmatamento foi \nde 1 534 km², aumento de 15% em relação a agosto de 2009 e junho de 2010. O estado de Mato Grosso foi responsável \npor derrubar 38% desse total e é líder no ranking do desmatamento, seguido do Pará (25%) e de Rondônia (21%).\nDisponível em: <http://www.imazon.org.br/imprensa/imazon-na-midia>. Acesso em: 20 ago. 2011(com adaptações).\nDe acordo com as informações do mapa e do texto,\nA   foram desmatados 1 534 km² na Amazônia Legal nos últimos dois anos.\nB   não houve aumento do desmatamento no último ano na Amazônia Legal.\nC   três estados brasileiros responderam por 84% do desmatamento na Amazônia Legal entre agosto de 2010 e junho de 2011.\nD   o estado do Amapá apresenta alta taxa de desmatamento em comparação aos demais estados da Amazônia Legal.\nE   o desmatamento na Amazônia Legal, em junho de 2010, foi de 140 km2, comparando-se o índice de junho de 2011 \nao índice de junho de 2010.",
+      "texto_completo": "QUESTÃO 5 \nDesmatamento na Amazônia Legal. Disponível em: <www.imazon.org.br/mapas/desmatamento-mensal-2011>. Acesso em: 20 ago. 2011.\nO ritmo de desmatamento na Amazônia Legal diminuiu no mês de junho de 2011, segundo levantamento feito pela \norganização ambiental brasileira Imazon (Instituto do Homem e Meio Ambiente da Amazônia). O relatório elaborado \npela ONG, a partir de imagens de satélite, apontou desmatamento de 99 km² no bioma em junho de 2011, uma redução \nde 42% no comparativo com junho de 2010. No acumulado entre agosto de 2010 e junho de 2011, o desmatamento foi \nde 1 534 km², aumento de 15% em relação a agosto de 2009 e junho de 2010. O estado de Mato Grosso foi responsável \npor derrubar 38% desse total e é líder no ranking do desmatamento, seguido do Pará (25%) e de Rondônia (21%).\nDisponível em: <http://www.imazon.org.br/imprensa/imazon-na-midia>. Acesso em: 20 ago. 2011(com adaptações).\nDe acordo com as informações do mapa e do texto,\nA   foram desmatados 1 534 km² na Amazônia Legal nos últimos dois anos.\nB   não houve aumento do desmatamento no último ano na Amazônia Legal.\nC   três estados brasileiros responderam por 84% do desmatamento na Amazônia Legal entre agosto de 2010 e junho de 2011.\nD   o estado do Amapá apresenta alta taxa de desmatamento em comparação aos demais estados da Amazônia Legal.\nE   o desmatamento na Amazônia Legal, em junho de 2010, foi de 140 km2, comparando-se o índice de junho de 2011 \nao índice de junho de 2010",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -18026,7 +18026,7 @@
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 5,
@@ -18044,7 +18044,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218523"
+      "criado_em": "2026-08-25T14:35:20.232110"
     },
     {
       "id_questao": "q06",
@@ -18057,17 +18057,17 @@
         {
           "pagina": 5,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 585.2459716796875,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q06.png",
+      "caminho_png": "/questoes/2011_CCP/q06.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q06.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q06.txt",
       "largura": 1123,
-      "altura": 2234,
+      "altura": 2156,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 6 \nA educação é o Xis da questão\nDesemprego\nAqui se vê que a taxa de\n   desemprego é menor para\n      quem fica mais tempo\n          na escola\n13,05%\n3,83%\n2,66%\nAté 10 anos\n    de estudo\nSalário                      \nAqui se vê que os salários\naumentam conforme os       \n anos de estudo (em reais)      \n18 500\n8 600\n1 800\nSalário de\nquem tem   \ndoutorado     \nou MBA        \nSalário de\nquem tem curso  \nsuperior e fala       \numa língua           \nestrangeira              \nSalário de\nquem conclui   \no ensino      \nmédio         \n7,91%\n12 a 14 anos\n   de estudo\n15 a 17 anos\n    de estudo\nMais de\n  17 anos\n     de estudo\nFontes: Manager Assessoria\nem Recursos Humanos e IBGE\nDisponível em: <http://ead.uepb.edu.br/noticias,82>. Acesso em: 24 ago. 2011.\nA expressão “o Xis da questão” usada no título do \ninfográfico diz respeito\nA   à quantidade de anos de estudos necessários para \ngarantir um emprego estável com salário digno.\nB   às oportunidades de melhoria salarial que surgem à medida \nque aumenta o nível de escolaridade dos indivíduos.\nC   à influência que o ensino de língua estrangeira nas \nescolas tem exercido na vida profissional dos indivíduos.\nD   aos questionamentos que são feitos acerca da \nquantidade mínima de anos de estudo que os \nindivíduos precisam para ter boa educação.\nE   à redução da taxa de desemprego em razão da política \natual de controle da evasão escolar e de aprovação \nautomática de ano de acordo com a idade.",
       "texto_enunciado": "",
@@ -18084,7 +18084,7 @@
         "Redes e Segurança",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 6,
@@ -18102,7 +18102,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218527"
+      "criado_em": "2026-08-25T14:35:20.232115"
     },
     {
       "id_questao": "q07",
@@ -18115,26 +18115,26 @@
         {
           "pagina": 5,
           "x0": 293.28,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q07.png",
+      "caminho_png": "/questoes/2011_CCP/q07.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q07.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q07.txt",
       "largura": 1123,
-      "altura": 2860,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 7\nA definição de desenvolvimento  sustentável  mais \nusualmente  utilizada  é a que procura atender às \nnecessidades atuais sem comprometer a capacidade das \ngerações futuras. O mundo assiste a um questionamento \ncrescente de paradigmas estabelecidos na economia e \ntambém na cultura política. A crise ambiental no planeta, \nquando traduzida na mudança climática, é uma ameaça real \nao pleno desenvolvimento das potencialidades dos países.\nO Brasil está em uma posição privilegiada para enfrentar \nos enormes desafios que se acumulam. Abriga elementos \nfundamentais para o desenvolvimento: parte significativa \nda biodiversidade e da água doce existentes no planeta; \ngrande extensão de terras cultiváveis; diversidade étnica e \ncultural e rica variedade de  reservas naturais.\nO campo do desenvolvimento sustentável pode ser \nconceitualmente \ndividido \nem \ntrês \ncomponentes: \nsustentabilidade ambiental, sustentabilidade econômica e \nsustentabilidade sociopolítica.\nNesse contexto, o desenvolvimento sustentável pressupõe\nA   a preservação do equilíbrio global e do valor das \nreservas de capital natural, o que não  justifica a \ndesaceleração do desenvolvimento econômico e \npolítico de uma sociedade.\nB   a redefinição de critérios e instrumentos de \navaliação de custo-benefício que reflitam os efeitos \nsocioeconômicos e os valores reais do consumo e da \npreservação.\nC   o reconhecimento de que, apesar de os recursos \nnaturais serem ilimitados, deve ser traçado um \nnovo modelo de desenvolvimento econômico para a \nhumanidade.\nD   a redução do consumo das reservas naturais com \na consequente estagnação do desenvolvimento \neconômico e tecnológico.\nE   a distribuição homogênea das reservas naturais entre \nas nações e as regiões em nível global e regional.",
+      "texto_completo": "QUESTÃO 7\nA definição de desenvolvimento  sustentável  mais \nusualmente  utilizada  é a que procura atender às \nnecessidades atuais sem comprometer a capacidade das \ngerações futuras. O mundo assiste a um questionamento \ncrescente de paradigmas estabelecidos na economia e \ntambém na cultura política. A crise ambiental no planeta, \nquando traduzida na mudança climática, é uma ameaça real \nao pleno desenvolvimento das potencialidades dos países.\nO Brasil está em uma posição privilegiada para enfrentar \nos enormes desafios que se acumulam. Abriga elementos \nfundamentais para o desenvolvimento: parte significativa \nda biodiversidade e da água doce existentes no planeta; \ngrande extensão de terras cultiváveis; diversidade étnica e \ncultural e rica variedade de  reservas naturais.\nO campo do desenvolvimento sustentável pode ser \nconceitualmente \ndividido \nem \ntrês \ncomponentes: \nsustentabilidade ambiental, sustentabilidade econômica e \nsustentabilidade sociopolítica.\nNesse contexto, o desenvolvimento sustentável pressupõe\nA   a preservação do equilíbrio global e do valor das \nreservas de capital natural, o que não  justifica a \ndesaceleração do desenvolvimento econômico e \npolítico de uma sociedade.\nB   a redefinição de critérios e instrumentos de \navaliação de custo-benefício que reflitam os efeitos \nsocioeconômicos e os valores reais do consumo e da \npreservação.\nC   o reconhecimento de que, apesar de os recursos \nnaturais serem ilimitados, deve ser traçado um \nnovo modelo de desenvolvimento econômico para a \nhumanidade.\nD   a redução do consumo das reservas naturais com \na consequente estagnação do desenvolvimento \neconômico e tecnológico.\nE   a distribuição homogênea das reservas naturais entre \nas nações e as regiões em nível global e regional",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 7,
@@ -18152,7 +18152,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218531"
+      "criado_em": "2026-08-25T14:35:20.232121"
     },
     {
       "id_questao": "q08",
@@ -18165,26 +18165,26 @@
         {
           "pagina": 6,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 538.6409912109375,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q08.png",
+      "caminho_png": "/questoes/2011_CCP/q08.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q08.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q08.txt",
       "largura": 2241,
-      "altura": 2040,
+      "altura": 1962,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 8 \nEm reportagem, Owen Jones, autor do livro Chavs: a difamação da classe trabalhadora, publicado no Reino \nUnido, comenta as recentes manifestações de rua em Londres e em outras principais cidades inglesas.\nJones prefere chamar atenção para as camadas sociais mais desfavorecidas do país, que desde o início dos \ndistúrbios, ficaram conhecidas no mundo todo pelo apelido chavs, usado pelos britânicos para escarnecer dos hábitos \nde consumo da classe trabalhadora. Jones denuncia um sistemático abandono governamental dessa parcela da \npopulação: “Os políticos insistem em culpar os indivíduos pela desigualdade”, diz. (...) “você não vai ver alguém assumir \nser um chav, pois se trata de um insulto criado como forma de generalizar o comportamento das classes mais baixas. \nMeu medo não é o preconceito e, sim, a cortina de fumaça que ele oferece. Os distúrbios estão servindo como o \nargumento ideal para que se faça valer a ideologia de que os problemas sociais são resultados de defeitos individuais, \nnão de falhas maiores. Trata-se de uma filosofia que tomou conta da sociedade britânica com a chegada de Margaret \nThatcher ao poder, em 1979, e que basicamente funciona assim: você é culpado pela falta de oportunidades. (...) Os \npolíticos insistem em culpar os indivíduos pela desigualdade”.\nSuplemento  Prosa & Verso, O Globo, Rio de Janeiro, 20 ago. 2011, p. 6 (adaptado).\nConsiderando as ideias do texto, avalie as afirmações a seguir.\nI. \nChavs é um apelido que exalta hábitos de consumo de parcela da população britânica.\nII. Os distúrbios ocorridos na Inglaterra serviram para atribuir deslizes de comportamento individual como causas \nde problemas sociais.\nIII. Indivíduos da classe trabalhadora britânica são responsabilizados pela falta de oportunidades decorrente da \nausência de políticas públicas.\nIV. As manifestações de rua na Inglaterra reivindicavam formas de inclusão nos padrões de consumo vigente.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e IV.\nC   II e III.\nD   I, III e IV.\nE   II, III e IV.",
+      "texto_completo": "QUESTÃO 8 \nEm reportagem, Owen Jones, autor do livro Chavs: a difamação da classe trabalhadora, publicado no Reino \nUnido, comenta as recentes manifestações de rua em Londres e em outras principais cidades inglesas.\nJones prefere chamar atenção para as camadas sociais mais desfavorecidas do país, que desde o início dos \ndistúrbios, ficaram conhecidas no mundo todo pelo apelido chavs, usado pelos britânicos para escarnecer dos hábitos \nde consumo da classe trabalhadora. Jones denuncia um sistemático abandono governamental dessa parcela da \npopulação: “Os políticos insistem em culpar os indivíduos pela desigualdade”, diz. (...) “você não vai ver alguém assumir \nser um chav, pois se trata de um insulto criado como forma de generalizar o comportamento das classes mais baixas. \nMeu medo não é o preconceito e, sim, a cortina de fumaça que ele oferece. Os distúrbios estão servindo como o \nargumento ideal para que se faça valer a ideologia de que os problemas sociais são resultados de defeitos individuais, \nnão de falhas maiores. Trata-se de uma filosofia que tomou conta da sociedade britânica com a chegada de Margaret \nThatcher ao poder, em 1979, e que basicamente funciona assim: você é culpado pela falta de oportunidades. (...) Os \npolíticos insistem em culpar os indivíduos pela desigualdade”.\nSuplemento  Prosa & Verso, O Globo, Rio de Janeiro, 20 ago. 2011, p. 6 (adaptado).\nConsiderando as ideias do texto, avalie as afirmações a seguir.\nI. \nChavs é um apelido que exalta hábitos de consumo de parcela da população britânica.\nII. Os distúrbios ocorridos na Inglaterra serviram para atribuir deslizes de comportamento individual como causas \nde problemas sociais.\nIII. Indivíduos da classe trabalhadora britânica são responsabilizados pela falta de oportunidades decorrente da \nausência de políticas públicas.\nIV. As manifestações de rua na Inglaterra reivindicavam formas de inclusão nos padrões de consumo vigente.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e IV.\nC   II e III.\nD   I, III e IV.\nE   II, III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 8,
@@ -18202,7 +18202,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218535"
+      "criado_em": "2026-08-25T14:35:20.232126"
     },
     {
       "id_questao": "qd01",
@@ -18215,26 +18215,26 @@
         {
           "pagina": 7,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 425.348388671875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd01.png",
+      "caminho_png": "/questoes/2011_CCP/qd01.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd01.txt",
       "largura": 2241,
-      "altura": 1568,
+      "altura": 1490,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 1 \nA Educação a Distância (EaD) é a modalidade de ensino que permite que a \ncomunicação e a construção do conhecimento entre os usuários envolvidos \npossam acontecer em locais e tempos distintos. São necessárias tecnologias \ncada vez mais sofisticadas para essa modalidade de ensino não presencial, com \nvistas à crescente necessidade de uma pedagogia que se desenvolva por meio \nde novas relações de ensino-aprendizagem.\nO Censo da Educação Superior de 2009, realizado pelo MEC/INEP, aponta \npara o aumento expressivo do número de matrículas nessa modalidade. Entre \n2004 e 2009, a participação da EaD na Educação Superior passou de 1,4% \npara 14,1%, totalizando 838 mil matrículas, das quais 50% em cursos de \nlicenciatura. Levantamentos apontam ainda que 37% dos estudantes de EaD \nestão na pós-graduação e que 42% estão fora do seu estado de origem.\nConsiderando as informações acima, enumere três vantagens de um curso a distância, justificando brevemente cada \numa delas. (valor: 10,0 pontos)",
+      "texto_completo": "QUESTÃO DISCURSIVA 1 \nA Educação a Distância (EaD) é a modalidade de ensino que permite que a \ncomunicação e a construção do conhecimento entre os usuários envolvidos \npossam acontecer em locais e tempos distintos. São necessárias tecnologias \ncada vez mais sofisticadas para essa modalidade de ensino não presencial, com \nvistas à crescente necessidade de uma pedagogia que se desenvolva por meio \nde novas relações de ensino-aprendizagem.\nO Censo da Educação Superior de 2009, realizado pelo MEC/INEP, aponta \npara o aumento expressivo do número de matrículas nessa modalidade. Entre \n2004 e 2009, a participação da EaD na Educação Superior passou de 1,4% \npara 14,1%, totalizando 838 mil matrículas, das quais 50% em cursos de \nlicenciatura. Levantamentos apontam ainda que 37% dos estudantes de EaD \nestão na pós-graduação e que 42% estão fora do seu estado de origem.\nConsiderando as informações acima, enumere três vantagens de um curso a distância, justificando brevemente cada \numa delas. (valor: 10,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 1,
@@ -18252,7 +18252,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218539"
+      "criado_em": "2026-08-25T14:35:20.232131"
     },
     {
       "id_questao": "qd02",
@@ -18265,19 +18265,19 @@
         {
           "pagina": 8,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 428.82879638671875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd02.png",
+      "caminho_png": "/questoes/2011_CCP/qd02.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd02.txt",
       "largura": 2241,
-      "altura": 1582,
+      "altura": 1504,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 2 \nA Síntese de Indicadores Sociais (SIS 2010) utiliza-se \nda Pesquisa Nacional por Amostra de Domicílios (PNAD) \npara apresentar sucinta análise das condições de vida no \nBrasil. Quanto ao analfabetismo, a SIS 2010 mostra que \nos maiores índices se concentram na população idosa, em \ncamadas de menores rendimentos e predominantemente \nna região Nordeste, conforme dados do texto a seguir.\nA taxa de analfabetismo referente a pessoas de 15 anos \nou mais de idade baixou de 13,3% em 1999 para 9,7% \nem 2009. Em números absolutos, o contingente era de \n14,1 milhões de pessoas analfabetas. Dessas, 42,6% \ntinham mais de 60 anos, 52,2% residiam no Nordeste \ne 16,4% viviam com ½ salário-mínimo de renda familiar \nper capita. Os maiores decréscimos no analfabetismo \npor grupos etários entre 1999 a 2009 ocorreram na faixa \ndos 15 a 24 anos. Nesse grupo, as mulheres eram mais \nalfabetizadas, mas a população masculina apresentou \nqueda um pouco mais acentuada dos índices de \nanalfabetismo, que passou de 13,5% para 6,3%, contra \n6,9% para 3,0% para as mulheres.\nSIS 2010: Mulheres mais escolarizadas são mães mais tarde e têm menos filhos. \nDisponível em: <www.ibge.gov.br/home/presidencia/noticias>.\n Acesso em: 25 ago. 2011 (adaptado).\nCom base nos dados apresentados, redija um texto dissertativo acerca da importância de políticas e programas \neducacionais para a erradicação do analfabetismo e para a empregabilidade, considerando as disparidades \nsociais e as dificuldades de obtenção de emprego provocadas pelo analfabetismo. Em seu texto, apresente uma \nproposta para a superação do analfabetismo e para o aumento da empregabilidade. (valor: 10,0 pontos)\nPopulação analfabeta com idade superior a 15 anos \nano \nporcentagem\n2000\n13,6\n2001\n12,4\n2002\n11,8\n2003\n11,6\n2004\n11,2\n2005\n10,7\n2006\n10,2\n2007\n9,9\n2008\n10,0\n2009\n9,7\nFonte:  IBGE",
+      "texto_completo": "QUESTÃO DISCURSIVA 2 \nA Síntese de Indicadores Sociais (SIS 2010) utiliza-se \nda Pesquisa Nacional por Amostra de Domicílios (PNAD) \npara apresentar sucinta análise das condições de vida no \nBrasil. Quanto ao analfabetismo, a SIS 2010 mostra que \nos maiores índices se concentram na população idosa, em \ncamadas de menores rendimentos e predominantemente \nna região Nordeste, conforme dados do texto a seguir.\nA taxa de analfabetismo referente a pessoas de 15 anos \nou mais de idade baixou de 13,3% em 1999 para 9,7% \nem 2009. Em números absolutos, o contingente era de \n14,1 milhões de pessoas analfabetas. Dessas, 42,6% \ntinham mais de 60 anos, 52,2% residiam no Nordeste \ne 16,4% viviam com ½ salário-mínimo de renda familiar \nper capita. Os maiores decréscimos no analfabetismo \npor grupos etários entre 1999 a 2009 ocorreram na faixa \ndos 15 a 24 anos. Nesse grupo, as mulheres eram mais \nalfabetizadas, mas a população masculina apresentou \nqueda um pouco mais acentuada dos índices de \nanalfabetismo, que passou de 13,5% para 6,3%, contra \n6,9% para 3,0% para as mulheres.\nSIS 2010: Mulheres mais escolarizadas são mães mais tarde e têm menos filhos. \nDisponível em: <www.ibge.gov.br/home/presidencia/noticias>.\n Acesso em: 25 ago. 2011 (adaptado).\nCom base nos dados apresentados, redija um texto dissertativo acerca da importância de políticas e programas \neducacionais para a erradicação do analfabetismo e para a empregabilidade, considerando as disparidades \nsociais e as dificuldades de obtenção de emprego provocadas pelo analfabetismo. Em seu texto, apresente uma \nproposta para a superação do analfabetismo e para o aumento da empregabilidade. (valor: 10,0 pontos)\nPopulação analfabeta com idade superior a 15 anos \nano \nporcentagem\n2000\n13,6\n2001\n12,4\n2002\n11,8\n2003\n11,6\n2004\n11,2\n2005\n10,7\n2006\n10,2\n2007\n9,9\n2008\n10,0\n2009\n9,7\nFonte:  IBGE",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18285,7 +18285,7 @@
         "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 2,
@@ -18303,7 +18303,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218544"
+      "criado_em": "2026-08-25T14:35:20.232136"
     },
     {
       "id_questao": "q09",
@@ -18316,19 +18316,19 @@
         {
           "pagina": 9,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q09.png",
+      "caminho_png": "/questoes/2011_CCP/q09.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q09.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q09.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 9\nSeja A um conjunto e seja ~ uma relação entre pares de \nelementos de A.\nDiz-se que ~ é uma relação de equivalência entre pares \nde elementos de A se as seguintes propriedades são \nverifi cadas, para quaisquer elementos a, a’ e a’’ de A:\n(i)    a ~ a;\n(ii)   se a ~ a’, então a’ ~ a;\n(iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.\nUma classe de equivalência do elemento a de A com \nrespeito à relação ~ é o conjunto \nO conjunto quociente de A pela relação de \nequivalência ~ é o conjunto de todas as classes de \nequivalência relativamente à relação ~, definido e \ndenotado como a seguir:\nA função \n  é chamada projeção canônica e é \ndefi nida como \nConsiderando as defi nições acima, analise as afi rmações \na seguir.\nI. \nA relação de equivalência ~ no conjunto A \nparticiona o conjunto A em subconjuntos disjuntos: \nas classes de equivalência.\nII. A união das classes de equivalência da relação de \nequivalência ~ no conjunto A resulta no conjunto \ndas partes de A.\nIII. As três relações seguintes\nsão relações de equivalência no conjunto dos \nnúmeros inteiros \n.\nIV. Qualquer relação de equivalência no conjunto A é \nproveniente de sua projeção canônica.\nÉ correto apenas o que se afi rma em\nA   II.\nB   III.\nC   I e III.\nD   I e IV.\nE   II e IV.",
+      "texto_completo": "QUESTÃO 9\nSeja A um conjunto e seja ~ uma relação entre pares de \nelementos de A.\nDiz-se que ~ é uma relação de equivalência entre pares \nde elementos de A se as seguintes propriedades são \nverifi cadas, para quaisquer elementos a, a’ e a’’ de A:\n(i)    a ~ a;\n(ii)   se a ~ a’, então a’ ~ a;\n(iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.\nUma classe de equivalência do elemento a de A com \nrespeito à relação ~ é o conjunto \nO conjunto quociente de A pela relação de \nequivalência ~ é o conjunto de todas as classes de \nequivalência relativamente à relação ~, definido e \ndenotado como a seguir:\nA função \n  é chamada projeção canônica e é \ndefi nida como \nConsiderando as defi nições acima, analise as afi rmações \na seguir.\nI. \nA relação de equivalência ~ no conjunto A \nparticiona o conjunto A em subconjuntos disjuntos: \nas classes de equivalência.\nII. A união das classes de equivalência da relação de \nequivalência ~ no conjunto A resulta no conjunto \ndas partes de A.\nIII. As três relações seguintes\nsão relações de equivalência no conjunto dos \nnúmeros inteiros \n.\nIV. Qualquer relação de equivalência no conjunto A é \nproveniente de sua projeção canônica.\nÉ correto apenas o que se afi rma em\nA   II.\nB   III.\nC   I e III.\nD   I e IV.\nE II e IV",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -18344,7 +18344,7 @@
       "categorias": [
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 9,
@@ -18362,7 +18362,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218548"
+      "criado_em": "2026-08-25T14:35:20.232141"
     },
     {
       "id_questao": "q10",
@@ -18375,26 +18375,26 @@
         {
           "pagina": 9,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 477.83380126953125,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.png",
+      "caminho_png": "/questoes/2011_CCP/q10.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.txt",
       "largura": 1123,
-      "altura": 1787,
+      "altura": 1709,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 10\nEm determinado período letivo, cada estudante de um \ncurso universitário tem aulas com um de três professores, \nesses identifi cados pelas letras X, Y e Z. As quantidades \nde estudantes (homens e mulheres) que têm aulas com \ncada professor é apresentada na tabela de contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nEstudantes \nhomens\n45\n5\n32\nEstudantes \nmulheres\n67\n2\n4\nA partir do grupo de estudantes desse curso universitário, \nescolhe-se um estudante ao acaso. Qual é a probabilidade \nde que esse estudante seja mulher, dado que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nD    \n22\n112\nE    \n67\n112",
+      "texto_completo": "QUESTÃO 10\nEm determinado período letivo, cada estudante de um \ncurso universitário tem aulas com um de três professores, \nesses identifi cados pelas letras X, Y e Z. As quantidades \nde estudantes (homens e mulheres) que têm aulas com \ncada professor é apresentada na tabela de contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nEstudantes \nhomens\n45\n5\n32\nEstudantes \nmulheres\n67\n2\n4\nA partir do grupo de estudantes desse curso universitário, \nescolhe-se um estudante ao acaso. Qual é a probabilidade \nde que esse estudante seja mulher, dado que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nD    \n22\n112\nE    \n67\n112",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 10,
@@ -18412,7 +18412,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218552"
+      "criado_em": "2026-08-25T14:35:20.232146"
     },
     {
       "id_questao": "q11",
@@ -18425,19 +18425,19 @@
         {
           "pagina": 10,
           "x0": 25.0,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 371.620361328125,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q11.png",
+      "caminho_png": "/questoes/2011_CCP/q11.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q11.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q11.txt",
       "largura": 1123,
-      "altura": 1346,
+      "altura": 1266,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 11  \nO problema da parada para máquinas de Turing, ou \nsimplesmente problema da parada, pode ser assim \ndescrito: determinar, para quaisquer máquina de Turing M \ne palavra w, se M irá eventualmente parar com entrada w.\nMais informalmente, o mesmo problema também pode \nser assim descrito: dados um algoritmo e uma entrada \nfi nita, decidir se o algoritmo termina ou se executará \nindefi nidamente.\nPara o problema da parada, \nA   existe algoritmo exato de tempo de execução \npolinomial para solucioná-lo.\nB   existe algoritmo exato de tempo de execução \nexponencial para solucioná-lo.\nC   não existe algoritmo que o solucione, não importa \nquanto tempo seja disponibilizado.\nD   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução polinomial que o \nsoluciona, fornecendo respostas aproximadas.\nE   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução exponencial que \no soluciona, fornecendo respostas aproximadas.",
+      "texto_completo": "QUESTÃO 11  \nO problema da parada para máquinas de Turing, ou \nsimplesmente problema da parada, pode ser assim \ndescrito: determinar, para quaisquer máquina de Turing M \ne palavra w, se M irá eventualmente parar com entrada w.\nMais informalmente, o mesmo problema também pode \nser assim descrito: dados um algoritmo e uma entrada \nfi nita, decidir se o algoritmo termina ou se executará \nindefi nidamente.\nPara o problema da parada, \nA   existe algoritmo exato de tempo de execução \npolinomial para solucioná-lo.\nB   existe algoritmo exato de tempo de execução \nexponencial para solucioná-lo.\nC   não existe algoritmo que o solucione, não importa \nquanto tempo seja disponibilizado.\nD   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução polinomial que o \nsoluciona, fornecendo respostas aproximadas.\nE   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução exponencial que \no soluciona, fornecendo respostas aproximadas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18445,7 +18445,7 @@
         "Algoritmos e Estruturas de Dados",
         "Teoria da Computação e Compiladores"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 11,
@@ -18463,7 +18463,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218556"
+      "criado_em": "2026-08-25T14:35:20.232152"
     },
     {
       "id_questao": "q12",
@@ -18478,17 +18478,17 @@
           "x0": 25.0,
           "y0": 367.620361328125,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q12.png",
+      "caminho_png": "/questoes/2011_CCP/q12.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q12.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q12.txt",
       "largura": 1123,
-      "altura": 1558,
+      "altura": 1496,
       "confianca": 0.98,
-      "texto_completo": "1\n,\np\np\nQUESTÃO 12  \nConsidere a gramática a seguir, em que \n, \ne \nsão símbolos não terminais, \n e \nsão terminais e \né a \ncadeia vazia.\nA respeito dessa gramática, analise as afi rmações a seguir.\nI. \nNas cadeias geradas por essa gramática, o último \nsímbolo é .\nII. O número de zeros consecutivos nas cadeias \ngeradas pela gramática é, no máximo, dois.\nIII. O número de uns em cada cadeia gerada pela \ngramática é maior que o número de zeros.\nIV. Nas cadeias geradas por essa gramática, todos os \nuns estão à esquerda de todos os zeros.\nÉ correto apenas o que se afi rma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE   III e IV.",
+      "texto_completo": ",\np\np\nQUESTÃO 12  \nConsidere a gramática a seguir, em que \n, \ne \nsão símbolos não terminais, \n e \nsão terminais e \né a \ncadeia vazia.\nA respeito dessa gramática, analise as afi rmações a seguir.\nI. \nNas cadeias geradas por essa gramática, o último \nsímbolo é .\nII. O número de zeros consecutivos nas cadeias \ngeradas pela gramática é, no máximo, dois.\nIII. O número de uns em cada cadeia gerada pela \ngramática é maior que o número de zeros.\nIV. Nas cadeias geradas por essa gramática, todos os \nuns estão à esquerda de todos os zeros.\nÉ correto apenas o que se afi rma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE III e IV",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -18504,7 +18504,7 @@
       "categorias": [
         "Teoria da Computação e Compiladores"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 12,
@@ -18522,7 +18522,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218560"
+      "criado_em": "2026-08-25T14:35:20.232157"
     },
     {
       "id_questao": "q13",
@@ -18535,19 +18535,19 @@
         {
           "pagina": 10,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q13.png",
+      "caminho_png": "/questoes/2011_CCP/q13.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q13.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q13.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "0\nQUESTÃO 13  \nO problema do escalonamento de intervalos tem como \nentrada um conjunto de intervalos numéricos (usualmente \ninterpretados como início e fi m de atividades), e o objetivo \né escolher, desse conjunto, o maior número possível \nde intervalos disjuntos dois a dois. Há vários problemas \npráticos que podem ser modelados dessa forma, como, \npor exemplo, a seleção de tarefas com horário marcado.\nO problema do escalonamento de intervalos pode ser \nresolvido com o algoritmo descrito a seguir. O conjunto \nde intervalos dados inicialmente é R e o conjunto de \nintervalos escolhidos, A, começa vazio.\nenquanto R não estiver vazio,\nseja x o intervalo de R com menor tempo \nde término, e que não tenha interseção com \nalgum intervalo em A \nretire x de R e adicione ao conjunto A \nretorne A\nA respeito desse algoritmo, analise as seguintes asserções.\nPara checar se o algoritmo está correto, basta verifi car \nque o primeiro intervalo adicionado ao conjunto A \nnecessariamente faz parte de uma solução ótima.\nPORQUE\nPode-se mostrar, por indução no número máximo de \nintervalos calculados (ou seja, no número de vezes que \no laço “enquanto” é executado), que, embora possa haver \nsoluções tão boas quanto A, nenhuma delas é estritamente \nmelhor que A. O conjunto com um único intervalo é a base \nde indução.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A segunda asserção é uma proposição falsa e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+      "texto_completo": "QUESTÃO 13  \nO problema do escalonamento de intervalos tem como \nentrada um conjunto de intervalos numéricos (usualmente \ninterpretados como início e fi m de atividades), e o objetivo \né escolher, desse conjunto, o maior número possível \nde intervalos disjuntos dois a dois. Há vários problemas \npráticos que podem ser modelados dessa forma, como, \npor exemplo, a seleção de tarefas com horário marcado.\nO problema do escalonamento de intervalos pode ser \nresolvido com o algoritmo descrito a seguir. O conjunto \nde intervalos dados inicialmente é R e o conjunto de \nintervalos escolhidos, A, começa vazio.\nenquanto R não estiver vazio,\nseja x o intervalo de R com menor tempo \nde término, e que não tenha interseção com \nalgum intervalo em A \nretire x de R e adicione ao conjunto A \nretorne A\nA respeito desse algoritmo, analise as seguintes asserções.\nPara checar se o algoritmo está correto, basta verifi car \nque o primeiro intervalo adicionado ao conjunto A \nnecessariamente faz parte de uma solução ótima.\nPORQUE\nPode-se mostrar, por indução no número máximo de \nintervalos calculados (ou seja, no número de vezes que \no laço “enquanto” é executado), que, embora possa haver \nsoluções tão boas quanto A, nenhuma delas é estritamente \nmelhor que A. O conjunto com um único intervalo é a base \nde indução.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A segunda asserção é uma proposição falsa e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18555,7 +18555,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 13,
@@ -18573,7 +18573,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218564"
+      "criado_em": "2026-08-25T14:35:20.232162"
     },
     {
       "id_questao": "q14",
@@ -18586,17 +18586,17 @@
         {
           "pagina": 11,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 546.0986328125,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.png",
+      "caminho_png": "/questoes/2011_CCP/q14.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q14.txt",
       "largura": 1123,
-      "altura": 2071,
+      "altura": 1993,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 14  \nObserve o diagrama de Venn a seguir.\nA função representada em azul no diagrama também \npoderia ser expressa pela função lógica \nA    \n.\nB    \n.\nC    \n.\nD    \n.\nE    \n.",
       "texto_enunciado": "",
@@ -18613,7 +18613,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 14,
@@ -18631,7 +18631,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218568"
+      "criado_em": "2026-08-25T14:35:20.232167"
     },
     {
       "id_questao": "q15",
@@ -18644,26 +18644,26 @@
         {
           "pagina": 11,
           "x0": 293.28,
-          "y0": 55.701515197753906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 350.4012756347656,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q15.png",
+      "caminho_png": "/questoes/2011_CCP/q15.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q15.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q15.txt",
       "largura": 1123,
-      "altura": 1258,
+      "altura": 1178,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 15\nSuponha que seja necessário desenvolver uma ferramenta \nque apresente o endereço IP dos múltiplos roteadores, \nsalto a salto, que compõem o caminho do hospedeiro em \nque a ferramenta é executada até um determinado destino \n(segundo seu endereço IP), assim como o round-trip time \naté cada roteador. Tal ferramenta precisa funcionar na \nInternet atual, sem demandar mudanças em roteadores \nnem a introdução de novos protocolos.\nConsiderando o problema acima, qual dos seguintes \nprotocolos representaria a melhor (mais simples e \nefi ciente) solução?\nA   IP: Internet Protocol.\nB   UDP: User Datagram Protocol.\nC   TCP: Transmission Control Protocol.\nD   ICMP: Internet Control Message Protocol.\nE   DHCP: Dynamic Host Confi guration Protocol.",
+      "texto_completo": "QUESTÃO 15\nSuponha que seja necessário desenvolver uma ferramenta \nque apresente o endereço IP dos múltiplos roteadores, \nsalto a salto, que compõem o caminho do hospedeiro em \nque a ferramenta é executada até um determinado destino \n(segundo seu endereço IP), assim como o round-trip time \naté cada roteador. Tal ferramenta precisa funcionar na \nInternet atual, sem demandar mudanças em roteadores \nnem a introdução de novos protocolos.\nConsiderando o problema acima, qual dos seguintes \nprotocolos representaria a melhor (mais simples e \nefi ciente) solução?\nA   IP: Internet Protocol.\nB   UDP: User Datagram Protocol.\nC   TCP: Transmission Control Protocol.\nD   ICMP: Internet Control Message Protocol.\nE   DHCP: Dynamic Host Confi guration Protocol.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Redes e Segurança"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 15,
@@ -18681,7 +18681,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218571"
+      "criado_em": "2026-08-25T14:35:20.232172"
     },
     {
       "id_questao": "q16",
@@ -18696,24 +18696,24 @@
           "x0": 293.28,
           "y0": 346.4012756347656,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.png",
+      "caminho_png": "/questoes/2011_CCP/q16.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.txt",
       "largura": 1123,
-      "altura": 1646,
+      "altura": 1584,
       "confianca": 0.98,
-      "texto_completo": "1\nQUESTÃO 16  \nUm navegador Web executa em um hospedeiro A, em \numa rede de uma organização, e acessa uma página \nlocalizada de um servidor Web em um hospedeiro B, \nsituado em outra rede na Internet. A rede em que A se \nsitua conta com um servidor DNS local. Um profi ssional \ndeseja fazer uma lista com a sequência de protocolos \nempregados e comparar com o resultado apresentado \npor uma ferramenta de monitoramento executada no \nhospedeiro A. A lista assume que\ni)   todas as tabelas com informações temporárias e \ncaches estão vazias;\nii) o hospedeiro cliente está confi gurado com o \nendereço IP do servidor DNS local.\nQual das sequências a seguir representa a ordem em que \nmensagens, segmentos e pacotes serão observados em \num meio físico ao serem enviados pelo hospedeiro A?\nA   ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.\nB   ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.\nC   DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.\nD   DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.\nE   HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.",
+      "texto_completo": "QUESTÃO 16  \nUm navegador Web executa em um hospedeiro A, em \numa rede de uma organização, e acessa uma página \nlocalizada de um servidor Web em um hospedeiro B, \nsituado em outra rede na Internet. A rede em que A se \nsitua conta com um servidor DNS local. Um profi ssional \ndeseja fazer uma lista com a sequência de protocolos \nempregados e comparar com o resultado apresentado \npor uma ferramenta de monitoramento executada no \nhospedeiro A. A lista assume que\ni)   todas as tabelas com informações temporárias e \ncaches estão vazias;\nii) o hospedeiro cliente está confi gurado com o \nendereço IP do servidor DNS local.\nQual das sequências a seguir representa a ordem em que \nmensagens, segmentos e pacotes serão observados em \num meio físico ao serem enviados pelo hospedeiro A?\nA   ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.\nB   ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.\nC   DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.\nD   DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.\nE   HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Redes e Segurança"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 16,
@@ -18731,7 +18731,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218575"
+      "criado_em": "2026-08-25T14:35:20.232177"
     },
     {
       "id_questao": "q17",
@@ -18744,19 +18744,19 @@
         {
           "pagina": 12,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q17.png",
+      "caminho_png": "/questoes/2011_CCP/q17.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q17.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q17.txt",
       "largura": 2241,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n12\nQUESTÃO 17\nA tabela a seguir apresenta a relação de mintermos e maxtermos para três variáveis.\nAnalise o circuito de quatro variáveis a seguir.\nConsiderando esse circuito, as funções f e g são, respectivamente,\nA    \n∑m(0,1,2,3,6,7,8,9) e ∑m(2,3,6,7,10,14).\nB    \n∑m(4,5,10,11,12,13,14,15) e ∑m(0,1,4,5,8,9,11,12,13,15).\nC    \n∏M(0,1,2,3,6,7,8,9) e ∏M(0,1,4,5,8,9,11,12,13,15).\nD    \n∏M(4,5,10,11,12,13,14,15) e ∑m(2,3,6,7,10,14).\nE    \n∏M(4,5,10,11,12,13,14,15) e ∏M(2,3,6,7,10,14).",
+      "texto_completo": "QUESTÃO 17\nA tabela a seguir apresenta a relação de mintermos e maxtermos para três variáveis.\nAnalise o circuito de quatro variáveis a seguir.\nConsiderando esse circuito, as funções f e g são, respectivamente,\nA    \n∑m(0,1,2,3,6,7,8,9) e ∑m(2,3,6,7,10,14).\nB    \n∑m(4,5,10,11,12,13,14,15) e ∑m(0,1,4,5,8,9,11,12,13,15).\nC    \n∏M(0,1,2,3,6,7,8,9) e ∏M(0,1,4,5,8,9,11,12,13,15).\nD    \n∏M(4,5,10,11,12,13,14,15) e ∑m(2,3,6,7,10,14).\nE    \n∏M(4,5,10,11,12,13,14,15) e ∏M(2,3,6,7,10,14).",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -18766,7 +18766,7 @@
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 17,
@@ -18784,7 +18784,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218579"
+      "criado_em": "2026-08-25T14:35:20.232182"
     },
     {
       "id_questao": "q18",
@@ -18797,17 +18797,17 @@
         {
           "pagina": 13,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 503.9938659667969,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q18.png",
+      "caminho_png": "/questoes/2011_CCP/q18.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q18.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q18.txt",
       "largura": 1123,
-      "altura": 1896,
+      "altura": 1818,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 18  \nUm vendedor de artigos de pesca obteve com um amigo \no código executável (já compilado) de um programa que \ngerencia vendas e faz o controle de estoque, com o intuito \nde usá-lo em sua loja. Segundo o seu amigo, o referido \nprograma foi compilado em seu sistema computacional \npessoal (sistema A) e funciona corretamente. O vendedor \nconstatou que o programa excecutável também funciona \ncorretamente no sistema computacional de sua loja \n(sistema B). Considerando a situação relatada, analise as \nafi rmações a seguir.\nI. \nOs computadores poderiam ter quantidades \ndiferentes de núcleos (cores).\nII. As chamadas ao sistema (system call) do sistema \noperacional no sistema A devem ser compatíveis \ncom as do sistema B.\nIII. O conjunto de instruções do sistema A poderia ser \ndiferente do conjunto de instruções do sistema B.\nIV. Se os registradores do sistema A forem de 64 bits, os \nregistradores do sistema B poderiam ser de 32 bits.\nÉ correto o que se afi rma em\nA   III, apenas.\nB   I e II, apenas.\nC   III e IV, apenas.\nD   I, II e IV, apenas.\nE   I, II, III e IV.",
       "texto_enunciado": "",
@@ -18816,7 +18816,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 18,
@@ -18834,7 +18834,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218583"
+      "criado_em": "2026-08-25T14:35:20.232187"
     },
     {
       "id_questao": "q19",
@@ -18849,24 +18849,24 @@
           "x0": 25.0,
           "y0": 499.9938659667969,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q19.png",
+      "caminho_png": "/questoes/2011_CCP/q19.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q19.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q19.txt",
       "largura": 1123,
-      "altura": 1006,
+      "altura": 944,
       "confianca": 0.98,
-      "texto_completo": "1\nQUESTÃO 19\nUma equipe está realizando testes com base nos \ncódigos-fonte de um sistema. Os testes envolvem a \nverifi cação de diversos componentes individualmente, \nbem como das interfaces entre os componentes.\nNo contexto apresentado, essa equipe está realizando \ntestes em nível de\nA   unidade.\nB   aceitação.\nC   sistema e aceitação.\nD   integração e sistema.\nE   unidade e integração.",
+      "texto_completo": "QUESTÃO 19\nUma equipe está realizando testes com base nos \ncódigos-fonte de um sistema. Os testes envolvem a \nverifi cação de diversos componentes individualmente, \nbem como das interfaces entre os componentes.\nNo contexto apresentado, essa equipe está realizando \ntestes em nível de\nA   unidade.\nB   aceitação.\nC   sistema e aceitação.\nD   integração e sistema.\nE   unidade e integração.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 19,
@@ -18884,7 +18884,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218587"
+      "criado_em": "2026-08-25T14:35:20.232192"
     },
     {
       "id_questao": "q20",
@@ -18897,19 +18897,19 @@
         {
           "pagina": 13,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 397.78582763671875,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q20.png",
+      "caminho_png": "/questoes/2011_CCP/q20.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q20.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q20.txt",
       "largura": 1123,
-      "altura": 1453,
+      "altura": 1375,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 20  \nConsidere que G é um grafo qualquer e que V e E são os \nconjuntos de vértices e de arestas de G, respectivamente. \nConsidere também que grau (v) é o grau de um vértice \nv pertencente ao conjunto V. Nesse contexto, analise as \nseguintes asserções.\nEm G, a quantidade de vértices com grau ímpar é ímpar.\nPORQUE\nPara G, vale a identidade dada pela expressão\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+      "texto_completo": "QUESTÃO 20  \nConsidere que G é um grafo qualquer e que V e E são os \nconjuntos de vértices e de arestas de G, respectivamente. \nConsidere também que grau (v) é o grau de um vértice \nv pertencente ao conjunto V. Nesse contexto, analise as \nseguintes asserções.\nEm G, a quantidade de vértices com grau ímpar é ímpar.\nPORQUE\nPara G, vale a identidade dada pela expressão\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -18918,7 +18918,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 20,
@@ -18936,7 +18936,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218591"
+      "criado_em": "2026-08-25T14:35:20.232197"
     },
     {
       "id_questao": "q21",
@@ -18951,24 +18951,24 @@
           "x0": 293.28,
           "y0": 393.78582763671875,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q21.png",
+      "caminho_png": "/questoes/2011_CCP/q21.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q21.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q21.txt",
       "largura": 1123,
-      "altura": 1449,
+      "altura": 1387,
       "confianca": 0.98,
-      "texto_completo": "3\np\np\nç\nQUESTÃO 21  \nNo desenvolvimento de um software que analisa bases de \nDNA, representadas pelas letras A, C, G, T, utilizou-se as \nestruturas de dados: pilha e fi la. Considere que, se uma \nsequência representa uma pilha, o topo é o elemento mais \nà esquerda; e se uma sequência representa uma fi la, a \nsua frente é o elemento mais à esquerda. \nAnalise o seguinte cenário: “a sequência inicial fi cou \narmazenada na primeira estrutura de dados na seguinte \nordem: (A,G,T,C,A,G,T,T). Cada elemento foi retirado \nda primeira estrutura de dados e inserido na segunda \nestrutura de dados, e a sequência fi cou armazenada na \nseguinte ordem: (T,T,G,A,C,T,G,A). Finalmente, cada \nelemento foi retirado da segunda estrutura de dados e \ninserido na terceira estrutura de dados e a sequência fi cou \narmazenada na seguinte ordem: (T,T,G,A,C,T,G,A)”.\nQual a única sequência de estruturas de dados \napresentadas a seguir pode ter sido usada no cenário \ndescrito acima?\nA   Fila - Pilha - Fila.\nB   Fila - Fila - Pilha.\nC   Fila - Pilha - Pilha.\nD   Pilha - Fila - Pilha.\nE   Pilha - Pilha - Pilha.",
+      "texto_completo": "p\np\nç\nQUESTÃO 21  \nNo desenvolvimento de um software que analisa bases de \nDNA, representadas pelas letras A, C, G, T, utilizou-se as \nestruturas de dados: pilha e fi la. Considere que, se uma \nsequência representa uma pilha, o topo é o elemento mais \nà esquerda; e se uma sequência representa uma fi la, a \nsua frente é o elemento mais à esquerda. \nAnalise o seguinte cenário: “a sequência inicial fi cou \narmazenada na primeira estrutura de dados na seguinte \nordem: (A,G,T,C,A,G,T,T). Cada elemento foi retirado \nda primeira estrutura de dados e inserido na segunda \nestrutura de dados, e a sequência fi cou armazenada na \nseguinte ordem: (T,T,G,A,C,T,G,A). Finalmente, cada \nelemento foi retirado da segunda estrutura de dados e \ninserido na terceira estrutura de dados e a sequência fi cou \narmazenada na seguinte ordem: (T,T,G,A,C,T,G,A)”.\nQual a única sequência de estruturas de dados \napresentadas a seguir pode ter sido usada no cenário \ndescrito acima?\nA   Fila - Pilha - Fila.\nB   Fila - Fila - Pilha.\nC   Fila - Pilha - Pilha.\nD   Pilha - Fila - Pilha.\nE Pilha\nPilha\nPilha",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 21,
@@ -18986,7 +18986,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218595"
+      "criado_em": "2026-08-25T14:35:20.232201"
     },
     {
       "id_questao": "q22",
@@ -18999,26 +18999,26 @@
         {
           "pagina": 14,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 541.1332397460938,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q22.png",
+      "caminho_png": "/questoes/2011_CCP/q22.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q22.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q22.txt",
       "largura": 1123,
-      "altura": 2050,
+      "altura": 1972,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 22  \nConsidere a seguinte tabela  verdade, na qual estão \ndefi nidas quatro entradas – A, B, C e D – e uma saída S. \nA\nB\nC\nD\nS\n0\n0\n0\n0\n1\n0\n0\n0\n1\n0\n0\n0\n1\n0\n1\n0\n0\n1\n1\n0\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n0\n0\n0\n1\n1\n0\n0\n1\n1\n1\n0\n1\n0\n0\n1\n0\n1\n1\n1\n1\n1\n0\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n1\n1\n1\n1\n1\nA menor expressão de chaveamento representada por \numa soma de produtos correspondente à saída S é\nA   AB’(D+C’)+A’D’+ABC.\nB   AD + A’BD’+A’BC+A’B’C’.\nC   A’D’ + AB’D+AB’C’+ABC.\nD   (A’+D)(A+B+C’)(A+B’+C+D’).\nE    (A+D’)(A’+B’+C)(A’+B+C’+D).",
+      "texto_completo": "QUESTÃO 22  \nConsidere a seguinte tabela  verdade, na qual estão \ndefi nidas quatro entradas – A, B, C e D – e uma saída S. \nA\nB\nC\nD\nS\n0\n0\n0\n0\n1\n0\n0\n0\n1\n0\n0\n0\n1\n0\n1\n0\n0\n1\n1\n0\n0\n1\n0\n0\n1\n0\n1\n0\n1\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n0\n0\n0\n1\n1\n0\n0\n1\n1\n1\n0\n1\n0\n0\n1\n0\n1\n1\n1\n1\n1\n0\n0\n0\n1\n1\n0\n1\n0\n1\n1\n1\n0\n1\n1\n1\n1\n1\n1\nA menor expressão de chaveamento representada por \numa soma de produtos correspondente à saída S é\nA   AB’(D+C’)+A’D’+ABC.\nB   AD + A’BD’+A’BC+A’B’C’.\nC   A’D’ + AB’D+AB’C’+ABC.\nD   (A’+D)(A+B+C’)(A+B’+C+D’).\nE    (A+D’)(A’+B’+C)(A’+B+C’+D).",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 22,
@@ -19036,7 +19036,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218599"
+      "criado_em": "2026-08-25T14:35:20.232206"
     },
     {
       "id_questao": "q23",
@@ -19049,17 +19049,17 @@
         {
           "pagina": 14,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 541.4235229492188,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q23.png",
+      "caminho_png": "/questoes/2011_CCP/q23.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q23.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q23.txt",
       "largura": 1123,
-      "altura": 2052,
+      "altura": 1974,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 23\nAutômatos fi nitos possuem diversas aplicações práticas, \ncomo na detecção de sequências de caracteres em \num texto. A fi gura abaixo apresenta um autômato que \nreconhece sequências sobre o alfabeto \ne \numa gramática livre de contexto que gera um subconjunto \nde \n, em que \nrepresenta o string vazio.\nAnalisando a gramática e o autômato acima, \nconclui-se que\nA   a linguagem gerada pela gramática é inerentemente \nambígua.\nB   a gramática é regular e gera uma linguagem livre de \ncontexto.\nC   a linguagem reconhecida pelo autômato é a mesma \ngerada pela gramática.\nD   o autômato reconhece a linguagem sobre \n em que \nos strings possuem o prefi xo ababc.\nE   a linguagem reconhecida pelo autômato é a \nmesma que a representada pela expressão regular \n.",
       "texto_enunciado": "",
@@ -19076,7 +19076,7 @@
       "categorias": [
         "Teoria da Computação e Compiladores"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 23,
@@ -19094,7 +19094,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218603"
+      "criado_em": "2026-08-25T14:35:20.232211"
     },
     {
       "id_questao": "q24",
@@ -19107,26 +19107,26 @@
         {
           "pagina": 15,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q24.png",
+      "caminho_png": "/questoes/2011_CCP/q24.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q24.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q24.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "1\nQUESTÃO 24\nAs filas de prioridades (heaps) são estruturas de dados \nimportantes no projeto de algoritmos. Em especial, heaps \npodem ser utilizados na recuperação de informação \nem grandes bases de dados constituídos por textos. \nBasicamente, para se exibir o resultado de uma consulta, \nos documentos recuperados são ordenados de acordo \ncom a relevância presumida para o usuário. Uma consulta \npode recuperar milhões de documentos que certamente \nnão serão todos examinados. Na verdade, o usuário \nexamina os primeiros m documentos dos n recuperados, \nem que m é da ordem de algumas dezenas.\nConsiderando as características dos heaps e sua \naplicação no problema descrito acima, avalie as \nseguintes afirmações.\nI. \nUma vez que o heap é implementado como \numa árvore binária de pesquisa essencialmente \ncompleta, o custo computacional para sua \nconstrução é O(n log n).\nII. A implementação de heaps utilizando-se vetores \né eficiente em tempo de execução e em espaço \nde armazenamento, pois o pai de um elemento \narmazenado na posição i se encontra armazenado \nna posição 2i+1.\nIII. O custo computacional para se recuperar \nde forma ordenada os m documentos mais \nrelevantes armazenados em um heap de \ntamanho n é O(m log n).\nIV. Determinar o documento com maior valor de \nrelevância armazenado em um heap tem custo \ncomputacional O(1). \nEstá correto apenas o que se afirma em\nA   I e II.\nB   II e III.\nC   III e IV.\nD   I, II e IV.\nE   I, III e IV.",
+      "texto_completo": "QUESTÃO 24\nAs filas de prioridades (heaps) são estruturas de dados \nimportantes no projeto de algoritmos. Em especial, heaps \npodem ser utilizados na recuperação de informação \nem grandes bases de dados constituídos por textos. \nBasicamente, para se exibir o resultado de uma consulta, \nos documentos recuperados são ordenados de acordo \ncom a relevância presumida para o usuário. Uma consulta \npode recuperar milhões de documentos que certamente \nnão serão todos examinados. Na verdade, o usuário \nexamina os primeiros m documentos dos n recuperados, \nem que m é da ordem de algumas dezenas.\nConsiderando as características dos heaps e sua \naplicação no problema descrito acima, avalie as \nseguintes afirmações.\nI. \nUma vez que o heap é implementado como \numa árvore binária de pesquisa essencialmente \ncompleta, o custo computacional para sua \nconstrução é O(n log n).\nII. A implementação de heaps utilizando-se vetores \né eficiente em tempo de execução e em espaço \nde armazenamento, pois o pai de um elemento \narmazenado na posição i se encontra armazenado \nna posição 2i+1.\nIII. O custo computacional para se recuperar \nde forma ordenada os m documentos mais \nrelevantes armazenados em um heap de \ntamanho n é O(m log n).\nIV. Determinar o documento com maior valor de \nrelevância armazenado em um heap tem custo \ncomputacional O(1). \nEstá correto apenas o que se afirma em\nA   I e II.\nB   II e III.\nC   III e IV.\nD   I, II e IV.\nE I III e IV",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 24,
@@ -19144,7 +19144,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218609"
+      "criado_em": "2026-08-25T14:35:20.232216"
     },
     {
       "id_questao": "q25",
@@ -19157,19 +19157,19 @@
         {
           "pagina": 15,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 415.5016174316406,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q25.png",
+      "caminho_png": "/questoes/2011_CCP/q25.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q25.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q25.txt",
       "largura": 1123,
-      "altura": 1527,
+      "altura": 1449,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 25  \nUm Padrão de Projeto nomeia, abstrai e identifica \nos aspectos-chave de uma estrutura de projeto comum \npara torná-la útil para a criação de um projeto orientado a \nobjetos reutilizáveis.\nGAMMA, E., HELM, R., JOHNSON, R., VLISSIDES, J. Padrões de Projeto-Soluções \nReutilizáveis de Software Orientado a Objetos. Porto Alegre: Bookman, 2000.\nEm relação a Padrões de Projeto, analise as afirmações \na seguir.\nI. \nPrototype é um tipo de padrão estrutural.\nII. Singleton tem por objetivos garantir que uma \nclasse tenha ao menos uma instância e fornecer \num ponto global de acesso para ela.\nIII. Template Method tem por objetivo definir o \nesqueleto de um algoritmo em uma operação, \npostergando a definição de alguns passos para \nsubclasses.\nIV. Iterator \nfornece \numa \nmaneira \nde \nacessar \nsequencialmente os elementos de um objeto \nagregado \nsem \nexpor \nsua \nrepresentação \nsubjacente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
+      "texto_completo": "QUESTÃO 25  \nUm Padrão de Projeto nomeia, abstrai e identifica \nos aspectos-chave de uma estrutura de projeto comum \npara torná-la útil para a criação de um projeto orientado a \nobjetos reutilizáveis.\nGAMMA, E., HELM, R., JOHNSON, R., VLISSIDES, J. Padrões de Projeto-Soluções \nReutilizáveis de Software Orientado a Objetos. Porto Alegre: Bookman, 2000.\nEm relação a Padrões de Projeto, analise as afirmações \na seguir.\nI. \nPrototype é um tipo de padrão estrutural.\nII. Singleton tem por objetivos garantir que uma \nclasse tenha ao menos uma instância e fornecer \num ponto global de acesso para ela.\nIII. Template Method tem por objetivo definir o \nesqueleto de um algoritmo em uma operação, \npostergando a definição de alguns passos para \nsubclasses.\nIV. Iterator \nfornece \numa \nmaneira \nde \nacessar \nsequencialmente os elementos de um objeto \nagregado \nsem \nexpor \nsua \nrepresentação \nsubjacente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19178,7 +19178,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 25,
@@ -19196,7 +19196,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218613"
+      "criado_em": "2026-08-25T14:35:20.232220"
     },
     {
       "id_questao": "q26",
@@ -19211,17 +19211,17 @@
           "x0": 293.28,
           "y0": 411.5016174316406,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q26.png",
+      "caminho_png": "/questoes/2011_CCP/q26.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q26.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q26.txt",
       "largura": 1123,
-      "altura": 1375,
+      "altura": 1313,
       "confianca": 0.98,
-      "texto_completo": "5\nE\nQUESTÃO 26\nUm baralho tem 52 cartas, organizadas em 4 naipes, \ncom 13 valores diferentes para cada naipe. \nOs valores possíveis são: Ás, 2, 3, ..., 10, J, Q, K. \nNo jogo de poker, uma das combinações de 5 cartas \nmais valiosas é o full house, que é formado por \ntrês cartas de mesmo valor e outras duas cartas de \nmesmo valor. São exemplos de full houses: i) três \ncartas K e duas 10 (como visto na figura) ou ii) três \ncartas 4 e duas Ás.\nQuantas possibilidades para full house existem em um \nbaralho de 52 cartas?\nA   156.\nB   624.\nC   1872.\nD   3744.\nE   7488.",
+      "texto_completo": "E\nQUESTÃO 26\nUm baralho tem 52 cartas, organizadas em 4 naipes, \ncom 13 valores diferentes para cada naipe. \nOs valores possíveis são: Ás, 2, 3, ..., 10, J, Q, K. \nNo jogo de poker, uma das combinações de 5 cartas \nmais valiosas é o full house, que é formado por \ntrês cartas de mesmo valor e outras duas cartas de \nmesmo valor. São exemplos de full houses: i) três \ncartas K e duas 10 (como visto na figura) ou ii) três \ncartas 4 e duas Ás.\nQuantas possibilidades para full house existem em um \nbaralho de 52 cartas?\nA   156.\nB   624.\nC   1872.\nD   3744.\nE 7488",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -19230,7 +19230,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 26,
@@ -19248,7 +19248,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218617"
+      "criado_em": "2026-08-25T14:35:20.232225"
     },
     {
       "id_questao": "q27",
@@ -19261,19 +19261,19 @@
         {
           "pagina": 16,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q27.png",
+      "caminho_png": "/questoes/2011_CCP/q27.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q27.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q27.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n1\nQUESTÃO 27  \nUm dos problemas clássicos da computação científica é a \nmultiplicação de matrizes. Assuma que foram declaradas \ne inicializadas três matrizes quadradas de ponto flutuante, \na, b e c, cujos índices variam entre 0 e n - 1. O seguinte \ntrecho de código pode ser usado para multiplicar matrizes \nde forma sequencial:\n1.  for [i = 0 to n - 1] { \n2.    for [j = 0 to n - 1] { \n3.         c[i, j] = 0.0; \n4.         for [k = 0 to n - 1] \n5.             c[i, j] = c[i, j] + a[i, k] * b[k, j]; \n6.     } \n7.  }\nO objetivo é paralelizar esse código para que o tempo de \nexecução seja reduzido em uma máquina com múltiplos \nprocessadores e memória compartilhada. Suponha que \no comando “co” seja usado para definição de comandos \nconcorrentes, da seguinte forma: “co [i = 0 to n - 1] { x; y; z;}” \ncria n processos concorrentes, cada um executando \nsequencialmente uma instância dos comandos x, y, z \ncontidos no bloco.\nAvalie as seguintes afirmações sobre o problema.\nI. \nEsse problema é exemplo do que se chama \n“embaraçosamente \nparalelo”, \nporque \npode \nser decomposto em um conjunto de várias \noperações menores que podem ser executadas \nindependentemente.\nII. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se o \n“for” na linha 1 por um “co”.\nIII. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se o \n“for” na linha 2 por um “co”.\nIV. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se \nambos “for”, nas linhas 1 e 2, por “co”.\nÉ correto o que se afirma em\nA   I, II e III, apenas.\nB   I, II e IV, apenas.\nC   I, III e IV, apenas.\nD   II, III e IV, apenas.\nE   I, II, III, IV.",
+      "texto_completo": "QUESTÃO 27  \nUm dos problemas clássicos da computação científica é a \nmultiplicação de matrizes. Assuma que foram declaradas \ne inicializadas três matrizes quadradas de ponto flutuante, \na, b e c, cujos índices variam entre 0 e n - 1. O seguinte \ntrecho de código pode ser usado para multiplicar matrizes \nde forma sequencial:\n1.  for [i = 0 to n - 1] { \n2.    for [j = 0 to n - 1] { \n3.         c[i, j] = 0.0; \n4.         for [k = 0 to n - 1] \n5.             c[i, j] = c[i, j] + a[i, k] * b[k, j]; \n6.     } \n7.  }\nO objetivo é paralelizar esse código para que o tempo de \nexecução seja reduzido em uma máquina com múltiplos \nprocessadores e memória compartilhada. Suponha que \no comando “co” seja usado para definição de comandos \nconcorrentes, da seguinte forma: “co [i = 0 to n - 1] { x; y; z;}” \ncria n processos concorrentes, cada um executando \nsequencialmente uma instância dos comandos x, y, z \ncontidos no bloco.\nAvalie as seguintes afirmações sobre o problema.\nI. \nEsse problema é exemplo do que se chama \n“embaraçosamente \nparalelo”, \nporque \npode \nser decomposto em um conjunto de várias \noperações menores que podem ser executadas \nindependentemente.\nII. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se o \n“for” na linha 1 por um “co”.\nIII. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se o \n“for” na linha 2 por um “co”.\nIV. O programa produziria resultados corretos e em \ntempo menor do que o sequencial, trocando-se \nambos “for”, nas linhas 1 e 2, por “co”.\nÉ correto o que se afirma em\nA   I, II e III, apenas.\nB   I, II e IV, apenas.\nC   I, III e IV, apenas.\nD   II, III e IV, apenas.\nE   I, II, III, IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19281,7 +19281,7 @@
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 27,
@@ -19299,7 +19299,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218621"
+      "criado_em": "2026-08-25T14:35:20.232230"
     },
     {
       "id_questao": "q28",
@@ -19312,17 +19312,17 @@
         {
           "pagina": 16,
           "x0": 293.28,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 606.05029296875,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.png",
+      "caminho_png": "/questoes/2011_CCP/q28.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.txt",
       "largura": 1123,
-      "altura": 2323,
+      "altura": 2243,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 28\nAlgoritmos criados para resolver um mesmo problema \npodem diferir de forma drástica quanto a sua eficiência. \nPara evitar este fato, são utilizadas técnicas algorítmicas, \nisto é, conjunto de técnicas que compreendem os métodos \nde codificação de algoritmos de forma a salientar sua \ncomplexidade, levando-se em conta a forma pela qual \ndeterminado algoritmo chega à solução desejada.\nConsiderando os diferentes paradigmas e técnicas de \nprojeto de algoritmos, analise as afirmações abaixo.\nI. \nA técnica de tentativa e erro (backtracking) efetua \numa escolha ótima local, na esperança de obter \numa solução ótima global.\nII. A técnica de divisão e conquista pode ser dividida \nem três etapas: dividir a instância do problema \nem duas ou mais instâncias menores; resolver \nas instâncias menores recursivamente; obter a \nsolução para as instâncias originais (maiores) por \nmeio da combinação dessas soluções.\nIII. A \ntécnica \nde \nprogramação \ndinâmica \ndecompõe o processo em um número finito de \nsubtarefas parciais que devem ser exploradas \nexaustivamente.\nIV. O uso de heurísticas (ou algoritmos aproximados) \né caracterizado pela ação de um procedimento \nchamar a si próprio, direta ou indiretamente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
       "texto_enunciado": "",
@@ -19332,7 +19332,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 28,
@@ -19350,7 +19350,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218625"
+      "criado_em": "2026-08-25T14:35:20.232235"
     },
     {
       "id_questao": "q29",
@@ -19363,17 +19363,17 @@
         {
           "pagina": 17,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 475.78924560546875,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.png",
+      "caminho_png": "/questoes/2011_CCP/q29.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.txt",
       "largura": 1123,
-      "altura": 1783,
+      "altura": 1700,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 29  \nUma antiga empresa de desenvolvimento de software \nresolveu atualizar toda sua infraestrutura computacional \nadquirindo \num \nsistema \noperacional \nmultitarefa, \nprocessadores multi-core (múltiplos núcleos) e o uso de \numa linguagem de programação com suporte a threads.\nO sistema operacional multitarefa de um computador \né capaz de executar vários processos (programas) em \nparalelo. Considerando esses processos implementados \ncom mais de uma thread (multi-threads), analise as \nafirmações abaixo.\nI. \nOs ciclos de vida de processos e threads são idênticos.\nII. Threads de diferentes processos compartilham \nmemória.\nIII. Somente processadores multi-core são capazes \nde executar programas multi-threads.\nIV. Em sistemas operacionais multitarefa, threads \npodem migrar de um processo para outro.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   I e IV.\nE   II e IV.",
       "texto_enunciado": "",
@@ -19383,7 +19383,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 29,
@@ -19401,7 +19401,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218629"
+      "criado_em": "2026-08-25T14:35:20.232240"
     },
     {
       "id_questao": "q30",
@@ -19414,26 +19414,26 @@
         {
           "pagina": 17,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 332.06396484375,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q30.png",
+      "caminho_png": "/questoes/2011_CCP/q30.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q30.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q30.txt",
       "largura": 1123,
-      "altura": 1179,
+      "altura": 1101,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 30  \nSuponha que se queira pesquisar a chave 287 em uma \nárvore binária de pesquisa com chaves entre 1 e 1 000. \nDurante uma pesquisa como essa, uma sequência de \nchaves é examinada. Cada sequência abaixo é uma \nsuposta sequência de chaves examinadas em uma busca \nda chave 287.\nI. \n7, 342, 199, 201, 310, 258, 287\nII. 110, 132, 133, 156, 289, 288, 287\nIII. 252, 266, 271, 294, 295, 289, 287\nIV. 715, 112, 530, 249, 406, 234, 287\nÉ válido apenas o que se apresenta em\nA   I.\nB   III.\nC   I e II.\nD   II e IV.\nE   III e IV.",
+      "texto_completo": "QUESTÃO 30  \nSuponha que se queira pesquisar a chave 287 em uma \nárvore binária de pesquisa com chaves entre 1 e 1 000. \nDurante uma pesquisa como essa, uma sequência de \nchaves é examinada. Cada sequência abaixo é uma \nsuposta sequência de chaves examinadas em uma busca \nda chave 287.\nI. \n7, 342, 199, 201, 310, 258, 287\nII. 110, 132, 133, 156, 289, 288, 287\nIII. 252, 266, 271, 294, 295, 289, 287\nIV. 715, 112, 530, 249, 406, 234, 287\nÉ válido apenas o que se apresenta em\nA   I.\nB   III.\nC   I e II.\nD   II e IV.\nE   III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 30,
@@ -19451,7 +19451,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218633"
+      "criado_em": "2026-08-25T14:35:20.232244"
     },
     {
       "id_questao": "qd03",
@@ -19464,19 +19464,19 @@
         {
           "pagina": 18,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 281.51458740234375,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.png",
+      "caminho_png": "/questoes/2011_CCP/qd03.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd03.txt",
       "largura": 2241,
-      "altura": 969,
+      "altura": 891,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 3 \n \nOs números de Fibonacci correspondem à uma sequência infi nita na \nqual os dois primeiros termos são 0 e 1. Cada termo da sequência, \nà exceção dos dois primeiros, é igual à soma dos dois anteriores, \nconforme a relação de recorrência abaixo.\nDesenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n > 0, retorna o n-ésimo termo \nda sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)",
+      "texto_completo": "QUESTÃO DISCURSIVA 3 \n \nOs números de Fibonacci correspondem à uma sequência infi nita na \nqual os dois primeiros termos são 0 e 1. Cada termo da sequência, \nà exceção dos dois primeiros, é igual à soma dos dois anteriores, \nconforme a relação de recorrência abaixo.\nDesenvolva dois algoritmos, um iterativo e outro recursivo, que, dado um número natural n > 0, retorna o n-ésimo termo \nda sequência de Fibonacci. Apresente as vantagens e desvantagens de cada algoritmo. (valor: 10,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -19485,7 +19485,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 3,
@@ -19503,7 +19503,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218637"
+      "criado_em": "2026-08-25T14:35:20.232249"
     },
     {
       "id_questao": "qd04",
@@ -19516,19 +19516,19 @@
         {
           "pagina": 19,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 434.2294921875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.png",
+      "caminho_png": "/questoes/2011_CCP/qd04.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd04.txt",
       "largura": 2241,
-      "altura": 1605,
+      "altura": 1527,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 4\nListas ordenadas implementadas com vetores são estruturas \nde dados adequadas para a busca binária, mas possuem o \ninconveniente de exigirem custo computacional de ordem linear \npara a inserção de novos elementos. Se as operações de inserção \nou remoção de elementos forem frequentes, uma alternativa é \ntransformar a lista em uma árvore binária de pesquisa balanceada, \nque permitirá a execução dessas operações com custo logarítmico.\nConsiderando essas informações, escreva um algoritmo recursivo que construa uma árvore binária de pesquisa \ncompleta, implementada por estruturas auto-referenciadas ou apontadores, a partir de um vetor ordenado, v, de n \ninteiros, em que n = 2m - 1, m > 0. O algoritmo deve construir a árvore em tempo linear, sem precisar fazer qualquer \ncomparação entre os elementos do vetor, uma vez que este já está ordenado. Para isso,\na) descreva a estrutura de dados utilizada para a implementação da árvore (valor = 2,0 pontos)\nb) escreva o algoritmo para a construção da árvore. A chamada principal à função recursiva deve passar, como \nparâmetros, o vetor, índice do primeiro e último elementos, retornando a referência ou apontador para a raiz da \nárvore criada (valor: 8,0 pontos).\nObservação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser \nconsiderada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.",
+      "texto_completo": "QUESTÃO DISCURSIVA 4\nListas ordenadas implementadas com vetores são estruturas \nde dados adequadas para a busca binária, mas possuem o \ninconveniente de exigirem custo computacional de ordem linear \npara a inserção de novos elementos. Se as operações de inserção \nou remoção de elementos forem frequentes, uma alternativa é \ntransformar a lista em uma árvore binária de pesquisa balanceada, \nque permitirá a execução dessas operações com custo logarítmico.\nConsiderando essas informações, escreva um algoritmo recursivo que construa uma árvore binária de pesquisa \ncompleta, implementada por estruturas auto-referenciadas ou apontadores, a partir de um vetor ordenado, v, de n \ninteiros, em que n = 2m - 1, m > 0. O algoritmo deve construir a árvore em tempo linear, sem precisar fazer qualquer \ncomparação entre os elementos do vetor, uma vez que este já está ordenado. Para isso,\na) descreva a estrutura de dados utilizada para a implementação da árvore (valor = 2,0 pontos)\nb) escreva o algoritmo para a construção da árvore. A chamada principal à função recursiva deve passar, como \nparâmetros, o vetor, índice do primeiro e último elementos, retornando a referência ou apontador para a raiz da \nárvore criada (valor: 8,0 pontos).\nObservação: Qualquer notação em português estruturado, de forma imperativa ou orientada a objetos deve ser \nconsiderada, assim como em uma linguagem de alto nível, como o Pascal, C e Java.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19537,7 +19537,7 @@
         "Algoritmos e Estruturas de Dados",
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 4,
@@ -19555,7 +19555,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218641"
+      "criado_em": "2026-08-25T14:35:20.232254"
     },
     {
       "id_questao": "qd05",
@@ -19569,7 +19569,7 @@
         {
           "pagina": 20,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 433.0987854003906,
           "coluna": 0
@@ -19577,19 +19577,19 @@
         {
           "pagina": 21,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 340.6620788574219,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.png",
+      "caminho_png": "/questoes/2011_CCP/qd05.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/qd05.txt",
       "largura": 2241,
-      "altura": 2805,
+      "altura": 2644,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO DISCURSIVA 5 \n \nAs memórias cache são usadas para diminuir o tempo de acesso à memória principal, \nmantendo cópias de seus dados. Uma função de mapeamento é usada para determinar \nem que parte da memória cache um dado da memória principal será mapeado. Em certos \ncasos, é necessário usar um algoritmo de substituição para determinar qual parte da cache \nserá substituída.\nSuponha uma arquitetura hipotética com as seguintes características:\n• \nA memória principal possui 4 Gbytes, em que cada byte é diretamente endereçável \ncom um endereço 32 bits.\n• \nA memória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.\n• \nOs dados são transferidos entre as duas memórias em blocos de 4 bytes.\nConsiderando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um \ntexto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das \npalavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens \ne desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada \numa delas. (valor: 10,0 pontos)\n\nEXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nATENÇÃO!\n1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente \nEspecífico dos cursos da área de Computação, assim distribuídas: \n2 - Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito, \nconforme consta no Caderno de Respostas.\n3 - Observe atentamente os números das questões de múltipla escolha correspondentes ao curso \nno qual você está inscrito para assinalar corretamente no Caderno de Respostas. \nPrezado(a) estudante,\nCursos\nNúmero das questões\nLicenciatura\n31 a 35\nCiência da Computação \n36 a 40\nEngenharia de Computação\n41 a 45\nSistemas de Informação\n46 a 50",
+      "texto_completo": "QUESTÃO DISCURSIVA 5 \n \nAs memórias cache são usadas para diminuir o tempo de acesso à memória principal, \nmantendo cópias de seus dados. Uma função de mapeamento é usada para determinar \nem que parte da memória cache um dado da memória principal será mapeado. Em certos \ncasos, é necessário usar um algoritmo de substituição para determinar qual parte da cache \nserá substituída.\nSuponha uma arquitetura hipotética com as seguintes características:\n• \nA memória principal possui 4 Gbytes, em que cada byte é diretamente endereçável \ncom um endereço 32 bits.\n• \nA memória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.\n• \nOs dados são transferidos entre as duas memórias em blocos de 4 bytes.\nConsiderando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um \ntexto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das \npalavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens \ne desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada \numa delas. (valor: 10,0 pontos)\n\nATENÇÃO!\n1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente \nEspecífico dos cursos da área de Computação, assim distribuídas: \n2 - Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito, \nconforme consta no Caderno de Respostas.\n3 - Observe atentamente os números das questões de múltipla escolha correspondentes ao curso \nno qual você está inscrito para assinalar corretamente no Caderno de Respostas. \nPrezado(a) estudante,\nCursos\nNúmero das questões\nLicenciatura\n31 a 35\nCiência da Computação \n36 a 40\nEngenharia de Computação\n41 a 45\nSistemas de Informação\n46 a 50",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19597,7 +19597,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 5,
@@ -19615,7 +19615,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218646"
+      "criado_em": "2026-08-25T14:35:20.232260"
     },
     {
       "id_questao": "q31",
@@ -19634,7 +19634,7 @@
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q31.png",
+      "caminho_png": "/questoes/2011_CCP/q31.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q31.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q31.txt",
       "largura": 2241,
@@ -19647,7 +19647,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 31,
@@ -19665,7 +19665,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218650"
+      "criado_em": "2026-08-25T14:35:20.232265"
     },
     {
       "id_questao": "q32",
@@ -19680,17 +19680,17 @@
           "x0": 25.0,
           "y0": 336.6620788574219,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q32.png",
+      "caminho_png": "/questoes/2011_CCP/q32.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q32.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q32.txt",
       "largura": 2241,
-      "altura": 1687,
+      "altura": 1625,
       "confianca": 0.98,
-      "texto_completo": "21\nQUESTÃO 31  \nNa Sociologia da Educação, o currículo é considerado \num mecanismo por meio do qual a escola define o \nplano educativo para a consecução do projeto global \nde educação de uma sociedade, realizando, assim, sua \nfunção social. Considerando o currículo na perspectiva \ncrítica da Educação, avalie as afirmações a seguir.\nI. \nO currículo é um fenômeno escolar que se \ndesdobra em uma prática pedagógica expressa \npor determinações do contexto da escola.\nII. O currículo reflete uma proposta educacional que \ninclui o estabelecimento da relação entre o ensino \ne a pesquisa, na perspectiva do desenvolvimento \nprofissional docente.\nIII. O currículo é uma realidade objetiva que inviabiliza \nintervenções, uma vez que o conteúdo é condição \nlógica do ensino.\nIV. O currículo é a expressão da harmonia de valores \ndominantes inerentes ao processo educativo.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE   III e IV. \nQUESTÃO 32  \nO fazer docente pressupõe a realização de um \nconjunto de operações didáticas coordenadas entre si. São \no planejamento, a direção do ensino e da aprendizagem e \na avaliação, cada uma delas desdobradas em tarefas ou \nfunções didáticas, mas que convergem para a realização \ndo ensino propriamente dito.\nLIBÂNEO, J. C. Didática. São Paulo: Cortez, 2004, p. 72.\nConsiderando que, para desenvolver cada operação \ndidática inerente ao ato de planejar, executar e avaliar, \no professor precisa dominar certos conhecimentos \ndidáticos, avalie quais afirmações abaixo se referem a \nconhecimentos e domínios esperados do professor.\nI. \nConhecimento dos conteúdos da disciplina que \nleciona, bem como capacidade de abordá-los de \nmodo contextualizado.\nII. Domínio das técnicas de elaboração de provas \nobjetivas, por se configurarem instrumentos \nquantitativos precisos e fidedignos.\nIII. Domínio de diferentes métodos e procedimentos \nde ensino e capacidade de escolhê-los conforme \na natureza dos temas a serem tratados e as \ncaracterísticas dos estudantes.\nIV. Domínio do conteúdo do livro didático adotado, \nque deve conter todos os conteúdos a serem \ntrabalhados durante o ano letivo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e III.\nC   II e III.\nD   II e IV.\nE   III e IV.",
+      "texto_completo": "QUESTÃO 31  \nNa Sociologia da Educação, o currículo é considerado \num mecanismo por meio do qual a escola define o \nplano educativo para a consecução do projeto global \nde educação de uma sociedade, realizando, assim, sua \nfunção social. Considerando o currículo na perspectiva \ncrítica da Educação, avalie as afirmações a seguir.\nI. \nO currículo é um fenômeno escolar que se \ndesdobra em uma prática pedagógica expressa \npor determinações do contexto da escola.\nII. O currículo reflete uma proposta educacional que \ninclui o estabelecimento da relação entre o ensino \ne a pesquisa, na perspectiva do desenvolvimento \nprofissional docente.\nIII. O currículo é uma realidade objetiva que inviabiliza \nintervenções, uma vez que o conteúdo é condição \nlógica do ensino.\nIV. O currículo é a expressão da harmonia de valores \ndominantes inerentes ao processo educativo.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE III e IV\nQUESTÃO 32  \nO fazer docente pressupõe a realização de um \nconjunto de operações didáticas coordenadas entre si. São \no planejamento, a direção do ensino e da aprendizagem e \na avaliação, cada uma delas desdobradas em tarefas ou \nfunções didáticas, mas que convergem para a realização \ndo ensino propriamente dito.\nLIBÂNEO, J. C. Didática. São Paulo: Cortez, 2004, p. 72.\nConsiderando que, para desenvolver cada operação \ndidática inerente ao ato de planejar, executar e avaliar, \no professor precisa dominar certos conhecimentos \ndidáticos, avalie quais afirmações abaixo se referem a \nconhecimentos e domínios esperados do professor.\nI. \nConhecimento dos conteúdos da disciplina que \nleciona, bem como capacidade de abordá-los de \nmodo contextualizado.\nII. Domínio das técnicas de elaboração de provas \nobjetivas, por se configurarem instrumentos \nquantitativos precisos e fidedignos.\nIII. Domínio de diferentes métodos e procedimentos \nde ensino e capacidade de escolhê-los conforme \na natureza dos temas a serem tratados e as \ncaracterísticas dos estudantes.\nIV. Domínio do conteúdo do livro didático adotado, \nque deve conter todos os conteúdos a serem \ntrabalhados durante o ano letivo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e III.\nC   II e III.\nD   II e IV.\nE III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19698,7 +19698,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 32,
@@ -19716,7 +19716,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218654"
+      "criado_em": "2026-08-25T14:35:20.232270"
     },
     {
       "id_questao": "q33",
@@ -19729,19 +19729,19 @@
         {
           "pagina": 22,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q33.png",
+      "caminho_png": "/questoes/2011_CCP/q33.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q33.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q33.txt",
       "largura": 2241,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n22\nQUESTÃO 33  \nFigura. Brasil: Pirâmide Etária Absoluta (2010-2040)\nDisponível em: <www.ibge.gov.br/home/estatistica/populacao/projecao_da_populacao/piramide/piramide.shtm>. Acesso em: 23 ago. 2011. \nCom base na projeção da população brasileira para o período 2010-2040 apresentada nos gráficos, avalie as \nseguintes asserções.\nConstata-se a necessidade de construção, em larga escala, em nível nacional, de escolas \nespecializadas na Educação de Jovens e Adultos, ao longo dos próximos 30 anos.\nPORQUE\nHaverá, nos próximos 30 anos, aumento populacional na faixa etária de 20 a 60 anos e \ndecréscimo da população com idade entre 0 e 20 anos.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são proposições falsas.",
+      "texto_completo": "QUESTÃO 33  \nFigura. Brasil: Pirâmide Etária Absoluta (2010-2040)\nDisponível em: <www.ibge.gov.br/home/estatistica/populacao/projecao_da_populacao/piramide/piramide.shtm>. Acesso em: 23 ago. 2011. \nCom base na projeção da população brasileira para o período 2010-2040 apresentada nos gráficos, avalie as \nseguintes asserções.\nConstata-se a necessidade de construção, em larga escala, em nível nacional, de escolas \nespecializadas na Educação de Jovens e Adultos, ao longo dos próximos 30 anos.\nPORQUE\nHaverá, nos próximos 30 anos, aumento populacional na faixa etária de 20 a 60 anos e \ndecréscimo da população com idade entre 0 e 20 anos.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a segunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a segunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são proposições falsas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -19750,7 +19750,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 33,
@@ -19768,7 +19768,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218658"
+      "criado_em": "2026-08-25T14:35:20.232275"
     },
     {
       "id_questao": "q34",
@@ -19781,19 +19781,19 @@
         {
           "pagina": 23,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 273.4037170410156,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.png",
+      "caminho_png": "/questoes/2011_CCP/q34.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.txt",
       "largura": 2241,
-      "altura": 935,
+      "altura": 857,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 34  \nNa escola em que João é professor, existe um laboratório de informática, que é utilizado para os estudantes trabalharem \nconteúdos em diferentes disciplinas. Considere que João quer utilizar o laboratório para favorecer o processo ensino-\naprendizagem, fazendo uso da abordagem da Pedagogia de Projetos. Nesse caso, seu planejamento deve \nA   ter como eixo temático uma problemática significativa para os estudantes, considerando as possibilidades \ntecnológicas existentes no laboratório.\nB   relacionar os conteúdos previamente instituídos no início do período letivo e os que estão no banco de dados \ndisponível nos computadores do laboratório de informática.\nC   definir os conteúdos a serem trabalhados, utilizando a relação dos temas instituídos no Projeto Pedagógico da \nescola e o banco de dados disponível nos computadores do laboratório.\nD   listar os conteúdos que deverão ser ministrados durante o semestre, considerando a sequência apresentada no \nlivro didático e os programas disponíveis nos computadores do laboratório.\nE   propor o estudo dos projetos que foram desenvolvidos pelo governo quanto ao uso de laboratórios de informática, \nrelacionando o que consta no livro didático com as tecnologias existentes no laboratório.",
+      "texto_completo": "QUESTÃO 34  \nNa escola em que João é professor, existe um laboratório de informática, que é utilizado para os estudantes trabalharem \nconteúdos em diferentes disciplinas. Considere que João quer utilizar o laboratório para favorecer o processo ensino-\naprendizagem, fazendo uso da abordagem da Pedagogia de Projetos. Nesse caso, seu planejamento deve \nA   ter como eixo temático uma problemática significativa para os estudantes, considerando as possibilidades \ntecnológicas existentes no laboratório.\nB   relacionar os conteúdos previamente instituídos no início do período letivo e os que estão no banco de dados \ndisponível nos computadores do laboratório de informática.\nC   definir os conteúdos a serem trabalhados, utilizando a relação dos temas instituídos no Projeto Pedagógico da \nescola e o banco de dados disponível nos computadores do laboratório.\nD   listar os conteúdos que deverão ser ministrados durante o semestre, considerando a sequência apresentada no \nlivro didático e os programas disponíveis nos computadores do laboratório.\nE   propor o estudo dos projetos que foram desenvolvidos pelo governo quanto ao uso de laboratórios de informática, \nrelacionando o que consta no livro didático com as tecnologias existentes no laboratório.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19801,7 +19801,7 @@
         "Banco de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 34,
@@ -19819,7 +19819,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218662"
+      "criado_em": "2026-08-25T14:35:20.232279"
     },
     {
       "id_questao": "q35",
@@ -19834,17 +19834,17 @@
           "x0": 25.0,
           "y0": 269.4037170410156,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q35.png",
+      "caminho_png": "/questoes/2011_CCP/q35.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q35.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q35.txt",
       "largura": 2241,
-      "altura": 1967,
+      "altura": 1905,
       "confianca": 0.98,
-      "texto_completo": "23\nq\ng\nQUESTÃO 35  \nQUINO. Toda a Mafalda. Trad. Andréa Stahel M. da Silva et al. São Paulo: Martins Fontes, 1993, p. 71.\nMuitas vezes, os próprios educadores, por incrível que pareça, também vítimas de uma formação alienante, não \nsabem o porquê daquilo que dão, não sabem o significado daquilo que ensinam e quando interrogados dão respostas \nevasivas: “é pré-requisito para as séries seguintes”, “cai no vestibular”, “hoje você não entende, mas daqui a dez anos \nvai entender”. Muitos alunos acabam acreditando que aquilo que se aprende na escola não é para entender mesmo, \nque só entenderão quando forem adultos, ou seja, acabam se conformando com o ensino desprovido de sentido. \nVASCONCELLOS, C. S. Construção do conhecimento em sala de aula. 13ª ed. São Paulo: Libertad, 2002, p. 27-8. \nCorrelacionando a tirinha de Mafalda e o texto de Vasconcellos, avalie as afirmações a seguir.\nI. \nO processo de conhecimento deve ser refletido e encaminhado a partir da perspectiva de uma prática social.\nII. Saber qual conhecimento deve ser ensinado nas escolas continua sendo uma questão nuclear para o processo \npedagógico. \nIII. O processo de conhecimento deve possibilitar compreender, usufruir e transformar a realidade.\nIV. A escola deve ensinar os conteúdos previstos na matriz curricular, mesmo que sejam desprovidos de significado \ne sentido para professores e alunos.\nV. Os projetos curriculares devem desconsiderar a influência do currículo oculto que ocorre na escola com caráter \ninformal e sem planejamento.\nÉ correto apenas o que se afirma em\nA   I e III. \n \nB   I e IV. \n \nC   II e IV. \n \nD   I, II e III. \n \nE   II, III e IV.",
+      "texto_completo": "q\ng\nQUESTÃO 35  \nQUINO. Toda a Mafalda. Trad. Andréa Stahel M. da Silva et al. São Paulo: Martins Fontes, 1993, p. 71.\nMuitas vezes, os próprios educadores, por incrível que pareça, também vítimas de uma formação alienante, não \nsabem o porquê daquilo que dão, não sabem o significado daquilo que ensinam e quando interrogados dão respostas \nevasivas: “é pré-requisito para as séries seguintes”, “cai no vestibular”, “hoje você não entende, mas daqui a dez anos \nvai entender”. Muitos alunos acabam acreditando que aquilo que se aprende na escola não é para entender mesmo, \nque só entenderão quando forem adultos, ou seja, acabam se conformando com o ensino desprovido de sentido. \nVASCONCELLOS, C. S. Construção do conhecimento em sala de aula. 13ª ed. São Paulo: Libertad, 2002, p. 27-8. \nCorrelacionando a tirinha de Mafalda e o texto de Vasconcellos, avalie as afirmações a seguir.\nI. \nO processo de conhecimento deve ser refletido e encaminhado a partir da perspectiva de uma prática social.\nII. Saber qual conhecimento deve ser ensinado nas escolas continua sendo uma questão nuclear para o processo \npedagógico. \nIII. O processo de conhecimento deve possibilitar compreender, usufruir e transformar a realidade.\nIV. A escola deve ensinar os conteúdos previstos na matriz curricular, mesmo que sejam desprovidos de significado \ne sentido para professores e alunos.\nV. Os projetos curriculares devem desconsiderar a influência do currículo oculto que ocorre na escola com caráter \ninformal e sem planejamento.\nÉ correto apenas o que se afirma em\nA I e III.\nB I e IV.\nC II e IV.\nD I, II e III.\nE II, III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -19856,7 +19856,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 35,
@@ -19874,7 +19874,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218665"
+      "criado_em": "2026-08-25T14:35:20.232284"
     },
     {
       "id_questao": "q36",
@@ -19887,19 +19887,19 @@
         {
           "pagina": 24,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.png",
+      "caminho_png": "/questoes/2011_CCP/q36.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n2\nQUESTÃO 36  \nO problema P versus NP é um problema ainda não \nresolvido e um dos mais estudados em Computação. \nEm linhas gerais, deseja-se saber se todo problema \ncuja solução pode ser eficientemente verificada por um \ncomputador, também pode ser eficientemente obtida \npor um computador. Por “eficientemente” ou “eficiente” \nsignifica “em tempo polinomial”.\nA classe dos problemas cujas soluções podem ser \neficientemente obtidas por um computador é chamada de \nclasse P. Os algoritmos que solucionam os problemas \ndessa classe têm complexidade de pior caso polinomial \nno tamanho das suas entradas.\nPara alguns problemas computacionais, não se conhece \nsolução eficiente, isto é, não se conhece algoritmo eficiente \npara resolvê-los. No entanto, se para uma dada solução \nde um problema é possível verificá-la eficientemente, \nentão o problema é dito estar em NP. Dessa forma, a \nclasse de problemas para os quais suas soluções podem \nser eficientemente verificadas é chamada de classe NP.\nUm problema é dito ser NP-completo se pertence à \nclasse NP e, além disso, se qualquer outro problema na \nclasse NP pode ser eficientemente transformado nesse \nproblema. Essa transformação eficiente envolve as \nentradas e saídas dos problemas.\nConsiderando as noções de complexidade computacional \napresentadas acima, analise as afirmações que se seguem.\nI. \nExistem problemas na classe P que não estão na \nclasse NP.\nII. Se o problema A pode ser eficientemente \ntransformado no problema B e B está na classe P, \nentão A está na classe P.\nIII. Se P = NP, então um problema NP-completo pode \nser solucionado eficientemente.\nIV. Se P é diferente de NP, então existem problemas \nna classe P que são NP-completos.\nÉ correto apenas o que se afirma em\nA   I.\nB   IV.\nC   I e III.\nD   II e III.\nE   II e IV.",
+      "texto_completo": "QUESTÃO 36  \nO problema P versus NP é um problema ainda não \nresolvido e um dos mais estudados em Computação. \nEm linhas gerais, deseja-se saber se todo problema \ncuja solução pode ser eficientemente verificada por um \ncomputador, também pode ser eficientemente obtida \npor um computador. Por “eficientemente” ou “eficiente” \nsignifica “em tempo polinomial”.\nA classe dos problemas cujas soluções podem ser \neficientemente obtidas por um computador é chamada de \nclasse P. Os algoritmos que solucionam os problemas \ndessa classe têm complexidade de pior caso polinomial \nno tamanho das suas entradas.\nPara alguns problemas computacionais, não se conhece \nsolução eficiente, isto é, não se conhece algoritmo eficiente \npara resolvê-los. No entanto, se para uma dada solução \nde um problema é possível verificá-la eficientemente, \nentão o problema é dito estar em NP. Dessa forma, a \nclasse de problemas para os quais suas soluções podem \nser eficientemente verificadas é chamada de classe NP.\nUm problema é dito ser NP-completo se pertence à \nclasse NP e, além disso, se qualquer outro problema na \nclasse NP pode ser eficientemente transformado nesse \nproblema. Essa transformação eficiente envolve as \nentradas e saídas dos problemas.\nConsiderando as noções de complexidade computacional \napresentadas acima, analise as afirmações que se seguem.\nI. \nExistem problemas na classe P que não estão na \nclasse NP.\nII. Se o problema A pode ser eficientemente \ntransformado no problema B e B está na classe P, \nentão A está na classe P.\nIII. Se P = NP, então um problema NP-completo pode \nser solucionado eficientemente.\nIV. Se P é diferente de NP, então existem problemas \nna classe P que são NP-completos.\nÉ correto apenas o que se afirma em\nA   I.\nB   IV.\nC   I e III.\nD   II e III.\nE II e IV",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19907,7 +19907,7 @@
         "Algoritmos e Estruturas de Dados",
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 36,
@@ -19925,7 +19925,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218669"
+      "criado_em": "2026-08-25T14:35:20.232289"
     },
     {
       "id_questao": "q37",
@@ -19938,19 +19938,19 @@
         {
           "pagina": 24,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q37.png",
+      "caminho_png": "/questoes/2011_CCP/q37.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q37.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q37.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "4\nQUESTÃO 37  \nEscopo dinâmico: para as linguagens com escopo \ndinâmico, a vinculação das variáveis ao escopo é realizada \nem tempo de execução. (...) Se uma variável é local ao \nbloco, então o uso da dada variável no bloco será sempre \nvinculado àquela local. Contudo, se a variável for não-\nlocal, a sua vinculação depende da ordem de execução, \na última vinculada na execução. A consequência disso é \nque, em um mesmo bloco de comandos, um identificador \npode ter significados diferentes, e o programador precisa \nter a ideia precisa de qual variável está sendo usada.\nde MELO, A. C. V.; da SILVA, F. S. C. Princípios de Linguagens de \nProgramação. São Paulo: Edgard Blücher, 2003. p.65.\nSuponha que uma linguagem de programação tenha sido \nprojetada com vinculação e verificação estáticas para tipos \nde variáveis, além de passagem de parâmetros por valor. \nTambém é exigido pela especificação da linguagem que \nprogramas sejam compilados integralmente e que não é \npermitido compilar bibliotecas separadamente. Durante \numa revisão da especificação da linguagem, alguém \npropôs que seja adicionado um mecanismo para suporte \na variáveis com escopo dinâmico.\nA respeito da proposta de modificação da linguagem, \nanalise as seguintes afirmações.\nI. \nAs variáveis com escopo dinâmico podem ser \ntratadas como se fossem parâmetros para \nos subprogramas que as utilizam, sem que o \nprogramador tenha que especificá-las ou declarar \nseu tipo (o compilador fará isso). Assim, elimina-\nse a necessidade de polimorfismo e é possível \nverificar tipos em tempo de compilação.\nII. Como diferentes subprogramas podem declarar \nvariáveis com o mesmo nome mas com tipos \ndiferentes, se as variáveis com escopo dinâmico \nnão forem declaradas no escopo onde são \nreferenciadas, será necessário que a linguagem \nsuporte polimorfismo de tipos.\nIII. Se as variáveis dinâmicas forem declaradas \ntanto nos escopos onde são criadas como \nnos subprogramas em que são referenciadas, \nmarcadas como tendo escopo dinâmico, será \npossível identificar todos os erros de tipo em \ntempo de compilação.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e III.\nE   I, II e III.",
+      "texto_completo": "QUESTÃO 37  \nEscopo dinâmico: para as linguagens com escopo \ndinâmico, a vinculação das variáveis ao escopo é realizada \nem tempo de execução. (...) Se uma variável é local ao \nbloco, então o uso da dada variável no bloco será sempre \nvinculado àquela local. Contudo, se a variável for não-\nlocal, a sua vinculação depende da ordem de execução, \na última vinculada na execução. A consequência disso é \nque, em um mesmo bloco de comandos, um identificador \npode ter significados diferentes, e o programador precisa \nter a ideia precisa de qual variável está sendo usada.\nde MELO, A. C. V.; da SILVA, F. S. C. Princípios de Linguagens de \nProgramação. São Paulo: Edgard Blücher, 2003. p.65.\nSuponha que uma linguagem de programação tenha sido \nprojetada com vinculação e verificação estáticas para tipos \nde variáveis, além de passagem de parâmetros por valor. \nTambém é exigido pela especificação da linguagem que \nprogramas sejam compilados integralmente e que não é \npermitido compilar bibliotecas separadamente. Durante \numa revisão da especificação da linguagem, alguém \npropôs que seja adicionado um mecanismo para suporte \na variáveis com escopo dinâmico.\nA respeito da proposta de modificação da linguagem, \nanalise as seguintes afirmações.\nI. \nAs variáveis com escopo dinâmico podem ser \ntratadas como se fossem parâmetros para \nos subprogramas que as utilizam, sem que o \nprogramador tenha que especificá-las ou declarar \nseu tipo (o compilador fará isso). Assim, elimina-\nse a necessidade de polimorfismo e é possível \nverificar tipos em tempo de compilação.\nII. Como diferentes subprogramas podem declarar \nvariáveis com o mesmo nome mas com tipos \ndiferentes, se as variáveis com escopo dinâmico \nnão forem declaradas no escopo onde são \nreferenciadas, será necessário que a linguagem \nsuporte polimorfismo de tipos.\nIII. Se as variáveis dinâmicas forem declaradas \ntanto nos escopos onde são criadas como \nnos subprogramas em que são referenciadas, \nmarcadas como tendo escopo dinâmico, será \npossível identificar todos os erros de tipo em \ntempo de compilação.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e III.\nE I II e III",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -19958,7 +19958,7 @@
         "Programação e POO",
         "Teoria da Computação e Compiladores"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 37,
@@ -19976,7 +19976,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218673"
+      "criado_em": "2026-08-25T14:35:20.232293"
     },
     {
       "id_questao": "q38",
@@ -19989,19 +19989,19 @@
         {
           "pagina": 25,
           "x0": 25.0,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q38.png",
+      "caminho_png": "/questoes/2011_CCP/q38.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q38.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q38.txt",
       "largura": 1123,
-      "altura": 2857,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "2\nQUESTÃO 38  \nÉ comum que linguagens de programação permitam \na descrição textual de constantes em hexadecimal, \nalém de descrições na base dez. O compilador para \numa linguagem que suporte constantes inteiras em \nhexadecimal precisa diferenciar inteiros em base dez dos \nnúmeros hexadecimais que não usam os dígitos de \na \n. Por exemplo, a sequência de caracteres\ng\npode ser \ninterpretada como doze em base dez ou como dezoito em \nhexadecimal. Uma maneira de resolver esse problema \né exigindo que as constantes em hexadecimal terminem \ncom o caracter “\n”. Assim, não há ambiguidade, por \nexemplo, no tratamento das sequências\n e \ng\n.\nA gramática a seguir descreve números inteiros, \npossivelmente com o símbolo “\n” após os dígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nd representa um dígito.\nM → E\nM → N\nE → N\nN → Nd\nN → d\nDurante a construção de um autômato LR para essa \ngramática, os seguintes estados são defi nidos:\ne0:\nM´ → ·M\nM → ·E\nM → ·N\nE → ·N\nN → ·Nd\nN → ·d\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · d\nA respeito dessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática descrita é do tipo LR(0).\nPORQUE\nÉ possível construir um autômato LR(0), determinístico, \ncujos estados incluem \ne \nacima descritos.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+      "texto_completo": "QUESTÃO 38  \nÉ comum que linguagens de programação permitam \na descrição textual de constantes em hexadecimal, \nalém de descrições na base dez. O compilador para \numa linguagem que suporte constantes inteiras em \nhexadecimal precisa diferenciar inteiros em base dez dos \nnúmeros hexadecimais que não usam os dígitos de \na \n. Por exemplo, a sequência de caracteres\ng\npode ser \ninterpretada como doze em base dez ou como dezoito em \nhexadecimal. Uma maneira de resolver esse problema \né exigindo que as constantes em hexadecimal terminem \ncom o caracter “\n”. Assim, não há ambiguidade, por \nexemplo, no tratamento das sequências\n e \ng\n.\nA gramática a seguir descreve números inteiros, \npossivelmente com o símbolo “\n” após os dígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nd representa um dígito.\nM → E\nM → N\nE → N\nN → Nd\nN → d\nDurante a construção de um autômato LR para essa \ngramática, os seguintes estados são defi nidos:\ne0:\nM´ → ·M\nM → ·E\nM → ·N\nE → ·N\nN → ·Nd\nN → ·d\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · d\nA respeito dessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática descrita é do tipo LR(0).\nPORQUE\nÉ possível construir um autômato LR(0), determinístico, \ncujos estados incluem \ne \nacima descritos.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20048,7 +20048,7 @@
       "categorias": [
         "Teoria da Computação e Compiladores"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 38,
@@ -20066,7 +20066,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218677"
+      "criado_em": "2026-08-25T14:35:20.232298"
     },
     {
       "id_questao": "q39",
@@ -20079,26 +20079,26 @@
         {
           "pagina": 25,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 334.573974609375,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q39.png",
+      "caminho_png": "/questoes/2011_CCP/q39.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q39.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q39.txt",
       "largura": 1123,
-      "altura": 1190,
+      "altura": 1112,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 39  \nO conceito de Tipo de Dados Abstrato (TDA) é popular em \nlinguagens de programação. Nesse contexto, analise as \nafi rmativas a seguir.\nI. \nA especifi cação de um TDA é composta das \noperações aplicáveis a ele, da sua representação \ninterna, e das implementações das operações.\nII. Dois mecanismos utilizáveis na implementação de \num TDA em programas orientados a objetos são a \ncomposição e a herança.\nIII. Se S é um subtipo de outro T, então entidades do \ntipo S em um programa podem ser substituídas \npor entidades do tipo T, sem alterar a corretude \ndesse programa.\nIV. O encapsulamento em linguagens de programação \norientadas a objetos é um efeito positivo do uso \nde TDA.\nÉ correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
+      "texto_completo": "QUESTÃO 39  \nO conceito de Tipo de Dados Abstrato (TDA) é popular em \nlinguagens de programação. Nesse contexto, analise as \nafi rmativas a seguir.\nI. \nA especifi cação de um TDA é composta das \noperações aplicáveis a ele, da sua representação \ninterna, e das implementações das operações.\nII. Dois mecanismos utilizáveis na implementação de \num TDA em programas orientados a objetos são a \ncomposição e a herança.\nIII. Se S é um subtipo de outro T, então entidades do \ntipo S em um programa podem ser substituídas \npor entidades do tipo T, sem alterar a corretude \ndesse programa.\nIV. O encapsulamento em linguagens de programação \norientadas a objetos é um efeito positivo do uso \nde TDA.\nÉ correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 39,
@@ -20116,7 +20116,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218681"
+      "criado_em": "2026-08-25T14:35:20.232303"
     },
     {
       "id_questao": "q40",
@@ -20131,17 +20131,17 @@
           "x0": 293.28,
           "y0": 330.573974609375,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q40.png",
+      "caminho_png": "/questoes/2011_CCP/q40.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q40.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q40.txt",
       "largura": 1123,
-      "altura": 1712,
+      "altura": 1650,
       "confianca": 0.98,
-      "texto_completo": "5\nQUESTÃO 40  \nConsidere que a fi gura abaixo corresponde ao cenário de \num jogo de computador. Esse cenário é dividido em 24 \nquadrados e a movimentação de um personagem entre \ncada quadrado tem custo 1, sendo permitida apenas na \nhorizontal ou na vertical. Os quadrados marcados em preto \ncorrespondem a regiões para as quais os personagens \nnão podem se mover.\nNesse cenário, o algoritmo A* vai ser usado para determinar \no caminho de custo mínimo pelo qual um personagem \ndeve se mover desde o quadrado verde até o quadrado \nvermelho. Considere que, no A*, o custo f(x) = g(x) + h(x) \nde determinado nó x é computado somando-se o custo \nreal g(x) ao custo da função heurística h(x) e que a função \nheurística utilizada é a distância de Manhattan (soma das \ndistâncias horizontal e vertical de x até o objetivo). Desse \nmodo, o custo f(x) do quadrado verde é igual a\nA  2.\nB  3.\nC  5.\nD  7.\nE  9.",
+      "texto_completo": "QUESTÃO 40  \nConsidere que a fi gura abaixo corresponde ao cenário de \num jogo de computador. Esse cenário é dividido em 24 \nquadrados e a movimentação de um personagem entre \ncada quadrado tem custo 1, sendo permitida apenas na \nhorizontal ou na vertical. Os quadrados marcados em preto \ncorrespondem a regiões para as quais os personagens \nnão podem se mover.\nNesse cenário, o algoritmo A* vai ser usado para determinar \no caminho de custo mínimo pelo qual um personagem \ndeve se mover desde o quadrado verde até o quadrado \nvermelho. Considere que, no A*, o custo f(x) = g(x) + h(x) \nde determinado nó x é computado somando-se o custo \nreal g(x) ao custo da função heurística h(x) e que a função \nheurística utilizada é a distância de Manhattan (soma das \ndistâncias horizontal e vertical de x até o objetivo). Desse \nmodo, o custo f(x) do quadrado verde é igual a\nA  2.\nB  3.\nC  5.\nD  7.\nE  9.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20151,7 +20151,7 @@
         "Algoritmos e Estruturas de Dados",
         "Inteligência Artificial e Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 40,
@@ -20169,7 +20169,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218685"
+      "criado_em": "2026-08-25T14:35:20.232307"
     },
     {
       "id_questao": "q41",
@@ -20182,19 +20182,19 @@
         {
           "pagina": 26,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q41.png",
+      "caminho_png": "/questoes/2011_CCP/q41.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q41.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q41.txt",
       "largura": 1123,
-      "altura": 2855,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n2\nQUESTÃO 41\nA figura abaixo ilustra a tentativa de se utilizar um filtro \ndigital no domínio da frequência, para suavizar o sinal \nbidimensional de entrada que está no domínio do espaço.\nA partir do resultado obtido no processo de filtragem, \nanalise as seguintes asserções e a relação proposta \nentre elas.\nO sinal de saída possui as características de um sinal \nprocessado por um filtro passa-baixa ideal.\nPORQUE\nEmbora suavizado, o sinal de saída evidencia a presença \ndo efeito de ringing, que é típico de um sinal convolucionado \npela função sinc no domínio do espaço.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+      "texto_completo": "QUESTÃO 41\nA figura abaixo ilustra a tentativa de se utilizar um filtro \ndigital no domínio da frequência, para suavizar o sinal \nbidimensional de entrada que está no domínio do espaço.\nA partir do resultado obtido no processo de filtragem, \nanalise as seguintes asserções e a relação proposta \nentre elas.\nO sinal de saída possui as características de um sinal \nprocessado por um filtro passa-baixa ideal.\nPORQUE\nEmbora suavizado, o sinal de saída evidencia a presença \ndo efeito de ringing, que é típico de um sinal convolucionado \npela função sinc no domínio do espaço.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20203,7 +20203,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 41,
@@ -20221,7 +20221,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218689"
+      "criado_em": "2026-08-25T14:35:20.232312"
     },
     {
       "id_questao": "q42",
@@ -20234,17 +20234,17 @@
         {
           "pagina": 26,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 384.3438415527344,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.png",
+      "caminho_png": "/questoes/2011_CCP/q42.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q42.txt",
       "largura": 1123,
-      "altura": 1397,
+      "altura": 1319,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 42  \nSabendo que a principal tarefa de um sistema será de \nclassificação em domínios complexos, um gerente de \nprojetos precisa decidir como vai incorporar essa capa-\ncidade em um sistema computacional a fim de torná-lo \ninteligente. Existem diversas técnicas de inteligência \ncomputacional / artificial que possibilitam isso.\nNesse contexto, a técnica de inteligência artificial mais \nindicada para o gerente é\nA   lógica nebulosa.\nB   árvores de decisão.\nC   redes neurais artificiais.\nD   ACO (do inglês, Ant-Colony Optimization).\nE   PSO (do inglês, Particle Swarm Optimization).",
       "texto_enunciado": "",
@@ -20253,7 +20253,7 @@
       "categorias": [
         "Inteligência Artificial e Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 42,
@@ -20271,7 +20271,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218694"
+      "criado_em": "2026-08-25T14:35:20.232317"
     },
     {
       "id_questao": "q43",
@@ -20284,19 +20284,19 @@
         {
           "pagina": 27,
           "x0": 25.0,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q43.png",
+      "caminho_png": "/questoes/2011_CCP/q43.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q43.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q43.txt",
       "largura": 2241,
-      "altura": 2857,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n27\nQUESTÃO 43  \nO razor é uma arquitetura para desempenho better-than-worst-case que usa um \nregistrador especializado, mostrado na fi gura, que mede e avalia os erros.\nO registrador do sistema mantém o valor chaveado e é comandado por um \nclock de sistema better-than-worst-case. Um registrador adicional é comandado \nseparadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os \nresultados armazenados nos dois registradores são diferentes, então um erro ocorreu, \nprovavelmente devido à temporização. A porta XOR detecta o erro e faz com que este \nvalor seja substituído por aquele no registrador do sistema.\nWolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007\nConsiderando essas informações, analise as afi rmações a seguir.\nI. \nSistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.\nII. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, \npermitindo que o circuito possa operar com uma frequência maior.\nIII. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam \narmazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior \ncaso.\nÉ correto o que se afi rma em\nA   I, apenas.\nB   III, apenas.\nC   I e II, apenas.\nD   II e III, apenas.\nE   I, II e III.",
+      "texto_completo": "QUESTÃO 43  \nO razor é uma arquitetura para desempenho better-than-worst-case que usa um \nregistrador especializado, mostrado na fi gura, que mede e avalia os erros.\nO registrador do sistema mantém o valor chaveado e é comandado por um \nclock de sistema better-than-worst-case. Um registrador adicional é comandado \nseparadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os \nresultados armazenados nos dois registradores são diferentes, então um erro ocorreu, \nprovavelmente devido à temporização. A porta XOR detecta o erro e faz com que este \nvalor seja substituído por aquele no registrador do sistema.\nWolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007\nConsiderando essas informações, analise as afi rmações a seguir.\nI. \nSistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.\nII. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, \npermitindo que o circuito possa operar com uma frequência maior.\nIII. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam \narmazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior \ncaso.\nÉ correto o que se afi rma em\nA   I, apenas.\nB   III, apenas.\nC   I e II, apenas.\nD   II e III, apenas.\nE I II e III",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20324,7 +20324,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 43,
@@ -20342,7 +20342,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218698"
+      "criado_em": "2026-08-25T14:35:20.232322"
     },
     {
       "id_questao": "q44",
@@ -20355,19 +20355,19 @@
         {
           "pagina": 28,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 555.56,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.png",
+      "caminho_png": "/questoes/2011_CCP/q44.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.txt",
       "largura": 2241,
-      "altura": 2860,
+      "altura": 2715,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n28\nQUESTÃO 44\nA utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu \ndesempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos \nsignifi cativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas.  Para reduzir \nesse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para \num somador de 8 bits é apresentado na fi gura a seguir.\nOs 4 bits mais signifi cativos são somados de forma redundante, considerando o vem-um 0 no primeiro somador e vem-um \nigual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo \nvai-um resultado da soma dos 4 bits menos signifi cativos. Como os 3 somadores podem realizar as operações ao mesmo \ntempo, o multiplexador pode entregar o resultado mais rapidamente.\nConsidere as seguintes equações dos somadores:\n   e   \nConsidere, ainda, a equação dos multiplexadores a seguir:\nSuponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais signifi cativos \ne que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores, \no aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como \naumento de\nA   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nB   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nC   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nD   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nE   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de \npropagação para a execução da soma.",
+      "texto_completo": "QUESTÃO 44\nA utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu \ndesempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos \nsignifi cativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas.  Para reduzir \nesse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para \num somador de 8 bits é apresentado na fi gura a seguir.\nOs 4 bits mais signifi cativos são somados de forma redundante, considerando o vem-um 0 no primeiro somador e vem-um \nigual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo \nvai-um resultado da soma dos 4 bits menos signifi cativos. Como os 3 somadores podem realizar as operações ao mesmo \ntempo, o multiplexador pode entregar o resultado mais rapidamente.\nConsidere as seguintes equações dos somadores:\n   e   \nConsidere, ainda, a equação dos multiplexadores a seguir:\nSuponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais signifi cativos \ne que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores, \no aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como \naumento de\nA   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nB   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nC   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nD   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nE   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de \npropagação para a execução da soma",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20379,7 +20379,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 44,
@@ -20397,7 +20397,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218702"
+      "criado_em": "2026-08-25T14:35:20.232326"
     },
     {
       "id_questao": "q45",
@@ -20410,19 +20410,19 @@
         {
           "pagina": 29,
           "x0": 25.0,
-          "y0": 55.518592834472656,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 488.5917053222656,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.png",
+      "caminho_png": "/questoes/2011_CCP/q45.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q45.txt",
       "largura": 2241,
-      "altura": 1834,
+      "altura": 1753,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.",
+      "texto_completo": "QUESTÃO 45\nOs amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. \nConsiderando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.\nI. \nA corrente i1 é idealmente nula.\nII. A corrente i2 é idealmente nula.\nIII. O circuito exemplifica um seguidor de tensão.\nIV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.\nV. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.\nÉ correto apenas o que se afirma em\nA   I, II e III.\nB   I, II e IV.\nC   I, III e V.\nD   II, IV e V.\nE   III, IV e V.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -20431,7 +20431,7 @@
       "categorias": [
         "Engenharia e Tecnologias"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 45,
@@ -20449,7 +20449,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218706"
+      "criado_em": "2026-08-25T14:35:20.232331"
     },
     {
       "id_questao": "q46",
@@ -20462,26 +20462,26 @@
         {
           "pagina": 30,
           "x0": 25.0,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 590.00390625,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.png",
+      "caminho_png": "/questoes/2011_CCP/q46.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.txt",
       "largura": 1123,
-      "altura": 2254,
+      "altura": 2176,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000",
+      "texto_completo": "QUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 46,
@@ -20499,7 +20499,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218710"
+      "criado_em": "2026-08-25T14:35:20.232336"
     },
     {
       "id_questao": "q47",
@@ -20512,17 +20512,17 @@
         {
           "pagina": 30,
           "x0": 293.28,
-          "y0": 56.173927307128906,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 589.9337158203125,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.png",
+      "caminho_png": "/questoes/2011_CCP/q47.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.txt",
       "largura": 1123,
-      "altura": 2254,
+      "altura": 2176,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 47\nUma empresa de natureza estritamente operacional \ndeseja implantar um setor de suporte ao processo \nde tomada de decisão, já que os resultados que vem \napresentando demonstram contínua queda da margem \nde lucro e aumento do custo operacional. Para isso, os \nexecutivos de alto escalão da empresa decidiram investir \nna aquisição de uma ferramenta OLAP acoplada a uma \ndata warehouse.\nNessa situação, avalie as afirmações a seguir.\nI. \nNo que tange ao tipo de suporte propiciado, os \nsistemas OLAP podem ser classificados como \nsistemas de trabalhadores do conhecimento.\nII. Ferramentas OLAP apresentam foco orientado a \nassunto, em contraposição a sistemas OLTP, que \nsão orientados a aplicação.\nIII. Tendo em vista que data marts são construídos \nutilizando-se os sistemas legados da empresa, \nsem a utilização de dados externos, o processo \nde extração, transformação e carga envolve a \nintegração de dados, suprimindo-se a tarefa de \nlimpeza.\nIV. O projeto de um data warehouse define a forma \ncom que a base de dados será construída. Uma \ndas opções é a abordagem data mart, em que os \ndiversos data marts são integrados, até que se \nobtenha, ao final do processo, um data warehouse \nda empresa.\nÉ correto o que se afirma em\nA   I e III, apenas.\nB   I e IV, apenas.\nC   II e III, apenas.\nD   II e IV, apenas.\nE   I, II, III e IV.",
       "texto_enunciado": "",
@@ -20531,7 +20531,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 47,
@@ -20549,7 +20549,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218714"
+      "criado_em": "2026-08-25T14:35:20.232341"
     },
     {
       "id_questao": "q48",
@@ -20562,17 +20562,17 @@
         {
           "pagina": 31,
           "x0": 25.0,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 287.28,
           "y1": 522.1387329101562,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q48.png",
+      "caminho_png": "/questoes/2011_CCP/q48.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q48.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q48.txt",
       "largura": 1123,
-      "altura": 1973,
+      "altura": 1893,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 48  \nNo desenvolvimento de um software para um sistema \nde venda de produtos nacionais e importados, o analista \ngerou o diagrama de casos de uso a seguir.\nDa análise do diagrama, conclui-se que\nA   a execução do caso de uso ‘Consultar estoque’ incorpora \nopcionalmente o caso de uso ‘Liberar desconto’.\nB   a execução do caso de uso ‘Liberar desconto’ incorpora \nopcionalmente o caso de uso ‘Realizar venda’.\nC   a execução do caso de uso ‘Realizar venda’ incorpora \nobrigatoriamente o caso de uso ‘Consultar estoque’.\nD   a execução do caso de uso ‘Realizar venda de \nproduto nacional’ incorpora obrigatoriamente o caso \nde uso ‘Liberar desconto’.\nE   um Gerente pode interagir com o caso de uso \n‘Realizar venda’, pois ele é um Usuário.",
       "texto_enunciado": "",
@@ -20583,7 +20583,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 48,
@@ -20601,7 +20601,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218718"
+      "criado_em": "2026-08-25T14:35:20.232345"
     },
     {
       "id_questao": "q49",
@@ -20616,24 +20616,24 @@
           "x0": 25.0,
           "y0": 518.1387329101562,
           "x1": 287.28,
-          "y1": 734.28,
+          "y1": 719.28,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q49.png",
+      "caminho_png": "/questoes/2011_CCP/q49.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q49.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q49.txt",
       "largura": 1123,
-      "altura": 930,
+      "altura": 868,
       "confianca": 0.98,
-      "texto_completo": "3\np\nQUESTÃO 49  \nConsiderando \no \nconceito \nde \nsistema, \ntrazido \npela Teoria Geral de Sistemas, um projeto de \ndesenvolvimento de software poderia ser considerado \ncomo um sistema aberto.\nNessa perspectiva, solicitações de mudanças originadas \nde um stakeholder externo e que afetam o projeto podem \nser consideradas como\nA   ambiente.\nB   entrada.\nC   feedback.\nD   processos.\nE   saída.",
+      "texto_completo": "p\nQUESTÃO 49  \nConsiderando \no \nconceito \nde \nsistema, \ntrazido \npela Teoria Geral de Sistemas, um projeto de \ndesenvolvimento de software poderia ser considerado \ncomo um sistema aberto.\nNessa perspectiva, solicitações de mudanças originadas \nde um stakeholder externo e que afetam o projeto podem \nser consideradas como\nA   ambiente.\nB   entrada.\nC   feedback.\nD   processos.\nE saída",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 49,
@@ -20651,7 +20651,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218721"
+      "criado_em": "2026-08-25T14:35:20.232350"
     },
     {
       "id_questao": "q50",
@@ -20664,19 +20664,19 @@
         {
           "pagina": 31,
           "x0": 293.28,
-          "y0": 55.890419006347656,
+          "y0": 75.0,
           "x1": 555.56,
           "y1": 450.4603271484375,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q50.png",
+      "caminho_png": "/questoes/2011_CCP/q50.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q50.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q50.txt",
       "largura": 1123,
-      "altura": 1675,
+      "altura": 1595,
       "confianca": 0.98,
-      "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 50  \nUma empresa vem desenvolvendo um programa de \nmelhoria de seus processos de software utilizando o \nmodelo de qualidade CMMI. O programa envolveu a \ndefinição de todos os processos padrão da organização, \nimplementação de técnicas de controle estatístico de \nprocessos e métodos de melhoria contínua. Após a \navaliação SCAMPI, classe A, foi detectado que a área \nde processo de PP - Project Planning (Planejamento de \nProjeto) não estava aderente ao modelo.\nNesse contexto, considerando a representação por \nestágios do CMMI, a empresa seria classificada em que \nnível de maturidade?\nA   Nível 1.\nB   Nível 2.\nC   Nível 3.\nD   Nível 4.\nE   Nível 5.",
+      "texto_completo": "QUESTÃO 50  \nUma empresa vem desenvolvendo um programa de \nmelhoria de seus processos de software utilizando o \nmodelo de qualidade CMMI. O programa envolveu a \ndefinição de todos os processos padrão da organização, \nimplementação de técnicas de controle estatístico de \nprocessos e métodos de melhoria contínua. Após a \navaliação SCAMPI, classe A, foi detectado que a área \nde processo de PP - Project Planning (Planejamento de \nProjeto) não estava aderente ao modelo.\nNesse contexto, considerando a representação por \nestágios do CMMI, a empresa seria classificada em que \nnível de maturidade?\nA   Nível 1.\nB   Nível 2.\nC   Nível 3.\nD   Nível 4.\nE   Nível 5.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -20684,7 +20684,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 50,
@@ -20702,8 +20702,339 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:11:35.218725"
+      "criado_em": "2026-08-25T14:35:20.232356"
     }
   ],
-  "anomalias": []
+  "anomalias": [
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q01 não existe",
+      "questao": "q01"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q02 não existe",
+      "questao": "q02"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q03 não existe",
+      "questao": "q03"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q04 não existe",
+      "questao": "q04"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q05 não existe",
+      "questao": "q05"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q06 não existe",
+      "questao": "q06"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q07 não existe",
+      "questao": "q07"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q08 não existe",
+      "questao": "q08"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd01 não existe",
+      "questao": "qd01"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd02 não existe",
+      "questao": "qd02"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q09 não existe",
+      "questao": "q09"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q10 não existe",
+      "questao": "q10"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q11 não existe",
+      "questao": "q11"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q12 não existe",
+      "questao": "q12"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q13 não existe",
+      "questao": "q13"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q14 não existe",
+      "questao": "q14"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q15 não existe",
+      "questao": "q15"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q16 não existe",
+      "questao": "q16"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q17 não existe",
+      "questao": "q17"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q18 não existe",
+      "questao": "q18"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q19 não existe",
+      "questao": "q19"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q20 não existe",
+      "questao": "q20"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q21 não existe",
+      "questao": "q21"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q22 não existe",
+      "questao": "q22"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q23 não existe",
+      "questao": "q23"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q24 não existe",
+      "questao": "q24"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q25 não existe",
+      "questao": "q25"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q26 não existe",
+      "questao": "q26"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q27 não existe",
+      "questao": "q27"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q28 não existe",
+      "questao": "q28"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q29 não existe",
+      "questao": "q29"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q30 não existe",
+      "questao": "q30"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd03 não existe",
+      "questao": "qd03"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd04 não existe",
+      "questao": "qd04"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd05 não existe",
+      "questao": "qd05"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q31 não existe",
+      "questao": "q31"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q32 não existe",
+      "questao": "q32"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q33 não existe",
+      "questao": "q33"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q34 não existe",
+      "questao": "q34"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q35 não existe",
+      "questao": "q35"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q36 não existe",
+      "questao": "q36"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q37 não existe",
+      "questao": "q37"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q38 não existe",
+      "questao": "q38"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q39 não existe",
+      "questao": "q39"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q40 não existe",
+      "questao": "q40"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q41 não existe",
+      "questao": "q41"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q42 não existe",
+      "questao": "q42"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q43 não existe",
+      "questao": "q43"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q44 não existe",
+      "questao": "q44"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q45 não existe",
+      "questao": "q45"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q46 não existe",
+      "questao": "q46"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q47 não existe",
+      "questao": "q47"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q48 não existe",
+      "questao": "q48"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q49 não existe",
+      "questao": "q49"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q50 não existe",
+      "questao": "q50"
+    }
+  ]
 }

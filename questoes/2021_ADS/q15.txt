@@ -78,8 +78,7 @@ Johnson
 ...
 ...
 A equipe de desenvolvimento de softwares da prefeitura, após uma breve entrevista com a administração 
-da fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da 
-especificação dos requisitos do sistema.
+da fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da
 
 Considerando o cenário descrito, assinale a opção 
 corretamente pela equipe de desenvolvimento.
@@ -242,16 +241,8 @@ Date
 - horaFim : Date
 Horario
 Professor
-Curso
-- nome : String
-Turma
-- id : int
 a
 te
 0..*
-0..*
 1..*
-1..*
-1
-1
 1

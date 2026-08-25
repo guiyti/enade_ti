@@ -3,8 +3,7 @@
   "numero": 14,
   "tipo": "OBJETIVA",
   "paginas": [
-    19,
-    20
+    19
   ],
   "segmentos": [
     {
@@ -12,25 +11,17 @@
       "x0": 25.0,
       "y0": 501.778076171875,
       "x1": 603.3199999999999,
-      "y1": 781.56,
+      "y1": 766.56,
       "coluna": 0
-    },
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 311.15999999999997,
-      "y1": 80.67594909667969,
-      "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q14.png",
+  "caminho_png": "/questoes/2017_CCP/q14.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q14.txt",
   "largura": 2440,
-  "altura": 1318,
+  "altura": 1134,
   "confianca": 0.98,
-  "texto_completo": "CIÊNCIA DA COMPUTAÇÃO\n19\nE\n3͕\n5\n7\nQUESTÃO 14 \nhŵĂ ƌĞůĂĕĆŽ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ Ġ ƵŵĂ ƌĞůĂĕĆŽ ďŝŶĄƌŝĂ R Ğŵ Ƶŵ ĐŽŶũƵŶƚŽ A͕  ƚĂů ƋƵĞ R Ġ ƌĞŇĞǆŝǀĂ͕  ƐŝŵĠƚƌŝĐĂ \nĞ ƚƌĂŶƐŝƟǀĂ͘\nIŽŶƐŝĚĞƌĞ ĂƐ ƌĞůĂĕƁĞƐ ďŝŶĄƌŝĂƐ ĂƉƌĞƐĞŶƚĂĚĂƐ Ă ƐĞŐƵŝƌ͘\nͻ \nͻ \nͻ \nͻ \n^ĆŽ ƌĞůĂĕƁĞƐ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂƉƌĞƐĞŶƚĂ Ğŵ\nA R2 e R3.\nB R1 e R3.\nC R1 e R4.\nD R1, R2 e R4.\nE R2, R3 e R4.\nR\na b\na b\na\nb\n1 =\n∈\n=\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n2 =\n∈\n≤\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n3\n1\n=\n∈\n=\n−\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n4 =\n∈\n+\n{( , ) : ,\n}.\nN e\né um número par\n\n*R03201720*",
+  "texto_completo": "E\n3͕\n5\n7\nQUESTÃO 14 \nhŵĂ ƌĞůĂĕĆŽ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ Ġ ƵŵĂ ƌĞůĂĕĆŽ ďŝŶĄƌŝĂ R Ğŵ Ƶŵ ĐŽŶũƵŶƚŽ A͕  ƚĂů ƋƵĞ R Ġ ƌĞŇĞǆŝǀĂ͕  ƐŝŵĠƚƌŝĐĂ \nĞ ƚƌĂŶƐŝƟǀĂ͘\nIŽŶƐŝĚĞƌĞ ĂƐ ƌĞůĂĕƁĞƐ ďŝŶĄƌŝĂƐ ĂƉƌĞƐĞŶƚĂĚĂƐ Ă ƐĞŐƵŝƌ͘\nͻ \nͻ \nͻ \nͻ \n^ĆŽ ƌĞůĂĕƁĞƐ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂƉƌĞƐĞŶƚĂ Ğŵ\nA R2 e R3.\nB R1 e R3.\nC R1 e R4.\nD R1, R2 e R4.\nE R2, R3 e R4.\nR\na b\na b\na\nb\n1 =\n∈\n=\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n2 =\n∈\n≤\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n3\n1\n=\n∈\n=\n−\n{( , ) : ,\n};\nN e\nR\na b\na b\na\nb\n4 =\n∈\n+\n{( , ) : ,\n}.\nN e\né um número par",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:12:32.414682"
+  "criado_em": "2026-08-25T14:36:45.895588"
 }

@@ -1,4 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 QUESTÃO 30  
 Suponha que se queira pesquisar a chave 287 em uma 
 árvore binária de pesquisa com chaves entre 1 e 1 000. 

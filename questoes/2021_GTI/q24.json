@@ -9,19 +9,19 @@
     {
       "pagina": 30,
       "x0": 286.56,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q24.png",
+  "caminho_png": "/questoes/2021_GTI/q24.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q24.txt",
   "largura": 1095,
-  "altura": 2823,
+  "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 24\t\nA tecnologia facilitou a vida da sociedade e acelerou \nsua evolução, mas também trouxe implicações \nprejudiciais que conflitam com questões éticas da \nsociedade atual. Preconceito, racismo, invasão de \nprivacidade, experimentos com humanos e até \nmesmo riscos de vida já foram relacionados ao uso \nde algoritmos e avanços tecnológicos. Os limites \néticos, morais e até legais seguem se contrapondo \nà tecnologia em determinados momentos. Se por \num lado, nem todos eles constituem ilegalidades, \npor outro, é preciso ter uma preocupação em \nrelação a como e por quem essas tecnologias estão \nsendo criadas e testadas, reavaliando os critérios \néticos, principalmente em ambientes empresariais. \nDiante deste cenário, ainda recente e impreciso, \nhá um desafio interdisciplinar: da tecnologia, da \nética e da sociologia, à medida que a sociedade é \na principal impactada enquanto não for possível \nencontrar um equilíbrio. Todavia, tais dilemas \nnão são exclusividade da tecnologia. O que é, \nsim, exclusividade da tecnologia, assim como em \ndiversos outros temas, é a proporção e velocidade \ndos impactos — sejam eles positivos ou não.\n WERMANN. L. Ética na tecnologia: a critérios de que(m) e para \nque(m)? Disponível em: https://olhardigital.com.br/. \nAcesso em: 27 jul. 2020 (adaptado).\nConsiderando o texto e os impactos sociais advindos \ndas tecnologias da informação, avalie as afirmações \na seguir.\nI.\t O uso das tecnologias da informação, \nparticularmente da internet, potencializa e \nfortalece as relações em rede.\nII.\t Os crimes cibernéticos, condutas nocivas \nem ambiente virtual, são consequência do \navanço tecnológico.\nIII.\t A disseminação de informações falsas é \num fenômeno de natureza tecnológica \ne, portanto,  desvinculado de possíveis \nimpactos sociais.\nIV.\t O uso exacerbado da internet e a \ndependência de aparelhos móveis com \nacesso à internet podem causar danos à \nsaúde física e emocional das pessoas.\nÉ correto o que se afirma em\nA\t I e II, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD\t III e IV, apenas.\nE I II III e IV",
+  "texto_completo": "QUESTÃO 24\t\nA tecnologia facilitou a vida da sociedade e acelerou \nsua evolução, mas também trouxe implicações \nprejudiciais que conflitam com questões éticas da \nsociedade atual. Preconceito, racismo, invasão de \nprivacidade, experimentos com humanos e até \nmesmo riscos de vida já foram relacionados ao uso \nde algoritmos e avanços tecnológicos. Os limites \néticos, morais e até legais seguem se contrapondo \nà tecnologia em determinados momentos. Se por \num lado, nem todos eles constituem ilegalidades, \npor outro, é preciso ter uma preocupação em \nrelação a como e por quem essas tecnologias estão \nsendo criadas e testadas, reavaliando os critérios \néticos, principalmente em ambientes empresariais. \nDiante deste cenário, ainda recente e impreciso, \nhá um desafio interdisciplinar: da tecnologia, da \nética e da sociologia, à medida que a sociedade é \na principal impactada enquanto não for possível \nencontrar um equilíbrio. Todavia, tais dilemas \nnão são exclusividade da tecnologia. O que é, \nsim, exclusividade da tecnologia, assim como em \ndiversos outros temas, é a proporção e velocidade \ndos impactos — sejam eles positivos ou não.\n WERMANN. L. Ética na tecnologia: a critérios de que(m) e para \nque(m)? Disponível em: https://olhardigital.com.br/. \nAcesso em: 27 jul. 2020 (adaptado).\nConsiderando o texto e os impactos sociais advindos \ndas tecnologias da informação, avalie as afirmações \na seguir.\nI.\t O uso das tecnologias da informação, \nparticularmente da internet, potencializa e \nfortalece as relações em rede.\nII.\t Os crimes cibernéticos, condutas nocivas \nem ambiente virtual, são consequência do \navanço tecnológico.\nIII.\t A disseminação de informações falsas é \num fenômeno de natureza tecnológica \ne, portanto,  desvinculado de possíveis \nimpactos sociais.\nIV.\t O uso exacerbado da internet e a \ndependência de aparelhos móveis com \nacesso à internet podem causar danos à \nsaúde física e emocional das pessoas.\nÉ correto o que se afirma em\nA\t I e II, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD III e IV apenas",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727138"
+  "criado_em": "2026-08-25T14:38:16.426278"
 }

@@ -1,5 +1,3 @@
-22
-TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
 QUESTÃO 19
 IŽŶƐŝĚĞƌĞ Ž ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ Ă ƐĞŐƵŝƌ͘  
   ĞŵƉƌĞƐĂ ƋƵĞ ƐĞ ƵƟůŝǌŽƵ ĚŽ ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ ĂƉƌĞƐĞŶƚĂĚŽ ĚĞƐĞũĂǀĂ ŽďƚĞƌ Ƶŵ ƌĞůĂƚſƌŝŽ ĐŽŵ Ă ƋƵĂŶƟĚĂĚĞ 
@@ -37,8 +35,6 @@ sĞŶĚĞĚŽƌ D
 95
 78 698
 
-23
-TECNOLOGIA EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
 IŽŵ ďĂƐĞ ŶĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽŵ Ă ĐŽŶƐƵůƚĂ ^Y> ƋƵĞ ŐĞƌĂ ĐŽƌƌĞƚĂŵĞŶƚĞ ŽƐ ĚĂĚŽƐ ĚŽ 
 ƌĞůĂƚſƌŝŽ ƐŽůŝĐŝƚĂĚŽ ƉĞůĂ ĞŵƉƌĞƐĂ͘
 A SELECT
@@ -91,6 +87,3 @@ INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
 RIGHT JOIN tb_vendedor v ON p.id_vendedor =  v.id_vendedor
 GROUP BY year(p.dt_pedido), v.ds_nome
 ORDER BY year(p.dt_pedido), v.ds_nome;
-*R43201723*
-
-*R43201724*

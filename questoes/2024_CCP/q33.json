@@ -18,19 +18,19 @@
     {
       "pagina": 21,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 82.57166290283203,
       "x1": 611.7199999999999,
       "y1": 408.504638671875,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q33.png",
+  "caminho_png": "/questoes/2024_CCP/q33.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q33.txt",
   "largura": 2475,
-  "altura": 1771,
+  "altura": 1656,
   "confianca": 0.98,
-  "texto_completo": "g\nQUESTÃO 33\t\nUm estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estudante deve\n\n2025\nTexto para questões 34 e 35\nDurante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a \nDistância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em \nsua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.\nNúmero de licenciados concluintes por modalidade e ano\nDisponível em: www.gov.br/inep. Acesso em: 30 maio 2025.\n*R0404202521*",
+  "texto_completo": "g\nQUESTÃO 33\t\nUm estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estudante deve\n\nTexto para questões 34 e 35\nDurante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a \nDistância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em \nsua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.\nNúmero de licenciados concluintes por modalidade e ano\nDisponível em: www.gov.br/inep. Acesso em: 30 maio 2025.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490859"
+  "criado_em": "2026-08-25T14:38:37.516146"
 }

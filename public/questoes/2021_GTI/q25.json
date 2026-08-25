@@ -9,17 +9,17 @@
     {
       "pagina": 31,
       "x0": 25.0,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 470.6461486816406,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q25.png",
+  "caminho_png": "/questoes/2021_GTI/q25.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q25.txt",
   "largura": 2185,
-  "altura": 1722,
+  "altura": 1679,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 25\t\nAtualmente um número crescente de empresas investe em Tecnologia de Informação (TI), contudo, \ninvestir em TI somente por modismo, sem se preocupar com os procedimentos adequados para que isso \nocorra, gera um risco elevado. A TI exige qualidade em seu desenvolvimento, principalmente na criação \ndos sistemas de informações gerenciais, onde a Engenharia de Software deve ser aplicada. O ambiente \ndeve estar preparado para receber esta tecnologia e saber fazer bom uso dela. Em algumas ocasiões, \né bastante complexo estabelecer uma forma para mensurar e quantificar a capacidade que a TI possui \npara criar valores, reduzir custos e avaliar se realmente a empresa está se tornando melhor ou mais \ncompetitiva com sua aplicação.\nPRADO, A. et al. Tecnologia da Informação Aplicada de Forma Estratégica nos Processos Organizacionais, por Meio de Sistemas de \nInformações Gerenciais. Janus Revista de Pesquisa Científica - UNIFATEA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir, acerca das atividades fundamentais \nda Engenharia de Software. \nI.\t A Especificação do Software é a etapa em que clientes e engenheiros projetam e programam \no software.\nII.\t A Validação de Software é a etapa para assegurar se o programa atende as demandas do cliente.\nIII.\t A Evolução do Software é a etapa de modificação para definir a mudança de requisitos, tanto do \ncliente quanto do mercado.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727143"
+  "criado_em": "2026-08-25T14:38:16.426282"
 }

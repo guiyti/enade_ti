@@ -10,11 +10,9 @@ de orientação a objetos.
 Os estudantes analisaram os modelos relacional e orientado a objetos em suas características. Qual alternativa representa a 
 justificativa do grupo que decidiu utilizar um banco de dados orientado a objetos?
 
-2025
 Texto para questões 42 e 43
 Uma determinada escola enfrenta um grande desafio. Apesar de ter diversos ambientes que poderiam se beneficiar da 
 conectividade em rede, como a secretaria, a sala dos professores, os laboratórios de informática e a biblioteca, a instituição 
 possui poucos equipamentos físicos para montar uma rede completa: apenas dois switches antigos, alguns cabos de rede e 
 nenhum roteador moderno. Um professor de Computação instigou a turma para que planejem uma solução que estruture 
 a rede da escola para testar diferentes configurações.
-*R0404202524*

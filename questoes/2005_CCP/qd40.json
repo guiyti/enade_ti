@@ -10,7 +10,7 @@
     {
       "pagina": 15,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
       "y1": 159.25860595703125,
       "coluna": 0
@@ -18,19 +18,19 @@
     {
       "pagina": 16,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
       "y1": 253.79556274414062,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd40.png",
+  "caminho_png": "/questoes/2005_CCP/qd40.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/qd40.txt",
   "largura": 2306,
-  "altura": 1307,
+  "altura": 1141,
   "confianca": 0.98,
-  "texto_completo": "Considere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se\nidentificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do\nvalor do aluguel a ser pago.\nCom relação a essa situação, \na) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) \nb) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) \nc) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme\n\nPERFIL DO CURSO\nNÚMERO DAS QUESTÕES\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Ciência da Computação e\nEngenharia de Computação\n41 a 54\n55\nBacharelado em Ciência da Computação \n56 a 69\n70\nEngenharia de Computação\n71 a 84\n85\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 41 a 55, a seguir, são comuns para os estudantes de cursos com perfil profissional de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO e ENGENHARIA DA COMPUTAÇÃO",
+  "texto_completo": "identificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do\nvalor do aluguel a ser pago.\nCom relação a essa situação, \na) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) \nb) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) \nc) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme\n\nPERFIL DO CURSO\nOBJETIVAS\nDISCURSIVAS\nBacharelado em Ciência da Computação e\nEngenharia de Computação\n41 a 54\n55\nBacharelado em Ciência da Computação \n56 a 69\n70\nEngenharia de Computação\n71 a 84\n85\n2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que\nvocê está inscrito, de acordo com o estabelecido no cartão de informação do estudante.\n3. Favor responder também ao questionário de percepção sobre a prova localizado no final\ndeste caderno.\nAs questões de 41 a 55, a seguir, são comuns para os estudantes de cursos com perfil profissional de \nBACHARELADO EM CIÊNCIA DA COMPUTAÇÃO e ENGENHARIA DA COMPUTAÇÃO",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -55,5 +55,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796661"
+  "criado_em": "2026-08-25T14:34:18.145982"
 }

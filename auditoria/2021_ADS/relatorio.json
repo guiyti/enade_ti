@@ -7,9 +7,9 @@
   "total_paginas": 48,
   "questoes_detectadas": 40,
   "questoes_extraidas": 40,
-  "score_geral": 97.5,
+  "score_geral": 0.0,
   "tipo_pdf": "digital",
-  "processado_em": "2026-08-25T14:12:57.735082",
+  "processado_em": "2026-08-25T14:37:16.156573",
   "paginas": [
     {
       "numero": 1,
@@ -17179,34 +17179,34 @@
         {
           "pagina": 2,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 3,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 85.0,
+          "y1": 361.1463317871094,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd01.png",
+      "caminho_png": "/questoes/2021_ADS/qd01.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd01.txt",
       "largura": 2185,
-      "altura": 2962,
+      "altura": 3925,
       "confianca": 0.98,
-      "texto_completo": "FORMAÇÃO GERAL\nQUESTÃO DISCURSIVA 01 \n \n TEXTO I\n Em época de censura, a própria existência da arte passa a ser questi onada. Surgem debates em jornais, \nna rua, em casa, para discuti r sua relevância. Não podemos deixar de nos perguntar como chegamos a \nessa estranha situação em que precisamos justi fi car a própria existência da arte. Ela pode ser julgada \napressadamente como boa ou ruim, mas nem por isso deixa de ser arte.\n O cineasta franco-suíço Jean-Luc Godard aponta para o fato de que “a cultura é a regra; a arte é a exceção”. \nA arte é, dentro da cultura, o que tensiona a própria cultura para assim levá-la para outros lugares. \nEnquanto a cultura regula, a arte destoa e movimenta. A arte questi ona, incomoda e transforma. Arte e \ncultura se contradizem, mas andam de mãos dadas.\n Os psicanalistas Suely Rolnik e Félix Guatt ari consideram que o conceito de cultura é profundamente \nreacionário. É uma maneira de separar ati vidades semióti cas em esferas, às quais os homens são \nremeti dos. Tais ati vidades, assim isoladas, são padronizadas para o modo de semioti zação dominante. \nA arte, por sua vez, existe plenamente quando junta o que é separado, questi ona o que é geralmente \naceito, grita onde há silêncio, desorganizando e reorganizando a cultura. Quando se discutem os limites \nda arte, são, na verdade, os limites da nossa tolerância que estão sendo debati dos.\n SEROUSSI, B. O que faz a arte?  In : OLIVIERE, C.; NATALE, E. (org.).  Direito, arte e liberdade . \nSão Paulo: Edições Sesc SP, 2018. p. 26-42 (adaptado).\n TEXTO II\n Capítulo I \nDos Direitos e Deveres Individuais e Coleti vos\n Art. 5º Todos são iguais perante a lei, sem disti nção de qualquer natureza, garanti ndo-se aos brasileiros e\naos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança \ne à propriedade, nos termos seguintes:\n [...]\n IX - é livre a expressão da ati vidade intelectual, artí sti ca, cientí fi ca e de comunicação, independentemente\nde censura ou licença.\n BRASIL. Consti tuição Federal do Brasil. Disponível em: htt ps://www.senado.leg.br/ati vidade/const/con1988/con1988_15.12.2016/art_5_.asp. \nAcesso em: 2 maio 2020.\n Considerando as informações e os argumentos presentes nos textos I e II, discorra a respeito da relação \nentre arte, cultura e censura, à luz da ideia de liberdade artí sti ca garanti da pela Consti tuição Federal \nde 1988. Apresente, em seu texto, duas ações educati vas que podem contribuir para minimizar essas \ntensões e garanti r a liberdade artí sti ca prevista pela lei. (valor: 10,0 pontos)",
+      "texto_completo": "QUESTÃO DISCURSIVA 01 \n \n TEXTO I\n Em época de censura, a própria existência da arte passa a ser questi onada. Surgem debates em jornais, \nna rua, em casa, para discuti r sua relevância. Não podemos deixar de nos perguntar como chegamos a \nessa estranha situação em que precisamos justi fi car a própria existência da arte. Ela pode ser julgada \napressadamente como boa ou ruim, mas nem por isso deixa de ser arte.\n O cineasta franco-suíço Jean-Luc Godard aponta para o fato de que “a cultura é a regra; a arte é a exceção”. \nA arte é, dentro da cultura, o que tensiona a própria cultura para assim levá-la para outros lugares. \nEnquanto a cultura regula, a arte destoa e movimenta. A arte questi ona, incomoda e transforma. Arte e \ncultura se contradizem, mas andam de mãos dadas.\n Os psicanalistas Suely Rolnik e Félix Guatt ari consideram que o conceito de cultura é profundamente \nreacionário. É uma maneira de separar ati vidades semióti cas em esferas, às quais os homens são \nremeti dos. Tais ati vidades, assim isoladas, são padronizadas para o modo de semioti zação dominante. \nA arte, por sua vez, existe plenamente quando junta o que é separado, questi ona o que é geralmente \naceito, grita onde há silêncio, desorganizando e reorganizando a cultura. Quando se discutem os limites \nda arte, são, na verdade, os limites da nossa tolerância que estão sendo debati dos.\n SEROUSSI, B. O que faz a arte?  In : OLIVIERE, C.; NATALE, E. (org.).  Direito, arte e liberdade . \nSão Paulo: Edições Sesc SP, 2018. p. 26-42 (adaptado).\n TEXTO II\n Capítulo I \nDos Direitos e Deveres Individuais e Coleti vos\n Art. 5º Todos são iguais perante a lei, sem disti nção de qualquer natureza, garanti ndo-se aos brasileiros e\naos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança \ne à propriedade, nos termos seguintes:\n [...]\n IX - é livre a expressão da ati vidade intelectual, artí sti ca, cientí fi ca e de comunicação, independentemente\nde censura ou licença.\n BRASIL. Consti tuição Federal do Brasil. Disponível em: htt ps://www.senado.leg.br/ati vidade/const/con1988/con1988_15.12.2016/art_5_.asp. \nAcesso em: 2 maio 2020.\n Considerando as informações e os argumentos presentes nos textos I e II, discorra a respeito da relação \nentre arte, cultura e censura, à luz da ideia de liberdade artí sti ca garanti da pela Consti tuição Federal \nde 1988. Apresente, em seu texto, duas ações educati vas que podem contribuir para minimizar essas \ntensões e garanti r a liberdade artí sti ca prevista pela lei. (valor: 10,0 pontos)\n\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 1,
@@ -17224,7 +17224,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710713"
+      "criado_em": "2026-08-25T14:37:31.778021"
     },
     {
       "id_questao": "qd02",
@@ -17237,17 +17237,17 @@
         {
           "pagina": 4,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 396.7107238769531,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd02.png",
+      "caminho_png": "/questoes/2021_ADS/qd02.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd02.txt",
       "largura": 2185,
-      "altura": 1413,
+      "altura": 1371,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 02 \n \n TEXTO I\n Uma cidade é considerada inteligente quando: i) nela se uti liza a tecnologia para melhorar a sua \ninfraestrutura e seus serviços, tornando os setores de administração, educação, saúde, segurança pública, \nmoradia e transporte mais inteligentes, interconectados e efi cientes, benefi ciando toda a população; \ne ii) está comprometi da com o meio ambiente e com sua herança histórica e cultural.\n AQUINO, A. L. L.  et al . Cidades inteligentes, um novo paradigma da sociedade do conhecimento.  Blucher Educati on Proceedings , \nv. 1, n. 1, p. 165-178, 2015 (adaptado).\n TEXTO II\n A evolução para uma cidade mais inteligente, mais integrada, mais inovadora pressupõe uma \nvisão holísti ca e sistêmica do espaço urbano e a integração efeti va dos vários atores e setores. \nPara tal, é necessário ir além dos investi mentos em inovação tecnológica e inovar também na gestão, \nno planejamento, no modelo de governança e no desenvolvimento de políti cas públicas.\n CAMPOS, C. C.  et al .  Cidades inteligentes e mobilidade urbana .  Cadernos FGV Projetos , n. 24, 2014 (adaptado).\n A parti r do conceito de cidade inteligente exposto nos textos, faça o que se pede nos itens a seguir.\na)  Explique de que modo as cidades inteligentes podem contribuir para a melhoria das questões \nrelacionadas ao desenvolvimento sustentável. (valor: 5,0 pontos)\nb)  Apresente uma proposta de intervenção urbana que pode gerar impacto social e contribuir para a \nmelhoria da vida em comunidade. (valor: 5,0 pontos)",
       "texto_enunciado": "",
@@ -17257,7 +17257,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 2,
@@ -17275,7 +17275,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710727"
+      "criado_em": "2026-08-25T14:37:31.778075"
     },
     {
       "id_questao": "q01",
@@ -17288,17 +17288,17 @@
         {
           "pagina": 5,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 584.7728271484375,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q01.png",
+      "caminho_png": "/questoes/2021_ADS/q01.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q01.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q01.txt",
       "largura": 2185,
-      "altura": 2197,
+      "altura": 2155,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 01  \n A chance de uma criança de baixa renda ter um futuro melhor que a realidade em que nasceu está, \nem maior ou menor grau, relacionada à escolaridade e ao nível de renda de seus pais. Nos países ricos, \no \"elevador social\" anda mais rápido. Nos emergentes, mais devagar. No Brasil, ainda mais lentamente. \nO país ocupa a segunda pior posição em um estudo sobre mobilidade social feito pela Organização \npara a Cooperação e Desenvolvimento Econômico (OCDE), em 2018, com dados de 30 países. Segundo \nos resultados, seriam necessárias nove gerações para que os descendentes de um brasileiro entre os \n10% mais pobres ati ngissem o nível médio de rendimento do país. A esti mati va é a mesma para a \nÁfrica do Sul e só perde para a Colômbia, onde o período de ascensão levaria 11 gerações. Mais de \n1/3 daqueles que nascem entre os 20% mais pobres no Brasil permanece na base da pirâmide, enquanto \napenas 7% consegue chegar aos 20% mais ricos. Filhos de pais na base da pirâmide têm difi culdade \nde acesso à saúde e maior probabilidade de frequentar uma escola com ensino de baixa qualidade. \nA educação precária, em geral, limita as opções para esses jovens no mercado de trabalho. \nSobram-lhes empregos de baixa remuneração, em que a possibilidade de crescimento salarial para \nquem tem pouca qualifi cação é pequena – e a chance de perpetuação do ciclo de pobreza, grande.\n LEMOS, V. Brasil é o segundo pior em mobilidade social em  ranking de 30 países. BBC News Brasil, 15 jun. 2018 (adaptado).\n A parti r das informações apresentadas, é correto afi rmar que\nA  o fator ambiental e o fator demográfi co afetam a mobilidade social observada, sendo ela menor nos \npaíses que apresentam as maiores taxas de natalidade.\nB  a baixa organização social dos economicamente menos favorecidos determina a baixa mobilidade \nsocial da base para o topo da pirâmide.\nC  a mobilidade social é caracterizada por um fator ancestral que se revela ao longo das gerações, sendo \num limitador da efi cácia de políti cas públicas de redução das desigualdades sociais.\nD  a análise de mobilidade social permite a observação de um ciclo vicioso, que se caracteriza por uma \nsubida nas camadas sociais seguida de uma queda, repeti ndo-se esse ciclo de modo sucessivo.\nE  a ascensão social depende de fatores viabilizadores que estão fora do alcance das camadas pobres, \no que ocasiona confl itos sociais em busca do acesso a tais fatores.",
       "texto_enunciado": "",
@@ -17307,7 +17307,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 1,
@@ -17325,7 +17325,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710732"
+      "criado_em": "2026-08-25T14:37:31.778082"
     },
     {
       "id_questao": "q02",
@@ -17339,25 +17339,25 @@
         {
           "pagina": 6,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 7,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 654.7782592773438,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q02.png",
+      "caminho_png": "/questoes/2021_ADS/q02.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q02.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q02.txt",
       "largura": 2185,
-      "altura": 5337,
+      "altura": 5149,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 02  \n TEXTO I\n \n Disponível em: htt ps://www.facebook.com/embrapa/photos/a.609357055926350/733391400189581/?type=1&theater. \nAcesso em: 27 maio 2020.\n\nTEXTO II\n Em alguns países da Europa, permite-se que um produto de menor valor estéti co seja comercializado. \nEstamos falando de um pepino deformado ou de uma cebola pequena, mas não de um produto \ncontaminado com resíduos químicos ou agentes biológicos. No caso do Brasil, o problema vai além da \naparência, porque há hortaliças ruins – contaminadas, murchas, machucadas – que chegam às bancas \npara ser comercializadas.\n Mas, se nos dois contextos há perda de alimentos e preconceito em relação às hortaliças fora do padrão \nvisual, mas boas para o consumo, quais seriam as alternati vas para evitar o desperdício e melhorar a \nqualidade dos produtos? Para os pesquisadores do assunto, não adianta replicar a experiência europeia no \nBrasil, de exigir hortaliças esteti camente perfeitas, porque também teríamos produtos sendo desprezados \nainda na etapa de produção. Não devemos passar de um mercado pouco exigente, que gera desperdício \nno varejo e nas residências, para um mercado exigente que gera perda no campo.\n A solução do problema é conscienti zar os diversos elos da cadeia produti va, especialmente varejistas \ne consumidores, para que sejam esclarecidos sobre quais aspectos da aparência das hortaliças \ncomprometem a qualidade. Quanto maior a exigência do mercado por hortaliças de aparência perfeita, \nmaior o desperdício de alimentos. Por sua vez, quanto maior a exigência por hortaliças sem danos, \ncausados pela falta de cuidado e pela falta de higiene, menor será a perda de alimentos e maior a \nqualidade da alimentação da população brasileira.\n Disponível em: htt ps://www.embrapa.br/busca-de-noti cias/-/noti cia/29626389/manuseio-correto-preserva-a-qualidade-e\n-a-vida-uti l-das-hortalicas. Acesso em: 27 maio 2020 (adaptado).\n Considerando as informações apresentadas nos textos, avalie as asserções a seguir e a relação proposta \nentre elas.\nI.  O texto I sinteti za uma informação principal do texto II, ao apresentar critérios disti nti vos de \nalterações visuais que têm efeitos puramente estéti cos em produtos alimentí cios daquelas que \ntêm implicações na qualidade desses produtos.\n PORQUE\nII.  O texto II divulga que o aumento das perdas na cadeia produti va de hortaliças no Brasil \né proporcional à elevação de exigências dos consumidores pela aparência de produtos \nagropecuários.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE  As asserções I e II são proposições falsas.",
       "texto_enunciado": "",
@@ -17368,7 +17368,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 2,
@@ -17386,7 +17386,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710738"
+      "criado_em": "2026-08-25T14:37:31.778089"
     },
     {
       "id_questao": "q03",
@@ -17399,19 +17399,19 @@
         {
           "pagina": 8,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q03.png",
+      "caminho_png": "/questoes/2021_ADS/q03.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q03.txt",
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 03  \n TEXTO I\n Na Alemanha nazista, no auge da Segunda Guerra Mundial, surgiu a necessidade de abrir mais espaço \npara os veículos automoti vos. Com muitos ciclistas, as bicicletas viraram um empecilho, forçando a \ncriação de um espaço exclusivo para elas – talvez as primeiras ciclovias do mundo. Mas, se na década \nde 1940 os veículos eram prioridade, hoje, o uso de bicicletas – e das ciclovias – surge como uma das \nprincipais alternati vas para melhorar a qualidade de vida nas grandes metrópoles. Quando políti cas \npúblicas incenti vam o uso de bicicletas como meio de transporte para curtas e médias distâncias, um \nnovo panorama se abre.\n COSTA, J. Ciclovias ajudam a humanizar o espaço urbano.  Ciência e Cultura . v.  68, n. 2, São Paulo, 2016 (adaptado) . \n TEXTO II\n \n Disponível em: htt p://dopedal.blogspot.com/2012/05/charge-do-silverio-voz-da-serra.html. Acesso em: 29 de abr. 2020.\n Considerando as informações apresentadas e o uso de bicicletas como alternati va para melhorar a \nqualidade de vida nas cidades, avalie as afi rmações a seguir.\nI.  Dado que as bicicletas são veículos que ocupam pouco espaço na malha viária, prescinde-se de \ninvesti mentos públicos em construção de ciclovias, sendo prioritárias campanhas de conscienti zação \nde motoristas a respeito dos benefí cios do uso da bicicleta como meio de transporte.\nII.  O uso das bicicletas como meio de transporte contribui para a melhoria da qualidade de vida nas \ngrandes metrópoles, pois elas não emitem poluentes, além de esse uso proporcionar a práti ca de \nati vidade fí sica.\nIII.  A parti r da Segunda Guerra Mundial, durante o governo da Alemanha nazista, o uso da bicicleta \ncomo meio de transporte tornou-se efi caz e passou a prevalecer nas cidades europeias.\n É correto o que se afi rma em\nA  I, apenas.\nB  II, apenas.\nC  I e III, apenas.\nD  II e III, apenas.\nE  I, II e III.",
+      "texto_completo": "QUESTÃO 03  \n TEXTO I\n Na Alemanha nazista, no auge da Segunda Guerra Mundial, surgiu a necessidade de abrir mais espaço \npara os veículos automoti vos. Com muitos ciclistas, as bicicletas viraram um empecilho, forçando a \ncriação de um espaço exclusivo para elas – talvez as primeiras ciclovias do mundo. Mas, se na década \nde 1940 os veículos eram prioridade, hoje, o uso de bicicletas – e das ciclovias – surge como uma das \nprincipais alternati vas para melhorar a qualidade de vida nas grandes metrópoles. Quando políti cas \npúblicas incenti vam o uso de bicicletas como meio de transporte para curtas e médias distâncias, um \nnovo panorama se abre.\n COSTA, J. Ciclovias ajudam a humanizar o espaço urbano.  Ciência e Cultura . v.  68, n. 2, São Paulo, 2016 (adaptado) . \n TEXTO II\n \n Disponível em: htt p://dopedal.blogspot.com/2012/05/charge-do-silverio-voz-da-serra.html. Acesso em: 29 de abr. 2020.\n Considerando as informações apresentadas e o uso de bicicletas como alternati va para melhorar a \nqualidade de vida nas cidades, avalie as afi rmações a seguir.\nI.  Dado que as bicicletas são veículos que ocupam pouco espaço na malha viária, prescinde-se de \ninvesti mentos públicos em construção de ciclovias, sendo prioritárias campanhas de conscienti zação \nde motoristas a respeito dos benefí cios do uso da bicicleta como meio de transporte.\nII.  O uso das bicicletas como meio de transporte contribui para a melhoria da qualidade de vida nas \ngrandes metrópoles, pois elas não emitem poluentes, além de esse uso proporcionar a práti ca de \nati vidade fí sica.\nIII.  A parti r da Segunda Guerra Mundial, durante o governo da Alemanha nazista, o uso da bicicleta \ncomo meio de transporte tornou-se efi caz e passou a prevalecer nas cidades europeias.\n É correto o que se afi rma em\nA  I, apenas.\nB  II, apenas.\nC  I e III, apenas.\nD  II e III, apenas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -17420,7 +17420,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 3,
@@ -17438,7 +17438,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710742"
+      "criado_em": "2026-08-25T14:37:31.778095"
     },
     {
       "id_questao": "q04",
@@ -17451,17 +17451,17 @@
         {
           "pagina": 9,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 577.1089477539062,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q04.png",
+      "caminho_png": "/questoes/2021_ADS/q04.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q04.txt",
       "largura": 2185,
-      "altura": 2165,
+      "altura": 2123,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 04  \n Além do contexto econômico, o avanço da tecnologia também é um dos responsáveis pelo aumento dos \ntrabalhadores informais. E a tendência de contratação de  freelancers por meio de plataformas digitais,\ncomo aplicati vos de  delivery e de mobilidade urbana, ganhou até um nome:  Gig Economy , ou economia \ndos bicos. Para os gigantes de tecnologia detentores desses aplicati vos, os motoristas são trabalhadores \nautônomos, que não possuem vínculo empregatí cio. Além de não estarem sujeitos a nenhuma \nregulamentação e proteção legal, os profi ssionais que desenvolvem esse ti po de trabalho deixam de \ncontribuir para a Previdência Social e de possuir benefí cios como Fundo de Garanti a por Tempo de \nServiço (FGTS), férias e décimo terceiro salário. Não obstante, ainda arcam com todo o custo da ati vidade \nque exercem. Em uma reportagem que ouviu alguns desses trabalhadores, motoristas afi rmaram sofrer \ncom problemas de coluna e com o estresse no trânsito, além das longas jornadas de trabalho. Por esses \nmoti vos, a  Gig Economy está no centro de uma discussão mundial acerca da responsabilidade dessas \ncompanhias milionárias sobre as condições de trabalho da mão de obra que contratam. No meio do limbo \njurídico, quem sofre são os trabalhadores dessas plataformas, que fi cam duplamente desprotegidos ― \npelas empresas e pelo Estado.\n Disponível em: htt ps://exame.abril.com.br/carreira/quais-sao-as-consequencia-do-trabalho-informal-no-pais/. \nAcesso em: 18 abr. 2020 (adaptado).\n A parti r das informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI.  Trabalhadores autônomos informais que atuam em plataformas digitais sem qualquer vínculo \nempregatí cio, desprotegidos de regulamentação ou lei trabalhista, compõem a  Gig Economy .\n PORQUE\nII.  Os trabalhadores, na  Gig Economy , arcam com todos os custos necessários para desempenhar \no seu trabalho, ganham por produção e enfrentam longas jornadas diárias, o que os deixa mais \ndesgastados e com problemas de saúde.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE  As asserções I e II são proposições falsas.",
       "texto_enunciado": "",
@@ -17470,7 +17470,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 4,
@@ -17488,7 +17488,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710746"
+      "criado_em": "2026-08-25T14:37:31.778101"
     },
     {
       "id_questao": "q05",
@@ -17502,27 +17502,27 @@
         {
           "pagina": 10,
           "x0": 25.0,
-          "y0": 64.71854400634766,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 11,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 326.23980712890625,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q05.png",
+      "caminho_png": "/questoes/2021_ADS/q05.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q05.txt",
       "largura": 2185,
-      "altura": 3968,
+      "altura": 3779,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 05  \n TEXTO I\n Segundo o Ministério da Saúde, em 2017 o Brasil registrou uma média nacional de 5,7 óbitos para \n100 mil habitantes. Na população indígena, foi registrado um número de óbitos três vezes maior que \na média nacional – 15,2. Destes registros, 44,8% (aproximadamente, 6,8 óbitos), são suicídios de \ncrianças e adolescentes entre 10 e 19 anos. Esses dados contrastam com o panorama nacional, \nem que o maior índice é entre adolescentes e adultos de 15 a 20 anos.\n Disponível em: htt ps://www.cvv.org.br/blog/o-suicidio-do-povo-indigena/. Acesso em: 30 de abr. 2020 (adaptado).\n TEXTO II\n Evidências apontam que, em determinadas minorias étnico-raciais, como os indígenas (aborígines ou \npopulações nati vas), o suicídio entre crianças apresenta taxas bem mais elevadas do que as observadas \nna população geral. No Brasil, o enforcamento foi uti lizado mais frequentemente entre indígenas do que \nentre não indígenas, não se observando, no primeiro grupo, suicídios por intoxicação ou por armas de \nfogo. O mapa a seguir apresenta a distribuição dos óbitos por suicídio entre crianças e adolescentes \nindígenas no Brasil, entre os anos de 2010 e 2014.\n \nSOUZA M Mortalidade por suicídio entre crianças indígenas no Brasil Caderno de Saúde Pública v 35 Rio de Janeiro 2019 (adaptado)\n\nConsiderando as informações apresentadas e o alto índice de suicídio da população indígena, avalie as \nafi rmações a seguir.\nI.  O elevado índice de suicídios entre crianças e adolescentes indígenas no país evidencia a \nnecessidade de ações com foco nos direitos fundamentais desses indivíduos.\nII.  Os estados do Pará e de Tocanti ns são os que possuem os maiores índices de suicídio de indígenas \nna faixa etária de 10 a 14 anos.\nIII.  Os povos das tribos originárias do Brasil, no que tange a sua história e preservação cultural, \nnão estão amparados por direitos e garantias constitucionais.\nIV.  O estabelecimento de ações preventi vas ao suicídio nas comunidades indígenas deve considerar\nos elementos globais que afetam a população em geral, na faixa etária entre 15 e 20 anos.\n É correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
+      "texto_completo": "QUESTÃO 05  \n TEXTO I\n Segundo o Ministério da Saúde, em 2017 o Brasil registrou uma média nacional de 5,7 óbitos para \n100 mil habitantes. Na população indígena, foi registrado um número de óbitos três vezes maior que \na média nacional – 15,2. Destes registros, 44,8% (aproximadamente, 6,8 óbitos), são suicídios de \ncrianças e adolescentes entre 10 e 19 anos. Esses dados contrastam com o panorama nacional, \nem que o maior índice é entre adolescentes e adultos de 15 a 20 anos.\n Disponível em: htt ps://www.cvv.org.br/blog/o-suicidio-do-povo-indigena/. Acesso em: 30 de abr. 2020 (adaptado).\n TEXTO II\n Evidências apontam que, em determinadas minorias étnico-raciais, como os indígenas (aborígines ou \npopulações nati vas), o suicídio entre crianças apresenta taxas bem mais elevadas do que as observadas \nna população geral. No Brasil, o enforcamento foi uti lizado mais frequentemente entre indígenas do que \nentre não indígenas, não se observando, no primeiro grupo, suicídios por intoxicação ou por armas de \nfogo. O mapa a seguir apresenta a distribuição dos óbitos por suicídio entre crianças e adolescentes \nindígenas no Brasil, entre os anos de 2010 e 2014.\n\nConsiderando as informações apresentadas e o alto índice de suicídio da população indígena, avalie as \nafi rmações a seguir.\nI.  O elevado índice de suicídios entre crianças e adolescentes indígenas no país evidencia a \nnecessidade de ações com foco nos direitos fundamentais desses indivíduos.\nII.  Os estados do Pará e de Tocanti ns são os que possuem os maiores índices de suicídio de indígenas \nna faixa etária de 10 a 14 anos.\nIII.  Os povos das tribos originárias do Brasil, no que tange a sua história e preservação cultural, \nnão estão amparados por direitos e garantias constitucionais.\nIV.  O estabelecimento de ações preventi vas ao suicídio nas comunidades indígenas deve considerar\nos elementos globais que afetam a população em geral, na faixa etária entre 15 e 20 anos.\n É correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [
@@ -17532,7 +17532,7 @@
         "Banco de Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 5,
@@ -17550,7 +17550,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710751"
+      "criado_em": "2026-08-25T14:37:31.778107"
     },
     {
       "id_questao": "q06",
@@ -17565,17 +17565,17 @@
           "x0": 25.0,
           "y0": 322.23980712890625,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q06.png",
+      "caminho_png": "/questoes/2021_ADS/q06.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q06.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q06.txt",
       "largura": 2185,
-      "altura": 1749,
+      "altura": 1686,
       "confianca": 0.98,
-      "texto_completo": "E  III e IV.\nQUESTÃO 06  \n A pandemia ocasionada pelo novo Coronavírus gerou impactos negati vos na economia e nos negócios, \nintensifi cando problemas sociais no mundo todo. Nos Estados Unidos, um estudo realizado com a \nparceria de duas importantes universidades verifi cou que a expectati va de vida dos norte-americanos \ncaiu 1,1 ano em 2020. A nova expectati va é de 77,4 anos. De acordo com o estudo, esta foi a maior queda \nanual da expectati va de vida já registrada nos últi mos 40 anos.  O declínio é ainda maior se considerada a \nexpectati va de vida para negros que moram no país, cuja queda foi de 2,1 anos. Para a população lati na, \nessa queda foi de 3 anos. O declínio na expectati va de vida dos lati nos é signifi cati vo, uma vez que eles\napresentam menor incidência de condições crônicas que são fatores de risco para a Covid-19 em relação\nàs populações de brancos e negros.\n LOUREIRO, R. Covid-19 reduz gravemente expectativa de vida de negros e latinos nos EUA. Revista Exame, 2021 (adaptado). \nConsiderando as informações apresentadas no texto, avalie as asserções a seguir e a relação proposta \nentre elas.\nI.  O efeito desproporcional da pandemia da Covid-19 na expectati va de vida da população negra e\nlati no-americana estabelece relação com sua situação de vulnerabilidade social.\n PORQUE\nII.  Uma hipótese que pode ser levantada quanto à diminuição da expectati va de vida de negros e \nlati no-americanos está relacionada às suas precárias condições de trabalho, levando-os a maior \npossibilidade de exposição ao contágio pelo novo Coronavírus.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE  As asserções I e II são proposições falsas.",
+      "texto_completo": "E  III e IV.\nQUESTÃO 06  \n A pandemia ocasionada pelo novo Coronavírus gerou impactos negati vos na economia e nos negócios, \nintensifi cando problemas sociais no mundo todo. Nos Estados Unidos, um estudo realizado com a \nparceria de duas importantes universidades verifi cou que a expectati va de vida dos norte-americanos \ncaiu 1,1 ano em 2020. A nova expectati va é de 77,4 anos. De acordo com o estudo, esta foi a maior queda \nanual da expectati va de vida já registrada nos últi mos 40 anos.  O declínio é ainda maior se considerada a \nexpectati va de vida para negros que moram no país, cuja queda foi de 2,1 anos. Para a população lati na, \nessa queda foi de 3 anos. O declínio na expectati va de vida dos lati nos é signifi cati vo, uma vez que eles\napresentam menor incidência de condições crônicas que são fatores de risco para a Covid-19 em relação\nàs populações de brancos e negros.\n LOUREIRO, R. Covid-19 reduz gravemente expectativa de vida de negros e latinos nos EUA. Revista Exame, 2021 (adaptado). \nConsiderando as informações apresentadas no texto, avalie as asserções a seguir e a relação proposta \nentre elas.\nI.  O efeito desproporcional da pandemia da Covid-19 na expectati va de vida da população negra e\nlati no-americana estabelece relação com sua situação de vulnerabilidade social.\n PORQUE\nII.  Uma hipótese que pode ser levantada quanto à diminuição da expectati va de vida de negros e \nlati no-americanos está relacionada às suas precárias condições de trabalho, levando-os a maior \npossibilidade de exposição ao contágio pelo novo Coronavírus.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17584,7 +17584,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 6,
@@ -17602,7 +17602,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710755"
+      "criado_em": "2026-08-25T14:37:31.778113"
     },
     {
       "id_questao": "q07",
@@ -17615,19 +17615,19 @@
         {
           "pagina": 12,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q07.png",
+      "caminho_png": "/questoes/2021_ADS/q07.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q07.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q07.txt",
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 07  \n TEXTO I\n O estudo  Internet and American Life Project , do  Pew Research Center , demonstrou que, em 2009, \nmetade das buscas de temas relacionados à saúde na internet era feita para terceiros, e quase seis em \ncada dez pessoas que usaram meios digitais para se informar sobre saúde mudaram o enfoque com que \ncuidavam da própria saúde ou da de algum parente. Esti ma-se que exista uma correlação positi va entre o \ngrau de conhecimento das doenças (seus fatores de risco, formas de prevenção e tratamento) e a taxa de \nadoção de hábitos saudáveis pela sociedade. O aumento nos diagnósti cos precoces do câncer de mama \ne a diminuição do tabagismo são dois exemplos clássicos a favor dessa ideia. Acredita-se que indivíduos \nmais bem informados aderem a comportamentos preventi vos e reagem melhor a uma enfermidade.\n Infelizmente, a divulgação de temas médicos é uma faca de dois gumes: quem não sabe nada está mais \nperto da verdade do que a pessoa cuja mente está cheia de informações equivocadas. Conseguir que \na mensagem seja bem decodifi cada pelos receptores é o grande desafi o que preocupa (ou deveria \npreocupar) tanto médicos quanto jornalistas.\n TABAKMAN, R.  A saúde na mídia : medicina para jornalistas, jornalismo para médicos. Trad. Lizandra Magon de Almeida. \nSão Paulo: Summus Editorial, 2013 (adaptado).\n TEXTO II\n De acordo com os dados da últi ma TIC Domicílios — pesquisa realizada anualmente com o objeti vo de \nmapear formas de uso das tecnologias de informação e comunicação no país —, aproximadamente \n46% dos usuários de Internet no Brasil uti lizam a rede à procura de informações médicas sobre saúde em \ngeral e serviços de saúde. Para uma médica e pesquisadora da Fiocruz, os indivíduos sempre procuraram \ninformações sobre seu estado de saúde, mas é inegável que o surgimento da Internet trouxe um aumento \nsignifi cati vo do acesso a informações amplifi cando assim os refl exos deste processo e alterando a relação \nentre os indivíduos. A pesquisadora chama a atenção para o perigo do autodiagnósti co e da automedicação, \nque podem gerar consequências nefastas tanto para os indivíduos quanto para a saúde pública, uma vez \nque boa parte dos estudos mostra que não são adotados critérios durante as buscas na Internet.\n Disponível em: htt ps://agencia.fi ocruz.br/conteudos-sobre-saude-na-web-alteram-relacao-medico-paciente. Acesso em: 16 abr. 2020 (adaptado).\n Considerando a abordagem dos textos, avalie as afi rmações a seguir.\nI.  Os textos I e II evidenciam a importância de critérios nas buscas realizadas pelos usuários da \nInternet por informações sobre patologias, pois algumas informações podem trazer riscos à saúde \npor fomentarem a compreensão equivocada de sintomas e profi laxias.\nII.  O texto I afi rma que a disponibilização de informações sobre temas de saúde nos meios de \ncomunicação tem contribuído para o esclarecimento da população acerca de hábitos saudáveis.\nIII.  No texto II, defende-se o acesso a informações relati vas a pesquisas da área da saúde nos veículos \nde comunicação, pois elas permitem que o indivíduo seja proati vo na prevenção de patologias.\n É correto o que se afi rma em\nA  I, apenas.\nB  III, apenas.\nC  I e II, apenas.\nD  II e III, apenas.\nE I, II e III.",
+      "texto_completo": "QUESTÃO 07  \n TEXTO I\n O estudo  Internet and American Life Project , do  Pew Research Center , demonstrou que, em 2009, \nmetade das buscas de temas relacionados à saúde na internet era feita para terceiros, e quase seis em \ncada dez pessoas que usaram meios digitais para se informar sobre saúde mudaram o enfoque com que \ncuidavam da própria saúde ou da de algum parente. Esti ma-se que exista uma correlação positi va entre o \ngrau de conhecimento das doenças (seus fatores de risco, formas de prevenção e tratamento) e a taxa de \nadoção de hábitos saudáveis pela sociedade. O aumento nos diagnósti cos precoces do câncer de mama \ne a diminuição do tabagismo são dois exemplos clássicos a favor dessa ideia. Acredita-se que indivíduos \nmais bem informados aderem a comportamentos preventi vos e reagem melhor a uma enfermidade.\n Infelizmente, a divulgação de temas médicos é uma faca de dois gumes: quem não sabe nada está mais \nperto da verdade do que a pessoa cuja mente está cheia de informações equivocadas. Conseguir que \na mensagem seja bem decodifi cada pelos receptores é o grande desafi o que preocupa (ou deveria \npreocupar) tanto médicos quanto jornalistas.\n TABAKMAN, R.  A saúde na mídia : medicina para jornalistas, jornalismo para médicos. Trad. Lizandra Magon de Almeida. \nSão Paulo: Summus Editorial, 2013 (adaptado).\n TEXTO II\n De acordo com os dados da últi ma TIC Domicílios — pesquisa realizada anualmente com o objeti vo de \nmapear formas de uso das tecnologias de informação e comunicação no país —, aproximadamente \n46% dos usuários de Internet no Brasil uti lizam a rede à procura de informações médicas sobre saúde em \ngeral e serviços de saúde. Para uma médica e pesquisadora da Fiocruz, os indivíduos sempre procuraram \ninformações sobre seu estado de saúde, mas é inegável que o surgimento da Internet trouxe um aumento \nsignifi cati vo do acesso a informações amplifi cando assim os refl exos deste processo e alterando a relação \nentre os indivíduos. A pesquisadora chama a atenção para o perigo do autodiagnósti co e da automedicação, \nque podem gerar consequências nefastas tanto para os indivíduos quanto para a saúde pública, uma vez \nque boa parte dos estudos mostra que não são adotados critérios durante as buscas na Internet.\n Disponível em: htt ps://agencia.fi ocruz.br/conteudos-sobre-saude-na-web-alteram-relacao-medico-paciente. Acesso em: 16 abr. 2020 (adaptado).\n Considerando a abordagem dos textos, avalie as afi rmações a seguir.\nI.  Os textos I e II evidenciam a importância de critérios nas buscas realizadas pelos usuários da \nInternet por informações sobre patologias, pois algumas informações podem trazer riscos à saúde \npor fomentarem a compreensão equivocada de sintomas e profi laxias.\nII.  O texto I afi rma que a disponibilização de informações sobre temas de saúde nos meios de \ncomunicação tem contribuído para o esclarecimento da população acerca de hábitos saudáveis.\nIII.  No texto II, defende-se o acesso a informações relati vas a pesquisas da área da saúde nos veículos \nde comunicação, pois elas permitem que o indivíduo seja proati vo na prevenção de patologias.\n É correto o que se afi rma em\nA  I, apenas.\nB  III, apenas.\nC  I e II, apenas.\nD  II e III, apenas.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -17635,7 +17635,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 7,
@@ -17653,7 +17653,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710760"
+      "criado_em": "2026-08-25T14:37:31.778118"
     },
     {
       "id_questao": "q08",
@@ -17666,17 +17666,17 @@
         {
           "pagina": 13,
           "x0": 25.0,
-          "y0": 64.5325698852539,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 584.8255004882812,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q08.png",
+      "caminho_png": "/questoes/2021_ADS/q08.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q08.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q08.txt",
       "largura": 2185,
-      "altura": 2199,
+      "altura": 2155,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 08  \nQue é democracia? Em seu famoso discurso em Gett ysburg, Abraham Lincoln disse que “a democracia \né o governo do povo, feito para o povo e pelo povo, e responsável perante o povo”. O crédito desta \ndefi nição é, na verdade, de Daniel Webster, que a elaborou 33 anos antes de Lincoln em outro discurso. \nNesta ideia de “governo pelo povo e para o povo” surge uma questão essencial: e quando o povo esti ver \nem desacordo? E quando o povo ti ver preferências divergentes? O politólogo Arend Lijphart ressalta \nque há duas respostas principais: a resposta da “democracia majoritária” e a resposta da “democracia \nconsensual”. Na democracia majoritária, a resposta é simples e direta: deve-se governar para a maioria \ndo povo. A resposta alternati va, no modelo da democracia consensual é: deve-se governar para o máximo \npossível de pessoas.\n A virtude da democracia consensual é buscar consensos mais amplos no que é interesse de todos;\no desafi o da democracia consensual pressupõe lideranças políti cas mais maduras, tanto no governo \nquanto na oposição. Democratas genuínos têm aversão à ideia do totalitarismo e combatem os delírios \ndaqueles que desejam poder sem limites.\n Disponível em: htt ps://g1.globo.com/politi ca/blog/matheus-leitao/post/2020/02/25/democracia-consensual-contra-a-ti rania-da-maioria.ghtml. \nAcesso em: 2 maio 2020 (adaptado).\n A parti r dos argumentos expostos no texto, avalie as afi rmações a seguir.\nI.  O bem comum, a ser estabelecido por um governo democráti co, nem sempre está associado às \nopiniões da maioria do povo.\nII.  A democracia consensual é caracterizada pelo consenso a ser alcançado entre situação e oposição, \nnas decisões governamentais.\nIII.  Circunstâncias políti cas de polarização, marcadas pela alta competi ti vidade e combati vidade entre \nposições divergentes, caracterizam um modelo de democracia majoritária.\nIV.  Democracia consensual pressupõe que a situação políti ca no poder considere em suas decisões as\nnecessidades das minorias, no senti do de governar para todo o povo.\n É correto apenas o que se afi rma em\nA  I e II.\nB  I e IV.\nC  II e III.\nD  I, III e IV.\nE  II, III e IV.",
       "texto_enunciado": "",
@@ -17685,7 +17685,7 @@
       "categorias": [
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 8,
@@ -17703,7 +17703,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710764"
+      "criado_em": "2026-08-25T14:37:31.778124"
     },
     {
       "id_questao": "qd03",
@@ -17716,26 +17716,26 @@
         {
           "pagina": 14,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 217.9296417236328,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd03.png",
+      "caminho_png": "/questoes/2021_ADS/qd03.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd03.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd03.txt",
       "largura": 2185,
-      "altura": 668,
+      "altura": 626,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO DISCURSIVA 03\t\nConsidere a realização de uma pesquisa com 1 000 pessoas para obtenção das seguintes informações: \no valor da maior altura; o valor da menor altura; a média das alturas; quantas pessoas têm altura inferior \nà média das alturas.\nConsidere, ainda, que um programador foi selecionado para desenvolver um modelo de código que \nsoluciona o problema automatizando a coleta das alturas e a geração das informações.\nCom base nas informações apresentadas, desenvolva o código adequado para resolver o problema \nusando pseudocódigo ou uma linguagem de programação. (valor: 10,0 pontos)\nCOMPONENTE ESPECÍFICO",
+      "texto_completo": "QUESTÃO DISCURSIVA 03\t\nConsidere a realização de uma pesquisa com 1 000 pessoas para obtenção das seguintes informações: \no valor da maior altura; o valor da menor altura; a média das alturas; quantas pessoas têm altura inferior \nà média das alturas.\nConsidere, ainda, que um programador foi selecionado para desenvolver um modelo de código que \nsoluciona o problema automatizando a coleta das alturas e a geração das informações.\nCom base nas informações apresentadas, desenvolva o código adequado para resolver o problema \nusando pseudocódigo ou uma linguagem de programação. (valor: 10,0 pontos)",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 3,
@@ -17753,7 +17753,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710768"
+      "criado_em": "2026-08-25T14:37:31.778129"
     },
     {
       "id_questao": "qd04",
@@ -17766,17 +17766,17 @@
         {
           "pagina": 15,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 364.5374450683594,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd04.png",
+      "caminho_png": "/questoes/2021_ADS/qd04.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd04.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd04.txt",
       "largura": 2185,
-      "altura": 1279,
+      "altura": 1237,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 04\t\nUm analista de requisitos identificou as seguintes histórias de usuários para um sistema web de reserva \nde passagens de uma empresa aérea:\nHST 01: COMO cliente, GOSTARIA de me cadastrar no site da empresa informando meu e-mail, nome, CPF, \ntelefone e endereço PARA poder usar os serviços web da empresa.\nHST 02: COMO cliente, GOSTARIA de pesquisar por preços das passagens aéreas informando data, hora, \ncidade e aeroporto de ida e de volta PARA poder escolher uma opção de reserva que me interessa.\nHST 03: COMO cliente, GOSTARIA de confirmar uma reserva de passagem aérea selecionada, escolhendo \numa das formas de pagamento disponibilizada pela empresa PARA poder viajar para o local escolhido \nna reserva.\nHST 04: COMO cliente, GOSTARIA de fazer o check-in online da reserva PARA poder realizar meu embarque.\nTendo por base essas histórias de usuários, elabore um diagrama de classes da UML (Unified Modeling \nLanguage) para o sistema, identificando as classes (máximo seis), atributos e associações entre as classes \ncom as respectivas multiplicidades. Deverão ser representadas as reservas de ida e de volta como classes \nde uma associação do tipo generalização (herança) e também ser identificados pelo menos três métodos \npara a classe Reserva. Para as demais classes não é necessário identificar os métodos. Também não há \nnecessidade de identificar a multiplicidade dos atributos nas classes. (valor: 10,0 pontos).",
       "texto_enunciado": "",
@@ -17786,7 +17786,7 @@
         "Engenharia de Software",
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 4,
@@ -17804,7 +17804,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710772"
+      "criado_em": "2026-08-25T14:37:31.778135"
     },
     {
       "id_questao": "qd05",
@@ -17818,25 +17818,25 @@
         {
           "pagina": 16,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 17,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 324.47052001953125,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd05.png",
+      "caminho_png": "/questoes/2021_ADS/qd05.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd05.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd05.txt",
       "largura": 2185,
-      "altura": 3960,
+      "altura": 3772,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO DISCURSIVA 05\t\nCom a finalidade de melhorar o atendimento e priorizar os casos mais urgentes, a direção de um hospital \ncriou um sistema de triagem em que um profissional da saúde classifica a ordem de atendimento com \nbase numa avaliação prévia do paciente, entregando-lhe um cartão numerado verde (V) ou amarelo (A), \nque define o menor ou maior grau de urgência da ocorrência, respectivamente. Para informatizar esse \nprocesso, o software desenvolvido tem como base o seguinte trecho de código-fonte:\n1 \n2 \n3 \n4 \n5 \n6 \n7 \n8 \n9 \n10 \n11 \n12 \n13 \n14 \n15 \n16 \n17 \n18 \n19 \n20 \n21 \n22 \n23 \n24 \n25 \n26 \n27 \n28 \n29 \n30 \n31 \n32 \n33 \n34 \n35 \n36 \n37 \nstruct lista { \nint numero; \nchar cor; \nstruct lista* prox; \n}; \ntypedef struct lista Lista; \nLista* inserir_fim(Lista* l, Lista* no) { \nLista* aux; \nno->prox = NULL; \naux = l; \nwhile (aux->prox != NULL) \naux = aux->prox; \naux->prox = no; \nreturn l; \n} \nLista* inserir(Lista* l, int numero, char cor) { \nLista* no = (Lista*) malloc(sizeof(Lista)); \nno->numero = numero; \nno->cor = cor; \nif (l == NULL) { \nno->prox = l; \nl = no; \n} else { \nif (no->cor == 'V') \nl = inserir_fim(l, no); \nelse \nl = inserir_prioridade(l, no); \n} \nreturn l; \n}\n\nNa linha 21, a função inserir recebe o número e a cor do cartão entregue ao paciente na triagem. \nPacientes com cartão verde são inseridos no final da fila pela função inserir_fim (linhas 9-19). \nPacientes com cartão amarelo têm prioridade no atendimento e são inseridos no início da fila, \nem ordem de chegada, pela função inserir_prioridade. Portanto, se são entregues os cartões \n10-V, 11-V, 5-A, 12-V e 6-A, nessa ordem, a fila deve ficar assim organizada:\n5 A\n10\n1\n6 A\nV\n11 V\n12 V\nConsiderando o processo de triagem descrito e o trecho de código-fonte apresentado, implemente a \nfunção inserir_prioridade conforme indicado.\nLista* inserir_prioridade(Lista* l, Lista* no)\n(valor: 10,0 pontos)",
       "texto_enunciado": "",
@@ -17846,7 +17846,7 @@
         "Algoritmos e Estruturas de Dados",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 5,
@@ -17864,7 +17864,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710777"
+      "criado_em": "2026-08-25T14:37:31.778141"
     },
     {
       "id_questao": "q09",
@@ -17877,17 +17877,17 @@
         {
           "pagina": 18,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 280.73321533203125,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q09.png",
+      "caminho_png": "/questoes/2021_ADS/q09.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q09.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q09.txt",
       "largura": 2185,
-      "altura": 930,
+      "altura": 888,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 09\t\nA etapa de definição de requisitos é voltada para estabelecer quais as funções são requeridas pelo sistema \ne as restrições sobre a operação e o desenvolvimento do software. Os requisitos de software podem ser \nclassificados como requisitos funcionais e não funcionais.\nSOMMERVILLE, I. Engenharia de Software, 10. ed. São Paulo: Pearson Education, 2019 (adaptado).\nConsiderando as informações do texto, assinale a alternativa em que o item é um requisito funcional.\nA\t O software deve ser operacionalizado no sistema Linux.\nB\t O tempo de desenvolvimento não deve ultrapassar seis meses.\nC\t O software deve emitir relatórios de compras a cada quinze dias.\nD\t O tempo de resposta do sistema não deve ultrapassar 30 segundos.\nE\t A base de dados deve ser protegida para acesso apenas de usuários autorizados.",
       "texto_enunciado": "",
@@ -17896,7 +17896,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 9,
@@ -17914,7 +17914,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710781"
+      "criado_em": "2026-08-25T14:37:31.778334"
     },
     {
       "id_questao": "q10",
@@ -17930,32 +17930,32 @@
           "x0": 25.0,
           "y0": 276.73321533203125,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 19,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q10.png",
+      "caminho_png": "/questoes/2021_ADS/q10.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q10.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q10.txt",
       "largura": 2185,
-      "altura": 4787,
+      "altura": 4578,
       "confianca": 0.98,
-      "texto_completo": "E\np\ng\np\np\nQUESTÃO 10\t\nUma fábrica adquiriu máquinas de costura industrial para a produção de jogos de toalhas de mesa e guardanapos \nde tecido com estampas quadriculadas. Cada quadrículo tem tamanho padrão de 5 cm X 5 cm. Para a configuração \nda costura, é preciso um programa de computador para criar um molde em que sejam informadas as quantidades \nde quadrículos por comprimento e por largura, além do desenho da estampa a ser costurada. Por exemplo, \npara um guardanapo de tecido que tenha 30 cm X 30 cm, com uma estampa representada pelo caractere “#”, \no seguinte molde precisa ser criado:\nComo uma toalha pode ter, no máximo, 250 cm de comprimento e 200 cm de largura, o programador \ndeclarou uma matriz char molde[40][50] para ser possível representar moldes cujas medidas \ncompreendam esses limites. Ele também implementou, entre outras, as seguintes funções:\n- criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à \nmatriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que \nrepresenta a estampa;\n- alternar_estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n5 cm\n5 cm\n\nConsiderando o cenário descrito, que alternativa a seguir apresenta a implementação correta das funções \ncriar_molde e alternar_estampa?\nA\t char alternar_estampa(char estampa, char *proxima) {      \n\t\n *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nB\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n}\nC\t char alternar_estampa(char estampa, char *proxima) {  \n    return *proxima == estampa ? ' ' : estampa;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nD\t char alternar_estampa(char estampa, char *proxima) {  \n    *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n        proxima = molde[i][0];  \n    }  \n}\nE\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) { \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n        proxima = molde[i][0];  \n    }  \n}",
+      "texto_completo": "E\np\ng\np\np\nQUESTÃO 10\t\nUma fábrica adquiriu máquinas de costura industrial para a produção de jogos de toalhas de mesa e guardanapos \nde tecido com estampas quadriculadas. Cada quadrículo tem tamanho padrão de 5 cm X 5 cm. Para a configuração \nda costura, é preciso um programa de computador para criar um molde em que sejam informadas as quantidades \nde quadrículos por comprimento e por largura, além do desenho da estampa a ser costurada. Por exemplo, \npara um guardanapo de tecido que tenha 30 cm X 30 cm, com uma estampa representada pelo caractere “#”, \no seguinte molde precisa ser criado:\nComo uma toalha pode ter, no máximo, 250 cm de comprimento e 200 cm de largura, o programador \ndeclarou uma matriz char molde[40][50] para ser possível representar moldes cujas medidas \ncompreendam esses limites. Ele também implementou, entre outras, as seguintes funções:\n- criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à \nmatriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que \nrepresenta a estampa;\n- alternar estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n5 cm\n5 cm\n\nConsiderando o cenário descrito, que alternativa a seguir apresenta a implementação correta das funções \ncriar_molde e alternar_estampa?\nA\t char alternar_estampa(char estampa, char *proxima) {      \n\t\n *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nB\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n}\nC\t char alternar_estampa(char estampa, char *proxima) {  \n    return *proxima == estampa ? ' ' : estampa;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++)  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n}\nD\t char alternar_estampa(char estampa, char *proxima) {  \n    *proxima = *proxima == estampa ? ' ' : estampa;  \n    return *proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) {  \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, &proxima);  \n        proxima = molde[i][0];  \n    }  \n}\nE\t char alternar_estampa(char estampa, char proxima) {  \n    proxima = proxima == estampa ? ' ' : estampa;  \n    return proxima;  \n}  \n \nvoid criar_molde(char molde[][50], int c, int l, char estampa) { \n    char proxima = estampa;  \n    for (int i = 0; i < l; i++) {  \n        for (int j = 0; j < c; j++)  \n            molde[i][j] = alternar_estampa(estampa, proxima);  \n        proxima = molde[i][0];  \n    }  \n}",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 10,
@@ -17973,7 +17973,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710786"
+      "criado_em": "2026-08-25T14:37:31.778342"
     },
     {
       "id_questao": "q11",
@@ -17986,19 +17986,19 @@
         {
           "pagina": 20,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 280.56,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 1
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q11.png",
+      "caminho_png": "/questoes/2021_ADS/q11.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q11.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q11.txt",
       "largura": 1095,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 11\t\nO código Java, a seguir, contém a implementação \nde uma Pilha utilizando a estratégia encadeada.\npublic class No{\npublic int dado;\npublic No prox;\npublic No(int dado){\nthis.dado = dado;\n}\n}\npublic class PilhaEncadeada{\nprivate No topo;\npublic int pop(){\nif (topo == null)\nreturn -1;\nNo lixo = topo;\ntopo = topo.prox;\nlixo.prox = null;\nreturn lixo.dado;\n}\npublic int top(){\nif (topo == null)\nreturn -1;\nreturn (topo.dado);\n}\n}\nCom base no exposto, assinale a opção que possui \na implementação correta do método push para \nessa Pilha.\nA\t public void push(int elemento){ \nNo novo = new No(elemento);  \nif(topo == null)  \n  topo = novo;  \nelse  \n  topo.prox = novo;  \n}\nB\t public void push(int elemento){    \n  No novo = new No(elemento);  \n  topo = novo;  \n}\nC\t public void push(int elemento){  \ntopo.dado = elemento;  \n}\nD\t public void push(int elemento){  \n  No novo = new No(elemento);  \n  while (topo != null)  \n    topo = topo.prox;  \n  topo.prox = novo;  \n}\nE\t public void push(int elemento){  \n  No novo = new No(elemento);      \n  novo.prox = topo;  \n  topo = novo;  \n}",
+      "texto_completo": "QUESTÃO 11\t\nO código Java, a seguir, contém a implementação \nde uma Pilha utilizando a estratégia encadeada.\npublic class No{\npublic int dado;\npublic No prox;\npublic No(int dado){\nthis.dado = dado;\n}\n}\npublic class PilhaEncadeada{\nprivate No topo;\npublic int pop(){\nif (topo == null)\nreturn -1;\nNo lixo = topo;\ntopo = topo.prox;\nlixo.prox = null;\nreturn lixo.dado;\n}\npublic int top(){\nif (topo == null)\nreturn -1;\nreturn (topo.dado);\n}\n}\nCom base no exposto, assinale a opção que possui \na implementação correta do método push para \nessa Pilha.\nA\t public void push(int elemento){ \nNo novo = new No(elemento);  \nif(topo == null)  \n  topo = novo;  \nelse  \n  topo.prox = novo;  \n}\nB\t public void push(int elemento){    \n  No novo = new No(elemento);  \n  topo = novo;  \n}\nC\t public void push(int elemento){  \ntopo.dado = elemento;  \n}\nD\t public void push(int elemento){  \n  No novo = new No(elemento);  \n  while (topo != null)  \n    topo = topo.prox;  \n  topo.prox = novo;  \n}\nE\t public void push(int elemento){  \n  No novo = new No(elemento);      \n  novo.prox = topo;  \n  topo = novo;",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18006,7 +18006,7 @@
         "Algoritmos e Estruturas de Dados",
         "Programação e POO"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 11,
@@ -18024,7 +18024,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710790"
+      "criado_em": "2026-08-25T14:37:31.778347"
     },
     {
       "id_questao": "q12",
@@ -18037,19 +18037,19 @@
         {
           "pagina": 20,
           "x0": 286.56,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q12.png",
+      "caminho_png": "/questoes/2021_ADS/q12.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q12.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q12.txt",
       "largura": 1095,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 12\t\nUma fábrica de software está realizando entrevistas \npara contração de um profissional que esteja \nalinhado às exigências do atual mundo corporativo. \nSabe-se que processos ágeis de desenvolvimento \ntêm se tornado essenciais para empresas que \ndesejam realizar entregas rápidas e frequentes de \nprodutos e/ou serviços de software. Essa empresa \npossui uma equipe de desenvolvimento que faz \nuso de processos ágeis como o Scrum e eXtreme \nProgramming (XP) e o acompanhamento por meio \ndo quadro Kanban. Sendo assim, um conjunto \nde características deve ser verificado durante a \nentrevista para garantir que o candidato a ser \ncontratado possua conhecimentos necessários \npara atuar juntamente a esta equipe.\nCom base no texto e nos processos ágeis de \ndesenvolvimento de software, avalie as afirmações \na seguir.\nI.\t Métodos Ágeis são baseados em ciclos \niterativo e incremental que se concentram \nno desenvolvimento rápido e na flexibilidade \nàs mudanças, com a participação do cliente \nno processo de software.\nII.\t Uma forte característica da XP é a garantia \nda qualidade do código produzido e, para \nisso, os desenvolvedores produzem testes \nautomatizados antes mesmo de codificar \numa funcionalidade.\nIII.\t O planejamento no Scrum é baseado na \nelaboração dos itens do product backlog, \nque é uma lista de funcionalidades desejadas \npelo cliente, sendo o Scrum Master o \nresponsável por gerenciá-lo.\nIV.\t O quadro Kanban permite monitorar a \nevolução das tarefas necessárias durante \no \nprocesso \nágil \nde \ndesenvolvimento \nde \nsoftware, \npossibilitando \num \nacompanhamento de forma visual das \natividades em construção.\nÉ correto apenas o que se afirma em\nA\t II.\nB\t I e III.\nC\t I, II e IV.\nD\t I, III e IV.\nE\t II, III e IV.",
+      "texto_completo": "QUESTÃO 12\t\nUma fábrica de software está realizando entrevistas \npara contração de um profissional que esteja \nalinhado às exigências do atual mundo corporativo. \nSabe-se que processos ágeis de desenvolvimento \ntêm se tornado essenciais para empresas que \ndesejam realizar entregas rápidas e frequentes de \nprodutos e/ou serviços de software. Essa empresa \npossui uma equipe de desenvolvimento que faz \nuso de processos ágeis como o Scrum e eXtreme \nProgramming (XP) e o acompanhamento por meio \ndo quadro Kanban. Sendo assim, um conjunto \nde características deve ser verificado durante a \nentrevista para garantir que o candidato a ser \ncontratado possua conhecimentos necessários \npara atuar juntamente a esta equipe.\nCom base no texto e nos processos ágeis de \ndesenvolvimento de software, avalie as afirmações \na seguir.\nI.\t Métodos Ágeis são baseados em ciclos \niterativo e incremental que se concentram \nno desenvolvimento rápido e na flexibilidade \nàs mudanças, com a participação do cliente \nno processo de software.\nII.\t Uma forte característica da XP é a garantia \nda qualidade do código produzido e, para \nisso, os desenvolvedores produzem testes \nautomatizados antes mesmo de codificar \numa funcionalidade.\nIII.\t O planejamento no Scrum é baseado na \nelaboração dos itens do product backlog, \nque é uma lista de funcionalidades desejadas \npelo cliente, sendo o Scrum Master o \nresponsável por gerenciá-lo.\nIV.\t O quadro Kanban permite monitorar a \nevolução das tarefas necessárias durante \no \nprocesso \nágil \nde \ndesenvolvimento \nde \nsoftware, \npossibilitando \num \nacompanhamento de forma visual das \natividades em construção.\nÉ correto apenas o que se afirma em\nA\t II.\nB\t I e III.\nC\t I, II e IV.\nD\t I, III e IV.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18057,7 +18057,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 12,
@@ -18075,7 +18075,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710794"
+      "criado_em": "2026-08-25T14:37:31.778352"
     },
     {
       "id_questao": "q13",
@@ -18088,17 +18088,17 @@
         {
           "pagina": 21,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 600.8026733398438,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q13.png",
+      "caminho_png": "/questoes/2021_ADS/q13.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q13.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q13.txt",
       "largura": 2185,
-      "altura": 2264,
+      "altura": 2222,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 13\t\nConsidere que as variáveis pilha e fila correspondem, respectivamente, às estruturas de dados do tipo \nPilha e Fila. Para testar as duas estruturas, um programador realizou a série de operações a seguir.\nPilha pilha = new Pilha();\nFila fila = new Fila();\npilha.push(‘A’);\npilha.push(‘B’);\npilha.push(‘C’);\nfila.enqueue(pilha.top());\nfila.enqueue(pilha.top());\nfila.enqueue(‘D’);\npilha.push(fila.dequeue());\nfila.enqueue(fila.dequeue());\nfila.enqueue(pilha.pop());\npilha.push(‘E’);\nfila.enqueue(‘E’);\npilha.pop();\nApós essas operações, ao imprimir o conteúdo de pilha e fila, respectivamente, seria exibido:\nA\t pilha: topo → C → A → E.  \nfila: início → D → A → A → E.\nB\t pilha: topo →A.  \nfila: início → D → B → C → E.\nC\t pilha: topo → C → B → A. \nfila: início → D → C → C → E.\nD\t pilha: topo → B → A. \nfila: início → D → B → C → E.\nE\t pilha: topo → C → B → A. \nfila: início → D → B → C → E.",
       "texto_enunciado": "",
@@ -18107,7 +18107,7 @@
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 13,
@@ -18125,7 +18125,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710798"
+      "criado_em": "2026-08-25T14:37:31.778358"
     },
     {
       "id_questao": "q14",
@@ -18138,17 +18138,17 @@
         {
           "pagina": 22,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 306.4624328613281,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q14.png",
+      "caminho_png": "/questoes/2021_ADS/q14.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q14.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q14.txt",
       "largura": 2185,
-      "altura": 1037,
+      "altura": 995,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 14\t\nUm projeto de integração de um ERP com um CRM não implementou todos os serviços esperados e há falhas \nnos serviços já implementados. Uma auditoria avaliou a situação e identificou que há desentendimentos \nentre os membros da equipe; os membros da qualidade não compreendem o que deve ser avaliado; \ndemandas de novos solicitantes aparecem constantemente; e o patrocinador demora muito a responder \nàs solicitações da equipe. Tudo isso fez com que o projeto ficasse bastante atrasado e com orçamento \nexcedido.\nConsiderando o cenário descrito, o gerente de projeto deve priorizar o gerenciamento de\nA\t custo.\nB\t tempo.\nC\t escopo.\nD\t qualidade.\nE\t partes interessadas.",
       "texto_enunciado": "",
@@ -18157,7 +18157,7 @@
       "categorias": [
         "Governança e Gestão de TI"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 14,
@@ -18175,7 +18175,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710802"
+      "criado_em": "2026-08-25T14:37:31.778363"
     },
     {
       "id_questao": "q15",
@@ -18191,33 +18191,33 @@
           "x0": 25.0,
           "y0": 302.4624328613281,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         },
         {
           "pagina": 23,
           "x0": 25.0,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 280.56,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 1
         },
         {
           "pagina": 23,
           "x0": 286.56,
-          "y0": 55.0,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 671.6112060546875,
           "coluna": 2
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q15.png",
+      "caminho_png": "/questoes/2021_ADS/q15.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q15.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q15.txt",
       "largura": 2185,
-      "altura": 7528,
+      "altura": 6973,
       "confianca": 0.9,
-      "texto_completo": "E pa tes\nte essadas\nQUESTÃO 15\t\nUma fundação municipal de arte e cultura oferece cursos para crianças e adolescentes de até 16 anos. \nOs registros de matrículas são realizados em uma planilha eletrônica ilustrada a seguir, o que dificulta bastante \no controle dos dados frente ao número expressivo de estudantes, muitos dos quais solicitam matrícula em mais \nde um curso. A administração da fundação, então, solicitou o desenvolvimento de um programa para facilitar \no registro e a consulta desses dados, incluindo-se a data de efetivação de cada matrícula, para fins de controles \nespecíficos da secretaria.\nNÚMERO\nNOME \nESTUDANTE\nDATA \nNASC.\nNOME \nRESPONSÁVEL\nCONTATOS\nCURSO\nHORÁRIO\nPROFESSOR(A)\n10\nAda Lovelace\n10/12/2009\nCharles \nBabbage\n(99)99999-0101\ncharles@\nbabbage.com\nViolão Básico\nDesenho\n9h - 10h \n(ter - qui)\n10h - 11h \n(seg - qua)\nDennis Ritchie\nJohn Backus\n11\nOle-Johan \nDahl\n12/10/2008\nKristen Nygaard -\nDesenho\n9h - 10h\n(seg - qua)\nMary Keller\n12\nGrace Hopper 09/12/2010\nHoward Aiken\n(99)99999-0091\n(99)99999-0095 Balé\n8h - 10h (sex) Hedy Lamarr\n13\nAlan Turing\n23/06/2009\nJoan Clarke\n(99)99999-0231 Desenho\nViolão Básico\n9h - 10h \n(seg - qua)\n9h - 10h \n(ter - qui)\nMary Keller\nDennis Ritchie\n14\nDorothy \nVaughan\n20/09/2009\nKatherine \nJohnson\n(99)99999-0201 Balé\n8h - 10h (sex) Hedy Lamarr\n...\n...\n...\n...\n...\n...\n...\n...\nA equipe de desenvolvimento de softwares da prefeitura, após uma breve entrevista com a administração \nda fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da \nespecificação dos requisitos do sistema.\n\nConsiderando o cenário descrito, assinale a opção \ncorretamente pela equipe de desenvolvimento.\nA\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\nB\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n0..*\n0..*\n1..*\n1\n1\nC\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nD\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nE\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\n\nseguir que exibe o Diagrama de Classes modelado \n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\na\nte\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\na\nte\n0..*\n0..*\n1..*\n1..*\n1\n1\n1",
+      "texto_completo": "E pa tes\nte essadas\nQUESTÃO 15\t\nUma fundação municipal de arte e cultura oferece cursos para crianças e adolescentes de até 16 anos. \nOs registros de matrículas são realizados em uma planilha eletrônica ilustrada a seguir, o que dificulta bastante \no controle dos dados frente ao número expressivo de estudantes, muitos dos quais solicitam matrícula em mais \nde um curso. A administração da fundação, então, solicitou o desenvolvimento de um programa para facilitar \no registro e a consulta desses dados, incluindo-se a data de efetivação de cada matrícula, para fins de controles \nespecíficos da secretaria.\nNÚMERO\nNOME \nESTUDANTE\nDATA \nNASC.\nNOME \nRESPONSÁVEL\nCONTATOS\nCURSO\nHORÁRIO\nPROFESSOR(A)\n10\nAda Lovelace\n10/12/2009\nCharles \nBabbage\n(99)99999-0101\ncharles@\nbabbage.com\nViolão Básico\nDesenho\n9h - 10h \n(ter - qui)\n10h - 11h \n(seg - qua)\nDennis Ritchie\nJohn Backus\n11\nOle-Johan \nDahl\n12/10/2008\nKristen Nygaard -\nDesenho\n9h - 10h\n(seg - qua)\nMary Keller\n12\nGrace Hopper 09/12/2010\nHoward Aiken\n(99)99999-0091\n(99)99999-0095 Balé\n8h - 10h (sex) Hedy Lamarr\n13\nAlan Turing\n23/06/2009\nJoan Clarke\n(99)99999-0231 Desenho\nViolão Básico\n9h - 10h \n(seg - qua)\n9h - 10h \n(ter - qui)\nMary Keller\nDennis Ritchie\n14\nDorothy \nVaughan\n20/09/2009\nKatherine \nJohnson\n(99)99999-0201 Balé\n8h - 10h (sex) Hedy Lamarr\n...\n...\n...\n...\n...\n...\n...\n...\nA equipe de desenvolvimento de softwares da prefeitura, após uma breve entrevista com a administração \nda fundação e de posse da planilha eletrônica, modelou um Diagrama de Classes como parte da\n\nConsiderando o cenário descrito, assinale a opção \ncorretamente pela equipe de desenvolvimento.\nA\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\nB\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n0..*\n0..*\n1..*\n1\n1\nC\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nD\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatri\n- data :\n1..*\n0..*\n1..*\n1\n1\nE\nContato\n- descricao : String\n- numero : int\nEstudante\n- nascimento : Date\nResponsavel\nPessoa\n- nome : String\nMatricu\n- data : D\n0..*\n0..*\n1..*\n1\n1\n\nseguir que exibe o Diagrama de Classes modelado \n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\na\nte\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1..*\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1..*\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\nCurso\n- nome : String\nTurma\n- id : int\nula\nDate\n0..*\n0..*\n1\n1\n1\n1\n1\n- dia : String\n- horaInicio : Date\n- horaFim : Date\nHorario\nProfessor\na\nte\n0..*\n1..*\n1",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
@@ -18226,7 +18226,7 @@
         "Programação e POO",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 15,
@@ -18244,7 +18244,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710807"
+      "criado_em": "2026-08-25T14:37:31.778369"
     },
     {
       "id_questao": "q16",
@@ -18257,17 +18257,17 @@
         {
           "pagina": 24,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 674.21875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q16.png",
+      "caminho_png": "/questoes/2021_ADS/q16.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q16.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q16.txt",
       "largura": 2185,
-      "altura": 2570,
+      "altura": 2528,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 16\t\nUma ONG decidiu construir um hospital de campanha para tratamento de pacientes diagnosticados \ncom a Covid-19. Para auxiliar na gerência hospitalar, a ONG contratou alguns programadores voluntários \npara desenvolver um Sistema de Suporte à Decisão para Gestão Hospitalar. Esse sistema irá auxiliar no \nregistro de todos os procedimentos diários realizados no paciente que dá entrada no hospital, desde sua \ninternação até a saída, seja essa saída por recebimento de alta, por transferência ou óbito. O sistema foi \ntodo desenvolvido em Java de acordo com o Paradigma Orientado a Objetos. Durante o curto processo de \nanálise, devido à urgência, foram construídos diversos diagramas em UML (Unified Modeling Language). \nUm desses diagramas relaciona a interação entre os objetos do sistema, o Diagrama de Sequência. \nEsse diagrama é apresentado a seguir.\nConsiderando o Diagrama de Sequência apresentado, assinale a opção correta.\nA\t Leito é uma subclasse de UTI.\nB\t O método registraPaciente() é implementado por Paciente.\nC\t Todos os objetos foram criados no instante de execução do Caso de Uso representado.\nD\t O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.\nE\t A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação \ncorreta do Diagrama de Sequência representado.\n3: Consulta existência \nde leitos : \nconsultaLeitos()\n1: Registro do \nPaciente:\nregistraPaciente()\n4: Consulta \ndisponibilidade de UTI :\nconsultaUTI()\nUTI\nIntervencao\nLeito\nRegistro\nPaciente\n5: UTI gerada\n6: Leito Gerado\n2: Retorna o número\ndo paciente.\n7: Realiza Intervenção : realizaIntervencao()\n10: Intervenção Realizada\n11: Liberação do\nPaciente:\nliberaPaciente()\n12: Libera Leito\n8: realizaIntervencao()\n9: Intervenção\nRealizada\nLaço\nProﬁssional",
       "texto_enunciado": "",
@@ -18278,7 +18278,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 16,
@@ -18296,7 +18296,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710811"
+      "criado_em": "2026-08-25T14:37:31.778374"
     },
     {
       "id_questao": "q17",
@@ -18309,26 +18309,26 @@
         {
           "pagina": 25,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q17.png",
+      "caminho_png": "/questoes/2021_ADS/q17.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q17.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q17.txt",
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 17\t\nO modelo de dados relacional a seguir representa de forma simplificada o banco de dados para um \nsistema de informação bancário:\nUsando a linguagem SQL (Structured Query Language) indique a consulta que recupera o nome dos \nclientes e o valor médio movimentado por eles em sua conta até o momento. Primeiro devem ser exibidos \nos clientes com maior média de valor movimentado.\nA SELECT CL.NOME, HM.VAL_MOVIMENTADO\nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nORDER BY HM.VAL_MOVIMENTADO\nB SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nORDER BY HM.VAL_MOVIMENTADO DESC\nC SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO)\nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nGROUP BY CL.COD_CLIENTE, CL.NOME \nORDER BY AVG(HM.VAL_MOVIMENTADO) DESC\nD SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL LEFT OUTER JOIN CONTA CO ON CL.COD_CLIENTE = CO.NUM_CONTA \nLEFT OUTER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.COD_HISTORICO_\nMOVIMENTACAO \nGROUP BY CL.NOME \nORDER BY AVG(HM.VAL_MOVIMENTADO) DESC\nE SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL LEFT OUTER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nLEFT OUTER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nGROUP BY CL.NOME \nORDER BY AVG(HM.VAL_MOVIMENTADO) DESC\nCOD CLIENTE\nNOM_CLIENTE\nNUM_CPF_CNPJ\nNUM_CELULAR\nDES_ENDERECO\nCOD_CATEGORIA_CLIENTE\nNUM AGENCIA  integer           <pk>\nNOM_AGENCIA varchar(100)\nNUM CONTA            integer   <pk>\nVAL_SALDO              money\nCOD_TIPO_CONTA  integer  <Ņ1>\nCOD_CLIENTE          integer  <Ņ2>\nNUM_AGENCIA       integer  <Ņ3> \nCOD TIPO CONTA    integer           <pk>\nDES_TIPO_CONTA   varchar(100)\nCOD CATEGORIA CLIENTE     integer           <pk>\nNOM_CATEGORIA_CLIENTE varchar(100)\nCLIENTE\nTIPO_CONTA\nCONTA\nAGENCIA\nTIPO_MOVIMENTACAO\nHISTORICO_MOVIMENTACAO\nCATEGORIA_CLIENTE\ninteger           <pk>\nvarchar(100)\nvarchar(20)\nvarchar(20)\nvarchar(300)\ninteger            <Ņ>\nCOD TIPO MOVIMENTACAO    integer         <pk>\nDES_TIPO_MOVIMENTACAO   varchar(200)\nVAL_TAXA                                    money\nIND_DEBITO_CREDITO              char(1)\nCOD HISTORICO MOVIMENTACAO   integer     <pk>\nNUM_CONTA                                         integer    <Ņ1>\nCOD_TIPO_MOVIMENTACAO            integer    <Ņ2>\nVAL_MOVIMENTACAO                                money\nDTA_MOVIMENTACAO                        dateƟme",
+      "texto_completo": "QUESTÃO 17\t\nO modelo de dados relacional a seguir representa de forma simplificada o banco de dados para um \nsistema de informação bancário:\nUsando a linguagem SQL (Structured Query Language) indique a consulta que recupera o nome dos \nclientes e o valor médio movimentado por eles em sua conta até o momento. Primeiro devem ser exibidos \nos clientes com maior média de valor movimentado.\nA SELECT CL.NOME, HM.VAL_MOVIMENTADO\nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nORDER BY HM.VAL_MOVIMENTADO\nB SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nORDER BY HM.VAL_MOVIMENTADO DESC\nC SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO)\nFROM CLIENTE CL INNER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nINNER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nGROUP BY CL.COD_CLIENTE, CL.NOME \nORDER BY AVG(HM.VAL_MOVIMENTADO) DESC\nD SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL LEFT OUTER JOIN CONTA CO ON CL.COD_CLIENTE = CO.NUM_CONTA \nLEFT OUTER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.COD_HISTORICO_\nMOVIMENTACAO \nGROUP BY CL.NOME \nORDER BY AVG(HM.VAL_MOVIMENTADO) DESC\nE SELECT CL.NOME, AVG(HM.VAL_MOVIMENTADO) \nFROM CLIENTE CL LEFT OUTER JOIN CONTA CO ON CL.COD_CLIENTE = CO.COD_CLIENTE \nLEFT OUTER JOIN HISTORICO_MOVIMENTACAO HM ON CO.NUM_CONTA = HM.NUM_CONTA \nGROUP BY CL.NOME \nCOD CLIENTE\nNOM_CLIENTE\nNUM_CPF_CNPJ\nNUM_CELULAR\nDES_ENDERECO\nCOD_CATEGORIA_CLIENTE\nNUM AGENCIA  integer           <pk>\nNOM_AGENCIA varchar(100)\nNUM CONTA            integer   <pk>\nVAL_SALDO              money\nCOD_TIPO_CONTA  integer  <Ņ1>\nCOD_CLIENTE          integer  <Ņ2>\nNUM_AGENCIA       integer  <Ņ3> \nCOD TIPO CONTA    integer           <pk>\nDES_TIPO_CONTA   varchar(100)\nCOD CATEGORIA CLIENTE     integer           <pk>\nNOM_CATEGORIA_CLIENTE varchar(100)\nCLIENTE\nTIPO_CONTA\nCONTA\nAGENCIA\nTIPO_MOVIMENTACAO\nHISTORICO_MOVIMENTACAO\nCATEGORIA_CLIENTE\ninteger           <pk>\nvarchar(100)\nvarchar(20)\nvarchar(20)\nvarchar(300)\ninteger            <Ņ>\nCOD TIPO MOVIMENTACAO    integer         <pk>\nDES_TIPO_MOVIMENTACAO   varchar(200)\nVAL_TAXA                                    money\nIND_DEBITO_CREDITO              char(1)\nCOD HISTORICO MOVIMENTACAO   integer     <pk>\nNUM_CONTA                                         integer    <Ņ1>\nCOD_TIPO_MOVIMENTACAO            integer    <Ņ2>\nVAL_MOVIMENTACAO                                money\nDTA_MOVIMENTACAO                        dateƟme",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 17,
@@ -18346,7 +18346,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710815"
+      "criado_em": "2026-08-25T14:37:31.778379"
     },
     {
       "id_questao": "q18",
@@ -18359,17 +18359,17 @@
         {
           "pagina": 26,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 479.5611572265625,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q18.png",
+      "caminho_png": "/questoes/2021_ADS/q18.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q18.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q18.txt",
       "largura": 2185,
-      "altura": 1758,
+      "altura": 1716,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 18\t\nA engenharia de requisitos é uma área que inclui quatro subprocessos relacionados de alto nível. \nEsses subprocessos são: 1) avaliação se o sistema será útil para a empresa (estudo de viabilidade); \n2) obtenção de requisitos (elicitação de requisitos); 3) conversão desses requisitos em alguma forma \npadrão (especificação); 4) verificação se os requisitos realmente definem o sistema que o cliente deseja \n(validação).\nSOMMERVILLE, I. Engenharia de Software. São Paulo: Pearson Addison-Wesley, 2017 (adaptado).\nUma equipe de Tecnologia da Informação de uma empresa de consultoria desenvolverá um software \nde Suporte Técnico para uma grande empresa fornecedora de equipamentos eletrônicos. O estudo de \nviabilidade do software já foi realizado e aprovado. A equipe de Tecnologia da Informação seguirá os três \nsubprocessos seguintes de alto nível de engenharia de requisitos descritos no texto de Sommerville, ou seja, \nos subprocessos de elicitação de requisitos, especificação e validação.\nPara esses três subprocessos, quais são os artefatos que podem ser utilizados por essa equipe de \nTecnologia da Informação?\nA\t Documento de entrevista com usuários; modelo de caso de uso para os requisitos funcionais; \nprototipação de telas.\nB\t Documento de estudo de viabilidade; modelo de caso de uso para os requisitos funcionais; prototipação \nde telas.\nC\t Matriz de rastreabilidade; modelo de caso de uso para os requisitos não-funcionais; prototipação \nde telas.\nD\t Documento de entrevista com usuários; modelo de caso de uso para os requisitos não-funcionais; \nmatriz de rastreabilidade.\nE\t Documento de estudo de viabilidade; modelo de caso de uso para os requisitos funcionais; matriz de \nrastreabilidade.",
       "texto_enunciado": "",
@@ -18379,7 +18379,7 @@
         "Algoritmos e Estruturas de Dados",
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 18,
@@ -18397,7 +18397,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710818"
+      "criado_em": "2026-08-25T14:37:31.778385"
     },
     {
       "id_questao": "q19",
@@ -18410,17 +18410,17 @@
         {
           "pagina": 27,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 474.88104248046875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q19.png",
+      "caminho_png": "/questoes/2021_ADS/q19.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q19.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q19.txt",
       "largura": 2185,
-      "altura": 1739,
+      "altura": 1697,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 19\t\nArquitetura de software é uma representação que permite analisar a efetividade do projeto no \nentendimento dos requisitos declarados. Durante a fase de concepção da arquitetura, podem-se \nconsiderar alternativas de arquitetura em um estágio em que mudanças ainda são realizadas com menor \nesforço, diminuindo riscos associados à construção do software ainda na fase inicial.\nPRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. Porto Alegue: AMGH, 2016 (adaptado).\nA respeito dos estilos e padrões arquiteturais contidos na engenharia de software, avalie as afirmações \na seguir.\nI.\t Em arquiteturas orientadas a objetos, a comunicação entre os componentes do software é realizada \npor intermédio da troca de mensagens.\nII.\t As arquiteturas monolíticas consistem de um sistema dividido em pequenas partes, possibilitando \nque estas tenham sua manutenção, execução e evolução individual.\nIII.\t No padrão arquitetural Modelo-Visão-Controle (MVC), a camada de Modelo armazena as interações \nrealizadas no Controle, podendo ser apresentados/manipulados posteriormente na Visão.\nIV.\t Nas arquiteturas microsserviços, o software possui componentes altamente acoplados, dificultando \na manutenção.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t II e III.\nC\t II e IV.\nD\t I, II e IV.\nE\t I, III e IV.",
       "texto_enunciado": "",
@@ -18429,7 +18429,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 19,
@@ -18447,7 +18447,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710822"
+      "criado_em": "2026-08-25T14:37:31.778390"
     },
     {
       "id_questao": "q20",
@@ -18460,17 +18460,17 @@
         {
           "pagina": 28,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 567.2747192382812,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q20.png",
+      "caminho_png": "/questoes/2021_ADS/q20.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q20.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q20.txt",
       "largura": 2185,
-      "altura": 2124,
+      "altura": 2082,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 20\t\nUma secretaria municipal de esportes decidiu criar e disponibilizar um site que sirva como portal de \ncomunicação com pessoas da terceira idade. A finalidade é fornecer orientações que propiciem práticas \npara uma vida mais saudável, além de divulgar eventos esportivos ofertados pelo município para esse \npúblico-alvo. O projeto ainda prevê a interação entre os usuários do site, por meio da publicação de fotos, \nque podem ser curtidas e comentadas.\nA iniciativa de criação do site foi embasada em uma pesquisa mostrando que a maioria da população de \nterceira idade do município dispõe de acesso à internet, especialmente por meio de dispositivos móveis \n(smartphones e tablets), embora uma parcela dessa população prefira realizar o acesso com computadores \nde mesa e notebooks.\nConsiderando as informações do texto e as responsabilidades inerentes ao desenvolvimento do site, \navalie as afirmações a seguir.\nI.\t A segurança no uso é um fator crítico de usabilidade a ser considerado no projeto de interface para \no site, tendo em vista que pessoas da terceira idade são temerosas quanto ao registro de dados \npessoais e confidenciais em sites e aplicativos.\nII.\t A responsividade, que pressupõe o uso de valores relativos para definir as dimensões de elementos \nna estilização de páginas HTML, deve ser considerada na construção do site, tendo em vista que o \nacesso deve ocorrer através de dispositivos com diferentes tamanhos de tela.\nIII.\t A construção de protótipos pode antecipar problemas de design de interação e minimizar custos \nde desenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o \npúblico-alvo e assim possibilitar a validação de usabilidade e da experiência do usuário.\nIV.\t O design participativo é um processo de design de Interação Humano-Computador (IHC) viável \npara direcionar o projeto de interfaces e de experiência com o usuário do site, pois o público-alvo \ntende a apresentar dificuldades no manuseio de tecnologias da informação e da comunicação.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e III.\nC\t II e IV.\nD\t I, III e IV.\nE\t II, III e IV.",
       "texto_enunciado": "",
@@ -18480,7 +18480,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 20,
@@ -18498,7 +18498,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710826"
+      "criado_em": "2026-08-25T14:37:31.778395"
     },
     {
       "id_questao": "q21",
@@ -18511,17 +18511,17 @@
         {
           "pagina": 29,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 384.6890869140625,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q21.png",
+      "caminho_png": "/questoes/2021_ADS/q21.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q21.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q21.txt",
       "largura": 2185,
-      "altura": 1363,
+      "altura": 1321,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 21\t\nNo decorrer de um projeto de desenvolvimento de software é compreensível que mudanças venham \na ocorrer, sejam por novos entendimentos dos atores envolvidos ou até mesmo de novas demandas \napresentadas pelos clientes. Nesta perspectiva, a Gestão de Configuração de Software estabelece \num conjunto de atividades para gerenciar alterações através de todo o ciclo de vida de um software.\nPRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. \nPorto Alegre: Artmed Editora S.A. e McGraw-Hill Education, 2016 (adaptado).\nCom base no texto, assinale a opção correta acerca das atividades de gestão de configuração de \nsoftware.\nA\t Identificação de itens na configuração de software, gerenciamento de alterações, validação de versões e \ncontrole de qualidade.\nB\t Identificação de objetos na configuração de software, controle de versão, controle de alterações, \nauditoria de configuração e relatório de status.\nC\t Gerência de projeto, gerência de configuração de software, ciclo de vida do projeto, processo de \nsoftware e evolução das configurações.\nD\t Construção de modelo de requisitos, métricas para modelo de projeto, métricas de controle de versão \ne relatório de manutenção.\nE\t Identificação de alterações, controle de versão, mapeamento de alteração e notificação da alteração \naos envolvidos.",
       "texto_enunciado": "",
@@ -18532,7 +18532,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 21,
@@ -18550,7 +18550,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710830"
+      "criado_em": "2026-08-25T14:37:31.778400"
     },
     {
       "id_questao": "q22",
@@ -18563,17 +18563,17 @@
         {
           "pagina": 30,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 460.81072998046875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q22.png",
+      "caminho_png": "/questoes/2021_ADS/q22.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q22.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q22.txt",
       "largura": 2185,
-      "altura": 1680,
+      "altura": 1638,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 22\t\nUm ponto importante para fábricas de software é a garantia de que seus produtos e/ou serviços acompanhem \nas diversas mudanças ocasionadas pelo mundo corporativo. As restrições de orçamento ou cronograma, \nreestruturação do negócio, modificações de regras de negócio ou novas necessidades do cliente, geram \nmudanças inevitáveis. Nesse cenário, a utilização de um processo de Gerência de Configuração de Software \n(GCS) que contemple características necessárias para gerenciar e controlar a evolução de um software, através \ndo controle formal de versão e solicitação de mudanças, é extremamente importante.\nSobre o processo de Gerência de Configuração de Software (GCS), avalie as afirmações a seguir.\nI.\t O controle de versão possibilita o compartilhamento de dados e a edição colaborativa, permitindo \na gestão de diferentes ramos de desenvolvimento e possibilitando a existência de diferentes \nversões de forma simultânea.\nII.\t A auditoria de configuração é uma atividade de garantia de qualidade do sistema que tem por \nobjetivo assegurar que a qualidade do software seja mantida quando feitas alterações requisitadas.\nIII.\t O relatório de status de configuração possui informações sobre o GCS, tendo por objetivo manter o \ncliente informado sobre as alterações, e deve ser gerado ao final do processo.\nIV.\t A GCS proporciona um conjunto de atividades de acompanhamento e controle de mudanças que é \niniciado logo depois que o software for fornecido ao cliente e colocado em operação.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e III.\nC\t III e IV.\nD\t I, II e IV.\nE\t I, III e IV.",
       "texto_enunciado": "",
@@ -18583,7 +18583,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Governança e Gestão de TI"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 22,
@@ -18601,7 +18601,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710834"
+      "criado_em": "2026-08-25T14:37:31.778405"
     },
     {
       "id_questao": "q23",
@@ -18614,26 +18614,26 @@
         {
           "pagina": 31,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q23.png",
+      "caminho_png": "/questoes/2021_ADS/q23.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q23.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q23.txt",
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 23\t\nA evolução de sistemas de software legados pode ser dividida em três categorias: manutenção, \nmodernização e substituição. De acordo com a figura a seguir, conforme o tempo aumenta, a quantidade \nde funcionalidades também cresce. No primeiro período de evolução a manutenção é realizada, pois as \nnecessidades de negócio são alteradas e o sistema precisa suprir as mudanças por meio da manutenção. \nNo segundo período é realizada a modernização do sistema, pois as necessidades de negócio continuam \na crescer, mas há mudanças mais significativas que se fazem necessárias. Além da substituição do sistema \nde software, nos casos em que o modelo de negócio não atende mais a necessidade da empresa, \na manutenção e modernização também não são mais suficientes.\nSoftware é\nconstruído\nModernização\nSubstituição\ndo software\nManutenção\ndo segundo\nsoftware\nTempo\nFuncionalidade\nSoftware  1\nSoftware  2\nNecessidades de Negócio\nSegundo\nperíodo de\nmanutenção\nManutenção\nSEACORD, R. C.; PLAKOSH, D.; LEWIS, G. A. Modernizing Legancy Systems. Boston: Pearson Education, 2003 (adaptado).\nDe acordo com a figura apresentada e considerando um sistema de software implantado de ERP (Enterprise \nResource Planning - Planejamento de Recursos Empresariais) contendo um conjunto de módulos que \nintegra todos os departamentos existentes de uma empresa, observou-se a necessidade de criação de um \nrelatório gerencial de comissão da equipe de vendas. Nesse contexto, é correto afirmar que a manutenção \na ser realizada é\nA\t corretiva.\nB\t evolutiva.\nC\t funcional.\nD\t preventiva.\nE\t adaptativa.",
+      "texto_completo": "QUESTÃO 23\t\nA evolução de sistemas de software legados pode ser dividida em três categorias: manutenção, \nmodernização e substituição. De acordo com a figura a seguir, conforme o tempo aumenta, a quantidade \nde funcionalidades também cresce. No primeiro período de evolução a manutenção é realizada, pois as \nnecessidades de negócio são alteradas e o sistema precisa suprir as mudanças por meio da manutenção. \nNo segundo período é realizada a modernização do sistema, pois as necessidades de negócio continuam \na crescer, mas há mudanças mais significativas que se fazem necessárias. Além da substituição do sistema \nde software, nos casos em que o modelo de negócio não atende mais a necessidade da empresa, \na manutenção e modernização também não são mais suficientes.\nSoftware é\nconstruído\nModernização\nSubstituição\ndo software\nManutenção\ndo segundo\nsoftware\nTempo\nFuncionalidade\nSoftware  1\nSoftware  2\nNecessidades de Negócio\nSegundo\nperíodo de\nmanutenção\nManutenção\nSEACORD, R. C.; PLAKOSH, D.; LEWIS, G. A. Modernizing Legancy Systems. Boston: Pearson Education, 2003 (adaptado).\nDe acordo com a figura apresentada e considerando um sistema de software implantado de ERP (Enterprise \nResource Planning - Planejamento de Recursos Empresariais) contendo um conjunto de módulos que \nintegra todos os departamentos existentes de uma empresa, observou-se a necessidade de criação de um \nrelatório gerencial de comissão da equipe de vendas. Nesse contexto, é correto afirmar que a manutenção \na ser realizada é\nA\t corretiva.\nB\t evolutiva.\nC\t funcional.\nD\t preventiva.i",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 23,
@@ -18651,7 +18651,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710838"
+      "criado_em": "2026-08-25T14:37:31.778410"
     },
     {
       "id_questao": "q24",
@@ -18664,17 +18664,17 @@
         {
           "pagina": 32,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 546.49072265625,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q24.png",
+      "caminho_png": "/questoes/2021_ADS/q24.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q24.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q24.txt",
       "largura": 2185,
-      "altura": 2037,
+      "altura": 1995,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 24\t\nEm razão da Covid-19, muitos estabelecimentos viram no delivery uma forma de manter os negócios \nfuncionando. As mudanças de hábitos dos brasileiros revelaram um aumento do interesse nesse tipo \nde serviço.\nNesse contexto, um restaurante solicitou o desenvolvimento de um sistema web que possibilite \ngerenciar automaticamente os pedidos de entrega. O sistema foi projetado com base em tecnologias \nweb e modelado com UML (Unified Modeling Language). Durante o processo de desenvolvimento \nforam descritos alguns itens importantes que merecem atenção no processo de teste de software.\nConsiderem as seguintes descrições definidas pelo analista de teste:\n01 – Verificar se o método “Finalizar Pedido” da classe “Pedido” está funcionando corretamente.\n02 – Garantir que o sistema funcione corretamente em diferentes navegadores de internet.\n03 – O sistema deve passar por testes rigorosos na estrutura lógica interna do software.\n04 – O sistema deve garantir, no mínimo, o registro de 100 pedidos simultâneos.\n05 – O usuário deve testar o sistema em um ambiente controlado sob a supervisão dos desenvolvedores.\nConsiderando o texto e as descrições apresentadas, avalie as afirmações a seguir.\nI.\t A descrição 01 deve ser verificada com teste unitário.\nII.\t A descrição 02 deve ser executada com a abordagem caixa-branca.\nIII.\t A descrição 03 deve ser executada com a abordagem caixa-preta.\nIV.\t A descrição 04 deve ser verificada com teste carga.\nV.\t A descrição 05 deve ser classificada como teste alfa.\nÉ correto apenas o que se afirma em\nA\t II e III.\nB\t I, II e IV.\nC\t I, III e V.\nD\t I, IV e V.\nE\t II, III, IV e V.",
       "texto_enunciado": "",
@@ -18685,7 +18685,7 @@
         "Programação e POO",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 24,
@@ -18703,7 +18703,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710842"
+      "criado_em": "2026-08-25T14:37:31.778415"
     },
     {
       "id_questao": "q25",
@@ -18716,17 +18716,17 @@
         {
           "pagina": 33,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 545.4344482421875,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q25.png",
+      "caminho_png": "/questoes/2021_ADS/q25.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q25.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q25.txt",
       "largura": 2185,
-      "altura": 2033,
+      "altura": 1991,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 25\t\nUma determinada empresa do ramo de piscicultura solicitou a uma instituição especializada no \ndesenvolvimento de softwares de gestão a construção de um sistema que fosse capaz de gerenciar o \nprocesso de criação dos peixes, que começava ainda na fase de alevinos, estendia-se para a engorda, \nfinalizando na fase adulta com a venda do peixe. O sistema deveria disponibilizar funcionalidades \npara armazenar informações sobre toda a etapa da criação, mortandade e rações utilizadas na \nengorda dos peixes, viabilizando uma melhor tomada de decisão dos investidores. Como não havia \nnenhuma solução e a demanda por peixes estava aumentando, a empresa solicitou extrema urgência \nna construção da aplicação.\nConsiderando o processo de desenvolvimento de software que deverá ser utilizado para construir o \nsistema mencionado no texto, avalie as afirmações a seguir.\nI.\t Para desenvolver o sistema, deve ser adotado um processo baseado no modelo cascata, pois ele \nse adapta melhor a cenários com muitas mudanças.\nII.\t Por se tratar de uma aplicação com escopo pequeno, o modelo espiral deverá ser utilizado \nno desenvolvimento do sistema solicitado, já que reduzirá riscos por meio da prototipação de \nespecificações de cada fase dos peixes e diminuirá o tempo de entrega.\nIII.\t O modelo incremental deve ser utilizado na construção do software descrito no cenário, já que \npartes do sistema referentes à fase inicial dos peixes poderiam ser disponibilizadas, enquanto as \ndemais estão nas etapas de concepção e desenvolvimento.\nIV.\t Em razão da extrema urgência no desenvolvimento do software solicitado, a empresa deve elaborar \nseu processo utilizando o modelo RAD (Rapid Application Development).\nÉ correto apenas o que se afirma em\nA\t I.\nB\t IV.\nC\t I e II.\nD\t II e III.\nE\t III e IV.",
       "texto_enunciado": "",
@@ -18736,7 +18736,7 @@
         "Engenharia de Software",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 25,
@@ -18754,7 +18754,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710846"
+      "criado_em": "2026-08-25T14:37:31.778420"
     },
     {
       "id_questao": "q26",
@@ -18767,17 +18767,17 @@
         {
           "pagina": 34,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 579.0827026367188,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q26.png",
+      "caminho_png": "/questoes/2021_ADS/q26.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q26.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q26.txt",
       "largura": 2185,
-      "altura": 2173,
+      "altura": 2131,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 26\t\nEmpreender em computação não se resume apenas ao fato de ter uma ideia sobre um aplicativo, \nimplementá-la e disponibilizá-la aos seus usuários finais. Esse conceito vai além, é preciso analisar uma \nsérie de variáveis, como questões sociais e humanísticas, profissionais, ambientais, legais, políticas e \ntecnológicas.\nDentre as ações necessárias para empreender em computação, é imprescindível observar a legislação vigente. \nNo Brasil, a Lei Geral de Proteção de Dados Pessoais (LGPD), n. 13.709/2018, dispõe sobre o tratamento de \ndados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público \nou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre \ndesenvolvimento da personalidade da pessoa natural.\nAcerca das providências dispostas no art. 2º da LGPD, assinale os fundamentos da disciplina da proteção \nde dados pessoais.\nA\t O direito ao usuário; das obrigações das organizações nacionais ou estrangeiras; obrigatoriedade do \nconsentimento; a livre iniciativa, a livre concorrência e a defesa do consumidor; os direitos humanos, o \nlivre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais \ne regulação da Autoridade Nacional de Proteção de Dados Pessoais (ANPD).\nB\t O direito à revogação de um consentimento; a transferência de dados para outro fornecedor de \nserviços; a solicitação de remoção de dados pessoais; a inviolabilidade da intimidade, da honra e \nda imagem; o desenvolvimento econômico e tecnológico e inovação; a preservação da vida e da \nintegridade física de uma pessoa.\nC\t O respeito à privacidade; obrigatoriedade do consentimento; os deveres e obrigações dos usuários \nfinais; os deveres e obrigações das organizações nacionais ou estrangeiras; a observação ao código de \ndefesa do consumidor; e, a obrigatoriedade do respeito à honra e à imagem.\nD\t O direito ao anonimato; a liberdade de expressão; a inviolabilidade da intimidade; a adoção de \nmedidas preventivas de segurança; o direito ao recurso e revisão; a administração de riscos e falhas; \no estabelecimento de agentes de tratamento; e, regulação da Autoridade Nacional de Proteção de \nDados Pessoais (ANPD).\nE\t O respeito à privacidade; a autodeterminação informativa; a liberdade de expressão, de informação, de \ncomunicação e de opinião; a inviolabilidade da intimidade, da honra e da imagem; o desenvolvimento \neconômico e tecnológico e a inovação; a livre iniciativa, a livre concorrência e a defesa do consumidor; \ne, os direitos humanos, o livre desenvolvimento da personalidade, dignidade e o exercício da cidadania \npelas pessoas naturais.",
       "texto_enunciado": "",
@@ -18787,7 +18787,7 @@
         "Governança e Gestão de TI",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 26,
@@ -18805,7 +18805,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710850"
+      "criado_em": "2026-08-25T14:37:31.778425"
     },
     {
       "id_questao": "q27",
@@ -18818,17 +18818,17 @@
         {
           "pagina": 35,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 640.576416015625,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q27.png",
+      "caminho_png": "/questoes/2021_ADS/q27.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q27.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q27.txt",
       "largura": 2185,
-      "altura": 2429,
+      "altura": 2387,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 27\t\nO sistema de numeração, inserido na arquitetura e no funcionamento dos computadores, sempre foi \nmuito utilizado na área computacional e pode ser escrito em diferentes bases numéricas, como: binária, \noctal, decimal ou hexadecimal. Durante a execução dos programas, a Unidade Central de Processamento \n(CPU) trabalha com os dados e instruções convertidos para dois estados distintos: 0 (zero) e 1 (um), que \npodem ser entendidos como “com energia” e “sem energia”, a chamada linguagem binária ou 0 e 1. \nDurante o processamento dos dados, instruções e os dados são armazenados no formato binário na \nmemória principal do computador. A CPU, trabalhando com dados no formato binário, aumenta sua \ncapacidade e velocidade no processamento dos dados.\nAlguns exemplos dos dados, representados em diferentes bases, são utilizados nos sistemas \ncomputacionais diariamente: o endereçamento IP dos computadores em uma rede são configurados na \nbase decimal pontuada se for o IPv4, exemplo: 192.168.70.10; o número do endereço MAC-Address da \nplaca de rede do computador é hexadecimal, exemplo: 00-15-5D-01-F2-00; já o sistema octal foi muito \nutilizado na computação, como uma alternativa mais compacta do sistema binário, na programação em \nlinguagem de máquina.\nOs profissionais que atuam na área da Tecnologia da Informação (TI) precisam constantemente interpretar, \nfazer cálculos ou converter dados entre as bases binária, decimal, octal ou hexadecimal. A tabela abaixo \nmostra os dígitos, a notação e alguns exemplos nas bases numéricas: 2, 8, 10 e 16. \nSistema na Base\nDígitos utilizados \nNotação e exemplos \nBinário - base 2 \n0, 1 \n(1001)2; (11011)2 \nOctal - base 8 \n0, 1, 2, 3, 4, 5, 6, 7 \n(27)8; (35)8; (16)8\nDecimal - base 10 \n0, 1, 2, 3, 4, 5, 6, 7, 8, 9 \n(45)10; (120)10\nHexadecimal - base 16 \n0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F \n(1A)16; (48)16; (1E2)16\nSTALLINGS, W. Arquitetura e Organização de Computadores. São Paulo: Pearson Education do Brasil, 2017 (adaptado).\nFazendo a conversão da soma de: (1001)2 + (15)8 + (FF)16, qual é o número equivalente na base decimal?\nA\t (188)10\nB\t (215)10\nC\t (277)10\nD\t (316)10\nE\t (345)10",
       "texto_enunciado": "",
@@ -18839,7 +18839,7 @@
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 27,
@@ -18857,7 +18857,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710854"
+      "criado_em": "2026-08-25T14:37:31.778430"
     },
     {
       "id_questao": "q28",
@@ -18870,17 +18870,17 @@
         {
           "pagina": 36,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 329.4610595703125,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q28.png",
+      "caminho_png": "/questoes/2021_ADS/q28.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q28.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q28.txt",
       "largura": 2185,
-      "altura": 1133,
+      "altura": 1091,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 28\t\nO modo clássico de encarar um sistema operacional é como um gerenciador de recursos. Desse ponto de \nvista, o sistema operacional é responsável pelo hardware do sistema. Nesse papel, ele recebe solicitações \nde acesso a recursos por parte das aplicações e concede ou nega tais acessos. Ao conceder solicitações de \nalocação, ele deve dispor com cuidado os recursos, de modo que os programas não interfiram uns nos outros.\nPor exemplo, é uma péssima ideia permitir que os programas tenham acesso sem restrição à memória \nuns dos outros. Se um programa com defeito (ou malicioso) escreve no espaço de memória do outro \nprograma, o segundo programa travará, na melhor das hipóteses, ou produzirá resultados incorretos, na \npior das hipóteses. Ou ainda, se o programa ofensivo modificar a memória do sistema operacional poderá \nafetar o comportamento de todo o sistema.\nSTUART. B. L. Princípios de Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (adaptado).\nConsiderando que o texto alerta para a possibilidade de um programa interferir no outro, a atividade que \num sistema operacional garante essa proteção é\nA\t o programa antivírus.\nB\t o gerenciamento de memória.\nC\t o gerenciamento de arquivos.\nD\t o gerenciamento de processos.\nE\t o gerenciamento de entrada e saída.",
       "texto_enunciado": "",
@@ -18889,7 +18889,7 @@
       "categorias": [
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 28,
@@ -18907,7 +18907,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710858"
+      "criado_em": "2026-08-25T14:37:31.778436"
     },
     {
       "id_questao": "q29",
@@ -18922,24 +18922,24 @@
           "x0": 25.0,
           "y0": 325.4610595703125,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q29.png",
+      "caminho_png": "/questoes/2021_ADS/q29.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q29.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q29.txt",
       "largura": 2185,
-      "altura": 1736,
+      "altura": 1673,
       "confianca": 0.98,
-      "texto_completo": "E\t o gerenciamento de entrada e saída.\nQUESTÃO 29\t\nUm algoritmo é qualquer procedimento computacional bem definido que toma algum valor ou conjunto \nde valores como entrada e produz algum valor ou conjunto de valores como saída.\nCORMEN, T. H. et al. Algoritmos Teoria e Prática. Rio de Janeiro: Elsevier, 2002 (adaptado).\nConsidere o algoritmo a seguir.\nAlgoritmo Calcular\n   var \n      mat [1..3][1..5] de inteiro = \n      {{1, 2, -1, 2, 3}, {1, -3, 4, 2, 0}, {-3, 5, 2, 3, 4}}  \n      sl[1..3] de inteiro = {0, 0, 0}  \n      x, i, j : inteiro \n      x <- 0  \n   início \n      para i <- 1 até 3 faça \n          para j <- 1 até 5 faça \n             sl[i] <- sl[i] + mat[i][j] \n          fimpara  \n          x <- x + sl[i] \n      fimpara \n      imprima x \n   fim\nNo fim da execução do código apresentado, será exibido o valor\nA\t 4.\nB\t 7.\nC\t 11.\nD\t 22.\nE\t 30.",
+      "texto_completo": "E\t o gerenciamento de entrada e saída.\nQUESTÃO 29\t\nUm algoritmo é qualquer procedimento computacional bem definido que toma algum valor ou conjunto \nde valores como entrada e produz algum valor ou conjunto de valores como saída.\nCORMEN, T. H. et al. Algoritmos Teoria e Prática. Rio de Janeiro: Elsevier, 2002 (adaptado).\nConsidere o algoritmo a seguir.\nAlgoritmo Calcular\n   var \n      mat [1..3][1..5] de inteiro = \n      {{1, 2, -1, 2, 3}, {1, -3, 4, 2, 0}, {-3, 5, 2, 3, 4}}  \n      sl[1..3] de inteiro = {0, 0, 0}  \n      x, i, j : inteiro \n      x <- 0  \n   início \n      para i <- 1 até 3 faça \n          para j <- 1 até 5 faça \n             sl[i] <- sl[i] + mat[i][j] \n          fimpara  \n          x <- x + sl[i] \n      fimpara \n      imprima x \n   fim\nNo fim da execução do código apresentado, será exibido o valor\nA\t 4.\nB\t 7.\nC\t 11.\nD\t 22.",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Algoritmos e Estruturas de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 29,
@@ -18957,7 +18957,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710862"
+      "criado_em": "2026-08-25T14:37:31.778441"
     },
     {
       "id_questao": "q30",
@@ -18970,17 +18970,17 @@
         {
           "pagina": 37,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 541.7745971679688,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q30.png",
+      "caminho_png": "/questoes/2021_ADS/q30.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q30.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q30.txt",
       "largura": 2185,
-      "altura": 2018,
+      "altura": 1976,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 30\t\nSuponha que sua faculdade tendo, em sua rede de computadores, máquinas que compartilham arquivos \ne serviços, contratou você para uma consultoria de TI. Atualmente, na sala dos professores, existem \n3 máquinas ligadas à rede, com as configurações conforme a imagem a seguir. Porém, a estação de \ntrabalho “PROFESSORES01” não consegue enviar documentos para impressão em uma impressora, \ncorretamente instalada e compartilhada na estação de trabalho “PROFESSORES03”.\nNesse caso, que alteração deve ser realizada para que o problema seja resolvido?\nA\t Alterar o gateway da estação PROFESSORES03 para 175.16.10.200. \nB\t Alterar o endereço de IP da estação PROFESSORES01 para 175.16.30.200.\nC\t Alterar a máscara de sub-rede da estação PROFESSORES01 para 255.255.0.0.\nD\t Alterar a máscara de sub-rede da estação PROFESSORES03 para 255.255.255.0. \nE\t Alterar o gateway da estação PROFESSORES01 para o endereço de IP 175.16.30.200.\nPROFESSORES 01\nPROFESSORES 02\nPROFESSORES 03\nENDEREÇO IP: 175.16.10.200\nMÁSCARA DE SUB-REDE: 255.255.255.0\nGATEWAY: 175.16.1.1\nENDEREÇO IP: 175.16.20.200\nMÁSCARA DE SUB-REDE: 255.255.0.0\nGATEWAY: 175.16.1.1\nENDEREÇO IP: 175.16.30.200\nMÁSCARA DE SUB-REDE: 255.255.0.0\nGATEWAY: 175.16.1.1",
       "texto_enunciado": "",
@@ -18990,7 +18990,7 @@
         "Redes e Segurança",
         "Sistemas Operacionais e Arquitetura"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 30,
@@ -19008,7 +19008,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710866"
+      "criado_em": "2026-08-25T14:37:31.778446"
     },
     {
       "id_questao": "q31",
@@ -19021,17 +19021,17 @@
         {
           "pagina": 38,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 654.31298828125,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q31.png",
+      "caminho_png": "/questoes/2021_ADS/q31.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q31.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q31.txt",
       "largura": 2185,
-      "altura": 2487,
+      "altura": 2445,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 31\t\nFoi solicitado o desenvolvimento de um software para o controle e gestão das matrículas dos alunos \nem uma universidade. Os alunos poderão realizá-las diretamente no sistema, em um terminal a ser \ndisponibilizado na universidade. Além dessas características, o sistema deverá considerar as restrições \nrepresentadas no diagrama a seguir:\nRealizar\nMatricula Fora \ndo Prazo\nRealizar\nMatricula \nValidar via\nReƟna\nValidar via\nDigital\nValidar Aluno\nAluno\n<<extend>>\n<<include>>\nCom base no texto e no diagrama, avalie as afirmações a seguir.\nI.\t O aluno poderá realizar a matrícula fora do prazo e as tratativas são as mesmas da matrícula feita \ndentro do prazo.\nII.\t O aluno poderá, opcionalmente, realizar a matrícula fora do prazo.\nIII.\t O sistema, obrigatoriamente, deverá validar o aluno que realizar a matrícula fora do prazo.\nIV.\t A validação do aluno deverá ser feita a partir da sua matrícula informada no sistema.\nV.\t A validação do aluno, a ser feita por retina, é diferente da validação feita pela digital.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, III e V.\nE\t II, III, IV e V.",
       "texto_enunciado": "",
@@ -19047,7 +19047,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 31,
@@ -19065,7 +19065,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710870"
+      "criado_em": "2026-08-25T14:37:31.778451"
     },
     {
       "id_questao": "q32",
@@ -19078,17 +19078,17 @@
         {
           "pagina": 39,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 396.2544250488281,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q32.png",
+      "caminho_png": "/questoes/2021_ADS/q32.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q32.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q32.txt",
       "largura": 2185,
-      "altura": 1411,
+      "altura": 1369,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 32\t\nUm modelo de negócios descreve a lógica de criação, entrega e captura de valor por parte de uma \norganização. A ferramenta de geração de modelo de negócios Canvas, desenvolvida por Osterwalder, \ntem sido uma das mais utilizadas, principalmente entre as startups. O Canvas é dividido em nove \ncomponentes básicos, que cobrem as quatro áreas principais de um negócio: clientes, oferta, infraestrutura \ne viabilidade financeira. Os componentes são os seguintes: 1) segmentos de clientes; 2) proposta de valor; \n3) canais; 4) relacionamento com cliente; 5) fontes de receita; 6) recursos principais; 7) atividades-chave; \n8) parcerias principais; e 9) estrutura de custo.\nOSTERWALDER, A.; PIGNEUR, Y. Business Model Generation - Inovação em Modelos de Negócios: \num manual para visionários, inovadores e revolucionários. Rio de Janeiro: Alta Books, 2011 (adaptado).\nDiante deste contexto, conclui-se que as startups\nA\t financeiras desenvolvem primeiro o plano de negócios, para em seguida partir para o Canvas.\nB\t de big data utilizam o Canvas para a modelagem da validação da ideia de negócio, ou seja, do problema \na ser resolvido.\nC\t de educação dispensam a utilização do Canvas, ou seja, os modelos de negócios deste segmento já \nnascem validados.\nD\t de logística utilizam o plano de negócios ao invés do Canvas, ou seja, elas nascem a partir de um produto \nmínimo viável (MVP).\nE\t de impacto social podem desconsiderar o componente 1 (segmentos de clientes), pois possuem \nsomente um segmento.",
       "texto_enunciado": "",
@@ -19098,7 +19098,7 @@
         "Inteligência Artificial e Dados",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 32,
@@ -19116,7 +19116,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710874"
+      "criado_em": "2026-08-25T14:37:31.778456"
     },
     {
       "id_questao": "q33",
@@ -19129,17 +19129,17 @@
         {
           "pagina": 40,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 513.0344848632812,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q33.png",
+      "caminho_png": "/questoes/2021_ADS/q33.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q33.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q33.txt",
       "largura": 2185,
-      "altura": 1898,
+      "altura": 1856,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 33\t\nUm dos fatores essenciais para o sucesso de um Processo de Software é a habilidade de capturar e gerenciar \nas mudanças e oportunidades de negócio. Muitas vezes as oportunidades de negócio são perdidas em \nfunção do tempo requerido para efetivar mudanças nos sistemas de software ou em função de defeitos \nnesse sistema. Basicamente, o software é o Produto do Processo de Software. Assim, identificar o grau de \ndesenvolvimento do processo de software de uma empresa é o passo inicial para o seu melhoramento. \nO Modelo de Maturidade da Capacidade (CMMi) descreve práticas, processos e atividades de gestão, guiando \no melhoramento do Processo de Software para atingir o mais elevado nível de maturidade da capacidade.\nConsiderando os diversos aspectos do processo de desenvolvimento de um produto ou sistema de \nsoftware, avalie as afirmações a seguir.\nI.\t A maturidade implica no crescimento da capacidade e indica tanto a efetividade do Processo \nde Software quanto o grau de consistência com que este é aplicado nos diferentes projetos \ndesenvolvidos pela organização.\nII.\t A maturidade do Processo de Software implica melhorias contínuas do processo com base em \netapas evolutivas que se caracterizam pela capacidade de inovação e absorção de novas tecnologias.\nIII.\t A maturidade do Processo de Software implica na sua institucionalização por meio de políticas e \npadrões organizacionais levando a uma cultura corporativa de métodos, práticas e procedimentos \ncom efetividade plenamente reconhecida.\nIV.\t Cada nível do CMMi implica na satisfação de um conjunto de metas de processo que estabilizam \num componente importante do Processo de Software e representa o seu estágio de maturidade \nda capacidade.\nÉ correto apenas o que se afirma em\nA\t III.\nB\t I e II.\nC\t II e IV.\nD\t I, III e IV.\nE\t I, II, III e IV.",
       "texto_enunciado": "",
@@ -19149,7 +19149,7 @@
         "Sistemas Operacionais e Arquitetura",
         "Formação Geral e Sociedade"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 33,
@@ -19167,7 +19167,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710878"
+      "criado_em": "2026-08-25T14:37:31.778461"
     },
     {
       "id_questao": "q34",
@@ -19180,17 +19180,17 @@
         {
           "pagina": 41,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
           "y1": 508.84661865234375,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q34.png",
+      "caminho_png": "/questoes/2021_ADS/q34.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q34.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q34.txt",
       "largura": 2185,
-      "altura": 1880,
+      "altura": 1838,
       "confianca": 0.98,
       "texto_completo": "QUESTÃO 34\t\nSistemas especialistas são aqueles que fazem uso intensivo do conhecimento especializado para resolver \nproblemas de modo semelhante àquele de um especialista humano. Uma das diversas utilizações de \nsistemas especialistas é na elaboração de diagnósticos destinados a inferir sobre o mau funcionamento \nde um sistema, a partir de observações, de modo a prescrever soluções para a anomalia detectada. \nA medicina, atualmente, já se beneficia do uso de sistemas especialistas em conjunto com técnicas de \ninferência estatística.\nUma das formas de trabalhar com sistemas especialistas é por meio do uso de “regras de produção”, \nque são instruções do tipo “se - então”. As regras de produção aplicam-se à memória de trabalho, \nque contém dados, e se tiverem êxito, contribuirão com alguma nova informação para a memória.\nA metodologia de trabalho de um médico do serviço de emergência inclui a utilização de um sistema \nespecialista para diagnóstico de dengue, para o qual se encontra a seguinte regra de produção.\nSe ((temperatura > 38º) e (dores musculares intensas))\nentão (quadro de dengue, com 70% de chance);\nsenão(quadro de resfriado comum com 30% de chance);\nLevando em conta a regra de produção do sistema especialista utilizado pelo médico, é correto \nafirmar que\nA\t cada pessoa que procura atendimento apresentando ambos os sintomas, possui a probabilidade “0,7” \nde estar contaminada pela dengue.\nB\t se 50 pessoas procurarem o atendimento apresentando um dos dois sintomas, provavelmente \n15 pessoas estarão com resfriado comum.\nC\t se 100 pessoas procurarem o atendimento apresentando ambos os sintomas, a quantidade de pessoas \ncom dengue será igual a 70.\nD\t cada pessoa que chega apresentando um dos dois sintomas estará com resfriado comum.\nE\t a cada 100 pessoas que procuram atendimento, no máximo 30 estarão doentes.",
       "texto_enunciado": "",
@@ -19199,7 +19199,7 @@
       "categorias": [
         "Engenharia de Software"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 34,
@@ -19217,7 +19217,7 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710882"
+      "criado_em": "2026-08-25T14:37:31.778466"
     },
     {
       "id_questao": "q35",
@@ -19230,26 +19230,26 @@
         {
           "pagina": 42,
           "x0": 25.0,
-          "y0": 64.94654846191406,
+          "y0": 75.0,
           "x1": 542.12,
-          "y1": 734.76,
+          "y1": 719.76,
           "coluna": 0
         }
       ],
-      "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q35.png",
+      "caminho_png": "/questoes/2021_ADS/q35.png",
       "caminho_json": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q35.json",
       "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q35.txt",
       "largura": 2185,
-      "altura": 2822,
+      "altura": 2717,
       "confianca": 0.98,
-      "texto_completo": "QUESTÃO 35\t\nUma equipe de matemáticos foi contratada para proceder com a análise e especificação de critérios para \na identificação de potenciais clientes para uma empresa de seguros. Após a análise, a equipe determinou \nque deve-se considerar as seguintes variáveis:\na) ser maior de idade.\nb) possuir residência própria ou não.\nc) possuir algum parente que já possui seguro da companhia.\nEm função da análise realizada, a companhia pretende estipular a viabilidade ou não do seguro, além \nde decidir seu preço. A equipe contratada modelou cada variável identificada utilizando as seguintes \nfunções booleanas.\nI(x): função que verifica se a pessoa x é maior de idade.\nR(x): função que verifica se a pessoa x possui residência própria.\nP(x,y): função que verifica se as pessoas x e y são parentes.\nS(x): função que verifica se a pessoa x já possui seguro da companhia.\nApós essa modelagem matemática, a seguinte tabela foi obtida. Ela expressa, utilizando a notação de \nlógica quantitativa, os critérios para estabelecimento de viabilidade e eventuais preços de seguros a \nserem concedidos.\nCritério\nResultado\n¬I(x)\nInviável\nI(x)Ù R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$200\nI(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$300\n¬I(x)Ú (R(x) Ù I (x))\nViável, preço: R$500\nA tabela foi repassada à equipe de programadores, cenário comum em que profissionais de \ndiferentes áreas do conhecimento devem interagir a fim de obter as soluções desejadas. A solução \nfoi implementada utilizando a linguagem C. Considere que as funções I e R foram escritas e são \nbooleanas, operando de acordo com a definição dada pela equipe. A função “obtem” encapsula o \nfuncionamento das funções P e S. Ela percorre a base de dados da companhia e obtém um parente \nda pessoa apontada por “p” que possua o seguro, caso exista. Caso contrário, ela devolve NULL.",
+      "texto_completo": "QUESTÃO 35\t\nUma equipe de matemáticos foi contratada para proceder com a análise e especificação de critérios para \na identificação de potenciais clientes para uma empresa de seguros. Após a análise, a equipe determinou \nque deve-se considerar as seguintes variáveis:\na) ser maior de idade.\nb) possuir residência própria ou não.\nc) possuir algum parente que já possui seguro da companhia.\nEm função da análise realizada, a companhia pretende estipular a viabilidade ou não do seguro, além \nde decidir seu preço. A equipe contratada modelou cada variável identificada utilizando as seguintes \nfunções booleanas.\nI(x): função que verifica se a pessoa x é maior de idade.\nR(x): função que verifica se a pessoa x possui residência própria.\nP(x,y): função que verifica se as pessoas x e y são parentes.\nS(x): função que verifica se a pessoa x já possui seguro da companhia.\nApós essa modelagem matemática, a seguinte tabela foi obtida. Ela expressa, utilizando a notação de \nlógica quantitativa, os critérios para estabelecimento de viabilidade e eventuais preços de seguros a \nserem concedidos.\nCritério\nResultado\n¬I(x)\nInviável\nI(x)Ù R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$200\nI(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$300\n¬I(x)Ú (R(x) Ù I (x))\nViável, preço: R$500\nA tabela foi repassada à equipe de programadores, cenário comum em que profissionais de \ndiferentes áreas do conhecimento devem interagir a fim de obter as soluções desejadas. A solução \nfoi implementada utilizando a linguagem C. Considere que as funções I e R foram escritas e são \nbooleanas, operando de acordo com a definição dada pela equipe. A função “obtem” encapsula o \nfuncionamento das funções P e S. Ela percorre a base de dados da companhia e obtém um parente \nd\nt d\n“ ”\ni t\nC\nt á i\nl d\nl\nNULL",
       "texto_enunciado": "",
       "alternativas": {},
       "figuras": [],
       "categorias": [
         "Banco de Dados"
       ],
-      "status": "PENDENTE",
+      "status": "REJEITADA",
       "marcadores": [
         {
           "numero": 35,
@@ -19267,8 +19267,249 @@
       ],
       "anomalias": [],
       "score": 0.0,
-      "criado_em": "2026-08-25T14:13:05.710885"
+      "criado_em": "2026-08-25T14:37:31.778471"
     }
   ],
-  "anomalias": []
+  "anomalias": [
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd01 não existe",
+      "questao": "qd01"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd02 não existe",
+      "questao": "qd02"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q01 não existe",
+      "questao": "q01"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q02 não existe",
+      "questao": "q02"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q03 não existe",
+      "questao": "q03"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q04 não existe",
+      "questao": "q04"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q05 não existe",
+      "questao": "q05"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q06 não existe",
+      "questao": "q06"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q07 não existe",
+      "questao": "q07"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q08 não existe",
+      "questao": "q08"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd03 não existe",
+      "questao": "qd03"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd04 não existe",
+      "questao": "qd04"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão qd05 não existe",
+      "questao": "qd05"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q09 não existe",
+      "questao": "q09"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q10 não existe",
+      "questao": "q10"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q11 não existe",
+      "questao": "q11"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q12 não existe",
+      "questao": "q12"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q13 não existe",
+      "questao": "q13"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q14 não existe",
+      "questao": "q14"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q15 não existe",
+      "questao": "q15"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q16 não existe",
+      "questao": "q16"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q17 não existe",
+      "questao": "q17"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q18 não existe",
+      "questao": "q18"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q19 não existe",
+      "questao": "q19"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q20 não existe",
+      "questao": "q20"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q21 não existe",
+      "questao": "q21"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q22 não existe",
+      "questao": "q22"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q23 não existe",
+      "questao": "q23"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q24 não existe",
+      "questao": "q24"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q25 não existe",
+      "questao": "q25"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q26 não existe",
+      "questao": "q26"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q27 não existe",
+      "questao": "q27"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q28 não existe",
+      "questao": "q28"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q29 não existe",
+      "questao": "q29"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q30 não existe",
+      "questao": "q30"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q31 não existe",
+      "questao": "q31"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q32 não existe",
+      "questao": "q32"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q33 não existe",
+      "questao": "q33"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q34 não existe",
+      "questao": "q34"
+    },
+    {
+      "tipo": "IMAGEM_NAO_ENCONTRADA",
+      "severidade": "ERROR",
+      "mensagem": "Imagem da questão q35 não existe",
+      "questao": "q35"
+    }
+  ]
 }

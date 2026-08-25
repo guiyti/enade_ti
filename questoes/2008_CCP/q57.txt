@@ -1,6 +1,3 @@
-2
-CO
-ÇÃO
 QUESTÃO 57
 Deseja-se projetar um bloco lógico do tipo look-up table que
 parte de um dispositivo lógico programável. O bloco ló

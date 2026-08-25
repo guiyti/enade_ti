@@ -1,4 +1,3 @@
-2
 QUESTÃO 38  
 É comum que linguagens de programação permitam 
 a descrição textual de constantes em hexadecimal, 
@@ -65,4 +64,4 @@ segunda, uma proposição falsa.
 D   A primeira asserção é uma proposição falsa, e a 
 segunda, uma proposição verdadeira.
 E   Tanto a primeira quanto a segunda asserções são 
-proposições falsas.
+proposições falsas

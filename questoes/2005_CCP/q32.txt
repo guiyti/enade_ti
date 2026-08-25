@@ -1,4 +1,3 @@
-Á
 E risco, tempo e escopo.
 QUESTÃO 32
 O planejamento estratégico de sistemas de informação pode ser
@@ -20,7 +19,6 @@ E a identificação, a avaliação e a validação dos controles
 relacionados aos sistemas de informação existentes, do ponto
 de vista de sua eficiência e eficácia.
 
-Considere que a rede de uma empresa usará os protocolos
 TCP/IP para facilitar o acesso do público às informações dessa
 empresa a partir de máquinas conectadas à Internet. Considere
 ainda que, ao serem descritos os protocolos que serão usados na

@@ -9,17 +9,17 @@
     {
       "pagina": 36,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 508.65777587890625,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q27.png",
+  "caminho_png": "/questoes/2021_CCP/q27.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q27.txt",
   "largura": 2185,
-  "altura": 1880,
+  "altura": 1838,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 27\t\nA figura a seguir mostra o histograma de uma amostra composta de 20 000 servidores. O eixo x apresenta \na quantidade de requisições simultâneas desses servidores. Por exemplo, o valor 168 indica que há \n1 850 servidores com capacidade de atender 168 requisições simultâneas.\n2000\n1800\n1600\n1400\n1200\n1000\n800\n600\n400\n200\n0\n122\n124\n127\n129\n132\n134\n137\n139\n141\n144\n146\n149\n151\n154\n156\n158\n161\n163\n166\n168\n171\n173\n175\n178\n180\n183\n185\n188\n190\n192\n195\n197\n200\n202\n205\n207\n209\n212\n214\n217\n219\n222\n224\n226\n229\n231\n234\nCapacidade\nFrequência\nMédia\nDesvio Padrão\n171\n10\nDisponível em: http://www.openintro.org. Acesso em: 05 set. 2021 (adaptado).\nÉ possível afirmar que ao conectarmo-nos a um servidor dessa amostra, ao acaso, há aproximadamente\nA\t 34,13% de chance que sua capacidade esteja no intervalo [141, 201].\nB\t 34,13% de chance que sua capacidade esteja no intervalo [161, 181].\nC\t 76,68% de chance que sua capacidade esteja no intervalo [171, 191].\nD\t 95,44% de chance que sua capacidade esteja no intervalo [151, 191].\nE\t 99,74% de chance que sua capacidade esteja no intervalo [161, 181].",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:20.187125"
+  "criado_em": "2026-08-25T14:37:55.902139"
 }

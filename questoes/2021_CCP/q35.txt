@@ -13,5 +13,4 @@ C	 O compartilhamento dos recursos distribuídos entre computadores interligados
 é possível desde que os dispositivos sejam homogêneos em termos de hardware e software.
 D	 A adição de novos dispositivos em um sistema distribuído para atender a uma demanda temporária 
 ou crescente está ligada à característica de escalabilidade do sistema.
-E	 A possibilidade de vários clientes acessarem de forma concorrente um mesmo recurso compartilhado 
-em um servidor é resultado do alto nível de transparência do sistema.
+E	 A possibilidade de vários clientes acessarem de forma concorrente um mesmo recurso compartilhado

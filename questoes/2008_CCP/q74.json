@@ -3,34 +3,25 @@
   "numero": 74,
   "tipo": "OBJETIVA",
   "paginas": [
-    31,
-    32
+    31
   ],
   "segmentos": [
     {
       "pagina": 31,
       "x0": 300.59999999999997,
-      "y0": 68.44668579101562,
+      "y0": 75.0,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 778.6522827148438,
       "coluna": 2
-    },
-    {
-      "pagina": 32,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 294.59999999999997,
-      "y1": 70.52682495117188,
-      "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q74.png",
+  "caminho_png": "/questoes/2008_CCP/q74.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q74.txt",
   "largura": 1154,
-  "altura": 3146,
+  "altura": 2963,
   "confianca": 0.98,
-  "texto_completo": "0\ns\né\ns\na\ns\ns\nm\ne\ner\na\no\ne\nQUESTÃO 74\nNo processo de desenvolvimento de software, todo\nsoftware passa pelas fases de análise e projeto,\nassociadas, respectivamente, com o que deve ser feito\ne como deve ser feito. A partir dessa informação,\navalie a opções correta.\nA\nNa fase de análise, três modelos que devem ser\nconsiderados são: do domínio da informação, o\nfuncional e o comportamental. \nB\nNa fase de projeto, dois níveis de projeto devem\nser considerados: o projeto detalhado, que se\npreocupa com uma transformação dos requisitos\nem um projeto de dados e arquitetural; e o projeto\npreliminar, que se preocupa em aprimorar o\nprojeto detalhado para que a implementação\npossa ser realizada em seguida. \nC\nO objetivo do projeto arquitetural é desenvolver\numa estrutura de programa e representar os\ndiversos fluxos de dados entre os módulos. \nD\nO projeto arquitetural independe do paradigma de\ndesenvolvimento. \nE\nPara lidar com a complexidade do software,\npode-se aplicar o princípio do particionamento,\nquebrando o problema em problemas menores.\nEsse princípio não é aplicado nas outras fases de\ndesenvolvimento e ele não causa impacto nos\ncustos de desenvolvimento.",
+  "texto_completo": "s\né\ns\na\ns\ns\nm\ne\ner\na\no\ne\nQUESTÃO 74\nNo processo de desenvolvimento de software, todo\nsoftware passa pelas fases de análise e projeto,\nassociadas, respectivamente, com o que deve ser feito\ne como deve ser feito. A partir dessa informação,\navalie a opções correta.\nA\nNa fase de análise, três modelos que devem ser\nconsiderados são: do domínio da informação, o\nfuncional e o comportamental. \nB\nNa fase de projeto, dois níveis de projeto devem\nser considerados: o projeto detalhado, que se\npreocupa com uma transformação dos requisitos\nem um projeto de dados e arquitetural; e o projeto\npreliminar, que se preocupa em aprimorar o\nprojeto detalhado para que a implementação\npossa ser realizada em seguida. \nC\nO objetivo do projeto arquitetural é desenvolver\numa estrutura de programa e representar os\ndiversos fluxos de dados entre os módulos. \nD\nO projeto arquitetural independe do paradigma de\ndesenvolvimento. \nE\nPara lidar com a complexidade do software,\npode-se aplicar o princípio do particionamento,\nquebrando o problema em problemas menores.\nEsse princípio não é aplicado nas outras fases de\ndesenvolvimento e ele não causa impacto nos\ncustos de desenvolvimento.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229535"
+  "criado_em": "2026-08-25T14:34:41.738998"
 }

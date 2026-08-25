@@ -1,4 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 QUESTÃO DISCURSIVA 4
 Listas ordenadas implementadas com vetores são estruturas 
 de dados adequadas para a busca binária, mas possuem o 

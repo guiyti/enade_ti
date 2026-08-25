@@ -18,19 +18,19 @@
     {
       "pagina": 27,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 82.57166290283203,
       "x1": 315.35999999999996,
       "y1": 288.48602294921875,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q47.png",
+  "caminho_png": "/questoes/2024_CCP/q47.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q47.txt",
   "largura": 2475,
-  "altura": 1639,
+  "altura": 1524,
   "confianca": 0.98,
-  "texto_completo": "ç\nQUESTÃO 47\t\nConsiderando a importância de respeitar os diferentes níveis de compreensão e dificuldades de comunicação verbal e os \ndiferentes domínios cognitivos, qual estratégia de avaliação formativa sobre recursividade atende a esses objetivos?\nA\t Propor desafios visuais com fluxogramas e recursos manipuláveis digitais, permitindo diferentes formas de registro e \njustificativa da lógica recursiva empregada.\nB\t Solicitar que todos os estudantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usando \nexemplos matemáticos previamente trabalhados em sala.\nC\t Aplicar um teste com questões objetivas que envolvam a análise de funções recursivas, sem contextualização, para \nmensurar a habilidade técnica de cada estudante.\nD Dividir a turma em grupos homogêneos por desempenho aplicando uma única tarefa escrita padrão com base em códigos\n\n2025\nTexto para questões de 48 a 51\nDuas escolas, A e B, localizadas em regiões diferentes, \nenfrentam desafios distintos no ensino de algoritmos e \nestruturas de dados. A Escola A possui um laboratório de \ninformática equipado com computadores individuais e acesso \nà internet estável. Os estudantes já tiveram contato com lógica \nde programação básica e noções introdutórias de algoritmos, \ncomo fluxogramas e pseudocódigo. Já na Escola B, o acesso \nà internet é instável e há apenas um laboratório com poucos \ncomputadores que precisam ser compartilhados em pequenos \ngrupos de 5 estudantes. Esses estudantes, no entanto, \ndemonstram grande interesse em tecnologia e criatividade \npara resolver problemas com os recursos disponíveis. A maioria \nainda não teve aulas de programação, mas já usou ferramentas \ncomo planilhas.",
+  "texto_completo": "ç\nQUESTÃO 47\t\nConsiderando a importância de respeitar os diferentes níveis de compreensão e dificuldades de comunicação verbal e os \ndiferentes domínios cognitivos, qual estratégia de avaliação formativa sobre recursividade atende a esses objetivos?\nA\t Propor desafios visuais com fluxogramas e recursos manipuláveis digitais, permitindo diferentes formas de registro e \njustificativa da lógica recursiva empregada.\nB\t Solicitar que todos os estudantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usando \nexemplos matemáticos previamente trabalhados em sala.\nC\t Aplicar um teste com questões objetivas que envolvam a análise de funções recursivas, sem contextualização, para \nmensurar a habilidade técnica de cada estudante.\nD Dividir a turma em grupos homogêneos por desempenho aplicando uma única tarefa escrita padrão com base em códigos\n\nTexto para questões de 48 a 51\nDuas escolas, A e B, localizadas em regiões diferentes, \nenfrentam desafios distintos no ensino de algoritmos e \nestruturas de dados. A Escola A possui um laboratório de \ninformática equipado com computadores individuais e acesso \nà internet estável. Os estudantes já tiveram contato com lógica \nde programação básica e noções introdutórias de algoritmos, \ncomo fluxogramas e pseudocódigo. Já na Escola B, o acesso \nà internet é instável e há apenas um laboratório com poucos \ncomputadores que precisam ser compartilhados em pequenos \ngrupos de 5 estudantes. Esses estudantes, no entanto, \ndemonstram grande interesse em tecnologia e criatividade \npara resolver problemas com os recursos disponíveis. A maioria \nainda não teve aulas de programação, mas já usou ferramentas \ncomo planilhas.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490919"
+  "criado_em": "2026-08-25T14:38:37.516203"
 }

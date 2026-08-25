@@ -9,17 +9,17 @@
     {
       "pagina": 11,
       "x0": 25.0,
-      "y0": 82.02613830566406,
+      "y0": 83.01449584960938,
       "x1": 611.7199999999999,
       "y1": 290.6591796875,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q16.png",
+  "caminho_png": "/questoes/2024_CCP/q16.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q16.txt",
   "largura": 2475,
-  "altura": 900,
+  "altura": 896,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 16\t\nEm uma reunião de planejamento, foi proposta uma discussão sobre os diferentes tipos de avaliação e suas aplicações no \nprocesso de ensino e de aprendizagem. Foram apresentadas as características e as funções das avaliações diagnóstica, formativa \ne somativa no contexto escolar. Os professores foram convidados a descrever suas práticas pedagógicas e a relacioná-las aos \ndiferentes objetivos das avaliações.\nEntre as atividades avaliativas descritas, é associada à função formativa aquela que\nA\t inicia o ensino de frações com uma atividade de recortes de modelos de pizzas de papel divididas em partes iguais, para \nque os estudantes resolvam uma lista de exercícios.\nB\t propõe uma série de perguntas para serem respondidas pelos estudantes sobre o tema de desmatamento ilegal, com o \nintuito de identificar os conhecimentos prévios dos estudantes sobre o assunto.\nC\t oferece devolutivas para a produção coletiva de uma linha do tempo com marcos da Revolução Industrial, a fim de orientar \no que pode ser aperfeiçoado no trabalho.\nD\t aplica uma prova escrita com questões objetivas e dissertativas sobre os ciclos biogeoquímicos, com a finalidade de classificar \nos estudantes.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490782"
+  "criado_em": "2026-08-25T14:38:37.516072"
 }

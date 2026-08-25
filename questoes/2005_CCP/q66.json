@@ -12,25 +12,25 @@
       "x0": 301.08,
       "y0": 338.235595703125,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     },
     {
       "pagina": 25,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
       "y1": 458.5755920410156,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q66.png",
+  "caminho_png": "/questoes/2005_CCP/q66.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q66.txt",
   "largura": 2306,
-  "altura": 3640,
+  "altura": 3494,
   "confianca": 0.98,
-  "texto_completo": "Ã\n23\nE II, III, IV e V.\nQUESTÃO 66\nConsidere que, em uma empresa que desenvolve aplicações\ndistribuídas, tenha sido elaborado um manual destinado ao\ntreinamento de empregados e que o responsável por elaborar o\nmanual tenha cometido alguns erros. Analise os seguintes\ntrechos do referido manual.\nI\nUma aplicação que usa o User Datagram Protocol (UDP)\npara transporte dos dados pode ter de tratar os problemas\ndecorrentes de perdas de mensagens, mensagens recebidas\nfora de ordem e duplicações de mensagens. \nII\nUm mecanismo de chamada a procedimento remoto (remote\nprocedure call) ou de invocação a método remoto (remote\nmethod invocation) possibilita que programas chamem\nprocedimentos ou métodos em diferentes computadores e\nque se abstraiam de todos os detalhes relacionados à\ndistribuição.\nIII Em um sistema de comunicação embasado na chamada a\nprocedimento remoto ou na invocação de método remoto, os\nserviços remotos são definidos por meio de interfaces. Uma\ninterface é tipicamente processada por um compilador que\ngera códigos (stubs), que, nos clientes, se fazem passar pelos\ncódigos remotos que são chamados.\nIV Sistemas de chamada a procedimentos remotos ou de\ninvocação a métodos remotos tipicamente implementam as\nsemânticas at-most-once ou at-least-once, pois é mais difícil\nimplementar a semântica exactly-once, segundo a qual quem\nchama o procedimento sabe que ele é executado exatamente\numa vez.\nEstão certos apenas os trechos\nA I e II.\nB III e IV.\nC I, II e III.\nD I, III e IV.\nE II, III e IV.\n\nInformações obtidas no Relatório Oficial da ABES e BSA, 2005.\nParticipação de imposto do setor de TI no PIB\nversus índice de pirataria",
+  "texto_completo": "E II, III, IV e V.\nQUESTÃO 66\nConsidere que, em uma empresa que desenvolve aplicações\ndistribuídas, tenha sido elaborado um manual destinado ao\ntreinamento de empregados e que o responsável por elaborar o\nmanual tenha cometido alguns erros. Analise os seguintes\ntrechos do referido manual.\nI\nUma aplicação que usa o User Datagram Protocol (UDP)\npara transporte dos dados pode ter de tratar os problemas\ndecorrentes de perdas de mensagens, mensagens recebidas\nfora de ordem e duplicações de mensagens. \nII\nUm mecanismo de chamada a procedimento remoto (remote\nprocedure call) ou de invocação a método remoto (remote\nmethod invocation) possibilita que programas chamem\nprocedimentos ou métodos em diferentes computadores e\nque se abstraiam de todos os detalhes relacionados à\ndistribuição.\nIII Em um sistema de comunicação embasado na chamada a\nprocedimento remoto ou na invocação de método remoto, os\nserviços remotos são definidos por meio de interfaces. Uma\ninterface é tipicamente processada por um compilador que\ngera códigos (stubs), que, nos clientes, se fazem passar pelos\ncódigos remotos que são chamados.\nIV Sistemas de chamada a procedimentos remotos ou de\ninvocação a métodos remotos tipicamente implementam as\nsemânticas at-most-once ou at-least-once, pois é mais difícil\nimplementar a semântica exactly-once, segundo a qual quem\nchama o procedimento sabe que ele é executado exatamente\numa vez.\nEstão certos apenas os trechos\nA I e II.\nB III e IV.\nC I, II e III.\nD I, III e IV.\nE II, III e IV.\n\nInformações obtidas no Relatório Oficial da ABES e BSA, 2005.\nversus índice de pirataria",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -57,5 +57,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796759"
+  "criado_em": "2026-08-25T14:34:18.146090"
 }

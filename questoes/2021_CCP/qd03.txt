@@ -67,9 +67,7 @@ Algumas definições:
 fórmula no conjunto, a avaliação é verdadeira.
 (iii) Um conjunto de fórmulas é satisfazível se e somente se existe uma atribuição de valores-verdade que 
 satisfaz o conjunto. Em caso contrário, ele é insatisfazível.
-(iv) Uma fórmula é uma consequência lógica de um conjunto de fórmulas se e somente se, para toda 
-atribuição de valores-verdade, se a atribuição satisfaz o conjunto então satisfaz a fórmula.
-COMPONENTE ESPECÍFICO
+(iv) Uma fórmula é uma consequência lógica de um conjunto de fórmulas se e somente se, para toda
 
 Com base nas informações apresentadas, responda os itens a seguir.
 a)	 Há alguma tautologia nas fórmulas 1 a 6? Justifique sua resposta. (valor: 2,5 pontos)

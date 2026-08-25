@@ -1,4 +1,3 @@
-5
 E
 QUESTÃO 26
 Um baralho tem 52 cartas, organizadas em 4 naipes, 
@@ -16,4 +15,4 @@ A   156.
 B   624.
 C   1872.
 D   3744.
-E   7488.
+E 7488

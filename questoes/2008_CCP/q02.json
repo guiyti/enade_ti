@@ -9,17 +9,17 @@
     {
       "pagina": 3,
       "x0": 25.0,
-      "y0": 66.52682495117188,
+      "y0": 75.0,
       "x1": 294.59999999999997,
       "y1": 563.0067749023438,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q02.png",
+  "caminho_png": "/questoes/2008_CCP/q02.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q02.txt",
   "largura": 1153,
-  "altura": 2099,
+  "altura": 2064,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 2\nQuando o homem não trata bem a natureza, a\nnatureza não trata bem o homem.\nEssa afirmativa reitera a necessária interação das\ndiferentes espécies, representadas na imagem a seguir.\nDisponível em http://curiosidades.spaceblog.com.br.\nAcesso em 10 out. 2008.\nDepreende-se dessa imagem a\nA atuação do homem na clonagem de animais\npré-históricos. \nB exclusão do homem na ameaça efetiva à sobrevivência\ndo planeta. \nC ingerência do homem na reprodução de espécies em\ncativeiro.\nD mutação das espécies pela ação predatória do homem.\nE responsabilidade do homem na manutenção da\nbiodiversidade.",
   "texto_enunciado": "",
@@ -46,5 +46,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229155"
+  "criado_em": "2026-08-25T14:34:41.738668"
 }

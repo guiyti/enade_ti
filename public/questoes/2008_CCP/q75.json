@@ -9,17 +9,17 @@
     {
       "pagina": 32,
       "x0": 25.0,
-      "y0": 66.52682495117188,
+      "y0": 75.0,
       "x1": 294.59999999999997,
       "y1": 252.44668579101562,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q75.png",
+  "caminho_png": "/questoes/2008_CCP/q75.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q75.txt",
   "largura": 1153,
-  "altura": 805,
+  "altura": 770,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 75\nConsidere que a figura ao lado ilustre o cenário de NAPT\ncujos equipamentos de rede interna (LAN) usam ende\nConsidere, ainda, que haja apenas um endereço IP válid\nempresa, que é atribuído à interface externa do roteador. Co\ncomputadores A e B façam acessos simultâneos a um serv\n(www.inep.gov.br, por exemplo), quais deverão ser os ende\ncontidos nos pacotes de A e B, respectivamente, que chegar\nA\n10.0.0.1 e 10.0.0.2\nB\n10.0.0.254 e 10.0.0.254\nC\n138.76.28.4 e 138.76.28.4\nD\n138.76.28.1 e 138.76.28.2\nE\n169.254.1.1 e 169.254.1.2",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229550"
+  "criado_em": "2026-08-25T14:34:41.739002"
 }

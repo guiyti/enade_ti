@@ -16,7 +16,7 @@ compreendam esses limites. Ele também implementou, entre outras, as seguintes f
 - criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à 
 matriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que 
 representa a estampa;
-- alternar_estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.
+- alternar estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.
 #
 #
 #

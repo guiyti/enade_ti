@@ -1,5 +1,3 @@
-Ã
-11
 C I, III e IV.
 QUESTÃO 34
 Julgue os seguintes itens referentes a teste de software.
@@ -29,7 +27,6 @@ C Apenas os itens I e III estão certos.
 D Apenas os itens II e III estão certos.
 E Todos os itens estão certos.
 
-Uma empresa tem a sua sede em Natal e filiais em Brasília e
 Florianópolis. Em cada cidade, a empresa possui computadores que
 serão interligados. A seguir, encontram-se os requisitos que devem
 ser observados no projeto da rede.

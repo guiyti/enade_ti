@@ -9,17 +9,17 @@
     {
       "pagina": 30,
       "x0": 293.28,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 555.56,
       "y1": 589.9337158203125,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.png",
+  "caminho_png": "/questoes/2011_CCP/q47.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q47.txt",
   "largura": 1123,
-  "altura": 2254,
+  "altura": 2176,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 47\nUma empresa de natureza estritamente operacional \ndeseja implantar um setor de suporte ao processo \nde tomada de decisão, já que os resultados que vem \napresentando demonstram contínua queda da margem \nde lucro e aumento do custo operacional. Para isso, os \nexecutivos de alto escalão da empresa decidiram investir \nna aquisição de uma ferramenta OLAP acoplada a uma \ndata warehouse.\nNessa situação, avalie as afirmações a seguir.\nI. \nNo que tange ao tipo de suporte propiciado, os \nsistemas OLAP podem ser classificados como \nsistemas de trabalhadores do conhecimento.\nII. Ferramentas OLAP apresentam foco orientado a \nassunto, em contraposição a sistemas OLTP, que \nsão orientados a aplicação.\nIII. Tendo em vista que data marts são construídos \nutilizando-se os sistemas legados da empresa, \nsem a utilização de dados externos, o processo \nde extração, transformação e carga envolve a \nintegração de dados, suprimindo-se a tarefa de \nlimpeza.\nIV. O projeto de um data warehouse define a forma \ncom que a base de dados será construída. Uma \ndas opções é a abordagem data mart, em que os \ndiversos data marts são integrados, até que se \nobtenha, ao final do processo, um data warehouse \nda empresa.\nÉ correto o que se afirma em\nA   I e III, apenas.\nB   I e IV, apenas.\nC   II e III, apenas.\nD   II e IV, apenas.\nE   I, II, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218714"
+  "criado_em": "2026-08-25T14:35:20.232341"
 }

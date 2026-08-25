@@ -1,4 +1,3 @@
-Á
 QUESTÃO 27
 Na etapa de projeto orientado a objetos, no contexto de um
 processo de desenvolvimento de software, são desenvolvidas as
@@ -14,7 +13,6 @@ sistema.
 E análise de requisitos do sistema e definição da arquitetura
 do sistema.
 
-O gerente de tecnologia de uma empresa de TI
 recebeu a incumbência de especificar a arquitetura de um
 sistema de informação para atender a um cliente na área de
 diagnóstico por imagem (raio X, tomografia computadorizada

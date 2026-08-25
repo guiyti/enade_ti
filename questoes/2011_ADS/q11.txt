@@ -1,4 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
 QUESTÃO 11  
 O conjunto de casos de uso representa as possíveis 
 interações que serão representadas nos requisitos do 
@@ -35,4 +34,4 @@ segunda, uma proposição falsa.
 D   A primeira asserção é uma proposição falsa, e a 
 segunda, uma proposição verdadeira.
 E   Tanto a primeira quanto a segunda asserções são 
-proposições falsas.
+proposições falsas

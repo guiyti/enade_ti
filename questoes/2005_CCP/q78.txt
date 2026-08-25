@@ -1,5 +1,3 @@
-Ã
-28
 s  0,5.
 UESTÃO 78
 spositivos Lógicos Programáveis (DLP, ou PLD — programmable
@@ -30,8 +28,7 @@ Apenas os itens I e II estão certos.
 Apenas os itens I e III estão certos.
 Apenas os itens II e III estão certos.
 
-xpto( [ ], R, R ).
-xpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 )
+xpto( [H | T1], Y, [H | T2] ) : xpto( T1, Y, T2 )
 zpto( X, [X|Y] ).
 zpto( X, [Y|Z] ) :- zpto( X, Z ).
 Com relação aos predicados escritos em Prolog acima, julgue o

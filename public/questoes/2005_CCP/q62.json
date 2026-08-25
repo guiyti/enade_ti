@@ -9,19 +9,19 @@
     {
       "pagina": 23,
       "x0": 301.08,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q62.png",
+  "caminho_png": "/questoes/2005_CCP/q62.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q62.txt",
   "largura": 1156,
-  "altura": 3123,
+  "altura": 2977,
   "confianca": 0.98,
-  "texto_completo": "Ã\n22\nI\nII\nConsidere que um colega seu tenha ganhado uma máquina\nfotográfica digital e tenha tirado a foto identificada por I acima.\nNa seqüência, a partir da imagem I, considere que ele tenha\ngerado a imagem II acima. Nessa situação, o processamento\nrealizado sobre a imagem I que melhor explica a geração da\nimagem II envolve a aplicação de\nA filtro passa-baixas.\nB quantizador.\nC reamostragem.\nD filtro passa-altas.\nE compressão.",
+  "texto_completo": "I\nII\nConsidere que um colega seu tenha ganhado uma máquina\nfotográfica digital e tenha tirado a foto identificada por I acima.\nNa seqüência, a partir da imagem I, considere que ele tenha\ngerado a imagem II acima. Nessa situação, o processamento\nrealizado sobre a imagem I que melhor explica a geração da\nimagem II envolve a aplicação de\nA filtro passa-baixas.\nB quantizador.\nC reamostragem.\nD filtro passa-altas.\nE compressão.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -47,5 +47,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796743"
+  "criado_em": "2026-08-25T14:34:18.146073"
 }

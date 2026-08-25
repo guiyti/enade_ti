@@ -37,4 +37,3 @@ C	 O percurso da árvore em Em-ordem irá processar os elementos na seguinte ord
 último): -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40.
 D	 O percurso da árvore em Pós-ordem irá processar os elementos na seguinte ordem (do primeiro ao 
 último): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.
-E	 O número máximo de elementos que essa árvore poderá ter com 10 níveis será de 1 024 elementos.

@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 import fitz
+import re
 import json
 from pathlib import Path
 from typing import List, Tuple, Optional
@@ -13,40 +14,87 @@ from .structural_extractor import decode_enade_str
 
 logger = get_logger(__name__)
 
+HEADER_PATTERNS = [
+    r'^\s*\*[A-Z0-9]+\*\s*$', # barcodes like *R040420252*
+    r'^\s*\d{4}\s*$', # isolated year like 2025 or 2011
+    r'^\s*(?:FORMA[ÇC][ÃA]O\s+GERAL(?:\s+DOCENTE)?|COMPUTA[ÇC][ÃA]O|CI[ÊE]NCIA\s+DA\s+COMPUTA[ÇC][ÃA]O|TECNOLOGIA\s+EM\s+AN[ÁA]LISE|EXAME\s+NACIONAL)\s*$',
+    r'^\s*DISCURSIVAS?\s*$'
+]
 
-def trim_segment_area_livre(doc: fitz.Document, seg: Segment) -> Segment:
+FOOTER_PATTERNS = [
+    r'^\s*\d{1,3}\s*$', # isolated page number
+    r'^\s*(?:ENADE|COMPUTA[ÇC][ÃA]O|CI[ÊE]NCIA\s+DA\s+COMPUTA[ÇC][ÃA]O|TECNOLOGIA\s+EM|GEST[ÃA]O\s+DA\s+TECNOLOGIA|FORMA[ÇC][ÃA]O\s+GERAL(?:\s+DOCENTE)?)\s*$',
+    r'^\s*\d{1,3}\s*\n\s*(?:ENADE|COMPUTA[ÇC][ÃA]O|CI[ÊE]NCIA|TECNOLOGIA|GEST[ÃA]O|FORMA[ÇC][ÃA]O)',
+    r'^\s*(?:ENADE|COMPUTA[ÇC][ÃA]O|CI[ÊE]NCIA|TECNOLOGIA|GEST[ÃA]O|FORMA[ÇC][ÃA]O).*\n\s*\d{1,3}\s*$',
+    r'^\s*\*[A-Z0-9]+\*\s*$', # bottom barcode
+    r'^\s*PND\d{4}',
+    r'\.indb\s+\d+',
+    r'ÁREA\s*LIVRE|AREA\s*LIVRE|RASCUNHO',
+]
+
+
+def clean_segment_noise(doc: fitz.Document, seg: Segment) -> Segment:
     """
-    Trims dead space (ÁREA LIVRE / RASCUNHO boxes) at the bottom of a segment.
-    Returns a new Segment with adjusted y1 if an AREA LIVRE or RASCUNHO block is found.
+    Cleans unwanted noise from page borders:
+    1. Removes top headers (barcodes, year headers, general course titles).
+    2. Removes bottom footers (page numbers, typography lines, barcodes, ÁREA LIVRE / RASCUNHO boxes).
     """
     if seg.pagina <= 0 or seg.pagina > doc.page_count:
         return seg
         
     page = doc[seg.pagina - 1]
-    clip_rect = fitz.Rect(seg.x0, seg.y0, seg.x1, seg.y1)
+    h = page.rect.height
+    
+    new_y0 = seg.y0
+    new_y1 = seg.y1
     
     try:
-        blocks = page.get_text("blocks", clip=clip_rect)
-        for b in blocks:
+        # 1. Check Top (Headers) if starting near page top
+        if new_y0 < 95.0:
+            top_clip = fitz.Rect(seg.x0, 0, seg.x1, min(100.0, new_y1))
+            blocks_top = page.get_text("blocks", clip=top_clip)
+            for b in blocks_top:
+                txt = decode_enade_str(b[4]).strip()
+                for pat in HEADER_PATTERNS:
+                    if re.search(pat, txt, re.IGNORECASE):
+                        if b[3] < new_y1 - 25.0:
+                            new_y0 = max(new_y0, b[3] + 2.0)
+                        break
+
+        # 2. Check Bottom (Footers, Area Livre, Rascunhos)
+        bot_clip = fitz.Rect(seg.x0, max(new_y0 + 20.0, h - 140.0), seg.x1, h)
+        blocks_bot = page.get_text("blocks", clip=bot_clip)
+        for b in blocks_bot:
+            txt = decode_enade_str(b[4]).strip()
+            for pat in FOOTER_PATTERNS:
+                if re.search(pat, txt, re.IGNORECASE):
+                    if b[1] > new_y0 + 25.0:
+                        new_y1 = min(new_y1, b[1] - 4.0)
+                    break
+                    
+        # Check any Area Livre / Rascunho inside the entire segment
+        clip_all = fitz.Rect(seg.x0, new_y0, seg.x1, new_y1)
+        blocks_all = page.get_text("blocks", clip=clip_all)
+        for b in blocks_all:
             txt = decode_enade_str(b[4]).upper()
             if "ÁREA LIVRE" in txt or "AREA LIVRE" in txt or "RASCUNHO" in txt:
-                # b[1] is y0 of the block
-                block_y0 = b[1]
-                if block_y0 > seg.y0 + 20.0:
-                    new_y1 = max(seg.y0 + 30.0, block_y0 - 4.0)
-                    logger.debug(f"Segmento Pág {seg.pagina} aparado: y1 {seg.y1:.1f} -> {new_y1:.1f} (Removido {b[4].strip()[:20]})")
-                    return Segment(
-                        pagina=seg.pagina,
-                        x0=seg.x0,
-                        y0=seg.y0,
-                        x1=seg.x1,
-                        y1=new_y1,
-                        coluna=seg.coluna
-                    )
+                if b[1] > new_y0 + 25.0:
+                    new_y1 = min(new_y1, b[1] - 4.0)
+
     except Exception as e:
-        logger.warning(f"Erro ao aparar segmento: {e}")
+        logger.warning(f"Erro ao limpar ruído de bordas do segmento (Pág {seg.pagina}): {e}")
         
-    return seg
+    if new_y1 <= new_y0 + 10.0:
+        return seg
+
+    return Segment(
+        pagina=seg.pagina,
+        x0=seg.x0,
+        y0=new_y0,
+        x1=seg.x1,
+        y1=new_y1,
+        coluna=seg.coluna
+    )
 
 
 def crop_segment_image(
@@ -162,9 +210,9 @@ def extract_and_save_question(
     figures_dir = output_dir / "figuras"
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # 1. Trim segments to remove ÁREA LIVRE / RASCUNHO dead space
-    trimmed_segments = [trim_segment_area_livre(doc, seg) for seg in question.segmentos]
-    question.segmentos = trimmed_segments
+    # 1. Clean noise (Headers, Footers, Area Livre / Rascunhos)
+    cleaned_segments = [clean_segment_noise(doc, seg) for seg in question.segmentos]
+    question.segmentos = cleaned_segments
     
     segment_images = []
     
@@ -193,7 +241,7 @@ def extract_and_save_question(
     
     png_path = output_dir / f"{question.id_questao}.png"
     cv2.imwrite(str(png_path), final_img, [cv2.IMWRITE_PNG_COMPRESSION, 1])
-    question.caminho_png = str(png_path)
+    question.caminho_png = f"/questoes/{exam.id_prova}/{question.id_questao}.png"
     
     # Extract text & embedded figures
     text, figures = extract_question_text_and_figures(doc, question, figures_dir)

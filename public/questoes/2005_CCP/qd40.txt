@@ -1,4 +1,3 @@
-Considere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se
 identificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do
 valor do aluguel a ser pago.
 Com relação a essa situação, 
@@ -7,7 +6,6 @@ b) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condi�
 c) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme
 
 PERFIL DO CURSO
-NÚMERO DAS QUESTÕES
 OBJETIVAS
 DISCURSIVAS
 Bacharelado em Ciência da Computação e

@@ -1,4 +1,3 @@
-4
 QUESTÃO 37  
 Escopo dinâmico: para as linguagens com escopo 
 dinâmico, a vinculação das variáveis ao escopo é realizada 
@@ -48,4 +47,4 @@ A   I.
 B   II.
 C   I e III.
 D   II e III.
-E   I, II e III.
+E I II e III

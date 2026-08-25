@@ -9,19 +9,19 @@
     {
       "pagina": 34,
       "x0": 286.56,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q30.png",
+  "caminho_png": "/questoes/2021_GTI/q30.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q30.txt",
   "largura": 1095,
-  "altura": 2823,
+  "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\t\nPara ter sucesso no trabalho, o analista de \nprocessos pode e deve conhecer as diversas \nfontes das especialidades que possam auxiliá-\nlo no tratamento dos diversos temas envolvidos \ncom o trabalho que hoje é uma das principais \npreocupações de organizações de todos os tipos: \nconhecer \ne \ngerenciar \nadequadamente \nseus \nprocessos. Nenhum analista de processos deve \nnutrir a veleidade de pensar que vai encontrar \na solulção para algum problema sozinho. Este \né um trabalho que deve ser feito em conjunto \ncom os funcionários da organização. Quanto \nmais cedo e melhor for o envolvimento de todos, \nmais rápidas e maiores serão as chances de sucesso.\nCRUZ, T. Manual para Gerenciamento de Processos de Negócio. \nSão Paulo: Atlas, 2015 (adaptado).\nCom base no texto, avalie as afirmações a seguir.\nI.\t O analista de processos deve discutir e \nouvir com atenção cada ator com relação às \nresponsabilidades do papel que ele terá no \nprocesso melhorado ou criado.\nII.\t O analista de processos deve permitir que \ndiscussões sobre o funcionamento do \nprocesso, e o que necessita ser modificado \nou não, ocorram de acordo com interesses \nparticulares.\nIII.\t O analista de processos deve criar ou utilizar \nmétodos que privilegiem a prática da \ncriação coletiva e da colaboração entre os \nenvolvidos.\nIV.\t O analista de processos deve direcionar para \nque a discussão sobre os processos aconteça \nno âmbito dos departamentos.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t I e IV.\nC\t II e IV.\nD\t I, II e III.\nE\t II, III e IV.",
+  "texto_completo": "QUESTÃO 30\t\nPara ter sucesso no trabalho, o analista de \nprocessos pode e deve conhecer as diversas \nfontes das especialidades que possam auxiliá-\nlo no tratamento dos diversos temas envolvidos \ncom o trabalho que hoje é uma das principais \npreocupações de organizações de todos os tipos: \nconhecer \ne \ngerenciar \nadequadamente \nseus \nprocessos. Nenhum analista de processos deve \nnutrir a veleidade de pensar que vai encontrar \na solulção para algum problema sozinho. Este \né um trabalho que deve ser feito em conjunto \ncom os funcionários da organização. Quanto \nmais cedo e melhor for o envolvimento de todos, \nmais rápidas e maiores serão as chances de sucesso.\nCRUZ, T. Manual para Gerenciamento de Processos de Negócio. \nSão Paulo: Atlas, 2015 (adaptado).\nCom base no texto, avalie as afirmações a seguir.\nI.\t O analista de processos deve discutir e \nouvir com atenção cada ator com relação às \nresponsabilidades do papel que ele terá no \nprocesso melhorado ou criado.\nII.\t O analista de processos deve permitir que \ndiscussões sobre o funcionamento do \nprocesso, e o que necessita ser modificado \nou não, ocorram de acordo com interesses \nparticulares.\nIII.\t O analista de processos deve criar ou utilizar \nmétodos que privilegiem a prática da \ncriação coletiva e da colaboração entre os \nenvolvidos.\nIV.\t O analista de processos deve direcionar para \nque a discussão sobre os processos aconteça \nno âmbito dos departamentos.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t I e IV.\nC\t II e IV.\nD\t I, II e III.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727162"
+  "criado_em": "2026-08-25T14:38:16.426301"
 }

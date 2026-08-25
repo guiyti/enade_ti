@@ -1,5 +1,3 @@
-Ã
-27
 WHERE CODIGO  COD_PECA;
 QUESTÃO 74
 No que diz respeito às redes neurais, assinale a opção correta.
@@ -17,7 +15,6 @@ E O número de camadas ocultas de uma rede de alimentação
 direta é inversamente proporcional ao aumento do espaço de
 hipóteses que ela pode representar.
 
-Um engenheiro de uma companhia fabricante de
 memórias semicondutoras estudou o comportamento
 do custo em função do número de bits da fabricação de
 um chip de memória RAM com determinada

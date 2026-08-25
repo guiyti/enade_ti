@@ -9,19 +9,19 @@
     {
       "pagina": 15,
       "x0": 25.0,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q26.png",
+  "caminho_png": "/questoes/2011_ADS/q26.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q26.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "1\nQUESTÃO 26  \nUm engenheiro de software planejou o desenvolvimento \nde um novo projeto, com prazo máximo de 220 dias, em \nseis fases: comunicação, planejamento, modelagem, \nconstrução, documentação e implantação. As fases seriam \nrealizadas na sequência em que foram listadas. Exceção \nfoi feita para as fases de construção e a documentação, \nque poderiam ocorrer em paralelo. Entretanto, a fase de \nimplantação só poderia ocorrer se tanto construção quanto \ndocumentação estivessem encerradas.\nA tabela a seguir apresenta a duração de cada fase do \nplano de desenvolvimento proposto.\nTabela - Fases e respectivas dependências e durações\n#\nFase\nDependência\nDuração\n(dias)\n1\nComunicação\n-\n15\n2\nPlanejamento\n1\n30\n3\nModelagem\n2\n45\n4\nConstrução\n3\n100\n5\nDocumentação\n3\n40\n6\nImplantação\n4,5\n30\nConsiderando o uso do Método do Caminho Crítico, e que \no projeto tem prazo máximo de 220 dias, com início no dia 1, \navalie as seguintes afirmações.\nI. \nA data mínima para o início da fase de implantação \né o dia 191. \nII. O projeto possui um caminho crítico, que é 1-2-3-5-6.\nIII. A folga livre da atividade documentação é de 60 dias.\nÉ correto apenas o que se afirma em:\nA   I.\nB   I e II.\nC   I e III.\nD   II e III.\nE   I, II e III.",
+  "texto_completo": "QUESTÃO 26  \nUm engenheiro de software planejou o desenvolvimento \nde um novo projeto, com prazo máximo de 220 dias, em \nseis fases: comunicação, planejamento, modelagem, \nconstrução, documentação e implantação. As fases seriam \nrealizadas na sequência em que foram listadas. Exceção \nfoi feita para as fases de construção e a documentação, \nque poderiam ocorrer em paralelo. Entretanto, a fase de \nimplantação só poderia ocorrer se tanto construção quanto \ndocumentação estivessem encerradas.\nA tabela a seguir apresenta a duração de cada fase do \nplano de desenvolvimento proposto.\nTabela - Fases e respectivas dependências e durações\n#\nFase\nDependência\nDuração\n(dias)\n1\nComunicação\n-\n15\n2\nPlanejamento\n1\n30\n3\nModelagem\n2\n45\n4\nConstrução\n3\n100\n5\nDocumentação\n3\n40\n6\nImplantação\n4,5\n30\nConsiderando o uso do Método do Caminho Crítico, e que \no projeto tem prazo máximo de 220 dias, com início no dia 1, \navalie as seguintes afirmações.\nI. \nA data mínima para o início da fase de implantação \né o dia 191. \nII. O projeto possui um caminho crítico, que é 1-2-3-5-6.\nIII. A folga livre da atividade documentação é de 60 dias.\nÉ correto apenas o que se afirma em:\nA   I.\nB   I e II.\nC   I e III.\nD   II e III.\nE   I, II e III.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235191"
+  "criado_em": "2026-08-25T14:35:01.738775"
 }

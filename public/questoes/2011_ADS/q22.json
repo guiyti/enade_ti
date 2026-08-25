@@ -9,19 +9,19 @@
     {
       "pagina": 13,
       "x0": 25.0,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q22.png",
+  "caminho_png": "/questoes/2011_ADS/q22.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q22.txt",
   "largura": 2241,
-  "altura": 2855,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n13\nQUESTÃO 22  \nPedro foi contratado como desenvolvedor de software de uma empresa. Em seu primeiro dia de trabalho ele se deparou \ncom o DER (Diagrama Entidade-Relacionamento), que representa os dados de um sistema de controle de malotes. Foi \nsolicitado a Pedro relatório para o sistema contendo os seguintes dados: o nome de todos os funcionários que enviaram \nos malotes, o código dos malotes enviados, a descrição de seus conteúdos e a situação dos malotes. Para a geração \ndo relatório, Pedro tem que fazer uma consulta utilizando o comando SELECT da linguagem SQL.\nFUNCIONARIOS\nMatricula: INTEGER [ PK ]\nNome: VARCHAR(50)\nData_Nascimento: DATE\nCodigo_Malote: INTEGER [ PK ]\nCodigo_Conteudo: INTEGER [ PFK ]\nMatricula: INTEGER [ FK ]\nOrigem: INTEGER\nDestino: INTEGER\nData_Envio: DATE\nData_Conferencia: DATE\nSituacao_Malote: CHAR(1)\nCodigo_Conteudo: INTEGER [ PK ]\nDescricao: VARCHR(50)\nCONTEUDOS\nMALOTES\nConhecidos o modelo conceitual de dados e os dados necessários para a tarefa de Pedro, o comando SELECT que ele \ndeve executar para realizar a consulta e produzir o relatório corretamente é\nA   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (CODIGO_CONTEUDO = CODIGO_CONTEUDO) INNER JOIN FUNCIONARIOS ON (MATRICULA = \nMATRICULA);\nB   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS WHERE (CODIGO_CONTEUDO = CODIGO_CONTEUDO) AND (MATRICULA = MATRICULA);\nC   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nINNER JOIN FUNCIONARIOS ON(MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)\nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nD   SELECT NOME, CODIGO_MALOTE, DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)INNER JOIN FUNCIONARIOS \nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nE   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS INNER JOIN WHERE (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO) \nAND (MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);",
+  "texto_completo": "QUESTÃO 22  \nPedro foi contratado como desenvolvedor de software de uma empresa. Em seu primeiro dia de trabalho ele se deparou \ncom o DER (Diagrama Entidade-Relacionamento), que representa os dados de um sistema de controle de malotes. Foi \nsolicitado a Pedro relatório para o sistema contendo os seguintes dados: o nome de todos os funcionários que enviaram \nos malotes, o código dos malotes enviados, a descrição de seus conteúdos e a situação dos malotes. Para a geração \ndo relatório, Pedro tem que fazer uma consulta utilizando o comando SELECT da linguagem SQL.\nFUNCIONARIOS\nMatricula: INTEGER [ PK ]\nNome: VARCHAR(50)\nData_Nascimento: DATE\nCodigo_Malote: INTEGER [ PK ]\nCodigo_Conteudo: INTEGER [ PFK ]\nMatricula: INTEGER [ FK ]\nOrigem: INTEGER\nDestino: INTEGER\nData_Envio: DATE\nData_Conferencia: DATE\nSituacao_Malote: CHAR(1)\nCodigo_Conteudo: INTEGER [ PK ]\nDescricao: VARCHR(50)\nCONTEUDOS\nMALOTES\nConhecidos o modelo conceitual de dados e os dados necessários para a tarefa de Pedro, o comando SELECT que ele \ndeve executar para realizar a consulta e produzir o relatório corretamente é\nA   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (CODIGO_CONTEUDO = CODIGO_CONTEUDO) INNER JOIN FUNCIONARIOS ON (MATRICULA = \nMATRICULA);\nB   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS WHERE (CODIGO_CONTEUDO = CODIGO_CONTEUDO) AND (MATRICULA = MATRICULA);\nC   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nINNER JOIN FUNCIONARIOS ON(MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)\nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nD   SELECT NOME, CODIGO_MALOTE, DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)INNER JOIN FUNCIONARIOS \nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nE   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS INNER JOIN WHERE (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO) \nAND (MALOTES MATRICULA = FUNCIONARIOS MATRICULA);",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235176"
+  "criado_em": "2026-08-25T14:35:01.738757"
 }

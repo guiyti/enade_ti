@@ -31,7 +31,6 @@ operar com algoritmos de roteamento apropriados.
 E	 Os gateways de transporte conectam dois computadores que utilizam diferentes protocolos de 
 transporte orientados a conexões, por exemplo, um computador que utiliza o protocolo TCP/IP 
 orientado a conexões pode se comunicar com um computador que utiliza um protocolo de transporte 
-orientado a conexões diferentes, chamado SCTP.
 Figura 1 - Dispositivos presentes em cada camada. 
 Figura 2 - Quadros, pacotes e cabeçalhos.
 Cabeçalho

@@ -9,19 +9,19 @@
     {
       "pagina": 25,
       "x0": 25.0,
-      "y0": 55.890419006347656,
+      "y0": 75.0,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q38.png",
+  "caminho_png": "/questoes/2011_CCP/q38.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q38.txt",
   "largura": 1123,
-  "altura": 2857,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "2\nQUESTÃO 38  \nÉ comum que linguagens de programação permitam \na descrição textual de constantes em hexadecimal, \nalém de descrições na base dez. O compilador para \numa linguagem que suporte constantes inteiras em \nhexadecimal precisa diferenciar inteiros em base dez dos \nnúmeros hexadecimais que não usam os dígitos de \na \n. Por exemplo, a sequência de caracteres\ng\npode ser \ninterpretada como doze em base dez ou como dezoito em \nhexadecimal. Uma maneira de resolver esse problema \né exigindo que as constantes em hexadecimal terminem \ncom o caracter “\n”. Assim, não há ambiguidade, por \nexemplo, no tratamento das sequências\n e \ng\n.\nA gramática a seguir descreve números inteiros, \npossivelmente com o símbolo “\n” após os dígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nd representa um dígito.\nM → E\nM → N\nE → N\nN → Nd\nN → d\nDurante a construção de um autômato LR para essa \ngramática, os seguintes estados são defi nidos:\ne0:\nM´ → ·M\nM → ·E\nM → ·N\nE → ·N\nN → ·Nd\nN → ·d\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · d\nA respeito dessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática descrita é do tipo LR(0).\nPORQUE\nÉ possível construir um autômato LR(0), determinístico, \ncujos estados incluem \ne \nacima descritos.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_completo": "QUESTÃO 38  \nÉ comum que linguagens de programação permitam \na descrição textual de constantes em hexadecimal, \nalém de descrições na base dez. O compilador para \numa linguagem que suporte constantes inteiras em \nhexadecimal precisa diferenciar inteiros em base dez dos \nnúmeros hexadecimais que não usam os dígitos de \na \n. Por exemplo, a sequência de caracteres\ng\npode ser \ninterpretada como doze em base dez ou como dezoito em \nhexadecimal. Uma maneira de resolver esse problema \né exigindo que as constantes em hexadecimal terminem \ncom o caracter “\n”. Assim, não há ambiguidade, por \nexemplo, no tratamento das sequências\n e \ng\n.\nA gramática a seguir descreve números inteiros, \npossivelmente com o símbolo “\n” após os dígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nd representa um dígito.\nM → E\nM → N\nE → N\nN → Nd\nN → d\nDurante a construção de um autômato LR para essa \ngramática, os seguintes estados são defi nidos:\ne0:\nM´ → ·M\nM → ·E\nM → ·N\nE → ·N\nN → ·Nd\nN → ·d\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · d\nA respeito dessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática descrita é do tipo LR(0).\nPORQUE\nÉ possível construir um autômato LR(0), determinístico, \ncujos estados incluem \ne \nacima descritos.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -84,5 +84,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218677"
+  "criado_em": "2026-08-25T14:35:20.232298"
 }

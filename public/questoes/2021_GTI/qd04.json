@@ -10,27 +10,27 @@
     {
       "pagina": 16,
       "x0": 25.0,
-      "y0": 64.71854400634766,
+      "y0": 75.0,
       "x1": 542.12,
-      "y1": 734.76,
+      "y1": 719.76,
       "coluna": 0
     },
     {
       "pagina": 17,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 154.43234252929688,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/qd04.png",
+  "caminho_png": "/questoes/2021_GTI/qd04.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/qd04.txt",
   "largura": 2185,
-  "altura": 3252,
+  "altura": 3063,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO DISCURSIVA 04\t\nA notação Business Process Model Notation (BPMN) adota diversos elementos padronizados para \nrepresentação de processos. Analise o processo de homologação de estágio em uma Instituição de Ensino \nSuperior, representado no diagrama a seguir.\nHomologação de Estágio da Educação à Distância\nPólo de Educação \na Distância\nCoordenação de Estágio\nAcadêmico/Estagiário\nReceber email\ne veriﬁcar\ndocumentos\nNão\nSim\nCorreto?\nNão\nSim\nAdequado?\nReceber\ndocumentos\npdf e imprimir\n3 vias\nIniciar o\nestágio\nPreencher plano\nde atividades e\ntermos de\ncompromisso\nEncaminhar\ndocumentos\nvia malote\nAssinar\ndocumentos e\nentregar no\nPólo\nReceber\ndocumentos e\nanalisar\nAvisar o\nacadêmico\ndos erros\nAssinar e\ndevolver\n2 cópias\nRegistrar no\nSiga e arquivar\ndocumento\nReceber\ndocumentos e\nentregar para o\nestagiário\nReceber\ndocumentos e\nentregar via da\nconcedente\nMandar email\nrelatando\nos erros\nEncaminhar\ndocumentos\nem formato\npdf por email\nEncaminhar por\nemail para\ncoordenação\nde estágio\nArrumar os\nerros e\nencaminhar\nnovamente\nUFJF. Escritório de Processos. Disponível em: www2.ufjf.br/escritoriodeprocessos/portifolio/ \nAcesso em: 26 Ago. 2021 (adaptado).\n\nConsiderando o diagrama apresentado, faça o que se pede nos itens a seguir.\na)\t Cite o nome de duas tarefas, dois gateways e duas raias que podem ser identificados. (valor: 6,0 pontos)\nb)\t Se o estagiário entregar os documentos errados, cite as tarefas que deverão ser realizadas e por quem. \n(valor: 4,0 pontos)",
+  "texto_completo": "QUESTÃO DISCURSIVA 04\t\nA notação Business Process Model Notation (BPMN) adota diversos elementos padronizados para \nrepresentação de processos. Analise o processo de homologação de estágio em uma Instituição de Ensino \nSuperior, representado no diagrama a seguir.\nHomologação de Estágio da Educação à Distância\nPólo de Educação \na Distância\nCoordenação de Estágio\nAcadêmico/Estagiário\nReceber email\ne veriﬁcar\ndocumentos\nNão\nSim\nCorreto?\nNão\nSim\nAdequado?\nReceber\ndocumentos\npdf e imprimir\n3 vias\nIniciar o\nestágio\nPreencher plano\nde atividades e\ntermos de\ncompromisso\nEncaminhar\ndocumentos\nvia malote\nAssinar\ndocumentos e\nentregar no\nPólo\nReceber\ndocumentos e\nanalisar\nAvisar o\nacadêmico\ndos erros\nAssinar e\ndevolver\n2 cópias\nRegistrar no\nSiga e arquivar\ndocumento\nReceber\ndocumentos e\nentregar para o\nestagiário\nReceber\ndocumentos e\nentregar via da\nconcedente\nMandar email\nrelatando\nos erros\nEncaminhar\ndocumentos\nem formato\npdf por email\nEncaminhar por\nemail para\ncoordenação\nde estágio\nArrumar os\nerros e\nencaminhar\nnovamente\nUFJF Escritório de Processos Disponível em: www2 ufjf br/escritoriodeprocessos/portifolio/\n\nConsiderando o diagrama apresentado, faça o que se pede nos itens a seguir.\na)\t Cite o nome de duas tarefas, dois gateways e duas raias que podem ser identificados. (valor: 6,0 pontos)\nb)\t Se o estagiário entregar os documentos errados, cite as tarefas que deverão ser realizadas e por quem. \n(valor: 4,0 pontos)",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:33.727066"
+  "criado_em": "2026-08-25T14:38:16.426208"
 }

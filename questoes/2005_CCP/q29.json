@@ -12,25 +12,25 @@
       "x0": 301.08,
       "y0": 468.8555908203125,
       "x1": 571.16,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
     },
     {
       "pagina": 12,
       "x0": 25.0,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 295.08,
       "y1": 289.4355773925781,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q29.png",
+  "caminho_png": "/questoes/2005_CCP/q29.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q29.txt",
   "largura": 1156,
-  "altura": 2391,
+  "altura": 2245,
   "confianca": 0.98,
-  "texto_completo": "Ã\n10\nE Todos os itens estão certos.\nQUESTÃO 29\nT1\n1\nLeitura(X);\n2\nX = X – 100;\n3\nEscrita(X);\n4\nLeitura(Y);\n5\nY = Y + 100;\n6\nEscrita(Y);\nConsidere um sistema bancário simplificado e uma transação T1,\nque transfira R$ 100,00 da conta X para a conta Y e é definida\npelas operações listadas acima. Considere ainda que uma transação\nT2 esteja sendo executada simultaneamente com T1. Caso a\nransação T2 realize a operação Escrita(Y) depois da execução\nda operação 4 e antes da execução da operação 6 por T1, qual\npropriedade de transações será violada no banco de dados do\neferido sistema bancário?\nA Atomicidade.\nB Isolamento.\nC Distributividade.\nD Consistência.\nE Durabilidade.\n\nO desenvolvimento global de software GSD — global\nsoftware development — tem-se firmado como uma das\ngrandes tendências na área de sistemas de informação nas\norganizações. Considere que uma organização da área de\nvarejo e distribuição sediada na Europa tenha implantado três\nunidades de desenvolvimento de software espalhadas no\nmundo: uma no Brasil, uma na Índia e outra na China.\nConsidere ainda que nenhuma dessas unidades possua\nqualquer tipo de certificação e que o principal problema da\norganização esteja relacionado ao desenvolvimento de\nsistemas que atendam às necessidades da organização e que\nreflitam as expectativas dos clientes globais. \nNessa situação, o nível do modelo SW-CMM e a KPA (área chave\nde processo) mais adequados para a situação apresentada são,\nrespectivamente,\nA nível 2, KPA RM – gestão de requisitos.\nB nível 2, KPA SPP – planejamento.\nC nível 2, KPA SPTO – acompanhamento de projeto.\nD nível 3, KPA OPD – definição do processo da organização.\nE nível 3, KPA SPE – engenharia de produtos de software.",
+  "texto_completo": "E Todos os itens estão certos.\nQUESTÃO 29\nT1\n1\nLeitura(X);\n2\nX = X – 100;\n3\nEscrita(X);\n4\nLeitura(Y);\n5\nY = Y + 100;\n6\nEscrita(Y);\nConsidere um sistema bancário simplificado e uma transação T1,\nque transfira R$ 100,00 da conta X para a conta Y e é definida\npelas operações listadas acima. Considere ainda que uma transação\nT2 esteja sendo executada simultaneamente com T1. Caso a\nransação T2 realize a operação Escrita(Y) depois da execução\nda operação 4 e antes da execução da operação 6 por T1, qual\npropriedade de transações será violada no banco de dados do\neferido sistema bancário?\nA Atomicidade.\nB Isolamento.\nC Distributividade.\nD Consistência.\nE Durabilidade.\n\nsoftware development — tem-se firmado como uma das\ngrandes tendências na área de sistemas de informação nas\norganizações. Considere que uma organização da área de\nvarejo e distribuição sediada na Europa tenha implantado três\nunidades de desenvolvimento de software espalhadas no\nmundo: uma no Brasil, uma na Índia e outra na China.\nConsidere ainda que nenhuma dessas unidades possua\nqualquer tipo de certificação e que o principal problema da\norganização esteja relacionado ao desenvolvimento de\nsistemas que atendam às necessidades da organização e que\nreflitam as expectativas dos clientes globais. \nNessa situação, o nível do modelo SW-CMM e a KPA (área chave\nde processo) mais adequados para a situação apresentada são,\nrespectivamente,\nA nível 2, KPA RM – gestão de requisitos.\nB nível 2, KPA SPP – planejamento.\nC nível 2, KPA SPTO – acompanhamento de projeto.\nD nível 3, KPA OPD – definição do processo da organização.\nE nível 3, KPA SPE – engenharia de produtos de software.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +53,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796631"
+  "criado_em": "2026-08-25T14:34:18.145950"
 }

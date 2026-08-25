@@ -1,5 +1,3 @@
-36
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 QUESTÃO 32 
 hŵ ĐůŝĞŶƚĞ ƐŽůŝĐŝƚŽƵ Ă ƵŵĂ ĞŵƉƌĞƐĂ Ă ĐƌŝĂĕĆŽ ĚĞ Ƶŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ ƉĂƌĂ ĂƌŵĂǌĞŶĂƌ Ž ƌĞƐƵůƚĂĚŽ ĚĞ 
 ƵŵĂ ĞůĞŝĕĆŽ ƉƌĞƐŝĚĞŶĐŝĂů͕  ĐŽŵ ĚĂĚŽƐ ƐŽďƌĞ ŽƐ ƉĂƌƟĚŽƐ ƉŽůşƟĐŽƐ͕  ŽƐ ĐĂŶĚŝĚĂƚŽƐ Ğ Ă ǀŽƚĂĕĆŽ ŽďƟĚĂ ƉŽƌ 
@@ -121,4 +119,3 @@ p.nome, SUM(v.votos);
 E SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, 
 Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
 c.nome, p.nome, v.votos;
-*R41201737*

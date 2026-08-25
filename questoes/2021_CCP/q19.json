@@ -9,17 +9,17 @@
     {
       "pagina": 28,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 504.12506103515625,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q19.png",
+  "caminho_png": "/questoes/2021_CCP/q19.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q19.txt",
   "largura": 2185,
-  "altura": 1861,
+  "altura": 1819,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 19\t\nDuas técnicas comumente utilizadas para ampliar as informações básicas sobre requisitos são personas \ne cenários. Frequentemente usadas juntas, essas técnicas se complementam de forma a trazer detalhes \nrealísticos que possibilitam ao desenvolvedor explorar as atividades atuais do usuário, uso futuro de \nnovos produtos e visões futuristas de novas tecnologias. Elas também podem guiar o desenvolvimento \nao longo do ciclo de vida do produto.\nROGERS, Y.; PREECE, J.; SHARP, H. Interaction Design: beyond human-computer interaction. \n5. ed. Indianapolis, IN, USA: John Wiley & Sons, Inc., 2019 (adaptado).\nCom base no texto apresentado e sobre os objetivos do uso de personas e cenários em um processo de \nelicitação de requisitos, avalie as afirmações a seguir.\nI.\t O uso de personas e cenários, em um processo de elicitação, explicita algumas situações que \naparecem implícitas nos requisitos.\nII.\t O uso de personas e cenários, em um processo de elicitação, ajuda o projetista a entender melhor \no impacto das decisões de projeto.\nIII.\tO uso de personas e cenários, em um processo de elicitação, facilita a especificação formal \ne não-ambígua dos requisitos de interação.\nIV.\t O uso de personas e cenários, em um processo de elicitação, lembra à equipe de desenvolvimento \nque pessoas reais usarão o produto.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t I e IV.\nC\t II e III.\nD\t I, II e IV.\nE\t II, III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:20.187095"
+  "criado_em": "2026-08-25T14:37:55.902099"
 }

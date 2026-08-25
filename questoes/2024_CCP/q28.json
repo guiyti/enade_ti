@@ -3,34 +3,25 @@
   "numero": 28,
   "tipo": "OBJETIVA",
   "paginas": [
-    16,
-    17
+    16
   ],
   "segmentos": [
     {
       "pagina": 16,
       "x0": 321.35999999999996,
-      "y0": 82.02613830566406,
+      "y0": 82.57166290283203,
       "x1": 611.7199999999999,
       "y1": 556.3416137695312,
       "coluna": 2
-    },
-    {
-      "pagina": 17,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 611.7199999999999,
-      "y1": 86.02613830566406,
-      "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q28.png",
+  "caminho_png": "/questoes/2024_CCP/q28.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q28.txt",
-  "largura": 2475,
-  "altura": 2151,
+  "largura": 1240,
+  "altura": 2004,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 28\t\nO espaço escolar é um lugar de convívio. Nele encontramos \nnão apenas as relações das pessoas com o conhecimento, \nmas também o aprendizado de como as pessoas se relacionam \nentre si e com o restante do mundo. Exatamente por isso os \nconflitos aparecem, e a gestão da escola deve saber como \nlidar com eles. Por reproduzir as lógicas sociais, encontramos, \ntambém na escola, relações que desvalorizam o que é \nentendido como contra-hegemônico nas culturas. E isso \nimpacta negativamente nas pessoas negras e nas praticantes \ndas Religiões de Matrizes Africanas. Talvez os signos de Exu e \nde Ogum sejam boas pistas sobre como lidar com a escola na \nbusca de espaços menos opressivos. Essas duas divindades do \npanteão iorubano são vinculadas aos caminhos, à comunicação, \nà política, aos conflitos e, de algum modo, à própria educação. \nExu e Ogum nos ensinam que a convivência não precisa de \numa suposição de que todas e todos pensem do mesmo modo, \ndesejem do mesmo modo, caminhem pelos mesmos caminhos. \nMas ensinam que o mundo é criado coletivamente e que, entre \nconflitos e andanças, devemos preservar as diferenças.\nNASCIMENTO, W. F. As religiões de matrizes africanas, resistência \ne contexto escolar: entre encruzilhadas. In: Memórias do \nBaobá II. Fortaleza: Editora UFC, 2017 (adaptado).\nCom base no texto e nas ações de enfrentamento ao racismo \nreligioso no espaço escolar, é correto afirmar que a\nA\t abordagem da religião e da cultura iorubanas em sala de \naula permite que professores e estudantes reflitam sobre os \nefeitos das violências materiais e simbólicas na sociedade.\nB\t apresentação de conteúdos vinculados às religiões de \nmatrizes africanas e a valorização do diálogo na resolução \nde conflitos nas escolas buscam uma identidade comum a \ntodos os estudantes.\nC\t concepção do ambiente escolar como espaço de convívio \nreligioso distancia-se da função social da educação, \nque  deve focalizar conhecimentos gerais, formação \ndisciplinar e cidadania.\nD utilização de trechos da mitologia africana nas aulas de\n\n2025\n*R0404202517*",
+  "texto_completo": "QUESTÃO 28\t\nO espaço escolar é um lugar de convívio. Nele encontramos \nnão apenas as relações das pessoas com o conhecimento, \nmas também o aprendizado de como as pessoas se relacionam \nentre si e com o restante do mundo. Exatamente por isso os \nconflitos aparecem, e a gestão da escola deve saber como \nlidar com eles. Por reproduzir as lógicas sociais, encontramos, \ntambém na escola, relações que desvalorizam o que é \nentendido como contra-hegemônico nas culturas. E isso \nimpacta negativamente nas pessoas negras e nas praticantes \ndas Religiões de Matrizes Africanas. Talvez os signos de Exu e \nde Ogum sejam boas pistas sobre como lidar com a escola na \nbusca de espaços menos opressivos. Essas duas divindades do \npanteão iorubano são vinculadas aos caminhos, à comunicação, \nà política, aos conflitos e, de algum modo, à própria educação. \nExu e Ogum nos ensinam que a convivência não precisa de \numa suposição de que todas e todos pensem do mesmo modo, \ndesejem do mesmo modo, caminhem pelos mesmos caminhos. \nMas ensinam que o mundo é criado coletivamente e que, entre \nconflitos e andanças, devemos preservar as diferenças.\nNASCIMENTO, W. F. As religiões de matrizes africanas, resistência \ne contexto escolar: entre encruzilhadas. In: Memórias do \nBaobá II. Fortaleza: Editora UFC, 2017 (adaptado).\nCom base no texto e nas ações de enfrentamento ao racismo \nreligioso no espaço escolar, é correto afirmar que a\nA\t abordagem da religião e da cultura iorubanas em sala de \naula permite que professores e estudantes reflitam sobre os \nefeitos das violências materiais e simbólicas na sociedade.\nB\t apresentação de conteúdos vinculados às religiões de \nmatrizes africanas e a valorização do diálogo na resolução \nde conflitos nas escolas buscam uma identidade comum a \ntodos os estudantes.\nC\t concepção do ambiente escolar como espaço de convívio \nreligioso distancia-se da função social da educação, \nque  deve focalizar conhecimentos gerais, formação \ndisciplinar e cidadania.\nD utilização de trechos da mitologia africana nas aulas de",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490833"
+  "criado_em": "2026-08-25T14:38:37.516121"
 }

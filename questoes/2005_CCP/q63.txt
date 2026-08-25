@@ -1,10 +1,7 @@
 estado
-símbolo
 lido na fita
-símbolo gravado
 na fita
 direção
-próximo
 estado
 início
 !

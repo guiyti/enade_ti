@@ -1,4 +1,3 @@
-Á
 j
 QUESTÃO 21
 No modo recursivo de representação, a descrição de um
@@ -25,7 +24,6 @@ C I, III e IV.
 D I, III e V.
 E II, IV e V.
 
-Com relação ao gerenciamento de memória com paginação em
 istemas operacionais, assinale a opção correta.
 A As páginas utilizadas por um processo, sejam de código ou de
 dados, devem ser obrigatoriamente armazenadas na partição de

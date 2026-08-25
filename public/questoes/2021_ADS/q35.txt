@@ -30,4 +30,12 @@ diferentes áreas do conhecimento devem interagir a fim de obter as soluções d
 foi implementada utilizando a linguagem C. Considere que as funções I e R foram escritas e são 
 booleanas, operando de acordo com a definição dada pela equipe. A função “obtem” encapsula o 
 funcionamento das funções P e S. Ela percorre a base de dados da companhia e obtém um parente 
-da pessoa apontada por “p” que possua o seguro, caso exista. Caso contrário, ela devolve NULL.
+d
+t d
+“ ”
+i t
+C
+t á i
+l d
+l
+NULL

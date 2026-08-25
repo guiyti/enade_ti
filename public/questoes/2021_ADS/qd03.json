@@ -9,19 +9,19 @@
     {
       "pagina": 14,
       "x0": 25.0,
-      "y0": 64.94654846191406,
+      "y0": 75.0,
       "x1": 542.12,
       "y1": 217.9296417236328,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd03.png",
+  "caminho_png": "/questoes/2021_ADS/qd03.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd03.txt",
   "largura": 2185,
-  "altura": 668,
+  "altura": 626,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO DISCURSIVA 03\t\nConsidere a realização de uma pesquisa com 1 000 pessoas para obtenção das seguintes informações: \no valor da maior altura; o valor da menor altura; a média das alturas; quantas pessoas têm altura inferior \nà média das alturas.\nConsidere, ainda, que um programador foi selecionado para desenvolver um modelo de código que \nsoluciona o problema automatizando a coleta das alturas e a geração das informações.\nCom base nas informações apresentadas, desenvolva o código adequado para resolver o problema \nusando pseudocódigo ou uma linguagem de programação. (valor: 10,0 pontos)\nCOMPONENTE ESPECÍFICO",
+  "texto_completo": "QUESTÃO DISCURSIVA 03\t\nConsidere a realização de uma pesquisa com 1 000 pessoas para obtenção das seguintes informações: \no valor da maior altura; o valor da menor altura; a média das alturas; quantas pessoas têm altura inferior \nà média das alturas.\nConsidere, ainda, que um programador foi selecionado para desenvolver um modelo de código que \nsoluciona o problema automatizando a coleta das alturas e a geração das informações.\nCom base nas informações apresentadas, desenvolva o código adequado para resolver o problema \nusando pseudocódigo ou uma linguagem de programação. (valor: 10,0 pontos)",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:05.710768"
+  "criado_em": "2026-08-25T14:37:31.778129"
 }

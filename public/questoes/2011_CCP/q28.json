@@ -9,17 +9,17 @@
     {
       "pagina": 16,
       "x0": 293.28,
-      "y0": 55.890419006347656,
+      "y0": 75.0,
       "x1": 555.56,
       "y1": 606.05029296875,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.png",
+  "caminho_png": "/questoes/2011_CCP/q28.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q28.txt",
   "largura": 1123,
-  "altura": 2323,
+  "altura": 2243,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 28\nAlgoritmos criados para resolver um mesmo problema \npodem diferir de forma drástica quanto a sua eficiência. \nPara evitar este fato, são utilizadas técnicas algorítmicas, \nisto é, conjunto de técnicas que compreendem os métodos \nde codificação de algoritmos de forma a salientar sua \ncomplexidade, levando-se em conta a forma pela qual \ndeterminado algoritmo chega à solução desejada.\nConsiderando os diferentes paradigmas e técnicas de \nprojeto de algoritmos, analise as afirmações abaixo.\nI. \nA técnica de tentativa e erro (backtracking) efetua \numa escolha ótima local, na esperança de obter \numa solução ótima global.\nII. A técnica de divisão e conquista pode ser dividida \nem três etapas: dividir a instância do problema \nem duas ou mais instâncias menores; resolver \nas instâncias menores recursivamente; obter a \nsolução para as instâncias originais (maiores) por \nmeio da combinação dessas soluções.\nIII. A \ntécnica \nde \nprogramação \ndinâmica \ndecompõe o processo em um número finito de \nsubtarefas parciais que devem ser exploradas \nexaustivamente.\nIV. O uso de heurísticas (ou algoritmos aproximados) \né caracterizado pela ação de um procedimento \nchamar a si próprio, direta ou indiretamente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
   "texto_enunciado": "",
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218625"
+  "criado_em": "2026-08-25T14:35:20.232235"
 }

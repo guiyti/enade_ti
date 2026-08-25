@@ -1,4 +1,3 @@
-A análise de complexidade provê critérios para a classificação
 de problemas com base na computabilidade de suas soluções,
 utilizando-se a máquina de Turing como modelo referencial e
 possibilitando o agrupamento de problemas em classes. Nesse

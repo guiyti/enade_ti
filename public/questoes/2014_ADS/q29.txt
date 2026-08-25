@@ -1,5 +1,3 @@
-2
-dEIEK>K'/  ED  E>/^E E DE^E
 QUESTÃO 29
 hD>  Ġ  ƵŵĂ  ůŝŶŐƵĂŐĞŵ  ƉĂĚƌĆŽ  ƉĂƌĂ  ĚĞƐĞŶǀŽůǀĞƌ  Ğ 
 ĚŽĐƵŵĞŶƚĂƌ  ƉƌŽũĞƚŽƐ  ĚĞ  ƐŽŌǁĂƌĞ  Ğ  ƉĞƌŵŝƚĞ  ƋƵĞ 
@@ -58,13 +56,8 @@ public double obterSalario(double
 adicional, double desconto){
 24
 return this.getSalario() + adicional - desconto;
-25
-26
-}
-27 }
 
 3
-EsK>s/DEEdK DE ^/^dED ^
 hƟůŝǌĂŶĚŽ  Ă  ĞŶŐĞŶŚĂƌŝĂ  ƌĞǀĞƌƐĂ  ŶĞƐƐĞ  ƚƌĞĐŚŽ  ĚĞ 
 ĐſĚŝŐŽ͕  Ž ĚŝĂŐƌĂŵĂ hD> ĚĞ ĐůĂƐƐĞƐ ĐŽƌƌĞƐƉŽŶĚĞŶƚĞ Ġ
 A
@@ -105,4 +98,3 @@ Funcionario
 +getSalario(): double
 +obterSalario(percentualAcrescimo:double): double
 +obterSalario(adicional:double,desconto:double): double
-*R40201423*

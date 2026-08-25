@@ -11,25 +11,25 @@
       "x0": 25.0,
       "y0": 559.9356079101562,
       "x1": 295.08,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 1
     },
     {
       "pagina": 13,
       "x0": 301.08,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 571.16,
       "y1": 394.55560302734375,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q36.png",
+  "caminho_png": "/questoes/2005_CCP/q36.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q36.txt",
   "largura": 1156,
-  "altura": 2449,
+  "altura": 2303,
   "confianca": 0.98,
-  "texto_completo": "Á\nC I, III e IV.\nQUESTÃO 36\nJoão, ao tentar consertar o módulo eletrônico de um\ncarrinho de brinquedos, levantou as características de um pequeno\ncircuito digital incluso no módulo. Verificou que o circuito tinha\n0\n1\n0\n1\ndois bits de entrada, x e x , e um bit de saída. Os bits x e x\neram utilizados para representar valores de inteiros de 0 a 3\n0\n1\n(x , o bit menos significativo e x , o bit mais significativo)\nApós testes, João verificou que a saída do circuito é 0 para\ntodos os valores de entrada, exceto para o valor 2.\nQual das expressões a seguir representa adequadamente o circuito\nanalisado por João?\n0\n1\nA x and (not x )\n0\n1\nB (not x ) or (not x )\n0\n1\nC (not x ) and x\n0\n1\nD x and x\n0\n1\nE x or (not x )\n\nO gerente de desenvolvimento de uma empresa de\nTI examinou a seguinte planilha sobre andamento de\nprojetos.\nprojeto\npercentual\ncompletado (em %)\npercentual do orçamento\njá despendido (em %)\nP1\n50\n70\nP2\n80\n65\nCom base nessa planilha e com relação aos conceitos de dado,\ninformação e conhecimento, julgue os itens que se seguem.\nI\nO número 65, na célula inferior direita, é um dado.\nII\nAssociar o número 80 (célula inferior central) ao percentual\ncompletado (em %) e a P2, e concluir que o projeto P2 está\n80% completado é um conhecimento.\nIII Dizer que P1 está adiantado ou atrasado é uma informação.\nIV Dizer o quanto P1 vai precisar a mais do que foi\ninicialmente previsto no orçamento é um conhecimento.\nEstão certos apenas os itens\nA I e II.\nB I e IV.\nC II e III.\nD II e IV.\nE III e IV.",
+  "texto_completo": "C I, III e IV.\nQUESTÃO 36\nJoão, ao tentar consertar o módulo eletrônico de um\ncarrinho de brinquedos, levantou as características de um pequeno\ncircuito digital incluso no módulo. Verificou que o circuito tinha\n0\n1\n0\n1\ndois bits de entrada, x e x , e um bit de saída. Os bits x e x\neram utilizados para representar valores de inteiros de 0 a 3\n0\n1\n(x , o bit menos significativo e x , o bit mais significativo)\nApós testes, João verificou que a saída do circuito é 0 para\ntodos os valores de entrada, exceto para o valor 2.\nQual das expressões a seguir representa adequadamente o circuito\nanalisado por João?\n0\n1\nA x and (not x )\n0\n1\nB (not x ) or (not x )\n0\n1\nC (not x ) and x\n0\n1\nD x and x\n0\n1\nE x or (not x )\n\nTI examinou a seguinte planilha sobre andamento de\nprojetos.\nprojeto\npercentual\ncompletado (em %)\npercentual do orçamento\njá despendido (em %)\nP1\n50\n70\nP2\n80\n65\nCom base nessa planilha e com relação aos conceitos de dado,\ninformação e conhecimento, julgue os itens que se seguem.\nI\nO número 65, na célula inferior direita, é um dado.\nII\nAssociar o número 80 (célula inferior central) ao percentual\ncompletado (em %) e a P2, e concluir que o projeto P2 está\n80% completado é um conhecimento.\nIII Dizer que P1 está adiantado ou atrasado é uma informação.\nIV Dizer o quanto P1 vai precisar a mais do que foi\ninicialmente previsto no orçamento é um conhecimento.\nEstão certos apenas os itens\nA I e II.\nB I e IV.\nC II e III.\nD II e IV.\nE III e IV.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -52,5 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:10:51.796648"
+  "criado_em": "2026-08-25T14:34:18.145968"
 }

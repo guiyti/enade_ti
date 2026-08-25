@@ -9,19 +9,19 @@
     {
       "pagina": 27,
       "x0": 25.0,
-      "y0": 55.890419006347656,
+      "y0": 75.0,
       "x1": 555.56,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q43.png",
+  "caminho_png": "/questoes/2011_CCP/q43.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q43.txt",
   "largura": 2241,
-  "altura": 2857,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n27\nQUESTÃO 43  \nO razor é uma arquitetura para desempenho better-than-worst-case que usa um \nregistrador especializado, mostrado na fi gura, que mede e avalia os erros.\nO registrador do sistema mantém o valor chaveado e é comandado por um \nclock de sistema better-than-worst-case. Um registrador adicional é comandado \nseparadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os \nresultados armazenados nos dois registradores são diferentes, então um erro ocorreu, \nprovavelmente devido à temporização. A porta XOR detecta o erro e faz com que este \nvalor seja substituído por aquele no registrador do sistema.\nWolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007\nConsiderando essas informações, analise as afi rmações a seguir.\nI. \nSistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.\nII. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, \npermitindo que o circuito possa operar com uma frequência maior.\nIII. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam \narmazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior \ncaso.\nÉ correto o que se afi rma em\nA   I, apenas.\nB   III, apenas.\nC   I e II, apenas.\nD   II e III, apenas.\nE   I, II e III.",
+  "texto_completo": "QUESTÃO 43  \nO razor é uma arquitetura para desempenho better-than-worst-case que usa um \nregistrador especializado, mostrado na fi gura, que mede e avalia os erros.\nO registrador do sistema mantém o valor chaveado e é comandado por um \nclock de sistema better-than-worst-case. Um registrador adicional é comandado \nseparadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os \nresultados armazenados nos dois registradores são diferentes, então um erro ocorreu, \nprovavelmente devido à temporização. A porta XOR detecta o erro e faz com que este \nvalor seja substituído por aquele no registrador do sistema.\nWolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007\nConsiderando essas informações, analise as afi rmações a seguir.\nI. \nSistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.\nII. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, \npermitindo que o circuito possa operar com uma frequência maior.\nIII. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam \narmazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior \ncaso.\nÉ correto o que se afi rma em\nA   I, apenas.\nB   III, apenas.\nC   I e II, apenas.\nD   II e III, apenas.\nE I II e III",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [
@@ -65,5 +65,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218698"
+  "criado_em": "2026-08-25T14:35:20.232322"
 }

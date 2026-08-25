@@ -9,19 +9,19 @@
     {
       "pagina": 14,
       "x0": 25.0,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 287.28,
-      "y1": 734.28,
+      "y1": 719.28,
       "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q23.png",
+  "caminho_png": "/questoes/2011_ADS/q23.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q23.txt",
   "largura": 1123,
-  "altura": 2855,
+  "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\n1\nQUESTÃO 23  \nConsidere o diagrama de entidades e relacionamentos \na seguir, onde as chaves primárias de cada entidade se \nencontram na parte superior dos retângulos. As entidades \nfortes são representadas por retângulos e as entidades fracas \nsão representadas por retângulos com cantos arredondados. \nO diagrama atende as seguintes restrições:\n(i) entre Ent1 e Ent2, tem-se um relacionamento \nmuitos para muitos; \n(ii) entre as Entidades Ent2 e Ent3, tem-se um \nrelacionamento de um para nenhum, um ou muitos;\n(iii) entre Ent1 e Ent5, tem-se um relacionamento de \nzero ou um para zero, um ou muitos; e \n(iv) entre Ent3 e Ent4, tem-se um relacionamento de \nmuitos para muitos.\nEnt1\nEnt2\nEnt5\nEnt3\nEnt4\ncent11\ncent12\naent11\naent12\ncent21\naent21\naent22\naent23\ncent51\naent51\ncent31\naent31\naent32\ncent41\naent41\naent42\naent43\nAplicando a terceira forma normal ao modelo, qual será o \ntotal de colunas que deve ser criado para representar as \nchaves estrangeiras?\nA   3.\nB   5.\nC   7.\nD   8.\nE   9.",
+  "texto_completo": "QUESTÃO 23  \nConsidere o diagrama de entidades e relacionamentos \na seguir, onde as chaves primárias de cada entidade se \nencontram na parte superior dos retângulos. As entidades \nfortes são representadas por retângulos e as entidades fracas \nsão representadas por retângulos com cantos arredondados. \nO diagrama atende as seguintes restrições:\n(i) entre Ent1 e Ent2, tem-se um relacionamento \nmuitos para muitos; \n(ii) entre as Entidades Ent2 e Ent3, tem-se um \nrelacionamento de um para nenhum, um ou muitos;\n(iii) entre Ent1 e Ent5, tem-se um relacionamento de \nzero ou um para zero, um ou muitos; e \n(iv) entre Ent3 e Ent4, tem-se um relacionamento de \nmuitos para muitos.\nEnt1\nEnt2\nEnt5\nEnt3\nEnt4\ncent11\ncent12\naent11\naent12\ncent21\naent21\naent22\naent23\ncent51\naent51\ncent31\naent31\naent32\ncent41\naent41\naent42\naent43\nAplicando a terceira forma normal ao modelo, qual será o \ntotal de colunas que deve ser criado para representar as \nchaves estrangeiras?\nA   3.\nB   5.\nC   7.\nD   8.\nE 9",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:24.235179"
+  "criado_em": "2026-08-25T14:35:01.738762"
 }

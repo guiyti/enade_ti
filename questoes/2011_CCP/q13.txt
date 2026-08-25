@@ -1,4 +1,3 @@
-0
 QUESTÃO 13  
 O problema do escalonamento de intervalos tem como 
 entrada um conjunto de intervalos numéricos (usualmente 
@@ -38,4 +37,4 @@ segunda, uma proposição falsa.
 D   A segunda asserção é uma proposição falsa e a 
 segunda, uma proposição verdadeira.
 E   Tanto a primeira quanto a segunda asserções são 
-proposições falsas.
+proposições falsas

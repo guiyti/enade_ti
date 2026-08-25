@@ -3,8 +3,7 @@
   "numero": 14,
   "tipo": "OBJETIVA",
   "paginas": [
-    8,
-    9
+    8
   ],
   "segmentos": [
     {
@@ -12,25 +11,17 @@
       "x0": 300.59999999999997,
       "y0": 147.40670776367188,
       "x1": 570.1999999999999,
-      "y1": 797.16,
+      "y1": 782.16,
       "coluna": 2
-    },
-    {
-      "pagina": 9,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 294.59999999999997,
-      "y1": 83.12667846679688,
-      "coluna": 1
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q14.png",
+  "caminho_png": "/questoes/2008_CCP/q14.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q14.txt",
   "largura": 1154,
-  "altura": 2870,
+  "altura": 2675,
   "confianca": 0.98,
-  "texto_completo": "E\n{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}\nQUESTÃO 14\nUm programador propôs um algoritmo não-recursivo\npara o percurso em preordem de uma árvore binária com\nas seguintes características.\n<\nCada nó da árvore binária é representado por um\nregistro com três campos: chave, que armazena seu\nidentificador; esq e dir, ponteiros para os filhos\nesquerdo e direito, respectivamente.\n<\nO algoritmo deve ser invocado inicialmente tomando o\nponteiro para o nó raiz da árvore binária como\nargumento.\n<\nO algoritmo utiliza push() e pop() como funções\nauxiliares de empilhamento e desempilhamento de\nponteiros para nós de árvore binária, respectivamente.\nA seguir, está apresentado o algoritmo proposto, em\nque 8 representa o ponteiro nulo.\nProcedimento preordem (ptraiz : PtrNoArvBin)\n  Var ptr : PtrNoArvBin;\n  ptr := ptraiz;\n  Enquanto (ptr … 8) Faça\n     escreva (ptr8.chave);\n     Se (ptr8.dir … 8) Então\n        push(ptr8.dir);\n     Se (ptr8.esq … 8) Então\n        push(ptr8.esq);\n      ptr := pop();\n  Fim_Enquanto\nFim_Procedimento\nCom base nessas informações e supondo que a raiz de\numa árvore binária com n nós seja passada ao\nprocedimento preordem(), julgue os itens seguintes.\nI\nO algoritmo visita cada nó da árvore binária exatamente\numa vez ao longo do percurso.\nII\nO algoritmo só funcionará corretamente se o\nprocedimento pop() for projetado de forma a retornar 8\ncaso a pilha esteja vazia.\nIII Empilhar e desempilhar ponteiros para nós da árvore\nsão operações que podem ser implementadas com\ncusto constante. \nIV A complexidade do pior caso para o procedimento\npreordem() é O(n).\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e IV estão certos.\nC\nApenas os itens I, II e III estão certos.\nD\nApenas os itens II, III e IV estão certos.\n\nE\nTodos os itens estão certos",
+  "texto_completo": "E\n{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}\nQUESTÃO 14\nUm programador propôs um algoritmo não-recursivo\npara o percurso em preordem de uma árvore binária com\nas seguintes características.\n<\nCada nó da árvore binária é representado por um\nregistro com três campos: chave, que armazena seu\nidentificador; esq e dir, ponteiros para os filhos\nesquerdo e direito, respectivamente.\n<\nO algoritmo deve ser invocado inicialmente tomando o\nponteiro para o nó raiz da árvore binária como\nargumento.\n<\nO algoritmo utiliza push() e pop() como funções\nauxiliares de empilhamento e desempilhamento de\nponteiros para nós de árvore binária, respectivamente.\nA seguir, está apresentado o algoritmo proposto, em\nque 8 representa o ponteiro nulo.\nProcedimento preordem (ptraiz : PtrNoArvBin)\n  Var ptr : PtrNoArvBin;\n  ptr := ptraiz;\n  Enquanto (ptr … 8) Faça\n     escreva (ptr8.chave);\n     Se (ptr8.dir … 8) Então\n        push(ptr8.dir);\n     Se (ptr8.esq … 8) Então\n        push(ptr8.esq);\n      ptr := pop();\n  Fim_Enquanto\nFim_Procedimento\nCom base nessas informações e supondo que a raiz de\numa árvore binária com n nós seja passada ao\nprocedimento preordem(), julgue os itens seguintes.\nI\nO algoritmo visita cada nó da árvore binária exatamente\numa vez ao longo do percurso.\nII\nO algoritmo só funcionará corretamente se o\nprocedimento pop() for projetado de forma a retornar 8\ncaso a pilha esteja vazia.\nIII Empilhar e desempilhar ponteiros para nós da árvore\nsão operações que podem ser implementadas com\ncusto constante. \nIV A complexidade do pior caso para o procedimento\npreordem() é O(n).\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e IV estão certos.\nC\nApenas os itens I, II e III estão certos.\nD\nApenas os itens II, III e IV estão certos.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:08.229218"
+  "criado_em": "2026-08-25T14:34:41.738728"
 }

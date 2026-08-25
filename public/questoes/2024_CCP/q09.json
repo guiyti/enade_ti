@@ -3,8 +3,7 @@
   "numero": 9,
   "tipo": "OBJETIVA",
   "paginas": [
-    6,
-    7
+    6
   ],
   "segmentos": [
     {
@@ -14,23 +13,15 @@
       "x1": 611.7199999999999,
       "y1": 441.8785095214844,
       "coluna": 0
-    },
-    {
-      "pagina": 7,
-      "x0": 25.0,
-      "y0": 55.0,
-      "x1": 611.7199999999999,
-      "y1": 86.02613830566406,
-      "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.png",
+  "caminho_png": "/questoes/2024_CCP/q09.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q09.txt",
   "largura": 2475,
-  "altura": 795,
+  "altura": 651,
   "confianca": 0.98,
-  "texto_completo": "g\np\np\np\nç\np\nQUESTÃO 09\t\nCom base no projeto desenvolvido, a alternativa que, sob uma perspectiva crítica, apresenta a relação coerente entre o \nprocedimento metodológico e a avaliação da aprendizagem sobre o consumo responsável de alimentos é um(a)\nA\t roda de conversa que aborde ações relacionadas ao valor nutricional dos alimentos, seguida pela aplicação de uma prova \nobjetiva sobre os conceitos necessários para a realização dessas ações.\nB\t exposição de banners informativos que apresentem os tipos de alimentos utilizados nas composteiras, seguida por um mapa \nmental sobre o reaproveitamento da alimentação escolar.\nC\t debate que aborde a insegurança alimentar com base nas reflexões provocadas ao longo do projeto, seguido pela produção \nde um artigo de opinião a ser publicado no jornal da escola.\nD questionário acerca dos tipos de alimentos consumidos pela comunidade escolar seguido pela montagem de uma composteira\n\n2025\n*R040420257*",
+  "texto_completo": "g\np\np\np\nç\np\nQUESTÃO 09\t\nCom base no projeto desenvolvido, a alternativa que, sob uma perspectiva crítica, apresenta a relação coerente entre o \nprocedimento metodológico e a avaliação da aprendizagem sobre o consumo responsável de alimentos é um(a)\nA\t roda de conversa que aborde ações relacionadas ao valor nutricional dos alimentos, seguida pela aplicação de uma prova \nobjetiva sobre os conceitos necessários para a realização dessas ações.\nB\t exposição de banners informativos que apresentem os tipos de alimentos utilizados nas composteiras, seguida por um mapa \nmental sobre o reaproveitamento da alimentação escolar.\nC\t debate que aborde a insegurança alimentar com base nas reflexões provocadas ao longo do projeto, seguido pela produção \nde um artigo de opinião a ser publicado no jornal da escola.\nD questionário acerca dos tipos de alimentos consumidos pela comunidade escolar seguido pela montagem de uma composteira",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -53,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:13:48.490750"
+  "criado_em": "2026-08-25T14:38:37.516042"
 }

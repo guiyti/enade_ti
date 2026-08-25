@@ -1,5 +1,3 @@
-Ã
-8
 E Validação e elicitação.
 QUESTÃO 18
 No processo de desenvolvimento de um sistema de
@@ -44,7 +42,6 @@ C Apenas os itens I e III estão certos.
 D Apenas os itens II e III estão certos.
 E Todos os itens estão certos.
 
-Julgue os itens seguintes.
 I
 (x P(x)) v (x ¬P(x)) é uma sentença válida porque existe
 uma interpretação que a torna verdadeira.

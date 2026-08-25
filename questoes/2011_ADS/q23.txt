@@ -1,5 +1,3 @@
-EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES
-1
 QUESTÃO 23  
 Considere o diagrama de entidades e relacionamentos 
 a seguir, onde as chaves primárias de cada entidade se 
@@ -44,4 +42,4 @@ A   3.
 B   5.
 C   7.
 D   8.
-E   9.
+E 9

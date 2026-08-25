@@ -17,17 +17,17 @@
     {
       "pagina": 17,
       "x0": 317.15999999999997,
-      "y0": 55.0,
+      "y0": 75.0,
       "x1": 603.3199999999999,
       "y1": 100.5428466796875,
       "coluna": 2
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q16.png",
+  "caminho_png": "/questoes/2014_ADS/q16.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q16.txt",
   "largura": 1223,
-  "altura": 2492,
+  "altura": 2409,
   "confianca": 0.98,
   "texto_completo": "QUESTÃO 16\nhŵĂ \nĨƵŶĕĆŽ \nĠ \nĚĞŶŽŵŝŶĂĚĂ \nƌĞĐƵƌƐŝǀĂ \nƋƵĂŶĚŽ \nĞůĂ  Ġ  ĐŚĂŵĂĚĂ  ŶŽǀĂŵĞŶƚĞ  ĚĞŶƚƌŽ  ĚĞ  ƐĞƵ  ĐŽƌƉŽ͘  \n/ŵƉůĞŵĞŶƚĂĕƁĞƐ  ƌĞĐƵƌƐŝǀĂƐ  ƚĞŶĚĞŵ  Ă  ƐĞƌ  ŵĞŶŽƐ \nĞĮĐŝĞŶƚĞƐ͕   ƉŽƌĠŵ  ĨĂĐŝůŝƚĂŵ  Ă  ĐŽĚŝĮĐĂĕĆŽ  Ğ  ƐĞƵ \nĞŶƚĞŶĚŝŵĞŶƚŽ͘\nIE>E^͕  t͖͘  IEZYhE/Z ͕  Z͖͘  Z E'E>͕  :͘  >͘  Introdução a estruturas de \ndados͘  ZŝŽ ĚĞ :ĂŶĞŝƌŽ͕  2004 ;ĂĚĂƉƚĂĚŽͿ͘\nIŽŶƐŝĚĞƌĞ Ă ĨƵŶĕĆŽ ƌĞĐƵƌƐŝǀĂ f()͕  Ă ƋƵĂů ĨŽŝ ĞƐĐƌŝƚĂ \nĞŵ ůŝŶŐƵĂŐĞŵ I͗\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\n^ƵƉŽŶŚĂ  ƋƵĞ  Ă  ĨƵŶĕĆŽ  f()  Ġ  ĂĐŝŽŶĂĚĂ  ĐŽŵ  ŽƐ \nƐĞŐƵŝŶƚĞƐ ƉĂƌąŵĞƚƌŽƐ ĚĞ ĞŶƚƌĂĚĂ͗\nf({2,-4,7,0,-1,4},6);\nEĞƐƐĞ ĐĂƐŽ͕  Ž ǀĂůŽƌ ĚĞ ƌĞƚŽƌŶŽ ĚĂ ĨƵŶĕĆŽ f() ƐĞƌĄ\nA 8͘\nB 10.\nC 13͘\nD 15.\nE 18͘",
   "texto_enunciado": "",
@@ -52,5 +52,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:47.903405"
+  "criado_em": "2026-08-25T14:35:41.029692"
 }

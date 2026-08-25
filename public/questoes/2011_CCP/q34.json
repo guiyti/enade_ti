@@ -9,19 +9,19 @@
     {
       "pagina": 23,
       "x0": 25.0,
-      "y0": 56.173927307128906,
+      "y0": 75.0,
       "x1": 555.56,
       "y1": 273.4037170410156,
       "coluna": 0
     }
   ],
-  "caminho_png": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.png",
+  "caminho_png": "/questoes/2011_CCP/q34.png",
   "caminho_json": "",
   "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.txt",
   "largura": 2241,
-  "altura": 935,
+  "altura": 857,
   "confianca": 0.98,
-  "texto_completo": "EXAME NACIONAL DE DESEMPENHO DOS ESTUDANTES\nQUESTÃO 34  \nNa escola em que João é professor, existe um laboratório de informática, que é utilizado para os estudantes trabalharem \nconteúdos em diferentes disciplinas. Considere que João quer utilizar o laboratório para favorecer o processo ensino-\naprendizagem, fazendo uso da abordagem da Pedagogia de Projetos. Nesse caso, seu planejamento deve \nA   ter como eixo temático uma problemática significativa para os estudantes, considerando as possibilidades \ntecnológicas existentes no laboratório.\nB   relacionar os conteúdos previamente instituídos no início do período letivo e os que estão no banco de dados \ndisponível nos computadores do laboratório de informática.\nC   definir os conteúdos a serem trabalhados, utilizando a relação dos temas instituídos no Projeto Pedagógico da \nescola e o banco de dados disponível nos computadores do laboratório.\nD   listar os conteúdos que deverão ser ministrados durante o semestre, considerando a sequência apresentada no \nlivro didático e os programas disponíveis nos computadores do laboratório.\nE   propor o estudo dos projetos que foram desenvolvidos pelo governo quanto ao uso de laboratórios de informática, \nrelacionando o que consta no livro didático com as tecnologias existentes no laboratório.",
+  "texto_completo": "QUESTÃO 34  \nNa escola em que João é professor, existe um laboratório de informática, que é utilizado para os estudantes trabalharem \nconteúdos em diferentes disciplinas. Considere que João quer utilizar o laboratório para favorecer o processo ensino-\naprendizagem, fazendo uso da abordagem da Pedagogia de Projetos. Nesse caso, seu planejamento deve \nA   ter como eixo temático uma problemática significativa para os estudantes, considerando as possibilidades \ntecnológicas existentes no laboratório.\nB   relacionar os conteúdos previamente instituídos no início do período letivo e os que estão no banco de dados \ndisponível nos computadores do laboratório de informática.\nC   definir os conteúdos a serem trabalhados, utilizando a relação dos temas instituídos no Projeto Pedagógico da \nescola e o banco de dados disponível nos computadores do laboratório.\nD   listar os conteúdos que deverão ser ministrados durante o semestre, considerando a sequência apresentada no \nlivro didático e os programas disponíveis nos computadores do laboratório.\nE   propor o estudo dos projetos que foram desenvolvidos pelo governo quanto ao uso de laboratórios de informática, \nrelacionando o que consta no livro didático com as tecnologias existentes no laboratório.",
   "texto_enunciado": "",
   "alternativas": {},
   "figuras": [],
@@ -44,5 +44,5 @@
   ],
   "anomalias": [],
   "score": 0.0,
-  "criado_em": "2026-08-25T14:11:35.218662"
+  "criado_em": "2026-08-25T14:35:20.232279"
 }

@@ -1,4 +1,3 @@
-3
 p
 p
 ç
@@ -25,4 +24,6 @@ A   Fila - Pilha - Fila.
 B   Fila - Fila - Pilha.
 C   Fila - Pilha - Pilha.
 D   Pilha - Fila - Pilha.
-E   Pilha - Pilha - Pilha.
+E Pilha
+Pilha
+Pilha

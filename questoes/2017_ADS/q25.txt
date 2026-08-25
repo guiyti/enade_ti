@@ -1,5 +1,3 @@
-28
-TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 QUESTÃO 25 
 K ĨƌĂŐŵĞŶƚŽ ĚĞ ĐſĚŝŐŽ Iнн͕  Ă ƐĞŐƵŝƌ͕ ĐŽŶƚĠŵ Ă ŝŵƉůĞŵĞŶƚĂĕĆŽ ĚĂ ŝŶƐĞƌĕĆŽ ĚĞ Ƶŵ Ŷſ Ğŵ ƵŵĂ ĄƌǀŽƌĞ ďŝŶĄƌŝĂ͘
 ...
@@ -60,5 +58,3 @@ E void preorder(noArvore *raiz) {
       preorder(raiz->esquerda); 
    } 
 }
-
-*R41201729*
