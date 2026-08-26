@@ -1,6 +1,14 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
+import {
+  isSupabaseConfigured,
+  fetchRemoteAuditFlags,
+  upsertRemoteAuditFlag,
+  deleteRemoteAuditFlag,
+  deleteAllRemoteAuditFlags,
+  AuditFlagRecord,
+} from "./supabase";
 
 export const AUDIT_STORAGE_KEY = "enade_audit_flags_v1";
 const AUDIT_EVENT_NAME = "enade_audit_flags_updated";
@@ -72,12 +80,24 @@ export function saveAuditFlag(flag: QuestionAuditFlag): void {
   try {
     const all = getAuditFlags();
     const key = `${flag.id_prova}:${flag.id_questao}`;
-    all[key] = {
+    const updatedFlag: QuestionAuditFlag = {
       ...flag,
       updatedAt: new Date().toISOString(),
     };
+    all[key] = updatedFlag;
     localStorage.setItem(AUDIT_STORAGE_KEY, JSON.stringify(all));
     window.dispatchEvent(new Event(AUDIT_EVENT_NAME));
+
+    // Sincronização assíncrona em background com o Supabase
+    if (isSupabaseConfigured()) {
+      upsertRemoteAuditFlag({
+        id_prova: updatedFlag.id_prova,
+        id_questao: updatedFlag.id_questao,
+        reasons: updatedFlag.reasons,
+        note: updatedFlag.note,
+        reported_from: updatedFlag.reportedFrom,
+      }).catch((err) => console.warn("Erro ao persistir no Supabase:", err));
+    }
   } catch (e) {
     console.error("Erro ao salvar flag de auditoria:", e);
   }
@@ -92,6 +112,13 @@ export function removeAuditFlag(id_prova: string, id_questao: string): void {
       delete all[key];
       localStorage.setItem(AUDIT_STORAGE_KEY, JSON.stringify(all));
       window.dispatchEvent(new Event(AUDIT_EVENT_NAME));
+
+      // Remoção assíncrona no Supabase
+      if (isSupabaseConfigured()) {
+        deleteRemoteAuditFlag(id_prova, id_questao).catch((err) =>
+          console.warn("Erro ao deletar no Supabase:", err)
+        );
+      }
     }
   } catch (e) {
     console.error("Erro ao remover flag de auditoria:", e);
@@ -103,8 +130,57 @@ export function clearAllAuditFlags(): void {
   try {
     localStorage.removeItem(AUDIT_STORAGE_KEY);
     window.dispatchEvent(new Event(AUDIT_EVENT_NAME));
+
+    // Limpeza em massa no Supabase
+    if (isSupabaseConfigured()) {
+      deleteAllRemoteAuditFlags().catch((err) =>
+        console.warn("Erro ao limpar tudo no Supabase:", err)
+      );
+    }
   } catch (e) {
     console.error("Erro ao limpar flags de auditoria:", e);
+  }
+}
+
+// Sincronização inicial com o Supabase
+let hasSyncedWithSupabase = false;
+
+export async function syncAuditFlagsFromSupabase(): Promise<void> {
+  if (typeof window === "undefined" || !isSupabaseConfigured()) return;
+  try {
+    const remoteRecords: AuditFlagRecord[] = await fetchRemoteAuditFlags();
+    if (!remoteRecords || remoteRecords.length === 0) return;
+
+    const localMap = getAuditFlags();
+    let hasChanges = false;
+
+    for (const record of remoteRecords) {
+      const key = `${record.id_prova}:${record.id_questao}`;
+      const existing = localMap[key];
+
+      const remoteCreatedAt = record.created_at || new Date().toISOString();
+      const remoteUpdatedAt = record.updated_at || remoteCreatedAt;
+
+      if (!existing) {
+        localMap[key] = {
+          id_prova: record.id_prova,
+          id_questao: record.id_questao,
+          reasons: record.reasons || [],
+          note: record.note || undefined,
+          createdAt: remoteCreatedAt,
+          updatedAt: remoteUpdatedAt,
+          reportedFrom: record.reported_from || "docente",
+        };
+        hasChanges = true;
+      }
+    }
+
+    if (hasChanges) {
+      localStorage.setItem(AUDIT_STORAGE_KEY, JSON.stringify(localMap));
+      window.dispatchEvent(new Event(AUDIT_EVENT_NAME));
+    }
+  } catch (err) {
+    console.warn("Falha ao sincronizar com Supabase:", err);
   }
 }
 
@@ -121,6 +197,11 @@ export function useAuditFlag(id_prova: string, id_questao: string) {
 
   useEffect(() => {
     sync();
+    if (!hasSyncedWithSupabase) {
+      hasSyncedWithSupabase = true;
+      syncAuditFlagsFromSupabase().then(() => sync());
+    }
+
     window.addEventListener(AUDIT_EVENT_NAME, sync);
     window.addEventListener("storage", sync);
     return () => {
@@ -151,6 +232,7 @@ export function useAuditFlag(id_prova: string, id_questao: string) {
 export function useAllAuditFlags() {
   const [flags, setFlags] = useState<AuditFlagMap>({});
   const [isLoaded, setIsLoaded] = useState(false);
+  const [isSyncing, setIsSyncing] = useState(false);
 
   const sync = useCallback(() => {
     setFlags(getAuditFlags());
@@ -159,6 +241,15 @@ export function useAllAuditFlags() {
 
   useEffect(() => {
     sync();
+    if (!hasSyncedWithSupabase) {
+      hasSyncedWithSupabase = true;
+      setIsSyncing(true);
+      syncAuditFlagsFromSupabase().finally(() => {
+        setIsSyncing(false);
+        sync();
+      });
+    }
+
     window.addEventListener(AUDIT_EVENT_NAME, sync);
     window.addEventListener("storage", sync);
     return () => {
@@ -166,6 +257,13 @@ export function useAllAuditFlags() {
       window.removeEventListener("storage", sync);
     };
   }, [sync]);
+
+  const triggerSync = async () => {
+    setIsSyncing(true);
+    await syncAuditFlagsFromSupabase();
+    setIsSyncing(false);
+    sync();
+  };
 
   const remove = (id_prova: string, id_questao: string) => {
     removeAuditFlag(id_prova, id_questao);
@@ -179,5 +277,14 @@ export function useAllAuditFlags() {
     return new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime();
   });
 
-  return { flags, flagsList, count: flagsList.length, isLoaded, remove, clearAll };
+  return {
+    flags,
+    flagsList,
+    count: flagsList.length,
+    isLoaded,
+    isSyncing,
+    triggerSync,
+    remove,
+    clearAll,
+  };
 }

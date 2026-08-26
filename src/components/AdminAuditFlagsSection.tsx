@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useRef } from "react";
 import Link from "next/link";
 import { 
   Flag, 
@@ -14,20 +14,39 @@ import {
   AlertCircle,
   Presentation,
   ShieldCheck,
-  Check
+  Check,
+  RefreshCw,
+  Cloud,
+  Lock,
+  KeyRound,
+  X
 } from "lucide-react";
 import { 
   useAllAuditFlags, 
   AUDIT_REASON_OPTIONS,
   QuestionAuditFlag
 } from "@/lib/auditStore";
+import { useAuditorAuth } from "@/lib/authStore";
+import { isSupabaseConfigured } from "@/lib/supabase";
 import { AuditFlagModal } from "@/components/AuditFlagModal";
 
 export function AdminAuditFlagsSection() {
-  const { flagsList, count, remove, clearAll, isLoaded } = useAllAuditFlags();
+  const { flagsList, count, remove, clearAll, isLoaded, isSyncing, triggerSync } = useAllAuditFlags();
+  const { isAuditor, authorize: authorizeAuditor, revoke: revokeAuditor } = useAuditorAuth();
+
   const [filterReason, setFilterReason] = useState<string>("all");
   const [searchQuery, setSearchQuery] = useState<string>("");
   const [selectedExam, setSelectedExam] = useState<string>("all");
+
+  // Auditor Password Challenge State
+  const [pendingAction, setPendingAction] = useState<{
+    type: "remove" | "clearAll";
+    id_prova?: string;
+    id_questao?: string;
+  } | null>(null);
+  const [adminPasswordInput, setAdminPasswordInput] = useState("");
+  const [authError, setAuthError] = useState<string | null>(null);
+  const adminInputRef = useRef<HTMLInputElement>(null);
 
   // Distinct list of exams in the flagged list
   const examsList = useMemo(() => {
@@ -39,15 +58,12 @@ export function AdminAuditFlagsSection() {
   // Filtered flagged items
   const filteredFlags = useMemo(() => {
     return flagsList.filter((item) => {
-      // Reason filter
       if (filterReason !== "all" && !item.reasons.includes(filterReason)) {
         return false;
       }
-      // Exam filter
       if (selectedExam !== "all" && item.id_prova !== selectedExam) {
         return false;
       }
-      // Search query (prova, questao, note)
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase();
         const matchesProva = item.id_prova.toLowerCase().includes(q);
@@ -59,6 +75,46 @@ export function AdminAuditFlagsSection() {
       return true;
     });
   }, [flagsList, filterReason, selectedExam, searchQuery]);
+
+  // Execution wrapper requiring auditor authentication
+  const handleRequestRemove = (id_prova: string, id_questao: string) => {
+    if (isAuditor) {
+      remove(id_prova, id_questao);
+    } else {
+      setPendingAction({ type: "remove", id_prova, id_questao });
+      setAuthError(null);
+      setAdminPasswordInput("");
+    }
+  };
+
+  const handleRequestClearAll = () => {
+    if (isAuditor) {
+      if (window.confirm("Deseja realmente limpar todas as sinalizações avaliadas?")) {
+        clearAll();
+      }
+    } else {
+      setPendingAction({ type: "clearAll" });
+      setAuthError(null);
+      setAdminPasswordInput("");
+    }
+  };
+
+  const handleConfirmAuditorAuth = (e: React.FormEvent) => {
+    e.preventDefault();
+    const res = authorizeAuditor(adminPasswordInput);
+    if (res.success) {
+      if (pendingAction?.type === "remove" && pendingAction.id_prova && pendingAction.id_questao) {
+        remove(pendingAction.id_prova, pendingAction.id_questao);
+      } else if (pendingAction?.type === "clearAll") {
+        clearAll();
+      }
+      setPendingAction(null);
+      setAuthError(null);
+    } else {
+      setAuthError(res.message || "Senha de auditor incorreta.");
+      adminInputRef.current?.select();
+    }
+  };
 
   if (!isLoaded) {
     return null;
@@ -82,27 +138,35 @@ export function AdminAuditFlagsSection() {
               </span>
             </div>
             <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-              Questões reportadas por docentes ou auditores com anomalias de corte, texto ou conteúdo.
+              Questões reportadas por docentes com anomalias de corte, texto ou enunciado.
             </p>
           </div>
         </div>
 
-        {count > 0 && (
-          <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2">
+          {isSupabaseConfigured() && (
             <button
-              onClick={() => {
-                if (window.confirm("Deseja realmente limpar todas as sinalizações avaliadas?")) {
-                  clearAll();
-                }
-              }}
+              onClick={triggerSync}
+              disabled={isSyncing}
+              className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-sky-200 dark:border-sky-800 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-300 hover:bg-sky-100 dark:hover:bg-sky-900/60 text-xs font-semibold transition-colors disabled:opacity-50"
+              title="Sincronizar com banco de dados Supabase"
+            >
+              <RefreshCw className={`w-3.5 h-3.5 ${isSyncing ? "animate-spin" : ""}`} />
+              <span>{isSyncing ? "Sincronizando..." : "Sincronizar Nuvem"}</span>
+            </button>
+          )}
+
+          {count > 0 && (
+            <button
+              onClick={handleRequestClearAll}
               className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 text-xs font-semibold transition-colors"
-              title="Limpar todas as sinalizações"
+              title="Limpar todas as sinalizações (requer senha de auditor)"
             >
               <Trash2 className="w-3.5 h-3.5" />
               <span>Limpar Todas</span>
             </button>
-          </div>
-        )}
+          )}
+        </div>
       </div>
 
       {count === 0 ? (
@@ -116,7 +180,7 @@ export function AdminAuditFlagsSection() {
               Nenhuma questão com sinalização ativa
             </h3>
             <p className="text-xs text-slate-500 dark:text-slate-400 max-w-md mx-auto mt-1">
-              Todas as questões estão sem anomalias reportadas. Caso identifique cortes incorretos ou textos faltantes na Apresentação, clique em <strong>Sinalizar</strong> para listar aqui.
+              Todas as questões estão sem anomalias reportadas. Caso identifique cortes incorretos na Apresentação, clique em <strong>Sinalizar</strong> para listar aqui.
             </p>
           </div>
         </div>
@@ -170,7 +234,7 @@ export function AdminAuditFlagsSection() {
             </div>
           </div>
 
-          {/* Flags Table / Cards */}
+          {/* Flags Table */}
           <div className="border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden">
             <div className="overflow-x-auto">
               <table className="w-full text-left text-sm">
@@ -213,7 +277,7 @@ export function AdminAuditFlagsSection() {
                           </div>
                         </td>
 
-                        {/* Tipos de Sinalização / Badges */}
+                        {/* Badges */}
                         <td className="px-5 py-4">
                           <div className="flex flex-wrap gap-1.5 max-w-sm">
                             {item.reasons.map((r, idx) => {
@@ -233,7 +297,7 @@ export function AdminAuditFlagsSection() {
                           </div>
                         </td>
 
-                        {/* Observação / Detalhes */}
+                        {/* Observação */}
                         <td className="px-5 py-4 text-xs text-slate-600 dark:text-slate-300 max-w-xs">
                           {item.note ? (
                             <p className="italic bg-slate-50 dark:bg-slate-950/60 p-2 rounded-lg border border-slate-100 dark:border-slate-800 line-clamp-2">
@@ -283,11 +347,11 @@ export function AdminAuditFlagsSection() {
                               reportedFrom="admin"
                             />
 
-                            {/* Resolver / Descartar */}
+                            {/* Resolver / Descartar (Protegido por senha de Auditor) */}
                             <button
-                              onClick={() => remove(item.id_prova, item.id_questao)}
+                              onClick={() => handleRequestRemove(item.id_prova, item.id_questao)}
                               className="p-1.5 rounded-lg text-slate-400 hover:text-emerald-600 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 transition-colors"
-                              title="Marcar como avaliado / remover sinalização"
+                              title="Marcar como avaliado / remover sinalização (requer senha de auditor)"
                             >
                               <Check className="w-4 h-4" />
                             </button>
@@ -305,6 +369,75 @@ export function AdminAuditFlagsSection() {
                 Nenhuma questão encontrada com os filtros selecionados.
               </div>
             )}
+          </div>
+        </div>
+      )}
+
+      {/* Auditor Password Challenge Modal */}
+      {pendingAction && (
+        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
+          <div className="bg-slate-900 border border-slate-800 text-white rounded-2xl max-w-sm w-full p-6 shadow-2xl space-y-4 animate-in fade-in duration-150">
+            <div className="flex items-center justify-between pb-2 border-b border-slate-800">
+              <div className="flex items-center gap-2 text-indigo-400">
+                <ShieldCheck className="w-5 h-5" />
+                <h3 className="font-bold text-sm text-white">Autenticação do Auditor</h3>
+              </div>
+              <button
+                onClick={() => setPendingAction(null)}
+                className="p-1 text-slate-400 hover:text-white rounded-lg"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+
+            <p className="text-xs text-slate-400">
+              {pendingAction.type === "clearAll"
+                ? "Digite a senha de auditor para limpar todas as sinalizações do banco."
+                : `Digite a senha de auditor para resolver a sinalização da questão ${pendingAction.id_questao}.`}
+            </p>
+
+            <form onSubmit={handleConfirmAuditorAuth} className="space-y-3">
+              <div className="relative">
+                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-500">
+                  <KeyRound className="w-3.5 h-3.5" />
+                </div>
+                <input
+                  ref={adminInputRef}
+                  type="password"
+                  autoFocus
+                  value={adminPasswordInput}
+                  onChange={(e) => {
+                    setAdminPasswordInput(e.target.value);
+                    if (authError) setAuthError(null);
+                  }}
+                  placeholder="Senha de auditor..."
+                  className="w-full bg-slate-950 border border-slate-800 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder:text-slate-600 focus:outline-none focus:border-indigo-500"
+                />
+              </div>
+
+              {authError && (
+                <div className="flex items-center gap-1.5 text-xs text-rose-400 font-semibold">
+                  <AlertCircle className="w-3.5 h-3.5 shrink-0" />
+                  <span>{authError}</span>
+                </div>
+              )}
+
+              <div className="flex items-center justify-end gap-2 pt-2">
+                <button
+                  type="button"
+                  onClick={() => setPendingAction(null)}
+                  className="px-3 py-1.5 rounded-lg text-xs font-semibold text-slate-400 hover:text-white"
+                >
+                  Cancelar
+                </button>
+                <button
+                  type="submit"
+                  className="px-4 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold shadow-md shadow-indigo-600/20"
+                >
+                  Confirmar Limpeza
+                </button>
+              </div>
+            </form>
           </div>
         </div>
       )}

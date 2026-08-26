@@ -16,6 +16,7 @@ import {
 
 import { AdminFullPageModal } from "@/components/AdminFullPageModal";
 import { AuditFlagModal } from "@/components/AuditFlagModal";
+import { AdminBackButton } from "@/components/AdminBackButton";
 
 export const dynamic = "force-static";
 
@@ -47,13 +48,10 @@ export default async function AdminExamDetailPage({ params }: PageProps) {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-8">
       {/* Top Breadcrumb & Actions */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        <Link
-          href="/admin"
-          className="inline-flex items-center gap-2 text-xs font-semibold text-slate-500 hover:text-slate-900 dark:hover:text-white transition-colors"
-        >
-          <ArrowLeft className="w-4 h-4" />
-          Voltar ao Painel de Auditoria
-        </Link>
+        <AdminBackButton
+          fallbackUrl="/admin"
+          label="Voltar ao Painel de Auditoria"
+        />
 
         <div className="flex items-center gap-3">
           <AdminFullPageModal

@@ -6,6 +6,10 @@ import { Footer } from "@/components/Footer";
 export const metadata: Metadata = {
   title: "ENADE Hub - Banco de Questões e Auditoria",
   description: "Plataforma de visualização, apresentação em sala de aula e auditoria de questões de provas oficiais do ENADE.",
+  icons: {
+    icon: "/images/enade/logo_circular.png",
+    apple: "/images/enade/logo_circular.png",
+  },
 };
 
 export default function RootLayout({
