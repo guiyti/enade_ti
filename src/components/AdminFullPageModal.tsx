@@ -13,6 +13,7 @@ import {
   Layers,
   FileSearch
 } from "lucide-react";
+import { ZoomableImage } from "@/components/ZoomableImage";
 
 interface AdminFullPageModalProps {
   id_prova: string;
@@ -191,32 +192,29 @@ export function AdminFullPageModal({
           <div className="flex-1 flex flex-col sm:flex-row gap-4 p-4 overflow-hidden items-center justify-center">
             {/* Left: Split view of question crop if enabled */}
             {showSplitView && questionPngUrl && (
-              <div className="flex-1 w-full sm:w-auto h-full bg-slate-900/60 p-4 rounded-2xl border border-slate-800 flex flex-col items-center justify-center overflow-auto">
-                <div className="text-xs font-bold text-sky-400 mb-2 uppercase tracking-wide">
+              <div className="flex-1 w-full sm:w-auto h-full bg-slate-900/60 p-4 rounded-2xl border border-slate-800 flex flex-col items-center justify-center overflow-hidden">
+                <div className="text-xs font-bold text-sky-400 mb-2 uppercase tracking-wide shrink-0">
                   Recorte Atual da Questão ({questionId})
                 </div>
-                <div className="flex-1 flex items-center justify-center overflow-auto w-full">
-                  <img
+                <div className="flex-1 flex items-center justify-center overflow-hidden w-full relative">
+                  <ZoomableImage
                     src={questionPngUrl}
                     alt={`Recorte da Questão ${questionId}`}
-                    className="max-h-[75vh] w-auto object-contain rounded-lg shadow-xl bg-white select-none"
+                    className="max-h-[75vh] w-auto object-contain rounded-lg shadow-xl bg-white"
                   />
                 </div>
               </div>
             )}
 
             {/* Right / Full Width: Page Image */}
-            <div className="flex-1 w-full sm:w-auto h-full bg-slate-950 p-4 rounded-2xl border border-slate-800 flex items-center justify-center overflow-auto">
-              <div
-                style={{ transform: `scale(${zoomLevel})`, transformOrigin: "center center" }}
-                className="transition-transform duration-200 ease-out max-w-4xl max-h-full flex justify-center"
-              >
-                <img
-                  src={`/questoes/${id_prova}/paginas/pagina_${currentPage}.png`}
-                  alt={`Folha Completa ${id_prova} - Página ${currentPage}`}
-                  className="max-h-[80vh] w-auto object-contain rounded-xl shadow-2xl bg-white select-none"
-                />
-              </div>
+            <div className="flex-1 w-full sm:w-auto h-full bg-slate-950 p-4 rounded-2xl border border-slate-800 flex items-center justify-center overflow-hidden relative">
+              <ZoomableImage
+                src={`/questoes/${id_prova}/paginas/pagina_${currentPage}.png`}
+                alt={`Folha Completa ${id_prova} - Página ${currentPage}`}
+                className="max-h-[80vh] w-auto object-contain rounded-xl shadow-2xl bg-white"
+                externalZoom={zoomLevel}
+                onZoomChange={(z) => setZoomLevel(z)}
+              />
             </div>
           </div>
         </div>

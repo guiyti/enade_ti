@@ -21,8 +21,10 @@ import {
   Search, 
   Layers, 
   GraduationCap, 
-  Maximize2
+  Maximize2,
+  X
 } from "lucide-react";
+import { ZoomableImage } from "@/components/ZoomableImage";
 
 export function CapacitacaoTabs() {
   const [activeTab, setActiveTab] = useState<
@@ -653,11 +655,24 @@ export function CapacitacaoTabs() {
       {/* Modal Zoom Image */}
       {zoomImage && (
         <div
-          onClick={() => setZoomImage(null)}
-          className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex items-center justify-center p-4 cursor-zoom-out animate-in fade-in duration-150"
+          className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex flex-col justify-between p-4 sm:p-6 overflow-hidden animate-in fade-in duration-150"
         >
-          <div className="relative max-w-4xl max-h-[90vh] overflow-auto rounded-2xl">
-            <img src={zoomImage} alt="Infográfico Ampliado" className="w-full h-auto rounded-xl" />
+          <div className="flex justify-end p-2 z-20">
+            <button
+              onClick={() => setZoomImage(null)}
+              className="p-2 rounded-xl bg-red-500/20 text-red-400 hover:bg-red-500/30 transition-colors"
+              title="Fechar (ESC)"
+            >
+              <X className="w-6 h-6" />
+            </button>
+          </div>
+          <div className="flex-1 flex items-center justify-center relative overflow-hidden">
+            <ZoomableImage
+              src={zoomImage}
+              alt="Infográfico Ampliado"
+              className="max-h-[85vh] w-auto object-contain rounded-xl shadow-2xl"
+              showControls={true}
+            />
           </div>
         </div>
       )}
