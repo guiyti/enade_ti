@@ -4,6 +4,7 @@ import Link from "next/link";
 import { Play } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { savePresentationContext } from "@/lib/presentationContext";
+import { isFormacaoGeralQuestion } from "@/lib/constants";
 
 interface ThemeGalleryClientProps {
   items: { exam: ExamData; question: QuestionData }[];
@@ -30,6 +31,7 @@ export function ThemeGalleryClient({ items }: ThemeGalleryClientProps) {
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {items.map(({ exam, question }, idx) => {
           const isDisc = question.tipo === "DISCURSIVA";
+          const isFG = isFormacaoGeralQuestion(question);
 
           return (
             <div
@@ -47,15 +49,26 @@ export function ThemeGalleryClient({ items }: ThemeGalleryClientProps) {
                   </span>
                 </div>
 
-                <span
-                  className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
-                    isDisc
-                      ? "bg-sky-100 text-sky-700 dark:bg-sky-950 dark:text-sky-300"
-                      : "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
-                  }`}
-                >
-                  {question.tipo}
-                </span>
+                <div className="flex items-center gap-1.5">
+                  <span
+                    className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+                      isFG
+                        ? "bg-teal-100 text-teal-800 dark:bg-teal-950 dark:text-teal-300"
+                        : "bg-indigo-100 text-indigo-800 dark:bg-indigo-950 dark:text-indigo-300"
+                    }`}
+                  >
+                    {isFG ? "🌍 Geral" : "🎯 Específica"}
+                  </span>
+                  <span
+                    className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+                      isDisc
+                        ? "bg-purple-100 text-purple-700 dark:bg-purple-950 dark:text-purple-300"
+                        : "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+                    }`}
+                  >
+                    {question.tipo}
+                  </span>
+                </div>
               </div>
 
               {/* Question Visual Image Thumbnail */}

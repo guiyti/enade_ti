@@ -74,23 +74,15 @@ export function ZoomableImage({
     setPosition({ x: 0, y: 0 });
   };
 
-  // Mouse Wheel Zoom
-  const handleWheel = (e: React.WheelEvent<HTMLDivElement>) => {
-    // Only prevent default / handle zoom if Ctrl is pressed or if zoomed in / zooming with wheel
-    e.preventDefault();
-    const delta = e.deltaY < 0 ? zoomStep : -zoomStep;
-    updateScale(scale + delta);
-  };
-
-  // Mouse Drag Handlers
+  // Mouse Drag Handlers (only active when zoomed in)
   const handleMouseDown = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (e.button !== 0) return; // Only left click
+    if (scale <= 1 || e.button !== 0) return; // Only drag when zoomed in
     setIsDragging(true);
     setDragStart({ x: e.clientX - position.x, y: e.clientY - position.y });
   };
 
   const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
-    if (!isDragging) return;
+    if (!isDragging || scale <= 1) return;
     setPosition({
       x: e.clientX - dragStart.x,
       y: e.clientY - dragStart.y,
@@ -110,11 +102,11 @@ export function ZoomableImage({
 
   const handleTouchStart = (e: React.TouchEvent<HTMLDivElement>) => {
     if (e.touches.length === 2) {
-      // Pinch start
+      // 2 fingers: pinch start
       initialPinchDistanceRef.current = getTouchDistance(e.touches);
       initialPinchScaleRef.current = scale;
-    } else if (e.touches.length === 1) {
-      // Single touch drag
+    } else if (e.touches.length === 1 && scale > 1) {
+      // 1 finger: pan when zoomed in
       lastTouchPosRef.current = {
         x: e.touches[0].clientX,
         y: e.touches[0].clientY,
@@ -124,13 +116,13 @@ export function ZoomableImage({
 
   const handleTouchMove = (e: React.TouchEvent<HTMLDivElement>) => {
     if (e.touches.length === 2 && initialPinchDistanceRef.current !== null) {
-      // Pinching
+      // Pinching with 2 fingers
       const currentDistance = getTouchDistance(e.touches);
       const factor = currentDistance / initialPinchDistanceRef.current;
       const newScale = initialPinchScaleRef.current * factor;
       updateScale(newScale);
     } else if (e.touches.length === 1 && lastTouchPosRef.current !== null && scale > 1) {
-      // Single finger pan when zoomed
+      // Pan when zoomed in
       const dx = e.touches[0].clientX - lastTouchPosRef.current.x;
       const dy = e.touches[0].clientY - lastTouchPosRef.current.y;
       setPosition((prev) => ({
@@ -156,8 +148,7 @@ export function ZoomableImage({
   return (
     <div
       ref={containerRef}
-      className={`relative overflow-auto flex items-center justify-center select-none w-full h-full ${containerClassName}`}
-      onWheel={handleWheel}
+      className={`relative overflow-hidden flex items-center justify-center select-none w-full h-full ${containerClassName}`}
       onMouseDown={handleMouseDown}
       onMouseMove={handleMouseMove}
       onMouseUp={handleMouseUp}
@@ -167,7 +158,7 @@ export function ZoomableImage({
       onTouchEnd={handleTouchEnd}
       style={{
         cursor: scale > 1 ? (isDragging ? "grabbing" : "grab") : "default",
-        touchAction: "none",
+        touchAction: scale > 1 ? "none" : "pan-y",
       }}
     >
       <div

@@ -55,102 +55,8 @@ export interface CategoryInfo {
   colorClass: string;
 }
 
-export const COURSE_DEFINITIONS: Record<
-  string,
-  { name: string; code: string; description: string; iconName: string; colorClass: string }
-> = {
-  CCP: {
-    name: "Ciência da Computação",
-    code: "CCP",
-    description: "Algoritmos, Teoria da Computação, Arquitetura, Sistemas Operacionais, Banco de Dados e IA.",
-    iconName: "Code2",
-    colorClass: "from-blue-600 to-indigo-700 text-blue-600 bg-blue-50 dark:bg-blue-950/40 border-blue-200 dark:border-blue-800",
-  },
-  ADS: {
-    name: "Análise e Desenvolvimento de Sistemas",
-    code: "ADS",
-    description: "Engenharia de Software, Programação Web, Banco de Dados, Requisitos e Metodologias Ágeis.",
-    iconName: "Boxes",
-    colorClass: "from-emerald-600 to-teal-700 text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-800",
-  },
-  GTI: {
-    name: "Gestão da Tecnologia da Informação",
-    code: "GTI",
-    description: "Governança de TI, ITIL, COBIT, Segurança da Informação, Redes, Gestão de Projetos e LGPD.",
-    iconName: "ShieldAlert",
-    colorClass: "from-purple-600 to-indigo-700 text-purple-600 bg-purple-50 dark:bg-purple-950/40 border-purple-200 dark:border-purple-800",
-  },
-};
-
-export const CATEGORY_DEFINITIONS: Record<
-  string,
-  { description: string; iconName: string; colorClass: string }
-> = {
-  "Banco de Dados": {
-    description: "Modelagem relacional, SQL, normalização (1FN, 2FN, 3FN), transações ACID e DER.",
-    iconName: "Database",
-    colorClass: "from-blue-500 to-cyan-600 text-blue-600 bg-blue-50 dark:bg-blue-950/40 border-blue-200 dark:border-blue-800",
-  },
-  "Algoritmos e Estruturas de Dados": {
-    description: "Árvores (AVL, B), grafos, filas, pilhas, ordenação, complexidade assintótica e recursão.",
-    iconName: "Binary",
-    colorClass: "from-amber-500 to-orange-600 text-amber-600 bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-800",
-  },
-  "Engenharia de Software": {
-    description: "Requisitos, Scrum, metodologias ágeis, UML, padrões de projeto (GoF) e testes.",
-    iconName: "Boxes",
-    colorClass: "from-indigo-500 to-purple-600 text-indigo-600 bg-indigo-50 dark:bg-indigo-950/40 border-indigo-200 dark:border-indigo-800",
-  },
-  "Programação e POO": {
-    description: "Classes, herança, polimorfismo, encapsulamento, exceções e concorrência/threads.",
-    iconName: "Code2",
-    colorClass: "from-emerald-500 to-teal-600 text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-800",
-  },
-  "Redes e Segurança": {
-    description: "Modelo OSI, TCP/IP, roteamento, criptografia, firewalls e segurança da informação.",
-    iconName: "Network",
-    colorClass: "from-sky-500 to-blue-600 text-sky-600 bg-sky-50 dark:bg-sky-950/40 border-sky-200 dark:border-sky-800",
-  },
-  "Sistemas Operacionais e Arquitetura": {
-    description: "Gerenciamento de memória, processos, deadlocks, CPU, cache e arquitetura de computadores.",
-    iconName: "Cpu",
-    colorClass: "from-rose-500 to-pink-600 text-rose-600 bg-rose-50 dark:bg-rose-950/40 border-rose-200 dark:border-rose-800",
-  },
-  "Governança e Gestão de TI": {
-    description: "ITIL, COBIT, LGPD, PMBOK, gestão de projetos, SLA e conformidade em TI.",
-    iconName: "ShieldAlert",
-    colorClass: "from-purple-500 to-indigo-600 text-purple-600 bg-purple-50 dark:bg-purple-950/40 border-purple-200 dark:border-purple-800",
-  },
-  "Teoria da Computação e Compiladores": {
-    description: "Autômatos finitos, gramáticas livres de contexto, compiladores e analisadores sintáticos.",
-    iconName: "Terminal",
-    colorClass: "from-violet-500 to-fuchsia-600 text-violet-600 bg-violet-50 dark:bg-violet-950/40 border-violet-200 dark:border-violet-800",
-  },
-  "Inteligência Artificial e Dados": {
-    description: "Aprendizado de máquina, redes neurais, mineração de dados, big data e heurísticas.",
-    iconName: "BrainCircuit",
-    colorClass: "from-cyan-500 to-teal-600 text-cyan-600 bg-cyan-50 dark:bg-cyan-950/40 border-cyan-200 dark:border-cyan-800",
-  },
-  "Formação Geral e Sociedade": {
-    description: "Ética, cidadania, sustentabilidade, direitos humanos, sociodiversidade e sociedade.",
-    iconName: "Globe",
-    colorClass: "from-teal-500 to-emerald-600 text-teal-600 bg-teal-50 dark:bg-teal-950/40 border-teal-200 dark:border-teal-800",
-  },
-  "Engenharia e Tecnologias": {
-    description: "Fundamentos tecnológicos, interoperabilidade, arquitetura e tópicos avançados.",
-    iconName: "Layers",
-    colorClass: "from-slate-500 to-zinc-600 text-slate-600 bg-slate-50 dark:bg-slate-900 border-slate-200 dark:border-slate-800",
-  },
-};
-
-export function slugifyCategory(name: string): string {
-  return name
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^\w\s-]/g, "")
-    .replace(/\s+/g, "-");
-}
+import { COURSE_DEFINITIONS, CATEGORY_DEFINITIONS, slugifyCategory } from "@/lib/constants";
+export { COURSE_DEFINITIONS, CATEGORY_DEFINITIONS, slugifyCategory };
 
 let cachedExams: ExamData[] | null = null;
 
@@ -368,3 +274,59 @@ export async function getGlobalStats() {
     porCurso,
   };
 }
+
+export interface QuestionFilter {
+  curso?: string;
+  temaSlug?: string;
+  tipo?: QuestionType;
+  isFg?: boolean;
+}
+
+export async function getQuestionsPool(filter: QuestionFilter = {}): Promise<{ exam: ExamData; question: QuestionData }[]> {
+  const exams = await getAllExams();
+  const pool: { exam: ExamData; question: QuestionData }[] = [];
+
+  const isFgRequest =
+    filter.isFg ||
+    (filter.curso && filter.curso.toUpperCase() === "FG") ||
+    filter.temaSlug === "formacao-geral" ||
+    filter.temaSlug === "formacao-geral-e-sociedade";
+
+  const targetCourse = filter.curso && filter.curso.toUpperCase() !== "FG" ? filter.curso.toUpperCase() : null;
+
+  for (const exam of exams) {
+    if (targetCourse && exam.curso.toUpperCase() !== targetCourse) {
+      continue;
+    }
+
+    for (const q of exam.questoes) {
+      if (filter.tipo && q.tipo !== filter.tipo) {
+        continue;
+      }
+
+      const tags = q.categorias || [];
+      const isFgQuestion = tags.includes("Formação Geral e Sociedade") || (q.numero >= 1 && q.numero <= 10 && exam.ano >= 2011);
+
+      if (isFgRequest) {
+        if (!isFgQuestion) continue;
+      } else if (filter.temaSlug) {
+        const matchesTheme = tags.some((t) => slugifyCategory(t) === filter.temaSlug);
+        if (!matchesTheme) continue;
+      }
+
+      pool.push({ exam, question: q });
+    }
+  }
+
+  return pool;
+}
+
+export async function getRandomQuestion(
+  filter: QuestionFilter = {}
+): Promise<{ exam: ExamData; question: QuestionData } | null> {
+  const pool = await getQuestionsPool(filter);
+  if (pool.length === 0) return null;
+  const randomIndex = Math.floor(Math.random() * pool.length);
+  return pool[randomIndex];
+}
+

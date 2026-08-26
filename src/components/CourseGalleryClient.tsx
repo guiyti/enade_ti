@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Play, Layers, Check } from "lucide-react";
 import type { ExamData, QuestionData, CategoryInfo } from "@/lib/enade";
 import { savePresentationContext } from "@/lib/presentationContext";
+import { isFormacaoGeralQuestion } from "@/lib/constants";
 
 interface CourseGalleryClientProps {
   courseDef: { name: string; code: string; description: string };
@@ -101,15 +102,26 @@ export function CourseGalleryClient({
                     </span>
                   </div>
 
-                  <span
-                    className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
-                      isDisc
-                        ? "bg-purple-100 text-purple-700 dark:bg-purple-950 dark:text-purple-300"
-                        : "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
-                    }`}
-                  >
-                    {question.tipo}
-                  </span>
+                  <div className="flex items-center gap-1.5">
+                    <span
+                      className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+                        isFormacaoGeralQuestion(question)
+                          ? "bg-teal-100 text-teal-800 dark:bg-teal-950 dark:text-teal-300"
+                          : "bg-indigo-100 text-indigo-800 dark:bg-indigo-950 dark:text-indigo-300"
+                      }`}
+                    >
+                      {isFormacaoGeralQuestion(question) ? "🌍 Geral" : "🎯 Específica"}
+                    </span>
+                    <span
+                      className={`text-[10px] font-bold px-2 py-0.5 rounded-full ${
+                        isDisc
+                          ? "bg-purple-100 text-purple-700 dark:bg-purple-950 dark:text-purple-300"
+                          : "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300"
+                      }`}
+                    >
+                      {question.tipo}
+                    </span>
+                  </div>
                 </div>
 
                 {/* PNG Crop High DPI Image */}

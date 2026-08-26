@@ -8,10 +8,11 @@ import {
   ShieldCheck, 
   Search,
   Menu,
-  X
+  X,
+  Sparkles
 } from "lucide-react";
 
-function MobileMenu({ isCapacitacao, isAdmin }: { isCapacitacao: boolean; isAdmin: boolean }) {
+function MobileMenu({ isCapacitacao, isAdmin, isSorteio }: { isCapacitacao: boolean; isAdmin: boolean; isSorteio: boolean }) {
   const [isOpen, setIsOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
 
@@ -41,7 +42,19 @@ function MobileMenu({ isCapacitacao, isAdmin }: { isCapacitacao: boolean; isAdmi
       </button>
 
       {isOpen && (
-        <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl shadow-lg transition-all duration-200 flex flex-col overflow-hidden z-50">
+        <div className="absolute right-0 mt-2 w-52 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl shadow-lg transition-all duration-200 flex flex-col overflow-hidden z-50">
+          <Link
+            href="/sorteio"
+            onClick={() => setIsOpen(false)}
+            className={`flex items-center gap-2 px-4 py-3 text-sm font-semibold transition-colors ${
+              isSorteio
+                ? "bg-sky-50 text-sky-700 dark:bg-sky-950/70 dark:text-sky-300"
+                : "text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
+            }`}
+          >
+            <Sparkles className="w-4 h-4 text-sky-500" />
+            Quizzes & Sorteio
+          </Link>
           <Link
             href="/capacitacao"
             onClick={() => setIsOpen(false)}
@@ -51,7 +64,7 @@ function MobileMenu({ isCapacitacao, isAdmin }: { isCapacitacao: boolean; isAdmi
                 : "text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
             }`}
           >
-            <BookOpen className="w-4 h-4" />
+            <BookOpen className="w-4 h-4 text-emerald-500" />
             Entenda o ENADE
           </Link>
           <Link
@@ -63,7 +76,7 @@ function MobileMenu({ isCapacitacao, isAdmin }: { isCapacitacao: boolean; isAdmi
                 : "text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
             }`}
           >
-            <ShieldCheck className="w-4 h-4" />
+            <ShieldCheck className="w-4 h-4 text-indigo-500" />
             Auditoria
           </Link>
         </div>
@@ -76,7 +89,8 @@ export function Navbar() {
   const pathname = usePathname();
   const isAdmin = pathname.startsWith("/admin");
   const isCapacitacao = pathname.startsWith("/capacitacao");
-  const isApresentacao = pathname.startsWith("/docente/apresentacao");
+  const isSorteio = pathname.startsWith("/sorteio") || pathname.startsWith("/pilulas") || pathname.startsWith("/quizzes");
+  const isApresentacao = pathname.startsWith("/docente/apresentacao") || pathname.startsWith("/aluno");
 
   if (isApresentacao) {
     return null;
@@ -105,6 +119,18 @@ export function Navbar() {
 
           {/* Navigation Links */}
           <nav className="hidden md:flex items-center gap-2 ml-4">
+            <Link
+              href="/sorteio"
+              className={`flex items-center gap-2 px-3.5 py-2 rounded-xl text-sm font-semibold transition-colors ${
+                isSorteio
+                  ? "bg-sky-50 text-sky-700 dark:bg-sky-950/70 dark:text-sky-300 shadow-sm font-bold"
+                  : "text-slate-600 hover:text-slate-900 hover:bg-slate-100 dark:text-slate-300 dark:hover:text-white dark:hover:bg-slate-800"
+              }`}
+            >
+              <Sparkles className="w-4 h-4 text-sky-600 dark:text-sky-400" />
+              Quizzes & Sorteio
+            </Link>
+
             <Link
               href="/capacitacao"
               className={`flex items-center gap-2 px-3.5 py-2 rounded-xl text-sm font-semibold transition-colors ${
@@ -145,9 +171,11 @@ export function Navbar() {
           <MobileMenu
             isCapacitacao={isCapacitacao}
             isAdmin={isAdmin}
+            isSorteio={isSorteio}
           />
         </div>
       </div>
     </header>
   );
 }
+

@@ -22,6 +22,7 @@ import { AuditFlagContent } from "@/components/AuditFlagContent";
 import { ZoomableImage } from "@/components/ZoomableImage";
 import { useAuditFlag } from "@/lib/auditStore";
 import { getPresentationContext, type PlaylistItem } from "@/lib/presentationContext";
+import { isFormacaoGeralQuestion } from "@/lib/constants";
 
 interface PresentationViewerProps {
   exam: ExamData;
@@ -174,6 +175,17 @@ export function PresentationViewer({
               </h1>
               <span className="text-[10px] font-bold px-2 py-0.5 rounded-full bg-sky-950 text-sky-300 border border-sky-800">
                 {question.tipo}
+              </span>
+              <span
+                className={`text-[10px] font-black uppercase tracking-wider px-2 py-0.5 rounded-full border ${
+                  isFormacaoGeralQuestion(question)
+                    ? "bg-teal-950 text-teal-300 border-teal-800"
+                    : "bg-blue-950 text-blue-300 border-blue-800"
+                }`}
+              >
+                {isFormacaoGeralQuestion(question)
+                  ? "🌍 Formação Geral"
+                  : `🎯 Específica (${exam.curso})`}
               </span>
             </div>
             <p className="text-[11px] text-slate-400">
