@@ -19,6 +19,7 @@ import {
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { TagEditor } from "@/components/TagEditor";
 import { AuditFlagContent } from "@/components/AuditFlagContent";
+import { ZoomableImage } from "@/components/ZoomableImage";
 import { useAuditFlag } from "@/lib/auditStore";
 import { getPresentationContext, type PlaylistItem } from "@/lib/presentationContext";
 
@@ -327,17 +328,14 @@ export function PresentationViewer({
       {/* Main Presentation Stage */}
       <div className="flex-1 flex overflow-hidden">
         {/* Visual Slide Image (Clean 300 DPI crop) */}
-        <div className="flex-1 flex items-center justify-center p-6 overflow-auto bg-slate-950">
-          <div
-            style={{ transform: `scale(${zoomLevel})`, transformOrigin: "top center" }}
-            className="transition-transform duration-200 ease-out max-w-4xl w-full flex justify-center"
-          >
-            <img
-              src={question.caminho_png}
-              alt={`Questão ${question.id_questao}`}
-              className="max-h-[85vh] w-auto object-contain rounded-lg shadow-2xl bg-white select-none"
-            />
-          </div>
+        <div className="flex-1 flex items-center justify-center p-6 overflow-hidden bg-slate-950 relative">
+          <ZoomableImage
+            src={question.caminho_png}
+            alt={`Questão ${question.id_questao}`}
+            className="max-h-[85vh] w-auto object-contain rounded-lg shadow-2xl bg-white"
+            externalZoom={zoomLevel}
+            onZoomChange={(z) => setZoomLevel(z)}
+          />
         </div>
 
         {/* Collapsible Side Panel (Tags, Transcribed Text, or Audit Flag) */}
@@ -469,17 +467,14 @@ export function PresentationViewer({
           </div>
 
           {/* Modal Page Viewer Image */}
-          <div className="flex-1 flex items-center justify-center p-4 overflow-auto">
-            <div
-              style={{ transform: `scale(${fullPageZoom})`, transformOrigin: "center center" }}
-              className="transition-transform duration-200 ease-out max-w-4xl max-h-full flex justify-center"
-            >
-              <img
-                src={`/questoes/${exam.id_prova}/paginas/pagina_${fullPageNum}.png`}
-                alt={`Página ${fullPageNum} do PDF original ${exam.id_prova}`}
-                className="max-h-[80vh] w-auto object-contain rounded-xl shadow-2xl bg-white select-none"
-              />
-            </div>
+          <div className="flex-1 flex items-center justify-center p-4 overflow-hidden relative">
+            <ZoomableImage
+              src={`/questoes/${exam.id_prova}/paginas/pagina_${fullPageNum}.png`}
+              alt={`Página ${fullPageNum} do PDF original ${exam.id_prova}`}
+              className="max-h-[80vh] w-auto object-contain rounded-xl shadow-2xl bg-white"
+              externalZoom={fullPageZoom}
+              onZoomChange={(z) => setFullPageZoom(z)}
+            />
           </div>
         </div>
       )}

@@ -20,6 +20,7 @@ import {
 import { AdminFullPageModal } from "@/components/AdminFullPageModal";
 import { AuditFlagModal } from "@/components/AuditFlagModal";
 import { AdminBackButton } from "@/components/AdminBackButton";
+import { ZoomableImage } from "@/components/ZoomableImage";
 
 export const dynamic = "force-static";
 
@@ -143,11 +144,12 @@ export default async function AdminQuestionDetailPage({ params }: PageProps) {
             </span>
           </div>
 
-          <div className="bg-slate-50 dark:bg-slate-950 p-4 rounded-xl border border-slate-100 dark:border-slate-900 flex items-center justify-center overflow-auto max-h-[750px]">
-            <img
+          <div className="bg-slate-50 dark:bg-slate-950 p-4 rounded-xl border border-slate-100 dark:border-slate-900 flex items-center justify-center overflow-hidden h-[600px] relative">
+            <ZoomableImage
               src={question.caminho_png}
               alt={`Questão ${question.id_questao}`}
-              className="max-w-full h-auto object-contain rounded shadow-sm"
+              className="max-h-full w-auto object-contain rounded shadow-sm"
+              showControls={true}
             />
           </div>
 
