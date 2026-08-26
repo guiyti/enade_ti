@@ -3,13 +3,13 @@
 import { useState, useEffect, useMemo } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { 
-  ZoomIn, 
-  ZoomOut, 
-  Maximize, 
-  Minimize, 
-  X, 
-  FileText, 
+import {
+  ZoomIn,
+  ZoomOut,
+  Maximize,
+  Minimize,
+  X,
+  FileText,
   ChevronLeft,
   ChevronRight,
   Tag,
@@ -45,7 +45,7 @@ export function PresentationViewer({
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showSidePanel, setShowSidePanel] = useState(false);
   const [activeTab, setActiveTab] = useState<"text" | "tags" | "flag">("tags");
-  
+
   // Presentation Context (Playlist & Return URL)
   const [playlist, setPlaylist] = useState<PlaylistItem[] | null>(null);
   const [returnUrl, setReturnUrl] = useState<string | null>(null);
@@ -138,11 +138,11 @@ export function PresentationViewer({
 
   const toggleFullscreen = () => {
     if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().catch(() => {});
+      document.documentElement.requestFullscreen().catch(() => { });
       setIsFullscreen(true);
     } else {
       if (document.exitFullscreen) {
-        document.exitFullscreen().catch(() => {});
+        document.exitFullscreen().catch(() => { });
       }
       setIsFullscreen(false);
     }
@@ -232,12 +232,11 @@ export function PresentationViewer({
                 setShowSidePanel(true);
               }
             }}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${
-              showSidePanel && activeTab === "tags" ? "bg-sky-600 text-white" : "text-slate-300 hover:bg-slate-700"
-            }`}
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${showSidePanel && activeTab === "tags" ? "bg-sky-600 text-white" : "text-slate-300 hover:bg-slate-700"
+              }`}
           >
             <Tag className="w-3.5 h-3.5" />
-            <span>Categorias / Disciplinas</span>
+            <span>Categorias</span>
           </button>
 
           <button
@@ -249,9 +248,8 @@ export function PresentationViewer({
                 setShowSidePanel(true);
               }
             }}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${
-              showSidePanel && activeTab === "text" ? "bg-sky-600 text-white" : "text-slate-300 hover:bg-slate-700"
-            }`}
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${showSidePanel && activeTab === "text" ? "bg-sky-600 text-white" : "text-slate-300 hover:bg-slate-700"
+              }`}
           >
             <FileText className="w-3.5 h-3.5" />
             <span>Texto</span>
@@ -269,13 +267,12 @@ export function PresentationViewer({
                 setShowSidePanel(true);
               }
             }}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${
-              showSidePanel && activeTab === "flag"
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${showSidePanel && activeTab === "flag"
                 ? "bg-amber-600 text-white font-bold"
                 : isFlagged
-                ? "bg-amber-500/20 text-amber-300 border border-amber-500/50 hover:bg-amber-500/30 font-bold"
-                : "text-slate-300 hover:bg-slate-700"
-            }`}
+                  ? "bg-amber-500/20 text-amber-300 border border-amber-500/50 hover:bg-amber-500/30 font-bold"
+                  : "text-slate-300 hover:bg-slate-700"
+              }`}
             title="Sinalizar anomalia nesta questão para a auditoria"
           >
             <Flag className={`w-3.5 h-3.5 ${isFlagged ? "fill-amber-400 text-amber-400" : ""}`} />
