@@ -1,12 +1,76 @@
 "use client";
 
+import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { 
   BookOpen, 
   ShieldCheck, 
-  Search
+  Search,
+  Menu,
+  X
 } from "lucide-react";
+
+function MobileMenu({ isCapacitacao, isAdmin }: { isCapacitacao: boolean; isAdmin: boolean }) {
+  const [isOpen, setIsOpen] = useState(false);
+  const menuRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
+        setIsOpen(false);
+      }
+    };
+
+    if (isOpen) {
+      document.addEventListener('mousedown', handleClickOutside);
+    }
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [isOpen]);
+
+  return (
+    <div className="md:hidden relative" ref={menuRef}>
+      <button
+        onClick={() => setIsOpen(!isOpen)}
+        className="p-2 rounded-xl border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 flex items-center justify-center"
+      >
+        {isOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+      </button>
+
+      {isOpen && (
+        <div className="absolute right-0 mt-2 w-48 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl shadow-lg transition-all duration-200 flex flex-col overflow-hidden z-50">
+          <Link
+            href="/capacitacao"
+            onClick={() => setIsOpen(false)}
+            className={`flex items-center gap-2 px-4 py-3 text-sm font-semibold transition-colors ${
+              isCapacitacao
+                ? "bg-emerald-50 text-emerald-700 dark:bg-emerald-950/70 dark:text-emerald-300"
+                : "text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
+            }`}
+          >
+            <BookOpen className="w-4 h-4" />
+            Entenda o ENADE
+          </Link>
+          <Link
+            href="/admin"
+            onClick={() => setIsOpen(false)}
+            className={`flex items-center gap-2 px-4 py-3 text-sm font-semibold transition-colors ${
+              isAdmin
+                ? "bg-indigo-50 text-indigo-700 dark:bg-indigo-950/70 dark:text-indigo-300"
+                : "text-slate-600 hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
+            }`}
+          >
+            <ShieldCheck className="w-4 h-4" />
+            Auditoria
+          </Link>
+        </div>
+      )}
+    </div>
+  );
+}
 
 export function Navbar() {
   const pathname = usePathname();
@@ -76,6 +140,12 @@ export function Navbar() {
             <Search className="w-4 h-4 text-slate-400" />
             <span className="hidden sm:inline">Buscar Questões</span>
           </Link>
+
+          {/* Mobile Menu Button */}
+          <MobileMenu
+            isCapacitacao={isCapacitacao}
+            isAdmin={isAdmin}
+          />
         </div>
       </div>
     </header>

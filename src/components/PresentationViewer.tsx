@@ -155,9 +155,9 @@ export function PresentationViewer({
   return (
     <div className={`min-h-screen bg-slate-950 text-white flex flex-col ${isFullscreen ? "fixed inset-0 z-50" : ""}`}>
       {/* Control Topbar */}
-      <div className="sticky top-0 z-40 h-16 px-6 border-b border-slate-800/80 bg-slate-900/90 backdrop-blur flex items-center justify-between gap-4 select-none">
+      <div className="sticky top-0 z-40 px-4 sm:px-6 py-2 sm:h-16 border-b border-slate-800/80 bg-slate-900/90 backdrop-blur flex flex-col sm:flex-row sm:items-center justify-between gap-2 sm:gap-4 select-none">
         {/* Left: Exit & Question Title */}
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-4 shrink-0">
           <button
             onClick={handleExit}
             className="p-2 rounded-lg bg-slate-800 text-slate-300 hover:text-white hover:bg-slate-700 transition-colors"
@@ -183,7 +183,7 @@ export function PresentationViewer({
         </div>
 
         {/* Center: Presentation tools (Zoom, Full Page Context, Tags, Text Toggle, Audit Flag) */}
-        <div className="flex items-center gap-2 bg-slate-800/80 p-1 rounded-xl border border-slate-700/60">
+        <div className="flex items-center gap-2 bg-slate-800/80 p-1 rounded-xl border border-slate-700/60 overflow-x-auto hide-scrollbar shrink-0">
           <button
             onClick={handleZoomOut}
             className="p-1.5 rounded-lg hover:bg-slate-700 text-slate-300 hover:text-white transition-colors"
@@ -289,7 +289,7 @@ export function PresentationViewer({
         </div>
 
         {/* Right: Quick Question Navigator */}
-        <div className="flex items-center gap-2">
+        <div className="hidden sm:flex items-center gap-2 shrink-0">
           {prevUrl ? (
             <Link
               href={prevUrl}
@@ -342,7 +342,7 @@ export function PresentationViewer({
 
         {/* Collapsible Side Panel (Tags, Transcribed Text, or Audit Flag) */}
         {showSidePanel && (
-          <div className="w-96 border-l border-slate-800 bg-slate-900 p-6 overflow-y-auto space-y-6 animate-in slide-in-from-right duration-200">
+          <div className="absolute inset-y-0 right-0 z-50 w-full sm:w-96 sm:relative border-l border-slate-800 bg-slate-900 p-6 overflow-y-auto space-y-6 animate-in slide-in-from-right duration-200">
             <div className="flex items-center justify-between pb-3 border-b border-slate-800">
               <h3 className="font-bold text-sm text-sky-400 flex items-center gap-2">
                 {activeTab === "tags" && <Tag className="w-4 h-4 text-sky-400" />}
@@ -403,8 +403,8 @@ export function PresentationViewer({
       {showFullPageModal && (
         <div className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex flex-col justify-between p-4 sm:p-6 overflow-hidden">
           {/* Modal Header */}
-          <div className="flex items-center justify-between bg-slate-900/90 p-4 rounded-2xl border border-slate-800 max-w-6xl w-full mx-auto">
-            <div className="flex items-center gap-3">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-slate-900/90 p-4 rounded-2xl border border-slate-800 max-w-6xl w-full mx-auto overflow-x-auto">
+            <div className="flex items-center gap-3 shrink-0">
               <div className="p-2 rounded-xl bg-indigo-500/20 text-indigo-400">
                 <BookOpen className="w-5 h-5" />
               </div>
@@ -418,7 +418,7 @@ export function PresentationViewer({
               </div>
             </div>
 
-            <div className="flex items-center gap-3">
+            <div className="flex items-center gap-3 shrink-0 overflow-x-auto pb-1 sm:pb-0 hide-scrollbar">
               {/* Zoom Controls */}
               <div className="flex items-center gap-1 bg-slate-800 p-1 rounded-xl border border-slate-700">
                 <button

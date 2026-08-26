@@ -37,7 +37,7 @@ export function CourseGalleryClient({
     <div className="space-y-6">
       {/* Controls & Filter Bar */}
       <div className="bg-slate-50 dark:bg-slate-900/60 p-4 rounded-xl border border-slate-200 dark:border-slate-800 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        <div className="flex items-center gap-2">
+        <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2">
           <span className="text-xs font-bold text-slate-700 dark:text-slate-200">
             Exibindo {displayItems.length} questões
           </span>
@@ -50,7 +50,7 @@ export function CourseGalleryClient({
         {crossItems.length > 0 && (
           <button
             onClick={() => setIncludeCrossCourse(!includeCrossCourse)}
-            className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all ${
+            className={`inline-flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all text-left ${
               includeCrossCourse
                 ? "bg-sky-100 text-sky-800 dark:bg-sky-950 dark:text-sky-300 border border-sky-300 dark:border-sky-800"
                 : "bg-white dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-slate-700"

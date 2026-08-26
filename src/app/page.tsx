@@ -35,7 +35,7 @@ export default async function HomePage() {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="flex flex-col md:grid md:grid-cols-3 gap-6">
           {/* Card CCP */}
           <Link
             href="/docente/curso/ccp"
@@ -126,7 +126,7 @@ export default async function HomePage() {
       </div>
 
       {/* Live Metrics Grid */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-5xl mx-auto pt-6 border-t border-slate-200 dark:border-slate-800">
+      <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-4 gap-4 max-w-5xl mx-auto pt-6 border-t border-slate-200 dark:border-slate-800">
         <div className="bg-white dark:bg-slate-900 p-5 rounded-xl border border-slate-200 dark:border-slate-800 shadow-sm text-center">
           <div className="text-3xl font-black text-slate-900 dark:text-white">{categories.length}</div>
           <div className="text-xs font-medium text-slate-500 dark:text-slate-400 mt-1">Disciplinas Mapeadas</div>
