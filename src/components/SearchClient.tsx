@@ -129,13 +129,13 @@ export function SearchClient({ exams }: SearchClientProps) {
         </div>
 
         {/* Filters */}
-        <div className="flex flex-wrap items-center gap-4 text-xs pt-2">
+        <div className="flex flex-col sm:flex-row flex-wrap sm:items-center gap-4 text-xs pt-2">
           <div className="flex items-center gap-2">
             <span className="text-slate-500 font-semibold">Curso:</span>
             <select
               value={selectedCurso}
               onChange={(e) => setSelectedCurso(e.target.value)}
-              className="px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-700 dark:text-slate-300 font-medium"
+              className="w-full sm:w-auto px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-700 dark:text-slate-300 font-medium"
             >
               <option value="ALL">Todos os Cursos</option>
               {cursos.map((c) => (
@@ -151,7 +151,7 @@ export function SearchClient({ exams }: SearchClientProps) {
             <select
               value={selectedTipo}
               onChange={(e) => setSelectedTipo(e.target.value)}
-              className="px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-700 dark:text-slate-300 font-medium"
+              className="w-full sm:w-auto px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-700 dark:text-slate-300 font-medium"
             >
               <option value="ALL">Todos os Tipos</option>
               <option value="OBJETIVA">Objetivas</option>
@@ -159,7 +159,7 @@ export function SearchClient({ exams }: SearchClientProps) {
             </select>
           </div>
 
-          <div className="ml-auto text-slate-400 font-medium">
+          <div className="sm:ml-auto text-slate-400 font-medium">
             {results.length} questão(ões) encontrada(s)
           </div>
         </div>

@@ -78,8 +78,8 @@ export function AdminFullPageModal({
       {isOpen && (
         <div className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex flex-col justify-between p-4 sm:p-6 overflow-hidden">
           {/* Topbar Controls */}
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-slate-900/95 p-4 rounded-2xl border border-slate-800 max-w-7xl w-full mx-auto shadow-2xl">
-            <div className="flex items-center gap-3">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-slate-900/95 p-4 rounded-2xl border border-slate-800 max-w-7xl w-full mx-auto shadow-2xl overflow-x-auto">
+            <div className="flex items-center gap-3 shrink-0">
               <div className="p-2 rounded-xl bg-indigo-500/20 text-indigo-400">
                 <FileSearch className="w-5 h-5" />
               </div>
@@ -93,13 +93,13 @@ export function AdminFullPageModal({
                   )}
                 </h2>
                 <p className="text-xs text-slate-400">
-                  {id_prova} · Use as setas do teclado para folhear as páginas do caderno original
+                  {id_prova} · Use as setas do teclado
                 </p>
               </div>
             </div>
 
             {/* Middle & Right Controls */}
-            <div className="flex flex-wrap items-center gap-3">
+            <div className="flex flex-nowrap items-center gap-3 shrink-0 overflow-x-auto pb-1 sm:pb-0 hide-scrollbar">
               {/* Split View Toggle (if crop is available) */}
               {questionPngUrl && (
                 <button
@@ -188,10 +188,10 @@ export function AdminFullPageModal({
           </div>
 
           {/* Stage Body */}
-          <div className="flex-1 flex gap-4 p-4 overflow-hidden items-center justify-center">
+          <div className="flex-1 flex flex-col sm:flex-row gap-4 p-4 overflow-hidden items-center justify-center">
             {/* Left: Split view of question crop if enabled */}
             {showSplitView && questionPngUrl && (
-              <div className="flex-1 h-full bg-slate-900/60 p-4 rounded-2xl border border-slate-800 flex flex-col items-center justify-center overflow-auto">
+              <div className="flex-1 w-full sm:w-auto h-full bg-slate-900/60 p-4 rounded-2xl border border-slate-800 flex flex-col items-center justify-center overflow-auto">
                 <div className="text-xs font-bold text-sky-400 mb-2 uppercase tracking-wide">
                   Recorte Atual da Questão ({questionId})
                 </div>
@@ -206,7 +206,7 @@ export function AdminFullPageModal({
             )}
 
             {/* Right / Full Width: Page Image */}
-            <div className="flex-1 h-full bg-slate-950 p-4 rounded-2xl border border-slate-800 flex items-center justify-center overflow-auto">
+            <div className="flex-1 w-full sm:w-auto h-full bg-slate-950 p-4 rounded-2xl border border-slate-800 flex items-center justify-center overflow-auto">
               <div
                 style={{ transform: `scale(${zoomLevel})`, transformOrigin: "center center" }}
                 className="transition-transform duration-200 ease-out max-w-4xl max-h-full flex justify-center"
