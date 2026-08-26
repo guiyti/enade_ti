@@ -33,14 +33,6 @@ export default async function HomePage() {
               Escolha o curso para visualizar as disciplinas e recortes oficiais de provas do ENADE.
             </p>
           </div>
-
-          <Link
-            href="/docente/busca"
-            className="hidden sm:inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 text-xs font-semibold transition-colors"
-          >
-            <Search className="w-4 h-4" />
-            Busca por Palavra-Chave
-          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

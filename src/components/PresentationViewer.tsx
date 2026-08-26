@@ -13,11 +13,13 @@ import {
   ChevronLeft,
   ChevronRight,
   Tag,
-  BookOpen
+  BookOpen,
+  Flag
 } from "lucide-react";
 import type { ExamData, QuestionData } from "@/lib/enade";
 import { TagEditor } from "@/components/TagEditor";
-import { AuditFlagModal } from "@/components/AuditFlagModal";
+import { AuditFlagContent } from "@/components/AuditFlagContent";
+import { useAuditFlag } from "@/lib/auditStore";
 import { getPresentationContext, type PlaylistItem } from "@/lib/presentationContext";
 
 interface PresentationViewerProps {
@@ -38,10 +40,11 @@ export function PresentationViewer({
   nextQuestionId: defaultNextId,
 }: PresentationViewerProps) {
   const router = useRouter();
+  const { isFlagged } = useAuditFlag(exam.id_prova, question.id_questao);
   const [zoomLevel, setZoomLevel] = useState(1);
   const [isFullscreen, setIsFullscreen] = useState(false);
   const [showSidePanel, setShowSidePanel] = useState(false);
-  const [activeTab, setActiveTab] = useState<"text" | "tags">("tags");
+  const [activeTab, setActiveTab] = useState<"text" | "tags" | "flag">("tags");
   
   // Presentation Context (Playlist & Return URL)
   const [playlist, setPlaylist] = useState<PlaylistItem[] | null>(null);
@@ -256,13 +259,28 @@ export function PresentationViewer({
 
           <div className="h-4 w-px bg-slate-700 mx-1"></div>
 
-          {/* Audit Flag Modal Trigger */}
-          <AuditFlagModal
-            id_prova={exam.id_prova}
-            id_questao={question.id_questao}
-            variant="presentation"
-            reportedFrom="docente"
-          />
+          {/* Audit Flag Trigger (abre o mesmo Drawer) */}
+          <button
+            onClick={() => {
+              if (showSidePanel && activeTab === "flag") {
+                setShowSidePanel(false);
+              } else {
+                setActiveTab("flag");
+                setShowSidePanel(true);
+              }
+            }}
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold transition-colors ${
+              showSidePanel && activeTab === "flag"
+                ? "bg-amber-600 text-white font-bold"
+                : isFlagged
+                ? "bg-amber-500/20 text-amber-300 border border-amber-500/50 hover:bg-amber-500/30 font-bold"
+                : "text-slate-300 hover:bg-slate-700"
+            }`}
+            title="Sinalizar anomalia nesta questão para a auditoria"
+          >
+            <Flag className={`w-3.5 h-3.5 ${isFlagged ? "fill-amber-400 text-amber-400" : ""}`} />
+            <span>{isFlagged ? "Sinalizada" : "Sinalizar"}</span>
+          </button>
 
           <button
             onClick={toggleFullscreen}
@@ -325,13 +343,19 @@ export function PresentationViewer({
           </div>
         </div>
 
-        {/* Collapsible Side Panel (Tags or Transcribed Text) */}
+        {/* Collapsible Side Panel (Tags, Transcribed Text, or Audit Flag) */}
         {showSidePanel && (
-          <div className="w-96 border-l border-slate-800 bg-slate-900 p-6 overflow-y-auto space-y-6">
+          <div className="w-96 border-l border-slate-800 bg-slate-900 p-6 overflow-y-auto space-y-6 animate-in slide-in-from-right duration-200">
             <div className="flex items-center justify-between pb-3 border-b border-slate-800">
               <h3 className="font-bold text-sm text-sky-400 flex items-center gap-2">
-                {activeTab === "tags" ? <Tag className="w-4 h-4" /> : <FileText className="w-4 h-4" />}
-                {activeTab === "tags" ? "Classificação Temática" : "Texto da Questão"}
+                {activeTab === "tags" && <Tag className="w-4 h-4 text-sky-400" />}
+                {activeTab === "text" && <FileText className="w-4 h-4 text-sky-400" />}
+                {activeTab === "flag" && <Flag className="w-4 h-4 text-amber-400 fill-amber-400" />}
+                <span className={activeTab === "flag" ? "text-amber-400" : "text-sky-400"}>
+                  {activeTab === "tags" && "Classificação Temática"}
+                  {activeTab === "text" && "Texto da Questão"}
+                  {activeTab === "flag" && "Sinalizar para Auditoria"}
+                </span>
               </h3>
               <button
                 onClick={() => setShowSidePanel(false)}
@@ -341,7 +365,7 @@ export function PresentationViewer({
               </button>
             </div>
 
-            {activeTab === "tags" ? (
+            {activeTab === "tags" && (
               <div className="space-y-4">
                 <p className="text-xs text-slate-400 leading-relaxed">
                   Adicione ou remova categorias desta questão para organizar o plano de ensino:
@@ -352,7 +376,9 @@ export function PresentationViewer({
                   initialTags={question.categorias || []}
                 />
               </div>
-            ) : (
+            )}
+
+            {activeTab === "text" && (
               <div>
                 {question.texto_completo ? (
                   <div className="text-xs leading-relaxed text-slate-300 font-sans whitespace-pre-wrap">
@@ -362,6 +388,15 @@ export function PresentationViewer({
                   <p className="text-xs text-slate-500 italic">Texto não disponível.</p>
                 )}
               </div>
+            )}
+
+            {activeTab === "flag" && (
+              <AuditFlagContent
+                id_prova={exam.id_prova}
+                id_questao={question.id_questao}
+                reportedFrom="docente"
+                onSuccess={() => setShowSidePanel(false)}
+              />
             )}
           </div>
         )}

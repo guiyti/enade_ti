@@ -373,71 +373,80 @@ export function AdminAuditFlagsSection() {
         </div>
       )}
 
-      {/* Auditor Password Challenge Modal */}
+      {/* Auditor Password Challenge Drawer */}
       {pendingAction && (
-        <div className="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4">
-          <div className="bg-slate-900 border border-slate-800 text-white rounded-2xl max-w-sm w-full p-6 shadow-2xl space-y-4 animate-in fade-in duration-150">
-            <div className="flex items-center justify-between pb-2 border-b border-slate-800">
-              <div className="flex items-center gap-2 text-indigo-400">
-                <ShieldCheck className="w-5 h-5" />
-                <h3 className="font-bold text-sm text-white">Autenticação do Auditor</h3>
+        <div className="fixed inset-0 z-50 overflow-hidden">
+          <div
+            onClick={() => setPendingAction(null)}
+            className="fixed inset-0 bg-black/60 backdrop-blur-sm transition-opacity animate-in fade-in duration-200"
+          />
+
+          <div className="fixed inset-y-0 right-0 max-w-full flex pl-10">
+            <div className="w-screen max-w-sm bg-slate-900 border-l border-slate-800 text-white shadow-2xl flex flex-col justify-between p-6 overflow-y-auto transform transition-transform animate-in slide-in-from-right duration-300 ease-out">
+              <div className="space-y-4">
+                <div className="flex items-center justify-between pb-3 border-b border-slate-800">
+                  <div className="flex items-center gap-2 text-indigo-400">
+                    <ShieldCheck className="w-5 h-5" />
+                    <h3 className="font-bold text-base text-white">Autenticação do Auditor</h3>
+                  </div>
+                  <button
+                    onClick={() => setPendingAction(null)}
+                    className="p-1 text-slate-400 hover:text-white rounded-lg"
+                  >
+                    <X className="w-5 h-5" />
+                  </button>
+                </div>
+
+                <p className="text-xs text-slate-300 leading-relaxed">
+                  {pendingAction.type === "clearAll"
+                    ? "Digite a senha do auditor para limpar todas as sinalizações avaliadas do banco."
+                    : `Digite a senha do auditor para resolver a sinalização da questão ${pendingAction.id_questao}.`}
+                </p>
+
+                <form onSubmit={handleConfirmAuditorAuth} className="space-y-3 pt-2">
+                  <div className="relative">
+                    <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-500">
+                      <KeyRound className="w-3.5 h-3.5" />
+                    </div>
+                    <input
+                      ref={adminInputRef}
+                      type="password"
+                      autoFocus
+                      value={adminPasswordInput}
+                      onChange={(e) => {
+                        setAdminPasswordInput(e.target.value);
+                        if (authError) setAuthError(null);
+                      }}
+                      placeholder="Senha do auditor..."
+                      className="w-full bg-slate-950 border border-slate-800 rounded-xl pl-9 pr-3 py-2.5 text-sm text-white placeholder:text-slate-600 focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500"
+                    />
+                  </div>
+
+                  {authError && (
+                    <div className="flex items-center gap-1.5 text-xs text-rose-400 font-semibold p-2.5 rounded-lg bg-rose-950/60 border border-rose-900">
+                      <AlertCircle className="w-4 h-4 shrink-0" />
+                      <span>{authError}</span>
+                    </div>
+                  )}
+
+                  <div className="flex items-center justify-end gap-2 pt-4">
+                    <button
+                      type="button"
+                      onClick={() => setPendingAction(null)}
+                      className="px-4 py-2 rounded-xl text-xs font-semibold text-slate-400 hover:text-white hover:bg-slate-800"
+                    >
+                      Cancelar
+                    </button>
+                    <button
+                      type="submit"
+                      className="px-4 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold shadow-md shadow-indigo-600/20"
+                    >
+                      Confirmar Ação
+                    </button>
+                  </div>
+                </form>
               </div>
-              <button
-                onClick={() => setPendingAction(null)}
-                className="p-1 text-slate-400 hover:text-white rounded-lg"
-              >
-                <X className="w-4 h-4" />
-              </button>
             </div>
-
-            <p className="text-xs text-slate-400">
-              {pendingAction.type === "clearAll"
-                ? "Digite a senha de auditor para limpar todas as sinalizações do banco."
-                : `Digite a senha de auditor para resolver a sinalização da questão ${pendingAction.id_questao}.`}
-            </p>
-
-            <form onSubmit={handleConfirmAuditorAuth} className="space-y-3">
-              <div className="relative">
-                <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-slate-500">
-                  <KeyRound className="w-3.5 h-3.5" />
-                </div>
-                <input
-                  ref={adminInputRef}
-                  type="password"
-                  autoFocus
-                  value={adminPasswordInput}
-                  onChange={(e) => {
-                    setAdminPasswordInput(e.target.value);
-                    if (authError) setAuthError(null);
-                  }}
-                  placeholder="Senha de auditor..."
-                  className="w-full bg-slate-950 border border-slate-800 rounded-xl pl-9 pr-3 py-2 text-xs text-white placeholder:text-slate-600 focus:outline-none focus:border-indigo-500"
-                />
-              </div>
-
-              {authError && (
-                <div className="flex items-center gap-1.5 text-xs text-rose-400 font-semibold">
-                  <AlertCircle className="w-3.5 h-3.5 shrink-0" />
-                  <span>{authError}</span>
-                </div>
-              )}
-
-              <div className="flex items-center justify-end gap-2 pt-2">
-                <button
-                  type="button"
-                  onClick={() => setPendingAction(null)}
-                  className="px-3 py-1.5 rounded-lg text-xs font-semibold text-slate-400 hover:text-white"
-                >
-                  Cancelar
-                </button>
-                <button
-                  type="submit"
-                  className="px-4 py-1.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-bold shadow-md shadow-indigo-600/20"
-                >
-                  Confirmar Limpeza
-                </button>
-              </div>
-            </form>
           </div>
         </div>
       )}
