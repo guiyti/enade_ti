@@ -8,18 +8,14 @@ export const AUDITOR_AUTH_STORAGE_KEY = "enade_auditor_auth_v1";
 const FLAG_AUTH_EVENT = "enade_flag_auth_updated";
 const AUDITOR_AUTH_EVENT = "enade_auditor_auth_updated";
 
-// Códigos padrão caso as variáveis de ambiente não estejam preenchidas
-const DEFAULT_FLAG_CODE = "enade-docente";
-const DEFAULT_ADMIN_CODE = "enade-admin";
-
 export function getExpectedFlagCode(): string {
   const code = process.env.NEXT_PUBLIC_FLAG_ACCESS_CODE;
-  return code && code.trim().length > 0 ? code.trim() : DEFAULT_FLAG_CODE;
+  return code && code.trim().length > 0 ? code.trim() : "";
 }
 
 export function getExpectedAdminCode(): string {
   const code = process.env.NEXT_PUBLIC_ADMIN_ACCESS_CODE;
-  return code && code.trim().length > 0 ? code.trim() : DEFAULT_ADMIN_CODE;
+  return code && code.trim().length > 0 ? code.trim() : "";
 }
 
 // ----------------------------------------------------
@@ -39,6 +35,7 @@ export function isFlagAuthorized(): boolean {
 export function verifyFlagCode(inputCode: string): boolean {
   if (!inputCode) return false;
   const expected = getExpectedFlagCode().trim().toLowerCase();
+  if (!expected) return false;
   const actual = inputCode.trim().toLowerCase();
   return actual === expected;
 }
@@ -108,6 +105,7 @@ export function isAuditorAuthorized(): boolean {
 export function verifyAdminCode(inputCode: string): boolean {
   if (!inputCode) return false;
   const expected = getExpectedAdminCode().trim().toLowerCase();
+  if (!expected) return false;
   const actual = inputCode.trim().toLowerCase();
   return actual === expected;
 }
