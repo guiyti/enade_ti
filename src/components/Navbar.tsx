@@ -89,10 +89,13 @@ export function Navbar() {
   const pathname = usePathname();
   const isAdmin = pathname.startsWith("/admin");
   const isCapacitacao = pathname.startsWith("/capacitacao");
-  const isSorteio = pathname.startsWith("/sorteio") || pathname.startsWith("/pilulas") || pathname.startsWith("/quizzes");
-  const isApresentacao = pathname.startsWith("/docente/apresentacao") || pathname.startsWith("/aluno");
+  const isSorteio = pathname === "/sorteio" || pathname === "/quizzes";
+  const isImmersive = 
+    pathname.startsWith("/pilulas") || 
+    pathname.startsWith("/aluno") || 
+    pathname.startsWith("/docente/apresentacao");
 
-  if (isApresentacao) {
+  if (isImmersive) {
     return null;
   }
 

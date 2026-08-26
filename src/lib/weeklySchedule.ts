@@ -5,7 +5,7 @@ export interface QuestionRef {
 
 export interface QuestionSetConfig {
   setNumber: number;
-  label: string; // e.g. "Semana 01" ou "Conjunto 01"
+  label: string; // e.g. "Semana 01"
   title: string;
   topic: string;
   description: string;
@@ -18,6 +18,89 @@ export interface CourseSets {
   ADS: QuestionSetConfig[];
   GTI: QuestionSetConfig[];
   CCP: QuestionSetConfig[];
+}
+
+export interface WeekCalendarInfo {
+  weekNumber: number;
+  label: string;
+  startDate: string;
+  endDate: string;
+  periodLabel: string;
+}
+
+export const ENADE_2026_CALENDAR = {
+  startDate: "2026-08-24", // Segunda-feira
+  examDate: "2026-11-29",  // Domingo da Prova
+  totalWeeks: 14,
+  weeks: [
+    { weekNumber: 1, label: "Semana 01", startDate: "2026-08-24", endDate: "2026-08-30", periodLabel: "24/08 a 30/08" },
+    { weekNumber: 2, label: "Semana 02", startDate: "2026-08-31", endDate: "2026-09-06", periodLabel: "31/08 a 06/09" },
+    { weekNumber: 3, label: "Semana 03", startDate: "2026-09-07", endDate: "2026-09-13", periodLabel: "07/09 a 13/09" },
+    { weekNumber: 4, label: "Semana 04", startDate: "2026-09-14", endDate: "2026-09-20", periodLabel: "14/09 a 20/09" },
+    { weekNumber: 5, label: "Semana 05", startDate: "2026-09-21", endDate: "2026-09-27", periodLabel: "21/09 a 27/09" },
+    { weekNumber: 6, label: "Semana 06", startDate: "2026-09-28", endDate: "2026-10-04", periodLabel: "28/09 a 04/10" },
+    { weekNumber: 7, label: "Semana 07", startDate: "2026-10-05", endDate: "2026-10-11", periodLabel: "05/10 a 11/10" },
+    { weekNumber: 8, label: "Semana 08", startDate: "2026-10-12", endDate: "2026-10-18", periodLabel: "12/10 a 18/10" },
+    { weekNumber: 9, label: "Semana 09", startDate: "2026-10-19", endDate: "2026-10-25", periodLabel: "19/10 a 25/10" },
+    { weekNumber: 10, label: "Semana 10", startDate: "2026-10-26", endDate: "2026-11-01", periodLabel: "26/10 a 01/11" },
+    { weekNumber: 11, label: "Semana 11", startDate: "2026-11-02", endDate: "2026-11-08", periodLabel: "02/11 a 08/11" },
+    { weekNumber: 12, label: "Semana 12", startDate: "2026-11-09", endDate: "2026-11-15", periodLabel: "09/11 a 15/11" },
+    { weekNumber: 13, label: "Semana 13", startDate: "2026-11-16", endDate: "2026-11-22", periodLabel: "16/11 a 22/11" },
+    { weekNumber: 14, label: "Semana 14", startDate: "2026-11-23", endDate: "2026-11-29", periodLabel: "23/11 a 29/11" },
+  ] as WeekCalendarInfo[],
+};
+
+/**
+ * Retorna a semana correspondente com base na data de hoje ou data fornecida.
+ */
+export function getCurrentEnadeWeek(customDate?: Date): {
+  weekNumber: number;
+  currentPeriod: string;
+  label: string;
+  daysUntilExam: number;
+  weeksUntilExam: number;
+  isBeforeStart: boolean;
+  isExamWeek: boolean;
+  isAfterExam: boolean;
+} {
+  const now = customDate || new Date();
+  const start = new Date("2026-08-24T00:00:00-03:00");
+  const exam = new Date("2026-11-29T23:59:59-03:00");
+
+  const isBeforeStart = now < start;
+  const isAfterExam = now > exam;
+
+  let weekNumber = 1;
+
+  if (isBeforeStart) {
+    weekNumber = 1;
+  } else if (isAfterExam) {
+    weekNumber = 14;
+  } else {
+    const diffMs = now.getTime() - start.getTime();
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    weekNumber = Math.floor(diffDays / 7) + 1;
+    if (weekNumber < 1) weekNumber = 1;
+    if (weekNumber > 14) weekNumber = 14;
+  }
+
+  const cal = ENADE_2026_CALENDAR.weeks.find((w) => w.weekNumber === weekNumber) || ENADE_2026_CALENDAR.weeks[0];
+
+  const diffToExamMs = exam.getTime() - now.getTime();
+  const daysUntilExam = Math.max(0, Math.ceil(diffToExamMs / (1000 * 60 * 60 * 24)));
+  const weeksUntilExam = Math.max(0, Math.ceil(daysUntilExam / 7));
+  const isExamWeek = weekNumber === 14;
+
+  return {
+    weekNumber,
+    currentPeriod: cal.periodLabel,
+    label: cal.label,
+    daysUntilExam,
+    weeksUntilExam,
+    isBeforeStart,
+    isExamWeek,
+    isAfterExam,
+  };
 }
 
 export const QUESTION_SETS: CourseSets = {
@@ -67,9 +150,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 4,
       label: "Semana 04",
-      title: "Programação e Orientação a Objetos",
-      topic: "Programação e POO",
-      description: "Encapsulamento, herança, polimorfismo, classes abstratas e interfaces.",
+      title: "SQL & Normalização de Dados",
+      topic: "Banco de Dados",
+      description: "Consultas SQL complexas, JOINs, agregações e formas normais (1FN, 2FN, 3FN).",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_ADS", id_questao: "q21" },
@@ -81,9 +164,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 5,
       label: "Semana 05",
-      title: "Metodologias Ágeis (Scrum & Kanban)",
-      topic: "Engenharia de Software",
-      description: "Planejamento de sprints, backlog, cerimônias ágeis e entrega contínua.",
+      title: "Programação Orientada a Objetos & Herança",
+      topic: "Linguagens e POO",
+      description: "Encapsulamento, polimorfismo, classes abstratas, interfaces e tratamento de exceções.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_ADS", id_questao: "q25" },
@@ -95,9 +178,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 6,
       label: "Semana 06",
-      title: "Banco de Dados: Consultas SQL & Normalização",
-      topic: "Banco de Dados",
-      description: "Junções SQL (Joins), agrupamentos, formas normais (1FN, 2FN, 3FN) e transações ACID.",
+      title: "Metodologias Ágeis & Scrum",
+      topic: "Engenharia de Software",
+      description: "Sprints, Daily Scrum, papéis ágeis (PO, Scrum Master), Kanban e entrega contínua.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_ADS", id_questao: "q29" },
@@ -109,9 +192,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 7,
       label: "Semana 07",
-      title: "Testes de Software & Garantia de Qualidade",
+      title: "Qualidade, Testes & Métricas de Software",
       topic: "Engenharia de Software",
-      description: "Testes unitários, integração, caixa-preta, caixa-branca, TDD e cobertura de código.",
+      description: "Testes unitários, testes de integração, cobertura de código e refatoração.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_ADS", id_questao: "q33" },
@@ -123,9 +206,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 8,
       label: "Semana 08",
-      title: "Padrões de Projeto (Design Patterns - GoF)",
-      topic: "Engenharia de Software",
-      description: "Padrões criacionais, estruturais e comportamentais (Singleton, Factory, Strategy, Observer).",
+      title: "Segurança da Informação & OWASP",
+      topic: "Segurança da Informação",
+      description: "Vulnerabilidades web, SQL Injection, XSS, autenticação segura e criptografia.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_ADS", id_questao: "q10" },
@@ -137,9 +220,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 9,
       label: "Semana 09",
-      title: "Segurança de Software & OWASP",
-      topic: "Redes e Segurança",
-      description: "Vulnerabilidades web, SQL Injection, Cross-Site Scripting (XSS), autenticação e sessões.",
+      title: "Algoritmos, Complexidade & Lógica",
+      topic: "Algoritmos e Estruturas",
+      description: "Estruturas de repetição, vetores, matrizes, busca linear/binária e recursão.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_ADS", id_questao: "q14" },
@@ -151,9 +234,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 10,
       label: "Semana 10",
-      title: "Arquitetura de Software & Microsserviços",
-      topic: "Engenharia de Software",
-      description: "APIs RESTful, microsserviços, mensageria, desacoplamento e escalabilidade.",
+      title: "Estruturas de Dados Dinâmicas (Pilhas & Filas)",
+      topic: "Algoritmos e Estruturas",
+      description: "Alocação dinâmica de memória, ponteiros, listas encadeadas, pilhas e filas.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_ADS", id_questao: "q18" },
@@ -165,9 +248,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 11,
       label: "Semana 11",
-      title: "DevOps, CI/CD e Infraestrutura de Aplicações",
+      title: "Web Services, REST & Arquitetura de Software",
       topic: "Engenharia de Software",
-      description: "Pipelines de deploy contínuo, automação de build, testes automatizados e contêineres.",
+      description: "APIs RESTful, JSON/XML, métodos HTTP, arquitetura MVC e microsserviços.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_ADS", id_questao: "q22" },
@@ -188,6 +271,34 @@ export const QUESTION_SETS: CourseSets = {
         { id_prova: "2017_ADS", id_questao: "q27" },
         { id_prova: "2017_ADS", id_questao: "q28" },
         { id_prova: "2017_ADS", id_questao: "q29" },
+      ],
+    },
+    {
+      setNumber: 13,
+      label: "Semana 13",
+      title: "Simulado Reta Final · Padrões de Projeto & DevOps",
+      topic: "Engenharia de Software e Arquitetura",
+      description: "Padrões GoF (Factory, Singleton, Observer), pipelines CI/CD e integração contínua.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_ADS", id_questao: "q30" },
+        { id_prova: "2017_ADS", id_questao: "q31" },
+        { id_prova: "2017_ADS", id_questao: "q32" },
+        { id_prova: "2017_ADS", id_questao: "q33" },
+      ],
+    },
+    {
+      setNumber: 14,
+      label: "Semana 14",
+      title: "Semana da Prova · Revisão Integrada & Estratégia",
+      topic: "Revisão Geral e Dicas Finais",
+      description: "Questões de síntese cobrando raciocínio interdisciplinar de requisitos, código e banco.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_ADS", id_questao: "q34" },
+        { id_prova: "2017_ADS", id_questao: "q35" },
+        { id_prova: "2014_ADS", id_questao: "q09" },
+        { id_prova: "2014_ADS", id_questao: "q10" },
       ],
     },
   ],
@@ -238,9 +349,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 4,
       label: "Semana 04",
-      title: "Redes & Infraestrutura de TI",
-      topic: "Redes e Segurança",
-      description: "Arquitetura TCP/IP, protocolos de rede, conectividade e disponibilidade de infraestrutura.",
+      title: "COBIT 2019 & Controle de Processos",
+      topic: "Governança e Gestão de TI",
+      description: "Objetivos de governança e gestão, domínios EDM, APO, BAI, DSS e MEA.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_GTI", id_questao: "q21" },
@@ -252,9 +363,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 5,
       label: "Semana 05",
-      title: "Framework COBIT & Objetivos de Controle",
+      title: "LGPD, Privacidade & Conformidade Legal",
       topic: "Governança e Gestão de TI",
-      description: "Estrutura do COBIT, domínios de governança e gestão, maturidade de processos e RACI.",
+      description: "Bases legais, direitos dos titulares de dados, DPO, relatórios RIPD e sanções.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_GTI", id_questao: "q25" },
@@ -266,9 +377,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 6,
       label: "Semana 06",
-      title: "LGPD & Conformidade Legal em TI",
+      title: "Acordos de Nível de Serviço (SLA & OLA)",
       topic: "Governança e Gestão de TI",
-      description: "Lei Geral de Proteção de Dados, direitos dos titulares, consentimento e atuação do DPO.",
+      description: "Métricas de disponibilidade, tempos de resposta (MTTR/MTBF) e contratos de terceirização.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_GTI", id_questao: "q29" },
@@ -280,9 +391,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 7,
       label: "Semana 07",
-      title: "Acordos de Nível de Serviço (SLA & OLA)",
+      title: "Gestão de Projetos de TI (PMBOK & Ágil)",
       topic: "Governança e Gestão de TI",
-      description: "Definição de SLAs, métricas de desempenho, tempo de atendimento e satisfação do cliente.",
+      description: "Gerenciamento de escopo, cronograma, custos, riscos e integração de projetos híbridos.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_GTI", id_questao: "q33" },
@@ -294,9 +405,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 8,
       label: "Semana 08",
-      title: "Gestão de Incidentes, Problemas e Mudanças",
+      title: "Continuidade de Negócios & Disaster Recovery",
       topic: "Governança e Gestão de TI",
-      description: "Tratamento de incidentes críticos, análise de causa-raiz (problemas) e comitê de mudanças (CAB).",
+      description: "Plano de Continuidade de Negócios (PCN), Análise de Impacto (BIA), RTO e RPO.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_GTI", id_questao: "q10" },
@@ -308,9 +419,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 9,
       label: "Semana 09",
-      title: "Continuidade de Negócios & Disaster Recovery",
+      title: "Cloud Computing & Gestão de Infraestrutura",
       topic: "Governança e Gestão de TI",
-      description: "Plano de Continuidade de Negócios (PCN), RPO (Recovery Point Objective) e RTO (Recovery Time Objective).",
+      description: "Modelos IaaS, PaaS, SaaS, nuvem pública/privada/híbrida e custos operacionais (OpEx vs CapEx).",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_GTI", id_questao: "q14" },
@@ -322,9 +433,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 10,
       label: "Semana 10",
-      title: "Gestão Financeira & Orçamento de TI",
+      title: "Auditoria de Sistemas & Compliance",
       topic: "Governança e Gestão de TI",
-      description: "CAPEX, OPEX, Custo Total de Propriedade (TCO), retorno sobre investimento (ROI) e contratos.",
+      description: "Trilhas de auditoria, segregação de funções, controles internos e conformidade regulatória.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_GTI", id_questao: "q18" },
@@ -336,9 +447,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 11,
       label: "Semana 11",
-      title: "Gestão de Projetos de TI (PMBOK & Ágil)",
+      title: "Gestão Estratégica da Informação & BI",
       topic: "Governança e Gestão de TI",
-      description: "Gerenciamento de escopo, tempo, riscos, qualidade e custos em projetos de tecnologia.",
+      description: "Tomada de decisão baseada em dados, Data Warehouse, KPIs e dashboards gerenciais.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_GTI", id_questao: "q22" },
@@ -352,7 +463,7 @@ export const QUESTION_SETS: CourseSets = {
       label: "Semana 12",
       title: "Simulado Geral de Revisão GTI",
       topic: "Revisão Geral",
-      description: "Síntese dos tópicos de maior recorrência nas provas oficiais do ENADE para GTI.",
+      description: "Síntese dos tópicos de maior peso nas provas oficiais do ENADE para GTI.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2017_GTI", id_questao: "q26" },
@@ -361,15 +472,71 @@ export const QUESTION_SETS: CourseSets = {
         { id_prova: "2017_GTI", id_questao: "q29" },
       ],
     },
+    {
+      setNumber: 13,
+      label: "Semana 13",
+      title: "Simulado Reta Final · Gestão de Mudanças & Crises",
+      topic: "Governança e Gestão de TI",
+      description: "Comitê de mudanças (CAB), gestão de incidentes críticos e continuidade operacional.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_GTI", id_questao: "q30" },
+        { id_prova: "2017_GTI", id_questao: "q31" },
+        { id_prova: "2017_GTI", id_questao: "q32" },
+        { id_prova: "2017_GTI", id_questao: "q33" },
+      ],
+    },
+    {
+      setNumber: 14,
+      label: "Semana 14",
+      title: "Semana da Prova · Revisão Estratégica GTI",
+      topic: "Revisão Geral e Dicas Finais",
+      description: "Interpretação de cenários corporativos, tomada de decisão e liderança em TI.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_GTI", id_questao: "q34" },
+        { id_prova: "2017_GTI", id_questao: "q35" },
+        { id_prova: "2021_GTI", id_questao: "q09" },
+        { id_prova: "2021_GTI", id_questao: "q10" },
+      ],
+    },
   ],
 
   FG: [
     {
       setNumber: 1,
       label: "Semana 01",
-      title: "Ética Profissional & Cidadania",
+      title: "Ética, Cidadania & Direitos Humanos",
       topic: "Formação Geral e Sociedade",
-      description: "Dilemas éticos, responsabilidade social, integridade e cidadania ativa.",
+      description: "Fundamentos dos direitos humanos, dignidade da pessoa humana e ética no exercício profissional.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2021_ADS", id_questao: "q01" },
+        { id_prova: "2021_ADS", id_questao: "q02" },
+        { id_prova: "2021_ADS", id_questao: "q03" },
+        { id_prova: "2021_ADS", id_questao: "q04" },
+      ],
+    },
+    {
+      setNumber: 2,
+      label: "Semana 02",
+      title: "Sustentabilidade & Meio Ambiente",
+      topic: "Formação Geral e Sociedade",
+      description: "Transição energética, consumo sustentável, ODS da ONU e impacto ecológico.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2021_ADS", id_questao: "q05" },
+        { id_prova: "2021_ADS", id_questao: "q06" },
+        { id_prova: "2021_ADS", id_questao: "q07" },
+        { id_prova: "2021_ADS", id_questao: "q08" },
+      ],
+    },
+    {
+      setNumber: 3,
+      label: "Semana 03",
+      title: "Sociedade Digital, Privacidade & IA",
+      topic: "Formação Geral e Sociedade",
+      description: "Inteligência Artificial, privacidade de dados, algoritmos sociais e exclusão digital.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q01" },
@@ -379,11 +546,11 @@ export const QUESTION_SETS: CourseSets = {
       ],
     },
     {
-      setNumber: 2,
-      label: "Semana 02",
-      title: "Sustentabilidade & Meio Ambiente",
+      setNumber: 4,
+      label: "Semana 04",
+      title: "Diversidade, Inclusão & Acessibilidade",
       topic: "Formação Geral e Sociedade",
-      description: "Transição energética, impacto ambiental, consumo consciente e ODS (ONU).",
+      description: "Políticas afirmativas, equidade de gênero, inclusão PcD e combate ao preconceito.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q05" },
@@ -393,123 +560,11 @@ export const QUESTION_SETS: CourseSets = {
       ],
     },
     {
-      setNumber: 3,
-      label: "Semana 03",
-      title: "Direitos Humanos, Inclusão & Diversidade",
-      topic: "Formação Geral e Sociedade",
-      description: "Equidade racial, de gênero, acessibilidade e respeito aos direitos fundamentais.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q09" },
-        { id_prova: "2024_CCP", id_questao: "q10" },
-        { id_prova: "2024_CCP", id_questao: "q11" },
-        { id_prova: "2024_CCP", id_questao: "q12" },
-      ],
-    },
-    {
-      setNumber: 4,
-      label: "Semana 04",
-      title: "Ciência, Tecnologia & Sociedade Digital",
-      topic: "Formação Geral e Sociedade",
-      description: "Impacto das tecnologias na vida cotidiana, privacidade de dados e inteligência artificial.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q13" },
-        { id_prova: "2024_CCP", id_questao: "q14" },
-        { id_prova: "2024_CCP", id_questao: "q15" },
-        { id_prova: "2024_CCP", id_questao: "q16" },
-      ],
-    },
-    {
       setNumber: 5,
       label: "Semana 05",
-      title: "Democracia, Transparência & Políticas Públicas",
+      title: "Democracia, Políticas Públicas & Estado",
       topic: "Formação Geral e Sociedade",
-      description: "Participação popular, acesso à informação, transparência e controle social.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q17" },
-        { id_prova: "2024_CCP", id_questao: "q18" },
-        { id_prova: "2024_CCP", id_questao: "q19" },
-        { id_prova: "2024_CCP", id_questao: "q20" },
-      ],
-    },
-    {
-      setNumber: 6,
-      label: "Semana 06",
-      title: "Cultura, Arte & Patrimônio Histórico",
-      topic: "Formação Geral e Sociedade",
-      description: "Manifestações culturais brasileiras, preservação patrimonial e diversidade regional.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q21" },
-        { id_prova: "2024_CCP", id_questao: "q22" },
-        { id_prova: "2024_CCP", id_questao: "q23" },
-        { id_prova: "2024_CCP", id_questao: "q24" },
-      ],
-    },
-    {
-      setNumber: 7,
-      label: "Semana 07",
-      title: "Relações de Trabalho & Economia Moderna",
-      topic: "Formação Geral e Sociedade",
-      description: "Transformações no mundo do trabalho, automação, gig economy e direitos do trabalhador.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q25" },
-        { id_prova: "2024_CCP", id_questao: "q26" },
-        { id_prova: "2024_CCP", id_questao: "q27" },
-        { id_prova: "2024_CCP", id_questao: "q29" },
-      ],
-    },
-    {
-      setNumber: 8,
-      label: "Semana 08",
-      title: "Saúde Pública & Qualidade de Vida",
-      topic: "Formação Geral e Sociedade",
-      description: "Sistema Único de Saúde (SUS), saneamento básico, vacinação e bem-estar coletivo.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2024_CCP", id_questao: "q30" },
-        { id_prova: "2024_CCP", id_questao: "q47" },
-        { id_prova: "2024_CCP", id_questao: "q49" },
-        { id_prova: "2024_CCP", id_questao: "q64" },
-      ],
-    },
-    {
-      setNumber: 9,
-      label: "Semana 09",
-      title: "Comunicação, Mídia & Combate à Desinformação",
-      topic: "Formação Geral e Sociedade",
-      description: "Fake news, checagem de fatos, liberdade de expressão e letramento midiático.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2021_GTI", id_questao: "q01" },
-        { id_prova: "2021_GTI", id_questao: "q02" },
-        { id_prova: "2021_GTI", id_questao: "q03" },
-        { id_prova: "2021_GTI", id_questao: "q04" },
-      ],
-    },
-    {
-      setNumber: 10,
-      label: "Semana 10",
-      title: "Inteligência Artificial, Ética & Futuro",
-      topic: "Formação Geral e Sociedade",
-      description: "Viés algorítmico, ética no uso de IA generativa e impactos no mercado de trabalho.",
-      questionCount: 4,
-      questionIds: [
-        { id_prova: "2021_GTI", id_questao: "q05" },
-        { id_prova: "2021_GTI", id_questao: "q06" },
-        { id_prova: "2021_GTI", id_questao: "q07" },
-        { id_prova: "2021_GTI", id_questao: "q08" },
-      ],
-    },
-    {
-      setNumber: 11,
-      label: "Semana 11",
-      title: "Cidadania Global & Geopolítica",
-      topic: "Formação Geral e Sociedade",
-      description: "Direito internacional, cooperação humanitária, refugiados e governança global.",
+      description: "Participação social, transparência governamental, fake news e políticas públicas.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_CCP", id_questao: "q01" },
@@ -519,11 +574,11 @@ export const QUESTION_SETS: CourseSets = {
       ],
     },
     {
-      setNumber: 12,
-      label: "Semana 12",
-      title: "Simulado Geral de Formação Geral",
-      topic: "Revisão Geral",
-      description: "Síntese dos temas de atualidades, ética e cidadania mais cobrados no ENADE.",
+      setNumber: 6,
+      label: "Semana 06",
+      title: "Mundo do Trabalho & Novas Relações Profissionais",
+      topic: "Formação Geral e Sociedade",
+      description: "Trabalho remoto, gig economy, automação, saúde mental no trabalho e relações sindicais.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2021_CCP", id_questao: "q05" },
@@ -532,15 +587,127 @@ export const QUESTION_SETS: CourseSets = {
         { id_prova: "2021_CCP", id_questao: "q08" },
       ],
     },
+    {
+      setNumber: 7,
+      label: "Semana 07",
+      title: "Ciência, Tecnologia & Inovação Social",
+      topic: "Formação Geral e Sociedade",
+      description: "Método científico, negacionismo, impacto social de inovações tecnológicas e bioética.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_ADS", id_questao: "q01" },
+        { id_prova: "2017_ADS", id_questao: "q02" },
+        { id_prova: "2017_ADS", id_questao: "q03" },
+        { id_prova: "2017_ADS", id_questao: "q04" },
+      ],
+    },
+    {
+      setNumber: 8,
+      label: "Semana 08",
+      title: "Cultura, Arte & Patrimônio Histórico",
+      topic: "Formação Geral e Sociedade",
+      description: "Diversidade cultural brasileira, patrimônio material/imaterial e linguagens artísticas.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_ADS", id_questao: "q05" },
+        { id_prova: "2017_ADS", id_questao: "q06" },
+        { id_prova: "2017_ADS", id_questao: "q07" },
+        { id_prova: "2017_ADS", id_questao: "q08" },
+      ],
+    },
+    {
+      setNumber: 9,
+      label: "Semana 09",
+      title: "Educação, Letramento & Cidadania Ativa",
+      topic: "Formação Geral e Sociedade",
+      description: "Acesso à educação, letramento digital, pensamento crítico e engajamento comunitário.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_GTI", id_questao: "q01" },
+        { id_prova: "2017_GTI", id_questao: "q02" },
+        { id_prova: "2017_GTI", id_questao: "q03" },
+        { id_prova: "2017_GTI", id_questao: "q04" },
+      ],
+    },
+    {
+      setNumber: 10,
+      label: "Semana 10",
+      title: "Saúde Coletiva & Bem-Estar Social",
+      topic: "Formação Geral e Sociedade",
+      description: "SUS, saúde pública, saneamento básico, prevenção e qualidade de vida.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_GTI", id_questao: "q05" },
+        { id_prova: "2017_GTI", id_questao: "q06" },
+        { id_prova: "2017_GTI", id_questao: "q07" },
+        { id_prova: "2017_GTI", id_questao: "q08" },
+      ],
+    },
+    {
+      setNumber: 11,
+      label: "Semana 11",
+      title: "Globalização, Geopolítica & Direitos dos Povos",
+      topic: "Formação Geral e Sociedade",
+      description: "Fluxos migratórios, acordos internacionais, soberania e povos originários.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_CCP", id_questao: "q01" },
+        { id_prova: "2017_CCP", id_questao: "q02" },
+        { id_prova: "2017_CCP", id_questao: "q03" },
+        { id_prova: "2017_CCP", id_questao: "q04" },
+      ],
+    },
+    {
+      setNumber: 12,
+      label: "Semana 12",
+      title: "Simulado Geral de Revisão Formação Geral",
+      topic: "Revisão Geral",
+      description: "Questões selecionadas das provas oficiais cobrando interpretação de textos e gráficos.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_CCP", id_questao: "q05" },
+        { id_prova: "2017_CCP", id_questao: "q06" },
+        { id_prova: "2017_CCP", id_questao: "q07" },
+        { id_prova: "2017_CCP", id_questao: "q08" },
+      ],
+    },
+    {
+      setNumber: 13,
+      label: "Semana 13",
+      title: "Simulado Reta Final · Impacto Social da Tecnologia & Sustentabilidade",
+      topic: "Formação Geral e Sociedade",
+      description: "Transformação digital, privacidade de dados, inclusão e consumo sustentável.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2017_ADS", id_questao: "q07" },
+        { id_prova: "2017_ADS", id_questao: "q08" },
+        { id_prova: "2014_ADS", id_questao: "q01" },
+        { id_prova: "2014_ADS", id_questao: "q02" },
+      ],
+    },
+    {
+      setNumber: 14,
+      label: "Semana 14",
+      title: "Semana da Prova · Interpretação de Textos & Atualidades",
+      topic: "Formação Geral e Sociedade",
+      description: "Interpretação crítica de gráficos, infográficos e textos motivadores da prova de Formação Geral.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2014_ADS", id_questao: "q03" },
+        { id_prova: "2014_ADS", id_questao: "q04" },
+        { id_prova: "2014_ADS", id_questao: "q05" },
+        { id_prova: "2014_ADS", id_questao: "q06" },
+      ],
+    },
   ],
 
   CCP: [
     {
       setNumber: 1,
       label: "Semana 01",
-      title: "Algoritmos & Complexidade Assintótica",
+      title: "Algoritmos, Complexidade & Notação Big-O",
       topic: "Algoritmos e Estruturas de Dados",
-      description: "Notação Big-O, complexidade de tempo e espaço, recursão e análise de algoritmos.",
+      description: "Análise assintótica de tempo e espaço, relações de recorrência e complexidade de laços.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q09" },
@@ -552,9 +719,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 2,
       label: "Semana 02",
-      title: "Árvores Binárias & Estruturas Balanceadas",
+      title: "Árvores Binárias, AVL & Árvores B",
       topic: "Algoritmos e Estruturas de Dados",
-      description: "Árvores binárias de busca, árvores AVL, Rubro-Negras e percursos (in-ordem, pré-ordem).",
+      description: "Árvores binárias de busca (BST), balanceamento AVL, percursos (in/pre/pos) e árvores B.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q13" },
@@ -566,9 +733,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 3,
       label: "Semana 03",
-      title: "Banco de Dados & Álgebra Relacional",
-      topic: "Banco de Dados",
-      description: "Operações relacionais (projeção, seleção, junção), SQL avançado e normalização.",
+      title: "Grafos, BFS, DFS & Caminho Mínimo",
+      topic: "Algoritmos e Estruturas de Dados",
+      description: "Representação de grafos, busca em largura (BFS), profundidade (DFS) e algoritmo de Dijkstra.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q17" },
@@ -580,9 +747,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 4,
       label: "Semana 04",
-      title: "Sistemas Operacionais & Concorrência",
+      title: "Sistemas Operacionais & Gerenciamento de Processos",
       topic: "Sistemas Operacionais e Arquitetura",
-      description: "Processos, threads, semáforos, monitores, exclusão mútua e prevenção de deadlocks.",
+      description: "Escalonamento de CPU, threads, sincronização (semáforos/mutex) e prevenção de deadlock.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q21" },
@@ -594,9 +761,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 5,
       label: "Semana 05",
-      title: "Grafos & Algoritmos de Caminho Mínimo",
-      topic: "Algoritmos e Estruturas de Dados",
-      description: "Representação de grafos, busca em largura (BFS), profundidade (DFS) e Dijkstra/Prim.",
+      title: "Memória Virtual & Sistemas de Arquivos",
+      topic: "Sistemas Operacionais e Arquitetura",
+      description: "Paginação, segmentação, algoritmos de substituição de páginas (LRU/FIFO) e I/O.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q25" },
@@ -608,9 +775,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 6,
       label: "Semana 06",
-      title: "Algoritmos de Ordenação & Busca",
-      topic: "Algoritmos e Estruturas de Dados",
-      description: "Quicksort, Mergesort, Heapsort, busca binária e tabelas de dispersão (Hash).",
+      title: "Arquitetura de Computadores & Pipeline",
+      topic: "Sistemas Operacionais e Arquitetura",
+      description: "Pipeline RISC, hazards estruturais/dados/controle, hierarquia de memória cache e paralelismo.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q29" },
@@ -622,9 +789,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 7,
       label: "Semana 07",
-      title: "Arquitetura de Computadores & Hierarquia de Memória",
-      topic: "Sistemas Operacionais e Arquitetura",
-      description: "Pipeline de instruções, memória cache (L1/L2), memória virtual e registradores.",
+      title: "Teoria da Computação, Autômatos & Linguagens Formais",
+      topic: "Teoria da Computação e Compiladores",
+      description: "Autômatos finitos (DFA/NFA), expressões regulares, gramáticas livres de contexto e Máquinas de Turing.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q33" },
@@ -636,9 +803,9 @@ export const QUESTION_SETS: CourseSets = {
     {
       setNumber: 8,
       label: "Semana 08",
-      title: "Teoria da Computação & Autômatos Finitos",
-      topic: "Teoria da Computação e Compiladores",
-      description: "Linguagens regulares, autômatos finitos determinísticos (AFD), AFND e gramáticas.",
+      title: "Banco de Dados, Álgebra Relacional & Transações ACID",
+      topic: "Banco de Dados",
+      description: "Álgebra relacional formal, controle de concorrência, isolamento, serializabilidade e log de recuperação.",
       questionCount: 4,
       questionIds: [
         { id_prova: "2024_CCP", id_questao: "q37" },
@@ -701,6 +868,34 @@ export const QUESTION_SETS: CourseSets = {
         { id_prova: "2024_CCP", id_questao: "q54" },
         { id_prova: "2024_CCP", id_questao: "q55" },
         { id_prova: "2024_CCP", id_questao: "q56" },
+      ],
+    },
+    {
+      setNumber: 13,
+      label: "Semana 13",
+      title: "Simulado Reta Final · Otimização de Algoritmos & Concorrência",
+      topic: "Algoritmos e Estruturas de Dados",
+      description: "Programação concorrente, threads, sincronização, semáforos e otimização de complexidade assintótica.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2021_CCP", id_questao: "q29" },
+        { id_prova: "2021_CCP", id_questao: "q30" },
+        { id_prova: "2021_CCP", id_questao: "q31" },
+        { id_prova: "2021_CCP", id_questao: "q32" },
+      ],
+    },
+    {
+      setNumber: 14,
+      label: "Semana 14",
+      title: "Semana da Prova · Revisão Integrada Ciência da Computação",
+      topic: "Revisão Geral e Dicas Finais",
+      description: "Questões de alto nível combinando teoria da computação, arquitetura e engenharia de software.",
+      questionCount: 4,
+      questionIds: [
+        { id_prova: "2021_CCP", id_questao: "q33" },
+        { id_prova: "2021_CCP", id_questao: "q34" },
+        { id_prova: "2021_CCP", id_questao: "q35" },
+        { id_prova: "2017_CCP", id_questao: "q09" },
       ],
     },
   ],

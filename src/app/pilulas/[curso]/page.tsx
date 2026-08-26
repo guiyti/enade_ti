@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { getLoadedQuestionSet } from "@/lib/weeklyChallenges";
+import { getCurrentEnadeWeek } from "@/lib/weeklySchedule";
 import { StudentQuestionViewer } from "@/components/StudentQuestionViewer";
 
 export const dynamic = "force-static";
@@ -27,7 +28,10 @@ export default async function PilulaCursoPage({ params }: PageProps) {
   }
 
   const cleanCourse = curso === "FG" || curso.includes("FORMA") ? "FG" : curso;
-  const setData = await getLoadedQuestionSet(cleanCourse, 1);
+  
+  // Identifica automaticamente a semana vigente do calendário da prova
+  const { weekNumber } = getCurrentEnadeWeek();
+  const setData = await getLoadedQuestionSet(cleanCourse, weekNumber);
 
   return (
     <StudentQuestionViewer
