@@ -5,17 +5,46 @@
   "paginas": [
     10
   ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 447.3507080078125,
+      "x1": 287.28,
+      "y1": 728.2,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2011_ADS/q13.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q13.txt",
   "largura": 1123,
-  "altura": 1163,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1200,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 13  \nA linguagem gráfica EPC/ARIS é utilizada para modelar \nprocessos de negócios. Para isso, utiliza diversos recursos \npara descrever, representar ou indicar, por exemplo, \natividades, funções, processos e fluxos. Nesse contexto, \navalie as afirmações a seguir.\nI. \nA ligação entre dois processos é indicada por um \nconector.\nII. A descrição de um processo deve iniciar e terminar \nem um evento.\nIII. As funções, ou atividades, são representadas por \num retângulo com bordas arredondadas.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   III.\nD   I e II.\nE   II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 13,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 34.143218994140625,
+      "y": 459.3507080078125,
+      "x1": 103.25320434570312,
+      "y1": 473.2107238769531,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 13"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n10\nQUNSTÃO 12  \nAnalise as seguintes afirmações sobre a UML (Linguagem \nTe MoTelagem UnificaTa).\nC. \nA UML é uma metoTologia para o Tesenvolvimento \nTe software orientaTo a objetos, uma vez que \nfornece um conjunto Te representações gráficas \ne sua semântica para a moTelagem Te software.\nCC. O Tiagrama Te casos Te uso procura, por \nmeio Te uma linguagem simples, Temonstrar \no comportamento externo To sistema. Nsse \nTiagrama apresenta o sistema sob a perspectiva \nTo usuário, e é Tentre toTos Ta UML, o mais \nabstrato, flexível e informal.\nCCC. Um relacionamento Te extensão Te um caso Te \nuso “A” para um caso Te uso “B” significa que \ntoTa vez que “A” for executaTo ele incorporará o \ncomportamento TefiniTo em “B”.\nCV. Os Tiagramas Te comportamento Ta UML \nTemonstram \ncomo \nocorrem \nas \ntrocas \nTe \nmensagens entre os objetos To sistema para se \natingir um TeterminaTo objetivo. \nÉ correto apenas o que se afirma em\nA   C e CC.\nB   CC e CV.\nC   CCC e CV.\nM   C, CC e CCC.\nN   CC, CCC e CV.\nQUNSTÃO 13  \nA linguagem gráfica NPC/ARCS é utilizaTa para moTelar \nprocessos Te negócios. Para isso, utiliza Tiversos recursos \npara Tescrever, representar ou inTicar, por exemplo, \nativiTaTes, funções, processos e fluxos. Nesse contexto, \navalie as afirmações a seguir.\nC. \nA ligação entre Tois processos é inTicaTa por um \nconector.\nCC. A Tescrição Te um processo Teve iniciar e terminar \nem um evento.\nCCC. As funções, ou ativiTaTes, são representaTas por \num retângulo com borTas arreTonTaTas.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   CCC.\nM   C e CC.\nN   CC e CCC.\nQUNSTÃO 14  \nO Tiagrama Te ativiTaTes é um Tos Tiagramas Tisponíveis \nna UML (Linguagem Te MoTelagem UnificaTa) para a \nmoTelagem Te aspectos Tinâmicos Te sistemas.\nAtiviTaTe 01\nAtiviTaTe 02\nAtiviTaTe 03\nAtiviTaTe 04\nAtiviTaTe 05\n[não]\n[sim]\nCom relação ao Tiagrama Te ativiTaTes apresentaTo, \navalie as afirmações a seguir.\nC. \nA ativiTaTe 05 será executaTa se a ativiTaTe 03 ou \na ativiTaTe 04 for concluíTa.\nCC. A ramificação sequencial existente após a \nativiTaTe 02 significa que, caso o fluxo seja [não], \né necessário que sejam executaTas novamente as \nativiTaTes 01 e 02.\nCCC. As ativiTaTes 03 e 04 vão ter início ao mesmo \ntempo, entretanto, não significa que terminarão ao \nmesmo tempo.\nCV. Caso o fluxo Ta ramificação sequencial existente \napós a ativiTaTe 02 tenUa o fluxo [sim], a ativiTaTe \n02 não será mais executaTa.\nÉ correto apenas o que afirma em\nA   C e CC.\nB   CC e CCC.\nC   CCC e CV.\nM   C, CC e CV.\nN   C, CCC e CV.\n*A25201110*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_ADS/q13.png",
-  "caminho_json": "/questoes/2011_ADS/q13.json",
-  "caminho_txt": "/questoes/2011_ADS/q13.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222645"
 }

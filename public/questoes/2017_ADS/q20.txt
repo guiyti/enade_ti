@@ -1,137 +1,157 @@
-24
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 20
-O quaTro a seguir apresenta um exemplo Te Tocumentação Te caso Te uso Nncerrar Conta para um 
-Sistema Te Controle BancArio.
-Nncerrar Conta
+QUESTÃO 20
+K quadro a seguir apresenta um exemplo de docu
+^istema de Iontrole BancArio.
+Encerra
  tor principal
-Cliente
- tores secunTArios
-&uncionArio
+Iliente
+ tores secundArios
+&uncio
 Zesumo
-Nste caso Te uso Tescreve as etapas necessArias para que 
-um cliente encerre uma conta.
-Pré-conTições
- necessArio existir uma conta ativa.
-Pos-conTições
- NenUuma
-&luxo principal
- ções To ator
- ções To sistema
-1.  Solicitar encerramento Te conta 
-fornecenTo o  seu numero.
-2.  Nxecutar caso Te uso Nmitir SalTo.
-3.  Nncerrar a conta.
-Zestriçõesͬ valiTações
-1.    conta so poTe ser encerraTa pelo seu titular.
-2.    conta so poTe ser encerraTa se o seu salTo estiver 
-zeraTo.
-&luxo alternativo / ʹ salTo positivo
- ções To ator
- ções To sistema
-1.  Nxecutar caso Te uso Zealizar Saque.
-&luxo alternativo // ʹ salTo negativo
- ções To ator
- ções To sistema
-1.  &ornecer valor para Teposito.
-2.  Nxecutar caso Te uso Zealizar Meposito.
-&luxo alternativo /// ʹ manutenção To CaTastro To Cliente
- ções To ator
- ções To sistema
-1.  Se for a unica conta To cliente,  atualizar seu caTastro,  
-tornanTo-o inativo.  Nxecutar o caso Te uso Manter Cliente.
-*R41201724*
+Este ca
+um clie
+Wré-condições
+ neces
+Wos-condições
+ Eenhu
+&luxo p
+ ções do ator
+ ções d
+1.  ^olicitar encerramento de conta 
+fornecendo o  seu numero.
+2.  Exec
+3.  Ence
+Zestriçõesͬ validações
+1.    co
+2.    co
+zerado
+&luxo alternativo
+ ções do ator
+ ções d
+1.  Exec
+&luxo alternativo 
+ ções do ator
+ ções d
+1.  &ornecer valor para deposito.
+2.  Exec
+&luxo alternativo /// ʹ manut
+ ções do ator
+ ções 
+1.  ^e fo
+tornan
 
-25
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base no quaTro apresentaTo,  assinale a opção na qual o Tiagrama corresponTe a Tocumentação 
-Tescrita para o caso Te uso Nncerrar Conta usanTo associação Te extensão com restrição e ponto 
-Te extensão.
+mentação de caso de uso Encerrar Ionta para um 
+r Ionta
+Ario
+o de uso descreve as etapas necessArias para que 
+nte encerre uma conta.
+sArio existir uma conta ativa.
+ma
+rincipal
+o sistema
+utar caso de uso Emitir ^aldo.
+rrar a conta.
+ta so pode ser encerrada pelo seu titular.
+nta so pode ser encerrada se o seu saldo estiver 
+/ ʹ saldo positivo
+o sistema
+utar caso de uso Zealizar ^aque.
+/ ʹ saldo negativo
+o sistema
+utar caso de uso Zealizar Deposito.
+nção do Iadastro do Iliente
+o sistema
+r a unica conta do cliente,  atualizar seu cadastro,  
+o-o inativo.  Executar o caso de uso Danter Iliente.
+
+Iom base no quadro apresentado,  assinale a opçã
+descrita para o caso de uso Encerrar Ionta usan
+de extensão.
 A
 Funcionário
 Cliente
-Nmitir SalTo
-ффincluTeхх
-΂Se o salTo
+Emitir ^aldo
+ффincludeхх
+΂^e o saldo
 for negativo΃
 Zealizar saque
-΂Se o salTo
+΂^e o saldo
 for positivo΃
-Zealizar Teposito
-Manter Cliente
-ффextenTхх
-ффextenTхх
-ффextenTхх
-Nncerrar Conta
+Zealizar deposito
+Danter Iliente
+ффextendхх
+ффextendхх
+ффextendхх
+Encerrar Conta
 extension points
-SalTo negativo
-SalTo positivo
-M
-Funcionário
-Cliente
-Nmitir SalTo
-ффincluTeхх
-΂salTo΃
-Zealizar saque
-΂SalTo΃
-Zealizar Teposito
-Manter Cliente
-ффextenTхх
-ффextenTхх
-ффextenTхх
-Nncerrar Conta
-extension points
-SalTo negativo
-SalTo positivo
+^aldo negativo
+^aldo positivo
 B
 Funcionário
 Cliente
-Nncerrar Conta
+Encerrar Conta
 extension points
-Nmitir SalTo
-ффincluTeхх
-΂Se o salTo
+Emitir ^aldo
+ффincludeхх
+΂^e o saldo
 for negativo΃
 Zealizar saque
-΂Se o salTo
+΂^e o saldo
 for positivo΃
-Zealizar Teposito
-Manter Cliente
-ффextenTхх
-ффextenTхх
-ффextenTхх
-N
-Funcionário
-Cliente
-Nncerrar Conta
-extension points
-SalTo negativo
-SalTo positivo
-Nmitir SalTo
-<<incluTe>>
-{Se o salTo
-for positivo΃
-Realizar saque
-{Se o salTo
-for negativo΃
-Realizar Tepósito
-Manter Cliente
-<<extenT>>
-<<extenT>><<extenT>>
+Zealizar deposito
+Danter Iliente
+ффextendхх
+ффextendхх
+ффextendхх
 C
 Funcionário
 Cliente
-Nncerrar Conta
+Encerrar Conta
 extension points
-Nmitir SalTo
-ффincluTeхх
-΂salTo΃
+Emitir ^aldo
+ффincludeхх
+΂saldo΃
 Zealizar saque
-΂SalTo΃
-Zealizar Teposito
+΂^aldo΃
+Zealizar deposito
+Danter Iliente
+ффextendхх
+ффextendхх
+ффextendхх
+
+na qual o diagrama corresponde a documentação 
+do associação de extensão com restrição e ponto 
+D
+Funcionário
+Cliente
+Emitir ^aldo
+ффincludeхх
+΂saldo΃
+Zealizar saque
+΂^aldo΃
+Zealizar deposito
+Danter Iliente
+ффextendхх
+ффextendхх
+ффextendхх
+Encerrar Conta
+extension points
+^aldo negativo
+^aldo positivo
+E
+Funcionário
+Cliente
+Encerrar Conta
+extension points
+^aldo negativo
+^aldo positivo
+Emitir ^aldo
+<<include>>
+{Se o saldo
+for positivo΃
+Realizar saque
+{Se o saldo
+for negativo΃
+Realizar depósito
 Manter Cliente
-ффextenTхх
-ффextenTхх
-ффextenTхх
-Area livre
-*R41201725*
+<<extend>>
+<<extend>><<extend>>

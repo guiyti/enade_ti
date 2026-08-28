@@ -1,40 +1,36 @@
-21
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 25
-Uma  gramAtica  livre  To  contexto  ('>C)  é  um  moTelo  computacional  geralmente  utilizaTo  para  Tefnir 
-linguagens Te programação e,  quanTo estA Te acorTo com a &orma Te BacŬus-Naur (BN&),  permite que 
-alguns operaTores seũam utilizaTos no laTo Tireito Te suas proTuções,  como o operaTor ͮ  (pipe) que inTica 
-seleção,  o operaTor ΀ ΁ que inTica que o operanTo em questão é opcional,  e o operaTor Ύ que inTica repetição 
-Te 0 ou mais vezes.
-Proũetar um compilaTor para uma TeterminaTa linguagem envolve,  entre outras coisas,  especifcar quais são 
-os símbolos vAliTos nesta linguagem,  bem como quais são as regras sintAticas que a Tefnem.
-  linguagem Te programação :ava é uma linguagem com suporte a orientação a obũetos que não permite 
-Uerança multipla e que permite que uma classe implemente multiplas interfaces.    seguir,  exibem-se trecUos 
-Te coTigo sintaticamente vAliTos  na linguagem :ava.
-TrecUo 1:
-class A extenTs B { }
-TrecUo 2:
+QUESTÃO 25
+hma  gramAtica  livre  do  contexto  ('>I)  é  um  modelo  computacional  geralmente  utilizado  para  defnir 
+linguagens de programação e,  quando estA de acordo com a &orma de BacŬus-Eaur (BE&),  permite que 
+alguns operadores seũam utilizados no lado direito de suas produções,  como o operador ͮ  (pipe) que indica 
+seleção,  o operador ΀ ΁ que indica que o operando em questão é opcional,  e o operador Ύ que indica repetição 
+de 0 ou mais vezes.
+Wroũetar um compilador para uma determinada linguagem envolve,  entre outras coisas,  especifcar quais são 
+os símbolos vAlidos nesta linguagem,  bem como quais são as regras sintAticas que a defnem.
+  linguagem de programação :ava é uma linguagem com suporte a orientação a obũetos que não permite 
+herança multipla e que permite que uma classe implemente multiplas interfaces.    seguir,  exibem-se trechos 
+de codigo sintaticamente vAlidos  na linguagem :ava.
+drecho 1:
+class A extends B { }
+drecho 2:
 class F implements C { }
-TrecUo 3:
-class J extenTs A implements C, M { }
-No trecUo 1,  cria-se uma classe cUamaTa   que UerTa Te uma classe cUamaTa B.  No trecUo 2,  cria-se uma 
-classe cUamaTa & que implementa uma interface cUamaTa C.  No trecUo 3,  cria-se uma classe cUamaTa : que 
-UerTa Te uma classe cUamaTa   e implementa Tuas interfaces,  cUamaTas C e M.
-ConsiTere que:
-ͻ  фclassTeclх é um não terminal cuũo intuito é Tar origem a Teclarações Te classes͖
-ͻ  фclassboTǇх é um não terminal cuũo intuito é Tar origem ao corpo Te classes͖
-ͻ  os terminais aparecem entre aspas Tuplas͖
+drecho 3:
+class J extends A implements C, D { }
+Eo trecho 1,  cria-se uma classe chamada   que herda de uma classe chamada B.  Eo trecho 2,  cria-se uma 
+classe chamada & que implementa uma interface chamada I.  Eo trecho 3,  cria-se uma classe chamada : que 
+herda de uma classe chamada   e implementa duas interfaces,  chamadas I e D.
+Ionsidere que:
+ͻ  фclassdeclх é um não terminal cuũo intuito é dar origem a declarações de classes͖
+ͻ  фclassbodǇх é um não terminal cuũo intuito é dar origem ao corpo de classes͖
+ͻ  os terminais aparecem entre aspas duplas͖
 ͻ "
-iT"  é um símbolo que representa qualquer iTentifcaTor vAliTo,  como nomes Te classes ou variAveis.
-  gramAtica que especifca uma linguagem que não permita Uerança multipla e que implemente zero ou mais 
+id"  é um símbolo que representa qualquer identifcador vAlido,  como nomes de classes ou variAveis.
+  gramAtica que especifca uma linguagem que não permita herança multipla e que implemente zero ou mais 
 interfaces é
-A фclassTeclх " class"  " iT"  ΀ " extenTs "  ΁ " iT"  фclassboTǇх
-B фclassTeclх  " class"  " iT"   (" extenTs "   " iT" )Ύ  фclassboTǇх
-C фclassTeclх   " class"  " iT"  ΀ " extenTs "  ΁ " iT"  ΀" implements"   ( ,  ͮ"
-iT" )Ύ΁  фclassboTǇх
-M фclassTeclх " class"  " iT"  ΀ " extenTs "  " iT" ΁ ΀" implements"   " iT"  (","
- " iT" )Ύ΁ фclassboTǇх
-N фclassTeclх " class"  " iT"   ΀" extenTs "  " iT" ΁ " implements"   " iT"  (","
- " iT" )Ύ фclassboTǇх
-ÁRNA LCVRN
-*R03201421*
+A фclassdeclх " class"  " id"  ΀ " extends "  ΁ " id"  фclassbodǇх
+B фclassdeclх  " class"  " id"   (" extends "   " id" )Ύ  фclassbodǇх
+C фclassdeclх   " class"  " id"  ΀ " extends "  ΁ " id"  ΀" implements"   ( ,  ͮ"
+id" )Ύ΁  фclassbodǇх
+D фclassdeclх " class"  " id"  ΀ " extends "  " id" ΁ ΀" implements"   " id"  (","
+ " id" )Ύ΁ фclassbodǇх
+E фclassdeclх " class"  " id"   ΀" extends "  " id" ΁ " implements"   " id"  (","
+ " id" )Ύ фclassbodǇх

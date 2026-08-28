@@ -5,17 +5,46 @@
   "paginas": [
     17
   ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 665.2111206054688,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q11.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2482,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 11\nEas  organizações,   as  redes  de  computadores \ne  os  equipamentos  são  soluções  tecnologicas \nplaneũadas  e  construídas  com  base  em  padrões.  \nhm dos padrões responsAveis pela comunicação e o \nendereçamento em redes é o dIWͬ /W (Transmission \nControl Protocol/Internet Protocol),   que  permite \na  comunicação  entre  diferentes  computadores,  \nsistemas  operacionais  e  aplicativos  que  aceitam \nesse protocolo.  \n ^Kh^ ,  >.  B.  Wroũetos e implementação de redes:  &undamentos,  \n^oluções,   rquitetura e Wlaneũamento.\n^ão Waulo:  Erica,  2013 (adaptado).\nIom base no protocolo de comunicação de dados \nem rede dIWͬ /W, mencionado no texto acima, avalie \nas afrmações a seguir.\n/.   Ks programas que controlam a comunicação \ndos dados entre equipamentos e aplicativos \nem  redes  são  chamados  de  protocolos  de \narmazenamento de dados.\n//.   Dois  sistemas  operacionais  com  plataforma \nde hardǁare distintas comunicam-se entre si \npor meio de um protocolo comum,  o dIWͬ /W.\n///.   K nome dIWͬ /W se refere a dois protocolos:  \no dIW, protocolo responsAvel pelo controle e \nqualidade da comunicação entre a origem e \no destino fnal,  e o /W, protocolo responsAvel \npelo endereçamento nas redes.\n \u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Sistemas Operacionais"
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 11"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "17\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 11\nNas  organizações,   as  reTes  Te  computaTores \ne  os  equipamentos  são  soluções  tecnologicas \nplaneũaTas  e  construíTas  com  base  em  paTrões.  \nUm Tos paTrões responsAveis pela comunicação e o \nenTereçamento em reTes é o TCPͬ /P (Transmission \nControl Protocol/Cnternet Protocol),   que  permite \na  comunicação  entre  Tiferentes  computaTores,  \nsistemas  operacionais  e  aplicativos  que  aceitam \nesse protocolo.  \n SOUS ,  >.  B.  Proũetos e implementação Te reTes:  &unTamentos,  \nSoluções,   rquitetura e Planeũamento.\nSão Paulo:  Nrica,  2013 (aTaptaTo).\nCom base no protocolo Te comunicação Te TaTos \nem reTe TCPͬ /P, mencionaTo no texto acima, avalie \nas afrmações a seguir.\n/.   Os programas que controlam a comunicação \nTos TaTos entre equipamentos e aplicativos \nem  reTes  são  cUamaTos  Te  protocolos  Te \narmazenamento Te TaTos.\n//.   Mois  sistemas  operacionais  com  plataforma \nTe UarTǁare Tistintas comunicam-se entre si \npor meio Te um protocolo comum,  o TCPͬ /P.\n///.   O nome TCPͬ /P se refere a Tois protocolos:  \no TCP, protocolo responsAvel pelo controle e \nqualiTaTe Ta comunicação entre a origem e \no Testino fnal,  e o /P, protocolo responsAvel \npelo enTereçamento nas reTes.\n \u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\nQUNSTÃO 12\nO  paTrão  internacional  /SOͬ /NC  17799: 2005,  \nTefne prAticas para a anAlise e elaboração Te um \nproũeto para a gestão Ta segurança Ta informação.  \nOs  conceitos  mais  importantes  consistem  em \nconfabiliTaTe,  \nintegriTaTe,  \nTisponibiliTaTe \ne \nautenticiTaTe,  entenTiTos também como prAticas \nessenciais  para  criar  sistemas  que  evitam  perTa \nTe TaTos e Teixam as informações mais seguras.    \naplicação Tessas prAticas garante a TrAstica reTução \nTos riscos Te uma organização sofrer um ataque.\n>zZ ,  M.  Z.  Segurança e auTitoria em sistemas Te informação.\nSão Paulo:  Cigncia MoTerna,  2009 (aTaptaTo).\nCom base no texto,  avalie as afrmações a seguir.\n/.     confTencialiTaTe é a capaciTaTe Te um \nsistema  permitir  que  usuArios  autorizaTos \nacessem \nTeterminaTas \ninformações \ne \nimpeTir o acesso a elas aos Temais usuArios.\n//.      autenticiTaTe  e  a  integriTaTe  garantem \nque  a  informação  esteũa  correta,   seũa \nverTaTeira e não esteũa corrompiTa.\n///.     TisponibiliTaTe garante que a informação \nesteũa Tisponível para toTos os usuArios que \nprecisarem Tela,  sempre que necessArio.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN /,  // e ///.\nArea livre\n*R43201717*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q11.png",
-  "caminho_json": "/questoes/2017_GTI/q11.json",
-  "caminho_txt": "/questoes/2017_GTI/q11.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697626"
 }

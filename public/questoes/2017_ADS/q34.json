@@ -5,17 +5,46 @@
   "paginas": [
     38
   ],
+  "segmentos": [
+    {
+      "pagina": 38,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 590.5759887695312,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q34.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q34.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2171,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 34 \n:KÃK 'Z/>K:  Ͷ /sso é coisa de seca.   caba nisso,  essa fome:  ninguém pode ter menino e haũa cavalo no \nmundo.    comida é mais barata e é coisa que se pode vender.  Das seu cavalo,  como foi͍\nI,/IM:  Ͷ &oi uma velha que me vendeu barato,  porque ia se mudar,  mas recomendou todo cuidado,  \nporque o cavalo era bento.  E so podia ser mesmo,  porque cavalo bom como aquele eu nunca tinha visto.\n^h ^^hE ,   .   uto da Iompadecida.  Zio de :aneiro:   gir,  2000 (adaptado).\n  seguir apresenta-se um modelo de dados elaborado a partir do diAlogo entre Ihico e :oão 'rilo.\nIom base no diAlogo e no diagrama apresentados,  avalie as afrmações a seguir.\n/.   K Ihico e a velha poderão ser cadastrados na entidade pessoa.\n//.   K Ihico e a velha poderão ter mais que um cavalo cadastrados.\n///.   K atributo rg da entidade pessoa pode ter a função de chave primAria nessa entidade.\n/s.   K cavalo deverA ter no mínimo uma pessoa e uma pessoa poderA ser cadastrada sem a necessidade \nde ter um cavalo.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  / e /s.\nC  // e ///.\nD  /,  // e /s.\nE  //,  /// e /s.\npessoa\ncavalo\npossui\nnome\ncpf\ncodigo\nrg\neBento?\nraca\ncodigo\n(1,1)\n(0,1)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "pagina": 38,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 34"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "38\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 34 \n:OãO 'Z/>O:  Ͷ /sso é coisa Te seca.   caba nisso,  essa fome:  ninguém poTe ter menino e Uaũa cavalo no \nmunTo.    comiTa é mais barata e é coisa que se poTe venTer.  Mas seu cavalo,  como foi͍\nC,/CM:  Ͷ &oi uma velUa que me venTeu barato,  porque ia se muTar,  mas recomenTou toTo cuiTaTo,  \nporque o cavalo era bento.  N so poTia ser mesmo,  porque cavalo bom como aquele eu nunca tinUa visto.\nSU SSUN ,   .   uto Ta CompaTeciTa.  Zio Te :aneiro:   gir,  2000 (aTaptaTo).\n  seguir apresenta-se um moTelo Te TaTos elaboraTo a partir To TiAlogo entre CUico e :oão 'rilo.\nCom base no TiAlogo e no Tiagrama apresentaTos,  avalie as afrmações a seguir.\n/.   O CUico e a velUa poTerão ser caTastraTos na entiTaTe pessoa.\n//.   O CUico e a velUa poTerão ter mais que um cavalo caTastraTos.\n///.   O atributo rg Ta entiTaTe pessoa poTe ter a função Te cUave primAria nessa entiTaTe.\n/s.   O cavalo TeverA ter no mínimo uma pessoa e uma pessoa poTerA ser caTastraTa sem a necessiTaTe \nTe ter um cavalo.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  / e /s.\nC  // e ///.\nM  /,  // e /s.\nN  //,  /// e /s.\nArea livre\npessoa\ncavalo\npossui\nnome\ncpf\ncoTigo\nrg\neBento?\nraca\ncoTigo\n(1,1)\n(0,1)\n*R41201738*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q34.png",
-  "caminho_json": "/questoes/2017_ADS/q34.json",
-  "caminho_txt": "/questoes/2017_ADS/q34.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601135"
 }

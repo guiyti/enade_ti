@@ -5,17 +5,46 @@
   "paginas": [
     2
   ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 404.6910095214844,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/qd01.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/qd01.txt",
   "largura": 2254,
-  "altura": 1404,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1403,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO DISCURSIVA 1\nKs desafios da mobilidade urbana associam-se a necessidade de desenvolvimento urbano sustentAvel.  \n  KEh defne esse desenvolvimento como aquele que assegura qualidade de vida,  incluídos os componentes \necologicos,  culturais,  políticos,  institucionais,  sociais e econƀmicos que não comprometam a qualidade de \nvida das futuras gerações.\nK espaço urbano brasileiro é marcado por inumeros problemas cotidianos e por vArias contradições.  hma das \ngrandes questões em debate diz respeito a mobilidade urbana,  uma vez que o momento é de motorização \ndos deslocamentos da população,  por meio de transporte coletivo e individual.\nIonsidere os dados do seguinte quadro.\nMobilidade urbana em cidade com mais de 500 mil habitantes\nModalidade\nTipologia\nPorcentagem (%)\nEão motorizado\n  pé\n15, 9\nBicicleta \n2, 7\nDotorizado coletivo\nNnibus municipal\n22, 2\nNnibus metropolitano\n4, 5\nDetroferroviArio\n25, 1\nDotorizado individual\n utomovel\n27, 5\nDotocicleta\n2, 1\ndendo  em  vista  o  texto  e  o  quadro  de  mobilidade  urbana  apresentados,   rediũa  um  texto  dissertativo,  \ncontemplando os seguintes aspectos:\na)  consequgncias,  para o desenvolvimento sustentAvel,  do uso mais frequente do transporte motorizado͖  \n(valor:  5, 0 pontos)\nb)  duas ações de intervenção que contribuam para a consolidação de política publica de incremento ao uso \nde bicicleta na cidade mencionada,  assegurando-se o desenvolvimento sustentAvel.  (valor:  5, 0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "DISCURSIVA",
+      "pagina": 2,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 148.57049560546875,
+      "y1": 98.31988525390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO DISCURSIVA 1"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "2\nC/NNC/  M  COMPUT AãO\nFORMAÇÃO GNRAL\nQUNSTÃO MCSCURSCVA 1\nOs Tesafios Ta mobiliTaTe urbana associam-se a necessiTaTe Te Tesenvolvimento urbano sustentAvel.  \n  ONU Tefne esse Tesenvolvimento como aquele que assegura qualiTaTe Te viTa,  incluíTos os componentes \necologicos,  culturais,  políticos,  institucionais,  sociais e econƀmicos que não comprometam a qualiTaTe Te \nviTa Tas futuras gerações.\nO espaço urbano brasileiro é marcaTo por inumeros problemas cotiTianos e por vArias contraTições.  Uma Tas \ngranTes questões em Tebate Tiz respeito a mobiliTaTe urbana,  uma vez que o momento é Te motorização \nTos Teslocamentos Ta população,  por meio Te transporte coletivo e inTiviTual.\nConsiTere os TaTos To seguinte quaTro.\nMobiliTaTe urbana em ciTaTe com mais Te 500 mil Uabitantes\nMoTaliTaTe\nTipologia\nPorcentagem (%)\nNão motorizaTo\n  pé\n15, 9\nBicicleta \n2, 7\nMotorizaTo coletivo\nNnibus municipal\n22, 2\nNnibus metropolitano\n4, 5\nMetroferroviArio\n25, 1\nMotorizaTo inTiviTual\n utomovel\n27, 5\nMotocicleta\n2, 1\nTenTo  em  vista  o  texto  e  o  quaTro  Te  mobiliTaTe  urbana  apresentaTos,   reTiũa  um  texto  Tissertativo,  \ncontemplanTo os seguintes aspectos:\na)  consequgncias,  para o Tesenvolvimento sustentAvel,  To uso mais frequente To transporte motorizaTo͖  \n(valor:  5, 0 pontos)\nb)  Tuas ações Te intervenção que contribuam para a consoliTação Te política publica Te incremento ao uso \nTe bicicleta na ciTaTe mencionaTa,  asseguranTo-se o Tesenvolvimento sustentAvel.  (valor:  5, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R0320142*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/qd01.png",
-  "caminho_json": "/questoes/2014_CCP/qd01.json",
-  "caminho_txt": "/questoes/2014_CCP/qd01.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234221"
 }

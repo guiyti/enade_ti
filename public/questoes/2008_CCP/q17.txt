@@ -1,118 +1,26 @@
-8
-COMPUTAÇÃO
-N
-ToTos os itens estão certos.
-QUNSTÃO 15
-Além To acesso a páginas Utml, a Cnternet tem siTo usaTa
-caTa vez mais para a cópia e troca Te arquivos Te
-músicas, filmes, jogos e programas. Muitos Tesses
-arquivos possuem Tireitos autorais e restrições Te uso.
-ConsiTeranTo o uso Tas reTes ponto-a-ponto para a troca
-Te arquivos Te músicas, filmes, jogos e programas na
-Cnternet, a quem cabe a iTentificação e o cumprimento Tas
-restrições Te uso associaTos a esses arquivos?
-A
-aos programas Te troca Te arquivo
-B
-aos usuários
-C
-ao sistema operacional
-M
-aos proTutores Tos arquivos
-N
-aos equipamentos roteaTores Ta Cnternet
-QUNSTÃO 16
-O gerenciamento Te configuração Te software (GCS) é
-uma ativiTaTe que Teve ser realizaTa para iTentificar,
-controlar, auTitar e relatar as moTificações que ocorrem
-Turante toTo o Tesenvolvimento ou mesmo Turante a fase
-Te manutenção, Tepois que o software for entregue ao
-cliente. O GCS é embasaTo nos cUamaTos itens Te
-configuração, que são proTuziTos como resultaTo Tas
-ativiTaTes Te engenUaria Te software e que ficam
-armazenaTos em um repositório. Com relação ao GCS,
-analise as Tuas asserções apresentaTas a seguir.
-No GCS, o processo Te controle Tas moTificações
-obeTece ao seguinte fluxo: começa com um peTiTo Te
-moTificação Te um item Te configuração, que leva à
-aceitação ou não Tesse peTiTo e termina com a
-atualização controlaTa Tesse item no repositório
-porque 
-o controle Tas moTificações Tos itens Te configuração
-baseia-se nos processos Te cUeck-in e cUeck-out que
-fazem, respectivamente, a inserção Te um item Te
-configuração no repositório e a retiraTa Te itens Te
-configuração To repositório para efeito Te realização Tas
-moTificações.
-Acerca Tessas asserções, assinale a opção correta.
-A
-As Tuas asserções são proposições verTaTeiras, e a
-segunTa é uma justificativa correta Ta primeira.
-B
-As Tuas asserções são proposições verTaTeiras, e a
-segunTa não é uma justificativa correta Ta primeira.
-C
-A primeira asserção é uma proposição verTaTeira, e a
-segunTa é uma proposição falsa.
-M
-A primeira asserção é uma proposição falsa, e a
-segunTa é uma proposição verTaTeira.
-N
-As Tuas asserções são proposições falsas.
-QUNSTÃO 17
-Uma fórmula bem formaTa Ta lógica Te preTicaTos é váliTa
-se ela é verTaTeira para toTas as interpretações possíveis.
-ConsiTeranTo essa informação, analise as Tuas asserções
-apresentaTas a seguir.
-A fórmula bem formaTa (›x) P(x) Y (œx) P(x) é váliTa
+QUESTÃO 17
+Uma fórmula bem formada da lógica de predicados é válida
+se ela é verdadeira para todas as interpretações possíveis.
+Considerando essa informação, analise as duas asserções
+apresentadas a seguir.
+A fórmula bem formada (›x) P(x) Y (œx) P(x) é válida
 porque,
-em qualquer interpretação Te uma fórmula Ta lógica Te
-preTicaTos, se toTo elemento To conjunto universo tem a
-proprieTaTe P, então existe um elemento To conjunto que
-tem essa proprieTaTe.
+em qualquer interpretação de uma fórmula da lógica de
+predicados, se todo elemento do conjunto universo tem a
+propriedade P, então existe um elemento do conjunto que
+tem essa propriedade.
 Assinale a opção correta com relação a essas asserções.
 A
-As Tuas asserções são proposições verTaTeiras, e a
-segunTa é uma justificativa correta Ta primeira.
+As duas asserções são proposições verdadeiras, e a
+segunda é uma justificativa correta da primeira.
 B
-As Tuas asserções são proposições verTaTeiras, e a
-segunTa não é uma justificativa correta Ta primeira.
+As duas asserções são proposições verdadeiras, e a
+segunda não é uma justificativa correta da primeira.
 C
-A primeira asserção é uma proposição verTaTeira, e a
-segunTa é uma proposição falsa.
-M
+A primeira asserção é uma proposição verdadeira, e a
+segunda é uma proposição falsa.
+D
 A primeira asserção é uma proposição falsa, e a
-segunTa é uma proposição verTaTeira.
-N
-As Tuas asserções são proposições falsas.
-QUNSTÃO 18
-Os números Te Fibonacci constituem uma seqüência
-Te números na qual os Tois primeiros elementos são 0 e 1
-e os Temais, a soma Tos Tois elementos imeTiatamente
-anteriores na seqüência. Como exemplo, a seqüência
-formaTa pelos 10 primeiros números Te Fibonacci é: 0, 1,
-1, 2, 3, 5, 8, 13, 21, 34. Mais precisamente, é possível
-Tefinir os números Te Fibonacci pela seguinte relação Te
-recorrência:
-fib (n) = 0, se n = 0
-fib (n) = 1, se n = 1
-fib (n) = fib (n ! 1) + fib (n ! 2), se n > 1
-Abaixo, apresenta-se uma implementação em
-linguagem funcional para essa relação Te recorrência:
-fib :: Cnteger -> Cnteger
-fib 0 = 0
-fib 1 = 1
-fib n = fib (n ! 1) + fib (n ! 2)
-ConsiTeranTo que o programa acima não reutilize
-resultaTos previamente computaTos, quantas cUamaTas
-são feitas à função fib para computar fib 5?
-A
-11
-B
-12
-C
-15
-M
-24
-N
-25
+segunda é uma proposição verdadeira.
+E
+As duas asserções são proposições falsas.

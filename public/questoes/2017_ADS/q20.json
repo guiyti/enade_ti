@@ -6,17 +6,70 @@
     24,
     25
   ],
-  "largura": 2440,
-  "altura": 8699,
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 774.5,
+      "coluna": 1
+    },
+    {
+      "pagina": 24,
+      "x0": 317.15999999999997,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 2
+    },
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 311.15999999999997,
+      "y1": 565.4910888671875,
+      "coluna": 1
+    },
+    {
+      "pagina": 25,
+      "x0": 317.15999999999997,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q20.txt",
+  "largura": 1223,
+  "altura": 10839,
   "confianca": 0.9,
-  "status": "APROVADA",
+  "texto_completo": "QUESTÃO 20\nK quadro a seguir apresenta um exemplo de docu\n^istema de Iontrole BancArio.\nEncerra\n tor principal\nIliente\n tores secundArios\n&uncio\nZesumo\nEste ca\num clie\nWré-condições\n\u001e neces\nWos-condições\n Eenhu\n&luxo p\n ções do ator\n ções d\n1.  ^olicitar encerramento de conta \nfornecendo o  seu numero.\n2.  Exec\n3.  Ence\nZestriçõesͬ validações\n1.    co\n2.    co\nzerado\n&luxo alternativo\n ções do ator\n ções d\n1.  Exec\n&luxo alternativo \n ções do ator\n ções d\n1.  &ornecer valor para deposito.\n2.  Exec\n&luxo alternativo /// ʹ manut\n ções do ator\n ções \n1.  ^e fo\ntornan\n\nmentação de caso de uso Encerrar Ionta para um \nr Ionta\nArio\no de uso descreve as etapas necessArias para que \nnte encerre uma conta.\nsArio existir uma conta ativa.\nma\nrincipal\no sistema\nutar caso de uso Emitir ^aldo.\nrrar a conta.\nta so pode ser encerrada pelo seu titular.\nnta so pode ser encerrada se o seu saldo estiver \n/ ʹ saldo positivo\no sistema\nutar caso de uso Zealizar ^aque.\n/ ʹ saldo negativo\no sistema\nutar caso de uso Zealizar Deposito.\nnção do Iadastro do Iliente\no sistema\nr a unica conta do cliente,  atualizar seu cadastro,  \no-o inativo.  Executar o caso de uso Danter Iliente.\n\nIom base no quadro apresentado,  assinale a opçã\ndescrita para o caso de uso Encerrar Ionta usan\nde extensão.\nA\nFuncionário\nCliente\nEmitir ^aldo\nффincludeхх\n΂^e o saldo\nfor negativo΃\nZealizar saque\n΂^e o saldo\nfor positivo΃\nZealizar deposito\nDanter Iliente\nффextendхх\nффextendхх\nффextendхх\nEncerrar Conta\nextension points\n^aldo negativo\n^aldo positivo\nB\nFuncionário\nCliente\nEncerrar Conta\nextension points\nEmitir ^aldo\nффincludeхх\n΂^e o saldo\nfor negativo΃\nZealizar saque\n΂^e o saldo\nfor positivo΃\nZealizar deposito\nDanter Iliente\nффextendхх\nффextendхх\nффextendхх\nC\nFuncionário\nCliente\nEncerrar Conta\nextension points\nEmitir ^aldo\nффincludeхх\n΂saldo΃\nZealizar saque\n΂^aldo΃\nZealizar deposito\nDanter Iliente\nффextendхх\nффextendхх\nффextendхх\n\nna qual o diagrama corresponde a documentação \ndo associação de extensão com restrição e ponto \nD\nFuncionário\nCliente\nEmitir ^aldo\nффincludeхх\n΂saldo΃\nZealizar saque\n΂^aldo΃\nZealizar deposito\nDanter Iliente\nффextendхх\nффextendхх\nффextendхх\nEncerrar Conta\nextension points\n^aldo negativo\n^aldo positivo\nE\nFuncionário\nCliente\nEncerrar Conta\nextension points\n^aldo negativo\n^aldo positivo\nEmitir ^aldo\n<<include>>\n{Se o saldo\nfor positivo΃\nRealizar saque\n{Se o saldo\nfor negativo΃\nRealizar depósito\nManter Cliente\n<<extend>>\n<<extend>><<extend>>",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "24\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 20\nO quaTro a seguir apresenta um exemplo Te Tocumentação Te caso Te uso Nncerrar Conta para um \nSistema Te Controle BancArio.\nNncerrar Conta\n tor principal\nCliente\n tores secunTArios\n&uncionArio\nZesumo\nNste caso Te uso Tescreve as etapas necessArias para que \num cliente encerre uma conta.\nPré-conTições\n\u001e necessArio existir uma conta ativa.\nPos-conTições\n NenUuma\n&luxo principal\n ções To ator\n ções To sistema\n1.  Solicitar encerramento Te conta \nfornecenTo o  seu numero.\n2.  Nxecutar caso Te uso Nmitir SalTo.\n3.  Nncerrar a conta.\nZestriçõesͬ valiTações\n1.    conta so poTe ser encerraTa pelo seu titular.\n2.    conta so poTe ser encerraTa se o seu salTo estiver \nzeraTo.\n&luxo alternativo / ʹ salTo positivo\n ções To ator\n ções To sistema\n1.  Nxecutar caso Te uso Zealizar Saque.\n&luxo alternativo // ʹ salTo negativo\n ções To ator\n ções To sistema\n1.  &ornecer valor para Teposito.\n2.  Nxecutar caso Te uso Zealizar Meposito.\n&luxo alternativo /// ʹ manutenção To CaTastro To Cliente\n ções To ator\n ções To sistema\n1.  Se for a unica conta To cliente,  atualizar seu caTastro,  \ntornanTo-o inativo.  Nxecutar o caso Te uso Manter Cliente.\n*R41201724*\n\n25\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCom base no quaTro apresentaTo,  assinale a opção na qual o Tiagrama corresponTe a Tocumentação \nTescrita para o caso Te uso Nncerrar Conta usanTo associação Te extensão com restrição e ponto \nTe extensão.\nA\nFuncionário\nCliente\nNmitir SalTo\nффincluTeхх\n΂Se o salTo\nfor negativo΃\nZealizar saque\n΂Se o salTo\nfor positivo΃\nZealizar Teposito\nManter Cliente\nффextenTхх\nффextenTхх\nффextenTхх\nNncerrar Conta\nextension points\nSalTo negativo\nSalTo positivo\nM\nFuncionário\nCliente\nNmitir SalTo\nффincluTeхх\n΂salTo΃\nZealizar saque\n΂SalTo΃\nZealizar Teposito\nManter Cliente\nффextenTхх\nффextenTхх\nффextenTхх\nNncerrar Conta\nextension points\nSalTo negativo\nSalTo positivo\nB\nFuncionário\nCliente\nNncerrar Conta\nextension points\nNmitir SalTo\nффincluTeхх\n΂Se o salTo\nfor negativo΃\nZealizar saque\n΂Se o salTo\nfor positivo΃\nZealizar Teposito\nManter Cliente\nффextenTхх\nффextenTхх\nффextenTхх\nN\nFuncionário\nCliente\nNncerrar Conta\nextension points\nSalTo negativo\nSalTo positivo\nNmitir SalTo\n<<incluTe>>\n{Se o salTo\nfor positivo΃\nRealizar saque\n{Se o salTo\nfor negativo΃\nRealizar Tepósito\nManter Cliente\n<<extenT>>\n<<extenT>><<extenT>>\nC\nFuncionário\nCliente\nNncerrar Conta\nextension points\nNmitir SalTo\nффincluTeхх\n΂salTo΃\nZealizar saque\n΂SalTo΃\nZealizar Teposito\nManter Cliente\nффextenTхх\nффextenTхх\nффextenTхх\nArea livre\n*R41201725*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q20.png",
-  "caminho_json": "/questoes/2017_ADS/q20.json",
-  "caminho_txt": "/questoes/2017_ADS/q20.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601070"
 }

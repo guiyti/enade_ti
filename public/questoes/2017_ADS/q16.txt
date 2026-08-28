@@ -1,32 +1,36 @@
-22
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 16
-O seguinte Tiagrama Te classe representa a moTelagem Te um serviço Te transfergncia Te materiais entre 
-funcionArios Te uma empresa.
-ConsiTeranTo o Tiagrama Te classe apresentaTo,  avalie as afrmações a seguir.
+QUESTÃO 16
+K seguinte diagrama de classe representa a modelag
+funcionArios de uma empresa.
+Ionsiderando o diagrama de classe apresentado,  av
 /.     classe &uncionario é abstrata.
-//.   Uma ZequisicaoTransferencia so existe se estiver vinculaTa a um Material.
-///.     classe &uncionario,  em razão Te sua associação,  possui um atributo To tipo ZequisicaoTransferencia.
-/s.   Nm uma implementação Ta classe ZequisicaoTransferencia,  é necessArio aTicionar um atributo 
-simples To tipo Material.
+//.   hma Zequisicaodransferencia so existe se esti
+///.     classe &uncionario,  em razão de sua associaç
+/s.   Em uma implementação da classe Zequisica
+simples do tipo Daterial.
  correto o que se afrma em
 A  //,  apenas.
 B  / e //,  apenas.
 C  /// e /s,  apenas.
-M  /,  /// e /s,  apenas.
-N  /,  //,  /// e /s.
-Area livre
+D  /,  /// e /s,  apenas.
+E  /,  //,  /// e /s.
 Funcionario
 - nome: string
-RequisicaoTransferencia
-- TataRequisicao: Tate
-Material
-- Tescricao: string
-- preco: Touble
-- Testino
+RequisicaoTran
+- dataRequisicao
+- destino
 - origem
+1
+
+em de um serviço de transfergncia de materiais entre 
+lie as afrmações a seguir.
+ver vinculada a um Daterial.
+o,  possui um atributo do tipo Zequisicaodransferencia.
+odransferencia,  é necessArio adicionar um atributo 
+sferencia
+date
+Material
+- descricao: string
+- preco: double
 - material
-*R41201722*
 0..1
 1..*
-1

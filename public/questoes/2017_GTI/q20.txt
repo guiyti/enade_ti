@@ -1,21 +1,17 @@
-24
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 20
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. proũectcartoon. comх.   cesso em:  05 ũul.  2017 (aTaptaTo).
-Conforme  ilustraTo  na  fgura  apresentaTa,   se  os  requisitos  não  forem  levantaTos  e  TocumentaTos 
-aTequaTamente,   o  proũeto  não  terA  sucesso.      inclusão  Te  boas  prAticas  na  execução  Tas  fases  Ta 
-engenUaria Te requisitos (elicitação,  anAlise e negociação,  Tocumentação,  valiTação e gerenciamento) 
-poTe  contribuir  signifcativamente  para  a  obtenção  Te  um  soŌǁare  que  atenTa  as  expectativas  e 
-necessiTaTes To cliente.
-SOMMNZs/>>N,  /.   .  N., Z NSOM,  :.  An Nmpirical StuTy of CnTustrial Requirements Nngineering Process Assessment anT Cmprovement.
-:ournal  CM Transactions on SoŌǁare Nngineering anT MetUoTologǇ,  14(1),  pg.  85ʹ117,  2005 (aTaptaTo).
-Nesse contexto,  as ativiTaTes referentes a fase Te anAlise e negociação Te requisitos são:
+QUESTÃO 20
+Disponível em:  фhtp:ͬͬ
+ǁǁǁ. proũectcartoon. comх.   cesso em:  05 ũul.  2017 (adaptado).
+Ionforme  ilustrado  na  fgura  apresentada,   se  os  requisitos  não  forem  levantados  e  documentados 
+adequadamente,   o  proũeto  não  terA  sucesso.      inclusão  de  boas  prAticas  na  execução  das  fases  da 
+engenharia de requisitos (elicitação,  anAlise e negociação,  documentação,  validação e gerenciamento) 
+pode  contribuir  signifcativamente  para  a  obtenção  de  um  soŌǁare  que  atenda  as  expectativas  e 
+necessidades do cliente.
+^KDDEZs/>>E,  /.   .  E., Z E^KD,  :.  An Empirical Study of Industrial Requirements Engineering Process Assessment and Improvement.
+:ournal  ID dransactions on ^oŌǁare Engineering and DethodologǇ,  14(1),  pg.  85ʹ117,  2005 (adaptado).
+Eesse contexto,  as atividades referentes a fase de anAlise e negociação de requisitos são:
 A  priorizar requisitos͖  classifcar requisitos͖  planeũar conŇitos e resolvg-los.
-B criar um sumArio Te requisitos͖  Tefnir termos especializaTos͖  rastrear requisitos.
-C registrar fonte Te requisitos͖  procurar Tomínios Te restrição͖  moTelar casos Te uso.
-M rastrear requisitos͖  Tefnir políticas Te muTança Te requisitos͖  introTuzir ferramentas Te apoio.
-N  escrever  um  manual  Te  usuArio͖   organizar  inspeções  Te  requisitos͖   Tesenvolver  caso  Te  teste 
+B criar um sumArio de requisitos͖  defnir termos especializados͖  rastrear requisitos.
+C registrar fonte de requisitos͖  procurar domínios de restrição͖  modelar casos de uso.
+D rastrear requisitos͖  defnir políticas de mudança de requisitos͖  introduzir ferramentas de apoio.
+E  escrever  um  manual  de  usuArio͖   organizar  inspeções  de  requisitos͖   desenvolver  caso  de  teste 
 preliminar.
-Area livre
-*R43201724*

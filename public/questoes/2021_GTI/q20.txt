@@ -1,15 +1,13 @@
-28
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 20	
-Nos algoritmos, os operaTores são utilizaTos para realizar comparações, cálculos, entre outros, conforme 
-exemplificaTo a seguir.
-•	OperaTores aritméticos: ( *, /, %, +, - );
-•	OperaTores relacionais: ( <, <=, >, >=, =, <> );
-•	OperaTores lógicos: ( nao, e, ou ).
-ConsiTere o pseuTocóTigo a seguir cuja função é calcular e apresentar um bônus salarial Te 10% apenas 
+QUESTÃO 20	
+Nos algoritmos, os operadores são utilizados para realizar comparações, cálculos, entre outros, conforme 
+exemplificado a seguir.
+•	Operadores aritméticos: ( *, /, %, +, - );
+•	Operadores relacionais: ( <, <=, >, >=, =, <> );
+•	Operadores lógicos: ( nao, e, ou ).
+Considere o pseudocódigo a seguir cuja função é calcular e apresentar um bônus salarial de 10% apenas 
 aos funcionários que recebem salários entre R$1.045,00 a R$1.544,00, inclusive. Para os salários que 
-não estão neste critério Teve ser apresentaTa apenas uma mensagem que o salário não está nos 
-critérios Te bônus.
+não estão neste critério deve ser apresentada apenas uma mensagem que o salário não está nos 
+critérios de bônus.
 01: algoritmo “bonus_salarial_1”
 02: var
 03:    salario, bonus : real
@@ -19,15 +17,13 @@ critérios Te bônus.
 07:           bonus := (salario * 10)/100
 08:           escreva(“Bônus =”, bonus)
 09:        senao
-10:           escreva(“O salário não está nos critérios Te bônus!”)
+10:           escreva(“O salário não está nos critérios de bônus!”)
 11:        fimse
 12: fimalgoritmo
-Com base nos operaTores e na lógica Te programação apresentaTa, assinale a opção que representa a 
-linUa 6 na estrutura Te Tecisão To cóTigo para atenTer corretamente aos critérios Ta tarefa.
+Com base nos operadores e na lógica de programação apresentada, assinale a opção que representa a 
+linha 6 na estrutura de decisão do código para atender corretamente aos critérios da tarefa.
 A	 se((salario >= 1045.00) e (salario <= 1544.00)) entao
 B	 se((salario >= 1045.00) ou (salario <= 1544.00)) entao
 C	 se((valor >= 1045.00) e (valor <= 1544.00)) entao
-M	 se((salario >= 1046.00) ou (salario < 1545.00)) entao
-N	 se((valor >= 1046.00) e (valor <= 1545.00)) entao
-Área livre
-*R29202128*
+D	 se((salario >= 1046.00) ou (salario < 1545.00)) entao
+E	 se((valor >= 1046.00) e (valor <= 1545.00)) entao

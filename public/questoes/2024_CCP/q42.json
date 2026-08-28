@@ -5,17 +5,46 @@
   "paginas": [
     24
   ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 176.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 425.37091064453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q42.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q42.txt",
   "largura": 2475,
-  "altura": 1452,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1067,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 42\t\nDurante a aula, o professor propôs que os próprios estudantes representem as funções das camadas do modelo OSI de \nforma lúdica:\n•\tUm grupo de estudantes entregava bilhetes entre si, simulando a transmissão de dados físicos por cabos, com o fio \nrepresentado por um barbante;\n•\tOutro grupo escrevia, codificava e traduzia mensagens para diferentes idiomas entre estudantes representando distintas \naplicações, como se fossem navegadores e sistemas de e-mail;\n•\tHavia ainda estudantes que controlavam o caminho das mensagens, decidindo por onde elas passariam entre os ambientes \nda escola.\nA relação entre os papéis dos estudantes e as camadas do modelo OSI é estabelecida quando eles\nA\t entregam bilhetes que simulam a camada de aplicação, pois estão lidando diretamente com os dados visíveis aos usuários.\nB\t codificam e traduzem mensagens que simulam a camada de sessão, pois garantem que a entrega da informação seja \nordenada e contínua.\nC\t determinam o caminho das mensagens entre setores da escola que simulam a camada de rede, pois são responsáveis pelo \nroteamento e endereçamento lógico.\nD\t codificam as mensagens que simulam a camada de enlace de dados, pois garantem que as mensagens cheguem ao destino \nsem erros.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Redes de Computadores"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 42,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 64.6063003540039,
+      "y": 188.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 203.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 42"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n24\n2025\nTexto para questões 42 e 43\nUma TeterminaTa escola enfrenta um granTe Tesafio. Apesar Te ter Tiversos ambientes que poTeriam se beneficiar Ta \nconectiviTaTe em reTe, como a secretaria, a sala Tos professores, os laboratórios Te informática e a biblioteca, a instituição \npossui poucos equipamentos físicos para montar uma reTe completa: apenas Tois switcUes antigos, alguns cabos Te reTe e \nnenUum roteaTor moTerno. Um professor Te Computação instigou a turma para que planejem uma solução que estruture \na reTe Ta escola para testar Tiferentes configurações.\nQUNSTÃO 42\t\nMurante a aula, o professor propôs que os próprios estuTantes representem as funções Tas camaTas To moTelo OSC Te \nforma lúTica:\n•\tUm grupo Te estuTantes entregava bilUetes entre si, simulanTo a transmissão Te TaTos físicos por cabos, com o fio \nrepresentaTo por um barbante;\n•\tOutro grupo escrevia, coTificava e traTuzia mensagens para Tiferentes iTiomas entre estuTantes representanTo Tistintas \naplicações, como se fossem navegaTores e sistemas Te e-mail;\n•\tHavia ainTa estuTantes que controlavam o caminUo Tas mensagens, TeciTinTo por onTe elas passariam entre os ambientes \nTa escola.\nA relação entre os papéis Tos estuTantes e as camaTas To moTelo OSC é estabeleciTa quanTo eles\nA\t entregam bilUetes que simulam a camaTa Te aplicação, pois estão liTanTo Tiretamente com os TaTos visíveis aos usuários.\nB\t coTificam e traTuzem mensagens que simulam a camaTa Te sessão, pois garantem que a entrega Ta informação seja \norTenaTa e contínua.\nC\t Teterminam o caminUo Tas mensagens entre setores Ta escola que simulam a camaTa Te reTe, pois são responsáveis pelo \nroteamento e enTereçamento lógico.\nM\t coTificam as mensagens que simulam a camaTa Te enlace Te TaTos, pois garantem que as mensagens cUeguem ao Testino \nsem erros.\nQUNSTÃO 43\t\nCom base na situação-problema, a turma foi TiviTiTa para representar a estrutura física Ta reTe:\n•\tAlguns estuTantes seguram switcUes Te papelão;\n•\tOutros estuTantes são computaTores;\n•\tBarbantes conectam os estuTantes representanTo cabos Te reTe;\n•\tMois alunos representam os switcUes antigos Ta escola;\n•\tUm grupo tenta simular uma conexão com a internet, mesmo sem representar um roteaTor.\nQual alternativa apresenta a melUor Tescrição Ta reTe representaTa pelos estuTantes?\nA\t A reTe montaTa é uma PAN, pois os estuTantes estão conectaTos localmente entre si, e caTa um representa um nó pessoal.\nB\t A reTe representaTa é uma MAN, pois os estuTantes simulam conexões intersetoriais com a intenção Te representar bairros \nTa ciTaTe.\nC\t A reTe é uma PAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão Te longa Tistância.\nM\t A reTe simulaTa é uma LAN, pois os estuTantes representaram uma conexão entre Tiversos setores Ta escola, com switcUes \ne cabos simbólicos.\nÁrea livre\n*R0404202524*\nR04042025 - COMPUTACAO.inTb   24\nR04042025 - COMPUTACAO.inTb   24\n21/08/2025   10:06:42\n21/08/2025   10:06:42",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q42.png",
-  "caminho_json": "/questoes/2024_CCP/q42.json",
-  "caminho_txt": "/questoes/2024_CCP/q42.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062539"
 }

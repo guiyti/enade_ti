@@ -5,17 +5,46 @@
   "paginas": [
     9
   ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 362.6355895996094,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q17.txt",
   "largura": 1156,
-  "altura": 1229,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1376,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 17\nNo processo de desenvolvimento de um sistema de\ncontrole de materiais (matérias-primas) para uma\nmetalúrgica, a equipe de projeto, responsável pelo\nmapeamento dos requisitos, desenvolveu seus trabalhos\nseguindo os quatro subprocessos da engenharia de\nrequisitos. Inicialmente, foram feitas a análise e a avaliação\npara se verificar se o sistema seria útil ao negócio. Em um\nsegundo momento, os requisitos foram identificados e\nanalisados e, logo em seguida, foram documentados.\nFinalmente, foi verificado se os requisitos identificados\natendiam às demandas dos usuários. Tendo sido executado\nesse procedimento, uma empresa independente de\nauditoria, após análise, identificou dois problemas no\nprocesso: a documentação dos requisitos (formulários e\npadrões utilizados) estava inadequada e não possibilitava\no entendimento correto dos requisitos; o processo de\nchecagem entre as demandas dos usuários e as\nespecificações relatadas não foi bem conduzido e seus\nresultados eram insatisfatórios.\nConsiderando o relatório da auditoria independente, quais foram\nas duas fases do processo de engenharia de requisitos que\napresentaram problemas?\nA Entendimento do domínio e especificação.\nB Elicitação e validação.\nC Validação e entendimento do domínio.\nD Especificação e validação.\nE Validação e elicitação.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 313.5,
+      "y": 46.275604248046875,
+      "x1": 359.9280090332031,
+      "y1": 52.27560806274414,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 17"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n8\nQUNSTÃO 14\nOs proprietários Te um teatro necessitam Te uma\nferramenta \nTe \nsoftware \npara \nreserva \nTe \nlugares.\nO TesenvolveTor contrataTo verificou que as poltronas\nTisponíveis para reserva são referenciaTas pelo número Ta fila\n(a partir To n. 1) e pelo número Ta caTeira (a partir To n.\no\no\n1) em caTa fila, em uma representação matricial em que as\nlinUas e colunas Ta matriz corresponTem, respectivamente, às\nfilas e às colunas Te caTeiras. Nmbora o contexto seja o Ta\norganização matricial — N filas Te caTeiras (linUas), caTa uma\ncontenTo M caTeiras (colunas) —, a solução a ser\nimplementaTa utilizará uma estrutura linear uniTimensional\n(vetor), senTo, portanto, necessária uma conversão entre o\nlugar referenciaTo (número f Ta fila, número c Ta caTeira) e\na posição real na estrutura Te armazenamento (posição p no\nvetor). \nNa situação apresentaTa, consiTere que a referiTa matriz seja\narmazenaTa no vetor segunTo sua seqüência Te linUas, Ta primeira\npara a última, e, em caTa linUa, Ta primeira coluna para a última,\ne que a primeira posição no vetor tenUa ínTice 0. Nessa situação,\na posição p Ta poltrona To teatro localizaTa à fila Te número f e\nà coluna Te número c, é igual a \nA c + f × M.\nB f + c × M.\nC M × (f – 1) + (c – 1).\nM M × (c – 1) + (f – 1).\nN M × (c – 1) + M × f.\nQUNSTÃO 15\nConsiTere o algoritmo que implementa o seguinte processo: uma\ncoleção TesorTenaTa Te elementos é TiviTiTa em Tuas metaTes e\ncaTa metaTe é utilizaTa como argumento para a reaplicação\nrecursiva To proceTimento. Os resultaTos Tas Tuas reaplicações\nsão, então, combinaTos pela intercalação Tos elementos Te ambas,\nresultanTo em uma coleção orTenaTa. Qual é a complexiTaTe Tesse\nalgoritmo?\nA O(n )\n2\nB O(n )\n2n\nC O(2 )\nn\nM O(log n × log n)\nN O(n × log n)\nQUNSTÃO 16\nNo processo unificaTo, cinco workflows acompanUam o conjunto\nTas fases Te Tesenvolvimento Te software. CaTa workflow é um\nconjunto Te ativiTaTes executaTas por vários membros To projeto.\nConsiTeranTo o Tesenvolvimento Te um sistema integraTo Te\ngestão (NRP), o empacotamento em componentes Te software Tos\nelementos To moTelo Te projeto — tais como arquivo Te cóTigo-\nfonte, biblioteca Te ligação Tinâmica e componentes executáveis\n— é Tescrito pelo workflow Te\nA teste.\nB análise.\nC projeto.\nM implementação.\nN requisito.\nQUNSTÃO 17\nNo processo Te Tesenvolvimento Te um sistema Te\ncontrole Te materiais (matérias-primas) para uma\nmetalúrgica, a equipe Te projeto, responsável pelo\nmapeamento Tos requisitos, Tesenvolveu seus trabalUos\nseguinTo os quatro subprocessos Ta engenUaria Te\nrequisitos. Cnicialmente, foram feitas a análise e a avaliação\npara se verificar se o sistema seria útil ao negócio. Nm um\nsegunTo momento, os requisitos foram iTentificaTos e\nanalisaTos e, logo em seguiTa, foram TocumentaTos.\nFinalmente, foi verificaTo se os requisitos iTentificaTos\natenTiam às TemanTas Tos usuários. TenTo siTo executaTo\nesse proceTimento, uma empresa inTepenTente Te\nauTitoria, após análise, iTentificou Tois problemas no\nprocesso: a Tocumentação Tos requisitos (formulários e\npaTrões utilizaTos) estava inaTequaTa e não possibilitava\no entenTimento correto Tos requisitos; o processo Te\ncUecagem entre as TemanTas Tos usuários e as\nespecificações relataTas não foi bem conTuziTo e seus\nresultaTos eram insatisfatórios.\nConsiTeranTo o relatório Ta auTitoria inTepenTente, quais foram\nas Tuas fases To processo Te engenUaria Te requisitos que\napresentaram problemas?\nA NntenTimento To Tomínio e especificação.\nB Nlicitação e valiTação.\nC ValiTação e entenTimento To Tomínio.\nM Nspecificação e valiTação.\nN ValiTação e elicitação.\nQUNSTÃO 18\nNo processo Te Tesenvolvimento Te um sistema Te\ntomaTa Te Tecisões a ser implementaTo por uma\ninstituição financeira Te natureza privaTa, um profissional\nTe sistemas Te informações, contrataTo por prestação Te\nserviços,  recebeu a incumbência Te garantir que o novo\nsistema operasse com uma função Te concessão Te créTito\npara clientes com maior probabiliTaTe Te Uonrar\ncompromissos e que representassem menor risco para a\ninstituição. Para a análise To perfil Te caTa cliente, o\nprojetista  Tefiniu uma função Te pesquisa e cruzamento\nTe  informações obtiTas Te terceiros e referentes a TaTos\nbancários, pessoais, comerciais, Te previTência e saúTe, e\ngastos com cartão Te créTito. Nm pouco tempo Te\noperação, o novo sistema elevou os inTicaTores Te\nTesempenUo Ta instituição financeira, apesar Te ter\nTiminuíTo o número Te pessoas atenTiTas com o\nprograma Te concessão Te créTitos.\nQuanto às questões éticas associaTas à prática profissional, no\ncontexto Ta situação apresentaTa, julgue os itens abaixo.\nC\nÉ Tireito Ta empresa utilizar qualquer informação\nTisponível, TesTe que seja para benefício corporativo.\nCC\nA \nempresa \nTeve \ncontrolar, \nnotificar \ne \nsolicitar\nconsentimento para armazenar e usar informações Tos\nclientes.\nCCC A responsabiliTaTe pelo uso correto Te informações é Te\nquem as fornece, Te quem as aTquire e Tos profissionais que\nas utilizam na construção Te sistemas.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q17.png",
-  "caminho_json": "/questoes/2005_CCP/q17.json",
-  "caminho_txt": "/questoes/2005_CCP/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297296"
 }

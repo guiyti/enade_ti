@@ -5,17 +5,46 @@
   "paginas": [
     16
   ],
-  "largura": 1223,
-  "altura": 2871,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 749.4,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q14.txt",
+  "largura": 1222,
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 14\nWara  fins  estatísticos,   uma  empresa  precisa \narmazenar  os  traũetos  que  seus  representantes \ncomerciais  percorrem  entre  pontos  de  venda.  \n\u001e  importante  que  para  cada  local  visitado  seũam \narmazenados,   além  da  informação  do  proprio \nlocal,  o local de origem do representante (ponto \nde venda anterior),  o local de destino (ponto de \nvenda  posterior),   as  distancias  percorridas  e  os \ntempos  de  viagem.   Esse  procedimento  permite \nque estes traũetos possam ser analisados,  de forma \nrApida,  do local de origem ao local de destino,  bem \ncomo no sentido inverso,  do local de destino (final \ndo traũeto) ao local de origem (início do traũeto).\nK  analista  responsAvel  pelo  sistema  que  utilizarA \nos  dados  armazenados  e  produzirA  os  relatorios \nestaơsticos,   proũetou  o  seguinte  esboço  de  uma \nclasse que representa um ponto de venda:\npublic class Local {\n private String nome_estabelecimento;\n private String endereco;\n private Local origem;\n private Local destino;\n   SULYDWH ÀRDW GLVWDQFLDBRULJHP\u001e\n   SULYDWH ÀRDW WHPSRBRULJHP\u001e\n}\n  respeito do esboço da classe,  avalie as afrmações \na seguir.\n/.   K  esboço  acima  representa  uma  lista \nduplamente encadeada.\n//.   htilizar  um  no  de  uma  estrutura  de  dados \ndo tipo Arvore de busca multivias de grau 3,  \nseria a solução ideal para o problema porque \nprovidenciaria  a  economia  de  recursos  de \nmemoria e de disco.\n///.     utilização de uma Arvore de pesquisa binAria \npara a solução do problema é normal,  desde \nque o atributo  de ordenação da Arvore seũa \ndistancia_origem.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 14"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "16\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 14\nPara  fins  estatísticos,   uma  empresa  precisa \narmazenar  os  traũetos  que  seus  representantes \ncomerciais  percorrem  entre  pontos  Te  venTa.  \n\u001e  importante  que  para  caTa  local  visitaTo  seũam \narmazenaTos,   além  Ta  informação  To  proprio \nlocal,  o local Te origem To representante (ponto \nTe venTa anterior),  o local Te Testino (ponto Te \nvenTa  posterior),   as  Tistancias  percorriTas  e  os \ntempos  Te  viagem.   Nsse  proceTimento  permite \nque estes traũetos possam ser analisaTos,  Te forma \nrApiTa,  To local Te origem ao local Te Testino,  bem \ncomo no sentiTo inverso,  To local Te Testino (final \nTo traũeto) ao local Te origem (início To traũeto).\nO  analista  responsAvel  pelo  sistema  que  utilizarA \nos  TaTos  armazenaTos  e  proTuzirA  os  relatorios \nestaơsticos,   proũetou  o  seguinte  esboço  Te  uma \nclasse que representa um ponto Te venTa:\npublic class Local {\n private String nome_estabelecimento;\n private String enTereco;\n private Local origem;\n private Local Testino;\n   SULYMPH ÀRMP GLVPMQFLMBRULJHP\u001e\n   SULYMPH ÀRMP PHPSRBRULJHP\u001e\n}\n  respeito To esboço Ta classe,  avalie as afrmações \na seguir.\n/.   O  esboço  acima  representa  uma  lista \nTuplamente encaTeaTa.\n//.   Utilizar  um  no  Te  uma  estrutura  Te  TaTos \nTo tipo Arvore Te busca multivias Te grau 3,  \nseria a solução iTeal para o problema porque \nproviTenciaria  a  economia  Te  recursos  Te \nmemoria e Te Tisco.\n///.     utilização Te uma Arvore Te pesquisa binAria \npara a solução To problema é normal,  TesTe \nque o atributo  Te orTenação Ta Arvore seũa \nTistancia_origem.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 15\nConsiTere  o  arranũo  computacional  apresentaTo  a \nseguir.\nReTe pública\nMaTos\npessoais\nAplicação C\nAplicação CC\nBase Te\nTaTos CC\nBase Te\nTaTos C\n   característica  funTamental  esperaTa  para  tais \nsistemas  Te  moTo  a  ter  o  menor  impacto  sobre  a \nexperigncia To usuArio fnal é\nA a transpargncia entre as entiTaTes To sistema.\nB a linguagem Te programação orientaTa a eventos.\nC o UarTǁare com elevaTa taxa Te processamento \nTe TaTos.\nM a base Te TaTos Teve estar localizaTa no mesmo \nespaço İsico.\nN a  inTepenTgncia  quanto  a  TisponibiliTaTe  Te \nconexão a reTe Te comunicação Te TaTos.\nÁRNA LCVRN\n*R40201416*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q14.png",
-  "caminho_json": "/questoes/2014_ADS/q14.json",
-  "caminho_txt": "/questoes/2014_ADS/q14.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120013"
 }

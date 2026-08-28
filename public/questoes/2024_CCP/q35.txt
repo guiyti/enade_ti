@@ -1,42 +1,21 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-21
-COMPUTAÇÃO
-2025
-Texto para questões 34 e 35
-Murante a panTemia Ta coviT-19, Uouve um acréscimo no número Te estuTantes Te licenciatura na moTaliTaTe Te NTucação a 
-Mistância, conforme inTicaTo na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em 
-sua estrutura curricular, aTotanTo formato UíbriTo, combinanTo práticas presenciais com ativiTaTes meTiaTas por tecnologias Tigitais.
-Número Te licenciaTos concluintes por moTaliTaTe e ano
-Misponível em: www.gov.br/inep. Acesso em: 30 maio 2025.
-QUNSTÃO 34	
-Com base nas características Te caTa moTaliTaTe Te ensino, qual alternativa aponta metoTologias To ensino presencial e a 
-Tistância, respectivamente?
-A	 Avaliação MiversificaTa, com avaliações realizaTas por meio Te ativiTaTes no AVA, participação em fóruns, entregas Te 
-trabalUos, provas on-line; Uso Te Tecnologias Migitais como ambiente principal Te aprenTizagem, por meio Te plataformas 
-virtuais que centralizam conteúTos, ativiTaTes e interações.
-B	 Aulas Nxpositivas e Práticas, com a possibiliTaTe Ta realização Te aulas teóricas intercalaTas com ativiTaTes práticas, como 
-oficinas, laboratórios e observação Te campo; Cnteração Mireta, com presença entre estuTantes e professores, possibilitanTo 
-trocas imeTiatas, Turante toTas as aulas.
-C	 Cnteração Mireta, em que a aprenTizagem é centraTa no contato entre estuTantes e professores, facilitanTo Tiscussões, 
-ativiTaTes em grupo, Tinâmicas e trocas imeTiatas; AprenTizagem Autônoma, em que o estuTante tem maior responsabiliTaTe 
-pela gestão To seu tempo e pela construção To próprio conUecimento.
-M	 Ambiente Te AprenTizagem Físico, em que a sala Te aula, os laboratórios e espaços físicos Ta instituição são os principais 
-locais Te ensino; Formação Cnterativa, com as relações interpessoais, a convivência acaTêmica e o Tesenvolvimento Te 
-competências socioemocionais senTo estimulaTas pela convivência.
-QUNSTÃO 35	
-Qual alternativa apresenta exemplos Te ativiTaTes Te um plano Te aula no moTelo UíbriTo, voltaTo para o ensino Te conceitos 
-Te Pensamento Computacional?
-A	 AprenTizagem Tos pilares To Pensamento Computacional utilizanTo ambiente on-line, por meio Te víTeos e quizzes interativos; 
-resolução Te problemas em plataformas Te programação, com feeTback automático; participação em fóruns Te Tiscussão.
-B	 AtiviTaTes que envolvem Tiscussões em grupo, Tinâmicas práticas com materiais físicos, criação Te algoritmos visuais em 
-suportes como quaTros, resolução colaborativa Te Tesafios em sala e apresentações seguiTas Te Tebate, favorecenTo a 
-interação Tireta entre os participantes.
-C	 Aula expositiva sobre os pilares To Pensamento Computacional, com Tiscussão em grupo para aprofunTamento Tos conceitos; 
-realização Te ativiTaTes práticas em ambiente Ta escola para resolver problemas reais aplicanTo os pilares estuTaTos.
-M	 NstuTo Tos pilares To Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento Te TúviTas e realização 
-Te exercícios práticos, com aplicação Tos pilares na resolução Te problemas e uso Te recompensas para estimular o engajamento.
-*R0404202521*
-0404_computacao_bloco_04.inTT   21
-0404_computacao_bloco_04.inTT   21
-22/08/2025   13:02:46
-22/08/2025   13:02:46
+p
+p
+QUESTÃO 35	
+Qual alternativa apresenta exemplos de atividades de um plano de aula no modelo híbrido, voltado para o ensino de conceitos 
+de Pensamento Computacional?
+A	 Aprendizagem dos pilares do Pensamento Computacional utilizando ambiente on-line, por meio de vídeos e quizzes interativos; 
+resolução de problemas em plataformas de programação, com feedback automático; participação em fóruns de discussão.
+B	 Atividades que envolvem discussões em grupo, dinâmicas práticas com materiais físicos, criação de algoritmos visuais em 
+suportes como quadros, resolução colaborativa de desafios em sala e apresentações seguidas de debate, favorecendo a 
+interação direta entre os participantes.
+C	 Aula expositiva sobre os pilares do Pensamento Computacional, com discussão em grupo para aprofundamento dos conceitos; 
+realização de atividades práticas em ambiente da escola para resolver problemas reais aplicando os pilares estudados.
+D	 Estudo dos pilares do Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento de dúvidas e realização 
+de exercícios práticos, com aplicação dos pilares na resolução de problemas e uso de recompensas para estimular o engajamento.
+
+Texto para questões de 36 a 38
+Um professor de Computação precisa escolher, entre três possibilidades, uma abordagem de metodologia ativa para o 
+planejamento de uma sequência didática sobre conceitos iniciais de lógica e algoritmos. Como primeira possibilidade, ele cogita 
+usar a metodologia Sala de Aula Invertida, usando linguagens e tecnologias nos momentos extraclasse e presencial. A segunda 
+possibilidade seria escolher Objetos de Aprendizagem ancorados à estratégia metodológica de jogos sérios ou uso de softwares 
+educacionais. A terceira possibilidade seria planejar a abordagem Gamificada de Competição Controlada.

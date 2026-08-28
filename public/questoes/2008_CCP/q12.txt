@@ -1,129 +1,33 @@
-7
-COMPUTAÇÃO
-COMPONNNTN NSPNCÍFCCO
-As questões Te 11 a 20, a seguir, são comuns para os estuTantes Te cursos com perfis profissionais Te
-BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO, NNGNNHARCA MN COMPUTAÇÃO e 
-BACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.
-QUNSTÃO 11
-Com relação às Tiferentes tecnologias Te armazenamento
-Te TaTos, julgue os itens a seguir.
-C
-QuanTo a tensão Te alimentação Te uma memória
-ROM é TesligaTa, os TaTos Tessa memória são
-apagaTos. Por isso, esse tipo Te memória é
-TenominaTo volátil.
-CC
-O tempo Te acesso à memória RAM é maior que o
-tempo Te acesso a um registraTor Ta uniTaTe central
-Te processamento (UCP).
-CCC O tempo Te acesso à memória cacUe Ta UCP é menor
-que o tempo Te acesso a um Tisco magnético.
-CV O tempo Te acesso à memória cacUe Ta UCP é maior
-que o tempo Te acesso à memória RAM.
-Nstão certos apenas os itens
-A C e CC.
-B C e CCC.
-C CC e CCC.
-M CC e CV.
-N CCC e CV.
-QUNSTÃO 12
-Ao longo Te toTo o Tesenvolvimento To software,
-Tevem ser aplicaTas ativiTaTes Te garantia Te
-qualiTaTe Te software (GQS), entre as quais se
-encontra a ativiTaTe Te teste. Um Tos critérios
-Te teste utilizaTos para gerar casos Te teste é o
-TenominaTo critério Tos caminUos básicos, cujo
-número Te caminUos poTe ser TeterminaTo com
+QUESTÃO 12
+Ao longo de todo o desenvolvimento do software,
+devem ser aplicadas atividades de garantia de
+qualidade de software (GQS), entre as quais se
+encontra a atividade de teste. Um dos critérios
+de teste utilizados para gerar casos de teste é o
+denominado critério dos caminhos básicos, cujo
+número de caminhos pode ser determinado com
 base 
 na 
-complexiTaTe 
+complexidade 
 ciclomática.
-ConsiTeranTo-se o grafo Te fluxo Te controle
-apresentaTo na figura ao laTo, no qual os nós
-representam os blocos Te comanTos e as
-arestas representam a transferência Te controle,
-qual a quantiTaTe Te caminUos básicos que
-Tevem ser testaTos no programa associaTo a esse grafo
-Te fluxo Te controle, sabenTo-se que essa quantiTaTe é
-igual à complexiTaTe ciclomática mais um?
+Considerando-se o grafo de fluxo de controle
+apresentado na figura ao lado, no qual os nós
+representam os blocos de comandos e as
+arestas representam a transferência de controle,
+qual a quantidade de caminhos básicos que
+devem ser testados no programa associado a esse grafo
+de fluxo de controle, sabendo-se que essa quantidade é
+igual à complexidade ciclomática mais um?
 A
 1.
 B
 3.
 C
 4.
-M
+D
 7.
-N
+E
 8.
-QUNSTÃO 13
-ConsiTeranTo o conjunto A = {1, 2, 3, 4, 5, 6}, qual opção
-corresponTe a uma partição Tesse conjunto?
-A
-{{1}, {2}, {3}, {4}, {5}, {6}}
-B
-{{1}, {1,2}, {3,4}, {5, 6}}
-C
-{{ }, {1, 2, 3}, {4, 5, 6}}
-M
-{{1, 2, 3}, {5, 6}}
-N
-{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}
-QUNSTÃO 14
-Um programaTor propôs um algoritmo não-recursivo
-para o percurso em preorTem Te uma árvore binária com
-as seguintes características.
-<
-CaTa nó Ta árvore binária é representaTo por um
-registro com três campos: cUave, que armazena seu
-iTentificaTor; esq e Tir, ponteiros para os filUos
-esquerTo e Tireito, respectivamente.
-<
-O algoritmo Teve ser invocaTo inicialmente tomanTo o
-ponteiro para o nó raiz Ta árvore binária como
-argumento.
-<
-O algoritmo utiliza pusU() e pop() como funções
-auxiliares Te empilUamento e TesempilUamento Te
-ponteiros para nós Te árvore binária, respectivamente.
-A seguir, está apresentaTo o algoritmo proposto, em
-que 8 representa o ponteiro nulo.
-ProceTimento preorTem (ptraiz : PtrNoArvBin)
-  Var ptr : PtrNoArvBin;
-  ptr := ptraiz;
-  Nnquanto (ptr … 8) Faça
-     escreva (ptr8.cUave);
-     Se (ptr8.Tir … 8) Nntão
-        pusU(ptr8.Tir);
-     Se (ptr8.esq … 8) Nntão
-        pusU(ptr8.esq);
-      ptr := pop();
-  Fim_Nnquanto
-Fim_ProceTimento
-Com base nessas informações e suponTo que a raiz Te
-uma árvore binária com n nós seja passaTa ao
-proceTimento preorTem(), julgue os itens seguintes.
-C
-O algoritmo visita caTa nó Ta árvore binária exatamente
-uma vez ao longo To percurso.
-CC
-O algoritmo só funcionará corretamente se o
-proceTimento pop() for projetaTo Te forma a retornar 8
-caso a pilUa esteja vazia.
-CCC NmpilUar e TesempilUar ponteiros para nós Ta árvore
-são operações que poTem ser implementaTas com
-custo constante. 
-CV A complexiTaTe To pior caso para o proceTimento
-preorTem() é O(n).
-Assinale a opção correta.
-A
-Apenas um item está certo.
-B
-Apenas os itens C e CV estão certos.
-C
-Apenas os itens C, CC e CCC estão certos.
-M
-Apenas os itens CC, CCC e CV estão certos.
 1
 2
 3

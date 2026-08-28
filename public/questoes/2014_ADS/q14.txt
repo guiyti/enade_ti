@@ -1,72 +1,45 @@
-16
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 14
-Para  fins  estatísticos,   uma  empresa  precisa 
+QUESTÃO 14
+Wara  fins  estatísticos,   uma  empresa  precisa 
 armazenar  os  traũetos  que  seus  representantes 
-comerciais  percorrem  entre  pontos  Te  venTa.  
-  importante  que  para  caTa  local  visitaTo  seũam 
-armazenaTos,   além  Ta  informação  To  proprio 
-local,  o local Te origem To representante (ponto 
-Te venTa anterior),  o local Te Testino (ponto Te 
-venTa  posterior),   as  Tistancias  percorriTas  e  os 
-tempos  Te  viagem.   Nsse  proceTimento  permite 
-que estes traũetos possam ser analisaTos,  Te forma 
-rApiTa,  To local Te origem ao local Te Testino,  bem 
-como no sentiTo inverso,  To local Te Testino (final 
-To traũeto) ao local Te origem (início To traũeto).
-O  analista  responsAvel  pelo  sistema  que  utilizarA 
-os  TaTos  armazenaTos  e  proTuzirA  os  relatorios 
-estaơsticos,   proũetou  o  seguinte  esboço  Te  uma 
-classe que representa um ponto Te venTa:
+comerciais  percorrem  entre  pontos  de  venda.  
+  importante  que  para  cada  local  visitado  seũam 
+armazenados,   além  da  informação  do  proprio 
+local,  o local de origem do representante (ponto 
+de venda anterior),  o local de destino (ponto de 
+venda  posterior),   as  distancias  percorridas  e  os 
+tempos  de  viagem.   Esse  procedimento  permite 
+que estes traũetos possam ser analisados,  de forma 
+rApida,  do local de origem ao local de destino,  bem 
+como no sentido inverso,  do local de destino (final 
+do traũeto) ao local de origem (início do traũeto).
+K  analista  responsAvel  pelo  sistema  que  utilizarA 
+os  dados  armazenados  e  produzirA  os  relatorios 
+estaơsticos,   proũetou  o  seguinte  esboço  de  uma 
+classe que representa um ponto de venda:
 public class Local {
  private String nome_estabelecimento;
- private String enTereco;
+ private String endereco;
  private Local origem;
- private Local Testino;
-   SULYMPH ÀRMP GLVPMQFLMBRULJHP
-   SULYMPH ÀRMP PHPSRBRULJHP
+ private Local destino;
+   SULYDWH ÀRDW GLVWDQFLDBRULJHP
+   SULYDWH ÀRDW WHPSRBRULJHP
 }
-  respeito To esboço Ta classe,  avalie as afrmações 
+  respeito do esboço da classe,  avalie as afrmações 
 a seguir.
-/.   O  esboço  acima  representa  uma  lista 
-Tuplamente encaTeaTa.
-//.   Utilizar  um  no  Te  uma  estrutura  Te  TaTos 
-To tipo Arvore Te busca multivias Te grau 3,  
-seria a solução iTeal para o problema porque 
-proviTenciaria  a  economia  Te  recursos  Te 
-memoria e Te Tisco.
-///.     utilização Te uma Arvore Te pesquisa binAria 
-para a solução To problema é normal,  TesTe 
-que o atributo  Te orTenação Ta Arvore seũa 
-Tistancia_origem.
+/.   K  esboço  acima  representa  uma  lista 
+duplamente encadeada.
+//.   htilizar  um  no  de  uma  estrutura  de  dados 
+do tipo Arvore de busca multivias de grau 3,  
+seria a solução ideal para o problema porque 
+providenciaria  a  economia  de  recursos  de 
+memoria e de disco.
+///.     utilização de uma Arvore de pesquisa binAria 
+para a solução do problema é normal,  desde 
+que o atributo  de ordenação da Arvore seũa 
+distancia_origem.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 15
-ConsiTere  o  arranũo  computacional  apresentaTo  a 
-seguir.
-ReTe pública
-MaTos
-pessoais
-Aplicação C
-Aplicação CC
-Base Te
-TaTos CC
-Base Te
-TaTos C
-   característica  funTamental  esperaTa  para  tais 
-sistemas  Te  moTo  a  ter  o  menor  impacto  sobre  a 
-experigncia To usuArio fnal é
-A a transpargncia entre as entiTaTes To sistema.
-B a linguagem Te programação orientaTa a eventos.
-C o UarTǁare com elevaTa taxa Te processamento 
-Te TaTos.
-M a base Te TaTos Teve estar localizaTa no mesmo 
-espaço İsico.
-N a  inTepenTgncia  quanto  a  TisponibiliTaTe  Te 
-conexão a reTe Te comunicação Te TaTos.
-ÁRNA LCVRN
-*R40201416*
+D // e ///,  apenas.
+E /,  // e ///.

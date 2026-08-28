@@ -1,65 +1,44 @@
-13
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-COMPONNNTN NSPNC1&/CO
-QUNSTÃO MCSCURSCVA 03
-Uma empresa Te cosméticos comercializa cinco Tiferentes tipos Te proTutos e os armazena em uma 
-estante Te 40 x 40 posições.  Nm caTa posição Ta estante,  poTe fcar armazenaTa apenas uma caixa com 
-um Tesses proTutos.  Para facilitar sua iTentifcação,  os proTutos foram coTifcaTos Ta forma a seguir:
+IKDWKEEEdE E^WEI1&/IK
+QUESTÃO DISCURSIVA 03
+hma empresa de cosméticos comercializa cinco diferentes tipos de produtos e os armazena em uma 
+estante de 40 x 40 posições.  Em cada posição da estante,  pode fcar armazenada apenas uma caixa com 
+um desses produtos.  Wara facilitar sua identifcação,  os produtos foram codifcados da forma a seguir:
 1:  xampu͖
-2:  conTicionaTor͖
-3:  UiTratante͖
+2:  condicionador͖
+3:  hidratante͖
 4:  tintura͖
-5:  Temaquilante͖
+5:  demaquilante͖
 0:  vazio.
-Nessa  situação  e  consiTeranTo  o  Tesenvolvimento  Te  um  sistema  para  gerenciar  a  organização  Tos 
-proTutos na estante,  estabeleceu-se a Teclaração Te variAveis a seguir.
+Eessa  situação  e  considerando  o  desenvolvimento  de  um  sistema  para  gerenciar  a  organização  dos 
+produtos na estante,  estabeleceu-se a declaração de variAveis a seguir.
 Var
-Nstante: matriz [1..40][1..40] Te inteiro
-ProTutos: vetor [0..5] Te texto = {"vazio","xampu","conTicionaTor",
-  "UiTratante", "tintura", "Temaquilante"}
-ContaTor: vetor [0..5] Te inteiro = {0,0,0,0,0,0}
+Estante: matriz [1..40][1..40] de inteiro
+Produtos: vetor [0..5] de texto = {"vazio","xampu","condicionador",
+  "hidratante", "tintura", "demaquilante"}
+Contador: vetor [0..5] de inteiro = {0,0,0,0,0,0}
 i, j: inteiro
-Com base nessa Teclaração e consiTeranTo a coTifcação Tos proTutos exposta,  faça o que se peTe nos 
-itens a seguir,  apresentanTo as soluções em pseuTocoTigo ou em linguagem Te programação.
-a)  Nscreva um trecUo Te coTigo para ler os coTigos Tos proTutos e armazenA-los na matriz Nstante.
+Iom base nessa declaração e considerando a codifcação dos produtos exposta,  faça o que se pede nos 
+itens a seguir,  apresentando as soluções em pseudocodigo ou em linguagem de programação.
+a)  Escreva um trecho de codigo para ler os codigos dos produtos e armazenA-los na matriz Estante.
 (valor:  4, 0 pontos)
-b)  Nscreva um trecUo Te coTigo para contar e imprimir a quantiTaTe Te caixas Te caTa tipo Te proTuto 
+b)  Escreva um trecho de codigo para contar e imprimir a quantidade de caixas de cada tipo de produto 
 na estante.  (valor:  6, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R41201713*
 
-14
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO M/SCUZS/s  04 
-Uma empresa trabalUa na proTução Te concreto e terceiriza o serviço Te transporte To proTuto.  Os 
-caminUoneiros telefonam para a empresa e registram seu interesse pelo trabalUo.  ToTas as manUãs,  
-os caminUoneiros estacionam o caminUão no pAtio Ta empresa e aguarTam sua vez.  O atenTimento 
-segue o critério Te orTem Te cUegaTa.  Nsse processo é,  atualmente,  controlaTo pela secretAria,  que 
-utiliza sua agenTa para gerenciar os motoristas Tiariamente.    empresa,  que carrega,  no mAximo,  10 
-caminUões por Tia,  pretenTe informatizar esse processo.
-Para  a  solução  To  problema,   apresenta-se,   a  seguir,   um  pseuTocoTigo  que  utiliza  o  conceito  Te  fla,  
-mantenTo os elementos sempre nas primeiras posições To vetor.
-Algoritmo Fila_CaminUoneiros
+QUESTÃO D/^IhZ^/s  04 
+hma empresa trabalha na produção de concreto e terceiriza o serviço de transporte do produto.  Ks 
+caminhoneiros telefonam para a empresa e registram seu interesse pelo trabalho.  dodas as manhãs,  
+os caminhoneiros estacionam o caminhão no pAtio da empresa e aguardam sua vez.  K atendimento 
+segue o critério de ordem de chegada.  Esse processo é,  atualmente,  controlado pela secretAria,  que 
+utiliza sua agenda para gerenciar os motoristas diariamente.    empresa,  que carrega,  no mAximo,  10 
+caminhões por dia,  pretende informatizar esse processo.
+Wara  a  solução  do  problema,   apresenta-se,   a  seguir,   um  pseudocodigo  que  utiliza  o  conceito  de  fla,  
+mantendo os elementos sempre nas primeiras posições do vetor.
+Algoritmo Fila_Caminhoneiros
 início
    var
-   caminUoneiros : vetor[1..10] Te texto
+   caminhoneiros : vetor[1..10] de texto
    total : inteiro
-   proceTimento inicializa()
+   procedimento inicializa()
    início
       total <- 0
  
@@ -67,17 +46,17 @@ início
    função estaVazia() : lógico
    início
       se (total = 0) então
-         retorna verTaTeiro
+         retorna verdadeiro
       senão
          retorna falso
  
       ¿PVH
  
    ¿P
-   função estaCUeia() : lógico
+   função estaCheia() : lógico
    início
       se (total >= 10) então
-         retorna verTaTeiro
+         retorna verdadeiro
       senão
          retorna falso
  
@@ -85,93 +64,49 @@ início
  
    ¿P
  
-   SURFHGLPHQPR HQ¿OHLUMUFMPLQORQHLUR  PH[PR
+   SURFHGLPHQWR HQ¿OHLUDUFDPLQKRQHLUR  WH[WR
    início
-      se (estaCUeia() = falso) então 
+      se (estaCheia() = falso) então 
          total <- total + 1 
-         caminUoneiros[total] <- caminUoneiro
+         caminhoneiros[total] <- caminhoneiro
       senão
-         imprima("Fila cUeia")
+         imprima("Fila cheia")
  
       ¿PVH
  
    ¿m
 ¿m
-*R41201714*
 
-15
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base nas informações apresentaTas,  faça o que se peTe nos itens a seguir,  exponTo caTa solução em 
-pseuTocoTigo ou em linguagem Te programação.
-a)  /mplemente a função GHVHQ¿OHLUMU que Teve remover e retornar um elemento representaTo 
-por um caminUoneiro Ta fla ou a mensagem Η&ila vaziaΗ se não Uouver elementos.  (valor:  6, 0 pontos)
-b)  /mplemente o proceTimento mostrarFila,  que Teve apresentar a lista Te elementos,  ou seũa,  os 
-caminUoneiros que estão na fla.  (valor:  4, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Area livre
-*R41201715*
+Iom base nas informações apresentadas,  faça o que se pede nos itens a seguir,  expondo cada solução em 
+pseudocodigo ou em linguagem de programação.
+a)  /mplemente a função GHVHQ¿OHLUDU que deve remover e retornar um elemento representado 
+por um caminhoneiro da fla ou a mensagem Η&ila vaziaΗ se não houver elementos.  (valor:  6, 0 pontos)
+b)  /mplemente o procedimento mostrarFila,  que deve apresentar a lista de elementos,  ou seũa,  os 
+caminhoneiros que estão na fla.  (valor:  4, 0 pontos)
 
-16
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO M/SCUZS/s  05 
-  coorTenação Te gestão Te pessoas (C'P) Te uma empresa solicitou a equipe Te T/ que Tesenvolvesse 
-um aplicativo (app) para criação Te uma reTe social on-line que incentivasse os empregaTos a iTealizar e 
-executar proũetos.    fm Te realizar o levantamento Te requisitos,  a equipe Te Tesenvolvimento se reuniu 
-com a C'P e alguns empregaTos e,  para melUorar a comunicação entre os envolviTos,  os analistas Te 
-sistemas Ta empresa optaram pela prototipação Te telas To app,  conforme os exemplos a seguir.
-Prototipo 1 
-Prototipo 2 
-Prototipo 3 
-TenTo-se usaTo a aborTagem Te prototipação,  foram TocumentaTos os seguintes requisitos:
-ͻ  toTo colaboraTor Teve informar numero Te matrícula,  nome,  enTereço Te e-mail e senUa Te login
-para se caTastrar no app e poTer registrar proũetos e enviar comentArios͖  a coorTenação Te um 
-proũeto é atribuíTa automaticamente ao colaboraTor que o registrar͖
-ͻ  caTa proũeto poTe ser classifcaTo em uma Te Tuas possíveis categorias:  ΗMelUoria Te ProcessoΗ 
-ou ΗSocialΗ͖  além Tos TaTos em comum para ambas as categorias,  um proũeto Te ΗMelUoria Te 
-ProcessoΗ Teve ser alocaTo ao Tepartamento (selecionaTo Te uma lista) em que ele serA aplicaTo 
-e  os  resultaTos  esperaTos  Tevem  ser  informaTos  (conforme  o  prototipo  1)͖   para  um  proũeto 
-ΗSocialΗ,  Teve-se inTicar o publico benefciArio (conforme o prototipo 2)͖
-ͻ  uma vez registraTo o proũeto,  qualquer colaboraTor poTe visualizA-lo no app e registrar um ou mais 
-comentArios para contribuir com o refnamento Ta iTeia (conforme o prototipo 3)͖  os comentArios 
-são visualizaTos em orTem cronologica,  por Tata e UorArio͖
-ͻ  o coorTenaTor To proũeto poTe incluir até trgs colaboraTores para participarem Ta equipe.
-*R41201716*
+QUESTÃO D/^IhZ^/s  05 
+  coordenação de gestão de pessoas (I'W) de uma empresa solicitou a equipe de d/ que desenvolvesse 
+um aplicativo (app) para criação de uma rede social on-line que incentivasse os empregados a idealizar e 
+executar proũetos.    fm de realizar o levantamento de requisitos,  a equipe de desenvolvimento se reuniu 
+com a I'W e alguns empregados e,  para melhorar a comunicação entre os envolvidos,  os analistas de 
+sistemas da empresa optaram pela prototipação de telas do app,  conforme os exemplos a seguir.
+Wrototipo 1 
+Wrototipo 2 
+Wrototipo 3 
+dendo-se usado a abordagem de prototipação,  foram documentados os seguintes requisitos:
+ͻ  todo colaborador deve informar numero de matrícula,  nome,  endereço de e-mail e senha de login
+para se cadastrar no app e poder registrar proũetos e enviar comentArios͖  a coordenação de um 
+proũeto é atribuída automaticamente ao colaborador que o registrar͖
+ͻ  cada proũeto pode ser classifcado em uma de duas possíveis categorias:  ΗDelhoria de WrocessoΗ 
+ou Η^ocialΗ͖  além dos dados em comum para ambas as categorias,  um proũeto de ΗDelhoria de 
+WrocessoΗ deve ser alocado ao departamento (selecionado de uma lista) em que ele serA aplicado 
+e  os  resultados  esperados  devem  ser  informados  (conforme  o  prototipo  1)͖   para  um  proũeto 
+Η^ocialΗ,  deve-se indicar o publico benefciArio (conforme o prototipo 2)͖
+ͻ  uma vez registrado o proũeto,  qualquer colaborador pode visualizA-lo no app e registrar um ou mais 
+comentArios para contribuir com o refnamento da ideia (conforme o prototipo 3)͖  os comentArios 
+são visualizados em ordem cronologica,  por data e horArio͖
+ͻ  o coordenador do proũeto pode incluir até trgs colaboradores para participarem da equipe.
 
-17
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-ConsiTeranTo a situação e as informações apresentaTas,  construa um Tiagrama Te classe que esteũa em 
-conformiTaTe com os requisitos,  inTicanTo os atributos Te caTa classe e as associações entre as classes.  
+Ionsiderando a situação e as informações apresentadas,  construa um diagrama de classe que esteũa em 
+conformidade com os requisitos,  indicando os atributos de cada classe e as associações entre as classes.  
 (valor:  10, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Area livre
-*R41201717*

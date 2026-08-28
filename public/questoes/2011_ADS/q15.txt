@@ -1,98 +1,44 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-11
-QUNSTÃO 15  
-Os mapas Te navegação enfocam como as pessoas 
-se movimentam por um site ou aplicação. CaTa página 
-To site ou local Ta aplicação é representaTo com uma 
-caixa ou cabeçalUo e toTas as páginas que puTerem ser 
-acessaTas a partir Tela Tevem usá-la como referência. 
-Uma técnica bastante utilizaTa é colocar toTos os fluxos 
-possíveis no mapa Te navegação, já que isso Testacará 
-seções onTe Uá necessiTaTe Te uma revisão no projeto 
-Ta interface.
-BNNYON, M. Cnteração Uumano-computaTor. 2.eT. São Paulo: Pearson 
+QUESTÃO 15  
+Os mapas de navegação enfocam como as pessoas 
+se movimentam por um site ou aplicação. Cada página 
+do site ou local da aplicação é representado com uma 
+caixa ou cabeçalho e todas as páginas que puderem ser 
+acessadas a partir dela devem usá-la como referência. 
+Uma técnica bastante utilizada é colocar todos os fluxos 
+possíveis no mapa de navegação, já que isso destacará 
+seções onde há necessidade de uma revisão no projeto 
+da interface.
+BENYON, D. Interação humano-computador. 2.ed. São Paulo: Pearson 
 Prentice Hall, 2011.
 Com relação ao tema, analise as asserções a seguir.
-Os mapas Te navegação são reTesenUaTos muitas vezes 
-no Tecorrer To ciclo Te viTa To projeto
-PORQUN
-a interface Teve ser projetaTa para atenTer pessoas 
-(capaciTaTes 
+Os mapas de navegação são redesenhados muitas vezes 
+no decorrer do ciclo de vida do projeto
+PORQUE
+a interface deve ser projetada para atender pessoas 
+(capacidades 
 e 
 limitações 
 motoras, 
 neurológicas, 
-cognitivas, etc.), ativiTaTes que as pessoas querem 
+cognitivas, etc.), atividades que as pessoas querem 
 realizar (questões temporais, com ou sem cooperação, 
-se são críticas em termos Te segurança ,etc.), contextos 
+se são críticas em termos de segurança ,etc.), contextos 
 nos quais a interação acontece (ambiente físico, contexto 
 social ou organizacional ,etc.), e ater-se às tecnologias 
-empregaTas (UarTware, plataformas, normas, linguagens 
-Te programação, políticas Te acesso em ambientes Te 
-trabalUo e resiTencial, etc.). As combinações Tesses 
-elementos são muito Tiferentes, por exemplo, em um 
-quiosque público, em um sistema Te agenTa compartilUaTa, 
-em uma cabine Te avião ou em um telefone celular.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justificativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justificativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
+empregadas (hardware, plataformas, normas, linguagens 
+de programação, políticas de acesso em ambientes de 
+trabalho e residencial, etc.). As combinações desses 
+elementos são muito diferentes, por exemplo, em um 
+quiosque público, em um sistema de agenda compartilhada, 
+em uma cabine de avião ou em um telefone celular.
+Acerca dessas asserções, assinale a opção correta.
+A   As duas asserções são proposições verdadeiras, e a 
+segunda é uma justificativa correta da primeira.
+B   As duas asserções são proposições verdadeiras, mas 
+a segunda não é uma justificativa correta da primeira.
+C   A primeira asserção é uma proposição verdadeira, e a 
+segunda, uma proposição falsa.
+D   A primeira asserção é uma proposição falsa, e a 
+segunda, uma proposição verdadeira.
+E   Tanto a primeira quanto a segunda asserções são 
 proposições falsas.
-QUNSTÃO 16  
-Nclipse, 
-Netbeans, 
-JTeveloper 
-são 
-exemplos 
-Te 
-ambientes integraTos Te Tesenvolvimento, cUamaTos Te 
-CMN, que têm por objetivo facilitar o Tesenvolvimento Te 
-softwares, provenTo maior proTutiviTaTe e gerenciamento 
-Te projetos. A especificação JavaBeans foi criaTa para 
-ser um paTrão Te Tesenvolvimento Te componentes que 
-possam ser facilmente usaTos por outros TesenvolveTores 
-em Tiferentes CMN. 
-Com relação ao tema, analise as asserções a seguir.
-Seja para o Netbeans ou para o Nclipse, é possível aTquirir 
-componentes Te terceiros que facilitem a implementação 
-To seu projeto
-PORQUN
-como o cóTigo Tesses componentes está em linguagem 
-intermeTiária, ou seja, inTepenTente Ta arquitetura Te um 
-computaTor real, só é necessário que a máquina virtual 
-esteja instalaTa no computaTor onTe o aplicativo será 
-executaTo e a máquina virtual será a responsável pela 
-interpretação To cóTigo para a linguagem Te máquina To 
-computaTor em execução.
-Acerca Tessas asserções, assinale a alternativa correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justificativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justificativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
-proposições falsas.
-QUNSTÃO 17  
-Os processos Te negócio aumentam o entenTimento To “o 
-que precisa ser feito” e To  “como precisa ser feito” Tentro 
-Te uma organização.
-(BALMAM, R. 2009, eT.2 , p. 25)
-SabenTo Tisso, a fase Ta gestão Te processos Te negócio 
-que evita a estagnação Tos processos organizacionais é
-A   a fase Te gerenciamento.
-B   a fase Te planejamento .
-C   a fase Te monitoração.
-M   a fase Te moTelagem.
-N   a fase Te otimização.
-*A25201111*

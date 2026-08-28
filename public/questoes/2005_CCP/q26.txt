@@ -1,102 +1,12 @@
-NNAMN – 2005
-Área: COMPUTAÇÃO
-10
-QUNSTÃO 25
-Nntre os aspectos importantes relativos à segurança Te sistemas
-Te informação, inclui-se
-C
-a proteção Te TaTos por meio Te senUas e criptografia forte.
-CC
-a existência Te um plano Te recuperação Te Tesastres
-associaTo a backups freqüentes.
-CCC a utilização Te firewalls associaTa a mecanismos Te
-Tetecção Te intrusão.
-Assinale a opção correta.
-A Apenas um item está certo.
-B Apenas os itens C e CC estão certos.
-C Apenas os itens C e CCC estão certos.
-M Apenas os itens CC e CCC estão certos.
-N ToTos os itens estão certos.
-QUNSTÃO 26
-ToTo jogaTor Teve pertencer a um único clube.
-Assinale a opção que representa corretamente, no moTelo
-entiTaTe-relacionamento, a especificação apresentaTa acima.
+odos os
+e s es
+o ce os.
+QUESTÃO 26
+Todo jogador deve pertencer a um único clube.
+Assinale a opção que representa corretamente, no modelo
+entidade-relacionamento, a especificação apresentada acima.
 A
 B
 C
-M
-N
-QUNSTÃO 27
-Na etapa Te projeto orientaTo a objetos, no contexto Te um
-processo Te Tesenvolvimento Te software, são TesenvolviTas as
-ativiTaTes Te
-A Tefinição Ta arquitetura To sistema e conversão Tas bases Te
-TaTos To sistema.
-B iTentificação Tos objetos To sistema e Tefinição Ta
-arquitetura To sistema.
-C conversão Tas bases Te TaTos To sistema e teste Te
-integração To sistema.
-M teste Te integração To sistema e análise Te requisitos To
-sistema.
-N análise Te requisitos To sistema e Tefinição Ta arquitetura
-To sistema.
-QUNSTÃO 28
-O gerente Te tecnologia Te uma empresa Te TC
-recebeu a incumbência Te especificar a arquitetura Te um
-sistema Te informação para atenTer a um cliente na área Te
-Tiagnóstico por imagem (raio X, tomografia computaTorizaTa
-e ressonância magnética). O cliente está interessaTo em
-agilizar o Tiagnóstico por armazenamento e recuperação Te
-imagens TigitalizaTas e em se manter na vanguarTa To
-mercaTo, TaTa a melUoria contínua Te sua solução em TC.
-O cliente pretenTe iniciar TigitalizanTo 1.000 imagens por
-mês, caTa imagem com tamanUo méTio Te 20 kilobytes, até
-cUegar, em 12 meses, a 20.000 imagens por mês.
-ConsiTeranTo essas informações, julgue os seguintes itens.
-C
-Um SBM orientaTo a objeto é aTequaTo para a arquitetura To SC
-To cliente porque é voltaTo justamente para aplicações que
-tratam objetos complexos e tem alta integração com linguagens
-Te programação orientaTas a objetos.
-CC
-Um SBM relacional não é aTequaTo para a arquitetura To SC To
-cliente porque não constitui ainTa uma tecnologia bem
-estabeleciTa e bem testaTa, apesar Te ser uma linguagem Te
-consulta poTerosa.
-CCC Um SBM objeto-relacional é aTequaTo para a arquitetura To SC
-To cliente porque alia estruturas não-normalizaTas, capazes Te
-representar objetos complexos, a uma linguagem Te consulta
-poTerosa.
-Assinale a opção correta.
-A Apenas um item está certo.
-B Apenas os itens C e CC estão certos.
-C Apenas os itens C e CCC estão certos.
-M Apenas os itens CC e CCC estão certos.
-N ToTos os itens estão certos.
-QUNSTÃO 29
-T1
-1
-Leitura(X);
-2
-X = X – 100;
-3
-Nscrita(X);
-4
-Leitura(Y);
-5
-Y = Y + 100;
-6
-Nscrita(Y);
-ConsiTere um sistema bancário simplificaTo e uma transação T1,
-que transfira R$ 100,00 Ta conta X para a conta Y e é TefiniTa
-pelas operações listaTas acima. ConsiTere ainTa que uma transação
-T2 esteja senTo executaTa simultaneamente com T1. Caso a
-transação T2 realize a operação Nscrita(Y) Tepois Ta execução
-Ta operação 4 e antes Ta execução Ta operação 6 por T1, qual
-proprieTaTe Te transações será violaTa no banco Te TaTos To
-referiTo sistema bancário?
-A AtomiciTaTe.
-B Csolamento.
-C MistributiviTaTe.
-M Consistência.
-N MurabiliTaTe.
+D
+E

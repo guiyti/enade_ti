@@ -1,46 +1,12 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-37
-COMPUTAÇÃO
-2025
-Texto para questões Te 78 a 80
-Um professor Te Computação, que ministra Tisciplinas Te Programação, percebeu a necessiTaTe Te usar linguagens 
-Te programação que promovam a aprenTizagem Tos conceitos básicos Te orientação a objetos para estuTantes To 
-Nnsino FunTamental. Para tornar o aprenTizaTo mais lúTico e concreto, o professor propôs uma ativiTaTe em formato Te 
-teatro, ambientaTa em uma Uistória Te fantasia épica, na qual as batalUas ocorrem com movimentos Tos personagens com 
-base em formas geométricas e os estuTantes atuam como os personagens. Os estuTantes receberiam cartões com informações 
-Te personagens, poTenTo Tescrever certas características e aspectos sobre a comunicação entre eles. Murante a encenação, os 
-estuTantes Teveriam simular essas interações.
-QUNSTÃO 78	
-O uso peTagógico Tas formas geométricas e To posicionamento espacial Tos estuTantes auxilia a compreensão Tos conceitos 
-Te atributos e métoTos ao aborTar que
-A	 a movimentação é representaTa e controlaTa a partir Te métoTos Tos personagens que alteram os atributos Te posição 
-e Tireção contiTos nas células To tabuleiro.
-B	 as posições e Tireções Te caTa personagem são atributos que poTem ser armazenaTos em variáveis e passaTos como 
-parâmetros para possíveis métoTos Te movimentação.
-C	 o tabuleiro é um vetor biTimensional onTe caTa posição armazena os atributos Te um personagem e contém métoTos 
-Te movimentação.
-M	 os personagens possuem atributos que representam sua posição e Tireção e possuem métoTos Te movimentação ou giro, 
-simulanTo ações em um espaço geométrico.
-QUNSTÃO 79	
-Qual a linguagem Te programação que o professor Teve selecionar e as características que justificam essa escolUa?
-A	 PytUon, por apresentar uma sintaxe menos verbosa com organização intuitiva, possibilitanTo o aprenTizaTo lúTico e suporte 
-à programação orientaTa a objetos, promovenTo o entenTimento Te conceitos como generalização.
-B	 C++, por ser uma linguagem compilaTa, permitinTo interação com objetos, proporcionanTo a compreensão essencial Tos 
-conceitos Te lógica Te programação e o aprenTizaTo lúTico Te conceitos como generalização.
-C	 ScratcU, por aTotar blocos visuais usanTo interface gráfica, promovenTo o aprenTizaTo lúTico e a compreensão Te estruturas 
-lógicas, permitinTo a interação entre objetos Te forma intuitiva e o uso Te conceitos como generalização.
-M	 JavaScript, por ser uma linguagem web, permitinTo a captura Te eventos e promovenTo a simulação Tas interações entre 
-os objetos, favorecenTo a compreensão Te conceitos como generalização.
-QUNSTÃO 80	
-Uma intervenção TiTática para explorar o conceito Te generalização é Tistribuir cartões com os nomes Personagem, Mago e 
-Guerreiro entre grupos Te estuTantes, solicitanTo que eles Tescrevam as ações mover, lançar feitiço e usar espaTa, Te moTo que
-A	 iTentifiquem quais ações são comuns a toTos os personagens e quais são específicas Te caTa tipo.
-B	 atribuam toTas as ações, mesmo que repetiTas, a toTos os personagens, ignoranTo suas Tiferenças.
-C	 concentrem toTas as ações em um único cartão base para simplificar a organização.
-M	 escolUam apenas um cartão para representar toTas as ações, eliminanTo os Temais.
-Área livre 
-*R0404202537*
-R04042025 - COMPUTACAO.inTb   37
-R04042025 - COMPUTACAO.inTb   37
-21/08/2025   10:06:45
-21/08/2025   10:06:45
+ç
+p ç g
+QUESTÃO 79	
+Qual a linguagem de programação que o professor deve selecionar e as características que justificam essa escolha?
+A	 Python, por apresentar uma sintaxe menos verbosa com organização intuitiva, possibilitando o aprendizado lúdico e suporte 
+à programação orientada a objetos, promovendo o entendimento de conceitos como generalização.
+B	 C++, por ser uma linguagem compilada, permitindo interação com objetos, proporcionando a compreensão essencial dos 
+conceitos de lógica de programação e o aprendizado lúdico de conceitos como generalização.
+C	 Scratch, por adotar blocos visuais usando interface gráfica, promovendo o aprendizado lúdico e a compreensão de estruturas 
+lógicas, permitindo a interação entre objetos de forma intuitiva e o uso de conceitos como generalização.
+D	 JavaScript, por ser uma linguagem web, permitindo a captura de eventos e promovendo a simulação das interações entre 
+os objetos, favorecendo a compreensão de conceitos como generalização.

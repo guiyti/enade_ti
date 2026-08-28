@@ -1,67 +1,9 @@
-22
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 26
-Um conũunto inTutivo S é TefniTo Te acorTo com os 
-seguintes passos:
-΀Base΁ Meclaração Tos elementos iniciais,  atƀmicos.
-΀CnTução΁  Mefnição  Te  regras  que  constroem 
-expressões a partir Te elementos ũA existentes em S.
-΀FecUo΁ Uma Teclaração Te que naTa mais estA em 
-S a não ser os elementos construíTos pelos passos 
-Base e CnTução.
-Os  operaTores  que  constroem  as  expressões  nos 
-passos Base e CnTução são cUamaTos Te construtores 
-To  conũunto  S.   Como  um  exemplo,   a  Tefnição 
-abaixo  especifca  um  conũunto  inTutivo  Prop,   Tas 
-proposições booleanas formaTas pelos construtores 
-V (valor verTaTeiro),  F (valor falso),  ! (para negação 
-Te expressões) e anT (para conũunção Te expressões).
-1. ΀Base΁ V, F estão em Prop.
-2. ΀CnTução΁ Se B estA em Prop,  então (! B) estA em 
-Prop.
-3.   ΀CnTução΁ Se B1 e B2 estão em Prop,  então (anT
-B1 B2) estA em Prop.
-4. ΀FecUo΁  NaTa  mais  estA  em  Prop,   a  não  ser  o 
-especifcaTo em Base e CnTução.
-Nxpressões (termos) em Prop incluem V, F, ! F, ! V, 
-(anT V F), (anT (! V) (! F)) e assim por Tiante.  Me 
-forma  anAloga,   linguagens  funcionais  permitem  a 
-Teclaração Te tipos inTutivos com seus respectivos 
-construtores.  
-Neste contexto,  avalie as seguintes afrmações.
-/.   Conũuntos 
-inTutivos 
-são 
-conũuntos 
-enumerAveis.
-//.   Conũuntos 
-infnitos 
-não 
-poTem 
-ser 
-especifcaTos 
-por 
-meio 
-Te 
-Tefnições 
-inTutivas.
-///.   Para estenTer a linguagem Prop Te tal forma 
-a  consiTerar  expressões  para  Tisũunção 
-e  implicação  Te  proposição,   é  necessArio 
-acrescentar mais Tois construtores  a Tefnição 
-Te Prop anterior.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 27
-ConsiTere o seguinte argumento:
-1 - Se existe fogo,  então existe oxiggnio.
-2 - Não UA oxiggnio.
-3 - Nntão não UA fogo.
-   regra  Te  infergncia  que  ũustifca  a  valiTaTe  To 
+QUESTÃO 27
+Ionsidere o seguinte argumento:
+1 - ^e existe fogo,  então existe oxiggnio.
+2 - Eão hA oxiggnio.
+3 - Então não hA fogo.
+   regra  de  infergncia  que  ũustifca  a  validade  do 
 argumento acima é
 A
 P ĺ Q, ¬P
@@ -72,11 +14,9 @@ P ĺ Q, ¬Q
 C
 P ĺ Q, Q
 P
-M
+D
 P ĺ Q, ¬Q
 ¬¬P
-N
+E
 P ĺ Q, P
 Q
-ÁRNA LCVRN
-*R03201422*

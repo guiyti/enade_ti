@@ -5,19 +5,48 @@
   "paginas": [
     23
   ],
-  "largura": 1155,
-  "altura": 884,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 279.9555969238281,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n22\nC\nCC\nQUNSTÃO 60\nConsiTere o circuito combinacional ilustraTo acima, que apresenta\na, b e c como sinais Te entraTa e s como sinal Te saíTa. A equação\nbooleana mínima que Tescreve a função Tesse circuito é igual a\nA s = a or not(b) or c.\nB s = a anT not(b) anT c.\nC s = not(a) or b or not(c).\nM s = not(a) anT b anT not(c).\nN s = (not(a) anT b) or c.\nQUNSTÃO 61\nConsiTere o volume Te visualização e os objetos iTentificaTos\ncomo Î, Ï e Ð na figura acima. ConsiTere, ainTa, que toTos os\nobjetos têm o mesmo tamanUo, que o objeto Î está localizaTo fora\nTo volume Te visualização e que os objetos Ï e Ð estão Tentro\nTele. A partir Tesses TaTos, no que concerne à execução To\npipeline Te visualização na situação acima representaTa, é correto\ninferir que\nC\no objeto Î está na linUa Te visão To observaTor, mas não\naparece na imagem final.\nCC\né suficiente, para a Teterminação Tas faces visíveis, realizar o\nrecorte contra o volume canônico.\nCCC a remoção Te faces traseiras (back face culling) utiliza\ninformação Te posição e orientação To observaTor.\nCV o processo Te visualização garante que os objetos Ï e Ð sejam\ntotalmente visíveis na imagem final.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CCC.\nM CCC e CV.\nN CCC e CV.\nQUNSTÃO 62\nConsiTere que um colega seu tenUa ganUaTo uma máquina\nfotográfica Tigital e tenUa tiraTo a foto iTentificaTa por C acima.\nNa seqüência, a partir Ta imagem C, consiTere que ele tenUa\ngeraTo a imagem CC acima. Nessa situação, o processamento\nrealizaTo sobre a imagem C que melUor explica a geração Ta\nimagem CC envolve a aplicação Te\nA filtro passa-baixas.\nB quantizaTor.\nC reamostragem.\nM filtro passa-altas.\nN compressão.",
+  "caminho_png": "/questoes/2005_CCP/q60.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q60.txt",
+  "largura": 1155,
+  "altura": 1031,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 60\nConsidere o circuito combinacional ilustrado acima, que apresenta\na, b e c como sinais de entrada e s como sinal de saída. A equação\nbooleana mínima que descreve a função desse circuito é igual a\nA s = a or not(b) or c.\nB s = a and not(b) and c.\nC s = not(a) or b or not(c).\nD s = not(a) and b and not(c).\nE s = (not(a) and b) or c.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2005_CCP/figuras/q60_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2005_CCP/q60.png",
-  "caminho_json": "/questoes/2005_CCP/q60.json",
-  "caminho_txt": "/questoes/2005_CCP/q60.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 60,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 40.31999969482422,
+      "y": 48.555572509765625,
+      "x1": 86.74800109863281,
+      "y1": 54.55557632446289,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 60"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297582"
 }

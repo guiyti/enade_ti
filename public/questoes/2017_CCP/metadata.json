@@ -8,6 +8,17 @@
   "questoes_extraidas": 38,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2017_CCP",
+    "page_width": 628.1,
+    "page_height": 826.5,
+    "header_cutoff_y": 76.5,
+    "footer_cutoff_y": 774.5,
+    "min_marker_y": 88.7,
+    "margin_x": 25.0,
+    "detected_headers": 39,
+    "detected_footers": 76
+  },
   "questoes": [
     {
       "id_questao": "qd01",
@@ -18,8 +29,8 @@
         3
       ],
       "largura": 2440,
-      "altura": 3651,
-      "confianca": 0.98,
+      "altura": 3678,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -39,7 +50,7 @@
       ],
       "largura": 2440,
       "altura": 1716,
-      "confianca": 0.98,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -58,8 +69,8 @@
         5
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -78,8 +89,8 @@
         6
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 1608,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -98,8 +109,8 @@
         7
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -118,8 +129,8 @@
         8
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2463,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -138,8 +149,8 @@
         9
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2452,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -158,8 +169,8 @@
         10
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2266,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -178,8 +189,8 @@
         11
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -199,8 +210,8 @@
         13
       ],
       "largura": 2440,
-      "altura": 3054,
-      "confianca": 0.98,
+      "altura": 3081,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -221,11 +232,12 @@
         15
       ],
       "largura": 2440,
-      "altura": 4892,
+      "altura": 4880,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Algoritmos e Estruturas de Dados",
+        "Programação e POO"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/qd03.png",
@@ -241,8 +253,8 @@
         16
       ],
       "largura": 2440,
-      "altura": 2656,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -261,8 +273,8 @@
         17
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2512,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -281,11 +293,11 @@
         17
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 1906,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Programação e POO"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q11.png",
@@ -301,8 +313,8 @@
         18
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -322,7 +334,7 @@
       ],
       "largura": 2440,
       "altura": 1818,
-      "confianca": 0.98,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -341,8 +353,8 @@
         19
       ],
       "largura": 2440,
-      "altura": 1134,
-      "confianca": 0.98,
+      "altura": 1167,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -361,8 +373,8 @@
         20
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -381,11 +393,12 @@
         20
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Segurança da Informação",
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q16.png",
@@ -401,8 +414,8 @@
         21
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2277,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -421,8 +434,8 @@
         21
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -441,8 +454,8 @@
         22
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2062,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -462,10 +475,10 @@
       ],
       "largura": 2440,
       "altura": 1039,
-      "confianca": 0.98,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Redes de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q20.png",
@@ -481,8 +494,8 @@
         23
       ],
       "largura": 2440,
-      "altura": 1913,
-      "confianca": 0.98,
+      "altura": 1189,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -501,8 +514,8 @@
         24
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -521,8 +534,8 @@
         24
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2155,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -541,8 +554,8 @@
         25
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2563,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -561,8 +574,8 @@
         25
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2185,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -581,8 +594,8 @@
         26
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2026,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -601,8 +614,8 @@
         26
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -621,8 +634,8 @@
         27
       ],
       "largura": 1222,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2156,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -641,11 +654,11 @@
         27
       ],
       "largura": 1223,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2164,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q29.png",
@@ -661,8 +674,8 @@
         28
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 1979,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -681,8 +694,8 @@
         29
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -701,8 +714,8 @@
         30
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2938,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -721,8 +734,8 @@
         31
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 1733,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -741,11 +754,11 @@
         32
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 2047,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Banco de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2017_CCP/q34.png",
@@ -761,8 +774,8 @@
         33
       ],
       "largura": 2440,
-      "altura": 2905,
-      "confianca": 0.98,
+      "altura": 1773,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"

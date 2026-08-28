@@ -1,148 +1,35 @@
-20
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 22
-O  moTelo  relacional  representa  o  banco  Te  TaTos 
-como  uma  coleção  Te  relações  (tabelas).   Na 
-terminologia formal To moTelo relacional,  uma linUa 
-é cUamaTa Te " tupla",  o ơtulo Ta coluna é TenominaTo "
-atributo"  e a tabela é cUamaTa Te " relação".  O tipo 
-Te TaTo que Tescreve os tipos Te valores que poTem 
-aparecer em caTa coluna é TenominaTo " Tomínio".  
-Um  banco  Te  TaTos  relacional  poTe  impor  vArios 
-tipos Te restrições nos TaTos armazenaTos.
-N>M SZ/,  Z.͖  N s T,N,  S.  B.  Sistema Te Banco Te MaTos 
-FunTamentos e Aplicações.  Zio Te :aneiro:  >TC,  2002.  
-Zestrições que permitem controlar situações como,  
-por exemplo,  " o salArio Te um empregaTo não Teve 
-exceTer  o  salArio  To  supervisor  To  empregaTo"   e 
-utilizam mecanismos cUamaTos triggers (gatilUos) na 
-sua implementação,  são To tipo
-A restrições Te Tomínio.
-B restrições Te uniciTaTe.
-C restrições Te integriTaTe referencial.
-M restrições Te integriTaTe Ta entiTaTe.
-N restrições Te integriTaTe semantica.
-ÁRNA LCVRN
-QUNSTÃO 23
-Os 
+QUESTÃO 23
+Ks 
 termos 
 inovação 
 e 
-empreenTeTorismo 
-Tizem  respeito  a  prAtica  Ta  gestão  e  a  muTança 
+empreendedorismo 
+dizem  respeito  a  prAtica  da  gestão  e  a  mudança 
 criativa.  
   
 inovação 
 preocupa-se,  
-sobretuTo,  
-com  o  Tesenvolvimento  Te  proTutos.   :A  o 
-empreenTeTorismo  TeTica-se  mais  a  questão  Ta 
-criação Te pequenas empresas.
-Nesse contexto,  avalie as afrmações a seguir.
-/.   /novação  e  sustentabiliTaTe  são  processos 
+sobretudo,  
+com  o  desenvolvimento  de  produtos.   :A  o 
+empreendedorismo  dedica-se  mais  a  questão  da 
+criação de pequenas empresas.
+Eesse contexto,  avalie as afrmações a seguir.
+/.   /novação  e  sustentabilidade  são  processos 
 antagƀnicos,   ũA  que  a  inovação  contribui 
-Te  forma  importante  para  a  TegraTação  To 
-meio ambiente TeviTo a sua associação com 
-o aumento To crescimento econƀmico e To 
+de  forma  importante  para  a  degradação  do 
+meio ambiente devido a sua associação com 
+o aumento do crescimento econƀmico e do 
 consumo.
-//.      exploração  Te  um  problema  social 
-transformaTo  em  uma  oportuniTaTe  Te 
-negocio  visanTo  a  geração  Te  lucro  ao 
-empreenTeTor é um Tos principais obũetivos 
-To empreenTeTorismo social.
-///.   Nem toTo resultaTo Te um processo criativo 
-estA associaTo a uma inovação.
+//.      exploração  de  um  problema  social 
+transformado  em  uma  oportunidade  de 
+negocio  visando  a  geração  de  lucro  ao 
+empreendedor é um dos principais obũetivos 
+do empreendedorismo social.
+///.   Eem todo resultado de um processo criativo 
+estA associado a uma inovação.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201420*
-
-21
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 24
-O ZUP (Zational UnifeT Process) é subTiviTiTo em 
-&ases,  que inTicam a gnfase que é TaTa ao proũeto 
-em um TaTo instante,  e em &luxos Te trabalUo,  que 
-Tefnem os grupos Te ativiTaTes a serem realizaTas 
-ao longo Tas fases.
-ConsiTeranTo que no Tesenvolvimento Te soŌǁare
-utilizam-se  técnicas  Te  anAlise  e  proũeto  orientaTo 
-a  obũetos  e  que  as  ativiTaTes  seũam  TistribuíTas 
-Te acorTo com o ZUP, o momento que Tevem ser 
-elaboraTos os Tiagramas Te classes e Te interação 
-entre os obũetos To sistema é
-A na fase Te Concepção,  no Ňuxo Te MoTelagem Te 
-negocios.
-B na  fase  Te  Nlaboração,   no  Ňuxo  Te   nAlise  e 
-Mesign.
-C na  fase  Te  Concepção,   no  Ňuxo  Te   nAlise  e 
-Mesign.
-M na fase Te Nlaboração,  no Ňuxo Te Zequisitos.
-N na fase Te Concepção,  no Ňuxo Te Zequisitos.
-QUNSTÃO 25
-  engenUaria Te soŌǁare consiTera Tiversos aspectos 
-para a garantia Ta qualiTaTe.  Os requisitos funcionais 
-Tefnem  como  um  sistema  TeverA  se  comportar 
-em  relação  as  suas  funcionaliTaTes  bAsicas,   ũA  os 
-requisitos não funcionais avaliam outros aspectos To 
-soŌǁare.
-São exemplos Te requisitos não funcionais a serem 
-consiTeraTos em um soŌǁare:
-A segurança,  TesempenUo,  estresse e sistema.
-B usabiliTaTe,  segurança,  aceitação e confabiliTaTe.
-C usabiliTaTe,  
-segurança,  
-TesempenUo 
-e 
-confabiliTaTe.
-M segurança,  
-aceitação,  
-testabiliTaTe 
-e 
-confTencialiTaTe.
-N usabiliTaTe,  
-confTencialiTaTe,  
-aceitação 
-e 
-confabiliTaTe.
-QUNSTÃO 26
-O serviço MNS (Momain Name SǇstem) traTuz nomes 
-alfanuméricos  Te  Uosts  em  enTereços  numéricos,  
-Te  acorTo  com  o  protocolo  /P  (/nternet  Protocol).  
-Nssa ação é comumente cUamaTa Te resolução Te 
-enTereço.
-T NNNB UM,   .  S.  ReTes Te ComputaTores.
-Zio Te :aneiro:  Campus,  2003 (aTaptaTo).
-ConsiTere 
-um 
-conũunto 
-Te 
-computaTores 
-conectaTos  em  uma  reTe  local,   os  quais  tgm  a 
-sua Tisposição um serviTor MNS capaz Te resolver 
-enTereços,  seũam eles internos ou externos.
-Nesse contexto,  avalie as afrmações a seguir.
-/.   O serviTor MNS também executa funções Te 
-cliente  MNS  quanTo  não  é  autoritativo  para 
-TeterminaTo enTereço.
-//.     aToção To /Pv6 (/nternet Protocol,  versão 6) 
-TispensarA serviços Te MNS,  pois suas funções 
-serão incorporaTas pelo proprio protocolo /P.
-///.   O  cacUe  MNS  permite  que  TeterminaTa 
-requisição To cliente MNS possa ser resolviTa 
-sem  que  seũa  necessArio  recorrer  a  outro 
-serviço MNS.
-/s.   O  protocolo  MNS  TepenTe  Te  um  banco  Te 
-TaTos TistribuíTo.
- correto apenas o que se afrma em
-A / e //.
-B / e ///.
-C // e /s.
-M /,  /// e /s.
-N //,  /// e /s.
-ÁRNA LCVRN
-*R40201421*
+D // e ///,  apenas.
+E /,  // e ///.

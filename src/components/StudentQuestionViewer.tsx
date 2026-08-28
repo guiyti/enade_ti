@@ -211,7 +211,7 @@ export function StudentQuestionViewer({
         ) : (
           /* Question Display */
           <div className="flex-1 flex flex-col">
-            {/* Progress Stepper */}
+            {/* Progress Stepper & Context Bar */}
             <div className="bg-slate-900/60 border-b border-slate-800 px-4 py-2 flex items-center justify-between text-xs select-none">
               <div className="flex items-center gap-2">
                 <span className="font-bold text-slate-300">
@@ -236,6 +236,35 @@ export function StudentQuestionViewer({
               <span className="text-[11px] text-slate-400 font-mono">
                 {title || setLabel}
               </span>
+            </div>
+
+            {/* Question Categories & Topic Tags Bar */}
+            <div className="bg-slate-900/40 border-b border-slate-800/80 px-4 py-1.5 flex items-center justify-between gap-2 flex-wrap text-xs select-none">
+              <div className="flex items-center gap-1.5 flex-wrap">
+                <span className="text-[10px] font-black uppercase tracking-wider text-slate-400">
+                  Tags & Conteúdo:
+                </span>
+                {question.categorias && question.categorias.length > 0 ? (
+                  question.categorias.map((cat) => (
+                    <span
+                      key={cat}
+                      className="inline-flex items-center gap-1 text-[11px] font-bold px-2.5 py-0.5 rounded-md bg-indigo-500/15 text-indigo-300 border border-indigo-500/30 shadow-sm"
+                    >
+                      <span className="text-indigo-400">🏷️</span> {cat}
+                    </span>
+                  ))
+                ) : (
+                  <span className="inline-flex items-center gap-1 text-[11px] font-medium px-2 py-0.5 rounded-md bg-slate-800 text-slate-300 border border-slate-700">
+                    🏷️ {mainCategory}
+                  </span>
+                )}
+              </div>
+
+              <div className="flex items-center gap-1.5 text-[11px] text-slate-400">
+                <span className="font-semibold text-slate-300 bg-slate-800/80 px-2 py-0.5 rounded border border-slate-700/80 font-mono">
+                  {exam.id_prova} · {question.id_questao.toUpperCase()}
+                </span>
+              </div>
             </div>
 
             {/* High-Resolution Question Image */}

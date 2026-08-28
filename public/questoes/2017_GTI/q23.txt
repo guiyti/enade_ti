@@ -1,71 +1,37 @@
-26
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 22
-O  COB/T  5  fornece  um  moTelo  abrangente  que 
-auxilia as organizações a atingirem seus obũetivos Te 
-'overnança e 'estão Te Tecnologia Ta /nformação.  
-Nle  baseia-se  em  cinco  princípios  bAsicos  para 
-'overnança  e  'estão  Te  T/  nas  organizações.  
-Mentre eles,  Testaca-se o terceiro princípio:  aplicar 
-um MoTelo jnico /ntegraTo.  
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. isaca. orgх.
- cesso em:  18 ũul.  2017 (aTaptaTo).
-Me acorTo com o terceiro princípio,  o COB/T 5 poTe 
-ser consiTeraTo um moTelo unico e integraTo porque
-A  incorpora  o  /T/>  para  infraestrutura,   operação 
-e gerenciamento Te serviços Te T/ e o PMBO< 
-para a gestão Te proũetos.
-B  é completo na cobertura Ta organização,  o que 
-Tescarta a necessiTaTe Te utilização Te outros 
-moTelos,  paTrões e prAticas.
-C  unifca  governança  e  gestão  em  uma  unica 
-Tisciplina,  com ativiTaTes voltaTas a um unico 
-proposito Tentro To moTelo organizacional.
-M  utiliza o PZ/NCN2 como moTelo Te maturiTaTe 
-Te processo para meTir a maturiTaTe atual Tos 
-processos Te T/ Ta organização e melUorA-los.
-N  estA alinUaTo a outros paTrões e moTelos mais 
-recentes,   o  que  permite  que  a  organização  o 
-aTote como principal integraTor To moTelo Te 
-governança e gestão.
-Area livre
-QUNSTÃO 23
+QUESTÃO 23
 Zecentemente,  
 variantes 
-Te 
+de 
 ransomǁare
-provocaram  uma  onTa  Te  sequestros  Tigitais,   que 
-afetou Uospitais,  operaToras Te telecomunicações 
-e usuArios resiTenciais.
-Os  ransomǁares  são  utilizaTos  com  o  obũetivo 
-Te entrar nos sistemas corporativos por meio Ta 
-reTe e criptografar toTos os TaTos Ta empresa,  
-Te moTo que possam exigir um resgate financeiro 
+provocaram  uma  onda  de  sequestros  digitais,   que 
+afetou hospitais,  operadoras de telecomunicações 
+e usuArios residenciais.
+Ks  ransomǁares  são  utilizados  com  o  obũetivo 
+de entrar nos sistemas corporativos por meio da 
+rede e criptografar todos os dados da empresa,  
+de modo que possam exigir um resgate financeiro 
 para liberA-los.
-Misponível em:  фUtp:ͬͬ
+Disponível em:  фhtp:ͬͬ
 ǁǁǁ. ũunipernetǁorŬs. com. brх.
- cesso em:  10 ũul.  2017 (aTaptaTo).
-ConsiTeranTo  as  informações  To  texto,   avalie 
-as  afrmações  a  seguir,   em  relação  as  meTiTas 
-Te  prevenção  que  Tevem  compor  a  política  Te 
-segurança corporativa contra esse tipo Te malǁare.
-/.   Meve-se  manter  o  treinamento  constante 
-Tos usuArios em relação ao uso Te e-mail e 
+ cesso em:  10 ũul.  2017 (adaptado).
+Ionsiderando  as  informações  do  texto,   avalie 
+as  afrmações  a  seguir,   em  relação  as  medidas 
+de  prevenção  que  devem  compor  a  política  de 
+segurança corporativa contra esse tipo de malǁare.
+/.   Deve-se  manter  o  treinamento  constante 
+dos usuArios em relação ao uso de e-mail e 
 sítios seguros,  suspeitos ou falsos.
-//.   Meve-se  garantir  a  existgncia  Te  uma  boa 
-política  Te  combate  e  recuperação  contra 
-Tesastres em relação as copias Te segurança.
-///.   Meve-se prevenir a contaminação por meio 
-Te ferramentas capazes Te Tetectar ataques 
-Te  força  bruta,   característicos  Tesses 
+//.   Deve-se  garantir  a  existgncia  de  uma  boa 
+política  de  combate  e  recuperação  contra 
+desastres em relação as copias de segurança.
+///.   Deve-se prevenir a contaminação por meio 
+de ferramentas capazes de detectar ataques 
+de  força  bruta,   característicos  desses 
 ǁorms,   e  cuũo  obũetivo  é  contaminar  os 
-computaTores Ta reTe.
+computadores da rede.
  correto o que se afrma em
 A  /,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R43201726*
+D  // e ///,  apenas.
+E  /,  // e ///.

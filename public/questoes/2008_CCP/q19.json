@@ -5,17 +5,46 @@
   "paginas": [
     10
   ],
-  "largura": 2302,
-  "altura": 1066,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 294.59999999999997,
+      "y1": 323.606689453125,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q19.txt",
+  "largura": 1153,
+  "altura": 1068,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 19\nUma alternativa para o aumento de desempenho de sistem\nnúcleos, chamados multicores. Nesses sistemas, cada núc\nprocessador, já sendo comuns, atualmente, configuraçõ\nprocessadores multicores, e sabendo que threads são \ncompartilham suas áreas de código e dados, mas mantêm\nAo dividirem suas atividades em múltiplas threads que po\nbeneficiar mais efetivamente dos diversos núcleos dos pro\nporque\no sistema operacional nos processadores multicores pode a\ndiversas seqüências de código, sobrepondo suas execuç\naplicações às quais estão associadas.\nAcerca dessas asserções, assinale a opção correta.\nA\nAs duas asserções são proposições verdadeiras, e a s\nB\nAs duas asserções são proposições verdadeiras, mas \nC\nA primeira asserção é uma proposição verdadeira, e a\nD\nA primeira asserção é uma proposição falsa, e a segun\nE\nTanto a primeira quanto a segunda asserções são pro",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Sistemas Operacionais"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 36.838104248046875,
+      "y": 76.48672485351562,
+      "x1": 559.157470703125,
+      "y1": 148.0920867919922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 19\nUma alternativa para o aumento de desempenho de sistemas computacionais é o uso de processadores com múltiplos\nnúcleos, chamados multicores. Nesses sistemas, cada núcleo, normalmente, tem as funcionalidades completas de um\nprocessador, já sendo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso de\nprocessadores multicores, e sabendo que threads são estruturas de execução associadas a um processo, que\ncompartilham suas áreas de código e dados, mas mantêm contextos independentes, analise as seguintes asserções."
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "9\nCOMPUTAÇÃO\nQUNSTÃO 19\nUma alternativa para o aumento Te TesempenUo Te sistemas computacionais é o uso Te processaTores com múltiplos\nnúcleos, cUamaTos multicores. Nesses sistemas, caTa núcleo, normalmente, tem as funcionaliTaTes completas Te um\nprocessaTor, já senTo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso Te\nprocessaTores multicores, e sabenTo que tUreaTs são estruturas Te execução associaTas a um processo, que\ncompartilUam suas áreas Te cóTigo e TaTos, mas mantêm contextos inTepenTentes, analise as seguintes asserções.\nAo TiviTirem suas ativiTaTes em múltiplas tUreaTs que poTem ser executaTas paralelamente, aplicações poTem se\nbeneficiar mais efetivamente Tos Tiversos núcleos Tos processaTores multicores\nporque\no sistema operacional nos processaTores multicores poTe alocar os núcleos existentes para executar simultaneamente\nTiversas seqüências Te cóTigo, sobreponTo suas execuções e, normalmente, reTuzinTo o tempo Te resposta Tas\naplicações às quais estão associaTas.\nAcerca Tessas asserções, assinale a opção correta.\nA\nAs Tuas asserções são proposições verTaTeiras, e a segunTa é uma justificativa correta Ta primeira.\nB\nAs Tuas asserções são proposições verTaTeiras, mas a segunTa não é uma justificativa correta Ta primeira.\nC\nA primeira asserção é uma proposição verTaTeira, e a segunTa, uma proposição falsa.\nM\nA primeira asserção é uma proposição falsa, e a segunTa, uma proposição verTaTeira.\nN\nTanto a primeira quanto a segunTa asserções são proposições falsas.\nQUNSTÃO 20 – MCSCURSCVA\nTabelas Te Tispersão (tabelas\nUasU) armazenam elementos com\nbase no valor absoluto Te suas\ncUaves e em técnicas Te tratamento\nTe colisões. As funções Te Tispersão\ntransformam cUaves em enTereços-\nbase Ta tabela, ao passo que o\ntratamento \nTe \ncolisões \nresolve\nconflitos em casos em que mais Te\numa cUave é mapeaTa para um\nmesmo enTereço-base Ta tabela. \nSuponUa que uma aplicação\nutilize uma tabela Te Tispersão com\n23 enTereços-base (ínTices Te 0 a 22)\ne empregue U(x) = x moT 23 como\nfunção Te Tispersão, em que x\nrepresenta a cUave To elemento cujo\nenTereço-base Teseja-se computar.\nCnicialmente, essa tabela Te Tispersão\nencontra-se vazia. Nm seguiTa, a\naplicação solicita uma seqüência Te\ninserções Te elementos cujas cUaves\naparecem na seguinte orTem: 44, 46,\n49, 70, 27, 71, 90, 97, 95.\nCom relação à aplicação Tescrita, faça o que se peTe a seguir.\nA Nscreva, no espaço reservaTo, o conjunto Tas cUaves envolviTas em\ncolisões.\n(valor: 4,0 pontos)\nRASCUNHO – QUNSTÃO 20 - A\nB Assuma que a tabela Te Tispersão trate colisões por meio Te\nencaTeamento exterior. Nsboce a tabela Te Tispersão para mostrar\nseu conteúTo após a seqüência Te inserções referiTa.\n(valor: 6,0 pontos)\nRASCUNHO – QUNSTÃO 20 - B",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q19.png",
-  "caminho_json": "/questoes/2008_CCP/q19.json",
-  "caminho_txt": "/questoes/2008_CCP/q19.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.394975"
 }

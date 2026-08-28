@@ -6,19 +6,56 @@
     7,
     8
   ],
-  "largura": 2306,
-  "altura": 1743,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 7,
+      "x0": 25.0,
+      "y0": 294.1955871582031,
+      "x1": 571.16,
+      "y1": 525.6665649414062,
+      "coluna": 0
+    },
+    {
+      "pagina": 8,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 251.03561401367188,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n6\nitem b)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nQUNSTÃO 10 – MCSC URSCVA\nVilarejos que afunTam TeviTo ao Terretimento Ta camaTa congelaTa To subsolo, uma explosão na\nquantiTaTe Te insetos, números recorTe Te incênTios florestais e caTa vez menos gelo — esses são alguns Tos\nsinais mais óbvios e assustaTores Te que o Alasca está ficanTo mais quente TeviTo às muTanças climáticas,\nTisseram cientistas.\nAs temperaturas atmosféricas no estaTo norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\nTécaTas, segunTo a Avaliação To Cmpacto To Clima no Ártico, um estuTo amplo realizaTo por pesquisaTores\nTe oito países.\nFolUa Te S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno caTa vez mais eviTente TeviTo a inúmeros acontecimentos que, como os Tescritos no texto, têm\nafetaTo toTa a UumaniTaTe. Apresente Tuas sugestões Te proviTências a serem tomaTas pelos governos que tenUam como objetivo\nminimizar o processo Te aquecimento global. (valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n7\n1. As questões Te 11 a 40, a seguir, TistribuíTas Te acorTo com o quaTro abaixo, são\nespecíficas para os estuTantes Te cursos com perfil Te BacUarelaTo em Sistemas Te\nCnformação. Os Temais estuTantes Teverão passar para a questão Te número 41.\nPNRFCL MO CURSO\nNÚMNRO MAS QUNSTÕNS\nOBJNTCVAS\nMCSCURSCVAS\nBacUarelaTo em Sistemas Te Cnformação\n11 a 38\n39 e 40\n2. Você Teve responTer apenas às questões referentes ao perfil profissional To curso em que\nvocê está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.\n3. Favor responTer também ao questionário Te percepção sobre a prova localizaTo no final\nTeste caTerno.\nAs questões Te 11 a 40, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te\nBACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO\nQUNSTÃO 11\nApesar Te toTo o Tesenvolvimento, a construção Te computaTores\ne processaTores continua, basicamente, seguinTo a arquitetura\nclássica Te von Neumann. As exceções a essa regra encontram-se\nem computaTores Te propósitos específicos e nos TesenvolviTos\nem centros Te pesquisa. Assinale a opção em que estão\ncorretamente apresentaTas características Ta operação básica Te\num processaTor clássico.\nA Cnstruções e TaTos estão em uma memória física única; um\nprograma é constituíTo Te uma seqüência Te instruções Te\nmáquina; uma instrução é liTa Ta memória Te acorTo com a\norTem Tessa seqüência e, quanTo é executaTa, passa-se, então,\npara a próxima instrução na seqüência.\nB Cnstruções e TaTos estão em memórias físicas Tistintas; um\nprograma é constituíTo Te um conjunto Te instruções Te\nmáquina; uma instrução é liTa Ta memória quanTo o seu\noperanTo-Testino necessita ser recalculaTo; essa instrução é\nexecutaTa e o resultaTo é escrito no operanTo Te Testino,\npassanTo-se, então, para o próximo operanTo a ser recalculaTo.\nC Cnstruções e TaTos estão em uma memória física única; um\nprograma é constituíTo Te um conjunto Te instruções Te\nmáquina; uma instrução é liTa Ta memória quanTo toTos os\nseus operanTos-fonte estiverem prontos e Tisponíveis; essa\ninstrução é executaTa e o resultaTo é escrito no operanTo Te\nTestino, passanTo-se, então, para a instrução seguinte que tiver\ntoTos seus operanTos Tisponíveis.\nM Cnstruções e TaTos estão em memórias físicas Tistintas; um\nprograma é constituíTo Te um conjunto Te instruções Te\nmáquina; uma instrução é liTa Ta memória quanTo toTos os\nseus operanTos-fonte estiverem prontos e Tisponíveis; essa\ninstrução é executaTa e o resultaTo é escrito no operanTo Te\nTestino, passanTo-se, então, para a instrução seguinte que\nestiver com toTos os seus operanTos Tisponíveis.\nN Cnstruções e TaTos estão em memórias físicas Tistintas; um\nprograma é constituíTo Te uma seqüência Te instruções Te\nmáquina; uma instrução é liTa Ta memória Te acorTo com a\norTem Tessa seqüência e, quanTo é executaTa, passa-se, então,\npara a próxima instrução na seqüência.\nQUNSTÃO 12\nUm elemento imprescinTível em um computaTor é o sistema Te\nmemória, componente que apresenta granTe varieTaTe Te tipos,\ntecnologias e organizações. Com relação a esse assunto, julgue\nos itens seguintes.\nC\nPara enTereçar um máximo Te 2 palavras Tistintas, uma\nN\nmemória semiconTutora necessita Te, no mínimo, N bits Te\nenTereço.\nCC\nNm \nmemórias \nsecunTárias \nconstituíTas \npor \nTiscos\nmagnéticos, as palavras estão organizaTas em blocos, e caTa\nbloco possui um enTereço único, com base na sua\nlocalização física no Tisco.\nCCC A tecnologia Te memória Tinâmica inTica que o conteúTo\nTessa memória poTe ser alteraTo (liTo e escrito), ao\ncontrário Ta tecnologia Te memória estática, cujo conteúTo\npoTe apenas ser liTo, mas não poTe ser alteraTo.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 13\nJulgue os itens a seguir, acerca Te algoritmos para orTenação.\nC\nO algoritmo Te orTenação por inserção tem complexiTaTe\nO(n × log n).\nCC\nUm algoritmo Te orTenação é Tito estável caso ele não altere\na posição relativa Te elementos Te mesmo valor.\nCCC No algoritmo quicksort, a escolUa To elemento pivô\ninfluencia o TesempenUo To algoritmo.\nCV O bubble-sort e o algoritmo Te orTenação por inserção\nfazem, em méTia, o mesmo número Te comparações.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CV.\nM C, CCC e CV.\nN CC, CCC e CV.",
+  "caminho_png": "/questoes/2005_CCP/qd10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/qd10.txt",
+  "largura": 2306,
+  "altura": 1890,
+  "confianca": 0.85,
+  "texto_completo": "QUESTÃO 10 – DISC URSIVA\nVilarejos que afundam devido ao derretimento da camada congelada do subsolo, uma explosão na\nquantidade de insetos, números recorde de incêndios florestais e cada vez menos gelo — esses são alguns dos\nsinais mais óbvios e assustadores de que o Alasca está ficando mais quente devido às mudanças climáticas,\ndisseram cientistas.\nAs temperaturas atmosféricas no estado norte-americano aumentaram entre 2 C e 3 C nas últimas cinco\no\no\ndécadas, segundo a Avaliação do Impacto do Clima no Ártico, um estudo amplo realizado por pesquisadores\nde oito países.\nFolha de S. Paulo, 28/9/2005.\nO aquecimento global é um fenômeno cada vez mais evidente devido a inúmeros acontecimentos que, como os descritos no texto, têm\nafetado toda a humanidade. Apresente duas sugestões de providências a serem tomadas pelos governos que tenham como objetivo\nminimizar o processo de aquecimento global. (valor: 10,0 pontos)\n\n1. As questões de 11 a 40\nespecíficas para os estud\nInformação. Os demais es\nPERFIL DO CUR\nBacharelado em Sistemas de \n2. Você deve responder apen\nvocê está inscrito, de acor\n3. Favor responder também \ndeste caderno.\nAs questões de 11 a 40, a seguir, são específicas pa\nBACHARELADO EM SIST",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2005_CCP/figuras/qd10_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2005_CCP/qd10.png",
-  "caminho_json": "/questoes/2005_CCP/qd10.json",
-  "caminho_txt": "/questoes/2005_CCP/qd10.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "DISCURSIVA",
+      "pagina": 7,
+      "x": 40.91999816894531,
+      "y": 306.1955871582031,
+      "x1": 139.70399475097656,
+      "y1": 312.1955871582031,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.85,
+      "texto_original": "QUESTÃO 10 – DISC URSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297243"
 }

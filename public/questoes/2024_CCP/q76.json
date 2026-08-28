@@ -5,17 +5,46 @@
   "paginas": [
     36
   ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 328.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 497.24810791015625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q76.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q76.txt",
   "largura": 2475,
   "altura": 732,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "q p\nç\n,\np\np\nQUESTÃO 76\t\nPara desenvolver a autonomia dos estudantes, por meio da robótica educacional, empregando metodologias ativas e estratégias \navaliativas centradas no estudante, qual ação representa uma escolha para esse plano de aula?\nA\t Dividir a turma em duplas para resolverem um estudo de caso sobre acessibilidade urbana, propondo soluções robóticas, \ncom posterior apresentação à classe e avaliação por pares.\nB\t Apresentar um conteúdo expositivo sobre os tipos de sensores utilizados em robótica e aplicar uma atividade individual \ncom perguntas de múltipla escolha sobre o tema.\nC\t Solicitar aos estudantes que sigam um roteiro técnico fixo para montar um robô, avaliando a precisão da montagem ao \nfinal da aula.\nD\t Atribuir aos grupos um projeto de montagem de robôs, com base em manuais previamente selecionados, com avaliação \nrealizada pelo professor.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 76,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 64.6063003540039,
+      "y": 340.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 356.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 76"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n36\n2025\nTexto para questões Te 75 a 77\nUm professor Te Computação está elaboranTo um plano Te aula para turmas To Nnsino FunTamental. Ao propor Tesafios \nque envolvem planejamento, construção e programação Te robôs, os estuTantes são incentivaTos a tomar Tecisões, resolver \nproblemas Te forma colaborativa e refletir sobre seu processo Te aprenTizagem. Nesse sentiTo, metoTologias ativas poTem ser \nintegraTas aos planos Te aula para ampliar o engajamento e a responsabiliTaTe Tos estuTantes sobre sua própria aprenTizagem.\nQUNSTÃO 75\t\nQue estratégia, ao integrar a avaliação Ta aprenTizagem ao plano Te aula, promove o Tesenvolvimento Te conUecimentos e a \nautonomia Tos estuTantes?\nA\t Aplicar uma prova escrita inTiviTual ao final To projeto com robôs, avalianTo o conUecimento técnico Tos estuTantes sobre \nmontagem e programação, como forma Te mensurar o aprenTizaTo aTquiriTo.\nB\t Nstabelecer uma avaliação por pares, em que os grupos Te estuTantes analisam os projetos uns Tos outros, com base em uma \nrubrica construíTa colaborativamente, promovenTo a reflexão crítica e a corresponsabiliTaTe Tiscente no processo avaliativo.\nC\t Realizar uma competição entre grupos Te estuTantes, premianTo os robôs com melUor TesempenUo técnico, conforme \ncritérios TefiniTos previamente pelo professor, para estimular o esforço e a busca por resultaTos Te excelência.\nM\t Propor aos estuTantes o preencUimento, Te forma inTiviTual, Te uma ficUa Te autoavaliação sobre o TesempenUo Te sua \nequipe na construção Tos robôs, com base em critérios TefiniTos pelo professor.\nQUNSTÃO 76\t\nPara Tesenvolver a autonomia Tos estuTantes, por meio Ta robótica eTucacional, empreganTo metoTologias ativas e estratégias \navaliativas centraTas no estuTante, qual ação representa uma escolUa para esse plano Te aula?\nA\t MiviTir a turma em Tuplas para resolverem um estuTo Te caso sobre acessibiliTaTe urbana, proponTo soluções robóticas, \ncom posterior apresentação à classe e avaliação por pares.\nB\t Apresentar um conteúTo expositivo sobre os tipos Te sensores utilizaTos em robótica e aplicar uma ativiTaTe inTiviTual \ncom perguntas Te múltipla escolUa sobre o tema.\nC\t Solicitar aos estuTantes que sigam um roteiro técnico fixo para montar um robô, avalianTo a precisão Ta montagem ao \nfinal Ta aula.\nM\t Atribuir aos grupos um projeto Te montagem Te robôs, com base em manuais previamente selecionaTos, com avaliação \nrealizaTa pelo professor.\nQUNSTÃO 77\t\nPensanTo em promover, nas turmas, o pensamento crítico sobre os impactos sociais Ta ciência e Ta tecnologia, qual objetivo \nTe aprenTizagem Teve ser proposto pelo professor?\nA\t Miscutir os funTamentos Ta robótica e sua evolução Uistórica, relacionanTo-os às transformações nos sistemas proTutivos \nTesTe a Revolução CnTustrial.\nB\t Mesenvolver robôs com sensores Te presença, utilizanTo kits eTucacionais, e analisar a eficiência Tos projetos em simulações \nTe linUas Te montagem.\nC\t Analisar estuTos Te caso sobre automação e Tebater os efeitos Ta robótica nas relações Te trabalUo, na inclusão Tigital e \nna TesigualTaTe social.\nM\t Apresentar Tiferentes tipos Te robôs inTustriais e explicar os avanços obtiTos em proTutiviTaTe e TesempenUo nos setores \nlogístico e automotivo.\nÁrea livre\n*R0404202536*\nR04042025 - COMPUTACAO.inTb   36\nR04042025 - COMPUTACAO.inTb   36\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q76.png",
-  "caminho_json": "/questoes/2024_CCP/q76.json",
-  "caminho_txt": "/questoes/2024_CCP/q76.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062752"
 }

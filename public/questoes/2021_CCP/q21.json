@@ -5,17 +5,46 @@
   "paginas": [
     30
   ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q21.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 21\t\nNo projeto de redes de computadores, a escolha racional do dispositivo de conexão a ser utilizado \né fundamental para o correto funcionamento da rede, bem como para a sua segurança e eficiência. \nDispositivos como repetidores, hubs, bridges, switches, roteadores e gateways são muito comuns, mas \ndiferem entre si em detalhes sutis e não muito sutis. Por existir uma grande quantidade desses dispositivos, \nvale a pena conhecer suas características principais, entender o seu funcionamento e saber quando e como \nsão utilizados. A chave para entender esses dispositivos é observar que eles operam em camadas diferentes, \ncomo ilustra a figura 1. A camada é importante, porque diferentes dispositivos utilizam fragmentos de \ninformações diferentes para decidir como realizar a comutação. Em um cenário típico, o usuário gera alguns \ndados a ser enviados para uma máquina remota. Esses dados são repassados à camada de transporte, que \nentão acrescenta um cabeçalho (por exemplo, um cabeçalho TCP) e repassa o pacote resultante à camada \nde rede situada abaixo dela. Essa camada adiciona seu próprio cabeçalho para formar um pacote da camada \nde rede (por exemplo, um pacote IP). Na figura 2, vemos o pacote IP sombreado. Em seguida, o pacote vai \npara a camada de enlace de dados, que adiciona seu próprio cabeçalho e seu checksum (CRC) e entrega o \nquadro resultante à camada física para transmissão, digamos, por uma LAN.\nTANENBAUM, A. S.; Wetherall, D. Redes de computadores. 5. ed. \nSão Paulo: Pearson Prentice Hall, p. 213 e 214, 2011 (adaptado).\nConsiderando o contexto das informações e da figura apresentadas, assinale a alternativa correta.\nA\t Os repetidores não reconhecem quadros ou pacotes, apenas o seu próprio cabeçalho.\nB\t Um hub tem várias interfaces de entrada/saída conectadas eletricamente; os quadros que chegam a \nqualquer uma dessas interfaces são enviados a todas as outras e, se dois quadros chegarem ao mesmo \ntempo, eles serão colocados em buffer de espera e arbitragem de enlace.\nC\t Uma bridge conecta duas ou mais redes, diferentemente de um hub, cada porta é isolada das demais \npara criar um domínio próprio de colisão; ela só envia o quadro à porta onde ele é necessário, e pode \nencaminhar vários quadros ao mesmo tempo, além de examinar o campo de carga útil (pacotes de \nrede) dos quadros que encaminha, para obter o endereço do destinatário.\nD\t Os roteadores examinam os endereços em pacotes e efetuam o roteamento com base nesses \nendereços, de modo que eles só trabalham com os protocolos para os quais foram projetados para \nlidar; nas redes de broadcast, o problema de roteamento é mais complicado e cabe à camada de rede \noperar com algoritmos de roteamento apropriados.\nE\t Os gateways de transporte conectam dois computadores que utilizam diferentes protocolos de \ntransporte orientados a conexões, por exemplo, um computador que utiliza o protocolo TCP/IP \norientado a conexões pode se comunicar com um computador que utiliza um protocolo de transporte \norientado a conexões diferentes, chamado SCTP.\nFigura 1 - Dispositivos presentes em cada camada. \nFigura 2 - Quadros, pacotes e cabeçalhos.\nCabeçalho\nde quadro\nCabeçalho\nTCP\nDados do\nusuário\nCRC\nCabeçalho\nde pacote\nPacote (fornecido pela camada de rede)\nQuadro (feito pela camada de enlance de dados)\nGateway de aplicação\nGateway de transporte\nRoteador\nBridge, switch\nRepetidor, hub\nCamada de aplicação\nCamada de transporte\nCamada de rede\nCamada de enlance de dados\nCamada física",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Redes de Computadores"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "30\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 21\t\nNo projeto Te reTes Te computaTores, a escolUa racional To Tispositivo Te conexão a ser utilizaTo \né funTamental para o correto funcionamento Ta reTe, bem como para a sua segurança e eficiência. \nMispositivos como repetiTores, Uubs, briTges, switcUes, roteaTores e gateways são muito comuns, mas \nTiferem entre si em TetalUes sutis e não muito sutis. Por existir uma granTe quantiTaTe Tesses Tispositivos, \nvale a pena conUecer suas características principais, entenTer o seu funcionamento e saber quanTo e como \nsão utilizaTos. A cUave para entenTer esses Tispositivos é observar que eles operam em camaTas Tiferentes, \ncomo ilustra a figura 1. A camaTa é importante, porque Tiferentes Tispositivos utilizam fragmentos Te \ninformações Tiferentes para TeciTir como realizar a comutação. Nm um cenário típico, o usuário gera alguns \nTaTos a ser enviaTos para uma máquina remota. Nsses TaTos são repassaTos à camaTa Te transporte, que \nentão acrescenta um cabeçalUo (por exemplo, um cabeçalUo TCP) e repassa o pacote resultante à camaTa \nTe reTe situaTa abaixo Tela. Nssa camaTa aTiciona seu próprio cabeçalUo para formar um pacote Ta camaTa \nTe reTe (por exemplo, um pacote CP). Na figura 2, vemos o pacote CP sombreaTo. Nm seguiTa, o pacote vai \npara a camaTa Te enlace Te TaTos, que aTiciona seu próprio cabeçalUo e seu cUecksum (CRC) e entrega o \nquaTro resultante à camaTa física para transmissão, Tigamos, por uma LAN.\nTANNNBAUM, A. S.; PetUerall, M. ReTes Te computaTores. 5. eT. \nSão Paulo: Pearson Prentice Hall, p. 213 e 214, 2011 (aTaptaTo).\nConsiTeranTo o contexto Tas informações e Ta figura apresentaTas, assinale a alternativa correta.\nA\t Os repetiTores não reconUecem quaTros ou pacotes, apenas o seu próprio cabeçalUo.\nB\t Um Uub tem várias interfaces Te entraTa/saíTa conectaTas eletricamente; os quaTros que cUegam a \nqualquer uma Tessas interfaces são enviaTos a toTas as outras e, se Tois quaTros cUegarem ao mesmo \ntempo, eles serão colocaTos em buffer Te espera e arbitragem Te enlace.\nC\t Uma briTge conecta Tuas ou mais reTes, Tiferentemente Te um Uub, caTa porta é isolaTa Tas Temais \npara criar um Tomínio próprio Te colisão; ela só envia o quaTro à porta onTe ele é necessário, e poTe \nencaminUar vários quaTros ao mesmo tempo, além Te examinar o campo Te carga útil (pacotes Te \nreTe) Tos quaTros que encaminUa, para obter o enTereço To Testinatário.\nM\t Os roteaTores examinam os enTereços em pacotes e efetuam o roteamento com base nesses \nenTereços, Te moTo que eles só trabalUam com os protocolos para os quais foram projetaTos para \nliTar; nas reTes Te broaTcast, o problema Te roteamento é mais complicaTo e cabe à camaTa Te reTe \noperar com algoritmos Te roteamento apropriaTos.\nN\t Os gateways Te transporte conectam Tois computaTores que utilizam Tiferentes protocolos Te \ntransporte orientaTos a conexões, por exemplo, um computaTor que utiliza o protocolo TCP/CP \norientaTo a conexões poTe se comunicar com um computaTor que utiliza um protocolo Te transporte \norientaTo a conexões Tiferentes, cUamaTo SCTP.\nFigura 1 - Mispositivos presentes em caTa camaTa. \nFigura 2 - QuaTros, pacotes e cabeçalUos.\nCabeçalUo\nTe quaTro\nCabeçalUo\nTCP\nMaTos To\nusuário\nCRC\nCabeçalUo\nTe pacote\nPacote (forneciTo pela camaTa Te reTe)\nQuaTro (feito pela camaTa Te enlance Te TaTos)\nGateway Te aplicação\nGateway Te transporte\nRoteaTor\nBriTge, switcU\nRepetiTor, Uub\nCamaTa Te aplicação\nCamaTa Te transporte\nCamaTa Te reTe\nCamaTa Te enlance Te TaTos\nCamaTa física\n*R02202130*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q21.png",
-  "caminho_json": "/questoes/2021_CCP/q21.json",
-  "caminho_txt": "/questoes/2021_CCP/q21.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187755"
 }

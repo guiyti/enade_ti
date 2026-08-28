@@ -5,19 +5,48 @@
   "paginas": [
     3
   ],
-  "largura": 2475,
-  "altura": 2661,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
+  "segmentos": [
+    {
+      "pagina": 3,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 714.19482421875,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n3\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 03\t\nA fim Te cumprir a Lei n. 14 986/2024, que inclui na Lei Te Miretrizes e Bases Ta NTucação (LMB) a “obrigatorieTaTe Te aborTagens \nfunTamentaTas nas experiências e nas perspectivas femininas nos conteúTos curriculares To ensino funTamental e méTio”, \num professor To Nnsino MéTio apresentou aos estuTantes TaTos To Relatório “Nm Tireção à equiTaTe Te gênero no Brasil” \nsobre a participação Te mulUeres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área To conUecimento\nParticipação feminina em caTa área To conUecimento para publicações com autores no Brasil no períoTo 2018 a 2022. \nMisponível em: www.static.poTer360.com.br. Acesso em: 29 jul. 2025 (aTaptaTo).\nOs TaTos To gráfico seguem a classificação Te áreas Te pesquisa Tas revistas científicas em que as publicações foram \neTitaTas e revelam marcante presença feminina em áreas como Nnfermagem (80%) e Psicologia (61%), mas baixos ínTices em \nMatemática (19%), Ciência Ta Computação (21%) e NngenUaria (24%).\nA partir Tesse material, a proposta peTagógica que representa uma ação To professor para estimular a equiTaTe Te gênero \nnas áreas To conUecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas Te favorecimento por questões Te gênero.\nB\t analisar os TaTos com o intuito Te promover investigações sobre a falta Te representativiTaTe feminina em áreas Te exatas.\nC\t utilizar os TaTos para reforçar que as escolUas profissionais são TeterminaTas por aptiTões naturais Tistintas.\nM\t promover olimpíaTas científicas escolares para motivar a competição entre meninas e meninos.\nÁrea livre\n*R040420253*\nR04042025 - COMPUTACAO.inTb   3\nR04042025 - COMPUTACAO.inTb   3\n21/08/2025   10:06:34\n21/08/2025   10:06:34",
+  "caminho_png": "/questoes/2024_CCP/q03.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q03.txt",
+  "largura": 2475,
+  "altura": 2652,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 03\t\nA fim de cumprir a Lei n. 14 986/2024, que inclui na Lei de Diretrizes e Bases da Educação (LDB) a “obrigatoriedade de abordagens \nfundamentadas nas experiências e nas perspectivas femininas nos conteúdos curriculares do ensino fundamental e médio”, \num professor do Ensino Médio apresentou aos estudantes dados do Relatório “Em direção à equidade de gênero no Brasil” \nsobre a participação de mulheres em publicações científicas no Brasil entre 2018 e 2022:\nParticipação feminina por área do conhecimento\nParticipação feminina em cada área do conhecimento para publicações com autores no Brasil no período 2018 a 2022. \nDisponível em: www.static.poder360.com.br. Acesso em: 29 jul. 2025 (adaptado).\nOs dados do gráfico seguem a classificação de áreas de pesquisa das revistas científicas em que as publicações foram \neditadas e revelam marcante presença feminina em áreas como Enfermagem (80%) e Psicologia (61%), mas baixos índices em \nMatemática (19%), Ciência da Computação (21%) e Engenharia (24%).\nA partir desse material, a proposta pedagógica que representa uma ação do professor para estimular a equidade de gênero \nnas áreas do conhecimento é\nA\t pautar as avaliações escolares em práticas meritocráticas para neutralizar tentativas de favorecimento por questões de gênero.\nB\t analisar os dados com o intuito de promover investigações sobre a falta de representatividade feminina em áreas de exatas.\nC\t utilizar os dados para reforçar que as escolhas profissionais são determinadas por aptidões naturais distintas.\nD\t promover olimpíadas científicas escolares para motivar a competição entre meninas e meninos.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2024_CCP/figuras/q03_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2024_CCP/q03.png",
-  "caminho_json": "/questoes/2024_CCP/q03.json",
-  "caminho_txt": "/questoes/2024_CCP/q03.txt"
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "tipo": "OBJETIVA",
+      "pagina": 3,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 03"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062281"
 }

@@ -5,17 +5,46 @@
   "paginas": [
     20
   ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 311.15999999999997,
+      "y1": 774.5,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q15.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q15.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 15 \nhma das técnicas de ataques em ambientes virtuais é \ndenominada Ηhomem no meioΗ (man in the middle),  \ncuũo obũetivo é associar o endereço D I do intruso \nao endereço /W de um outro no da rede ʹ nesse caso,  \no ponto de acesso (Access Point -  W) ǁi-f da rede.  \nIomo o  W é o gateway padrão dessa subrede sem \nfo,   todo  o  trAfego  originalmente  direcionado  ao \nponto de acesso pode ser interceptado pelo intruso.  \nEsse  ataque  explora  defcigncias  conhecidas  no \nproũeto de segurança do /EEE 802. 11 ǁi-f.\nIKh>KhZ/^,  '.  et al.  ^istemas distribuídos: conceitos e proũeto.\nWorto  legre:  BooŬman,  2013 (adaptado)\nIonsiderando  um  ataque  virtual  pela  técnica \"\nhomem no meio\",  por meio de  ddress Zesolution \nProtocol ( ZW) spoofng,  avalie as afrmações a seguir.\n/.   K  problema  do  compartilhamento  de  chave \npresente no proũeto de segurança do  W pode \nser resolvido com a utilização de um protocolo \nbaseado  em  chave  publica  para  negociar \nchaves individuais,  como é feito no Transport \n>aǇer ^ecuritǇ (d>^) ͬ  ^ecure ^ocŬets >aǇer (^^>).\n//.   K  problema  do  desvio  de  trAfego  causado \npelo ataque de homem no meio pode ser \nevitado com a confguração de um freǁall\nnos  pontos  de  acesso  que  fltram  trAfego \nentre clientes de uma mesma subrede.\n///.   K  problema  da  falta  de  autenticação \ndos  pontos  de  acesso  sem  fo  pode  ser \ncontornado,  obrigando-se o ponto de acesso \na  fornecer  um  certifcado  que  possa  ser \nautenticado pelo uso de uma chave publica \nobtida de terceiros.\n/s.    vulnerabilidade das chaves de 40 bits ou 64 \nbits a ataques de força bruta pode ser evitada \nutilizando-se um  W que permita chaves de \n128 bits e limitando-se o trAfego a dispositivos \ncompaơveis com chaves de 128 bits.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nD  /,  /// e /s.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Formação Geral e Sociedade"
+    "Segurança da Informação"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 15"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n20\nYUNSTãO 15 \nUma Tas técnicas Te ataques em ambientes virtuais é \nTenominaTa ΗUomem no meioΗ (man in tUe miTTle),  \ncuũo obũetivo é associar o enTereço M C To intruso \nao enTereço /P Te um outro no Ta reTe ʹ nesse caso,  \no ponto Te acesso (Access Point -  P) ǁi-f Ta reTe.  \nComo o  P é o gateway paTrão Tessa subreTe sem \nfo,   toTo  o  trAfego  originalmente  TirecionaTo  ao \nponto Te acesso poTe ser interceptaTo pelo intruso.  \nNsse  ataque  explora  Tefcigncias  conUeciTas  no \nproũeto Te segurança To /NNN 802. 11 ǁi-f.\nCOU>OUZ/S,  '.  et al.  Sistemas TistribuíTos: conceitos e proũeto.\nPorto  legre:  BooŬman,  2013 (aTaptaTo)\nConsiTeranTo  um  ataque  virtual  pela  técnica \"\nUomem no meio\",  por meio Te  TTress Zesolution \nProtocol ( ZP) spoofng,  avalie as afrmações a seguir.\n/.   O  problema  To  compartilUamento  Te  cUave \npresente no proũeto Te segurança To  P poTe \nser resolviTo com a utilização Te um protocolo \nbaseaTo  em  cUave  publica  para  negociar \ncUaves inTiviTuais,  como é feito no Transport \n>aǇer SecuritǇ (T>S) ͬ  Secure SocŬets >aǇer (SS>).\n//.   O  problema  To  Tesvio  Te  trAfego  causaTo \npelo ataque Te Uomem no meio poTe ser \nevitaTo com a confguração Te um freǁall\nnos  pontos  Te  acesso  que  fltram  trAfego \nentre clientes Te uma mesma subreTe.\n///.   O  problema  Ta  falta  Te  autenticação \nTos  pontos  Te  acesso  sem  fo  poTe  ser \ncontornaTo,  obriganTo-se o ponto Te acesso \na  fornecer  um  certifcaTo  que  possa  ser \nautenticaTo pelo uso Te uma cUave publica \nobtiTa Te terceiros.\n/s.    vulnerabiliTaTe Tas cUaves Te 40 bits ou 64 \nbits a ataques Te força bruta poTe ser evitaTa \nutilizanTo-se um  P que permita cUaves Te \n128 bits e limitanTo-se o trAfego a Tispositivos \ncompaơveis com cUaves Te 128 bits.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nM  /,  /// e /s.\nN  //,  /// e /s.\nQUNSTÃO 16\n   segurança  Ta  informação  estA  Tiretamente \nrelacionaTa  com  a  proteção  Te  um  conũunto \nTe  informações,   no  sentiTo  Te  preservar  o \nvalor  que  possuem  para  um  inTivíTuo  ou  uma \norganização,   tenTo  como  proprieTaTes  bAsicas  a \nconfTencialiTaTe,  a integriTaTe,  a TisponibiliTaTe e \na autenticiTaTe.\n>zZ ,  M.  Z.  Segurança e auTitoria em sistemas Te informação.\nZio Te :aneiro:  Cigncia MoTerna,  2008 (aTaptaTo).\n   engenUaria  social  é  TefniTa  como  o  conũunto \nTe  técnicas  utilizaTas  para  reunir  informações,  \nexploranTo  a  tenTgncia  Uumana  a  ignorar  os \nsistemas Te segurança.  Os ataques Te engenUaria \nsocial implicam interação com outros inTivíTuos,  \no  que  eviTencia  o  aspecto  psicologico  Ta \nengenUaria social.\nM/TN/C<,  <.  M.͖  S/MON,  t.  >.  TUe art of Teception: controlling tUe \nUuman element of securitǇ.  Neǁ zorŬ:  tileǇ,  2001 (aTaptaTo).\n   ética  normativa  é  o  ΗcertoΗ  e  o  ΗerraToΗ  To \ncomportamento  social  interpretaTo.      principal \nTiferença  entre  essas  Tuas  perspectivas  é  a \nforma como um Tilema moral é aborTaTo,  e não \nnecessariamente as consequgncias Tisso.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. etUicsmorals. comх.\n cesso em:  18 :ul.  2017 (aTaptaTo).\nNm  relação  a  segurança  Ta  informação,   avalie  as \nafrmações a seguir.\n/.    s  empresas  sempre  estarão  vulnerAveis,  \npois o fator Uumano é o elo mais fraco Ta \nsegurança Ta informação.\n//.      segurança  Ta  informação  não  é  um \nproTuto e,  sim,  um processo.\n///.     ética profssional é um importante fator a \nser consiTeraTo na segurança Ta informação.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\n*R03201720*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q15.png",
-  "caminho_json": "/questoes/2017_CCP/q15.json",
-  "caminho_txt": "/questoes/2017_CCP/q15.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148872"
 }

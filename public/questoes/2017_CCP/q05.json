@@ -5,19 +5,48 @@
   "paginas": [
     9
   ],
-  "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 658.0473022460938,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "9\nCCÊNCCA MA COMPUTAÇÃO\nYUNSTãO 05 \n,iTrogéis são materiais poliméricos em forma Te po,  grão ou fragmentos semelUantes a peTaços Te \nplAstico maleAvel.  Surgiram nos anos 1950,  nos NstaTos UniTos Ta  mérica e,  TesTe então,  tgm siTo \nusaTos na agricultura.  Os UiTrogéis ou polímeros UiTrorretentores poTem ser criaTos a partir Te \npolímeros naturais ou sintetizaTos em laboratorio.  Os estuTos com polímeros naturais mostram \nque eles são viAveis ecologicamente,  mas ainTa não comercialmente.\nNo infogrAfco abaixo,  explica-se como os polímeros naturais superabsorventes,  quanTo misturaTos ao \nsolo,  poTem viabilizar culturas agrícolas em regiões AriTas.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. revistapesquisa. fapesp. brх.   cesso em:  18 ũul.  2017 (aTaptaTo).\n  partir Tas informações apresentaTas,  assinale a opção correta.\nA O uso To UiTrogel,  em caso Te estiagem,  propicia a mortaliTaTe Tos pés Te café.\nB O UiTrogel criaTo a partir Te polímeros naturais Teve ter seu uso restrito a solos AriTos.\nC Os UiTrogéis são usaTos em culturas agrícolas e Ňorestais e em Tiferentes tipos Te solos.\nM O uso Te UiTrogéis naturais é economicamente viAvel em lavouras traTicionais Te larga escala.\nN O uso Tos UiTrogéis permite que as plantas sobrevivam sem a Agua Ta irrigação ou Tas cUuvas.\nArea livre\n*R0320179*",
+  "caminho_png": "/questoes/2017_CCP/q05.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q05.txt",
+  "largura": 2440,
+  "altura": 2452,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 05 \n,idrogéis são materiais poliméricos em forma de po,  grão ou fragmentos semelhantes a pedaços de \nplAstico maleAvel.  ^urgiram nos anos 1950,  nos Estados hnidos da  mérica e,  desde então,  tgm sido \nusados na agricultura.  Ks hidrogéis ou polímeros hidrorretentores podem ser criados a partir de \npolímeros naturais ou sintetizados em laboratorio.  Ks estudos com polímeros naturais mostram \nque eles são viAveis ecologicamente,  mas ainda não comercialmente.\nEo infogrAfco abaixo,  explica-se como os polímeros naturais superabsorventes,  quando misturados ao \nsolo,  podem viabilizar culturas agrícolas em regiões Aridas.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. revistapesquisa. fapesp. brх.   cesso em:  18 ũul.  2017 (adaptado).\n  partir das informações apresentadas,  assinale a opção correta.\nA K uso do hidrogel,  em caso de estiagem,  propicia a mortalidade dos pés de café.\nB K hidrogel criado a partir de polímeros naturais deve ter seu uso restrito a solos Aridos.\nC Ks hidrogéis são usados em culturas agrícolas e Ňorestais e em diferentes tipos de solos.\nD K uso de hidrogéis naturais é economicamente viAvel em lavouras tradicionais de larga escala.\nE K uso dos hidrogéis permite que as plantas sobrevivam sem a Agua da irrigação ou das chuvas.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2017_CCP/figuras/q05_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2017_CCP/q05.png",
-  "caminho_json": "/questoes/2017_CCP/q05.json",
-  "caminho_txt": "/questoes/2017_CCP/q05.txt"
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 5,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 60.35419845581055,
+      "y": 88.67594909667969,
+      "x1": 125.51419830322266,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 05"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148816"
 }

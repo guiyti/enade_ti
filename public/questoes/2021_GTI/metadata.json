@@ -8,6 +8,17 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2021_GTI",
+    "page_width": 566.9,
+    "page_height": 779.5,
+    "header_cutoff_y": 74.5,
+    "footer_cutoff_y": 744.6,
+    "min_marker_y": 76.5,
+    "margin_x": 25.0,
+    "detected_headers": 42,
+    "detected_footers": 76
+  },
   "questoes": [
     {
       "id_questao": "qd01",
@@ -18,8 +29,8 @@
         3
       ],
       "largura": 2185,
-      "altura": 3928,
-      "confianca": 0.98,
+      "altura": 4035,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -38,8 +49,8 @@
         4
       ],
       "largura": 2185,
-      "altura": 1374,
-      "confianca": 0.98,
+      "altura": 1376,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -58,8 +69,8 @@
         5
       ],
       "largura": 2185,
-      "altura": 2158,
-      "confianca": 0.98,
+      "altura": 2160,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -79,8 +90,8 @@
         7
       ],
       "largura": 2185,
-      "altura": 5152,
-      "confianca": 0.98,
+      "altura": 5260,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -99,8 +110,8 @@
         8
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -119,8 +130,8 @@
         9
       ],
       "largura": 2185,
-      "altura": 2126,
-      "confianca": 0.98,
+      "altura": 2128,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -140,8 +151,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 3779,
-      "confianca": 0.98,
+      "altura": 3887,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -160,8 +171,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 1686,
-      "confianca": 0.98,
+      "altura": 1790,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -180,8 +191,8 @@
         12
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -200,8 +211,8 @@
         13
       ],
       "largura": 2185,
-      "altura": 2159,
-      "confianca": 0.98,
+      "altura": 2161,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -221,11 +232,11 @@
         15
       ],
       "largura": 2185,
-      "altura": 3916,
-      "confianca": 0.98,
+      "altura": 4024,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd03.png",
@@ -242,8 +253,8 @@
         17
       ],
       "largura": 2185,
-      "altura": 3067,
-      "confianca": 0.98,
+      "altura": 5983,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -262,11 +273,11 @@
         18
       ],
       "largura": 2185,
-      "altura": 1106,
-      "confianca": 0.98,
+      "altura": 1108,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/qd05.png",
@@ -282,8 +293,8 @@
         19
       ],
       "largura": 2185,
-      "altura": 1627,
-      "confianca": 0.98,
+      "altura": 1629,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -302,11 +313,13 @@
         20
       ],
       "largura": 2185,
-      "altura": 1767,
-      "confianca": 0.98,
+      "altura": 1769,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade",
+        "Segurança da Informação",
+        "Banco de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q10.png",
@@ -322,8 +335,8 @@
         21
       ],
       "largura": 2185,
-      "altura": 1322,
-      "confianca": 0.98,
+      "altura": 1324,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -342,11 +355,12 @@
         21
       ],
       "largura": 2185,
-      "altura": 1441,
-      "confianca": 0.98,
+      "altura": 1545,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Redes de Computadores",
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q12.png",
@@ -362,8 +376,8 @@
         22
       ],
       "largura": 2185,
-      "altura": 1842,
-      "confianca": 0.98,
+      "altura": 1844,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -382,8 +396,8 @@
         23
       ],
       "largura": 2185,
-      "altura": 2569,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -402,11 +416,11 @@
         24
       ],
       "largura": 2185,
-      "altura": 1338,
-      "confianca": 0.98,
+      "altura": 1340,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q15.png",
@@ -422,8 +436,8 @@
         25
       ],
       "largura": 2185,
-      "altura": 2369,
-      "confianca": 0.98,
+      "altura": 2371,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Inteligência Artificial e Dados"
@@ -442,11 +456,11 @@
         26
       ],
       "largura": 2185,
-      "altura": 1071,
-      "confianca": 0.98,
+      "altura": 1073,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q17.png",
@@ -462,10 +476,11 @@
         26
       ],
       "largura": 2185,
-      "altura": 1693,
-      "confianca": 0.98,
+      "altura": 1797,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
+        "Formação Geral e Sociedade",
         "Governança e Gestão de TI"
       ],
       "anomalias": [],
@@ -482,8 +497,8 @@
         27
       ],
       "largura": 2185,
-      "altura": 1438,
-      "confianca": 0.98,
+      "altura": 1440,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -502,8 +517,8 @@
         28
       ],
       "largura": 2185,
-      "altura": 2025,
-      "confianca": 0.98,
+      "altura": 2027,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -522,8 +537,8 @@
         29
       ],
       "largura": 1095,
-      "altura": 2325,
-      "confianca": 0.98,
+      "altura": 2327,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -542,8 +557,8 @@
         29
       ],
       "largura": 1095,
-      "altura": 2589,
-      "confianca": 0.98,
+      "altura": 2591,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -562,8 +577,8 @@
         30
       ],
       "largura": 1095,
-      "altura": 2513,
-      "confianca": 0.98,
+      "altura": 2515,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -582,11 +597,11 @@
         30
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Formação Geral e Sociedade"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q24.png",
@@ -602,11 +617,12 @@
         31
       ],
       "largura": 2185,
-      "altura": 1683,
-      "confianca": 0.98,
+      "altura": 1685,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Engenharia de Software",
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q25.png",
@@ -622,11 +638,11 @@
         32
       ],
       "largura": 2185,
-      "altura": 1436,
-      "confianca": 0.98,
+      "altura": 1438,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q26.png",
@@ -642,8 +658,8 @@
         33
       ],
       "largura": 1095,
-      "altura": 2370,
-      "confianca": 0.98,
+      "altura": 2372,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -662,8 +678,8 @@
         33
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -682,8 +698,8 @@
         34
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -702,8 +718,8 @@
         34
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -722,8 +738,8 @@
         35
       ],
       "largura": 2185,
-      "altura": 1452,
-      "confianca": 0.98,
+      "altura": 1454,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -742,11 +758,11 @@
         36
       ],
       "largura": 2185,
-      "altura": 2010,
-      "confianca": 0.98,
+      "altura": 2012,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_GTI/q32.png",
@@ -762,8 +778,8 @@
         37
       ],
       "largura": 2185,
-      "altura": 1880,
-      "confianca": 0.98,
+      "altura": 1882,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -782,8 +798,8 @@
         38
       ],
       "largura": 2185,
-      "altura": 1659,
-      "confianca": 0.98,
+      "altura": 1661,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -802,8 +818,8 @@
         39
       ],
       "largura": 2185,
-      "altura": 1623,
-      "confianca": 0.98,
+      "altura": 1625,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"

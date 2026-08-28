@@ -1,28 +1,24 @@
-35
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 26	
-As interfaces aTaptativas realizam as aTaptações e personalizações Te forma automática e Tinâmica 
-Turante o processo Te navegação, com base na aprenTizagem Ta navegação e Ta interação To usuário. 
-Técnicas Te interfaces aTaptativas poTem ser utilizaTas para aTaptar interfaces às preferências To usuário, 
-à sua capaciTaTe cognitiva e ao seu estilo Te navegação, tornanTo as interações mais naturais e atrativas. 
-Nssas técnicas Te aTaptação poTem ser empregaTas tanto para a reorganização Tos objetos no ambiente, 
-como para alterar a forma Te apresentar informações. As aTaptações poTem ocorrer em Tiferentes níveis 
-ou Te Tiferentes formas: aTaptação Te conteúTo, aTaptação Ta navegação e aTaptação Ta apresentação 
-To conteúTo. CaTa um Tesses níveis Te aTaptação possui métoTos e técnicas Te aTaptação próprios.
- NCNNOP, A. L. Cnterfaces aTaptativas no comércio eletrônico como facilitaToras Ta inclusão Tigital Te iTosos. 
-Revista Tecnologia e TenTências, v. 9, n. 2, p. 116-136, 2017 (aTaptaTo).
-ConsiTeranTo a construção Te interfaces aTaptativas na interação Uomem-computaTor, avalie as 
-afirmações a seguir quanto aos níveis e técnicas Te aTaptação.
-C.	 No nível Te conteúTo, poTem-se consiTerar as técnicas Te fragmentos Te texto, fragmentos 
-conTicionais, páginas variantes e aborTagem baseaTa em frames.
-CC.	 No nível Te navegação, poTem-se consiTerar as técnicas Te layouts Te página e guias Te estilos.
-CCC.	 No nível Te apresentação, poTem-se consiTerar as técnicas Te orientação Tireta, anotação Te links, 
-apresentação e ocultação e orTenação Te links.
+QUESTÃO 26	
+As interfaces adaptativas realizam as adaptações e personalizações de forma automática e dinâmica 
+durante o processo de navegação, com base na aprendizagem da navegação e da interação do usuário. 
+Técnicas de interfaces adaptativas podem ser utilizadas para adaptar interfaces às preferências do usuário, 
+à sua capacidade cognitiva e ao seu estilo de navegação, tornando as interações mais naturais e atrativas. 
+Essas técnicas de adaptação podem ser empregadas tanto para a reorganização dos objetos no ambiente, 
+como para alterar a forma de apresentar informações. As adaptações podem ocorrer em diferentes níveis 
+ou de diferentes formas: adaptação de conteúdo, adaptação da navegação e adaptação da apresentação 
+do conteúdo. Cada um desses níveis de adaptação possui métodos e técnicas de adaptação próprios.
+ NIENOW, A. L. Interfaces adaptativas no comércio eletrônico como facilitadoras da inclusão digital de idosos. 
+Revista Tecnologia e Tendências, v. 9, n. 2, p. 116-136, 2017 (adaptado).
+Considerando a construção de interfaces adaptativas na interação homem-computador, avalie as 
+afirmações a seguir quanto aos níveis e técnicas de adaptação.
+I.	 No nível de conteúdo, podem-se considerar as técnicas de fragmentos de texto, fragmentos 
+condicionais, páginas variantes e abordagem baseada em frames.
+II.	 No nível de navegação, podem-se considerar as técnicas de layouts de página e guias de estilos.
+III.	 No nível de apresentação, podem-se considerar as técnicas de orientação direta, anotação de links, 
+apresentação e ocultação e ordenação de links.
 É correto o que se afirma em
-A	 C, apenas.
-B	 CCC, apenas.
-C	 C e CC, apenas.
-M	 CC e CCC, apenas.
-N	 C, CC e CCC.
-Área livre
-*R02202135*
+A	 I, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 II e III, apenas.
+E	 I, II e III.

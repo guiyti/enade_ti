@@ -5,17 +5,46 @@
   "paginas": [
     22
   ],
+  "segmentos": [
+    {
+      "pagina": 22,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 564.2769775390625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q19.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2062,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 19\nIonsidere o diagrama Entidade-Zelacionamento apresentado a seguir.\nSecao\nidWartido:  /EdE'EZ EKd Eh>> ΀W<΁\nWartido\nsiglaWartido:  s ZI, Z(45) EKd Eh>>\ndescricaoWartido:  s ZI, Z(45) EKd Eh>>\nidWartido:  /EdE'EZ EKd Eh>> ΀W<΁\nDeputado\nidWartido:  /EdE'EZ EKd Eh>> ΀&<΁\nnomeDeputado:  s ZI, Z(60) EKd Eh>>\nid^ecao:  /EdE'EZ EKd Eh>> ΀W&<΁\nWarticipacao\nidDeputado:  /EdE'EZ EKd Eh>> ΀W&<΁\nid^ecao:  /EdE'EZ EKd Eh>> ΀W<΁\ndata^ecao:  D dE EKd Eh>>\nhora^ecao:  d/DE EKd Eh>>\ndecisao:  s ZI, Z(2000) EKd Eh>>\nYual codigo ^Y> exibe o nome de todos os deputados que compareceram a pelo menos uma seção e as \ndatas de cada seção em que os deputados participaram͍\nA SELECT \nDeputado.nomeDeputado, \nSecao.dataSecao \nFROM \nDeputado, \nParticipacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;\nB SELECT \nDeputado.nomeDeputado, \nSecao.dataSecao \nFROM \nDeputado, \nParticipacao, \nSecao \nWHERE \nDeputado.idDeputado \n= \nParticipacao.\nidDeputado OR Secao.idSecao = Participacao.idSecao;\nC SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER \nJOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado \nLEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;\nD SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER \nJOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado \nRIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;\nE SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER \nJOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado \nINNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 22,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 19"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n22\nQUNSTÃO 19\nConsiTere o Tiagrama NntiTaTe-Zelacionamento apresentaTo a seguir.\nSecao\niTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁\nPartiTo\nsiglaPartiTo:  s ZC, Z(45) NOT NU>>\nTescricaoPartiTo:  s ZC, Z(45) NOT NU>>\niTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁\nMeputaTo\niTPartiTo:  /NTN'NZ NOT NU>> ΀&<΁\nnomeMeputaTo:  s ZC, Z(60) NOT NU>>\niTSecao:  /NTN'NZ NOT NU>> ΀P&<΁\nParticipacao\niTMeputaTo:  /NTN'NZ NOT NU>> ΀P&<΁\niTSecao:  /NTN'NZ NOT NU>> ΀P<΁\nTataSecao:  M TN NOT NU>>\nUoraSecao:  T/MN NOT NU>>\nTecisao:  s ZC, Z(2000) NOT NU>>\nYual coTigo SY> exibe o nome Te toTos os TeputaTos que compareceram a pelo menos uma seção e as \nTatas Te caTa seção em que os TeputaTos participaram͍\nA SNLNCT \nMeputaTo.nomeMeputaTo, \nSecao.TataSecao \nFROM \nMeputaTo, \nParticipacao, Secao PHNRN MeputaTo.iTMeputaTo=Participacao.iTMeputaTo;\nB SNLNCT \nMeputaTo.nomeMeputaTo, \nSecao.TataSecao \nFROM \nMeputaTo, \nParticipacao, \nSecao \nPHNRN \nMeputaTo.iTMeputaTo \n= \nParticipacao.\niTMeputaTo OR Secao.iTSecao = Participacao.iTSecao;\nC SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo LNFT OUTNR \nJOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo \nLNFT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;\nM SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo RCGHT OUTNR \nJOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo \nRCGHT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;\nN SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo CNNNR \nJOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo \nCNNNR JOCN Secao ON Participacao.iTSecao=Secao.iTSecao;\nArea livre\n*R03201722*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q19.png",
-  "caminho_json": "/questoes/2017_CCP/q19.json",
-  "caminho_txt": "/questoes/2017_CCP/q19.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148891"
 }

@@ -5,17 +5,46 @@
   "paginas": [
     18
   ],
-  "largura": 1223,
-  "altura": 2871,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 749.4,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q18.txt",
+  "largura": 1222,
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 18\nEos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturadas  e  com  todas  as  funcionalidades  em \num  unico  modulo,   com  grande  quantidade  de \nlinhas de codigo.   cessos a bancos de dados não \nrelacionais,   regras  de  negocios  e  tratamento  de \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nWosteriormente,  \numa \nimportante \nmudança  ocorreu:   a  substituição  dos  terminais \"\nburros\"   por  microcomputadores,   permitindo \nque todo o tratamento da interface,  e de algumas \nregras  de  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   ^urgiam  as  aplicações  cliente-\nservidor.    partir dos anos 90,  até os dias atuais,  \nas  mudanças  foram  mais  radicais,   os  bancos  de \ndados  passaram  a  ser  relacionais  e  distribuídos.  \n s linguagens passaram a ser orientadas a obũetos,  \ncuũa  modelagem  encapsula  dados  e  oferece \nfuncionalidades  através  de  métodos.      interface \npassou a ser web.  sive-se a era das aplicações em \ntrgs camadas.\nIonsiderando a evolução da arquitetura de soŌǁare\nde sistemas de informação,  conforme citado no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  dos  sistemas  em  trgs  camadas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerendo pessoal mais especializado.\n//.      separação  dos  sistemas  em  trgs  camadas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitindo que as partes possam ser alteradas \nde forma independente.\n///.      separação  dos  sistemas  em  trgs  camadas \nlogicas aumentou o acoplamento,  difcultando \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD / e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 18"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "18\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 18\nNos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturaTas  e  com  toTas  as  funcionaliTaTes  em \num  unico  moTulo,   com  granTe  quantiTaTe  Te \nlinUas Te coTigo.   cessos a bancos Te TaTos não \nrelacionais,   regras  Te  negocios  e  tratamento  Te \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nPosteriormente,  \numa \nimportante \nmuTança  ocorreu:   a  substituição  Tos  terminais \"\nburros\"   por  microcomputaTores,   permitinTo \nque toTo o tratamento Ta interface,  e Te algumas \nregras  Te  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   Surgiam  as  aplicações  cliente-\nserviTor.    partir Tos anos 90,  até os Tias atuais,  \nas  muTanças  foram  mais  raTicais,   os  bancos  Te \nTaTos  passaram  a  ser  relacionais  e  TistribuíTos.  \n s linguagens passaram a ser orientaTas a obũetos,  \ncuũa  moTelagem  encapsula  TaTos  e  oferece \nfuncionaliTaTes  através  Te  métoTos.      interface \npassou a ser web.  sive-se a era Tas aplicações em \ntrgs camaTas.\nConsiTeranTo a evolução Ta arquitetura Te soŌǁare\nTe sistemas Te informação,  conforme citaTo no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerenTo pessoal mais especializaTo.\n//.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitinTo que as partes possam ser alteraTas \nTe forma inTepenTente.\n///.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas aumentou o acoplamento,  TifcultanTo \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 19\nZequisitos funcionais e não funcionais poTem Tefnir \ncaracterísticas  e  funcionaliTaTes  presentes  na \ninterface a ser TesenvolviTa para um sistema.  \nNm  relação  aos  requisitos  não  funcionais,   também \ncUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as \nafrmações a seguir.\n/.   São levantaTos e elicitaTos apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  Teterminarão  as  funcionaliTaTes \nTa interface.\n//.   Sempre  serão  TefniTos  Te  forma  mais \nconcreta,   através  Te  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionaliTaTes levantaTas.\n///.   PoTem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201418*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q18.png",
-  "caminho_json": "/questoes/2014_ADS/q18.json",
-  "caminho_txt": "/questoes/2014_ADS/q18.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120042"
 }

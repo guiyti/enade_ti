@@ -1,65 +1,63 @@
-16
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 16
-Uma pilUa é uma estrutura Te TaTos que armazena 
-uma coleção Te itens Te TaTos relacionaTos e que 
+QUESTÃO 16
+hma pilha é uma estrutura de dados que armazena 
+uma coleção de itens de dados relacionados e que 
 garante o seguinte funcionamento:  o ultimo elemento 
-a ser inseriTo é o primeiro a ser removiTo.   comum 
-na  literatura  utilizar  os  nomes  pusU e pop  para  as 
-operações Te inserção e remoção Te um elemento 
-em uma pilUa,  respectivamente.  O seguinte trecUo 
-Te coTigo em linguagem C Tefne uma estrutura Te 
-TaTos  pilUa  utilizanTo  um  vetor  Te  inteiros,   bem 
+a ser inserido é o primeiro a ser removido.   comum 
+na  literatura  utilizar  os  nomes  push e pop  para  as 
+operações de inserção e remoção de um elemento 
+em uma pilha,  respectivamente.  K seguinte trecho 
+de codigo em linguagem I defne uma estrutura de 
+dados  pilha  utilizando  um  vetor  de  inteiros,   bem 
 como algumas funções para sua manipulação.
-#incluTe <stTlib.U>
-#incluTe <stTio.U>
-typeTef struct {
+#include <stdlib.h>
+#include <stdio.h>
+typedef struct {
       int elementos[100];
       int topo;
-}pilUa;
-pilUa * cria_pilUa() {
-      pilUa * p =malloc(sizeof(pilUa));
+}pilha;
+pilha * cria_pilha() {
+      pilha * p =malloc(sizeof(pilha));
       p->topo = -1;
-      return pilUa;
+      return pilha;
 }
-voiT pusU(pilUa *p, int elemento) {
+void push(pilha *p, int elemento) {
       if (p->topo >= 99)
  return;
       p->elementos[++p->topo] = elemento;
 }
-int pop(pilUa *p) {
+int pop(pilha *p) {
       int a = p->elementos[p->topo];
       p->topo--;
       return a;
 }
-O programa a seguir utiliza uma pilUa.
+
+K programa a seguir utiliza uma pilha.
 int main() {
-      pilUa * p = cria_pilUa();
-      pusU(p, 2);
-      pusU(p, 3);
-      pusU(p, 4);
+      pilha * p = cria_pilha();
+      push(p, 2);
+      push(p, 3);
+      push(p, 4);
       pop(p);
-      pusU(p, 2);
+      push(p, 2);
       int a = pop(p) + pop(p);
-      pusU(p, a);
+      push(p, a);
       a += pop(p);
-      printf(“%T”, a);
+      printf(“%d”, a);
       return 0;
 }
   esse respeito,  avalie as afrmações a seguir.
-/.      complexiTaTe  computacional  Te  ambas 
-funções pusU e pop é O(1).
-//.   O valor exibiTo pelo programa seria o mesmo 
+/.      complexidade  computacional  de  ambas 
+funções push e pop é K(1).
+//.   K valor exibido pelo programa seria o mesmo 
 caso  a  instrução  a += pop(p)͖   fosse 
-trocaTa por a += a͖
-///.   Nm  relação  ao  vazamento  Te  memoria 
-(memory leak),  é opcional  cUamar a função 
-free(p),   pois  o  vetor  usaTo  pela  pilUa  é 
-alocaTo estaticamente.
+trocada por a += a͖
+///.   Em  relação  ao  vazamento  de  memoria 
+(memory leak),  é opcional  chamar a função 
+free(p),   pois  o  vetor  usado  pela  pilha  é 
+alocado estaticamente.
  correto o que se afrma em
 A /,  apenas.
 B ///,  apenas.
 C / e //,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-*R03201416*
+D // e ///,  apenas.
+E /,  // e ///.

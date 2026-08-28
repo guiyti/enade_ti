@@ -1,85 +1,50 @@
-30
-COMPUTAÇÃO
-QUNSTÃO 73
-Uma Tas técnicas que auxiliam na gerência Te projetos
-Te software é o gráfico Te ativiTaTes, por meio To qual é
-possível calcular, por exemplo, a Turação Te um projeto, as
-ativiTaTes críticas e as ativiTaTes que possuem folga para sua
-execução. Nesse gráfico, os círculos representam os eventos
-iniciais e finais Te caTa ativiTaTe, as arestas representam as
-ativiTaTes, e os números associaTos às arestas representam
-a Turação Tessas ativiTaTes.
-Tabela Te custo Te aceleração
-ativiTaTe
-uniTaTes Te
+QUESTÃO 73
+Uma das técnicas que auxiliam na gerência de projet
+de software é o gráfico de atividades, por meio do qual
+possível calcular, por exemplo, a duração de um projeto, 
+atividades críticas e as atividades que possuem folga para s
+execução. Nesse gráfico, os círculos representam os event
+iniciais e finais de cada atividade, as arestas representam 
+atividades, e os números associados às arestas representa
+a duração dessas atividades.
+Tabela de custo de aceleração
+atividade
+unidades de
 aceleração
-permitiTas
-custo Te aceleração por
-uniTaTe Te tempo (R$)
+permitidas
+custo de aceleração por
+unidade de tempo (R$)
 C-F
 2
 50
-M-N
+D-E
 1
 300
-N-F
+E-F
 2
 100
-N-G
+E-G
 1
 80
-N- H
+E- H
 2
 75
 F- H
 2
 85
-ConsiTeranTo-se o gráfico Te ativiTaTes acima e a tabela Te
-custo Te aceleração Tas ativiTaTes Ta reTe que poTem ser
-aceleraTas, qual(is) ativiTaTe(s) Teve(m) ser aceleraTa(s) para
-que o tempo To projeto associaTo a esse gráfico seja reTuziTo
-em uma uniTaTe Te tempo e para que o custo total Te
+Considerando-se o gráfico de atividades acima e a tabela d
+custo de aceleração das atividades da rede que podem s
+aceleradas, qual(is) atividade(s) deve(m) ser acelerada(s) pa
+que o tempo do projeto associado a esse gráfico seja reduzid
+em uma unidade de tempo e para que o custo total d
 aceleração seja o menor possível?
 A
-apenas a ativiTaTe (C-F)
+apenas a atividade (C-F)
 B
-apenas as ativiTaTes (M-N) e (N-G)
+apenas as atividades (D-E) e (E-G)
 C
-apenas a ativiTaTe (N-G) 
-M
-apenas as ativiTaTes (N-G) e (F-H)
-N
-apenas a ativiTaTe (N-H)
-QUNSTÃO 74
-No processo Te Tesenvolvimento Te software, toTo
-software passa pelas fases Te análise e projeto,
-associaTas, respectivamente, com o que Teve ser feito
-e como Teve ser feito. A partir Tessa informação,
-avalie a opções correta.
-A
-Na fase Te análise, três moTelos que Tevem ser
-consiTeraTos são: To Tomínio Ta informação, o
-funcional e o comportamental. 
-B
-Na fase Te projeto, Tois níveis Te projeto Tevem
-ser consiTeraTos: o projeto TetalUaTo, que se
-preocupa com uma transformação Tos requisitos
-em um projeto Te TaTos e arquitetural; e o projeto
-preliminar, que se preocupa em aprimorar o
-projeto TetalUaTo para que a implementação
-possa ser realizaTa em seguiTa. 
-C
-O objetivo To projeto arquitetural é Tesenvolver
-uma estrutura Te programa e representar os
-Tiversos fluxos Te TaTos entre os móTulos. 
-M
-O projeto arquitetural inTepenTe To paraTigma Te
-Tesenvolvimento. 
-N
-Para liTar com a complexiTaTe To software,
-poTe-se aplicar o princípio To particionamento,
-quebranTo o problema em problemas menores.
-Nsse princípio não é aplicaTo nas outras fases Te
-Tesenvolvimento e ele não causa impacto nos
-custos Te Tesenvolvimento.
-RASCUNHO
+apenas a atividade (E-G) 
+D
+apenas as atividades (E-G) e (F-H)
+E
+apenas a atividade (E-H)

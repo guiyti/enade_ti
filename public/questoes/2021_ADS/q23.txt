@@ -1,40 +1,52 @@
-31
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 23	
-A evolução Te sistemas Te software legaTos poTe ser TiviTiTa em três categorias: manutenção, 
-moTernização e substituição. Me acorTo com a figura a seguir, conforme o tempo aumenta, a quantiTaTe 
-Te funcionaliTaTes também cresce. No primeiro períoTo Te evolução a manutenção é realizaTa, pois as 
-necessiTaTes Te negócio são alteraTas e o sistema precisa suprir as muTanças por meio Ta manutenção. 
-No segunTo períoTo é realizaTa a moTernização To sistema, pois as necessiTaTes Te negócio continuam 
-a crescer, mas Uá muTanças mais significativas que se fazem necessárias. Além Ta substituição To sistema 
-Te software, nos casos em que o moTelo Te negócio não atenTe mais a necessiTaTe Ta empresa, 
-a manutenção e moTernização também não são mais suficientes.
+QUESTÃO 23	
+A evolução de sistemas de software legados po
+modernização e substituição. De acordo com a figur
+de funcionalidades também cresce. No primeiro pe
+necessidades de negócio são alteradas e o sistema p
+No segundo período é realizada a modernização do 
+a crescer, mas há mudanças mais significativas que s
+de software, nos casos em que o modelo de neg
+a manutenção e modernização também não são ma
 Software é
-construíTo
-MoTernização
-Substituição
-To software
-Manutenção
-To segunTo
-software
-Tempo
-FuncionaliTaTe
+construído
+Tem
+Funcionalidade
 Software  1
-Software  2
-NecessiTaTes Te Negócio
-SegunTo
-períoTo Te
+Necessidades de Negócio
+Segundo
+período de
 manutenção
 Manutenção
-SNACORM, R. C.; PLAOOSH, M.; LNPCS, G. A. MoTernizing Legancy Systems. Boston: Pearson NTucation, 2003 (aTaptaTo).
-Me acorTo com a figura apresentaTa e consiTeranTo um sistema Te software implantaTo Te NRP (Nnterprise 
-Resource Planning - Planejamento Te Recursos Nmpresariais) contenTo um conjunto Te móTulos que 
-integra toTos os Tepartamentos existentes Te uma empresa, observou-se a necessiTaTe Te criação Te um 
-relatório gerencial Te comissão Ta equipe Te venTas. Nesse contexto, é correto afirmar que a manutenção 
-a ser realizaTa é
+SEACORD, R. C.; PLAKOSH, D.; LEWIS, G. A. Moder
+De acordo com a figura apresentada e considerando u
+Resource Planning - Planejamento de Recursos Em
+integra todos os departamentos existentes de uma e
+relatório gerencial de comissão da equipe de vendas
+a ser realizada é
 A	 corretiva.
 B	 evolutiva.
 C	 funcional.
-M	 preventiva.
-N	 aTaptativa.
-*R28202131*
+D	 preventiva.
+E	 adaptativa.
+
+de ser dividida em três categorias: manutenção, 
+a seguir, conforme o tempo aumenta, a quantidade 
+íodo de evolução a manutenção é realizada, pois as 
+recisa suprir as mudanças por meio da manutenção. 
+sistema, pois as necessidades de negócio continuam 
+ fazem necessárias. Além da substituição do sistema 
+ócio não atende mais a necessidade da empresa, 
+s suficientes.
+Modernização
+Substituição
+do software
+Manutenção
+do segundo
+software
+mpo
+Software  2
+nizing Legancy Systems. Boston: Pearson Education, 2003 (adaptado).
+m sistema de software implantado de ERP (Enterprise 
+presariais) contendo um conjunto de módulos que 
+mpresa, observou-se a necessidade de criação de um 
+Nesse contexto, é correto afirmar que a manutenção

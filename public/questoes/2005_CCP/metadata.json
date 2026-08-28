@@ -4,10 +4,21 @@
   "ano": 2005,
   "curso": "CCP",
   "total_paginas": 32,
-  "questoes_detectadas": 60,
-  "questoes_extraidas": 60,
-  "score_geral": 89.0,
+  "questoes_detectadas": 77,
+  "questoes_extraidas": 77,
+  "score_geral": 95.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2005_CCP",
+    "page_width": 596.0,
+    "page_height": 842.0,
+    "header_cutoff_y": 39.8,
+    "footer_cutoff_y": 792.8,
+    "min_marker_y": 41.8,
+    "margin_x": 25.0,
+    "detected_headers": 6,
+    "detected_footers": 90
+  },
   "questoes": [
     {
       "id_questao": "q03",
@@ -19,7 +30,7 @@
         4
       ],
       "largura": 2306,
-      "altura": 8901,
+      "altura": 9403,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
@@ -42,7 +53,7 @@
         7
       ],
       "largura": 2306,
-      "altura": 7533,
+      "altura": 8165,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
@@ -63,8 +74,8 @@
         8
       ],
       "largura": 2306,
-      "altura": 1743,
-      "confianca": 0.98,
+      "altura": 1890,
+      "confianca": 0.85,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -82,12 +93,12 @@
       "paginas": [
         8
       ],
-      "largura": 2306,
-      "altura": 113,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 3200,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q11.png",
@@ -102,12 +113,12 @@
       "paginas": [
         8
       ],
-      "largura": 2306,
+      "largura": 1156,
       "altura": 1269,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q12.png",
@@ -120,21 +131,39 @@
       "numero": 13,
       "tipo": "OBJETIVA",
       "paginas": [
-        8,
-        9
+        8
       ],
-      "largura": 2306,
-      "altura": 2381,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 1082,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q13.png",
       "caminho_json": "/questoes/2005_CCP/q13.json",
       "caminho_txt": "/questoes/2005_CCP/q13.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q14",
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        9
+      ],
+      "largura": 1155,
+      "altura": 1505,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q14.png",
+      "caminho_json": "/questoes/2005_CCP/q14.json",
+      "caminho_txt": "/questoes/2005_CCP/q14.txt",
       "num_figuras": 0
     },
     {
@@ -146,7 +175,7 @@
       ],
       "largura": 1155,
       "altura": 802,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -165,11 +194,11 @@
         9
       ],
       "largura": 1155,
-      "altura": 909,
-      "confianca": 0.98,
+      "altura": 953,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q16.png",
@@ -185,11 +214,11 @@
         9
       ],
       "largura": 1156,
-      "altura": 1229,
-      "confianca": 0.98,
+      "altura": 1376,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Engenharia de Software"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q17.png",
@@ -202,12 +231,11 @@
       "numero": 18,
       "tipo": "OBJETIVA",
       "paginas": [
-        9,
-        10
+        9
       ],
       "largura": 1156,
-      "altura": 2794,
-      "confianca": 0.98,
+      "altura": 1839,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -219,6 +247,26 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q19",
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        10
+      ],
+      "largura": 1155,
+      "altura": 1161,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q19.png",
+      "caminho_json": "/questoes/2005_CCP/q19.json",
+      "caminho_txt": "/questoes/2005_CCP/q19.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q20",
       "numero": 20,
       "tipo": "OBJETIVA",
@@ -227,7 +275,7 @@
       ],
       "largura": 1155,
       "altura": 797,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -245,18 +293,37 @@
       "paginas": [
         10
       ],
-      "largura": 1156,
-      "altura": 1993,
-      "confianca": 0.98,
+      "largura": 1155,
+      "altura": 1304,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q21.png",
       "caminho_json": "/questoes/2005_CCP/q21.json",
       "caminho_txt": "/questoes/2005_CCP/q21.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q22",
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        10
+      ],
+      "largura": 1156,
+      "altura": 895,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Sistemas Operacionais"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q22.png",
+      "caminho_json": "/questoes/2005_CCP/q22.json",
+      "caminho_txt": "/questoes/2005_CCP/q22.txt",
       "num_figuras": 0
     },
     {
@@ -268,7 +335,7 @@
       ],
       "largura": 1156,
       "altura": 1153,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -284,12 +351,11 @@
       "numero": 24,
       "tipo": "OBJETIVA",
       "paginas": [
-        10,
-        11
+        10
       ],
       "largura": 1156,
-      "altura": 1951,
-      "confianca": 0.98,
+      "altura": 1214,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -301,6 +367,26 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q25",
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        11
+      ],
+      "largura": 1155,
+      "altura": 943,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Segurança da Informação"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q25.png",
+      "caminho_json": "/questoes/2005_CCP/q25.json",
+      "caminho_txt": "/questoes/2005_CCP/q25.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q26",
       "numero": 26,
       "tipo": "OBJETIVA",
@@ -309,7 +395,7 @@
       ],
       "largura": 1155,
       "altura": 1352,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -327,9 +413,9 @@
       "paginas": [
         11
       ],
-      "largura": 1156,
-      "altura": 2594,
-      "confianca": 0.98,
+      "largura": 1155,
+      "altura": 965,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -341,16 +427,35 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q28",
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        11
+      ],
+      "largura": 1156,
+      "altura": 1835,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q28.png",
+      "caminho_json": "/questoes/2005_CCP/q28.json",
+      "caminho_txt": "/questoes/2005_CCP/q28.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q29",
       "numero": 29,
       "tipo": "OBJETIVA",
       "paginas": [
-        11,
-        12
+        11
       ],
       "largura": 1156,
-      "altura": 2245,
-      "confianca": 0.98,
+      "altura": 1380,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -362,6 +467,26 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q30",
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1155,
+      "altura": 1071,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q30.png",
+      "caminho_json": "/questoes/2005_CCP/q30.json",
+      "caminho_txt": "/questoes/2005_CCP/q30.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q31",
       "numero": 31,
       "tipo": "OBJETIVA",
@@ -370,7 +495,7 @@
       ],
       "largura": 1155,
       "altura": 1099,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Governança e Gestão de TI"
@@ -388,12 +513,12 @@
       "paginas": [
         12
       ],
-      "largura": 1156,
-      "altura": 2695,
-      "confianca": 0.98,
+      "largura": 1155,
+      "altura": 1092,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q32.png",
@@ -402,19 +527,37 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q33",
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        12
+      ],
+      "largura": 1156,
+      "altura": 1809,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Redes de Computadores"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q33.png",
+      "caminho_json": "/questoes/2005_CCP/q33.json",
+      "caminho_txt": "/questoes/2005_CCP/q33.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q34",
       "numero": 34,
       "tipo": "OBJETIVA",
       "paginas": [
-        12,
-        13
+        12
       ],
       "largura": 1156,
-      "altura": 3415,
-      "confianca": 0.98,
+      "altura": 1406,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
         "Engenharia de Software"
       ],
       "anomalias": [],
@@ -424,15 +567,35 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q35",
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        13
+      ],
+      "largura": 1155,
+      "altura": 2215,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Redes de Computadores"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q35.png",
+      "caminho_json": "/questoes/2005_CCP/q35.json",
+      "caminho_txt": "/questoes/2005_CCP/q35.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q36",
       "numero": 36,
       "tipo": "OBJETIVA",
       "paginas": [
         13
       ],
-      "largura": 1156,
-      "altura": 2052,
-      "confianca": 0.98,
+      "largura": 1155,
+      "altura": 1000,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -444,6 +607,26 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q37",
+      "numero": 37,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        13
+      ],
+      "largura": 1156,
+      "altura": 1509,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q37.png",
+      "caminho_json": "/questoes/2005_CCP/q37.json",
+      "caminho_txt": "/questoes/2005_CCP/q37.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q38",
       "numero": 38,
       "tipo": "OBJETIVA",
@@ -451,8 +634,8 @@
         13
       ],
       "largura": 1156,
-      "altura": 1662,
-      "confianca": 0.98,
+      "altura": 1706,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -471,8 +654,8 @@
         14
       ],
       "largura": 2306,
-      "altura": 1071,
-      "confianca": 0.98,
+      "altura": 1218,
+      "confianca": 0.85,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -492,8 +675,8 @@
         16
       ],
       "largura": 2306,
-      "altura": 1188,
-      "confianca": 0.98,
+      "altura": 1482,
+      "confianca": 0.85,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -511,12 +694,12 @@
       "paginas": [
         16
       ],
-      "largura": 2306,
-      "altura": 113,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 3199,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Algoritmos e Estruturas de Dados"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q41.png",
@@ -531,12 +714,12 @@
       "paginas": [
         16
       ],
-      "largura": 2306,
-      "altura": 2248,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 2292,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q42.png",
@@ -552,8 +735,8 @@
         17
       ],
       "largura": 1155,
-      "altura": 515,
-      "confianca": 0.98,
+      "altura": 662,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -572,8 +755,8 @@
         17
       ],
       "largura": 1155,
-      "altura": 2509,
-      "confianca": 0.98,
+      "altura": 2553,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -592,8 +775,8 @@
         17
       ],
       "largura": 1156,
-      "altura": 829,
-      "confianca": 0.98,
+      "altura": 976,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -613,7 +796,7 @@
       ],
       "largura": 1156,
       "altura": 672,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -632,8 +815,8 @@
         17
       ],
       "largura": 1156,
-      "altura": 1569,
-      "confianca": 0.98,
+      "altura": 1613,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -652,8 +835,8 @@
         18
       ],
       "largura": 1155,
-      "altura": 800,
-      "confianca": 0.98,
+      "altura": 947,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -673,7 +856,7 @@
       ],
       "largura": 1155,
       "altura": 1209,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -692,8 +875,8 @@
         18
       ],
       "largura": 1155,
-      "altura": 1061,
-      "confianca": 0.98,
+      "altura": 1105,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -712,8 +895,8 @@
         18
       ],
       "largura": 1156,
-      "altura": 1771,
-      "confianca": 0.98,
+      "altura": 1918,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -732,11 +915,11 @@
         18
       ],
       "largura": 1156,
-      "altura": 1253,
-      "confianca": 0.98,
+      "altura": 1297,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q52.png",
@@ -752,8 +935,8 @@
         19
       ],
       "largura": 1155,
-      "altura": 2977,
-      "confianca": 0.98,
+      "altura": 3168,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -772,8 +955,8 @@
         19
       ],
       "largura": 1156,
-      "altura": 2977,
-      "confianca": 0.98,
+      "altura": 3168,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -789,14 +972,15 @@
       "numero": 55,
       "tipo": "DISCURSIVA",
       "paginas": [
-        20
+        20,
+        21
       ],
       "largura": 2306,
-      "altura": 1252,
-      "confianca": 0.98,
+      "altura": 1539,
+      "confianca": 0.85,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/qd55.png",
@@ -812,8 +996,8 @@
         21
       ],
       "largura": 1155,
-      "altura": 1819,
-      "confianca": 0.98,
+      "altura": 1858,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -831,14 +1015,14 @@
       "paginas": [
         21
       ],
-      "largura": 1155,
-      "altura": 1205,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 1389,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Programação e POO",
-        "Inteligência Artificial e Dados",
-        "Algoritmos e Estruturas de Dados"
+        "Algoritmos e Estruturas de Dados",
+        "Inteligência Artificial e Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q57.png",
@@ -851,21 +1035,40 @@
       "numero": 58,
       "tipo": "OBJETIVA",
       "paginas": [
-        21,
-        22
+        21
       ],
-      "largura": 2306,
-      "altura": 5939,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 3060,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Banco de Dados"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q58.png",
       "caminho_json": "/questoes/2005_CCP/q58.json",
       "caminho_txt": "/questoes/2005_CCP/q58.txt",
-      "num_figuras": 7
+      "num_figuras": 1
+    },
+    {
+      "id_questao": "q59",
+      "numero": 59,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        22
+      ],
+      "largura": 2306,
+      "altura": 3168,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Banco de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q59.png",
+      "caminho_json": "/questoes/2005_CCP/q59.json",
+      "caminho_txt": "/questoes/2005_CCP/q59.txt",
+      "num_figuras": 6
     },
     {
       "id_questao": "q60",
@@ -875,8 +1078,8 @@
         23
       ],
       "largura": 1155,
-      "altura": 884,
-      "confianca": 0.98,
+      "altura": 1031,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -895,8 +1098,8 @@
         23
       ],
       "largura": 1155,
-      "altura": 2139,
-      "confianca": 0.98,
+      "altura": 2183,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -915,8 +1118,8 @@
         23
       ],
       "largura": 1156,
-      "altura": 2977,
-      "confianca": 0.98,
+      "altura": 3168,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -935,8 +1138,8 @@
         24
       ],
       "largura": 1155,
-      "altura": 1710,
-      "confianca": 0.98,
+      "altura": 1857,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Teoria da Computação e Compiladores"
@@ -955,8 +1158,8 @@
         24
       ],
       "largura": 1155,
-      "altura": 1314,
-      "confianca": 0.98,
+      "altura": 1358,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Teoria da Computação e Compiladores"
@@ -975,8 +1178,8 @@
         24
       ],
       "largura": 1156,
-      "altura": 1144,
-      "confianca": 0.98,
+      "altura": 1291,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Teoria da Computação e Compiladores"
@@ -995,12 +1198,12 @@
         24,
         25
       ],
-      "largura": 2306,
-      "altura": 3494,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 3685,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q66.png",
@@ -1013,23 +1216,83 @@
       "numero": 67,
       "tipo": "OBJETIVA",
       "paginas": [
-        25,
-        26,
-        27
+        25
       ],
-      "largura": 2306,
-      "altura": 8452,
+      "largura": 1156,
+      "altura": 4592,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança",
         "Algoritmos e Estruturas de Dados"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q67.png",
       "caminho_json": "/questoes/2005_CCP/q67.json",
       "caminho_txt": "/questoes/2005_CCP/q67.txt",
-      "num_figuras": 7
+      "num_figuras": 2
+    },
+    {
+      "id_questao": "q68",
+      "numero": 68,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        26
+      ],
+      "largura": 1155,
+      "altura": 3168,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Redes de Computadores",
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q68.png",
+      "caminho_json": "/questoes/2005_CCP/q68.json",
+      "caminho_txt": "/questoes/2005_CCP/q68.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q69",
+      "numero": 69,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        26
+      ],
+      "largura": 1156,
+      "altura": 3168,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Redes de Computadores",
+        "Segurança da Informação"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q69.png",
+      "caminho_json": "/questoes/2005_CCP/q69.json",
+      "caminho_txt": "/questoes/2005_CCP/q69.txt",
+      "num_figuras": 1
+    },
+    {
+      "id_questao": "qd70",
+      "numero": 70,
+      "tipo": "DISCURSIVA",
+      "paginas": [
+        27,
+        28
+      ],
+      "largura": 1156,
+      "altura": 4590,
+      "confianca": 0.85,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/qd70.png",
+      "caminho_json": "/questoes/2005_CCP/qd70.json",
+      "caminho_txt": "/questoes/2005_CCP/qd70.txt",
+      "num_figuras": 6
     },
     {
       "id_questao": "q71",
@@ -1039,11 +1302,11 @@
         28
       ],
       "largura": 1155,
-      "altura": 1100,
-      "confianca": 0.98,
+      "altura": 1137,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q71.png",
@@ -1058,13 +1321,13 @@
       "paginas": [
         28
       ],
-      "largura": 1155,
-      "altura": 1923,
-      "confianca": 0.98,
+      "largura": 1156,
+      "altura": 2109,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados",
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q72.png",
@@ -1080,8 +1343,8 @@
         28
       ],
       "largura": 1156,
-      "altura": 2110,
-      "confianca": 0.98,
+      "altura": 2147,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -1097,12 +1360,11 @@
       "numero": 74,
       "tipo": "OBJETIVA",
       "paginas": [
-        28,
-        29
+        28
       ],
       "largura": 1156,
-      "altura": 2037,
-      "confianca": 0.98,
+      "altura": 958,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -1111,6 +1373,26 @@
       "caminho_png": "/questoes/2005_CCP/q74.png",
       "caminho_json": "/questoes/2005_CCP/q74.json",
       "caminho_txt": "/questoes/2005_CCP/q74.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q75",
+      "numero": 75,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        29
+      ],
+      "largura": 1155,
+      "altura": 1285,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Arquitetura e Organização de Computadores"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q75.png",
+      "caminho_json": "/questoes/2005_CCP/q75.json",
+      "caminho_txt": "/questoes/2005_CCP/q75.txt",
       "num_figuras": 1
     },
     {
@@ -1121,8 +1403,8 @@
         29
       ],
       "largura": 1155,
-      "altura": 1886,
-      "confianca": 0.98,
+      "altura": 1930,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -1141,8 +1423,8 @@
         29
       ],
       "largura": 1156,
-      "altura": 1473,
-      "confianca": 0.98,
+      "altura": 1620,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -1158,12 +1440,11 @@
       "numero": 78,
       "tipo": "OBJETIVA",
       "paginas": [
-        29,
-        30
+        29
       ],
       "largura": 1156,
-      "altura": 2540,
-      "confianca": 0.98,
+      "altura": 1595,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -1175,6 +1456,26 @@
       "num_figuras": 0
     },
     {
+      "id_questao": "q79",
+      "numero": 79,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        30
+      ],
+      "largura": 1155,
+      "altura": 1151,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q79.png",
+      "caminho_json": "/questoes/2005_CCP/q79.json",
+      "caminho_txt": "/questoes/2005_CCP/q79.txt",
+      "num_figuras": 0
+    },
+    {
       "id_questao": "q80",
       "numero": 80,
       "tipo": "OBJETIVA",
@@ -1183,7 +1484,7 @@
       ],
       "largura": 1155,
       "altura": 584,
-      "confianca": 0.98,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -1201,18 +1502,38 @@
       "paginas": [
         30
       ],
-      "largura": 1156,
-      "altura": 3555,
-      "confianca": 0.98,
+      "largura": 1155,
+      "altura": 1526,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Redes de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2005_CCP/q81.png",
       "caminho_json": "/questoes/2005_CCP/q81.json",
       "caminho_txt": "/questoes/2005_CCP/q81.txt",
-      "num_figuras": 2
+      "num_figuras": 1
+    },
+    {
+      "id_questao": "q82",
+      "numero": 82,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        30
+      ],
+      "largura": 1156,
+      "altura": 2235,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Algoritmos e Estruturas de Dados"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q82.png",
+      "caminho_json": "/questoes/2005_CCP/q82.json",
+      "caminho_txt": "/questoes/2005_CCP/q82.txt",
+      "num_figuras": 1
     },
     {
       "id_questao": "q83",
@@ -1222,8 +1543,8 @@
         30
       ],
       "largura": 1156,
-      "altura": 936,
-      "confianca": 0.98,
+      "altura": 980,
+      "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -1232,6 +1553,26 @@
       "caminho_png": "/questoes/2005_CCP/q83.png",
       "caminho_json": "/questoes/2005_CCP/q83.json",
       "caminho_txt": "/questoes/2005_CCP/q83.txt",
+      "num_figuras": 0
+    },
+    {
+      "id_questao": "q84",
+      "numero": 84,
+      "tipo": "OBJETIVA",
+      "paginas": [
+        31
+      ],
+      "largura": 2306,
+      "altura": 1516,
+      "confianca": 0.9,
+      "status": "APROVADA",
+      "categorias": [
+        "Redes de Computadores"
+      ],
+      "anomalias": [],
+      "caminho_png": "/questoes/2005_CCP/q84.png",
+      "caminho_json": "/questoes/2005_CCP/q84.json",
+      "caminho_txt": "/questoes/2005_CCP/q84.txt",
       "num_figuras": 0
     }
   ]

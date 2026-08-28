@@ -5,18 +5,46 @@
   "paginas": [
     30
   ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 774.4953002929688,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q30.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 30\nhma  empresa  de  médio  porte  sofreu  um \nataque hacker  e  alguns  de  seus  sistemas  foram \ncomprometidos.   Depois  de  alguns  dias,   a  equipe \nde  decnologia  da  /nformação  (d/)  dessa  empresa \nconseguiu  reestabelecer  os  sistemas,   tendo  a \ngestora de d/ apresentado um plano para a diretoria \ncom o intuito de criar um setor especializado em \nsegurança da informação para evitar novos ataques.  \n pos a anAlise dos riscos e beneİcios do plano,  a \ndiretoria aprovou a implantação do referido setor \nde segurança da informação.\n  partir do cenArio descrito,  avalie as asserções a \nseguir e a relação proposta entre elas.\n/.      implantação  de  um  setor  de  segurança \nda \ninformação \nestA \nassociada \nao \ndesenvolvimento  de  uma  política  de \nsegurança da informação,  que é um conũunto \nde  normas,   métodos  e  procedimentos \nutilizados para a manutenção da segurança \nda  informação,   devendo  ser  formalizada  e \ndivulgada a todos os usuArios.\nWKZYhE\n//.     implantação de um sistema de gestão da \nsegurança  da  informação  (^'^/)  preserva \na  confdencialidade,   a  integridade  e  a \ndisponibilidade  da  informação,   por  meio \nda  aplicação  de  um  processo  de  gestão \nde  riscos,   e  fornece,   para  as  partes \ninteressadas,   a  confança  de  que  os  riscos \nsão  adequadamente  gerenciados,   sendo \nimportante que o ^'^/ esteũa integrado aos \nprocessos da organização e a sua estrutura \nglobal.\n   respeito  dessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verdadeiras,  \ne a // é uma ũustifcativa correta da /.\nB   s asserções / e // são proposições verdadeiras,  \nmas a // não é uma ũustifcativa correta da /.\nC    asserção / é uma proposição verdadeira,  e a // \né uma proposição falsa.\nD    asserção / é uma proposição falsa,  e a // é uma \nproposição verdadeira.\nE   s asserções / e // são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Formação Geral e Sociedade",
-    "Sistemas Operacionais"
+    "Segurança da Informação"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 30"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "30\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 30\nUma  empresa  Te  méTio  porte  sofreu  um \nataque Uacker  e  alguns  Te  seus  sistemas  foram \ncomprometiTos.   Mepois  Te  alguns  Tias,   a  equipe \nTe  Tecnologia  Ta  /nformação  (T/)  Tessa  empresa \nconseguiu  reestabelecer  os  sistemas,   tenTo  a \ngestora Te T/ apresentaTo um plano para a Tiretoria \ncom o intuito Te criar um setor especializaTo em \nsegurança Ta informação para evitar novos ataques.  \n pos a anAlise Tos riscos e beneİcios To plano,  a \nTiretoria aprovou a implantação To referiTo setor \nTe segurança Ta informação.\n  partir To cenArio Tescrito,  avalie as asserções a \nseguir e a relação proposta entre elas.\n/.      implantação  Te  um  setor  Te  segurança \nTa \ninformação \nestA \nassociaTa \nao \nTesenvolvimento  Te  uma  política  Te \nsegurança Ta informação,  que é um conũunto \nTe  normas,   métoTos  e  proceTimentos \nutilizaTos para a manutenção Ta segurança \nTa  informação,   TevenTo  ser  formalizaTa  e \nTivulgaTa a toTos os usuArios.\nPOZYUN\n//.     implantação Te um sistema Te gestão Ta \nsegurança  Ta  informação  (S'S/)  preserva \na  confTencialiTaTe,   a  integriTaTe  e  a \nTisponibiliTaTe  Ta  informação,   por  meio \nTa  aplicação  Te  um  processo  Te  gestão \nTe  riscos,   e  fornece,   para  as  partes \ninteressaTas,   a  confança  Te  que  os  riscos \nsão  aTequaTamente  gerenciaTos,   senTo \nimportante que o S'S/ esteũa integraTo aos \nprocessos Ta organização e a sua estrutura \nglobal.\n   respeito  Tessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nQUNSTÃO 31\n   T/  serTe  estA  associaTa  a  utilização  efciente \nTos recursos organizacionais e a minimização Tos \nefeitos  nocivos  ao  meio  ambiente  ocasionaTos \npelo  uso  Ta  Tecnologia  Ta  /nformação  (T/).  \nNssas  tecnologias  são  feitas  Te  proTutos \nquímicos,   metais  pesaTos,   materiais  sintéticos \netc.   ConsiTeranTo  que  existirão  10  bilUões  Te \npessoas no nosso planeta em 2050,  teremos que \ngerir  tanto  o  impacto  ambiental  Ta  tecnologia,  \nquanto usar esta mesma tecnologia para aũuTar \na  gerenciar  o  impacto  Ta  espécie  Uumana  no \nplaneta.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. sustent. com. brх.  \n cesso em:  21 ũul.  2017 (aTaptaTo).\n   partir  Tessas  informações  e  consiTeranTo  o \nconceito Te T/ serTe,  avalie as afrmações a seguir.\n/.   Um  Tos  pilares  Ta  T/  serTe  é  a  busca  Te \nconscientização  To  usuArio  na  aToção \nTe  ações  sustentAveis,   tais  como:   reTuzir \nimpressões  inuteis  economizanTo  papel  e \ntintaͬ toner  e  evitar  o  envio  TesnecessArio \nTe e-mails reTuzinTo o gasto Te energia To \nsistema e To receptor.\n//.   Na linUa Te efcigncia energética estão os Tata \ncenters verTes,  nos quais a virtualização Te \nserviTores poTe ser utilizaTa para fazer com \nque uma unica mAquina İsica,  consiTeranTo \nsua  capaciTaTe  Te  processamento,   emule \nTiversas mAquinas.\n///.   Um  equívoco  comum  é  consiTerar  ações \nrelativas ao lixo eletrƀnico como ações Te T/ \nserTe  a  serem  aTotaTas  pela  organização,  \npois  essas  questões  estão  fora  Te  sua \ngovernança.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R43201730*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q30.png",
-  "caminho_json": "/questoes/2017_GTI/q30.json",
-  "caminho_txt": "/questoes/2017_GTI/q30.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697702"
 }

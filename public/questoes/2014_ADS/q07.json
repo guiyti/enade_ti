@@ -5,17 +5,46 @@
   "paginas": [
     8
   ],
-  "largura": 1223,
-  "altura": 2906,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 8,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 749.4,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q07.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q07.txt",
+  "largura": 1222,
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 07\nK  quadro  a  seguir  apresenta  a  proporção  (%) \nde  trabalhadores  por  faixa  de  tempo  gasto  no \ndeslocamento  casa-trabalho,   no  Brasil  e  em  trgs \ncidades brasileiras.\nTempo de \ndeslocamento\nBrasil\nRio de \nJaneiro\nSão\nPaulo Iuritiba \nAté cinco minutos\n12, 70\n5, 80\n5, 10\n7, 80\nDe seis minutos \naté meia hora\n52, 20\n32, 10\n31, 60\n45, 80\nMais de meia hora \naté uma hora\n23, 60\n33, 50\n34, 60\n32, 40\nMais de uma hora \naté duas horas\n9, 80\n23, 20\n23, 30\n12, 90\nMais de duas \nhoras\n1, 80\n5, 50\n5, 30\n1, 20\nIEE^K 2010ͬ /B'E (adaptado).  \nIom base nos  dados apresentados e considerando a \ndistribuição da população trabalhadora nas cidades e \nas políticas publicas direcionadas a mobilidade urbana,  \navalie as afrmações a seguir.\n/.     distribuição das pessoas por faixa de tempo \nde  deslocamento  casa-trabalho  na  região \nmetropolitana do Zio de :aneiro é proxima a que \nse verifca em ^ão Waulo,  mas não em Iuritiba e \nna média brasileira.\n//.   Eas metropoles,  em geral,  a maioria dos postos \nde  trabalho  estA  localizada  nas  Areas  urbanas \ncentrais,  e as residgncias da população de baixa \nrenda estão concentradas em Areas irregulares \nou na periferia,  o que aumenta o tempo gasto por \nesta população no deslocamento casa-trabalho e \no custo do transporte.\n///.    s  políticas  publicas  referentes  a  transportes \nurbanos,   como,   por  exemplo,   Bilhete  jnico \ne  seículo  >eve  sobre  drilhos  (s>d),   ao  serem \nimplementadas,   contribuem  para  redução  do \ntempo gasto no deslocamento casa-trabalho e \ndo custo do transporte.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 7,
+      "tipo": "OBJETIVA",
+      "pagina": 8,
+      "x": 51.850399017333984,
+      "y": 108.016845703125,
+      "x1": 114.302001953125,
+      "y1": 120.016845703125,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 07"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "8\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 07\nO  quaTro  a  seguir  apresenta  a  proporção  (%) \nTe  trabalUaTores  por  faixa  Te  tempo  gasto  no \nTeslocamento  casa-trabalUo,   no  Brasil  e  em  trgs \nciTaTes brasileiras.\nTempo Te \nTeslocamento\nBrasil\nRio Te \nJaneiro\nSão\nPaulo Curitiba \nAté cinco minutos\n12, 70\n5, 80\n5, 10\n7, 80\nMe seis minutos \naté meia Uora\n52, 20\n32, 10\n31, 60\n45, 80\nMais Te meia Uora \naté uma Uora\n23, 60\n33, 50\n34, 60\n32, 40\nMais Te uma Uora \naté Tuas Uoras\n9, 80\n23, 20\n23, 30\n12, 90\nMais Te Tuas \nUoras\n1, 80\n5, 50\n5, 30\n1, 20\nCNNSO 2010ͬ /B'N (aTaptaTo).  \nCom base nos  TaTos apresentaTos e consiTeranTo a \nTistribuição Ta população trabalUaTora nas ciTaTes e \nas políticas publicas TirecionaTas a mobiliTaTe urbana,  \navalie as afrmações a seguir.\n/.     Tistribuição Tas pessoas por faixa Te tempo \nTe  Teslocamento  casa-trabalUo  na  região \nmetropolitana To Zio Te :aneiro é proxima a que \nse verifca em São Paulo,  mas não em Curitiba e \nna méTia brasileira.\n//.   Nas metropoles,  em geral,  a maioria Tos postos \nTe  trabalUo  estA  localizaTa  nas  Areas  urbanas \ncentrais,  e as resiTgncias Ta população Te baixa \nrenTa estão concentraTas em Areas irregulares \nou na periferia,  o que aumenta o tempo gasto por \nesta população no Teslocamento casa-trabalUo e \no custo To transporte.\n///.    s  políticas  publicas  referentes  a  transportes \nurbanos,   como,   por  exemplo,   BilUete  jnico \ne  seículo  >eve  sobre  TrilUos  (s>T),   ao  serem \nimplementaTas,   contribuem  para  reTução  To \ntempo gasto no Teslocamento casa-trabalUo e \nTo custo To transporte.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 08\nConstantes  transformações  ocorreram  nos  meios \nrural e urbano,  a partir To século yy.  Com o aTvento \nTa inTustrialização,  Uouve muTanças importantes no \nmoTo Te viTa Tas pessoas,  em seus paTrões culturais,  \nvalores e traTições.  O conũunto Te acontecimentos \nprovocou,   tanto  na  zona  urbana  quanto  na  rural,  \nproblemas como explosão TemogrAfca,  preũuízo nas \nativiTaTes agrícolas e violgncia.\n/niciaram-se  inumeras  transformações  na  natureza,  \ncrianTo-se técnicas para obũetos até então sem utiliTaTe \npara  o  Uomem.   /sso  so  foi  possível  em  Tecorrgncia \nTos  recursos  naturais  existentes,   que  propiciaram \nestrutura Te crescimento e busca Te prosperiTaTe,  o \nque faz Ta experimentação um métoTo Te transformar \nos recursos em beneİcio proprio.\nS NTOS,  M.  Metamorfoses To espaço UabitaTo.\nSão Paulo:  ,ucitec,  1988 (aTaptaTo).\n  partir Tas iTeias expressas no texto acima,  conclui-se \nque,  no Brasil To século yy,\nA a  inTustrialização  ocorreu  inTepenTentemente \nTo gxoTo rural e Tos recursos naturais Tisponíveis.\nB o gxoTo rural para as ciTaTes não preũuTicou as \nativiTaTes agrícolas nem o meio rural porque \nnovas  tecnologias  Uaviam  siTo  introTuziTas \nno campo.\nC Uomens e mulUeres aTvinTos To campo Teixaram \nsua  cultura  e  se  aTaptaram  a  outra,   citaTina,  \ntotalmente Tiferente e oposta aos seus valores.\nM tanto o espaço urbano quanto o rural sofreram \ntransformações  Tecorrentes  Ta  aplicação  Te \nnovas  tecnologias  as  ativiTaTes  inTustriais  e \nagrícolas.\nN os  migrantes  cUegaram  as  granTes  ciTaTes \ntrazenTo  consigo  valores  e  traTições,   que  lUes \npossibilitaram  manter  intacta  sua  cultura,   tal \ncomo se manifestava nas pequenas ciTaTes e no \nmeio rural.\n*R4020148*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q07.png",
-  "caminho_json": "/questoes/2014_ADS/q07.json",
-  "caminho_txt": "/questoes/2014_ADS/q07.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119937"
 }

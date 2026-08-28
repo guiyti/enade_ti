@@ -5,15 +5,25 @@
   "paginas": [
     25
   ],
-  "largura": 1123,
-  "altura": 2715,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Programação e POO"
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 64.4,
+      "x1": 287.28,
+      "y1": 728.2,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n25\nQUNSTÃO 38  \nÉ comum que linguagens Te programação permitam \na Tescrição textual Te constantes em UexaTecimal, \nalém Te Tescrições na base Tez. O compilaTor para \numa linguagem que suporte constantes inteiras em \nUexaTecimal precisa Tiferenciar inteiros em base Tez Tos \nnúmeros UexaTecimais que não usam os Tígitos Te \na \n. Por exemplo, a sequência Te caracteres\ng\npoTe ser \ninterpretaTa como Toze em base Tez ou como Tezoito em \nUexaTecimal. Uma maneira Te resolver esse problema \né exiginTo que as constantes em UexaTecimal terminem \ncom o caracter “\n”. Assim, não Uá ambiguiTaTe, por \nexemplo, no tratamento Tas sequências\n e \ng\n.\nA gramática a seguir Tescreve números inteiros, \npossivelmente com o símbolo “\n” após os Tígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nT representa um Tígito.\nM → N\nM → N\nN → N\nN → NT\nN → T\nMurante a construção Te um autômato LR para essa \ngramática, os seguintes estaTos são Tefi niTos:\ne0:\nM´ → ·M\nM → ·N\nM → ·N\nN → ·N\nN → ·NT\nN → ·T\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · T\nA respeito Tessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática Tescrita é To tipo LR(0).\nPORQUN\nÉ possível construir um autômato LR(0), Teterminístico, \ncujos estaTos incluem \ne \nacima Tescritos.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justifi cativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justifi cativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 39  \nO conceito Te Tipo Te MaTos Abstrato (TMA) é popular em \nlinguagens Te programação. Nesse contexto, analise as \nafi rmativas a seguir.\nC. \nA especifi cação Te um TMA é composta Tas \noperações aplicáveis a ele, Ta sua representação \ninterna, e Tas implementações Tas operações.\nCC. Mois mecanismos utilizáveis na implementação Te \num TMA em programas orientaTos a objetos são a \ncomposição e a Uerança.\nCCC. Se S é um subtipo Te outro T, então entiTaTes To \ntipo S em um programa poTem ser substituíTas \npor entiTaTes To tipo T, sem alterar a corretuTe \nTesse programa.\nCV. O encapsulamento em linguagens Te programação \norientaTas a objetos é um efeito positivo To uso \nTe TMA.\nÉ correto apenas o que se afi rma em\nA  C.\nB  CC.\nC  C e CCC.\nM  CC e CV.\nN  CCC e CV.\nQUNSTÃO 40  \nConsiTere que a fi gura abaixo corresponTe ao cenário Te \num jogo Te computaTor. Nsse cenário é TiviTiTo em 24 \nquaTraTos e a movimentação Te um personagem entre \ncaTa quaTraTo tem custo 1, senTo permitiTa apenas na \nUorizontal ou na vertical. Os quaTraTos marcaTos em preto \ncorresponTem a regiões para as quais os personagens \nnão poTem se mover.\nNesse cenário, o algoritmo A* vai ser usaTo para Teterminar \no caminUo Te custo mínimo pelo qual um personagem \nTeve se mover TesTe o quaTraTo verTe até o quaTraTo \nvermelUo. ConsiTere que, no A*, o custo f(x) = g(x) + U(x) \nTe TeterminaTo nó x é computaTo somanTo-se o custo \nreal g(x) ao custo Ta função Ueurística U(x) e que a função \nUeurística utilizaTa é a Tistância Te ManUattan (soma Tas \nTistâncias Uorizontal e vertical Te x até o objetivo). Messe \nmoTo, o custo f(x) To quaTraTo verTe é igual a\nA  2.\nB  3.\nC  5.\nM  7.\nN  9.\n*A13201125*",
+  "caminho_png": "/questoes/2011_CCP/q38.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q38.txt",
+  "largura": 1123,
+  "altura": 2796,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 38  \nÉ comum que linguagens de programação permitam \na descrição textual de constantes em hexadecimal, \nalém de descrições na base dez. O compilador para \numa linguagem que suporte constantes inteiras em \nhexadecimal precisa diferenciar inteiros em base dez dos \nnúmeros hexadecimais que não usam os dígitos de \na \n. Por exemplo, a sequência de caracteres\ng\npode ser \ninterpretada como doze em base dez ou como dezoito em \nhexadecimal. Uma maneira de resolver esse problema \né exigindo que as constantes em hexadecimal terminem \ncom o caracter “\n”. Assim, não há ambiguidade, por \nexemplo, no tratamento das sequências\n e \ng\n.\nA gramática a seguir descreve números inteiros, \npossivelmente com o símbolo “\n” após os dígitos. Os não \nterminais são \n, \n, \ne os terminais são \ne\n, em que \nd representa um dígito.\nM → E\nM → N\nE → N\nN → Nd\nN → d\nDurante a construção de um autômato LR para essa \ngramática, os seguintes estados são defi nidos:\ne0:\nM´ → ·M\nM → ·E\nM → ·N\nE → ·N\nN → ·Nd\nN → ·d\ne1(e0, N):\nM → N ·\nM → N ·\nM → N · d\nA respeito dessa gramática, analise as seguintes \nasserções e a relação proposta entre elas.\nA gramática descrita é do tipo LR(0).\nPORQUE\nÉ possível construir um autômato LR(0), determinístico, \ncujos estados incluem \ne \nacima descritos.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2011_CCP/figuras/q38_fig1.png",
     "/questoes/2011_CCP/figuras/q38_fig2.png",
@@ -55,7 +65,26 @@
     "/questoes/2011_CCP/figuras/q38_fig38.png",
     "/questoes/2011_CCP/figuras/q38_fig39.png"
   ],
-  "caminho_png": "/questoes/2011_CCP/q38.png",
-  "caminho_json": "/questoes/2011_CCP/q38.json",
-  "caminho_txt": "/questoes/2011_CCP/q38.txt"
+  "categorias": [
+    "Teoria da Computação e Compiladores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 38,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 34.1431999206543,
+      "y": 67.89041900634766,
+      "x1": 103.25318908691406,
+      "y1": 81.75041961669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 38"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275328"
 }

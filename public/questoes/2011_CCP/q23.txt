@@ -1,126 +1,24 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-14
-QUNSTÃO 22  
-ConsiTere a seguinte tabela  verTaTe, na qual estão 
-Tefi niTas quatro entraTas – A, B, C e M – e uma saíTa S. 
-A
-B
-C
-M
-S
-0
-0
-0
-0
-1
-0
-0
-0
-1
-0
-0
-0
-1
-0
-1
-0
-0
-1
-1
-0
-0
-1
-0
-0
-1
-0
-1
-0
-1
-0
-0
-1
-1
-0
-1
-0
-1
-1
-1
-0
-1
-0
-0
-0
-1
-1
-0
-0
-1
-1
-1
-0
-1
-0
-0
-1
-0
-1
-1
-1
-1
-1
-0
-0
-0
-1
-1
-0
-1
-0
-1
-1
-1
-0
-1
-1
-1
-1
-1
-1
-A menor expressão Te cUaveamento representaTa por 
-uma soma Te proTutos corresponTente à saíTa S é
-A   AB’(M+C’)+A’M’+ABC.
-B   AM + A’BM’+A’BC+A’B’C’.
-C   A’M’ + AB’M+AB’C’+ABC.
-M   (A’+M)(A+B+C’)(A+B’+C+M’).
-N    (A+M’)(A’+B’+C)(A’+B+C’+M).
-ÁRNA LCVRN
-QUNSTÃO 23
-Autômatos fi nitos possuem Tiversas aplicações práticas, 
-como na Tetecção Te sequências Te caracteres em 
+QUESTÃO 23
+Autômatos fi nitos possuem diversas aplicações práticas, 
+como na detecção de sequências de caracteres em 
 um texto. A fi gura abaixo apresenta um autômato que 
-reconUece sequências sobre o alfabeto 
+reconhece sequências sobre o alfabeto 
 e 
-uma gramática livre Te contexto que gera um subconjunto 
-Te 
+uma gramática livre de contexto que gera um subconjunto 
+de 
 , em que 
 representa o string vazio.
-AnalisanTo a gramática e o autômato acima, 
+Analisando a gramática e o autômato acima, 
 conclui-se que
-A   a linguagem geraTa pela gramática é inerentemente 
+A   a linguagem gerada pela gramática é inerentemente 
 ambígua.
-B   a gramática é regular e gera uma linguagem livre Te 
+B   a gramática é regular e gera uma linguagem livre de 
 contexto.
-C   a linguagem reconUeciTa pelo autômato é a mesma 
-geraTa pela gramática.
-M   o autômato reconUece a linguagem sobre 
+C   a linguagem reconhecida pelo autômato é a mesma 
+gerada pela gramática.
+D   o autômato reconhece a linguagem sobre 
  em que 
 os strings possuem o prefi xo ababc.
-N   a linguagem reconUeciTa pelo autômato é a 
-mesma que a representaTa pela expressão regular 
+E   a linguagem reconhecida pelo autômato é a 
+mesma que a representada pela expressão regular 
 .
-ÁRNA LCVRN
-*A13201114*

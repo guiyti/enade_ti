@@ -1,43 +1,37 @@
-14
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO MCSCURSCVA 03	
-Normas Te segurança para o uso To correio eletrônico
-O objetivo Testa norma é prover informações aos colaboraTores sobre quais ativiTaTes são permitiTas ou 
-proibiTas em relação ao uso To correio eletrônico corporativo.
-O uso To correio eletrônico Ta empresa é TestinaTo para fins corporativos e relacionaTos às ativiTaTes 
-To colaboraTor na instituição.
-ToTo colaboraTor, antes Te enviar mensagens pelo correio eletrônico corporativo, Teve:
+QUESTÃO DISCURSIVA 03	
+Normas de segurança para o uso do correio eletrônico
+O objetivo desta norma é prover informações aos colaboradores sobre quais atividades são permitidas ou 
+proibidas em relação ao uso do correio eletrônico corporativo.
+O uso do correio eletrônico da empresa é destinado para fins corporativos e relacionados às atividades 
+do colaborador na instituição.
+Todo colaborador, antes de enviar mensagens pelo correio eletrônico corporativo, deve:
 •	P1 - Ter bom senso;
-•	P2 - Levar em conta o sigilo Ta informação a ser encaminUaTa, cabenTo a ele consultar o gestor se 
-tiver TúviTas, assim como proviTenciar a aTequaTa forma Te envio seguro;
-•	P3 - Respeitar os Tireitos autorais Te terceiros no conteúTo Te suas mensagens; e
-•	P4 - Não causar impacto no tráfego Ta reTe para evitar lentiTão ou inTisponibiliTaTe Tos recursos.
-É veTaTa a utilização To correio eletrônico corporativo para:
+•	P2 - Levar em conta o sigilo da informação a ser encaminhada, cabendo a ele consultar o gestor se 
+tiver dúvidas, assim como providenciar a adequada forma de envio seguro;
+•	P3 - Respeitar os direitos autorais de terceiros no conteúdo de suas mensagens; e
+•	P4 - Não causar impacto no tráfego da rede para evitar lentidão ou indisponibilidade dos recursos.
+É vedada a utilização do correio eletrônico corporativo para:
 •	P5 - Realizar SPAM;
-•	P6 - Contribuir com a continuiTaTe Te correntes Te mensagens eletrônicas;
-•	P7 – MifunTir objetivos político-partiTários;
-•	P8 - Receber Te forma consentiTa, armazenar ou enviar mensagens com vírus Te computaTor, 
-Cavalo-Te-Troia, spyware e outros cóTigos maliciosos;
-•	P9 - Receber Te forma consentiTa, armazenar ou enviar mensagens contenTo material pornográfico, 
-ofensivo, com conteúTo ilegal, criminoso ou que faça apologia ao crime etc.;
-•	P10 - Mivulgar informações não autorizaTas ou imagens Te tela, sistemas, Tocumentos e afins sem 
+•	P6 - Contribuir com a continuidade de correntes de mensagens eletrônicas;
+•	P7 – Difundir objetivos político-partidários;
+•	P8 - Receber de forma consentida, armazenar ou enviar mensagens com vírus de computador, 
+Cavalo-de-Troia, spyware e outros códigos maliciosos;
+•	P9 - Receber de forma consentida, armazenar ou enviar mensagens contendo material pornográfico, 
+ofensivo, com conteúdo ilegal, criminoso ou que faça apologia ao crime etc.;
+•	P10 - Divulgar informações não autorizadas ou imagens de tela, sistemas, documentos e afins sem 
 autorização expressa e formal;
-•	P11 - Falsificar informações Te enTereçamento, aTulterar cabeçalUos para esconTer a iTentiTaTe Te 
-remetentes e/ou Testinatários, com o objetivo Te evitar as punições ou enganar; e
-•	P12 - Apagar mensagens Te correio eletrônico quanTo a empresa ou colaboraTor estiverem sujeitos 
-a algum tipo Te investigação.
-MATASUS. Normas Te segurança para o uso To correio eletrônico. Misponível em: Uttp://Tatasus1.sauTe.gov.br/images/ 
-seguranca_Ta_informacao/Normas/. Acesso em: 27 Te jul. 2020 (aTaptaTo).
-Com base na norma Te política Te segurança Ta informação apresentaTa, faça o que se peTe nos itens 
+•	P11 - Falsificar informações de endereçamento, adulterar cabeçalhos para esconder a identidade de 
+remetentes e/ou destinatários, com o objetivo de evitar as punições ou enganar; e
+•	P12 - Apagar mensagens de correio eletrônico quando a empresa ou colaborador estiverem sujeitos 
+a algum tipo de investigação.
+DATASUS. Normas de segurança para o uso do correio eletrônico. Disponível em: http://datasus1.saude.gov.br/images/ 
+seguranca_da_informacao/Normas/. Acesso em: 27 de jul. 2020 (adaptado).
+Com base na norma de política de segurança da informação apresentada, faça o que se pede nos itens 
 a seguir. 
-a)	 Mescreva os conceitos Te confiTencialiTaTe, integriTaTe e TisponibiliTaTe. (valor: 6,0 pontos) 
-b)	 Cite um cóTigo Te política Ta norma (P1 a P12) que exemplifique caTa um Tos conceitos Tescritos no 
+a)	 Descreva os conceitos de confidencialidade, integridade e disponibilidade. (valor: 6,0 pontos) 
+b)	 Cite um código de política da norma (P1 a P12) que exemplifique cada um dos conceitos descritos no 
 item a. (valor: 4,0 pontos)
-COMPONNNTN NSPNCÍFCCO
-*R29202114*
 
-15
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
 RASCUNHO
 1
 2
@@ -54,5 +48,3 @@ RASCUNHO
 13
 14
 15
-Área livre
-*R29202115*

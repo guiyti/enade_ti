@@ -5,17 +5,46 @@
   "paginas": [
     3
   ],
+  "segmentos": [
+    {
+      "pagina": 3,
+      "x0": 293.28,
+      "y0": 64.7,
+      "x1": 555.56,
+      "y1": 728.2,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2011_ADS/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q04.txt",
   "largura": 1123,
-  "altura": 2715,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2795,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 4 \nCom o advento da República, a discussão sobre a questão \neducacional torna-se pauta significativa nas esferas dos \nPoderes Executivo e Legislativo, tanto no âmbito Federal \nquanto no Estadual. Já na Primeira República, a expansão \nda demanda social se propaga com o movimento da escola-\nnovista; no período getulista, encontram-se as reformas \nde Francisco Campos e Gustavo Capanema; no momento \nde crítica e balanço do pós-1946, ocorre a promulgação \nda primeira Lei de Diretrizes e Bases da Educação \nNacional, em 1961. É somente com a Constituição de \n1988, no entanto, que os brasileiros têm assegurada a \neducação de forma universal, como um direito de todos, \ntendo em vista o pleno desenvolvimento da pessoa no que \nse refere a sua preparação para o exercício da cidadania \ne sua qualificação para o trabalho. O artigo 208 do texto \nconstitucional prevê como dever do Estado a oferta da \neducação tanto a crianças como àqueles que não tiveram \nacesso ao ensino em idade própria à escolarização cabida. \nNesse contexto, avalie as seguintes asserções e a relação \nproposta entre elas.\nA relação entre educação e cidadania se estabelece na \nbusca da universalização da educação como uma das \ncondições necessárias para a consolidação da democracia \nno Brasil.\nPORQUE\nPor meio da atuação de seus representantes nos Poderes \nExecutivos e Legislativo, no decorrer do século XX, \npassou a ser garantido no Brasil o direito de acesso à \neducação, inclusive aos jovens e adultos que já estavam \nfora da idade escolar.\nA respeito dessas asserções, assinale a opção correta.\nA   As duas são proposições verdadeiras, e a segunda é \numa justificativa correta da primeira.\nB   As duas são proposições verdadeiras, mas a segunda \nnão é uma justificativa correta da primeira.\nC   A primeira é uma proposição verdadeira, e a segunda, falsa.\nD   A primeira é uma proposição falsa, e a segunda, verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 3,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 362.91790771484375,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 4"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n3\nQUNSTÃO 3 \nA cibercultura poTe ser vista como UerTeira legítima \n(embora Tistante) To projeto progressista Tos filósofos \nTo século XVCC. Me fato, ela valoriza a participação Tas \npessoas em comuniTaTes Te Tebate e argumentação. \nNa linUa reta Tas morais Ta igualTaTe, ela incentiva uma \nforma Te reciprociTaTe essencial nas relações Uumanas. \nMesenvolveu-se a partir Te uma prática assíTua Te trocas \nTe informações e conUecimentos, coisa que os filósofos \nTo Cluminismo viam como principal motor To progresso. \n(...) A cibercultura não seria pós-moTerna, mas estaria \ninseriTa perfeitamente na continuiTaTe Tos iTeais \nrevolucionários e republicanos Te liberTaTe, igualTaTe e \nfraterniTaTe. A Tiferença é apenas que, na cibercultura, \nesses “valores” se encarnam em Tispositivos técnicos \nconcretos. Na era Tas míTias eletrônicas, a igualTaTe se \nconcretiza na possibiliTaTe Te caTa um transmitir a toTos; \na liberTaTe toma forma nos softwares Te coTificação e no \nacesso a múltiplas comuniTaTes virtuais, atravessanTo \nfronteiras, enquanto a fraterniTaTe, finalmente, se traTuz \nem interconexão munTial.\nLNVY, P. Revolução virtual. FolUa Te S. Paulo. \nCaTerno Mais, 16 ago. 1998, p.3 (aTaptaTo).\nO Tesenvolvimento Te reTes Te relacionamento por meio \nTe computaTores e a expansão Ta Cnternet abriram novas \nperspectivas para a cultura, a comunicação e a eTucação. \nMe acorTo com as iTeias To texto acima, a cibercultura\nA   representa uma moTaliTaTe Te cultura pós-moTerna \nTe liberTaTe Te comunicação e ação.\nB   constituiu \nnegação \nTos \nvalores \nprogressistas \nTefenTiTos pelos filósofos To Cluminismo.\nC   banalizou a ciência ao Tisseminar o conUecimento nas \nreTes sociais.\nM   valorizou o isolamento Tos inTivíTuos pela proTução \nTe softwares Te coTificação.\nN   incorpora valores To Cluminismo ao favorecer o \ncompartilUamento Te informações e conUecimentos.\nQUNSTÃO 4 \nCom o aTvento Ta República, a Tiscussão sobre a questão \neTucacional torna-se pauta significativa nas esferas Tos \nPoTeres Nxecutivo e Legislativo, tanto no âmbito FeTeral \nquanto no NstaTual. Já na Primeira República, a expansão \nTa TemanTa social se propaga com o movimento Ta escola-\nnovista; no períoTo getulista, encontram-se as reformas \nTe Francisco Campos e Gustavo Capanema; no momento \nTe crítica e balanço To pós-1946, ocorre a promulgação \nTa primeira Lei Te Miretrizes e Bases Ta NTucação \nNacional, em 1961. É somente com a Constituição Te \n1988, no entanto, que os brasileiros têm asseguraTa a \neTucação Te forma universal, como um Tireito Te toTos, \ntenTo em vista o pleno Tesenvolvimento Ta pessoa no que \nse refere a sua preparação para o exercício Ta ciTaTania \ne sua qualificação para o trabalUo. O artigo 208 To texto \nconstitucional prevê como Tever To NstaTo a oferta Ta \neTucação tanto a crianças como àqueles que não tiveram \nacesso ao ensino em iTaTe própria à escolarização cabiTa. \nNesse contexto, avalie as seguintes asserções e a relação \nproposta entre elas.\nA relação entre eTucação e ciTaTania se estabelece na \nbusca Ta universalização Ta eTucação como uma Tas \nconTições necessárias para a consoliTação Ta Temocracia \nno Brasil.\nPORQUN\nPor meio Ta atuação Te seus representantes nos PoTeres \nNxecutivos e Legislativo, no Tecorrer To século XX, \npassou a ser garantiTo no Brasil o Tireito Te acesso à \neTucação, inclusive aos jovens e aTultos que já estavam \nfora Ta iTaTe escolar.\nA respeito Tessas asserções, assinale a opção correta.\nA   As Tuas são proposições verTaTeiras, e a segunTa é \numa justificativa correta Ta primeira.\nB   As Tuas são proposições verTaTeiras, mas a segunTa \nnão é uma justificativa correta Ta primeira.\nC   A primeira é uma proposição verTaTeira, e a segunTa, falsa.\nM   A primeira é uma proposição falsa, e a segunTa, verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\n*A2520113*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_ADS/q04.png",
-  "caminho_json": "/questoes/2011_ADS/q04.json",
-  "caminho_txt": "/questoes/2011_ADS/q04.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222588"
 }

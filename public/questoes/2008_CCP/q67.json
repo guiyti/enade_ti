@@ -5,17 +5,46 @@
   "paginas": [
     28
   ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 300.59999999999997,
+      "y0": 581.3267211914062,
+      "x1": 570.1999999999999,
+      "y1": 779.6522827148438,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q67.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q67.txt",
   "largura": 1154,
   "altura": 857,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 67\nNo desenvolvimento e na programação de aplicações em\nredes TCP/IP, qual tipo de protocolo de transporte libera o\nprogramador da responsabilidade de detectar e corrigir\nerros durante a transmissão, objetivando tornar a\nprogramação da aplicação mais simples?\nA\nsem conexão\nB\norientado a conexão\nC\norientado a bit\nD\norientado a byte \nE\ndatagrama confirmado",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 67,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 304.4390869140625,
+      "y": 593.3267211914062,
+      "x1": 373.80230712890625,
+      "y1": 604.36669921875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 67"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "27\nCOMPUTAÇÃO\nQUNSTÃO 64\nA figura abaixo apresenta uma proposta Te classificação Te\nsistemas Te informação, organizaTa tanto no que se refere\nao nível Uierárquico, no qual atuam os sistemas no âmbito\nTe uma organização, quanto no que se refere às áreas\nfuncionais nas quais esses sistemas são aplicaTos.\nConsiTere a situação Uipotética em que uma reTe Te\nsupermercaTos Teverá tomar uma Tecisão com relação à\nsubstituição To sistema Te automação Te “frente Te loja”,\nque apóia as ativiTaTes Tos caixas nos cUeck-outs.\nA Tecisão envolve substituir o sistema atual, que emprega\ntecnologia Te terminais “burros”, por um que emprega\ncomputaTores pessoais e reTes sem fio. Nesse sentiTo e\nconsiTeranTo a proposta Te classificação apresentaTa,\nqual Tas opções a seguir apresenta uma classificação\naTequaTa Te nível Uierárquico, área funcional e grupo\natenTiTo pelo sistema Te informações, que oferece apoio\nTireto à referiTa tomaTa Te Tecisão?\nA\nestratégico, venTas e marketing, gerentes seniores\nB\nconUecimento, \nfinanças, \ntrabalUaTores \nTo\nconUecimento\nC\ngerencial, contabiliTaTe, gerentes méTios\nM\noperacional, \nvenTas \ne \nmarketing, \ngerentes\noperacionais\nN\nestratégico, recursos Uumanos, gerentes méTios\nQUNSTÃO 65\nConsiTere os seguintes itens: (i) características To proTuto;\n(ii) o moTelo Te maturiTaTe e capaciTaTe; (iii) o paraTigma\ne os métoTos Te Tesenvolvimento. A quais níveis Te\nabstração \nTe \nprocessos \nesses \nitens \nestão,\nrespectivamente, associaTos?\nA\nprocesso paTrão, processo especializaTo e processo\ninstanciaTo\nB\nprocesso paTrão, processo instanciaTo e processo\nespecializaTo\nC\nprocesso instanciaTo, processo paTrão e processo\nespecializaTo\nM\nprocesso instanciaTo, processo especializaTo e\nprocesso paTrão\nN\nprocesso especializaTo, processo paTrão e processo\ninstanciaTo\nQUNSTÃO 66\nSegunTo o moTelo COBCT (control objectives for\ninformation tecUnology), os processos Te TC Tevem ser\nauTitaTos por meio Te um processo composto pelas etapas\nTe: (i) COMPRNNNSÃO Tos riscos relacionaTos aos\nrequisitos Te negócios e Tas meTiTas Te controle\nrelevantes; \n(ii) \navaliação \nTa \nAMNQUABCLCMAMN\n(PROPRCNMAMN) Tos controles TeclaraTos; (iii) avaliação\nTe CONFORMCMAMN por meio To teste Te funcionamento\nconsistente e contínuo Tos controles, conforme prescritos;\ne (iv) SUBSTANCCAÇÃO To risco Tos objetivos Te controle\nnão serem alcançaTos por meio Te técnicas analíticas\ne(ou) consulta a fontes alternativas. Com relação a essas\netapas, assinale a opção correta.\nA\nMurante a etapa Te SUBSTANCCAÇÃO, são realizaTas\nentrevistas com o gestor e os empregaTos que\nTesempenUam o processo Te TC, visanTo iTentificar\nleis e regulamentos aplicáveis.\nB\nMurante \na \netapa \nTe \nCONFORMCMAMN, \nsão\nTocumentaTas as fraquezas Tos controles em prática,\ncom a inTicação Tas ameaças e vulnerabiliTaTes\npresentes.\nC\nMurante a etapa Te AMNQUABCLCMAMN, são obtiTas\neviTências \nTiretas \ne \ninTiretas \naplicáveis \na\nTeterminaTos artefatos e períoTos Te tempo\nTiretamente relacionaTos ao processo Te TC, visanTo-\nse garantir que os proceTimentos em prática sejam\ncompatíveis com os controles TeclaraTos.\nM\nMurante \na \netapa \nTe \nCOMPRNNNSÃO, \nsão\niTentificaTos e TocumentaTos impactos reais e\npotenciais para a organização, empreganTo-se\nanálises Te causa-raiz.\nN\nMurante a etapa Te AMNQUABCLCMAMN, é avaliaTa a\nconveniência Tas meTiTas Te controle aTotaTas para\no processo Te TC, por meio Ta consiTeração Te\ncritérios bem TefiniTos, práticas paTronizaTas Ta\ninTústria, fatores críticos Te sucesso para as meTiTas\nTe controle, bem como o julgamento profissional pelo\nauTitor.\nQUNSTÃO 67\nNo Tesenvolvimento e na programação Te aplicações em\nreTes TCP/CP, qual tipo Te protocolo Te transporte libera o\nprogramaTor Ta responsabiliTaTe Te Tetectar e corrigir\nerros Turante a transmissão, objetivanTo tornar a\nprogramação Ta aplicação mais simples?\nA\nsem conexão\nB\norientaTo a conexão\nC\norientaTo a bit\nM\norientaTo a byte \nN\nTatagrama confirmaTo\nTCPOS MN SCSTNMAS\nMN CNFORMAÇÃO\nÁRNAS\nFUNCCONACS\nGRUPOS\nATNNMCMOS\nNível\nestratégico\nNível\ngerencial\nNível Te\nconUecimento\nNível Te\noperacional\nGerentes\nseniores\nGerentes\nméTios\nTrabalUaTores To\nconUecimento e Te TaTos\nGerentes\noperacionais\nVenTas e\nmarketing\nFabricação\nFinanças\nContabiliTaTe\nRecursos\nUumanos\nLauTon & LauTon. Sistemas Te Cnformação Gerencial. Pearson, 2004 (com\naTaptações).",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q67.png",
-  "caminho_json": "/questoes/2008_CCP/q67.json",
-  "caminho_txt": "/questoes/2008_CCP/q67.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395208"
 }

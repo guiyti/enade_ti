@@ -1,83 +1,32 @@
-CCÊNCCA MA COMPUTAÇÃO
-17
-QUNSTÃO 10
-ConsiTere 
-os 
-seguintes 
-requisitos 
-para 
-Tesenvolvimento  Te  uma  solução  para  uma  reTe 
-Te restaurantes fast-fooT:
-YuanTo o status Te um peTiTo é atualizaTo,  toTos 
-os  Tispositivos  Tos  envolviTos  Tevem  receber 
-a  informação.   Os  sistemas  a  ser  atualizaTos 
-incluem os acessaTos pelo entregaTor,  pela linUa 
-Te  proTução  e  pela  central  Te  atenTimento.  
-Nspera-se ainTa que outros sistemas possam ser 
-incluíTos futuramente (por exemplo,  sistema Te 
-peTiTo on-line To cliente),  TevenTo se comportar 
-Ta mesma forma.
-ConsiTeranTo esse contexto,  avalie as asserções a 
-seguir e a relação proposta entre elas.
-/.   O 
-requisito 
-apresentaTo 
-poTe 
-ser 
-implementaTo  com  a  utilização  To  paTrão 
-Te proũeto Observer.
-POZYUN
-//.   O  paTrão  Te  proũeto  Observer  realiza  o 
-estilo 
-arquitetural 
-cliente-serviTor,  
-no 
-qual  o  serviTor  é  responsAvel  por  enviar 
-notifcações aos clientes sempre que Uouver 
-atualização  em  alguma  informação  Te 
-interesse.
-  respeito Tessas asserções,  assinale a opção correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
-é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-Area livre
-QUNSTÃO 11
-O 
+QUESTÃO 11
+K 
 encapsulamento 
 é 
 um 
 mecanismo 
-Ta 
-programação  orientaTa  a  obũetos  no  qual  os 
-membros  Te  uma  classe  (atributos  e  métoTos) 
-constituem  uma  caixa  preta.   O  nível  Te 
-visibiliTaTe Tos membros poTe ser TefniTo pelos 
-moTifcaTores Te visibiliTaTe ΗprivaToΗ,  ΗpublicoΗ 
-e ΗprotegiToΗ.
-Com  relação  ao  comportamento  geraTo  pelos 
-moTifcaTores  Te  visibiliTaTe,   assinale  a  opção 
+da 
+programação  orientada  a  obũetos  no  qual  os 
+membros  de  uma  classe  (atributos  e  métodos) 
+constituem  uma  caixa  preta.   K  nível  de 
+visibilidade dos membros pode ser defnido pelos 
+modifcadores de visibilidade ΗprivadoΗ,  ΗpublicoΗ 
+e ΗprotegidoΗ.
+Iom  relação  ao  comportamento  gerado  pelos 
+modifcadores  de  visibilidade,   assinale  a  opção 
 correta.
-A Um  atributo  privaTo  poTe  ser  acessaTo 
-pelos  métoTos  privaTos  Ta  propria  classe  e 
-pelos  métoTos  protegiTos  Tas  suas  classes 
-TescenTentes.
-B Um  atributo  privaTo  poTe  ser  acessaTo 
-pelos  métoTos  publicos  Ta  propria  classe 
-e  pelos  métoTos  publicos  Tas  suas  classes 
-TescenTentes.
-C Um membro publico é visível na classe a qual 
+A hm  atributo  privado  pode  ser  acessado 
+pelos  métodos  privados  da  propria  classe  e 
+pelos  métodos  protegidos  das  suas  classes 
+descendentes.
+B hm  atributo  privado  pode  ser  acessado 
+pelos  métodos  publicos  da  propria  classe 
+e  pelos  métodos  publicos  das  suas  classes 
+descendentes.
+C hm membro publico é visível na classe a qual 
 ele pertence,  mas não é visível nas suas classes 
-TescenTentes.
-M Um  métoTo  protegiTo  não  poTe  acessar  os 
-atributos  privaTos  e  TeclaraTos  na  propria 
+descendentes.
+D hm  método  protegido  não  pode  acessar  os 
+atributos  privados  e  declarados  na  propria 
 classe.
-N  Um membro protegiTo é visível na classe a qual 
-pertence e em suas classes TescenTentes.
-Area livre
-*R03201717*
+E  hm membro protegido é visível na classe a qual 
+pertence e em suas classes descendentes.

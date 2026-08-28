@@ -1,46 +1,27 @@
-10
-C/NNC/  M  COMPUT AãO
-QUNSTÃO MCSCURSCVA 4
-Muitas aplicações utilizam o sistema Te localização ('PS) To Tispositivo movel To usuArio para Tescobrir 
-qual o melUor caminUo a seguir.   lgumas aplicações também permitem que o usuArio notifque a ocorrgncia 
-Te eventos que ele presencia Turante seu percurso,  tais como aciTentes ou transito lento.  Nm um possível 
-cenArio,  esta notifcação é enviaTa para um serviTor centralizaTo,  o qual é responsAvel por Tisseminar a 
-notifcação para os Temais usuArios To aplicativo.  Uma equipe Te Tesenvolvimento criou uma aplicação 
-Tesse  tipo  utilizanTo  uma  base  Te  TaTos  relacional  para  o  armazenamento  Te  TaTos  referentes  aos 
-usuArios,  eventos e notifcações enviaTas.    moTelagem conceitual foi feita utilizanTo o Tiagrama entiTaTe-
-relacionamento conforme apresentaTo na fgura a seguir.
+QUESTÃO DISCURSIVA 4
+Duitas aplicações utilizam o sistema de localização ('W^) do dispositivo movel do usuArio para descobrir 
+qual o melhor caminho a seguir.   lgumas aplicações também permitem que o usuArio notifque a ocorrgncia 
+de eventos que ele presencia durante seu percurso,  tais como acidentes ou transito lento.  Em um possível 
+cenArio,  esta notifcação é enviada para um servidor centralizado,  o qual é responsAvel por disseminar a 
+notifcação para os demais usuArios do aplicativo.  hma equipe de desenvolvimento criou uma aplicação 
+desse  tipo  utilizando  uma  base  de  dados  relacional  para  o  armazenamento  de  dados  referentes  aos 
+usuArios,  eventos e notifcações enviadas.    modelagem conceitual foi feita utilizando o diagrama entidade-
+relacionamento conforme apresentado na fgura a seguir.
 Usuário
 cpf
 nome
-latituTe
+latitude
 0,N
 0,N
 notificação
-longituTe
-Nvento
-iT
-Tescrição
-  equipe Te Tesenvolvimento Teseũa aTicionar as seguintes características ao moTelo:
-ͻ  CaTa notifcação Teve ter Tata e Uora͖
-ͻ  O grupo Te usuArios para o qual uma notifcação é enviaTa Teve ser restrito.  CaTa usuArio Teve ter um 
-grupo com um numero arbitrArio Te amigos,  que também são usuArios Ta aplicação,  e as notifcações 
-enviaTas por um usuArio Tevem ser enviaTas somente a seus amigos.  Também se Teseũa armazenar 
-informações sobre quais notifcações foram enviaTas para quais usuArios.
-Nessa situação,  aTapte o Tiagrama NZ Ta fgura para atenTer os novos requisitos. (valor:  10, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R03201410*
+longitude
+Evento
+id
+descrição
+  equipe de desenvolvimento deseũa adicionar as seguintes características ao modelo:
+ͻ  Iada notifcação deve ter data e hora͖
+ͻ  K grupo de usuArios para o qual uma notifcação é enviada deve ser restrito.  Iada usuArio deve ter um 
+grupo com um numero arbitrArio de amigos,  que também são usuArios da aplicação,  e as notifcações 
+enviadas por um usuArio devem ser enviadas somente a seus amigos.  dambém se deseũa armazenar 
+informações sobre quais notifcações foram enviadas para quais usuArios.
+Eessa situação,  adapte o diagrama EZ da fgura para atender os novos requisitos. (valor:  10, 0 pontos)

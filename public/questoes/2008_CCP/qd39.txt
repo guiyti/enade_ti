@@ -1,25 +1,19 @@
-15
-COMPUTAÇÃO
-QUNSTÃO 39 – MCSCURSCVA
-Qualquer expressão aritmética binária poTe ser convertiTa em uma expressão totalmente
-parentizaTa, bastanTo reescrever caTa subexpressão binária a q b como (a q b), em que q Tenota
-um operaTor binário. Nxpressões nesse formato poTem ser TefiniTas por regras Te uma gramática
-livre Te contexto, conforme apresentaTo a seguir. Nessa gramática, os símbolos não-terminais N,
-S, O e L representam expressões, subexpressões, operaTores e literais, respectivamente, e os
-Temais símbolos Tas regras são terminais.
-N 6 ( S O S )
-S 6 L | N
-O 6 + | - | * | /
-L 6 a | b | c | T | e
-TenTo como referência as informações acima, faça o que se peTe a seguir.
-A Mostre que a expressão (a * (b / c)) poTe ser obtiTa por Terivações Tas regras acima. Para isso, TesenUe a
-árvore Te análise sintática corresponTente.
-(valor: 5,0 pontos)
-RASCUNHO – QUNSTÃO 39 - A
-B Nxistem Tiferentes Terivações para a expressão (((a + b) * c) + (T * e)). É correto, então, afirmar que a
+QUESTÃO 39 – DISCURSIVA
+Qualquer expressão aritmética binária po
+parentizada, bastando reescrever cada subexpre
+um operador binário. Expressões nesse formato 
+livre de contexto, conforme apresentado a segui
+S, O e L representam expressões, subexpressõ
+demais símbolos das regras são terminais.
+E 6 ( S O S )
+S 6 L | E
+O 6 + | - | * | 
+L 6 a | b | c | 
+Tendo como referência as informações acima, faça o que s
+A Mostre que a expressão (a * (b / c)) pode ser ob
+árvore de análise sintática correspondente.
+B Existem diferentes derivações para a expressão (((a 
 gramática acima é ambígua? Justifique sua resposta.
-(valor: 5,0 pontos)
-RASCUNHO – QUNSTÃO 39 - B
 1
 2
 3
@@ -28,3 +22,14 @@ RASCUNHO – QUNSTÃO 39 - B
 6
 7
 8
+
+e ser convertida em uma expressão totalmente
+ssão binária a q b como (a q b), em que q denota
+odem ser definidas por regras de uma gramática
+. Nessa gramática, os símbolos não-terminais E,
+es, operadores e literais, respectivamente, e os
+/
+d | e
+e pede a seguir.
+da por derivações das regras acima. Para isso, desenhe a
+(valor: 5,0 pontos)

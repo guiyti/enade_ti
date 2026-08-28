@@ -1,82 +1,56 @@
-22
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 26
-Um conũunto inTutivo S é TefniTo Te acorTo com os 
+QUESTÃO 26
+hm conũunto indutivo ^ é defnido de acordo com os 
 seguintes passos:
-΀Base΁ Meclaração Tos elementos iniciais,  atƀmicos.
-΀CnTução΁  Mefnição  Te  regras  que  constroem 
-expressões a partir Te elementos ũA existentes em S.
-΀FecUo΁ Uma Teclaração Te que naTa mais estA em 
-S a não ser os elementos construíTos pelos passos 
-Base e CnTução.
-Os  operaTores  que  constroem  as  expressões  nos 
-passos Base e CnTução são cUamaTos Te construtores 
-To  conũunto  S.   Como  um  exemplo,   a  Tefnição 
-abaixo  especifca  um  conũunto  inTutivo  Prop,   Tas 
-proposições booleanas formaTas pelos construtores 
-V (valor verTaTeiro),  F (valor falso),  ! (para negação 
-Te expressões) e anT (para conũunção Te expressões).
+΀Base΁ Declaração dos elementos iniciais,  atƀmicos.
+΀Indução΁  Defnição  de  regras  que  constroem 
+expressões a partir de elementos ũA existentes em ^.
+΀Fecho΁ hma declaração de que nada mais estA em 
+^ a não ser os elementos construídos pelos passos 
+Base e Indução.
+Ks  operadores  que  constroem  as  expressões  nos 
+passos Base e Indução são chamados de construtores 
+do  conũunto  ^.   Iomo  um  exemplo,   a  defnição 
+abaixo  especifca  um  conũunto  indutivo  Prop,   das 
+proposições booleanas formadas pelos construtores 
+V (valor verdadeiro),  F (valor falso),  ! (para negação 
+de expressões) e and (para conũunção de expressões).
 1. ΀Base΁ V, F estão em Prop.
-2. ΀CnTução΁ Se B estA em Prop,  então (! B) estA em 
+2. ΀Indução΁ ^e B estA em Prop,  então (! B) estA em 
 Prop.
-3.   ΀CnTução΁ Se B1 e B2 estão em Prop,  então (anT
+3.   ΀Indução΁ ^e B1 e B2 estão em Prop,  então (and
 B1 B2) estA em Prop.
-4. ΀FecUo΁  NaTa  mais  estA  em  Prop,   a  não  ser  o 
-especifcaTo em Base e CnTução.
-Nxpressões (termos) em Prop incluem V, F, ! F, ! V, 
-(anT V F), (anT (! V) (! F)) e assim por Tiante.  Me 
+4. ΀Fecho΁  Eada  mais  estA  em  Wrop,   a  não  ser  o 
+especifcado em Base e Indução.
+Expressões (termos) em Prop incluem V, F, ! F, ! V, 
+(and V F), (and (! V) (! F)) e assim por diante.  De 
 forma  anAloga,   linguagens  funcionais  permitem  a 
-Teclaração Te tipos inTutivos com seus respectivos 
+declaração de tipos indutivos com seus respectivos 
 construtores.  
-Neste contexto,  avalie as seguintes afrmações.
-/.   Conũuntos 
-inTutivos 
+Eeste contexto,  avalie as seguintes afrmações.
+/.   Ionũuntos 
+indutivos 
 são 
 conũuntos 
 enumerAveis.
-//.   Conũuntos 
+//.   Ionũuntos 
 infnitos 
 não 
-poTem 
+podem 
 ser 
-especifcaTos 
+especifcados 
 por 
 meio 
-Te 
-Tefnições 
-inTutivas.
-///.   Para estenTer a linguagem Prop Te tal forma 
-a  consiTerar  expressões  para  Tisũunção 
-e  implicação  Te  proposição,   é  necessArio 
-acrescentar mais Tois construtores  a Tefnição 
-Te Prop anterior.
+de 
+defnições 
+indutivas.
+///.   Wara estender a linguagem Prop de tal forma 
+a  considerar  expressões  para  disũunção 
+e  implicação  de  proposição,   é  necessArio 
+acrescentar mais dois construtores  a defnição 
+de Prop anterior.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 27
-ConsiTere o seguinte argumento:
-1 - Se existe fogo,  então existe oxiggnio.
-2 - Não UA oxiggnio.
-3 - Nntão não UA fogo.
-   regra  Te  infergncia  que  ũustifca  a  valiTaTe  To 
-argumento acima é
-A
-P ĺ Q, ¬P
-¬Q
-B
-P ĺ Q, ¬Q
-¬P
-C
-P ĺ Q, Q
-P
-M
-P ĺ Q, ¬Q
-¬¬P
-N
-P ĺ Q, P
-Q
-ÁRNA LCVRN
-*R03201422*
+D // e ///,  apenas.
+E /,  // e ///.

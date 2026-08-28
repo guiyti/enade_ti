@@ -1,42 +1,38 @@
-19
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 11
-No  Tesenvolvimento  Te  um  sistema  Te  automação  para  um  clube  recreativo,   serão  implementaTos 
-moTulos para o Tepartamento aTministrativo,  tais como os moTulos Te caTastro Te associaTos e Te 
-gestão  Te  mensaliTaTes.   Na  construção  Tesses  moTulos,   algumas  regras  Te  negocio  serão  aplicaTas 
-conforme o Tiagrama abaixo.
-Tipo_AssociaTo
-AssociaTo
-MensaliTaTe
-- coTigo : int
-- Tescricao : string
-- valorMensaliTaTe : currency
-- coTigo : int
+QUESTÃO 11
+Eo  desenvolvimento  de  um  sistema  de  automação  para  um  clube  recreativo,   serão  implementados 
+modulos para o departamento administrativo,  tais como os modulos de cadastro de associados e de 
+gestão  de  mensalidades.   Ea  construção  desses  modulos,   algumas  regras  de  negocio  serão  aplicadas 
+conforme o diagrama abaixo.
+Tipo_Associado
+Associado
+Mensalidade
+- codigo : int
+- descricao : string
+- valorMensalidade : currency
+- codigo : int
 - nome : string
-- enTereco : string
+- endereco : string
 - telefone : string
-- coTigo : int
+- codigo : int
 - anomesreferencia : string
-- valormensaliTaTe : currency
-- Tatavencimento : Tate
+- valormensalidade : currency
+- datavencimento : date
 - valorpago : currency
-- Tatapagamento : Tate
+- datapagamento : date
 1
 1
 0..*
 1..*
-Com base nesse Tiagrama,  avalie as afrmações a seguir.
-/.   ,averA somente 12 mensaliTaTes para caTa associaTo,  ou seũa,  as mensaliTaTes To associaTo não 
-poTerão ultrapassar os 12 meses To ano.
-//.   Não existem associaTos sem mensaliTaTes,  nem mensaliTaTes sem associaTo a elas relacionaTo.
-///.    lteranTo-se o valor Ta mensaliTaTe TefniTo para caTa tipo Te associaTo caTastraTo,  o sistema 
-automaticamente altera os valores Tas mensaliTaTes geraTas anteriormente.
-/s.   PoTerão existir tipos Te associaTos que não terão nenUum associaTo relacionaTo a eles.
+Iom base nesse diagrama,  avalie as afrmações a seguir.
+/.   ,averA somente 12 mensalidades para cada associado,  ou seũa,  as mensalidades do associado não 
+poderão ultrapassar os 12 meses do ano.
+//.   Eão existem associados sem mensalidades,  nem mensalidades sem associado a elas relacionado.
+///.    lterando-se o valor da mensalidade defnido para cada tipo de associado cadastrado,  o sistema 
+automaticamente altera os valores das mensalidades geradas anteriormente.
+/s.   Woderão existir tipos de associados que não terão nenhum associado relacionado a eles.
  correto apenas o que se afrma em
 A  / e //.
 B  / e ///.
 C  // e /s.
-M  /,  /// e /s.
-N  //,  /// e /s.
-Area livre
-*R41201719*
+D  /,  /// e /s.
+E  //,  /// e /s.

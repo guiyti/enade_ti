@@ -1,172 +1,35 @@
-NNAMN – 2005
-Área: COMPUTAÇÃO
-24
-Observe os gráficos a seguir para responTer à questão 67.
-Cnformações obtiTas no Relatório Oficial Ta ABNS e BSA, 2005.
-QUNSTÃO 67
-A reTução Ta pirataria Te software no Brasil e no munTo
-é resultaTo Te esforços aTvinTos Ta iniciativa privaTa e Tas
-entiTaTes representativas To setor. Um estuTo objetivanTo
-mensurar o ínTice Te pirataria no munTo e os benefícios Te sua
-reTução apresentou os gráficos acima, obtiTos Te uma amostra
-Te 57 países, incluinTo-se o Brasil. 
-Com base nas informações apresentaTas, é correto afirmar que
-C
-a taxa Te reTução To ínTice Te pirataria Te software no munTo
-manteve-se constante ano após ano no períoTo mostraTo.
-CC
-o Brasil reTuziu em torno Te 25% seu ínTice Te pirataria Te
-software, comparanTo os anos Te 1994 e 2002.
-CCC o Brasil foi, entre os países mostraTos, o que apresentou a maior
-reTução To ínTice Te pirataria no períoTo estuTaTo.
-CV países com maior participação To setor Te TC no PCB apresentam,
-normalmente, menores ínTices Te pirataria.
+QUESTÃO 67
+A redução da pirataria de software no Brasil e no mundo
+é resultado de esforços advindos da iniciativa privada e das
+entidades representativas do setor. Um estudo objetivando
+mensurar o índice de pirataria no mundo e os benefícios de sua
+redução apresentou os gráficos acima, obtidos de uma amostra
+de 57 países, incluindo-se o Brasil. 
+Com base nas informações apresentadas, é correto afirmar que
+I
+a taxa de redução do índice de pirataria de software no mun
+manteve-se constante ano após ano no período mostrado.
+II
+o Brasil reduziu em torno de 25% seu índice de pirataria 
+software, comparando os anos de 1994 e 2002.
+III o Brasil foi, entre os países mostrados, o que apresentou a mai
+redução do índice de pirataria no período estudado.
+IV países com maior participação do setor de TI no PIB apresenta
+normalmente, menores índices de pirataria.
 V
-o Brasil apresentou aumento Te faturamento no períoTo Te 2000
-a 2002, apesar To aumento Te pirataria.
-Nstão certos apenas os itens
-A C e CC.
-M CCC e V.
-B C e CCC.
-N CV e V.
-C CC e CV.
+o Brasil apresentou aumento de faturamento no período de 20
+a 2002, apesar do aumento de pirataria.
+Estão certos apenas os itens
+A I e II.
+D III e V.
+B I e III.
+E IV e V.
+C II e IV.
+
+Informações obtidas no Relatório Oficial da ABES e BSA, 2005.
+o
+de
+or
+m,
+0
 RASC UNH O
-Participação Te imposto To setor Te TC no PCB
-versus ínTice Te pirataria
-
-NNAMN – 2005
-Área: COMPUTAÇÃO
-25
-QUNSTÃO 68
-SuponUa que uma empresa esteja projetanTo um protocolo Te
-transporte orientaTo a conexão. SuponUa, ainTa, que os projetistas
-tenUam pouca experiência e que alguns requisitos originalmente
-listaTos não sejam típicos Te um protocolo Te transporte
-orientaTo a conexão. A seguir, apresenta-se a lista Tos
-requisitos propostos pela equipe Te projetistas.
-C
-O protocolo Teve controlar a transmissão por meio Te
-mecanismo Te janela Teslizante (sliTing winTow). Vários
-pacotes poTerão ser enviaTos antes Te a origem aguarTar uma
-confirmação Te recepção. O número máximo Te pacotes
-transmitiTos antes Te uma confirmação ser recebiTa será
-variável, o que possibilitará o controle To fluxo Tos TaTos. 
-CC
-O protocolo Teve rotear os pacotes entre reTes interligaTas.
-O roteamento Teve ser realizaTo a partir Tas informações em
-tabelas Te roteamento. Nm uma tabela Te roteamento, caTa
-entraTa Teve conter o enTereço Te um Testino e o enTereço Ta
-próxima máquina para a qual os pacotes Tevem ser enviaTos,
-Te moTo a serem encaminUaTos para o Testino.
-CCC Uma comunicação passará por três fases: estabelecimento Ta
-conexão, transferência Tos TaTos e término Ta conexão. O
-protocolo manterá informações sobre uma conexão em uma
-estrutura Te TaTos. Uma instância Tessa estrutura será alocaTa
-quanTo uma conexão for estabeleciTa e será liberaTa quanTo
-a conexão for terminaTa.
-CV O protocolo Teve calcular Tinamicamente o tempo (timeout)
-que a origem Te um pacote Teve aguarTar até retransmitir a
-informação 
-caso 
-a 
-recepção 
-não 
-seja 
-confirmaTa,
-possibilitanTo que atrasos variáveis sejam acomoTaTos. Csso
-Teverá ser feito por meio Te um algoritmo Te retransmissão
-aTaptativo que perioTicamente ajuste o timeout.
-Para um protocolo Te transporte orientaTo a conexão, são
-aTequaTos apenas os requisitos
-A C e CC.
-B C e CV.
-C CC e CCC.
-M C, CCC e CV.
-N CC, CCC e CV.
-QUNSTÃO 69
-A reTe Te uma empresa cujo esquema está ilustraTo
-acima é composta por 4 reTes TCP/CP locais. Nssas reTes
-TCP/CP são interligaTas por uma reTe X.25, que opera
-como túnel para as 4 reTes. As placas Tos computaTores
-pertencentes a essas reTes são numeraTas com enTereços CP
-Tas reTes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
-reTe no acesso à Cnternet, senTo que, a partir Te qualquer
-máquina na reTe, poTe-se acessar a Cnternet. 
-A partir Tessas informações, julgue os itens a seguir, relativos à
-reTe Ta referiTa empresa, consiTeranTo o seu correto
-funcionamento.
-C
-É correto utilizar a máscara 255.255.0.0 para segmentar a
-reTe.
-CC
-Os enTereços Te N1 a N9 poTem ser enTereços na reTe
-10.0.0.0.
-CCC
-Os enTereços N2, N4, N5 e N7 Tevem estar em uma mesma
-sub-reTe.
-CV
-O enTereço N10 Teve ser um enTereço na reTe 164.41.0.0.
-V
-O firewall Teve traTuzir entre os enTereços na reTe 10.0.0.0
-e os enTereços na reTe 164.41.0.0.
-VC
-Os pacotes X.25 são transferiTos Tentro Te pacotes CP.
-VCC Não Tevem ter siTo atribuíTos enTereços X.25 aos
-roteaTores 1, 2, 3 e 4.
-VCCC A rota Tefault nas tabelas Te roteamento Tos roteaTores
-1, 3 e 4 é o enTereço N4.
-CX
-A rota Tefault na tabela Te roteamento To roteaTor 2 é o
-enTereço N10.
-X
-Os enTereços na reTe 10.0.0.0 são visíveis pelas máquinas
-que estiverem na Cnternet.
-Nstão certos apenas os itens
-A C, CC, CCC, V, VCCC e X.
-B C, CC, CCC, CV, V e VCCC.
-C CC, CV, V, VCCC, CX e X.
-M CCC, V, VC, VCC, VCCC e CX.
-N CCC, CV, V, VCC, VCCC e CX.
-
-NNAMN – 2005
-Área: COMPUTAÇÃO
-26
-QUNSTÃO 70 – MCSC URSCVA
-A máquina finita Te estaTos (MFN) cujo Tiagrama é visto ao laTo
-reconUece seqüências Te caracteres compostos pelas letras C, V e X, que
-representam, em notação romana, números corresponTentes ao intervalo Te
-1 a 9, na notação arábica. ConsiTere que toTas as sentenças Te entraTa Ta
-MFN representam números romanos váliTos, ou seja, a MFN não tem
-mecanismo Te tratamento Te erros. Observe a corresponTência Ta
-representação Tos alfabetos romano e arábito forneciTa pela tabela abaixo.
-alfabeto
- Notação:
-romano
-arábico
-  
-estaTo inicial
-         
-estaTo final j
-         
-n é o número máximo Te transições possíveis no respectivo estaTo
-   
-transição após reconUecimento To caractere "
-C
-  1
-V
-  5
-X
- 10
-L
-50
-C
-100
-M
-500
-ConsiTeranTo essas informações, estenTa a MFN apresentaTa acima para:
-a) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 20 no alfabeto arábico, com no máximo oito estaTos.
-(valor: 5,0 pontos)
-RASCUNHO
-b) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 500 no alfabeto arábico, com no máximo oito
-estaTos. (valor: 5,0 pontos)
-RASCUNHO

@@ -1,10 +1,8 @@
-14
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 12
- nalise o custo computacional Tos algoritmos a seguir, que calculam o valor Te um polinƀmio Te grau n, Ta 
-forma: P(x) = anxn + anо1xnо1 + . . . + a1x+ a0,  onTe os coefcientes são numeros Te ponto Ňutuante armazenaTos 
-no vetor a[0..n], e o valor Te n é maior que zero.  ToTos os coefcientes poTem assumir qualquer valor,  exceto 
-o coefciente an que é Tiferente Te zero.
+QUESTÃO 12
+ nalise o custo computacional dos algoritmos a seguir, que calculam o valor de um polinƀmio de grau n, da 
+forma: P(x) = anxn + anо1xnо1 + . . . + a1x+ a0,  onde os coefcientes são numeros de ponto Ňutuante armazenados 
+no vetor a[0..n], e o valor de n é maior que zero.  dodos os coefcientes podem assumir qualquer valor,  exceto 
+o coefciente an que é diferente de zero.
 Algoritmo 1: 
 soma = a[0]
 Repita para i = 1 até n
@@ -16,21 +14,20 @@ Se a[i]  0.0 então
  soma = soma + a[i] * potencia
  Fim se
 Fim repita
-Cmprima(soma)
+Imprima(soma)
 Algoritmo 2: 
 soma = a[n]
 Repita para i = n-1 até 0 passo -1
  soma = soma * x + a[i]
 Fim repita
-Cmprima(soma)
-Com base nos algoritmos 1 e 2,  avalie as asserções a seguir e a relação proposta entre elas.
-/.   Os algoritmos possuem a mesma complexiTaTe assintotica.
-PORQUN
-//.   Para o melUor caso,  ambos os algoritmos possuem complexiTaTe O(n).
-  respeito Tessas asserções,  assinale a opção correta.
-A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
-B  s asserções / e //  são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
-C   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.
-M   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.
-N  s asserções / e // são proposições falsas.
-*R03201414*
+Imprima(soma)
+Iom base nos algoritmos 1 e 2,  avalie as asserções a seguir e a relação proposta entre elas.
+/.   Ks algoritmos possuem a mesma complexidade assintotica.
+PORQUE
+//.   Wara o melhor caso,  ambos os algoritmos possuem complexidade O(n).
+  respeito dessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verdadeiras,  e a // é uma ũustifcativa correta da /.
+B  s asserções / e //  são proposições verdadeiras,  mas a // não é uma ũustifcativa correta da /.
+C   asserção / é uma proposição verdadeira,  e a // é uma proposição falsa.
+D   asserção / é uma proposição falsa,  e a // é uma proposição verdadeira.
+E  s asserções / e // são proposições falsas.

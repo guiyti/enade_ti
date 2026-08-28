@@ -3,20 +3,48 @@
   "numero": 19,
   "tipo": "OBJETIVA",
   "paginas": [
-    18,
-    19
+    18
   ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 317.15999999999997,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 503.8709716796875,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q19.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q19.txt",
   "largura": 1223,
-  "altura": 1848,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1723,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 19\nZequisitos funcionais e não funcionais podem defnir \ncaracterísticas  e  funcionalidades  presentes  na \ninterface a ser desenvolvida para um sistema.  \nEm  relação  aos  requisitos  não  funcionais,   também \nchamados  de  requisitos  de  qualidade,   avalie  as \nafrmações a seguir.\n/.   ^ão levantados e elicitados apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  determinarão  as  funcionalidades \nda interface.\n//.   ^empre  serão  defnidos  de  forma  mais \nconcreta,   através  de  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionalidades levantadas.\n///.   Wodem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD / e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 19,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 321.1419982910156,
+      "y": 108.5428466796875,
+      "x1": 383.5948181152344,
+      "y1": 120.5428466796875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 19"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "18\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 18\nNos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturaTas  e  com  toTas  as  funcionaliTaTes  em \num  unico  moTulo,   com  granTe  quantiTaTe  Te \nlinUas Te coTigo.   cessos a bancos Te TaTos não \nrelacionais,   regras  Te  negocios  e  tratamento  Te \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nPosteriormente,  \numa \nimportante \nmuTança  ocorreu:   a  substituição  Tos  terminais \"\nburros\"   por  microcomputaTores,   permitinTo \nque toTo o tratamento Ta interface,  e Te algumas \nregras  Te  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   Surgiam  as  aplicações  cliente-\nserviTor.    partir Tos anos 90,  até os Tias atuais,  \nas  muTanças  foram  mais  raTicais,   os  bancos  Te \nTaTos  passaram  a  ser  relacionais  e  TistribuíTos.  \n s linguagens passaram a ser orientaTas a obũetos,  \ncuũa  moTelagem  encapsula  TaTos  e  oferece \nfuncionaliTaTes  através  Te  métoTos.      interface \npassou a ser web.  sive-se a era Tas aplicações em \ntrgs camaTas.\nConsiTeranTo a evolução Ta arquitetura Te soŌǁare\nTe sistemas Te informação,  conforme citaTo no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerenTo pessoal mais especializaTo.\n//.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitinTo que as partes possam ser alteraTas \nTe forma inTepenTente.\n///.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas aumentou o acoplamento,  TifcultanTo \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 19\nZequisitos funcionais e não funcionais poTem Tefnir \ncaracterísticas  e  funcionaliTaTes  presentes  na \ninterface a ser TesenvolviTa para um sistema.  \nNm  relação  aos  requisitos  não  funcionais,   também \ncUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as \nafrmações a seguir.\n/.   São levantaTos e elicitaTos apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  Teterminarão  as  funcionaliTaTes \nTa interface.\n//.   Sempre  serão  TefniTos  Te  forma  mais \nconcreta,   através  Te  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionaliTaTes levantaTas.\n///.   PoTem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201418*\n\n19\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 20\nNxistem vArias maneiras Te se percorrer uma Arvore \nbinAria.      função  a  seguir,   escrita  em  pseuTo-\ncoTigo,   percorre  uma  Arvore  na  orTem  esquerTa-\nraiz-Tireita,  conUeciTa por varreTura e-r-T recursiva.  \n   função  erT()  recebe  por  parametro  a  raiz  r\nTe uma Arvore,  e faz uso Te seus elementos esq,  \nTir e cont,   que  representam,   respectivamente,  \nponteiros para uma sub-Arvore a esquerTa Te r,  \numa sub-Arvore a Tireita Te r e o conteuTo Te r,  \nrespectivamente.\nfunção erT (árvore r)\n{\n se ( r != NULO )\n {\n erT( r -> esq );\n escreva ( r-> conteúTo );\n erT( r -> Tir );\n }\n}\nConsiTere a Arvore binAria a seguir.\n5\n3\n0\n1\n7\n2\n8\n   sequgncia  correta  Te  exibição  To  conteuTo  Ta \nArvore utilizanTo a função erT() é\nA 5,  3,  8,  0,  1,  7,  2\nB 0,  1,  7,  2,  3,  8,  5\nC 0,  3,  5,  1,  7,  8,  2\nM 0,  3,  1,  5,  7,  8,  2\nN 2,  7,  8,  5,  0,  3,  1\nQUNSTÃO 21\nO  moTelo  logico  Te  TaTos  fornece  uma  visão  Ta \nmaneira como os TaTos serão armazenaTos.    fgura \na seguir representa o moTelo logico Te um ambiente \nobservaTo em um escritorio contAbil.\nCPF CNT\nnome VARCHAR(45)\nMalUa Fina_CTentificaTor CNT\nContribuinte_CPF CNT\nvalor CNT\nquantiTaTe Te prestacoes CNT\nenTereco VARCHAR(60)\ntelefone VARCHAR(15)\nCTentificaTor CNT\nano exercicio MATN\nContribuinte\nContribuinte_MalUa Fina\nMalUa fina\nCnTexes\nContribuinte_CPF CNT\nano exercicio MATN\nano base MATN \nvalor CNT\nrestituicao ou pagamento BOOLNAN\nMeclaração Cmposto Te RenTa\nCnTexes\nCnTexes\nCnTexes\nNm relação ao moTelo,  avalie as afrmações a seguir.\n/.     entiTaTe Meclaração Cmposto Te RenTa é \numa entiTaTe fraca.\n//.   O relacionamento entre Contribuinte e MalUa\nFina é To tipo N: M (muitos para muitos).\n///.   O  atributo  CPF  Ta  entiTaTe  Contribuinte\ntem  a  função  Te  cUave  estrangeira  na \nentiTaTe Meclaração Cmposto Te RenTa e no \nrelacionamento Contribuinte_MalUaFina.\n/s.      entiTaTe  MalUa Fina  não  possui  cUave \nprimAria somente cUave estrangeira.\nV. O relacionamento Contribuinte_MalUaFina é \num relacionamento ternArio.\n\u001e correto apenas o que se afrma em\nA /,  // e ///.\nB /,  // e /s.\nC /,  /s e s.\nM //,  /// e s.\nN ///,  /s e s.\n*R40201419*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q19.png",
-  "caminho_json": "/questoes/2014_ADS/q19.json",
-  "caminho_txt": "/questoes/2014_ADS/q19.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120049"
 }

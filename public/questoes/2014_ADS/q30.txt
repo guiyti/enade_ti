@@ -1,59 +1,23 @@
-24
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 30
-   gergncia  Te  confguração  Te  soŌǁare,   também 
-cUamaTa Te gergncia Te muTança e confguração,  é 
-o processo que mantém atualizaTas as informações 
-Tos elementos Te confguração.
+QUESTÃO 30
+   gergncia  de  confguração  de  soŌǁare,   também 
+chamada de gergncia de mudança e confguração,  é 
+o processo que mantém atualizadas as informações 
+dos elementos de confguração.
   esse respeito,  avalie as afrmações a seguir.
-/.     auTitoria Te soŌǁare é um processo que 
-consiste  em  verifcar  se  a  linUa  Te  base  foi 
-atenTiTa ou se os requisitos To sistema foram 
-atenTiTos.
-//.      linUa  Te  base  é  o  marco  Te  refergncia,   a 
-partir  To  qual  serão  feitos  os  controles  Te 
-muTança,   e  poTe  ser  a  versão  1. 0  Te  um 
+/.     auditoria de soŌǁare é um processo que 
+consiste  em  verifcar  se  a  linha  de  base  foi 
+atendida ou se os requisitos do sistema foram 
+atendidos.
+//.      linha  de  base  é  o  marco  de  refergncia,   a 
+partir  do  qual  serão  feitos  os  controles  de 
+mudança,   e  pode  ser  a  versão  1. 0  de  um 
 soŌǁare.
-///.   Um  item  Te  confguração  é  um  elemento 
-unitArio,  que compõe aquele soŌǁare e Teve 
-ser gerenciaTo.
+///.   hm  item  de  confguração  é  um  elemento 
+unitArio,  que compõe aquele soŌǁare e deve 
+ser gerenciado.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-QUNSTÃO 31
- nalise o Ňuxograma a seguir.
-Cnício
-1
-2
-7
-4
-3
-9
-8
-5
-6
-Fim
-Nm  relação  a  execução  Te  testes  Te  caixa  branca 
-sobre este Ňuxograma,  avalie as afrmações a seguir.  
-/.   Os caminUos 1-2-3-4-5,  1-2-3-4-6,  1-2-3-7-9,  
-1-2-3-7-8-9 formam um conũunto Te caminUos 
-Te execução inTepenTentes.
-//.   O cAlculo Te complexiTaTe ciclomAtica fornece 
-a quantiTaTe Te caminUos inTepenTentes a 
-testar.  
-///.   Testes sobre caminUos inTepenTentes poTem 
-ser  executaTos  em  programas  proceTurais,  
-mas não poTem ser executaTos em programas 
-orientaTos a obũetos.  
- correto o que se afrma em
-A /,  apenas.
-B ///,  apenas.
-C / e //,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201424*
+D // e ///,  apenas.
+E /,  // e ///.

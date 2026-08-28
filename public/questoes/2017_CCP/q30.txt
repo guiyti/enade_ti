@@ -1,15 +1,13 @@
-28
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 30
-Nm um compilaTor,  um analisaTor sintAtico TescenTente preTitivo poTe ser implementaTo com o auxílio 
-Te  uma  tabela  construíTa  a  partir  Te  uma  gramAtica  livre  Te  contexto.   Nssa  tabela,   cUamaTa  tabela 
-LL(k),  inTica a regra Te proTução a ser aplicaTa olUanTo-se o k-ésimo proximo símbolo liTo,  cUamaTo 
-looŬaUeaT(k).  Por motivo Te efcigncia,  normalmente busca-se utilizar k 1.  ConsiTere a gramAtica livre 
-Te contexto G  (X, Y, Z, a, b, c, T, e, P, X) ,  em que P é composto pelas seguintes regras Te proTução:
+QUESTÃO 30
+Em um compilador,  um analisador sintAtico descendente preditivo pode ser implementado com o auxílio 
+de  uma  tabela  construída  a  partir  de  uma  gramAtica  livre  de  contexto.   Essa  tabela,   chamada  tabela 
+LL(k),  indica a regra de produção a ser aplicada olhando-se o k-ésimo proximo símbolo lido,  chamado 
+looŬahead(k).  Wor motivo de efcigncia,  normalmente busca-se utilizar k 1.  Ionsidere a gramAtica livre 
+de contexto G  (X, Y, Z, a, b, c, d, e, P, X) ,  em que P é composto pelas seguintes regras de produção:
 X
 aZbXY c
 Y
-TX
+dX
 Z
 e
 →
@@ -17,31 +15,29 @@ e
 →
 |
 | ε
-ConsiTere,  ainTa,  a seguinte tabela LL(1),  construíTa a partir Ta gramAtica G,  senTo Ψ o símbolo que 
-representa o fm Ta caTeia.  Nssa tabela possui Tuas proTuções Tistintas na célula (Y, T),  geranTo,  no 
-analisaTor sintAtico,  uma TuviTa na escolUa Ta regra Te proTução aplicaTa em TeterminaTos momentos 
-Ta anAlise.
+Ionsidere,  ainda,  a seguinte tabela LL(1),  construída a partir da gramAtica G,  sendo Ψ o símbolo que 
+representa o fm da cadeia.  Essa tabela possui duas produções distintas na célula (Y, d),  gerando,  no 
+analisador sintAtico,  uma duvida na escolha da regra de produção aplicada em determinados momentos 
+da anAlise.
 a
 b
 c
-T
+d
 e
 $
 X
 XoaZbXY
 Xoc
 Y
-YoTX
+YodX
 YoH
 YoH
 Z
 Zoe
-ConsiTeranTo  que  o  processo  Te  construção  Tessa  tabela  LL(1),   a  partir  Ta  gramAtica  G,   foi  seguiTo 
-corretamente,  a existgncia Te Tuas regras Te proTução Tistintas na célula (Y, T),  neste caso específco,  resulta
-A  Ta ausgncia To símbolo Te fm Te caTeia (Ψ) nas regras Te proTução.
-B  Te um não-Teterminismo causaTo por uma ambiguiTaTe na gramAtica.
-C  To uso incorreto To símbolo Te caTeia vazia (H) nas regras Te proTução.
-M  Ta presença Te Tuas regras Te proTução com um unico terminal no corpo.
-N  Ta presença Te Tuas regras Te proTução com o mesmo não terminal na cabeça.
-Area livre
-*R03201728*
+Ionsiderando  que  o  processo  de  construção  dessa  tabela  LL(1),   a  partir  da  gramAtica  G,   foi  seguido 
+corretamente,  a existgncia de duas regras de produção distintas na célula (Y, d),  neste caso específco,  resulta
+A  da ausgncia do símbolo de fm de cadeia (Ψ) nas regras de produção.
+B  de um não-determinismo causado por uma ambiguidade na gramAtica.
+C  do uso incorreto do símbolo de cadeia vazia (H) nas regras de produção.
+D  da presença de duas regras de produção com um unico terminal no corpo.
+E  da presença de duas regras de produção com o mesmo não terminal na cabeça.

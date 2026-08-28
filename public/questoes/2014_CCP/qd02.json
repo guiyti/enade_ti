@@ -5,17 +5,46 @@
   "paginas": [
     3
   ],
+  "segmentos": [
+    {
+      "pagina": 3,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 309.4779968261719,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/qd02.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/qd02.txt",
   "largura": 2254,
-  "altura": 1007,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1006,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO DISCURSIVA 2\ndrgs ũovens de 19 anos de idade,  moradores de rua,  foram presos em Ňagrante,  nesta quarta-feira,  por terem \nateado fogo em um ũovem de 17 anos,  guardador de carros.  K motivo,  segundo a 14. a DW, foi uma ͚͛ briga por \nponto͛͛.  hm motorista deu ͚͛ um trocado͛͛  ao menor,  o que irritou os trgs moradores de rua,  que também \nguardavam carros no local.  K menor foi levado ao ,ospital das Ilínicas (,I) por WDs que passavam pelo \nlocal.  ^egundo o ,I,  ele teve queimaduras leves no ombro esquerdo,  foi medicado e,  em seguida,  liberado.  \nKs indiciados podem pegar de 12 a 30 anos de prisão,  se fcar comprovado que a intenção era matar o menor.  \nIaso contrArio,  conforme a 14. a DW, os trgs poderão pegar de um a trgs anos de cadeia.\nDisponível em: фhtp:ͬͬ\nǁǁǁ1. folha. uol. com. brх.   cesso em:  28 ũul.  2013 (adaptado).\n  partir da situação narrada,  elabore um texto dissertativo sobre violgncia urbana,  apresentando:\na)  anAlise de duas causas do tipo de violgncia descrita no texto͖  (valor:  7, 0 pontos)\nb)  dois fatores que contribuiriam para se evitar o fato descrito na noơcia.  (valor:  3, 0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 2,
+      "tipo": "DISCURSIVA",
+      "pagina": 3,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 148.57049560546875,
+      "y1": 98.31988525390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO DISCURSIVA 2"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "3\nC/NNC/  M  COMPUT AãO\nQUNSTÃO MCSCURSCVA 2\nTrgs ũovens Te 19 anos Te iTaTe,  moraTores Te rua,  foram presos em Ňagrante,  nesta quarta-feira,  por terem \nateaTo fogo em um ũovem Te 17 anos,  guarTaTor Te carros.  O motivo,  segunTo a 14. a MP, foi uma ͚͛ briga por \nponto͛͛.  Um motorista Teu ͚͛ um trocaTo͛͛  ao menor,  o que irritou os trgs moraTores Te rua,  que também \nguarTavam carros no local.  O menor foi levaTo ao ,ospital Tas Clínicas (,C) por PMs que passavam pelo \nlocal.  SegunTo o ,C,  ele teve queimaTuras leves no ombro esquerTo,  foi meTicaTo e,  em seguiTa,  liberaTo.  \nOs inTiciaTos poTem pegar Te 12 a 30 anos Te prisão,  se fcar comprovaTo que a intenção era matar o menor.  \nCaso contrArio,  conforme a 14. a MP, os trgs poTerão pegar Te um a trgs anos Te caTeia.\nMisponível em: фUtp:ͬͬ\nǁǁǁ1. folUa. uol. com. brх.   cesso em:  28 ũul.  2013 (aTaptaTo).\n  partir Ta situação narraTa,  elabore um texto Tissertativo sobre violgncia urbana,  apresentanTo:\na)  anAlise Te Tuas causas To tipo Te violgncia Tescrita no texto͖  (valor:  7, 0 pontos)\nb)  Tois fatores que contribuiriam para se evitar o fato Tescrito na noơcia.  (valor:  3, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R0320143*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/qd02.png",
-  "caminho_json": "/questoes/2014_CCP/qd02.json",
-  "caminho_txt": "/questoes/2014_CCP/qd02.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234238"
 }

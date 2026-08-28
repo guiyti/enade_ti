@@ -5,17 +5,46 @@
   "paginas": [
     16
   ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q09.txt",
   "largura": 2440,
-  "altura": 2656,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 09\nhma Arvore  s> é um tipo de Arvore binAria balanceada na qual a diferença entre as alturas de suas \nsubArvores da esquerda e da direita não pode ser maior do que 1 para qualquer no.   pos a inserção de \num no em uma  s>,  a raiz da subArvore de nível mais baixo no qual o novo no foi inserido é marcada.  \n^e a altura de seus flhos diferir em mais de uma unidade,  é realizada uma rotação simples ou uma \nrotação dupla para igualar suas alturas.\n> &KZE,  Z.  Data structures Θ algorithms in :ava.  /ndianopolis:  ^ams Wublishing,  2003 (adaptado).\n  seguir,  é apresentado um exemplo de Arvore  s>.\n4\n5\n11\n8\n10\n13\n15\n16\nWelo exposto no texto acima,  apos a inserção de um no com valor 3 na Arvore  s> exemplifcada,  é correto \nafrmar que ela fcarA com a seguinte confguração:\nA\n4\n10\n5\n11\n8\n3\n13\n15\n16\nD\n4\n10\n5\n11\n8\n3\n13\n15\n16\nB\n4\n10\n5\n11\n8\n3\n13\n15\n16\nE\n4\n10\n5\n11\n8\n3\n13\n15\n16\nC\n4\n10\n5\n11\n8\n3\n13\n15\n16",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 60.60430145263672,
+      "y": 88.699951171875,
+      "x1": 123.05711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 09"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n16\nQUNSTÃO 09\nUma Arvore  s> é um tipo Te Arvore binAria balanceaTa na qual a Tiferença entre as alturas Te suas \nsubArvores Ta esquerTa e Ta Tireita não poTe ser maior To que 1 para qualquer no.   pos a inserção Te \num no em uma  s>,  a raiz Ta subArvore Te nível mais baixo no qual o novo no foi inseriTo é marcaTa.  \nSe a altura Te seus flUos Tiferir em mais Te uma uniTaTe,  é realizaTa uma rotação simples ou uma \nrotação Tupla para igualar suas alturas.\n> &OZN,  Z.  Mata structures Θ algoritUms in :ava.  /nTianopolis:  Sams PublisUing,  2003 (aTaptaTo).\n  seguir,  é apresentaTo um exemplo Te Arvore  s>.\n4\n5\n11\n8\n10\n13\n15\n16\nPelo exposto no texto acima,  apos a inserção Te um no com valor 3 na Arvore  s> exemplifcaTa,  é correto \nafrmar que ela fcarA com a seguinte confguração:\nA\n4\n10\n5\n11\n8\n3\n13\n15\n16\nM\n4\n10\n5\n11\n8\n3\n13\n15\n16\nB\n4\n10\n5\n11\n8\n3\n13\n15\n16\nN\n4\n10\n5\n11\n8\n3\n13\n15\n16\nC\n4\n10\n5\n11\n8\n3\n13\n15\n16\n*R03201716*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q09.png",
-  "caminho_json": "/questoes/2017_CCP/q09.json",
-  "caminho_txt": "/questoes/2017_CCP/q09.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148843"
 }

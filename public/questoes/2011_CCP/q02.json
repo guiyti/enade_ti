@@ -5,17 +5,46 @@
   "paginas": [
     2
   ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 375.9777526855469,
+      "x1": 555.56,
+      "y1": 728.2,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2011_CCP/q02.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q02.txt",
   "largura": 2241,
-  "altura": 1461,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1498,
+  "confianca": 1.0,
+  "texto_completo": "E   o exílio e a solidão são os responsáveis pela manutenção do corpo esbelto da princesa.\nQUESTÃO 2 \nExclusão digital é um conceito que diz respeito às extensas camadas sociais que ficaram à margem do fenômeno da \nsociedade da informação e da extensão das redes digitais. O problema da exclusão digital se apresenta como um dos \nmaiores desafios dos dias de hoje, com implicações diretas e indiretas sobre os mais variados aspectos da sociedade \ncontemporânea.\nNessa nova sociedade, o conhecimento é essencial para aumentar a produtividade e a competição global. É fundamental \npara a invenção, para a inovação e para a geração de riqueza. As tecnologias de informação e comunicação (TICs) \nproveem uma fundação para a construção e aplicação do conhecimento nos setores públicos e privados. É nesse \ncontexto que se aplica o termo exclusão digital, referente à falta de acesso às vantagens e aos benefícios trazidos por \nessas novas tecnologias, por motivos sociais, econômicos, políticos ou culturais.\nConsiderando as ideias do texto acima, avalie as afirmações a seguir.\nI. \nUm mapeamento da exclusão digital no Brasil permite aos gestores de políticas públicas escolherem o público-\nalvo de possíveis ações de inclusão digital.\nII. O uso das TICs pode cumprir um papel social, ao prover informações àqueles que tiveram esse direito negado \nou negligenciado e, portanto, permitir maiores graus de mobilidade social e econômica.\nIII. O direito à informação diferencia-se dos direitos sociais, uma vez que esses estão focados nas relações entre \nos indivíduos e, aqueles, na relação entre o indivíduo e o conhecimento.\nIV. O maior problema de acesso digital no Brasil está na deficitária tecnologia existente em território nacional, muito \naquém da disponível na maior parte dos países do primeiro mundo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   II e IV.\nC   III e IV.\nD   I, II e III.\nE   I, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 2,
+      "tipo": "OBJETIVA",
+      "pagina": 2,
+      "x": 34.143898010253906,
+      "y": 387.9777526855469,
+      "x1": 94.71389770507812,
+      "y1": 401.8377685546875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 2"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n2\nQUNSTÃO 1 \nRetrato Te uma princesa TesconUeciTa\nPara que ela tivesse um pescoço tão fino\nPara que os seus pulsos tivessem um quebrar Te caule\nPara que os seus olUos fossem tão frontais e limpos\nPara que a sua espinUa fosse tão Tireita\nN ela usasse a cabeça tão erguiTa\nCom uma tão simples clariTaTe sobre a testa\nForam necessárias sucessivas gerações Te escravos\nMe corpo TobraTo e grossas mãos pacientes\nServinTo sucessivas gerações Te príncipes\nAinTa um pouco toscos e grosseiros\nÁviTos cruéis e frauTulentos\nFoi um imenso TesperTiçar Te gente\nPara que ela fosse aquela perfeição\nSolitária exilaTa sem Testino\n ANMRNSNN, S. M. B. Mual. Lisboa: CaminUo, 2004. p. 73.\nNo poema, a autora sugere que\nA   os príncipes e as princesas são naturalmente belos.\nB   os príncipes generosos cultivavam a beleza Ta princesa.\nC   a beleza Ta princesa é TesperTiçaTa pela miscigenação racial.\nM   o trabalUo compulsório Te escravos proporcionou privilégios aos príncipes.\nN   o exílio e a soliTão são os responsáveis pela manutenção To corpo esbelto Ta princesa.\nQUNSTÃO 2 \nNxclusão Tigital é um conceito que Tiz respeito às extensas camaTas sociais que ficaram à margem To fenômeno Ta \nsocieTaTe Ta informação e Ta extensão Tas reTes Tigitais. O problema Ta exclusão Tigital se apresenta como um Tos \nmaiores Tesafios Tos Tias Te Uoje, com implicações Tiretas e inTiretas sobre os mais variaTos aspectos Ta socieTaTe \ncontemporânea.\nNessa nova socieTaTe, o conUecimento é essencial para aumentar a proTutiviTaTe e a competição global. É funTamental \npara a invenção, para a inovação e para a geração Te riqueza. As tecnologias Te informação e comunicação (TCCs) \nproveem uma funTação para a construção e aplicação To conUecimento nos setores públicos e privaTos. É nesse \ncontexto que se aplica o termo exclusão Tigital, referente à falta Te acesso às vantagens e aos benefícios traziTos por \nessas novas tecnologias, por motivos sociais, econômicos, políticos ou culturais.\nConsiTeranTo as iTeias To texto acima, avalie as afirmações a seguir.\nC. \nUm mapeamento Ta exclusão Tigital no Brasil permite aos gestores Te políticas públicas escolUerem o público-\nalvo Te possíveis ações Te inclusão Tigital.\nCC. O uso Tas TCCs poTe cumprir um papel social, ao prover informações àqueles que tiveram esse Tireito negaTo \nou negligenciaTo e, portanto, permitir maiores graus Te mobiliTaTe social e econômica.\nCCC. O Tireito à informação Tiferencia-se Tos Tireitos sociais, uma vez que esses estão focaTos nas relações entre \nos inTivíTuos e, aqueles, na relação entre o inTivíTuo e o conUecimento.\nCV. O maior problema Te acesso Tigital no Brasil está na Teficitária tecnologia existente em território nacional, muito \naquém Ta Tisponível na maior parte Tos países To primeiro munTo.\nÉ correto apenas o que se afirma em\nA   C e CC.\nB   CC e CV.\nC   CCC e CV.\nM   C, CC e CCC.\nN   C, CCC e CV.\nFORMAÇÃO GNRAL\n*A1320112*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_CCP/q02.png",
-  "caminho_json": "/questoes/2011_CCP/q02.json",
-  "caminho_txt": "/questoes/2011_CCP/q02.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275137"
 }

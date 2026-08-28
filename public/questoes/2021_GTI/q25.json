@@ -5,17 +5,46 @@
   "paginas": [
     31
   ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 471.6461486816406,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/q25.txt",
   "largura": 2185,
-  "altura": 1683,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1685,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 25\t\nAtualmente um número crescente de empresas investe em Tecnologia de Informação (TI), contudo, \ninvestir em TI somente por modismo, sem se preocupar com os procedimentos adequados para que isso \nocorra, gera um risco elevado. A TI exige qualidade em seu desenvolvimento, principalmente na criação \ndos sistemas de informações gerenciais, onde a Engenharia de Software deve ser aplicada. O ambiente \ndeve estar preparado para receber esta tecnologia e saber fazer bom uso dela. Em algumas ocasiões, \né bastante complexo estabelecer uma forma para mensurar e quantificar a capacidade que a TI possui \npara criar valores, reduzir custos e avaliar se realmente a empresa está se tornando melhor ou mais \ncompetitiva com sua aplicação.\nPRADO, A. et al. Tecnologia da Informação Aplicada de Forma Estratégica nos Processos Organizacionais, por Meio de Sistemas de \nInformações Gerenciais. Janus Revista de Pesquisa Científica - UNIFATEA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir, acerca das atividades fundamentais \nda Engenharia de Software. \nI.\t A Especificação do Software é a etapa em que clientes e engenheiros projetam e programam \no software.\nII.\t A Validação de Software é a etapa para assegurar se o programa atende as demandas do cliente.\nIII.\t A Evolução do Software é a etapa de modificação para definir a mudança de requisitos, tanto do \ncliente quanto do mercado.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 25"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "31\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 25\t\nAtualmente um número crescente Te empresas investe em Tecnologia Te Cnformação (TC), contuTo, \ninvestir em TC somente por moTismo, sem se preocupar com os proceTimentos aTequaTos para que isso \nocorra, gera um risco elevaTo. A TC exige qualiTaTe em seu Tesenvolvimento, principalmente na criação \nTos sistemas Te informações gerenciais, onTe a NngenUaria Te Software Teve ser aplicaTa. O ambiente \nTeve estar preparaTo para receber esta tecnologia e saber fazer bom uso Tela. Nm algumas ocasiões, \né bastante complexo estabelecer uma forma para mensurar e quantificar a capaciTaTe que a TC possui \npara criar valores, reTuzir custos e avaliar se realmente a empresa está se tornanTo melUor ou mais \ncompetitiva com sua aplicação.\nPRAMO, A. et al. Tecnologia Ta Cnformação AplicaTa Te Forma Nstratégica nos Processos Organizacionais, por Meio Te Sistemas Te \nCnformações Gerenciais. Janus Revista Te Pesquisa Científica - UNCFATNA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (aTaptaTo).\nConsiTeranTo as informações To texto, avalie as afirmações a seguir, acerca Tas ativiTaTes funTamentais \nTa NngenUaria Te Software. \nC.\t A Nspecificação To Software é a etapa em que clientes e engenUeiros projetam e programam \no software.\nCC.\t A ValiTação Te Software é a etapa para assegurar se o programa atenTe as TemanTas To cliente.\nCCC.\t A Nvolução To Software é a etapa Te moTificação para Tefinir a muTança Te requisitos, tanto To \ncliente quanto To mercaTo.\nÉ correto o que se afirma em\nA\t C, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t CC e CCC, apenas.\nN\t C, CC e CCC.\nÁrea livre\n*R29202131*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/q25.png",
-  "caminho_json": "/questoes/2021_GTI/q25.json",
-  "caminho_txt": "/questoes/2021_GTI/q25.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343380"
 }

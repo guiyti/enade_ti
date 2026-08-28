@@ -5,17 +5,46 @@
   "paginas": [
     30
   ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 461.81072998046875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q22.txt",
   "largura": 2185,
-  "altura": 1642,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1644,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 22\t\nUm ponto importante para fábricas de software é a garantia de que seus produtos e/ou serviços acompanhem \nas diversas mudanças ocasionadas pelo mundo corporativo. As restrições de orçamento ou cronograma, \nreestruturação do negócio, modificações de regras de negócio ou novas necessidades do cliente, geram \nmudanças inevitáveis. Nesse cenário, a utilização de um processo de Gerência de Configuração de Software \n(GCS) que contemple características necessárias para gerenciar e controlar a evolução de um software, através \ndo controle formal de versão e solicitação de mudanças, é extremamente importante.\nSobre o processo de Gerência de Configuração de Software (GCS), avalie as afirmações a seguir.\nI.\t O controle de versão possibilita o compartilhamento de dados e a edição colaborativa, permitindo \na gestão de diferentes ramos de desenvolvimento e possibilitando a existência de diferentes \nversões de forma simultânea.\nII.\t A auditoria de configuração é uma atividade de garantia de qualidade do sistema que tem por \nobjetivo assegurar que a qualidade do software seja mantida quando feitas alterações requisitadas.\nIII.\t O relatório de status de configuração possui informações sobre o GCS, tendo por objetivo manter o \ncliente informado sobre as alterações, e deve ser gerado ao final do processo.\nIV.\t A GCS proporciona um conjunto de atividades de acompanhamento e controle de mudanças que é \niniciado logo depois que o software for fornecido ao cliente e colocado em operação.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e III.\nC\t III e IV.\nD\t I, II e IV.\nE\t I, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "30\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 22\t\nUm ponto importante para fábricas Te software é a garantia Te que seus proTutos e/ou serviços acompanUem \nas Tiversas muTanças ocasionaTas pelo munTo corporativo. As restrições Te orçamento ou cronograma, \nreestruturação To negócio, moTificações Te regras Te negócio ou novas necessiTaTes To cliente, geram \nmuTanças inevitáveis. Nesse cenário, a utilização Te um processo Te Gerência Te Configuração Te Software \n(GCS) que contemple características necessárias para gerenciar e controlar a evolução Te um software, através \nTo controle formal Te versão e solicitação Te muTanças, é extremamente importante.\nSobre o processo Te Gerência Te Configuração Te Software (GCS), avalie as afirmações a seguir.\nC.\t O controle Te versão possibilita o compartilUamento Te TaTos e a eTição colaborativa, permitinTo \na gestão Te Tiferentes ramos Te Tesenvolvimento e possibilitanTo a existência Te Tiferentes \nversões Te forma simultânea.\nCC.\t A auTitoria Te configuração é uma ativiTaTe Te garantia Te qualiTaTe To sistema que tem por \nobjetivo assegurar que a qualiTaTe To software seja mantiTa quanTo feitas alterações requisitaTas.\nCCC.\t O relatório Te status Te configuração possui informações sobre o GCS, tenTo por objetivo manter o \ncliente informaTo sobre as alterações, e Teve ser geraTo ao final To processo.\nCV.\t A GCS proporciona um conjunto Te ativiTaTes Te acompanUamento e controle Te muTanças que é \niniciaTo logo Tepois que o software for forneciTo ao cliente e colocaTo em operação.\nÉ correto apenas o que se afirma em\nA\t C e CC.\nB\t CC e CCC.\nC\t CCC e CV.\nM\t C, CC e CV.\nN\t C, CCC e CV.\nÁrea livre\n*R28202130*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q22.png",
-  "caminho_json": "/questoes/2021_ADS/q22.json",
-  "caminho_txt": "/questoes/2021_ADS/q22.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625593"
 }

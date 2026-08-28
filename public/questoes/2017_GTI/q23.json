@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 596.4800415039062,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q23.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2196,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 23\nZecentemente,  \nvariantes \nde \nransomǁare\nprovocaram  uma  onda  de  sequestros  digitais,   que \nafetou hospitais,  operadoras de telecomunicações \ne usuArios residenciais.\nKs  ransomǁares  são  utilizados  com  o  obũetivo \nde entrar nos sistemas corporativos por meio da \nrede e criptografar todos os dados da empresa,  \nde modo que possam exigir um resgate financeiro \npara liberA-los.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. ũunipernetǁorŬs. com. brх.\n cesso em:  10 ũul.  2017 (adaptado).\nIonsiderando  as  informações  do  texto,   avalie \nas  afrmações  a  seguir,   em  relação  as  medidas \nde  prevenção  que  devem  compor  a  política  de \nsegurança corporativa contra esse tipo de malǁare.\n/.   Deve-se  manter  o  treinamento  constante \ndos usuArios em relação ao uso de e-mail e \nsítios seguros,  suspeitos ou falsos.\n//.   Deve-se  garantir  a  existgncia  de  uma  boa \npolítica  de  combate  e  recuperação  contra \ndesastres em relação as copias de segurança.\n///.   Deve-se prevenir a contaminação por meio \nde ferramentas capazes de detectar ataques \nde  força  bruta,   característicos  desses \nǁorms,   e  cuũo  obũetivo  é  contaminar  os \ncomputadores da rede.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Segurança da Informação"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 23"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 22\nO  COB/T  5  fornece  um  moTelo  abrangente  que \nauxilia as organizações a atingirem seus obũetivos Te \n'overnança e 'estão Te Tecnologia Ta /nformação.  \nNle  baseia-se  em  cinco  princípios  bAsicos  para \n'overnança  e  'estão  Te  T/  nas  organizações.  \nMentre eles,  Testaca-se o terceiro princípio:  aplicar \num MoTelo jnico /ntegraTo.  \nMisponível em:  фUtp:ͬͬ\nǁǁǁ. isaca. orgх.\n cesso em:  18 ũul.  2017 (aTaptaTo).\nMe acorTo com o terceiro princípio,  o COB/T 5 poTe \nser consiTeraTo um moTelo unico e integraTo porque\nA  incorpora  o  /T/>  para  infraestrutura,   operação \ne gerenciamento Te serviços Te T/ e o PMBO< \npara a gestão Te proũetos.\nB  é completo na cobertura Ta organização,  o que \nTescarta a necessiTaTe Te utilização Te outros \nmoTelos,  paTrões e prAticas.\nC  unifca  governança  e  gestão  em  uma  unica \nTisciplina,  com ativiTaTes voltaTas a um unico \nproposito Tentro To moTelo organizacional.\nM  utiliza o PZ/NCN2 como moTelo Te maturiTaTe \nTe processo para meTir a maturiTaTe atual Tos \nprocessos Te T/ Ta organização e melUorA-los.\nN  estA alinUaTo a outros paTrões e moTelos mais \nrecentes,   o  que  permite  que  a  organização  o \naTote como principal integraTor To moTelo Te \ngovernança e gestão.\nArea livre\nQUNSTÃO 23\nZecentemente,  \nvariantes \nTe \nransomǁare\nprovocaram  uma  onTa  Te  sequestros  Tigitais,   que \nafetou Uospitais,  operaToras Te telecomunicações \ne usuArios resiTenciais.\nOs  ransomǁares  são  utilizaTos  com  o  obũetivo \nTe entrar nos sistemas corporativos por meio Ta \nreTe e criptografar toTos os TaTos Ta empresa,  \nTe moTo que possam exigir um resgate financeiro \npara liberA-los.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. ũunipernetǁorŬs. com. brх.\n cesso em:  10 ũul.  2017 (aTaptaTo).\nConsiTeranTo  as  informações  To  texto,   avalie \nas  afrmações  a  seguir,   em  relação  as  meTiTas \nTe  prevenção  que  Tevem  compor  a  política  Te \nsegurança corporativa contra esse tipo Te malǁare.\n/.   Meve-se  manter  o  treinamento  constante \nTos usuArios em relação ao uso Te e-mail e \nsítios seguros,  suspeitos ou falsos.\n//.   Meve-se  garantir  a  existgncia  Te  uma  boa \npolítica  Te  combate  e  recuperação  contra \nTesastres em relação as copias Te segurança.\n///.   Meve-se prevenir a contaminação por meio \nTe ferramentas capazes Te Tetectar ataques \nTe  força  bruta,   característicos  Tesses \nǁorms,   e  cuũo  obũetivo  é  contaminar  os \ncomputaTores Ta reTe.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R43201726*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q23.png",
-  "caminho_json": "/questoes/2017_GTI/q23.json",
-  "caminho_txt": "/questoes/2017_GTI/q23.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697674"
 }

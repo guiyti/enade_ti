@@ -5,17 +5,46 @@
   "paginas": [
     23
   ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 288.8559875488281,
+      "x1": 558.68,
+      "y1": 727.2,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q29.txt",
   "largura": 2254,
-  "altura": 1833,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1857,
+  "confianca": 1.0,
+  "texto_completo": "E  s asserções / e // são proposições falsas.\nQUESTÃO 29\nDiferentes implementações da linguagem de programação WZK>K' permitem predicados com parametros,  \naceitam as operações de conũunção e disũunção logica,  utilizando os símbolos vírgula (conũunção) e ponto e \nvírgula (disũunção),  e a negação logica com o predicado not.\nIonsidere que um programador propoz as clAusulas mostradas a seguir,  defnidas em uma linguagem de \nprogramação como WZK>K',  como parte da verifcação de critérios para seleção de candidatos a uma chapa \nde presidente e vice-presidente de uma empresa.  Estas clAusulas apresentam as premissas para chegar as \nconclusões selecionados,  desconsiderados e descartado,  a partir da possibilidade da existgncia de fatos ou \nregras com o identifcador superior.\nsuperior(jorge).\nsuperior(ana).\nselecionados(P,Q) :- superior(P), superior(Q).\ndesconsiderados(P,Q) :- not(superior(P)); not(superior(Q)).\ndescartado(P) :- not(superior(P)).\nIonsiderando  apenas  as  colocações  e  clAusulas  acima  e  a  hipotese  de  mundo  fechado  (closed world \nassumption),  avalie as afrmações a seguir.  \n/.   Wara todos valores dos parametros P e Q,  o predicado selecionados retornarA um valor logico falso.\n//.   Wara todos valores de P e Q,  os predicados selecionados e desconsiderados retornarão \nvalores logicos diferentes.\n///.     conũunção dos predicados selecionados e desconsiderados,  para quaisquer valores de P e Q,  \nretornarA um valor logico verdadeiro.\n/s.    Wara qualquer valor do parametro P,  o predicado descartado retornarA um valor verdadeiro.\nV.   disũunção dos predicados selecionados e desconsiderados,  para quaisquer valores de P e Q,  \nretornarA um valor logico verdadeiro.  \n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e s.\nD /// e /s.\nE /s e s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Teoria da Computação e Compiladores"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 29.627729415893555,
+      "y": 300.8559875488281,
+      "x1": 556.763427734375,
+      "y1": 354.4839782714844,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 29\nDiferentes implementações da linguagem de programação WZK>K' permitem predicados com parametros,  \naceitam as operações de conũunção e disũunção logica,  utilizando os símbolos vírgula (conũunção) e ponto e \nvírgula (disũunção),  e a negação logica com o predicado not."
+    }
   ],
   "anomalias": [],
-  "texto_completo": "23\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 28\nUm  cientista  afrma  ter  encontraTo  uma  reTução  polinomial  Te  um  problema  NP-Completo  para  um \nproblema pertencente a classe P. ConsiTeranTo que esta afrmação tem implicações importantes no que \nTiz respeito a complexiTaTe computacional,  avalie as seguintes asserções e a relação proposta entre elas.\n/.     Tescoberta To cientista implica P с NP.\nPORQUN\n//.     Tescoberta To cientista implica na existgncia Te algoritmos polinomiais para toTos os problemas \nNP-Completos.\n  respeito Tessas asserções,  assinale a opção correta.\nA  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.\nB  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.\nC   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.\nM   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.\nN  s asserções / e // são proposições falsas.\nQUNSTÃO 29\nMiferentes implementações Ta linguagem Te programação PZO>O' permitem preTicaTos com parametros,  \naceitam as operações Te conũunção e Tisũunção logica,  utilizanTo os símbolos vírgula (conũunção) e ponto e \nvírgula (Tisũunção),  e a negação logica com o preTicaTo not.\nConsiTere que um programaTor propoz as clAusulas mostraTas a seguir,  TefniTas em uma linguagem Te \nprogramação como PZO>O',  como parte Ta verifcação Te critérios para seleção Te canTiTatos a uma cUapa \nTe presiTente e vice-presiTente Te uma empresa.  Nstas clAusulas apresentam as premissas para cUegar as \nconclusões selecionaTos,  TesconsiTeraTos e TescartaTo,  a partir Ta possibiliTaTe Ta existgncia Te fatos ou \nregras com o iTentifcaTor superior.\nsuperior(jorge).\nsuperior(ana).\nselecionaTos(P,Q) :- superior(P), superior(Q).\nTesconsiTeraTos(P,Q) :- not(superior(P)); not(superior(Q)).\nTescartaTo(P) :- not(superior(P)).\nConsiTeranTo  apenas  as  colocações  e  clAusulas  acima  e  a  Uipotese  Te  munTo  fecUaTo  (closeT worlT \nassumption),  avalie as afrmações a seguir.  \n/.   Para toTos valores Tos parametros P e Q,  o preTicaTo selecionaTos retornarA um valor logico falso.\n//.   Para toTos valores Te P e Q,  os preTicaTos selecionaTos e TesconsiTeraTos retornarão \nvalores logicos Tiferentes.\n///.     conũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  \nretornarA um valor logico verTaTeiro.\n/s.    Para qualquer valor To parametro P,  o preTicaTo TescartaTo retornarA um valor verTaTeiro.\nV.   Tisũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  \nretornarA um valor logico verTaTeiro.  \n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e s.\nM /// e /s.\nN /s e s.\n*R03201423*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q29.png",
-  "caminho_json": "/questoes/2014_CCP/q29.json",
-  "caminho_txt": "/questoes/2014_CCP/q29.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234405"
 }

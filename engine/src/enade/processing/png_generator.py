@@ -39,10 +39,16 @@ RE_FUTURE_SHARED_CONTEXT = re.compile(
 )
 
 
-def clean_segment_noise(doc: fitz.Document, seg: Segment, q_num: int = 0) -> Segment:
+def clean_segment_noise(
+    doc: fitz.Document, 
+    seg: Segment, 
+    q_num: int = 0,
+    header_cutoff_y: float = 0.0,
+    footer_cutoff_y: float = 0.0
+) -> Segment:
     """
     Cleans unwanted noise from page borders:
-    1. Removes top headers (barcodes, year headers, general course titles).
+    1. Removes top headers (barcodes, year headers, general course titles) using layout profile cutoffs.
     2. Removes bottom footers (page numbers, typography lines, barcodes, ÁREA LIVRE / RASCUNHO boxes).
     3. Truncates before shared context headers intended for upcoming questions (e.g. 'Texto para questões 70 a 72').
     Uses line-level precision so valid text above 'Área Livre' is NEVER cut off.
@@ -53,8 +59,11 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment, q_num: int = 0) -> Seg
     page = doc[seg.pagina - 1]
     h = page.rect.height
     
-    new_y0 = seg.y0
-    new_y1 = seg.y1
+    y_top_limit = header_cutoff_y if header_cutoff_y > 0 else 55.0
+    y_bot_limit = footer_cutoff_y if footer_cutoff_y > 0 else (h - 45.0)
+    
+    new_y0 = max(seg.y0, y_top_limit)
+    new_y1 = min(seg.y1, y_bot_limit)
     
     try:
         dict_data = page.get_text("dict")
@@ -72,7 +81,7 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment, q_num: int = 0) -> Seg
                     continue
                     
                 # 1. Top noise (Headers)
-                if l_box[1] < 95.0 and l_box[3] <= new_y0 + 20.0:
+                if l_box[1] < y_top_limit + 15.0 and l_box[3] <= new_y0 + 20.0:
                     for pat in HEADER_PATTERNS:
                         if re.search(pat, line_text, re.IGNORECASE):
                             if l_box[3] < new_y1 - 25.0:
@@ -80,7 +89,7 @@ def clean_segment_noise(doc: fitz.Document, seg: Segment, q_num: int = 0) -> Seg
                             break
                             
                 # 2. Bottom noise (Footers)
-                if l_box[1] >= max(new_y0 + 25.0, h - 130.0):
+                if l_box[1] >= max(new_y0 + 25.0, y_bot_limit - 15.0):
                     for pat in FOOTER_PATTERNS:
                         if re.search(pat, line_text, re.IGNORECASE):
                             new_y1 = min(new_y1, l_box[1] - 3.0)
@@ -233,8 +242,20 @@ def extract_and_save_question(
     figures_dir = output_dir / "figuras"
     output_dir.mkdir(parents=True, exist_ok=True)
     
+    hdr_cut = 0.0
+    ftr_cut = 0.0
+    if exam.layout_profile:
+        hdr_cut = exam.layout_profile.get("header_cutoff_y", 0.0)
+        ftr_cut = exam.layout_profile.get("footer_cutoff_y", 0.0)
+    
     # 1. Clean noise (Headers, Footers, Area Livre / Rascunhos, and future shared contexts)
-    cleaned_segments = [clean_segment_noise(doc, seg, question.numero) for seg in question.segmentos]
+    cleaned_segments = [
+        clean_segment_noise(
+            doc, seg, question.numero,
+            header_cutoff_y=hdr_cut, footer_cutoff_y=ftr_cut
+        ) 
+        for seg in question.segmentos
+    ]
     question.segmentos = cleaned_segments
     
     segment_images = []

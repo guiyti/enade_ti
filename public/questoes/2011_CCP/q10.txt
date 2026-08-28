@@ -1,69 +1,26 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-9
-QUNSTÃO 9
-Seja A um conjunto e seja ~ uma relação entre pares Te 
-elementos Te A.
-Miz-se que ~ é uma relação Te equivalência entre pares 
-Te elementos Te A se as seguintes proprieTaTes são 
-verifi caTas, para quaisquer elementos a, a’ e a’’ Te A:
-(i)    a ~ a;
-(ii)   se a ~ a’, então a’ ~ a;
-(iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.
-Uma classe Te equivalência To elemento a Te A com 
-respeito à relação ~ é o conjunto 
-O conjunto quociente Te A pela relação Te 
-equivalência ~ é o conjunto Te toTas as classes Te 
-equivalência relativamente à relação ~, TefiniTo e 
-TenotaTo como a seguir:
-A função 
-  é cUamaTa projeção canônica e é 
-Tefi niTa como 
-ConsiTeranTo as Tefi nições acima, analise as afi rmações 
-a seguir.
-C. 
-A relação Te equivalência ~ no conjunto A 
-particiona o conjunto A em subconjuntos Tisjuntos: 
-as classes Te equivalência.
-CC. A união Tas classes Te equivalência Ta relação Te 
-equivalência ~ no conjunto A resulta no conjunto 
-Tas partes Te A.
-CCC. As três relações seguintes
-são relações Te equivalência no conjunto Tos 
-números inteiros 
-.
-CV. Qualquer relação Te equivalência no conjunto A é 
-proveniente Te sua projeção canônica.
-É correto apenas o que se afi rma em
-A   CC.
-B   CCC.
-C   C e CCC.
-M   C e CV.
-N   CC e CV.
-QUNSTÃO 10
-Nm TeterminaTo períoTo letivo, caTa estuTante Te um 
-curso universitário tem aulas com um Te três professores, 
-esses iTentifi caTos pelas letras X, Y e Z. As quantiTaTes 
-Te estuTantes (Uomens e mulUeres) que têm aulas com 
-caTa professor é apresentaTa na tabela Te contingência 
+QUESTÃO 10
+Em determinado período letivo, cada estudante de um 
+curso universitário tem aulas com um de três professores, 
+esses identifi cados pelas letras X, Y e Z. As quantidades 
+de estudantes (homens e mulheres) que têm aulas com 
+cada professor é apresentada na tabela de contingência 
 abaixo.
 Professor X
 Professor Y
 Professor Z
-NstuTantes 
-Uomens
+Estudantes 
+homens
 45
 5
 32
-NstuTantes 
-mulUeres
+Estudantes 
+mulheres
 67
 2
 4
-A partir To grupo Te estuTantes Tesse curso universitário, 
-escolUe-se um estuTante ao acaso. Qual é a probabiliTaTe 
-Te que esse estuTante seja mulUer, TaTo que ele tem 
+A partir do grupo de estudantes desse curso universitário, 
+escolhe-se um estudante ao acaso. Qual é a probabilidade 
+de que esse estudante seja mulher, dado que ele tem 
 aulas apenas com o professor X?
 A    
 61
@@ -74,12 +31,9 @@ B
 C    
 67
 155
-M    
+D    
 22
 112
-N    
+E    
 67
 112
-ÁRNA LCVRN
-*A1320119*
-COMPONNNTN NSPNCÍFCCO

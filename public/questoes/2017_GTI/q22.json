@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 535.5230102539062,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q22.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1942,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 22\nK  IKB/d  5  fornece  um  modelo  abrangente  que \nauxilia as organizações a atingirem seus obũetivos de \n'overnança e 'estão de decnologia da /nformação.  \nEle  baseia-se  em  cinco  princípios  bAsicos  para \n'overnança  e  'estão  de  d/  nas  organizações.  \nDentre eles,  destaca-se o terceiro princípio:  aplicar \num Dodelo jnico /ntegrado.  \nDisponível em:  фhtp:ͬͬ\nǁǁǁ. isaca. orgх.\n cesso em:  18 ũul.  2017 (adaptado).\nDe acordo com o terceiro princípio,  o IKB/d 5 pode \nser considerado um modelo unico e integrado porque\nA  incorpora  o  /d/>  para  infraestrutura,   operação \ne gerenciamento de serviços de d/ e o WDBK< \npara a gestão de proũetos.\nB  é completo na cobertura da organização,  o que \ndescarta a necessidade de utilização de outros \nmodelos,  padrões e prAticas.\nC  unifca  governança  e  gestão  em  uma  unica \ndisciplina,  com atividades voltadas a um unico \nproposito dentro do modelo organizacional.\nD  utiliza o WZ/EIE2 como modelo de maturidade \nde processo para medir a maturidade atual dos \nprocessos de d/ da organização e melhorA-los.\nE  estA alinhado a outros padrões e modelos mais \nrecentes,   o  que  permite  que  a  organização  o \nadote como principal integrador do modelo de \ngovernança e gestão.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 22\nO  COB/T  5  fornece  um  moTelo  abrangente  que \nauxilia as organizações a atingirem seus obũetivos Te \n'overnança e 'estão Te Tecnologia Ta /nformação.  \nNle  baseia-se  em  cinco  princípios  bAsicos  para \n'overnança  e  'estão  Te  T/  nas  organizações.  \nMentre eles,  Testaca-se o terceiro princípio:  aplicar \num MoTelo jnico /ntegraTo.  \nMisponível em:  фUtp:ͬͬ\nǁǁǁ. isaca. orgх.\n cesso em:  18 ũul.  2017 (aTaptaTo).\nMe acorTo com o terceiro princípio,  o COB/T 5 poTe \nser consiTeraTo um moTelo unico e integraTo porque\nA  incorpora  o  /T/>  para  infraestrutura,   operação \ne gerenciamento Te serviços Te T/ e o PMBO< \npara a gestão Te proũetos.\nB  é completo na cobertura Ta organização,  o que \nTescarta a necessiTaTe Te utilização Te outros \nmoTelos,  paTrões e prAticas.\nC  unifca  governança  e  gestão  em  uma  unica \nTisciplina,  com ativiTaTes voltaTas a um unico \nproposito Tentro To moTelo organizacional.\nM  utiliza o PZ/NCN2 como moTelo Te maturiTaTe \nTe processo para meTir a maturiTaTe atual Tos \nprocessos Te T/ Ta organização e melUorA-los.\nN  estA alinUaTo a outros paTrões e moTelos mais \nrecentes,   o  que  permite  que  a  organização  o \naTote como principal integraTor To moTelo Te \ngovernança e gestão.\nArea livre\nQUNSTÃO 23\nZecentemente,  \nvariantes \nTe \nransomǁare\nprovocaram  uma  onTa  Te  sequestros  Tigitais,   que \nafetou Uospitais,  operaToras Te telecomunicações \ne usuArios resiTenciais.\nOs  ransomǁares  são  utilizaTos  com  o  obũetivo \nTe entrar nos sistemas corporativos por meio Ta \nreTe e criptografar toTos os TaTos Ta empresa,  \nTe moTo que possam exigir um resgate financeiro \npara liberA-los.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. ũunipernetǁorŬs. com. brх.\n cesso em:  10 ũul.  2017 (aTaptaTo).\nConsiTeranTo  as  informações  To  texto,   avalie \nas  afrmações  a  seguir,   em  relação  as  meTiTas \nTe  prevenção  que  Tevem  compor  a  política  Te \nsegurança corporativa contra esse tipo Te malǁare.\n/.   Meve-se  manter  o  treinamento  constante \nTos usuArios em relação ao uso Te e-mail e \nsítios seguros,  suspeitos ou falsos.\n//.   Meve-se  garantir  a  existgncia  Te  uma  boa \npolítica  Te  combate  e  recuperação  contra \nTesastres em relação as copias Te segurança.\n///.   Meve-se prevenir a contaminação por meio \nTe ferramentas capazes Te Tetectar ataques \nTe  força  bruta,   característicos  Tesses \nǁorms,   e  cuũo  obũetivo  é  contaminar  os \ncomputaTores Ta reTe.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R43201726*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q22.png",
-  "caminho_json": "/questoes/2017_GTI/q22.json",
-  "caminho_txt": "/questoes/2017_GTI/q22.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697670"
 }

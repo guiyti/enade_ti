@@ -5,17 +5,46 @@
   "paginas": [
     41
   ],
+  "segmentos": [
+    {
+      "pagina": 41,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 509.84661865234375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q34.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q34.txt",
   "largura": 2185,
-  "altura": 1842,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1844,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 34\t\nSistemas especialistas são aqueles que fazem uso intensivo do conhecimento especializado para resolver \nproblemas de modo semelhante àquele de um especialista humano. Uma das diversas utilizações de \nsistemas especialistas é na elaboração de diagnósticos destinados a inferir sobre o mau funcionamento \nde um sistema, a partir de observações, de modo a prescrever soluções para a anomalia detectada. \nA medicina, atualmente, já se beneficia do uso de sistemas especialistas em conjunto com técnicas de \ninferência estatística.\nUma das formas de trabalhar com sistemas especialistas é por meio do uso de “regras de produção”, \nque são instruções do tipo “se - então”. As regras de produção aplicam-se à memória de trabalho, \nque contém dados, e se tiverem êxito, contribuirão com alguma nova informação para a memória.\nA metodologia de trabalho de um médico do serviço de emergência inclui a utilização de um sistema \nespecialista para diagnóstico de dengue, para o qual se encontra a seguinte regra de produção.\nSe ((temperatura > 38º) e (dores musculares intensas))\nentão (quadro de dengue, com 70% de chance);\nsenão(quadro de resfriado comum com 30% de chance);\nLevando em conta a regra de produção do sistema especialista utilizado pelo médico, é correto \nafirmar que\nA\t cada pessoa que procura atendimento apresentando ambos os sintomas, possui a probabilidade “0,7” \nde estar contaminada pela dengue.\nB\t se 50 pessoas procurarem o atendimento apresentando um dos dois sintomas, provavelmente \n15 pessoas estarão com resfriado comum.\nC\t se 100 pessoas procurarem o atendimento apresentando ambos os sintomas, a quantidade de pessoas \ncom dengue será igual a 70.\nD\t cada pessoa que chega apresentando um dos dois sintomas estará com resfriado comum.\nE\t a cada 100 pessoas que procuram atendimento, no máximo 30 estarão doentes.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Inteligência Artificial e Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 34,
+      "tipo": "OBJETIVA",
+      "pagina": 41,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 34"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "41\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 34\t\nSistemas especialistas são aqueles que fazem uso intensivo To conUecimento especializaTo para resolver \nproblemas Te moTo semelUante àquele Te um especialista Uumano. Uma Tas Tiversas utilizações Te \nsistemas especialistas é na elaboração Te Tiagnósticos TestinaTos a inferir sobre o mau funcionamento \nTe um sistema, a partir Te observações, Te moTo a prescrever soluções para a anomalia TetectaTa. \nA meTicina, atualmente, já se beneficia To uso Te sistemas especialistas em conjunto com técnicas Te \ninferência estatística.\nUma Tas formas Te trabalUar com sistemas especialistas é por meio To uso Te “regras Te proTução”, \nque são instruções To tipo “se - então”. As regras Te proTução aplicam-se à memória Te trabalUo, \nque contém TaTos, e se tiverem êxito, contribuirão com alguma nova informação para a memória.\nA metoTologia Te trabalUo Te um méTico To serviço Te emergência inclui a utilização Te um sistema \nespecialista para Tiagnóstico Te Tengue, para o qual se encontra a seguinte regra Te proTução.\nSe ((temperatura > 38º) e (Tores musculares intensas))\nentão (quaTro Te Tengue, com 70% Te cUance);\nsenão(quaTro Te resfriaTo comum com 30% Te cUance);\nLevanTo em conta a regra Te proTução To sistema especialista utilizaTo pelo méTico, é correto \nafirmar que\nA\t caTa pessoa que procura atenTimento apresentanTo ambos os sintomas, possui a probabiliTaTe “0,7” \nTe estar contaminaTa pela Tengue.\nB\t se 50 pessoas procurarem o atenTimento apresentanTo um Tos Tois sintomas, provavelmente \n15 pessoas estarão com resfriaTo comum.\nC\t se 100 pessoas procurarem o atenTimento apresentanTo ambos os sintomas, a quantiTaTe Te pessoas \ncom Tengue será igual a 70.\nM\t caTa pessoa que cUega apresentanTo um Tos Tois sintomas estará com resfriaTo comum.\nN\t a caTa 100 pessoas que procuram atenTimento, no máximo 30 estarão Toentes.\nÁrea livre\n*R28202141*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q34.png",
-  "caminho_json": "/questoes/2021_ADS/q34.json",
-  "caminho_txt": "/questoes/2021_ADS/q34.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625681"
 }

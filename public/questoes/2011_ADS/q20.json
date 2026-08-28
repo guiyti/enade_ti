@@ -5,17 +5,46 @@
   "paginas": [
     12
   ],
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 293.28,
+      "y0": 64.7,
+      "x1": 555.56,
+      "y1": 452.1463928222656,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2011_ADS/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q20.txt",
   "largura": 1123,
-  "altura": 1602,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1645,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 20  \nPadrões de criação (creational patterns) abstraem \na forma como objetos são criados, tornando o sistema \nindependente de como os objetos são criados, compostos \ne representados. Um padrão de criação de classe \nusa a herança para variar a classe que é instanciada, \nenquanto que um padrão de criação de objeto delegará \na instanciação para outro objeto. Há dois temas \nrecorrentes nesses padrões. Primeiro, todos encapsulam \nconhecimento sobre quais classes concretas são usadas \npelo sistema. Segundo, ocultam o modo como essas \nclasses são criadas e montadas. Tudo que o sistema \nsabe no geral sobre os objetos é que suas classes são \ndefinidas por classes abstratas. Os padrões de criação \nsão classificados em Abstract Factory, Builder, Factory \nMethod, Prototype e Singleton.\nGAMMA, E. et al. Design Patterns: Elements of Reusable Object-Oriented \nSoftware. Reading, MA: Addison-Wesley, 1994.(adaptado)\nO padrão Abstract Factory é usado quando \nA   o sistema deve ser independente da maneira \ncomo seus produtos são criados, relacionados e \nrepresentados.\nB   o algoritmo de criação de um objeto deve ser \nindependente das suas partes e da maneira como ele \né montado.\nC   houver uma única instância de uma classe e esta for \nacessada a partir de um ponto de acesso conhecido.\nD   classes delegam responsabilidade a alguma das \nsubclasses, e deseja-se localizar qual é a subclasse \nacessada.\nE   as \nclasses \nutilizadas \npara \ninstanciação \nsão \nespecificadas em tempo de execução ou carregadas \ndinamicamente.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Programação e POO"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 20"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n12\nQUNSTÃO 18  \nA Norma CSO/CNC FMCS 14764 (2006) estabelece \nTefinições Te vários tipos Te manutenção e fornece um \nguia para gerenciar o processo Te manutenção, que poTe \nser aplicaTo no planejamento, execução e controle, revisão \ne avaliação, e fecUamento To processo Te manutenção. \nSegunTo essa Norma, solicitações Te moTificação são \nclassificaTas como corretiva, preventiva, aTaptativa ou \nperfectiva. Os TetalUes Te como implementar ou realizar as \nativiTaTes e tarefas Te manutenção não são  especificaTas \npela Norma, senTo Te responsabiliTaTe To manteneTor.\nCSO/CNC FMCS 14764. Software Nngineering – Software Life Cycle Processes - \nMaintenance. 2006.\nConsiTeranTo os tipos Te manutenção e as ativiTaTes Te \nimplementação To processo, avalie as afirmações a seguir.\nC. \nO manteneTor Teve Tesenvolver, Tocumentar e \nexecutar planos e proceTimentos para realizar as \nativiTaTes e tarefas To processo Te manutenção.\nCC. O manteneTor Teve alterar a configuração To \nsistema para corrigir erros iTentificaTos pelos \nusuários usanTo a manutenção perfectiva.\nCCC. O manteneTor Teve estabelecer proceTimentos \npara receber, registrar e rastrear solicitações Te \nmoTificação/registro Te problemas Tos usuários, \ne também prover realimentação para os usuários.\nCV. O manteneTor Teve Tocumentar a estratégia a ser \nusaTa para  melUorar a manutebiliTaTe futura To \nsistema, usanTo a manutenção corretiva.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CCC.\nM   CC e CV.\nN   CCC e CV.\nQUNSTÃO 19  \nCom relação ao valor lógico, avalie as afirmações a seguir.\nC. \n¬ (p S¬q)\nCC. p→(q→p)\nCCC. (pv¬q)→¬p\nCV. (pSq)v(¬pS¬q)\nÉ tautologia apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CCC.\nM   CC e CV.\nN   CCC e CV.\nQUNSTÃO 20  \nPaTrões Te criação (creational patterns) abstraem \na forma como objetos são criaTos, tornanTo o sistema \ninTepenTente Te como os objetos são criaTos, compostos \ne representaTos. Um paTrão Te criação Te classe \nusa a Uerança para variar a classe que é instanciaTa, \nenquanto que um paTrão Te criação Te objeto Telegará \na instanciação para outro objeto. Há Tois temas \nrecorrentes nesses paTrões. Primeiro, toTos encapsulam \nconUecimento sobre quais classes concretas são usaTas \npelo sistema. SegunTo, ocultam o moTo como essas \nclasses são criaTas e montaTas. TuTo que o sistema \nsabe no geral sobre os objetos é que suas classes são \nTefiniTas por classes abstratas. Os paTrões Te criação \nsão classificaTos em Abstract Factory, BuilTer, Factory \nMetUoT, Prototype e Singleton.\nGAMMA, N. et al. Mesign Patterns: Nlements of Reusable Object-OrienteT \nSoftware. ReaTing, MA: ATTison-Pesley, 1994.(aTaptaTo)\nO paTrão Abstract Factory é usaTo quanTo \nA   o sistema Teve ser inTepenTente Ta maneira \ncomo seus proTutos são criaTos, relacionaTos e \nrepresentaTos.\nB   o algoritmo Te criação Te um objeto Teve ser \ninTepenTente Tas suas partes e Ta maneira como ele \né montaTo.\nC   Uouver uma única instância Te uma classe e esta for \nacessaTa a partir Te um ponto Te acesso conUeciTo.\nM   classes Telegam responsabiliTaTe a alguma Tas \nsubclasses, e Teseja-se localizar qual é a subclasse \nacessaTa.\nN   as \nclasses \nutilizaTas \npara \ninstanciação \nsão \nespecificaTas em tempo Te execução ou carregaTas \nTinamicamente.\nQUNSTÃO 21  \nO paraTigma Te programação orientaTo a objetos tem siTo \nlargamente utilizaTo no Tesenvolvimento Te sistemas.\nConsiTeranTo o conceito Te Uerança, avalie as afirma-\nções abaixo.\nC. \nHerança é uma proprieTaTe que facilita a \nimplementação Te reuso.\nCC. QuanTo uma subclasse é criaTa, essa UerTa toTas \nas características Ta superclasse, não poTenTo \npossuir proprieTaTes e métoTos próprios.\nCCC. Herança múltipla é uma proprieTaTe na qual uma \nsuperclasse possui Tiversas subclasses.\nCV. Nxtensão é uma Tas formas Te se implementar \nUerança.\nÉ correto apenas o que se afirma em\nA   C.\nB   CCC.\nC   C e CV.\nM   CC e CCC.\nN   CC e CV.\n*A25201112*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_ADS/q20.png",
-  "caminho_json": "/questoes/2011_ADS/q20.json",
-  "caminho_txt": "/questoes/2011_ADS/q20.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222678"
 }

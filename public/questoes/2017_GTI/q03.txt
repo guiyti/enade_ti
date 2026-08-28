@@ -1,69 +1,66 @@
-7
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 03
-O sistema Te tarifação Te energia elétrica funciona com base em trgs banTeiras.  Na banTeira verTe,  
-as conTições Te geração Te energia são favorAveis e a tarifa não sofre acréscimo.  Na banTeira amarela,  
-a tarifa sofre acréscimo Te ZΨ 0, 020 para caTa ŬtU consumiTo,  e na banTeira vermelUa,  conTição Te 
-maior custo Te geração Te energia,  a tarifa sofre acréscimo Te ZΨ 0, 035 para caTa ŬtU consumiTo.   ssim,  
-para saber o quanto se gasta com o consumo Te energia Te caTa aparelUo,  basta multiplicar o consumo 
-em ŬtU To aparelUo pela tarifa em questão.
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ.aneel. gov.brх.   cesso em:  17 ũul.  2017 (aTaptaTo).
-Na  tabela  a  seguir,   são  apresentaTas  a  potgncia  e  o  tempo  Te  uso  TiArio  Te  alguns  aparelUos 
-eletroeletrƀnicos usuais em resiTgncias.
- parelUo 
-Potgncia 
-(kP)
-Tempo Te uso 
-TiArio (U) 
-ŬtU 
-CarregaTor Te celular 
+QUESTÃO 03
+K sistema de tarifação de energia elétrica funciona com base em trgs bandeiras.  Ea bandeira verde,  
+as condições de geração de energia são favorAveis e a tarifa não sofre acréscimo.  Ea bandeira amarela,  
+a tarifa sofre acréscimo de ZΨ 0, 020 para cada Ŭth consumido,  e na bandeira vermelha,  condição de 
+maior custo de geração de energia,  a tarifa sofre acréscimo de ZΨ 0, 035 para cada Ŭth consumido.   ssim,  
+para saber o quanto se gasta com o consumo de energia de cada aparelho,  basta multiplicar o consumo 
+em Ŭth do aparelho pela tarifa em questão.
+Disponível em:  фhtp:ͬͬ
+ǁǁǁ.aneel. gov.brх.   cesso em:  17 ũul.  2017 (adaptado).
+Ea  tabela  a  seguir,   são  apresentadas  a  potgncia  e  o  tempo  de  uso  diArio  de  alguns  aparelhos 
+eletroeletrƀnicos usuais em residgncias.
+ parelho 
+Wotgncia 
+(kW)
+dempo de uso 
+diArio (h) 
+Ŭth 
+Iarregador de celular 
 0, 010 
 24
 0, 240 
-CUuveiro 3 500 t 
+Ihuveiro 3 500 t 
 3, 500 
 0, 5 
 1, 750 
-CUuveiro 5 500 t 
+Ihuveiro 5 500 t 
 5, 500 
 0, 5 
 2, 250 
->ampaTa Te >NM 
+>ampada de >ED 
 0, 008 
 5
 0, 040 
->ampaTa Ňuorescente 
+>ampada Ňuorescente 
 0, 015 
 5
 0, 075 
->ampaTa incanTescente 
+>ampada incandescente 
 0, 060 
 5
 0, 300 
-MoTem Te internet em stanT-by
+Modem de internet em stand-by
 0, 005 
 24
 0, 120 
-MoTem Te internet em uso 
+Modem de internet em uso 
 0, 012 
 8 
 0, 096 
-Misponível em:  фUtps:ͬͬ
-ǁǁǁ. eTucanToseubolso. blog. brх.   cesso em:  17 ũul.  2017 (aTaptaTo).
-ConsiTeranTo as informações To texto,  os TaTos apresentaTos na tabela,  uma tarifa Te ZΨ 0, 50 por ŬtU 
-em banTeira verTe e um mgs Te 30 Tias,  avalie as afrmações a seguir.
-/.   Nm banTeira amarela,  o valor mensal Ta tarifa Te energia elétrica para um cUuveiro Te 3 500 t 
-seria Te ZΨ 1, 05,  e Te ZΨ 1, 65,  para um cUuveiro Te 5 500 t.
-//.   Meixar um carregaTor Te celular e um moTem Te internet em stanT-by conectaTos na reTe Te 
-energia Turante 24 Uoras representa um gasto mensal Te ZΨ 5, 40 na tarifa Te energia elétrica em 
-banTeira verTe,  e Te ZΨ 5, 78,  em banTeira amarela.
-///.   Nm banTeira verTe,  o consumiTor gastaria mensalmente ZΨ 3, 90 a mais na tarifa Te energia elétrica 
-em relação a caTa lampaTa incanTescente usaTa no lugar Te uma lampaTa >NM.
+Disponível em:  фhtps:ͬͬ
+ǁǁǁ. educandoseubolso. blog. brх.   cesso em:  17 ũul.  2017 (adaptado).
+Ionsiderando as informações do texto,  os dados apresentados na tabela,  uma tarifa de ZΨ 0, 50 por Ŭth 
+em bandeira verde e um mgs de 30 dias,  avalie as afrmações a seguir.
+/.   Em bandeira amarela,  o valor mensal da tarifa de energia elétrica para um chuveiro de 3 500 t 
+seria de ZΨ 1, 05,  e de ZΨ 1, 65,  para um chuveiro de 5 500 t.
+//.   Deixar um carregador de celular e um modem de internet em stand-by conectados na rede de 
+energia durante 24 horas representa um gasto mensal de ZΨ 5, 40 na tarifa de energia elétrica em 
+bandeira verde,  e de ZΨ 5, 78,  em bandeira amarela.
+///.   Em bandeira verde,  o consumidor gastaria mensalmente ZΨ 3, 90 a mais na tarifa de energia elétrica 
+em relação a cada lampada incandescente usada no lugar de uma lampada >ED.
  correto o que se afrma em
 A //,  apenas.
 B ///,  apenas.
 C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-*R4320177*
+D / e ///,  apenas.
+E /,  // e ///.

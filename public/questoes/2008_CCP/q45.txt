@@ -1,96 +1,39 @@
-18
-COMPUTAÇÃO
-QUNSTÃO 44
-ConsiTere um banco Te TaTos relacional que contém
-as seguintes tabelas, em que o grifo representa a cUave
-primeira Ta tabela
-ProTutos (iTProTuto, Tescricao, valorUnitario)
-Nstoque (iTFilial, iTProTuto, quantiTaTe)
-A tabela ProTutos é populaTa com aproximaTamente
-10.000 registros, enquanto a tabela Nstoque é populaTa
-com aproximaTamente 100.000 registros. Para escrever
-uma consulta em SQL que Tetermine o valor total Tas
-mercaTorias em estoque Te uma filial cujo iTentificaTor é
-igual a 132, poTe-se usar uma Tas Tuas coTificações
-apresentaTas a seguir.
-Consulta 1
-SNLNCT 
-SUM(valorUnitario * quantiTaTe)
-FROM 
-Nstoque, ProTutos
-PHNRN 
-Nstoque.iTFilial = 132 ANM 
-ProTutos.iTProTuto = Nstoque.iTProTuto
-Consulta 2
-SNLNCT 
-SUM(valorUnitario * quantiTaTe)
-FROM 
-ProTutos, Nstoque
-PHNRN 
-Nstoque.iTFilial = 132 ANM 
-ProTutos.iTProTuto = Nstoque.iTProTuto
-A partir Tessas informações e consiTeranTo que a tabela
-Nstoque possua um ínTice sobre a coluna iTFilial,
-analise as seguintes asserções.
-O processamento Ta Consulta 1 tem melUor TesempenUo
-que o Ta Consulta 2
-porque
-a quantiTaTe Te registros processaTos na consulta 1 é, no
-pior caso, igual a 10.000, enquanto o pior caso na consulta
-2 terá (10.000)2 registros.
-Assinale a opção correta a respeito Tessas asserções.
-A
-As Tuas asserções são proposições verTaTeiras, e a
-segunTa é uma justificativa correta Ta primeira.
-B
-As Tuas asserções são proposições verTaTeiras, mas
-a segunTa não é justificativa correta Ta primeira.
-C
-A primeira asserção é uma proposição verTaTeira, e a
-segunTa, uma proposição falsa.
-M
-A primeira asserção é uma proposição falsa, e a
-segunTa, uma proposição verTaTeira.
-N
-Tanto a primeira quanto a segunTa asserções são
-proposições falsas.
-QUNSTÃO 45
-ConsiTere y = f(x) uma função contínua e não-negativa
-(f $ 0), TefiniTa em um intervalo [a, b], e R a região
-TelimitaTa pelo eixo x, o gráfico Te f e as retas x = a e
-x = b. ConsiTere S o sóliTo obtiTo pela rotação To conjunto
-R em torno To eixo Tas abscissas, conforme ilustram as
-figuras a seguir. O volume V To sóliTo S poTe ser obtiTo
-como resultaTo Ta integral 
+QUESTÃO 45
+Considere y = f(x) uma função contínua e não-negativa
+(f $ 0), definida em um intervalo [a, b], e R a região
+delimitada pelo eixo x, o gráfico de f e as retas x = a e
+x = b. Considere S o sólido obtido pela rotação do conjunto
+R em torno do eixo das abscissas, conforme ilustram as
+figuras a seguir. O volume V do sólido S pode ser obtido
+como resultado da integral 
 .
 Com base nessas informações, julgue os itens a seguir.
-C
-CaTa seção transversal To sóliTo S obtiTa quanTo este
-é interceptaTo em x = c por um plano paralelo ao plano
-yOz é um círculo centraTo no ponto (c, 0, 0) e Te raio
-meTinTo f(x) e, portanto, Te área igual a B(f(x))2.
-CC
-Se P é uma partição uniforme To intervalo [a, b], senTo
+I
+Cada seção transversal do sólido S obtida quando este
+é interceptado em x = c por um plano paralelo ao plano
+yOz é um círculo centrado no ponto (c, 0, 0) e de raio
+medindo f(x) e, portanto, de área igual a B(f(x))2.
+II
+Se P é uma partição uniforme do intervalo [a, b], sendo
 P = {a = x0 < x1 < x2 < ... 
 < xn = b}, tal que )x = xi !x i-1,
 então 
  para ci 0 [ xi, xi ! 1], 1< i < n.
-CCC É igual a 2B o volume To sóliTo geraTo pela rotação em
-torno To eixo x Ta região To plano TelimitaTa pelo
-eixo x, o gráfico Te 
+III É igual a 2B o volume do sólido gerado pela rotação em
+torno do eixo x da região do plano delimitada pelo
+eixo x, o gráfico de 
  e as retas x = 0 e x = 2.
 Assinale a opção correta.
 A
-Apenas o item C está certo.
+Apenas o item I está certo.
 B
-Apenas o item CCC está certo.
+Apenas o item III está certo.
 C
-Apenas os itens C e CC estão certos.
-M
-Apenas os itens CC e CCC estão certos.
-N
-ToTos os itens estão certos.
-RASCUNHO
+Apenas os itens I e II estão certos.
+D
+Apenas os itens II e III estão certos.
+E
+Todos os itens estão certos.
 y
 a
 b

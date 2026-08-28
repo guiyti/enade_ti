@@ -1,19 +1,14 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-12
-QUNSTÃO 17
-A tabela a seguir apresenta a relação Te mintermos e maxtermos para três variáveis.
-Analise o circuito Te quatro variáveis a seguir.
-ConsiTeranTo esse circuito, as funções f e g são, respectivamente,
+QUESTÃO 17
+A tabela a seguir apresenta a relação de mintermos e maxtermos para três variáveis.
+Analise o circuito de quatro variáveis a seguir.
+Considerando esse circuito, as funções f e g são, respectivamente,
 A    
 ∑m(0,1,2,3,6,7,8,9) e ∑m(2,3,6,7,10,14).
 B    
 ∑m(4,5,10,11,12,13,14,15) e ∑m(0,1,4,5,8,9,11,12,13,15).
 C    
 ∏M(0,1,2,3,6,7,8,9) e ∏M(0,1,4,5,8,9,11,12,13,15).
-M    
+D    
 ∏M(4,5,10,11,12,13,14,15) e ∑m(2,3,6,7,10,14).
-N    
+E    
 ∏M(4,5,10,11,12,13,14,15) e ∏M(2,3,6,7,10,14).
-*A13201112*

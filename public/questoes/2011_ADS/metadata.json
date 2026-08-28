@@ -8,6 +8,17 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2011_ADS",
+    "page_width": 580.5,
+    "page_height": 779.2,
+    "header_cutoff_y": 64.7,
+    "footer_cutoff_y": 728.2,
+    "min_marker_y": 66.7,
+    "margin_x": 25.0,
+    "detected_headers": 46,
+    "detected_footers": 66
+  },
   "questoes": [
     {
       "id_questao": "q01",
@@ -17,8 +28,8 @@
         2
       ],
       "largura": 2241,
-      "altura": 1301,
-      "confianca": 0.98,
+      "altura": 1344,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -37,8 +48,8 @@
         2
       ],
       "largura": 2241,
-      "altura": 1461,
-      "confianca": 0.98,
+      "altura": 1498,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -57,8 +68,8 @@
         3
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -77,8 +88,8 @@
         3
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -97,8 +108,8 @@
         4
       ],
       "largura": 2241,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -117,8 +128,8 @@
         5
       ],
       "largura": 1123,
-      "altura": 2160,
-      "confianca": 0.98,
+      "altura": 2203,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -137,8 +148,8 @@
         5
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -157,8 +168,8 @@
         6
       ],
       "largura": 2241,
-      "altura": 1966,
-      "confianca": 0.98,
+      "altura": 2009,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -177,8 +188,8 @@
         7
       ],
       "largura": 2241,
-      "altura": 1494,
-      "confianca": 0.98,
+      "altura": 1537,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -196,9 +207,9 @@
       "paginas": [
         8
       ],
-      "largura": 2241,
-      "altura": 1509,
-      "confianca": 0.98,
+      "largura": 1123,
+      "altura": 4332,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -217,8 +228,8 @@
         9
       ],
       "largura": 1123,
-      "altura": 1359,
-      "confianca": 0.98,
+      "altura": 1402,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -237,8 +248,8 @@
         9
       ],
       "largura": 1123,
-      "altura": 1402,
-      "confianca": 0.98,
+      "altura": 1439,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -257,8 +268,8 @@
         9
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -277,8 +288,8 @@
         10
       ],
       "largura": 1123,
-      "altura": 1598,
-      "confianca": 0.98,
+      "altura": 1641,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -297,8 +308,8 @@
         10
       ],
       "largura": 1123,
-      "altura": 1163,
-      "confianca": 0.98,
+      "altura": 1200,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -317,8 +328,8 @@
         10
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -337,8 +348,8 @@
         11
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -357,8 +368,8 @@
         11
       ],
       "largura": 1123,
-      "altura": 1925,
-      "confianca": 0.98,
+      "altura": 1968,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -377,8 +388,8 @@
         11
       ],
       "largura": 1123,
-      "altura": 837,
-      "confianca": 0.98,
+      "altura": 874,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -397,8 +408,8 @@
         12
       ],
       "largura": 1123,
-      "altura": 1915,
-      "confianca": 0.98,
+      "altura": 1958,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -417,8 +428,8 @@
         12
       ],
       "largura": 1123,
-      "altura": 847,
-      "confianca": 0.98,
+      "altura": 884,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -437,8 +448,8 @@
         12
       ],
       "largura": 1123,
-      "altura": 1602,
-      "confianca": 0.98,
+      "altura": 1645,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software",
@@ -458,8 +469,8 @@
         12
       ],
       "largura": 1123,
-      "altura": 1160,
-      "confianca": 0.98,
+      "altura": 1197,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Programação e POO"
@@ -478,8 +489,8 @@
         13
       ],
       "largura": 2241,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -498,8 +509,8 @@
         14
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -518,8 +529,8 @@
         14
       ],
       "largura": 1123,
-      "altura": 1776,
-      "confianca": 0.98,
+      "altura": 1819,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -538,8 +549,8 @@
         14
       ],
       "largura": 1123,
-      "altura": 986,
-      "confianca": 0.98,
+      "altura": 1023,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -558,8 +569,8 @@
         15
       ],
       "largura": 1123,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -578,8 +589,8 @@
         15
       ],
       "largura": 1123,
-      "altura": 1335,
-      "confianca": 0.98,
+      "altura": 1378,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -598,11 +609,11 @@
         15
       ],
       "largura": 1123,
-      "altura": 1427,
-      "confianca": 0.98,
+      "altura": 1464,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura",
+        "Sistemas Operacionais",
         "Engenharia de Software"
       ],
       "anomalias": [],
@@ -619,8 +630,8 @@
         16
       ],
       "largura": 1123,
-      "altura": 1521,
-      "confianca": 0.98,
+      "altura": 1564,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -639,8 +650,8 @@
         16
       ],
       "largura": 1123,
-      "altura": 1240,
-      "confianca": 0.98,
+      "altura": 1277,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -659,8 +670,8 @@
         16
       ],
       "largura": 1123,
-      "altura": 1787,
-      "confianca": 0.98,
+      "altura": 1830,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -679,8 +690,8 @@
         16
       ],
       "largura": 1123,
-      "altura": 975,
-      "confianca": 0.98,
+      "altura": 1012,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -699,8 +710,8 @@
         17
       ],
       "largura": 2241,
-      "altura": 2715,
-      "confianca": 0.98,
+      "altura": 2795,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -719,8 +730,8 @@
         18
       ],
       "largura": 1123,
-      "altura": 2018,
-      "confianca": 0.98,
+      "altura": 2061,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -739,8 +750,8 @@
         18
       ],
       "largura": 1123,
-      "altura": 2011,
-      "confianca": 0.98,
+      "altura": 2054,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Programação e POO"
@@ -759,8 +770,8 @@
         19
       ],
       "largura": 2241,
-      "altura": 1486,
-      "confianca": 0.98,
+      "altura": 1529,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -779,8 +790,8 @@
         20
       ],
       "largura": 2241,
-      "altura": 1492,
-      "confianca": 0.98,
+      "altura": 1535,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -799,8 +810,8 @@
         21
       ],
       "largura": 2241,
-      "altura": 1491,
-      "confianca": 0.98,
+      "altura": 1534,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"

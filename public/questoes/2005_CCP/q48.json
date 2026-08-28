@@ -5,19 +5,48 @@
   "paginas": [
     18
   ],
-  "largura": 1155,
-  "altura": 800,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 259.7955627441406,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n17\nQUNSTÃO 48\nConsiTeranTo o Tiagrama Te Hasse apresentaTo acima,\nassinale a opção que apresenta uma lista orTenaTa, Ta\nesquerTa para a Tireita, que preserva a orTem To Tiagrama.\nA Marcos, José Roberto, Nmerson, RonalTo, ATriano\nB Nmerson, Marcos, RonalTo, ATriano, José Roberto\nC ATriano, RonalTo, José Roberto, Marcos, Nmerson\nM RonalTo, Marcos, Nmerson, ATriano, José Roberto\nN Marcos, ATriano, Nmerson, José Roberto, RonalTo\nQUNSTÃO 49\nPara o Tesenvolvimento Te um projeto,\nTeterminaTa organização precisa Tefinir Tois grupos Te\ntrabalUo, um com três membros e outro com quatro\nmembros. Para o grupo Te três elementos, o primeiro\ninTivíTuo nomeaTo será o presiTente, o segunTo, o\nrelator, e o terceiro será o auxiliar, enquanto que, para\no Te quatro elementos, a orTem Te nomeação não é\nrelevante. Nssa organização conta com um quaTro Te\nquatorze funcionários, toTos igualmente aptos a compor\nqualquer um Tos grupos Te trabalUo, em qualquer\nfunção, senTo que caTa um Teles integrará, no máximo,\num Tesses grupos. \nNessa situação, representanTo por C(m, p) a combinação Te\nm elementos p a p e por A(m, p) o arranjo Te m elementos\np a p, conclui-se que a quantiTaTe Te maneiras Tistintas que a\norganização citaTa Tispõe para compor os seus Tois grupos Te\ntrabalUo é igual a \nA A(14, 4) × A(14, 3).\nB A(14, 4) × C(14, 3).\nC C(14, 4) × A(10, 3).\nM C(10, 3) × A(14, 4).\nN C(14, 4) × C(10, 3).\nQUNSTÃO 50\nAcerca Te paraTigmas Te linguagens Te programação, julgue\nos itens a seguir.\nC\nLinguagens proceTurais facilitam a legibiliTaTe e a\nTocumentação To software.\nCC\nLinguagens Teclarativas facilitam o Tesenvolvimento Te\nsistemas Te apoio à Tecisão.\nCCC Linguagens funcionais facilitam a Tefinição Te requisitos\ne a Tecomposição funcional.\nCV Linguagens estruturaTas promovem o forte acoplamento\nentre TaTos e funções.\nV\nLinguagens orientaTas a objeto permitem reTuzir custos Te\nTesenvolvimento e manutenção.\nNstão certos apenas os itens\nA C e CC.\nM CCC e V.\nB C e CV.\nN CV e V.\nC CC e CCC.\nQUNSTÃO 51\nNo famoso jogo Ta Torre Te Hanoi, é TaTa uma torre\ncom Tiscos Te raios Tiferentes, empilUaTos por tamanUo\nTecrescente em um Tos três pinos TaTos, como ilustra a figura\nacima. O objetivo To jogo é transportar-se toTa a torre para\num Tos outros pinos, Te acorTo com as seguintes regras:\napenas um Tisco poTe ser TeslocaTo por vez, e, em toTo\ninstante, toTos os Tiscos precisam estar em um Tos três pinos;\nalém Tisso, em nenUum momento, um Tisco poTe ser colocaTo\nsobre um Tisco Te raio menor que o Tele; é claro que o\nterceiro pino poTe ser usaTo como local temporário para os\nTiscos.\nCmaginanTo que se tenUa uma situação em que a torre inicial tenUa\num conjunto Te 5 Tiscos, qual o número mínimo Te movimentações\nTe Tiscos que Teverão ser realizaTas para se atingir o objetivo To\njogo?\nA 25\nB 28\nC 31\nM 34\nN 38\nQUNSTÃO 52\nO métoTo Te alocação Te espaço Te Tisco utilizaTo para\narmazenamento Te informações em um sistema Te arquivos\nTetermina o TesempenUo Tesse sistema. Com relação a esse assunto,\njulgue os itens seguintes.\nC\nA alocação contígua é um métoTo aTequaTo para sistemas em\nque inserções e remoções Te arquivos são freqüentes.\nCC\nNa alocação inTexaTa, o tamanUo máximo Te um arquivo\nTepenTe To número Te bits utilizaTos para representar um ínTice\ne To tamanUo Tos blocos Te ínTices.\nCCC Na alocação encaTeaTa, o tamanUo máximo Te um arquivo\nTepenTe To tamanUo Tos blocos Te TaTos.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.",
+  "caminho_png": "/questoes/2005_CCP/q48.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q48.txt",
+  "largura": 1155,
+  "altura": 947,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 48\nConsiderando o diagrama de Hasse apresentado acima,\nassinale a opção que apresenta uma lista ordenada, da\nesquerda para a direita, que preserva a ordem do diagrama.\nA Marcos, José Roberto, Emerson, Ronaldo, Adriano\nB Emerson, Marcos, Ronaldo, Adriano, José Roberto\nC Adriano, Ronaldo, José Roberto, Marcos, Emerson\nD Ronaldo, Marcos, Emerson, Adriano, José Roberto\nE Marcos, Adriano, Emerson, José Roberto, Ronaldo",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2005_CCP/figuras/q48_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2005_CCP/q48.png",
-  "caminho_json": "/questoes/2005_CCP/q48.json",
-  "caminho_txt": "/questoes/2005_CCP/q48.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 48,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 39.84000015258789,
+      "y": 48.555572509765625,
+      "x1": 86.26800537109375,
+      "y1": 54.55557632446289,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 48"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297502"
 }

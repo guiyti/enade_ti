@@ -9,46 +9,52 @@ from ..config import config
 logger = get_logger(__name__)
 
 
-def detect_page_columns(page: fitz.Page) -> Tuple[int, float]:
+def detect_page_columns(
+    page: fitz.Page,
+    header_cutoff_y: float = 0.0,
+    footer_cutoff_y: float = 0.0
+) -> Tuple[int, float]:
     """
     Detects if a page is structured in 1 column or 2 columns,
     and returns (num_colunas, coluna_divisoria_x).
+    Uses adaptive header/footer boundaries and gutter separation analysis.
     """
     w = page.rect.width
     h = page.rect.height
     mid = w / 2.0
     
+    y_top = header_cutoff_y if header_cutoff_y > 0 else 55.0
+    y_bot = footer_cutoff_y if footer_cutoff_y > 0 else (h - 45.0)
+    
     blocks = page.get_text("blocks")
-    # Filter out header (top 55pt) and footer (bottom 45pt), and short noise (< 15 chars)
+    # Filter out header and footer, and short noise (< 8 chars)
     content_blocks = [
         b for b in blocks 
-        if b[1] >= 55 and b[3] <= h - 45 and len(b[4].strip()) >= 15
+        if b[1] >= y_top and b[3] <= y_bot and len(b[4].strip()) >= 8
     ]
     
     if not content_blocks:
         return 1, mid
         
-    # Check if there are full-width paragraphs (spanning across more than 55% of page width)
-    spanning_blocks = [
-        b for b in content_blocks
-        if (b[2] - b[0]) > 0.55 * w and len(b[4].strip()) >= 40
-    ]
-    if len(spanning_blocks) >= 2:
-        return 1, mid
+    best_div = mid
+    max_sep = 0
     
-    # Left and right column content blocks
-    left_blocks = [
-        b for b in content_blocks 
-        if b[2] <= mid + 20 and b[0] < mid - 40 and len(b[4].strip()) >= 20
-    ]
-    right_blocks = [
-        b for b in content_blocks 
-        if b[0] >= mid - 20 and b[2] > mid + 40 and len(b[4].strip()) >= 20
-    ]
-    
-    # If both left and right sides have substantial content blocks
-    if len(left_blocks) >= 2 and len(right_blocks) >= 2:
-        return 2, mid
+    # Test candidate vertical dividing lines between 38% and 62% width
+    for div_cand in [w * ratio for ratio in [0.42, 0.45, 0.48, 0.50, 0.52, 0.55, 0.58]]:
+        left = [b for b in content_blocks if b[2] <= div_cand + 15]
+        right = [b for b in content_blocks if b[0] >= div_cand - 15]
+        spanning = [
+            b for b in content_blocks 
+            if b[0] < div_cand - 30 and b[2] > div_cand + 30 and (b[2] - b[0]) > 0.60 * w
+        ]
+        
+        sep_score = len(left) + len(right) - (len(spanning) * 3)
+        if len(left) >= 2 and len(right) >= 2 and sep_score > max_sep:
+            max_sep = sep_score
+            best_div = div_cand
+            
+    if max_sep > 0:
+        return 2, best_div
     
     return 1, mid
 
@@ -59,6 +65,12 @@ def convert_pages_to_png(exam: Exam) -> List[PageData]:
     web_paginas_dir = config.QUESTOES_DIR / exam.id_prova / "paginas"
     output_dir.mkdir(parents=True, exist_ok=True)
     web_paginas_dir.mkdir(parents=True, exist_ok=True)
+    
+    hdr_cut = 55.0
+    ftr_cut = 0.0
+    if exam.layout_profile:
+        hdr_cut = exam.layout_profile.get("header_cutoff_y", 55.0)
+        ftr_cut = exam.layout_profile.get("footer_cutoff_y", 0.0)
     
     doc = fitz.open(pdf_path)
     pages_data = []
@@ -78,7 +90,7 @@ def convert_pages_to_png(exam: Exam) -> List[PageData]:
         width = pix.width
         height = pix.height
         
-        num_cols, col_div = detect_page_columns(page)
+        num_cols, col_div = detect_page_columns(page, header_cutoff_y=hdr_cut, footer_cutoff_y=ftr_cut)
         
         page_data = PageData(
             numero=page_num + 1,

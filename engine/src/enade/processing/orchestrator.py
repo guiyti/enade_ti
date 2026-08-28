@@ -1,4 +1,5 @@
 import json
+import fitz
 from pathlib import Path
 from typing import List
 
@@ -7,6 +8,7 @@ from ..utils.logging import get_logger
 from ..config import config
 
 from .pdf_discovery import discover_pdfs, create_exam_from_pdf, PDFInfo
+from .layout_profiler import profile_exam_layout
 from .page_converter import convert_pages_to_png
 from .structural_extractor import extract_structural_data
 from .ocr_extractor import run_ocr_if_needed, merge_markers
@@ -16,9 +18,6 @@ from .validator import validate_exam
 from .topic_classifier import classify_question_topics
 
 logger = get_logger(__name__)
-
-
-
 
 
 def save_exam_metadata(exam: Exam) -> None:
@@ -36,6 +35,7 @@ def save_exam_metadata(exam: Exam) -> None:
         "questoes_extraidas": exam.questoes_extraidas,
         "score_geral": exam.score_geral,
         "tipo_pdf": exam.tipo_pdf.value,
+        "layout_profile": exam.layout_profile,
         "questoes": [
             {
                 "id_questao": q.id_questao,
@@ -80,6 +80,7 @@ def save_consolidated_catalog(exams: List[Exam]) -> None:
             "questoes_extraidas": exam.questoes_extraidas,
             "score_geral": exam.score_geral,
             "tipo_pdf": exam.tipo_pdf.value,
+            "layout_profile": exam.layout_profile,
             "questoes": []
         }
         for q in exam.questoes:
@@ -117,8 +118,6 @@ def save_consolidated_catalog(exams: List[Exam]) -> None:
     with open(root_public_data / "exams.json", "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
     logger.info(f"Catálogo mestre sincronizado com {root_public_data / 'exams.json'}")
-    
-
 
 
 def process_exam(pdf_info: PDFInfo) -> Exam:
@@ -126,10 +125,17 @@ def process_exam(pdf_info: PDFInfo) -> Exam:
     
     exam = create_exam_from_pdf(pdf_info)
     
-    # 1. Convert pages to PNG
+    # 0. Global Exam Layout Profiling (Header / Footer geometric bounds discovery)
+    pdf_path = config.PROVAS_DIR / exam.arquivo
+    doc = fitz.open(pdf_path)
+    profile = profile_exam_layout(doc, exam.id_prova)
+    exam.layout_profile = profile.to_dict()
+    doc.close()
+    
+    # 1. Convert pages to PNG (300 DPI) using layout boundaries for column segmentation
     convert_pages_to_png(exam)
     
-    # 2. Extract structural data (blocks, markers, contexts)
+    # 2. Extract structural data (blocks, markers, contexts) filtered by header/footer cuts
     exam, structural_markers, contexts = extract_structural_data(exam)
     
     # 3. Complementary OCR if needed
@@ -139,7 +145,7 @@ def process_exam(pdf_info: PDFInfo) -> Exam:
     all_markers = merge_markers(structural_markers, ocr_markers)
     exam.questoes_detectadas = len(all_markers)
     
-    # 5. Build questions with precise multi-column / multi-page segments
+    # 5. Build questions with precise multi-column / multi-page segments within layout slots
     exam.questoes = build_questions_from_markers(exam, all_markers, contexts)
     
     # 6. Sequence anomalies check

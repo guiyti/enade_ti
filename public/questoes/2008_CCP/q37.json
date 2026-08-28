@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 300.59999999999997,
+      "y0": 74.5,
+      "x1": 570.1999999999999,
+      "y1": 289.6466979980469,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q37.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q37.txt",
   "largura": 1154,
-  "altura": 925,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 927,
+  "confianca": 1.0,
+  "texto_completo": "junto\ndware\ne as\na na\não de\nCom\nintra-\nitivos\nde do\no das\nstino.\nadota\ntivos.\nentes\nta os\nas.\nso de\nd\nd\nQUESTÃO 37\nConsidere que a correlação linear entre o\nnúmero de erros de código de programação (Y) e o\nrespectivo tamanho de um programa (X), em\nnúmero de linhas de código, seja igual a 0,7.\nA variável aleatória Y segue uma distribuição\nNormal com média e desvio padrão iguais a 0,1 erro\nde código, enquanto que a variável X segue uma\ndistribuição Normal com média 15 e desvio padrão\n5 linhas de código. A reta de regressão linear é uma\nesperança condicional na forma E(Y|X = x) =\nax – 0,11, em que x > 10 é um dado valor para o\ntamanho do programa e a é o coeficiente angular da\nreta de regressão. Nessa situação, para um\nprograma cujo tamanho é x = 20, pela reta de\nregressão linear, qual é o número esperado de\nerros de código de programação?\nA 0,10\nB 0,12\nC 0,17\nD 0,20\nE 0,22",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Redes de Computadores"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 37,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 336.23699951171875,
+      "y": 78.52682495117188,
+      "x1": 559.1885986328125,
+      "y1": 256.3306579589844,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 37\nConsidere que a correlação linear entre o\nnúmero de erros de código de programação (Y) e o\nrespectivo tamanho de um programa (X), em\nnúmero de linhas de código, seja igual a 0,7.\nA variável aleatória Y segue uma distribuição\nNormal com média e desvio padrão iguais a 0,1 erro\nde código, enquanto que a variável X segue uma\ndistribuição Normal com média 15 e desvio padrão\n5 linhas de código. A reta de regressão linear é uma\nesperança condicional na forma E(Y|X = x) =\nax – 0,11, em que x > 10 é um dado valor para o\ntamanho do programa e a é o coeficiente angular da\nreta de regressão. Nessa situação, para um\nprograma cujo tamanho é x = 20, pela reta de\nregressão linear, qual é o número esperado de\nerros de código de programação?"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "14\nCOMPUTAÇÃO\nQUNSTÃO 35\nUma arquitetura Te reTe é usualmente organizaTa em um conjunto\nTe camaTas e protocolos com o propósito Te estruturar o UarTware\ne o software Te comunicação. Como exemplos, têm-se as\narquiteturas OSC e TCP/CP. A arquitetura TCP/CP, aTotaTa na\nCnternet, é um exemplo concreto Te tecnologia Te interconexão Te\nreTes e sistemas Ueterogêneos usaTa em escala global. Com\nrelação à arquitetura TCP/CP, assinale a opção correta.\nA\nA camaTa Te interface Te reTe, também TenominaTa intra-\nreTe, aTota o conceito Te portas para iTentificar os Tispositivos\nTa reTe física. CaTa porta é associaTa à interface Te reTe To\nTispositivo e os quaTros enviaTos transportam o número Tas\nportas para iTentificar os Tispositivos Te origem e Te Testino.\nB\nA camaTa Te reTe, também TenominaTa inter-reTe, aTota\nenTereços CP para iTentificar as reTes e seus Tispositivos.\nPara interconectar reTes físicas que aTotam Tiferentes\ntamanUos máximos Te quaTros, a camaTa Te reTe aTota os\nconceitos Te fragmentação e remontagem Te Tatagramas.\nC\nA camaTa Te transporte é responsável pelo processo Te\nroteamento Te Tatagramas. Nesse processo, a camaTa Te\ntransporte Teve selecionar os caminUos ou rotas que os\nTatagramas Tevem seguir entre os Tispositivos Te origem e\nTe Testino, passanTo assim através Tas várias reTes\ninterconectaTas.\nM\nA camaTa Te aplicação é composta por um conjunto Te\nprotocolos, que são implementaTos pelos processos\nexecutaTos nos Tispositivos. CaTa protocolo Te aplicação\nTeve especificar a interface gráfica ou textual ofereciTa pelo\nrespectivo processo para permitir a interação com os usuários\nTa aplicação.\nN\nA arquitetura TCP/CP é uma implementação concreta Ta\narquitetura conceitual OSC. Portanto, a arquitetura TCP/CP é\ntambém estruturaTa em 7 camaTas, que são as camaTas:\nfísica, Te enlace, Te reTe, Te transporte, Te sessão, Te\napresentação e Te aplicação.\nQUNSTÃO 36\nReTes locais sem fio que utilizam tecnologia CNNN 802.11,\ncomumente referenciaTa como Pi-Fi, estão se tornanTo caTa vez\nmais populares. Julgue os itens abaixo, relativos a essa tecnologia.\nC\nComputaTores em reTes CNNN 802.11 poTem-se comunicar por\nTois moTos básicos: usanTo uma infra-estrutura coorTenaTa\npor pontos Te acesso à reTe (access points — AP), ou no moTo\naT Uoc, em que caTa computaTor troca informações\nTiretamente com os Temais.\nCC\nPara poTer transmitir por meio Te um ponto Te acesso, uma\ninterface Te reTe Teve realizar um proceTimento Te\nassociação, que inclui o conUecimento Te um campo\niTentificaTor (service set iTentifier — SSC).\nCCC Um mecanismo Te Tetecção Te colisão Turante a transmissão\ninTica a necessiTaTe Te retransmissão e evita o envio Te\nmensagens Te confirmação.\nCV Um mecanismo Te requisição para transmissão (request to\nsenT — RTS) e Te liberação para transmissão (clear to senT —\nCTS) poTe ser usaTo para evitar colisões.\nV O protocolo PNP (wireT equivalent privacy) impeTe que\ninterfaces não-autorizaTas recebam sinais propagaTos pelo\nmeio.\nNstão certos apenas os itens\nA C, CC e CV.\nB C, CCC e V.\nC C, CV e V.\nM CC, CCC e CV.\nN CC, CCC e V.\nQUNSTÃO 37\nConsiTere que a correlação linear entre o\nnúmero Te erros Te cóTigo Te programação (Y) e o\nrespectivo tamanUo Te um programa (X), em\nnúmero Te linUas Te cóTigo, seja igual a 0,7.\nA variável aleatória Y segue uma Tistribuição\nNormal com méTia e Tesvio paTrão iguais a 0,1 erro\nTe cóTigo, enquanto que a variável X segue uma\nTistribuição Normal com méTia 15 e Tesvio paTrão\n5 linUas Te cóTigo. A reta Te regressão linear é uma\nesperança conTicional na forma N(Y|X = x) =\nax – 0,11, em que x > 10 é um TaTo valor para o\ntamanUo To programa e a é o coeficiente angular Ta\nreta Te regressão. Nessa situação, para um\nprograma cujo tamanUo é x = 20, pela reta Te\nregressão linear, qual é o número esperaTo Te\nerros Te cóTigo Te programação?\nA 0,10\nB 0,12\nC 0,17\nM 0,20\nN 0,22\nQUNSTÃO 38\nNo circuito acima, que possui cinco entraTas — A,\nB, C, M e N — e uma saíTa f (A, B, C, M, N), qual\nopção apresenta uma expressão lógica equivalente\nà função f (A, B, C, M, N)?\nA\nB\nC\nM\nN\nRASCUNHO\nA\nB\nC\nM\nN\nf A B C M N\n( , ,\n,\n,\n)",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q37.png",
-  "caminho_json": "/questoes/2008_CCP/q37.json",
-  "caminho_txt": "/questoes/2008_CCP/q37.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395061"
 }

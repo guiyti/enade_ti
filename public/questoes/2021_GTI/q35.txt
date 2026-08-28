@@ -1,27 +1,23 @@
-39
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 35	
-Um auTitor Te TC Teve ter um forte entenTimento Tas técnicas Te controle interno para cobrir muitas 
-Tas tecnologias e processos presentes na empresa, e para tal Teve usar os controles gerais Te TC que 
-cobrem toTos os aspectos Tas operações Te TC, como ativiTaTes Te processamento, acesso a programas 
-e TaTos, Tesenvolvimento e alterações Te programas, controles Te reTe e muitos outros. Nstes controles 
-estão organizaTos em uma Uierarquia TiviTiTa em três grupos Te TC: Controles Gerais Te Governança; 
-Controles Gerais Te Gerenciamento; e Controles Gerais Te Ambiente Técnico.
-MONLLNR, R. CT auTit, control, anT security. New Jersey: 
-JoUn Piley & Sons Cnc., 2010 (aTaptaTo).
-A respeito Tos controles gerais Te TC, avalie as afirmações a seguir.
-C.	 Fazem parte To grupo Te Governança Te TC os controles que envolvem a garantia Te princípios, 
-políticas e processos eficazes Te gerenciamento e segurança.
-CC.	 Fazem parte To grupo Te Gerenciamento Te TC os controles que cobrem áreas como Tesenvolvimento 
-Te sistemas, aquisição Te software, Tocumentação e proceTimentos Te controle.
-CCC.	 Fazem parte To grupo Te Ambiente Técnico Te TC os controles que permitem uma compreensão 
-Ta organização, seus proceTimentos Te controle estabeleciTos e os Teveres e responsabiliTaTes 
-especializaTos Te qualquer operação.
+QUESTÃO 35	
+Um auditor de TI deve ter um forte entendimento das técnicas de controle interno para cobrir muitas 
+das tecnologias e processos presentes na empresa, e para tal deve usar os controles gerais de TI que 
+cobrem todos os aspectos das operações de TI, como atividades de processamento, acesso a programas 
+e dados, desenvolvimento e alterações de programas, controles de rede e muitos outros. Estes controles 
+estão organizados em uma hierarquia dividida em três grupos de TI: Controles Gerais de Governança; 
+Controles Gerais de Gerenciamento; e Controles Gerais de Ambiente Técnico.
+MOELLER, R. IT audit, control, and security. New Jersey: 
+John Wiley & Sons Inc., 2010 (adaptado).
+A respeito dos controles gerais de TI, avalie as afirmações a seguir.
+I.	 Fazem parte do grupo de Governança de TI os controles que envolvem a garantia de princípios, 
+políticas e processos eficazes de gerenciamento e segurança.
+II.	 Fazem parte do grupo de Gerenciamento de TI os controles que cobrem áreas como desenvolvimento 
+de sistemas, aquisição de software, documentação e procedimentos de controle.
+III.	 Fazem parte do grupo de Ambiente Técnico de TI os controles que permitem uma compreensão 
+da organização, seus procedimentos de controle estabelecidos e os deveres e responsabilidades 
+especializados de qualquer operação.
 É correto o que se afirma em
-A	 C, apenas.
-B	 CCC, apenas.
-C	 C e CC, apenas.
-M	 CC e CCC, apenas.
-N	 C, CC e CCC.
-Área livre
-*R29202139*
+A	 I, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 II e III, apenas.
+E	 I, II e III.

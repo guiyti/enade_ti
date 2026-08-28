@@ -1,46 +1,43 @@
-20
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 11	
-Uma equipe Te cientistas Ta computação Te uma TeterminaTa empresa Te animação foi TesignaTa 
-para Tesenvolver um sistema capaz Te varrer a web no intuito Te Tetectar sites que possam estar 
-usanTo imagens Te seus personagens Te animação sem o TeviTo consentimento. Portanto, o sistema 
-Teverá receber imagens como entraTa, classificá-las entre imagens Ta empresa e imagens não 
-proTuziTas pela empresa.
-A figura abaixo esboça uma arquitetura Te reTe neural profunTa e o processo Te treinamento que os 
-cientistas pretenTem usar.
-CHOLLNT, F. Meep Learning witU PytUon. New York: Manning Publications, 2017 (aTaptaTo).
-Após uma tentativa, notaram-se Tuas TificulTaTes: 1) o tempo Te treinamento Ta reTe estava muito 
-longo e 2) a acurácia Ta reTe treinaTa não estava no patamar aceito pela empresa.
-Miante Teste contexto, avalie as afirmações a seguir.
-C.	 Aumentar o número Te camaTas é uma alternativa que poTe levar a uma melUora na acurácia, 
-além Te Timinuir o tempo Te treinamento Ta reTe.
-CC.	 Fazer uso Te reTes convolucionais é uma alternativa que poTe levar a uma melUora na acurácia, 
-no entanto, poTe exigir uso Te máquinas com maior poTer Te processamento.
-CCC.	 Aumentar o número Te uniTaTes Te processamento (neurônios) nas camaTas poTe levar a uma 
-piora na acurácia, além Te Timinuir o tempo Te treinamento Ta reTe.
-CV.	 Aumentar o número Te amostras Te treinamento é uma alternativa que poTe levar a uma melUora 
-na acurácia, apesar Te aumentar o tempo Te treinamento Ta reTe.
-V.	 Fazer uso Te reTes recorrentes é uma alternativa que poTe levar a uma melUora na acurácia, no 
-entanto, poTe exigir uso Te máquinas com maior poTer Te processamento.
+QUESTÃO 11	
+Uma equipe de cientistas da computação de uma determinada empresa de animação foi designada 
+para desenvolver um sistema capaz de varrer a web no intuito de detectar sites que possam estar 
+usando imagens de seus personagens de animação sem o devido consentimento. Portanto, o sistema 
+deverá receber imagens como entrada, classificá-las entre imagens da empresa e imagens não 
+produzidas pela empresa.
+A figura abaixo esboça uma arquitetura de rede neural profunda e o processo de treinamento que os 
+cientistas pretendem usar.
+CHOLLET, F. Deep Learning with Python. New York: Manning Publications, 2017 (adaptado).
+Após uma tentativa, notaram-se duas dificuldades: 1) o tempo de treinamento da rede estava muito 
+longo e 2) a acurácia da rede treinada não estava no patamar aceito pela empresa.
+Diante deste contexto, avalie as afirmações a seguir.
+I.	 Aumentar o número de camadas é uma alternativa que pode levar a uma melhora na acurácia, 
+além de diminuir o tempo de treinamento da rede.
+II.	 Fazer uso de redes convolucionais é uma alternativa que pode levar a uma melhora na acurácia, 
+no entanto, pode exigir uso de máquinas com maior poder de processamento.
+III.	 Aumentar o número de unidades de processamento (neurônios) nas camadas pode levar a uma 
+piora na acurácia, além de diminuir o tempo de treinamento da rede.
+IV.	 Aumentar o número de amostras de treinamento é uma alternativa que pode levar a uma melhora 
+na acurácia, apesar de aumentar o tempo de treinamento da rede.
+V.	 Fazer uso de redes recorrentes é uma alternativa que pode levar a uma melhora na acurácia, no 
+entanto, pode exigir uso de máquinas com maior poder de processamento.
 É correto apenas o que se afirma em
-A	 C e CV. 
-B	 C e V. 
-C	 CC e CCC. 
-M	 CC e CV. 
-N	 CCC e V.
-NntraTa (X)
+A	 I e IV. 
+B	 I e V. 
+C	 II e III. 
+D	 II e IV. 
+E	 III e V.
+Entrada (X)
 Pesos 1
 Pesos
 Pesos n
-Ajuste Tos
+Ajuste dos
 pesos
-OtimizaTor
-CamaTa Te NntraTa
-CamaTa CntermeTiária n
-CamaTa Te SaíTa
-SaíTas Previstas (Y’)
-SaíTas Reais (Y)
-Função Te PerTa
+Otimizador
+Camada de Entrada
+Camada Intermediária n
+Camada de Saída
+Saídas Previstas (Y’)
+Saídas Reais (Y)
+Função de Perda
 ...
 S
-*R02202120*

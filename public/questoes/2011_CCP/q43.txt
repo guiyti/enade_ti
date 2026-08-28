@@ -1,29 +1,24 @@
-NNGNNHARCA MA COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-27
-QUNSTÃO 43  
-O razor é uma arquitetura para TesempenUo better-tUan-worst-case que usa um 
-registraTor especializaTo, mostraTo na fi gura, que meTe e avalia os erros.
-O registraTor To sistema mantém o valor cUaveaTo e é comanTaTo por um 
-clock Te sistema better-tUan-worst-case. Um registraTor aTicional é comanTaTo 
-separaTamente por um clock ligeiramente atrasaTo com relação ao To sistema. Se os 
-resultaTos armazenaTos nos Tois registraTores são Tiferentes, então um erro ocorreu, 
-provavelmente TeviTo à temporização. A porta XOR Tetecta o erro e faz com que este 
-valor seja substituíTo por aquele no registraTor To sistema.
-Polf, P. HigU-performance embeTTeT computing: arcUitectures, applications, anT metUoTologies. Morgan Oaufmann, 2007
-ConsiTeranTo essas informações, analise as afi rmações a seguir.
-C. 
-Sistemas Tigitais são traTicionalmente concebiTos como sistemas assíncronos regiTos por um clock.
-CC. Better-tUan-worst-case é um estilo Te projeto alternativo em que a lógica Tetecta e se recupera Te erros, 
-permitinTo que o circuito possa operar com uma frequência maior.
-CCC. Nos sistemas Tigitais, o períoTo Te clock é TeterminaTo por uma análise cuiTaTosa para que os valores sejam 
-armazenaTos corretamente nos registraTores, com o períoTo Te clock alargaTo para abranger o atraso Te pior 
+QUESTÃO 43  
+O razor é uma arquitetura para desempenho better-than-worst-case que usa um 
+registrador especializado, mostrado na fi gura, que mede e avalia os erros.
+O registrador do sistema mantém o valor chaveado e é comandado por um 
+clock de sistema better-than-worst-case. Um registrador adicional é comandado 
+separadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os 
+resultados armazenados nos dois registradores são diferentes, então um erro ocorreu, 
+provavelmente devido à temporização. A porta XOR detecta o erro e faz com que este 
+valor seja substituído por aquele no registrador do sistema.
+Wolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007
+Considerando essas informações, analise as afi rmações a seguir.
+I. 
+Sistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.
+II. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, 
+permitindo que o circuito possa operar com uma frequência maior.
+III. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam 
+armazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior 
 caso.
 É correto o que se afi rma em
-A   C, apenas.
-B   CCC, apenas.
-C   C e CC, apenas.
-M   CC e CCC, apenas.
-N   C, CC e CCC.
-*A13201127*
+A   I, apenas.
+B   III, apenas.
+C   I e II, apenas.
+D   II e III, apenas.
+E   I, II e III.

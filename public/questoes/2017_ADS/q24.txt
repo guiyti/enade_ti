@@ -1,83 +1,39 @@
-27
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 23
-Um soŌǁare com Tefeito poTe ser consequgncia 
-Te problemas no levantamento Tos requisitos,  uma 
-vez  que  o  requisito  poTe  ser  ambíguo  porque  o 
-cliente não estava convicto Ta sua real necessiTaTe 
-ou porque a equipe o interpretou mal e registrou 
-uma  especifcação  Te  forma  incorreta.   Por  esses 
-motivos,  as verifcações,  as valiTações e os testes 
-são funTamentais para se certifcar Ta qualiTaTe To 
-soŌǁare resultante.
-ConsiTeranTo esse contexto,  avalie as afrmações 
+QUESTÃO 24 
+Eas  décadas  de  1970  e  1980,   muitos  sistemas 
+corporativos foram desenvolvidos com a linguagem 
+Iobol,  utilizando o ^istema 'erenciador de Banco de 
+dados  D B ^ e arquivos indexados do tipo /^ D e 
+s/^ D.   lguns desses produtos de implementação 
+foram,  ou estão sendo,  descontinuados pelos seus 
+fabricantes.   Wor  isso,   o  trabalho  de  reengenharia 
+desses  sistemas,   utilizando  linguagens  mais 
+modernas,   como  WǇthon,   :ava  ou  mesmo  Iнн,  
+associadas com sistemas de banco de dados mais 
+atuais,  apresenta-se como uma boa oportunidade 
+de negocios.  
+Ionsiderando esse cenArio,  avalie as afrmações 
 a seguir.
-/.   O  teste  funcional  certifca  se  o  soŌǁare
-TesempenUa  as  funções  especifcaTas  nos 
-requisitos.
-//.   O 
-teste 
-Te 
-TesempenUo 
-valiTa 
-a 
-conformiTaTe Ta especifcação To processo 
-Te Tesenvolvimento Te soŌǁare.
-///.   O  teste  Te  aceitação  é  realizaTo  pelo 
-cliente  a  fm  Te  valiTar  se  aquilo  que  foi 
-implementaTo é o que foi solicitaTo.
-/s.   O  teste  Te  instalação,   invariavelmente,   é 
-executaTo no local TeterminaTo pelo cliente 
-para instalação To soŌǁare.
-V.  s  técnicas  Te  verifcação  e  valiTação  Te 
-soŌǁare asseguram que o sistema que estA 
-senTo  TesenvolviTo  seũa aTequaTo ao seu 
-proposito.
- correto apenas o que se afrma em
-A  / e /s.
-B  /,  /// e s.
-C  //,  /// e /s.
-M  //,  /s e s.
-N  /,  //,  /// e s.
-Area livre
-YUNSTãO 24 
-Nas  TécaTas  Te  1970  e  1980,   muitos  sistemas 
-corporativos foram TesenvolviTos com a linguagem 
-Cobol,  utilizanTo o Sistema 'erenciaTor Te Banco Te 
-TaTos  M B S e arquivos inTexaTos To tipo /S M e 
-s/S M.   lguns Tesses proTutos Te implementação 
-foram,  ou estão senTo,  TescontinuaTos pelos seus 
-fabricantes.   Por  isso,   o  trabalUo  Te  reengenUaria 
-Tesses  sistemas,   utilizanTo  linguagens  mais 
-moTernas,   como  PǇtUon,   :ava  ou  mesmo  Cнн,  
-associaTas com sistemas Te banco Te TaTos mais 
-atuais,  apresenta-se como uma boa oportuniTaTe 
-Te negocios.  
-ConsiTeranTo esse cenArio,  avalie as afrmações 
-a seguir.
-/.     TifculTaTe Te reengenUaria Te sistemas 
-antigos Teve-se ao fato Te que,  na maioria 
-Tas  vezes,   o  TesenvolveTor  Tefnia  o 
-sistema e esse ũA era o proprio processo Ta 
+/.     difculdade de reengenharia de sistemas 
+antigos deve-se ao fato de que,  na maioria 
+das  vezes,   o  desenvolvedor  defnia  o 
+sistema e esse ũA era o proprio processo da 
 organização.
-//.   O custo Te alteração para moTernização Te 
-uma linUa Te coTigo em Cobol é alto,  por 
-isso,  fazer a manutenção Tesses sistemas é 
-menos TespenTioso.
-///.  Uma 
+//.   K custo de alteração para modernização de 
+uma linha de codigo em Iobol é alto,  por 
+isso,  fazer a manutenção desses sistemas é 
+menos despendioso.
+///.  hma 
 estratégia 
-Te 
+de 
 conversão 
-Tos 
-referiTos  sistemas  para  uma  linguagem 
-orientaTa  a  obũetos  é  Tefinir  uma 
-estrutura Te classes e métoTos e realizar 
-o refatoramento To coTigo.
+dos 
+referidos  sistemas  para  uma  linguagem 
+orientada  a  obũetos  é  definir  uma 
+estrutura de classes e métodos e realizar 
+o refatoramento do codigo.
  correto o que se afrma em
 A  /,  apenas.
 B  ///,  apenas.
 C / e //,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R41201727*
+D  // e ///,  apenas.
+E  /,  // e ///.

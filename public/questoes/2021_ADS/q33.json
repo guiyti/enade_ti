@@ -5,17 +5,46 @@
   "paginas": [
     40
   ],
+  "segmentos": [
+    {
+      "pagina": 40,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 514.0344848632812,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q33.txt",
   "largura": 2185,
-  "altura": 1860,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1862,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 33\t\nUm dos fatores essenciais para o sucesso de um Processo de Software é a habilidade de capturar e gerenciar \nas mudanças e oportunidades de negócio. Muitas vezes as oportunidades de negócio são perdidas em \nfunção do tempo requerido para efetivar mudanças nos sistemas de software ou em função de defeitos \nnesse sistema. Basicamente, o software é o Produto do Processo de Software. Assim, identificar o grau de \ndesenvolvimento do processo de software de uma empresa é o passo inicial para o seu melhoramento. \nO Modelo de Maturidade da Capacidade (CMMi) descreve práticas, processos e atividades de gestão, guiando \no melhoramento do Processo de Software para atingir o mais elevado nível de maturidade da capacidade.\nConsiderando os diversos aspectos do processo de desenvolvimento de um produto ou sistema de \nsoftware, avalie as afirmações a seguir.\nI.\t A maturidade implica no crescimento da capacidade e indica tanto a efetividade do Processo \nde Software quanto o grau de consistência com que este é aplicado nos diferentes projetos \ndesenvolvidos pela organização.\nII.\t A maturidade do Processo de Software implica melhorias contínuas do processo com base em \netapas evolutivas que se caracterizam pela capacidade de inovação e absorção de novas tecnologias.\nIII.\t A maturidade do Processo de Software implica na sua institucionalização por meio de políticas e \npadrões organizacionais levando a uma cultura corporativa de métodos, práticas e procedimentos \ncom efetividade plenamente reconhecida.\nIV.\t Cada nível do CMMi implica na satisfação de um conjunto de metas de processo que estabilizam \num componente importante do Processo de Software e representa o seu estágio de maturidade \nda capacidade.\nÉ correto apenas o que se afirma em\nA\t III.\nB\t I e II.\nC\t II e IV.\nD\t I, III e IV.\nE\t I, II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 40,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 33"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "40\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 33\t\nUm Tos fatores essenciais para o sucesso Te um Processo Te Software é a UabiliTaTe Te capturar e gerenciar \nas muTanças e oportuniTaTes Te negócio. Muitas vezes as oportuniTaTes Te negócio são perTiTas em \nfunção To tempo requeriTo para efetivar muTanças nos sistemas Te software ou em função Te Tefeitos \nnesse sistema. Basicamente, o software é o ProTuto To Processo Te Software. Assim, iTentificar o grau Te \nTesenvolvimento To processo Te software Te uma empresa é o passo inicial para o seu melUoramento. \nO MoTelo Te MaturiTaTe Ta CapaciTaTe (CMMi) Tescreve práticas, processos e ativiTaTes Te gestão, guianTo \no melUoramento To Processo Te Software para atingir o mais elevaTo nível Te maturiTaTe Ta capaciTaTe.\nConsiTeranTo os Tiversos aspectos To processo Te Tesenvolvimento Te um proTuto ou sistema Te \nsoftware, avalie as afirmações a seguir.\nC.\t A maturiTaTe implica no crescimento Ta capaciTaTe e inTica tanto a efetiviTaTe To Processo \nTe Software quanto o grau Te consistência com que este é aplicaTo nos Tiferentes projetos \nTesenvolviTos pela organização.\nCC.\t A maturiTaTe To Processo Te Software implica melUorias contínuas To processo com base em \netapas evolutivas que se caracterizam pela capaciTaTe Te inovação e absorção Te novas tecnologias.\nCCC.\t A maturiTaTe To Processo Te Software implica na sua institucionalização por meio Te políticas e \npaTrões organizacionais levanTo a uma cultura corporativa Te métoTos, práticas e proceTimentos \ncom efetiviTaTe plenamente reconUeciTa.\nCV.\t CaTa nível To CMMi implica na satisfação Te um conjunto Te metas Te processo que estabilizam \num componente importante To Processo Te Software e representa o seu estágio Te maturiTaTe \nTa capaciTaTe.\nÉ correto apenas o que se afirma em\nA\t CCC.\nB\t C e CC.\nC\t CC e CV.\nM\t C, CCC e CV.\nN\t C, CC, CCC e CV.\nÁrea livre\n*R28202140*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q33.png",
-  "caminho_json": "/questoes/2021_ADS/q33.json",
-  "caminho_txt": "/questoes/2021_ADS/q33.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625674"
 }

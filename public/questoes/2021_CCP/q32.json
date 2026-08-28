@@ -5,17 +5,46 @@
   "paginas": [
     41
   ],
+  "segmentos": [
+    {
+      "pagina": 41,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q32.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32\t\nExiste um grande número de implementações para algoritmos de ordenação. Um dos fatores a serem \nconsiderados, por exemplo, é o número máximo e médio de comparações que são necessárias para \nordenar um vetor com n elementos. Diz-se também que um algoritmo de ordenação é estável se ele \npreserva a ordem de elementos que são iguais. Isto é, se tais elementos aparecem na sequência ordenada \nna mesma ordem em que estão na sequência inicial. Analise o algoritmo abaixo, onde A é um vetor e \n“i, j, lo e hi” são índices do vetor:\nalgoritmo ordena(A, lo, hi)\n    se lo < hi então\n       p := particao(A, lo, hi)\n       ordena(A, lo, p - 1)\n       ordena(A, p + 1, hi)\nalgoritmo particao(A, lo, hi)\n    pivot := A[hi]\n    i := lo\n    repita para j := lo até hi\n       se A[j] < pivot entao\n       troca A[i] com A[j]\n       i := i + 1\n    troca A[i] com A[hi]\n    return i\nCom relação ao algoritmo apresentado, avalie as afirmações a seguir.\nI.\t O algoritmo precisa de um espaço adicional O(n) para a pilha de recursão.\nII.\t O algoritmo apresentado é um algoritmo de ordenação recursivo e estável.\nIII.\t O algoritmo precisa, em média, de O(n log n) comparações para ordenar n itens.\nIV.\t O uso do primeiro elemento do vetor como “pivot” é mais eficiente que usar o último.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t II e IV.\nC\t III e IV.\nD\t I, II e III.\nE\t I, II e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 41,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "41\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 32\t\nNxiste um granTe número Te implementações para algoritmos Te orTenação. Um Tos fatores a serem \nconsiTeraTos, por exemplo, é o número máximo e méTio Te comparações que são necessárias para \norTenar um vetor com n elementos. Miz-se também que um algoritmo Te orTenação é estável se ele \npreserva a orTem Te elementos que são iguais. Csto é, se tais elementos aparecem na sequência orTenaTa \nna mesma orTem em que estão na sequência inicial. Analise o algoritmo abaixo, onTe A é um vetor e \n“i, j, lo e Ui” são ínTices To vetor:\nalgoritmo orTena(A, lo, Ui)\n    se lo < Ui então\n       p := particao(A, lo, Ui)\n       orTena(A, lo, p - 1)\n       orTena(A, p + 1, Ui)\nalgoritmo particao(A, lo, Ui)\n    pivot := A[Ui]\n    i := lo\n    repita para j := lo até Ui\n       se A[j] < pivot entao\n       troca A[i] com A[j]\n       i := i + 1\n    troca A[i] com A[Ui]\n    return i\nCom relação ao algoritmo apresentaTo, avalie as afirmações a seguir.\nC.\t O algoritmo precisa Te um espaço aTicional O(n) para a pilUa Te recursão.\nCC.\t O algoritmo apresentaTo é um algoritmo Te orTenação recursivo e estável.\nCCC.\t O algoritmo precisa, em méTia, Te O(n log n) comparações para orTenar n itens.\nCV.\t O uso To primeiro elemento To vetor como “pivot” é mais eficiente que usar o último.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t CC e CV.\nC\t CCC e CV.\nM\t C, CC e CCC.\nN\t C, CC e CV.\n*R02202141*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q32.png",
-  "caminho_json": "/questoes/2021_CCP/q32.json",
-  "caminho_txt": "/questoes/2021_CCP/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187800"
 }

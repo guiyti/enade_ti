@@ -1,104 +1,37 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-9
-QUNSTÃO 9  
-O levantamento Te requisitos é uma etapa funTamental To 
-projeto Te sistemas. MepenTenTo Ta situação encontraTa, 
-uma ou mais técnicas poTem ser utilizaTas para a 
-elicitação Tos requisitos. A respeito Tessas técnicas, 
-analise as afirmações a seguir.
-C. 
-PorksUop Te requisitos consiste na realização 
-Te reuniões estruturaTas e TelimitaTas entre os 
-analistas Te requisitos To projeto e representantes 
-To cliente.
-CC. Cenário consiste na observação Tas ações To 
-funcionário na realização Te uma TeterminaTa 
-tarefa, para verificar os passos necessários para 
-sua conclusão.
-CCC. As entrevistas são realizaTas com os stakeUolTers 
-e poTem ser abertas ou fecUaTas.
-CV. A prototipagem é uma versão inicial To sistema, 
-baseaTo em requisitos levantaTos em outros 
-sistemas Ta organização.
-É correto apenas o que se afirma em
-A   C e CC.
-B   C e CCC.
-C   CC e CV.
-M   C, CCC e CV.
-N   CC, CCC e CV.
-QUNSTÃO 10  
+E
+,
+QUESTÃO 10  
 Várias 
 técnicas 
-relacionaTas 
+relacionadas 
 à 
 programação 
-extrema (XP) são Tiretamente ligaTas ao cóTigo, 
-incluinTo a refatoração, programação em pares e 
+extrema (XP) são diretamente ligadas ao código, 
+incluindo a refatoração, programação em pares e 
 integração contínua. A programação em pares é a 
-prática preferiTa Tos TesenvolveTores XP trabalUanTo 
-em pares em um computaTor. 
-SCOTT, O. O Processo UnificaTo NxplicaTo. Porto Alegre: ArtmeT, 2002.
-BNCO, O. Programação Nxtrema (XP) NxplicaTa. Porto Alegre: ArtmeT, 2000.
-A programação em pares auxilia no Tesenvolvimento Te 
-cóTigo Te melUor qualiTaTe quanTo os pares
+prática preferida dos desenvolvedores XP trabalhando 
+em pares em um computador. 
+SCOTT, K. O Processo Unificado Explicado. Porto Alegre: Artmed, 2002.
+BECK, K. Programação Extrema (XP) Explicada. Porto Alegre: Artmed, 2000.
+A programação em pares auxilia no desenvolvimento de 
+código de melhor qualidade quando os pares
 A   elaboram 
 e 
 utilizam 
-paTrões 
-Te 
-coTificação 
-conjuntamente, os quais, quanTo utilizaTos corretamente 
-e apropriaTamente, reTuzem problemas inTiviTuais.
-B   estão acostumaTos ao Tesenvolvimento e à proprieTaTe 
-coletiva, limitanTo-se a fazer pequenas muTanças na 
-ocorrência Te erros em tempo Te execução.
-C   minimizam os riscos Te insucesso no projeto através 
-Ta utilização Te ferramentas para a geração automática 
-Te testes funcionais e protótipos Te interface.
-M   escrevem testes em separaTo e Tiscutem os resultaTos 
-posteriormente, o que Tá a eles a cUance Te se 
-sintonizarem antes Te começarem a implementação.
-N   trabalUam em projetos complexos onTe a coTificação 
-seja TesenvolviTa Te forma conjunta, minimizanTo erros 
-e agreganTo valor onTe quer que o sistema necessite.
-QUNSTÃO 11  
-O conjunto Te casos Te uso representa as possíveis 
-interações que serão representaTas nos requisitos To 
-sistema. A figura a seguir Tesenvolve um exemplo Te 
-biblioteca e mostra outros casos Te uso (use-cases) nesse 
-ambiente.
-Usuário Ta
-biblioteca
-Serviços Te Nmprestimo
-ATministração Te usuário
-Pessoal Ta
-biblioteca
-Serviços To catálogo
-ForneceTor
-SOMMNRVCLLN, C. NngenUaria Te software. 6. eT. São Paulo: 
-Makron Books, 2003, p. 113.
-Com relação ao tema, analise as asserções a seguir.
-A figura também ilustra os pontos essenciais Ta notação Te 
-casos Te uso. Os agentes no processo são representaTos 
-por bonecos e caTa tipo Te interação é representaTa por 
-uma elipse com um nome
-PORQUN
-a UML é um paTrão para a moTelagem orientaTa a objetos 
-e, assim, os casos Te uso e a obtenção Te requisitos com 
-base em casos Te uso são caTa vez mais utilizaTos para 
-obter requisitos.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justificativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justificativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
-proposições falsas.
-COMPONNNTN NSPNCÍFCCO
-*A2520119*
+padrões 
+de 
+codificação 
+conjuntamente, os quais, quando utilizados corretamente 
+e apropriadamente, reduzem problemas individuais.
+B   estão acostumados ao desenvolvimento e à propriedade 
+coletiva, limitando-se a fazer pequenas mudanças na 
+ocorrência de erros em tempo de execução.
+C   minimizam os riscos de insucesso no projeto através 
+da utilização de ferramentas para a geração automática 
+de testes funcionais e protótipos de interface.
+D   escrevem testes em separado e discutem os resultados 
+posteriormente, o que dá a eles a chance de se 
+sintonizarem antes de começarem a implementação.
+E   trabalham em projetos complexos onde a codificação 
+seja desenvolvida de forma conjunta, minimizando erros 
+e agregando valor onde quer que o sistema necessite.

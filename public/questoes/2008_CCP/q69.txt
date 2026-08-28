@@ -1,146 +1,34 @@
-29
-COMPUTAÇÃO
-QUNSTÃO 69
-Um ponto crítico para as organizações é a gerência Te seus
-sistemas legaTos. Quanto a esses sistemas, é importante
-TeciTir se eles Tevem sofrer uma reengenUaria, senTo
-reimplementaTos, ou não. Nssa Tecisão é tomaTa após se
-avaliarem os sistemas legaTos com base em Tois parâmetros:
-valor estratégico para a organização, ou seja, o valor que ele
-agrega para os serviços e proTutos Ta organização; e
-qualiTaTe To sistema, ou seja, o custo Te manutenção uma
-vez que sistemas Te baixa qualiTaTe possuem alto custo Te
-manutenção. Nssa avaliação classifica esses sistemas Te
-acorTo com as situações Te C a CV inTicaTas abaixo.
-Nm qual(ais) Tessas situações um sistema legaTo Teve ser
-classificaTo para ser inTicaTo a uma reengenUaria? 
+QUESTÃO 69
+Um ponto crítico para as organizações é a gerência de se
+sistemas legados. Quanto a esses sistemas, é importan
+decidir se eles devem sofrer uma reengenharia, send
+reimplementados, ou não. Essa decisão é tomada após 
+avaliarem os sistemas legados com base em dois parâmetro
+valor estratégico para a organização, ou seja, o valor que e
+agrega para os serviços e produtos da organização; 
+qualidade do sistema, ou seja, o custo de manutenção um
+vez que sistemas de baixa qualidade possuem alto custo d
+manutenção. Essa avaliação classifica esses sistemas d
+acordo com as situações de I a IV indicadas abaixo.
+Em qual(ais) dessas situações um sistema legado deve s
+classificado para ser indicado a uma reengenharia? 
 A
-Apenas na situação C.
+Apenas na situação I.
 B
-Apenas na situação CV.
+Apenas na situação IV.
 C
-Apenas nas situações C e CC.
-M
-Apenas nas situações CC e CCC.
-N
-Apenas nas situações CCC e CV.
-QUNSTÃO 70
-NtUernet e suas evoluções Te 100 Mbps e 1 Gbps são
-tecnologias paTronizaTas para comunicações em reTes locais
-com infra-estrutura Te transmissão compartilUaTa. Acerca Tas
-transmissões que usam essas tecnologias, assinale a opção
-incorreta.
-A
-Nmbora Tiversos segmentos Te uma reTe possam ser
-TefiniTos com o uso Te equipamentos Te comutação
-(switcUes), transmissões Te pacotes com enTereço Te
-broaTcast (Tifusão) atingem toTos os computaTores na
-mesma reTe.
-B
-O mecanismo Te controle Te acesso ao meio utilizaTo é
-TistribuíTo e, nas reTes com concentraTores (Uubs), caTa
-interface Te reTe Teve Teterminar quanTo é possível
-realizar uma transmissão.
-C
-ComutaTores (switcUes) realizam o encaminUamento
-seletivo Te quaTros com base nos enTereços CP Te caTa
-estação.
-M
-A escuta To meio Turante as transmissões permite
-Tetectar colisões em segmentos compartilUaTos e a
-necessiTaTe Te retransmissões, mas não Uá envio Te
-quaTros (frames) Te confirmação Te recebimento.
-N
-Um mecanismo Te controle Te consistência é usaTo para
-verificar a integriTaTe Te caTa quaTro (frame) transmitiTo.
-QUNSTÃO 71
-alternativa 1
-alternativa 2
-A
-A
-B
-N
-C
-F
-H
-M
-G
-M
-G
-N
-F
-H
-C
-B
-Coesão 
-e 
-acoplamento 
-são 
-Tois 
-conceitos
-funTamentais para a qualiTaTe To projeto moTular Te
-um software. A coesão Tiz respeito à funcionaliTaTe
-Tos móTulos que compõem o software e é relacionaTa
-ao 
-conceito 
-Te 
-ocultação 
-Te 
-informação.
-O acoplamento está relacionaTo aos TaTos e
-representa a interconexão entre os móTulos. SuponUa
-que TeterminaTo sistema possa ter a arquitetura Te
-seus móTulos projetaTa por meio Tas Tuas
-alternativas Tiferentes mostraTas na figura acima,
-senTo a funcionaliTaTe Te um móTulo a mesma nas
-Tuas alternativas. Nessa figura, os retângulos
-representam os móTulos e as arestas representam
-cUamaTas a funcionaliTaTes Te outros móTulos. A
-partir Tessas informações, assinale a opção correta.
-A
-A coesão e o acoplamento Te toTos os móTulos
-são iguais nas Tuas alternativas.
-B
-Nm relação à alternativa 1, na alternativa 2, a
-coesão To móTulo A é menor, a Tos móTulos B e
-C é maior e o acoplamento To projeto é maior.
-C
-Nm relação à alternativa 1, na alternativa 2, a
-coesão To móTulo A é maior, a Tos móTulos B e
-C é menor e o acoplamento To projeto é maior.
-M
-Nm relação à alternativa 1, na alternativa 2, a
-coesão To móTulo A é maior, a Tos móTulos B e
-C é maior e o acoplamento To projeto é menor.
-N
-Nm relação à alternativa 1, na alternativa 2, a
-coesão To móTulo A é menor, a Tos móTulos B e
-C é maior e o acoplamento To projeto é menor.
-QUNSTÃO 72
-Uma empresa Te créTito e financiamento
-utiliza um sistema Te informação para analisar
-simulações, com base em cenários, e Teterminar
-como as variações Ta taxa básica Te juros To país
-afetam seus lucros.
-Como Teve ser classificaTo esse sistema Te
-informação?
-A
-sistema Te processamento Te transações
-B
-sistema Te controle Te processos
-C
-sistema Te informação gerencial
-M
-sistema Te apoio à Tecisão
-N
-sistema Te informação executivo
+Apenas nas situações I e II.
+D
+Apenas nas situações II e III.
+E
+Apenas nas situações III e IV.
 alto valor estratégico
-baixa qualiTaTe (C)
+baixa qualidade (I)
 baixo valor estratégico
-baixa qualiTaTe (CV)
+baixa qualidade (IV)
 alto valor estratégico
-alta qualiTaTe (CC)
+alta qualidade (II)
 baixo valor estratégico
-alta qualiTaTe (CCC)
+alta qualidade (III)
 valor estratégico
-qualiTaTe To sistema
+qualidade do sistema

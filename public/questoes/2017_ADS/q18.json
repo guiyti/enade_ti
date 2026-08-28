@@ -5,18 +5,46 @@
   "paginas": [
     23
   ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 484.8784484863281,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q18.txt",
   "largura": 1223,
   "altura": 1731,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 18\n s redes de computadores estão por toda parte.  \n  internet é uma delas,  assim como as vArias redes \ndas  quais  ela  é  composta,   que  compartilham \nrecursos  por  meio  de  ^istemas  Distribuídos.  \nIomo  o  numero  de  dispositivos  tem  crescido \nexponencialmente,  em vez de paralelizar tarefas \nem  vArias  mAquinas,   tornou-se  cada  vez  mais \nimportante  empregar  sistemas  distribuídos,  \ncomunicando \ne \ncoordenando \ndispositivos \ne,   assim,   contribuindo  para  o  cotidiano  de \nempresas,  governos e demais instituições.\n IKh>KhZ/^,  '.  et al.  ^istemas Distribuídos:  conceitos e proũeto,\n5.  ed.  Worto  legre:  BooŬman,  2013 (adaptado).\nEesse  contexto,   assinale  a  opção  que  apresenta \nexemplos atuais de sistemas distribuídos.\nA Wesquisa na ǁeb,  ũogos on-line,  E-Commerce e o \nbanco de dados das aggncias bancArias.\nB :ogos on-line,  E-Commerce,  pesquisa no tindoǁs\ne e-mails.\nC E-Commerce,  ũogos em mídia İsica,  pesquisa no \ntindoǁs e redes sociais.\nD Wesquisa  na  ǁeb,   ũogos  em  mídia  İsica,  \nE-Commerce e e-mails.\nE Wesquisa  no  tindoǁs,   pesquisa  na  ǁeb,  \nũogos on-line e o banco de dados das aggncias \nbancArias.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Sistemas Operacionais",
-    "Arquitetura e Organização de Computadores"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 18"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "23\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 17\n pos a implantação Te um sistema em ambiente Te \nproTução,  este passa para a fase Te manutenção \nTentro  To  ciclo  Te  viTa  To  Tesenvolvimento  Te \nsoŌǁare.   Os  sistemas  geralmente  necessitam \nTe  Tiversos  tipos  Te  manutenção  Turante  sua \nexistgncia.\nConsiTeranTo a etapa Te manutenção no processo \nTe  Tesenvolvimento  Te  soŌǁare,   avalie  as \nafrmações a seguir.\n/.     fase Te manutenção é uma parte explícita \nTo  moTelo  em  cascata  To  processo  Te \nTesenvolvimento Te soŌǁare.\n//.      atualização  To  sistema  para  inserir \ncustomizações  é  consiTeraTa  um  tipo  Te \nmanutenção.\n///.      Tepuração  To  programa  é  um  processo \nespecífco Ta fase Te Tesenvolvimento e um \ntipo Te manutenção.\n/s.   O acréscimo Te novas funções a um sistema \nexistente,   sem  perturbar  sua  operação,   é \nconsiTeraTo um tipo Te manutenção.\nV.   manutenção To sistema estA relacionaTa \nao aumento To ciclo Te viTa To soŌǁare.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  /s e s.\nC  /,  // e ///.\nM  /,  //,  /s e s.\nN  //,  ///,  /s e s.\nArea livre\nQUNSTÃO 18\n s reTes Te computaTores estão por toTa parte.  \n  internet é uma Telas,  assim como as vArias reTes \nTas  quais  ela  é  composta,   que  compartilUam \nrecursos  por  meio  Te  Sistemas  MistribuíTos.  \nComo  o  numero  Te  Tispositivos  tem  cresciTo \nexponencialmente,  em vez Te paralelizar tarefas \nem  vArias  mAquinas,   tornou-se  caTa  vez  mais \nimportante  empregar  sistemas  TistribuíTos,  \ncomunicanTo \ne \ncoorTenanTo \nTispositivos \ne,   assim,   contribuinTo  para  o  cotiTiano  Te \nempresas,  governos e Temais instituições.\n COU>OUZ/S,  '.  et al.  Sistemas MistribuíTos:  conceitos e proũeto,\n5.  eT.  Porto  legre:  BooŬman,  2013 (aTaptaTo).\nNesse  contexto,   assinale  a  opção  que  apresenta \nexemplos atuais Te sistemas TistribuíTos.\nA Pesquisa na ǁeb,  ũogos on-line,  N-Commerce e o \nbanco Te TaTos Tas aggncias bancArias.\nB :ogos on-line,  N-Commerce,  pesquisa no tinToǁs\ne e-mails.\nC N-Commerce,  ũogos em míTia İsica,  pesquisa no \ntinToǁs e reTes sociais.\nM Pesquisa  na  ǁeb,   ũogos  em  míTia  İsica,  \nN-Commerce e e-mails.\nN Pesquisa  no  tinToǁs,   pesquisa  na  ǁeb,  \nũogos on-line e o banco Te TaTos Tas aggncias \nbancArias.  \nQUNSTÃO 19\nConceitualmente,   caTa  processo  tem  sua  propria \nCPU (Central Processing Unit) virtual.  \u001e claro que,  na \nrealiTaTe,  a CPU troca a execução,  a toTo momento,  \nTe  um  processo  para  outro,   mas,   para  entenTer \nesse  sistema,   é  muito  mais  fAcil  pensar  em  um \nconũunto Te processos senTo executaTos (pseuTo) \nparalelamente To que tentar controlar o moTo como \na CPU faz esses cUaveamentos.\nT NNNB UM,   .  S.  Sistemas operacionais moTernos.\n3.  eT.  São Paulo:  Person,  2010 (aTaptaTo).\nMe  acorTo  com  o  exposto,   o  conceito  Tescrito \nTenomina-se\nA tUreaT.\nB  multiprocessaTor.\nC multiprogramação.\nM  processo monotUreaT.\nN  mAquina Te estaTos fnitos.\n*R41201723*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q18.png",
-  "caminho_json": "/questoes/2017_ADS/q18.json",
-  "caminho_txt": "/questoes/2017_ADS/q18.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601060"
 }

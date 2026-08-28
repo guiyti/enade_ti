@@ -1,22 +1,19 @@
-12
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 09
-  fgura a seguir apresenta Tuas telas Te um sistema Te venTa Te passagens aéreas Te uma empresa.  Na tela 1,  
-o usuArio selecionou sua origem,  seu Testino,  e,  logo em seguiTa,  sua Tata Te iTa.   o muTar o foco para o 
-campo Te preencUimento Ta Tata Te retorno,  a ferramenta Te calenTArio apresentou automaticamente a 
-Tata To Tia Ta compra (01ͬ 09ͬ 2014),  conforme exibiTo na tela 2.
-Com base nas telas apresentaTas e em Timensões Te qualiTaTe,  tais como faciliTaTe Te aprenTizagem,  
-prevenção Te erros,  efcigncia,  memorização e satisfação subũetiva,  avalie as afrmações a seguir.
-/.   O botão " /r"  apresenta uma metAfora aTequaTa com o munTo real,  facilitanTo a aprenTizagem.
-//.   Na tela 1,  o uso To calenTArio clicAvel não auxilia na prevenção Te erros,  visto que a entraTa Te Tatas 
-poTe ser realizaTa manualmente pelos usuArios.
-///.  Na tela 2,  o fato Te o calenTArio selecionar a Tata Ta compra preũuTica a efcigncia Ta interface,  ũA 
-que a Tata preencUiTa é anterior a Tata Te iTa.
-/s.     memorização é preũuTicaTa pois a interface apresenta elementos grAfcos em Temasia.
+QUESTÃO 09
+  fgura a seguir apresenta duas telas de um sistema de venda de passagens aéreas de uma empresa.  Ea tela 1,  
+o usuArio selecionou sua origem,  seu destino,  e,  logo em seguida,  sua data de ida.   o mudar o foco para o 
+campo de preenchimento da data de retorno,  a ferramenta de calendArio apresentou automaticamente a 
+data do dia da compra (01ͬ 09ͬ 2014),  conforme exibido na tela 2.
+Iom base nas telas apresentadas e em dimensões de qualidade,  tais como facilidade de aprendizagem,  
+prevenção de erros,  efcigncia,  memorização e satisfação subũetiva,  avalie as afrmações a seguir.
+/.   K botão " /r"  apresenta uma metAfora adequada com o mundo real,  facilitando a aprendizagem.
+//.   Ea tela 1,  o uso do calendArio clicAvel não auxilia na prevenção de erros,  visto que a entrada de datas 
+pode ser realizada manualmente pelos usuArios.
+///.  Ea tela 2,  o fato de o calendArio selecionar a data da compra preũudica a efcigncia da interface,  ũA 
+que a data preenchida é anterior a data de ida.
+/s.     memorização é preũudicada pois a interface apresenta elementos grAfcos em demasia.
  correto apenas o que se afrma em
 A / e //.
 B / e ///.
 C // e /s.
-M /,  /// e /s.
-N //,  /// e /s.
-*R03201412*
+D /,  /// e /s.
+E //,  /// e /s.

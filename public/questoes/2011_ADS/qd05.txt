@@ -1,18 +1,14 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-21
-QUNSTÃO MCSCURSCVA 5 
+QUESTÃO DISCURSIVA 5 
  
-Jogos Te tabuleiro são ativiTaTes comuns Te entretenimento na viTa cotiTiana Tas 
-pessoas. Uma Te suas características é a necessiTaTe To uso Te um tabuleiro 
-com localizações bem TefiniTas para o posicionamento Te peças, poTenTo inTicar 
-também as fases To jogo. No livro O Homem que Calculava, Te Malba TaUan 
-(São Paulo: RecorT, 2002, p. 120), Uá uma Uistória na qual um rei Teveria efetuar 
-o pagamento pelos serviços Te um Te seus conselUeiros, TanTo-lUe uma certa 
-quantiTaTe Te grãos Te trigo a ser calculaTa Ta seguinte forma: coloca-se 1 grão 
-Te trigo na primeira casa To tabuleiro, 2 na segunTa casa, 4 na terceira casa, 8 na 
-quarta casa e assim TobranTo-se sucessivamente até a última casa.
+Jogos de tabuleiro são atividades comuns de entretenimento na vida cotidiana das 
+pessoas. Uma de suas características é a necessidade do uso de um tabuleiro 
+com localizações bem definidas para o posicionamento de peças, podendo indicar 
+também as fases do jogo. No livro O Homem que Calculava, de Malba Tahan 
+(São Paulo: Record, 2002, p. 120), há uma história na qual um rei deveria efetuar 
+o pagamento pelos serviços de um de seus conselheiros, dando-lhe uma certa 
+quantidade de grãos de trigo a ser calculada da seguinte forma: coloca-se 1 grão 
+de trigo na primeira casa do tabuleiro, 2 na segunda casa, 4 na terceira casa, 8 na 
+quarta casa e assim dobrando-se sucessivamente até a última casa.
 1
 3
 6
@@ -29,25 +25,8 @@ quarta casa e assim TobranTo-se sucessivamente até a última casa.
 15
 10
 12
-ConsiTeranTo o tabuleiro 4 x 4 ilustraTo acima, contenTo a inTicação Ta orTem Tas casas, construa um único algoritmo que:
-a) calcule, armazene em uma estrutura e escreva em orTem a quantiTaTe Te grãos Te trigo em caTa casa To tabuleiro; 
+Considerando o tabuleiro 4 x 4 ilustrado acima, contendo a indicação da ordem das casas, construa um único algoritmo que:
+a) calcule, armazene em uma estrutura e escreva em ordem a quantidade de grãos de trigo em cada casa do tabuleiro; 
 (valor: 8,0 pontos)
-b) calcule, armazene em uma variável e escreva a quantiTaTe total Te grãos Te trigo presentes no tabuleiro. 
+b) calcule, armazene em uma variável e escreva a quantidade total de grãos de trigo presentes no tabuleiro. 
 (valor: 2,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*A25201121*

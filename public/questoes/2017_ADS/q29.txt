@@ -1,14 +1,12 @@
-33
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 29
-Uma pesquisa estA senTo realizaTa para iTentificar a renTa méTia Te um grupo Te profissionais,  
-em função Te algumas variAveis Te interesse.   s variAveis utilizaTas são " possui ensino superior",  "
-possui pos-graTuação"  e " possui pelo menos 5 anos Te experigncia em sua Area Te atuação".  
-Os conũuntos Te pessoas representaTos por essas variAveis são TenotaTos  ,  B e C,  respectivamente.  
-MaTo que as variAveis não são mutuamente exclusivas,  uma pessoa poTe pertencer a mais Te um 
-conũunto.   s expressões a seguir representam subconũuntos para os quais se Teseũa obter a renTa 
-méTia Tas pessoas a eles pertencentes,  tarefa que serA realizaTa posteriormente.
-ͻ  Nxpressão 1:  x
+QUESTÃO 29
+hma pesquisa estA sendo realizada para identificar a renda média de um grupo de profissionais,  
+em função de algumas variAveis de interesse.   s variAveis utilizadas são " possui ensino superior",  "
+possui pos-graduação"  e " possui pelo menos 5 anos de experigncia em sua Area de atuação".  
+Ks conũuntos de pessoas representados por essas variAveis são denotados  ,  B e I,  respectivamente.  
+Dado que as variAveis não são mutuamente exclusivas,  uma pessoa pode pertencer a mais de um 
+conũunto.   s expressões a seguir representam subconũuntos para os quais se deseũa obter a renda 
+média das pessoas a eles pertencentes,  tarefa que serA realizada posteriormente.
+ͻ  Expressão 1:  x
 A
 x
 B
@@ -19,7 +17,7 @@ C
 ∪
 (
 )͖
-ͻ  Nxpressão 2: x
+ͻ  Expressão 2: x
 A
 B
 C
@@ -29,7 +27,7 @@ C
  
  (
 )͖
-ͻ  Nxpressão 3:  x
+ͻ  Expressão 3:  x
 A
 x
 B
@@ -41,26 +39,25 @@ C
 ∧
 ∈
 .
-ConsiTere que,  em função Tas expressões TaTas,  o seguinte programa em linguagem Te programação C 
-foi escrito,  para que posteriormente se realize os cAlculos TeseũaTos.  ConsiTere,  ainTa,  que A,  B e C são 
-estruturas Te TaTos apropriaTamente TefniTas e que contém as pessoas exatamente como especifcaTo.  
-  função contem opera sobre elas e Tevolve um valor booleano,  inTicanTo se a pessoa apontaTa por p
-existe ou não na estrutura especifcaTa.
-voiT Tetermina_renTa (pessoa *p) {
-   /* conTição 1 */
+Ionsidere que,  em função das expressões dadas,  o seguinte programa em linguagem de programação I 
+foi escrito,  para que posteriormente se realize os cAlculos deseũados.  Ionsidere,  ainda,  que A,  B e C são 
+estruturas de dados apropriadamente defnidas e que contém as pessoas exatamente como especifcado.  
+  função contem opera sobre elas e devolve um valor booleano,  indicando se a pessoa apontada por p
+existe ou não na estrutura especifcada.
+void determina_renda (pessoa *p) {
+   /* condição 1 */
    if (contem (A, p) && !contem (B, p) && !contem (C, p)) { 
-      //renTa será TeterminaTa posteriormente
+      //renda será determinada posteriormente
    }
-   /* conTição 2 */
+   /* condição 2 */
    else if (contem (A, p) || contem (B, p) || contem (C, p)) { 
-     //renTa será TeterminaTa posteriormente
+     //renda será determinada posteriormente
    }
 }
-Com base nessa situação e nas informações apresentaTas,  assinale a opção correta.
-A    conTição 2 To programa é equivalente a expressão 3.
-B  Pessoas com pos-graTuação pertencem ao conũunto TefniTo pela expressão 2.
-C    conTição 1 To programa é verTaTeira para toTas as pessoas com ensino superior.
-M    conTição 1 To programa e as expressões 1 e 2,  que representam o mesmo subconũunto,  são equivalentes.
-N    conTição 2 To programa Tefne o conũunto Te pessoas que tem ensino superior,  pos-graTuação e 
-pelo menos cinco anos Te experigncia em sua Area Te atuação.
-*R41201733*
+Iom base nessa situação e nas informações apresentadas,  assinale a opção correta.
+A    condição 2 do programa é equivalente a expressão 3.
+B  Wessoas com pos-graduação pertencem ao conũunto defnido pela expressão 2.
+C    condição 1 do programa é verdadeira para todas as pessoas com ensino superior.
+D    condição 1 do programa e as expressões 1 e 2,  que representam o mesmo subconũunto,  são equivalentes.
+E    condição 2 do programa defne o conũunto de pessoas que tem ensino superior,  pos-graduação e 
+pelo menos cinco anos de experigncia em sua Area de atuação.

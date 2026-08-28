@@ -1,21 +1,15 @@
-NNGNNHARCA MA COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-29
-QUNSTÃO 45
-Os amplificaTores operacionais, como ilustra a figura a seguir, são componentes úteis em Tiversas aplicações. 
-ConsiTeranTo que o amplificaTor operacional To circuito é iTeal, avalie as seguintes afirmativas.
-C. 
-A corrente i1 é iTealmente nula.
-CC. A corrente i2 é iTealmente nula.
-CCC. O circuito exemplifica um seguiTor Te tensão.
-CV. A Tiferença Te potencial entre o ponto v1 e o ponto terra To circuito é iTealmente nula.
-V. A Tiferença Te potencial entre o ponto v2 e o ponto terra To circuito é Te +3,6 V.
+QUESTÃO 45
+Os amplificadores operacionais, como ilustra a figura a seguir, são componentes úteis em diversas aplicações. 
+Considerando que o amplificador operacional do circuito é ideal, avalie as seguintes afirmativas.
+I. 
+A corrente i1 é idealmente nula.
+II. A corrente i2 é idealmente nula.
+III. O circuito exemplifica um seguidor de tensão.
+IV. A diferença de potencial entre o ponto v1 e o ponto terra do circuito é idealmente nula.
+V. A diferença de potencial entre o ponto v2 e o ponto terra do circuito é de +3,6 V.
 É correto apenas o que se afirma em
-A   C, CC e CCC.
-B   C, CC e CV.
-C   C, CCC e V.
-M   CC, CV e V.
-N   CCC, CV e V.
-ÁRNA LCVRN
-*A13201129*
+A   I, II e III.
+B   I, II e IV.
+C   I, III e V.
+D   II, IV e V.
+E   III, IV e V.

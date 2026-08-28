@@ -5,17 +5,46 @@
   "paginas": [
     31
   ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 680.5628051757812,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q33.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2546,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 33\nIom  o  obũetivo  de  facilitar  o  processo  de \ninterconectividade  em  redes,   considerando-se \nos  diversos  tipos  de  dispositivos,   mAquinas  e \nfabricantes,   foi  desenvolvido  um  modelo  de \narquitetura-padrão  denominado  modelo  K^/,   que \ncontém sete camadas,  descritas a seguir:\nͻ  İsica - transmissão de bits͖  estabelecimento \nde conexões İsicas͖  modulação analogica \ne digital͖\nͻ  enlace de dados - delineamento de quadros͖  \ncontrole de acesso ao meio͖\nͻ  rede - controle de congestionamento͖\nͻ  transporte  -  detecção  e  correção  de  erros \nfm a fm͖  controle de Ňuxo͖  multiplexação͖\nͻ  sessão - gergncia de diAlogo͖  sincronização͖  \ngergncia de atividade͖\nͻ  apresentação  -  conversão  de  formatos͖  \ncriptografa͖  compressão de dados͖  \nͻ  aplicação  -  correio  eletrƀnico͖   terminal \nvirtual͖  serviços diversos.\nIom  base  no  modelo  K^/  descrito,   avalie  as \nafrmações a seguir,  em relação a camada em que \ncada dispositivo de interconexão atua.\n/.   K gateǁaǇ atua nas camadas de aplicação,  \napresentação,  sessão e transporte.\n//.   K  sǁitch  atua  na  camada  de  enlace  de \ndados.\n///.   K  roteador  atua  na  camada  de  enlace  de \ndados e na de rede.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 33"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "31\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 32\nNo  Tesenvolvimento  Te  uma  base  Te  TaTos \nTe  pessoal  Te  uma  empresa,   em  que  foram \nregistraTos  os  TaTos  Te  toTos  os  funcionArios,  \nfoi  incluíTo  um  campo  (reT  Ňag)  que  sinalizava \nquanTo a aposentaToria To funcionArio estava se \naproximanTo,  ou quanTo ele ũA estava UabilitaTo a \nrequerer a pensão.  Murante toTa a TécaTa Te 1980,  \nessa  funcionaliTaTe  esteve  ativa  e,   sempre  que \nela era sinalizaTa em relação a algum funcionArio,  \na  empresa  o  TespeTia,   mesmo  apos  TécaTas  Te \nserviços.   Nm  1991,   a  ũustiça  reconUeceu  o  Tireito \nTe  ex-funcionArios  Tessa  empresa  por  Temissão \ninũusta,  e Teterminou o pagamento Te inTenizações \nque cUegaram a ser superiores a ZΨ 900 milUões.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. compesocietǇ. blogspot. com. brх.  \n cesso em:  14 ũul.  2017 (aTaptaTo).\nCom  base  nesse  caso,   assinale  a  opção  que \napresenta o Tever infringiTo To CoTigo Te \u001etica Ta \nSocieTaTe Brasileira Te Computação.  \nA Zespeitar a legislação vigente,  o interesse social \ne os Tireitos Te terceiros.\nB  Contribuir para o bem-estar social,  promovenTo,  \nsempre  que  possível,   a  inclusão  Te  toTos  os \nsetores Ta socieTaTe.\nC  'uarTar  sigilo  profssional  Tas  informações  a \nque tiver acesso em Tecorrgncia Tas ativiTaTes \nexerciTas.\nM  Nsforçar-se \npara \naTquirir \ncontinuamente \ncompetgncia técnica e profssional,  e manter-se \nsempre atualizaTo em relação aos avanços Ta \nprofssão.\nN  ,onrar  compromissos,   contratos,   termos  Te \nresponsabiliTaTe,   Tireitos  Te  proprieTaTe,  \ncopyrigUts e patentes.\nArea livre\nQUNSTÃO 33\nCom  o  obũetivo  Te  facilitar  o  processo  Te \ninterconectiviTaTe  em  reTes,   consiTeranTo-se \nos  Tiversos  tipos  Te  Tispositivos,   mAquinas  e \nfabricantes,   foi  TesenvolviTo  um  moTelo  Te \narquitetura-paTrão  TenominaTo  moTelo  OS/,   que \ncontém sete camaTas,  Tescritas a seguir:\nͻ  İsica - transmissão Te bits͖  estabelecimento \nTe conexões İsicas͖  moTulação analogica \ne Tigital͖\nͻ  enlace Te TaTos - Telineamento Te quaTros͖  \ncontrole Te acesso ao meio͖\nͻ  reTe - controle Te congestionamento͖\nͻ  transporte  -  Tetecção  e  correção  Te  erros \nfm a fm͖  controle Te Ňuxo͖  multiplexação͖\nͻ  sessão - gergncia Te TiAlogo͖  sincronização͖  \ngergncia Te ativiTaTe͖\nͻ  apresentação  -  conversão  Te  formatos͖  \ncriptografa͖  compressão Te TaTos͖  \nͻ  aplicação  -  correio  eletrƀnico͖   terminal \nvirtual͖  serviços Tiversos.\nCom  base  no  moTelo  OS/  Tescrito,   avalie  as \nafrmações a seguir,  em relação a camaTa em que \ncaTa Tispositivo Te interconexão atua.\n/.   O gateǁaǇ atua nas camaTas Te aplicação,  \napresentação,  sessão e transporte.\n//.   O  sǁitcU  atua  na  camaTa  Te  enlace  Te \nTaTos.\n///.   O  roteaTor  atua  na  camaTa  Te  enlace  Te \nTaTos e na Te reTe.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nArea livre\n*R43201731*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q33.png",
-  "caminho_json": "/questoes/2017_GTI/q33.json",
-  "caminho_txt": "/questoes/2017_GTI/q33.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697714"
 }

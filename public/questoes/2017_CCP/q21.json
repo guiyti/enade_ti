@@ -5,17 +5,46 @@
   "paginas": [
     23
   ],
+  "segmentos": [
+    {
+      "pagina": 23,
+      "x0": 25.0,
+      "y0": 314.7680358886719,
+      "x1": 603.3199999999999,
+      "y1": 592.817138671875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q21.txt",
   "largura": 2440,
-  "altura": 1913,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1189,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 21\nEa  logica  proposicional,   defnem-se  regras  para  determinar  o  valor-verdade  (verdadeiro  ou  falso)  de \nsentenças em relação a um modelo  particular.  Essas regras permitem representar raciocínios  logicos \ncomuns das linguagens naturais.\nEesse contexto,  considere a sentença e as proposições logicas a seguir.\n“hm veículo que é elétrico (E) pode ser um robƀ (R) se for autƀnomo (A),  caso contrArio não é um robƀ (R)”.\nW1 с (\n)\nE\nR\nA\n∧\n↔͖\nW2 с E\nR\nA\n→\n↔\n(\n)͖\nW3 с E\nA\nR\nR\n→\n→\n∨¬\n((\n)\n).\n  sentença pode ser representada pela(s) expressão(ões) logica(s)\nA W2,  apenas.\nB W3,  apenas.\nC W1 e W2,  apenas.\nD W1 e W3,  apenas.\nE W1,  W2 e W3.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 23,
+      "x": 60.342254638671875,
+      "y": 326.7680358886719,
+      "x1": 122.79386138916016,
+      "y1": 338.7680358886719,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n23\nQUNSTÃO 20\nNm reTes Te computaTores,  a camaTa Te transporte é responsAvel pela transfergncia Te TaTos entre \nmAquinas Te origem e Testino.  Mois protocolos traTicionais para essa camaTa são o Transmission Control \nProtocol (TCP) e o User Matagram Protocol (UMP).  Miferentemente To UMP, o TCP é orientaTo a conexão.  \nCom relação a esses protocolos,  avalie as afrmações a seguir.\n/.   O UMP é mais efciente que o TCP quanTo o tempo Te envio Te pacotes é funTamental.\n//.   O TCP é o mais utilizaTo em ũogos on-line Te ação para a apresentação grAfca.\n///.   O TCP é mais efciente que o UMP quanTo a confabiliTaTe Te entrega Te TaTos é funTamental.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  / e ///,  apenas.\nN  /,  // e ///.\nQUNSTÃO 21\nNa  logica  proposicional,   Tefnem-se  regras  para  Teterminar  o  valor-verTaTe  (verTaTeiro  ou  falso)  Te \nsentenças em relação a um moTelo  particular.  Nssas regras permitem representar raciocínios  logicos \ncomuns Tas linguagens naturais.\nNesse contexto,  consiTere a sentença e as proposições logicas a seguir.\n“Um veículo que é elétrico (N) poTe ser um robƀ (R) se for autƀnomo (A),  caso contrArio não é um robƀ (R)”.\nP1 с (\n)\nN\nR\nA\n∧\n↔͖\nP2 с N\nR\nA\n→\n↔\n(\n)͖\nP3 с N\nA\nR\nR\n→\n→\n∨¬\n((\n)\n).\n  sentença poTe ser representaTa pela(s) expressão(ões) logica(s)\nA P2,  apenas.\nB P3,  apenas.\nC P1 e P2,  apenas.\nM P1 e P3,  apenas.\nN P1,  P2 e P3.\nArea livre\n*R03201723*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q21.png",
-  "caminho_json": "/questoes/2017_CCP/q21.json",
-  "caminho_txt": "/questoes/2017_CCP/q21.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148901"
 }

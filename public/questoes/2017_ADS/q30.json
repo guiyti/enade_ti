@@ -6,17 +6,54 @@
     34,
     35
   ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    },
+    {
+      "pagina": 35,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 364.70751953125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q30.txt",
   "largura": 2440,
-  "altura": 4127,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 4154,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 30\n  Area de desenvolvimento de soŌǁare estA se tornando cada vez mais complexa.  Wara lidar com essa \nrealidade,   os  desenvolvedores  contam  com  linguagens  de  programação  baseadas  no  paradigma  de \norientação a obũetos,  cuũos pilares são abstração,  encapsulamento,  herança e polimorfsmo.  Eo codigo a \nseguir,  observa-se a implementação de classes relacionadas.\npublic abstract class Impressora {\n   String nome;\n   Impressora() {}\n   Impressora(String n) {\n      this.nome = n;\n   }\n   public void imprimir() {}\n}\npublic class Laser extends Impressora {\n   public Laser() {} \n   public void imprimir() {\n      System.out.println(“Imprimindo na Laser”);\n   }\n}\nclass Matricial extends Impressora {\n   public Matricial () {}\n   public void imprimir() {\n      System.out.println(“Imprimindo na Matricial”);\n   }\n}\npublic class JatoDeTinta extends Impressora {\n   public JatoDeTinta() {}\n   public void imprimir(){\n      System.out.println(“Imprimindo na Jato de tinta”);\n   }\n}\npublic class Main {\n   public static void main(String args[]) {\n      Impressora imp[] = new Impressora[3];\n      imp[0] = new Laser();\n      imp[1] = new JatoDeTinta();\n      imp[2] = new Matricial();\n      for(int i = imp.length - 1; i >= 0; i--){\n         imp[i].imprimir();\n      }\n   }\n}\n\nIom base nas informações do texto e no codigo apresentado,  avalie as afrmações a seguir.\n/.     execução do codigo,  via classe Main,  resulta na seguinte saída:\n/mprimindo na >aser\n/mprimindo na Datricial\n/mprimindo na :ato de tinta\n//.   K codigo faz uso da técnica denominada polimorfsmo.\n///.   K codigo não serA compilado,  pois o vetor imp foi instanciado por meio da classe abstrata \nImpressora.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nD  / e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Programação e POO"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 60.60430145263672,
+      "y": 88.699951171875,
+      "x1": 123.05711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "34\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 30\n  Area Te Tesenvolvimento Te soŌǁare estA se tornanTo caTa vez mais complexa.  Para liTar com essa \nrealiTaTe,   os  TesenvolveTores  contam  com  linguagens  Te  programação  baseaTas  no  paraTigma  Te \norientação a obũetos,  cuũos pilares são abstração,  encapsulamento,  Uerança e polimorfsmo.  No coTigo a \nseguir,  observa-se a implementação Te classes relacionaTas.\npublic abstract class Cmpressora {\n   String nome;\n   Cmpressora() {}\n   Cmpressora(String n) {\n      tUis.nome = n;\n   }\n   public voiT imprimir() {}\n}\npublic class Laser extenTs Cmpressora {\n   public Laser() {} \n   public voiT imprimir() {\n      System.out.println(“CmpriminTo na Laser”);\n   }\n}\nclass Matricial extenTs Cmpressora {\n   public Matricial () {}\n   public voiT imprimir() {\n      System.out.println(“CmpriminTo na Matricial”);\n   }\n}\npublic class JatoMeTinta extenTs Cmpressora {\n   public JatoMeTinta() {}\n   public voiT imprimir(){\n      System.out.println(“CmpriminTo na Jato Te tinta”);\n   }\n}\npublic class Main {\n   public static voiT main(String args[]) {\n      Cmpressora imp[] = new Cmpressora[3];\n      imp[0] = new Laser();\n      imp[1] = new JatoMeTinta();\n      imp[2] = new Matricial();\n      for(int i = imp.lengtU - 1; i >= 0; i--){\n         imp[i].imprimir();\n      }\n   }\n}\n*R41201734*\n\n35\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCom base nas informações To texto e no coTigo apresentaTo,  avalie as afrmações a seguir.\n/.     execução To coTigo,  via classe Main,  resulta na seguinte saíTa:\n/mpriminTo na >aser\n/mpriminTo na Matricial\n/mpriminTo na :ato Te tinta\n//.   O coTigo faz uso Ta técnica TenominaTa polimorfsmo.\n///.   O coTigo não serA compilaTo,  pois o vetor imp foi instanciaTo por meio Ta classe abstrata \nCmpressora.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  / e ///,  apenas.\nN  /,  // e ///.\nQUNSTÃO 31\n\u0005 meTiTa que o proũeto Te uma interface To usuArio evolui,  quatro questões Te proũeto comuns quase \nsempre  vgm  a  tona:   tempo  Te  resposta  To  sistema,   recursos  Te  aũuTa  ao  usuArio,   informações  Te \ntratamento Te erros e atribuição Te nomes a comanTos.\nPZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem profssional.  8.  eT.  São Paulo:   M',,  2016 (aTaptaTo).\nNesse contexto,  avalie as afrmações a seguir, a respeito To proũeto Te interface e Tos requisitos Te soŌǁare.\n/.     anAlise Te interfaces tem por obũetivo iTentifcar o perfl Tos usuArios e auxiliar na especifcação \nTo requisito não funcional Te segurança pertinente ao perfl Te acesso Tos usuArios.\n//.   O requisito não funcional Te segurança Tescreve as características relacionaTas a inteligibiliTaTe,  \nmoTo Te usar ou operar o sistema.\n///.   O requisito não funcional Te confabiliTaTe Tescreve as características relacionaTas ao tempo Te \nresposta para processamento Te TaTos ou informações.\n/s.   O requisito não funcional Te usabiliTaTe Tescreve Tiretrizes Te acessibiliTaTe para pessoas \ncom Tefcigncia.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  / e /s.\nC  // e /s.\nM  /,  // e ///.\nN  //,  /// e /s.\n*R41201735*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q30.png",
-  "caminho_json": "/questoes/2017_ADS/q30.json",
-  "caminho_txt": "/questoes/2017_ADS/q30.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601117"
 }

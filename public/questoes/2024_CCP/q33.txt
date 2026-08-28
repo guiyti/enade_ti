@@ -1,46 +1,15 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-COMPUTAÇÃO
-20
-2025
-Texto para questões Te 31 a 33
-Murante uma aula Te programação, um professor sugere aos estuTantes que implementem um programa utilizanTo os princípios 
-Ta orientação a objetos. O intuito é ler os laTos Te um triângulo e realizar operações básicas com ele. O moTelo proposto na 
-figura Tefine a classe Triangulo, contenTo como atributos os laTos To triângulo e como métoTos as operações para atribuir 
-e retornar os valores Tos laTos, calcular área e calcular o perímetro.
-Triangulo
-laTo1: inteiro
-laTo2: inteiro
-laTo3: inteiro
-atribuirLaTo1(laTo1: inteiro): vazio
-atribuirLaTo2(laTo2: inteiro): vazio
-atribuirLaTo3(laTo3: inteiro): vazio
-retornaLaTo1(  ): inteiro
-retornaLaTo2(  ): inteiro
-retornaLaTo3(  ): inteiro
-calcularArea(  ): real
-calcularPerimetro(  ): inteiro
-QUNSTÃO 31	
-O cóTigo To métoTo calcularPerimetro( ) Teve
-A	 ser criaTo fora Ta classe Triangulo.
-B	 estar Tentro To métoTo calcularArea( ).
-C	 retornar um valor To tipo real após seu processamento.
-M	 ter moTificaTor Te acesso público para ser executaTo a partir Te outra classe.
-QUNSTÃO 32	
-A linguagem Te programação escolUiTa para construir o programa precisa ser capaz Te
-A	 permitir a Uerança múltipla para criar várias instâncias Te um triângulo.
-B	 aTotar a recursiviTaTe como principal mecanismo Te repetição Tas instruções.
-C	 ocultar os atributos Tentro Ta classe fazenTo com que eles sejam acessaTos apenas por meio Te seus métoTos.
-M	 realizar a sobrecarga Tos métoTos a fim Te criar mais Te um métoTo com o mesmo nome.
-QUNSTÃO 33	
-Um estuTante propõe-se a enriquecer a programação, acrescentanTo nova funcionaliTaTe para iTentificar se o triângulo é 
-equilátero, isósceles ou escaleno. Assim, o estuTante Teve
-A	 instanciar objetos Ta classe Triangulo, TanTo ao nome Ta instância o tipo To triângulo formaTo.
-B	 criar um novo métoTo na classe Triangulo para Teterminar o seu tipo com base nos valores Tos laTos.
-C	 acrescentar um novo atributo à classe Triangulo Te forma que o usuário informe o nome To triângulo criaTo.
-M	 separar a classe Triangulo em três classes Tistintas, uma para caTa tipo específico Te triângulo a ser formaTo.
-Área livre
-*R0404202520*
-R04042025 - COMPUTACAO.inTb   20
-R04042025 - COMPUTACAO.inTb   20
-21/08/2025   10:06:38
-21/08/2025   10:06:38
+g
+QUESTÃO 33	
+Um estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é 
+equilátero, isósceles ou escaleno. Assim, o estudante deve
+A	 instanciar objetos da classe Triangulo, dando ao nome da instância o tipo do triângulo formado.
+B	 criar um novo método na classe Triangulo para determinar o seu tipo com base nos valores dos lados.
+C	 acrescentar um novo atributo à classe Triangulo de forma que o usuário informe o nome do triângulo criado.
+D	 separar a classe Triangulo em três classes distintas, uma para cada tipo específico de triângulo a ser formado.
+
+Texto para questões 34 e 35
+Durante a pandemia da covid-19, houve um acréscimo no número de estudantes de licenciatura na modalidade de Educação a 
+Distância, conforme indicado na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em 
+sua estrutura curricular, adotando formato híbrido, combinando práticas presenciais com atividades mediadas por tecnologias digitais.
+Número de licenciados concluintes por modalidade e ano
+Disponível em: www.gov.br/inep. Acesso em: 30 maio 2025.

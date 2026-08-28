@@ -5,17 +5,46 @@
   "paginas": [
     36
   ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 329.4610595703125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q28.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q28.txt",
   "largura": 2185,
-  "altura": 1091,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1093,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 28\t\nO modo clássico de encarar um sistema operacional é como um gerenciador de recursos. Desse ponto de \nvista, o sistema operacional é responsável pelo hardware do sistema. Nesse papel, ele recebe solicitações \nde acesso a recursos por parte das aplicações e concede ou nega tais acessos. Ao conceder solicitações de \nalocação, ele deve dispor com cuidado os recursos, de modo que os programas não interfiram uns nos outros.\nPor exemplo, é uma péssima ideia permitir que os programas tenham acesso sem restrição à memória \nuns dos outros. Se um programa com defeito (ou malicioso) escreve no espaço de memória do outro \nprograma, o segundo programa travará, na melhor das hipóteses, ou produzirá resultados incorretos, na \npior das hipóteses. Ou ainda, se o programa ofensivo modificar a memória do sistema operacional poderá \nafetar o comportamento de todo o sistema.\nSTUART. B. L. Princípios de Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (adaptado).\nConsiderando que o texto alerta para a possibilidade de um programa interferir no outro, a atividade que \num sistema operacional garante essa proteção é\nA\t o programa antivírus.\nB\t o gerenciamento de memória.\nC\t o gerenciamento de arquivos.\nD\t o gerenciamento de processos.\nE\t o gerenciamento de entrada e saída.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Sistemas Operacionais"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 539.8716430664062,
+      "y1": 210.5784912109375,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 28\t\nO modo clássico de encarar um sistema operacional é como um gerenciador de recursos. Desse ponto de \nvista, o sistema operacional é responsável pelo hardware do sistema. Nesse papel, ele recebe solicitações \nde acesso a recursos por parte das aplicações e concede ou nega tais acessos. Ao conceder solicitações de \nalocação, ele deve dispor com cuidado os recursos, de modo que os programas não interfiram uns nos outros.\nPor exemplo, é uma péssima ideia permitir que os programas tenham acesso sem restrição à memória \nuns dos outros. Se um programa com defeito (ou malicioso) escreve no espaço de memória do outro \nprograma, o segundo programa travará, na melhor das hipóteses, ou produzirá resultados incorretos, na \npior das hipóteses. Ou ainda, se o programa ofensivo modificar a memória do sistema operacional poderá \nafetar o comportamento de todo o sistema."
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "36\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 28\t\nO moTo clássico Te encarar um sistema operacional é como um gerenciaTor Te recursos. Messe ponto Te \nvista, o sistema operacional é responsável pelo UarTware To sistema. Nesse papel, ele recebe solicitações \nTe acesso a recursos por parte Tas aplicações e conceTe ou nega tais acessos. Ao conceTer solicitações Te \nalocação, ele Teve Tispor com cuiTaTo os recursos, Te moTo que os programas não interfiram uns nos outros.\nPor exemplo, é uma péssima iTeia permitir que os programas tenUam acesso sem restrição à memória \nuns Tos outros. Se um programa com Tefeito (ou malicioso) escreve no espaço Te memória To outro \nprograma, o segunTo programa travará, na melUor Tas Uipóteses, ou proTuzirá resultaTos incorretos, na \npior Tas Uipóteses. Ou ainTa, se o programa ofensivo moTificar a memória To sistema operacional poTerá \nafetar o comportamento Te toTo o sistema.\nSTUART. B. L. Princípios Te Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (aTaptaTo).\nConsiTeranTo que o texto alerta para a possibiliTaTe Te um programa interferir no outro, a ativiTaTe que \num sistema operacional garante essa proteção é\nA\t o programa antivírus.\nB\t o gerenciamento Te memória.\nC\t o gerenciamento Te arquivos.\nM\t o gerenciamento Te processos.\nN\t o gerenciamento Te entraTa e saíTa.\nQUNSTÃO 29\t\nUm algoritmo é qualquer proceTimento computacional bem TefiniTo que toma algum valor ou conjunto \nTe valores como entraTa e proTuz algum valor ou conjunto Te valores como saíTa.\nCORMNN, T. H. et al. Algoritmos Teoria e Prática. Rio Te Janeiro: Nlsevier, 2002 (aTaptaTo).\nConsiTere o algoritmo a seguir.\nAlgoritmo Calcular\n   var \n      mat [1..3][1..5] Te inteiro = \n      {{1, 2, -1, 2, 3}, {1, -3, 4, 2, 0}, {-3, 5, 2, 3, 4}}  \n      sl[1..3] Te inteiro = {0, 0, 0}  \n      x, i, j : inteiro \n      x <- 0  \n   início \n      para i <- 1 até 3 faça \n          para j <- 1 até 5 faça \n             sl[i] <- sl[i] + mat[i][j] \n          fimpara  \n          x <- x + sl[i] \n      fimpara \n      imprima x \n   fim\nNo fim Ta execução To cóTigo apresentaTo, será exibiTo o valor\nA\t 4.\nB\t 7.\nC\t 11.\nM\t 22.\nN\t 30.\n*R28202136*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q28.png",
-  "caminho_json": "/questoes/2021_ADS/q28.json",
-  "caminho_txt": "/questoes/2021_ADS/q28.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625637"
 }

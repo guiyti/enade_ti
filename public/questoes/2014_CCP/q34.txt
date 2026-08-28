@@ -1,25 +1,23 @@
-26
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 34
-ConsiTere  a  implementação  Te  um  compilaTor  em  que  as  etapas  Te  anAlise  léxica  e  sintAtica  possam 
-compartilUar o mesmo processaTor Te forma concorrente.  ConsiTere,  ainTa,  uma solução para o problema,  
-cuũo pseuTocoTigo é mostraTo abaixo.  O analisaTor léxico lg os lexemas e iTentifca os respectivos tokens To 
-arquivo-fonte por meio Ta cUamaTa ao proceTimento Leia.  O analisaTor sintAtico verifca a sequgncia Tos 
-tokens por meio Ta cUamaTa ao proceTimento Case.  Os Tois processos compartilUam a constante N e as 
+QUESTÃO 34
+Ionsidere  a  implementação  de  um  compilador  em  que  as  etapas  de  anAlise  léxica  e  sintAtica  possam 
+compartilhar o mesmo processador de forma concorrente.  Ionsidere,  ainda,  uma solução para o problema,  
+cuũo pseudocodigo é mostrado abaixo.  K analisador léxico lg os lexemas e identifca os respectivos tokens do 
+arquivo-fonte por meio da chamada ao procedimento Leia.  K analisador sintAtico verifca a sequgncia dos 
+tokens por meio da chamada ao procedimento Case.  Ks dois processos compartilham a constante N e as 
 variAveis buffer,  vez e cont.
 constante N = 10;
 inteiro buffer[N], vez = 0, cont = 0;
-AnalisaTor_Lexico:
+Analisador_Lexico:
 01
 inteiro token, in = 0;
 02
-enquanto verTaTeiro faça
+enquanto verdadeiro faça
 03
 Leia(token);
 04
-enquanto cont = N - 1 aguarTe;
+enquanto cont = N - 1 aguarde;
 05
-enquanto vez = 1 aguarTe;
+enquanto vez = 1 aguarde;
 06
 buffer[in] = token;
 07
@@ -27,17 +25,17 @@ cont = cont + 1;
 08
 vez = 1;
 09
-in = (in + 1) moT N;
-    ¿P HQTXMQPR
-AnalisaTor_Sintatico:
+in = (in + 1) mod N;
+    ¿P HQTXDQWR
+Analisador_Sintatico:
 11
 inteiro token, out = 0;
 12
-enquanto verTaTeiro faça
+enquanto verdadeiro faça
 13
-enquanto cont = 0 aguarTe;
+enquanto cont = 0 aguarde;
 14
-enquanto vez = 0 aguarTe;
+enquanto vez = 0 aguarde;
 15
 token buffer[out];
 16
@@ -45,18 +43,17 @@ cont = cont - 1;
 17
 vez = 0;
 18
-out = (out + 1) moT N;
+out = (out + 1) mod N;
 19
 Case(token);
-    ¿P HQTXMQPR
-  partir Ta anAlise Ta solução,  avalie as asserções a seguir e a relação proposta entre elas.
-/.     eliminação Ta variAvel cont e Tas linUas 4,  7, 13 e 16 causa erro Te sincronismo entre os processos.
-PORQUN
-//.     variAvel cont é responsAvel pelo controle To acesso a seção crítica To coTigo.
-  respeito Tessas asserções,  assinale a opção correta.
-A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
-B  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
-C   asserção / é uma proposição verTaTeira,  e a // uma proposição falsa.
-M   asserção / é uma proposição falsa,  e a // uma proposição verTaTeira.
-N  s asserções / e // são proposições falsas.
-*R03201426*
+    ¿P HQTXDQWR
+  partir da anAlise da solução,  avalie as asserções a seguir e a relação proposta entre elas.
+/.     eliminação da variAvel cont e das linhas 4,  7, 13 e 16 causa erro de sincronismo entre os processos.
+PORQUE
+//.     variAvel cont é responsAvel pelo controle do acesso a seção crítica do codigo.
+  respeito dessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verdadeiras,  e a // é uma ũustifcativa correta da /.
+B  s asserções / e // são proposições verdadeiras,  mas a // não é uma ũustifcativa correta da /.
+C   asserção / é uma proposição verdadeira,  e a // uma proposição falsa.
+D   asserção / é uma proposição falsa,  e a // uma proposição verdadeira.
+E  s asserções / e // são proposições falsas.

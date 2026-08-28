@@ -1,27 +1,23 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-17
-QUNSTÃO 33  
-Métricas Te confiabiliTaTe Te software Tizem respeito à probabiliTaTe Te um componente Te software proTuzir uma 
-saíTa incorreta. Originalmente as métricas Te confiabiliTaTe foram criaTas para componentes Te UarTware, consistinTo 
-em Tesgaste mecânico, aquecimento elétrico e fatores físicos relacionaTos aos componentes. Não Uá Tesgaste em 
-componentes Te software, que poTem, inclusive, continuar operanTo mesmo após a proTução Te um resultaTo incorreto.
-Observe os quaTros a seguir, a fim Te iTentificar algumas métricas Te confiabiliTaTe e TisponibiliTaTe Te um TaTo 
-sistema SCST.
-QuaTro 1
+QUESTÃO 33  
+Métricas de confiabilidade de software dizem respeito à probabilidade de um componente de software produzir uma 
+saída incorreta. Originalmente as métricas de confiabilidade foram criadas para componentes de hardware, consistindo 
+em desgaste mecânico, aquecimento elétrico e fatores físicos relacionados aos componentes. Não há desgaste em 
+componentes de software, que podem, inclusive, continuar operando mesmo após a produção de um resultado incorreto.
+Observe os quadros a seguir, a fim de identificar algumas métricas de confiabilidade e disponibilidade de um dado 
+sistema SIST.
+Quadro 1
  
-Cnst1
-Cnst2
-Cnst3
-Cnst4
-Cnst5
-Cnst6
-Cnst7
-Cnst8
-Cnst9
-Cnst 10
-SCST
+Inst1
+Inst2
+Inst3
+Inst4
+Inst5
+Inst6
+Inst7
+Inst8
+Inst9
+Inst 10
+SIST
 S
 S
 N
@@ -32,10 +28,10 @@ N
 N
 S
 S
-Nm que S inTica que SCST estava Tisponível no instante Te tempo (CnstX) Te número X e
-N inTica que o SCST não estava Tisponível no instante Te tempo (CnstX) Te número X.
+Em que S indica que SIST estava disponível no instante de tempo (InstX) de número X e
+N indica que o SIST não estava disponível no instante de tempo (InstX) de número X.
  
-QuaTro 2
+Quadro 2
  
 Soli1
 Soli2
@@ -47,7 +43,7 @@ Soli7
 Soli8
 Soli9
 Soli10
-SCST
+SIST
 F
 N
 F
@@ -58,9 +54,9 @@ N
 N
 N
 N
-Nm que F inTica que SCST falUou quanTo se fez a ele a solicitação (SoliX) Te número X e
-N inTica que o SCST não falUou quanTo se fez a ele a solicitação (SoliX) Te número X.
-QuaTro 3
+Em que F indica que SIST falhou quando se fez a ele a solicitação (SoliX) de número X e
+N indica que o SIST não falhou quando se fez a ele a solicitação (SoliX) de número X.
+Quadro 3
  
 Fal1
 Fal2
@@ -72,7 +68,7 @@ Fal7
 Fal8
 Fal9
 Fal 10
-SCST
+SIST
 09
 16
 20
@@ -83,12 +79,11 @@ SCST
 36
 41
 45
-O valor inTica o instante, em uma TaTa uniTaTe Te tempo, em que ocorreu a falUa (FalX) Te número X.
-Assinale a alternativa que corresponTe, respectivamente, aos valores Tas métricas TisponibiliTaTe (em porcentagem), 
-taxa Te ocorrência Te falUa (em porcentagem) e tempo méTio entre falUas (em uniTaTe Te tempo).
+O valor indica o instante, em uma dada unidade de tempo, em que ocorreu a falha (FalX) de número X.
+Assinale a alternativa que corresponde, respectivamente, aos valores das métricas disponibilidade (em porcentagem), 
+taxa de ocorrência de falha (em porcentagem) e tempo médio entre falhas (em unidade de tempo).
 A   40; 30; 27,7.
 B   60; 30; 27,7.
 C   60; 70; 4.
-M   40; 30; 4.
-N   40; 70; 4.
-*A25201117*
+D   40; 30; 4.
+E   40; 70; 4.

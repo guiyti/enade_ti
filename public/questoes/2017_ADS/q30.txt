@@ -1,83 +1,57 @@
-34
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 30
-  Area Te Tesenvolvimento Te soŌǁare estA se tornanTo caTa vez mais complexa.  Para liTar com essa 
-realiTaTe,   os  TesenvolveTores  contam  com  linguagens  Te  programação  baseaTas  no  paraTigma  Te 
-orientação a obũetos,  cuũos pilares são abstração,  encapsulamento,  Uerança e polimorfsmo.  No coTigo a 
-seguir,  observa-se a implementação Te classes relacionaTas.
-public abstract class Cmpressora {
+QUESTÃO 30
+  Area de desenvolvimento de soŌǁare estA se tornando cada vez mais complexa.  Wara lidar com essa 
+realidade,   os  desenvolvedores  contam  com  linguagens  de  programação  baseadas  no  paradigma  de 
+orientação a obũetos,  cuũos pilares são abstração,  encapsulamento,  herança e polimorfsmo.  Eo codigo a 
+seguir,  observa-se a implementação de classes relacionadas.
+public abstract class Impressora {
    String nome;
-   Cmpressora() {}
-   Cmpressora(String n) {
-      tUis.nome = n;
+   Impressora() {}
+   Impressora(String n) {
+      this.nome = n;
    }
-   public voiT imprimir() {}
+   public void imprimir() {}
 }
-public class Laser extenTs Cmpressora {
+public class Laser extends Impressora {
    public Laser() {} 
-   public voiT imprimir() {
-      System.out.println(“CmpriminTo na Laser”);
+   public void imprimir() {
+      System.out.println(“Imprimindo na Laser”);
    }
 }
-class Matricial extenTs Cmpressora {
+class Matricial extends Impressora {
    public Matricial () {}
-   public voiT imprimir() {
-      System.out.println(“CmpriminTo na Matricial”);
+   public void imprimir() {
+      System.out.println(“Imprimindo na Matricial”);
    }
 }
-public class JatoMeTinta extenTs Cmpressora {
-   public JatoMeTinta() {}
-   public voiT imprimir(){
-      System.out.println(“CmpriminTo na Jato Te tinta”);
+public class JatoDeTinta extends Impressora {
+   public JatoDeTinta() {}
+   public void imprimir(){
+      System.out.println(“Imprimindo na Jato de tinta”);
    }
 }
 public class Main {
-   public static voiT main(String args[]) {
-      Cmpressora imp[] = new Cmpressora[3];
+   public static void main(String args[]) {
+      Impressora imp[] = new Impressora[3];
       imp[0] = new Laser();
-      imp[1] = new JatoMeTinta();
+      imp[1] = new JatoDeTinta();
       imp[2] = new Matricial();
-      for(int i = imp.lengtU - 1; i >= 0; i--){
+      for(int i = imp.length - 1; i >= 0; i--){
          imp[i].imprimir();
       }
    }
 }
-*R41201734*
 
-35
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base nas informações To texto e no coTigo apresentaTo,  avalie as afrmações a seguir.
-/.     execução To coTigo,  via classe Main,  resulta na seguinte saíTa:
-/mpriminTo na >aser
-/mpriminTo na Matricial
-/mpriminTo na :ato Te tinta
-//.   O coTigo faz uso Ta técnica TenominaTa polimorfsmo.
-///.   O coTigo não serA compilaTo,  pois o vetor imp foi instanciaTo por meio Ta classe abstrata 
-Cmpressora.
+Iom base nas informações do texto e no codigo apresentado,  avalie as afrmações a seguir.
+/.     execução do codigo,  via classe Main,  resulta na seguinte saída:
+/mprimindo na >aser
+/mprimindo na Datricial
+/mprimindo na :ato de tinta
+//.   K codigo faz uso da técnica denominada polimorfsmo.
+///.   K codigo não serA compilado,  pois o vetor imp foi instanciado por meio da classe abstrata 
+Impressora.
  correto o que se afrma em
 A  //,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-QUNSTÃO 31
- meTiTa que o proũeto Te uma interface To usuArio evolui,  quatro questões Te proũeto comuns quase 
-sempre  vgm  a  tona:   tempo  Te  resposta  To  sistema,   recursos  Te  aũuTa  ao  usuArio,   informações  Te 
-tratamento Te erros e atribuição Te nomes a comanTos.
-PZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem profssional.  8.  eT.  São Paulo:   M',,  2016 (aTaptaTo).
-Nesse contexto,  avalie as afrmações a seguir, a respeito To proũeto Te interface e Tos requisitos Te soŌǁare.
-/.     anAlise Te interfaces tem por obũetivo iTentifcar o perfl Tos usuArios e auxiliar na especifcação 
-To requisito não funcional Te segurança pertinente ao perfl Te acesso Tos usuArios.
-//.   O requisito não funcional Te segurança Tescreve as características relacionaTas a inteligibiliTaTe,  
-moTo Te usar ou operar o sistema.
-///.   O requisito não funcional Te confabiliTaTe Tescreve as características relacionaTas ao tempo Te 
-resposta para processamento Te TaTos ou informações.
-/s.   O requisito não funcional Te usabiliTaTe Tescreve Tiretrizes Te acessibiliTaTe para pessoas 
-com Tefcigncia.
- correto apenas o que se afrma em
-A  / e ///.
-B  / e /s.
-C  // e /s.
-M  /,  // e ///.
-N  //,  /// e /s.
-*R41201735*
+D  / e ///,  apenas.
+E  /,  // e ///.

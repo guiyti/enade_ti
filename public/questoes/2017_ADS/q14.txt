@@ -1,80 +1,55 @@
-21
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO 14 
-O métoTo To caminUo crítico iTentifca a sequgncia 
-Te ativiTaTes que o gerente Te proũetos Teve Tar 
-mais  atenção,   porque,   caso  uma  Telas  atrase,  
-toTo o proũeto estarA atrasaTo.    tabela a seguir 
-apresenta a estrutura Te ativiTaTes Te um proũeto.
- tiviTaTe
- tiviTaTe
-preTecessora
-Muração 
-em Tias
+QUESTÃO 14 
+K método do caminho crítico identifca a sequgncia 
+de atividades que o gerente de proũetos deve dar 
+mais  atenção,   porque,   caso  uma  delas  atrase,  
+todo o proũeto estarA atrasado.    tabela a seguir 
+apresenta a estrutura de atividades de um proũeto.
+ tividade
+ tividade
+predecessora
+Duração 
+em dias
  
 --
 3
 B
  
 5
-C
+I
 --
 12
-M
+D
 --
 4
-N
-M
+E
+D
 2
 F
-M
+D
 5
 '
 F
 7
 ,
-N e '
+E e '
 8
 /
 B
 11
 :
-C,  , e /
+I,  , e /
 3
-  partir Tas informações apresentaTas na tabela,  
+  partir das informações apresentadas na tabela,  
 avalie as afrmações a seguir.
-/.   O  caminUo  crítico  é  composto  pelas 
-ativiTaTes  ,  B,  / e :.
-//.   O caminUo crítico tem 27 Tias.
-///.     ativiTaTe , faz parte To caminUo crítico.
-/s.   O  proũeto  em  pauta  possui  Tois  caminUos 
+/.   K  caminho  crítico  é  composto  pelas 
+atividades  ,  B,  / e :.
+//.   K caminho crítico tem 27 dias.
+///.     atividade , faz parte do caminho crítico.
+/s.   K  proũeto  em  pauta  possui  dois  caminhos 
 críticos.
  correto apenas o que se afrma em
 A  / e //.
 B  / e /s.
 C  // e ///.
-M  /,  /// e /s.
-N  //,  /// e /s.
-Area livre
-YUNSTãO 15 
-Uma  empresa  multinacional  estA  avalianTo  um 
-inciTente Te segurança ocorriTo internamente com 
-o envolvimento Te um Te seus funcionArios,  o que 
-poTerA  ser  motivo  para  o  encerramento  Te  seu 
-contrato.  O referiTo funcionArio estava realizanTo o 
-compartilUamento Te senUas e também envianTo 
-mensagens  por  meio  To  serviço  Te  correio 
-eletrƀnico Ta empresa,  com o obũetivo Te Tifamar 
-e caluniar outros colegas Te trabalUo.
-Nessa  situação,   Te  acorTo  com  as  políticas 
-Te  segurança  que  Tefnem  os  Tireitos  e  as 
-responsabiliTaTes  Te  caTa  um  em  relação  a 
-segurança Tos recursos computacionais que utiliza,  
-o funcionArio violou a política Te
-A  senUas.
-B backup.
-C  privaciTaTe.
-M  uso aceitAvel.
-N  confTencialiTaTe.
-Area livre
-*R41201721*
+D  /,  /// e /s.
+E  //,  /// e /s.

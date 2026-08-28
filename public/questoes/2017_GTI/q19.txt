@@ -1,95 +1,89 @@
-22
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 19
-ConsiTere o moTelo Te TaTos a seguir.  
-  empresa que se utilizou To moTelo Te TaTos apresentaTo Teseũava obter um relatorio com a quantiTaTe 
-e o total Te venTas por venTeTor,  a caTa ano,  conforme a tabela a seguir.
+QUESTÃO 19
+Ionsidere o modelo de dados a seguir.  
+  empresa que se utilizou do modelo de dados apresentado deseũava obter um relatorio com a quantidade 
+e o total de vendas por vendedor,  a cada ano,  conforme a tabela a seguir.
  no
-senTeTor
-YuantiTaTe Te venTas
-Total Te venTas
+sendedor
+Yuantidade de vendas
+dotal de vendas
 2015
-senTeTor  
+sendedor  
 53
 54 658
 2015
-senTeTor B
+sendedor B
 57
 33 874
 2015
-senTeTor C
+sendedor I
 65
 85 489
 2016
-senTeTor  
+sendedor  
 80
 45 987
 2016
-senTeTor B
+sendedor B
 73
 86 458
 2016
-senTeTor C
+sendedor I
 49
 89 452
 2016
-senTeTor M
+sendedor D
 95
 78 698
-*R43201722*
 
-23
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-Com base nessas informações,  assinale a opção com a consulta SY> que gera corretamente os TaTos To 
-relatorio solicitaTo pela empresa.
-A SNLNCT
-  YNAR(p.Tt_peTiTo) AS ano,
-  v.Ts_nome AS venTeTor,
-  COUNT(MCSTCNCT p.iT_peTiTo) AS qtT_venTas,
-  SUM(ip.qt_proTuto * ip.vl_unitario) AS tot_venTas
-FROM tb_venTeTor v
-CNNNR JOCN tb_peTiTo p ON v.iT_venTeTor = p.iT_venTeTor
-CNNNR JOCN tb_item_peTiTo ip ON p.iT_peTiTo = ip.iT_peTiTo
-GROUP BY year(p.Tt_peTiTo), v.Ts_nome
-ORMNR BY year(p.Tt_peTiTo), v.Ts_nome;
-B SNLNCT
-  YNAR(Tt_peTiTo) AS ano,
-  v.Ts_nome AS venTeTor,
-  COUNT(MCSTCNCT p.iT_peTiTo) AS qtT_venTas,
-  SUM(ip.qt_proTuto * ip.vl_unitario) AS tot_venTas
-FROM tb_venTeTor v
-CNNNR JOCN tb_peTiTo p ON v.iT_venTeTor = p.iT_venTeTor
-CNNNR JOCN tb_item_peTiTo ip ON p.iT_peTiTo = ip.iT_peTiTo
-GROUP BY Tt_peTiTo, Ts_nome
-ORMNR BY year(p.Tt_peTiTo), v.Ts_nome;
-C SNLNCT
-  YNAR(Tt_peTiTo) AS ano,
-  v.Ts_nome AS venTeTor,
-  AVG(p.iT_peTiTo) AS qtT_venTas,
-  SUM(ip.qt_proTuto * ip.vl_unitario) AS tot_venTas
-FROM tb_venTeTor v
-OUTNR JOCN tb_peTiTo p ON v.iT_venTeTor = p.iT_venTeTor
-OUTNR JOCN tb_item_peTiTo ip ON p.iT_peTiTo = ip.iT_peTiTo
-GROUP BY year(p.Tt_peTiTo), v.Ts_nome
-ORMNR BY year(p.Tt_peTiTo), v.Ts_nome;
-M SNLNCT
-  YNAR(p.Tt_peTiTo) AS ano,
-  v.Ts_nome AS venTeTor,
-  COUNT(p.iT_peTiTo) AS qtT_venTas,
-  SUM(ip.qt_proTuto * ip.vl_unitario) AS tot_venTas
-FROM tb_venTeTor v
-CNNNR JOCN tb_peTiTo p ON v.iT_venTeTor = p.iT_venTeTor
-CNNNR JOCN tb_item_peTiTo ip ON p.iT_peTiTo = ip.iT_peTiTo
-GROUP BY p.Tt_peTiTo, v.Ts_nome
-ORMNR BY p.Tt_peTiTo, v.Ts_nome;
-N SNLNCT
-  YNAR(p.Tt_peTiTo) AS ano,
-  v.Ts_nome AS venTeTor,
-  AVG(MCSTCNCT p.iT_peTiTo) AS qtT_venTas,
-  SUM(ip.qt_proTuto * ip.vl_unitario) AS tot_venTas
-FROM tb_peTiTo p
-CNNNR JOCN tb_item_peTiTo ip ON p.iT_peTiTo = ip.iT_peTiTo
-RCGHT JOCN tb_venTeTor v ON p.iT_venTeTor =  v.iT_venTeTor
-GROUP BY year(p.Tt_peTiTo), v.Ts_nome
-ORMNR BY year(p.Tt_peTiTo), v.Ts_nome;
-*R43201723*
+Iom base nessas informações,  assinale a opção com a consulta ^Y> que gera corretamente os dados do 
+relatorio solicitado pela empresa.
+A SELECT
+  YEAR(p.dt_pedido) AS ano,
+  v.ds_nome AS vendedor,
+  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,
+  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+FROM tb_vendedor v
+INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+GROUP BY year(p.dt_pedido), v.ds_nome
+ORDER BY year(p.dt_pedido), v.ds_nome;
+B SELECT
+  YEAR(dt_pedido) AS ano,
+  v.ds_nome AS vendedor,
+  COUNT(DISTINCT p.id_pedido) AS qtd_vendas,
+  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+FROM tb_vendedor v
+INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+GROUP BY dt_pedido, ds_nome
+ORDER BY year(p.dt_pedido), v.ds_nome;
+C SELECT
+  YEAR(dt_pedido) AS ano,
+  v.ds_nome AS vendedor,
+  AVG(p.id_pedido) AS qtd_vendas,
+  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+FROM tb_vendedor v
+OUTER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+OUTER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+GROUP BY year(p.dt_pedido), v.ds_nome
+ORDER BY year(p.dt_pedido), v.ds_nome;
+D SELECT
+  YEAR(p.dt_pedido) AS ano,
+  v.ds_nome AS vendedor,
+  COUNT(p.id_pedido) AS qtd_vendas,
+  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+FROM tb_vendedor v
+INNER JOIN tb_pedido p ON v.id_vendedor = p.id_vendedor
+INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+GROUP BY p.dt_pedido, v.ds_nome
+ORDER BY p.dt_pedido, v.ds_nome;
+E SELECT
+  YEAR(p.dt_pedido) AS ano,
+  v.ds_nome AS vendedor,
+  AVG(DISTINCT p.id_pedido) AS qtd_vendas,
+  SUM(ip.qt_produto * ip.vl_unitario) AS tot_vendas
+FROM tb_pedido p
+INNER JOIN tb_item_pedido ip ON p.id_pedido = ip.id_pedido
+RIGHT JOIN tb_vendedor v ON p.id_vendedor =  v.id_vendedor
+GROUP BY year(p.dt_pedido), v.ds_nome
+ORDER BY year(p.dt_pedido), v.ds_nome;

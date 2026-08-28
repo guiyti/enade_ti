@@ -1,31 +1,27 @@
-33
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 25	
-Uma TeterminaTa empresa To ramo Te piscicultura solicitou a uma instituição especializaTa no 
-Tesenvolvimento Te softwares Te gestão a construção Te um sistema que fosse capaz Te gerenciar o 
-processo Te criação Tos peixes, que começava ainTa na fase Te alevinos, estenTia-se para a engorTa, 
-finalizanTo na fase aTulta com a venTa To peixe. O sistema Teveria Tisponibilizar funcionaliTaTes 
-para armazenar informações sobre toTa a etapa Ta criação, mortanTaTe e rações utilizaTas na 
-engorTa Tos peixes, viabilizanTo uma melUor tomaTa Te Tecisão Tos investiTores. Como não Uavia 
-nenUuma solução e a TemanTa por peixes estava aumentanTo, a empresa solicitou extrema urgência 
-na construção Ta aplicação.
-ConsiTeranTo o processo Te Tesenvolvimento Te software que Teverá ser utilizaTo para construir o 
-sistema mencionaTo no texto, avalie as afirmações a seguir.
-C.	 Para Tesenvolver o sistema, Teve ser aTotaTo um processo baseaTo no moTelo cascata, pois ele 
-se aTapta melUor a cenários com muitas muTanças.
-CC.	 Por se tratar Te uma aplicação com escopo pequeno, o moTelo espiral Teverá ser utilizaTo 
-no Tesenvolvimento To sistema solicitaTo, já que reTuzirá riscos por meio Ta prototipação Te 
-especificações Te caTa fase Tos peixes e Timinuirá o tempo Te entrega.
-CCC.	 O moTelo incremental Teve ser utilizaTo na construção To software Tescrito no cenário, já que 
-partes To sistema referentes à fase inicial Tos peixes poTeriam ser TisponibilizaTas, enquanto as 
-Temais estão nas etapas Te concepção e Tesenvolvimento.
-CV.	 Nm razão Ta extrema urgência no Tesenvolvimento To software solicitaTo, a empresa Teve elaborar 
-seu processo utilizanTo o moTelo RAM (RapiT Application Mevelopment).
+QUESTÃO 25	
+Uma determinada empresa do ramo de piscicultura solicitou a uma instituição especializada no 
+desenvolvimento de softwares de gestão a construção de um sistema que fosse capaz de gerenciar o 
+processo de criação dos peixes, que começava ainda na fase de alevinos, estendia-se para a engorda, 
+finalizando na fase adulta com a venda do peixe. O sistema deveria disponibilizar funcionalidades 
+para armazenar informações sobre toda a etapa da criação, mortandade e rações utilizadas na 
+engorda dos peixes, viabilizando uma melhor tomada de decisão dos investidores. Como não havia 
+nenhuma solução e a demanda por peixes estava aumentando, a empresa solicitou extrema urgência 
+na construção da aplicação.
+Considerando o processo de desenvolvimento de software que deverá ser utilizado para construir o 
+sistema mencionado no texto, avalie as afirmações a seguir.
+I.	 Para desenvolver o sistema, deve ser adotado um processo baseado no modelo cascata, pois ele 
+se adapta melhor a cenários com muitas mudanças.
+II.	 Por se tratar de uma aplicação com escopo pequeno, o modelo espiral deverá ser utilizado 
+no desenvolvimento do sistema solicitado, já que reduzirá riscos por meio da prototipação de 
+especificações de cada fase dos peixes e diminuirá o tempo de entrega.
+III.	 O modelo incremental deve ser utilizado na construção do software descrito no cenário, já que 
+partes do sistema referentes à fase inicial dos peixes poderiam ser disponibilizadas, enquanto as 
+demais estão nas etapas de concepção e desenvolvimento.
+IV.	 Em razão da extrema urgência no desenvolvimento do software solicitado, a empresa deve elaborar 
+seu processo utilizando o modelo RAD (Rapid Application Development).
 É correto apenas o que se afirma em
-A	 C.
-B	 CV.
-C	 C e CC.
-M	 CC e CCC.
-N	 CCC e CV.
-Área livre
-*R28202133*
+A	 I.
+B	 IV.
+C	 I e II.
+D	 II e III.
+E	 III e IV.

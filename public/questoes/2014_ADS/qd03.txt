@@ -1,63 +1,11 @@
-9
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-COMPONNNTN NSPNCÍFCCO
-QUNSTÃO MCSCURSCVA 3
- s classes costumam possuir relacionamentos entre si,  cUamaTos Te associações,  que permitem que elas 
-compartilUem informações entre si e colaborem para a execução Tos processos executaTos pelo sistema.
-Com base nesse contexto,  construa um Tiagrama Te classes para representar as seguintes associações:
-ͻ  uma revista cienơfca possui ơtulo,  /SSN e perioTiciTaTe͖
-ͻ  essa revista publica Tiversas eTições com os seguintes atributos:  numero Ta eTição,  volume Ta eTição e Tata 
-Te eTição.  /mportante Testacar que caTa instancia Ta classe eTição relaciona-se unica e exclusivamente a 
-uma instancia Ta classe revista cientifca,  não poTenTo relacionar-se com nenUuma outra͖
-ͻ  um artigo possui ơtulo e nome To autor.  Um artigo é um conteuTo exclusivo Te uma eTição.  N uma eTição 
+QUESTÃO DISCURSIVA 3
+ s classes costumam possuir relacionamentos entre si,  chamados de associações,  que permitem que elas 
+compartilhem informações entre si e colaborem para a execução dos processos executados pelo sistema.
+Iom base nesse contexto,  construa um diagrama de classes para representar as seguintes associações:
+ͻ  uma revista cienơfca possui ơtulo,  /^^E e periodicidade͖
+ͻ  essa revista publica diversas edições com os seguintes atributos:  numero da edição,  volume da edição e data 
+de edição.  /mportante destacar que cada instancia da classe edição relaciona-se unica e exclusivamente a 
+uma instancia da classe revista cientifca,  não podendo relacionar-se com nenhuma outra͖
+ͻ  um artigo possui ơtulo e nome do autor.  hm artigo é um conteudo exclusivo de uma edição.  E uma edição 
 obrigatoriamente tem que possuir no mínimo 10 e no mAximo 15 artigos.
 (valor:  10, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R4020149*
-
-10
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO MCSCURSCVA 4
-Uma estrutura Te TaTos To tipo pilUa poTe ser usaTa em um algoritmo que permite imprimir uma palavra Te 
-forma invertiTa.  Nxemplo:  &N>/C/M MN Teve ser impresso como NM M/C/>N&.
-UtilizanTo as variAveis TeclaraTas abaixo:
-pilUa[1..50]: caractere;
-i, topo: inteiro;
-palavra: string;
-Nm pseuTocoTigo,  faça o que se peTe nos itens a seguir.
-a)  Mesenvolva a rotina pusU que inclui um elemento na pilUa.  (valor:  3, 0 pontos)
-b)  Mesenvolva a rotina pop que retira um elemento Ta pilUa.  (valor:  3, 0 pontos)
-c)  Mesenvolva a rotina que leia a palavra e,  usanTo a pilUa,  a imprima Te forma invertiTa.  (valor:  4, 0 pontos)
-Caso necessite Te mais espaço,  TiviTa as linUas em Tuas ou trgs colunas.  
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R40201410*

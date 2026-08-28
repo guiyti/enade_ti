@@ -1,88 +1,30 @@
-19
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-YUNSTãO 15 
-  arquitetura Te Tistribuição Tiz respeito ao moTo 
-como  uma  organização  Tistribui  fsicamente 
-entre  os  seus  computaTores,   em  uma  reTe,   o 
-processamento Tos TaTos e o seu banco Te TaTos.  
-Nssa  arquitetura  traz  consequgncias  importantes 
-para o TesempenUo e o uso To banco Te TaTos.   s 
-reTes Te computaTores permitem que um Sistema 
-'erenciaTor  Te  Banco  Te  MaTos  (S'BM),   que  é 
-executaTo  em  um  computaTor,   possa  acessar 
-TaTos Te outro computaTor.  .
-'OZMON S. Z.͖  'OZMON :. Z.  Sistemas Te /nformação:  
-uma aborTagem gerencial.  3.  eT.  Zio Te :aneiro:
- >TC,  2013 (aTaptaTo).
-ConsiTeranTo esse contexto,  avalie as Tescrições 
-a  seguir,   acerca  Te  opções  Te  arquiteturas  Te 
-TaTos utilizaTos por aTministraTores e especialistas 
-em S'BM.
-/.    rquitetura  TescentralizaTa:   não  envolve 
-compartilUamento Te TaTos.
-//.    rquitetura  centralizaTa:   um  unico  S'BM 
-é  executaTo  em  um  unico  computaTor  e 
-mantém os TaTos Te forma centralizaTa.
-///.    rquitetura mista:  permite,  por meio To seu 
-S'BM,   que  se  obtenUa  um  processamento 
-consoliTaTo,   com  TaTos  TistribuíTos  e 
-centralizaTos  Te  forma  simultanea  sem 
-que  Uaũa  reTunTancia  Te  TaTos  e  Te 
-processamento.
-/s.    rquitetura 
-clienteͬ serviTor:  
-TiviTe 
-as 
-funções  Te  um  S'BM  entre  computaTores 
-conectaTos 
-em 
-uma 
-reTe 
-enquanto 
-centraliza  o  armazenamento  permanente 
-para  toTos  os  TaTos  em  um  serviTor  Te 
-banco Te TaTos.
-V.  rquitetura  TistribuíTa:   Tistribui  tanto 
-TaTos  como  processamento  e  não  Tispõe,  
-necessariamente,  
-Te 
-armazenamento 
-centralizaTo Te TaTos.
- correto apenas o que se Tescreve em
-A  /// e /s.
-B  /,  //,  e s.
-C  /,  /// e /s.
-M  //,  /// e s.
-N  /,  //,  /s e s.
-QUNSTÃO 16
-SabenTo-se  que,   na  Area  Te  segurança  Ta 
-informação,   uma  empresa  poTe  apresentar 
-inumeras fragiliTaTes,  avalie as afrmações a seguir.
-/.      instabiliTaTe  Tos  sistemas  corporativos 
-compromete  a  TisponibiliTaTe  Tas 
+QUESTÃO 16
+^abendo-se  que,   na  Area  de  segurança  da 
+informação,   uma  empresa  pode  apresentar 
+inumeras fragilidades,  avalie as afrmações a seguir.
+/.      instabilidade  dos  sistemas  corporativos 
+compromete  a  disponibilidade  das 
 informações.
-//.   YuanTo as informações presentes nas bases 
-Te  TaTos  corporativas  possuem  refergncia 
-Te sua fonte eͬ ou critério que permite sua 
-valiTação,   ocorre  comprometimento  em 
-sua autenticiTaTe.
-///.  Se a entraTa Te informações TepenTe To 
-atenTimento  Te  critérios  Te  valiTação 
-com  base  nos  requisitos  Tos  sistemas  e 
-nas  regras  Te  negocio,   a  integriTaTe  Tas 
-informações é preũuTicaTa.
-/s.   Compromete-se  a  confTencialiTaTe  Ta 
-informação  quanTo  não  UA  controle  To 
-seu  uso  pelos  usuArios,   possibilitanTo  a 
-impressão  eͬ ou  copia  Te  informações  To 
-ambiente  corporativo  sem  a  iTentifcação 
-To usuArio responsAvel ou Ta Testinação Te 
+//.   Yuando as informações presentes nas bases 
+de  dados  corporativas  possuem  refergncia 
+de sua fonte eͬ ou critério que permite sua 
+validação,   ocorre  comprometimento  em 
+sua autenticidade.
+///.  ^e a entrada de informações depende do 
+atendimento  de  critérios  de  validação 
+com  base  nos  requisitos  dos  sistemas  e 
+nas  regras  de  negocio,   a  integridade  das 
+informações é preũudicada.
+/s.   Iompromete-se  a  confdencialidade  da 
+informação  quando  não  hA  controle  do 
+seu  uso  pelos  usuArios,   possibilitando  a 
+impressão  eͬ ou  copia  de  informações  do 
+ambiente  corporativo  sem  a  identifcação 
+do usuArio responsAvel ou da destinação de 
 tal ação.
  correto apenas o que se afrma em
 A  / e ///.
 B  / e /s.
 C  // e ///.
-M  /,  // e /s.
-N  //,  /// e /s.
-Area livre
-*R43201719*
+D  /,  // e /s.
+E  //,  /// e /s.

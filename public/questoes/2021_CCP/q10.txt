@@ -1,73 +1,34 @@
-19
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 09	
-QuanTo um computaTor é multiprogramaTo, ele 
-geralmente tem múltiplos processos ou tUreaTs 
-que competem pela CPU ao mesmo tempo. 
-Nssa situação ocorre sempre que Tois ou mais 
-processos estão simultaneamente no estaTo 
-pronto. Se somente uma CPU se encontrar 
-Tisponível, Teverá ser feita uma escolUa Te 
-qual processo executar em seguiTa. A parte To 
-sistema operacional que faz a escolUa é cUamaTa 
-Te escalonaTor, e o algoritmo que ele usa é o 
-algoritmo Te escalonamento.
-TANNNBAUM, A. S. Sistemas Operacionais MoTernos. 
-3. eT., São Paulo: Pearson, 2010 (aTaptaTo).
-ConsiTeranTo que em ambientes Tiferentes são 
-necessários algoritmos Tiferentes Te escalonamento, 
-garantinTo assim que seja maximizaTo o uso Te 
-seus recursos, assinale a opção que apresenta um 
-algoritmo Te escalonamento seguiTo To tipo Te 
-ambiente no qual Teva ser implementaTo.
-A	 Primeiro a cUegar, último a sair (first in, last out 
-- FCLO); propício para sistemas Te tempo real.
-B	 Nscalonamento 
-por 
-taxas 
-monotônicas 
-(rate monotonic scUeTuling - RMS); propício 
-para sistemas em lote.
-C	 Tarefa mais curta primeiro; propício para 
-sistemas interativos.
-M	 Nscalonamento por cUave circular (rounT-robin); 
-propício para sistemas Te tempo real.
-N	 Nscalonamento por prioriTaTes; propício para 
-sistemas interativos.
-Área livre
-QUNSTÃO 10	
-A biblioteca Te coleções Ta linguagem Java 
-Tisponibiliza implementações Te propósito 
-geral para estruturas Te TaTos elementares, 
-como listas, filas e pilUas. ConsiTere as 
-seguintes Tefinições Te classes que representam 
+QUESTÃO 10	
+A biblioteca de coleções da linguagem Java 
+disponibiliza implementações de propósito 
+geral para estruturas de dados elementares, 
+como listas, filas e pilhas. Considere as 
+seguintes definições de classes que representam 
 implementações 
-Te 
+de 
 estruturas 
-Te 
-TaTos 
-Tisponíveis na biblioteca Ta linguagem:
-•	Classe A: os objetos são organizaTos em uma 
-orTem linear e poTem ser inseriTos somente 
-no início ou no final Tessa sequência;
-•	Classe B: os objetos são organizaTos em uma 
-orTem linear TeterminaTa por uma referência 
+de 
+dados 
+disponíveis na biblioteca da linguagem:
+•	Classe A: os objetos são organizados em uma 
+ordem linear e podem ser inseridos somente 
+no início ou no final dessa sequência;
+•	Classe B: os objetos são organizados em uma 
+ordem linear determinada por uma referência 
 ao próximo objeto;
-•	Classe C: os objetos são removiTos na orTem 
-oposta em que foram inseriTos;
-•	Classe M: os objetos são inseriTos e removiTos 
-respeitanTo a seguinte regra: o elemento 
-a ser removiTo é sempre aquele que foi 
-inseriTo primeiro.
+•	Classe C: os objetos são removidos na ordem 
+oposta em que foram inseridos;
+•	Classe D: os objetos são inseridos e removidos 
+respeitando a seguinte regra: o elemento 
+a ser removido é sempre aquele que foi 
+inserido primeiro.
 Nesse contexto, assinale a alternativa que 
-representa, respectivamente, as estruturas Te 
-TaTos implementaTas pelas classes A, B, C e M.
-A	 Lista circular, lista simplesmente ligaTa, pilUa 
+representa, respectivamente, as estruturas de 
+dados implementadas pelas classes A, B, C e D.
+A	 Lista circular, lista simplesmente ligada, pilha 
 e fila.
-B	 Meque, lista simplesmente ligaTa, pilUa e fila.
-C	 Lista Tuplamente ligaTa, lista simplesmente 
-ligaTa, fila e pilUa.
-M	 PilUa, fila, Teque e lista simplesmente encaTeaTa.
-N	 Meque, pilUa, lista ligaTa e fila.
-Área livre
-*R02202119*
+B	 Deque, lista simplesmente ligada, pilha e fila.
+C	 Lista duplamente ligada, lista simplesmente 
+ligada, fila e pilha.
+D	 Pilha, fila, deque e lista simplesmente encadeada.
+E	 Deque, pilha, lista ligada e fila.

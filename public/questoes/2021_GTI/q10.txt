@@ -1,29 +1,25 @@
-20
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 10	
-MeciTir o que é certo ou erraTo nem sempre é fácil ou simples. Por essa razão, muitas empresas e 
-organizações profissionais Tesenvolvem seus próprios cóTigos Te ética. Um cóTigo Te ética é um conjunto 
-Te princípios TestinaTos a guiar a tomaTa Te Tecisões pelos membros Ta organização. A TiversiTaTe e o 
-uso caTa vez mais TifunTiTo Te aplicações Te TC criaram Tiversos aspectos éticos. Nsses aspectos poTem 
-se encaixar em categorias relacionaTas à privaciTaTe Ta informação, que envolve coletar, armazenar e 
-Tisseminar informações sobre pessoas.
-TURBAN N.; RACNNR O. J.; POTTNR R. N. CntroTução a Sistemas Te Cnformação: 
-uma aborTagem gerencial. Rio Te Janeiro: Nlsevier, 2007 (aTaptaTo).
-ConsiTeranTo a categoria privaciTaTe To cóTigo Te ética, avalie as afirmações a seguir.
-C.	 O cóTigo Te ética Tetermina quem é responsável pela autenticiTaTe, fiTeliTaTe e exatiTão Tas 
-informações coletaTas. 
-CC.	 O cóTigo Te ética estabelece que tipo Te vigilância um empregaTor poTe exercer sobre 
-seus empregaTos.
-CCC.	 O cóTigo Te ética orienta como o acesso aos canais Te informação Teve ser alocaTo. 
-CV.	 O cóTigo Te ética Tefine quais informações Tevem ser TivulgaTas aos usuários Te sistemas Te 
+QUESTÃO 10	
+Decidir o que é certo ou errado nem sempre é fácil ou simples. Por essa razão, muitas empresas e 
+organizações profissionais desenvolvem seus próprios códigos de ética. Um código de ética é um conjunto 
+de princípios destinados a guiar a tomada de decisões pelos membros da organização. A diversidade e o 
+uso cada vez mais difundido de aplicações de TI criaram diversos aspectos éticos. Esses aspectos podem 
+se encaixar em categorias relacionadas à privacidade da informação, que envolve coletar, armazenar e 
+disseminar informações sobre pessoas.
+TURBAN E.; RAINER K. J.; POTTER R. E. Introdução a Sistemas de Informação: 
+uma abordagem gerencial. Rio de Janeiro: Elsevier, 2007 (adaptado).
+Considerando a categoria privacidade do código de ética, avalie as afirmações a seguir.
+I.	 O código de ética determina quem é responsável pela autenticidade, fidelidade e exatidão das 
+informações coletadas. 
+II.	 O código de ética estabelece que tipo de vigilância um empregador pode exercer sobre 
+seus empregados.
+III.	 O código de ética orienta como o acesso aos canais de informação deve ser alocado. 
+IV.	 O código de ética define quais informações devem ser divulgadas aos usuários de sistemas de 
 informação.
-V.	 O cóTigo Te ética Tetermina que informações Tevem ser mantiTas em bancos Te TaTos e qual o 
-nível Te segurança Tessas informações.
+V.	 O código de ética determina que informações devem ser mantidas em bancos de dados e qual o 
+nível de segurança dessas informações.
 É correto apenas o que se afirma em
-A	 C, CC e CCC.
-B	 C, CC e CV.
-C	 C, CCC e V.
-M	 CC, CV e V.
-N	 CCC, CV e V.
-Área livre
-*R29202120*
+A	 I, II e III.
+B	 I, II e IV.
+C	 I, III e V.
+D	 II, IV e V.
+E	 III, IV e V.

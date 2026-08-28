@@ -5,17 +5,46 @@
   "paginas": [
     9
   ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 577.8809814453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/q04.txt",
   "largura": 2185,
-  "altura": 2126,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2128,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 04  \n Além do contexto econômico, o avanço da tecnologia também é um dos responsáveis pelo aumento dos \ntrabalhadores informais. E a tendência de contratação de  freelancers por meio de plataformas digitais,\ncomo aplicati vos de  delivery e de mobilidade urbana, ganhou até um nome:  Gig Economy , ou economia \ndos bicos. Para os gigantes de tecnologia detentores desses aplicati vos, os motoristas são trabalhadores \nautônomos, que não possuem vínculo empregatí cio. Além de não estarem sujeitos a nenhuma \nregulamentação e proteção legal, os profi ssionais que desenvolvem esse ti po de trabalho deixam de \ncontribuir para a Previdência Social e de possuir benefí cios como Fundo de Garanti a por Tempo de \nServiço (FGTS), férias e décimo terceiro salário. Não obstante, ainda arcam com todo o custo da ati vidade \nque exercem. Em uma reportagem que ouviu alguns desses trabalhadores, motoristas afi rmaram sofrer \ncom problemas de coluna e com o estresse no trânsito, além das longas jornadas de trabalho. Por esses \nmoti vos, a  Gig Economy está no centro de uma discussão mundial acerca da responsabilidade dessas \ncompanhias milionárias sobre as condições de trabalho da mão de obra que contratam. No meio do limbo \njurídico, quem sofre são os trabalhadores dessas plataformas, que fi cam duplamente desprotegidos ― \npelas empresas e pelo Estado.\n Disponível em: htt ps://exame.abril.com.br/carreira/quais-sao-as-consequencia-do-trabalho-informal-no-pais/. \nAcesso em: 18 abr. 2020 (adaptado).\n A parti r das informações apresentadas, avalie as asserções a seguir e a relação proposta entre elas.\nI.  Trabalhadores autônomos informais que atuam em plataformas digitais sem qualquer vínculo \nempregatí cio, desprotegidos de regulamentação ou lei trabalhista, compõem a  Gig Economy .\n PORQUE\nII.  Os trabalhadores, na  Gig Economy , arcam com todos os custos necessários para desempenhar \no seu trabalho, ganham por produção e enfrentam longas jornadas diárias, o que os deixa mais \ndesgastados e com problemas de saúde.\n A respeito dessas asserções, assinale a opção correta.\nA  As asserções I e II são proposições verdadeiras, e a II é uma justi fi cati va correta da I.\nB  As asserções I e II são proposições verdadeiras, mas a II não é uma justi fi cati va correta da I.\nC  A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD  A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE  As asserções I e II são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 104.47579193115234,
+      "y1": 92.04254150390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 04"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "9\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 04  \n Além To contexto econômico, o avanço Ta tecnologia também é um Tos responsáveis pelo aumento Tos \ntrabalUaTores informais. N a tenTência Te contratação Te  freelancers por meio Te plataformas Tigitais,\ncomo aplicati vos Te  Telivery e Te mobiliTaTe urbana, ganUou até um nome:  Gig Nconomy , ou economia \nTos bicos. Para os gigantes Te tecnologia Tetentores Tesses aplicati vos, os motoristas são trabalUaTores \nautônomos, que não possuem vínculo empregatí cio. Além Te não estarem sujeitos a nenUuma \nregulamentação e proteção legal, os profi ssionais que Tesenvolvem esse ti po Te trabalUo Teixam Te \ncontribuir para a PreviTência Social e Te possuir benefí cios como FunTo Te Garanti a por Tempo Te \nServiço (FGTS), férias e Técimo terceiro salário. Não obstante, ainTa arcam com toTo o custo Ta ati viTaTe \nque exercem. Nm uma reportagem que ouviu alguns Tesses trabalUaTores, motoristas afi rmaram sofrer \ncom problemas Te coluna e com o estresse no trânsito, além Tas longas jornaTas Te trabalUo. Por esses \nmoti vos, a  Gig Nconomy está no centro Te uma Tiscussão munTial acerca Ta responsabiliTaTe Tessas \ncompanUias milionárias sobre as conTições Te trabalUo Ta mão Te obra que contratam. No meio To limbo \njuríTico, quem sofre são os trabalUaTores Tessas plataformas, que fi cam Tuplamente TesprotegiTos ― \npelas empresas e pelo NstaTo.\n Misponível em: Utt ps://exame.abril.com.br/carreira/quais-sao-as-consequencia-To-trabalUo-informal-no-pais/. \nAcesso em: 18 abr. 2020 (aTaptaTo).\n A parti r Tas informações apresentaTas, avalie as asserções a seguir e a relação proposta entre elas.\nC.  TrabalUaTores autônomos informais que atuam em plataformas Tigitais sem qualquer vínculo \nempregatí cio, TesprotegiTos Te regulamentação ou lei trabalUista, compõem a  Gig Nconomy .\n PORQUN\nCC.  Os trabalUaTores, na  Gig Nconomy , arcam com toTos os custos necessários para TesempenUar \no seu trabalUo, ganUam por proTução e enfrentam longas jornaTas Tiárias, o que os Teixa mais \nTesgastaTos e com problemas Te saúTe.\n A respeito Tessas asserções, assinale a opção correta.\nA  As asserções C e CC são proposições verTaTeiras, e a CC é uma justi fi cati va correta Ta C.\nB  As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justi fi cati va correta Ta C.\nC  A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.\nM  A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.\nN  As asserções C e CC são proposições falsas.\nÁrea livre\n*R2920219*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/q04.png",
-  "caminho_json": "/questoes/2021_GTI/q04.json",
-  "caminho_txt": "/questoes/2021_GTI/q04.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343280"
 }

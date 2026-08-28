@@ -1,27 +1,24 @@
-21
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 18
-O Tiagrama a seguir,  em notação BPMN (Business Process Management Notation),  representa grafcamente 
-o processo Te aquisição Te matéria-prima Te uma inTustria,  no qual apresenta-se o Ňuxo Te trabalUo entre 
-seus setores e forneceTores.  Mestaca-se que,  para atenTer normas Te responsabiliTaTe socioambiental,  
-a inTustria trabalUa somente com forneceTores UomologaTos,  ou seũa,  que cumprem requisitos técnicos 
+QUESTÃO 18
+K diagrama a seguir,  em notação BWDE (Business Wrocess Danagement Eotation),  representa grafcamente 
+o processo de aquisição de matéria-prima de uma industria,  no qual apresenta-se o Ňuxo de trabalho entre 
+seus setores e fornecedores.  Destaca-se que,  para atender normas de responsabilidade socioambiental,  
+a industria trabalha somente com fornecedores homologados,  ou seũa,  que cumprem requisitos técnicos 
 e legais.
-Com base nessa situação e no processo representaTo,  avalie as afrmações a seguir.
-/.   O abastecimento To estoque e a autorização To pagamento ao forneceTor TepenTem Ta aprovação 
-resultante Ta confergncia To material entregue no Teposito.
-//.   Somente  Tepois  Te  se  Tistribuir  a  matéria-prima  ao  setor  requisitante  é  que  a  autorização  To 
-pagamento serA realizaTa.
-///.   No  Tiagrama,   são  representaTos  cinco  momentos  Te  Tecisão  que,   conforme  seu  resultaTo,  
-estabelecem caminUos Tiferentes Te prosseguimento To Ňuxo Te ativiTaTes.  
-/s.    nota fscal serA recebiTa pelo Teposito ũunto com a matéria-prima e serA repassaTa ao fnanceiro 
-somente Tepois Ta aprovação Tessa matéria-prima.
-V. O processo seria otimizaTo se fosse criaTo e mantiTo um caTastro Te forneceTores UomologaTos 
-para se evitar a repetição Tas tarefas a caTa requisição͖  com isso,  somente novos forneceTores 
-exigiriam a execução Te ativiTaTes Te Uomologação.
+Iom base nessa situação e no processo representado,  avalie as afrmações a seguir.
+/.   K abastecimento do estoque e a autorização do pagamento ao fornecedor dependem da aprovação 
+resultante da confergncia do material entregue no deposito.
+//.   ^omente  depois  de  se  distribuir  a  matéria-prima  ao  setor  requisitante  é  que  a  autorização  do 
+pagamento serA realizada.
+///.   Eo  diagrama,   são  representados  cinco  momentos  de  decisão  que,   conforme  seu  resultado,  
+estabelecem caminhos diferentes de prosseguimento do Ňuxo de atividades.  
+/s.    nota fscal serA recebida pelo deposito ũunto com a matéria-prima e serA repassada ao fnanceiro 
+somente depois da aprovação dessa matéria-prima.
+V. K processo seria otimizado se fosse criado e mantido um cadastro de fornecedores homologados 
+para se evitar a repetição das tarefas a cada requisição͖  com isso,  somente novos fornecedores 
+exigiriam a execução de atividades de homologação.
  correto apenas o que se afrma em
 A  /,  // e ///.
 B /,  /// e /s.
 C /,  /s e s.
-M //,  /// e s.
-N //,  /s e s.
-*R43201721*
+D //,  /// e s.
+E //,  /s e s.

@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
-  "largura": 1223,
-  "altura": 1725,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 474.4344787597656,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q12.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q12.txt",
+  "largura": 1222,
+  "altura": 1600,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 12\nEo  cenArio  de  uma  economia  globalizada,   cresce \no  interesse  pelo  empreendedorismo  e  pela  busca \nde  meios  que  levem  a  uma  maior  produtividade,  \ncompetitividade  e  inovação.   Ks  avanços  das \ntecnologias  da  informação  e  comunicação  (d/I) \nauxiliam esse crescimento.   tualmente,  uma parcela \nsignifcativa  dos  negocios  tem  uma  dependgncia \nforte das d/I.\nDesse modo,  manter a disponibilidade da informação \ne  comunicação  e  manter  os  negocios  operando,  \nsem  qualquer  paralisação,   é  indispensAvel.   Worém,  \né  preciso  analisar  o  que  pode  ser  afetado,   qual  o \nimpacto fnanceiro e quais os impactos na imagem e \nna reputação da empresa,  se cada um dos processos \nde negocio sofresse uma paralisação por conta da d/I.\n   fm  de  mitigar  possíveis  riscos,   é  recomendAvel \ndocumentar  um  plano  para  eliminar  ou  reduzir  a \npossibilidade de ocorrer cenArios de indisponibilidade \nda d/I.  Eessa situação,  é preciso elaborar um\nA plano de negocio.\nB documento de visão.\nC plano de continggncia.\nD plano de gergncia de riscos.\nE plano de gerenciamento de proũetos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 12"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "15\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 12\nNo  cenArio  Te  uma  economia  globalizaTa,   cresce \no  interesse  pelo  empreenTeTorismo  e  pela  busca \nTe  meios  que  levem  a  uma  maior  proTutiviTaTe,  \ncompetitiviTaTe  e  inovação.   Os  avanços  Tas \ntecnologias  Ta  informação  e  comunicação  (T/C) \nauxiliam esse crescimento.   tualmente,  uma parcela \nsignifcativa  Tos  negocios  tem  uma  TepenTgncia \nforte Tas T/C.\nMesse moTo,  manter a TisponibiliTaTe Ta informação \ne  comunicação  e  manter  os  negocios  operanTo,  \nsem  qualquer  paralisação,   é  inTispensAvel.   Porém,  \né  preciso  analisar  o  que  poTe  ser  afetaTo,   qual  o \nimpacto fnanceiro e quais os impactos na imagem e \nna reputação Ta empresa,  se caTa um Tos processos \nTe negocio sofresse uma paralisação por conta Ta T/C.\n   fm  Te  mitigar  possíveis  riscos,   é  recomenTAvel \nTocumentar  um  plano  para  eliminar  ou  reTuzir  a \npossibiliTaTe Te ocorrer cenArios Te inTisponibiliTaTe \nTa T/C.  Nessa situação,  é preciso elaborar um\nA plano Te negocio.\nB Tocumento Te visão.\nC plano Te continggncia.\nM plano Te gergncia Te riscos.\nN plano Te gerenciamento Te proũetos.\nÁRNA LCVRN\nQUNSTÃO 13\n  >ei n. Σ 12. 965,  Te 23 Te abril Te 2014,  originalmente \nTenominaTa  Marco  Civil  Ta  /nternet,   estabelece \nprincípios,  garantias,  Tireitos e Teveres para o uso \nTa  /nternet  no  Brasil,   contribuinTo  principalmente \nnas relações Te consumo e segurança Ta informação \npessoal para com os prestaTores Te serviço Te acesso \na /nternet.\nBZ S/>.  Lei n.° 12.965,  Te 23 Te abril Te 2014.\nSuponUa  que  o  cliente  Te  TeterminaTo  proveTor \nTe  acesso  a  /nternet  contrata  um  serviço  com \nvelociTaTe  Te  conexão  Te  5  Megabitsͬ s  (Mbps),  \nmas  tem  continuamente  enfrentaTo  problemas  Te \nperTa Te conexão e,  aTicionalmente,  não obtém a \nvelociTaTe  contrataTa,   apesar  Te  o  cliente  realizar \ntoTos os pagamentos em Tia.\nNessa  situação,   avalie  as  seguintes  asserções  e  a \nrelação proposta entre elas.\n/.      manutenção  Ta  qualiTaTe  contrataTa  Ta \nconexão a /nternet é uma obrigação prevista \nno Marco Civil Ta /nternet.\nPORQUN\n//.   Não  poTe  Uaver  suspensão  Ta  conexão \na  /nternet,   salvo  por  Tébito  Tiretamente \nTecorrente Te sua utilização.\n  respeito Tessas asserções,  assinale a opção correta.\nA  s asserções / e // são proposições verTaTeiras,  e \na // é uma ũustifcativa correta Ta /.\nB  s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC   asserção / é uma proposição verTaTeira,  e a // é \numa proposição falsa.\nM   asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN  s asserções / e // são proposições falsas.\nÁRNA LCVRN\n*R40201415*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q12.png",
-  "caminho_json": "/questoes/2014_ADS/q12.json",
-  "caminho_txt": "/questoes/2014_ADS/q12.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119997"
 }

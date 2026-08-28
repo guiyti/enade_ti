@@ -5,17 +5,46 @@
   "paginas": [
     28
   ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q25.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 25 \nK fragmento de codigo Iнн,  a seguir, contém a implementação da inserção de um no em uma Arvore binAria.\n...\nstruct noArvore {\n   int dado;\n   noArvore *esquerda;\n   noArvore *direita;\n};\nnoArvore *insere(noArvore *arvore, int valor) {\n   if (arvore == NULL) {\n      arvore = new noArvore;\n      arvore->esquerda = NULL;\n      arvore->direita = NULL;\n      arvore->dado = valor;\n   } else if(valor < arvore->dado) {\n        arvore->esquerda = insere (arvore->esquerda, valor);\n     } \n     else {\n        arvore->direita = insere (arvore->direita, valor);\n     } \n     return(arvore);\n}\n...\nIom base no exposto,  assinale a opção que apresenta o fragmento de programa para imprimir os valores \ncontidos nos nos,  percorrendo a Arvore em pré-ordem.\nA void preorder(noArvore *raiz) {\nif (raiz != NULL) { \n      cout << raiz->dado << \" \";\n      preorder(raiz->esquerda);\n      preorder(raiz->direita); \n   } \n}\nB void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->direita); \n      preorder(raiz->esquerda); \n      cout << raiz->dado << \" \"; \n   }\n}\nC void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->esquerda); \n      cout << raiz->dado << \" \"; \n      preorder(raiz->direita); \n}\n}\nD void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->esquerda); \n      preorder(raiz->direita); \n      cout << raiz->dado << \" \"; \n}\n}\nE void preorder(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorder(raiz->direita); \n      cout << raiz->dado << \" \"; \n      preorder(raiz->esquerda); \n   } \n}",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 25"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "28\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 25 \nO fragmento Te coTigo Cнн,  a seguir, contém a implementação Ta inserção Te um no em uma Arvore binAria.\n...\nstruct noArvore {\n   int TaTo;\n   noArvore *esquerTa;\n   noArvore *Tireita;\n};\nnoArvore *insere(noArvore *arvore, int valor) {\n   if (arvore == NULL) {\n      arvore = new noArvore;\n      arvore->esquerTa = NULL;\n      arvore->Tireita = NULL;\n      arvore->TaTo = valor;\n   } else if(valor < arvore->TaTo) {\n        arvore->esquerTa = insere (arvore->esquerTa, valor);\n     } \n     else {\n        arvore->Tireita = insere (arvore->Tireita, valor);\n     } \n     return(arvore);\n}\n...\nCom base no exposto,  assinale a opção que apresenta o fragmento Te programa para imprimir os valores \ncontiTos nos nos,  percorrenTo a Arvore em pré-orTem.\nA voiT preorTer(noArvore *raiz) {\nif (raiz != NULL) { \n      cout << raiz->TaTo << \" \";\n      preorTer(raiz->esquerTa);\n      preorTer(raiz->Tireita); \n   } \n}\nB voiT preorTer(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorTer(raiz->Tireita); \n      preorTer(raiz->esquerTa); \n      cout << raiz->TaTo << \" \"; \n   }\n}\nC voiT preorTer(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorTer(raiz->esquerTa); \n      cout << raiz->TaTo << \" \"; \n      preorTer(raiz->Tireita); \n}\n}\nM voiT preorTer(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorTer(raiz->esquerTa); \n      preorTer(raiz->Tireita); \n      cout << raiz->TaTo << \" \"; \n}\n}\nN voiT preorTer(noArvore *raiz) { \n   if (raiz != NULL) { \n      preorTer(raiz->Tireita); \n      cout << raiz->TaTo << \" \"; \n      preorTer(raiz->esquerTa); \n   } \n}\n*R41201728*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q25.png",
-  "caminho_json": "/questoes/2017_ADS/q25.json",
-  "caminho_txt": "/questoes/2017_ADS/q25.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601092"
 }

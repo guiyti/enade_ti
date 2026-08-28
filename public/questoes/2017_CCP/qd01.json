@@ -6,17 +6,54 @@
     2,
     3
   ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 106.2890625,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 0
+    },
+    {
+      "pagina": 3,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 279.8780517578125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/qd01.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/qd01.txt",
   "largura": 2440,
-  "altura": 3651,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 3678,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO DISCURSIVA 01\nTEXTO 1\nEm 2001,  a incidgncia da síflis conggnita é transmitida da mulher para o feto durante a gravidez é \nera de um caso a cada mil bebgs nascidos vivos.  ,avia uma meta da Krganização Wan- mericana \nde ^aude e da hnicef de essa ocorrgncia diminuir no Brasil,  chegando,  em 2015,  a 5 casos de sífilis \nconggnita por 10 mil nascidos vivos.  K país não atingiu esse obũetivo,  tendo se distanciado ainda \nmais dele,  embora o tratamento para sífilis seũa relativamente simples,  a base de antibioticos.  drata-\nse de uma doença para a qual a medicina ũA encontrou a solução,  mas a sociedade ainda não.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ1. folha. uol. com. brх.   cesso em:  23 ũul.  2017 (adaptado).\nTEXTO 2\nK Dinistério da ^aude anunciou que hA uma epidemia de síflis no Brasil.  Eos ultimos cinco anos,  foram \n230 mil novos casos,  um aumento de 32% somente entre 2014 e 2015.  Wor que isso aconteceu͍\nWrimeiro,   ampliou-se  o  diagnostico  com  o  teste  rApido  para  síflis  realizado  na  unidade  bAsica  de \nsaude e cuũo resultado sai em 30 minutos.   í vem o segundo ponto,  um dos mais negativos,  que foi \no  desabastecimento,   no  país,   da  matéria-prima  para  a  penicilina.   K  Dinistério  da  ^aude  importou \nessa penicilina,  mas,  por um bom tempo,  não esteve disponível,  e isso fez com que mais pessoas se \ninfectassem.  K terceiro ponto é a prevenção.  ,ouve,  nos ultimos dez anos,  uma redução do uso do \npreservativo,  o que aumentou,  e muito,  a transmissão.\n  incidgncia de casos de síflis,  que,  em 2010,  era maior entre homens,  hoũe recai sobre as mulheres.  \nWor que a vulnerabilidade neste grupo estA aumentando͍\n s mulheres ainda são as mais vulnerAveis a doenças sexualmente transmissíveis (D^d),  de uma forma geral.  \nElas tgm difculdade de negociar o preservativo com o parceiro,  por exemplo.  Das o acesso da mulher \nao diagnostico também é maior, por isso,  é mais fAcil contabilizar essa população.  Yuando um homem \nfaz exame para a síflis͍  ^omente quando tem sintoma aparente ou outra doença.  E a síflis pode ser uma \ndoença silenciosa.    mulher, por outro lado,  vai fazer o pré-natal e,  automaticamente,  faz o teste para a \nsíflis.  Eo Brasil,  estima-se que apenas 12% dos parceiros sexuais recebam tratamento para síflis.\nEntrevista com  na 'abriela dravassos,  presidente da regional baiana da ^ociedade Brasileira de Doenças ^exualmente \ndransmissíveis.  Disponível em:  фhtp:ͬͬ\nǁǁǁ. agenciapatriciagalvao. org. brх.   cesso em:  25 ũul.  2017 (adaptado).\nTEXTO 3\nsArios estudos constatam que os homens,  em geral,  padecem mais de condições severas e crƀnicas de \nsaude que as mulheres e morrem mais que elas em razão de doenças que levam a obito.  Entretanto,  \napesar de as taxas de morbimortalidade masculinas assumirem um peso signifcativo,  observa-se que a \npresença de homens nos serviços de atenção primAria a saude é muito menor que a de mulheres.\n'KDE^,  Z.͖  E ^I/DEEdK,  E.͖   Z h:K,  &.  Wor que os homens buscam menos os serviços de saude do que as mulheres͍   s explicações \nde homens com baixa escolaridade e homens com ensino superior.  Iad.  ^aude Wublica [online΁,  v.  23,  n.  3,  2007 (adaptado).\n\npartir das informações apresentadas,  rediũa um texto acerca do tema:\nEpidemia de síflis conggnita no Brasil e relações de ggnero\nEm seu texto,  aborde os seguintes aspectos:\nͻ  a vulnerabilidade das mulheres as D^ds e o papel social do homem em relação a prevenção \ndessas doenças͖\nͻ  duas ações especifcamente voltadas para o publico masculino,  a serem adotadas no ambito das \npolíticas publicas de saude ou de educação,  para reduzir o problema.  \n(valor:  10, 0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "DISCURSIVA",
+      "pagina": 2,
+      "x": 60.60430145263672,
+      "y": 118.2890625,
+      "x1": 185.6347198486328,
+      "y1": 130.2890625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO DISCURSIVA 01"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "2\nCCÊNCCA MA COMPUTAÇÃO\nFORMAÇÃO GNRAL\nQUNSTÃO MCSCURSCVA 01\nTNXTO 1\nNm 2001,  a inciTgncia Ta síflis conggnita é transmitiTa Ta mulUer para o feto Turante a graviTez é \nera Te um caso a caTa mil bebgs nasciTos vivos.  ,avia uma meta Ta Organização Pan- mericana \nTe SauTe e Ta Unicef Te essa ocorrgncia Timinuir no Brasil,  cUeganTo,  em 2015,  a 5 casos Te sífilis \nconggnita por 10 mil nasciTos vivos.  O país não atingiu esse obũetivo,  tenTo se TistanciaTo ainTa \nmais Tele,  embora o tratamento para sífilis seũa relativamente simples,  a base Te antibioticos.  Trata-\nse Te uma Toença para a qual a meTicina ũA encontrou a solução,  mas a socieTaTe ainTa não.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ1. folUa. uol. com. brх.   cesso em:  23 ũul.  2017 (aTaptaTo).\nTNXTO 2\nO Ministério Ta SauTe anunciou que UA uma epiTemia Te síflis no Brasil.  Nos ultimos cinco anos,  foram \n230 mil novos casos,  um aumento Te 32% somente entre 2014 e 2015.  Por que isso aconteceu͍\nPrimeiro,   ampliou-se  o  Tiagnostico  com  o  teste  rApiTo  para  síflis  realizaTo  na  uniTaTe  bAsica  Te \nsauTe e cuũo resultaTo sai em 30 minutos.   í vem o segunTo ponto,  um Tos mais negativos,  que foi \no  Tesabastecimento,   no  país,   Ta  matéria-prima  para  a  penicilina.   O  Ministério  Ta  SauTe  importou \nessa penicilina,  mas,  por um bom tempo,  não esteve Tisponível,  e isso fez com que mais pessoas se \ninfectassem.  O terceiro ponto é a prevenção.  ,ouve,  nos ultimos Tez anos,  uma reTução To uso To \npreservativo,  o que aumentou,  e muito,  a transmissão.\n  inciTgncia Te casos Te síflis,  que,  em 2010,  era maior entre Uomens,  Uoũe recai sobre as mulUeres.  \nPor que a vulnerabiliTaTe neste grupo estA aumentanTo͍\n s mulUeres ainTa são as mais vulnerAveis a Toenças sexualmente transmissíveis (MST),  Te uma forma geral.  \nNlas tgm TifculTaTe Te negociar o preservativo com o parceiro,  por exemplo.  Mas o acesso Ta mulUer \nao Tiagnostico também é maior, por isso,  é mais fAcil contabilizar essa população.  YuanTo um Uomem \nfaz exame para a síflis͍  Somente quanTo tem sintoma aparente ou outra Toença.  N a síflis poTe ser uma \nToença silenciosa.    mulUer, por outro laTo,  vai fazer o pré-natal e,  automaticamente,  faz o teste para a \nsíflis.  No Brasil,  estima-se que apenas 12% Tos parceiros sexuais recebam tratamento para síflis.\nNntrevista com  na 'abriela Travassos,  presiTente Ta regional baiana Ta SocieTaTe Brasileira Te Moenças Sexualmente \nTransmissíveis.  Misponível em:  фUtp:ͬͬ\nǁǁǁ. agenciapatriciagalvao. org. brх.   cesso em:  25 ũul.  2017 (aTaptaTo).\nTNXTO 3\nsArios estuTos constatam que os Uomens,  em geral,  paTecem mais Te conTições severas e crƀnicas Te \nsauTe que as mulUeres e morrem mais que elas em razão Te Toenças que levam a obito.  Nntretanto,  \napesar Te as taxas Te morbimortaliTaTe masculinas assumirem um peso signifcativo,  observa-se que a \npresença Te Uomens nos serviços Te atenção primAria a sauTe é muito menor que a Te mulUeres.\n'OMNS,  Z.͖  N SC/MNNTO,  N.͖   Z U:O,  &.  Por que os Uomens buscam menos os serviços Te sauTe To que as mulUeres͍   s explicações \nTe Uomens com baixa escolariTaTe e Uomens com ensino superior.  CaT.  SauTe Publica [online΁,  v.  23,  n.  3,  2007 (aTaptaTo).\n*R0320172*\n\n3\nCCÊNCCA MA COMPUTAÇÃO\n  partir Tas informações apresentaTas,  reTiũa um texto acerca To tema:\nNpiTemia Te síflis conggnita no Brasil e relações Te ggnero\nNm seu texto,  aborTe os seguintes aspectos:\nͻ  a vulnerabiliTaTe Tas mulUeres as MSTs e o papel social To Uomem em relação a prevenção \nTessas Toenças͖\nͻ  Tuas ações especifcamente voltaTas para o publico masculino,  a serem aTotaTas no ambito Tas \npolíticas publicas Te sauTe ou Te eTucação,  para reTuzir o problema.  \n(valor:  10, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nArea livre\n*R0320173*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/qd01.png",
-  "caminho_json": "/questoes/2017_CCP/qd01.json",
-  "caminho_txt": "/questoes/2017_CCP/qd01.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148764"
 }

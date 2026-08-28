@@ -5,17 +5,46 @@
   "paginas": [
     12
   ],
-  "largura": 1156,
-  "altura": 2695,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 537.9756469726562,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q32.txt",
+  "largura": 1155,
+  "altura": 1092,
+  "confianca": 0.9,
+  "texto_completo": "E risco, tempo e escopo.\nQUESTÃO 32\nO planejamento estratégico de sistemas de informação pode ser\nentendido como o processo de identificação de um porta-fólio\ncomputadorizado de aplicações que dá suporte ao plano de\nnegócios das organizações e auxilia na concretização dos objetivos\norganizacionais. Os principais objetivos do processo de\nplanejamento estratégico de sistemas de informação não incluem\nA o alinhamento das estratégias da área de SI com as estratégias\ndo negócio.\nB o comprometimento da alta administração, pela alocação dos\nrecursos e resultados intermediários e incrementais.\nC a melhoria do desempenho da área de SI, seja pela alocação\nmais eficaz de recursos, seja pelo aumento de produtividade\ndos profissionais.\nD a antecipação de tendências, envolvendo inovação tecnológica\ncontínua.\nE a identificação, a avaliação e a validação dos controles\nrelacionados aos sistemas de informação existentes, do ponto\nde vista de sua eficiência e eficácia.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Redes de Computadores"
+    "Governança e Gestão de TI"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 41.400001525878906,
+      "y": 549.9756469726562,
+      "x1": 87.8280029296875,
+      "y1": 555.9756469726562,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 32"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n11\nQUNSTÃO 30\nO Tesenvolvimento global Te software GSM — global\nsoftware Tevelopment — tem-se firmaTo como uma Tas\ngranTes tenTências na área Te sistemas Te informação nas\norganizações. ConsiTere que uma organização Ta área Te\nvarejo e Tistribuição seTiaTa na Nuropa tenUa implantaTo três\nuniTaTes Te Tesenvolvimento Te software espalUaTas no\nmunTo: uma no Brasil, uma na ÍnTia e outra na CUina.\nConsiTere ainTa que nenUuma Tessas uniTaTes possua\nqualquer tipo Te certificação e que o principal problema Ta\norganização esteja relacionaTo ao Tesenvolvimento Te\nsistemas que atenTam às necessiTaTes Ta organização e que\nreflitam as expectativas Tos clientes globais. \nNessa situação, o nível To moTelo SP-CMM e a OPA (área cUave\nTe processo) mais aTequaTos para a situação apresentaTa são,\nrespectivamente,\nA nível 2, OPA RM – gestão Te requisitos.\nB nível 2, OPA SPP – planejamento.\nC nível 2, OPA SPTO – acompanUamento Te projeto.\nM nível 3, OPA OPM – Tefinição To processo Ta organização.\nN nível 3, OPA SPN – engenUaria Te proTutos Te software.\nQUNSTÃO 31\nO moTelo Te gerenciamento Te projetos To PMC\n(Project Management Cnstitute), Tescrito no PMBOO, envolve\num conjunto Te nove áreas Te conUecimento a serem\nconsiTeraTas com vistas a melUorar o processo Te gestão Te\num projeto, amplianTo-se, conseqüentemente, suas cUances\nTe sucesso. ConsiTere que, no Tesenvolvimento Te um\nsistema Te venTas Te uma empresa que atua no segmento\ninTustrial, o orçamento inicial tenUa siTo extrapolaTo em\n120% e que a equipe Ta área Te sistemas tenUa concluíTo o\nsistema com mais Te quatro meses Te atraso. Nas reuniões\ncom os usuários para a entrega To sistema, foi constataTo que\neste não atenTia às especificações esperaTas pelos usuários. \nNessa situação, eviTenciam-se áreas Te conUecimento que\ncompõem a cUamaTa tripla restrição, que são as áreas Te\ngerenciamento Te\nA escopo, contratação e custo.\nB tempo, contratação e risco.\nC custo, tempo e escopo.\nM contratação, custo e tempo.\nN risco, tempo e escopo.\nQUNSTÃO 32\nO planejamento estratégico Te sistemas Te informação poTe ser\nentenTiTo como o processo Te iTentificação Te um porta-fólio\ncomputaTorizaTo Te aplicações que Tá suporte ao plano Te\nnegócios Tas organizações e auxilia na concretização Tos objetivos\norganizacionais. Os principais objetivos To processo Te\nplanejamento estratégico Te sistemas Te informação não incluem\nA o alinUamento Tas estratégias Ta área Te SC com as estratégias\nTo negócio.\nB o comprometimento Ta alta aTministração, pela alocação Tos\nrecursos e resultaTos intermeTiários e incrementais.\nC a melUoria To TesempenUo Ta área Te SC, seja pela alocação\nmais eficaz Te recursos, seja pelo aumento Te proTutiviTaTe\nTos profissionais.\nM a antecipação Te tenTências, envolvenTo inovação tecnológica\ncontínua.\nN a iTentificação, a avaliação e a valiTação Tos controles\nrelacionaTos aos sistemas Te informação existentes, To ponto\nTe vista Te sua eficiência e eficácia.\nQUNSTÃO 33\nConsiTere que a reTe Te uma empresa usará os protocolos\nTCP/CP para facilitar o acesso To público às informações Tessa\nempresa a partir Te máquinas conectaTas à Cnternet. ConsiTere\nainTa que, ao serem Tescritos os protocolos que serão usaTos na\nreTe, alguns erros foram cometiTos. As Tescrições estão\napresentaTas nos itens a seguir.\nC\nO Cnternet Protocol (CP) provê serviço não-orientaTo a\nconexão, e garante a entrega Tos Tatagramas enviaTos. Além\nTe garantir a entrega Tos Tatagramas enviaTos, outra\nimportante responsabiliTaTe To CP é rotear os Tatagramas\npor meio Te reTes interligaTas. O roteamento é feito usanTo-\nse enTereços CP.\nCC\nO Cnternet Control Message Protocol (CCMP) possibilita\nque mensagens Te erro e Te controle sejam trocaTas entre\nmáquinas. As mensagens CCMP são transferiTas como TaTos\nem Tatagramas To CP.\nCCC O Transmission Control Protocol (TCP) provê um serviço\norientaTo a conexão. Os TaTos são transferiTos por meio Te\numa conexão em uniTaTes conUeciTas como segmentos.\nO TCP espera que a recepção Tos segmentos transmitiTos\nseja confirmaTa pelo Testino e retransmite segmentos cuja\nrecepção não seja confirmaTa.\nCV O User Matagram Protocol (UMP) provê um mecanismo\npara \nque \naplicações \npossam \ncomunicar-se \nusanTo\nTatagramas. O UMP provê um protocolo Te transporte\norientaTo a conexão e não garante a entrega Tos Tatagramas.\nV\nA emulação Te terminal usará o protocolo TNLNNT, e a\ntransferência Te arquivos, o File Transfer Protocol (FTP).\nO correio eletrônico será proviTo pelo Simple Mail Transfer\nProtocol (SMTP) e as mensagens serão transferiTas Tos\nserviTores Te correio eletrônico para as máquinas Tos\nusuários via Cnternet Mail Access Protocol (CMAP).\nNstão corretas apenas as Tescrições\nA C, CC e CV.\nM CC, CCC e V.\nB C, CC e V.\nN CCC, CV e V.\nC C, CCC e CV.\nQUNSTÃO 34\nJulgue os seguintes itens referentes a teste Te software.\nC\nA técnica Te teste funcional, que estabelece os requisitos Te\nteste com base em TeterminaTa implementação, permite\nverificar se são atenTiTos os TetalUes To cóTigo e solicita a\nexecução Te partes ou Te componentes elementares To\nprograma; a técnica Te teste estrutural aborTa o software Te\num ponto Te vista macroscópico e estabelece os requisitos\nTe teste, com base em TeterminaTa implementação.\nCC\nNa fase Te teste Te uniTaTe, o objetivo é explorar-se a\nmenor uniTaTe Te projeto, procuranTo-se iTentificar erros Te\nlógica e Te implementação Te caTa móTulo; na fase Te teste\nTe integração, o objetivo é Tescobrir erros associaTos às\ninterfaces entre os móTulos quanTo esses são integraTos,\npara se construir a estrutura To software, estabeleciTa na\nfase Te projeto.\nCCC Critérios com base na complexiTaTe, em fluxo Te controle\ne em fluxo Te TaTos, são utilizaTos pela técnica estrutural Te\nteste.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q32.png",
-  "caminho_json": "/questoes/2005_CCP/q32.json",
-  "caminho_txt": "/questoes/2005_CCP/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297395"
 }

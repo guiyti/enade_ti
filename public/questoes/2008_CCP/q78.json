@@ -5,17 +5,46 @@
   "paginas": [
     33
   ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 25.0,
+      "y0": 486.6466979980469,
+      "x1": 294.59999999999997,
+      "y1": 779.6522827148438,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q78.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q78.txt",
   "largura": 1153,
-  "altura": 2967,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1251,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 78\nConsiderando o contexto acima, julgue os seguintes itens.\nI\nNo contexto do projeto acima descrito, aquele \ndesempenha o papel de usuário do sistema de inform\nautomatizado não é apenas o paciente, e aquele\ndesempenha o papel de cliente pode não ser um médic\nII\nO sistema de informação manual atualmente em us\nreferida secretaria de saúde não dá suporte aos process\nnegócio dessa secretaria.\nIII O projeto de automação dos serviços de saúde não é\nsolução de outsourcing.\nIV No sistema acima, os riscos de não-repúdio são aument\ncom a automação.\nV Para o gestor do sistema de informação a ser automatiz\na acessibilidade é uma característica de menor import\njurídica frente à necessidade de ampliar a confidencialid\nEstão certos apenas os itens\nA I e II.\nB I e III.\nC II e IV.\nD III e V.\nE IV e V.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Governança e Gestão de TI"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 78,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 35.99909973144531,
+      "y": 498.6466979980469,
+      "x1": 105.36231231689453,
+      "y1": 509.68670654296875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 78"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "32\nCOMPUTAÇÃO\nTexto para as questões 78 e 79\nA Secretaria Te SaúTe Te TeterminaTo município está\nexecutanTo um projeto Te automação To seu sistema Te\natenTimento méTico e laboratorial, atualmente manual. O objetivo\nTo projeto é melUorar a satisfação Tos usuários com relação aos\nserviços prestaTos pela Secretaria. O sistema automatizaTo Teve\ncontemplar os seguintes processos: marcação Te consulta,\nmanutenção Te prontuário To paciente, além To peTiTo e To\nregistro Te resultaTos Te exame laboratorial.\nA Secretaria possui vários postos Te saúTe e caTa um\nTeles atenTe a um ou mais bairros To município. As consultas a\ncaTa paciente são realizaTas no posto Te saúTe mais próximo Te\nonTe ele resiTe. Os exames laboratoriais são realizaTos por\nlaboratórios terceirizaTos e conveniaTos.\nA solução proposta pela equipe Te Tesenvolvimento e\nimplantação Ta automação contempla, entre outros, os seguintes\naspectos:\n<\nsistema computacional To tipo cliente-serviTor na web, em que\ncaTa usuário caTastraTo utiliza login e senUa para fazer uso To\nsistema;\n<\numa aplicação, compartilUaTa por méTicos e laboratórios,\ngerencia o peTiTo e o registro Te resultaTos Tos exames.\nMurante uma consulta o próprio méTico registra o peTiTo Te\nexames no sistema;\n<\numa aplicação, compartilUaTa por méTicos e pacientes,\npermite que ambos tenUam acesso aos resultaTos Tos\nexames laboratoriais; \n<\numa aplicação, compartilUaTa por méTicos e pacientes, que\nautomatiza o prontuário Tos pacientes, em que os registros em\nprontuário, efetuaTos por caTa méTico para caTa paciente,\nestão Tisponíveis apenas para o paciente e o méTico\nespecíficos. Além Tisso, caTa méTico poTe fazer registros\nprivaTos no prontuário To paciente, apenas visíveis por ele;\n<\numa aplicação, compartilUaTa por pacientes e atenTentes Te\npostos Te saúTe, que permite a marcação Te consultas por\npacientes e(ou) por atenTentes. Nsses atenTentes atenTem o\npaciente no balcão ou por telefone.\nQUNSTÃO 78\nConsiTeranTo o contexto acima, julgue os seguintes itens.\nC\nNo contexto To projeto acima Tescrito, aquele que\nTesempenUa o papel Te usuário To sistema Te informação\nautomatizaTo não é apenas o paciente, e aquele que\nTesempenUa o papel Te cliente poTe não ser um méTico.\nCC\nO sistema Te informação manual atualmente em uso na\nreferiTa secretaria Te saúTe não Tá suporte aos processos Te\nnegócio Tessa secretaria.\nCCC O projeto Te automação Tos serviços Te saúTe não é uma\nsolução Te outsourcing.\nCV No sistema acima, os riscos Te não-repúTio são aumentaTos\ncom a automação.\nV Para o gestor To sistema Te informação a ser automatizaTo,\na acessibiliTaTe é uma característica Te menor importância\njuríTica frente à necessiTaTe Te ampliar a confiTencialiTaTe.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CV.\nM CCC e V.\nN CV e V.\nQUNSTÃO 79 – MCSCURSCVA\nConsiTeranTo as informações apresentaTas no texto\ne consiTeranTo ainTa que entre os principais\nbenefícios Te um projeto Te melUoria Te sistema Te\ninformação Testacam-se o aumento Ta: (C)\neficiência; (CC) eficácia; (CCC) integriTaTe; e (CV)\nTisponibiliTaTe, faça o que se peTe a seguir.\nA Cite 4 vantagens Ta solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços Te saúTe, senTo Tuas Telas relativas à\neficiência e Tuas relativas à eficácia.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 79 - A\n1\n2\n3\n4\n5\n6\n7\n8\nB Mescreva 2 riscos Te segurança Ta informação\nque aumentam quanTo se substitui o sistema\natual pelo sistema proposto, e que são relativos\nà interação entre pacientes e os serviços Ta\nreferiTa secretaria Te saúTe. Um Tos riscos Teve\nser relativo à perTa Te TisponibiliTaTe e o outro,\nà perTa Te integriTaTe.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 79 - B\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q78.png",
-  "caminho_json": "/questoes/2008_CCP/q78.json",
-  "caminho_txt": "/questoes/2008_CCP/q78.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395260"
 }

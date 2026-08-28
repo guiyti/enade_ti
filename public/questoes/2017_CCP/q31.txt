@@ -1,39 +1,36 @@
-29
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 31
-ConsiTere o programa a seguir,  que ilustra a criação,  execução e sincronização Te Tuas tUreaTs.
-#incluTe <stTio.U>
-#incluTe <ptUreaT.U>
-int x = 0, y = 0; // Variáveis compartilUaTas
-voiT funcao1(voiT *tUreaTarg){
+QUESTÃO 31
+Ionsidere o programa a seguir,  que ilustra a criação,  execução e sincronização de duas threads.
+#include <stdio.h>
+#include <pthread.h>
+int x = 0, y = 0; // Variáveis compartilhadas
+void funcao1(void *threadarg){
 x = 1;
 ... // várias instruções
 if (y == 0)
 printf("1 ");
-ptUreaT_exit(0);
+pthread_exit(0);
 }
-voiT funcao2(voiT *tUreaTarg){
+void funcao2(void *threadarg){
 y = 1;
 ... // várias instruções
 if (x == 0)
 printf("2 ");
-ptUreaT_exit(0);
+pthread_exit(0);
 }
-voiT main(){
-ptUreaT_t t1, t2;
-// Cria e Tispara t1 que executa funcao1
-ptUreaT_create(&t1, NULL,(voiT *)funcao1, NULL);
-// Cria e Tispara t2 que executa funcao2 
-ptUreaT_create(&t2, NULL,(voiT *)funcao2, NULL); 
-CC 3ML HVSHUM ¿OOR PHUPLQMU
-ptUreaT_join(t1, NULL); 
-CC 3ML HVSHUM ¿OOR PHUPLQMU
-ptUreaT_join(t2, NULL); 
+void main(){
+pthread_t t1, t2;
+// Cria e dispara t1 que executa funcao1
+pthread_create(&t1, NULL,(void *)funcao1, NULL);
+// Cria e dispara t2 que executa funcao2 
+pthread_create(&t2, NULL,(void *)funcao2, NULL); 
+II 3DL HVSHUD ¿OKR WHUPLQDU
+pthread_join(t1, NULL); 
+II 3DL HVSHUD ¿OKR WHUPLQDU
+pthread_join(t2, NULL); 
 }
- o fnal Ta execução Ta função main, serA impresso
+ o fnal da execução da função main, serA impresso
 A  ambos os valores " 1"  e " 2".
 B  o valor Η1Η,  necessariamente.
 C  o valor Η2Η,  necessariamente.
-M  o valor Η1Η,  ou o valor Η2Η,  mas nunca ambos.
-N  o valor Η1Η,  ou o valor Η2Η,  ou nenUum valor,  mas nunca ambos.
-*R03201729*
+D  o valor Η1Η,  ou o valor Η2Η,  mas nunca ambos.
+E  o valor Η1Η,  ou o valor Η2Η,  ou nenhum valor,  mas nunca ambos.

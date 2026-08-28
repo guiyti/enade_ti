@@ -1,64 +1,28 @@
-27
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 28
-Os  métoTos  Ageis  são  funTamentaTos  no 
-Tesenvolvimento  e  entrega  incremental  tenTo 
-em vista atenTer aos requisitos Tos clientes.  Nles 
-agregam  um  conũunto  Te  princípios  provenientes 
-To manifesto Agil,  tais como:
-ͻ  envolvimento To cliente͖
+QUESTÃO 28
+Ks  métodos  Ageis  são  fundamentados  no 
+desenvolvimento  e  entrega  incremental  tendo 
+em vista atender aos requisitos dos clientes.  Eles 
+agregam  um  conũunto  de  princípios  provenientes 
+do manifesto Agil,  tais como:
+ͻ  envolvimento do cliente͖
 ͻ  entrega incremental͖
 ͻ  pessoas,  não processos͖
-ͻ  aceitação Tas muTanças͖
-ͻ  manutenção Ta simpliciTaTe.
-O  Scrum  é  um  exemplo  Te  métoTo  Agil  Te 
-gerenciamento Te proũetos.   valie as afrmações a 
-seguir sobre a relação To Scrum com os princípios 
-To manifesto Agil.
-/.   O  Scrum  aTota  a  entrega  incremental  por 
-meio Te Sprints.
-//.   O Scrum aTota a simpliciTaTe por meio To 
-uso Ta programação em pares.
-///.   O Scrum aTota o envolvimento To cliente com 
-a priorização e a negociação Tos requisitos 
-na concepção Te Sprints.
+ͻ  aceitação das mudanças͖
+ͻ  manutenção da simplicidade.
+K  ^crum  é  um  exemplo  de  método  Agil  de 
+gerenciamento de proũetos.   valie as afrmações a 
+seguir sobre a relação do ^crum com os princípios 
+do manifesto Agil.
+/.   K  ^crum  adota  a  entrega  incremental  por 
+meio de ^prints.
+//.   K ^crum adota a simplicidade por meio do 
+uso da programação em pares.
+///.   K ^crum adota o envolvimento do cliente com 
+a priorização e a negociação dos requisitos 
+na concepção de ^prints.
  correto o que se afrma em
 A  //,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-Area livre
-QUNSTÃO 29
-O  proũetista  To  gerenciaTor  Te  memoria  Te  um 
-novo sistema operacional precisa escolUer entre os 
-algoritmos Te substituição Te pAginas &/&O (First Cn 
-&irst Out - o primeiro a entrar é o primeiro a sair) 
-e >ZU (>east ZecentlǇ UseT - menos recentemente 
-usaTo).   Para  isso,   avaliou  o  numero  Te  faltas  Te 
-pAgina  obtiTas  em  ambos  os  algoritmos  para  o 
-tamanUo  Te  memoria  Te  4  pAginas,   utilizanTo  a 
-sequgncia Te acessos as pAginas 1-2-3-4-1-2-5-1-2-
-3-4-5 Te um processo e memoria inicialmente vazia.  
-Com  base  nessa  simulação,   avalie  as  asserções  a 
-seguir e a relação proposta entre elas.
-/.   Na simulação proposta,  é possível observar 
-que os algoritmos &/&O e >ZU apresentam o 
-mesmo TesempenUo.
-POZYUN
-//.   Os parametros utilizaTos na simulação são 
-insufcientes para Teterminar a Tiferença Te 
-funcionamento entre os algoritmos.
-   respeito  Tessas  asserções,   assinale  a  opção 
-correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
-é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-Area livre
-*R03201727*
+D  / e ///,  apenas.
+E  /,  // e ///.

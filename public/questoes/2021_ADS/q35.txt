@@ -1,36 +1,33 @@
-42
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 35	
-Uma equipe Te matemáticos foi contrataTa para proceTer com a análise e especificação Te critérios para 
-a iTentificação Te potenciais clientes para uma empresa Te seguros. Após a análise, a equipe Teterminou 
-que Teve-se consiTerar as seguintes variáveis:
-a) ser maior Te iTaTe.
-b) possuir resiTência própria ou não.
-c) possuir algum parente que já possui seguro Ta companUia.
-Nm função Ta análise realizaTa, a companUia pretenTe estipular a viabiliTaTe ou não To seguro, além 
-Te TeciTir seu preço. A equipe contrataTa moTelou caTa variável iTentificaTa utilizanTo as seguintes 
+QUESTÃO 35	
+Uma equipe de matemáticos foi contratada para proceder com a análise e especificação de critérios para 
+a identificação de potenciais clientes para uma empresa de seguros. Após a análise, a equipe determinou 
+que deve-se considerar as seguintes variáveis:
+a) ser maior de idade.
+b) possuir residência própria ou não.
+c) possuir algum parente que já possui seguro da companhia.
+Em função da análise realizada, a companhia pretende estipular a viabilidade ou não do seguro, além 
+de decidir seu preço. A equipe contratada modelou cada variável identificada utilizando as seguintes 
 funções booleanas.
-C(x): função que verifica se a pessoa x é maior Te iTaTe.
-R(x): função que verifica se a pessoa x possui resiTência própria.
+I(x): função que verifica se a pessoa x é maior de idade.
+R(x): função que verifica se a pessoa x possui residência própria.
 P(x,y): função que verifica se as pessoas x e y são parentes.
-S(x): função que verifica se a pessoa x já possui seguro Ta companUia.
-Após essa moTelagem matemática, a seguinte tabela foi obtiTa. Nla expressa, utilizanTo a notação Te 
-lógica quantitativa, os critérios para estabelecimento Te viabiliTaTe e eventuais preços Te seguros a 
-serem conceTiTos.
+S(x): função que verifica se a pessoa x já possui seguro da companhia.
+Após essa modelagem matemática, a seguinte tabela foi obtida. Ela expressa, utilizando a notação de 
+lógica quantitativa, os critérios para estabelecimento de viabilidade e eventuais preços de seguros a 
+serem concedidos.
 Critério
-ResultaTo
-¬C(x)
-Cnviável
-C(x)Ù R(x) Ù$y (S(y) Ù P(x, y))
+Resultado
+¬I(x)
+Inviável
+I(x)Ù R(x) Ù$y (S(y) Ù P(x, y))
 Viável, preço: R$200
-C(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))
+I(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))
 Viável, preço: R$300
-¬C(x)Ú (R(x) Ù C (x))
+¬I(x)Ú (R(x) Ù I (x))
 Viável, preço: R$500
-A tabela foi repassaTa à equipe Te programaTores, cenário comum em que profissionais Te 
-Tiferentes áreas To conUecimento Tevem interagir a fim Te obter as soluções TesejaTas. A solução 
-foi implementaTa utilizanTo a linguagem C. ConsiTere que as funções C e R foram escritas e são 
-booleanas, operanTo Te acorTo com a Tefinição TaTa pela equipe. A função “obtem” encapsula o 
-funcionamento Tas funções P e S. Nla percorre a base Te TaTos Ta companUia e obtém um parente 
-Ta pessoa apontaTa por “p” que possua o seguro, caso exista. Caso contrário, ela Tevolve NULL.
-*R28202142*
+A tabela foi repassada à equipe de programadores, cenário comum em que profissionais de 
+diferentes áreas do conhecimento devem interagir a fim de obter as soluções desejadas. A solução 
+foi implementada utilizando a linguagem C. Considere que as funções I e R foram escritas e são 
+booleanas, operando de acordo com a definição dada pela equipe. A função “obtem” encapsula o 
+funcionamento das funções P e S. Ela percorre a base de dados da companhia e obtém um parente 
+da pessoa apontada por “p” que possua o seguro, caso exista. Caso contrário, ela devolve NULL.

@@ -1,105 +1,31 @@
-NNAMN – 2005
-Área: COMPUTAÇÃO
-7
-1. As questões Te 11 a 40, a seguir, TistribuíTas Te acorTo com o quaTro abaixo, são
-específicas para os estuTantes Te cursos com perfil Te BacUarelaTo em Sistemas Te
-Cnformação. Os Temais estuTantes Teverão passar para a questão Te número 41.
-PNRFCL MO CURSO
-NÚMNRO MAS QUNSTÕNS
-OBJNTCVAS
-MCSCURSCVAS
-BacUarelaTo em Sistemas Te Cnformação
-11 a 38
-39 e 40
-2. Você Teve responTer apenas às questões referentes ao perfil profissional To curso em que
-você está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.
-3. Favor responTer também ao questionário Te percepção sobre a prova localizaTo no final
-Teste caTerno.
-As questões Te 11 a 40, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te
-BACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO
-QUNSTÃO 11
-Apesar Te toTo o Tesenvolvimento, a construção Te computaTores
-e processaTores continua, basicamente, seguinTo a arquitetura
-clássica Te von Neumann. As exceções a essa regra encontram-se
-em computaTores Te propósitos específicos e nos TesenvolviTos
-em centros Te pesquisa. Assinale a opção em que estão
-corretamente apresentaTas características Ta operação básica Te
-um processaTor clássico.
-A Cnstruções e TaTos estão em uma memória física única; um
-programa é constituíTo Te uma seqüência Te instruções Te
-máquina; uma instrução é liTa Ta memória Te acorTo com a
-orTem Tessa seqüência e, quanTo é executaTa, passa-se, então,
-para a próxima instrução na seqüência.
-B Cnstruções e TaTos estão em memórias físicas Tistintas; um
-programa é constituíTo Te um conjunto Te instruções Te
-máquina; uma instrução é liTa Ta memória quanTo o seu
-operanTo-Testino necessita ser recalculaTo; essa instrução é
-executaTa e o resultaTo é escrito no operanTo Te Testino,
-passanTo-se, então, para o próximo operanTo a ser recalculaTo.
-C Cnstruções e TaTos estão em uma memória física única; um
-programa é constituíTo Te um conjunto Te instruções Te
-máquina; uma instrução é liTa Ta memória quanTo toTos os
-seus operanTos-fonte estiverem prontos e Tisponíveis; essa
-instrução é executaTa e o resultaTo é escrito no operanTo Te
-Testino, passanTo-se, então, para a instrução seguinte que tiver
-toTos seus operanTos Tisponíveis.
-M Cnstruções e TaTos estão em memórias físicas Tistintas; um
-programa é constituíTo Te um conjunto Te instruções Te
-máquina; uma instrução é liTa Ta memória quanTo toTos os
-seus operanTos-fonte estiverem prontos e Tisponíveis; essa
-instrução é executaTa e o resultaTo é escrito no operanTo Te
-Testino, passanTo-se, então, para a instrução seguinte que
-estiver com toTos os seus operanTos Tisponíveis.
-N Cnstruções e TaTos estão em memórias físicas Tistintas; um
-programa é constituíTo Te uma seqüência Te instruções Te
-máquina; uma instrução é liTa Ta memória Te acorTo com a
-orTem Tessa seqüência e, quanTo é executaTa, passa-se, então,
-para a próxima instrução na seqüência.
-QUNSTÃO 12
-Um elemento imprescinTível em um computaTor é o sistema Te
-memória, componente que apresenta granTe varieTaTe Te tipos,
+EMAS DE INFORMAÇÃO
+QUESTÃO 12
+Um elemento imprescindível em um computador é o sistema de
+memória, componente que apresenta grande variedade de tipos,
 tecnologias e organizações. Com relação a esse assunto, julgue
 os itens seguintes.
-C
-Para enTereçar um máximo Te 2 palavras Tistintas, uma
-N
-memória semiconTutora necessita Te, no mínimo, N bits Te
-enTereço.
-CC
-Nm 
+I
+Para endereçar um máximo de 2 palavras distintas, uma
+E
+memória semicondutora necessita de, no mínimo, E bits de
+endereço.
+II
+Em 
 memórias 
-secunTárias 
-constituíTas 
+secundárias 
+constituídas 
 por 
-Tiscos
-magnéticos, as palavras estão organizaTas em blocos, e caTa
-bloco possui um enTereço único, com base na sua
-localização física no Tisco.
-CCC A tecnologia Te memória Tinâmica inTica que o conteúTo
-Tessa memória poTe ser alteraTo (liTo e escrito), ao
-contrário Ta tecnologia Te memória estática, cujo conteúTo
-poTe apenas ser liTo, mas não poTe ser alteraTo.
+discos
+magnéticos, as palavras estão organizadas em blocos, e cada
+bloco possui um endereço único, com base na sua
+localização física no disco.
+III A tecnologia de memória dinâmica indica que o conteúdo
+dessa memória pode ser alterado (lido e escrito), ao
+contrário da tecnologia de memória estática, cujo conteúdo
+pode apenas ser lido, mas não pode ser alterado.
 Assinale a opção correta.
 A Apenas um item está certo.
-B Apenas os itens C e CC estão certos.
-C Apenas os itens C e CCC estão certos.
-M Apenas os itens CC e CCC estão certos.
-N ToTos os itens estão certos.
-QUNSTÃO 13
-Julgue os itens a seguir, acerca Te algoritmos para orTenação.
-C
-O algoritmo Te orTenação por inserção tem complexiTaTe
-O(n × log n).
-CC
-Um algoritmo Te orTenação é Tito estável caso ele não altere
-a posição relativa Te elementos Te mesmo valor.
-CCC No algoritmo quicksort, a escolUa To elemento pivô
-influencia o TesempenUo To algoritmo.
-CV O bubble-sort e o algoritmo Te orTenação por inserção
-fazem, em méTia, o mesmo número Te comparações.
-Nstão certos apenas os itens
-A C e CC.
-B C e CCC.
-C CC e CV.
-M C, CCC e CV.
-N CC, CCC e CV.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

@@ -1,143 +1,43 @@
-25
-COMPUTAÇÃO
-QUNSTÃO 60 – MCSCURSCVA
-Para transmissões Te sinais em banTa base, a largura Te banTa To canal limita a taxa Te
-transmissão máxima. Como resultaTo To teorema Te Nyquist, na ausência Te ruíTo, a taxa Te
-transmissão máxima C Te um canal que possui largura Te banTa P, em Uertz, é TaTa pela equação
+QUESTÃO 60 – DISCURSIVA
+Para transmissões de sinais em banda base, a largura de banda do canal limita a taxa de
+transmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de
+transmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação
 a seguir.
-C = 2 × P bauTs
-No entanto, em qualquer transmissão, o ruíTo térmico está presente nos Tispositivos
-eletrônicos e meios Te transmissão. Nsse ruíTo, causaTo pela agitação Tos elétrons nos conTutores,
-é caracterizaTo pela potência Te ruíTo N. Me acorTo com a lei Te SUannon, na presença Te ruíTo
-térmico, a taxa Te transmissão máxima Te um canal que possui largura Te banTa P, em Uertz, e
-apresenta uma relação sinal-ruíTo S/N, expressa em Tecibel (TB), é TefiniTa pela equação abaixo.
-C = P × log2 (1 + 
+C = 2 × W bauds
+No entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos
+eletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,
+é caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído
+térmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e
+apresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.
+C = W × log2 (1 + 
 ) bps
-TenTo como referência inicial as informações acima, consiTere que seja necessário Teterminar a taxa Te transmissão
-máxima Te um canal Te comunicação que possui largura Te banTa Te 3 kHz, relação sinal-ruíTo Te 30,1 TB e aTota 16
-Tiferentes níveis Te sinalização. Nessa situação, responTa aos seguintes questionamentos.
-A Na ausência Te ruíTo, Te acorTo com o teorema Te Nyquist, qual a taxa Te transmissão máxima To referiTo canal, em
-bits por segunTo. Apresente os cálculos necessários.
+Tendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão
+máxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16
+diferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.
+A Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em
+bits por segundo. Apresente os cálculos necessários.
 (valor: 3,0 pontos)
-RASCUNHO – QUNSTÃO 60 - A
-B Na presença Te ruíTo térmico, Te acorTo com a lei Te SUannon, qual a taxa Te transmissão máxima To canal, em bits
-por segunTo? Apresente os cálculos necessário e consiTere que log10 (1.023) = 3,01.
-(valor: 3,0 pontos)
-RASCUNHO – QUNSTÃO 60 - B
-C Na presença Te ruíTo térmico, é possível aTotar mais Te 16 níveis Te sinalização no referiTo canal? Justifique.
-(valor: 4,0 pontos)
-RASCUNHO – QUNSTÃO 60 - C
 
-26
-COMPUTAÇÃO
-As questões Te 61 a 80, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te 
-BACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.
+As questões de 61 a 80, a seguir, são específicas par
+BACHARELADO EM SIST
 Figura para a questão 61
-Nstágios To ciclo Te viTa Te um serviço Te TC
-Gerente To Tesenvolvimento
-Te aplicações
-Gerenciamento Te aplicações
+Estágios do ciclo d
+Gerente do desenvolvimento
+de aplicações
+Gerenciamento de aplicações
 Cliente
-Usuário
-Negócios
-Soluções Te negócios
-MesenUo e planejamento
-Suporte técnico
-ATministração
-Operações
-Cmplantação
-Gerenciamento Te
-infra-estrutura Te TCC
-Tratar
-obsolescência
-Operar
-serviços
-Cmplantar
-serviços
-ValiTar
-serviços
+N
+Desenho e planejamento
+Suporte té
+Administra
+Valida
+serviço
 Planejar
 serviços
-Mefinir
+Definir
 políticas
-Nstabelecer
+Estabelecer
 estratégias
-Nstratégias, planos e requisitos
-OperaTor Te suporte técnico
-Suporte a serviços
-Gerente Te serviços
-Nntrega Te serviços
-QUNSTÃO 61
-A figura acima, aTaptaTa To Tocumento que Tescreve o
-gerenciamento Te serviços Te tecnologia Ta informação To moTelo
-CTCL (Cnformation TecUnology Cnfra-Structure Library), apresenta as
-relações entre elementos que participam Tos estágios To ciclo Te viTa
-Te um serviço Te TC. Com base  no moTelo acima Tescrito, qual
-elemento Tetém maior responsabiliTaTe por Tefinir as necessiTaTes
-Te informação Ta organização que utilizará um serviço Te TC?
-A
-usuário
-B
-cliente
-C
-operaTor Te suporte técnico
-M
-gerente Te serviços
-N
-gerente Te Tesenvolvimento Te aplicações
-QUNSTÃO 62
-O cóTigo Te ética Ta Organização Cnternacional Te Cnstituições
-Supremas Te AuTitoria (CNTOSAC) Tefine como valores e princípios
-básicos Ta atuação Ta auTitoria a inTepenTência, a objetiviTaTe, a
-imparcialiTaTe, o segreTo profissional e a competência. Ao iniciar um
-trabalUo Te auTitoria sem Tefinir claramente a finaliTaTe Ta auTitoria
-e o moTelo Te conformiTaTe no qual a auTitoria se apóia, qual valor
-ou princípio um auTitor estaria primariamente falUanTo em atenTer?
-A
-inTepenTência
-B
-objetiviTaTe
-C
-imparcialiTaTe
-M
-segreTo profissional
-N
-competência
-QUNSTÃO 63
-ConsiTere 
-a 
-seguinte 
-representação 
-Te
-abstração Te generalização/especialização, com
-proprieTaTe Te cobertura parcial e sobreposta,
-segunTo notação To Tiagrama entiTaTe-
-relacionamento estenTiTo.
-A 
-B 
-C 
-O 
-atrB 
-pkA 
-atrA 
-atrC 
-Qual opção apresenta um esquema Te banco Te
-TaTos relacional que representa corretamente a
-referiTa abstração?
-A
-A(pkA, atrA) B(atrB) C(atrC).
-B
-A(pkA, atrA, atrB, atrC, tipoBouC),
-em que tipoBouC é booleano.
-C
-A(pkA, atrA, atrB, atrC, tipoB,
-tipoC), em que tipoB e tipoC são
-booleanos.
-M
-B(pkA, atrA, atrB) C(pkA, atrA,
-atrC).
-N
-A(pkA, atrA) B(pkB, atrB) C(pkC,
-atrC), em que pkB e pkC são atributos
-artificiais criaTos para ser a cUave primária
-Tas relações B e C, respectivamente.
+Estratégias, planos e requisitos
+Gerente de serviços
+Entrega de serviços

@@ -5,17 +5,46 @@
   "paginas": [
     34
   ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 280.56,
+      "y1": 744.5902099609375,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/q29.txt",
   "largura": 1095,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 29\t\nA 6ª edição do Guia Project Management Body \nof Knowledge (PMBOK) tem como objetivo \nprincipal oferecer um conjunto de conhecimentos \nem \ngerenciamento \nde \nprojetos, \ngeralmente \nreconhecidos como boas práticas. Para isso, o PMBOK \npropõe que seus processos sejam categorizados em \ncinco grupos e dez áreas de conhecimento, que \ncorrespondem a agrupamentos lógicos de processos \nde gerenciamento, com a finalidade de atingir os \nobjetivos específicos do projeto.\nPROJECT MANAGEMENT INSTITUTE (PMI). Um guia do conhecimento \nem gerenciamento de projetos (Guia PMBOK). 6. ed. Newtown Square, PA: \nProject Management Institute, 2016 (adaptado).\nCom relação aos grupos de processos de \ngerenciamento de projetos descritos no PMBOK, \nassinale a alternativa correta.\nA\t O grupo de processos de monitoramento e \ncontrole tem como objetivo acompanhar e \nanalisar o progresso e o desempenho do projeto, \ncontemplando todas as áreas de conhecimento \npara identificar eventuais áreas nas quais serão \nnecessárias mudanças.\nB\t O grupo de processos de iniciação é robusto, \npois contém processos em todas as áreas \nde conhecimento, incluindo os processos de \ndefinição do escopo, criação da Estrutura \nAnalítica do Projeto (EAP) e desenvolvimento \ndo cronograma.\nC\t O grupo de processos de planejamento prevê \no desenvolvimento do Termo de Abertura \ndo Projeto (TAP) na área de integração e \na \nidentificação \ndas \npartes \ninteressadas, \nconhecidas como stakeholders.\nD\t No grupo de execução, existe apenas um \nprocesso na área de integração, que prevê, \nentre outros, a avaliação e o aceite do cliente, \nalém de uma avaliação do projeto, que pode ser \ninterna ou externa.\nE\t No grupo de encerramento, é feito o \ngerenciamento do trabalho do projeto, o que \ninclui o gerenciamento da qualidade e do \nconhecimento gerado no âmbito do projeto, \nalém da gestão do desenvolvimento da equipe \nenvolvida.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 94.92378997802734,
+      "y1": 92.04254150390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "34\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 29\t\nA 6ª eTição To Guia Project Management BoTy \nof OnowleTge (PMBOO) tem como objetivo \nprincipal oferecer um conjunto Te conUecimentos \nem \ngerenciamento \nTe \nprojetos, \ngeralmente \nreconUeciTos como boas práticas. Para isso, o PMBOO \npropõe que seus processos sejam categorizaTos em \ncinco grupos e Tez áreas Te conUecimento, que \ncorresponTem a agrupamentos lógicos Te processos \nTe gerenciamento, com a finaliTaTe Te atingir os \nobjetivos específicos To projeto.\nPROJNCT MANAGNMNNT CNSTCTUTN (PMC). Um guia To conUecimento \nem gerenciamento Te projetos (Guia PMBOO). 6. eT. Newtown Square, PA: \nProject Management Cnstitute, 2016 (aTaptaTo).\nCom relação aos grupos Te processos Te \ngerenciamento Te projetos Tescritos no PMBOO, \nassinale a alternativa correta.\nA\t O grupo Te processos Te monitoramento e \ncontrole tem como objetivo acompanUar e \nanalisar o progresso e o TesempenUo To projeto, \ncontemplanTo toTas as áreas Te conUecimento \npara iTentificar eventuais áreas nas quais serão \nnecessárias muTanças.\nB\t O grupo Te processos Te iniciação é robusto, \npois contém processos em toTas as áreas \nTe conUecimento, incluinTo os processos Te \nTefinição To escopo, criação Ta Nstrutura \nAnalítica To Projeto (NAP) e Tesenvolvimento \nTo cronograma.\nC\t O grupo Te processos Te planejamento prevê \no Tesenvolvimento To Termo Te Abertura \nTo Projeto (TAP) na área Te integração e \na \niTentificação \nTas \npartes \ninteressaTas, \nconUeciTas como stakeUolTers.\nM\t No grupo Te execução, existe apenas um \nprocesso na área Te integração, que prevê, \nentre outros, a avaliação e o aceite To cliente, \nalém Te uma avaliação To projeto, que poTe ser \ninterna ou externa.\nN\t No grupo Te encerramento, é feito o \ngerenciamento To trabalUo To projeto, o que \ninclui o gerenciamento Ta qualiTaTe e To \nconUecimento geraTo no âmbito To projeto, \nalém Ta gestão To Tesenvolvimento Ta equipe \nenvolviTa.\nQUNSTÃO 30\t\nPara ter sucesso no trabalUo, o analista Te \nprocessos poTe e Teve conUecer as Tiversas \nfontes Tas especialiTaTes que possam auxiliá-\nlo no tratamento Tos Tiversos temas envolviTos \ncom o trabalUo que Uoje é uma Tas principais \npreocupações Te organizações Te toTos os tipos: \nconUecer \ne \ngerenciar \naTequaTamente \nseus \nprocessos. NenUum analista Te processos Teve \nnutrir a veleiTaTe Te pensar que vai encontrar \na solulção para algum problema sozinUo. Nste \né um trabalUo que Teve ser feito em conjunto \ncom os funcionários Ta organização. Quanto \nmais ceTo e melUor for o envolvimento Te toTos, \nmais rápiTas e maiores serão as cUances Te sucesso.\nCRUZ, T. Manual para Gerenciamento Te Processos Te Negócio. \nSão Paulo: Atlas, 2015 (aTaptaTo).\nCom base no texto, avalie as afirmações a seguir.\nC.\t O analista Te processos Teve Tiscutir e \nouvir com atenção caTa ator com relação às \nresponsabiliTaTes To papel que ele terá no \nprocesso melUoraTo ou criaTo.\nCC.\t O analista Te processos Teve permitir que \nTiscussões sobre o funcionamento To \nprocesso, e o que necessita ser moTificaTo \nou não, ocorram Te acorTo com interesses \nparticulares.\nCCC.\t O analista Te processos Teve criar ou utilizar \nmétoTos que privilegiem a prática Ta \ncriação coletiva e Ta colaboração entre os \nenvolviTos.\nCV.\t O analista Te processos Teve Tirecionar para \nque a Tiscussão sobre os processos aconteça \nno âmbito Tos Tepartamentos.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t C e CV.\nC\t CC e CV.\nM\t C, CC e CCC.\nN\t CC, CCC e CV.\n*R29202134*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/q29.png",
-  "caminho_json": "/questoes/2021_GTI/q29.json",
-  "caminho_txt": "/questoes/2021_GTI/q29.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343396"
 }

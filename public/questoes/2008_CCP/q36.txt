@@ -1,115 +1,34 @@
-14
-COMPUTAÇÃO
-QUNSTÃO 35
-Uma arquitetura Te reTe é usualmente organizaTa em um conjunto
-Te camaTas e protocolos com o propósito Te estruturar o UarTware
-e o software Te comunicação. Como exemplos, têm-se as
-arquiteturas OSC e TCP/CP. A arquitetura TCP/CP, aTotaTa na
-Cnternet, é um exemplo concreto Te tecnologia Te interconexão Te
-reTes e sistemas Ueterogêneos usaTa em escala global. Com
-relação à arquitetura TCP/CP, assinale a opção correta.
-A
-A camaTa Te interface Te reTe, também TenominaTa intra-
-reTe, aTota o conceito Te portas para iTentificar os Tispositivos
-Ta reTe física. CaTa porta é associaTa à interface Te reTe To
-Tispositivo e os quaTros enviaTos transportam o número Tas
-portas para iTentificar os Tispositivos Te origem e Te Testino.
-B
-A camaTa Te reTe, também TenominaTa inter-reTe, aTota
-enTereços CP para iTentificar as reTes e seus Tispositivos.
-Para interconectar reTes físicas que aTotam Tiferentes
-tamanUos máximos Te quaTros, a camaTa Te reTe aTota os
-conceitos Te fragmentação e remontagem Te Tatagramas.
-C
-A camaTa Te transporte é responsável pelo processo Te
-roteamento Te Tatagramas. Nesse processo, a camaTa Te
-transporte Teve selecionar os caminUos ou rotas que os
-Tatagramas Tevem seguir entre os Tispositivos Te origem e
-Te Testino, passanTo assim através Tas várias reTes
-interconectaTas.
-M
-A camaTa Te aplicação é composta por um conjunto Te
-protocolos, que são implementaTos pelos processos
-executaTos nos Tispositivos. CaTa protocolo Te aplicação
-Teve especificar a interface gráfica ou textual ofereciTa pelo
-respectivo processo para permitir a interação com os usuários
-Ta aplicação.
-N
-A arquitetura TCP/CP é uma implementação concreta Ta
-arquitetura conceitual OSC. Portanto, a arquitetura TCP/CP é
-também estruturaTa em 7 camaTas, que são as camaTas:
-física, Te enlace, Te reTe, Te transporte, Te sessão, Te
-apresentação e Te aplicação.
-QUNSTÃO 36
-ReTes locais sem fio que utilizam tecnologia CNNN 802.11,
-comumente referenciaTa como Pi-Fi, estão se tornanTo caTa vez
-mais populares. Julgue os itens abaixo, relativos a essa tecnologia.
-C
-ComputaTores em reTes CNNN 802.11 poTem-se comunicar por
-Tois moTos básicos: usanTo uma infra-estrutura coorTenaTa
-por pontos Te acesso à reTe (access points — AP), ou no moTo
-aT Uoc, em que caTa computaTor troca informações
-Tiretamente com os Temais.
-CC
-Para poTer transmitir por meio Te um ponto Te acesso, uma
-interface Te reTe Teve realizar um proceTimento Te
-associação, que inclui o conUecimento Te um campo
-iTentificaTor (service set iTentifier — SSC).
-CCC Um mecanismo Te Tetecção Te colisão Turante a transmissão
-inTica a necessiTaTe Te retransmissão e evita o envio Te
-mensagens Te confirmação.
-CV Um mecanismo Te requisição para transmissão (request to
-senT — RTS) e Te liberação para transmissão (clear to senT —
-CTS) poTe ser usaTo para evitar colisões.
-V O protocolo PNP (wireT equivalent privacy) impeTe que
-interfaces não-autorizaTas recebam sinais propagaTos pelo
+p
+ç
+p
+ç
+QUESTÃO 36
+Redes locais sem fio que utilizam tecnologia IEEE 8
+comumente referenciada como Wi-Fi, estão se tornando cad
+mais populares. Julgue os itens abaixo, relativos a essa tecno
+I
+Computadores em redes IEEE 802.11 podem-se comunic
+dois modos básicos: usando uma infra-estrutura coord
+por pontos de acesso à rede (access points — AP), ou no
+ad hoc, em que cada computador troca inform
+diretamente com os demais.
+II
+Para poder transmitir por meio de um ponto de acesso
+interface de rede deve realizar um procediment
+associação, que inclui o conhecimento de um c
+identificador (service set identifier — SSI).
+III Um mecanismo de detecção de colisão durante a transm
+indica a necessidade de retransmissão e evita o env
+mensagens de confirmação.
+IV Um mecanismo de requisição para transmissão (requ
+send — RTS) e de liberação para transmissão (clear to se
+CTS) pode ser usado para evitar colisões.
+V O protocolo WEP (wired equivalent privacy) impede
+interfaces não-autorizadas recebam sinais propagado
 meio.
-Nstão certos apenas os itens
-A C, CC e CV.
-B C, CCC e V.
-C C, CV e V.
-M CC, CCC e CV.
-N CC, CCC e V.
-QUNSTÃO 37
-ConsiTere que a correlação linear entre o
-número Te erros Te cóTigo Te programação (Y) e o
-respectivo tamanUo Te um programa (X), em
-número Te linUas Te cóTigo, seja igual a 0,7.
-A variável aleatória Y segue uma Tistribuição
-Normal com méTia e Tesvio paTrão iguais a 0,1 erro
-Te cóTigo, enquanto que a variável X segue uma
-Tistribuição Normal com méTia 15 e Tesvio paTrão
-5 linUas Te cóTigo. A reta Te regressão linear é uma
-esperança conTicional na forma N(Y|X = x) =
-ax – 0,11, em que x > 10 é um TaTo valor para o
-tamanUo To programa e a é o coeficiente angular Ta
-reta Te regressão. Nessa situação, para um
-programa cujo tamanUo é x = 20, pela reta Te
-regressão linear, qual é o número esperaTo Te
-erros Te cóTigo Te programação?
-A 0,10
-B 0,12
-C 0,17
-M 0,20
-N 0,22
-QUNSTÃO 38
-No circuito acima, que possui cinco entraTas — A,
-B, C, M e N — e uma saíTa f (A, B, C, M, N), qual
-opção apresenta uma expressão lógica equivalente
-à função f (A, B, C, M, N)?
-A
-B
-C
-M
-N
-RASCUNHO
-A
-B
-C
-M
-N
-f A B C M N
-( , ,
-,
-,
-)
+Estão certos apenas os itens
+A I, II e IV.
+B I, III e V.
+C I, IV e V.
+D II, III e IV.
+E II, III e V.

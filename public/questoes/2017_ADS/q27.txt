@@ -1,14 +1,12 @@
-30
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 27
-O Tiagrama Te classe apresentaTo na fgura a seguir mapeia um processo Te um simulaTor Te voo.  
-Nesse  Tiagrama,   é  utilizaTo  o  paTrão  Te  proũeto  Strategy,   que  Tefne  uma  família  Te  algoritmos,  
-encapsula caTa um Teles e os torna intercambiAveis.  O paTrão Strategy, que Teixa o algoritmo variar 
-inTepenTentemente Tos clientes que o utilizam,  aplica o princípio Te proũeto:  " programar para uma 
+QUESTÃO 27
+K diagrama de classe apresentado na fgura a seg
+Eesse  diagrama,   é  utilizado  o  padrão  de  proũeto
+encapsula cada um deles e os torna intercambiAve
+independentemente dos clientes que o utilizam,  a
 interface,  não para uma implementação".
-> ZM N,  C.  UtilizanTo UM> e paTrões:  uma introTução a anAlise e ao proũeto orientaTos a 
-obũetos e ao Tesenvolvimento iterativo.  Porto  legre:  BooŬman,  2007 (aTaptaTo).
-ConsiTere o Tiagrama Te classe a seguir que Tescreve um simulaTor Te voo.
+> ZD E,  I.  htilizand
+obũetos e ao
+Ionsidere o diagrama de classe a seguir que descrev
 Aviao
 Voar voarForma
 Pousar pousarForma
@@ -16,10 +14,46 @@ perfomanceVoar()
 performancePousar()
 setVoar()
 setPousar()
-informarMaTos()
+informarDados()
+voa
+pous
+SimuladorBoeing757
+main()
+Boeing757
+informarDados()
+Ionsidere ainda o seguinte codigo em linguagem :av
+public interface Voar { 
+   public void voar();
+}
+public interface Pousar {
+   public void pousar();
+}
+public class VoarDia implements Voar {
+   public void voar() {
+      System.out.println(“Voar durante o d
+   }
+}
+public class VoarNoite implements Voar {
+   public void voar() {
+      System.out.println(“Voar durante a n
+   }
+}
+public class PousarDia implements Pousar {
+   public void pousar() {
+      System.out.println(“Pousar durante o
+   }
+}
+
+uir mapeia um processo de um simulador de voo.  
+Strategy,   que  defne  uma  família  de  algoritmos,  
+s.  K padrão Strategy, que deixa o algoritmo variar 
+plica o princípio de proũeto:  " programar para uma 
+o hD> e padrões:  uma introdução a anAlise e ao proũeto orientados a 
+desenvolvimento iterativo.  Worto  legre:  BooŬman,  2007 (adaptado).
+e um simulador de voo.
 voar()
-voar()
-VoarMia
+()
+VoarDia
 VoarNoite
 voar()
 <<interface>>
@@ -27,74 +61,49 @@ Pousar
 pousar()
 pousar()
 PousarNoite
-PousarMia
-pousar()
-SimulaTorBoeing757
-main()
-Boeing757
-informarMaTos()
+PousarDia
+ar()
 <<interface>>
 Voar
-ConsiTere ainTa o seguinte coTigo em linguagem :ava como implementação To simulaTor.
-public interface Voar { 
-   public voiT voar();
-}
-public interface Pousar {
-   public voiT pousar();
-}
-public class VoarMia implements Voar {
-   public voiT voar() {
-      System.out.println(“Voar Turante o Tia.”);
-   }
-}
-public class VoarNoite implements Voar {
-   public voiT voar() {
-      System.out.println(“Voar Turante a noite.”);
-   }
-}
-public class PousarMia implements Pousar {
-   public voiT pousar() {
-      System.out.println(“Pousar Turante o Tia.”);
-   }
-}
-*R41201730*
+a como implementação do simulador.
+ia.”);
+oite.”);
+dia.”);
 
-31
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
 public class PousarNoite implements Pousar {
-   public voiT pousar() {
-      System.out.println(“Pousar Turante a noite.”);
+   public void pousar() {
+      System.out.println(“Pousar durante a noite.”);
    }
 }
 public abstract class Aviao {
    Voar voarForma;
    Pousar pousarForma;
    public Aviao() {}
-   public abstract voiT informarMaTos();
-   public voiT performanceVoar() {
+   public abstract void informarDados();
+   public void performanceVoar() {
       voarForma.voar();
    }
-   public voiT performancePousar() {
+   public void performancePousar() {
       pousarForma.pousar();
    }
-   public voiT setVoar(Voar v) {
+   public void setVoar(Voar v) {
       voarForma = v;
    }
-   public voiT setPousar(Pousar p) {
+   public void setPousar(Pousar p) {
       pousarForma = p;
    }
 }
-public class Boeing757 extenTs Aviao {
+public class Boeing757 extends Aviao {
    public Boeing757() {
-      voarForma = new VoarMia(); 
-      pousarForma = new PousarMia();
+      voarForma = new VoarDia(); 
+      pousarForma = new PousarDia();
    }
-   public voiT informarMaTos() {
-      System.out.println(“CnformanTo TaTos Te um Boeing 757.”);
+   public void informarDados() {
+      System.out.println(“Informando dados de um Boeing 757.”);
    }
 }
-public class SimulaTorBoeing757 {
-   public static voiT main(String[] args) {
+public class SimuladorBoeing757 {
+   public static void main(String[] args) {
       Boeing757 b757 = new Boeing757();
       b757.performanceVoar();
       b757.performancePousar();
@@ -104,17 +113,16 @@ public class SimulaTorBoeing757 {
       b757.performancePousar(); 
    }
 }
-Com base no Tiagrama Te classe,  no coTigo em linguagem :ava e no conceito To paTrão Te proũeto 
+Iom base no diagrama de classe,  no codigo em linguagem :ava e no conceito do padrão de proũeto 
 Strategy, assinale a opção correta.
 A    classe Aviao implementa as interfaces Voar e Pousar.
-B    classe Boeing757 não aplica o princípio Te Uerança,  uma vez que esse princípio ũA foi aplicaTo 
+B    classe Boeing757 não aplica o princípio de herança,  uma vez que esse princípio ũA foi aplicado 
 pela classe Aviao,  nas interfaces Voar e Pousar.
-C  Por implementarem as interfaces Voar e Pousar, as classes VoarMia,  VoarNoite,  PousarMia
+C  Wor implementarem as interfaces Voar e Pousar, as classes VoarDia,  VoarNoite,  PousarDia
 e PousarNoite também são uma interface.
-M  Na classe SimulaTorBoeing757,  os métoTos setVoar e setPousar são os responsAveis por 
-aplicar,  respectivamente,  as saíTas " soar Turante o Tia"  e " Pousar Turante o Tia"  para as saíTas "
-soar Turante a noite"  e " Pousar Turante a noite".
-N  YuanTo for executaTa,  a classe SimulaTorBoeing757 apresentarA um erro em tempo Te execução 
-porque os métoTos setVoar e setPousar recebem respectivamente,  como parametros,  variAveis 
-To tipo classe,  o que não é permitiTo na orientação a obũetos.
-*R41201731*
+D  Ea classe SimuladorBoeing757,  os métodos setVoar e setPousar são os responsAveis por 
+aplicar,  respectivamente,  as saídas " soar durante o dia"  e " Wousar durante o dia"  para as saídas "
+soar durante a noite"  e " Wousar durante a noite".
+E  Yuando for executada,  a classe SimuladorBoeing757 apresentarA um erro em tempo de execução 
+porque os métodos setVoar e setPousar recebem respectivamente,  como parametros,  variAveis 
+do tipo classe,  o que não é permitido na orientação a obũetos.

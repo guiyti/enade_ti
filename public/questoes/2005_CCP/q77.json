@@ -5,19 +5,48 @@
   "paginas": [
     29
   ],
-  "largura": 1156,
-  "altura": 1473,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Arquitetura e Organização de Computadores"
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 421.2555847167969,
+      "coluna": 2
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n28\nQUNSTÃO 75\nUm engenUeiro Te uma companUia fabricante Te\nmemórias semiconTutoras estuTou o comportamento\nTo custo em função To número Te bits Ta fabricação Te\num cUip Te memória RAM com TeterminaTa\ntecnologia. \nNle \ncUegou \nà \nconclusão \nTe \nque,\nconsiTeranTo-se a evolução tecnológica, o custo C(x),\nexpresso em TeterminaTa uniTaTe monetária, Te um\ncUip Te memória RAM com x bits, na Tata Te conclusão\nTo processo Te fabricação, seria TeterminaTo pela\nequação\nConsiTeranTo-se que o moTelo TesenvolviTo pelo engenUeiro\nesteja correto, caso a empresa TeciTa pelo cUip Te menor\ncusto, ela Teverá optar por um cUip com memória Te\ncapaciTaTe Te \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nM 2.048 megabits.\nN 4.096 megabits.\nQUNSTÃO 76\nO termo imagem Tesigna uma função\nintensiTaTe luminosa biTimensional f, em que um valor\nTe intensiTaTe é associaTo a coorTenaTas espaciais\n(x, y). Uma imagem Tigital é obtiTa pela Tigitalização\nTas coorTenaTas espaciais por meio Te um processo\nconUeciTo como amostragem Ta imagem. Messa\nforma, uma imagem contínua monocromática f(x, y) é\naproximaTa por amostras igualmente espaçaTas,\narranjaTas na forma Te uma matriz N×M, em que caTa\nmin\nmax\nelemento é um valor inteiro g. O intervalo [G\n, G\n],\nTo menor ao maior valor Te intensiTaTe g, é\nmin\nTenominaTo escala Te cinza. Normalmente, G\n = 0\nmax\ncorresponTe a preto, e G\n = G corresponTe ao\nbranco.\nConsiTeranTo os conceitos apresentaTos acima, assinale a\nopção correta.\nA O processo Te Tigitalização Ta imagem requer que as\nTimensões N e M Ta matriz mencionaTa acima sejam\nmúltiplas To número Te tons Te cinza na imagem.\nB Para imagens binárias, se L for o número Te tons Te cinza\nrepresentáveis, e L = 2 , então k = 2.\nk\nC Os métoTos para realce Te imagens que operam no\nTomínio espacial fazem uso To conceito Te vizinUança Te\npixel.\nM MétoTos Te filtragem normalmente usam máscaras para\nimpeTir a transformação Tos níveis Te cinza Tos pixels Ta\nimagem. \nN Limiarização é um tipo Te processamento Te imagens que\namplia o número Te níveis Te cinza Ta imagem.\nQUNSTÃO 77\nObserve a situação representaTa acima, em que o triângulo\niTentificaTo por A sofre transformações geométricas que o levam para\na situação iTentificaTa por A’. ConsiTeranTo-se Tx e Ty parâmetros\nTe translação e s, parâmetro fator Te escala, então o triângulo A’ poTe\nser obtiTo a partir Ta aplicação Ta seguinte seqüência Te\ntransformações aos vértices To triângulo A:\nc\nc\nA rotação em torno To ponto (x , y ); escala com fator uniforme\ns  = 2.\nc\nc\nB rotação em torno To ponto (x , y ); escala com fator uniforme\ns = 0,5.\nc\nc\nC rotação em torno To ponto (x' , y' ); escala com fator\nuniforme s = 0,5; translação com parâmetros Te Teslocamento\nc\nc\nTx = !x e Ty = !y .\nM escala com fator uniforme s = 0,5; translação com parâmetros Te\nc\nc\nTeslocamento Tx = x' e Ty = y' ; rotação em torno To\nc\nc\nponto (x , y ).\nc\nc\nN tanslação com parâmetros Te Teslocamento Tx = !x e Ty = !y ;\nc\nc\nrotação em torno To ponto (x , y ); translação com parâmetros\nc\nc\nTe Teslocamento Tx = x e Ty = y ; escala com fator uniforme\ns = 0,5.\nQUNSTÃO 78\nMispositivos Lógicos Programáveis (MLP, ou PLM — programmable\nlogic Tevices) são muito utilizaTos Uoje em Tia para o projeto Te\ncircuitos Tigitais especiais. Com relação a esse assunto, julgue os\nitens a seguir.\nC\nComo um PLA (programmable logic array) somente implementa\nequações booleanas Tescritas na forma Te soma Te termos-\nproTuto, e não implementa portas lógicas multinível, então nem\ntoTas as funções booleanas poTem ser implementaTas em um\nPLA.\nCC\nNm uma PROM (programmable ROM), o arranjo Te portas ANM\né fixo, e somente o arranjo Te portas OR poTe ser programaTo; em\num PAL (programmable array logic), o arranjo Te portas OR é\nfixo, e somente o array Te portas ANM é programável; e, em um\nPLA (programmable logic array), tanto o arranjo Te portas ANM\ncomo o Te portas OR são programáveis.\nCCC Um circuito Tigital implementaTo por meio Te um Tispositivo\nlógico programável ocupa mais área e consome mais potência To\nque um circuito integraTo TeTicaTo, mas, em compensação, ele\npoTe operar em freqüências maiores, pois seus transistores e\nportas lógicas são projetaTos Te forma a otimizar o cUaveamento\nTe estaTos.\nAssinale a opção correta.\nA Apenas o item CC está certo.\nB Apenas o item CCC está certo.\nC Apenas os itens C e CC estão certos.\nM Apenas os itens C e CCC estão certos.\nN Apenas os itens CC e CCC estão certos.",
+  "caminho_png": "/questoes/2005_CCP/q77.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q77.txt",
+  "largura": 1156,
+  "altura": 1620,
+  "confianca": 0.9,
+  "texto_completo": "UESTÃO 77\nserve a situação representada acima, em que o triângulo\nntificado por A sofre transformações geométricas que o levam para\nituação identificada por A’. Considerando-se dx e dy parâmetros\ntranslação e s, parâmetro fator de escala, então o triângulo A’ pode\nobtido a partir da aplicação da seguinte seqüência de\nnsformações aos vértices do triângulo A:\nc\nc\nrotação em torno do ponto (x , y ); escala com fator uniforme\ns  = 2.\nc\nc\nrotação em torno do ponto (x , y ); escala com fator uniforme\ns = 0,5.\nc\nc\nrotação em torno do ponto (x' , y' ); escala com fator\nuniforme s = 0,5; translação com parâmetros de deslocamento\nc\nc\ndx = !x e dy = !y .\nescala com fator uniforme s = 0,5; translação com parâmetros de\nc\nc\ndeslocamento dx = x' e dy = y' ; rotação em torno do\nc\nc\nponto (x , y ).\nc\nc\ntanslação com parâmetros de deslocamento dx = !x e dy = !y ;\nc\nc\nrotação em torno do ponto (x , y ); translação com parâmetros\nc\nc\nde deslocamento dx = x e dy = y ; escala com fator uniforme\ns = 0,5.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2005_CCP/figuras/q77_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2005_CCP/q77.png",
-  "caminho_json": "/questoes/2005_CCP/q77.json",
-  "caminho_txt": "/questoes/2005_CCP/q77.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 77,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 293.8800048828125,
+      "y": 46.275604248046875,
+      "x1": 340.2480163574219,
+      "y1": 52.27560806274414,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 77"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297695"
 }

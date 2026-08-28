@@ -1,74 +1,44 @@
-18
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 18
-Nos  anos  70,   os  sistemas  executavam  em 
+QUESTÃO 18
+Eos  anos  70,   os  sistemas  executavam  em 
 mainframes com aplicativos escritos em linguagens 
-estruturaTas  e  com  toTas  as  funcionaliTaTes  em 
-um  unico  moTulo,   com  granTe  quantiTaTe  Te 
-linUas Te coTigo.   cessos a bancos Te TaTos não 
-relacionais,   regras  Te  negocios  e  tratamento  Te 
+estruturadas  e  com  todas  as  funcionalidades  em 
+um  unico  modulo,   com  grande  quantidade  de 
+linhas de codigo.   cessos a bancos de dados não 
+relacionais,   regras  de  negocios  e  tratamento  de 
 telas  para  terminais " burros"   fcavam  no  mesmo 
 programa.  
-Posteriormente,  
+Wosteriormente,  
 uma 
 importante 
-muTança  ocorreu:   a  substituição  Tos  terminais "
-burros"   por  microcomputaTores,   permitinTo 
-que toTo o tratamento Ta interface,  e Te algumas 
-regras  Te  negocios,   passassem  a  ser  feitas  nas 
-estações  clientes.   Surgiam  as  aplicações  cliente-
-serviTor.    partir Tos anos 90,  até os Tias atuais,  
-as  muTanças  foram  mais  raTicais,   os  bancos  Te 
-TaTos  passaram  a  ser  relacionais  e  TistribuíTos.  
- s linguagens passaram a ser orientaTas a obũetos,  
-cuũa  moTelagem  encapsula  TaTos  e  oferece 
-funcionaliTaTes  através  Te  métoTos.      interface 
-passou a ser web.  sive-se a era Tas aplicações em 
-trgs camaTas.
-ConsiTeranTo a evolução Ta arquitetura Te soŌǁare
-Te sistemas Te informação,  conforme citaTo no texto 
+mudança  ocorreu:   a  substituição  dos  terminais "
+burros"   por  microcomputadores,   permitindo 
+que todo o tratamento da interface,  e de algumas 
+regras  de  negocios,   passassem  a  ser  feitas  nas 
+estações  clientes.   ^urgiam  as  aplicações  cliente-
+servidor.    partir dos anos 90,  até os dias atuais,  
+as  mudanças  foram  mais  radicais,   os  bancos  de 
+dados  passaram  a  ser  relacionais  e  distribuídos.  
+ s linguagens passaram a ser orientadas a obũetos,  
+cuũa  modelagem  encapsula  dados  e  oferece 
+funcionalidades  através  de  métodos.      interface 
+passou a ser web.  sive-se a era das aplicações em 
+trgs camadas.
+Ionsiderando a evolução da arquitetura de soŌǁare
+de sistemas de informação,  conforme citado no texto 
 acima,  avalie as seguintes afrmações.
-/.      separação  Tos  sistemas  em  trgs  camaTas 
+/.      separação  dos  sistemas  em  trgs  camadas 
 logicas  torna  os  sistemas  mais  complexos,  
-requerenTo pessoal mais especializaTo.
-//.      separação  Tos  sistemas  em  trgs  camaTas 
+requerendo pessoal mais especializado.
+//.      separação  dos  sistemas  em  trgs  camadas 
 logicas  torna  os  sistemas  mais  Ňexíveis,  
-permitinTo que as partes possam ser alteraTas 
-Te forma inTepenTente.
-///.      separação  Tos  sistemas  em  trgs  camaTas 
-logicas aumentou o acoplamento,  TifcultanTo 
+permitindo que as partes possam ser alteradas 
+de forma independente.
+///.      separação  dos  sistemas  em  trgs  camadas 
+logicas aumentou o acoplamento,  difcultando 
 a manutenção.
  correto o que se afrma em
 A //,  apenas.
 B ///,  apenas.
 C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 19
-Zequisitos funcionais e não funcionais poTem Tefnir 
-características  e  funcionaliTaTes  presentes  na 
-interface a ser TesenvolviTa para um sistema.  
-Nm  relação  aos  requisitos  não  funcionais,   também 
-cUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as 
-afrmações a seguir.
-/.   São levantaTos e elicitaTos apos os requisitos 
-funcionais,   uma  vez  que  os  requisitos 
-funcionais  Teterminarão  as  funcionaliTaTes 
-Ta interface.
-//.   Sempre  serão  TefniTos  Te  forma  mais 
-concreta,   através  Te  requisitos  funcionais,  
-uma vez que o usuArio manipula na interface 
-somente as funcionaliTaTes levantaTas.
-///.   PoTem 
-complementar 
-os 
-requisitos 
-funcionais.
- correto o que se afrma em
-A //,  apenas.
-B ///,  apenas.
-C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201418*
+D / e ///,  apenas.
+E /,  // e ///.

@@ -1,15 +1,13 @@
-11
-COMPUTAÇÃO
-QUNSTÃO 24
+QUESTÃO 24
 S1
 S0
-MNC
+DEC
 0
 1
 2
 3
-entraTas
-saíTas
+entradas
+saídas
 S1
 S0
 0
@@ -40,35 +38,35 @@ S0
 0
 0
 1
-ConsiTere o bloco TecoTificaTor ilustraTo acima, o qual
-opera segunTo a tabela apresentaTa. Nm caTa item a seguir,
-julgue se a função lógica mostraTa corresponTe ao circuito
-lógico a ela associaTo.
-C
+Considere o bloco decodificador ilustrado acima, o qua
+opera segundo a tabela apresentada. Em cada item a seguir
+julgue se a função lógica mostrada corresponde ao circuito
+lógico a ela associado.
+I
  
 S1
 S0
-MNC
+DEC
 0
 1
 2
 3
 A
 B
-CC
+II
 S1
 S0
-MNC
+DEC
 0
 1
 2
 3
 A
 B
-CCC
+III
 S1
 S0
-MNC
+DEC
 0
 1
 2
@@ -79,47 +77,10 @@ Assinale a opção correta.
 A
 Apenas um item está certo.
 B
-Apenas os itens C e CC estão certos.
+Apenas os itens I e II estão certos.
 C
-Apenas os itens C e CCC estão certos.
-M
-Apenas os itens CC e CCC estão certos.
-N
-ToTos os itens estão certos.
-QUNSTÃO 25
-A figura acima ilustra uma imagem binária com pixels
-brancos formanTo retas sobre um funTo preto. Com
-relação à aplicação Te transformaTas sobre essa
-imagem, assinale a opção correta.
-A
-A transformaTa Te Fourier, quanTo aplicaTa à
-imagem Tescrita, proTuz como resultaTo um mapa Te
-freqüências que equivale ao Uistograma Tos níveis Te
-cinza Tas retas presentes.
-B
-A 
-transformaTa 
-Te 
-HaTamarT 
-Ta 
-imagem
-apresentaTa tem resultaTo equivalente à aplicação
-Te um filtro passa-baixas, o que Testaca as retas
-existentes.
-C
-Ao se aplicar a transformaTa Ta Tistância à imagem
-binária, consiTeranTo pixels brancos como objetos,
-são geraTas as Tistâncias entre as retas presentes e
-o centro Ta imagem, o que permite iTentificar as
-equações Tas retas formaTas na imagem.
-M
-O uso Ta transformaTa Tos cossenos proTuz uma
-lista Tos coeficientes lineares e angulares Tas
-Tiversas retas existentes nessa imagem binária.
-N
-O resultaTo Ta aplicação Ta transformaTa Te HougU
-usanTo parametrização Te retas é um mapa cujos
-picos inTicam os pixels colineares, permitinTo que
-sejam iTentificaTos coeficientes que Tescrevem as
-Tiversas retas formaTas na imagem.
-RASCUNHO
+Apenas os itens I e III estão certos.
+D
+Apenas os itens II e III estão certos.
+E
+Todos os itens estão certos.

@@ -1,10 +1,8 @@
-25
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 21
-ConsiTere  um  painel  luminoso  representaTo  por  uma  matriz  quaTraTa  Te  orTem  n,   senTo  n  um 
-numero inteiro ímpar.    cor Te caTa célula é TefniTa pelo elemento cor[i, j] utilizaTo na posição 
-corresponTente no painel.  ConsiTere,  ainTa,  que a função par(x) Tevolve verTaTeiro se o argumento x
-for um numero par. O trecUo Te coTigo a seguir foi elaboraTo para proTuzir TeterminaTo paTrão no painel.
+QUESTÃO 21
+Ionsidere  um  painel  luminoso  representado  por  uma  matriz  quadrada  de  ordem  n,   sendo  n  um 
+numero inteiro ímpar.    cor de cada célula é defnida pelo elemento cor[i, j] utilizado na posição 
+correspondente no painel.  Ionsidere,  ainda,  que a função par(x) devolve verdadeiro se o argumento x
+for um numero par. K trecho de codigo a seguir foi elaborado para produzir determinado padrão no painel.
 ...
 m = (n+1)/2
 para i = 1 até n faça
@@ -14,13 +12,12 @@ para i = 1 até n faça
         senão
             cor[i,j] = branco
         ¿PVH
-    ¿PSMUM
-¿PSMUM
+    ¿PSDUD
+¿PSDUD
 ...
-Nessa situação,  se o valor Te n for igual a 7,  o paTrão que serA proTuziTo no paínel é
+Eessa situação,  se o valor de n for igual a 7,  o padrão que serA produzido no paínel é
  A
-M
+D
 B
-N
+E
 C
-*R43201725*

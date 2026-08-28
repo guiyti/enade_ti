@@ -1,80 +1,36 @@
-31
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 32
-No  Tesenvolvimento  Te  uma  base  Te  TaTos 
-Te  pessoal  Te  uma  empresa,   em  que  foram 
-registraTos  os  TaTos  Te  toTos  os  funcionArios,  
-foi  incluíTo  um  campo  (reT  Ňag)  que  sinalizava 
-quanTo a aposentaToria To funcionArio estava se 
-aproximanTo,  ou quanTo ele ũA estava UabilitaTo a 
-requerer a pensão.  Murante toTa a TécaTa Te 1980,  
-essa  funcionaliTaTe  esteve  ativa  e,   sempre  que 
-ela era sinalizaTa em relação a algum funcionArio,  
-a  empresa  o  TespeTia,   mesmo  apos  TécaTas  Te 
-serviços.   Nm  1991,   a  ũustiça  reconUeceu  o  Tireito 
-Te  ex-funcionArios  Tessa  empresa  por  Temissão 
-inũusta,  e Teterminou o pagamento Te inTenizações 
-que cUegaram a ser superiores a ZΨ 900 milUões.
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. compesocietǇ. blogspot. com. brх.  
- cesso em:  14 ũul.  2017 (aTaptaTo).
-Com  base  nesse  caso,   assinale  a  opção  que 
-apresenta o Tever infringiTo To CoTigo Te tica Ta 
-SocieTaTe Brasileira Te Computação.  
-A Zespeitar a legislação vigente,  o interesse social 
-e os Tireitos Te terceiros.
-B  Contribuir para o bem-estar social,  promovenTo,  
-sempre  que  possível,   a  inclusão  Te  toTos  os 
-setores Ta socieTaTe.
-C  'uarTar  sigilo  profssional  Tas  informações  a 
-que tiver acesso em Tecorrgncia Tas ativiTaTes 
-exerciTas.
-M  Nsforçar-se 
-para 
-aTquirir 
-continuamente 
-competgncia técnica e profssional,  e manter-se 
-sempre atualizaTo em relação aos avanços Ta 
-profssão.
-N  ,onrar  compromissos,   contratos,   termos  Te 
-responsabiliTaTe,   Tireitos  Te  proprieTaTe,  
-copyrigUts e patentes.
-Area livre
-QUNSTÃO 33
-Com  o  obũetivo  Te  facilitar  o  processo  Te 
-interconectiviTaTe  em  reTes,   consiTeranTo-se 
-os  Tiversos  tipos  Te  Tispositivos,   mAquinas  e 
-fabricantes,   foi  TesenvolviTo  um  moTelo  Te 
-arquitetura-paTrão  TenominaTo  moTelo  OS/,   que 
-contém sete camaTas,  Tescritas a seguir:
-ͻ  İsica - transmissão Te bits͖  estabelecimento 
-Te conexões İsicas͖  moTulação analogica 
-e Tigital͖
-ͻ  enlace Te TaTos - Telineamento Te quaTros͖  
-controle Te acesso ao meio͖
-ͻ  reTe - controle Te congestionamento͖
-ͻ  transporte  -  Tetecção  e  correção  Te  erros 
-fm a fm͖  controle Te Ňuxo͖  multiplexação͖
-ͻ  sessão - gergncia Te TiAlogo͖  sincronização͖  
-gergncia Te ativiTaTe͖
-ͻ  apresentação  -  conversão  Te  formatos͖  
-criptografa͖  compressão Te TaTos͖  
+QUESTÃO 33
+Iom  o  obũetivo  de  facilitar  o  processo  de 
+interconectividade  em  redes,   considerando-se 
+os  diversos  tipos  de  dispositivos,   mAquinas  e 
+fabricantes,   foi  desenvolvido  um  modelo  de 
+arquitetura-padrão  denominado  modelo  K^/,   que 
+contém sete camadas,  descritas a seguir:
+ͻ  İsica - transmissão de bits͖  estabelecimento 
+de conexões İsicas͖  modulação analogica 
+e digital͖
+ͻ  enlace de dados - delineamento de quadros͖  
+controle de acesso ao meio͖
+ͻ  rede - controle de congestionamento͖
+ͻ  transporte  -  detecção  e  correção  de  erros 
+fm a fm͖  controle de Ňuxo͖  multiplexação͖
+ͻ  sessão - gergncia de diAlogo͖  sincronização͖  
+gergncia de atividade͖
+ͻ  apresentação  -  conversão  de  formatos͖  
+criptografa͖  compressão de dados͖  
 ͻ  aplicação  -  correio  eletrƀnico͖   terminal 
-virtual͖  serviços Tiversos.
-Com  base  no  moTelo  OS/  Tescrito,   avalie  as 
-afrmações a seguir,  em relação a camaTa em que 
-caTa Tispositivo Te interconexão atua.
-/.   O gateǁaǇ atua nas camaTas Te aplicação,  
+virtual͖  serviços diversos.
+Iom  base  no  modelo  K^/  descrito,   avalie  as 
+afrmações a seguir,  em relação a camada em que 
+cada dispositivo de interconexão atua.
+/.   K gateǁaǇ atua nas camadas de aplicação,  
 apresentação,  sessão e transporte.
-//.   O  sǁitcU  atua  na  camaTa  Te  enlace  Te 
-TaTos.
-///.   O  roteaTor  atua  na  camaTa  Te  enlace  Te 
-TaTos e na Te reTe.
+//.   K  sǁitch  atua  na  camada  de  enlace  de 
+dados.
+///.   K  roteador  atua  na  camada  de  enlace  de 
+dados e na de rede.
  correto o que se afrma em
 A /,  apenas.
 B ///,  apenas.
 C / e //,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-Area livre
-*R43201731*
+D // e ///,  apenas.
+E /,  // e ///.

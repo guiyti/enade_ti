@@ -5,17 +5,46 @@
   "paginas": [
     19
   ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q53.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q53.txt",
   "largura": 1155,
-  "altura": 2977,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 3168,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 53\nO problema do buffer limitado de tamanho N é um\nproblema clássico de sincronização de processos: um grupo de\nprocessos utiliza um buffer de tamanho N para armazenar\ntemporariamente itens produzidos; processos produtores\nproduzem os itens, um a um, e os armazenam no buffer;\nprocessos consumidores retiram os itens do buffer, um a um,\npara processamento. O problema do buffer limitado de tamanho\nN pode ser resolvido com a utilização de semáforos, que são\nmecanismos de software para controle de concorrência entre\nprocessos. Duas operações são definidas para um semáforo\ns: wait(s) e signal(s).\nConsidere o problema do buffer limitado de tamanho N\ncujos pseudocódigos dos processos produtor e consumidor\nestão mostrados na tabela abaixo. Pode-se resolver esse\nproblema com a utilização dos semáforos mutex, cheio e vazio,\ninicializados, respectivamente, com 1, 0 e N.\nprocesso produtor\nprocesso consumidor\nproduz item\ncomando_a\ncomando_b\ncoloca no buffer\ncomando_c\ncomando_d\ncomando_e\ncomando_f\nretira do buffer\ncomando_g\ncomando_h\nconsome o item\nA partir dessas informações, para que o problema do buffer\nlimitado \nde \ntamanho \nN \ncujos \npseudocódigos \nforam\napresentados possa ser resolvido a partir do uso dos semáforos\nmutex, cheio e vazio, é necessário que comando_a,\ncomando_b, comando_c, comando_d, comando_e,\ncomando_f, comando_g e comando_h correspondam,\nrespectivamente, às operações\nA wait(vazio), wait(mutex), signal(mutex),\nsignal(cheio), wait(cheio), wait(mutex),\nsignal(mutex) e signal(vazio).\nB wait(cheio), wait(mutex), signal(mutex),\nsignal(vazio), wait(vazio), signal(mutex),\nsignal(mutex) e wait(cheio).\nC wait(mutex), wait(vazio), signal(cheio),\nsignal(mutex), wait(mutex), wait(vazio),\nsignal(cheio) e signal(mutex).\nD wait(mutex), wait(vazio), signal(cheio),\nsignal(mutex), wait(mutex), wait(cheio),\nsignal(vazio) e signal(mutex).\nE wait(vazio), signal(mutex), signal(cheio),\nwait(mutex), wait(cheio), signal(mutex),\nsignal(vazio) e signal(mutex).",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Sistemas Operacionais"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 53,
+      "tipo": "OBJETIVA",
+      "pagina": 19,
+      "x": 41.400001525878906,
+      "y": 48.555572509765625,
+      "x1": 87.8280029296875,
+      "y1": 54.55557632446289,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 53"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n18\nQUNSTÃO 53\nO problema To buffer limitaTo Te tamanUo N é um\nproblema clássico Te sincronização Te processos: um grupo Te\nprocessos utiliza um buffer Te tamanUo N para armazenar\ntemporariamente itens proTuziTos; processos proTutores\nproTuzem os itens, um a um, e os armazenam no buffer;\nprocessos consumiTores retiram os itens To buffer, um a um,\npara processamento. O problema To buffer limitaTo Te tamanUo\nN poTe ser resolviTo com a utilização Te semáforos, que são\nmecanismos Te software para controle Te concorrência entre\nprocessos. Muas operações são TefiniTas para um semáforo\ns: wait(s) e signal(s).\nConsiTere o problema To buffer limitaTo Te tamanUo N\ncujos pseuTocóTigos Tos processos proTutor e consumiTor\nestão mostraTos na tabela abaixo. PoTe-se resolver esse\nproblema com a utilização Tos semáforos mutex, cUeio e vazio,\ninicializaTos, respectivamente, com 1, 0 e N.\nprocesso proTutor\nprocesso consumiTor\nproTuz item\ncomanTo_a\ncomanTo_b\ncoloca no buffer\ncomanTo_c\ncomanTo_T\ncomanTo_e\ncomanTo_f\nretira To buffer\ncomanTo_g\ncomanTo_U\nconsome o item\nA partir Tessas informações, para que o problema To buffer\nlimitaTo \nTe \ntamanUo \nN \ncujos \npseuTocóTigos \nforam\napresentaTos possa ser resolviTo a partir To uso Tos semáforos\nmutex, cUeio e vazio, é necessário que comanTo_a,\ncomanTo_b, comanTo_c, comanTo_T, comanTo_e,\ncomanTo_f, comanTo_g e comanTo_U corresponTam,\nrespectivamente, às operações\nA wait(vazio), wait(mutex), signal(mutex),\nsignal(cUeio), wait(cUeio), wait(mutex),\nsignal(mutex) e signal(vazio).\nB wait(cUeio), wait(mutex), signal(mutex),\nsignal(vazio), wait(vazio), signal(mutex),\nsignal(mutex) e wait(cUeio).\nC wait(mutex), wait(vazio), signal(cUeio),\nsignal(mutex), wait(mutex), wait(vazio),\nsignal(cUeio) e signal(mutex).\nM wait(mutex), wait(vazio), signal(cUeio),\nsignal(mutex), wait(mutex), wait(cUeio),\nsignal(vazio) e signal(mutex).\nN wait(vazio), signal(mutex), signal(cUeio),\nwait(mutex), wait(cUeio), signal(mutex),\nsignal(vazio) e signal(mutex).\nQUNSTÃO 54\nConsiTere que, Turante a análise Te um problema Te programação,\ntenUa siTo obtiTa a seguinte fórmula recursiva que Tescreve a\nsolução para o problema.\nQual a complexiTaTe Ta solução encontraTa?\nA O (n × log n)\nB O (n )\n2\nC O (n × log n)\n2\nM O (2 )\nn\nN O (n )\n3\nRASC UNH O",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q53.png",
-  "caminho_json": "/questoes/2005_CCP/q53.json",
-  "caminho_txt": "/questoes/2005_CCP/q53.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297535"
 }

@@ -1,13 +1,11 @@
-CCÊNCCA MA COMPUTAÇÃO
-16
-QUNSTÃO 09
-Uma Arvore  s> é um tipo Te Arvore binAria balanceaTa na qual a Tiferença entre as alturas Te suas 
-subArvores Ta esquerTa e Ta Tireita não poTe ser maior To que 1 para qualquer no.   pos a inserção Te 
-um no em uma  s>,  a raiz Ta subArvore Te nível mais baixo no qual o novo no foi inseriTo é marcaTa.  
-Se a altura Te seus flUos Tiferir em mais Te uma uniTaTe,  é realizaTa uma rotação simples ou uma 
-rotação Tupla para igualar suas alturas.
-> &OZN,  Z.  Mata structures Θ algoritUms in :ava.  /nTianopolis:  Sams PublisUing,  2003 (aTaptaTo).
-  seguir,  é apresentaTo um exemplo Te Arvore  s>.
+QUESTÃO 09
+hma Arvore  s> é um tipo de Arvore binAria balanceada na qual a diferença entre as alturas de suas 
+subArvores da esquerda e da direita não pode ser maior do que 1 para qualquer no.   pos a inserção de 
+um no em uma  s>,  a raiz da subArvore de nível mais baixo no qual o novo no foi inserido é marcada.  
+^e a altura de seus flhos diferir em mais de uma unidade,  é realizada uma rotação simples ou uma 
+rotação dupla para igualar suas alturas.
+> &KZE,  Z.  Data structures Θ algorithms in :ava.  /ndianopolis:  ^ams Wublishing,  2003 (adaptado).
+  seguir,  é apresentado um exemplo de Arvore  s>.
 4
 5
 11
@@ -16,7 +14,7 @@ rotação Tupla para igualar suas alturas.
 13
 15
 16
-Pelo exposto no texto acima,  apos a inserção Te um no com valor 3 na Arvore  s> exemplifcaTa,  é correto 
+Welo exposto no texto acima,  apos a inserção de um no com valor 3 na Arvore  s> exemplifcada,  é correto 
 afrmar que ela fcarA com a seguinte confguração:
 A
 4
@@ -28,7 +26,7 @@ A
 13
 15
 16
-M
+D
 4
 10
 5
@@ -48,7 +46,7 @@ B
 13
 15
 16
-N
+E
 4
 10
 5
@@ -68,4 +66,3 @@ C
 13
 15
 16
-*R03201716*

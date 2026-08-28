@@ -5,17 +5,46 @@
   "paginas": [
     32
   ],
+  "segmentos": [
+    {
+      "pagina": 32,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q23.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q23.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 23\t\nO uso da estrutura de dados tipo Árvore Binária de Busca é uma técnica fundamental de programação. \nUma árvore binária é um conjunto finito de elementos que está vazio ou é particionado em três \nsubconjuntos, a saber: 1) raiz da árvore - elemento inicial (único), 2) subárvore da esquerda - se vista \nisoladamente compõe outra árvore e 3) subárvore da direita - se vista isoladamente compõe outra árvore. \nA árvore pode não ter qualquer elemento (árvore vazia). A definição de árvore é recursiva e, devido a \nisso, muitas operações sobre árvores binárias utilizam recursão. Sendo “A” a raiz de uma árvore binária \ne “B” a raiz de sua subárvore esquerda ou direita, é dito que “A” é pai de “B” e que “B” é filho de “A”. \nUm elemento sem filhos é chamado de folha. A altura da árvore é o número de elementos encontrados \nno caminho descendente mais longo que liga a sua raiz até uma folha. \nUma Árvore de Busca Binária é uma árvore binária especializada, na qual a informação que o elemento \nfilho esquerdo possui é numericamente menor que a informação do elemento pai. De forma análoga, \na informação que o elemento filho direito possui é numericamente maior ou igual à informação do \nelemento pai. O objetivo de organizar dados em Árvores Binárias de Busca é facilitar a tarefa de encontrar \num determinado elemento. O percurso completo de uma árvore binária consiste em visitar todos os \nelementos desta árvore, segundo algum critério, a fim de processá-los. Três formas são bem conhecidas \npara a realização deste percurso: 1) pré-ordem, 2) em-ordem e 3) pós-ordem. A figura a seguir mostra um \nexemplo de árvore binária.\nJ\nO\nR\nL\nD\nA\nK\nM\nFigura – Exemplo de Árvore Binária\nLAUREANO, M. A. P. Estrutura de Dados com Algoritmos. São Paulo: Brasport, 2008. p. 126, 129, 136 (adaptado).\nConsiderando o texto e a figura apresentados e que a seguinte lista de elementos numéricos: \n(27, 34, 40, 18, 23, 5, 25, 36, 10, 7, -2) seja totalmente transferida para uma estrutura de Árvore Binária de \nBusca, inicialmente vazia, elemento a elemento, da esquerda para a direita, assinale a alternativa correta.\nA\tA árvore resultante terá 5 níveis de altura, com 6 elementos à esquerda da raiz principal (inicial) \ne 4 elementos à direita.\nB\t O percurso da árvore em Pré-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): -2, 7, 10, 5, 25, 23, 18, 36, 40, 34, 27.\nC\t O percurso da árvore em Em-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40.\nD\t O percurso da árvore em Pós-ordem irá processar os elementos na seguinte ordem (do primeiro ao \núltimo): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.\nE\t O número máximo de elementos que essa árvore poderá ter com 10 níveis será de 1 024 elementos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 23,
+      "tipo": "OBJETIVA",
+      "pagina": 32,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 23"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "32\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 23\t\nO uso Ta estrutura Te TaTos tipo Árvore Binária Te Busca é uma técnica funTamental Te programação. \nUma árvore binária é um conjunto finito Te elementos que está vazio ou é particionaTo em três \nsubconjuntos, a saber: 1) raiz Ta árvore - elemento inicial (único), 2) subárvore Ta esquerTa - se vista \nisolaTamente compõe outra árvore e 3) subárvore Ta Tireita - se vista isolaTamente compõe outra árvore. \nA árvore poTe não ter qualquer elemento (árvore vazia). A Tefinição Te árvore é recursiva e, TeviTo a \nisso, muitas operações sobre árvores binárias utilizam recursão. SenTo “A” a raiz Te uma árvore binária \ne “B” a raiz Te sua subárvore esquerTa ou Tireita, é Tito que “A” é pai Te “B” e que “B” é filUo Te “A”. \nUm elemento sem filUos é cUamaTo Te folUa. A altura Ta árvore é o número Te elementos encontraTos \nno caminUo TescenTente mais longo que liga a sua raiz até uma folUa. \nUma Árvore Te Busca Binária é uma árvore binária especializaTa, na qual a informação que o elemento \nfilUo esquerTo possui é numericamente menor que a informação To elemento pai. Me forma análoga, \na informação que o elemento filUo Tireito possui é numericamente maior ou igual à informação To \nelemento pai. O objetivo Te organizar TaTos em Árvores Binárias Te Busca é facilitar a tarefa Te encontrar \num TeterminaTo elemento. O percurso completo Te uma árvore binária consiste em visitar toTos os \nelementos Testa árvore, segunTo algum critério, a fim Te processá-los. Três formas são bem conUeciTas \npara a realização Teste percurso: 1) pré-orTem, 2) em-orTem e 3) pós-orTem. A figura a seguir mostra um \nexemplo Te árvore binária.\nJ\nO\nR\nL\nM\nA\nO\nM\nFigura – Nxemplo Te Árvore Binária\nLAURNANO, M. A. P. Nstrutura Te MaTos com Algoritmos. São Paulo: Brasport, 2008. p. 126, 129, 136 (aTaptaTo).\nConsiTeranTo o texto e a figura apresentaTos e que a seguinte lista Te elementos numéricos: \n(27, 34, 40, 18, 23, 5, 25, 36, 10, 7, -2) seja totalmente transferiTa para uma estrutura Te Árvore Binária Te \nBusca, inicialmente vazia, elemento a elemento, Ta esquerTa para a Tireita, assinale a alternativa correta.\nA\tA árvore resultante terá 5 níveis Te altura, com 6 elementos à esquerTa Ta raiz principal (inicial) \ne 4 elementos à Tireita.\nB\t O percurso Ta árvore em Pré-orTem irá processar os elementos na seguinte orTem (To primeiro ao \núltimo): -2, 7, 10, 5, 25, 23, 18, 36, 40, 34, 27.\nC\t O percurso Ta árvore em Nm-orTem irá processar os elementos na seguinte orTem (To primeiro ao \núltimo): -2, 5, 7, 10, 18, 23, 25, 27, 34, 36, 40.\nM\t O percurso Ta árvore em Pós-orTem irá processar os elementos na seguinte orTem (To primeiro ao \núltimo): 27, 18, 5, -2, 10, 7, 23, 25, 34, 40, 36.\nN\t O número máximo Te elementos que essa árvore poTerá ter com 10 níveis será Te 1 024 elementos.\n*R02202132*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q23.png",
-  "caminho_json": "/questoes/2021_CCP/q23.json",
-  "caminho_txt": "/questoes/2021_CCP/q23.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187763"
 }

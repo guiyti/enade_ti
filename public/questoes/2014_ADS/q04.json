@@ -5,17 +5,46 @@
   "paginas": [
     6
   ],
-  "largura": 1223,
-  "altura": 2904,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 6,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 749.4,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q04.txt",
+  "largura": 1222,
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 04\n/mportante  website  de  relacionamento  caminha  para \n700 milhões de usuArios.  Kutro conhecido servidor de \nmicroblogging acumula 140 milhões de mensagens ao \ndia.  \u001e como se 75% da população brasileira postasse um \ncomentArio a cada 24 horas.  Iom as redes sociais cada \nvez mais presentes no dia a dia das pessoas,  é inevitAvel \nque  muita  gente  encontre  nelas  uma  maneira  fAcil,  \nrApida e abrangente de se manifestar.\nhma rede social de recrutamento revelou que 92% \ndas  empresas  americanas  ũA  usaram  ou  planeũam \nusar  as  redes  sociais  no  processo  de  contratação.  \nDestas,   60%  assumem  que  bisbilhotam  a  vida  dos \ncandidatos em websites de rede social.\nZealizada  por  uma  aggncia  de  recrutamento,   uma \npesquisa  com  2  500  executivos  brasileiros  mostrou \nque 44% desclassifcariam,  no processo de seleção,  um \ncandidato por seu comportamento em uma rede social.\nDuitas  pessoas  ũA  enfrentaram  problemas  por \ncausa  de  informações  online,   tanto  no  campo \npessoal  quanto  no  profssional.    lgumas  empresas \ne  instituições,   inclusive,   ũA  adotaram  cartilhas  de \nconduta em redes sociais.\nWK>KE/,  '.  K lado perigoso das redes sociais.  Zevista /E&K,  \np.  70 - 75,  ũulho 2011 (adaptado).\nDe acordo com o texto,\nA mais da metade das empresas americanas evita \nacessar websites de redes sociais de candidatos \na emprego.\nB empresas  e  instituições  estão  atentas  ao \ncomportamento de seus funcionArios em websites\nde redes sociais.\nC a  complexidade  dos  procedimentos  de  rastreio  e \nmonitoramento  de  uma  rede  social  impede  que \nas  empresas  tenham  acesso  ao  perfl  de  seus \nfuncionArios.\nD as  cartilhas  de  conduta  adotadas  nas  empresas \nproíbem o uso de redes sociais pelos funcionArios,  em \nvez de recomendar mudanças de comportamento.\nE a  maioria  dos  executivos  brasileiros  utilizaria \ninformações  obtidas  em  websites de  redes \nsociais,   para  desclassifcar  um  candidato  em \nprocesso de seleção.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 6,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 04"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "6\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 04\n/mportante  website  Te  relacionamento  caminUa  para \n700 milUões Te usuArios.  Outro conUeciTo serviTor Te \nmicroblogging acumula 140 milUões Te mensagens ao \nTia.  \u001e como se 75% Ta população brasileira postasse um \ncomentArio a caTa 24 Uoras.  Com as reTes sociais caTa \nvez mais presentes no Tia a Tia Tas pessoas,  é inevitAvel \nque  muita  gente  encontre  nelas  uma  maneira  fAcil,  \nrApiTa e abrangente Te se manifestar.\nUma reTe social Te recrutamento revelou que 92% \nTas  empresas  americanas  ũA  usaram  ou  planeũam \nusar  as  reTes  sociais  no  processo  Te  contratação.  \nMestas,   60%  assumem  que  bisbilUotam  a  viTa  Tos \ncanTiTatos em websites Te reTe social.\nZealizaTa  por  uma  aggncia  Te  recrutamento,   uma \npesquisa  com  2  500  executivos  brasileiros  mostrou \nque 44% Tesclassifcariam,  no processo Te seleção,  um \ncanTiTato por seu comportamento em uma reTe social.\nMuitas  pessoas  ũA  enfrentaram  problemas  por \ncausa  Te  informações  online,   tanto  no  campo \npessoal  quanto  no  profssional.    lgumas  empresas \ne  instituições,   inclusive,   ũA  aTotaram  cartilUas  Te \nconTuta em reTes sociais.\nPO>ON/,  '.  O laTo perigoso Tas reTes sociais.  Zevista /N&O,  \np.  70 - 75,  ũulUo 2011 (aTaptaTo).\nMe acorTo com o texto,\nA mais Ta metaTe Tas empresas americanas evita \nacessar websites Te reTes sociais Te canTiTatos \na emprego.\nB empresas  e  instituições  estão  atentas  ao \ncomportamento Te seus funcionArios em websites\nTe reTes sociais.\nC a  complexiTaTe  Tos  proceTimentos  Te  rastreio  e \nmonitoramento  Te  uma  reTe  social  impeTe  que \nas  empresas  tenUam  acesso  ao  perfl  Te  seus \nfuncionArios.\nM as  cartilUas  Te  conTuta  aTotaTas  nas  empresas \nproíbem o uso Te reTes sociais pelos funcionArios,  em \nvez Te recomenTar muTanças Te comportamento.\nN a  maioria  Tos  executivos  brasileiros  utilizaria \ninformações  obtiTas  em  websites Te  reTes \nsociais,   para  Tesclassifcar  um  canTiTato  em \nprocesso Te seleção.\nQUNSTÃO 05\nUma  iTeia  e  um  aparelUo  simples  Tevem,   em  breve,  \naũuTar a salvar viTas Te recém-nasciTos.  /TealizaTo pelo \nmecanico argentino :orge OTon,  o Tispositivo que leva seu \nsobrenome Tesentala um bebg preso no canal vaginal ͷ\ne,  por mais inusitaTo que pareça,  foi criaTo com base em \ntécnica usaTa para remover rolUas Te Tentro Te garrafas.  \nO aparelUo consiste em uma bolsa plAstica inseriTa em \numa proteção feita To mesmo material e que envolve a \ncabeça Ta criança.  NstanTo o Tispositivo TeviTamente \nposicionaTo,  a bolsa é inŇaTa para aTerir a cabeça To \nbebg e ser puxaTa aos poucos,  Te forma a não macUucA-\nlo.  O métoTo Te OTon Teve substituir outros ũA arcaicos,  \ncomo o Te forceps e o Te tubos Te sucção,  os quais,  se \nusaTos  por  mãos  maltreinaTas,   poTem  comprometer \na viTa To bebg,  o que,  segunTo especialistas,  não Teve \nacontecer com o novo equipamento.\nSegunTo o TUe Neǁ zorŬ Times,  a iTeia recebeu apoio \nTa Organização MunTial Te SauTe (OMS) e ũA foi até \nlicenciaTa  por  uma  empresa  norte-americana  Te \ntecnologia méTica.  Não se sabe quanTo o equipamento \ncomeçarA a ser proTuziTo nem o preço a ser cobraTo,  \nmas presume-se que ele não passarA Te 50 Tolares,  \ncom reTução To preço em países mais pobres.\n'USMãO,  '.   parelUo Teve facilitar partos em situações Te \nemergência.  Misponível em:  фUtp:ͬͬ\nexame. abril. com. brх.  \n cesso em:  18 nov.  2013 (aTaptaTo).\nCom relação ao texto acima,  avalie as afrmações a seguir.\n/.      utilização  To  métoTo  Te  OTon  poTerA \nreTuzir a taxa Te mortaliTaTe Te crianças ao \nnascer,  mesmo em países pobres.\n//.   Por ser uma variante Tos tubos Te sucção,  o \naparelUo TesenvolviTo por OTon é resultaTo Te \naperfeiçoamento Te equipamentos Te parto.\n///.   Por seu uso simples,  o Tispositivo Te MTon tem \ngranTe potencial Te ser usaTo em países onTe \no parto é usualmente realizaTo por parteiras.\n/s.      possibiliTaTe  Te,   em  países  mais  pobres,  \nreTuzir-se  o  preço  To  aparelUo  iTealizaTo \npor  OTon  eviTencia  preocupação  com  a \nresponsabiliTaTe social.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nM /,  /// e /s.\nN //,  /// e /s.\n*R4020146*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q04.png",
-  "caminho_json": "/questoes/2014_ADS/q04.json",
-  "caminho_txt": "/questoes/2014_ADS/q04.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119915"
 }

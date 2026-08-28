@@ -1,59 +1,14 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-11
-QUNSTÃO 14  
-Observe o Tiagrama Te Venn a seguir.
-A função representaTa em azul no Tiagrama também 
-poTeria ser expressa pela função lógica 
+QUESTÃO 14  
+Observe o diagrama de Venn a seguir.
+A função representada em azul no diagrama também 
+poderia ser expressa pela função lógica 
 A    
 .
 B    
 .
 C    
 .
-M    
+D    
 .
-N    
+E    
 .
-ÁRNA LCVRN
-QUNSTÃO 15
-SuponUa que seja necessário Tesenvolver uma ferramenta 
-que apresente o enTereço CP Tos múltiplos roteaTores, 
-salto a salto, que compõem o caminUo To UospeTeiro em 
-que a ferramenta é executaTa até um TeterminaTo Testino 
-(segunTo seu enTereço CP), assim como o rounT-trip time 
-até caTa roteaTor. Tal ferramenta precisa funcionar na 
-Cnternet atual, sem TemanTar muTanças em roteaTores 
-nem a introTução Te novos protocolos.
-ConsiTeranTo o problema acima, qual Tos seguintes 
-protocolos representaria a melUor (mais simples e 
-efi ciente) solução?
-A   CP: Cnternet Protocol.
-B   UMP: User Matagram Protocol.
-C   TCP: Transmission Control Protocol.
-M   CCMP: Cnternet Control Message Protocol.
-N   MHCP: Mynamic Host Confi guration Protocol. 
-QUNSTÃO 16  
-Um navegaTor Peb executa em um UospeTeiro A, em 
-uma reTe Te uma organização, e acessa uma página 
-localizaTa Te um serviTor Peb em um UospeTeiro B, 
-situaTo em outra reTe na Cnternet. A reTe em que A se 
-situa conta com um serviTor MNS local. Um profi ssional 
-Teseja fazer uma lista com a sequência Te protocolos 
-empregaTos e comparar com o resultaTo apresentaTo 
-por uma ferramenta Te monitoramento executaTa no 
-UospeTeiro A. A lista assume que
-i)   toTas as tabelas com informações temporárias e 
-cacUes estão vazias;
-ii) o UospeTeiro cliente está confi guraTo com o 
-enTereço CP To serviTor MNS local.
-Qual Tas sequências a seguir representa a orTem em que 
-mensagens, segmentos e pacotes serão observaTos em 
-um meio físico ao serem enviaTos pelo UospeTeiro A?
-A   ARP, MNS/UMP/CP, TCP/CP e HTTP/TCP/CP.
-B   ARP, MNS/UMP/CP, HTTP/TCP/CP e TCP/CP.
-C   MNS/UMP/CP, ARP, HTTP/TCP/CP e TCP/CP.
-M   MNS/UMP/CP, ARP, TCP/CP e HTTP/TCP/CP.
-N   HTTP/TCP/CP, TCP/CP, MNS/UMP/CP e ARP.
-*A13201111*

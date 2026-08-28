@@ -8,6 +8,17 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2021_CCP",
+    "page_width": 566.9,
+    "page_height": 779.5,
+    "header_cutoff_y": 74.5,
+    "footer_cutoff_y": 744.6,
+    "min_marker_y": 76.5,
+    "margin_x": 25.0,
+    "detected_headers": 48,
+    "detected_footers": 92
+  },
   "questoes": [
     {
       "id_questao": "qd01",
@@ -18,8 +29,8 @@
         3
       ],
       "largura": 2185,
-      "altura": 3929,
-      "confianca": 0.98,
+      "altura": 4037,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -38,8 +49,8 @@
         4
       ],
       "largura": 2185,
-      "altura": 1375,
-      "confianca": 0.98,
+      "altura": 1377,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -58,8 +69,8 @@
         5
       ],
       "largura": 2185,
-      "altura": 2159,
-      "confianca": 0.98,
+      "altura": 2161,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -79,8 +90,8 @@
         7
       ],
       "largura": 2185,
-      "altura": 5153,
-      "confianca": 0.98,
+      "altura": 5261,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -99,8 +110,8 @@
         8
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -119,8 +130,8 @@
         9
       ],
       "largura": 2185,
-      "altura": 2127,
-      "confianca": 0.98,
+      "altura": 2129,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -140,8 +151,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 3779,
-      "confianca": 0.98,
+      "altura": 3887,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -160,8 +171,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 1686,
-      "confianca": 0.98,
+      "altura": 1790,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -180,8 +191,8 @@
         12
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -200,8 +211,8 @@
         13
       ],
       "largura": 2185,
-      "altura": 2159,
-      "confianca": 0.98,
+      "altura": 2161,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -221,8 +232,8 @@
         15
       ],
       "largura": 2185,
-      "altura": 3199,
-      "confianca": 0.98,
+      "altura": 3307,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -241,11 +252,11 @@
         16
       ],
       "largura": 2185,
-      "altura": 1397,
-      "confianca": 0.98,
+      "altura": 1399,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/qd04.png",
@@ -262,7 +273,7 @@
         18
       ],
       "largura": 2185,
-      "altura": 5840,
+      "altura": 6054,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
@@ -282,11 +293,12 @@
         19
       ],
       "largura": 1095,
-      "altura": 2045,
-      "confianca": 0.98,
+      "altura": 2047,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais",
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q09.png",
@@ -302,8 +314,8 @@
         19
       ],
       "largura": 1095,
-      "altura": 2039,
-      "confianca": 0.98,
+      "altura": 2041,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -322,8 +334,8 @@
         20
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Inteligência Artificial e Dados"
@@ -342,11 +354,11 @@
         21
       ],
       "largura": 2185,
-      "altura": 1447,
-      "confianca": 0.98,
+      "altura": 1449,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI"
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q12.png",
@@ -362,8 +374,8 @@
         22
       ],
       "largura": 2185,
-      "altura": 1369,
-      "confianca": 0.98,
+      "altura": 1371,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -382,11 +394,11 @@
         23
       ],
       "largura": 2185,
-      "altura": 2308,
-      "confianca": 0.98,
+      "altura": 2310,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q14.png",
@@ -402,8 +414,8 @@
         24
       ],
       "largura": 2185,
-      "altura": 1531,
-      "confianca": 0.98,
+      "altura": 1533,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -422,8 +434,8 @@
         25
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -443,11 +455,11 @@
         27
       ],
       "largura": 2185,
-      "altura": 3720,
-      "confianca": 0.98,
+      "altura": 3828,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q17.png",
@@ -463,8 +475,8 @@
         27
       ],
       "largura": 2185,
-      "altura": 1746,
-      "confianca": 0.98,
+      "altura": 1850,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Inteligência Artificial e Dados"
@@ -483,8 +495,8 @@
         28
       ],
       "largura": 2185,
-      "altura": 1823,
-      "confianca": 0.98,
+      "altura": 1825,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -503,8 +515,8 @@
         29
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -523,11 +535,11 @@
         30
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Redes de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q21.png",
@@ -543,8 +555,8 @@
         31
       ],
       "largura": 2185,
-      "altura": 2531,
-      "confianca": 0.98,
+      "altura": 2533,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -563,8 +575,8 @@
         32
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -583,11 +595,11 @@
         33
       ],
       "largura": 2185,
-      "altura": 1926,
-      "confianca": 0.98,
+      "altura": 1928,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q24.png",
@@ -603,11 +615,11 @@
         34
       ],
       "largura": 2185,
-      "altura": 2014,
-      "confianca": 0.98,
+      "altura": 2016,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q25.png",
@@ -623,8 +635,8 @@
         35
       ],
       "largura": 2185,
-      "altura": 1711,
-      "confianca": 0.98,
+      "altura": 1713,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -643,8 +655,8 @@
         36
       ],
       "largura": 2185,
-      "altura": 1838,
-      "confianca": 0.98,
+      "altura": 1840,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -664,8 +676,8 @@
         37
       ],
       "largura": 2185,
-      "altura": 3628,
-      "confianca": 0.98,
+      "altura": 3838,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -684,11 +696,11 @@
         38
       ],
       "largura": 2185,
-      "altura": 2454,
-      "confianca": 0.98,
+      "altura": 2456,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_CCP/q29.png",
@@ -704,8 +716,8 @@
         39
       ],
       "largura": 2185,
-      "altura": 1788,
-      "confianca": 0.98,
+      "altura": 1790,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Teoria da Computação e Compiladores"
@@ -724,8 +736,8 @@
         40
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Teoria da Computação e Compiladores"
@@ -744,8 +756,8 @@
         41
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -764,8 +776,8 @@
         42
       ],
       "largura": 2185,
-      "altura": 2118,
-      "confianca": 0.98,
+      "altura": 2120,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -784,8 +796,8 @@
         43
       ],
       "largura": 2185,
-      "altura": 1682,
-      "confianca": 0.98,
+      "altura": 1684,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -804,8 +816,8 @@
         43
       ],
       "largura": 2185,
-      "altura": 1081,
-      "confianca": 0.98,
+      "altura": 1185,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"

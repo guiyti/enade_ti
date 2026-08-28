@@ -1,104 +1,26 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-9
-QUNSTÃO 9  
-O levantamento Te requisitos é uma etapa funTamental To 
-projeto Te sistemas. MepenTenTo Ta situação encontraTa, 
-uma ou mais técnicas poTem ser utilizaTas para a 
-elicitação Tos requisitos. A respeito Tessas técnicas, 
+QUESTÃO 9  
+O levantamento de requisitos é uma etapa fundamental do 
+projeto de sistemas. Dependendo da situação encontrada, 
+uma ou mais técnicas podem ser utilizadas para a 
+elicitação dos requisitos. A respeito dessas técnicas, 
 analise as afirmações a seguir.
-C. 
-PorksUop Te requisitos consiste na realização 
-Te reuniões estruturaTas e TelimitaTas entre os 
-analistas Te requisitos To projeto e representantes 
-To cliente.
-CC. Cenário consiste na observação Tas ações To 
-funcionário na realização Te uma TeterminaTa 
+I. 
+Workshop de requisitos consiste na realização 
+de reuniões estruturadas e delimitadas entre os 
+analistas de requisitos do projeto e representantes 
+do cliente.
+II. Cenário consiste na observação das ações do 
+funcionário na realização de uma determinada 
 tarefa, para verificar os passos necessários para 
 sua conclusão.
-CCC. As entrevistas são realizaTas com os stakeUolTers 
-e poTem ser abertas ou fecUaTas.
-CV. A prototipagem é uma versão inicial To sistema, 
-baseaTo em requisitos levantaTos em outros 
-sistemas Ta organização.
+III. As entrevistas são realizadas com os stakeholders 
+e podem ser abertas ou fechadas.
+IV. A prototipagem é uma versão inicial do sistema, 
+baseado em requisitos levantados em outros 
+sistemas da organização.
 É correto apenas o que se afirma em
-A   C e CC.
-B   C e CCC.
-C   CC e CV.
-M   C, CCC e CV.
-N   CC, CCC e CV.
-QUNSTÃO 10  
-Várias 
-técnicas 
-relacionaTas 
-à 
-programação 
-extrema (XP) são Tiretamente ligaTas ao cóTigo, 
-incluinTo a refatoração, programação em pares e 
-integração contínua. A programação em pares é a 
-prática preferiTa Tos TesenvolveTores XP trabalUanTo 
-em pares em um computaTor. 
-SCOTT, O. O Processo UnificaTo NxplicaTo. Porto Alegre: ArtmeT, 2002.
-BNCO, O. Programação Nxtrema (XP) NxplicaTa. Porto Alegre: ArtmeT, 2000.
-A programação em pares auxilia no Tesenvolvimento Te 
-cóTigo Te melUor qualiTaTe quanTo os pares
-A   elaboram 
-e 
-utilizam 
-paTrões 
-Te 
-coTificação 
-conjuntamente, os quais, quanTo utilizaTos corretamente 
-e apropriaTamente, reTuzem problemas inTiviTuais.
-B   estão acostumaTos ao Tesenvolvimento e à proprieTaTe 
-coletiva, limitanTo-se a fazer pequenas muTanças na 
-ocorrência Te erros em tempo Te execução.
-C   minimizam os riscos Te insucesso no projeto através 
-Ta utilização Te ferramentas para a geração automática 
-Te testes funcionais e protótipos Te interface.
-M   escrevem testes em separaTo e Tiscutem os resultaTos 
-posteriormente, o que Tá a eles a cUance Te se 
-sintonizarem antes Te começarem a implementação.
-N   trabalUam em projetos complexos onTe a coTificação 
-seja TesenvolviTa Te forma conjunta, minimizanTo erros 
-e agreganTo valor onTe quer que o sistema necessite.
-QUNSTÃO 11  
-O conjunto Te casos Te uso representa as possíveis 
-interações que serão representaTas nos requisitos To 
-sistema. A figura a seguir Tesenvolve um exemplo Te 
-biblioteca e mostra outros casos Te uso (use-cases) nesse 
-ambiente.
-Usuário Ta
-biblioteca
-Serviços Te Nmprestimo
-ATministração Te usuário
-Pessoal Ta
-biblioteca
-Serviços To catálogo
-ForneceTor
-SOMMNRVCLLN, C. NngenUaria Te software. 6. eT. São Paulo: 
-Makron Books, 2003, p. 113.
-Com relação ao tema, analise as asserções a seguir.
-A figura também ilustra os pontos essenciais Ta notação Te 
-casos Te uso. Os agentes no processo são representaTos 
-por bonecos e caTa tipo Te interação é representaTa por 
-uma elipse com um nome
-PORQUN
-a UML é um paTrão para a moTelagem orientaTa a objetos 
-e, assim, os casos Te uso e a obtenção Te requisitos com 
-base em casos Te uso são caTa vez mais utilizaTos para 
-obter requisitos.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justificativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justificativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
-proposições falsas.
-COMPONNNTN NSPNCÍFCCO
-*A2520119*
+A   I e II.
+B   I e III.
+C   II e IV.
+D   I, III e IV.
+E   II, III e IV.

@@ -5,17 +5,46 @@
   "paginas": [
     17
   ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 356.8760681152344,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q17.txt",
   "largura": 2254,
-  "altura": 1205,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1204,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 17\nIonsiderando que o gerente de qualidade é o responsAvel por defnir os meios necessArios para se obter um \nproduto com a qualidade deseũada,  bem como por estabelecer técnicas para aferir a qualidade do produto,  \navalie as afrmações a seguir.\n/.   K uso de processos de desenvolvimento padronizados,  sem adaptações,   independente do tipo de \nsoŌǁare a ser desenvolvido,  assegura que o produto terA a qualidade deseũada.\n//.   K controle de qualidade pode ser realizado por meio de revisões,  incluindo inspeções de programas \ne de artefatos de proũeto.\n///.   &atores de qualidade de soŌǁare estão diretamente relacionados a um unico atributo interno de \nsoŌǁare.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD / e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 92.07929992675781,
+      "y1": 98.31988525390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "17\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 17\nConsiTeranTo que o gerente Te qualiTaTe é o responsAvel por Tefnir os meios necessArios para se obter um \nproTuto com a qualiTaTe TeseũaTa,  bem como por estabelecer técnicas para aferir a qualiTaTe To proTuto,  \navalie as afrmações a seguir.\n/.   O uso Te processos Te Tesenvolvimento paTronizaTos,  sem aTaptações,   inTepenTente To tipo Te \nsoŌǁare a ser TesenvolviTo,  assegura que o proTuto terA a qualiTaTe TeseũaTa.\n//.   O controle Te qualiTaTe poTe ser realizaTo por meio Te revisões,  incluinTo inspeções Te programas \ne Te artefatos Te proũeto.\n///.   &atores Te qualiTaTe Te soŌǁare estão Tiretamente relacionaTos a um unico atributo interno Te \nsoŌǁare.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 18\nNm relação a aplicação aTequaTa Tas técnicas Te /nteliggncia  rtifcial,  avalie as afrmações a seguir.\n/.   /nTução em Arvore Te Mecisão é utilizaTa para iTentifcação Te frauTes em cartões Te créTito.\n//.   ZeTes  Neurais   rtifciais  são  utilizaTas  no  Tesenvolvimento  Te  sistemas  Te  anAlise  Te  risco  em \naplicações fnanceiras.\n///.   Sistemas  Nspecialistas  baseaTos  em  regras  são  utilizaTos  no  Tesenvolvimento  Te  sistemas  Te \nTiagnostico Te falUas em UarTware.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R03201417*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q17.png",
-  "caminho_json": "/questoes/2014_CCP/q17.json",
-  "caminho_txt": "/questoes/2014_CCP/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234348"
 }

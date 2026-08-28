@@ -1,67 +1,42 @@
-18
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 19
-O  algoritmo  Te  traçaTo  Te  raios  (ray-tracing)  é 
-consiTeraTo  um  marco  no  Tesenvolvimento  Te 
-técnicas  Te  computação  grAfca  para  a  geração  Te 
-imagens realistas.
-/magem 1
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. ǁiŬipeTia. orgх.   cesso em:  18 ũun.  2014.  
-/magem 2 
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ.colegioǁeb. com. brх.   cesso em:  18 ũun.  2014.
-/magem 3
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. cgǁ. comх.   cesso em:  18 ũun.  2014.
-  partir Ta anAlise Tas imagens apresentaTas,  conclui-se 
-que a técnica Te traçaTo Te raios foi utilizaTa para a geração
-A apenas Ta imagem 1.
-B apenas Ta imagem 2.
-C apenas Tas imagens 1 e 3.
-M apenas Tas imagens 2 e 3.
-N Tas imagens 1,  2 e 3.
-QUNSTÃO 20
-Um processo tem um ou mais Ňuxos Te execução,  
-normalmente TenominaTos apenas por tUreaTs.
-TUreaT
+QUESTÃO 20
+hm processo tem um ou mais Ňuxos de execução,  
+normalmente denominados apenas por threads.
+Thread
 Processo 1
-Nspaço
-To usuário
-Nspaço
-To kernel
-Oernel
+Espaço
+do usuário
+Espaço
+do kernel
+Kernel
 Figura 1
 Processo 2
 Processo 3
-TUreaT
-Oernel
+Thread
+Kernel
 Figura 2
 Processo
-T NNNB UM,   .  M.  Sistemas operacionais moTernos.  3.  eT.  São Paulo:  
-Pearson Prentice ,all,  2010 (aTaptaTo).
-   partir  Tas  fguras  1  e  2  apresentaTas,   avalie  as 
+d EEEB hD,   .  D.  Sistemas operacionais modernos.  3.  ed.  ^ão Waulo:  
+Wearson Wrentice ,all,  2010 (adaptado).
+   partir  das  fguras  1  e  2  apresentadas,   avalie  as 
 afrmações a seguir.
-/.   Tanto na fgura 1 quanto na fgura 2,  existem 
-trgs tUreaTs que utilizam o mesmo espaço Te 
-enTereçamento.
-//.   Tanto na fgura 1 quanto na fgura 2,  existem 
-trgs  tUreaTs que  utilizam  trgs  espaços  Te 
-enTereçamento Tistintos.
-///.   Na fgura 2,  existe um processo com um unico 
-espaço Te enTereçamento e trgs tUreaTs Te 
+/.   danto na fgura 1 quanto na fgura 2,  existem 
+trgs threads que utilizam o mesmo espaço de 
+endereçamento.
+//.   danto na fgura 1 quanto na fgura 2,  existem 
+trgs  threads que  utilizam  trgs  espaços  de 
+endereçamento distintos.
+///.   Ea fgura 2,  existe um processo com um unico 
+espaço de endereçamento e trgs threads de 
 controle.
-/s.   Na fgura 1,  existem trgs processos traTicionais,  
-caTa qual tem seu espaço Te enTereçamento 
-e uma unica tUreaT Te controle.
-V.  s  tUreaTs  permitem  que  vArias  execuções 
-ocorram no mesmo ambiente Te processo Te 
-forma inTepenTente uma Tas outras.
+/s.   Ea fgura 1,  existem trgs processos tradicionais,  
+cada qual tem seu espaço de endereçamento 
+e uma unica thread de controle.
+V.  s  threads  permitem  que  vArias  execuções 
+ocorram no mesmo ambiente de processo de 
+forma independente uma das outras.
  correto apenas o que se afrma em
 A /,  // e ///.
 B /,  // e /s.
 C /,  /// e s.
-M //,  /s e s.
-N ///,  /s e s.
-ÁRNA LCVRN
-*R03201418*
+D //,  /s e s.
+E ///,  /s e s.

@@ -1,30 +1,26 @@
-42
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 33	
-A linguagem PROLOG pertence ao paraTigma Ta programação lógica, no qual a lógica proposicional e 
-algorítmica poTe ser expressa na forma Te Tescritores Te fatos e regras Te proTução Te respostas. No contexto 
-Ta árvore genealógica Te uma família, analise a seguinte base Te fatos Tescrita em linguagem Prolog.
-paiTe(ana,francisco).
-paiTe(maria,francisco).
-paiTe(luiz,francisco).
-maeTe(jose,maria).
-maeTe(angelica,ana).
-paiTe(luiza,luiz).
-paiTe(joaquim,luiz).
-Uomem(francisco).
-Uomem(jose).
-Uomem(luiz).
-Uomem(joaquim).
-mulUer(ana).
-mulUer(maria).
-mulUer(angelica).
-mulUer(luiza)
-Qual regra lógica Te proTução está corretamente escrita para verificar uma Tas situações lógicas em que 
-Tuas pessoas são irmãs?
-A	 saoirmas(X,Y):-paiTe(X,P), paiTe(Y,P), X\=Y.
-B	 saoirmas(X,Y):-paiTe(X,P), paiTe(Y,P), X\=Y, mulUer(X).
-C	 saoirmas(X,Y):-paiTe(X,P), paiTe(Y,P), X\=Y, mulUer(X,Y).
-M	 saoirmas(X,Y):-paiTe(X,P), paiTe(Y,P), X\=Y, mulUer(X), mulUer(Y).
-N	 saoirmas(X,Y):-paiTe(X,P), maeTe(Y,M), X\=Y, mulUer(X), mulUer(Y).
-Área livre
-*R02202142*
+QUESTÃO 33	
+A linguagem PROLOG pertence ao paradigma da programação lógica, no qual a lógica proposicional e 
+algorítmica pode ser expressa na forma de descritores de fatos e regras de produção de respostas. No contexto 
+da árvore genealógica de uma família, analise a seguinte base de fatos descrita em linguagem Prolog.
+paide(ana,francisco).
+paide(maria,francisco).
+paide(luiz,francisco).
+maede(jose,maria).
+maede(angelica,ana).
+paide(luiza,luiz).
+paide(joaquim,luiz).
+homem(francisco).
+homem(jose).
+homem(luiz).
+homem(joaquim).
+mulher(ana).
+mulher(maria).
+mulher(angelica).
+mulher(luiza)
+Qual regra lógica de produção está corretamente escrita para verificar uma das situações lógicas em que 
+duas pessoas são irmãs?
+A	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y.
+B	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X).
+C	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X,Y).
+D	 saoirmas(X,Y):-paide(X,P), paide(Y,P), X\=Y, mulher(X), mulher(Y).
+E	 saoirmas(X,Y):-paide(X,P), maede(Y,M), X\=Y, mulher(X), mulher(Y).

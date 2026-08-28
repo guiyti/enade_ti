@@ -1,27 +1,23 @@
-32
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 28
-Os requisitos Te um sistema consistem nas Tescrições Taquilo que o sistema Teve fazer,  Tos serviços 
-que oferece e Tas restrições a seu funcionamento.  Nsses requisitos reŇetem as necessiTaTes específcas 
-Tos clientes To sistema,  como controlar um Tispositivo,  realizar um peTiTo ou encontrar informações.  
-O processo Te Tescobrir,  analisar,  Tocumentar e verifcar esses serviços e restrições é TenominaTo Te 
-engenUaria Te requisitos.
-SOMMNZs/>>N,  /.  NngenUaria Te soŌǁare.  9.  NT.  São Paulo:  Pearson,  2011 (aTaptaTo).
-TenTo  o  texto  como  refergncia,   avalie  as  atribuições  listaTas  a  seguir,   no  que  se  refere  a  etapa  Te 
-especifcação Te requisitos em proũetos Te soŌǁare.
-/.   /Tentifcar  as  expectativas  e  necessiTaTes  Tos  stakeUolTers  com  relação  ao  soŌǁare  a  ser 
-TesenvolviTo.
-//.   Mistribuir os requisitos em categorias,  explorar as relações entre eles e classifcar sua importancia 
-para os stakeUolTers.
-///.   ProTuzir  um  Tocumento  Te  especifcação  Te  requisitos,   Te  forma  que  toTos  os  stakeUolTers
-possam entenTg-lo.
-/s.   Nxaminar a especifcação To soŌǁare para assegurar que toTos os requisitos foram TefniTos sem 
+QUESTÃO 28
+Ks requisitos de um sistema consistem nas descrições daquilo que o sistema deve fazer,  dos serviços 
+que oferece e das restrições a seu funcionamento.  Esses requisitos reŇetem as necessidades específcas 
+dos clientes do sistema,  como controlar um dispositivo,  realizar um pedido ou encontrar informações.  
+K processo de descobrir,  analisar,  documentar e verifcar esses serviços e restrições é denominado de 
+engenharia de requisitos.
+^KDDEZs/>>E,  /.  Engenharia de soŌǁare.  9.  Ed.  ^ão Waulo:  Wearson,  2011 (adaptado).
+dendo  o  texto  como  refergncia,   avalie  as  atribuições  listadas  a  seguir,   no  que  se  refere  a  etapa  de 
+especifcação de requisitos em proũetos de soŌǁare.
+/.   /dentifcar  as  expectativas  e  necessidades  dos  stakeholders  com  relação  ao  soŌǁare  a  ser 
+desenvolvido.
+//.   Distribuir os requisitos em categorias,  explorar as relações entre eles e classifcar sua importancia 
+para os stakeholders.
+///.   Wroduzir  um  documento  de  especifcação  de  requisitos,   de  forma  que  todos  os  stakeholders
+possam entendg-lo.
+/s.   Examinar a especifcação do soŌǁare para assegurar que todos os requisitos foram defnidos sem 
 inconsistgncias.
-São atribuições na etapa Te especifcação Te requisitos os itens
+^ão atribuições na etapa de especifcação de requisitos os itens
 A / e ///,  apenas.
 B  / e /s,  apenas.
 C // e ///,  apenas.
-M // e /s,  apenas.
-N /,  //,  /// e /s.
-Area livre
-*R41201732*
+D // e /s,  apenas.
+E /,  //,  /// e /s.

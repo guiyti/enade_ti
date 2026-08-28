@@ -5,17 +5,46 @@
   "paginas": [
     34
   ],
+  "segmentos": [
+    {
+      "pagina": 34,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 580.0827026367188,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q26.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q26.txt",
   "largura": 2185,
-  "altura": 2135,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2137,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 26\t\nEmpreender em computação não se resume apenas ao fato de ter uma ideia sobre um aplicativo, \nimplementá-la e disponibilizá-la aos seus usuários finais. Esse conceito vai além, é preciso analisar uma \nsérie de variáveis, como questões sociais e humanísticas, profissionais, ambientais, legais, políticas e \ntecnológicas.\nDentre as ações necessárias para empreender em computação, é imprescindível observar a legislação vigente. \nNo Brasil, a Lei Geral de Proteção de Dados Pessoais (LGPD), n. 13.709/2018, dispõe sobre o tratamento de \ndados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público \nou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre \ndesenvolvimento da personalidade da pessoa natural.\nAcerca das providências dispostas no art. 2º da LGPD, assinale os fundamentos da disciplina da proteção \nde dados pessoais.\nA\t O direito ao usuário; das obrigações das organizações nacionais ou estrangeiras; obrigatoriedade do \nconsentimento; a livre iniciativa, a livre concorrência e a defesa do consumidor; os direitos humanos, o \nlivre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais \ne regulação da Autoridade Nacional de Proteção de Dados Pessoais (ANPD).\nB\t O direito à revogação de um consentimento; a transferência de dados para outro fornecedor de \nserviços; a solicitação de remoção de dados pessoais; a inviolabilidade da intimidade, da honra e \nda imagem; o desenvolvimento econômico e tecnológico e inovação; a preservação da vida e da \nintegridade física de uma pessoa.\nC\t O respeito à privacidade; obrigatoriedade do consentimento; os deveres e obrigações dos usuários \nfinais; os deveres e obrigações das organizações nacionais ou estrangeiras; a observação ao código de \ndefesa do consumidor; e, a obrigatoriedade do respeito à honra e à imagem.\nD\t O direito ao anonimato; a liberdade de expressão; a inviolabilidade da intimidade; a adoção de \nmedidas preventivas de segurança; o direito ao recurso e revisão; a administração de riscos e falhas; \no estabelecimento de agentes de tratamento; e, regulação da Autoridade Nacional de Proteção de \nDados Pessoais (ANPD).\nE\t O respeito à privacidade; a autodeterminação informativa; a liberdade de expressão, de informação, de \ncomunicação e de opinião; a inviolabilidade da intimidade, da honra e da imagem; o desenvolvimento \neconômico e tecnológico e a inovação; a livre iniciativa, a livre concorrência e a defesa do consumidor; \ne, os direitos humanos, o livre desenvolvimento da personalidade, dignidade e o exercício da cidadania \npelas pessoas naturais.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Segurança da Informação"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 26,
+      "tipo": "OBJETIVA",
+      "pagina": 34,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 26"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "34\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 26\t\nNmpreenTer em computação não se resume apenas ao fato Te ter uma iTeia sobre um aplicativo, \nimplementá-la e Tisponibilizá-la aos seus usuários finais. Nsse conceito vai além, é preciso analisar uma \nsérie Te variáveis, como questões sociais e Uumanísticas, profissionais, ambientais, legais, políticas e \ntecnológicas.\nMentre as ações necessárias para empreenTer em computação, é imprescinTível observar a legislação vigente. \nNo Brasil, a Lei Geral Te Proteção Te MaTos Pessoais (LGPM), n. 13.709/2018, Tispõe sobre o tratamento Te \nTaTos pessoais, inclusive nos meios Tigitais, por pessoa natural ou por pessoa juríTica Te Tireito público \nou privaTo, com o objetivo Te proteger os Tireitos funTamentais Te liberTaTe e Te privaciTaTe e o livre \nTesenvolvimento Ta personaliTaTe Ta pessoa natural.\nAcerca Tas proviTências Tispostas no art. 2º Ta LGPM, assinale os funTamentos Ta Tisciplina Ta proteção \nTe TaTos pessoais.\nA\t O Tireito ao usuário; Tas obrigações Tas organizações nacionais ou estrangeiras; obrigatorieTaTe To \nconsentimento; a livre iniciativa, a livre concorrência e a Tefesa To consumiTor; os Tireitos Uumanos, o \nlivre Tesenvolvimento Ta personaliTaTe, a TigniTaTe e o exercício Ta ciTaTania pelas pessoas naturais \ne regulação Ta AutoriTaTe Nacional Te Proteção Te MaTos Pessoais (ANPM).\nB\t O Tireito à revogação Te um consentimento; a transferência Te TaTos para outro forneceTor Te \nserviços; a solicitação Te remoção Te TaTos pessoais; a inviolabiliTaTe Ta intimiTaTe, Ta Uonra e \nTa imagem; o Tesenvolvimento econômico e tecnológico e inovação; a preservação Ta viTa e Ta \nintegriTaTe física Te uma pessoa.\nC\t O respeito à privaciTaTe; obrigatorieTaTe To consentimento; os Teveres e obrigações Tos usuários \nfinais; os Teveres e obrigações Tas organizações nacionais ou estrangeiras; a observação ao cóTigo Te \nTefesa To consumiTor; e, a obrigatorieTaTe To respeito à Uonra e à imagem.\nM\t O Tireito ao anonimato; a liberTaTe Te expressão; a inviolabiliTaTe Ta intimiTaTe; a aToção Te \nmeTiTas preventivas Te segurança; o Tireito ao recurso e revisão; a aTministração Te riscos e falUas; \no estabelecimento Te agentes Te tratamento; e, regulação Ta AutoriTaTe Nacional Te Proteção Te \nMaTos Pessoais (ANPM).\nN\t O respeito à privaciTaTe; a autoTeterminação informativa; a liberTaTe Te expressão, Te informação, Te \ncomunicação e Te opinião; a inviolabiliTaTe Ta intimiTaTe, Ta Uonra e Ta imagem; o Tesenvolvimento \neconômico e tecnológico e a inovação; a livre iniciativa, a livre concorrência e a Tefesa To consumiTor; \ne, os Tireitos Uumanos, o livre Tesenvolvimento Ta personaliTaTe, TigniTaTe e o exercício Ta ciTaTania \npelas pessoas naturais.\nÁrea livre\n*R28202134*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q26.png",
-  "caminho_json": "/questoes/2021_ADS/q26.json",
-  "caminho_txt": "/questoes/2021_ADS/q26.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625623"
 }

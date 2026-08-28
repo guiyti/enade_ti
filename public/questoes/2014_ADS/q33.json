@@ -3,20 +3,48 @@
   "numero": 33,
   "tipo": "OBJETIVA",
   "paginas": [
-    25,
-    26
+    25
   ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 317.15999999999997,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 749.4,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q33.txt",
   "largura": 1223,
-  "altura": 2871,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 33\n\u0005s \nvezes,  \ngarantia \nde \nqualidade \nsignifca \nsimplesmente  a  defnição  de  procedimentos,  \nprocessos  e  padrões  que  visam  reforçar  que  a \nqualidade  de  soŌǁare  seũa  atingida.   Em  outros \ncasos,  a garantia de qualidade também inclui todo \no  gerenciamento  de  confguração,   atividades  de \nverifcação e validação aplicados apos o produto ter \nsido entregue por uma equipe de desenvolvimento.\n^KDDEZs/>>E,  /.  Engenharia de ^oŌǁare.  9.  ed.,  ^ão Waulo,  2011,  p. 455.\nYualquer  alteração  inserida  no  processo  de \ndesenvolvimento \nde \nsoŌǁare \naumenta \na \namplitude  de  erros  e  tende  a  descaracterizar \no  proũeto  inicialmente  planeũado,   afetando  a \nqualidade  do  produto  ou  serviço.   K  controle  e  a \ngarantia da qualidade de soŌǁare visam satisfazer \nas  necessidades  dos  staŬeholders͖   assegurar  que \nos  requisitos  dos  usuArios  seũam  atendidos  pelas \nespecifcações  dos  produtos  ou  serviços͖   defnir \nos  processos  para  que  o  desenvolvimento  do \nsistema atenda esses requisitos͖  gerenciar versões,  \nmudanças,  releases e a construção do sistema.    fm \nde assegurar a garantia da qualidade do soŌǁare \né indispensAvel defnir um processo para controlar \na documentação elaborada durante o processo de \ndesenvolvimento.\nIonsiderando essa situação,  avalie as afrmações a seguir.\n/.    s  técnicas  de  verifcação  e  validação  de \nsoŌǁare  estabelecem  a  confança  de  que \no  sistema  que  esteũa  sendo  desenvolvido  é \nadequado ao seu proposito.\n//.      gergncia  de  confguração  provg  pontos \nde controle sobre os artefatos produzidos e \nmodifcados por diferentes recursos.\n///.   K \ngerenciamento \nde \nmudanças \ndeve \ndocumentar a detecção de bugs e problemas \nintroduzidos apos a construção de uma nova \nversão do soŌǁare.\n/s.   &az  parte  das  atribuições  da  equipe  de \ngarantia de qualidade examinar se os testes \ndo  sistema  proporcionam  cobertura  dos \nrequisitos  e  manter  registros  adequados  do \nprocesso de teste.\nV.    revisão  de  soŌǁare  tem  por  obũetivo \narmazenar  os  documentos  num  repositorio \ncentral.\n\u001e correto apenas o que se afrma em\nA /,  // e ///.\nB /,  // e /s.\nC /,  /// e s.\nD //,  /s e s.\nE ///,  /s e s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 321.1419982910156,
+      "y": 108.5428466796875,
+      "x1": 578.9667358398438,
+      "y1": 215.48704528808594,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 33\n\u0005s \nvezes,  \ngarantia \nde \nqualidade \nsignifca \nsimplesmente  a  defnição  de  procedimentos,  \nprocessos  e  padrões  que  visam  reforçar  que  a \nqualidade  de  soŌǁare  seũa  atingida.   Em  outros \ncasos,  a garantia de qualidade também inclui todo \no  gerenciamento  de  confguração,   atividades  de \nverifcação e validação aplicados apos o produto ter \nsido entregue por uma equipe de desenvolvimento."
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "25\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 32\nVivemos  em  um  munTo  Te  proTutos  Te  alta \ntecnologia e praticamente toTos requerem interação \nUumana.   Para  que  um  proTuto  Te  soŌǁare  seũa \nbem-suceTiTo,   Teve  apresentar  boa  usabiliTaTe.  \nSe  os  mecanismos  Te  interface  tiverem  siTo  bem \nproũetaTos,   o  usuArio  Ňui  suavemente  através  Ta \ninteração usanTo um ritmo caTenciaTo que permite \nque o trabalUo seũa realizaTo sem granTes esforços.  \nNntretanto,  se a interface for mal concebiTa,  o usuArio \nse move aos trancos e barrancos,  e o resultaTo serA \nfrustração e baixa efcigncia no trabalUo.\nTrgs regras Te ouro são a base para um conũunto Te \nprincípios para o proũeto Te interfaces To usuArio:\n1 ʹ Teixar o usuArio no comanTo͖\n2 ʹ reTuzir a carga Te memoria To usuArio͖\n3 ʹ tornar a interface consistente.\nPZNSSM N,  Z.  S.͖  NngenUaria Te SoŌǁare:  uma aborTagem \nprofssional.  7 eT.,  Mc'raǁ ,ill, 2011,  p.  287-288 (aTaptaTo).\nCom base nessas trgs regras,  avalie as afrmações a \nseguir.\n/.   Um sistema que permita ao usuArio Tesfazer \nqualquer ação,  respeita a regra Te ouro 1.\n//.   Um  sistema  Te  pagamento  Te  contas  que \nusa  uma  imagem  Te  um  cartão  Te  créTito \npara  orientar  o  usuArio  pelo  processo  Te \npagamento Te uma conta,  respeita a regra Te \nouro 2.\n///.   Um conũunto Te aplicações ou proTutos que \nimplementam  as  mesmas  regras  Te  proũeto \nTe  moTo  paTronizaTo,   respeita  a  regra  Te \nouro 3.  \n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 33\n\u0005s \nvezes,  \ngarantia \nTe \nqualiTaTe \nsignifca \nsimplesmente  a  Tefnição  Te  proceTimentos,  \nprocessos  e  paTrões  que  visam  reforçar  que  a \nqualiTaTe  Te  soŌǁare  seũa  atingiTa.   Nm  outros \ncasos,  a garantia Te qualiTaTe também inclui toTo \no  gerenciamento  Te  confguração,   ativiTaTes  Te \nverifcação e valiTação aplicaTos apos o proTuto ter \nsiTo entregue por uma equipe Te Tesenvolvimento.\nSOMMNZs/>>N,  /.  NngenUaria Te SoŌǁare.  9.  eT.,  São Paulo,  2011,  p. 455.\nYualquer  alteração  inseriTa  no  processo  Te \nTesenvolvimento \nTe \nsoŌǁare \naumenta \na \namplituTe  Te  erros  e  tenTe  a  Tescaracterizar \no  proũeto  inicialmente  planeũaTo,   afetanTo  a \nqualiTaTe  To  proTuto  ou  serviço.   O  controle  e  a \ngarantia Ta qualiTaTe Te soŌǁare visam satisfazer \nas  necessiTaTes  Tos  staŬeUolTers͖   assegurar  que \nos  requisitos  Tos  usuArios  seũam  atenTiTos  pelas \nespecifcações  Tos  proTutos  ou  serviços͖   Tefnir \nos  processos  para  que  o  Tesenvolvimento  To \nsistema atenTa esses requisitos͖  gerenciar versões,  \nmuTanças,  releases e a construção To sistema.    fm \nTe assegurar a garantia Ta qualiTaTe To soŌǁare \né inTispensAvel Tefnir um processo para controlar \na Tocumentação elaboraTa Turante o processo Te \nTesenvolvimento.\nConsiTeranTo essa situação,  avalie as afrmações a seguir.\n/.    s  técnicas  Te  verifcação  e  valiTação  Te \nsoŌǁare  estabelecem  a  confança  Te  que \no  sistema  que  esteũa  senTo  TesenvolviTo  é \naTequaTo ao seu proposito.\n//.      gergncia  Te  confguração  provg  pontos \nTe controle sobre os artefatos proTuziTos e \nmoTifcaTos por Tiferentes recursos.\n///.   O \ngerenciamento \nTe \nmuTanças \nTeve \nTocumentar a Tetecção Te bugs e problemas \nintroTuziTos apos a construção Te uma nova \nversão To soŌǁare.\n/s.   &az  parte  Tas  atribuições  Ta  equipe  Te \ngarantia Te qualiTaTe examinar se os testes \nTo  sistema  proporcionam  cobertura  Tos \nrequisitos  e  manter  registros  aTequaTos  To \nprocesso Te teste.\nV.    revisão  Te  soŌǁare  tem  por  obũetivo \narmazenar  os  Tocumentos  num  repositorio \ncentral.\n\u001e correto apenas o que se afrma em\nA /,  // e ///.\nB /,  // e /s.\nC /,  /// e s.\nM //,  /s e s.\nN ///,  /s e s.\n*R40201425*\n\n26\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 34\nO  gerenciamento  Te  proũetos  Te  sistemas  é \nessencial  para  a  engenUaria  Te  soŌǁare.   Um  mau \ngerenciamento  acarreta  atraso  na  entrega  To \nprograma,  custo maior To que o programaTo e falUa \nno  atenTimento  aos  requisitos.   O  quaTro  a  seguir \nrepresenta  Te  forma  Uipotética  algumas  tarefas \nTe  um  proũeto  Te  Tesenvolvimento  Te  soŌǁare.\nNsse quaTro mostra as ativiTaTes,  sua Turação e as \nrespectivas interTepenTgncias.  \nTarefa\nMuração (Tias)\nMepenTências\nT1\n5\n-\nT2\n8\nT1\nT3\n2\nT2\nT4\n4\n-\nT5\n2\nT3,  T4\nT6\n4\n-\nT7\n3\nT5\nCom  base  na  anAlise  To  quaTro,   o  tempo  mínimo \nnecessArio para terminar o proũeto é Te\nA 13 Tias.\nB 15 Tias.\nC 16 Tias.\nM 20 Tias.\nN 28 Tias.\nÁRNA LCVRN\nQUNSTÃO 35\n:osé  TiscutinTo  futebol  com  :oão  Teclarou  que  se \no  time  y  venceu  o  ultimo  ũogo,   então  o  time  z  é \ncampeão.  :oão Tepois Te algumas Uoras Tescobriu \nque a Teclaração era falsa.  Nm consequgncia,  teve \ncerteza Te que é verTaTe que\nA o time y não venceu o ultimo ũogo e o time z é \ncampeão.\nB o time y venceu o ultimo ũogo e o time z não é \ncampeão.\nC ou o time y não venceu o ultimo ũogo ou o time \nz é campeão.\nM o time y não venceu o ultimo ũogo e o time z não \né campeão.\nN se o time z não é campeão,  então o time y não \nvenceu o ultimo ũogo.\nÁRNA LCVRN\n*R40201426*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q33.png",
-  "caminho_json": "/questoes/2014_ADS/q33.json",
-  "caminho_txt": "/questoes/2014_ADS/q33.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120149"
 }

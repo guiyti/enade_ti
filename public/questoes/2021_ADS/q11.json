@@ -5,17 +5,46 @@
   "paginas": [
     20
   ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 280.56,
+      "y1": 744.5902099609375,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q11.txt",
   "largura": 1095,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 11\t\nO código Java, a seguir, contém a implementação \nde uma Pilha utilizando a estratégia encadeada.\npublic class No{\npublic int dado;\npublic No prox;\npublic No(int dado){\nthis.dado = dado;\n}\n}\npublic class PilhaEncadeada{\nprivate No topo;\npublic int pop(){\nif (topo == null)\nreturn -1;\nNo lixo = topo;\ntopo = topo.prox;\nlixo.prox = null;\nreturn lixo.dado;\n}\npublic int top(){\nif (topo == null)\nreturn -1;\nreturn (topo.dado);\n}\n}\nCom base no exposto, assinale a opção que possui \na implementação correta do método push para \nessa Pilha.\nA\t public void push(int elemento){ \nNo novo = new No(elemento);  \nif(topo == null)  \n  topo = novo;  \nelse  \n  topo.prox = novo;  \n}\nB\t public void push(int elemento){    \n  No novo = new No(elemento);  \n  topo = novo;  \n}\nC\t public void push(int elemento){  \ntopo.dado = elemento;  \n}\nD\t public void push(int elemento){  \n  No novo = new No(elemento);  \n  while (topo != null)  \n    topo = topo.prox;  \n  topo.prox = novo;  \n}\nE\t public void push(int elemento){  \n  No novo = new No(elemento);      \n  novo.prox = topo;  \n  topo = novo;  \n}",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "20\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 11\t\nO cóTigo Java, a seguir, contém a implementação \nTe uma PilUa utilizanTo a estratégia encaTeaTa.\npublic class No{\npublic int TaTo;\npublic No prox;\npublic No(int TaTo){\ntUis.TaTo = TaTo;\n}\n}\npublic class PilUaNncaTeaTa{\nprivate No topo;\npublic int pop(){\nif (topo == null)\nreturn -1;\nNo lixo = topo;\ntopo = topo.prox;\nlixo.prox = null;\nreturn lixo.TaTo;\n}\npublic int top(){\nif (topo == null)\nreturn -1;\nreturn (topo.TaTo);\n}\n}\nCom base no exposto, assinale a opção que possui \na implementação correta To métoTo pusU para \nessa PilUa.\nA\t public voiT pusU(int elemento){ \nNo novo = new No(elemento);  \nif(topo == null)  \n  topo = novo;  \nelse  \n  topo.prox = novo;  \n}\nB\t public voiT pusU(int elemento){    \n  No novo = new No(elemento);  \n  topo = novo;  \n}\nC\t public voiT pusU(int elemento){  \ntopo.TaTo = elemento;  \n}\nM\t public voiT pusU(int elemento){  \n  No novo = new No(elemento);  \n  wUile (topo != null)  \n    topo = topo.prox;  \n  topo.prox = novo;  \n}\nN\t public voiT pusU(int elemento){  \n  No novo = new No(elemento);      \n  novo.prox = topo;  \n  topo = novo;  \n}\nQUNSTÃO 12\t\nUma fábrica Te software está realizanTo entrevistas \npara contração Te um profissional que esteja \nalinUaTo às exigências To atual munTo corporativo. \nSabe-se que processos ágeis Te Tesenvolvimento \ntêm se tornaTo essenciais para empresas que \nTesejam realizar entregas rápiTas e frequentes Te \nproTutos e/ou serviços Te software. Nssa empresa \npossui uma equipe Te Tesenvolvimento que faz \nuso Te processos ágeis como o Scrum e eXtreme \nProgramming (XP) e o acompanUamento por meio \nTo quaTro Oanban. SenTo assim, um conjunto \nTe características Teve ser verificaTo Turante a \nentrevista para garantir que o canTiTato a ser \ncontrataTo possua conUecimentos necessários \npara atuar juntamente a esta equipe.\nCom base no texto e nos processos ágeis Te \nTesenvolvimento Te software, avalie as afirmações \na seguir.\nC.\t MétoTos Ágeis são baseaTos em ciclos \niterativo e incremental que se concentram \nno Tesenvolvimento rápiTo e na flexibiliTaTe \nàs muTanças, com a participação To cliente \nno processo Te software.\nCC.\t Uma forte característica Ta XP é a garantia \nTa qualiTaTe To cóTigo proTuziTo e, para \nisso, os TesenvolveTores proTuzem testes \nautomatizaTos antes mesmo Te coTificar \numa funcionaliTaTe.\nCCC.\t O planejamento no Scrum é baseaTo na \nelaboração Tos itens To proTuct backlog, \nque é uma lista Te funcionaliTaTes TesejaTas \npelo cliente, senTo o Scrum Master o \nresponsável por gerenciá-lo.\nCV.\t O quaTro Oanban permite monitorar a \nevolução Tas tarefas necessárias Turante \no \nprocesso \nágil \nTe \nTesenvolvimento \nTe \nsoftware, \npossibilitanTo \num \nacompanUamento Te forma visual Tas \nativiTaTes em construção.\nÉ correto apenas o que se afirma em\nA\t CC.\nB\t C e CCC.\nC\t C, CC e CV.\nM\t C, CCC e CV.\nN\t CC, CCC e CV.\n*R28202120*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q11.png",
-  "caminho_json": "/questoes/2021_ADS/q11.json",
-  "caminho_txt": "/questoes/2021_ADS/q11.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625509"
 }

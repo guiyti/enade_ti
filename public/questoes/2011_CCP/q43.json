@@ -5,15 +5,25 @@
   "paginas": [
     27
   ],
-  "largura": 2241,
-  "altura": 2715,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 64.4,
+      "x1": 555.56,
+      "y1": 728.2,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNGNNHARCA MA COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n27\nQUNSTÃO 43  \nO razor é uma arquitetura para TesempenUo better-tUan-worst-case que usa um \nregistraTor especializaTo, mostraTo na fi gura, que meTe e avalia os erros.\nO registraTor To sistema mantém o valor cUaveaTo e é comanTaTo por um \nclock Te sistema better-tUan-worst-case. Um registraTor aTicional é comanTaTo \nseparaTamente por um clock ligeiramente atrasaTo com relação ao To sistema. Se os \nresultaTos armazenaTos nos Tois registraTores são Tiferentes, então um erro ocorreu, \nprovavelmente TeviTo à temporização. A porta XOR Tetecta o erro e faz com que este \nvalor seja substituíTo por aquele no registraTor To sistema.\nPolf, P. HigU-performance embeTTeT computing: arcUitectures, applications, anT metUoTologies. Morgan Oaufmann, 2007\nConsiTeranTo essas informações, analise as afi rmações a seguir.\nC. \nSistemas Tigitais são traTicionalmente concebiTos como sistemas assíncronos regiTos por um clock.\nCC. Better-tUan-worst-case é um estilo Te projeto alternativo em que a lógica Tetecta e se recupera Te erros, \npermitinTo que o circuito possa operar com uma frequência maior.\nCCC. Nos sistemas Tigitais, o períoTo Te clock é TeterminaTo por uma análise cuiTaTosa para que os valores sejam \narmazenaTos corretamente nos registraTores, com o períoTo Te clock alargaTo para abranger o atraso Te pior \ncaso.\nÉ correto o que se afi rma em\nA   C, apenas.\nB   CCC, apenas.\nC   C e CC, apenas.\nM   CC e CCC, apenas.\nN   C, CC e CCC.\n*A13201127*",
+  "caminho_png": "/questoes/2011_CCP/q43.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q43.txt",
+  "largura": 2241,
+  "altura": 2796,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 43  \nO razor é uma arquitetura para desempenho better-than-worst-case que usa um \nregistrador especializado, mostrado na fi gura, que mede e avalia os erros.\nO registrador do sistema mantém o valor chaveado e é comandado por um \nclock de sistema better-than-worst-case. Um registrador adicional é comandado \nseparadamente por um clock ligeiramente atrasado com relação ao do sistema. Se os \nresultados armazenados nos dois registradores são diferentes, então um erro ocorreu, \nprovavelmente devido à temporização. A porta XOR detecta o erro e faz com que este \nvalor seja substituído por aquele no registrador do sistema.\nWolf, W. High-performance embedded computing: architectures, applications, and methodologies. Morgan Kaufmann, 2007\nConsiderando essas informações, analise as afi rmações a seguir.\nI. \nSistemas digitais são tradicionalmente concebidos como sistemas assíncronos regidos por um clock.\nII. Better-than-worst-case é um estilo de projeto alternativo em que a lógica detecta e se recupera de erros, \npermitindo que o circuito possa operar com uma frequência maior.\nIII. Nos sistemas digitais, o período de clock é determinado por uma análise cuidadosa para que os valores sejam \narmazenados corretamente nos registradores, com o período de clock alargado para abranger o atraso de pior \ncaso.\nÉ correto o que se afi rma em\nA   I, apenas.\nB   III, apenas.\nC   I e II, apenas.\nD   II e III, apenas.\nE   I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2011_CCP/figuras/q43_fig1.jpeg",
     "/questoes/2011_CCP/figuras/q43_fig2.jpeg",
@@ -36,7 +46,26 @@
     "/questoes/2011_CCP/figuras/q43_fig19.jpeg",
     "/questoes/2011_CCP/figuras/q43_fig20.jpeg"
   ],
-  "caminho_png": "/questoes/2011_CCP/q43.png",
-  "caminho_json": "/questoes/2011_CCP/q43.json",
-  "caminho_txt": "/questoes/2011_CCP/q43.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 43,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 34.1431999206543,
+      "y": 67.89041900634766,
+      "x1": 103.25318908691406,
+      "y1": 81.75041961669922,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 43"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275350"
 }

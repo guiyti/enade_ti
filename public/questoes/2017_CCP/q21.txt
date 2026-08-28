@@ -1,40 +1,24 @@
-CCÊNCCA MA COMPUTAÇÃO
-23
-QUNSTÃO 20
-Nm reTes Te computaTores,  a camaTa Te transporte é responsAvel pela transfergncia Te TaTos entre 
-mAquinas Te origem e Testino.  Mois protocolos traTicionais para essa camaTa são o Transmission Control 
-Protocol (TCP) e o User Matagram Protocol (UMP).  Miferentemente To UMP, o TCP é orientaTo a conexão.  
-Com relação a esses protocolos,  avalie as afrmações a seguir.
-/.   O UMP é mais efciente que o TCP quanTo o tempo Te envio Te pacotes é funTamental.
-//.   O TCP é o mais utilizaTo em ũogos on-line Te ação para a apresentação grAfca.
-///.   O TCP é mais efciente que o UMP quanTo a confabiliTaTe Te entrega Te TaTos é funTamental.
- correto o que se afrma em
-A  //,  apenas.
-B  ///,  apenas.
-C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-QUNSTÃO 21
-Na  logica  proposicional,   Tefnem-se  regras  para  Teterminar  o  valor-verTaTe  (verTaTeiro  ou  falso)  Te 
-sentenças em relação a um moTelo  particular.  Nssas regras permitem representar raciocínios  logicos 
-comuns Tas linguagens naturais.
-Nesse contexto,  consiTere a sentença e as proposições logicas a seguir.
-“Um veículo que é elétrico (N) poTe ser um robƀ (R) se for autƀnomo (A),  caso contrArio não é um robƀ (R)”.
-P1 с (
+QUESTÃO 21
+Ea  logica  proposicional,   defnem-se  regras  para  determinar  o  valor-verdade  (verdadeiro  ou  falso)  de 
+sentenças em relação a um modelo  particular.  Essas regras permitem representar raciocínios  logicos 
+comuns das linguagens naturais.
+Eesse contexto,  considere a sentença e as proposições logicas a seguir.
+“hm veículo que é elétrico (E) pode ser um robƀ (R) se for autƀnomo (A),  caso contrArio não é um robƀ (R)”.
+W1 с (
 )
-N
+E
 R
 A
 ∧
 ↔͖
-P2 с N
+W2 с E
 R
 A
 →
 ↔
 (
 )͖
-P3 с N
+W3 с E
 A
 R
 R
@@ -44,11 +28,9 @@ R
 ((
 )
 ).
-  sentença poTe ser representaTa pela(s) expressão(ões) logica(s)
-A P2,  apenas.
-B P3,  apenas.
-C P1 e P2,  apenas.
-M P1 e P3,  apenas.
-N P1,  P2 e P3.
-Area livre
-*R03201723*
+  sentença pode ser representada pela(s) expressão(ões) logica(s)
+A W2,  apenas.
+B W3,  apenas.
+C W1 e W2,  apenas.
+D W1 e W3,  apenas.
+E W1,  W2 e W3.

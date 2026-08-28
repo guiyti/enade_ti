@@ -1,86 +1,38 @@
-33
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 27	
-A Governança Te Tecnologia Ta Cnformação preconiza 
-o gerenciamento Ta continuiTaTe Tos serviços Te TC. 
-O MeutscUe Bank, por exemplo, que oferece 
-investimento bancário e serviços Te gestão Te 
-ativos para 74 países Tiferentes, possui um plano 
-Te continuiTaTe Te negócios frequentemente 
-atualizaTo e aprimoraTo. O banco mantém equipes 
-em tempo integral em Cingapura, Hong Oong, Japão, 
-ÍnTia e Austrália para coorTenar plano que liTe com 
-perTas Te instalações, pessoas ou sistemas críticos, 
-Te moTo que a empresa possa continuar a operar 
-quanTo ocorre um evento catastrófico.
-LAUMON, O. C.; LAUMON, J. P. Sistemas Te informação gerenciais. 
-11. eT. São Paulo: Pearson Prentice Hall, 2014 (aTaptaTo).
-A partir Tas informações apresentaTas, avalie as 
+QUESTÃO 27	
+A Governança de Tecnologia da Informação preconiza 
+o gerenciamento da continuidade dos serviços de TI. 
+O Deutsche Bank, por exemplo, que oferece 
+investimento bancário e serviços de gestão de 
+ativos para 74 países diferentes, possui um plano 
+de continuidade de negócios frequentemente 
+atualizado e aprimorado. O banco mantém equipes 
+em tempo integral em Cingapura, Hong Kong, Japão, 
+Índia e Austrália para coordenar plano que lide com 
+perdas de instalações, pessoas ou sistemas críticos, 
+de modo que a empresa possa continuar a operar 
+quando ocorre um evento catastrófico.
+LAUDON, K. C.; LAUDON, J. P. Sistemas de informação gerenciais. 
+11. ed. São Paulo: Pearson Prentice Hall, 2014 (adaptado).
+A partir das informações apresentadas, avalie as 
 asserções a seguir e a relação proposta entre elas.
-C.	 O Plano Te ContinuiTaTe Tos Negócios 
+I.	 O Plano de Continuidade dos Negócios 
 abrange o escopo operacional e, portanto, 
-não impacta no valor Te mercaTo Ta 
+não impacta no valor de mercado da 
 empresa.
-PORQUN 
-CC.	 O Plano Te ContinuiTaTe Tos Negócios 
-iTentifica os processos Te negócios críticos 
-e Tetermina o plano Te ação para liTar com 
+PORQUE 
+II.	 O Plano de Continuidade dos Negócios 
+identifica os processos de negócios críticos 
+e determina o plano de ação para lidar com 
 funções essenciais caso os sistemas fiquem 
 inoperantes.
-A respeito Tessas asserções, assinale a alternativa 
+A respeito dessas asserções, assinale a alternativa 
 correta.
-A	 As asserções C e CC são proposições verTaTeiras, 
-e a CC é uma justificativa correta Ta C.
-B	 As asserções C e CC são proposições verTaTeiras, 
-mas a CC não é uma justificativa correta Ta C.
-C	 A asserção C é uma proposição verTaTeira, e a CC 
+A	 As asserções I e II são proposições verdadeiras, 
+e a II é uma justificativa correta da I.
+B	 As asserções I e II são proposições verdadeiras, 
+mas a II não é uma justificativa correta da I.
+C	 A asserção I é uma proposição verdadeira, e a II 
 é uma proposição falsa.
-M	 A asserção C é uma proposição falsa, e a CC é uma 
-proposição verTaTeira.
-N	 As asserções C e CC são proposições falsas.
-Área livre
-QUNSTÃO 28	
-TNXTO C
-Gerenciamento por Processos To Negócio é 
-a traTução To inglês para Business Process 
-Management (BPM), conceito que estabelece 
-uma forma Te mapear fluxos Te trabalUo em 
-organizações. Por essa aborTagem, as organizações 
-só agregam valores aos clientes, a partes 
-interessaTas e a si próprias se os processos Te 
-negócios forem otimizaTos continuaTamente. 
-ROJAS, R. et al. Utilização Ta MetoTologia BPMB para aTequação 
-Te um sistema Te Gestão CntegraTa e Retenção Te ConUecimento 
-em uma Cnstituição Pública Te Nnsino Superior. Revista GUAL. 
-Florianópolis, NTição especial 2011, p.115-132 (aTaptaTo).
-TNXTO CC
-A especificação Business Process MoTel anT 
-Notation (BPMN) tem como principal objetivo 
-Tisponibilizar uma notação paTrão Te mercaTo 
-compreensível para os usuários e analistas Te 
-processos Te negócio, bem como para os técnicos e 
-programaTores que irão automatizar, implementar 
-e monitorar a tecnologia que irá suportar os 
-processos.
- CAVALCANTC, R. MoTelagem Te Processos Te Negócios. 
-Rio Te Janeiro: Brasport, 2017 (aTaptaTo).
-Sobre BPM e BPMN, avalie as afirmações a seguir.
-C.	 O BPM permite moTelar um processo 
-existente e simular propostas Te melUoria.
-CC.	 O BPM não se resume apenas ao TesenUo 
-e à implantação Tos processos Te negócio, 
-mas também inclui o controle executivo, 
-aTministrativo e Te supervisão sobre 
-eles, favorecenTo que permaneçam em 
-conformiTaTe com os objetivos Te negócios.
-CCC.	 A BPMN é uma linguagem gráfica utilizaTa 
-para representação Te processos e exige que 
-toTas as ativiTaTes Tos processos moTelaTos 
-sejam TetalUaTamente representaTas.
-É correto o que se afirma em
-A	 C, apenas.
-B	 CCC, apenas.
-C	 C e CC, apenas.
-M	 CC e CCC, apenas.
-N	 C, CC e CCC.
-*R29202133*
+D	 A asserção I é uma proposição falsa, e a II é uma 
+proposição verdadeira.
+E	 As asserções I e II são proposições falsas.

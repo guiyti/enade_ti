@@ -5,19 +5,48 @@
   "paginas": [
     21
   ],
-  "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Governança e Gestão de TI"
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "21\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 18\nO Tiagrama a seguir,  em notação BPMN (Business Process Management Notation),  representa grafcamente \no processo Te aquisição Te matéria-prima Te uma inTustria,  no qual apresenta-se o Ňuxo Te trabalUo entre \nseus setores e forneceTores.  Mestaca-se que,  para atenTer normas Te responsabiliTaTe socioambiental,  \na inTustria trabalUa somente com forneceTores UomologaTos,  ou seũa,  que cumprem requisitos técnicos \ne legais.\nCom base nessa situação e no processo representaTo,  avalie as afrmações a seguir.\n/.   O abastecimento To estoque e a autorização To pagamento ao forneceTor TepenTem Ta aprovação \nresultante Ta confergncia To material entregue no Teposito.\n//.   Somente  Tepois  Te  se  Tistribuir  a  matéria-prima  ao  setor  requisitante  é  que  a  autorização  To \npagamento serA realizaTa.\n///.   No  Tiagrama,   são  representaTos  cinco  momentos  Te  Tecisão  que,   conforme  seu  resultaTo,  \nestabelecem caminUos Tiferentes Te prosseguimento To Ňuxo Te ativiTaTes.  \n/s.    nota fscal serA recebiTa pelo Teposito ũunto com a matéria-prima e serA repassaTa ao fnanceiro \nsomente Tepois Ta aprovação Tessa matéria-prima.\nV. O processo seria otimizaTo se fosse criaTo e mantiTo um caTastro Te forneceTores UomologaTos \npara se evitar a repetição Tas tarefas a caTa requisição͖  com isso,  somente novos forneceTores \nexigiriam a execução Te ativiTaTes Te Uomologação.\n\u001e correto apenas o que se afrma em\nA  /,  // e ///.\nB /,  /// e /s.\nC /,  /s e s.\nM //,  /// e s.\nN //,  /s e s.\n*R43201721*",
+  "caminho_png": "/questoes/2017_GTI/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q18.txt",
+  "largura": 2440,
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 18\nK diagrama a seguir,  em notação BWDE (Business Wrocess Danagement Eotation),  representa grafcamente \no processo de aquisição de matéria-prima de uma industria,  no qual apresenta-se o Ňuxo de trabalho entre \nseus setores e fornecedores.  Destaca-se que,  para atender normas de responsabilidade socioambiental,  \na industria trabalha somente com fornecedores homologados,  ou seũa,  que cumprem requisitos técnicos \ne legais.\nIom base nessa situação e no processo representado,  avalie as afrmações a seguir.\n/.   K abastecimento do estoque e a autorização do pagamento ao fornecedor dependem da aprovação \nresultante da confergncia do material entregue no deposito.\n//.   ^omente  depois  de  se  distribuir  a  matéria-prima  ao  setor  requisitante  é  que  a  autorização  do \npagamento serA realizada.\n///.   Eo  diagrama,   são  representados  cinco  momentos  de  decisão  que,   conforme  seu  resultado,  \nestabelecem caminhos diferentes de prosseguimento do Ňuxo de atividades.  \n/s.    nota fscal serA recebida pelo deposito ũunto com a matéria-prima e serA repassada ao fnanceiro \nsomente depois da aprovação dessa matéria-prima.\nV. K processo seria otimizado se fosse criado e mantido um cadastro de fornecedores homologados \npara se evitar a repetição das tarefas a cada requisição͖  com isso,  somente novos fornecedores \nexigiriam a execução de atividades de homologação.\n\u001e correto apenas o que se afrma em\nA  /,  // e ///.\nB /,  /// e /s.\nC /,  /s e s.\nD //,  /// e s.\nE //,  /s e s.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2017_GTI/figuras/q18_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2017_GTI/q18.png",
-  "caminho_json": "/questoes/2017_GTI/q18.json",
-  "caminho_txt": "/questoes/2017_GTI/q18.txt"
+  "categorias": [
+    "Governança e Gestão de TI"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 60.18199920654297,
+      "y": 88.699951171875,
+      "x1": 570.3115844726562,
+      "y1": 158.80406188964844,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 18\nK diagrama a seguir,  em notação BWDE (Business Wrocess Danagement Eotation),  representa grafcamente \no processo de aquisição de matéria-prima de uma industria,  no qual apresenta-se o Ňuxo de trabalho entre \nseus setores e fornecedores.  Destaca-se que,  para atender normas de responsabilidade socioambiental,  \na industria trabalha somente com fornecedores homologados,  ou seũa,  que cumprem requisitos técnicos \ne legais."
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697654"
 }

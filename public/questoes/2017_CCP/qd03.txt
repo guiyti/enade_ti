@@ -1,98 +1,57 @@
-CCÊNCCA MA COMPUTAÇÃO
-13
-COMPONNNTN NSPNC1&/CO
-QUNSTÃO MCSCURSCVA 03
->istas lineares armazenam uma coleção Te elementos.    seguir,  é apresentaTa a Teclaração Te uma lista 
-simplesmente encaTeaTa.
-struct ListaNncaTeaTa {
-int TaTo;
-struct ListaNncaTeaTa *proximo;
+QUESTÃO DISCURSIVA 03
+>istas lineares armazenam uma coleção de elementos.    seguir,  é apresentada a declaração de uma lista 
+simplesmente encadeada.
+struct ListaEncadeada {
+int dado;
+struct ListaEncadeada *proximo;
 };
-Para imprimir os seus elementos Ta cauTa para a cabeça (To final para o início) Te forma eficiente,  
-um algoritmo poTe ser escrito Ta seguinte forma:
-voiT mostrar(struct ListaNncaTeaTa *lista) {
+Wara imprimir os seus elementos da cauda para a cabeça (do final para o início) de forma eficiente,  
+um algoritmo pode ser escrito da seguinte forma:
+void mostrar(struct ListaEncadeada *lista) {
 if (lista != NULL) {
 mostrar(lista->proximo);
-printf("%T ", lista->TaTo);
+printf("%d ", lista->dado);
 }
 }
-Com base no algoritmo apresentaTo,  faça o que se peTe nos itens a seguir.
-a)   presente a classe Te complexiTaTe To algoritmo,  usanTo a notação 4.  (valor:  3, 0 pontos)
-b)  ConsiTeranTo que ũA existe implementaTa uma estrutura Te TaTos To tipo pilUa Te inteiros ͹ com 
-as operações Te empilUar, TesempilUar e verifcar pilUa vazia ͹ reescreva o algoritmo Te forma não 
-recursiva,  mantenTo a mesma complexiTaTe.  Seu algoritmo poTe ser escrito em portugugs estruturaTo 
-ou em alguma linguagem Te programação,  como C,  :ava ou Pascal.  (valor:  7, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R03201713*
+Iom base no algoritmo apresentado,  faça o que se pede nos itens a seguir.
+a)   presente a classe de complexidade do algoritmo,  usando a notação 4.  (valor:  3, 0 pontos)
+b)  Ionsiderando que ũA existe implementada uma estrutura de dados do tipo pilha de inteiros ͹ com 
+as operações de empilhar, desempilhar e verifcar pilha vazia ͹ reescreva o algoritmo de forma não 
+recursiva,  mantendo a mesma complexidade.  ^eu algoritmo pode ser escrito em portugugs estruturado 
+ou em alguma linguagem de programação,  como I,  :ava ou Wascal.  (valor:  7, 0 pontos)
 
-CCÊNCCA MA COMPUTAÇÃO
-14
-YUNSTãO M/SCUZS/s  04 
-Uma empresa pretenTe Tesenvolver um sistema Te folUa Te pagamento cuũo processo Te moTelagem 
-utilizarA UM> (UnifeT MoTeling >anguage).  Nssa empresa tem trgs tipos Te colaboraTor:  o comissionaTo,  
-o Uorista e o assalariaTo.  ToTos os colaboraTores registram,  para efeito Te controle,  o numero Te Uoras 
-trabalUaTas no mgs.   Ticionalmente,  os comissionaTos registram o valor To percentual Te comissão 
-e o valor total Te venTas acumulaTo no mgs͖  os Uoristas registram o valor recebiTo por Uora͖  e os 
-assalariaTos registram o valor To salArio.
-CaTa colaboraTor pertence a um Tepartamento e caTa Tepartamento possui pelo menos um colaboraTor.  
-No fnal Te caTa mgs,  caTa Tepartamento Teve calcular o salArio Tos seus colaboraTores Ta seguinte 
-forma:   os  comissionaTos  Tevem  receber  o  valor  total  Tas  venTas  multiplicaTo  pela  percentagem,  
-inTepenTentemente  To  numero  Te  Uoras  trabalUaTas͖   os  Uoristas  Tevem  receber  o  valor  Ta  Uora 
-trabalUaTa multiplicaTo pelo numero Te Uoras trabalUaTas͖  e os assalariaTos Tevem receber o valor 
-nominal To salArio.
-ConsiTeranTo essa situação e que o moTelo que serA elaboraTo para representA-la utilizarA Uerança e 
-polimorfsmo,  TesenUe um Tiagrama Te classe UM> que contenUa:
-ͻ  as classes que representam as entiTaTes mencionaTas (Tepartamento,  colaboraTor e seus tipos)͖
-ͻ  as respectivas associações,  atributos e métoTos,  não senTo necessArio tipar os atributos͖
-ͻ  eventuais classes abstratas com a inTicação Ta restrição ΂abstract΃͖
-ͻ  a multipliciTaTe Te papel Tas associações͖
-ͻ  ao laTo Te caTa ocorrgncia To métoTo para cAlculo To pagamento,  sua Tefnição na forma Te uma 
-expressão que combine os valores Tos atributos Ta classe.
+QUESTÃO D/^IhZ^/s  04 
+hma empresa pretende desenvolver um sistema de folha de pagamento cuũo processo de modelagem 
+utilizarA hD> (hnifed Dodeling >anguage).  Essa empresa tem trgs tipos de colaborador:  o comissionado,  
+o horista e o assalariado.  dodos os colaboradores registram,  para efeito de controle,  o numero de horas 
+trabalhadas no mgs.   dicionalmente,  os comissionados registram o valor do percentual de comissão 
+e o valor total de vendas acumulado no mgs͖  os horistas registram o valor recebido por hora͖  e os 
+assalariados registram o valor do salArio.
+Iada colaborador pertence a um departamento e cada departamento possui pelo menos um colaborador.  
+Eo fnal de cada mgs,  cada departamento deve calcular o salArio dos seus colaboradores da seguinte 
+forma:   os  comissionados  devem  receber  o  valor  total  das  vendas  multiplicado  pela  percentagem,  
+independentemente  do  numero  de  horas  trabalhadas͖   os  horistas  devem  receber  o  valor  da  hora 
+trabalhada multiplicado pelo numero de horas trabalhadas͖  e os assalariados devem receber o valor 
+nominal do salArio.
+Ionsiderando essa situação e que o modelo que serA elaborado para representA-la utilizarA herança e 
+polimorfsmo,  desenhe um diagrama de classe hD> que contenha:
+ͻ  as classes que representam as entidades mencionadas (departamento,  colaborador e seus tipos)͖
+ͻ  as respectivas associações,  atributos e métodos,  não sendo necessArio tipar os atributos͖
+ͻ  eventuais classes abstratas com a indicação da restrição ΂abstract΃͖
+ͻ  a multiplicidade de papel das associações͖
+ͻ  ao lado de cada ocorrgncia do método para cAlculo do pagamento,  sua defnição na forma de uma 
+expressão que combine os valores dos atributos da classe.
 (valor:  10, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R03201714*
 
-CCÊNCCA MA COMPUTAÇÃO
-15
-YUNSTãO M/SCUZS/s  05 
-  busca primeiro em profunTiTaTe é um algoritmo Te exploração sistemAtica em grafos,  em que as arestas 
-são exploraTas a partir To vértice v mais recentemente Tescoberto que ainTa tem arestas inexploraTas 
-sainTo Tele.  YuanTo toTas as arestas Te v são exploraTas,  a busca regressa para explorar as arestas 
-que Teixam o vértice a partir To qual v foi Tescoberto.  Nsse processo continua até que toTos os vértices 
-acessíveis a partir To vértice inicial seũam exploraTos.
-COZMNN,  T.  ,.͖  >N/SNZSON,  C.  N.͖  Z/sNST, Z.  >.͖  STN/N,  C.  /ntroTuction to algoritUms.  3.  eT.
-CambriTge,  MassacUusets:  TUe M/T Press,  2009 (aTaptaTo).
-ConsiTere o grafo a seguir.
+QUESTÃO D/^IhZ^/s  05 
+  busca primeiro em profundidade é um algoritmo de exploração sistemAtica em grafos,  em que as arestas 
+são exploradas a partir do vértice v mais recentemente descoberto que ainda tem arestas inexploradas 
+saindo dele.  Yuando todas as arestas de v são exploradas,  a busca regressa para explorar as arestas 
+que deixam o vértice a partir do qual v foi descoberto.  Esse processo continua até que todos os vértices 
+acessíveis a partir do vértice inicial seũam explorados.
+IKZDEE,  d.  ,.͖  >E/^EZ^KE,  I.  E.͖  Z/sE^d, Z.  >.͖  ^dE/E,  I.  /ntroduction to algorithms.  3.  ed.
+Iambridge,  Dassachusets:  dhe D/d Wress,  2009 (adaptado).
+Ionsidere o grafo a seguir.
 p
 w
 s
@@ -103,27 +62,10 @@ y
 r
 u
 z
-Com base nas informações apresentaTas,  faça o que se peTe nos itens a seguir.
-a)  Mostre a sequgncia Te vértices Tescobertos no grafo Turante a execução Te uma busca em profunTiTaTe 
-com controle Te estaTos repetiTos.  Para isso,  utilize o vértice r como inicial.  No caso Te um vértice 
-exploraTo ter mais Te um vértice aTũacente,  utilize a orTem alfabética crescente como critério para 
+Iom base nas informações apresentadas,  faça o que se pede nos itens a seguir.
+a)  Dostre a sequgncia de vértices descobertos no grafo durante a execução de uma busca em profundidade 
+com controle de estados repetidos.  Wara isso,  utilize o vértice r como inicial.  Eo caso de um vértice 
+explorado ter mais de um vértice adũacente,  utilize a ordem alfabética crescente como critério para 
 priorizar a exploração.  (valor:  7, 0 pontos)
-b)  &aça uma representação Ta matriz Te aTũacgncias Tesse grafo,  poTenTo os zeros ser omitiTos nessa 
-matriz.  (valor:  3, 0 pontos) 
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R03201715*
+b)  &aça uma representação da matriz de adũacgncias desse grafo,  podendo os zeros ser omitidos nessa 
+matriz.  (valor:  3, 0 pontos)

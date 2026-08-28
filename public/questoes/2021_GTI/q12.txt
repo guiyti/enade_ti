@@ -1,40 +1,21 @@
-21
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 11	
-Um software é testaTo para revelar erros cometiTos quanTo projetaTo e construíTo. Uma estratégia Te 
-teste Te software Teve ser flexível o suficiente para atenTer a uma aborTagem Te teste personalizaTa e 
-rígiTa o bastante para estimular o planejamento e o acompanUamento à meTiTa que o projeto progriTe.
- PRNSSMAN, R. S.; MAXCM, B. R. NngenUaria Te software: uma aborTagem profissional. 8. eT. Porto Alegre: AMGH NT., 2016 (aTaptaTo).
-Nesse contexto, consiTere um sistema com as características Tescritas a seguir.
-•	GranTe número Te interfaces;
-•	NecessiTaTe Te acréscimo Te móTulos e possíveis moTificações ao longo To Tesenvolvimento; e
-•	GranTe volume Te usuários e concorrência com outros sistemas que poTem ser processaTos 
-simultaneamente.
-Para a correta proTução Tesse sistema, a melUor estratégia Te testes Turante as ativiTaTes Te 
-Tesenvolvimento Teve ser composta por testes Te
-A	 TesempenUo, uniTaTe e caixa branca.
-B	 caixa branca, esforço e integração.
-C	 integração, regressão e esforço.
-M	 caixa branca, TesempenUo e integração.
-N	 recuperação, integração e segurança.
-QUNSTÃO 12	
-Um protocolo Tefine o formato e a orTem Tas mensagens trocaTas entre Tuas ou mais entiTaTes 
-comunicantes, bem como as ações utilizaTas na transmissão e/ou recebimento Te uma mensagem 
+E	 recuperação, integração e segurança.
+QUESTÃO 12	
+Um protocolo define o formato e a ordem das mensagens trocadas entre duas ou mais entidades 
+comunicantes, bem como as ações utilizadas na transmissão e/ou recebimento de uma mensagem 
 ou evento.
-A internet utiliza a arquitetura Te protocolos TCP/CP para propiciar a comunicação entre os computaTores 
-a ela conectaTos. O TCP/CP está organizaTo em cinco camaTas: Aplicação, Transporte, ReTe, 
-Nnlace e Físico. CaTa camaTa possui um conjunto Te protocolos que possibilitam a implementação Te 
-Tiversos serviços como sites Te comércio eletrônico, internet banking, páginas web Tentre outros. A oferta 
-Testes serviços é feita por computaTores TenominaTos serviTores e acessaTos por computaTores clientes.
-OUROSN, J. F.; ROSS, O. P. ReTes Te ComputaTores e a Cnternet: uma aborTagem Top-Mown. 
-6. eT. São Paulo: Pearson NTucation To Brasil, 2013 (aTaptaTo).
-Com base nas informações apresentaTas, consiTere o cenário Te uma empresa que possui um site 
-Te comércio eletrônico para a venTa Te proTutos. QuanTo um cliente acessar o site, utilizanTo um 
-navegaTor web, a comunicação entre o navegaTor e o site utilizará protocolos Tas camaTas Te aplicação 
-e transporte Ta arquitetura TCP/CP, Tentre os quais se incluem
-A	 HTTP, SSH e UMP.
+A internet utiliza a arquitetura de protocolos TCP/IP para propiciar a comunicação entre os computadores 
+a ela conectados. O TCP/IP está organizado em cinco camadas: Aplicação, Transporte, Rede, 
+Enlace e Físico. Cada camada possui um conjunto de protocolos que possibilitam a implementação de 
+diversos serviços como sites de comércio eletrônico, internet banking, páginas web dentre outros. A oferta 
+destes serviços é feita por computadores denominados servidores e acessados por computadores clientes.
+KUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: uma abordagem Top-Down. 
+6. ed. São Paulo: Pearson Education do Brasil, 2013 (adaptado).
+Com base nas informações apresentadas, considere o cenário de uma empresa que possui um site 
+de comércio eletrônico para a venda de produtos. Quando um cliente acessar o site, utilizando um 
+navegador web, a comunicação entre o navegador e o site utilizará protocolos das camadas de aplicação 
+e transporte da arquitetura TCP/IP, dentre os quais se incluem
+A	 HTTP, SSH e UDP.
 B	 HTTP, SSL/TLS e TCP.
-C	 HTTP, SSL/TLS e UMP.
-M	 PPP, SSL/TLS e CP.
-N	 PPP, SSH e TCP.
-*R29202121*
+C	 HTTP, SSL/TLS e UDP.
+D	 WWW, SSL/TLS e IP.
+E	 WWW, SSH e TCP.

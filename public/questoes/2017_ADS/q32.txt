@@ -1,102 +1,100 @@
-36
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO 32 
-Um cliente solicitou a uma empresa a criação Te um banco Te TaTos para armazenar o resultaTo Te 
-uma eleição presiTencial,  com TaTos sobre os partiTos políticos,  os canTiTatos e a votação obtiTa por 
-caTa canTiTato em caTa uniTaTe Ta feTeração.  O seguinte Tiagrama Te NntiTaTe-Zelacionamento foi 
-elaboraTo como representação Tos requisitos obtiTos com o cliente.
- s tabelas a seguir contgm os TaTos registraTos a partir To resultaTo Tessa eleição.
-PartiTo
-CanTiTato
+QUESTÃO 32 
+hm cliente solicitou a uma empresa a criação de um banco de dados para armazenar o resultado de 
+uma eleição presidencial,  com dados sobre os partidos políticos,  os candidatos e a votação obtida por 
+cada candidato em cada unidade da federação.  K seguinte diagrama de Entidade-Zelacionamento foi 
+elaborado como representação dos requisitos obtidos com o cliente.
+ s tabelas a seguir contgm os dados registrados a partir do resultado dessa eleição.
+Wartido
+Iandidato
 sotação
 numero
 nome
 sigla
 numero
 nome
-partiTo
+partido
 votos
-estaTo
+estado
 91
-PartiTo 1
-P1
+Wartido 1
+W1
 91
-CanTiTato 1
+Iandidato 1
 91
 12 345
- C
+ I
 92
-PartiTo 2
-P2
+Wartido 2
+W2
 92
-CanTiTato 2
+Iandidato 2
 91
 98 323
-PN
+WE
 93
-PartiTo 3
-P3
+Wartido 3
+W3
 93
-CanTiTato 3
+Iandidato 3
 91
 1 726 453
-SP
+^W
 94
-PartiTo 4
-P4
+Wartido 4
+W4
 94
-CanTiTato 4
+Iandidato 4
 92
 98 463
- C
+ I
 95
-PartiTo 5
-P5
+Wartido 5
+W5
 95
-CanTiTato 5
+Iandidato 5
 92
 192 837
-PN
+WE
 92
 4 283 747
-SP
+^W
 93
 16 253
- C
+ I
 93
 293 845
-PN
+WE
 93
 6 253 745
-SP
+^W
 94
 98 372
- C
+ I
 94
 598 333
-PN
+WE
 94
 8 271 347
-SP
+^W
 95
 46 837
- C
+ I
 95
 327 264
-PN
+WE
 95
 5 938 374
-SP
+^W
 sigla
 nome
 numero
-CanTiTato
-PartiTo
+Candidato
+Partido
 Votacao
 nome
 numero
-partiTo
-estaTo
+partido
+estado
 Filia
 1
 1
@@ -104,65 +102,20 @@ Filia
 N
 Possui
 votos
-*R41201736*
 
-37
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente 
-os nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍
-A SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;
-B SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+Iom base nas informações e na situação apresentada,  qual o comando ^Y> que seleciona corretamente 
+os nomes dos candidatos,  seus partidos e o total de votos de cada partido nessa eleição͍
+A SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, 
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero;
+B SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, 
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
 c.nome, p.nome;
-C SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+C SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, 
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
 c.nome, p.nome;
-M SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v 
-PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, 
+D SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v 
+WHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome, 
 p.nome, SUM(v.votos);
-N SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+E SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, 
+Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
 c.nome, p.nome, v.votos;
-QUNSTÃO 33
-  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te 
-baralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te 
-caTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  
-Teve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos 
-os momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.
-COZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).
-Um programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas 
-Tescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o 
-algoritmo não funcionava corretamente.
-01 para i <- 2 até 9 faça
-02
-valor <- vetor[i]
-03
-j <- i – 1
-04
-enquanto ((j >= 1) e (valor < vetor[j])) faça
-05
-   vetor[i] <- vetor[j]
-06
-      j <- j – 1
-07 
- 
-se (j = 0) então
-08
-         interrompa
-N  
- 
-¿P VH
-  
-¿P HQTXMQPR
-11
-vetor[j + 1] <- valor
- ¿P SMUM
-Com base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo 
-a ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.
-A  >inUa 01; para i <- 1 até 9 faça
-B  >inUa 03; j <- i
-C  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
-M  >inUa 05͖     vetor[j + 1] <- vetor[j]
-N  >inUa 11͖     vetor[j] <- valor
-*R41201737*

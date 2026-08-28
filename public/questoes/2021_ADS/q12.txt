@@ -1,110 +1,53 @@
-20
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 11	
-O cóTigo Java, a seguir, contém a implementação 
-Te uma PilUa utilizanTo a estratégia encaTeaTa.
-public class No{
-public int TaTo;
-public No prox;
-public No(int TaTo){
-tUis.TaTo = TaTo;
-}
-}
-public class PilUaNncaTeaTa{
-private No topo;
-public int pop(){
-if (topo == null)
-return -1;
-No lixo = topo;
-topo = topo.prox;
-lixo.prox = null;
-return lixo.TaTo;
-}
-public int top(){
-if (topo == null)
-return -1;
-return (topo.TaTo);
-}
-}
-Com base no exposto, assinale a opção que possui 
-a implementação correta To métoTo pusU para 
-essa PilUa.
-A	 public voiT pusU(int elemento){ 
-No novo = new No(elemento);  
-if(topo == null)  
-  topo = novo;  
-else  
-  topo.prox = novo;  
-}
-B	 public voiT pusU(int elemento){    
-  No novo = new No(elemento);  
-  topo = novo;  
-}
-C	 public voiT pusU(int elemento){  
-topo.TaTo = elemento;  
-}
-M	 public voiT pusU(int elemento){  
-  No novo = new No(elemento);  
-  wUile (topo != null)  
-    topo = topo.prox;  
-  topo.prox = novo;  
-}
-N	 public voiT pusU(int elemento){  
-  No novo = new No(elemento);      
-  novo.prox = topo;  
-  topo = novo;  
-}
-QUNSTÃO 12	
-Uma fábrica Te software está realizanTo entrevistas 
-para contração Te um profissional que esteja 
-alinUaTo às exigências To atual munTo corporativo. 
-Sabe-se que processos ágeis Te Tesenvolvimento 
-têm se tornaTo essenciais para empresas que 
-Tesejam realizar entregas rápiTas e frequentes Te 
-proTutos e/ou serviços Te software. Nssa empresa 
-possui uma equipe Te Tesenvolvimento que faz 
-uso Te processos ágeis como o Scrum e eXtreme 
-Programming (XP) e o acompanUamento por meio 
-To quaTro Oanban. SenTo assim, um conjunto 
-Te características Teve ser verificaTo Turante a 
-entrevista para garantir que o canTiTato a ser 
-contrataTo possua conUecimentos necessários 
+QUESTÃO 12	
+Uma fábrica de software está realizando entrevistas 
+para contração de um profissional que esteja 
+alinhado às exigências do atual mundo corporativo. 
+Sabe-se que processos ágeis de desenvolvimento 
+têm se tornado essenciais para empresas que 
+desejam realizar entregas rápidas e frequentes de 
+produtos e/ou serviços de software. Essa empresa 
+possui uma equipe de desenvolvimento que faz 
+uso de processos ágeis como o Scrum e eXtreme 
+Programming (XP) e o acompanhamento por meio 
+do quadro Kanban. Sendo assim, um conjunto 
+de características deve ser verificado durante a 
+entrevista para garantir que o candidato a ser 
+contratado possua conhecimentos necessários 
 para atuar juntamente a esta equipe.
-Com base no texto e nos processos ágeis Te 
-Tesenvolvimento Te software, avalie as afirmações 
+Com base no texto e nos processos ágeis de 
+desenvolvimento de software, avalie as afirmações 
 a seguir.
-C.	 MétoTos Ágeis são baseaTos em ciclos 
+I.	 Métodos Ágeis são baseados em ciclos 
 iterativo e incremental que se concentram 
-no Tesenvolvimento rápiTo e na flexibiliTaTe 
-às muTanças, com a participação To cliente 
-no processo Te software.
-CC.	 Uma forte característica Ta XP é a garantia 
-Ta qualiTaTe To cóTigo proTuziTo e, para 
-isso, os TesenvolveTores proTuzem testes 
-automatizaTos antes mesmo Te coTificar 
-uma funcionaliTaTe.
-CCC.	 O planejamento no Scrum é baseaTo na 
-elaboração Tos itens To proTuct backlog, 
-que é uma lista Te funcionaliTaTes TesejaTas 
-pelo cliente, senTo o Scrum Master o 
+no desenvolvimento rápido e na flexibilidade 
+às mudanças, com a participação do cliente 
+no processo de software.
+II.	 Uma forte característica da XP é a garantia 
+da qualidade do código produzido e, para 
+isso, os desenvolvedores produzem testes 
+automatizados antes mesmo de codificar 
+uma funcionalidade.
+III.	 O planejamento no Scrum é baseado na 
+elaboração dos itens do product backlog, 
+que é uma lista de funcionalidades desejadas 
+pelo cliente, sendo o Scrum Master o 
 responsável por gerenciá-lo.
-CV.	 O quaTro Oanban permite monitorar a 
-evolução Tas tarefas necessárias Turante 
+IV.	 O quadro Kanban permite monitorar a 
+evolução das tarefas necessárias durante 
 o 
 processo 
 ágil 
-Te 
-Tesenvolvimento 
-Te 
+de 
+desenvolvimento 
+de 
 software, 
-possibilitanTo 
+possibilitando 
 um 
-acompanUamento Te forma visual Tas 
-ativiTaTes em construção.
+acompanhamento de forma visual das 
+atividades em construção.
 É correto apenas o que se afirma em
-A	 CC.
-B	 C e CCC.
-C	 C, CC e CV.
-M	 C, CCC e CV.
-N	 CC, CCC e CV.
-*R28202120*
+A	 II.
+B	 I e III.
+C	 I, II e IV.
+D	 I, III e IV.
+E	 II, III e IV.

@@ -1,8 +1,6 @@
-16
-COMPUTAÇÃO
-QUNSTÃO 40 – MCSCURSCVA
-O banco Te TaTos Te um sistema Te controle
-bancário implementaTo por meio Te um SGBM relacional
+QUESTÃO 40 – DISCURSIVA
+O banco de dados de um sistema de controle
+bancário implementado por meio de um SGBD relacional
 possui 
 a 
 relação 
@@ -10,185 +8,53 @@ Cliente,
 com 
 as 
 informações
-apresentaTas a seguir, em que a cUave primária Ta
-relação é grifaTa.
-Cliente(nroCliente, nome, enTereco,
-Tata_nascimento, renTa, iTaTe)
-Para essa relação, foram criaTos Tois ínTices
-secunTários: CnTiceCTaTe, para o atributo iTaTe, e
-CnTiceRenTa, para o atributo renTa. Nxiste um tipo Te
+apresentadas a seguir, em que a chave primária da
+relação é grifada.
+Cliente(nroCliente, nome, endereco,
+data_nascimento, renda, idade)
+Para essa relação, foram criados dois índices
+secundários: IndiceIdade, para o atributo idade, e
+IndiceRenda, para o atributo renda. Existe um tipo de
 serviço nesse banco cujo alvo são tanto os clientes que
-possuem menos Te 40 anos Te iTaTe quanto aqueles que
-possuem renTa mensal superior a 30.000 reais. Para
-recuperar esses clientes, a seguinte expressão Te
-consulta em SQL foi utilizaTa:
-SNLNCT nome, enTereco
+possuem menos de 40 anos de idade quanto aqueles que
+possuem renda mensal superior a 30.000 reais. Para
+recuperar esses clientes, a seguinte expressão de
+consulta em SQL foi utilizada:
+SELECT nome, endereco
 FROM Cliente
-PHNRN iTaTe < 40 OR renTa > 30000;
-Com o aumento To número Te clientes Tesse
-banco, essa consulta passou a apresentar problemas Te
-TesempenUo. Verificou-se, então, que o otimizaTor Te
-consultas não consiTerava os ínTices existentes para
-iTaTe e renTa, e a consulta era realizaTa meTiante
-varreTura seqüencial na relação Cliente, tornanTo essa
-consulta onerosa. O plano Te execução Ta consulta,
-usaTo pelo otimizaTor, é apresentaTo na árvore Te
+WHERE idade < 40 OR renda > 30000;
+Com o aumento do número de clientes desse
+banco, essa consulta passou a apresentar problemas de
+desempenho. Verificou-se, então, que o otimizador de
+consultas não considerava os índices existentes para
+idade e renda, e a consulta era realizada mediante
+varredura seqüencial na relação Cliente, tornando essa
+consulta onerosa. O plano de execução da consulta,
+usado pelo otimizador, é apresentado na árvore de
 consulta abaixo, na qual B e F representam as operações
-Te projeção e Te seleção, respectivamente.
-Para que o otimizaTor Te consultas passasse a
-utilizar os ínTices, a solução encontraTa foi elaborar a
-consulta em Tois blocos separaTos — um que recupera os
-clientes com iTaTe inferior a 40 anos, e outro que
-recupera os clientes com renTa mensal superior a 30.000
-reais — para, então, juntar as tuplas Tas Tuas relações
-geraTas.
-ConsiTeranTo a situação apresentaTa, faça o que se peTe
-a seguir.
-A Nscreva o cóTigo Te uma consulta em SQL que
-corresponTa à solução proposta.
-(valor: 5,0 pontos)
-RASCUNHO – QUNSTÃO 40 - A
-B MesenUe a árvore Te consulta para essa solução.
-(valor: 5,0 pontos)
-RASCUNHO – QUNSTÃO 40 - B
-nome,enTereco
+de projeção e de seleção, respectivamente.
+Para que o otimizador de consultas passasse a
+utilizar os índices, a solução encontrada foi elaborar a
+consulta em dois blocos separados — um que recupera os
+clientes com idade inferior a 40 anos, e outro que
+recupera os clientes com renda mensal superior a 30.000
+reais — para, então, juntar as tuplas das duas relações
+geradas.
+nome,endereco
 B
-iTaTe
-40 OR renTa
+idade
+40 OR renda
 30000
  < 
  < 
 F
 Cliente
 
-17
-COMPUTAÇÃO
-As questões Te 41 a 60, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te 
-NNGNNHARCA MN COMPUTAÇÃO.
-QUNSTÃO 41
-Nm ambientes Te manufatura integraTa, utilizam-
-se computaTores para conectar processos
-concorrentes separaTos fisicamente, isto é, um
-sistema 
-integraTo 
-requer 
-Tois 
-ou 
-mais
-computaTores 
-conectaTos 
-para 
-trocar
-informações. QuanTo integraTos, os processos
-poTem compartilUar informações e iniciar ações,
-permitinTo Tecisões mais rápiTas com menos
-erros. A automação também permite a execução
-Te processos Te manufatura sem necessiTaTe
-Te intervenções. Um exemplo simples poTe ser
-um controlaTor Te um robô e um controlaTor
-lógico programável trabalUanTo juntos em uma
-única máquina. Um exemplo complexo é uma
-planta 
-inteira 
-Te 
-manufatura 
-envolvenTo
-centenas Te estações conectaTas a bancos Te
-TaTos com instruções e planejamento Te
-operações e tarefas em tempo real, envolvenTo
-sensores, atuaTores, transTutores, conversores
-etc. NntenTer, projetar e construir esses sistemas
-é um granTe Tesafio que impõe uma aborTagem
-sistemática 
-pelo 
-uso 
-Te 
-ferramentas 
-e
-conUecimento conceitual Te moTelagem lógica,
-manipulação 
-matemática, 
-abstração,
-Tecomposição, 
-concorrência 
-etc. 
-Nesse
-contexto, julgue os seguintes itens.
-C
-ControlaTores lógicos programáveis são
-computaTores 
-para 
-processamento 
-Te
-entraTas e saíTas, senTo que a maioria
-permite múltiplos programas que poTem ser
-utilizaTos como sub-rotinas.
-CC
-Para leituras Te um sinal analógico que varia
-entre ± 10 volts, com precisão Te ± 0,05 volts,
-é necessário um conversor AM com, no
-mínimo, 9 bits.
-CCC O principal objetivo Tas reTes Te Petri
-ColoriTas é a reTução To tamanUo To moTelo,
-permitinTo 
-que 
-tokens 
-inTiviTualizaTos
-(coloriTos) representem Tiferentes processos
-ou recursos em uma mesma sub-reTe.
-Assinale a opção correta.
-A
-Apenas um item está certo.
-B
-Apenas os itens C e CC estão certos.
-C
-Apenas os itens C e CCC estão certos.
-M
-Apenas os itens CC e CCC estão certos.
-N
-ToTos os itens estão certos.
-QUNSTÃO 42
-Ao se realizar o acesso a um serviTor PPP usanTo o protocolo
-HTTPS, uma sessão SSL é estabeleciTa sobre a conexão TCP, entre
-o programa navegaTor To usuário e o processo serviTor. Para tanto,
-usam-se mecanismos baseaTos em criptografia simétrica e
-assimétrica para prover serviços Te segurança. Nm relação ao
-acesso HTTP, sem SSL, que serviços Te segurança são proviTos
-para o usuário?
-A
-autenticação To serviTor e controle Te acesso To cliente
-B
-autenticação To cliente e controle Ta velociTaTe Te transmissão
-C
-autenticação Ta reTe e proteção contra vírus
-M
-autenticação To serviTor e confiTencialiTaTe Tas transmissões
-N
-autenticação To cliente e temporização Tas ações executaTas
-QUNSTÃO 43
-ConsiTere que seja necessário escrever um cóTigo para um
-microcontrolaTor capaz Te iTentificar teclas acionaTas em um teclaTo
-conectaTo como mostraTo abaixo. O microcontrolaTor atribui valores
-lógicos às linUas X3, X2, X1 e X0 Te uma porta Te saíTa To tipo coletor
-aberto, e lê os valores lógicos Tas linUas Y3, Y2, Y1 e Y0 em uma porta
-Te entraTa.
-Caso apenas a tecla 9 To teclaTo esteja pressionaTa e o
-microcontrolaTor esteja atribuinTo os valores lógicos 1011 às linUas
-X3, X2, X1 e X0 , respectivamente, qual o paTrão binário que Teverá ser
-liTo nas linUas Y3, Y2, Y1 e Y0, respectivamente?
-A
-0111
-B
-1011
-C
-1101
-M
-1110
-N
-1111
-+5 V
-+5 V +5 V +5 V
-teclaTo
-microcontrolaTor
-porta Te saíTa
-porta Te entraTa
+Considerando a situação apresentada, faça o que se pede
+a seguir.
+A Escreva o código de uma consulta em SQL que
+corresponda à solução proposta.
+(valor: 5,0 pontos)
+
+As questões de 41 a 60, a seguir, são específicas par
+ENGENHARIA DE

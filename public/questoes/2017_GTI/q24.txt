@@ -1,80 +1,32 @@
-27
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-YUNSTãO 24 
-Por meio To processo Te alinUamento estratégico Ta 
-Tecnologia Ta /nformação (T/) procura-se também 
-Teterminar  o  alinUamento  no  que  Tiz  respeito  a 
+QUESTÃO 24 
+Wor meio do processo de alinhamento estratégico da 
+decnologia da /nformação (d/) procura-se também 
+determinar  o  alinhamento  no  que  diz  respeito  a 
 arquitetura,   infraestrutura,   aplicações,   processos 
-e organização relativos as necessiTaTes presentes 
-e  futuras  To  negocio.   Nntre  as  necessiTaTes  Te 
-aplicações  para  atenTer  a  continuiTaTe  e  as 
-estratégias Te negocio,  Testacam-se aplicações Te 
-B/ (Business Cntelligence)  TestinaTas  a  anAlise  To 
-ambiente Te negocios Ta empresa.
-&NZN NMNS,   .   .͖   BZNU,  s. &. Te.  /mplantanTo a governança Te T/:  
-Ta estratégia a gestão Tos processos e serviços.  4 eT.  São Paulo:  
-Brasport,  2014 (aTaptaTo).
-  partir Tesse texto,  é correto afrmar que
-A  o  TesenUo  Ta  arquitetura  Te  T/  contempla 
-amplamente  as  necessiTaTes  presentes  e 
-futuras To negocio Ta empresa.
-B  a  estratégia  Te  T/  Teve  servir  Te  base  para  o 
-Tesenvolvimento Ta estratégia Ta empresa,  Te 
-moTo a Telinear a estratégia corporativa.
-C  as  aplicações  Te  B/  constituem  um  item 
-importante no porƞolio Te aplicações Te T/ para 
-apoiar a estratégia Ta empresa.
-M  a  continuiTaTe  e  a  expansão  To  negocio 
-Ta  empresa  TepenTem  exclusivamente  To 
-potencial Te alinUamento Te T/ a estratégia Ta 
+e organização relativos as necessidades presentes 
+e  futuras  do  negocio.   Entre  as  necessidades  de 
+aplicações  para  atender  a  continuidade  e  as 
+estratégias de negocio,  destacam-se aplicações de 
+B/ (Business Intelligence)  destinadas  a  anAlise  do 
+ambiente de negocios da empresa.
+&EZE EDE^,   .   .͖   BZEh,  s. &. de.  /mplantando a governança de d/:  
+da estratégia a gestão dos processos e serviços.  4 ed.  ^ão Waulo:  
+Brasport,  2014 (adaptado).
+  partir desse texto,  é correto afrmar que
+A  o  desenho  da  arquitetura  de  d/  contempla 
+amplamente  as  necessidades  presentes  e 
+futuras do negocio da empresa.
+B  a  estratégia  de  d/  deve  servir  de  base  para  o 
+desenvolvimento da estratégia da empresa,  de 
+modo a delinear a estratégia corporativa.
+C  as  aplicações  de  B/  constituem  um  item 
+importante no porƞolio de aplicações de d/ para 
+apoiar a estratégia da empresa.
+D  a  continuidade  e  a  expansão  do  negocio 
+da  empresa  dependem  exclusivamente  do 
+potencial de alinhamento de d/ a estratégia da 
 empresa.
-N  a arquitetura e a infraestrutura Te T/ necessArias 
-ao atenTimento Ta estratégia Ta empresa são 
-estabeleciTas a partir Tos processos Te T/ em 
+E  a arquitetura e a infraestrutura de d/ necessArias 
+ao atendimento da estratégia da empresa são 
+estabelecidas a partir dos processos de d/ em 
 operação.
-Area livre
-YUNSTãO 25 
-O  uso  Tas  técnicas  Te  BPM  (Business Process 
-Management)  visam  a  melUoria  contínua  To 
-TesempenUo  e  a  busca  Te  resultaTos  consistentes 
-e  alinUaTos  aos  obũetivos  estratégicos  Ta 
-empresa,  seũam os processos automatizaTos ou 
-não,   e  seus  benefícios  incluem  o  aumento  Te 
-proTutiviTaTe  e  a  reTução  Te  erros,   custos  e 
-TesperTício.
-ConsiTeranTo 
-as 
-ferramentas 
-Te 
-T/ 
-que 
-contribuem  para  a  eficAcia  Ta  implementação 
-Te BPM nas organizações,  avalie as afirmações a 
-seguir,  em relação as oportuniTaTes Te melUoria 
-nos processos Te negocio.  
-/.      utilização  Te  SO   (Service OrienteT 
-ArcUitecture)  contribui  para  a  criação  Te 
-sistemas corporativos que se aTaptam aos 
-requisitos Te BPM.
-//.   Para  a  implementação  Te  soŌǁares  que 
-respeitem a sintaxe BPM,  Teve-se ter acesso 
-ao coTigo fonte para iTentifcar o paTrão Te 
-armazenamento Te TaTos.
-///.      ferramenta  Te  BPM  cUamaTa  B M 
-(Business   ctivitǇ  Monitoring)  é  utilizaTa 
-para  a  moTelagem  Te  processos  e  o 
-gerenciamento Te TaTos.
-/s.      utilização  Te  BPMS  (Business Process 
-Management 
-Systems) 
-permite 
-gerar 
-aplicações e fornecer suporte a execução Te 
-operações Te negocio.
- correto apenas o que se afrma em
-A  / e //.
-B  / e /s.
-C  /// e /s.
-M  /,  // e ///.
-N  //,  /// e /s.
-*R43201727*

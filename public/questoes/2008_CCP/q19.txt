@@ -1,63 +1,23 @@
-9
-COMPUTAÇÃO
-QUNSTÃO 19
-Uma alternativa para o aumento Te TesempenUo Te sistemas computacionais é o uso Te processaTores com múltiplos
-núcleos, cUamaTos multicores. Nesses sistemas, caTa núcleo, normalmente, tem as funcionaliTaTes completas Te um
-processaTor, já senTo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso Te
-processaTores multicores, e sabenTo que tUreaTs são estruturas Te execução associaTas a um processo, que
-compartilUam suas áreas Te cóTigo e TaTos, mas mantêm contextos inTepenTentes, analise as seguintes asserções.
-Ao TiviTirem suas ativiTaTes em múltiplas tUreaTs que poTem ser executaTas paralelamente, aplicações poTem se
-beneficiar mais efetivamente Tos Tiversos núcleos Tos processaTores multicores
+QUESTÃO 19
+Uma alternativa para o aumento de desempenho de sistem
+núcleos, chamados multicores. Nesses sistemas, cada núc
+processador, já sendo comuns, atualmente, configuraçõ
+processadores multicores, e sabendo que threads são 
+compartilham suas áreas de código e dados, mas mantêm
+Ao dividirem suas atividades em múltiplas threads que po
+beneficiar mais efetivamente dos diversos núcleos dos pro
 porque
-o sistema operacional nos processaTores multicores poTe alocar os núcleos existentes para executar simultaneamente
-Tiversas seqüências Te cóTigo, sobreponTo suas execuções e, normalmente, reTuzinTo o tempo Te resposta Tas
-aplicações às quais estão associaTas.
-Acerca Tessas asserções, assinale a opção correta.
+o sistema operacional nos processadores multicores pode a
+diversas seqüências de código, sobrepondo suas execuç
+aplicações às quais estão associadas.
+Acerca dessas asserções, assinale a opção correta.
 A
-As Tuas asserções são proposições verTaTeiras, e a segunTa é uma justificativa correta Ta primeira.
+As duas asserções são proposições verdadeiras, e a s
 B
-As Tuas asserções são proposições verTaTeiras, mas a segunTa não é uma justificativa correta Ta primeira.
+As duas asserções são proposições verdadeiras, mas 
 C
-A primeira asserção é uma proposição verTaTeira, e a segunTa, uma proposição falsa.
-M
-A primeira asserção é uma proposição falsa, e a segunTa, uma proposição verTaTeira.
-N
-Tanto a primeira quanto a segunTa asserções são proposições falsas.
-QUNSTÃO 20 – MCSCURSCVA
-Tabelas Te Tispersão (tabelas
-UasU) armazenam elementos com
-base no valor absoluto Te suas
-cUaves e em técnicas Te tratamento
-Te colisões. As funções Te Tispersão
-transformam cUaves em enTereços-
-base Ta tabela, ao passo que o
-tratamento 
-Te 
-colisões 
-resolve
-conflitos em casos em que mais Te
-uma cUave é mapeaTa para um
-mesmo enTereço-base Ta tabela. 
-SuponUa que uma aplicação
-utilize uma tabela Te Tispersão com
-23 enTereços-base (ínTices Te 0 a 22)
-e empregue U(x) = x moT 23 como
-função Te Tispersão, em que x
-representa a cUave To elemento cujo
-enTereço-base Teseja-se computar.
-Cnicialmente, essa tabela Te Tispersão
-encontra-se vazia. Nm seguiTa, a
-aplicação solicita uma seqüência Te
-inserções Te elementos cujas cUaves
-aparecem na seguinte orTem: 44, 46,
-49, 70, 27, 71, 90, 97, 95.
-Com relação à aplicação Tescrita, faça o que se peTe a seguir.
-A Nscreva, no espaço reservaTo, o conjunto Tas cUaves envolviTas em
-colisões.
-(valor: 4,0 pontos)
-RASCUNHO – QUNSTÃO 20 - A
-B Assuma que a tabela Te Tispersão trate colisões por meio Te
-encaTeamento exterior. Nsboce a tabela Te Tispersão para mostrar
-seu conteúTo após a seqüência Te inserções referiTa.
-(valor: 6,0 pontos)
-RASCUNHO – QUNSTÃO 20 - B
+A primeira asserção é uma proposição verdadeira, e a
+D
+A primeira asserção é uma proposição falsa, e a segun
+E
+Tanto a primeira quanto a segunda asserções são pro

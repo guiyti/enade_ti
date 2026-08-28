@@ -1,100 +1,83 @@
-16
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO MCSCURSCVA 04	
-A notação Business Process MoTel Notation (BPMN) aTota Tiversos elementos paTronizaTos para 
-representação Te processos. Analise o processo Te Uomologação Te estágio em uma Cnstituição Te Nnsino 
-Superior, representaTo no Tiagrama a seguir.
-Homologação Te Nstágio Ta NTucação à Mistância
-Pólo Te NTucação 
-a Mistância
-CoorTenação Te Nstágio
-AcaTêmico/Nstagiário
+QUESTÃO DISCURSIVA 04	
+A notação Business Process Model Notation (BP
+representação de processos. Analise o processo de h
+Superior, representado no diagrama a seguir.
+Homologação de Estágio
+Coordenaç
+Acadêmico/Estagiário
+Receber
+documentos
+pdf e imprimir
+3 vias
+Iniciar o
+estágio
+Preencher plano
+de atividades e
+termos de
+compromisso
+Assinar
+documentos e
+entregar no
+Pólo
+Avisar o
+acadêmico
+dos erros
+Registrar no
+Siga e arquivar
+documento
+Receber
+documentos e
+entregar via da
+concedente
+Mandar email
+relatando
+os erros
+Encaminhar por
+email para
+coordenação
+de estágio
+Arrumar os
+erros e
+encaminhar
+novamente
+UFJF. Escritório de Pro
+
+MN) adota diversos elementos padronizados para 
+omologação de estágio em uma Instituição de Ensino 
+da Educação à Distância
+Pólo de Educação 
+a Distância
+ão de Estágio
 Receber email
 e veriﬁcar
-Tocumentos
+documentos
 Não
 Sim
 Correto?
 Não
 Sim
-ATequaTo?
-Receber
-Tocumentos
-pTf e imprimir
-3 vias
-Cniciar o
-estágio
-PreencUer plano
-Te ativiTaTes e
-termos Te
-compromisso
-NncaminUar
-Tocumentos
+Adequado?
+Encaminhar
+documentos
 via malote
-Assinar
-Tocumentos e
-entregar no
-Pólo
 Receber
-Tocumentos e
+documentos e
 analisar
-Avisar o
-acaTêmico
-Tos erros
 Assinar e
-Tevolver
+devolver
 2 cópias
-Registrar no
-Siga e arquivar
-Tocumento
 Receber
-Tocumentos e
+documentos e
 entregar para o
 estagiário
-Receber
-Tocumentos e
-entregar via Ta
-conceTente
-ManTar email
-relatanTo
-os erros
-NncaminUar
-Tocumentos
+Encaminhar
+documentos
 em formato
-pTf por email
-NncaminUar por
-email para
-coorTenação
-Te estágio
-Arrumar os
-erros e
-encaminUar
-novamente
-UFJF. Nscritório Te Processos. Misponível em: www2.ufjf.br/escritorioTeprocessos/portifolio/ 
-Acesso em: 26 Ago. 2021 (aTaptaTo).
-*R29202116*
+pdf por email
+essos. Disponível em: www2.ufjf.br/escritoriodeprocessos/portifolio/ 
+Acesso em: 26 Ago. 2021 (adaptado).
 
-17
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-ConsiTeranTo o Tiagrama apresentaTo, faça o que se peTe nos itens a seguir.
-a)	 Cite o nome Te Tuas tarefas, Tois gateways e Tuas raias que poTem ser iTentificaTos. (valor: 6,0 pontos)
-b)	 Se o estagiário entregar os Tocumentos erraTos, cite as tarefas que Teverão ser realizaTas e por quem. 
+Considerando o diagrama apresentado, faça o que se pede nos itens a seguir.
+a)	 Cite o nome de duas tarefas, dois gateways e duas raias que podem ser identificados. (valor: 6,0 pontos)
+b)	 Se o estagiário entregar os documentos errados, cite as tarefas que deverão ser realizadas e por quem. 
 (valor: 4,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Área livre
-*R29202117*

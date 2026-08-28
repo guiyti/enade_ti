@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 317.15999999999997,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 372.758056640625,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q35.txt",
   "largura": 1223,
-  "altura": 1181,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1177,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 35\n:osé  discutindo  futebol  com  :oão  declarou  que  se \no  time  y  venceu  o  ultimo  ũogo,   então  o  time  z  é \ncampeão.  :oão depois de algumas horas descobriu \nque a declaração era falsa.  Em consequgncia,  teve \ncerteza de que é verdade que\nA o time y não venceu o ultimo ũogo e o time z é \ncampeão.\nB o time y venceu o ultimo ũogo e o time z não é \ncampeão.\nC ou o time y não venceu o ultimo ũogo ou o time \nz é campeão.\nD o time y não venceu o ultimo ũogo e o time z não \né campeão.\nE se o time z não é campeão,  então o time y não \nvenceu o ultimo ũogo.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 321.1419982910156,
+      "y": 108.51788330078125,
+      "x1": 383.5948181152344,
+      "y1": 120.51788330078125,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 34\nO  gerenciamento  Te  proũetos  Te  sistemas  é \nessencial  para  a  engenUaria  Te  soŌǁare.   Um  mau \ngerenciamento  acarreta  atraso  na  entrega  To \nprograma,  custo maior To que o programaTo e falUa \nno  atenTimento  aos  requisitos.   O  quaTro  a  seguir \nrepresenta  Te  forma  Uipotética  algumas  tarefas \nTe  um  proũeto  Te  Tesenvolvimento  Te  soŌǁare.\nNsse quaTro mostra as ativiTaTes,  sua Turação e as \nrespectivas interTepenTgncias.  \nTarefa\nMuração (Tias)\nMepenTências\nT1\n5\n-\nT2\n8\nT1\nT3\n2\nT2\nT4\n4\n-\nT5\n2\nT3,  T4\nT6\n4\n-\nT7\n3\nT5\nCom  base  na  anAlise  To  quaTro,   o  tempo  mínimo \nnecessArio para terminar o proũeto é Te\nA 13 Tias.\nB 15 Tias.\nC 16 Tias.\nM 20 Tias.\nN 28 Tias.\nÁRNA LCVRN\nQUNSTÃO 35\n:osé  TiscutinTo  futebol  com  :oão  Teclarou  que  se \no  time  y  venceu  o  ultimo  ũogo,   então  o  time  z  é \ncampeão.  :oão Tepois Te algumas Uoras Tescobriu \nque a Teclaração era falsa.  Nm consequgncia,  teve \ncerteza Te que é verTaTe que\nA o time y não venceu o ultimo ũogo e o time z é \ncampeão.\nB o time y venceu o ultimo ũogo e o time z não é \ncampeão.\nC ou o time y não venceu o ultimo ũogo ou o time \nz é campeão.\nM o time y não venceu o ultimo ũogo e o time z não \né campeão.\nN se o time z não é campeão,  então o time y não \nvenceu o ultimo ũogo.\nÁRNA LCVRN\n*R40201426*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q35.png",
-  "caminho_json": "/questoes/2014_ADS/q35.json",
-  "caminho_txt": "/questoes/2014_ADS/q35.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120164"
 }

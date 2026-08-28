@@ -1,35 +1,31 @@
-38
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO 34 
-:OãO 'Z/>O:  Ͷ /sso é coisa Te seca.   caba nisso,  essa fome:  ninguém poTe ter menino e Uaũa cavalo no 
-munTo.    comiTa é mais barata e é coisa que se poTe venTer.  Mas seu cavalo,  como foi͍
-C,/CM:  Ͷ &oi uma velUa que me venTeu barato,  porque ia se muTar,  mas recomenTou toTo cuiTaTo,  
-porque o cavalo era bento.  N so poTia ser mesmo,  porque cavalo bom como aquele eu nunca tinUa visto.
-SU SSUN ,   .   uto Ta CompaTeciTa.  Zio Te :aneiro:   gir,  2000 (aTaptaTo).
-  seguir apresenta-se um moTelo Te TaTos elaboraTo a partir To TiAlogo entre CUico e :oão 'rilo.
-Com base no TiAlogo e no Tiagrama apresentaTos,  avalie as afrmações a seguir.
-/.   O CUico e a velUa poTerão ser caTastraTos na entiTaTe pessoa.
-//.   O CUico e a velUa poTerão ter mais que um cavalo caTastraTos.
-///.   O atributo rg Ta entiTaTe pessoa poTe ter a função Te cUave primAria nessa entiTaTe.
-/s.   O cavalo TeverA ter no mínimo uma pessoa e uma pessoa poTerA ser caTastraTa sem a necessiTaTe 
-Te ter um cavalo.
+QUESTÃO 34 
+:KÃK 'Z/>K:  Ͷ /sso é coisa de seca.   caba nisso,  essa fome:  ninguém pode ter menino e haũa cavalo no 
+mundo.    comida é mais barata e é coisa que se pode vender.  Das seu cavalo,  como foi͍
+I,/IM:  Ͷ &oi uma velha que me vendeu barato,  porque ia se mudar,  mas recomendou todo cuidado,  
+porque o cavalo era bento.  E so podia ser mesmo,  porque cavalo bom como aquele eu nunca tinha visto.
+^h ^^hE ,   .   uto da Iompadecida.  Zio de :aneiro:   gir,  2000 (adaptado).
+  seguir apresenta-se um modelo de dados elaborado a partir do diAlogo entre Ihico e :oão 'rilo.
+Iom base no diAlogo e no diagrama apresentados,  avalie as afrmações a seguir.
+/.   K Ihico e a velha poderão ser cadastrados na entidade pessoa.
+//.   K Ihico e a velha poderão ter mais que um cavalo cadastrados.
+///.   K atributo rg da entidade pessoa pode ter a função de chave primAria nessa entidade.
+/s.   K cavalo deverA ter no mínimo uma pessoa e uma pessoa poderA ser cadastrada sem a necessidade 
+de ter um cavalo.
  correto apenas o que se afrma em
 A  / e ///.
 B  / e /s.
 C  // e ///.
-M  /,  // e /s.
-N  //,  /// e /s.
-Area livre
+D  /,  // e /s.
+E  //,  /// e /s.
 pessoa
 cavalo
 possui
 nome
 cpf
-coTigo
+codigo
 rg
 eBento?
 raca
-coTigo
+codigo
 (1,1)
 (0,1)
-*R41201738*

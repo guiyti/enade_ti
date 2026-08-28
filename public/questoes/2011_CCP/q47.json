@@ -5,18 +5,46 @@
   "paginas": [
     30
   ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 293.28,
+      "y0": 64.4,
+      "x1": 555.56,
+      "y1": 590.9337158203125,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2011_CCP/q47.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q47.txt",
   "largura": 1123,
-  "altura": 2180,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2224,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 47\nUma empresa de natureza estritamente operacional \ndeseja implantar um setor de suporte ao processo \nde tomada de decisão, já que os resultados que vem \napresentando demonstram contínua queda da margem \nde lucro e aumento do custo operacional. Para isso, os \nexecutivos de alto escalão da empresa decidiram investir \nna aquisição de uma ferramenta OLAP acoplada a uma \ndata warehouse.\nNessa situação, avalie as afirmações a seguir.\nI. \nNo que tange ao tipo de suporte propiciado, os \nsistemas OLAP podem ser classificados como \nsistemas de trabalhadores do conhecimento.\nII. Ferramentas OLAP apresentam foco orientado a \nassunto, em contraposição a sistemas OLTP, que \nsão orientados a aplicação.\nIII. Tendo em vista que data marts são construídos \nutilizando-se os sistemas legados da empresa, \nsem a utilização de dados externos, o processo \nde extração, transformação e carga envolve a \nintegração de dados, suprimindo-se a tarefa de \nlimpeza.\nIV. O projeto de um data warehouse define a forma \ncom que a base de dados será construída. Uma \ndas opções é a abordagem data mart, em que os \ndiversos data marts são integrados, até que se \nobtenha, ao final do processo, um data warehouse \nda empresa.\nÉ correto o que se afirma em\nA   I e III, apenas.\nB   I e IV, apenas.\nC   II e III, apenas.\nD   II e IV, apenas.\nE   I, II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Banco de Dados",
     "Inteligência Artificial e Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 47,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 365.6979064941406,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 47"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "SCSTNMAS MN CNFORMAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n30\nQUNSTÃO 46\nNm um moTelo Te TaTos que Tescreve a publicação \nacaTêmica Te pesquisaTores Te Tiferentes instituições \nem eventos acaTêmicos, consiTere as tabelas abaixo.\nMNPARTAMNNTO (#CoTMepartamento, \nNomeMepartamento)\nNMPRNGAMO (#CoTNmpregaTo, NomeNmpregaTo, \nCoTMepartamento, Salario)\nNa linguagem SQL, o comanTo mais simples para \nrecuperar os cóTigos Tos Tepartamentos cuja méTia \nsalarial seja maior que 2000 é\nA    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nHAVCNG AVG (Salario) > 2000\nB    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nPHNRN AVG (Salario) > 2000\nGROUP BY CoTMepartamento\nC    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nPHNRN AVG (Salario) > 2000\nM    \nSNLNCT CoTMepartamento, AVG (Salario) > 2000\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nN    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nORMNR BY AVG (Salario) > 2000\nÁRNA LCVRN\nQUNSTÃO 47\nUma empresa Te natureza estritamente operacional \nTeseja implantar um setor Te suporte ao processo \nTe tomaTa Te Tecisão, já que os resultaTos que vem \napresentanTo Temonstram contínua queTa Ta margem \nTe lucro e aumento To custo operacional. Para isso, os \nexecutivos Te alto escalão Ta empresa TeciTiram investir \nna aquisição Te uma ferramenta OLAP acoplaTa a uma \nTata wareUouse.\nNessa situação, avalie as afirmações a seguir.\nC. \nNo que tange ao tipo Te suporte propiciaTo, os \nsistemas OLAP poTem ser classificaTos como \nsistemas Te trabalUaTores To conUecimento.\nCC. Ferramentas OLAP apresentam foco orientaTo a \nassunto, em contraposição a sistemas OLTP, que \nsão orientaTos a aplicação.\nCCC. TenTo em vista que Tata marts são construíTos \nutilizanTo-se os sistemas legaTos Ta empresa, \nsem a utilização Te TaTos externos, o processo \nTe extração, transformação e carga envolve a \nintegração Te TaTos, supriminTo-se a tarefa Te \nlimpeza.\nCV. O projeto Te um Tata wareUouse Tefine a forma \ncom que a base Te TaTos será construíTa. Uma \nTas opções é a aborTagem Tata mart, em que os \nTiversos Tata marts são integraTos, até que se \nobtenUa, ao final To processo, um Tata wareUouse \nTa empresa.\nÉ correto o que se afirma em\nA   C e CCC, apenas.\nB   C e CV, apenas.\nC   CC e CCC, apenas.\nM   CC e CV, apenas.\nN   C, CC, CCC e CV.\nÁRNA LCVRN\n*A13201130*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_CCP/q47.png",
-  "caminho_json": "/questoes/2011_CCP/q47.json",
-  "caminho_txt": "/questoes/2011_CCP/q47.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275368"
 }

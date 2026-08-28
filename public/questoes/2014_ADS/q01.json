@@ -5,17 +5,46 @@
   "paginas": [
     4
   ],
+  "segmentos": [
+    {
+      "pagina": 4,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 465.299072265625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q01.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q01.txt",
   "largura": 2440,
-  "altura": 1566,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1562,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 01\nK trecho da musica \" Eos Bailes da sida\",  de Dilton Eascimento,  \" todo artista tem de ir aonde o povo estA\",  é antigo,  \ne a musica,  de tão tocada,  acabou por se tornar um estereotipo de tocadores de violões e de rodas de amigos em \nsisconde de DauA,  nos anos 1970.  Em tempos digitais,  porém,  ela fcou mais atual do que nunca.  \u001e fAcil entender \no porqug:  antigamente,  quando a informação se concentrava em centros de exposição,  veículos de comunicação,  \neditoras,  museus e gravadoras,  era preciso passar por uma série de curadores,  para garantir a publicação de um \nartigo ou livro,  a gravação de um disco ou a produção de uma exposição.  K mesmo funil,  que poderia ser inũusto e \ndeixar grandes talentos de fora,  simplesmente porque não tinham acesso as ferramentas,  as pessoas ou as fontes \nde informação,  também servia como fltro de qualidade.  docar violão ou encenar uma peça de teatro em um grande \nauditorio costumava ter um peso muito maior do que fazg-lo em um bar, um centro cultural ou uma calçada.  \nEas raras ocasiões em que esse valor se invertia,  era ũustamente porque,  para uso do espaço \" alternativo\",  havia \nmecanismos de seleção tão ou mais rígidos que os do espaço ofcial.\nZ D& ,ZEZ,  >.  dodo artista tem de ir aonde o povo estA. Disponível em:  фhtp:ͬͬ\nnovo. itaucultural. org. brх.   cesso em:  29 ũul.  2014 (adaptado).\n  partir do texto acima,  avalie as asserções a seguir e a relação proposta entre elas.\n/.   K processo de evolução tecnologica da atualidade democratiza a produção e a divulgação de obras \narơsticas,  reduzindo a importancia que os centros de exposição tinham nos anos 1970.\nPORQUE\n//.    s novas tecnologias possibilitam que artistas seũam independentes,  montem seus proprios ambientes \nde produção e disponibilizem seus trabalhos,  de forma simples,  para um grande numero de pessoas.\n  respeito dessas asserções,  assinale a opção correta.\nA  s asserções / e // são proposições verdadeiras,  e a // é uma ũustifcativa correta da /.\nB  s asserções / e // são proposições verdadeiras,  mas a // não é uma ũustifcativa correta da /.\nC   asserção / é uma proposição verdadeira,  e a // é uma proposição falsa.\nD   asserção / é uma proposição falsa,  e a // é uma proposição verdadeira.\nE  s asserções / e // são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "OBJETIVA",
+      "pagina": 4,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 01"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "4\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 01\nO trecUo Ta musica \" Nos Bailes Ta siTa\",  Te Milton Nascimento,  \" toTo artista tem Te ir aonTe o povo estA\",  é antigo,  \ne a musica,  Te tão tocaTa,  acabou por se tornar um estereotipo Te tocaTores Te violões e Te roTas Te amigos em \nsisconTe Te MauA,  nos anos 1970.  Nm tempos Tigitais,  porém,  ela fcou mais atual To que nunca.  \u001e fAcil entenTer \no porqug:  antigamente,  quanTo a informação se concentrava em centros Te exposição,  veículos Te comunicação,  \neTitoras,  museus e gravaToras,  era preciso passar por uma série Te curaTores,  para garantir a publicação Te um \nartigo ou livro,  a gravação Te um Tisco ou a proTução Te uma exposição.  O mesmo funil,  que poTeria ser inũusto e \nTeixar granTes talentos Te fora,  simplesmente porque não tinUam acesso as ferramentas,  as pessoas ou as fontes \nTe informação,  também servia como fltro Te qualiTaTe.  Tocar violão ou encenar uma peça Te teatro em um granTe \nauTitorio costumava ter um peso muito maior To que fazg-lo em um bar, um centro cultural ou uma calçaTa.  \nNas raras ocasiões em que esse valor se invertia,  era ũustamente porque,  para uso To espaço \" alternativo\",  Uavia \nmecanismos Te seleção tão ou mais rígiTos que os To espaço ofcial.\nZ M& ,ZNZ,  >.  ToTo artista tem Te ir aonTe o povo estA. Misponível em:  фUtp:ͬͬ\nnovo. itaucultural. org. brх.   cesso em:  29 ũul.  2014 (aTaptaTo).\n  partir To texto acima,  avalie as asserções a seguir e a relação proposta entre elas.\n/.   O processo Te evolução tecnologica Ta atualiTaTe Temocratiza a proTução e a Tivulgação Te obras \narơsticas,  reTuzinTo a importancia que os centros Te exposição tinUam nos anos 1970.\nPORQUN\n//.    s novas tecnologias possibilitam que artistas seũam inTepenTentes,  montem seus proprios ambientes \nTe proTução e Tisponibilizem seus trabalUos,  Te forma simples,  para um granTe numero Te pessoas.\n  respeito Tessas asserções,  assinale a opção correta.\nA  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.\nB  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.\nC   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.\nM   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.\nN  s asserções / e // são proposições falsas.\nQUNSTÃO 02\nCom a globalização Ta economia social por meio Tas organizações não governamentais,  surgiu uma Tiscussão \nTo conceito Te empresa,  Te sua forma Te concepção ũunto as organizações brasileiras e Te suas prAticas.  \nCaTa vez mais,  é necessArio combinar as políticas publicas que priorizam moTerniTaTe e competiviTaTe \ncom o esforço Te incorporação Tos setores atrasaTos,  mais intensivos Te mão Te obra.  \nMisponível em:  фUtp:ͬͬ\nunpan1. un. orgх.   cesso em:  4 ago.  2014 (aTaptaTo).\n  respeito Tessa temAtica,  avalie as afrmações a seguir.\n/.   O  terceiro  setor  é  uma  mistura  Tos  Tois  setores  econƀmicos  clAssicos  Ta  socieTaTe:   o  publico,  \nrepresentaTo pelo NstaTo,  e o privaTo,  representaTo pelo empresariaTo em geral.\n//.   \u001e o terceiro setor que viabiliza o acesso Ta socieTaTe a eTucação e ao Tesenvolvimento Te técnicas \ninTustriais,  econƀmicas,  fnanceiras,  políticas e ambientais.\n///.     responsabiliTaTe social tem resultaTo na alteração To perfl corporativo e estratégico Tas empresas,  \nque tgm reformulaTo a cultura e a flosofa que orientam as ações institucionais.\nNstA correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\n*R4020144*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q01.png",
-  "caminho_json": "/questoes/2014_ADS/q01.json",
-  "caminho_txt": "/questoes/2014_ADS/q01.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119892"
 }

@@ -1,35 +1,33 @@
-13
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 10
+QUESTÃO 10
   classe CountOccurrence escrita na linguagem 
 :ava,   tem  por  obũetivo  localizar  e  contar  quantas 
-ocorrgncias  Te  um  TeterminaTo  valor  existem  em 
-um conũunto preTeterminaTo Te valores,  retornanTo 
-a quantiTaTe Te vezes que um TeterminaTo valor se 
+ocorrgncias  de  um  determinado  valor  existem  em 
+um conũunto predeterminado de valores,  retornando 
+a quantidade de vezes que um determinado valor se 
 repete no conũunto.
 1 public class CountConcurrence {
 2
 3
- public boolean UasValue(int searcUValue, int[] array, int i) { 
+ public boolean hasValue(int searchValue, int[] array, int i) { 
 4
- if (i >= array.lengtU)
+ if (i >= array.length)
 5
  return false;
 6
 7
- if (array[i] == searcUValue)
+ if (array[i] == searchValue)
 8
  return true;
 9
  else
 10 
- return UasValue(searcUValue, array, i + 1);
+ return hasValue(searchValue, array, i + 1);
 11
  }
 12
 13  public int count(int countValue, int[] array, int i) {
 14 
-    if (!UasValue(countValue, array, i) || i >= array.lengtU)
+    if (!hasValue(countValue, array, i) || i >= array.length)
 15
  return 0;
 16
@@ -48,7 +46,7 @@ repete no conũunto.
  }
 24
 25
- public static voiT main(String[] args) {
+ public static void main(String[] args) {
 26
  int[] array = {2, 3, 5, 6, 9, 7, 8, 8, 9};
 27
@@ -58,104 +56,37 @@ repete no conũunto.
 29
  }
 30 }
-Para  que  o  algoritmo  funcione  corretamente,  
-atenTenTo o requisito proposto,  a muTança em sua 
-estrutura que Teve ser aplicaTa é
-A alterar a linUa 15,  Te: return 0; para: return 
+
+Wara  que  o  algoritmo  funcione  corretamente,  
+atendendo o requisito proposto,  a mudança em sua 
+estrutura que deve ser aplicada é
+A alterar a linha 15,  de: return 0; para: return 
 count(countValue, array, 0)͖
-B alterar  a  linUa  18,   Te:
+B alterar  a  linha  18,   de:
 if (array[i] == 
 countValue)  para:
 if 
 (array[c] 
 == 
 countValue)
-C alterar a linUa 21,  Te: c += count(countValue, 
+C alterar a linha 21,  de: c += count(countValue, 
 array, i)͖  para: c += count(countValue, 
 array, i + 1)͖
-M alterar 
+D alterar 
 a 
-linUa 
+linha 
 14,  
-Te:  
+de:  
 if
-(!UasValue(countValue, array, i) 
-|| i >= array.lengtU) para:  if (i >= 
-array.lengtU)
-N alterar 
+(!hasValue(countValue, array, i) 
+|| i >= array.length) para:  if (i >= 
+array.length)
+E alterar 
 a 
-linUa 
+linha 
 10,  
-Te:  
+de:  
 return
-UasValue(searcUValue, array, i + 1);
-para:   return UasValue(searcUValue, 
+hasValue(searchValue, array, i + 1);
+para:   return hasValue(searchValue, 
 array, i - 1)͖
-ÁRNA LCVRN
-*R40201413*
-
-14
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 11
-Livro
-Autor
-Nmpréstimo
-Aluno
-PO
-PO
-PO
-FO
-FO
-PO
-liv_coT
-titúlo
-autor_coT
-int
-int
-int
-int
-int
-int
-int
-varcUar
-varcUar
-varcUar
-aut_coT
-nome
-nome
-emp_coT
-matricula
-Tata_emp
-Tata_Tev
-Tata_nasc
-aluno_mat
-livro_coT
-Tate
-Tate
-Tate
-FO
-O  moTelo  Te  entiTaTe  relacionamento  apresentaTo,   representa  Te  forma  sucinta  uma  solução  para 
-persistgncia Te TaTos Te uma biblioteca.  ConsiTeranTo que um livro estA emprestaTo quanTo possuir um 
-registro vinculaTo a ele na tabela " Nmprestimo",  e essa tupla não possuir valor na coluna " TataͺTev",  o 
-comanTo SY> que Teve ser utilizaTo para listar os ơtulos Tos livros Tisponíveis para empréstimo é
-A select titulo from livro 
-except
-select l.titulo from emprestimo e inner join livro l
-on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
-B select titulo from livro
-union
-select l.titulo from emprestimo e inner join livro l
-on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
-C select titulo from livro
-except
-select l.titulo from emprestimo e inner join livro l
-on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
-M select titulo from livro
-union select l.titulo from emprestimo e left join livro l
-on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
-N select titulo from livro
-except
-select l.titulo from emprestimo e rigUt join livro l
-on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
-ÁRNA LCVRN
-*R40201414*

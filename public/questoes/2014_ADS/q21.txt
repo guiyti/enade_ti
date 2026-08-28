@@ -1,148 +1,47 @@
-19
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 20
-Nxistem vArias maneiras Te se percorrer uma Arvore 
-binAria.      função  a  seguir,   escrita  em  pseuTo-
-coTigo,   percorre  uma  Arvore  na  orTem  esquerTa-
-raiz-Tireita,  conUeciTa por varreTura e-r-T recursiva.  
-   função  erT()  recebe  por  parametro  a  raiz  r
-Te uma Arvore,  e faz uso Te seus elementos esq,  
-Tir e cont,   que  representam,   respectivamente,  
-ponteiros para uma sub-Arvore a esquerTa Te r,  
-uma sub-Arvore a Tireita Te r e o conteuTo Te r,  
-respectivamente.
-função erT (árvore r)
-{
- se ( r != NULO )
- {
- erT( r -> esq );
- escreva ( r-> conteúTo );
- erT( r -> Tir );
- }
-}
-ConsiTere a Arvore binAria a seguir.
-5
-3
-0
-1
-7
-2
-8
-   sequgncia  correta  Te  exibição  To  conteuTo  Ta 
-Arvore utilizanTo a função erT() é
-A 5,  3,  8,  0,  1,  7,  2
-B 0,  1,  7,  2,  3,  8,  5
-C 0,  3,  5,  1,  7,  8,  2
-M 0,  3,  1,  5,  7,  8,  2
-N 2,  7,  8,  5,  0,  3,  1
-QUNSTÃO 21
-O  moTelo  logico  Te  TaTos  fornece  uma  visão  Ta 
-maneira como os TaTos serão armazenaTos.    fgura 
-a seguir representa o moTelo logico Te um ambiente 
-observaTo em um escritorio contAbil.
-CPF CNT
+QUESTÃO 21
+K  modelo  logico  de  dados  fornece  uma  visão  da 
+maneira como os dados serão armazenados.    fgura 
+a seguir representa o modelo logico de um ambiente 
+observado em um escritorio contAbil.
+CPF INT
 nome VARCHAR(45)
-MalUa Fina_CTentificaTor CNT
-Contribuinte_CPF CNT
-valor CNT
-quantiTaTe Te prestacoes CNT
-enTereco VARCHAR(60)
+Malha Fina_Identificador INT
+Contribuinte_CPF INT
+valor INT
+quantidade de prestacoes INT
+endereco VARCHAR(60)
 telefone VARCHAR(15)
-CTentificaTor CNT
-ano exercicio MATN
+Identificador INT
+ano exercicio DATE
 Contribuinte
-Contribuinte_MalUa Fina
-MalUa fina
-CnTexes
-Contribuinte_CPF CNT
-ano exercicio MATN
-ano base MATN 
-valor CNT
-restituicao ou pagamento BOOLNAN
-Meclaração Cmposto Te RenTa
-CnTexes
-CnTexes
-CnTexes
-Nm relação ao moTelo,  avalie as afrmações a seguir.
-/.     entiTaTe Meclaração Cmposto Te RenTa é 
-uma entiTaTe fraca.
-//.   O relacionamento entre Contribuinte e MalUa
-Fina é To tipo N: M (muitos para muitos).
-///.   O  atributo  CPF  Ta  entiTaTe  Contribuinte
-tem  a  função  Te  cUave  estrangeira  na 
-entiTaTe Meclaração Cmposto Te RenTa e no 
-relacionamento Contribuinte_MalUaFina.
-/s.      entiTaTe  MalUa Fina  não  possui  cUave 
-primAria somente cUave estrangeira.
-V. O relacionamento Contribuinte_MalUaFina é 
+Contribuinte_Malha Fina
+Malha fina
+Indexes
+Contribuinte_CPF INT
+ano exercicio DATE
+ano base DATE 
+valor INT
+restituicao ou pagamento BOOLEAN
+Declaração Imposto de Renda
+Indexes
+Indexes
+Indexes
+Em relação ao modelo,  avalie as afrmações a seguir.
+/.     entidade Declaração Imposto de Renda é 
+uma entidade fraca.
+//.   K relacionamento entre Contribuinte e Malha
+Fina é do tipo E: D (muitos para muitos).
+///.   K  atributo  CPF  da  entidade  Contribuinte
+tem  a  função  de  chave  estrangeira  na 
+entidade Declaração Imposto de Renda e no 
+relacionamento Contribuinte_MalhaFina.
+/s.      entidade  Malha Fina  não  possui  chave 
+primAria somente chave estrangeira.
+V. K relacionamento Contribuinte_MalhaFina é 
 um relacionamento ternArio.
  correto apenas o que se afrma em
 A /,  // e ///.
 B /,  // e /s.
 C /,  /s e s.
-M //,  /// e s.
-N ///,  /s e s.
-*R40201419*
-
-20
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 22
-O  moTelo  relacional  representa  o  banco  Te  TaTos 
-como  uma  coleção  Te  relações  (tabelas).   Na 
-terminologia formal To moTelo relacional,  uma linUa 
-é cUamaTa Te " tupla",  o ơtulo Ta coluna é TenominaTo "
-atributo"  e a tabela é cUamaTa Te " relação".  O tipo 
-Te TaTo que Tescreve os tipos Te valores que poTem 
-aparecer em caTa coluna é TenominaTo " Tomínio".  
-Um  banco  Te  TaTos  relacional  poTe  impor  vArios 
-tipos Te restrições nos TaTos armazenaTos.
-N>M SZ/,  Z.͖  N s T,N,  S.  B.  Sistema Te Banco Te MaTos 
-FunTamentos e Aplicações.  Zio Te :aneiro:  >TC,  2002.  
-Zestrições que permitem controlar situações como,  
-por exemplo,  " o salArio Te um empregaTo não Teve 
-exceTer  o  salArio  To  supervisor  To  empregaTo"   e 
-utilizam mecanismos cUamaTos triggers (gatilUos) na 
-sua implementação,  são To tipo
-A restrições Te Tomínio.
-B restrições Te uniciTaTe.
-C restrições Te integriTaTe referencial.
-M restrições Te integriTaTe Ta entiTaTe.
-N restrições Te integriTaTe semantica.
-ÁRNA LCVRN
-QUNSTÃO 23
-Os 
-termos 
-inovação 
-e 
-empreenTeTorismo 
-Tizem  respeito  a  prAtica  Ta  gestão  e  a  muTança 
-criativa.  
-  
-inovação 
-preocupa-se,  
-sobretuTo,  
-com  o  Tesenvolvimento  Te  proTutos.   :A  o 
-empreenTeTorismo  TeTica-se  mais  a  questão  Ta 
-criação Te pequenas empresas.
-Nesse contexto,  avalie as afrmações a seguir.
-/.   /novação  e  sustentabiliTaTe  são  processos 
-antagƀnicos,   ũA  que  a  inovação  contribui 
-Te  forma  importante  para  a  TegraTação  To 
-meio ambiente TeviTo a sua associação com 
-o aumento To crescimento econƀmico e To 
-consumo.
-//.      exploração  Te  um  problema  social 
-transformaTo  em  uma  oportuniTaTe  Te 
-negocio  visanTo  a  geração  Te  lucro  ao 
-empreenTeTor é um Tos principais obũetivos 
-To empreenTeTorismo social.
-///.   Nem toTo resultaTo Te um processo criativo 
-estA associaTo a uma inovação.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201420*
+D //,  /// e s.
+E ///,  /s e s.

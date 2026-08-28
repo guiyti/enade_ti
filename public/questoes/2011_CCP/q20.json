@@ -5,19 +5,48 @@
   "paginas": [
     13
   ],
-  "largura": 1123,
-  "altura": 1375,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Sistemas Operacionais"
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 293.28,
+      "y0": 64.4,
+      "x1": 555.56,
+      "y1": 397.78582763671875,
+      "coluna": 2
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n13\nQUNSTÃO 18  \nUm venTeTor Te artigos Te pesca obteve com um amigo \no cóTigo executável (já compilaTo) Te um programa que \ngerencia venTas e faz o controle Te estoque, com o intuito \nTe usá-lo em sua loja. SegunTo o seu amigo, o referiTo \nprograma foi compilaTo em seu sistema computacional \npessoal (sistema A) e funciona corretamente. O venTeTor \nconstatou que o programa excecutável também funciona \ncorretamente no sistema computacional Te sua loja \n(sistema B). ConsiTeranTo a situação relataTa, analise as \nafi rmações a seguir.\nC. \nOs computaTores poTeriam ter quantiTaTes \nTiferentes Te núcleos (cores).\nCC. As cUamaTas ao sistema (system call) To sistema \noperacional no sistema A Tevem ser compatíveis \ncom as To sistema B.\nCCC. O conjunto Te instruções To sistema A poTeria ser \nTiferente To conjunto Te instruções To sistema B.\nCV. Se os registraTores To sistema A forem Te 64 bits, os \nregistraTores To sistema B poTeriam ser Te 32 bits.\nÉ correto o que se afi rma em\nA   CCC, apenas.\nB   C e CC, apenas.\nC   CCC e CV, apenas.\nM   C, CC e CV, apenas.\nN   C, CC, CCC e CV.\nQUNSTÃO 19\nUma equipe está realizanTo testes com base nos \ncóTigos-fonte Te um sistema. Os testes envolvem a \nverifi cação Te Tiversos componentes inTiviTualmente, \nbem como Tas interfaces entre os componentes.\nNo contexto apresentaTo, essa equipe está realizanTo \ntestes em nível Te\nA   uniTaTe.\nB   aceitação.\nC   sistema e aceitação.\nM   integração e sistema.\nN   uniTaTe e integração.\nQUNSTÃO 20  \nConsiTere que G é um grafo qualquer e que V e N são os \nconjuntos Te vértices e Te arestas Te G, respectivamente. \nConsiTere também que grau (v) é o grau Te um vértice \nv pertencente ao conjunto V. Nesse contexto, analise as \nseguintes asserções.\nNm G, a quantiTaTe Te vértices com grau ímpar é ímpar.\nPORQUN\nPara G, vale a iTentiTaTe TaTa pela expressão\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justifi cativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justifi cativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas. \nQUNSTÃO 21  \nNo Tesenvolvimento Te um software que analisa bases Te \nMNA, representaTas pelas letras A, C, G, T, utilizou-se as \nestruturas Te TaTos: pilUa e fi la. ConsiTere que, se uma \nsequência representa uma pilUa, o topo é o elemento mais \nà esquerTa; e se uma sequência representa uma fi la, a \nsua frente é o elemento mais à esquerTa. \nAnalise o seguinte cenário: “a sequência inicial fi cou \narmazenaTa na primeira estrutura Te TaTos na seguinte \norTem: (A,G,T,C,A,G,T,T). CaTa elemento foi retiraTo \nTa primeira estrutura Te TaTos e inseriTo na segunTa \nestrutura Te TaTos, e a sequência fi cou armazenaTa na \nseguinte orTem: (T,T,G,A,C,T,G,A). Finalmente, caTa \nelemento foi retiraTo Ta segunTa estrutura Te TaTos e \ninseriTo na terceira estrutura Te TaTos e a sequência fi cou \narmazenaTa na seguinte orTem: (T,T,G,A,C,T,G,A)”.\nQual a única sequência Te estruturas Te TaTos \napresentaTas a seguir poTe ter siTo usaTa no cenário \nTescrito acima?\nA   Fila - PilUa - Fila.\nB   Fila - Fila - PilUa.\nC   Fila - PilUa - PilUa.\nM   PilUa - Fila - PilUa.\nN   PilUa - PilUa - PilUa.\n*A13201113*",
+  "caminho_png": "/questoes/2011_CCP/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q20.txt",
+  "largura": 1123,
+  "altura": 1419,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 20  \nConsidere que G é um grafo qualquer e que V e E são os \nconjuntos de vértices e de arestas de G, respectivamente. \nConsidere também que grau (v) é o grau de um vértice \nv pertencente ao conjunto V. Nesse contexto, analise as \nseguintes asserções.\nEm G, a quantidade de vértices com grau ímpar é ímpar.\nPORQUE\nPara G, vale a identidade dada pela expressão\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justifi cativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justifi cativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2011_CCP/figuras/q20_fig1.png"
   ],
-  "caminho_png": "/questoes/2011_CCP/q20.png",
-  "caminho_json": "/questoes/2011_CCP/q20.json",
-  "caminho_txt": "/questoes/2011_CCP/q20.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275233"
 }

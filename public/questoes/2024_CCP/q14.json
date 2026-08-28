@@ -5,17 +5,46 @@
   "paginas": [
     10
   ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 382.82293701171875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q14.txt",
   "largura": 2475,
-  "altura": 1280,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1271,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 14\t\nTEXTO 1\nA Educação de Jovens e Adultos (EJA) é uma modalidade de ensino destinada a pessoas que não estão inseridas na educação \nregular por motivos diversos. Nesse contexto educacional, esse estudante possui uma história de vida, sobretudo por ser, \nefetivamente, um sujeito ativo nas esferas sociais.\nPEREIRA, P. F.; REINALDO, M. A. G. Ensino-aprendizagem de charge na EJA: \numa experiência no contexto de estágio supervisionado. III CINTED (adaptado). \nTEXTO 2\nAs concepções restritas veem a EJA apenas em seu caráter marginal e secundário, camuflando os aspectos políticos, culturais \ne pedagógicos. Sob uma abordagem sistêmica, a EJA é tratada como parte da história da educação do país e, como tal, \numa modalidade importante no processo de democratização do direito à educação.\nALMEIDA, A. EJA: uma educação para o trabalho ou para a classe trabalhadora? \nRevista Brasileira de Educação de Jovens e Adultos, 2016 (adaptado).\nConsiderando os textos 1 e 2, a alternativa que apresenta uma ação pedagógica condizente com a abordagem sistêmica da EJA é\nA\t garantir a inclusão de temas relacionados à profissionalização dos estudantes e de atividades relativas ao mundo do trabalho.\nB\t propor uma organização curricular que oportunize a obtenção de um diploma àquelas pessoas que não puderam frequentar a escola.\nC\t desenvolver projetos de letramento que integrem experiências de vida dos estudantes a temas como trabalho, identidades \nculturais e vivências intergeracionais.\nD\t elaborar uma proposta de organização curricular que assegure o cumprimento das diretrizes nacionais aos estudantes e a \ngarantia dos mesmos conteúdos e dos mesmos métodos aplicados ao ensino regular.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nFORMAÇÃO GNRAL MOCNNTN\n10\n2025\nQUNSTÃO 14\t\nTNXTO 1\nA NTucação Te Jovens e ATultos (NJA) é uma moTaliTaTe Te ensino TestinaTa a pessoas que não estão inseriTas na eTucação \nregular por motivos Tiversos. Nesse contexto eTucacional, esse estuTante possui uma Uistória Te viTa, sobretuTo por ser, \nefetivamente, um sujeito ativo nas esferas sociais.\nPNRNCRA, P. F.; RNCNALMO, M. A. G. Nnsino-aprenTizagem Te cUarge na NJA: \numa experiência no contexto Te estágio supervisionaTo. CCC CCNTNM (aTaptaTo). \nTNXTO 2\nAs concepções restritas veem a NJA apenas em seu caráter marginal e secunTário, camuflanTo os aspectos políticos, culturais \ne peTagógicos. Sob uma aborTagem sistêmica, a NJA é trataTa como parte Ta Uistória Ta eTucação To país e, como tal, \numa moTaliTaTe importante no processo Te Temocratização To Tireito à eTucação.\nALMNCMA, A. NJA: uma eTucação para o trabalUo ou para a classe trabalUaTora? \nRevista Brasileira Te NTucação Te Jovens e ATultos, 2016 (aTaptaTo).\nConsiTeranTo os textos 1 e 2, a alternativa que apresenta uma ação peTagógica conTizente com a aborTagem sistêmica Ta NJA é\nA\t garantir a inclusão Te temas relacionaTos à profissionalização Tos estuTantes e Te ativiTaTes relativas ao munTo To trabalUo.\nB\t propor uma organização curricular que oportunize a obtenção Te um Tiploma àquelas pessoas que não puTeram frequentar a escola.\nC\t Tesenvolver projetos Te letramento que integrem experiências Te viTa Tos estuTantes a temas como trabalUo, iTentiTaTes \nculturais e vivências intergeracionais.\nM\t elaborar uma proposta Te organização curricular que assegure o cumprimento Tas Tiretrizes nacionais aos estuTantes e a \ngarantia Tos mesmos conteúTos e Tos mesmos métoTos aplicaTos ao ensino regular.\nQUNSTÃO 15\t\nO letramento científico representa uma competência essencial no contexto eTucacional e tem como finaliTaTe proporcionar \nque os inTivíTuos compreenTam, apliquem e sejam críticos ao conUecimento científico a ser utilizaTo em suas viTas cotiTianas.\nSOUSA, L. Q.; ABRNU, O. F. Análise Te NstuTos e Pesquisas sobre Letramento Científico. \nCaTernos Cajuína, n. 4, 2024.\nConsiTeranTo o que representa o letramento científico, a equipe gestora Te uma escola planeja organizar uma palestra com o \nobjetivo Te conscientizar a comuniTaTe escolar Te que a ciência\nA\t funTamenta-se no rigor metoTológico como respalTo para os argumentos proTuziTos e apresentaTos publicamente.\nB\t respeita a liberTaTe inTiviTual e a livre tomaTa Te Tecisão como Tireitos sobrepostos às escolUas coletivas.\nC\t permite a refutação Te resultaTos amplamente aceitos em função Te posicionamentos inTiviTuais.\nM\t busca a impessoaliTaTe, a objetiviTaTe e a neutraliTaTe, à parte Te influências políticas.\nÁrea livre\n*R0404202510*\nR04042025 - COMPUTACAO.inTb   10\nR04042025 - COMPUTACAO.inTb   10\n21/08/2025   10:06:35\n21/08/2025   10:06:35",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q14.png",
-  "caminho_json": "/questoes/2024_CCP/q14.json",
-  "caminho_txt": "/questoes/2024_CCP/q14.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062353"
 }

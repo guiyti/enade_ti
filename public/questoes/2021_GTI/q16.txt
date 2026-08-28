@@ -1,39 +1,35 @@
-25
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 16	
-TNXTO C
-O Tesenvolvimento Ta Tecnologia Ta Cnformação TesencaTeou o crescimento exponencial To volume 
-Te TaTos. Miante Tesse cenário, o Tesafio principal é iTentificar, ao longo To processo Te tomaTa Te 
-Tecisão estratégica, os TaTos com verTaTeiro potencial Te geração Te valor à organização e, neste caso, 
-entenTe-se como geração Te valor o potencial agregaTo em vantagem competitiva. Conseguinte, 
-a Ciência Te MaTos contribui para a consoliTação To espaço significativo e importante para a 
-racionalização Ta tomaTa Te Tecisão, ferramentas e filosofias inovaToras relativas ao Big Mata espelUam 
-a maneira Te Tirigir a organização.
-SCLVA, R. S.; PALLNTA, F. C. Big Mata e a informação pública: suporte à tomaTa Te Tecisão estratégica. 
-Revista Cnteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (aTaptaTo).
-TNXTO CC
-A mente Uumana realiza tarefas complexas com um poTer superior aos computaTores, ou seja, 
-trata-se Te um processo racional e lógico. ContuTo, seus mecanismos Te funcionamento são 
-incompreenTiTos. A tomaTa Te Tecisão TepenTe Tos TaTos que a suportam, toTavia, a qualiTaTe 
-Tos TaTos seja funTamental, não é conTição suficiente. Outro fator Te influência Tireta na tomaTa Te 
-Tecisão, é a interpretação Tos TaTos pela mente Uumana e seus processos cognitivos característicos.
-BAZNRMAN, M. H.; MOORN, M. A. Processo Mecisório. 8. eT. Rio Te Janeiro: Nlsevier, 2014 (aTaptaTo).
-LevanTo em consiTeração os textos apresentaTos, avalie as afirmações a seguir.
-C.	 Nm um processo Te tomaTa Te Tecisão, quanto mais informação o gestor tiver, melUor serão suas 
-escolUas.
-CC.	 As aborTagens visuais são relevantes para compreensão Te uma informação e, por consequência, 
-para a tomaTa Te Tecisão. 
-CCC.	 O inTivíTuo analisa a informação para orientar a tomaTa Te Tecisão a partir Te seu próprio 
-conjunto Te processos cognitivos, assim, a forma pela qual um TaTo é apresentaTo não influencia 
-a tomaTa Te Tecisão.
-CV.	 A tomaTa Te Tecisão poTe ser prejuTicaTa por vieses Ueurísticos, ou seja, por processos cognitivos 
-empregaTos em Tecisões não racionais, TefiniTos como estratégias que ignoram parte Ta 
-informação a fim Te tornar a escolUa fácil e rápiTa.
+QUESTÃO 16	
+TEXTO I
+O desenvolvimento da Tecnologia da Informação desencadeou o crescimento exponencial do volume 
+de dados. Diante desse cenário, o desafio principal é identificar, ao longo do processo de tomada de 
+decisão estratégica, os dados com verdadeiro potencial de geração de valor à organização e, neste caso, 
+entende-se como geração de valor o potencial agregado em vantagem competitiva. Conseguinte, 
+a Ciência de Dados contribui para a consolidação do espaço significativo e importante para a 
+racionalização da tomada de decisão, ferramentas e filosofias inovadoras relativas ao Big Data espelham 
+a maneira de dirigir a organização.
+SILVA, R. S.; PALLETA, F. C. Big Data e a informação pública: suporte à tomada de decisão estratégica. 
+Revista Inteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (adaptado).
+TEXTO II
+A mente humana realiza tarefas complexas com um poder superior aos computadores, ou seja, 
+trata-se de um processo racional e lógico. Contudo, seus mecanismos de funcionamento são 
+incompreendidos. A tomada de decisão depende dos dados que a suportam, todavia, a qualidade 
+dos dados seja fundamental, não é condição suficiente. Outro fator de influência direta na tomada de 
+decisão, é a interpretação dos dados pela mente humana e seus processos cognitivos característicos.
+BAZERMAN, M. H.; MOORE, D. A. Processo Decisório. 8. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).
+Levando em consideração os textos apresentados, avalie as afirmações a seguir.
+I.	 Em um processo de tomada de decisão, quanto mais informação o gestor tiver, melhor serão suas 
+escolhas.
+II.	 As abordagens visuais são relevantes para compreensão de uma informação e, por consequência, 
+para a tomada de decisão. 
+III.	 O indivíduo analisa a informação para orientar a tomada de decisão a partir de seu próprio 
+conjunto de processos cognitivos, assim, a forma pela qual um dado é apresentado não influencia 
+a tomada de decisão.
+IV.	 A tomada de decisão pode ser prejudicada por vieses heurísticos, ou seja, por processos cognitivos 
+empregados em decisões não racionais, definidos como estratégias que ignoram parte da 
+informação a fim de tornar a escolha fácil e rápida.
 É correto apenas o que se afirma em
-A	 C e CC.
-B	 CC e CV.
-C	 CCC e CV.
-M	 C, CC e CCC.
-N	 C, CCC e CV.
-Área livre
-*R29202125*
+A	 I e II.
+B	 II e IV.
+C	 III e IV.
+D	 I, II e III.
+E	 I, III e IV.

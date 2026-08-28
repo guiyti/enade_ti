@@ -1,25 +1,21 @@
-24
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 15	
-O surgimento Tas metoTologias ágeis eliminou o gerenciamento baseaTo em planos, substituinTo-o 
-pelo planejamento incremental. A Tocumentação Te projeto foi reTuziTa ao mínimo e Teixou Te ser 
-previsto um gerente Te projeto. Cnfelizmente, esse tipo Te aborTagem não atenTe as necessiTaTes Tas 
-organizações, em que gerentes Te negócio necessitam acompanUar o anTamento Tos projetos, controlar 
-orçamento, estabelecer prioriTaTes e atualizar seus planos Te negócio. Nesse contexto, foi TesenvolviTo 
-o SCRUM, um framework para a organização Te projetos ágeis. O SCRUM prevê Tois inTivíTuos: o 
-Scrum Master e o ProTuct Owner, que são responsáveis por atuar como interface entre a equipe Te 
-Tesenvolvimento e a organização.
-SOMMNRVCLLN, C. Nngineering Software ProTucts: An CntroTuction to MoTern Software Nngineering. Boston: Pearson, 2019 (aTaptaTo).
-Nm relação à metoTologia SCRUM, avalie as afirmações a seguir.
-C.	 O papel To Scrum Master é guiar a equipe no uso efetivo Ta metoTologia SCRUM.
-CC.	 O papel To ProTuct Owner é garantir o foco no proTuto, evitanTo que o mesmo se perca em 
+QUESTÃO 15	
+O surgimento das metodologias ágeis eliminou o gerenciamento baseado em planos, substituindo-o 
+pelo planejamento incremental. A documentação de projeto foi reduzida ao mínimo e deixou de ser 
+previsto um gerente de projeto. Infelizmente, esse tipo de abordagem não atende as necessidades das 
+organizações, em que gerentes de negócio necessitam acompanhar o andamento dos projetos, controlar 
+orçamento, estabelecer prioridades e atualizar seus planos de negócio. Nesse contexto, foi desenvolvido 
+o SCRUM, um framework para a organização de projetos ágeis. O SCRUM prevê dois indivíduos: o 
+Scrum Master e o Product Owner, que são responsáveis por atuar como interface entre a equipe de 
+desenvolvimento e a organização.
+SOMMERVILLE, I. Engineering Software Products: An Introduction to Modern Software Engineering. Boston: Pearson, 2019 (adaptado).
+Em relação à metodologia SCRUM, avalie as afirmações a seguir.
+I.	 O papel do Scrum Master é guiar a equipe no uso efetivo da metodologia SCRUM.
+II.	 O papel do Product Owner é garantir o foco no produto, evitando que o mesmo se perca em 
 questões técnicas menos relevantes.
-CCC.	 Tanto o Scrum Master como o ProTuct Owner têm autoriTaTe Tireta sobre a equipe.
+III.	 Tanto o Scrum Master como o Product Owner têm autoridade direta sobre a equipe.
 É correto o que se afirma em
-A	 CC, apenas.
-B	 CCC, apenas.
-C	 C e CC, apenas.
-M	 C e CCC, apenas.
-N	 C, CC e CCC.
-Área livre
-*R02202124*
+A	 II, apenas.
+B	 III, apenas.
+C	 I e II, apenas.
+D	 I e III, apenas.
+E	 I, II e III.

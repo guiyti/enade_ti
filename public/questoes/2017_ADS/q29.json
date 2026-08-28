@@ -5,17 +5,46 @@
   "paginas": [
     33
   ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q29.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 29\nhma pesquisa estA sendo realizada para identificar a renda média de um grupo de profissionais,  \nem função de algumas variAveis de interesse.   s variAveis utilizadas são \" possui ensino superior\",  \"\npossui pos-graduação\"  e \" possui pelo menos 5 anos de experigncia em sua Area de atuação\".  \nKs conũuntos de pessoas representados por essas variAveis são denotados  ,  B e I,  respectivamente.  \nDado que as variAveis não são mutuamente exclusivas,  uma pessoa pode pertencer a mais de um \nconũunto.   s expressões a seguir representam subconũuntos para os quais se deseũa obter a renda \nmédia das pessoas a eles pertencentes,  tarefa que serA realizada posteriormente.\nͻ  Expressão 1:  x\nA\nx\nB\nC\n∈\n∧\n∉\n∪\n(\n)͖\nͻ  Expressão 2: x\nA\nB\nC\n∈\n−\n∪\n \n (\n)͖\nͻ  Expressão 3:  x\nA\nx\nB\nx\nC\n∈\n∧\n∈\n∧\n∈\n.\nIonsidere que,  em função das expressões dadas,  o seguinte programa em linguagem de programação I \nfoi escrito,  para que posteriormente se realize os cAlculos deseũados.  Ionsidere,  ainda,  que A,  B e C são \nestruturas de dados apropriadamente defnidas e que contém as pessoas exatamente como especifcado.  \n  função contem opera sobre elas e devolve um valor booleano,  indicando se a pessoa apontada por p\nexiste ou não na estrutura especifcada.\nvoid determina_renda (pessoa *p) {\n   /* condição 1 */\n   if (contem (A, p) && !contem (B, p) && !contem (C, p)) { \n      //renda será determinada posteriormente\n   }\n   /* condição 2 */\n   else if (contem (A, p) || contem (B, p) || contem (C, p)) { \n     //renda será determinada posteriormente\n   }\n}\nIom base nessa situação e nas informações apresentadas,  assinale a opção correta.\nA    condição 2 do programa é equivalente a expressão 3.\nB  Wessoas com pos-graduação pertencem ao conũunto defnido pela expressão 2.\nC    condição 1 do programa é verdadeira para todas as pessoas com ensino superior.\nD    condição 1 do programa e as expressões 1 e 2,  que representam o mesmo subconũunto,  são equivalentes.\nE    condição 2 do programa defne o conũunto de pessoas que tem ensino superior,  pos-graduação e \npelo menos cinco anos de experigncia em sua Area de atuação.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 60.65340042114258,
+      "y": 88.699951171875,
+      "x1": 123.10620880126953,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 29"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "33\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 29\nUma pesquisa estA senTo realizaTa para iTentificar a renTa méTia Te um grupo Te profissionais,  \nem função Te algumas variAveis Te interesse.   s variAveis utilizaTas são \" possui ensino superior\",  \"\npossui pos-graTuação\"  e \" possui pelo menos 5 anos Te experigncia em sua Area Te atuação\".  \nOs conũuntos Te pessoas representaTos por essas variAveis são TenotaTos  ,  B e C,  respectivamente.  \nMaTo que as variAveis não são mutuamente exclusivas,  uma pessoa poTe pertencer a mais Te um \nconũunto.   s expressões a seguir representam subconũuntos para os quais se Teseũa obter a renTa \nméTia Tas pessoas a eles pertencentes,  tarefa que serA realizaTa posteriormente.\nͻ  Nxpressão 1:  x\nA\nx\nB\nC\n∈\n∧\n∉\n∪\n(\n)͖\nͻ  Nxpressão 2: x\nA\nB\nC\n∈\n−\n∪\n \n (\n)͖\nͻ  Nxpressão 3:  x\nA\nx\nB\nx\nC\n∈\n∧\n∈\n∧\n∈\n.\nConsiTere que,  em função Tas expressões TaTas,  o seguinte programa em linguagem Te programação C \nfoi escrito,  para que posteriormente se realize os cAlculos TeseũaTos.  ConsiTere,  ainTa,  que A,  B e C são \nestruturas Te TaTos apropriaTamente TefniTas e que contém as pessoas exatamente como especifcaTo.  \n  função contem opera sobre elas e Tevolve um valor booleano,  inTicanTo se a pessoa apontaTa por p\nexiste ou não na estrutura especifcaTa.\nvoiT Tetermina_renTa (pessoa *p) {\n   /* conTição 1 */\n   if (contem (A, p) && !contem (B, p) && !contem (C, p)) { \n      //renTa será TeterminaTa posteriormente\n   }\n   /* conTição 2 */\n   else if (contem (A, p) || contem (B, p) || contem (C, p)) { \n     //renTa será TeterminaTa posteriormente\n   }\n}\nCom base nessa situação e nas informações apresentaTas,  assinale a opção correta.\nA    conTição 2 To programa é equivalente a expressão 3.\nB  Pessoas com pos-graTuação pertencem ao conũunto TefniTo pela expressão 2.\nC    conTição 1 To programa é verTaTeira para toTas as pessoas com ensino superior.\nM    conTição 1 To programa e as expressões 1 e 2,  que representam o mesmo subconũunto,  são equivalentes.\nN    conTição 2 To programa Tefne o conũunto Te pessoas que tem ensino superior,  pos-graTuação e \npelo menos cinco anos Te experigncia em sua Area Te atuação.\n*R41201733*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q29.png",
-  "caminho_json": "/questoes/2017_ADS/q29.json",
-  "caminho_txt": "/questoes/2017_ADS/q29.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601112"
 }

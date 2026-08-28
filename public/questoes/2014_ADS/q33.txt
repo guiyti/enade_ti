@@ -1,169 +1,65 @@
-25
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 32
-Vivemos  em  um  munTo  Te  proTutos  Te  alta 
-tecnologia e praticamente toTos requerem interação 
-Uumana.   Para  que  um  proTuto  Te  soŌǁare  seũa 
-bem-suceTiTo,   Teve  apresentar  boa  usabiliTaTe.  
-Se  os  mecanismos  Te  interface  tiverem  siTo  bem 
-proũetaTos,   o  usuArio  Ňui  suavemente  através  Ta 
-interação usanTo um ritmo caTenciaTo que permite 
-que o trabalUo seũa realizaTo sem granTes esforços.  
-Nntretanto,  se a interface for mal concebiTa,  o usuArio 
-se move aos trancos e barrancos,  e o resultaTo serA 
-frustração e baixa efcigncia no trabalUo.
-Trgs regras Te ouro são a base para um conũunto Te 
-princípios para o proũeto Te interfaces To usuArio:
-1 ʹ Teixar o usuArio no comanTo͖
-2 ʹ reTuzir a carga Te memoria To usuArio͖
-3 ʹ tornar a interface consistente.
-PZNSSM N,  Z.  S.͖  NngenUaria Te SoŌǁare:  uma aborTagem 
-profssional.  7 eT.,  Mc'raǁ ,ill, 2011,  p.  287-288 (aTaptaTo).
-Com base nessas trgs regras,  avalie as afrmações a 
-seguir.
-/.   Um sistema que permita ao usuArio Tesfazer 
-qualquer ação,  respeita a regra Te ouro 1.
-//.   Um  sistema  Te  pagamento  Te  contas  que 
-usa  uma  imagem  Te  um  cartão  Te  créTito 
-para  orientar  o  usuArio  pelo  processo  Te 
-pagamento Te uma conta,  respeita a regra Te 
-ouro 2.
-///.   Um conũunto Te aplicações ou proTutos que 
-implementam  as  mesmas  regras  Te  proũeto 
-Te  moTo  paTronizaTo,   respeita  a  regra  Te 
-ouro 3.  
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 33
+QUESTÃO 33
 s 
 vezes,  
 garantia 
-Te 
-qualiTaTe 
+de 
+qualidade 
 signifca 
-simplesmente  a  Tefnição  Te  proceTimentos,  
-processos  e  paTrões  que  visam  reforçar  que  a 
-qualiTaTe  Te  soŌǁare  seũa  atingiTa.   Nm  outros 
-casos,  a garantia Te qualiTaTe também inclui toTo 
-o  gerenciamento  Te  confguração,   ativiTaTes  Te 
-verifcação e valiTação aplicaTos apos o proTuto ter 
-siTo entregue por uma equipe Te Tesenvolvimento.
-SOMMNZs/>>N,  /.  NngenUaria Te SoŌǁare.  9.  eT.,  São Paulo,  2011,  p. 455.
-Yualquer  alteração  inseriTa  no  processo  Te 
-Tesenvolvimento 
-Te 
+simplesmente  a  defnição  de  procedimentos,  
+processos  e  padrões  que  visam  reforçar  que  a 
+qualidade  de  soŌǁare  seũa  atingida.   Em  outros 
+casos,  a garantia de qualidade também inclui todo 
+o  gerenciamento  de  confguração,   atividades  de 
+verifcação e validação aplicados apos o produto ter 
+sido entregue por uma equipe de desenvolvimento.
+^KDDEZs/>>E,  /.  Engenharia de ^oŌǁare.  9.  ed.,  ^ão Waulo,  2011,  p. 455.
+Yualquer  alteração  inserida  no  processo  de 
+desenvolvimento 
+de 
 soŌǁare 
 aumenta 
 a 
-amplituTe  Te  erros  e  tenTe  a  Tescaracterizar 
-o  proũeto  inicialmente  planeũaTo,   afetanTo  a 
-qualiTaTe  To  proTuto  ou  serviço.   O  controle  e  a 
-garantia Ta qualiTaTe Te soŌǁare visam satisfazer 
-as  necessiTaTes  Tos  staŬeUolTers͖   assegurar  que 
-os  requisitos  Tos  usuArios  seũam  atenTiTos  pelas 
-especifcações  Tos  proTutos  ou  serviços͖   Tefnir 
-os  processos  para  que  o  Tesenvolvimento  To 
-sistema atenTa esses requisitos͖  gerenciar versões,  
-muTanças,  releases e a construção To sistema.    fm 
-Te assegurar a garantia Ta qualiTaTe To soŌǁare 
-é inTispensAvel Tefnir um processo para controlar 
-a Tocumentação elaboraTa Turante o processo Te 
-Tesenvolvimento.
-ConsiTeranTo essa situação,  avalie as afrmações a seguir.
-/.    s  técnicas  Te  verifcação  e  valiTação  Te 
-soŌǁare  estabelecem  a  confança  Te  que 
-o  sistema  que  esteũa  senTo  TesenvolviTo  é 
-aTequaTo ao seu proposito.
-//.      gergncia  Te  confguração  provg  pontos 
-Te controle sobre os artefatos proTuziTos e 
-moTifcaTos por Tiferentes recursos.
-///.   O 
+amplitude  de  erros  e  tende  a  descaracterizar 
+o  proũeto  inicialmente  planeũado,   afetando  a 
+qualidade  do  produto  ou  serviço.   K  controle  e  a 
+garantia da qualidade de soŌǁare visam satisfazer 
+as  necessidades  dos  staŬeholders͖   assegurar  que 
+os  requisitos  dos  usuArios  seũam  atendidos  pelas 
+especifcações  dos  produtos  ou  serviços͖   defnir 
+os  processos  para  que  o  desenvolvimento  do 
+sistema atenda esses requisitos͖  gerenciar versões,  
+mudanças,  releases e a construção do sistema.    fm 
+de assegurar a garantia da qualidade do soŌǁare 
+é indispensAvel defnir um processo para controlar 
+a documentação elaborada durante o processo de 
+desenvolvimento.
+Ionsiderando essa situação,  avalie as afrmações a seguir.
+/.    s  técnicas  de  verifcação  e  validação  de 
+soŌǁare  estabelecem  a  confança  de  que 
+o  sistema  que  esteũa  sendo  desenvolvido  é 
+adequado ao seu proposito.
+//.      gergncia  de  confguração  provg  pontos 
+de controle sobre os artefatos produzidos e 
+modifcados por diferentes recursos.
+///.   K 
 gerenciamento 
-Te 
-muTanças 
-Teve 
-Tocumentar a Tetecção Te bugs e problemas 
-introTuziTos apos a construção Te uma nova 
-versão To soŌǁare.
-/s.   &az  parte  Tas  atribuições  Ta  equipe  Te 
-garantia Te qualiTaTe examinar se os testes 
-To  sistema  proporcionam  cobertura  Tos 
-requisitos  e  manter  registros  aTequaTos  To 
-processo Te teste.
-V.    revisão  Te  soŌǁare  tem  por  obũetivo 
-armazenar  os  Tocumentos  num  repositorio 
+de 
+mudanças 
+deve 
+documentar a detecção de bugs e problemas 
+introduzidos apos a construção de uma nova 
+versão do soŌǁare.
+/s.   &az  parte  das  atribuições  da  equipe  de 
+garantia de qualidade examinar se os testes 
+do  sistema  proporcionam  cobertura  dos 
+requisitos  e  manter  registros  adequados  do 
+processo de teste.
+V.    revisão  de  soŌǁare  tem  por  obũetivo 
+armazenar  os  documentos  num  repositorio 
 central.
  correto apenas o que se afrma em
 A /,  // e ///.
 B /,  // e /s.
 C /,  /// e s.
-M //,  /s e s.
-N ///,  /s e s.
-*R40201425*
-
-26
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 34
-O  gerenciamento  Te  proũetos  Te  sistemas  é 
-essencial  para  a  engenUaria  Te  soŌǁare.   Um  mau 
-gerenciamento  acarreta  atraso  na  entrega  To 
-programa,  custo maior To que o programaTo e falUa 
-no  atenTimento  aos  requisitos.   O  quaTro  a  seguir 
-representa  Te  forma  Uipotética  algumas  tarefas 
-Te  um  proũeto  Te  Tesenvolvimento  Te  soŌǁare.
-Nsse quaTro mostra as ativiTaTes,  sua Turação e as 
-respectivas interTepenTgncias.  
-Tarefa
-Muração (Tias)
-MepenTências
-T1
-5
--
-T2
-8
-T1
-T3
-2
-T2
-T4
-4
--
-T5
-2
-T3,  T4
-T6
-4
--
-T7
-3
-T5
-Com  base  na  anAlise  To  quaTro,   o  tempo  mínimo 
-necessArio para terminar o proũeto é Te
-A 13 Tias.
-B 15 Tias.
-C 16 Tias.
-M 20 Tias.
-N 28 Tias.
-ÁRNA LCVRN
-QUNSTÃO 35
-:osé  TiscutinTo  futebol  com  :oão  Teclarou  que  se 
-o  time  y  venceu  o  ultimo  ũogo,   então  o  time  z  é 
-campeão.  :oão Tepois Te algumas Uoras Tescobriu 
-que a Teclaração era falsa.  Nm consequgncia,  teve 
-certeza Te que é verTaTe que
-A o time y não venceu o ultimo ũogo e o time z é 
-campeão.
-B o time y venceu o ultimo ũogo e o time z não é 
-campeão.
-C ou o time y não venceu o ultimo ũogo ou o time 
-z é campeão.
-M o time y não venceu o ultimo ũogo e o time z não 
-é campeão.
-N se o time z não é campeão,  então o time y não 
-venceu o ultimo ũogo.
-ÁRNA LCVRN
-*R40201426*
+D //,  /s e s.
+E ///,  /s e s.

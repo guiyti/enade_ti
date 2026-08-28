@@ -5,17 +5,46 @@
   "paginas": [
     5
   ],
+  "segmentos": [
+    {
+      "pagina": 5,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 311.1630859375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q06.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q06.txt",
   "largura": 2475,
-  "altura": 981,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 972,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 06\t\nNa obra Documentos de identidade: uma introdução às teorias de currículo, Tomaz Tadeu da Silva argumenta que as vertentes \nteóricas crítica e pós-crítica do currículo emergem como reações às limitações da teoria tradicional, que concebe o currículo \ncomo um conjunto neutro de conteúdos organizados para transmissão de conhecimento e mensuração do desempenho.\nA teoria crítica recusa a pretensa neutralidade do currículo e entende que ele é atravessado por relações de poder. Explora a \nideia de que a escola pode reproduzir desigualdades, mas também pode combatê-las. Valoriza a conscientização dos estudantes \nsobre os mecanismos sociais e históricos que estruturam essas desigualdades.\nA teoria pós-crítica, embora também rejeite o modelo tradicional, desloca a análise para a esfera discursiva e cultural, \nquestionando as verdades universais e focalizando a construção das identidades, das subjetividades e das diferenças. \nNesse sentido, o currículo é um texto cultural que produz significados sobre o mundo e os sujeitos.\nCom base no exposto, qual estratégia pedagógica desenvolvida com os estudantes está alinhada à teoria crítica de currículo? \nA\t Pesquisa de campo e discussão sobre enfrentamento dos diversos tipos de violência no entorno escolar. \nB\t Elaboração de resumo e apresentação de seminários sobre desigualdades econômicas no Brasil.\nC\t Leitura de textos informativos e resolução de lista de exercícios com base no material didático.\nD\t Exibição de documentários e realização de palestras sobre bullying na escola.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 6,
+      "tipo": "OBJETIVA",
+      "pagina": 5,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 06"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n5\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 06\t\nNa obra Mocumentos Te iTentiTaTe: uma introTução às teorias Te currículo, Tomaz TaTeu Ta Silva argumenta que as vertentes \nteóricas crítica e pós-crítica To currículo emergem como reações às limitações Ta teoria traTicional, que concebe o currículo \ncomo um conjunto neutro Te conteúTos organizaTos para transmissão Te conUecimento e mensuração To TesempenUo.\nA teoria crítica recusa a pretensa neutraliTaTe To currículo e entenTe que ele é atravessaTo por relações Te poTer. Nxplora a \niTeia Te que a escola poTe reproTuzir TesigualTaTes, mas também poTe combatê-las. Valoriza a conscientização Tos estuTantes \nsobre os mecanismos sociais e Uistóricos que estruturam essas TesigualTaTes.\nA teoria pós-crítica, embora também rejeite o moTelo traTicional, Tesloca a análise para a esfera Tiscursiva e cultural, \nquestionanTo as verTaTes universais e focalizanTo a construção Tas iTentiTaTes, Tas subjetiviTaTes e Tas Tiferenças. \nNesse sentiTo, o currículo é um texto cultural que proTuz significaTos sobre o munTo e os sujeitos.\nCom base no exposto, qual estratégia peTagógica TesenvolviTa com os estuTantes está alinUaTa à teoria crítica Te currículo? \nA\t Pesquisa Te campo e Tiscussão sobre enfrentamento Tos Tiversos tipos Te violência no entorno escolar. \nB\t Nlaboração Te resumo e apresentação Te seminários sobre TesigualTaTes econômicas no Brasil.\nC\t Leitura Te textos informativos e resolução Te lista Te exercícios com base no material TiTático.\nM\t Nxibição Te Tocumentários e realização Te palestras sobre bullying na escola.\nQUNSTÃO 07\t\nLi uma Uistória Te um pesquisaTor europeu no começo To século XX que estava nos NUA e cUegou a um território Tos Uopi. \nNle tinUa peTiTo que alguém Taquela alTeia facilitasse o encontro Tele com uma anciã que ele queria entrevistar. QuanTo foi \nencontrá-la, ela estava paraTa perto Te uma rocUa. Nstava conversanTo com a irmã Tela: uma peTra. Assim como aquela senUora \nUopi que conversava com a peTra, sua irmã, tem um monte Te gente que fala com montanUas.\nPor que essas narrativas não nos entusiasmam? Por que elas vão senTo esqueciTas e apagaTas em favor Te uma narrativa \nglobalizante, superficial, que quer contar a mesma Uistória para a gente?\nORNNAO, A. CTeias para aTiar o fim To munTo. São Paulo: CompanUia Tas Letras, 2020 (aTaptaTo).\nPara contemplar a reflexão Te Ailton Orenak, os professores Ta NTucação Básica Tevem consiTerar na elaboração Te um plano \nTe ensino os conUecimentos \nA\t científicos, funTamentaTos em uma visão eurocêntrica Tos conUecimentos traTicionais locais.\nB\t traTicionais locais, pautaTos por uma visão Uegemônica Tos conUecimentos científicos.\nC\t científicos, integraTos com os conUecimentos traTicionais locais.\nM\t traTicionais locais, suborTinaTos aos conUecimentos científicos.\nÁrea livre\n*R040420255*\nR04042025 - COMPUTACAO.inTb   5\nR04042025 - COMPUTACAO.inTb   5\n21/08/2025   10:06:34\n21/08/2025   10:06:34",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q06.png",
-  "caminho_json": "/questoes/2024_CCP/q06.json",
-  "caminho_txt": "/questoes/2024_CCP/q06.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062300"
 }

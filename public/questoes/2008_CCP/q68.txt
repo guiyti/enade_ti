@@ -1,72 +1,70 @@
-28
-COMPUTAÇÃO
-QUNSTÃO 68
-ConsiTere as seguintes tabelas:
-CRNATN TABLN Mepartamento
+QUESTÃO 68
+Considere as seguintes tabelas:
+CREATE TABLE Departamento
 (
-CTMep int NOT NULL,
-NomeMep varcUar(15),
-CONSTRACNT Mepartamentopkey PRCMARY ONY (CTMep)
+IdDep int NOT NULL,
+NomeDep varchar(15),
+CONSTRAINT Departamentopkey PRIMARY KEY (IdDep)
 );
-CRNATN TABLN NmpregaTo
+CREATE TABLE Empregado
 (
-CTNmpregaTo int NOT NULL,
-CTMep int,
+IdEmpregado int NOT NULL,
+IdDep int,
 salario float,
-CONSTRACNT NmpregaTopkey PRCMARY ONY (CTNmpregaTo),
-CONSTRACNT NmpregaToCTMepfkey FORNCGN ONY (CTMep)
-RNFNRNNCNS Mepartamento(CTMep)
-ON UPMATN RNSTRCCT ON MNLNTN RNSTRCCT
+CONSTRAINT Empregadopkey PRIMARY KEY (IdEmpregado),
+CONSTRAINT EmpregadoIdDepfkey FOREIGN KEY (IdDep)
+REFERENCES Departamento(IdDep)
+ON UPDATE RESTRICT ON DELETE RESTRICT
 )
-ConsiTere as seguintes consultas SQL.
-C
-SNLNCT NomeMep, count(*)
-FROM Mepartamento M, NmpregaTo N
-PHNRN M.CTMep=N.CTMep anT N.salario > 10000
-GROUP BY NomeMep
-HAVCNG count(*) > 5;
-CC
-SNLNCT NomeMep, count(*)
-FROM Mepartamento M, NmpregaTo N
-PHNRN M.CTMep=N.CTMep anT N.salario >10000 anT 
-   N.CTMep CN (SNLNCT CTMep
-  FROM NmpregaTo 
-  GROUP BY CTMep
-  HAVCNG count(*) > 5)
-GROUP BY NomeMep; 
-QuanTo as consultas acima são realizaTas, o que é recuperaTo em caTa uma Telas?
+Considere as seguintes consultas SQL.
+I
+SELECT NomeDep, count(*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario > 10000
+GROUP BY NomeDep
+HAVING count(*) > 5;
+II
+SELECT NomeDep, count(*)
+FROM Departamento D, Empregado E
+WHERE D.IdDep=E.IdDep and E.salario >10000 and 
+   E.IdDep IN (SELECT IdDep
+  FROM Empregado 
+  GROUP BY IdDep
+  HAVING count(*) > 5)
+GROUP BY NomeDep; 
+Quando as consultas acima são realizadas, o que é recuperado em cada uma delas?
 A
-C:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
-CC:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos e o número Te empregaTos que ganUam
-mais Te 10.000 reais.
+I:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+II:
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
 B
-C:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos e o número Te empregaTos que ganUam
-mais Te 10.000 reais.
-CC:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
+I:
+os nomes dos departamentos que possuem mais de 5 empregados e o número de empregados que ganham
+mais de 10.000 reais.
+II:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
 C
-C:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número total Te funcionários To Tepartamento.
-CC:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
-M
-C:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
-CC:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número total Te funcionários To Tepartamento.
-N
-C:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
-CC:
-os nomes Tos Tepartamentos que possuem mais Te 5 empregaTos que ganUam mais Te 10.000 reais e o
-número Te empregaTos nessa conTição.
+I:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+II:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+D
+I:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+II:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número total de funcionários do departamento.
+E
+I:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.
+II:
+os nomes dos departamentos que possuem mais de 5 empregados que ganham mais de 10.000 reais e o
+número de empregados nessa condição.

@@ -5,17 +5,46 @@
   "paginas": [
     18
   ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 774.4953002929688,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q13.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q13.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 13\ndeoricamente,   o  termo  de  abertura  de  proũetos \n(d W) é atribuição do patrocinador.  Eele,  o gerente \nde  proũetos  deveria  ser  nomeado.   Entretanto,   a \nrealidade aponta para um cenArio bem diferente:  \nos gerentes de proũetos são comumente chamados \npara participar da elaboração do termo,  mesmo em \nsuas versões iniciais.  Eesse momento,  em boa parte \ndas metodologias implantadas,  é preciso elaborar \num  documento  que  sintetiza  a  visão  do  proũeto,  \ncontendo,   total  ou  parcialmente,   as  seguintes \nsessões:   ũustifcativa͖   obũetivos͖   requisitos  (visão)͖  \nriscos  (visão  inicial)͖   cronograma  de  marcos͖  \norçamento  resumido͖   designação  do  gerente  de \nproũetos e do patrocinador͖  premissas e restrições.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. p4pro. com. brх.  \n cesso em:  12 ũul.  2017 (adaptado).\nhm patrocinador deseũa apresentar um proũeto de \nmelhoria de processos de um datacenter voltado \npara a recuperação de desastres.  Eessa fase,  o d W \nestA sendo fnalizado.   s reuniões para aprovação \ndo  orçamento,   que  so  serA  apreciado  no  fm  do \nplaneũamento,  ocorrerão nos dois meses seguintes \ne,  geralmente,  duram dois dias consecutivos,  dado \no grande numero de proũetos a serem apreciados.  \n   diretoria  ũA  defniu  que  não  serA  aprovado  um \norçamento  acima  de  ZΨ  5  milhões  para  nenhum \nproũeto  isolado.      equipe  de  proũetos  espera \nreceber todas as especifcações até o fm do mgs \nem curso para entregar o planeũamento no prazo \ncombinado.\nIom  base  nessa  situação  e  considerando  a \nnecessidade de aũustar o d W, avalie as afrmações \na seguir.\n/.   K  valor  de  ZΨ  5  milhões  representa  uma \nrestrição para o proũeto.\n//.      aprovação  do  orçamento  é  um  marco \nimportante para esse proũeto.\n///.      aprovação  do  orçamento  deverA  ser \ndeclarada  no  cronograma  de  marcos,  \ninformando-se  um  marco  com  duração  de \ndois dias.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 13,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 13"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "18\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 13\nTeoricamente,   o  termo  Te  abertura  Te  proũetos \n(T P) é atribuição To patrocinaTor.  Nele,  o gerente \nTe  proũetos  Teveria  ser  nomeaTo.   Nntretanto,   a \nrealiTaTe aponta para um cenArio bem Tiferente:  \nos gerentes Te proũetos são comumente cUamaTos \npara participar Ta elaboração To termo,  mesmo em \nsuas versões iniciais.  Nesse momento,  em boa parte \nTas metoTologias implantaTas,  é preciso elaborar \num  Tocumento  que  sintetiza  a  visão  To  proũeto,  \ncontenTo,   total  ou  parcialmente,   as  seguintes \nsessões:   ũustifcativa͖   obũetivos͖   requisitos  (visão)͖  \nriscos  (visão  inicial)͖   cronograma  Te  marcos͖  \norçamento  resumiTo͖   Tesignação  To  gerente  Te \nproũetos e To patrocinaTor͖  premissas e restrições.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. p4pro. com. brх.  \n cesso em:  12 ũul.  2017 (aTaptaTo).\nUm patrocinaTor Teseũa apresentar um proũeto Te \nmelUoria Te processos Te um Tatacenter voltaTo \npara a recuperação Te Tesastres.  Nessa fase,  o T P \nestA senTo fnalizaTo.   s reuniões para aprovação \nTo  orçamento,   que  so  serA  apreciaTo  no  fm  To \nplaneũamento,  ocorrerão nos Tois meses seguintes \ne,  geralmente,  Turam Tois Tias consecutivos,  TaTo \no granTe numero Te proũetos a serem apreciaTos.  \n   Tiretoria  ũA  Tefniu  que  não  serA  aprovaTo  um \norçamento  acima  Te  ZΨ  5  milUões  para  nenUum \nproũeto  isolaTo.      equipe  Te  proũetos  espera \nreceber toTas as especifcações até o fm To mgs \nem curso para entregar o planeũamento no prazo \ncombinaTo.\nCom  base  nessa  situação  e  consiTeranTo  a \nnecessiTaTe Te aũustar o T P, avalie as afrmações \na seguir.\n/.   O  valor  Te  ZΨ  5  milUões  representa  uma \nrestrição para o proũeto.\n//.      aprovação  To  orçamento  é  um  marco \nimportante para esse proũeto.\n///.      aprovação  To  orçamento  TeverA  ser \nTeclaraTa  no  cronograma  Te  marcos,  \ninformanTo-se  um  marco  com  Turação  Te \nTois Tias.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nYUNSTãO 14 \n   /T/>  (/nformation  TecUnologǇ  /nfrastructure \nLibrary) é um conũunto Te boas prAticas aplicAveis \nno gerenciamento Ta infraestrutura e Tos serviços \nTe  Tecnologia  Ta  /nformação  (T/).   Zepresenta \numa  base  Te  conUecimentos  estruturaTa,   com \nrecomenTações sobre a implementação Te Tiversos \nprocessos e estruturas Te apoio To gerenciamento \nTe serviços Te T/.  Sua aToção poTe proporcionar \nganUos na melUoria Ta qualiTaTe Te serviços e na \nreTução Tos riscos e custos.\nM ' >,ãNS,  /.   .͖  P/N,N/ZO,  t.  B.  'erenciamento Te serviços Te \nT/ na prAtica.  São Paulo:  Novatec,  2007 (aTaptaTo).\n   respeito  Ta  /T/>  e  Te  suas  recomenTações,  \nassinale a opção correta.\nA     implementação  Te  processos  Te  gerenciamento \nTo  nível  Te  serviços  é  a  função  principal  Ta \ncentral Te serviços que representa a interface \noperacional entre a Area Te T/ e seus usuArios.\nB  No processo Te gerenciamento Te inciTentes,  \nexige-se  a  ação  proativa  Tos  profssionais  Te \nsuporte,  que Tevem monitorar a infraestrutura \nTe T/ para iTentifcarem possíveis falUas antes \nque estas efetivamente ocorram.\nC    resolução temporAria Tas falUas que provocam \num  inciTente  são  obtiTas  no  processo  Te \ngerenciamento Te problemas.\nM  'anUos  Te  TesempenUo  no  atenTimento  aos \nclientes  Te  T/  poTem  ser  obtiTos  a  partir  To \nuso  Te  uma  base  Te  erros  conUeciTos,   que \nresulta  To  registro  Te  erros  ũA  conUeciTos  na \ninfraestrutura  Ta  organização  e  para  os  quais \nũA  existe  uma  solução  provisoria  ou  Tefnitiva \ncaTastraTa.\nN  Se  um  inciTente  não  puTer  ser  resolviTo  no \nprocesso  Te  gerenciamento  Te  inciTentes,  \nque é o primeiro nível Te atenTimento,  caberA \na  este  nível  entrar  em  contato  com  equipes \nTe  atenTimento  Te  nível  mais  avançaTo  para \nsolução To problema.\nArea livre\n*R43201718*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q13.png",
-  "caminho_json": "/questoes/2017_GTI/q13.json",
-  "caminho_txt": "/questoes/2017_GTI/q13.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697634"
 }

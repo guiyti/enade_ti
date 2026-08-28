@@ -5,19 +5,48 @@
   "paginas": [
     4
   ],
-  "largura": 2302,
-  "altura": 1878,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
+  "segmentos": [
+    {
+      "pagina": 4,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 294.59999999999997,
+      "y1": 518.4867553710938,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "3\nCOMPUTAÇÃO\nMisponível em Uttp://www.ipea.gov.br    \nQUNSTÃO 6\nCNNTROS URBANOS MNMBROS MO GRUPO “NNNRGCA-CCMAMNS”\nLN MONMN Miplomatique Brasil. Atlas To Meio Ambiente, 2008, p. 82.\nNo mapa, registra-se uma prática exemplar para que as ciTaTes se tornem sustentáveis Te fato, favorecenTo as trocas\nUorizontais, ou seja, associanTo e conectanTo territórios entre si, evitanTo TesperTícios no uso Te energia.\nNssa prática exemplar apóia-se, funTamentalmente, na\nA centralização Te Tecisões políticas.\nB atuação estratégica em reTe.\nC fragmentação Te iniciativas institucionais.\nM Uierarquização Te autonomias locais.\nN unificação regional Te impostos.\nQUNSTÃO 7\nApesar To progresso verificaTo nos últimos anos, o Brasil continua\nsenTo um país em que Uá uma granTe TesigualTaTe Te renTa\nentre os ciTaTãos. Uma forma Te se constatar este fato é por meio\nTa Curva Te Lorenz, que fornece, para caTa valor Te x entre 0 e\n100, o percentual Ta renTa total To País auferiTo pelos x% Te\nbrasileiros Te menor renTa. Por exemplo, na Curva Te Lorenz para\n2004, apresentaTa ao laTo, constata-se que a renTa total Tos 60%\nTe menor renTa representou apenas 20% Ta renTa total.\nMe acorTo com o mesmo gráfico, o percentual Ta renTa\ntotal \ncorresponTente \naos \n20% \nTe \nmaior \nrenTa \nfoi,\naproximaTamente, igual a\nA 20%.\nB 40%.\nC 50%.\nM 60%.\nN 80%.",
+  "caminho_png": "/questoes/2008_CCP/q06.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q06.txt",
+  "largura": 1153,
+  "altura": 1880,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 6\nCENTROS URBANOS MEMBROS\nNo mapa, registra-se uma prática exemplar para que as cid\nhorizontais, ou seja, associando e conectando territórios en\nEssa prática exemplar apóia-se, fundamentalmente, na\nA centralização de decisões políticas.\nB atuação estratégica em rede.\nC fragmentação de iniciativas institucionais.\nD hierarquização de autonomias locais.\nE unificação regional de impostos.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2008_CCP/figuras/q06_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2008_CCP/q06.png",
-  "caminho_json": "/questoes/2008_CCP/q06.json",
-  "caminho_txt": "/questoes/2008_CCP/q06.txt"
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 6,
+      "tipo": "OBJETIVA",
+      "pagina": 4,
+      "x": 36.8390998840332,
+      "y": 76.48672485351562,
+      "x1": 100.08615112304688,
+      "y1": 87.52672576904297,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 6"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.394910"
 }

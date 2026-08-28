@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 489.8668518066406,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q21.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1752,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 21\nKs  modelos  de  processo  foram  propostos  para \ntrazer  ordem  ao  caos  existente  na  Area  de \ndesenvolvimento de soŌǁare.    historia mostra que \nesses modelos trouxeram considerAvel contribuição \nno trabalho da engenharia de soŌǁare.\nWZE^^D E,  Z.  ^.  Engenharia de soŌǁare:  uma abordagem \nprofssional.  8.  ed.  Worto  legre:   D',,  2016 (adaptado).\n   respeito  dos  modelos  de  processo,   avalie  as \nafrmações a seguir.\n/.   ^ão  atividades  do  modelo  incremental:  \nespecifcação,  desenvolvimento e validação.\n//.   Eo modelo espiral,  a fase de modelagem é \nresponsAvel,   entre  outras  atividades,   pela \nestimativa,  cronograma e anAlise de risco.\n///.   K  modelo  cascata  sugere  uma  abordagem \nsequencial \ne \nsistemAtica \npara \no \ndesenvolvimento de soŌǁare,  iniciando na \nespecifcação  de  requisitos  e  fnalizando \ncom a entrega do soŌǁare concluído.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nD  / e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 21"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 21\nOs  moTelos  Te  processo  foram  propostos  para \ntrazer  orTem  ao  caos  existente  na  Area  Te \nTesenvolvimento Te soŌǁare.    Uistoria mostra que \nesses moTelos trouxeram consiTerAvel contribuição \nno trabalUo Ta engenUaria Te soŌǁare.\nPZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem \nprofssional.  8.  eT.  Porto  legre:   M',,  2016 (aTaptaTo).\n   respeito  Tos  moTelos  Te  processo,   avalie  as \nafrmações a seguir.\n/.   São  ativiTaTes  To  moTelo  incremental:  \nespecifcação,  Tesenvolvimento e valiTação.\n//.   No moTelo espiral,  a fase Te moTelagem é \nresponsAvel,   entre  outras  ativiTaTes,   pela \nestimativa,  cronograma e anAlise Te risco.\n///.   O  moTelo  cascata  sugere  uma  aborTagem \nsequencial \ne \nsistemAtica \npara \no \nTesenvolvimento Te soŌǁare,  inicianTo na \nespecifcação  Te  requisitos  e  fnalizanTo \ncom a entrega To soŌǁare concluíTo.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  / e ///,  apenas.\nN  /,  // e ///.\nArea livre\nQUNSTÃO 22\nUm TesenvolveTor Te soŌǁare recém-formaTo foi \ncontrataTo  para  a  implementação  Te  um  proũeto \nem  uma  empresa  e,   em  reunião,   recebeu  vArias \nexplicações sobre como a gergncia Te confguração \nfuncionava.  \nConsiTeranTo  essa  situação,   avalie  as  afrmações \na  seguir,   referentes  as  informações  TaTas  ao \nTesenvolveTor.\n/.   /nicialmente,   para  ter  acesso  a  base  Te \nTesenvolvimento,  \no \nprofssional \nTeve \nrealizar  uma  operação  Te  cUeckout  para \nbaixar  os  arquivos  To  proũeto  que  estão \narmazenaTos no serviTor.\n//.   Na \nsituação \nem \nque \nmais \nTe \num \nTesenvolveTor  estiver  moTifcanTo  um \nmesmo Tocumento,  ao se tentar realizar uma \noperação  Te  commit,   poTe  ser  necessArio \nrealizar uma operação Te tag (release) para \nresolução To conŇito entre a versão local e \na versão mais recente no repositorio,  caso \nalgum TesenvolveTor tenUa submetiTo uma \nmuTança no Tocumento previamente.\n///.   No  Tesenvolvimento  Te  um  novo  caso \nTe  uso,   em  que  Tiversos  arquivos  seũam \nmoTifcaTos,   é  recomenTaTa  a  criação  Te \numa ramifcação (brancU).\n/s.      versão  estAvel  é  o  ramo  principal  Te \nTesenvolvimento,  que segue To começo To \nTesenvolvimento até o momento presente.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nM  /,  /// e /s.\nN  //,  /// e /s.\nArea livre\n*R41201726*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q21.png",
-  "caminho_json": "/questoes/2017_ADS/q21.json",
-  "caminho_txt": "/questoes/2017_ADS/q21.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601075"
 }

@@ -5,18 +5,46 @@
   "paginas": [
     20
   ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 774.5,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q12.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q12.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 12\n  engenharia de requisitos,  do ponto de vista do \nprocesso de soŌǁare,  é uma ação de engenharia \nde  soŌǁare  importante,   que  se  inicia  durante \na  atividade  de  comunicação  e  continua  na  de \nmodelagem.  Ela deve ser adaptada as necessidades \ndo processo,  do proũeto,  do produto e das pessoas \nque estão realizando o trabalho.\nWZE^^D E,  Z.  ^.  Engenharia de soŌǁare:  uma abordagem \nprofssional.  8.  ed.  Worto  legre:   D',,  2016 (adaptado).\nIonsidere os requisitos,  a seguir,  de um sistema para \numa universidade,  na qual se pretenda gerenciar o \nsetor acadgmico.\nͻ  R1:   o  sistema  deve  permitir  que  cada \nprofessor realize o lançamento de notas das \nturmas nas quais lecionou͖\nͻ  R2:   o  sistema  deverA  ser  desenvolvido  de \nforma  a  possibilitar  seu  transporte  para \noutro sistema operacional em,  no mAximo,  \nsessenta dias͖\nͻ  R3:  o  sistema  deve  permitir  que  um \nestudante  realize  a  sua  matrícula  nas \ndisciplinas  oferecidas  em  um  semestre \nletivo͖\nͻ  Z4:  o sistema atualiza a nota do estudante,  \npermitindo  sua  visualização,   em  até  dois \nsegundos  depois  do  momento  que  o \nprofessor a registra͖\nͻ  Z5:  o sistema deve permitir que o auxiliar \nde  serviços  acadgmicos  realize  o  cadastro \nde um estudante em não mais do que dez \nminutos de orientação.\nEessa \nsituação,  \nrepresentam \ndescrições \nde \nrequisitos não funcionais apenas os requisitos\nA  Z1,  Z2 e Z3.\nB  Z1,  Z2 e Z5.\nC  Z1,  Z3 e Z4.\nD  Z2,  Z4 e Z5.\nE  Z3,  Z4 e Z5.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Sistemas Operacionais",
-    "Engenharia de Software"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 12,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 12"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "20\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 12\n  engenUaria Te requisitos,  To ponto Te vista To \nprocesso Te soŌǁare,  é uma ação Te engenUaria \nTe  soŌǁare  importante,   que  se  inicia  Turante \na  ativiTaTe  Te  comunicação  e  continua  na  Te \nmoTelagem.  Nla Teve ser aTaptaTa as necessiTaTes \nTo processo,  To proũeto,  To proTuto e Tas pessoas \nque estão realizanTo o trabalUo.\nPZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem \nprofssional.  8.  eT.  Porto  legre:   M',,  2016 (aTaptaTo).\nConsiTere os requisitos,  a seguir,  Te um sistema para \numa universiTaTe,  na qual se pretenTa gerenciar o \nsetor acaTgmico.\nͻ  R1:   o  sistema  Teve  permitir  que  caTa \nprofessor realize o lançamento Te notas Tas \nturmas nas quais lecionou͖\nͻ  R2:   o  sistema  TeverA  ser  TesenvolviTo  Te \nforma  a  possibilitar  seu  transporte  para \noutro sistema operacional em,  no mAximo,  \nsessenta Tias͖\nͻ  R3:  o  sistema  Teve  permitir  que  um \nestuTante  realize  a  sua  matrícula  nas \nTisciplinas  ofereciTas  em  um  semestre \nletivo͖\nͻ  Z4:  o sistema atualiza a nota To estuTante,  \npermitinTo  sua  visualização,   em  até  Tois \nsegunTos  Tepois  To  momento  que  o \nprofessor a registra͖\nͻ  Z5:  o sistema Teve permitir que o auxiliar \nTe  serviços  acaTgmicos  realize  o  caTastro \nTe um estuTante em não mais To que Tez \nminutos Te orientação.\nNessa \nsituação,  \nrepresentam \nTescrições \nTe \nrequisitos não funcionais apenas os requisitos\nA  Z1,  Z2 e Z3.\nB  Z1,  Z2 e Z5.\nC  Z1,  Z3 e Z4.\nM  Z2,  Z4 e Z5.\nN  Z3,  Z4 e Z5.\nQUNSTÃO 13\nNa Area Te Tesenvolvimento Te soŌǁare,  prazos,  \ncustos  e  qualiTaTe  são  questões  que  TemanTam \ngerenciamento,   para  que  se  evitem  atrasos,  \nestouros  orçamentArios  e  sistemas  que  não \natenTam aos requisitos.\nSobre  o  moTelo  CMM/,   avalie  as  asserções  a \nseguir e a relação proposta entre elas.\n/.   O CMM/ fornece Tiretrizes para a melUoria \nTos processos e UabiliTaTes organizacionais,  \nincluinTo  o  ciclo  Te  viTa  Te  proTutos  e \nserviços,  que abrange as fases Te concepção,  \nTesenvolvimento,   aquisição,   entrega  e \nmanutenção.\nPOZYUN\n//.    s  empresas  brasileiras  estão  aTerinTo \na  programas  Te  fomento  a  melUoria \nTa  qualiTaTe  Te  soŌǁare,   por  meio  Ta \naplicação To moTelo Te maturiTaTe CMM/,  \nque  é  mais  TirecionaTo  as  pequenas  e \nméTias empresas,  apesar Te também ser um \nmoTelo aplicAvel em granTes organizações,  \nseũam elas publicas ou privaTas.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição  verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\n*R41201720*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q12.png",
-  "caminho_json": "/questoes/2017_ADS/q12.json",
-  "caminho_txt": "/questoes/2017_ADS/q12.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601032"
 }

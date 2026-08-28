@@ -5,17 +5,46 @@
   "paginas": [
     37
   ],
+  "segmentos": [
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 364.86712646484375,
+      "x1": 611.7199999999999,
+      "y1": 521.2482299804688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q79.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q79.txt",
   "largura": 2475,
   "altura": 682,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "ç\np ç g\nQUESTÃO 79\t\nQual a linguagem de programação que o professor deve selecionar e as características que justificam essa escolha?\nA\t Python, por apresentar uma sintaxe menos verbosa com organização intuitiva, possibilitando o aprendizado lúdico e suporte \nà programação orientada a objetos, promovendo o entendimento de conceitos como generalização.\nB\t C++, por ser uma linguagem compilada, permitindo interação com objetos, proporcionando a compreensão essencial dos \nconceitos de lógica de programação e o aprendizado lúdico de conceitos como generalização.\nC\t Scratch, por adotar blocos visuais usando interface gráfica, promovendo o aprendizado lúdico e a compreensão de estruturas \nlógicas, permitindo a interação entre objetos de forma intuitiva e o uso de conceitos como generalização.\nD\t JavaScript, por ser uma linguagem web, permitindo a captura de eventos e promovendo a simulação das interações entre \nos objetos, favorecendo a compreensão de conceitos como generalização.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 79,
+      "tipo": "OBJETIVA",
+      "pagina": 37,
+      "x": 64.6063003540039,
+      "y": 376.86712646484375,
+      "x1": 124.34291076660156,
+      "y1": 392.1351013183594,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 79"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n37\nCOMPUTAÇÃO\n2025\nTexto para questões Te 78 a 80\nUm professor Te Computação, que ministra Tisciplinas Te Programação, percebeu a necessiTaTe Te usar linguagens \nTe programação que promovam a aprenTizagem Tos conceitos básicos Te orientação a objetos para estuTantes To \nNnsino FunTamental. Para tornar o aprenTizaTo mais lúTico e concreto, o professor propôs uma ativiTaTe em formato Te \nteatro, ambientaTa em uma Uistória Te fantasia épica, na qual as batalUas ocorrem com movimentos Tos personagens com \nbase em formas geométricas e os estuTantes atuam como os personagens. Os estuTantes receberiam cartões com informações \nTe personagens, poTenTo Tescrever certas características e aspectos sobre a comunicação entre eles. Murante a encenação, os \nestuTantes Teveriam simular essas interações.\nQUNSTÃO 78\t\nO uso peTagógico Tas formas geométricas e To posicionamento espacial Tos estuTantes auxilia a compreensão Tos conceitos \nTe atributos e métoTos ao aborTar que\nA\t a movimentação é representaTa e controlaTa a partir Te métoTos Tos personagens que alteram os atributos Te posição \ne Tireção contiTos nas células To tabuleiro.\nB\t as posições e Tireções Te caTa personagem são atributos que poTem ser armazenaTos em variáveis e passaTos como \nparâmetros para possíveis métoTos Te movimentação.\nC\t o tabuleiro é um vetor biTimensional onTe caTa posição armazena os atributos Te um personagem e contém métoTos \nTe movimentação.\nM\t os personagens possuem atributos que representam sua posição e Tireção e possuem métoTos Te movimentação ou giro, \nsimulanTo ações em um espaço geométrico.\nQUNSTÃO 79\t\nQual a linguagem Te programação que o professor Teve selecionar e as características que justificam essa escolUa?\nA\t PytUon, por apresentar uma sintaxe menos verbosa com organização intuitiva, possibilitanTo o aprenTizaTo lúTico e suporte \nà programação orientaTa a objetos, promovenTo o entenTimento Te conceitos como generalização.\nB\t C++, por ser uma linguagem compilaTa, permitinTo interação com objetos, proporcionanTo a compreensão essencial Tos \nconceitos Te lógica Te programação e o aprenTizaTo lúTico Te conceitos como generalização.\nC\t ScratcU, por aTotar blocos visuais usanTo interface gráfica, promovenTo o aprenTizaTo lúTico e a compreensão Te estruturas \nlógicas, permitinTo a interação entre objetos Te forma intuitiva e o uso Te conceitos como generalização.\nM\t JavaScript, por ser uma linguagem web, permitinTo a captura Te eventos e promovenTo a simulação Tas interações entre \nos objetos, favorecenTo a compreensão Te conceitos como generalização.\nQUNSTÃO 80\t\nUma intervenção TiTática para explorar o conceito Te generalização é Tistribuir cartões com os nomes Personagem, Mago e \nGuerreiro entre grupos Te estuTantes, solicitanTo que eles Tescrevam as ações mover, lançar feitiço e usar espaTa, Te moTo que\nA\t iTentifiquem quais ações são comuns a toTos os personagens e quais são específicas Te caTa tipo.\nB\t atribuam toTas as ações, mesmo que repetiTas, a toTos os personagens, ignoranTo suas Tiferenças.\nC\t concentrem toTas as ações em um único cartão base para simplificar a organização.\nM\t escolUam apenas um cartão para representar toTas as ações, eliminanTo os Temais.\nÁrea livre \n*R0404202537*\nR04042025 - COMPUTACAO.inTb   37\nR04042025 - COMPUTACAO.inTb   37\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q79.png",
-  "caminho_json": "/questoes/2024_CCP/q79.json",
-  "caminho_txt": "/questoes/2024_CCP/q79.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062771"
 }

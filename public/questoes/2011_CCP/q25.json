@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 293.28,
+      "y0": 64.4,
+      "x1": 555.56,
+      "y1": 415.5016174316406,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2011_CCP/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_CCP/q25.txt",
   "largura": 1123,
-  "altura": 1449,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1493,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 25  \nUm Padrão de Projeto nomeia, abstrai e identifica \nos aspectos-chave de uma estrutura de projeto comum \npara torná-la útil para a criação de um projeto orientado a \nobjetos reutilizáveis.\nGAMMA, E., HELM, R., JOHNSON, R., VLISSIDES, J. Padrões de Projeto-Soluções \nReutilizáveis de Software Orientado a Objetos. Porto Alegre: Bookman, 2000.\nEm relação a Padrões de Projeto, analise as afirmações \na seguir.\nI. \nPrototype é um tipo de padrão estrutural.\nII. Singleton tem por objetivos garantir que uma \nclasse tenha ao menos uma instância e fornecer \num ponto global de acesso para ela.\nIII. Template Method tem por objetivo definir o \nesqueleto de um algoritmo em uma operação, \npostergando a definição de alguns passos para \nsubclasses.\nIV. Iterator \nfornece \numa \nmaneira \nde \nacessar \nsequencialmente os elementos de um objeto \nagregado \nsem \nexpor \nsua \nrepresentação \nsubjacente.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e IV.\nD   II e III.\nE   III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 302.347900390625,
+      "y": 68.1739273071289,
+      "x1": 371.4579162597656,
+      "y1": 82.03392791748047,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 25"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n15\nQUNSTÃO 24\nAs filas Te prioriTaTes (Ueaps) são estruturas Te TaTos \nimportantes no projeto Te algoritmos. Nm especial, Ueaps \npoTem ser utilizaTos na recuperação Te informação \nem granTes bases Te TaTos constituíTos por textos. \nBasicamente, para se exibir o resultaTo Te uma consulta, \nos Tocumentos recuperaTos são orTenaTos Te acorTo \ncom a relevância presumiTa para o usuário. Uma consulta \npoTe recuperar milUões Te Tocumentos que certamente \nnão serão toTos examinaTos. Na verTaTe, o usuário \nexamina os primeiros m Tocumentos Tos n recuperaTos, \nem que m é Ta orTem Te algumas Tezenas.\nConsiTeranTo as características Tos Ueaps e sua \naplicação no problema Tescrito acima, avalie as \nseguintes afirmações.\nC. \nUma vez que o Ueap é implementaTo como \numa árvore binária Te pesquisa essencialmente \ncompleta, o custo computacional para sua \nconstrução é O(n log n).\nCC. A implementação Te Ueaps utilizanTo-se vetores \né eficiente em tempo Te execução e em espaço \nTe armazenamento, pois o pai Te um elemento \narmazenaTo na posição i se encontra armazenaTo \nna posição 2i+1.\nCCC. O custo computacional para se recuperar \nTe forma orTenaTa os m Tocumentos mais \nrelevantes armazenaTos em um Ueap Te \ntamanUo n é O(m log n).\nCV. Meterminar o Tocumento com maior valor Te \nrelevância armazenaTo em um Ueap tem custo \ncomputacional O(1). \nNstá correto apenas o que se afirma em\nA   C e CC.\nB   CC e CCC.\nC   CCC e CV.\nM   C, CC e CV.\nN   C, CCC e CV.\nQUNSTÃO 25  \nUm PaTrão Te Projeto nomeia, abstrai e iTentifica \nos aspectos-cUave Te uma estrutura Te projeto comum \npara torná-la útil para a criação Te um projeto orientaTo a \nobjetos reutilizáveis.\nGAMMA, N., HNLM, R., JOHNSON, R., VLCSSCMNS, J. PaTrões Te Projeto-Soluções \nReutilizáveis Te Software OrientaTo a Objetos. Porto Alegre: Bookman, 2000.\nNm relação a PaTrões Te Projeto, analise as afirmações \na seguir.\nC. \nPrototype é um tipo Te paTrão estrutural.\nCC. Singleton tem por objetivos garantir que uma \nclasse tenUa ao menos uma instância e fornecer \num ponto global Te acesso para ela.\nCCC. Template MetUoT tem por objetivo Tefinir o \nesqueleto Te um algoritmo em uma operação, \nposterganTo a Tefinição Te alguns passos para \nsubclasses.\nCV. Cterator \nfornece \numa \nmaneira \nTe \nacessar \nsequencialmente os elementos Te um objeto \nagregaTo \nsem \nexpor \nsua \nrepresentação \nsubjacente.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CV.\nM   CC e CCC.\nN   CCC e CV.\nQUNSTÃO 26\nUm baralUo tem 52 cartas, organizaTas em 4 naipes, \ncom 13 valores Tiferentes para caTa naipe. \nOs valores possíveis são: Ás, 2, 3, ..., 10, J, Q, O. \nNo jogo Te poker, uma Tas combinações Te 5 cartas \nmais valiosas é o full Uouse, que é formaTo por \ntrês cartas Te mesmo valor e outras Tuas cartas Te \nmesmo valor. São exemplos Te full Uouses: i) três \ncartas O e Tuas 10 (como visto na figura) ou ii) três \ncartas 4 e Tuas Ás.\nQuantas possibiliTaTes para full Uouse existem em um \nbaralUo Te 52 cartas?\nA   156.\nB   624.\nC   1872.\nM   3744.\nN   7488.\n*A13201115*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_CCP/q25.png",
-  "caminho_json": "/questoes/2011_CCP/q25.json",
-  "caminho_txt": "/questoes/2011_CCP/q25.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:12.275255"
 }

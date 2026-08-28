@@ -1,80 +1,45 @@
-26
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 21
-Os  moTelos  Te  processo  foram  propostos  para 
-trazer  orTem  ao  caos  existente  na  Area  Te 
-Tesenvolvimento Te soŌǁare.    Uistoria mostra que 
-esses moTelos trouxeram consiTerAvel contribuição 
-no trabalUo Ta engenUaria Te soŌǁare.
-PZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem 
-profssional.  8.  eT.  Porto  legre:   M',,  2016 (aTaptaTo).
-   respeito  Tos  moTelos  Te  processo,   avalie  as 
-afrmações a seguir.
-/.   São  ativiTaTes  To  moTelo  incremental:  
-especifcação,  Tesenvolvimento e valiTação.
-//.   No moTelo espiral,  a fase Te moTelagem é 
-responsAvel,   entre  outras  ativiTaTes,   pela 
-estimativa,  cronograma e anAlise Te risco.
-///.   O  moTelo  cascata  sugere  uma  aborTagem 
-sequencial 
-e 
-sistemAtica 
-para 
-o 
-Tesenvolvimento Te soŌǁare,  inicianTo na 
-especifcação  Te  requisitos  e  fnalizanTo 
-com a entrega To soŌǁare concluíTo.
- correto o que se afrma em
-A  //,  apenas.
-B  ///,  apenas.
-C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-Area livre
-QUNSTÃO 22
-Um TesenvolveTor Te soŌǁare recém-formaTo foi 
-contrataTo  para  a  implementação  Te  um  proũeto 
+QUESTÃO 22
+hm desenvolvedor de soŌǁare recém-formado foi 
+contratado  para  a  implementação  de  um  proũeto 
 em  uma  empresa  e,   em  reunião,   recebeu  vArias 
-explicações sobre como a gergncia Te confguração 
+explicações sobre como a gergncia de confguração 
 funcionava.  
-ConsiTeranTo  essa  situação,   avalie  as  afrmações 
-a  seguir,   referentes  as  informações  TaTas  ao 
-TesenvolveTor.
-/.   /nicialmente,   para  ter  acesso  a  base  Te 
-Tesenvolvimento,  
+Ionsiderando  essa  situação,   avalie  as  afrmações 
+a  seguir,   referentes  as  informações  dadas  ao 
+desenvolvedor.
+/.   /nicialmente,   para  ter  acesso  a  base  de 
+desenvolvimento,  
 o 
 profssional 
-Teve 
-realizar  uma  operação  Te  cUeckout  para 
-baixar  os  arquivos  To  proũeto  que  estão 
-armazenaTos no serviTor.
-//.   Na 
+deve 
+realizar  uma  operação  de  checkout  para 
+baixar  os  arquivos  do  proũeto  que  estão 
+armazenados no servidor.
+//.   Ea 
 situação 
 em 
 que 
 mais 
-Te 
+de 
 um 
-TesenvolveTor  estiver  moTifcanTo  um 
-mesmo Tocumento,  ao se tentar realizar uma 
-operação  Te  commit,   poTe  ser  necessArio 
-realizar uma operação Te tag (release) para 
-resolução To conŇito entre a versão local e 
+desenvolvedor  estiver  modifcando  um 
+mesmo documento,  ao se tentar realizar uma 
+operação  de  commit,   pode  ser  necessArio 
+realizar uma operação de tag (release) para 
+resolução do conŇito entre a versão local e 
 a versão mais recente no repositorio,  caso 
-algum TesenvolveTor tenUa submetiTo uma 
-muTança no Tocumento previamente.
-///.   No  Tesenvolvimento  Te  um  novo  caso 
-Te  uso,   em  que  Tiversos  arquivos  seũam 
-moTifcaTos,   é  recomenTaTa  a  criação  Te 
-uma ramifcação (brancU).
-/s.      versão  estAvel  é  o  ramo  principal  Te 
-Tesenvolvimento,  que segue To começo To 
-Tesenvolvimento até o momento presente.
+algum desenvolvedor tenha submetido uma 
+mudança no documento previamente.
+///.   Eo  desenvolvimento  de  um  novo  caso 
+de  uso,   em  que  diversos  arquivos  seũam 
+modifcados,   é  recomendada  a  criação  de 
+uma ramifcação (branch).
+/s.      versão  estAvel  é  o  ramo  principal  de 
+desenvolvimento,  que segue do começo do 
+desenvolvimento até o momento presente.
  correto apenas o que se afrma em
 A  / e //.
 B  / e ///.
 C  // e /s.
-M  /,  /// e /s.
-N  //,  /// e /s.
-Area livre
-*R41201726*
+D  /,  /// e /s.
+E  //,  /// e /s.

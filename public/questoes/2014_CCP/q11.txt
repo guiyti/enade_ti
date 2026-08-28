@@ -1,43 +1,14 @@
-13
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 10
-O  gerenciamento  Te  um  proũeto  inclui  ativiTaTes 
-com  o  obũetivo  Te  garantir  que  toTos  os  proTutos 
-TefniTos no seu escopo seũam entregues no prazo 
-estimaTo.   Nesse  contexto,   avalie  as  afrmações  a 
-seguir.
-/.   Técnicas como PNZT e CPM são utilizaTas para 
-obtenção  Te  estimativas  Te  esforço  e  como 
-apoio para Tefnição Te ativiTaTes.
-//.   Séries Uistoricas,  quanTo utilizaTas para obter 
-estimativas  Te  esforço  no  Tesenvolvimento 
-Te  um  novo  sistema,   levam  a  obtenção  Te 
-estimativas consistentes,  inTepenTentemente 
-To  Tomínio  Te  aplicação  Tos  sistemas  que 
-Teram origem as séries Uistoricas.
-///.   No caso Te atraso na execução To cronograma,  
-a  contratação  Te  novos  TesenvolveTores 
-assegura  que  o  proTuto  serA  entregue  Te 
-acorTo  com  o  cronograma  inicialmente 
-proposto.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.  
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-QUNSTÃO 11
-ConsiTere um esquema Te gergncia Te memoria por 
-paginação simples,  onTe a memoria İsica é TiviTiTa 
-em quaTros (frames) Te 1 <bǇte e enTereçaTa por 
-bǇte.  Os espaços Te enTereçamento Tos processos 
-são multiplos Te 1 <bǇte.    tabela Te pAginas para 
-um TeterminaTo processo P é apresentaTa a seguir,  
+QUESTÃO 11
+Ionsidere um esquema de gergncia de memoria por 
+paginação simples,  onde a memoria İsica é dividida 
+em quadros (frames) de 1 <bǇte e endereçada por 
+bǇte.  Ks espaços de endereçamento dos processos 
+são multiplos de 1 <bǇte.    tabela de pAginas para 
+um determinado processo W é apresentada a seguir,  
 em  que  o  primeiro  bit  (Bs)  mostra  se  a  pAgina  é 
-vAliTa (1) ou invAliTa (0).
+vAlida (1) ou invAlida (0).
 BV
-YuaTro (frame)
+Yuadro (frame)
 0
 1
 0010
@@ -62,23 +33,21 @@ YuaTro (frame)
 7
 0
 0110
-Com base na tabela apresentaTa,  avalie as afrmações 
+Iom base na tabela apresentada,  avalie as afrmações 
 a seguir.
-/.   O enTereço İsico é composto por 13 bits.
-//.  O  esquema  Te  gergncia  Te  memoria 
-apresentaTo reTuz a fragmentação externa.
+/.   K endereço İsico é composto por 13 bits.
+//.  K  esquema  de  gergncia  de  memoria 
+apresentado reduz a fragmentação externa.
 ///.    
-traTução 
-To 
-enTereço 
+tradução 
+do 
+endereço 
 logico 
-0110000000110  para  enTereço  físico 
+0110000000110  para  endereço  físico 
 causa exceção.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R03201413*
+D // e ///,  apenas.
+E /,  // e ///.

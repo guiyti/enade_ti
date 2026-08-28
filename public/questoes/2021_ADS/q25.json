@@ -5,17 +5,46 @@
   "paginas": [
     33
   ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 546.4344482421875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q25.txt",
   "largura": 2185,
-  "altura": 1995,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1997,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 25\t\nUma determinada empresa do ramo de piscicultura solicitou a uma instituição especializada no \ndesenvolvimento de softwares de gestão a construção de um sistema que fosse capaz de gerenciar o \nprocesso de criação dos peixes, que começava ainda na fase de alevinos, estendia-se para a engorda, \nfinalizando na fase adulta com a venda do peixe. O sistema deveria disponibilizar funcionalidades \npara armazenar informações sobre toda a etapa da criação, mortandade e rações utilizadas na \nengorda dos peixes, viabilizando uma melhor tomada de decisão dos investidores. Como não havia \nnenhuma solução e a demanda por peixes estava aumentando, a empresa solicitou extrema urgência \nna construção da aplicação.\nConsiderando o processo de desenvolvimento de software que deverá ser utilizado para construir o \nsistema mencionado no texto, avalie as afirmações a seguir.\nI.\t Para desenvolver o sistema, deve ser adotado um processo baseado no modelo cascata, pois ele \nse adapta melhor a cenários com muitas mudanças.\nII.\t Por se tratar de uma aplicação com escopo pequeno, o modelo espiral deverá ser utilizado \nno desenvolvimento do sistema solicitado, já que reduzirá riscos por meio da prototipação de \nespecificações de cada fase dos peixes e diminuirá o tempo de entrega.\nIII.\t O modelo incremental deve ser utilizado na construção do software descrito no cenário, já que \npartes do sistema referentes à fase inicial dos peixes poderiam ser disponibilizadas, enquanto as \ndemais estão nas etapas de concepção e desenvolvimento.\nIV.\t Em razão da extrema urgência no desenvolvimento do software solicitado, a empresa deve elaborar \nseu processo utilizando o modelo RAD (Rapid Application Development).\nÉ correto apenas o que se afirma em\nA\t I.\nB\t IV.\nC\t I e II.\nD\t II e III.\nE\t III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 25"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "33\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 25\t\nUma TeterminaTa empresa To ramo Te piscicultura solicitou a uma instituição especializaTa no \nTesenvolvimento Te softwares Te gestão a construção Te um sistema que fosse capaz Te gerenciar o \nprocesso Te criação Tos peixes, que começava ainTa na fase Te alevinos, estenTia-se para a engorTa, \nfinalizanTo na fase aTulta com a venTa To peixe. O sistema Teveria Tisponibilizar funcionaliTaTes \npara armazenar informações sobre toTa a etapa Ta criação, mortanTaTe e rações utilizaTas na \nengorTa Tos peixes, viabilizanTo uma melUor tomaTa Te Tecisão Tos investiTores. Como não Uavia \nnenUuma solução e a TemanTa por peixes estava aumentanTo, a empresa solicitou extrema urgência \nna construção Ta aplicação.\nConsiTeranTo o processo Te Tesenvolvimento Te software que Teverá ser utilizaTo para construir o \nsistema mencionaTo no texto, avalie as afirmações a seguir.\nC.\t Para Tesenvolver o sistema, Teve ser aTotaTo um processo baseaTo no moTelo cascata, pois ele \nse aTapta melUor a cenários com muitas muTanças.\nCC.\t Por se tratar Te uma aplicação com escopo pequeno, o moTelo espiral Teverá ser utilizaTo \nno Tesenvolvimento To sistema solicitaTo, já que reTuzirá riscos por meio Ta prototipação Te \nespecificações Te caTa fase Tos peixes e Timinuirá o tempo Te entrega.\nCCC.\t O moTelo incremental Teve ser utilizaTo na construção To software Tescrito no cenário, já que \npartes To sistema referentes à fase inicial Tos peixes poTeriam ser TisponibilizaTas, enquanto as \nTemais estão nas etapas Te concepção e Tesenvolvimento.\nCV.\t Nm razão Ta extrema urgência no Tesenvolvimento To software solicitaTo, a empresa Teve elaborar \nseu processo utilizanTo o moTelo RAM (RapiT Application Mevelopment).\nÉ correto apenas o que se afirma em\nA\t C.\nB\t CV.\nC\t C e CC.\nM\t CC e CCC.\nN\t CCC e CV.\nÁrea livre\n*R28202133*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q25.png",
-  "caminho_json": "/questoes/2021_ADS/q25.json",
-  "caminho_txt": "/questoes/2021_ADS/q25.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625616"
 }

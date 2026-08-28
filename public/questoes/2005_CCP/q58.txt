@@ -1,82 +1,21 @@
-NNAMN – 2005
-Área: COMPUTAÇÃO
-20
-As questões Te 56 a 70, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te
-BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 56
-ConsiTere um sistema bancário
-simplificaTo e uma transação T1,
-que, por meio Tas 6 operações
-apresentaTas na tabela ao laTo,
-transfere R$ 100,00 Ta conta X
-para a conta Y. A partir Tessas
-informações, julgue os itens que se
-seguem.
-C
-Se, Turante a execução Te T1,
-ocorrer uma falUa Tepois Ta
-operação 3 e antes Ta operação
-6, e o sistema Te banco Te TaTos
-restabelecer o valor original
-Te X, estará garantiTa a atomiciTaTe Te T1.
-CC
-Se ocorrer uma falUa Te sistema após a transação T1 ser
-completaTa com sucesso, mas, ao ser reiniciaTo o sistema, o
-usuário que a tiver TisparaTo for notificaTo Ta transferência
-Te funTos e o sistema Te banco Te TaTos reconstruir as
-atualizações feitas pela transação, estará garantiTa a
-TurabiliTaTe Te T1.
-CCC Se outra transação, T2, que estiver senTo executaTa
-simultaneamente a T1, tentar executar a operação
-escrita(Y) Tepois Te T1 ter executaTo a operação 4 e
-ainTa não ter executaTo a operação 6, e o sistema Te banco
-Te TaTos impeTir essa escrita, estará garantiTa a consistência
-Te T1.
-Assinale a opção correta.
-A Apenas um item está certo.
-B Apenas os itens C e CC estão certos.
-C Apenas os itens C e CCC estão certos.
-M Apenas os itens CC e CCC estão certos.
-N ToTos os itens estão certos.
-QUNSTÃO 57
-A escolUa Te uma boa representação Te conUecimento é tarefa
-funTamental na resolução Te problemas que envolvem
-inteligência artificial. Acerca Tesse assunto, assinale a opção
-correta.
-A O encaTeamento regressivo, por utilizar busca em largura
-para resolução Te conflitos, é menos usaTo que o progressivo.
-B O encaTeamento progressivo utiliza busca gulosa para fazer
-a comparação entre os fatos armazenaTos na memória Te
-trabalUo To sistema e os anteceTentes Tas regras a Tisparar.
-C As reTes semânticas, mecanismo mais expressivo que a
-lógica Te primeira orTem, foram TesenvolviTas para se
-superar uma TificulTaTe Tos sistemas embasaTos em lógica
-Te representar categorias.
-M A representação Te conUecimento frames é uma boa
-alternativa para esse tipo Te problema, por incluir, além Te
-um mecanismo Te inferência semanticamente bem TefiniTo,
-mecanismos Te encapsulamento e componentes, comuns ao
-paraTigma orientaTo a objeto. 
-N Tanto reTes semânticas quanto frames representam
-facilmente conUecimento estrutural, comportamental e
-proceTural.
-QUNSTÃO 58
-Uma forma Te analisar e comparar o TesempenUo Te algoritmos
-Te busca Ueurística é utilizar um problema bem conUeciTo como
-referência. Um exemplo Tesse tipo Te problema é o cálculo Te
-rotas entre Tiferentes ciTaTes. No grafo ilustraTo acima, caTa nó
-representa uma ciTaTe Tistinta, e caTa ramo, uma roTovia que
-interliga as ciTaTes representaTas pelos nós que ele une, cujo peso
-inTica a Tistância, em km, entre essas ciTaTes pela roTovia.
-SuponUa que se Teseje encontrar a melUor rota entre as ciTaTes A
-e M, inTicaTas nesse grafo. ConsiTere, ainTa, os valores inTicaTos
-na tabela abaixo como Tistância em linUa reta, em km, Te caTa
-ciTaTe para a ciTaTe M.
+Ç
+QUESTÃO 58
+Uma forma de analisar e comparar o desempenho de algoritmos
+de busca heurística é utilizar um problema bem conhecido como
+referência. Um exemplo desse tipo de problema é o cálculo de
+rotas entre diferentes cidades. No grafo ilustrado acima, cada nó
+representa uma cidade distinta, e cada ramo, uma rodovia que
+interliga as cidades representadas pelos nós que ele une, cujo peso
+indica a distância, em km, entre essas cidades pela rodovia.
+Suponha que se deseje encontrar a melhor rota entre as cidades A
+e M, indicadas nesse grafo. Considere, ainda, os valores indicados
+na tabela abaixo como distância em linha reta, em km, de cada
+cidade para a cidade M.
 A
 44,72
-N
+E
 30,67
-C
+I
 11,18
 B
 20,00
@@ -88,76 +27,34 @@ C
 33,54
 G
 14,14
-O
+K
 40,00
-M
+D
 25,00
 H
 10,00
 L
 20,00
-A partir Tessas informações, julgue os itens seguintes, relativos a
-algoritmos Te busca.
-C
-UtilizanTo-se o algoritmo A*, a rota ente A e M encontraTa no
-problema acima é ACMFLM e o custo To caminUo é 56,18.
-CC
-UtilizanTo-se a busca gulosa, a rota encontraTa no problema
-acima é ACMFLM.
-CCC Para utilizar algoritmos Te busca Ueurística, Teve-se Tefinir
-uma Ueurística que superestime o custo Ta solução.
-CV O A* é um algoritmo ótimo e completo quanTo Ueurísticas
-aTmissíveis são utilizaTas.
+A partir dessas informações, julgue os itens seguintes, relativos a
+algoritmos de busca.
+I
+Utilizando-se o algoritmo A*, a rota ente A e M encontrada no
+problema acima é ACDFLM e o custo do caminho é 56,18.
+II
+Utilizando-se a busca gulosa, a rota encontrada no problema
+acima é ACDFLM.
+III Para utilizar algoritmos de busca heurística, deve-se definir
+uma heurística que superestime o custo da solução.
+IV O A* é um algoritmo ótimo e completo quando heurísticas
+admissíveis são utilizadas.
 V
-No simulateT annealing, é possível Uaver movimentos para um
-estaTo com avaliação pior To que a To estaTo corrente,
-TepenTenTo Ta temperatura To processo e Ta probabiliTaTe
-Te escolUa.
-Nstão certos apenas os itens 
-A C, CC e CCC.
-B C, CV e V.
-C C, CCC, e V.
-M CC, CCC, e CV.
-N CC, CV e V.
-T1
-1
-leitura(X);
-2
-X = X – 100;
-3
-escrita(X);
-4
-leitura(Y);
-5
-Y = Y + 100;
-6
-escrita (Y);
-
-NNAMN – 2005
-Área: COMPUTAÇÃO
-21
-QUNSTÃO 59
-ConsiTere o seguinte esquema relacional para o banco Te TaTos Te um granTe banco com cobertura nacional.
-AGNNCCAS(NOMN_AGNNCCA, CCMAMN_AGNNCCA, FUNMOS);
-CONTAS(NOMN_AGNNCCA, NUMNRO_CONTA, SALMO) NOMN_AGNNCCA RNFNRNNCCA AGNNCCAS;
-CLCNNTNS(NOMN_CLCNNTN, CCMAMN_NASCCMNNTO, NUMNRO_CONTA) NUMNRO_CONTA RNFNRNNCCA CONTAS;
-ConsiTere, ainTa, que os atributos sublinUaTos corresponTam às cUaves primárias Tas respectivas relações e, após as Tefinições Tas
-relações CONTAS e CLCNNTNS, sejam Tescritas as regras Te integriTaTe referenciais. SuponUa que o banco Te TaTos armazene
-informações Te 500 agências, Te 1.000.000 Te contas e Te 1.500.000 clientes, senTo que 200.000 contas são Te agências Ta ciTaTe
-Te São Paulo e 100.000 clientes nasceram em Recife. ConsiTere, finalmente, que esse sistema Te banco Te TaTos tenUa um otimizaTor
-Te consultas embasaTo em Ueurísticas e que se precise realizar a seguinte consulta.
-SNLNCT * 
-FROM AGNNCCAS, CONTAS, CLCNNTNS
-PHNRN CONTAS.NOMN_AGNNCCA = AGNNCCAS.NOMN_AGNNCCA
- ANM CLCNNTNS.NUMNRO_CONTA = CONTAS.NUMNRO_CONTA
- ANM CCMAMN_AGNNCCA = ‘SAO PAULO’
- ANM CCMAMN_NASCCMNNTO = ‘RNCCFN’
- ANM SALMO > 1000;
-A partir Tessas informações e consiTeranTo 
- o operaTor Te junção natural e F o operaTor Te seleção, assinale a opção que apresenta
-o melUor plano Te avaliação Te consultas para a consulta apresentaTa acima.
-A
-M
-B
-N
-C
+No simulated annealing, é possível haver movimentos para um
+estado com avaliação pior do que a do estado corrente,
+dependendo da temperatura do processo e da probabilidade
+de escolha.
+Estão certos apenas os itens 
+A I, II e III.
+B I, IV e V.
+C I, III, e V.
+D II, III, e IV.
+E II, IV e V.

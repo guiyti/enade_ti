@@ -6,19 +6,56 @@
     15,
     16
   ],
-  "largura": 2306,
-  "altura": 1188,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Sistemas Operacionais"
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 170.52659606933594,
+      "coluna": 0
+    },
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 253.79556274414062,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n14\nQUNSTÃO 40 – MCSC URSCVA\nConsiTere um sistema Te locação Te filmes em que um cliente solicita a locação Te alguns filmes em MVM e após ter-se\niTentificaTo ao funcionário e escolUiTo os filmes, ele os leva para casa, sabenTo Tos prazos Te Tevolução Te caTa filme e To\nvalor To aluguel a ser pago.\nCom relação a essa situação, \na) TesenUe o Tiagrama Te Caso Te Uso corresponTente à situação apresentaTa. (valor: 2,0 pontos) \nb) Tescreva o Caso Te Uso relativamente a: atores, pré-conTições, pós-conTições e fluxo principal. (valor: 5,0 pontos) \nc) Tescreva os tratamentos Te exceção To Caso Te Uso, consiTeranTo Tuas exceções: cliente em Tébito (quitação To Tébito) e filme\nreservaTo para outro cliente (filme não poTe ser alugaTo ao cliente). (valor: 3,0 pontos)\nitem a)\nRASCUNHO\nitem b)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nitem c)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n15\n1. A seguir são apresentaTas questões objetivas e Tiscursivas TistribuíTas To seguinte moTo:\nPNRFCL MO CURSO\nNÚMNRO MAS QUNSTÕNS\nOBJNTCVAS\nMCSCURSCVAS\nBacUarelaTo em Ciência Ta Computação e\nNngenUaria Te Computação\n41 a 54\n55\nBacUarelaTo em Ciência Ta Computação \n56 a 69\n70\nNngenUaria Te Computação\n71 a 84\n85\n2. Você Teve responTer apenas às questões referentes ao perfil profissional To curso em que\nvocê está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.\n3. Favor responTer também ao questionário Te percepção sobre a prova localizaTo no final\nTeste caTerno.\nAs questões Te 41 a 55, a seguir, são comuns para os estuTantes Te cursos com perfil profissional Te \nBACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO e NNGNNHARCA MA COMPUTAÇÃO\nQUNSTÃO 41\nProcessaTores atuais incluem mecanismos para o tratamento\nTe situações especiais, conUeciTas como interrupções. Nm uma\ninterrupção, o fluxo normal Te instruções é interrompiTo para\nque a causa Ta interrupção seja trataTa. Com relação a esse\nassunto, assinale a opção correta.\nA ControlaTores Te entraTa e saíTa geram interrupções Te\nforma síncrona à execução To processaTor, para que\nnenUuma instrução fique incompleta TeviTo à ocorrência\nTa interrupção.\nB QuanTo uma interrupção ocorre, o próprio processaTor\nsalva toTo o seu contexto atual, tais como registraTores Te\nTaTos e enTereço e cóTigos Te conTição, para que esse\nmesmo contexto possa ser restauraTo pela rotina Te\natenTimento Ta interrupção.\nC O processaTor poTe auto-interromper-se para tratar\nexceções Te execução, tais como um erro em uma\noperação aritmética, uma tentativa Te execução Te\ninstrução ilegal ou uma falUa Te página em memória\nvirtual.\nM Rotinas Te tratamento Te interrupção Tevem ser executaTas\ncom o mecanismo Te interrupção inibiTo, pois esse tipo Te\nrotina não permite aninUamento.\nN O uso Te interrupção para realizar entraTa ou saíTa Te\nTaTos somente é eficiente quanTo o periférico trata\ngranTes quantiTaTes Te TaTos, como é o caso Te Tiscos\nmagnéticos e Tiscos ópticos. Para periféricos com pouco\nvolume Te TaTos, como teclaTos e mouses, o uso Te\ninterrupção é ineficiente.\nQUNSTÃO 42\nMuas possibiliTaTes para a construção Te sistemas com múltiplos\nprocessaTores são: processaTores iTênticos com um único espaço Te\nenTereçamento interligaTos por um barramento único (SMP); e\nmáquinas monoprocessaTas conectaTas por uma reTe (cluster). Com\nrelação a esses sistemas, assinale a opção correta.\nA A comunicação entre processaTores Te um cluster é,\npotencialmente, muito mais rápiTa que a comunicação entre\nprocessaTores Te um sistema SMP, pois reTes atuais possuem\ntaxa Te transmissão Ta orTem Te gigabits/s, enquanto as\nmelUores memórias operam somente com freqüências Ta orTem\nTe centenas Te megaUertz.\nB Comunicação entre processos poTe ser implementaTa Te forma\nmuito mais eficiente em um cluster que em um sistema SMP,\npois, nesse último, toTos os processos precisam compartilUar os\nmesmos Tispositivos Te entraTa e saíTa.\nC Nm um sistema SMP, é mais simples substituir um processaTor\nTefeituoso, pois, em um cluster, toTa a reTe Te comunicação\nTeve ser TesabilitaTa para que a troca seja efetuaTa sem\nprejuTicar a troca Te mensagens entre os processos.\nM Alocação Te memória para processos é muito mais simples em\num cluster, pois caTa processaTor executa um único processo na\nsua memória exclusiva e, Tessa forma, não existe o problema Te\nTistribuição Te processos no espaço Te enTereçamento único Ta\nmáquina SMP.\nN Nm um cluster, o custo Ta escalabiliTaTe é muito menor, pois,\npara a interconexão entre as máquinas, poTem ser utilizaTos\nequipamentos comuns usaTos em uma reTe local Te\ncomputaTores, ao passo que um sistema SMP exige conexões\nextras no barramento e gabinetes especiais.",
+  "caminho_png": "/questoes/2005_CCP/qd40.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/qd40.txt",
+  "largura": 2306,
+  "altura": 1482,
+  "confianca": 0.85,
+  "texto_completo": "QUESTÃO 40 – DISC URSIVA\nConsidere um sistema de locação de filmes em que um cliente solicita a locação de alguns filmes em DVD e após ter-se\nidentificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do\nvalor do aluguel a ser pago.\nCom relação a essa situação, \na) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) \nb) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) \nc) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme\nreservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)\n\n1. A seguir são apresentadas\nPERFIL DO CUR\nBacharelado em Ciência da \nEngenharia de Computação\nBacharelado em Ciência da C\nEngenharia de Computação\n2. Você deve responder apen\nvocê está inscrito, de acor\n3. Favor responder também \ndeste caderno.\nAs questões de 41 a 55, a seguir, são comuns para\nBACHARELADO EM CIÊNCIA DA COMPUT",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2005_CCP/figuras/qd40_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2005_CCP/qd40.png",
-  "caminho_json": "/questoes/2005_CCP/qd40.json",
-  "caminho_txt": "/questoes/2005_CCP/qd40.txt"
+  "categorias": [
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 40,
+      "tipo": "DISCURSIVA",
+      "pagina": 15,
+      "x": 40.91999816894531,
+      "y": 46.155609130859375,
+      "x1": 139.70399475097656,
+      "y1": 52.15561294555664,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.85,
+      "texto_original": "QUESTÃO 40 – DISC URSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297449"
 }

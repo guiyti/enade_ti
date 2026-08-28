@@ -5,17 +5,46 @@
   "paginas": [
     25
   ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 288.84,
+      "y1": 727.2,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q32.txt",
   "largura": 1129,
-  "altura": 2724,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2747,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32\nIonsidere as proposições logicas simples W, Y,  Z:\nW:  o programador lg a literatura técnica\nY:  o programador conhece o idioma inglgs\nZ:  o programador serA selecionado\nWretende-se demonstrar a validade ou invalidade do \nseguinte argumento:\nSe o programador lê a literatura técnica, então ele \nconhece inglês.\nSe o programador conhece o idioma inglês, então ele \nserá selecionado.\nO programador não será selecionado ou ele lê a \nliteratura técnica.\nLogo, o programador lê a literatura técnica se e \nsomente se conhece o idioma inglês. \nIonsiderando  as  colocações  acima,   avalie  as \nafrmações a seguir.\n/.    s  premissas  do  argumento  podem  ser \nexpressas na forma:  W ї Y,  Y ї Z e щZ v W. \n  conclusão do argumento pode ser expressa \nna forma:  W ў Y.\n//.     validade do argumento se demostra com os \npassos:  щY v W (equivalente de uma premissa),  \nW ї Z (transitividade da implicação a partir das \npremissas) e conclusão Y ў Z (conũunção de \nduas proposições condicionais e transformação \nem bicondicional).\n///.     validade do argumento se demostra com os \npassos:  Z ї W (equivalente de uma premissa),  \nY ї W (transitividade da implicação),  chegamos \na  conclusão  W  ў  Y  (conũunção  de  duas \nproposições condicionais e transformação em \nbicondicional).\n/s.   s  premissas  do  argumento  podem  ser \nexpressas na forma:  W ї Y,  Y ї Z e щZ ї W \ne a conclusão do argumento acima pode ser \nexpressa na forma:  W ї Y.\nV.   invalidade do argumento acima se demonstra \ndesta  forma:   a  proposição  logica  W  ў  Y  é \ndiferente das premissas W ї Y,  Y ї Z e щZ v W.\n\u001e correto apenas o que se afrma em\nA / e ///.\nB // e /s.\nC /,  /// e s.\nD /,  //,  /s e s.\nE //,  ///,  /s e s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 92.07929992675781,
+      "y1": 98.31988525390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "25\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 32\nConsiTere as proposições logicas simples P, Y,  Z:\nP:  o programaTor lg a literatura técnica\nY:  o programaTor conUece o iTioma inglgs\nZ:  o programaTor serA selecionaTo\nPretenTe-se Temonstrar a valiTaTe ou invaliTaTe To \nseguinte argumento:\nSe o programaTor lê a literatura técnica, então ele \nconUece inglês.\nSe o programaTor conUece o iTioma inglês, então ele \nserá selecionaTo.\nO programaTor não será selecionaTo ou ele lê a \nliteratura técnica.\nLogo, o programaTor lê a literatura técnica se e \nsomente se conUece o iTioma inglês. \nConsiTeranTo  as  colocações  acima,   avalie  as \nafrmações a seguir.\n/.    s  premissas  To  argumento  poTem  ser \nexpressas na forma:  P ї Y,  Y ї Z e щZ v P. \n  conclusão To argumento poTe ser expressa \nna forma:  P ў Y.\n//.     valiTaTe To argumento se Temostra com os \npassos:  щY v P (equivalente Te uma premissa),  \nP ї Z (transitiviTaTe Ta implicação a partir Tas \npremissas) e conclusão Y ў Z (conũunção Te \nTuas proposições conTicionais e transformação \nem biconTicional).\n///.     valiTaTe To argumento se Temostra com os \npassos:  Z ї P (equivalente Te uma premissa),  \nY ї P (transitiviTaTe Ta implicação),  cUegamos \na  conclusão  P  ў  Y  (conũunção  Te  Tuas \nproposições conTicionais e transformação em \nbiconTicional).\n/s.   s  premissas  To  argumento  poTem  ser \nexpressas na forma:  P ї Y,  Y ї Z e щZ ї P \ne a conclusão To argumento acima poTe ser \nexpressa na forma:  P ї Y.\nV.   invaliTaTe To argumento acima se Temonstra \nTesta  forma:   a  proposição  logica  P  ў  Y  é \nTiferente Tas premissas P ї Y,  Y ї Z e щZ v P.\n\u001e correto apenas o que se afrma em\nA / e ///.\nB // e /s.\nC /,  /// e s.\nM /,  //,  /s e s.\nN //,  ///,  /s e s.\nQUNSTÃO 33\n   seguinte  sequgncia  Te  instruções  logicas  e \naritméticas serA executaTa por um processaTor em \npipeline Te 5 estAgios:  busca Ta instrução,  leitura Te \nregistraTores,  execução,  acesso a memoria e escrita \nTe registraTores.    sequgncia,  no entanto,  apresenta \nconŇito Te TaTos.\nanT       Z5,  Z4,  Z3\nor         Z6,  Z4,  Z2\naTT       Z1,  Z2,  Z2\nmul       Z3,  Z2,  Z1\nsub       Z1,  Z1,  Z4\nO pipeline foi implementaTo sem UarTware aTicional \npara  a  resolução  Te  conŇitos,   mas  os  valores  Tos \nregistraTores poTem ser escritos na primeira metaTe \nTo ciclo e liTos na segunTa metaTe.  SabenTo-se que \no primeiro operanTo Tas instruções é o registraTor \nTestino,  avalie as afrmações a seguir.\n/.      troca  Te  posição  entre  as  instruções  or e\naTT soluciona o conŇito Te TaTos.\n//.     troca Te posição entre as instruções aTT e\nanT soluciona o conŇito Te TaTos.\n///.      inserção  Te  uma  operação  nop (sem \noperação) entre aTT e mul soluciona o conŇito \nTe TaTos.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R03201425*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q32.png",
-  "caminho_json": "/questoes/2014_CCP/q32.json",
-  "caminho_txt": "/questoes/2014_CCP/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234420"
 }

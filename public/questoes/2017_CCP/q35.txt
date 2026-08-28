@@ -1,37 +1,33 @@
-33
-CCÊNCCA MA COMPUTAÇÃO
-YUNSTãO 35 
-Um programaTor inexperiente estA TesenvolvenTo um sistema multitUreaT que possui Tuas estruturas 
-Te  TaTos  Tiferentes,   N1 e N2,   as  quais  armazenam  valores  inteiros.   O  acesso  concorrente  a  essas 
-estruturas é controlaTo por semAforos.  Murante sua execução,  o sistema Tispara as tUreaTs T1 e T2
-simultaneamente.    tabela a seguir possibilita uma visão em linUas gerais Tos algoritmos Tessas tUreaTs.
+QUESTÃO 35 
+hm programador inexperiente estA desenvolvendo um sistema multithread que possui duas estruturas 
+de  dados  diferentes,   E1 e E2,   as  quais  armazenam  valores  inteiros.   K  acesso  concorrente  a  essas 
+estruturas é controlado por semAforos.  Durante sua execução,  o sistema dispara as threads T1 e T2
+simultaneamente.    tabela a seguir possibilita uma visão em linhas gerais dos algoritmos dessas threads.
 T1
 T2
- loca N1
- loca N2
-Calcula a méTia M1 Tos valores Te N1
-Calcula a soma S1 Te toTos os valores Te N2
- loca N2
- loca N1
-Calcula a méTia M2 Tos valores Te N2
-Calcula a soma S2 Te toTos os valores Te N1
-Calcula M3 M1 + M2
-Calcula S3  |S1  S2|
-Soma M3 em toTos os valores Te N2
-Subtrai S2 Te toTos os valores Te N1
->ibera N1
->ibera N2
->ibera N2
->ibera N1
-Murante a execução To referiTo programa,  é possível que
-A não ocorra TeaTlocŬ,  porque a sequgncia Te alocação Tos recursos impeTe naturalmente o problema.
-B ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te não executar cAlculos 
-entre um peTiTo Te alocação e outro.
-C ocorra TeaTlocŬ,  senTo a probabiliTaTe Tessa ocorrgncia tão baixa e sua consequgncia tão inocua que 
-não UaverA comprometimento To programa.
-M não ocorra TeaTlocŬ,  TesTe que o programaTor use semAforos para controlar o acesso as estruturas 
-Te TaTos,  o que é sufciente para evitar o problema.
-N ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te solicitar o acesso as 
-estruturas Te TaTos na mesma orTem em ambas as tUreaTs.
-Area livre
-*R03201733*
+ loca E1
+ loca E2
+Ialcula a média M1 dos valores de E1
+Ialcula a soma S1 de todos os valores de E2
+ loca E2
+ loca E1
+Ialcula a média M2 dos valores de E2
+Ialcula a soma S2 de todos os valores de E1
+Ialcula M3 M1 + M2
+Ialcula S3  |S1  S2|
+^oma M3 em todos os valores de E2
+^ubtrai S2 de todos os valores de E1
+>ibera E1
+>ibera E2
+>ibera E2
+>ibera E1
+Durante a execução do referido programa,  é possível que
+A não ocorra deadlocŬ,  porque a sequgncia de alocação dos recursos impede naturalmente o problema.
+B ocorra deadlocŬ,  que pode ser evitado se o programador tomar o cuidado de não executar cAlculos 
+entre um pedido de alocação e outro.
+C ocorra deadlocŬ,  sendo a probabilidade dessa ocorrgncia tão baixa e sua consequgncia tão inocua que 
+não haverA comprometimento do programa.
+D não ocorra deadlocŬ,  desde que o programador use semAforos para controlar o acesso as estruturas 
+de dados,  o que é sufciente para evitar o problema.
+E ocorra deadlocŬ,  que pode ser evitado se o programador tomar o cuidado de solicitar o acesso as 
+estruturas de dados na mesma ordem em ambas as threads.

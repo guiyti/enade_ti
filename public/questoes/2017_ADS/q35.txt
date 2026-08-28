@@ -1,38 +1,35 @@
-39
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO 35 
-Nm um sistema ǁeb para venTa Te ingressos para sUoǁs musicais,  a equipe Te marŬeting solicitou a 
-um ǁeb Tesigner que,  na pAgina inicial,  os links para a Area Te venTa Te ingressos Te caTa sUoǁ fossem 
-imagens,  para tornar a navegação pelos conteuTos Ta pAgina mais atrativa e para que o proprio link ũA 
-servisse como material Te Tivulgação.
-  partir To prototipo Ta pAgina inicial apresentaTo e usanTo ,TM>,  o ǁeb Tesigner optou por implementar 
-caTa link Te forma que a imagem forneça um texto informativo (por meio To atributo alt) para usuArios 
-que usem leitores Te tela,  conforme a seguir.
-<a Uref="link-area-venTa-ingresso">
-   NLPJ VUF LPMJHPVORZBMSJ MOP LGHQPL¿FMomR GR VORZ C!
+QUESTÃO 35 
+Em um sistema ǁeb para venda de ingressos para shoǁs musicais,  a equipe de marŬeting solicitou a 
+um ǁeb designer que,  na pAgina inicial,  os links para a Area de venda de ingressos de cada shoǁ fossem 
+imagens,  para tornar a navegação pelos conteudos da pAgina mais atrativa e para que o proprio link ũA 
+servisse como material de divulgação.
+  partir do prototipo da pAgina inicial apresentado e usando ,dD>,  o ǁeb designer optou por implementar 
+cada link de forma que a imagem forneça um texto informativo (por meio do atributo alt) para usuArios 
+que usem leitores de tela,  conforme a seguir.
+<a href="link-area-venda-ingresso">
+   NLPJ VUF LPDJHPVKRZBMSJ DOW LGHQWL¿FDomR GR VKRZ I!
 </a>
-ConsiTeranTo  a  situação  apresentaTa,   o  uso  To  atributo  alt  e  aspectos  Ta  interação  Uumano-
-computaTor,  poTe-se afrmar que o ǁeb Tesigner atenTeu,  em sua implementação,  o requisito Te
+Ionsiderando  a  situação  apresentada,   o  uso  do  atributo  alt  e  aspectos  da  interação  humano-
+computador,  pode-se afrmar que o ǁeb designer atendeu,  em sua implementação,  o requisito de
 A  segurança no uso,  pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização,  o 
-texto informativo associaTo a imagem possibilita a iTentifcação To conteuTo To respectivo link.
-B faciliTaTe Te aprenTizaTo,  pois a comunicação visual To sistema ǁeb,  por meio To uso Te imagens,  
-aliaTa a comunicação textual,  por meio To uso Te textos informativos para caTa imagem,  aũuTa o 
-usuArio a aprenTer os caminUos Te navegação.
-C  acessibiliTaTe,  pois a possibiliTaTe Te acesso a pAgina por pessoas com Tefcigncia visual,  para 
-que interaũam com os conteuTos,  oferece conTições Te igualTaTe as pessoas na interação com o 
+texto informativo associado a imagem possibilita a identifcação do conteudo do respectivo link.
+B facilidade de aprendizado,  pois a comunicação visual do sistema ǁeb,  por meio do uso de imagens,  
+aliada a comunicação textual,  por meio do uso de textos informativos para cada imagem,  aũuda o 
+usuArio a aprender os caminhos de navegação.
+C  acessibilidade,  pois a possibilidade de acesso a pAgina por pessoas com defcigncia visual,  para 
+que interaũam com os conteudos,  oferece condições de igualdade as pessoas na interação com o 
 sistema ǁeb.
-M ergonomia,  pois o uso Te imagens em links causa um cansaço visual quanTo o sistema  ǁeb é 
-aberto em um smartpUone ou em um tablet com baixa resolução,  e o atributo alt substitui a 
+D ergonomia,  pois o uso de imagens em links causa um cansaço visual quando o sistema  ǁeb é 
+aberto em um smartphone ou em um tablet com baixa resolução,  e o atributo alt substitui a 
 imagem por texto.
-N comunicabiliTaTe,  pois se uma imagem não comunica aTequaTamente a informação TeseũaTa,  um 
-texto alternativo Teve complementar a respectiva informação,  Te forma que a interação com o sistema 
-ǁeb não seũa preũuTicaTa.
-NavegaTor
-Slogan To site
+E comunicabilidade,  pois se uma imagem não comunica adequadamente a informação deseũada,  um 
+texto alternativo deve complementar a respectiva informação,  de forma que a interação com o sistema 
+ǁeb não seũa preũudicada.
+Navegador
+Slogan do site
 145 x 95
 145 x 95
 145 x 95
 145 x 95
 145 x 95
 145 x 95
-*R41201739*

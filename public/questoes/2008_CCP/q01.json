@@ -3,25 +3,46 @@
   "numero": 1,
   "tipo": "OBJETIVA",
   "paginas": [
-    2
+    36
   ],
-  "largura": 2302,
-  "altura": 2912,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
-  ],
-  "anomalias": [],
-  "texto_completo": "1\nCOMPUTAÇÃO\nFORMAÇÃO GNRAL\nQUNSTÃO 1\nO escritor MacUaTo Te Assis (1839-1908), cujo centenário Te morte está senTo celebraTo no presente ano, retratou na\nsua obra Te ficção as granTes transformações políticas que aconteceram no Brasil nas últimas TécaTas To século XCX.\nO fragmento To romance Nsaú e Jacó, a seguir transcrito, reflete o clima político-social viviTo naquela época.\nPoTia ter siTo mais turbulento. Conspiração Uouve, Tecerto, mas uma barricaTa não faria mal. Seja como for, \nvenceu-se a campanUa. (...) MeoToro é uma bela figura. (...)\nNnquanto a cabeça Te Paulo ia formulanTo essas iTéias, a Te PeTro ia pensanTo o contrário; cUamava o \nmovimento um crime.\n— Um crime e um Tisparate, além Te ingratiTão; o imperaTor Tevia ter pegaTo os principais cabeças e manTá-los \nexecutar. \nASSCS, MacUaTo Te. \n. \n: \n. Rio Te Janeiro: Nova Aguilar, 1979.  v. 1, cap. LXVCC (Fragmento).\nNsaú e Jacó Cn Obra completa\nOs personagens a seguir estão presentes no imaginário brasileiro, como símbolos Ta Pátria.\n                                    C\n      CC\n  CCC\n      \n      \nMisponível em: www.morcegolivre.vet.br\nNRMAOOFF, George. Rio Te Janeiro, 1840-1900: Uma crônica\nfotográfica. Rio Te Janeiro: G. Nrmakoff Casa NTitorial, 2006,\np. 189.\nNRMAOOFF, \nGeorge. \nRio \nTe \nJaneiro,\n1840-1900: Uma crônica fotográfica. Rio Te\nJaneiro: G. Nrmakoff Casa NTitorial, 2006, p. 38.\nCV\nV\n \n \nLAGO, PeTro Corrêa To; BANMNCRA, Júlio. Mebret\ne o Brasil: Obra completa 1816-1831. Rio Te\nJaneiro: Capivara, 2007, p. 78.\nLAGO, PeTro Corrêa To; BANMNCRA,\nJúlio. Mebret e o Brasil: Obra completa\n1816-1831. Rio Te Janeiro: Capivara,\n2007, p. 93.\nMas imagens acima, as figuras referiTas no fragmento To romance Nsaú e Jacó são\nA C e CCC.\nB C e V.\nC CC e CCC.\nM CC e CV.\nN CC e V.",
-  "figuras": [
-    "/questoes/2008_CCP/figuras/q01_fig1.jpeg",
-    "/questoes/2008_CCP/figuras/q01_fig2.jpeg",
-    "/questoes/2008_CCP/figuras/q01_fig3.jpeg",
-    "/questoes/2008_CCP/figuras/q01_fig4.jpeg",
-    "/questoes/2008_CCP/figuras/q01_fig5.jpeg"
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 183.64669799804688,
+      "x1": 294.59999999999997,
+      "y1": 221.24667358398438,
+      "coluna": 1
+    }
   ],
   "caminho_png": "/questoes/2008_CCP/q01.png",
-  "caminho_json": "/questoes/2008_CCP/q01.json",
-  "caminho_txt": "/questoes/2008_CCP/q01.txt"
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q01.txt",
+  "largura": 1153,
+  "altura": 187,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 1\nQual o grau de dificuldade desta prova na parte de",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 35.99909973144531,
+      "y": 195.64669799804688,
+      "x1": 99.24615478515625,
+      "y1": 206.6866912841797,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 1"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:19:36.776761"
 }

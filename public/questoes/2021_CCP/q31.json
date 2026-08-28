@@ -5,17 +5,46 @@
   "paginas": [
     40
   ],
+  "segmentos": [
+    {
+      "pagina": 40,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q31.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 31\t\nSemelhante a um autômato finito mas com uma memória ilimitada e irrestrita, uma máquina de Turing é um \nmodelo muito mais preciso de um computador de propósito geral. Uma máquina de Turing pode fazer tudo o \nque um computador real pode fazer, entretanto mesmo ela não pode resolver certos problemas. Num sentido \nmuito real, esses problemas estão além dos limites teóricos da computação.\nSIPSER, M. Introdução à Teoria da Computação. 2. ed. norte-americana. Cengage CTP, 2007 (adaptado).\nConsidere a seguinte máquina de Turing M que aceita apenas números binários palíndromos cujo \ncomprimento é par.\nObservação: no diagrama, as transições estão representadas no seguinte formato: \"Leitura/Escrita \nMovimento\", onde direção pode ser \"D\" (direita) ou \"E\" (esquerda). Exemplo: \"0/B D\" significa que o \nsímbolo lido é \"0\", o símbolo escrito é \"B\" e o movimento é para a direita.\nB/B D\n0/B E\nB/B D\nB/B E\n0/B D\n1/B E\nB/B D\nB/B E\n1/B D\n0/0 E, 1/1 E\n0/0 E,\n1/1 E\n0/0 D,\n1/1 D\n0/0 D,\n1/1 D\n0/0 E,\n1/1 E\nq0\nq4\nq3\nq2\nq1\nq5\nq6\nq7\nqf\nConsiderando que o estado inicial de M é q0, que a sua fita se encontra inicializada com a entrada 110011 \ne infinitos símbolos \"B\" à esquerda e à direita, e que a cabeça de leitura encontra-se inicialmente no \nsímbolo mais à esquerda da entrada, avalie as afirmações a seguir.\nI.\t Após 4 movimentos de M, o conteúdo da fita, excluindo-se os símbolos \"B\", é \"110011\".\nII.\t Após 8 movimentos de M, o conteúdo da fita, excluindo-se os símbolos \"B\", é \"1001\". \nIII.\t A máquina irá certamente travar em um estado de aceitação. \nIV.\t Existe um autômato com pilha que também aceita a linguagem de M.\nÉ correto apenas o que se afirma em\nA\t I e II. \nB\t I e IV. \nC\t II e III. \nD\t I, III e IV. \nE\t II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Teoria da Computação e Compiladores"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 40,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 31"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "40\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 31\t\nSemelUante a um autômato finito mas com uma memória ilimitaTa e irrestrita, uma máquina Te Turing é um \nmoTelo muito mais preciso Te um computaTor Te propósito geral. Uma máquina Te Turing poTe fazer tuTo o \nque um computaTor real poTe fazer, entretanto mesmo ela não poTe resolver certos problemas. Num sentiTo \nmuito real, esses problemas estão além Tos limites teóricos Ta computação.\nSCPSNR, M. CntroTução à Teoria Ta Computação. 2. eT. norte-americana. Cengage CTP, 2007 (aTaptaTo).\nConsiTere a seguinte máquina Te Turing M que aceita apenas números binários palínTromos cujo \ncomprimento é par.\nObservação: no Tiagrama, as transições estão representaTas no seguinte formato: \"Leitura/Nscrita \nMovimento\", onTe Tireção poTe ser \"M\" (Tireita) ou \"N\" (esquerTa). Nxemplo: \"0/B M\" significa que o \nsímbolo liTo é \"0\", o símbolo escrito é \"B\" e o movimento é para a Tireita.\nB/B M\n0/B N\nB/B M\nB/B N\n0/B M\n1/B N\nB/B M\nB/B N\n1/B M\n0/0 N, 1/1 N\n0/0 N,\n1/1 N\n0/0 M,\n1/1 M\n0/0 M,\n1/1 M\n0/0 N,\n1/1 N\nq0\nq4\nq3\nq2\nq1\nq5\nq6\nq7\nqf\nConsiTeranTo que o estaTo inicial Te M é q0, que a sua fita se encontra inicializaTa com a entraTa 110011 \ne infinitos símbolos \"B\" à esquerTa e à Tireita, e que a cabeça Te leitura encontra-se inicialmente no \nsímbolo mais à esquerTa Ta entraTa, avalie as afirmações a seguir.\nC.\t Após 4 movimentos Te M, o conteúTo Ta fita, excluinTo-se os símbolos \"B\", é \"110011\".\nCC.\t Após 8 movimentos Te M, o conteúTo Ta fita, excluinTo-se os símbolos \"B\", é \"1001\". \nCCC.\t A máquina irá certamente travar em um estaTo Te aceitação. \nCV.\t Nxiste um autômato com pilUa que também aceita a linguagem Te M.\nÉ correto apenas o que se afirma em\nA\t C e CC. \nB\t C e CV. \nC\t CC e CCC. \nM\t C, CCC e CV. \nN\t CC, CCC e CV.\n*R02202140*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q31.png",
-  "caminho_json": "/questoes/2021_CCP/q31.json",
-  "caminho_txt": "/questoes/2021_CCP/q31.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187796"
 }

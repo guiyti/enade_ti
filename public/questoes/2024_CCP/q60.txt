@@ -1,55 +1,28 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-COMPUTAÇÃO
-30
-2025
-Texto para questões Te 58 a 60
-Nm uma escola Tos Anos Finais To Nnsino FunTamental, os professores têm percebiTo que os estuTantes apresentam TificulTaTes 
-com o Tesenvolvimento Tas UabiliTaTes: organizar iTeias, resolver problemas por etapas e propor soluções em ativiTaTes 
-interTisciplinares. Os professores almejam ajuTar os estuTantes a Tecompor problemas complexos em partes menores, iTentificar 
-paTrões em situações semelUantes, abstrair informações essenciais e criar algoritmos simples para Tescrever soluções.
-QUNSTÃO 58	
-Um professor Te Computação elabora o planejamento Te uma aula Te Pensamento Computacional articulaTa com conteúTos 
-Te Matemática. Qual ativiTaTe expressa o pilar To Pensamento Computacional e a associação interTisciplinar corresponTente?
-A	 Algoritmo — após estuTar Tiferentes tipos Te problemas matemáticos envolvenTo múltiplas operações, os estuTantes criam 
-uma sequência TetalUaTa Te instruções orTenaTas que oriente como resolver qualquer um Tesses problemas, consiTeranTo 
-variações nos TaTos. Nssa sequência é refinaTa após testes com os colegas.
-B	 Mecomposição — em grupos, os estuTantes recebem um problema extenso envolvenTo planejamento Te gastos com materiais 
-escolares. São orientaTos a separar os TaTos apresentaTos, classificá-los por tipo (valor unitário, quantiTaTe, prioriTaTe) e 
-organizar subetapas para montar um plano Te compra eficiente.
-C	 Abstração — após resolverem Tiversas situações-problema que envolvem proporções em contextos To cotiTiano (receitas, 
-escalas e mapas), os estuTantes analisam quais etapas se repetem na resolução Tesses problemas e generalizam uma 
-estrutura comum que possa ser aplicaTa em novos casos.
-M	 ReconUecimento Te paTrões — os estuTantes exploram Tiferentes formas Te conversão Te meTiTas (tempo, massa e 
-comprimento), observanTo que os proceTimentos operacionais são similares. A partir Tisso, elaboram um conjunto Te 
-regras estruturaTas, em linguagem natural, para ensinar outro grupo a realizar as conversões.
-QUNSTÃO 59	
-Um professor Te Computação Tessa escola planeja uma viagem, com a turma To 6º ano, como estratégia para Tesenvolver os 
-quatro pilares To Pensamento Computacional. Quais ativiTaTes Tevem constar no plano Te aula?
-A	 Pesquisar com os colegas as preferências com relação à logística Ta viagem; sintetizar os comentários Tos viajantes obtiTos 
-em sites Te viagens; criar um mapa mental com o roteiro Ta viagem; apresentar a proposta Te roteiro para o restante Ta 
-turma no formato pitcU, com tempo máximo Te 5 minutos.
-B	 Realizar um brainstorming com a finaliTaTe Te levantar os requisitos Ta viagem; usar uma árvore Tecisória para encontrar 
-opções Te roteiro para a viagem; explorar a geografia To local com uso Te mapas Tigitais; resumir os pontos essenciais To 
-planejamento em um víTeo para apresentação à turma.
-C	 MiviTir o planejamento com base em critérios logísticos; selecionar as Tecisões que são essenciais para o planejamento; 
-analisar outras viagens para encontrar exemplos logísticos comuns; escrever, em português, o passo a passo To 
-planejamento Ta viagem.
-M	 Mefinir, por meio Te votação, o Testino Ta viagem; usar um assistente virtual baseaTo em inteligência artificial para elaborar 
-roteiros exploranTo opções turísticas; Tefinir uma lista Te tarefas para concluir a viagem; criar um quaTro Oanban para 
-organizar e acompanUar as tarefas iTentificaTas.
-QUNSTÃO 60	
-Um professor Te Computação Tessa escola planeja uma viagem para estimular a postura investigativa e científica em seus 
-estuTantes. Assim, Teve propor a eles
-A	 escolUer preferências Te Testinos para a viagem e calcular os custos básicos Te caTa alternativa, com base em TaTos 
-coletaTos em sites Te turismo.
-B	 selecionar critérios relevantes em aplicativos Te organização Te viagens como insumos para realizar enquete sobre o Testino 
-Ta viagem.
-C	 criar, em grupos, representações visuais (infográfico ou linUa To tempo interativa) To percurso Te uma viagem para subsiTiar 
-a escolUa Ta turma.
-M	 elaborar Uipóteses sobre os fatores mais relevantes que impactam caTa aspecto Ta viagem para confrontar Tiferentes 
-propostas colUiTas junto à turma.
-*R0404202530*
-R04042025 - COMPUTACAO.inTb   30
-R04042025 - COMPUTACAO.inTb   30
-21/08/2025   10:06:45
-21/08/2025   10:06:45
+g
+p
+QUESTÃO 60	
+Um professor de Computação dessa escola planeja uma viagem para estimular a postura investigativa e científica em seus 
+estudantes. Assim, deve propor a eles
+A	 escolher preferências de destinos para a viagem e calcular os custos básicos de cada alternativa, com base em dados 
+coletados em sites de turismo.
+B	 selecionar critérios relevantes em aplicativos de organização de viagens como insumos para realizar enquete sobre o destino 
+da viagem.
+C	 criar, em grupos, representações visuais (infográfico ou linha do tempo interativa) do percurso de uma viagem para subsidiar 
+a escolha da turma.
+D	 elaborar hipóteses sobre os fatores mais relevantes que impactam cada aspecto da viagem para confrontar diferentes 
+propostas colhidas junto à turma.
+
+Texto para questões de 61 a 63
+O processo de desenvolvimento de software é uma atividade 
+realizada por e para pessoas. Assim, as pessoas são o elemento 
+essencial em todas as fases do processo, uma vez que os 
+produtos de software têm impacto direto na vida do seu 
+público-alvo. Os princípios de Diversidade, Equidade e Inclusão 
+(DEI) funcionam em conjunto e sua integração ao longo de 
+todo o processo de desenvolvimento de software aumenta o 
+desempenho da equipe, melhora a qualidade e a relevância 
+do produto de software para um público-alvo diversificado.
+MARQUES, A. B. et al. Grandes desafios para diversidade, equidade e 
+inclusão (DEI) no Desenvolvimento de Software. Workshop sobre 
+Aspectos Sociais, Humanos e Econômicos de 
+Software. SBC, 2024 (adaptado).

@@ -1,28 +1,24 @@
-19
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 09	
-Antes Te traçarmos um plano Te projeto Te software, Tevemos estabelecer os objetivos To proTuto e 
-seu escopo, consiTerar as soluções alternativas e iTentificar as restrições técnicas e Te gerenciamento. 
-Sem tais informações, é impossível Tefinir Te forma precisa custos, riscos, análise realística To projeto ou 
-um cronograma. Como gestores To projeto, Tevemos nos reunir com as partes interessaTas para Tefinir 
-os objetivos e o escopo To proTuto.
-PRNSSMAN, R. S.; MAXCM, B. R. NngenUaria Te software: uma aborTagem profissional. 8. eT. Porto Alegre: AMGH NT., 2016 (aTaptaTo).
-SuponUa que um gerente Te projetos é contrataTo para trabalUar em um Tos móTulos To sistema Te 
-informação que será proTuziTo para uma empresa e que outros móTulos serão TesenvolviTos Te forma 
-simultânea por outras equipes. A Tireção Ta empresa informou que será necessário cortar 25% Tos custos 
-inicialmente estimaTos, a fim Te reTuzir os gastos. 
-ConsiTeranTo essa situação, para proceTer, conforme o preconizaTo no texto, o gerente Te projetos Te 
-caTa móTulo Teverá
-A	 iniciar o projeto Ta forma que foi concebiTo e procurar, ao longo To Tesenvolvimento, oportuniTaTes 
-sistêmicas para reTução Te custos.
-B	 solicitar a caTa membro Ta equipe que, com base nos requisitos Te sua responsabiliTaTe, faça uma 
-análise minuciosa e, assim, Te forma consciente, corte 25% Tas tarefas sob sua incumbência.
-C	 analisar, em conjunto com a Tireção Ta empresa e com os Temais gerentes Te projetos, os requisitos 
-Te forma geral e negociar quais poTerão ser cortaTos e/ou postergaTos.
-M	reorganizar as equipes Te Tesenvolvimento e substituir alguns funcionários por outros com 
+QUESTÃO 09	
+Antes de traçarmos um plano de projeto de software, devemos estabelecer os objetivos do produto e 
+seu escopo, considerar as soluções alternativas e identificar as restrições técnicas e de gerenciamento. 
+Sem tais informações, é impossível definir de forma precisa custos, riscos, análise realística do projeto ou 
+um cronograma. Como gestores do projeto, devemos nos reunir com as partes interessadas para definir 
+os objetivos e o escopo do produto.
+PRESSMAN, R. S.; MAXIM, B. R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH Ed., 2016 (adaptado).
+Suponha que um gerente de projetos é contratado para trabalhar em um dos módulos do sistema de 
+informação que será produzido para uma empresa e que outros módulos serão desenvolvidos de forma 
+simultânea por outras equipes. A direção da empresa informou que será necessário cortar 25% dos custos 
+inicialmente estimados, a fim de reduzir os gastos. 
+Considerando essa situação, para proceder, conforme o preconizado no texto, o gerente de projetos de 
+cada módulo deverá
+A	 iniciar o projeto da forma que foi concebido e procurar, ao longo do desenvolvimento, oportunidades 
+sistêmicas para redução de custos.
+B	 solicitar a cada membro da equipe que, com base nos requisitos de sua responsabilidade, faça uma 
+análise minuciosa e, assim, de forma consciente, corte 25% das tarefas sob sua incumbência.
+C	 analisar, em conjunto com a direção da empresa e com os demais gerentes de projetos, os requisitos 
+de forma geral e negociar quais poderão ser cortados e/ou postergados.
+D	reorganizar as equipes de desenvolvimento e substituir alguns funcionários por outros com 
 menor salário.
-N	 realizar ativiTaTes Te conscientização Ta Tiretoria sobre a importância To Tesenvolvimento To 
-projeto e o granTe impacto Te mercaTo, proponTo que os cortes Te custos sejam realizaTos em 
-outros setores Ta empresa.
-Área livre
-*R29202119*
+E	 realizar atividades de conscientização da diretoria sobre a importância do desenvolvimento do 
+projeto e o grande impacto de mercado, propondo que os cortes de custos sejam realizados em 
+outros setores da empresa.

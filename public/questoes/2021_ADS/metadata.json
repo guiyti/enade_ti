@@ -8,6 +8,17 @@
   "questoes_extraidas": 40,
   "score_geral": 100.0,
   "tipo_pdf": "digital",
+  "layout_profile": {
+    "id_prova": "2021_ADS",
+    "page_width": 566.9,
+    "page_height": 779.5,
+    "header_cutoff_y": 74.5,
+    "footer_cutoff_y": 744.6,
+    "min_marker_y": 76.5,
+    "margin_x": 25.0,
+    "detected_headers": 49,
+    "detected_footers": 92
+  },
   "questoes": [
     {
       "id_questao": "qd01",
@@ -18,8 +29,8 @@
         3
       ],
       "largura": 2185,
-      "altura": 3929,
-      "confianca": 0.98,
+      "altura": 4037,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -38,8 +49,8 @@
         4
       ],
       "largura": 2185,
-      "altura": 1375,
-      "confianca": 0.98,
+      "altura": 1377,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -58,8 +69,8 @@
         5
       ],
       "largura": 2185,
-      "altura": 2159,
-      "confianca": 0.98,
+      "altura": 2161,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -79,8 +90,8 @@
         7
       ],
       "largura": 2185,
-      "altura": 5153,
-      "confianca": 0.98,
+      "altura": 5261,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -99,8 +110,8 @@
         8
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -119,8 +130,8 @@
         9
       ],
       "largura": 2185,
-      "altura": 2127,
-      "confianca": 0.98,
+      "altura": 2129,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -140,8 +151,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 3779,
-      "confianca": 0.98,
+      "altura": 3887,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -160,8 +171,8 @@
         11
       ],
       "largura": 2185,
-      "altura": 1686,
-      "confianca": 0.98,
+      "altura": 1790,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -180,8 +191,8 @@
         12
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -200,8 +211,8 @@
         13
       ],
       "largura": 2185,
-      "altura": 2159,
-      "confianca": 0.98,
+      "altura": 2161,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Formação Geral e Sociedade"
@@ -220,8 +231,8 @@
         14
       ],
       "largura": 2185,
-      "altura": 630,
-      "confianca": 0.98,
+      "altura": 632,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -240,8 +251,8 @@
         15
       ],
       "largura": 2185,
-      "altura": 1241,
-      "confianca": 0.98,
+      "altura": 1243,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -261,8 +272,8 @@
         17
       ],
       "largura": 2185,
-      "altura": 3504,
-      "confianca": 0.98,
+      "altura": 3884,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -281,8 +292,8 @@
         18
       ],
       "largura": 2185,
-      "altura": 888,
-      "confianca": 0.98,
+      "altura": 890,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -302,8 +313,8 @@
         19
       ],
       "largura": 2185,
-      "altura": 4578,
-      "confianca": 0.98,
+      "altura": 4788,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -322,8 +333,8 @@
         20
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -342,8 +353,8 @@
         20
       ],
       "largura": 1095,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -362,8 +373,8 @@
         21
       ],
       "largura": 2185,
-      "altura": 2226,
-      "confianca": 0.98,
+      "altura": 2228,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Algoritmos e Estruturas de Dados"
@@ -382,11 +393,11 @@
         22
       ],
       "largura": 2185,
-      "altura": 995,
-      "confianca": 0.98,
+      "altura": 997,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q14.png",
@@ -403,11 +414,12 @@
         23
       ],
       "largura": 2185,
-      "altura": 6797,
+      "altura": 7489,
       "confianca": 0.9,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Engenharia de Software",
+        "Arquitetura e Organização de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q15.png",
@@ -422,9 +434,9 @@
       "paginas": [
         24
       ],
-      "largura": 2185,
-      "altura": 2532,
-      "confianca": 0.98,
+      "largura": 1095,
+      "altura": 5342,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -443,8 +455,8 @@
         25
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Banco de Dados"
@@ -463,8 +475,8 @@
         26
       ],
       "largura": 2185,
-      "altura": 1720,
-      "confianca": 0.98,
+      "altura": 1722,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -483,8 +495,8 @@
         27
       ],
       "largura": 2185,
-      "altura": 1701,
-      "confianca": 0.98,
+      "altura": 1703,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -503,8 +515,8 @@
         28
       ],
       "largura": 2185,
-      "altura": 2086,
-      "confianca": 0.98,
+      "altura": 2088,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -523,8 +535,8 @@
         29
       ],
       "largura": 2185,
-      "altura": 1325,
-      "confianca": 0.98,
+      "altura": 1327,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -543,8 +555,8 @@
         30
       ],
       "largura": 2185,
-      "altura": 1642,
-      "confianca": 0.98,
+      "altura": 1644,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -562,12 +574,12 @@
       "paginas": [
         31
       ],
-      "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "largura": 1095,
+      "altura": 5631,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Engenharia de Software"
+        "Governança e Gestão de TI"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q23.png",
@@ -583,8 +595,8 @@
         32
       ],
       "largura": 2185,
-      "altura": 1999,
-      "confianca": 0.98,
+      "altura": 2001,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -603,8 +615,8 @@
         33
       ],
       "largura": 2185,
-      "altura": 1995,
-      "confianca": 0.98,
+      "altura": 1997,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -623,12 +635,12 @@
         34
       ],
       "largura": 2185,
-      "altura": 2135,
-      "confianca": 0.98,
+      "altura": 2137,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Governança e Gestão de TI",
-        "Formação Geral e Sociedade"
+        "Formação Geral e Sociedade",
+        "Segurança da Informação"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q26.png",
@@ -644,11 +656,12 @@
         35
       ],
       "largura": 2185,
-      "altura": 2392,
-      "confianca": 0.98,
+      "altura": 2394,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Arquitetura e Organização de Computadores",
+        "Redes de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q27.png",
@@ -664,11 +677,11 @@
         36
       ],
       "largura": 2185,
-      "altura": 1091,
-      "confianca": 0.98,
+      "altura": 1093,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Sistemas Operacionais e Arquitetura"
+        "Sistemas Operacionais"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q28.png",
@@ -684,8 +697,8 @@
         36
       ],
       "largura": 2185,
-      "altura": 1673,
-      "confianca": 0.98,
+      "altura": 1777,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -704,11 +717,11 @@
         37
       ],
       "largura": 2185,
-      "altura": 1980,
-      "confianca": 0.98,
+      "altura": 1982,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
-        "Redes e Segurança"
+        "Redes de Computadores"
       ],
       "anomalias": [],
       "caminho_png": "/questoes/2021_ADS/q30.png",
@@ -724,8 +737,8 @@
         38
       ],
       "largura": 2185,
-      "altura": 2449,
-      "confianca": 0.98,
+      "altura": 2451,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -744,8 +757,8 @@
         39
       ],
       "largura": 2185,
-      "altura": 1373,
-      "confianca": 0.98,
+      "altura": 1375,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Inteligência Artificial e Dados"
@@ -764,8 +777,8 @@
         40
       ],
       "largura": 2185,
-      "altura": 1860,
-      "confianca": 0.98,
+      "altura": 1862,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -784,8 +797,8 @@
         41
       ],
       "largura": 2185,
-      "altura": 1842,
-      "confianca": 0.98,
+      "altura": 1844,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"
@@ -804,8 +817,8 @@
         42
       ],
       "largura": 2185,
-      "altura": 2717,
-      "confianca": 0.98,
+      "altura": 2823,
+      "confianca": 1.0,
       "status": "APROVADA",
       "categorias": [
         "Engenharia de Software"

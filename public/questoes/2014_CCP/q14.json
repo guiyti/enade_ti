@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 294.84,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 344.27606201171875,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q14.txt",
   "largura": 1130,
-  "altura": 1152,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1151,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 14\n^eũa o universo h с ΂10,  20,  30,  40΃ e o conũunto dos \nnumeros  naturais  E.   Iom  base  no  conhecimento \nsobre a logica de predicados,  avalie as afrmações \na seguir.\n/.   , с (׊x א E)(׌Ǉ א h)(x ф Ǉ) é vAlida.\n//.   , с (׊x א E)(׌Ǉ א E)(Ǉ ф x) é vAlida.\n///.  , с (׊x א h)(׌Ǉ א h)(x х Ǉ) é invAlida,  sendo \nx с 10 um contra-exemplo.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Teoria da Computação e Compiladores"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 298.9193115234375,
+      "y": 86.31988525390625,
+      "x1": 361.37213134765625,
+      "y1": 98.31988525390625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 14"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "15\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 13\n   fgura  a  seguir  apresenta  uma  Arvore  binAria  Te \npesquisa,   que  mantém  a  seguinte  proprieTaTe \nfunTamental:   o  valor  associaTo  a  raiz  é  sempre \nmenor To que o valor Te toTos os nos Ta subArvore \na Tireita e sempre maior To que o valor Te toTos os \nnos Ta subArvore a esquerTa.\n10\n7\n15\n13\n14\n17\n20\n25\n \nNm relação a Arvore apresentaTa na fgura,  avalie as \nafrmações a seguir.\n/.      Arvore  possui  a  vantagem  Te  realizar  a \nbusca Te elementos Te forma efciente,  como \na busca binAria em um vetor.\n//.     Arvore estA TesbalanceaTa,  pois a subArvore \nTa esquerTa possui um numero Te nos maior \nTo que a subArvore Ta Tireita.\n///.   YuanTo  a  Arvore  é  percorriTa  utilizanTo \no  métoTo  Te  caminUamento  pos-orTem,  \nos  valores  são  encontraTos  em  orTem \nTecrescente.\n/s.   O  numero  Te  comparações  realizaTas  em \nfunção To numero n Te elementos na Arvore \nem uma busca binAria realizaTa com sucesso \né O(log n).\n\u001e correto apenas o que se afrma em\nA / e ///.\nB / e /s.\nC // e ///.\nM /,  // e /s.\nN //,  /// e /s.\nQUNSTÃO 14\nSeũa o universo U с ΂10,  20,  30,  40΃ e o conũunto Tos \nnumeros  naturais  N.   Com  base  no  conUecimento \nsobre a logica Te preTicaTos,  avalie as afrmações \na seguir.\n/.   , с (׊x א N)(׌Ǉ א U)(x ф Ǉ) é vAliTa.\n//.   , с (׊x א N)(׌Ǉ א N)(Ǉ ф x) é vAliTa.\n///.  , с (׊x א U)(׌Ǉ א U)(x х Ǉ) é invAliTa,  senTo \nx с 10 um contra-exemplo.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 15\nConsiTere  as  seguintes  expressões  regulares  cuũo \nalfabeto é ΂a,  b΃.\nZ1 с a(a U b)Ύ\nZ2 с b(a U b)Ύ\nSe  >(Z)  é  a  linguagem  associaTa  a  uma  expressão \nregular Z,  é correto afrmar que\nA >(Z1) с >(Z2).\nB >(Z2) с ΂ǁ ͮ  ǁ termina com b΃.\nC existe  um  autƀmato  fnito  Teterminístico  cuũa \nlinguagem é igual a >(Z1) U >(Z2).\nM se  Z3  é  uma  expressão  regular  tal  que \n>(Z3) с >(Z1) ŀ >(Z2),  então >(Z3) é uma \nlinguagem infinita.\nN um  autƀmato  fnito  não  Teterminístico  que \nreconUeça >(Z1) U >(Z2) tem,  pelo menos,  quatro \nestaTos.\nÁRNA LCVRN\n*R03201415*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q14.png",
-  "caminho_json": "/questoes/2014_CCP/q14.json",
-  "caminho_txt": "/questoes/2014_CCP/q14.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234332"
 }

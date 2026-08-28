@@ -5,19 +5,48 @@
   "paginas": [
     12
   ],
-  "largura": 2254,
-  "altura": 2724,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 727.2,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "12\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 09\n  fgura a seguir apresenta Tuas telas Te um sistema Te venTa Te passagens aéreas Te uma empresa.  Na tela 1,  \no usuArio selecionou sua origem,  seu Testino,  e,  logo em seguiTa,  sua Tata Te iTa.   o muTar o foco para o \ncampo Te preencUimento Ta Tata Te retorno,  a ferramenta Te calenTArio apresentou automaticamente a \nTata To Tia Ta compra (01ͬ 09ͬ 2014),  conforme exibiTo na tela 2.\nCom base nas telas apresentaTas e em Timensões Te qualiTaTe,  tais como faciliTaTe Te aprenTizagem,  \nprevenção Te erros,  efcigncia,  memorização e satisfação subũetiva,  avalie as afrmações a seguir.\n/.   O botão \" /r\"  apresenta uma metAfora aTequaTa com o munTo real,  facilitanTo a aprenTizagem.\n//.   Na tela 1,  o uso To calenTArio clicAvel não auxilia na prevenção Te erros,  visto que a entraTa Te Tatas \npoTe ser realizaTa manualmente pelos usuArios.\n///.  Na tela 2,  o fato Te o calenTArio selecionar a Tata Ta compra preũuTica a efcigncia Ta interface,  ũA \nque a Tata preencUiTa é anterior a Tata Te iTa.\n/s.     memorização é preũuTicaTa pois a interface apresenta elementos grAfcos em Temasia.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e /s.\nM /,  /// e /s.\nN //,  /// e /s.\n*R03201412*",
+  "caminho_png": "/questoes/2014_CCP/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q09.txt",
+  "largura": 2254,
+  "altura": 2747,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 09\n  fgura a seguir apresenta duas telas de um sistema de venda de passagens aéreas de uma empresa.  Ea tela 1,  \no usuArio selecionou sua origem,  seu destino,  e,  logo em seguida,  sua data de ida.   o mudar o foco para o \ncampo de preenchimento da data de retorno,  a ferramenta de calendArio apresentou automaticamente a \ndata do dia da compra (01ͬ 09ͬ 2014),  conforme exibido na tela 2.\nIom base nas telas apresentadas e em dimensões de qualidade,  tais como facilidade de aprendizagem,  \nprevenção de erros,  efcigncia,  memorização e satisfação subũetiva,  avalie as afrmações a seguir.\n/.   K botão \" /r\"  apresenta uma metAfora adequada com o mundo real,  facilitando a aprendizagem.\n//.   Ea tela 1,  o uso do calendArio clicAvel não auxilia na prevenção de erros,  visto que a entrada de datas \npode ser realizada manualmente pelos usuArios.\n///.  Ea tela 2,  o fato de o calendArio selecionar a data da compra preũudica a efcigncia da interface,  ũA \nque a data preenchida é anterior a data de ida.\n/s.     memorização é preũudicada pois a interface apresenta elementos grAfcos em demasia.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e /s.\nD /,  /// e /s.\nE //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2014_CCP/figuras/q09_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2014_CCP/q09.png",
-  "caminho_json": "/questoes/2014_CCP/q09.json",
-  "caminho_txt": "/questoes/2014_CCP/q09.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 92.07929992675781,
+      "y1": 98.31988525390625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 09"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234306"
 }

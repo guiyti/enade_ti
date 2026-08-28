@@ -5,19 +5,48 @@
   "paginas": [
     2
   ],
-  "largura": 2475,
-  "altura": 1960,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 546.0209350585938,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nFORMAÇÃO GNRAL MOCNNTN\n2\n2025\nQUNSTÃO 01\t\nTNXTO 1\nMisponível em: www.eTucaTorinclusivo.org.br. Acesso em: 15 ago. 2025 (aTaptaTo).\nTNXTO 2\nNm uma sala Te aula To Nnsino FunTamental, uma turma recebeu um estuTante surTo e que se comunicava por meio Ta Língua \nBrasileira Te Sinais (Libras). ConsiTeranTo que o professor regente não era fluente em Libras, para garantir a participação To \nestuTante nas ativiTaTes, a escola contratou um intérprete que aTaptava e conTuzia as ativiTaTes peTagógicas com o estuTante \nsem a participação To professor.\nAo relacionar a situação Tescrita no Texto 2 com a figura apresentaTa no Texto 1, conclui-se que está ocorrenTo um processo Te\nA\t exclusão, pois o professor não Tialoga Tiretamente com o estuTante surTo.\nB\t segregação, porque a turma não consegue se comunicar com o estuTante surTo.\nC\t inclusão, porque o estuTante surTo participa regularmente Tas aulas com a turma.\nM\t integração, porque o intérprete estabelece uma relação inTiviTual com o estuTante surTo.\nQUNSTÃO 02\t\nUm professor, Tiante Te questionamentos acerca Ta eficácia Tas vacinas na comuniTaTe, propõe aos estuTantes a realização Te \npráticas peTagógicas sobre a relação entre o aumento Ta ocorrência Te Toenças que Uaviam siTo erraTicaTas e o baixo ínTice \nTe vacinação referente aos imunizantes To Programa Nacional Te Cmunizações (PNC). ConsiTeranTo o papel Ta escola como \nespaço Te promoção To letramento científico, o professor inicia um projeto Te conscientização Ta comuniTaTe escolar quanto \nà importância Ta atualização Tas carteiras vacinais e To combate à Tesinformação. A fim Te atenTer aos objetivos To projeto, \nfoi elaboraTa uma proposta Te prática peTagógica.\nPara que essa proposta promova o letramento científico, o professor Teve\nA\t solicitar uma pesquisa em que os estuTantes façam um levantamento junto aos familiares relativo a penTências na carteira \nTe vacinação.\nB\t Tesenvolver um projeto interTisciplinar em que os estuTantes investiguem TaTos científicos sobre vacinação e apresentem \nos resultaTos em uma feira Te ciências com a participação Ta comuniTaTe escolar.\nC\t promover roTas Te conversa em que os estuTantes construam um espaço Te escuta e reflexão coletiva sobre a importância \nTo conUecimento para a tomaTa Te Tecisão em relação à escolUa Tas melUores vacinas.\nM\t propor uma prática peTagógica em que os estuTantes tenUam acesso aos materiais informativos Ta campanUa Te vacinação \norganizaTa pela Secretaria Te SaúTe na própria uniTaTe escolar.\n*R040420252*\nR04042025 - COMPUTACAO.inTb   2\nR04042025 - COMPUTACAO.inTb   2\n21/08/2025   10:06:29\n21/08/2025   10:06:29",
+  "caminho_png": "/questoes/2024_CCP/q01.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q01.txt",
+  "largura": 2475,
+  "altura": 1951,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 01\t\nTEXTO 1\nDisponível em: www.educadorinclusivo.org.br. Acesso em: 15 ago. 2025 (adaptado).\nTEXTO 2\nEm uma sala de aula do Ensino Fundamental, uma turma recebeu um estudante surdo e que se comunicava por meio da Língua \nBrasileira de Sinais (Libras). Considerando que o professor regente não era fluente em Libras, para garantir a participação do \nestudante nas atividades, a escola contratou um intérprete que adaptava e conduzia as atividades pedagógicas com o estudante \nsem a participação do professor.\nAo relacionar a situação descrita no Texto 2 com a figura apresentada no Texto 1, conclui-se que está ocorrendo um processo de\nA\t exclusão, pois o professor não dialoga diretamente com o estudante surdo.\nB\t segregação, porque a turma não consegue se comunicar com o estudante surdo.\nC\t inclusão, porque o estudante surdo participa regularmente das aulas com a turma.\nD\t integração, porque o intérprete estabelece uma relação individual com o estudante surdo.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2024_CCP/figuras/q01_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2024_CCP/q01.png",
-  "caminho_json": "/questoes/2024_CCP/q01.json",
-  "caminho_txt": "/questoes/2024_CCP/q01.txt"
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 1,
+      "tipo": "OBJETIVA",
+      "pagina": 2,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 01"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062256"
 }

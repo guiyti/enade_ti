@@ -5,17 +5,46 @@
   "paginas": [
     28
   ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 340.86700439453125,
+      "x1": 611.7199999999999,
+      "y1": 473.24810791015625,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q53.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q53.txt",
   "largura": 2475,
   "altura": 582,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "g\np\nq\nQUESTÃO 53\t\nDurante o planejamento de uma sequência didática sobre a história e evolução da Computação, um professor decide criar um \nmaterial de apoio digital com recursos multimídia acessíveis. Considerando esse objetivo e o papel do professor discutido no \ntexto, propõe-se a produzir um(a)\nA\t site com exposição virtual de fotos e imagens que destaque os marcos relevantes, com música e narração automática.\nB\t linha do tempo visual com elementos interativos, apoiada por um podcast narrativo e descrição textual detalhada das imagens.\nC\t conjunto de mapas conceituais temáticos interativos sobre o assunto, com links para vídeos explicativos e resumo em texto.\nD\t narrativa digital com uso de vídeo, combinando imagens, trilha sonora e narração para apresentar o conteúdo.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 53,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 64.6063003540039,
+      "y": 352.86700439453125,
+      "x1": 124.34291076660156,
+      "y1": 368.135009765625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 53"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n28\n2025\nTexto para questões Te 52 a 54\nO Brasil, em 2022, contava com 18,6 milUões Te pessoas com algum tipo Te Teficiência, o que representa 8,9% Ta população \ncom 2 anos ou mais. Messe total, segunTo o CBGN, apenas 24,3% Tas pessoas com Teficiência tinUam acesso regular à internet. \nTais TaTos revelam a urgência Te políticas públicas eTucacionais e práticas peTagógicas que não apenas ampliem o acesso, \nmas que também garantam a acessibiliTaTe Tigital e comunicacional em sentiTo amplo. O eTucaTor Teve aTotar estratégias \npeTagógicas que promovam a inclusão social e Tigital em sala Te aula. Csso implica a seleção Te tecnologias que atenTam aos \nTiferentes tipos Te Teficiência — visual, auTitiva, motora, intelectual e múltiplas — e que consiTerem Tiferentes linguagens: \nvisual, sonora, tátil, textual e simbólica (Lei n. 13 146/15). Para além Ta seleção aTequaTa Tos recursos, espera-se, também, \nque o professor Tesenvolva nos estuTantes as competências investigativas e científicas, capazes Te proTuzir e Tisseminar o \nconUecimento Te forma crítica e colaborativa.\nQUNSTÃO 52\t\nUm professor Te Computação To Nnsino FunTamental está elaboranTo materiais Tigitais e precisa tornar um infográfico acessível \na estuTantes com os Tiversos tipos Te Teficiência visual. Para atenTer a essa necessiTaTe, ele Teverá aTaptar o infográfico\nA\t utilizanTo fonte ampliaTa e cores aTequaTas para facilitar a leitura por pessoas com baixa visão.\nB\t incluinTo um botão Te zoom automático para melUorar a visualização em Tispositivos móveis.\nC\t inserinTo Tescrição textual alternativa para torná-lo compatível com leitores Te tela.\nM\t acrescentanTo mais texto embutiTo nas imagens para aTequá-las a recursos Te acessibiliTaTe.\nQUNSTÃO 53\t\nMurante o planejamento Te uma sequência TiTática sobre a Uistória e evolução Ta Computação, um professor TeciTe criar um \nmaterial Te apoio Tigital com recursos multimíTia acessíveis. ConsiTeranTo esse objetivo e o papel To professor TiscutiTo no \ntexto, propõe-se a proTuzir um(a)\nA\t site com exposição virtual Te fotos e imagens que Testaque os marcos relevantes, com música e narração automática.\nB\t linUa To tempo visual com elementos interativos, apoiaTa por um poTcast narrativo e Tescrição textual TetalUaTa Tas imagens.\nC\t conjunto Te mapas conceituais temáticos interativos sobre o assunto, com links para víTeos explicativos e resumo em texto.\nM\t narrativa Tigital com uso Te víTeo, combinanTo imagens, trilUa sonora e narração para apresentar o conteúTo.\nQUNSTÃO 54\t\nUm professor Te Computação está planejanTo uma ativiTaTe sobre a evolução Ta internet e seus impactos socioculturais, com \na finaliTaTe Te Tisseminar conUecimentos Te forma crítica e colaborativa. Assim, Teve propor aos estuTantes que\nA\t pesquisem sobre os marcos Uistóricos e o Tesenvolvimento Ta internet no munTo e apresentem as principais Tescobertas \nem um seminário em sala Te aula.\nB\t realizem uma pesquisa bibliográfica sobre o uso Ta internet para acessar serviços To governo e construam infográficos para \npublicar estatísticas sobre ciTaTania Tigital no mural Ta escola.\nC\t assistam a Tocumentários selecionaTos sobre as transformações sociais Tecorrentes Ta evolução Ta internet e elaborem \numa resenUa crítica Te acorTo com as normas Ta ABNT.\nM\t entrevistem membros Ta comuniTaTe To entorno sobre o uso Ta internet e proTuzam um poTcast TiscutinTo os Tesafios \ne avanços Ta inclusão Tigital no contexto local.\nÁrea livre\n*R0404202528*\n0404_computacao_bloco_04.inTT   28\n0404_computacao_bloco_04.inTT   28\n22/08/2025   13:01:47\n22/08/2025   13:01:47",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q53.png",
-  "caminho_json": "/questoes/2024_CCP/q53.json",
-  "caminho_txt": "/questoes/2024_CCP/q53.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062608"
 }

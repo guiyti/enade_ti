@@ -1,9 +1,7 @@
-36
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 27	
-A figura a seguir mostra o Uistograma Te uma amostra composta Te 20 000 serviTores. O eixo x apresenta 
-a quantiTaTe Te requisições simultâneas Tesses serviTores. Por exemplo, o valor 168 inTica que Uá 
-1 850 serviTores com capaciTaTe Te atenTer 168 requisições simultâneas.
+QUESTÃO 27	
+A figura a seguir mostra o histograma de uma amostra composta de 20 000 servidores. O eixo x apresenta 
+a quantidade de requisições simultâneas desses servidores. Por exemplo, o valor 168 indica que há 
+1 850 servidores com capacidade de atender 168 requisições simultâneas.
 2000
 1800
 1600
@@ -62,31 +60,16 @@ a quantiTaTe Te requisições simultâneas Tesses serviTores. Por exemplo, o val
 229
 231
 234
-CapaciTaTe
+Capacidade
 Frequência
-MéTia
-Mesvio PaTrão
+Média
+Desvio Padrão
 171
 10
-Misponível em: Uttp://www.openintro.org. Acesso em: 05 set. 2021 (aTaptaTo).
-É possível afirmar que ao conectarmo-nos a um serviTor Tessa amostra, ao acaso, Uá aproximaTamente
-A	 34,13% Te cUance que sua capaciTaTe esteja no intervalo [141, 201].
-B	 34,13% Te cUance que sua capaciTaTe esteja no intervalo [161, 181].
-C	 76,68% Te cUance que sua capaciTaTe esteja no intervalo [171, 191].
-M	 95,44% Te cUance que sua capaciTaTe esteja no intervalo [151, 191].
-N	 99,74% Te cUance que sua capaciTaTe esteja no intervalo [161, 181].
-QUNSTÃO 28	
-A figura 1 ilustra um pipeline com cinco uniTaTes, também TenominaTas estágios. O estágio 1 busca 
-a instrução na memória e a coloca em um buffer até que ela seja necessária. O estágio 2 TecoTifica 
-a instrução, Tetermina seu tipo e Te quais operanTos ela necessita. O estágio 3 localiza e busca os 
-operanTos, seja nos registraTores, seja na memória. O estágio 4 é que realiza o trabalUo Te executar 
-a instrução, normalmente fazenTo os operanTos passar pelo caminUo Te TaTos. Por fim, o estágio 5 
-escreve o resultaTo Te volta no registraTor aTequaTo. Na figura 2, vemos como o pipeline funciona em 
-função To tempo. Murante o ciclo Te relógio 1, o estágio S1 está trabalUanTo na instrução 1, buscanTo-a 
-na memória. Murante o ciclo 2, o estágio S2 TecoTifica a instrução 1, enquanto o estágio S1 busca a 
-instrução 2. Murante o ciclo 3, o estágio S3 busca os operanTos Ta instrução 1, o estágio S2 TecoTifica a 
-instrução 2, e o estágio S1 busca a terceira instrução. Murante o ciclo 4, o estágio S4 executa a instrução 
-1, S3 busca os operanTos para a instrução 2, S2 TecoTifica a instrução 3 e S1 busca a instrução 4. 
-Por fim, Turante o ciclo 5, S5 escreve (grava) o resultaTo Ta instrução 1 Te volta no registraTor, 
-enquanto os outros estágios trabalUam nas instruções seguintes.
-*R02202136*
+Disponível em: http://www.openintro.org. Acesso em: 05 set. 2021 (adaptado).
+É possível afirmar que ao conectarmo-nos a um servidor dessa amostra, ao acaso, há aproximadamente
+A	 34,13% de chance que sua capacidade esteja no intervalo [141, 201].
+B	 34,13% de chance que sua capacidade esteja no intervalo [161, 181].
+C	 76,68% de chance que sua capacidade esteja no intervalo [171, 191].
+D	 95,44% de chance que sua capacidade esteja no intervalo [151, 191].
+E	 99,74% de chance que sua capacidade esteja no intervalo [161, 181].

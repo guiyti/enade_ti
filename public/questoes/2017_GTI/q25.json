@@ -5,17 +5,46 @@
   "paginas": [
     27
   ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 317.15999999999997,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q25.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q25.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 25 \nK  uso  das  técnicas  de  BWD  (Business Process \nManagement)  visam  a  melhoria  contínua  do \ndesempenho  e  a  busca  de  resultados  consistentes \ne  alinhados  aos  obũetivos  estratégicos  da \nempresa,  seũam os processos automatizados ou \nnão,   e  seus  benefícios  incluem  o  aumento  de \nprodutividade  e  a  redução  de  erros,   custos  e \ndesperdício.\nIonsiderando \nas \nferramentas \nde \nd/ \nque \ncontribuem  para  a  eficAcia  da  implementação \nde BWD nas organizações,  avalie as afirmações a \nseguir,  em relação as oportunidades de melhoria \nnos processos de negocio.  \n/.      utilização  de  ^K   (Service Oriented \nArchitecture)  contribui  para  a  criação  de \nsistemas corporativos que se adaptam aos \nrequisitos de BWD.\n//.   Wara  a  implementação  de  soŌǁares  que \nrespeitem a sintaxe BWD,  deve-se ter acesso \nao codigo fonte para identifcar o padrão de \narmazenamento de dados.\n///.      ferramenta  de  BWD  chamada  B D \n(Business   ctivitǇ  Donitoring)  é  utilizada \npara  a  modelagem  de  processos  e  o \ngerenciamento de dados.\n/s.      utilização  de  BWD^  (Business Process \nManagement \nSystems) \npermite \ngerar \naplicações e fornecer suporte a execução de \noperações de negocio.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e /s.\nC  /// e /s.\nD  /,  // e ///.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 25,
+      "tipo": "OBJETIVA",
+      "pagina": 27,
+      "x": 320.0549011230469,
+      "y": 88.67594909667969,
+      "x1": 385.2149353027344,
+      "y1": 100.95195007324219,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 25"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "27\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nYUNSTãO 24 \nPor meio To processo Te alinUamento estratégico Ta \nTecnologia Ta /nformação (T/) procura-se também \nTeterminar  o  alinUamento  no  que  Tiz  respeito  a \narquitetura,   infraestrutura,   aplicações,   processos \ne organização relativos as necessiTaTes presentes \ne  futuras  To  negocio.   Nntre  as  necessiTaTes  Te \naplicações  para  atenTer  a  continuiTaTe  e  as \nestratégias Te negocio,  Testacam-se aplicações Te \nB/ (Business Cntelligence)  TestinaTas  a  anAlise  To \nambiente Te negocios Ta empresa.\n&NZN NMNS,   .   .͖   BZNU,  s. &. Te.  /mplantanTo a governança Te T/:  \nTa estratégia a gestão Tos processos e serviços.  4 eT.  São Paulo:  \nBrasport,  2014 (aTaptaTo).\n  partir Tesse texto,  é correto afrmar que\nA  o  TesenUo  Ta  arquitetura  Te  T/  contempla \namplamente  as  necessiTaTes  presentes  e \nfuturas To negocio Ta empresa.\nB  a  estratégia  Te  T/  Teve  servir  Te  base  para  o \nTesenvolvimento Ta estratégia Ta empresa,  Te \nmoTo a Telinear a estratégia corporativa.\nC  as  aplicações  Te  B/  constituem  um  item \nimportante no porƞolio Te aplicações Te T/ para \napoiar a estratégia Ta empresa.\nM  a  continuiTaTe  e  a  expansão  To  negocio \nTa  empresa  TepenTem  exclusivamente  To \npotencial Te alinUamento Te T/ a estratégia Ta \nempresa.\nN  a arquitetura e a infraestrutura Te T/ necessArias \nao atenTimento Ta estratégia Ta empresa são \nestabeleciTas a partir Tos processos Te T/ em \noperação.\nArea livre\nYUNSTãO 25 \nO  uso  Tas  técnicas  Te  BPM  (Business Process \nManagement)  visam  a  melUoria  contínua  To \nTesempenUo  e  a  busca  Te  resultaTos  consistentes \ne  alinUaTos  aos  obũetivos  estratégicos  Ta \nempresa,  seũam os processos automatizaTos ou \nnão,   e  seus  benefícios  incluem  o  aumento  Te \nproTutiviTaTe  e  a  reTução  Te  erros,   custos  e \nTesperTício.\nConsiTeranTo \nas \nferramentas \nTe \nT/ \nque \ncontribuem  para  a  eficAcia  Ta  implementação \nTe BPM nas organizações,  avalie as afirmações a \nseguir,  em relação as oportuniTaTes Te melUoria \nnos processos Te negocio.  \n/.      utilização  Te  SO   (Service OrienteT \nArcUitecture)  contribui  para  a  criação  Te \nsistemas corporativos que se aTaptam aos \nrequisitos Te BPM.\n//.   Para  a  implementação  Te  soŌǁares  que \nrespeitem a sintaxe BPM,  Teve-se ter acesso \nao coTigo fonte para iTentifcar o paTrão Te \narmazenamento Te TaTos.\n///.      ferramenta  Te  BPM  cUamaTa  B M \n(Business   ctivitǇ  Monitoring)  é  utilizaTa \npara  a  moTelagem  Te  processos  e  o \ngerenciamento Te TaTos.\n/s.      utilização  Te  BPMS  (Business Process \nManagement \nSystems) \npermite \ngerar \naplicações e fornecer suporte a execução Te \noperações Te negocio.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e /s.\nC  /// e /s.\nM  /,  // e ///.\nN  //,  /// e /s.\n*R43201727*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q25.png",
-  "caminho_json": "/questoes/2017_GTI/q25.json",
-  "caminho_txt": "/questoes/2017_GTI/q25.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697682"
 }

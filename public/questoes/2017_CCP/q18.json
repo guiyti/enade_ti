@@ -5,17 +5,46 @@
   "paginas": [
     21
   ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q18.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 18\nK algoritmo a seguir recebe um vetor v de numeros \ninteiros  e  rearranũa  esse  vetor  de  tal  forma  que \nseus  elementos,   ao  fnal,   esteũam  ordenados  de \nforma crescente.\n01 void ordena(int *v, int n)\n02 {\n03   int i, j, chave;\n04   for(i = 1; i < n; i++)\n05   {\n06      chave = v[i];\n07      j = i - 1;\n08       while(j >= 0 && v[j] < chave)\n09      {\n10          v[j-1] = v[j];\n11          j = j - 1;\n12      }\n13      v[j+1] = chave;\n14   }\n15 }\nIonsiderando  que  nesse  algoritmo  hA  erros  de \nlogica  que  devem  ser  corrigidos  para  que  os \nelementos  seũam  ordenados  de  forma  crescente,  \nassinale  a  opção  correta  no  que  se  refere  as \ncorreções adequadas.\nA    linha 04 deve ser corrigida da seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linha \n13,  do seguinte modo:  v[j - 1] = chave;.\nB    linha 04 deve ser corrigida da seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linha 07,  \ndo seguinte modo:  j = i + 1;.\nC    linha 07 deve ser corrigida da seguinte forma:\nj = i + 1 e a linha 08,  do seguinte modo:  \nwhile(j >= 0 && v[j] > chave).\nD    linha 08 deve ser corrigida da seguinte forma:  \nwhile(j >= 0 && v[j] > chave) e \na linha 10,  do seguinte modo:  v[j + 1] = \nv[j];.\nE    linha 10 deve ser corrigida da seguinte forma:  \nv[j + 1] = v[j]; e a linha 13,  do seguinte \nmodo:  v[j - 1] = chave;.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 18"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n21\nQUNSTÃO 17\n'rupos  Te  cientistas  e  granTes  corporações  Te \ntoTo o munTo tgm buscaTo Tesenvolver sistemas \ncomputacionais  inteligentes  capazes  Te aũuTar  as \npessoas  a  aprenTer.    s  possibiliTaTes,   os  efeitos \ne  as  implicações  éticas  Ta  aplicação  Ta  cUamaTa \n/nteliggncia   rtifcial  (/ )  na  eTucação  são  temas \nque vgm ganUanTo espaço nos Tebates na Area Te \ntecnologia eTucacional em toTo o munTo.\n Misponível em:  фUtp:ͬͬ\nǁǁǁ. revistaeTucacao. com. brх.  \n cesso em:  26 set.  2017 (aTaptaTo).\n  respeito Ta aToção Te técnicas Te /  no processo \neTucacional,  avalie as asserções a seguir e a relação \nproposta entre elas.\n/.    lgoritmos Te /  aTaptativos poTem auxiliar \na experigncia Te aprenTizaTo Ta pessoa Te \nacorTo com o seu perfl.\nPOZYUN\n//.   Os sistemas com algoritmos Te /  aTaptativos \nanalisam  respostas  anteriores,   buscanTo \nTeterminaTos paTrões que possam inTicar \npontos  Te  TifculTaTe  ou  faciliTaTe  Ta \npessoa em relação a TeterminaTo assunto.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\nQUNSTÃO 18\nO algoritmo a seguir recebe um vetor v Te numeros \ninteiros  e  rearranũa  esse  vetor  Te  tal  forma  que \nseus  elementos,   ao  fnal,   esteũam  orTenaTos  Te \nforma crescente.\n01 voiT orTena(int *v, int n)\n02 {\n03   int i, j, cUave;\n04   for(i = 1; i < n; i++)\n05   {\n06      cUave = v[i];\n07      j = i - 1;\n08       wUile(j >= 0 && v[j] < cUave)\n09      {\n10          v[j-1] = v[j];\n11          j = j - 1;\n12      }\n13      v[j+1] = cUave;\n14   }\n15 }\nConsiTeranTo  que  nesse  algoritmo  UA  erros  Te \nlogica  que  Tevem  ser  corrigiTos  para  que  os \nelementos  seũam  orTenaTos  Te  forma  crescente,  \nassinale  a  opção  correta  no  que  se  refere  as \ncorreções aTequaTas.\nA    linUa 04 Teve ser corrigiTa Ta seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linUa \n13,  To seguinte moTo:  v[j - 1] = cUave;.\nB    linUa 04 Teve ser corrigiTa Ta seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linUa 07,  \nTo seguinte moTo:  j = i + 1;.\nC    linUa 07 Teve ser corrigiTa Ta seguinte forma:\nj = i + 1 e a linUa 08,  To seguinte moTo:  \nwUile(j >= 0 && v[j] > cUave).\nM    linUa 08 Teve ser corrigiTa Ta seguinte forma:  \nwUile(j >= 0 && v[j] > cUave) e \na linUa 10,  To seguinte moTo:  v[j + 1] = \nv[j];.\nN    linUa 10 Teve ser corrigiTa Ta seguinte forma:  \nv[j + 1] = v[j]; e a linUa 13,  To seguinte \nmoTo:  v[j - 1] = cUave;.\n*R03201721*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q18.png",
-  "caminho_json": "/questoes/2017_CCP/q18.json",
-  "caminho_txt": "/questoes/2017_CCP/q18.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148886"
 }

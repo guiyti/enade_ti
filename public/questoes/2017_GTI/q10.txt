@@ -1,83 +1,34 @@
-16
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 09
-  estrutura Tas organizações traTicionais apoia-se 
-sobre  vArios  pressupostos  superaTos  e  que 
-Teram base ao surgimento Te empresas voltaTas 
-para  Tentro,   para  suas  proprias  ativiTaTes,  
-com estruturas UierArquicas pesaTas e rígiTas.  
-Por outro laTo,  empresas mais inovaToras estão 
-se organizanTo por processos,  no esforço para 
-aperfeiçoar seu TesempenUo empresarial,  para 
-terem  maior  eficigncia,   melUor  aTaptação  a 
-muTança e melUor integração Te seus esforços.
-'ONA >sNS,  :.  N.  >.  Processo,  que processo͍  Zevista Te  Tministração 
-Te Nmpresas,  v.  40,  n.  4,  p.  8ʹ19,  2000 (aTaptaTo).
-ConsiTeranTo  o  contexto  apresentaTo,   avalie  as 
-asserções a seguir e a relação proposta entre elas.
-/.   Uma  gestão  organizacional  que  valoriza 
-mais o Ňuxo Tos processos que as estruturas 
-Tepartamentais  tenTe  a  alcançar  melUor 
-TesempenUo  e  competitiviTaTe  e,   nesse 
-contexto,   os  sistemas  Te  informação 
-representam  recursos  importantes  para 
-gerenciar e integrar processos e promover 
-a melUoria To TesempenUo organizacional.
-POZYUN
-//.   O 
-TesempenUo 
-Tas 
-organizações 
-estA 
-Tiretamente  relacionaTo  a  efcigncia  e 
-a  efcAcia  Te  seus  processos  Te  negocio,  
-senTo  por  meio  Teles  que  as  organizações 
-transformam  suas  estratégias  em  ações 
-efetivas  que  implementam  seus  proTutos 
-eͬ ou serviços.
-  respeito Tessas asserções,  assinale a opção correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
-é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-QUNSTÃO 10
-Uma  empresa  Ta  inTustria  farmacgutica  estA 
-implantanTo  um  TataǁareUouse  que  servirA  Te 
-base para geração Te suas informações gerenciais.  
-Murante  o  processo  Te  anAlise,   Tescobre-se 
-que  Tois  sistemas  transacionais  aTquiriTos 
-Te  empresas  Tiferentes  armazenam  TaTos 
-caTastrais  Te  forma  Tiversa:   o  primeiro  utiliza "
+QUESTÃO 10
+hma  empresa  da  industria  farmacgutica  estA 
+implantando  um  dataǁarehouse  que  servirA  de 
+base para geração de suas informações gerenciais.  
+Durante  o  processo  de  anAlise,   descobre-se 
+que  dois  sistemas  transacionais  adquiridos 
+de  empresas  diferentes  armazenam  dados 
+cadastrais  de  forma  diversa:   o  primeiro  utiliza "
 m"  e " f"  para representar os sexos masculino e 
-feminino,  respectivamente.  :A o segunTo sistema 
+feminino,  respectivamente.  :A o segundo sistema 
 representa  os  mesmos  sexos  como " 1"   e " 2",  
-respectivamente.    lém  Tisso,   outros  sistemas 
-transacionais  Ta  propria  empresa  alimentam-se 
-Te TaTos Tesses sistemas.
-SabenTo  que  os  TaTos  Te  ambos  sistemas 
-transacionais alimentarão o TataǁareUouse que 
-estA  senTo  implantaTo  na  referiTa  empresa,  
+respectivamente.    lém  disso,   outros  sistemas 
+transacionais  da  propria  empresa  alimentam-se 
+de dados desses sistemas.
+^abendo  que  os  dados  de  ambos  sistemas 
+transacionais alimentarão o dataǁarehouse que 
+estA  sendo  implantado  na  referida  empresa,  
 avalie as afrmações a seguir.
-/.     empresa Teve Tefnir um paTrão e utilizar 
-uma solução Te NT> (Nxtract, Transform anT 
-LoaT)  para  aTequar  os  TaTos  Te  entraTa 
-para o TataǁareUouse ao paTrão TefniTo.
-//.      empresa  Teve  armazenar,   na  tabela  Te 
-fatos To TataǁareUouse,  a sigla To sistema 
-Te origem para saber interpretar os TaTos.
-///.     empresa Teve solicitar aos forneceTores 
-Tos aplicativos que a representação Te seus 
-TaTos ocorra Te forma paTronizaTa.
+/.     empresa deve defnir um padrão e utilizar 
+uma solução de Ed> (Extract, Transform and 
+Load)  para  adequar  os  dados  de  entrada 
+para o dataǁarehouse ao padrão defnido.
+//.      empresa  deve  armazenar,   na  tabela  de 
+fatos do dataǁarehouse,  a sigla do sistema 
+de origem para saber interpretar os dados.
+///.     empresa deve solicitar aos fornecedores 
+dos aplicativos que a representação de seus 
+dados ocorra de forma padronizada.
  correto o que se afrma em
 A  /,  apenas.
 B  //,  apenas.
 C  / e ///,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R43201716*
+D  // e ///,  apenas.
+E  /,  // e ///.

@@ -5,17 +5,46 @@
   "paginas": [
     24
   ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 431.68670654296875,
+      "x1": 294.59999999999997,
+      "y1": 779.6522827148438,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q57.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q57.txt",
   "largura": 1153,
-  "altura": 1186,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1480,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 57\nDeseja-se projetar um bloco lógico do tipo look-up table que\nparte de um dispositivo lógico programável. O bloco ló\nilustrado abaixo, deve produzir em sua saída qualquer uma\ndiferentes funções lógicas possíveis envolvendo três entrad\ndados, dependendo dos valores lógicos aplicados a n s\nbinários de controle.\nPara esse bloco lógico, qual é o menor valor de n que pod\nusado para selecionar uma das diferentes funções ló\npossíveis?\nA\n4\nB\n8\nC\n16\nD\n256\nE\n65.536\nbloco\nlógico\n3 entradas de dados\nsaída\nn sinais de controle",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Redes de Computadores"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 57,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 35.99909973144531,
+      "y": 443.68670654296875,
+      "x1": 105.36231231689453,
+      "y1": 454.7267150878906,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 57"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "23\nCOMPUTAÇÃO\nQUNSTÃO 56\nJulgue os itens abaixo, relativos à transmissão Te TaTos em\nreTes Te computaTores que utilizam fios metálicos.\nC\nMiferentes níveis Te tensão no fio, como !5 V e +5 V, e\ntransições entre os níveis TefiniTos Te tensão poTem ser\nusaTos para representar bits Turante a transmissão.\nCC\nMiferentes tipos Te moTulação, com muTanças Te fase e Te\namplituTe, poTem ser aplicaTos a uma onTa portaTora para\nrepresentar bits Turante a transmissão.\nCCC A taxa máxima Te transmissão suportaTa por um canal é\nTefiniTa como função, entre outros parâmetros, To nível\nmáximo Te tensão suportaTo no canal.\nCV Largura Te banTa é TefiniTa como a freqüência mais alta que\npoTe ser transmitiTa através Te um meio Te transmissão.\nV Cnformações transmitiTas por meio Te sinais moTulaTos\npoTem ser recuperaTas no receptor usanTo-se taxa Te\namostragem com o Tobro Ta freqüência máxima To sinal\ntransmitiTo.\nNstão certos apenas os itens\nA\nC, CC e CV.\nB\nC, CC e V.\nC\nC, CCC e CV.\nM\nCC, CCC e V.\nN\nCCC, CV e V. \nQUNSTÃO 57\nMeseja-se projetar um bloco lógico To tipo look-up table que fará\nparte Te um Tispositivo lógico programável. O bloco lógico,\nilustraTo abaixo, Teve proTuzir em sua saíTa qualquer uma Tas\nTiferentes funções lógicas possíveis envolvenTo três entraTas Te\nTaTos, TepenTenTo Tos valores lógicos aplicaTos a n sinais\nbinários Te controle.\nPara esse bloco lógico, qual é o menor valor Te n que poTe ser\nusaTo para selecionar uma Tas Tiferentes funções lógicas\npossíveis?\nA\n4\nB\n8\nC\n16\nM\n256\nN\n65.536\nQUNSTÃO 58\nConsiTeranTo o mecanismo Te traTução Te\nenTereços e portas (network aTTress port translation\n– NAPT), para reTes que utilizam os enTereços CP\nprivaTos \n(10.0.0.0/8, \n172.16.0.0/12 \ne\n192.168.0.0/16), analise as asserções a seguir.\nAo passar por um roteaTor com NAPT, os\nenTereços Te origem nos pacotes originaTos pelas\nestações Ta reTe privaTa são substituíTos pelo\nenTereço externo Tesse roteaTor\nporque\nnão Uá rotas na Cnternet para o encaminUamento Te\npacotes TestinaTos a enTereços CP privaTos, Te\nforma que pacotes TestinaTos a esses enTereços\nsão TescartaTos ou rejeitaTos.\nNm relação às asserções acima, assinale a opção\ncorreta.\nA\nAs \nTuas \nasserções \nsão \nproposições\nverTaTeiras, e a segunTa é uma justificativa\ncorreta Ta primeira.\nB\nAs \nTuas \nasserções \nsão \nproposições\nverTaTeiras, e a segunTa não é uma justificativa\ncorreta Ta primeira.\nC\nA primeira asserção é uma proposição\nverTaTeira, e a segunTa é uma proposição falsa.\nM\nA primeira asserção é uma proposição falsa, e\na segunTa é uma proposição verTaTeira.\nN\nAs Tuas asserções são proposições falsas.\nRASCUNHO\nbloco\nlógico\n3 entraTas Te TaTos\nsaíTa\nn sinais Te controle",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q57.png",
-  "caminho_json": "/questoes/2008_CCP/q57.json",
-  "caminho_txt": "/questoes/2008_CCP/q57.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395159"
 }

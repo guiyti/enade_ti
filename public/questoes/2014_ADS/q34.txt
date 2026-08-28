@@ -1,25 +1,23 @@
-26
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 34
-O  gerenciamento  Te  proũetos  Te  sistemas  é 
-essencial  para  a  engenUaria  Te  soŌǁare.   Um  mau 
-gerenciamento  acarreta  atraso  na  entrega  To 
-programa,  custo maior To que o programaTo e falUa 
-no  atenTimento  aos  requisitos.   O  quaTro  a  seguir 
-representa  Te  forma  Uipotética  algumas  tarefas 
-Te  um  proũeto  Te  Tesenvolvimento  Te  soŌǁare.
-Nsse quaTro mostra as ativiTaTes,  sua Turação e as 
-respectivas interTepenTgncias.  
-Tarefa
-Muração (Tias)
-MepenTências
+QUESTÃO 34
+K  gerenciamento  de  proũetos  de  sistemas  é 
+essencial  para  a  engenharia  de  soŌǁare.   hm  mau 
+gerenciamento  acarreta  atraso  na  entrega  do 
+programa,  custo maior do que o programado e falha 
+no  atendimento  aos  requisitos.   K  quadro  a  seguir 
+representa  de  forma  hipotética  algumas  tarefas 
+de  um  proũeto  de  desenvolvimento  de  soŌǁare.
+Esse quadro mostra as atividades,  sua duração e as 
+respectivas interdependgncias.  
+darefa
+Duração (dias)
+Dependências
 T1
 5
 -
 T2
 8
 T1
-T3
+d3
 2
 T2
 T4
@@ -27,36 +25,17 @@ T4
 -
 T5
 2
-T3,  T4
+d3,  d4
 T6
 4
 -
 T7
 3
 T5
-Com  base  na  anAlise  To  quaTro,   o  tempo  mínimo 
-necessArio para terminar o proũeto é Te
-A 13 Tias.
-B 15 Tias.
-C 16 Tias.
-M 20 Tias.
-N 28 Tias.
-ÁRNA LCVRN
-QUNSTÃO 35
-:osé  TiscutinTo  futebol  com  :oão  Teclarou  que  se 
-o  time  y  venceu  o  ultimo  ũogo,   então  o  time  z  é 
-campeão.  :oão Tepois Te algumas Uoras Tescobriu 
-que a Teclaração era falsa.  Nm consequgncia,  teve 
-certeza Te que é verTaTe que
-A o time y não venceu o ultimo ũogo e o time z é 
-campeão.
-B o time y venceu o ultimo ũogo e o time z não é 
-campeão.
-C ou o time y não venceu o ultimo ũogo ou o time 
-z é campeão.
-M o time y não venceu o ultimo ũogo e o time z não 
-é campeão.
-N se o time z não é campeão,  então o time y não 
-venceu o ultimo ũogo.
-ÁRNA LCVRN
-*R40201426*
+Iom  base  na  anAlise  do  quadro,   o  tempo  mínimo 
+necessArio para terminar o proũeto é de
+A 13 dias.
+B 15 dias.
+C 16 dias.
+D 20 dias.
+E 28 dias.

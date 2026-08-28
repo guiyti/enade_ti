@@ -1,11 +1,9 @@
-16
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO MCSCURSCVA 05	
-Com a finaliTaTe Te melUorar o atenTimento e priorizar os casos mais urgentes, a Tireção Te um Uospital 
-criou um sistema Te triagem em que um profissional Ta saúTe classifica a orTem Te atenTimento com 
-base numa avaliação prévia To paciente, entreganTo-lUe um cartão numeraTo verTe (V) ou amarelo (A), 
-que Tefine o menor ou maior grau Te urgência Ta ocorrência, respectivamente. Para informatizar esse 
-processo, o software TesenvolviTo tem como base o seguinte trecUo Te cóTigo-fonte:
+QUESTÃO DISCURSIVA 05	
+Com a finalidade de melhorar o atendimento e priorizar os casos mais urgentes, a direção de um hospital 
+criou um sistema de triagem em que um profissional da saúde classifica a ordem de atendimento com 
+base numa avaliação prévia do paciente, entregando-lhe um cartão numerado verde (V) ou amarelo (A), 
+que define o menor ou maior grau de urgência da ocorrência, respectivamente. Para informatizar esse 
+processo, o software desenvolvido tem como base o seguinte trecho de código-fonte:
 1 
 2 
 3 
@@ -45,20 +43,20 @@ processo, o software TesenvolviTo tem como base o seguinte trecUo Te cóTigo-fon
 37 
 struct lista { 
 int numero; 
-cUar cor; 
+char cor; 
 struct lista* prox; 
 }; 
-typeTef struct lista Lista; 
+typedef struct lista Lista; 
 Lista* inserir_fim(Lista* l, Lista* no) { 
 Lista* aux; 
 no->prox = NULL; 
 aux = l; 
-wUile (aux->prox != NULL) 
+while (aux->prox != NULL) 
 aux = aux->prox; 
 aux->prox = no; 
 return l; 
 } 
-Lista* inserir(Lista* l, int numero, cUar cor) { 
+Lista* inserir(Lista* l, int numero, char cor) { 
 Lista* no = (Lista*) malloc(sizeof(Lista)); 
 no->numero = numero; 
 no->cor = cor; 
@@ -69,19 +67,16 @@ l = no;
 if (no->cor == 'V') 
 l = inserir_fim(l, no); 
 else 
-l = inserir_prioriTaTe(l, no); 
+l = inserir_prioridade(l, no); 
 } 
 return l; 
-} 
-*R28202116*
+}
 
-17
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Na linUa 21, a função inserir recebe o número e a cor To cartão entregue ao paciente na triagem. 
-Pacientes com cartão verTe são inseriTos no final Ta fila pela função inserir_fim (linUas 9-19). 
-Pacientes com cartão amarelo têm prioriTaTe no atenTimento e são inseriTos no início Ta fila, 
-em orTem Te cUegaTa, pela função inserir_prioriTaTe. Portanto, se são entregues os cartões 
-10-V, 11-V, 5-A, 12-V e 6-A, nessa orTem, a fila Teve ficar assim organizaTa:
+Na linha 21, a função inserir recebe o número e a cor do cartão entregue ao paciente na triagem. 
+Pacientes com cartão verde são inseridos no final da fila pela função inserir_fim (linhas 9-19). 
+Pacientes com cartão amarelo têm prioridade no atendimento e são inseridos no início da fila, 
+em ordem de chegada, pela função inserir_prioridade. Portanto, se são entregues os cartões 
+10-V, 11-V, 5-A, 12-V e 6-A, nessa ordem, a fila deve ficar assim organizada:
 5 A
 10
 1
@@ -89,25 +84,7 @@ em orTem Te cUegaTa, pela função inserir_prioriTaTe. Portanto, se são entregu
 V
 11 V
 12 V
-ConsiTeranTo o processo Te triagem Tescrito e o trecUo Te cóTigo-fonte apresentaTo, implemente a 
-função inserir_prioriTaTe conforme inTicaTo.
-Lista* inserir_prioriTaTe(Lista* l, Lista* no)
+Considerando o processo de triagem descrito e o trecho de código-fonte apresentado, implemente a 
+função inserir_prioridade conforme indicado.
+Lista* inserir_prioridade(Lista* l, Lista* no)
 (valor: 10,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Área livre
-*R28202117*

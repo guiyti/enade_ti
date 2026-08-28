@@ -1,73 +1,42 @@
-28
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 26
-Certamente,   uma  empresa  com  um  volume  Te 
+QUESTÃO 26
+Iertamente,   uma  empresa  com  um  volume  de 
 10  000  notas  fscais  por  mgs  (e  com  vArios  itens 
-por  nota  fscal)  não  usarA  copias  Tessas  notas 
-como meio Te entraTa Te TaTos sobre receitas nos 
-subsistemas Te contas a receber e Te contabiliTaTe.  
+por  nota  fscal)  não  usarA  copias  dessas  notas 
+como meio de entrada de dados sobre receitas nos 
+subsistemas de contas a receber e de contabilidade.  
 /sso  equivaleria  a  classifcar  e  efetuar  10  000  ou 
-mais  lançamentos,   respectivamente,   para  caTa 
-cliente,   Te  acorTo  com  o  seu  coTigo  contAbil.  
-Por  outro  laTo,   Te  alguma  forma,   o  sistema  Te 
-contas  a  receber  Teve  ΗinformarΗ  ao  sistema  Te 
-contabiliTaTe  os  recebimentos  Te  clientes.   Ma 
-mesma forma,  poTe ser inviAvel o registro contAbil 
-Te um por um Tos comprovantes Te recebimento.
-B/O,  S.  Z.  Sistema Te informação:  um enfoque gerencial. 2.  eT.  
-São Paulo:   tlas,  2008 (aTaptaTo).
-   situação  Tescrita  no  texto  é  um  ơpico  caso  Te 
-problema a ser resolviTo com
-A TataǁareUouse,  
+mais  lançamentos,   respectivamente,   para  cada 
+cliente,   de  acordo  com  o  seu  codigo  contAbil.  
+Wor  outro  lado,   de  alguma  forma,   o  sistema  de 
+contas  a  receber  deve  ΗinformarΗ  ao  sistema  de 
+contabilidade  os  recebimentos  de  clientes.   Da 
+mesma forma,  pode ser inviAvel o registro contAbil 
+de um por um dos comprovantes de recebimento.
+B/K,  ^.  Z.  ^istema de informação:  um enfoque gerencial. 2.  ed.  
+^ão Waulo:   tlas,  2008 (adaptado).
+   situação  descrita  no  texto  é  um  ơpico  caso  de 
+problema a ser resolvido com
+A dataǁarehouse,  
 um 
-Teposito 
-Te 
-TaTos 
-orientaTo  por  assunto,   integraTo,   não  volAtil,  
-variAvel com o tempo,  para apoiar as Tecisões 
+deposito 
+de 
+dados 
+orientado  por  assunto,   integrado,   não  volAtil,  
+variAvel com o tempo,  para apoiar as decisões 
 gerenciais.
-B  SO   (Service OrienteT ArcUitecture),   uma 
-arquitetura proposta para interoperabiliTaTe Te 
-sistemas por meio Te um conũunto Te interfaces 
-Te serviços.
-C  NZP (Nnterprise Resource Planning),  um soŌǁare 
-que integra toTos os TaTos e processos Te uma 
+B  ^K   (Service Oriented Architecture),   uma 
+arquitetura proposta para interoperabilidade de 
+sistemas por meio de um conũunto de interfaces 
+de serviços.
+C  EZW (Enterprise Resource Planning),  um soŌǁare 
+que integra todos os dados e processos de uma 
 organização em um unico sistema.
-M  'NM  ('estão  Nletrƀnica  Te  Mocumentos),   um 
-conũunto  Te  tecnologias  que  permite  a  uma 
-empresa gerenciar seus Tocumentos em forma 
-Tigital.
-N  gestão To conUecimento,  uma Area Te atuação 
-transversal  relacionaTa,   sobretuTo,   a  gestão 
-estratégica,   teoria  Tas  organizações,   sistema 
-Te informação,  gestão Ta tecnologia,  e as Areas 
-mais traTicionais.
-Area livre
-QUNSTÃO 27
-  virtualização permite que um unico computaTor 
-UospeTe  Tiversas  mAquinas  virtuais,   caTa  uma 
-com seu proprio sistema operacional.  Nssa técnica 
-ganUou  importancia  e  conUecimento  publico  a 
-partir Ta TécaTa Te 1990 e,  atualmente,  vem senTo 
-utilizaTa para resolver Tiversos tipos Te problemas.
-ConsiTeranTo  os  Tiversos  aspectos  a  serem 
-observaTos na utilização Ta virtualização,  avalie as 
-afrmações a seguir.
-/.   Um sistema operacional executaTo em uma 
-mAquina  virtual utiliza um subconũunto Ta 
-memoria Tisponível na mAquina real.
-//.   Uma  Tas  aplicações  Ta  virtualização  é  a 
-Tisponibilização  Te  multiplos  sistemas 
-operacionais para teste Te soŌǁare.
-///.   Um sistema operacional executaTo em uma 
-mAquina virtual apresenta um TesempenUo 
-superior ao que alcançaria quanTo executaTo 
-Tiretamente na mesma mAquina real.
- correto o que se afrma em
-A  /,  apenas.
-B  ///,  apenas.
-C  / e //,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R43201728*
+D  'ED  ('estão  Eletrƀnica  de  Documentos),   um 
+conũunto  de  tecnologias  que  permite  a  uma 
+empresa gerenciar seus documentos em forma 
+digital.
+E  gestão do conhecimento,  uma Area de atuação 
+transversal  relacionada,   sobretudo,   a  gestão 
+estratégica,   teoria  das  organizações,   sistema 
+de informação,  gestão da tecnologia,  e as Areas 
+mais tradicionais.

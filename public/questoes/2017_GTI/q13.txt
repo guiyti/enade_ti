@@ -1,93 +1,49 @@
-18
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 13
-Teoricamente,   o  termo  Te  abertura  Te  proũetos 
-(T P) é atribuição To patrocinaTor.  Nele,  o gerente 
-Te  proũetos  Teveria  ser  nomeaTo.   Nntretanto,   a 
-realiTaTe aponta para um cenArio bem Tiferente:  
-os gerentes Te proũetos são comumente cUamaTos 
-para participar Ta elaboração To termo,  mesmo em 
-suas versões iniciais.  Nesse momento,  em boa parte 
-Tas metoTologias implantaTas,  é preciso elaborar 
-um  Tocumento  que  sintetiza  a  visão  To  proũeto,  
-contenTo,   total  ou  parcialmente,   as  seguintes 
+QUESTÃO 13
+deoricamente,   o  termo  de  abertura  de  proũetos 
+(d W) é atribuição do patrocinador.  Eele,  o gerente 
+de  proũetos  deveria  ser  nomeado.   Entretanto,   a 
+realidade aponta para um cenArio bem diferente:  
+os gerentes de proũetos são comumente chamados 
+para participar da elaboração do termo,  mesmo em 
+suas versões iniciais.  Eesse momento,  em boa parte 
+das metodologias implantadas,  é preciso elaborar 
+um  documento  que  sintetiza  a  visão  do  proũeto,  
+contendo,   total  ou  parcialmente,   as  seguintes 
 sessões:   ũustifcativa͖   obũetivos͖   requisitos  (visão)͖  
-riscos  (visão  inicial)͖   cronograma  Te  marcos͖  
-orçamento  resumiTo͖   Tesignação  To  gerente  Te 
-proũetos e To patrocinaTor͖  premissas e restrições.
-Misponível em:  фUtp:ͬͬ
+riscos  (visão  inicial)͖   cronograma  de  marcos͖  
+orçamento  resumido͖   designação  do  gerente  de 
+proũetos e do patrocinador͖  premissas e restrições.
+Disponível em:  фhtp:ͬͬ
 ǁǁǁ. p4pro. com. brх.  
- cesso em:  12 ũul.  2017 (aTaptaTo).
-Um patrocinaTor Teseũa apresentar um proũeto Te 
-melUoria Te processos Te um Tatacenter voltaTo 
-para a recuperação Te Tesastres.  Nessa fase,  o T P 
-estA senTo fnalizaTo.   s reuniões para aprovação 
-To  orçamento,   que  so  serA  apreciaTo  no  fm  To 
-planeũamento,  ocorrerão nos Tois meses seguintes 
-e,  geralmente,  Turam Tois Tias consecutivos,  TaTo 
-o granTe numero Te proũetos a serem apreciaTos.  
-   Tiretoria  ũA  Tefniu  que  não  serA  aprovaTo  um 
-orçamento  acima  Te  ZΨ  5  milUões  para  nenUum 
-proũeto  isolaTo.      equipe  Te  proũetos  espera 
-receber toTas as especifcações até o fm To mgs 
+ cesso em:  12 ũul.  2017 (adaptado).
+hm patrocinador deseũa apresentar um proũeto de 
+melhoria de processos de um datacenter voltado 
+para a recuperação de desastres.  Eessa fase,  o d W 
+estA sendo fnalizado.   s reuniões para aprovação 
+do  orçamento,   que  so  serA  apreciado  no  fm  do 
+planeũamento,  ocorrerão nos dois meses seguintes 
+e,  geralmente,  duram dois dias consecutivos,  dado 
+o grande numero de proũetos a serem apreciados.  
+   diretoria  ũA  defniu  que  não  serA  aprovado  um 
+orçamento  acima  de  ZΨ  5  milhões  para  nenhum 
+proũeto  isolado.      equipe  de  proũetos  espera 
+receber todas as especifcações até o fm do mgs 
 em curso para entregar o planeũamento no prazo 
-combinaTo.
-Com  base  nessa  situação  e  consiTeranTo  a 
-necessiTaTe Te aũustar o T P, avalie as afrmações 
+combinado.
+Iom  base  nessa  situação  e  considerando  a 
+necessidade de aũustar o d W, avalie as afrmações 
 a seguir.
-/.   O  valor  Te  ZΨ  5  milUões  representa  uma 
+/.   K  valor  de  ZΨ  5  milhões  representa  uma 
 restrição para o proũeto.
-//.      aprovação  To  orçamento  é  um  marco 
+//.      aprovação  do  orçamento  é  um  marco 
 importante para esse proũeto.
-///.      aprovação  To  orçamento  TeverA  ser 
-TeclaraTa  no  cronograma  Te  marcos,  
-informanTo-se  um  marco  com  Turação  Te 
-Tois Tias.
+///.      aprovação  do  orçamento  deverA  ser 
+declarada  no  cronograma  de  marcos,  
+informando-se  um  marco  com  duração  de 
+dois dias.
  correto o que se afrma em
 A  /,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-YUNSTãO 14 
-   /T/>  (/nformation  TecUnologǇ  /nfrastructure 
-Library) é um conũunto Te boas prAticas aplicAveis 
-no gerenciamento Ta infraestrutura e Tos serviços 
-Te  Tecnologia  Ta  /nformação  (T/).   Zepresenta 
-uma  base  Te  conUecimentos  estruturaTa,   com 
-recomenTações sobre a implementação Te Tiversos 
-processos e estruturas Te apoio To gerenciamento 
-Te serviços Te T/.  Sua aToção poTe proporcionar 
-ganUos na melUoria Ta qualiTaTe Te serviços e na 
-reTução Tos riscos e custos.
-M ' >,ãNS,  /.   .͖  P/N,N/ZO,  t.  B.  'erenciamento Te serviços Te 
-T/ na prAtica.  São Paulo:  Novatec,  2007 (aTaptaTo).
-   respeito  Ta  /T/>  e  Te  suas  recomenTações,  
-assinale a opção correta.
-A     implementação  Te  processos  Te  gerenciamento 
-To  nível  Te  serviços  é  a  função  principal  Ta 
-central Te serviços que representa a interface 
-operacional entre a Area Te T/ e seus usuArios.
-B  No processo Te gerenciamento Te inciTentes,  
-exige-se  a  ação  proativa  Tos  profssionais  Te 
-suporte,  que Tevem monitorar a infraestrutura 
-Te T/ para iTentifcarem possíveis falUas antes 
-que estas efetivamente ocorram.
-C    resolução temporAria Tas falUas que provocam 
-um  inciTente  são  obtiTas  no  processo  Te 
-gerenciamento Te problemas.
-M  'anUos  Te  TesempenUo  no  atenTimento  aos 
-clientes  Te  T/  poTem  ser  obtiTos  a  partir  To 
-uso  Te  uma  base  Te  erros  conUeciTos,   que 
-resulta  To  registro  Te  erros  ũA  conUeciTos  na 
-infraestrutura  Ta  organização  e  para  os  quais 
-ũA  existe  uma  solução  provisoria  ou  Tefnitiva 
-caTastraTa.
-N  Se  um  inciTente  não  puTer  ser  resolviTo  no 
-processo  Te  gerenciamento  Te  inciTentes,  
-que é o primeiro nível Te atenTimento,  caberA 
-a  este  nível  entrar  em  contato  com  equipes 
-Te  atenTimento  Te  nível  mais  avançaTo  para 
-solução To problema.
-Area livre
-*R43201718*
+D  // e ///,  apenas.
+E  /,  // e ///.

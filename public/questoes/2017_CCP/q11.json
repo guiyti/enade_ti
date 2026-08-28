@@ -5,17 +5,46 @@
   "paginas": [
     17
   ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 526.9039916992188,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q11.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1906,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 11\nK \nencapsulamento \né \num \nmecanismo \nda \nprogramação  orientada  a  obũetos  no  qual  os \nmembros  de  uma  classe  (atributos  e  métodos) \nconstituem  uma  caixa  preta.   K  nível  de \nvisibilidade dos membros pode ser defnido pelos \nmodifcadores de visibilidade ΗprivadoΗ,  ΗpublicoΗ \ne ΗprotegidoΗ.\nIom  relação  ao  comportamento  gerado  pelos \nmodifcadores  de  visibilidade,   assinale  a  opção \ncorreta.\nA hm  atributo  privado  pode  ser  acessado \npelos  métodos  privados  da  propria  classe  e \npelos  métodos  protegidos  das  suas  classes \ndescendentes.\nB hm  atributo  privado  pode  ser  acessado \npelos  métodos  publicos  da  propria  classe \ne  pelos  métodos  publicos  das  suas  classes \ndescendentes.\nC hm membro publico é visível na classe a qual \nele pertence,  mas não é visível nas suas classes \ndescendentes.\nD hm  método  protegido  não  pode  acessar  os \natributos  privados  e  declarados  na  propria \nclasse.\nE  hm membro protegido é visível na classe a qual \npertence e em suas classes descendentes.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Programação e POO"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n17\nQUNSTÃO 10\nConsiTere \nos \nseguintes \nrequisitos \npara \nTesenvolvimento  Te  uma  solução  para  uma  reTe \nTe restaurantes fast-fooT:\nYuanTo o status Te um peTiTo é atualizaTo,  toTos \nos  Tispositivos  Tos  envolviTos  Tevem  receber \na  informação.   Os  sistemas  a  ser  atualizaTos \nincluem os acessaTos pelo entregaTor,  pela linUa \nTe  proTução  e  pela  central  Te  atenTimento.  \nNspera-se ainTa que outros sistemas possam ser \nincluíTos futuramente (por exemplo,  sistema Te \npeTiTo on-line To cliente),  TevenTo se comportar \nTa mesma forma.\nConsiTeranTo esse contexto,  avalie as asserções a \nseguir e a relação proposta entre elas.\n/.   O \nrequisito \napresentaTo \npoTe \nser \nimplementaTo  com  a  utilização  To  paTrão \nTe proũeto Observer.\nPOZYUN\n//.   O  paTrão  Te  proũeto  Observer  realiza  o \nestilo \narquitetural \ncliente-serviTor,  \nno \nqual  o  serviTor  é  responsAvel  por  enviar \nnotifcações aos clientes sempre que Uouver \natualização  em  alguma  informação  Te \ninteresse.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\nQUNSTÃO 11\nO \nencapsulamento \né \num \nmecanismo \nTa \nprogramação  orientaTa  a  obũetos  no  qual  os \nmembros  Te  uma  classe  (atributos  e  métoTos) \nconstituem  uma  caixa  preta.   O  nível  Te \nvisibiliTaTe Tos membros poTe ser TefniTo pelos \nmoTifcaTores Te visibiliTaTe ΗprivaToΗ,  ΗpublicoΗ \ne ΗprotegiToΗ.\nCom  relação  ao  comportamento  geraTo  pelos \nmoTifcaTores  Te  visibiliTaTe,   assinale  a  opção \ncorreta.\nA Um  atributo  privaTo  poTe  ser  acessaTo \npelos  métoTos  privaTos  Ta  propria  classe  e \npelos  métoTos  protegiTos  Tas  suas  classes \nTescenTentes.\nB Um  atributo  privaTo  poTe  ser  acessaTo \npelos  métoTos  publicos  Ta  propria  classe \ne  pelos  métoTos  publicos  Tas  suas  classes \nTescenTentes.\nC Um membro publico é visível na classe a qual \nele pertence,  mas não é visível nas suas classes \nTescenTentes.\nM Um  métoTo  protegiTo  não  poTe  acessar  os \natributos  privaTos  e  TeclaraTos  na  propria \nclasse.\nN  Um membro protegiTo é visível na classe a qual \npertence e em suas classes TescenTentes.\nArea livre\n*R03201717*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q11.png",
-  "caminho_json": "/questoes/2017_CCP/q11.json",
-  "caminho_txt": "/questoes/2017_CCP/q11.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148853"
 }

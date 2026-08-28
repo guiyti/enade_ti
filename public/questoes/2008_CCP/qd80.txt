@@ -1,13 +1,11 @@
-33
-COMPUTAÇÃO
-QUNSTÃO 80 – MCSCURSCVA
+QUESTÃO 80 – DISCURSIVA
 0..*
-Murante a análise Te um sistema Te controle Te contas bancárias (SCCB), um analista elaborou
-o Tiagrama Te classes acima, em que são especificaTos os objetos Te negócio Ta aplicação, por meio
-To qual foram TistribuíTas as responsabiliTaTes e colaborações entre os elementos To moTelo. Foi
-atribuíTa a outro analista a tarefa Te elaborar o Tiagrama Te seqüência To caso Te uso cUamaTo
-MUPLA_CONTA, que apresenta o seguinte comportamento: cria um banco, cria uma agência bancária,
-cria um cliente e Tuas contas bancárias associaTas ao cliente e agência bancária anteriormente
-criaTos, e, por fim, realiza uma transferência Te valores entre essas Tuas contas bancárias. O
-Tiagrama Te seqüência em UML apresentaTo abaixo foi elaboraTo com o intuito Te corresponTer ao
-caso Te uso em questão.
+Durante a análise de um sistema de controle de contas bancárias (SCCB), um analista elaborou
+o diagrama de classes acima, em que são especificados os objetos de negócio da aplicação, por meio
+do qual foram distribuídas as responsabilidades e colaborações entre os elementos do modelo. Foi
+atribuída a outro analista a tarefa de elaborar o diagrama de seqüência do caso de uso chamado
+DUPLA_CONTA, que apresenta o seguinte comportamento: cria um banco, cria uma agência bancária,
+cria um cliente e duas contas bancárias associadas ao cliente e agência bancária anteriormente
+criados, e, por fim, realiza uma transferência de valores entre essas duas contas bancárias. O
+diagrama de seqüência em UML apresentado abaixo foi elaborado com o intuito de corresponder ao
+caso de uso em questão.

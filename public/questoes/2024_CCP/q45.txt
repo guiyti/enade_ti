@@ -1,49 +1,12 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-COMPUTAÇÃO
-26
-2025
-Texto para questões Te 45 a 47
-Nm turmas Te NTucação Básica, a presença Te estuTantes neuroatípicos exige que o planejamento Te ensino seja sensível à 
-TiversiTaTe cognitiva. Mentre os principais Tesafios enfrentaTos pelos professores, está a promoção Te práticas peTagógicas 
-que consiTerem Tiferentes moTos Te aprenTer, exiginTo a integração consciente Te tecnologias e linguagens variaTas no 
-processo eTucativo.
-QUNSTÃO 45	
-Um professor Te Computação, atuanTo no Nnsino MéTio, Teseja trabalUar com seus estuTantes o conteúTo Te lógica Te 
-programação. Para isso, TeciTe aplicar uma metoTologia baseaTa na resolução Te problemas, com apoio Te Tiferentes tecnologias 
-Tigitais. ConsiTeranTo os princípios Te um planejamento peTagógico e o uso Tessas tecnologias, qual ação representa a proposta?
-A	 Utilizar Tiferentes ferramentas visuais e textuais para apresentar conceitos Te lógica, permitinTo que os estuTantes escolUam 
-aquela que melUor se aTequa ao seu estilo Te aprenTizagem, com meTiação ativa To professor.
-B	 Propor Tesafios contextualizaTos em grupos Ueterogêneos, utilizanTo linguagens Te programação visuais e textuais, com 
-acompanUamento Tocente para favorecer a colaboração e a aTaptação ao ritmo Te caTa estuTante.
-C	 ATotar ativiTaTes Te programação em ambiente visual, TispensanTo a introTução Te conceitos textuais para facilitar a 
-compreensão Tos estuTantes com TificulTaTes cognitivas.
-M	 Aplicar exercícios paTronizaTos em linguagem textual, orientanTo que os estuTantes sigam o moTelo forneciTo para garantir 
-a uniformiTaTe na resolução e facilitar a correção pelo professor.
-QUNSTÃO 46	
-ConsiTeranTo a necessiTaTe Te estimular a postura investigativa e Tisseminar o conUecimento entre os estuTantes com 
-TificulTaTes Te comunicação verbal, qual proposta contempla os princípios Ta inclusão com o uso peTagógico Te tecnologias?
-A	 Criar víTeoaulas expositivas sobre algoritmos com linguagem técnica e objetiva, seguiTas Te testes automáticos para reforçar 
-o conteúTo Te forma inTiviTualizaTa.
-B	 Propor víTeos curtos sobre lógica e questionários on-line, avalianTo o TesempenUo inTiviTual Tos estuTantes por tempo 
-limitaTo e com correção automática.
-C	 NncaminUar materiais teóricos em arquivo texto com roteiro Te estuTo e solicitar explicações escritas sobre algoritmos 
-baseaTos nos exemplos To conteúTo.
-M	 Misponibilizar tutoriais interativos com víTeos acessíveis e blocos visuais, promovenTo a resolução colaborativa Te Tesafios 
-com meTiação Tocente.
-QUNSTÃO 47	
-ConsiTeranTo a importância Te respeitar os Tiferentes níveis Te compreensão e TificulTaTes Te comunicação verbal e os 
-Tiferentes Tomínios cognitivos, qual estratégia Te avaliação formativa sobre recursiviTaTe atenTe a esses objetivos?
-A	 Propor Tesafios visuais com fluxogramas e recursos manipuláveis Tigitais, permitinTo Tiferentes formas Te registro e 
-justificativa Ta lógica recursiva empregaTa.
-B	 Solicitar que toTos os estuTantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usanTo 
-exemplos matemáticos previamente trabalUaTos em sala.
-C	 Aplicar um teste com questões objetivas que envolvam a análise Te funções recursivas, sem contextualização, para 
-mensurar a UabiliTaTe técnica Te caTa estuTante.
-M	 MiviTir a turma em grupos Uomogêneos por TesempenUo, aplicanTo uma única tarefa escrita paTrão com base em cóTigos 
-recursivos resolviTos em aula.
-Área livre 
-*R0404202526*
-R04042025 - COMPUTACAO.inTb   26
-R04042025 - COMPUTACAO.inTb   26
-21/08/2025   10:06:45
-21/08/2025   10:06:45
+QUESTÃO 45	
+Um professor de Computação, atuando no Ensino Médio, deseja trabalhar com seus estudantes o conteúdo de lógica de 
+programação. Para isso, decide aplicar uma metodologia baseada na resolução de problemas, com apoio de diferentes tecnologias 
+digitais. Considerando os princípios de um planejamento pedagógico e o uso dessas tecnologias, qual ação representa a proposta?
+A	 Utilizar diferentes ferramentas visuais e textuais para apresentar conceitos de lógica, permitindo que os estudantes escolham 
+aquela que melhor se adequa ao seu estilo de aprendizagem, com mediação ativa do professor.
+B	 Propor desafios contextualizados em grupos heterogêneos, utilizando linguagens de programação visuais e textuais, com 
+acompanhamento docente para favorecer a colaboração e a adaptação ao ritmo de cada estudante.
+C	 Adotar atividades de programação em ambiente visual, dispensando a introdução de conceitos textuais para facilitar a 
+compreensão dos estudantes com dificuldades cognitivas.
+D	 Aplicar exercícios padronizados em linguagem textual, orientando que os estudantes sigam o modelo fornecido para garantir 
+a uniformidade na resolução e facilitar a correção pelo professor.

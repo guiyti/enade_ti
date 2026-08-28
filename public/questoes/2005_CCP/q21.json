@@ -5,17 +5,46 @@
   "paginas": [
     10
   ],
-  "largura": 1156,
-  "altura": 1993,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 25.0,
+      "y0": 487.0955810546875,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q21.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q21.txt",
+  "largura": 1155,
+  "altura": 1304,
+  "confianca": 0.9,
+  "texto_completo": "j\nQUESTÃO 21\nNo modo recursivo de representação, a descrição de um\nconceito faz referência ao próprio conceito. Julgue os itens\nabaixo, com relação à recursividade como paradigma de\nprogramação.\nI\nSão elementos fundamentais de uma definição recursiva:\no caso-base (base da recursão) e a reaplicação da definição.\nII\nO uso da recursão não é possível em linguagens com\nestruturas para orientação a objetos.\nIII As linguagens de programação funcionais têm, na recursão,\nseu principal elemento de repetição.\nIV No que diz respeito ao poder computacional, as estruturas\niterativas e recursivas são equivalentes.\nV\nEstruturas iterativas e recursivas não podem ser misturadas\nem um mesmo programa.\nEstão certos apenas os itens\nA I e IV.\nB II e III.\nC I, III e IV.\nD I, III e V.\nE II, IV e V.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Sistemas Operacionais"
+    "Programação e POO"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 21,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 42.2400016784668,
+      "y": 499.0955810546875,
+      "x1": 88.66800689697266,
+      "y1": 505.0955810546875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 21"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n9\nQUNSTÃO 19\nJulgue os itens seguintes.\nC\n(x P(x)) v (x ¬P(x)) é uma sentença váliTa porque existe\numa interpretação que a torna verTaTeira.\nCC\nA frase “Se um carro é mais caro que toTos os carros\nnacionais, ele Teve ser alemão” poTe ser traTuziTa pela\nseguinte sentença: x carro(x)  y [carro(y)  fabricaTo(y,\nBrasil)  (preco(x) > preco(y)) Y fabricaTo(x, AlemanUa).\nCCC A frase “Nxiste um aluno que gosta Te toTas as Tisciplinas\nTifíceis” poTe ser traTuziTa por: x aluno(x)  y\n[Tisciplina(y)  Tifícil(y)]  gosta(x, y).\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 20\nA orientação a objetos é uma forma abstrata Te pensar um\nproblema utilizanTo-se conceitos To munTo real e não, apenas,\nconceitos computacionais. Nessa perspectiva, a aToção To\nparaTigma orientaTo a objetos implica necessariamente que\nA os usuários utilizem as aplicações Te forma mais simples.\nB os sistemas sejam encapsulaTos por outros sistemas.\nC os programaTores Te aplicações sejam mais especializaTos.\nM os objetos sejam implementaTos Te maneira eficiente e\nsimples.\nN a computação seja acionaTa por troca Te mensagens entre\nobjetos.\nQUNSTÃO 21\nNo moTo recursivo Te representação, a Tescrição Te um\nconceito faz referência ao próprio conceito. Julgue os itens\nabaixo, com relação à recursiviTaTe como paraTigma Te\nprogramação.\nC\nSão elementos funTamentais Te uma Tefinição recursiva:\no caso-base (base Ta recursão) e a reaplicação Ta Tefinição.\nCC\nO uso Ta recursão não é possível em linguagens com\nestruturas para orientação a objetos.\nCCC As linguagens Te programação funcionais têm, na recursão,\nseu principal elemento Te repetição.\nCV No que Tiz respeito ao poTer computacional, as estruturas\niterativas e recursivas são equivalentes.\nV\nNstruturas iterativas e recursivas não poTem ser misturaTas\nem um mesmo programa.\nNstão certos apenas os itens\nA C e CV.\nB CC e CCC.\nC C, CCC e CV.\nM C, CCC e V.\nN CC, CV e V.\nQUNSTÃO 22\nCom relação ao gerenciamento Te memória com paginação em\nsistemas operacionais, assinale a opção correta.\nA As páginas utilizaTas por um processo, sejam Te cóTigo ou Te\nTaTos, Tevem ser obrigatoriamente armazenaTas na partição Te\nswap To Tisco, quanTo o processo não estiver senTo executaTo.\nB ToTas as páginas Te um processo em execução Tevem ser\nmantiTas na memória física enquanto o processo não tiver\nterminaTo.\nC Um processo somente poTe ser iniciaTo se o sistema\noperacional conseguir alocar um bloco contíguo Te páginas To\ntamanUo Ta memória necessária para execução To processo.\nM O espaço Te enTereçamento virtual Tisponível para os processos\npoTe ser maior que a memória física Tisponível.\nN Um processo somente poTe ser iniciaTo se o sistema\noperacional conseguir alocar toTas as páginas Te cóTigo\nTesse processo.\nQUNSTÃO 23\nNm uma perspectiva instrumental clássica, é possível consiTerar\nque uma organização empresarial esteja TiviTiTa em funções e em\nníveis Uierárquicos ou Tecisórios. ConsiTere as seguintes\nTefinições.\nC\nNível responsável pelas Tecisões mais abrangentes Ta\norganização que possuem impacto no longo prazo e permitem\nTirecionar e caracterizar o futuro Ta organização.\nCC\nNível Ta rotina Tiária Ta organização, caracterizaTo por\nTecisões Te impacto a curto prazo.\nCCC Nível responsável pelas Tecisões setoriais Ta organização,\nfocaTo na concretização Tas estratégias a partir To\nacompanUamento e To controle Tas ativiTaTes que irão\nconcretizar os objetivos estabeleciTos.\nAs Tefinições acima corresponTem, respectivamente, aos níveis\nA estratégico, operacional e tático.\nB tático, operacional e estratégico.\nC operacional, estratégico e tático.\nM estratégico, tático e operacional.\nN tático, estratégico e operacional.\nQUNSTÃO 24\nNa Tefinição Ta aquisição Te um novo software Te\nbanco Te TaTos (SGBM) para uma empresa Ta área Te\ntransporte coletivo urbano, a Tireção Ta área Te Cnformática\nconTuziu o processo Te Tecisão Ta seguinte forma: foi\nTesignaTo um profissional Ta área Te banco Te TaTos (aquele\ncom maior experiência na área) e atribuíTa a ele a tarefa Te\nTeciTir qual seria o melUor SGBM a ser aTquiriTo. Nsse\nprofissional Tesenvolveu uma série Te estuTos sobre as opções\nTisponíveis utilizanTo técnicas Te simulação e testes específicos\npara caTa SGBM analisaTo. Ao final, apresentou ao Tiretor\num relatório em que inTicava claramente qual o melUor SGBM\n(solução ótima) Tisponível no mercaTo. Com base nessa\ninformação, o Tiretor Ta empresa Tisparou o processo Te\ncompra To software (SGBM) inTicaTo.\nNsse processo Tecisório classifica-se na aborTagem\nA racional.\nB Te racionaliTaTe limitaTa.\nC política.\nM To incrementalismo.\nN To componente subjetivo.",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q21.png",
-  "caminho_json": "/questoes/2005_CCP/q21.json",
-  "caminho_txt": "/questoes/2005_CCP/q21.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297324"
 }

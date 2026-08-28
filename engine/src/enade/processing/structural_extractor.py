@@ -49,7 +49,7 @@ RE_OBJETIVA = re.compile(
 )
 
 RE_SURVEY_HEADING = re.compile(
-    r'^\s*QUESTION[ÁA]RIO\s+DE\s+PERCEP[ÇC][ÃA]O',
+    r'^\s*(?:QUESTION[ÁA]RIO\s+DE\s+PERCEP[ÇC][ÃA]O|AVALIA[ÇC][ÃA]O\s+GLOBAL\s+DA\s+PROVA|QUESTION[ÁA]RIO\s+DO\s+ESTUDANTE)',
     re.IGNORECASE | re.MULTILINE
 )
 
@@ -84,12 +84,29 @@ class TextBlock:
     font_name: str = ""
 
 
-def extract_text_blocks(page: fitz.Page, page_num: int, num_colunas: int, mid_x: float) -> List[TextBlock]:
+def extract_text_blocks(
+    page: fitz.Page, 
+    page_num: int, 
+    num_colunas: int, 
+    mid_x: float,
+    header_cutoff_y: float = 0.0,
+    footer_cutoff_y: float = 0.0
+) -> List[TextBlock]:
     blocks = []
     dict_data = page.get_text("dict")
+    h = page.rect.height
+    
+    y_top = header_cutoff_y if header_cutoff_y > 0 else 0.0
+    y_bot = footer_cutoff_y if footer_cutoff_y > 0 else h
     
     for b in dict_data.get("blocks", []):
         if "lines" not in b:
+            continue
+            
+        x0, y0, x1, y1 = b["bbox"]
+        
+        # Skip blocks completely outside content region
+        if y1 <= y_top or y0 >= y_bot:
             continue
         
         block_text_parts = []
@@ -110,14 +127,12 @@ def extract_text_blocks(page: fitz.Page, page_num: int, num_colunas: int, mid_x:
         if not full_text:
             continue
             
-        x0, y0, x1, y1 = b["bbox"]
-        
-        # Determine column
+        # Determine column (1=left, 2=right, 0=spans both or single column)
         if num_colunas == 2:
-            if x1 <= mid_x + 10:
-                coluna = 0
-            elif x0 >= mid_x - 10:
+            if x1 <= mid_x + 15:
                 coluna = 1
+            elif x0 >= mid_x - 15:
+                coluna = 2
             else:
                 coluna = 0 # spans both
         else:
@@ -144,15 +159,25 @@ def detect_markers_in_page(
     page_num: int, 
     num_colunas: int, 
     mid_x: float,
-    blocks: List[TextBlock]
+    blocks: List[TextBlock],
+    header_cutoff_y: float = 0.0,
+    footer_cutoff_y: float = 0.0
 ) -> Tuple[List[Marker], List[SharedContext]]:
     markers = []
     shared_contexts = []
+    
+    h = page.rect.height
+    y_top = header_cutoff_y if header_cutoff_y > 0 else 55.0
+    y_bot = footer_cutoff_y if footer_cutoff_y > 0 else (h - 45.0)
     
     # Sort blocks by column, then by y0
     sorted_blocks = sorted(blocks, key=lambda b: (b.coluna, b.y0))
     
     for b in sorted_blocks:
+        # Ignore blocks outside content boundary
+        if b.y1 <= y_top or b.y0 >= y_bot:
+            continue
+            
         # Check for Survey Heading (End of Exam)
         if RE_SURVEY_HEADING.search(b.text):
             logger.info(f"Survey heading found on page {page_num}, col {b.coluna} at y={b.y0:.1f}")
@@ -169,12 +194,13 @@ def detect_markers_in_page(
             
             has_bold = "bold" in b.font_name.lower() or "negrito" in b.font_name.lower() or b.font_size >= 11.0
             conf = 1.0 if (has_bold and num is not None) else 0.85
+            col = b.coluna if b.coluna > 0 else (1 if (num_colunas == 2 and b.x0 < mid_x) else (2 if num_colunas == 2 else 0))
             
             qm = Marker(
                 numero=num if num is not None else 1,
                 tipo=QuestionType.DISCURSIVA,
                 pagina=page_num,
-                coluna=b.coluna,
+                coluna=col,
                 x=b.x0,
                 y=b.y0,
                 x1=b.x1,
@@ -191,17 +217,18 @@ def detect_markers_in_page(
         if m_obj:
             num = int(m_obj.group(1))
             
-            if y_is_header_or_footer(b.y0, page.rect.height):
+            if b.y0 < y_top or b.y0 > y_bot:
                 continue
                 
             has_bold = "bold" in b.font_name.lower() or "negrito" in b.font_name.lower() or b.font_size >= 11.0
             conf = 1.0 if has_bold else 0.90
+            col = b.coluna if b.coluna > 0 else (1 if (num_colunas == 2 and b.x0 < mid_x) else (2 if num_colunas == 2 else 0))
             
             qm = Marker(
                 numero=num,
                 tipo=QuestionType.OBJETIVA,
                 pagina=page_num,
-                coluna=b.coluna,
+                coluna=col,
                 x=b.x0,
                 y=b.y0,
                 x1=b.x1,
@@ -216,9 +243,10 @@ def detect_markers_in_page(
         # Check for Shared Context / Motivator texts
         m_ctx = RE_SHARED_CONTEXT.search(b.text)
         if m_ctx:
+            col = b.coluna if b.coluna > 0 else (1 if (num_colunas == 2 and b.x0 < mid_x) else (2 if num_colunas == 2 else 0))
             sc = SharedContext(
                 pagina=page_num,
-                coluna=b.coluna,
+                coluna=col,
                 x0=b.x0,
                 y0=b.y0,
                 x1=b.x1,
@@ -231,7 +259,7 @@ def detect_markers_in_page(
 
 
 def y_is_header_or_footer(y: float, page_height: float) -> bool:
-    """Header (< 55 pt) or footer (> height - 45 pt) threshold filter."""
+    """Header (< 55 pt) or footer (> height - 45 pt) threshold filter fallback."""
     return y < 55.0 or y > (page_height - 45.0)
 
 
@@ -240,7 +268,8 @@ from ..config import config
 
 def extract_structural_data(exam: Exam) -> Tuple[Exam, List[Marker], List[SharedContext]]:
     """
-    Extracts all text blocks, question markers, and shared contexts across all pages of an exam.
+    Extracts all text blocks, question markers, and shared contexts across all pages of an exam,
+    respecting the exam layout profile and stopping before the survey questionnaire.
     """
     pdf_path = Path(exam.arquivo)
     if not pdf_path.exists():
@@ -249,8 +278,26 @@ def extract_structural_data(exam: Exam) -> Tuple[Exam, List[Marker], List[Shared
     all_markers: List[Marker] = []
     all_contexts: List[SharedContext] = []
     
-    # Process each page (skip cover page 1)
-    for p_idx in range(1, len(doc)):
+    hdr_cut = 0.0
+    ftr_cut = 0.0
+    if exam.layout_profile:
+        hdr_cut = exam.layout_profile.get("header_cutoff_y", 0.0)
+        ftr_cut = exam.layout_profile.get("footer_cutoff_y", 0.0)
+        
+    # Detect if survey questionnaire begins in the second half of the document
+    start_search_survey = max(1, int(len(doc) * 0.6))
+    survey_start_page = None
+    for p_idx in range(start_search_survey, len(doc)):
+        text = doc[p_idx].get_text()
+        if RE_SURVEY_HEADING.search(text):
+            survey_start_page = p_idx + 1
+            logger.info(f"Questionário de percepção detectado na página {survey_start_page}. Interrompendo extração de questões.")
+            break
+            
+    max_exam_page = (survey_start_page - 1) if survey_start_page else len(doc)
+    
+    # Process each page (skip cover page 1 and stop before survey)
+    for p_idx in range(1, max_exam_page):
         page = doc[p_idx]
         page_num = p_idx + 1
         
@@ -258,8 +305,14 @@ def extract_structural_data(exam: Exam) -> Tuple[Exam, List[Marker], List[Shared
         num_colunas = page_data.num_colunas if page_data else 1
         mid_x = page_data.coluna_divisoria_x if page_data else (page.rect.width / 2.0)
         
-        blocks = extract_text_blocks(page, page_num, num_colunas, mid_x)
-        markers, contexts = detect_markers_in_page(page, page_num, num_colunas, mid_x, blocks)
+        blocks = extract_text_blocks(
+            page, page_num, num_colunas, mid_x,
+            header_cutoff_y=hdr_cut, footer_cutoff_y=ftr_cut
+        )
+        markers, contexts = detect_markers_in_page(
+            page, page_num, num_colunas, mid_x, blocks,
+            header_cutoff_y=hdr_cut, footer_cutoff_y=ftr_cut
+        )
         
         all_markers.extend(markers)
         all_contexts.extend(contexts)

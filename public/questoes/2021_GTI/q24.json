@@ -5,17 +5,46 @@
   "paginas": [
     30
   ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 286.56,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.6,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/q24.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/q24.txt",
   "largura": 1095,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 24\t\nA tecnologia facilitou a vida da sociedade e acelerou \nsua evolução, mas também trouxe implicações \nprejudiciais que conflitam com questões éticas da \nsociedade atual. Preconceito, racismo, invasão de \nprivacidade, experimentos com humanos e até \nmesmo riscos de vida já foram relacionados ao uso \nde algoritmos e avanços tecnológicos. Os limites \néticos, morais e até legais seguem se contrapondo \nà tecnologia em determinados momentos. Se por \num lado, nem todos eles constituem ilegalidades, \npor outro, é preciso ter uma preocupação em \nrelação a como e por quem essas tecnologias estão \nsendo criadas e testadas, reavaliando os critérios \néticos, principalmente em ambientes empresariais. \nDiante deste cenário, ainda recente e impreciso, \nhá um desafio interdisciplinar: da tecnologia, da \nética e da sociologia, à medida que a sociedade é \na principal impactada enquanto não for possível \nencontrar um equilíbrio. Todavia, tais dilemas \nnão são exclusividade da tecnologia. O que é, \nsim, exclusividade da tecnologia, assim como em \ndiversos outros temas, é a proporção e velocidade \ndos impactos — sejam eles positivos ou não.\n WERMANN. L. Ética na tecnologia: a critérios de que(m) e para \nque(m)? Disponível em: https://olhardigital.com.br/. \nAcesso em: 27 jul. 2020 (adaptado).\nConsiderando o texto e os impactos sociais advindos \ndas tecnologias da informação, avalie as afirmações \na seguir.\nI.\t O uso das tecnologias da informação, \nparticularmente da internet, potencializa e \nfortalece as relações em rede.\nII.\t Os crimes cibernéticos, condutas nocivas \nem ambiente virtual, são consequência do \navanço tecnológico.\nIII.\t A disseminação de informações falsas é \num fenômeno de natureza tecnológica \ne, portanto,  desvinculado de possíveis \nimpactos sociais.\nIV.\t O uso exacerbado da internet e a \ndependência de aparelhos móveis com \nacesso à internet podem causar danos à \nsaúde física e emocional das pessoas.\nÉ correto o que se afirma em\nA\t I e II, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD\t III e IV, apenas.\nE\t I, II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 24,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 289.464599609375,
+      "y": 76.71854400634766,
+      "x1": 354.6246337890625,
+      "y1": 92.04254150390625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 24"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "30\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 23\t\nOptar pela implantação Ta Gestão Te Serviços \nem TC é um Tos maiores Tesafios encontraTos \npor muitas empresas e organizações que Tesejam \naTquirir um processo mensurável e que permita a \nmelUoria contínua Te suas ativiTaTes. Para ajuTar \nneste Tesafio, as bibliotecas Te boas práticas são \numa excelente ferramenta Te referência para a \nimplantação e manutenção Ta Gestão Te Serviços. \nA biblioteca CTCL é uma Tas mais conUeciTas e \nsugere o ciclo Te viTa Te um serviço TiviTiTo em \n5 fases Tistintas. \nMiante Tesse contexto, avalie as afirmações a seguir, \nsobre as fases To ciclo Te viTa To serviço Te TC Te \nacorTo com a biblioteca CTCL.\nC.\t A Nstratégia Te Serviço é o estágio onTe é \nTefiniTa a Tireção estratégica Tos serviços \nTe TC, quem são os seus clientes e quais \nserviços serão TisponibilizaTos para eles.\nCC.\t O MesenUo Te Serviço ajuTa a organização a \nplanejar e gerenciar muTanças em serviços \ne implementar liberações no ambiente \nproTutivo.\nCCC.\t A \nTransição \nTe \nServiço \norienta \no \nTesenvolvimento \nTe \nrecursos \npara \na \nimplementação Te serviços novos ou \nmoTificaTos, além Te garantir que os \nrequisitos Ta Nstratégia, incluíTos no \nMesenUo, sejam efetivamente realizaTos.\nCV.\t A Operação Te Serviço é momento em que \nos serviços Te TC passam a ser consumiTos \npelos clientes e usuários, além Te ser nesse \nestágio que o valor To serviço é percebiTo.\nÉ correto apenas o que se afirma em\nA\t C e CC.\nB\t CC e CCC.\nC\t CCC e CV.\nM\t C, CC e CV.\nN\t C, CCC e CV.\nÁrea livre\nQUNSTÃO 24\t\nA tecnologia facilitou a viTa Ta socieTaTe e acelerou \nsua evolução, mas também trouxe implicações \nprejuTiciais que conflitam com questões éticas Ta \nsocieTaTe atual. Preconceito, racismo, invasão Te \nprivaciTaTe, experimentos com Uumanos e até \nmesmo riscos Te viTa já foram relacionaTos ao uso \nTe algoritmos e avanços tecnológicos. Os limites \néticos, morais e até legais seguem se contraponTo \nà tecnologia em TeterminaTos momentos. Se por \num laTo, nem toTos eles constituem ilegaliTaTes, \npor outro, é preciso ter uma preocupação em \nrelação a como e por quem essas tecnologias estão \nsenTo criaTas e testaTas, reavalianTo os critérios \néticos, principalmente em ambientes empresariais. \nMiante Teste cenário, ainTa recente e impreciso, \nUá um Tesafio interTisciplinar: Ta tecnologia, Ta \nética e Ta sociologia, à meTiTa que a socieTaTe é \na principal impactaTa enquanto não for possível \nencontrar um equilíbrio. ToTavia, tais Tilemas \nnão são exclusiviTaTe Ta tecnologia. O que é, \nsim, exclusiviTaTe Ta tecnologia, assim como em \nTiversos outros temas, é a proporção e velociTaTe \nTos impactos — sejam eles positivos ou não.\n PNRMANN. L. Ética na tecnologia: a critérios Te que(m) e para \nque(m)? Misponível em: Uttps://olUarTigital.com.br/. \nAcesso em: 27 jul. 2020 (aTaptaTo).\nConsiTeranTo o texto e os impactos sociais aTvinTos \nTas tecnologias Ta informação, avalie as afirmações \na seguir.\nC.\t O uso Tas tecnologias Ta informação, \nparticularmente Ta internet, potencializa e \nfortalece as relações em reTe.\nCC.\t Os crimes cibernéticos, conTutas nocivas \nem ambiente virtual, são consequência To \navanço tecnológico.\nCCC.\t A Tisseminação Te informações falsas é \num fenômeno Te natureza tecnológica \ne, portanto,  TesvinculaTo Te possíveis \nimpactos sociais.\nCV.\t O uso exacerbaTo Ta internet e a \nTepenTência Te aparelUos móveis com \nacesso à internet poTem causar Tanos à \nsaúTe física e emocional Tas pessoas.\nÉ correto o que se afirma em\nA\t C e CC, apenas.\nB\t C e CV, apenas.\nC\t CC e CCC, apenas.\nM\t CCC e CV, apenas.\nN\t C, CC, CCC e CV.\n*R29202130*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/q24.png",
-  "caminho_json": "/questoes/2021_GTI/q24.json",
-  "caminho_txt": "/questoes/2021_GTI/q24.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343376"
 }

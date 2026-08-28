@@ -5,17 +5,46 @@
   "paginas": [
     33
   ],
+  "segmentos": [
+    {
+      "pagina": 33,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 567.5560913085938,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q35.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2075,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 35 \n s  iniciais  &D I  (Fairness,   Disclosure,   Accountability and Compliance)  representam  os  princípios  da \ngovernança corporativa,  conũunto de processos,  costumes,  políticas,  leis,  regulamentos e instituições que \nregulam o modo como uma empresa é dirigida,  administrada ou controlada.\nEngana-se  quem  pensa  que  o  conceito  de  governança  serve  apenas  para  grandes  grupos,   pois,   até \nmesmo em pequenas empresas familiares,  o simples entendimento dos princípios bAsicos da governança \ncorporativa certamente trarA beneİcios para a consolidação e o sucesso dos negocios,  ũA que permitem \na criação de um sistema efciente de gestão,  assegurando que os interesses dos executivos responsAveis \npela empresa seũam os mesmos dos seus acionistas.\n^dZ ^D ^,  W. &airness,  disclosure,  accountabilitǇ and compliance.  Disponível em:  фhtp:ͬͬ\nǁǁǁ. pauloũunior. netх.  \n cesso em:  20 ũul.  2017 (adaptado).\nEm relação a defnição dos princípios da governança corporativa (&D I),  avalie as afrmações a seguir.\n/.   Fairness  (equidade)  consiste  no  tratamento  ũusto  conferido  a  todos  os  colaboradores,   com \na garantia,  por exemplo,  de remuneração igual para a mesma função e oportunidades iguais a \npromoções.\n//.   Disclosure (divulgação) consiste no deseũo ou na obrigação de divulgar as realizações da empresa \naos clientes,  fornecedores,  acionistas e mercado,  principalmente as informações relevantes que \ntenham inŇugncia nos negocios ou que envolvam resultados,  oportunidades e riscos.\n///.   Accountability  (prestação  de  contas)  consiste  na  responsabilidade  da  prestação  de  contas \nfundamentada nas melhores prAticas contAbeis e de auditoria.\n/s.   Compliance  (conformidade)  consiste  no  compromisso  da  organização  de  criar  valor  para  suas \npartes interessadas,  gerando beneİcios com a melhor relação de custo e com a otimização de \nriscos.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  // e ///.\nC  /// e /s.\nD  /,  // e /s.\nE  /,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 33,
+      "x": 60.65340042114258,
+      "y": 88.67594909667969,
+      "x1": 125.81340026855469,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 35"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "33\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nYUNSTãO 35 \n s  iniciais  &M C  (Fairness,   Misclosure,   Accountability anT Compliance)  representam  os  princípios  Ta \ngovernança corporativa,  conũunto Te processos,  costumes,  políticas,  leis,  regulamentos e instituições que \nregulam o moTo como uma empresa é TirigiTa,  aTministraTa ou controlaTa.\nNngana-se  quem  pensa  que  o  conceito  Te  governança  serve  apenas  para  granTes  grupos,   pois,   até \nmesmo em pequenas empresas familiares,  o simples entenTimento Tos princípios bAsicos Ta governança \ncorporativa certamente trarA beneİcios para a consoliTação e o sucesso Tos negocios,  ũA que permitem \na criação Te um sistema efciente Te gestão,  asseguranTo que os interesses Tos executivos responsAveis \npela empresa seũam os mesmos Tos seus acionistas.\nSTZ SM S,  P. &airness,  Tisclosure,  accountabilitǇ anT compliance.  Misponível em:  фUtp:ͬͬ\nǁǁǁ. pauloũunior. netх.  \n cesso em:  20 ũul.  2017 (aTaptaTo).\nNm relação a Tefnição Tos princípios Ta governança corporativa (&M C),  avalie as afrmações a seguir.\n/.   Fairness  (equiTaTe)  consiste  no  tratamento  ũusto  conferiTo  a  toTos  os  colaboraTores,   com \na garantia,  por exemplo,  Te remuneração igual para a mesma função e oportuniTaTes iguais a \npromoções.\n//.   Misclosure (Tivulgação) consiste no Teseũo ou na obrigação Te Tivulgar as realizações Ta empresa \naos clientes,  forneceTores,  acionistas e mercaTo,  principalmente as informações relevantes que \ntenUam inŇugncia nos negocios ou que envolvam resultaTos,  oportuniTaTes e riscos.\n///.   Accountability  (prestação  Te  contas)  consiste  na  responsabiliTaTe  Ta  prestação  Te  contas \nfunTamentaTa nas melUores prAticas contAbeis e Te auTitoria.\n/s.   Compliance  (conformiTaTe)  consiste  no  compromisso  Ta  organização  Te  criar  valor  para  suas \npartes interessaTas,  geranTo beneİcios com a melUor relação Te custo e com a otimização Te \nriscos.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  // e ///.\nC  /// e /s.\nM  /,  // e /s.\nN  /,  /// e /s.\nArea livre\n*R43201733*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q35.png",
-  "caminho_json": "/questoes/2017_GTI/q35.json",
-  "caminho_txt": "/questoes/2017_GTI/q35.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697723"
 }

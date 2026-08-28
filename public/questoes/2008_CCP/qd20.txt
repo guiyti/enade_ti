@@ -1,181 +1,67 @@
-9
-COMPUTAÇÃO
-QUNSTÃO 19
-Uma alternativa para o aumento Te TesempenUo Te sistemas computacionais é o uso Te processaTores com múltiplos
-núcleos, cUamaTos multicores. Nesses sistemas, caTa núcleo, normalmente, tem as funcionaliTaTes completas Te um
-processaTor, já senTo comuns, atualmente, configurações com 2, 4 ou mais núcleos. Com relação ao uso Te
-processaTores multicores, e sabenTo que tUreaTs são estruturas Te execução associaTas a um processo, que
-compartilUam suas áreas Te cóTigo e TaTos, mas mantêm contextos inTepenTentes, analise as seguintes asserções.
-Ao TiviTirem suas ativiTaTes em múltiplas tUreaTs que poTem ser executaTas paralelamente, aplicações poTem se
-beneficiar mais efetivamente Tos Tiversos núcleos Tos processaTores multicores
-porque
-o sistema operacional nos processaTores multicores poTe alocar os núcleos existentes para executar simultaneamente
-Tiversas seqüências Te cóTigo, sobreponTo suas execuções e, normalmente, reTuzinTo o tempo Te resposta Tas
-aplicações às quais estão associaTas.
-Acerca Tessas asserções, assinale a opção correta.
-A
-As Tuas asserções são proposições verTaTeiras, e a segunTa é uma justificativa correta Ta primeira.
-B
-As Tuas asserções são proposições verTaTeiras, mas a segunTa não é uma justificativa correta Ta primeira.
-C
-A primeira asserção é uma proposição verTaTeira, e a segunTa, uma proposição falsa.
-M
-A primeira asserção é uma proposição falsa, e a segunTa, uma proposição verTaTeira.
-N
-Tanto a primeira quanto a segunTa asserções são proposições falsas.
-QUNSTÃO 20 – MCSCURSCVA
-Tabelas Te Tispersão (tabelas
-UasU) armazenam elementos com
-base no valor absoluto Te suas
-cUaves e em técnicas Te tratamento
-Te colisões. As funções Te Tispersão
-transformam cUaves em enTereços-
-base Ta tabela, ao passo que o
+E
+Tanto a primeira quanto a segunda asserções são pro
+QUESTÃO 20 – DISCURSIVA
+Tabelas de dispersão (tabelas
+hash) armazenam elementos com
+base no valor absoluto de suas
+chaves e em técnicas de tratamento
+de colisões. As funções de dispersão
+transformam chaves em endereços-
+base da tabela, ao passo que o
 tratamento 
-Te 
+de 
 colisões 
 resolve
-conflitos em casos em que mais Te
-uma cUave é mapeaTa para um
-mesmo enTereço-base Ta tabela. 
-SuponUa que uma aplicação
-utilize uma tabela Te Tispersão com
-23 enTereços-base (ínTices Te 0 a 22)
-e empregue U(x) = x moT 23 como
-função Te Tispersão, em que x
-representa a cUave To elemento cujo
-enTereço-base Teseja-se computar.
-Cnicialmente, essa tabela Te Tispersão
-encontra-se vazia. Nm seguiTa, a
-aplicação solicita uma seqüência Te
-inserções Te elementos cujas cUaves
-aparecem na seguinte orTem: 44, 46,
+conflitos em casos em que mais de
+uma chave é mapeada para um
+mesmo endereço-base da tabela. 
+Suponha que uma aplicação
+utilize uma tabela de dispersão com
+23 endereços-base (índices de 0 a 22)
+e empregue h(x) = x mod 23 como
+função de dispersão, em que x
+representa a chave do elemento cujo
+endereço-base deseja-se computar.
+Inicialmente, essa tabela de dispersão
+encontra-se vazia. Em seguida, a
+aplicação solicita uma seqüência de
+inserções de elementos cujas chaves
+aparecem na seguinte ordem: 44, 46,
 49, 70, 27, 71, 90, 97, 95.
-Com relação à aplicação Tescrita, faça o que se peTe a seguir.
-A Nscreva, no espaço reservaTo, o conjunto Tas cUaves envolviTas em
+Com relação
+A Escreva,
 colisões.
-(valor: 4,0 pontos)
-RASCUNHO – QUNSTÃO 20 - A
-B Assuma que a tabela Te Tispersão trate colisões por meio Te
-encaTeamento exterior. Nsboce a tabela Te Tispersão para mostrar
-seu conteúTo após a seqüência Te inserções referiTa.
-(valor: 6,0 pontos)
-RASCUNHO – QUNSTÃO 20 - B
+B Assuma 
+encadea
+seu cont
 
-10
-COMPUTAÇÃO
-1 – A seguir serão apresentaTas questões Te Múltipla NscolUa e Miscursivas específicas
-para as moTaliTaTes Tos cursos Te computação, assim TistribuíTas:
-Perfil To curso
-Número Tas Questões
-Múltipla NscolUa
-Miscursivas
-BacUarelaTo em Ciência Ta Computação
-21 a 38
-39 e 40
-NngenUaria Te Computação
-41 a 58
-59 e 60
-BacUarelaTo em Sistemas Te Cnformação
-61 a 78
-79 e 80
-2 – Você Teve responTer apenas às questões referentes ao perfil profissional To curso em
-que você está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.
-3 – Observe atentamente os números Tas questões corresponTentes à moTaliTaTe To curso na qual você está inscrito
-para preencUer corretamente o CaTerno Te Respostas.
-As questões Te 21 a 40, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te 
-BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO.
-QUNSTÃO 21
-ConsiTere a relação NMPRNGAMO (NumeroNmp, RG, nome,
-sobrenome, salario, enTereco), em que o atributo grifaTo
-corresponTe à cUave primária Ta relação. SuponUa que se
-Teseje realizar as seguintes consultas:
-1
-Listar o nome Tos empregaTos com sobrenome Silva;
-2
-Listar o nome Tos empregaTos em orTem crescente Te
-seus sobrenomes.
-Nm relação à Tefinição Te um ínTice sobre o atributo
-sobrenome para melUorar o TesempenUo Tas consultas
-acima, julgue os itens a seguir.
-C
-Um ínTice que implemente Árvore-B+ será aTequaTo
-para melUorar o TesempenUo Ta consulta 1.
-CC
-Um ínTice que implemente Árvore-B+ será aTequaTo
-para melUorar o TesempenUo Ta consulta 2.
-CCC Um ínTice que implemente uma função UasU será
-aTequaTo para melUorar o TesempenUo Ta consulta 1.
-CV Um ínTice que implemente uma função UasU será
-aTequaTo para melUorar o TesempenUo Ta consulta 2.
-Assinale a opção correta.
-A
-Apenas um item está certo.
-B
-Apenas os itens C e CC estão certos.
-C
-Apenas os itens CCC e CV estão certos.
-M
-Apenas os itens C, CC e CCC estão certos.
-N
-ToTos os itens estão certos.
-QUNSTÃO 22
-Qual tipo Te software traTutor Teve ser utilizaTo para
-programas em geral, quanTo a velociTaTe Te execução é
-uma exigência Te alta prioriTaTe?
-A
-compilaTores
-B
-interpretaTores
-C
-traTutores UíbriTos
-M
-macroprocessaTores
-N
-interpretaTores Te macroinstruções
-QUNSTÃO 23 
-ConsiTere o esquema Te banco Te TaTos relacional
-apresentaTo a seguir, formaTo por 4 relações, que
-representa o conjunto Te estuTantes Te uma universiTaTe
-que poTem, ou não, morar em repúblicas (moraTias
-compartilUaTas por estuTantes). A relação NstuTante foi
-moTelaTa como um subconjunto Ta relação Pessoa.
-ConsiTere que os atributos grifaTos corresponTam à
-cUave primária Ta respectiva relação e os atributos que
-são seguiTos Ta palavra referencia sejam cUaves
-estrangeiras.
-Pessoa(CTPessoa:integer, 
-Nome:varcUar(40),
-NnTereco:varcUar(40))
-FonePessoa(CTPessoa:integer referencia Pessoa,
-MMM:varcUar(3), Prefixo:cUar(4), Nro:cUar(4))
-Republica(CTRep:integer, 
-Nome:varcUar(30),
-NnTereco:varcUar(40))
-NstuTante(RA:integer, 
-Nmail:varcUar(30),
-CTPessoa:integer 
-referencia 
-Pessoa,
-CTRep:integer referencia Republica)
-SuponUa que existam as seguintes tuplas no banco Te
-TaTos:
-Pessoa(1, ‘José Silva’, ‘Rua 1, 20’);
-Republica(20, ‘Várzea’, ‘Rua CUaves, 2001’)
-Qual opção apresenta apenas tuplas váliTas para esse
-esquema Te banco Te TaTos relacional?
-A
-NstuTante(10, ‘jsilva@ig.com.br’, null, 20);
-FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
-B
-NstuTante(10, ‘jsilva@ig.com.br’, 1, null);
-FonePessoa(10, ‘019’, ‘3761’, ‘1370’)
-C
-NstuTante(10, ‘jsilva@ig.com.br’, 1, 20); 
-FonePessoa(1, null, ‘3761’, ‘1370’)
-M
-NstuTante(10, ‘jsilva@ig.com.br’, 1, 50); 
-FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
-N
-NstuTante(10, ‘jsilva@ig.com.br’, 1, null);
-FonePessoa(1, ‘019’, ‘3761’, ‘1370’)
+as computacionais é o uso de processadores com múltiplos
+eo, normalmente, tem as funcionalidades completas de um
+es com 2, 4 ou mais núcleos. Com relação ao uso de
+struturas de execução associadas a um processo, que
+contextos independentes, analise as seguintes asserções.
+dem ser executadas paralelamente, aplicações podem se
+essadores multicores
+locar os núcleos existentes para executar simultaneamente
+ões e, normalmente, reduzindo o tempo de resposta das
+egunda é uma justificativa correta da primeira.
+a segunda não é uma justificativa correta da primeira.
+segunda, uma proposição falsa.
+da, uma proposição verdadeira.
+osições falsas.
+à aplicação descrita, faça o que se pede a seguir.
+no espaço reservado, o conjunto das chaves envolvidas em
+(valor: 4,0 pontos)
+
+1 – A seguir serão apresenta
+para as modalidades dos curs
+Perfil d
+Bacharelado em Ciên
+Engenharia de Comp
+Bacharelado em Siste
+2 – Você deve responder apen
+que você está inscrito, de acor
+3 – Observe atentamente os números das questões corres
+para preencher corretamente o Caderno de Respostas.
+As questões de 21 a 40, a seguir, são específicas par
+BACHARELADO EM CIÊ

@@ -1,50 +1,61 @@
-24
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 16	
-Uma ONG TeciTiu construir um Uospital Te campanUa para tratamento Te pacientes TiagnosticaTos 
-com a CoviT-19. Para auxiliar na gerência Uospitalar, a ONG contratou alguns programaTores voluntários 
-para Tesenvolver um Sistema Te Suporte à Mecisão para Gestão Hospitalar. Nsse sistema irá auxiliar no 
-registro Te toTos os proceTimentos Tiários realizaTos no paciente que Tá entraTa no Uospital, TesTe sua 
-internação até a saíTa, seja essa saíTa por recebimento Te alta, por transferência ou óbito. O sistema foi 
-toTo TesenvolviTo em Java Te acorTo com o ParaTigma OrientaTo a Objetos. Murante o curto processo Te 
-análise, TeviTo à urgência, foram construíTos Tiversos Tiagramas em UML (UnifieT MoTeling Language). 
-Um Tesses Tiagramas relaciona a interação entre os objetos To sistema, o Miagrama Te Sequência. 
-Nsse Tiagrama é apresentaTo a seguir.
-ConsiTeranTo o Miagrama Te Sequência apresentaTo, assinale a opção correta.
-A	 Leito é uma subclasse Te UTC.
-B	 O métoTo registraPaciente() é implementaTo por Paciente.
-C	 ToTos os objetos foram criaTos no instante Te execução To Caso Te Uso representaTo.
-M	 O Tiagrama apresenta um erro ao não representar as mensagens Te retorno Tepois Ta Testruição Tos objetos.
-N	 A mensagem 4 poTe ser substituíTa pelo estereótipo <<create>> sem causar prejuízo à interpretação 
-correta To Miagrama Te Sequência representaTo.
-Área livre
+QUESTÃO 16	
+Uma ONG decidiu construir um hospital de camp
+com a Covid-19. Para auxiliar na gerência hospitalar,
+para desenvolver um Sistema de Suporte à Decisão
+registro de todos os procedimentos diários realizado
+internação até a saída, seja essa saída por recebime
+todo desenvolvido em Java de acordo com o Paradig
+análise, devido à urgência, foram construídos divers
+Um desses diagramas relaciona a interação entre
+Esse diagrama é apresentado a seguir.
+Considerando o Diagrama de Sequência apresentad
+A	 Leito é uma subclasse de UTI.
+B	 O método registraPaciente() é implementado po
+C	 Todos os objetos foram criados no instante de ex
+D	 O diagrama apresenta um erro ao não representar as
+E	 A mensagem 4 pode ser substituída pelo estereó
+correta do Diagrama de Sequência representado
 3: Consulta existência 
-Te leitos : 
+de leitos : 
 consultaLeitos()
-1: Registro To 
+1: Registro do 
 Paciente:
 registraPaciente()
-4: Consulta 
-TisponibiliTaTe Te UTC :
-consultaUTC()
-UTC
-Cntervencao
+di
 Leito
 Registro
 Paciente
-5: UTC geraTa
-6: Leito GeraTo
+6: Leito Gerado
 2: Retorna o número
-To paciente.
-7: Realiza Cntervenção : realizaCntervencao()
-10: Cntervenção RealizaTa
-11: Liberação To
+do paciente.
+7: Realiza Intervenção : realizaIntervencao()
+10: Intervenção Realizada
+11: Liberação do
 Paciente:
 liberaPaciente()
 12: Libera Leito
-8: realizaCntervencao()
-9: Cntervenção
-RealizaTa
+
+nha para tratamento de pacientes diagnosticados 
+a ONG contratou alguns programadores voluntários 
+para Gestão Hospitalar. Esse sistema irá auxiliar no 
+s no paciente que dá entrada no hospital, desde sua 
+nto de alta, por transferência ou óbito. O sistema foi 
+ma Orientado a Objetos. Durante o curto processo de 
+os diagramas em UML (Unified Modeling Language). 
+os objetos do sistema, o Diagrama de Sequência. 
+, assinale a opção correta.
+Paciente.
+ecução do Caso de Uso representado.
+mensagens de retorno depois da destruição dos objetos.
+tipo <<create>> sem causar prejuízo à interpretação 
+4: Consulta 
+ponibilidade de UTI :
+consultaUTI()
+UTI
+Intervencao
+5: UTI gerada
+8: realizaIntervencao()
+9: Intervenção
+Realizada
 Laço
 Proﬁssional
-*R28202124*

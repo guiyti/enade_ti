@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 292.5111083984375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q24.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q24.txt",
   "largura": 2475,
-  "altura": 904,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 895,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 24\t\nO acesso à internet e aos recursos tecnológicos, como dispositivos móveis e outros, vem crescendo na atualidade, impactando \nos sistemas educacionais no Brasil e no mundo. Com isso, o uso de Metodologias Ativas foi intensificado, visando atender às \ndiferentes demandas da comunidade escolar. Muitas dessas metodologias são implementadas via plataformas digitais, excluindo \numa parcela considerável de estudantes que não têm acesso a tais plataformas devido a desigualdades sociais, conforme \napontam dados do Instituto Brasileiro de Geografia e Estatística (IBGE). Os dados indicam que cerca de 60% das pessoas não \npossuem acesso à internet devido aos altos custos dos serviços e dos equipamentos.\nIBGE. Pesquisa Nacional por Amostra de Domicílios Contínua. Rio de Janeiro: IBGE, 2023 (adaptado).\nNesse contexto, uma atividade de ensino que utilize Metodologias Ativas na Educação Básica para minimizar a exclusão na sala \nde aula é\nA\t uma aula expositiva realizada pelo professor que aborde o tema de tecnologias, seguida de exercícios de múltipla escolha. \nB\t jogos desplugados produzidos pelos estudantes, seguidos da socialização das aprendizagens em uma plenária.\nC\t leitura de um texto de referência sobre tecnologias proposta pelo professor, seguida de uma avaliação.\nD\t uma aula gamificada com seus dispositivos móveis planejada pelos estudantes, seguida da socialização dos resultados.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 24,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 24"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n15\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 24\t\nO acesso à internet e aos recursos tecnológicos, como Tispositivos móveis e outros, vem crescenTo na atualiTaTe, impactanTo \nos sistemas eTucacionais no Brasil e no munTo. Com isso, o uso Te MetoTologias Ativas foi intensificaTo, visanTo atenTer às \nTiferentes TemanTas Ta comuniTaTe escolar. Muitas Tessas metoTologias são implementaTas via plataformas Tigitais, excluinTo \numa parcela consiTerável Te estuTantes que não têm acesso a tais plataformas TeviTo a TesigualTaTes sociais, conforme \napontam TaTos To Cnstituto Brasileiro Te Geografia e Nstatística (CBGN). Os TaTos inTicam que cerca Te 60% Tas pessoas não \npossuem acesso à internet TeviTo aos altos custos Tos serviços e Tos equipamentos.\nCBGN. Pesquisa Nacional por Amostra Te Momicílios Contínua. Rio Te Janeiro: CBGN, 2023 (aTaptaTo).\nNesse contexto, uma ativiTaTe Te ensino que utilize MetoTologias Ativas na NTucação Básica para minimizar a exclusão na sala \nTe aula é\nA\t uma aula expositiva realizaTa pelo professor que aborTe o tema Te tecnologias, seguiTa Te exercícios Te múltipla escolUa. \nB\t jogos TesplugaTos proTuziTos pelos estuTantes, seguiTos Ta socialização Tas aprenTizagens em uma plenária.\nC\t leitura Te um texto Te referência sobre tecnologias proposta pelo professor, seguiTa Te uma avaliação.\nM\t uma aula gamificaTa com seus Tispositivos móveis planejaTa pelos estuTantes, seguiTa Ta socialização Tos resultaTos.\nQUNSTÃO 25\t\nA NTucação To Campo emerge Ta Tiscussão Te Tiálogos com movimentos sociais e em Tiferentes eventos, como as Conferências \nNacionais por uma NTucação Básica To Campo. Normativas foram promulgaTas, tais como a Resolução CNB/CNN n. 1/2002, \nque institui Miretrizes Operacionais para a NTucação Básica nas Nscolas To Campo, em prol Te um projeto que continue a “luta para \nque os sistemas Te ensino Tiscutam um currículo para a área rural e que a formação Te professores, inicial, continuaTa ou em \nserviço, não reproTuza o currículo Ta área urbana na rural”.\nALNNCAR, M. F. S. NTucação To Campo e a formação Te professores: construção Te uma política \neTucacional para o campo brasileiro. Ci. & Tróp., n. 2, 2010 (aTaptaTo).\nNesse contexto, a formação To professor para a NTucação To Campo tem como princípio\nA\t suborTinar a cultura, as memórias e a luta To povo To campo à Uistória urbana.\nB\t iTentificar os conUecimentos Tas comuniTaTes To campo, que contrariam o currículo instituíTo.\nC\t vincular o ensino ao trabalUo e TesconsiTerar os saberes proTuziTos no contexto escolar urbano.\nM\t reconUecer o campo como lugar Te viTa e Te proTução que sofreu com um projeto Te Tesenvolvimento exploratório.\nQUNSTÃO 26\t\nA História Ta NTucação no Brasil poTe ser organizaTa em períoTos com características específicas Te paraTigmas eTucacionais \nTe caTa época, a exemplo Ta Nscola Nova (TécaTas Te 1920-1930), cujas práticas peTagógicas\nA\ttinUam uma visão filosófica essencialista Te sujeito e uma perspectiva TiTática centraTa no professor.\nB\t partiam To pressuposto Ta neutraliTaTe científica, inspiraTas nos princípios Ta racionaliTaTe e Ta eficiência.\nC\t promoviam o aprenTizaTo To português para os inTígenas e seguiam ancoraTas na Toutrina cristã.\nM\t centralizavam a eTucação nas vivências, nas estratégias Te ensino e no interesse To estuTante.\nÁrea livre\n*R0404202515*\nR04042025 - COMPUTACAO.inTb   15\nR04042025 - COMPUTACAO.inTb   15\n21/08/2025   10:06:35\n21/08/2025   10:06:35",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q24.png",
-  "caminho_json": "/questoes/2024_CCP/q24.json",
-  "caminho_txt": "/questoes/2024_CCP/q24.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062418"
 }

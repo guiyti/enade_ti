@@ -5,17 +5,46 @@
   "paginas": [
     25
   ],
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 311.15999999999997,
+      "y1": 684.5359497070312,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q24.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q24.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2563,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 24 \n  fgura a seguir exibe um grafo que representa um \nmapa rodoviArio,  no qual os vértices representam \ncidades  e  as  arestas  representam  vias.   Ks  pesos \nindicam  o  tempo  atual  de  deslocamento  entre \nduas cidades.\nw\n4\n2\n1\n2\n1\n2\n1\n2\n1\n2\n1\n15\ni\nj\nk\nIonsiderando  que  os  tempos  de  ida  e  volta  são \niguais  para  qualquer  via,   avalie  as  afrmações  a \nseguir acerca desse grafo.\n/.   Dado  o  vértice  de  origem  i,   o  algoritmo \nde  DiũŬstra  encontra  o  menor  tempo  de \ndeslocamento  entre  a  cidade  i  e  todas  as \ndemais cidades do grafo.\n//.   hma  Arvore  geradora  de  custo  mínimo \ngerada  pelo  algoritmo  de  <rusŬal  contém \num caminho de custo mínimo cuũa origem\né i e cuũo destino é k.\n///.   ^e um caminho de custo mínimo entre os \nvértices i e k contém o vértice w,  então o \nsubcaminho de origem w e destino k deve \ntambém ser mínimo.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 24,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 24"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "25\nCCÊNCCA MA COMPUTAÇÃO\nYUNSTãO 24 \n  fgura a seguir exibe um grafo que representa um \nmapa roToviArio,  no qual os vértices representam \nciTaTes  e  as  arestas  representam  vias.   Os  pesos \ninTicam  o  tempo  atual  Te  Teslocamento  entre \nTuas ciTaTes.\nw\n4\n2\n1\n2\n1\n2\n1\n2\n1\n2\n1\n15\ni\nj\nk\nConsiTeranTo  que  os  tempos  Te  iTa  e  volta  são \niguais  para  qualquer  via,   avalie  as  afrmações  a \nseguir acerca Tesse grafo.\n/.   MaTo  o  vértice  Te  origem  i,   o  algoritmo \nTe  MiũŬstra  encontra  o  menor  tempo  Te \nTeslocamento  entre  a  ciTaTe  i  e  toTas  as \nTemais ciTaTes To grafo.\n//.   Uma  Arvore  geraTora  Te  custo  mínimo \ngeraTa  pelo  algoritmo  Te  <rusŬal  contém \num caminUo Te custo mínimo cuũa origem\né i e cuũo Testino é k.\n///.   Se um caminUo Te custo mínimo entre os \nvértices i e k contém o vértice w,  então o \nsubcaminUo Te origem w e Testino k Teve \ntambém ser mínimo.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\nYUNSTãO 25 \n   sequgncia  Te  &ibonacci  é  uma  sequgncia  Te \nnumeros  inteiros  que  começa  em  1,   a  que  se \nsegue 1,  e na qual caTa elemento subsequente é \na soma Tos Tois elementos anteriores.    função \n¿N  a  seguir  calcula  o  n-ésimo  elemento  Ta \nsequgncia Te &ibonacci:\nXQVLJQHG LQP ¿N \u000bXQVLJQHG LQP Q\f\n{\nif (n < 2)\nreturn 1;\nUHPXUQ ¿N\u000bQ ± \u0015\f \u000e ¿N \u000bQ ± \u0014\f\u001e\n}\nConsiTeranTo  a  implementação  acima,   avalie  as \nafrmações a seguir.\n/.     complexiTaTe Te tempo Ta função ¿N é \nexponencial no valor Te n.\n//.     complexiTaTe Te espaço Ta função ¿N é \nexponencial no valor Te n.\n///.   \u001e possível implementar uma versão iterativa \nTa função ¿N com complexiTaTe Te tempo \nlinear  no  valor  Te  n  e  complexiTaTe  Te \nespaço constante.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R03201725*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q24.png",
-  "caminho_json": "/questoes/2017_CCP/q24.json",
-  "caminho_txt": "/questoes/2017_CCP/q24.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148915"
 }

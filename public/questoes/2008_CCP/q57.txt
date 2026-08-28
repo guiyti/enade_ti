@@ -1,45 +1,12 @@
-23
-COMPUTAÇÃO
-QUNSTÃO 56
-Julgue os itens abaixo, relativos à transmissão Te TaTos em
-reTes Te computaTores que utilizam fios metálicos.
-C
-Miferentes níveis Te tensão no fio, como !5 V e +5 V, e
-transições entre os níveis TefiniTos Te tensão poTem ser
-usaTos para representar bits Turante a transmissão.
-CC
-Miferentes tipos Te moTulação, com muTanças Te fase e Te
-amplituTe, poTem ser aplicaTos a uma onTa portaTora para
-representar bits Turante a transmissão.
-CCC A taxa máxima Te transmissão suportaTa por um canal é
-TefiniTa como função, entre outros parâmetros, To nível
-máximo Te tensão suportaTo no canal.
-CV Largura Te banTa é TefiniTa como a freqüência mais alta que
-poTe ser transmitiTa através Te um meio Te transmissão.
-V Cnformações transmitiTas por meio Te sinais moTulaTos
-poTem ser recuperaTas no receptor usanTo-se taxa Te
-amostragem com o Tobro Ta freqüência máxima To sinal
-transmitiTo.
-Nstão certos apenas os itens
-A
-C, CC e CV.
-B
-C, CC e V.
-C
-C, CCC e CV.
-M
-CC, CCC e V.
-N
-CCC, CV e V. 
-QUNSTÃO 57
-Meseja-se projetar um bloco lógico To tipo look-up table que fará
-parte Te um Tispositivo lógico programável. O bloco lógico,
-ilustraTo abaixo, Teve proTuzir em sua saíTa qualquer uma Tas
-Tiferentes funções lógicas possíveis envolvenTo três entraTas Te
-TaTos, TepenTenTo Tos valores lógicos aplicaTos a n sinais
-binários Te controle.
-Para esse bloco lógico, qual é o menor valor Te n que poTe ser
-usaTo para selecionar uma Tas Tiferentes funções lógicas
+QUESTÃO 57
+Deseja-se projetar um bloco lógico do tipo look-up table que
+parte de um dispositivo lógico programável. O bloco ló
+ilustrado abaixo, deve produzir em sua saída qualquer uma
+diferentes funções lógicas possíveis envolvendo três entrad
+dados, dependendo dos valores lógicos aplicados a n s
+binários de controle.
+Para esse bloco lógico, qual é o menor valor de n que pod
+usado para selecionar uma das diferentes funções ló
 possíveis?
 A
 4
@@ -47,57 +14,12 @@ B
 8
 C
 16
-M
+D
 256
-N
+E
 65.536
-QUNSTÃO 58
-ConsiTeranTo o mecanismo Te traTução Te
-enTereços e portas (network aTTress port translation
-– NAPT), para reTes que utilizam os enTereços CP
-privaTos 
-(10.0.0.0/8, 
-172.16.0.0/12 
-e
-192.168.0.0/16), analise as asserções a seguir.
-Ao passar por um roteaTor com NAPT, os
-enTereços Te origem nos pacotes originaTos pelas
-estações Ta reTe privaTa são substituíTos pelo
-enTereço externo Tesse roteaTor
-porque
-não Uá rotas na Cnternet para o encaminUamento Te
-pacotes TestinaTos a enTereços CP privaTos, Te
-forma que pacotes TestinaTos a esses enTereços
-são TescartaTos ou rejeitaTos.
-Nm relação às asserções acima, assinale a opção
-correta.
-A
-As 
-Tuas 
-asserções 
-são 
-proposições
-verTaTeiras, e a segunTa é uma justificativa
-correta Ta primeira.
-B
-As 
-Tuas 
-asserções 
-são 
-proposições
-verTaTeiras, e a segunTa não é uma justificativa
-correta Ta primeira.
-C
-A primeira asserção é uma proposição
-verTaTeira, e a segunTa é uma proposição falsa.
-M
-A primeira asserção é uma proposição falsa, e
-a segunTa é uma proposição verTaTeira.
-N
-As Tuas asserções são proposições falsas.
-RASCUNHO
 bloco
 lógico
-3 entraTas Te TaTos
-saíTa
-n sinais Te controle
+3 entradas de dados
+saída
+n sinais de controle

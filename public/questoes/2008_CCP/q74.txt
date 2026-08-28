@@ -1,85 +1,44 @@
-30
-COMPUTAÇÃO
-QUNSTÃO 73
-Uma Tas técnicas que auxiliam na gerência Te projetos
-Te software é o gráfico Te ativiTaTes, por meio To qual é
-possível calcular, por exemplo, a Turação Te um projeto, as
-ativiTaTes críticas e as ativiTaTes que possuem folga para sua
-execução. Nesse gráfico, os círculos representam os eventos
-iniciais e finais Te caTa ativiTaTe, as arestas representam as
-ativiTaTes, e os números associaTos às arestas representam
-a Turação Tessas ativiTaTes.
-Tabela Te custo Te aceleração
-ativiTaTe
-uniTaTes Te
-aceleração
-permitiTas
-custo Te aceleração por
-uniTaTe Te tempo (R$)
-C-F
-2
-50
-M-N
-1
-300
-N-F
-2
-100
-N-G
-1
-80
-N- H
-2
-75
-F- H
-2
-85
-ConsiTeranTo-se o gráfico Te ativiTaTes acima e a tabela Te
-custo Te aceleração Tas ativiTaTes Ta reTe que poTem ser
-aceleraTas, qual(is) ativiTaTe(s) Teve(m) ser aceleraTa(s) para
-que o tempo To projeto associaTo a esse gráfico seja reTuziTo
-em uma uniTaTe Te tempo e para que o custo total Te
-aceleração seja o menor possível?
-A
-apenas a ativiTaTe (C-F)
-B
-apenas as ativiTaTes (M-N) e (N-G)
-C
-apenas a ativiTaTe (N-G) 
-M
-apenas as ativiTaTes (N-G) e (F-H)
-N
-apenas a ativiTaTe (N-H)
-QUNSTÃO 74
-No processo Te Tesenvolvimento Te software, toTo
-software passa pelas fases Te análise e projeto,
-associaTas, respectivamente, com o que Teve ser feito
-e como Teve ser feito. A partir Tessa informação,
+s
+é
+s
+a
+s
+s
+m
+e
+er
+a
+o
+e
+QUESTÃO 74
+No processo de desenvolvimento de software, todo
+software passa pelas fases de análise e projeto,
+associadas, respectivamente, com o que deve ser feito
+e como deve ser feito. A partir dessa informação,
 avalie a opções correta.
 A
-Na fase Te análise, três moTelos que Tevem ser
-consiTeraTos são: To Tomínio Ta informação, o
+Na fase de análise, três modelos que devem ser
+considerados são: do domínio da informação, o
 funcional e o comportamental. 
 B
-Na fase Te projeto, Tois níveis Te projeto Tevem
-ser consiTeraTos: o projeto TetalUaTo, que se
-preocupa com uma transformação Tos requisitos
-em um projeto Te TaTos e arquitetural; e o projeto
+Na fase de projeto, dois níveis de projeto devem
+ser considerados: o projeto detalhado, que se
+preocupa com uma transformação dos requisitos
+em um projeto de dados e arquitetural; e o projeto
 preliminar, que se preocupa em aprimorar o
-projeto TetalUaTo para que a implementação
-possa ser realizaTa em seguiTa. 
+projeto detalhado para que a implementação
+possa ser realizada em seguida. 
 C
-O objetivo To projeto arquitetural é Tesenvolver
-uma estrutura Te programa e representar os
-Tiversos fluxos Te TaTos entre os móTulos. 
-M
-O projeto arquitetural inTepenTe To paraTigma Te
-Tesenvolvimento. 
-N
-Para liTar com a complexiTaTe To software,
-poTe-se aplicar o princípio To particionamento,
-quebranTo o problema em problemas menores.
-Nsse princípio não é aplicaTo nas outras fases Te
-Tesenvolvimento e ele não causa impacto nos
-custos Te Tesenvolvimento.
-RASCUNHO
+O objetivo do projeto arquitetural é desenvolver
+uma estrutura de programa e representar os
+diversos fluxos de dados entre os módulos. 
+D
+O projeto arquitetural independe do paradigma de
+desenvolvimento. 
+E
+Para lidar com a complexidade do software,
+pode-se aplicar o princípio do particionamento,
+quebrando o problema em problemas menores.
+Esse princípio não é aplicado nas outras fases de
+desenvolvimento e ele não causa impacto nos
+custos de desenvolvimento.

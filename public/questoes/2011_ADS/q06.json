@@ -5,15 +5,25 @@
   "paginas": [
     5
   ],
-  "largura": 1123,
-  "altura": 2160,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade"
+  "segmentos": [
+    {
+      "pagina": 5,
+      "x0": 25.0,
+      "y0": 64.7,
+      "x1": 287.28,
+      "y1": 586.2459716796875,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n5\nQUNSTÃO 6 \nA eTucação é o Xis Ta questão\nMesemprego\nAqui se vê que a taxa Te\n   Tesemprego é menor para\n      quem fica mais tempo\n          na escola\n13,05%\n3,83%\n2,66%\nAté 10 anos\n    Te estuTo\nSalário                      \nAqui se vê que os salários\naumentam conforme os       \n anos Te estuTo (em reais)      \n18 500\n8 600\n1 800\nSalário Te\nquem tem   \nToutoraTo     \nou MBA        \nSalário Te\nquem tem curso  \nsuperior e fala       \numa língua           \nestrangeira              \nSalário Te\nquem conclui   \no ensino      \nméTio         \n7,91%\n12 a 14 anos\n   Te estuTo\n15 a 17 anos\n    Te estuTo\nMais Te\n  17 anos\n     Te estuTo\nFontes: Manager Assessoria\nem Recursos Humanos e CBGN\nMisponível em: <Uttp://eaT.uepb.eTu.br/noticias,82>. Acesso em: 24 ago. 2011.\nA expressão “o Xis Ta questão” usaTa no título To \ninfográfico Tiz respeito\nA   à quantiTaTe Te anos Te estuTos necessários para \ngarantir um emprego estável com salário Tigno.\nB   às oportuniTaTes Te melUoria salarial que surgem à meTiTa \nque aumenta o nível Te escolariTaTe Tos inTivíTuos.\nC   à influência que o ensino Te língua estrangeira nas \nescolas tem exerciTo na viTa profissional Tos inTivíTuos.\nM   aos questionamentos que são feitos acerca Ta \nquantiTaTe mínima Te anos Te estuTo que os \ninTivíTuos precisam para ter boa eTucação.\nN   à reTução Ta taxa Te Tesemprego em razão Ta política \natual Te controle Ta evasão escolar e Te aprovação \nautomática Te ano Te acorTo com a iTaTe.\nÁRNA LCVRN\nQUNSTÃO 7\nA Tefinição Te Tesenvolvimento  sustentável  mais \nusualmente  utilizaTa  é a que procura atenTer às \nnecessiTaTes atuais sem comprometer a capaciTaTe Tas \ngerações futuras. O munTo assiste a um questionamento \ncrescente Te paraTigmas estabeleciTos na economia e \ntambém na cultura política. A crise ambiental no planeta, \nquanTo traTuziTa na muTança climática, é uma ameaça real \nao pleno Tesenvolvimento Tas potencialiTaTes Tos países.\nO Brasil está em uma posição privilegiaTa para enfrentar \nos enormes Tesafios que se acumulam. Abriga elementos \nfunTamentais para o Tesenvolvimento: parte significativa \nTa bioTiversiTaTe e Ta água Toce existentes no planeta; \ngranTe extensão Te terras cultiváveis; TiversiTaTe étnica e \ncultural e rica varieTaTe Te  reservas naturais.\nO campo To Tesenvolvimento sustentável poTe ser \nconceitualmente \nTiviTiTo \nem \ntrês \ncomponentes: \nsustentabiliTaTe ambiental, sustentabiliTaTe econômica e \nsustentabiliTaTe sociopolítica.\nNesse contexto, o Tesenvolvimento sustentável pressupõe\nA   a preservação To equilíbrio global e To valor Tas \nreservas Te capital natural, o que não  justifica a \nTesaceleração To Tesenvolvimento econômico e \npolítico Te uma socieTaTe.\nB   a reTefinição Te critérios e instrumentos Te \navaliação Te custo-benefício que reflitam os efeitos \nsocioeconômicos e os valores reais To consumo e Ta \npreservação.\nC   o reconUecimento Te que, apesar Te os recursos \nnaturais serem ilimitaTos, Teve ser traçaTo um \nnovo moTelo Te Tesenvolvimento econômico para a \nUumaniTaTe.\nM   a reTução To consumo Tas reservas naturais com \na consequente estagnação To Tesenvolvimento \neconômico e tecnológico.\nN   a Tistribuição Uomogênea Tas reservas naturais entre \nas nações e as regiões em nível global e regional.\n*A2520115*",
+  "caminho_png": "/questoes/2011_ADS/q06.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q06.txt",
+  "largura": 1123,
+  "altura": 2203,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 6 \nA educação é o Xis da questão\nDesemprego\nAqui se vê que a taxa de\n   desemprego é menor para\n      quem fica mais tempo\n          na escola\n13,05%\n3,83%\n2,66%\nAté 10 anos\n    de estudo\nSalário                      \nAqui se vê que os salários\naumentam conforme os       \n anos de estudo (em reais)      \n18 500\n8 600\n1 800\nSalário de\nquem tem   \ndoutorado     \nou MBA        \nSalário de\nquem tem curso  \nsuperior e fala       \numa língua           \nestrangeira              \nSalário de\nquem conclui   \no ensino      \nmédio         \n7,91%\n12 a 14 anos\n   de estudo\n15 a 17 anos\n    de estudo\nMais de\n  17 anos\n     de estudo\nFontes: Manager Assessoria\nem Recursos Humanos e IBGE\nDisponível em: <http://ead.uepb.edu.br/noticias,82>. Acesso em: 24 ago. 2011.\nA expressão “o Xis da questão” usada no título do \ninfográfico diz respeito\nA   à quantidade de anos de estudos necessários para \ngarantir um emprego estável com salário digno.\nB   às oportunidades de melhoria salarial que surgem à medida \nque aumenta o nível de escolaridade dos indivíduos.\nC   à influência que o ensino de língua estrangeira nas \nescolas tem exercido na vida profissional dos indivíduos.\nD   aos questionamentos que são feitos acerca da \nquantidade mínima de anos de estudo que os \nindivíduos precisam para ter boa educação.\nE   à redução da taxa de desemprego em razão da política \natual de controle da evasão escolar e de aprovação \nautomática de ano de acordo com a idade.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2011_ADS/figuras/q06_fig1.jpeg",
     "/questoes/2011_ADS/figuras/q06_fig2.jpeg",
@@ -22,7 +32,26 @@
     "/questoes/2011_ADS/figuras/q06_fig5.jpeg",
     "/questoes/2011_ADS/figuras/q06_fig6.jpeg"
   ],
-  "caminho_png": "/questoes/2011_ADS/q06.png",
-  "caminho_json": "/questoes/2011_ADS/q06.json",
-  "caminho_txt": "/questoes/2011_ADS/q06.txt"
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 6,
+      "tipo": "OBJETIVA",
+      "pagina": 5,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 94.71319580078125,
+      "y1": 82.03392791748047,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 6"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222599"
 }

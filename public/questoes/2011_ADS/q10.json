@@ -5,17 +5,46 @@
   "paginas": [
     9
   ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 389.9941711425781,
+      "x1": 287.28,
+      "y1": 728.2,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2011_ADS/q10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q10.txt",
   "largura": 1123,
-  "altura": 1402,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1439,
+  "confianca": 1.0,
+  "texto_completo": "E\n,\nQUESTÃO 10  \nVárias \ntécnicas \nrelacionadas \nà \nprogramação \nextrema (XP) são diretamente ligadas ao código, \nincluindo a refatoração, programação em pares e \nintegração contínua. A programação em pares é a \nprática preferida dos desenvolvedores XP trabalhando \nem pares em um computador. \nSCOTT, K. O Processo Unificado Explicado. Porto Alegre: Artmed, 2002.\nBECK, K. Programação Extrema (XP) Explicada. Porto Alegre: Artmed, 2000.\nA programação em pares auxilia no desenvolvimento de \ncódigo de melhor qualidade quando os pares\nA   elaboram \ne \nutilizam \npadrões \nde \ncodificação \nconjuntamente, os quais, quando utilizados corretamente \ne apropriadamente, reduzem problemas individuais.\nB   estão acostumados ao desenvolvimento e à propriedade \ncoletiva, limitando-se a fazer pequenas mudanças na \nocorrência de erros em tempo de execução.\nC   minimizam os riscos de insucesso no projeto através \nda utilização de ferramentas para a geração automática \nde testes funcionais e protótipos de interface.\nD   escrevem testes em separado e discutem os resultados \nposteriormente, o que dá a eles a chance de se \nsintonizarem antes de começarem a implementação.\nE   trabalham em projetos complexos onde a codificação \nseja desenvolvida de forma conjunta, minimizando erros \ne agregando valor onde quer que o sistema necessite.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 34.143211364746094,
+      "y": 401.9941711425781,
+      "x1": 103.25320434570312,
+      "y1": 415.85418701171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 10"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n9\nQUNSTÃO 9  \nO levantamento Te requisitos é uma etapa funTamental To \nprojeto Te sistemas. MepenTenTo Ta situação encontraTa, \numa ou mais técnicas poTem ser utilizaTas para a \nelicitação Tos requisitos. A respeito Tessas técnicas, \nanalise as afirmações a seguir.\nC. \nPorksUop Te requisitos consiste na realização \nTe reuniões estruturaTas e TelimitaTas entre os \nanalistas Te requisitos To projeto e representantes \nTo cliente.\nCC. Cenário consiste na observação Tas ações To \nfuncionário na realização Te uma TeterminaTa \ntarefa, para verificar os passos necessários para \nsua conclusão.\nCCC. As entrevistas são realizaTas com os stakeUolTers \ne poTem ser abertas ou fecUaTas.\nCV. A prototipagem é uma versão inicial To sistema, \nbaseaTo em requisitos levantaTos em outros \nsistemas Ta organização.\nÉ correto apenas o que se afirma em\nA   C e CC.\nB   C e CCC.\nC   CC e CV.\nM   C, CCC e CV.\nN   CC, CCC e CV.\nQUNSTÃO 10  \nVárias \ntécnicas \nrelacionaTas \nà \nprogramação \nextrema (XP) são Tiretamente ligaTas ao cóTigo, \nincluinTo a refatoração, programação em pares e \nintegração contínua. A programação em pares é a \nprática preferiTa Tos TesenvolveTores XP trabalUanTo \nem pares em um computaTor. \nSCOTT, O. O Processo UnificaTo NxplicaTo. Porto Alegre: ArtmeT, 2002.\nBNCO, O. Programação Nxtrema (XP) NxplicaTa. Porto Alegre: ArtmeT, 2000.\nA programação em pares auxilia no Tesenvolvimento Te \ncóTigo Te melUor qualiTaTe quanTo os pares\nA   elaboram \ne \nutilizam \npaTrões \nTe \ncoTificação \nconjuntamente, os quais, quanTo utilizaTos corretamente \ne apropriaTamente, reTuzem problemas inTiviTuais.\nB   estão acostumaTos ao Tesenvolvimento e à proprieTaTe \ncoletiva, limitanTo-se a fazer pequenas muTanças na \nocorrência Te erros em tempo Te execução.\nC   minimizam os riscos Te insucesso no projeto através \nTa utilização Te ferramentas para a geração automática \nTe testes funcionais e protótipos Te interface.\nM   escrevem testes em separaTo e Tiscutem os resultaTos \nposteriormente, o que Tá a eles a cUance Te se \nsintonizarem antes Te começarem a implementação.\nN   trabalUam em projetos complexos onTe a coTificação \nseja TesenvolviTa Te forma conjunta, minimizanTo erros \ne agreganTo valor onTe quer que o sistema necessite.\nQUNSTÃO 11  \nO conjunto Te casos Te uso representa as possíveis \ninterações que serão representaTas nos requisitos To \nsistema. A figura a seguir Tesenvolve um exemplo Te \nbiblioteca e mostra outros casos Te uso (use-cases) nesse \nambiente.\nUsuário Ta\nbiblioteca\nServiços Te Nmprestimo\nATministração Te usuário\nPessoal Ta\nbiblioteca\nServiços To catálogo\nForneceTor\nSOMMNRVCLLN, C. NngenUaria Te software. 6. eT. São Paulo: \nMakron Books, 2003, p. 113.\nCom relação ao tema, analise as asserções a seguir.\nA figura também ilustra os pontos essenciais Ta notação Te \ncasos Te uso. Os agentes no processo são representaTos \npor bonecos e caTa tipo Te interação é representaTa por \numa elipse com um nome\nPORQUN\na UML é um paTrão para a moTelagem orientaTa a objetos \ne, assim, os casos Te uso e a obtenção Te requisitos com \nbase em casos Te uso são caTa vez mais utilizaTos para \nobter requisitos.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nCOMPONNNTN NSPNCÍFCCO\n*A2520119*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_ADS/q10.png",
-  "caminho_json": "/questoes/2011_ADS/q10.json",
-  "caminho_txt": "/questoes/2011_ADS/q10.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222630"
 }

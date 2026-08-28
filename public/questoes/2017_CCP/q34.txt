@@ -1,61 +1,57 @@
-32
-CCÊNCCA MA COMPUTAÇÃO
-YUNSTãO 34 
-YuanTo se trabalUa com banco Te TaTos,  é possível encontrar reTunTancia Te TaTos e mistura Te Tiferentes 
-assuntos em uma mesma tabela.  Para evitar esses tipos Te falUas,  poTem ser aplicaTas formas normais,  
-que são regras que compõem o processo cUamaTo normalização.  Nntre essas regras,  as mais utilizaTas e 
-que resolvem a maioria Tas falUas são a Primeira &orma Normal (1&N),  a SegunTa &orma Normal (2&N) e a 
-Terceira &orma Normal (3&N).    fgura a seguir mostra um exemplo Te tabela que poTeria ser armazenaTa 
-em um banco Te TaTos.  Nela,  a coluna Numero contém um valor unico,  sequencial,  que não se repete.
-Numero
-Titulo
+QUESTÃO 34 
+Yuando se trabalha com banco de dados,  é possível encontrar redundancia de dados e mistura de diferentes 
+assuntos em uma mesma tabela.  Wara evitar esses tipos de falhas,  podem ser aplicadas formas normais,  
+que são regras que compõem o processo chamado normalização.  Entre essas regras,  as mais utilizadas e 
+que resolvem a maioria das falhas são a Wrimeira &orma Eormal (1&E),  a ^egunda &orma Eormal (2&E) e a 
+derceira &orma Eormal (3&E).    fgura a seguir mostra um exemplo de tabela que poderia ser armazenada 
+em um banco de dados.  Eela,  a coluna Eumero contém um valor unico,  sequencial,  que não se repete.
+Eumero
+ditulo
 ona
-Seção
+^eção
 UF
-NomeNleitor
-&oneNleitor
-Sigla
-NomePartiTo
-NumCanT
-NomeCanT
+EomeEleitor
+&oneEleitor
+^igla
+EomeWartido
+EumIand
+EomeIand
 1
 11111111111
 40
 999
-M&
-Pessoa1
+D&
+Wessoa1
 11111-1111
-P1
-PartiTo1
+W1
+Wartido1
 99
-CanTiTato1
+Iandidato1
 22222-2222
 2
 22222222222
 22
 888
 RR
-Pessoa2
+Wessoa2
 33333-3333
-P2
-PartiTo2
+W2
+Wartido2
 88
-CanTiTato2
+Iandidato2
 44444-4444
-Com base no texto e no exemplo Te tabela apresentaTo,  avalie as afrmações a seguir.
-/.     tabela não estA na 1&N e,  portanto,  poTe-se Tizer que ela não atenTe a 2&N nem a 3&N.
-//.   Se forem criaTas Tuas novas tabelas:  PartiTo (com as colunas Sigla e NomePartiTo) e CanTiTato(com 
-as colunas NumCanT e NomeCanT),  poTe-se Tizer que as trgs tabelas atenTem a 2&N.
-///.   Se a tabela for transformaTa em Tuas:  soto (com as colunas Numero,  Sigla,  NomePartiTo,  NumCanT,  
-NomeCanT e Titulo) e Nleitor (com a coluna Titulo e as colunas restantes),  poTe-se Tizer que as 
-Tuas tabelas atenTem a 3&N.
-/s.   Os  atributos  Sigla,   NomePartiTo,   NumCanT  e  NomeCanT  não  TepenTem  funcionalmente  To 
-atributo Numero,  mas os atributos restantes,  sim.
+Iom base no texto e no exemplo de tabela apresentado,  avalie as afrmações a seguir.
+/.     tabela não estA na 1&E e,  portanto,  pode-se dizer que ela não atende a 2&E nem a 3&E.
+//.   ^e forem criadas duas novas tabelas:  Wartido (com as colunas ^igla e EomeWartido) e Iandidato(com 
+as colunas EumIand e EomeIand),  pode-se dizer que as trgs tabelas atendem a 2&E.
+///.   ^e a tabela for transformada em duas:  soto (com as colunas Eumero,  ^igla,  EomeWartido,  EumIand,  
+EomeIand e ditulo) e Eleitor (com a coluna ditulo e as colunas restantes),  pode-se dizer que as 
+duas tabelas atendem a 3&E.
+/s.   Ks  atributos  ^igla,   EomeWartido,   EumIand  e  EomeIand  não  dependem  funcionalmente  do 
+atributo Eumero,  mas os atributos restantes,  sim.
  correto apenas o que se afrma em
 A  /.
 B  /s.
 C  / e ///.
-M  // e ///.
-N  // e /s.
-Area livre
-*R03201732*
+D  // e ///.
+E  // e /s.

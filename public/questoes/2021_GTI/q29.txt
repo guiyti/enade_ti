@@ -1,100 +1,53 @@
-34
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 29	
-A 6ª eTição To Guia Project Management BoTy 
-of OnowleTge (PMBOO) tem como objetivo 
-principal oferecer um conjunto Te conUecimentos 
+QUESTÃO 29	
+A 6ª edição do Guia Project Management Body 
+of Knowledge (PMBOK) tem como objetivo 
+principal oferecer um conjunto de conhecimentos 
 em 
 gerenciamento 
-Te 
+de 
 projetos, 
 geralmente 
-reconUeciTos como boas práticas. Para isso, o PMBOO 
-propõe que seus processos sejam categorizaTos em 
-cinco grupos e Tez áreas Te conUecimento, que 
-corresponTem a agrupamentos lógicos Te processos 
-Te gerenciamento, com a finaliTaTe Te atingir os 
-objetivos específicos To projeto.
-PROJNCT MANAGNMNNT CNSTCTUTN (PMC). Um guia To conUecimento 
-em gerenciamento Te projetos (Guia PMBOO). 6. eT. Newtown Square, PA: 
-Project Management Cnstitute, 2016 (aTaptaTo).
-Com relação aos grupos Te processos Te 
-gerenciamento Te projetos Tescritos no PMBOO, 
+reconhecidos como boas práticas. Para isso, o PMBOK 
+propõe que seus processos sejam categorizados em 
+cinco grupos e dez áreas de conhecimento, que 
+correspondem a agrupamentos lógicos de processos 
+de gerenciamento, com a finalidade de atingir os 
+objetivos específicos do projeto.
+PROJECT MANAGEMENT INSTITUTE (PMI). Um guia do conhecimento 
+em gerenciamento de projetos (Guia PMBOK). 6. ed. Newtown Square, PA: 
+Project Management Institute, 2016 (adaptado).
+Com relação aos grupos de processos de 
+gerenciamento de projetos descritos no PMBOK, 
 assinale a alternativa correta.
-A	 O grupo Te processos Te monitoramento e 
-controle tem como objetivo acompanUar e 
-analisar o progresso e o TesempenUo To projeto, 
-contemplanTo toTas as áreas Te conUecimento 
-para iTentificar eventuais áreas nas quais serão 
-necessárias muTanças.
-B	 O grupo Te processos Te iniciação é robusto, 
-pois contém processos em toTas as áreas 
-Te conUecimento, incluinTo os processos Te 
-Tefinição To escopo, criação Ta Nstrutura 
-Analítica To Projeto (NAP) e Tesenvolvimento 
-To cronograma.
-C	 O grupo Te processos Te planejamento prevê 
-o Tesenvolvimento To Termo Te Abertura 
-To Projeto (TAP) na área Te integração e 
+A	 O grupo de processos de monitoramento e 
+controle tem como objetivo acompanhar e 
+analisar o progresso e o desempenho do projeto, 
+contemplando todas as áreas de conhecimento 
+para identificar eventuais áreas nas quais serão 
+necessárias mudanças.
+B	 O grupo de processos de iniciação é robusto, 
+pois contém processos em todas as áreas 
+de conhecimento, incluindo os processos de 
+definição do escopo, criação da Estrutura 
+Analítica do Projeto (EAP) e desenvolvimento 
+do cronograma.
+C	 O grupo de processos de planejamento prevê 
+o desenvolvimento do Termo de Abertura 
+do Projeto (TAP) na área de integração e 
 a 
-iTentificação 
-Tas 
+identificação 
+das 
 partes 
-interessaTas, 
-conUeciTas como stakeUolTers.
-M	 No grupo Te execução, existe apenas um 
-processo na área Te integração, que prevê, 
-entre outros, a avaliação e o aceite To cliente, 
-além Te uma avaliação To projeto, que poTe ser 
+interessadas, 
+conhecidas como stakeholders.
+D	 No grupo de execução, existe apenas um 
+processo na área de integração, que prevê, 
+entre outros, a avaliação e o aceite do cliente, 
+além de uma avaliação do projeto, que pode ser 
 interna ou externa.
-N	 No grupo Te encerramento, é feito o 
-gerenciamento To trabalUo To projeto, o que 
-inclui o gerenciamento Ta qualiTaTe e To 
-conUecimento geraTo no âmbito To projeto, 
-além Ta gestão To Tesenvolvimento Ta equipe 
-envolviTa.
-QUNSTÃO 30	
-Para ter sucesso no trabalUo, o analista Te 
-processos poTe e Teve conUecer as Tiversas 
-fontes Tas especialiTaTes que possam auxiliá-
-lo no tratamento Tos Tiversos temas envolviTos 
-com o trabalUo que Uoje é uma Tas principais 
-preocupações Te organizações Te toTos os tipos: 
-conUecer 
-e 
-gerenciar 
-aTequaTamente 
-seus 
-processos. NenUum analista Te processos Teve 
-nutrir a veleiTaTe Te pensar que vai encontrar 
-a solulção para algum problema sozinUo. Nste 
-é um trabalUo que Teve ser feito em conjunto 
-com os funcionários Ta organização. Quanto 
-mais ceTo e melUor for o envolvimento Te toTos, 
-mais rápiTas e maiores serão as cUances Te sucesso.
-CRUZ, T. Manual para Gerenciamento Te Processos Te Negócio. 
-São Paulo: Atlas, 2015 (aTaptaTo).
-Com base no texto, avalie as afirmações a seguir.
-C.	 O analista Te processos Teve Tiscutir e 
-ouvir com atenção caTa ator com relação às 
-responsabiliTaTes To papel que ele terá no 
-processo melUoraTo ou criaTo.
-CC.	 O analista Te processos Teve permitir que 
-Tiscussões sobre o funcionamento To 
-processo, e o que necessita ser moTificaTo 
-ou não, ocorram Te acorTo com interesses 
-particulares.
-CCC.	 O analista Te processos Teve criar ou utilizar 
-métoTos que privilegiem a prática Ta 
-criação coletiva e Ta colaboração entre os 
-envolviTos.
-CV.	 O analista Te processos Teve Tirecionar para 
-que a Tiscussão sobre os processos aconteça 
-no âmbito Tos Tepartamentos.
-É correto apenas o que se afirma em
-A	 C e CCC.
-B	 C e CV.
-C	 CC e CV.
-M	 C, CC e CCC.
-N	 CC, CCC e CV.
-*R29202134*
+E	 No grupo de encerramento, é feito o 
+gerenciamento do trabalho do projeto, o que 
+inclui o gerenciamento da qualidade e do 
+conhecimento gerado no âmbito do projeto, 
+além da gestão do desenvolvimento da equipe 
+envolvida.

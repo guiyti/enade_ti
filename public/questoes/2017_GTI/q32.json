@@ -5,17 +5,46 @@
   "paginas": [
     31
   ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 624.9749755859375,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q32.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2315,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32\nEo  desenvolvimento  de  uma  base  de  dados \nde  pessoal  de  uma  empresa,   em  que  foram \nregistrados  os  dados  de  todos  os  funcionArios,  \nfoi  incluído  um  campo  (red  Ňag)  que  sinalizava \nquando a aposentadoria do funcionArio estava se \naproximando,  ou quando ele ũA estava habilitado a \nrequerer a pensão.  Durante toda a década de 1980,  \nessa  funcionalidade  esteve  ativa  e,   sempre  que \nela era sinalizada em relação a algum funcionArio,  \na  empresa  o  despedia,   mesmo  apos  décadas  de \nserviços.   Em  1991,   a  ũustiça  reconheceu  o  direito \nde  ex-funcionArios  dessa  empresa  por  demissão \ninũusta,  e determinou o pagamento de indenizações \nque chegaram a ser superiores a ZΨ 900 milhões.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. compesocietǇ. blogspot. com. brх.  \n cesso em:  14 ũul.  2017 (adaptado).\nIom  base  nesse  caso,   assinale  a  opção  que \napresenta o dever infringido do Iodigo de \u001etica da \n^ociedade Brasileira de Iomputação.  \nA Zespeitar a legislação vigente,  o interesse social \ne os direitos de terceiros.\nB  Iontribuir para o bem-estar social,  promovendo,  \nsempre  que  possível,   a  inclusão  de  todos  os \nsetores da sociedade.\nC  'uardar  sigilo  profssional  das  informações  a \nque tiver acesso em decorrgncia das atividades \nexercidas.\nD  Esforçar-se \npara \nadquirir \ncontinuamente \ncompetgncia técnica e profssional,  e manter-se \nsempre atualizado em relação aos avanços da \nprofssão.\nE  ,onrar  compromissos,   contratos,   termos  de \nresponsabilidade,   direitos  de  propriedade,  \ncopyrights e patentes.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 60.35419845581055,
+      "y": 88.699951171875,
+      "x1": 121.18579864501953,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "31\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 32\nNo  Tesenvolvimento  Te  uma  base  Te  TaTos \nTe  pessoal  Te  uma  empresa,   em  que  foram \nregistraTos  os  TaTos  Te  toTos  os  funcionArios,  \nfoi  incluíTo  um  campo  (reT  Ňag)  que  sinalizava \nquanTo a aposentaToria To funcionArio estava se \naproximanTo,  ou quanTo ele ũA estava UabilitaTo a \nrequerer a pensão.  Murante toTa a TécaTa Te 1980,  \nessa  funcionaliTaTe  esteve  ativa  e,   sempre  que \nela era sinalizaTa em relação a algum funcionArio,  \na  empresa  o  TespeTia,   mesmo  apos  TécaTas  Te \nserviços.   Nm  1991,   a  ũustiça  reconUeceu  o  Tireito \nTe  ex-funcionArios  Tessa  empresa  por  Temissão \ninũusta,  e Teterminou o pagamento Te inTenizações \nque cUegaram a ser superiores a ZΨ 900 milUões.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. compesocietǇ. blogspot. com. brх.  \n cesso em:  14 ũul.  2017 (aTaptaTo).\nCom  base  nesse  caso,   assinale  a  opção  que \napresenta o Tever infringiTo To CoTigo Te \u001etica Ta \nSocieTaTe Brasileira Te Computação.  \nA Zespeitar a legislação vigente,  o interesse social \ne os Tireitos Te terceiros.\nB  Contribuir para o bem-estar social,  promovenTo,  \nsempre  que  possível,   a  inclusão  Te  toTos  os \nsetores Ta socieTaTe.\nC  'uarTar  sigilo  profssional  Tas  informações  a \nque tiver acesso em Tecorrgncia Tas ativiTaTes \nexerciTas.\nM  Nsforçar-se \npara \naTquirir \ncontinuamente \ncompetgncia técnica e profssional,  e manter-se \nsempre atualizaTo em relação aos avanços Ta \nprofssão.\nN  ,onrar  compromissos,   contratos,   termos  Te \nresponsabiliTaTe,   Tireitos  Te  proprieTaTe,  \ncopyrigUts e patentes.\nArea livre\nQUNSTÃO 33\nCom  o  obũetivo  Te  facilitar  o  processo  Te \ninterconectiviTaTe  em  reTes,   consiTeranTo-se \nos  Tiversos  tipos  Te  Tispositivos,   mAquinas  e \nfabricantes,   foi  TesenvolviTo  um  moTelo  Te \narquitetura-paTrão  TenominaTo  moTelo  OS/,   que \ncontém sete camaTas,  Tescritas a seguir:\nͻ  İsica - transmissão Te bits͖  estabelecimento \nTe conexões İsicas͖  moTulação analogica \ne Tigital͖\nͻ  enlace Te TaTos - Telineamento Te quaTros͖  \ncontrole Te acesso ao meio͖\nͻ  reTe - controle Te congestionamento͖\nͻ  transporte  -  Tetecção  e  correção  Te  erros \nfm a fm͖  controle Te Ňuxo͖  multiplexação͖\nͻ  sessão - gergncia Te TiAlogo͖  sincronização͖  \ngergncia Te ativiTaTe͖\nͻ  apresentação  -  conversão  Te  formatos͖  \ncriptografa͖  compressão Te TaTos͖  \nͻ  aplicação  -  correio  eletrƀnico͖   terminal \nvirtual͖  serviços Tiversos.\nCom  base  no  moTelo  OS/  Tescrito,   avalie  as \nafrmações a seguir,  em relação a camaTa em que \ncaTa Tispositivo Te interconexão atua.\n/.   O gateǁaǇ atua nas camaTas Te aplicação,  \napresentação,  sessão e transporte.\n//.   O  sǁitcU  atua  na  camaTa  Te  enlace  Te \nTaTos.\n///.   O  roteaTor  atua  na  camaTa  Te  enlace  Te \nTaTos e na Te reTe.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nArea livre\n*R43201731*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q32.png",
-  "caminho_json": "/questoes/2017_GTI/q32.json",
-  "caminho_txt": "/questoes/2017_GTI/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697710"
 }

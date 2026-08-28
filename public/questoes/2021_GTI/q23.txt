@@ -1,102 +1,48 @@
-30
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 23	
-Optar pela implantação Ta Gestão Te Serviços 
-em TC é um Tos maiores Tesafios encontraTos 
-por muitas empresas e organizações que Tesejam 
-aTquirir um processo mensurável e que permita a 
-melUoria contínua Te suas ativiTaTes. Para ajuTar 
-neste Tesafio, as bibliotecas Te boas práticas são 
-uma excelente ferramenta Te referência para a 
-implantação e manutenção Ta Gestão Te Serviços. 
-A biblioteca CTCL é uma Tas mais conUeciTas e 
-sugere o ciclo Te viTa Te um serviço TiviTiTo em 
-5 fases Tistintas. 
-Miante Tesse contexto, avalie as afirmações a seguir, 
-sobre as fases To ciclo Te viTa To serviço Te TC Te 
-acorTo com a biblioteca CTCL.
-C.	 A Nstratégia Te Serviço é o estágio onTe é 
-TefiniTa a Tireção estratégica Tos serviços 
-Te TC, quem são os seus clientes e quais 
-serviços serão TisponibilizaTos para eles.
-CC.	 O MesenUo Te Serviço ajuTa a organização a 
-planejar e gerenciar muTanças em serviços 
+QUESTÃO 23	
+Optar pela implantação da Gestão de Serviços 
+em TI é um dos maiores desafios encontrados 
+por muitas empresas e organizações que desejam 
+adquirir um processo mensurável e que permita a 
+melhoria contínua de suas atividades. Para ajudar 
+neste desafio, as bibliotecas de boas práticas são 
+uma excelente ferramenta de referência para a 
+implantação e manutenção da Gestão de Serviços. 
+A biblioteca ITIL é uma das mais conhecidas e 
+sugere o ciclo de vida de um serviço dividido em 
+5 fases distintas. 
+Diante desse contexto, avalie as afirmações a seguir, 
+sobre as fases do ciclo de vida do serviço de TI de 
+acordo com a biblioteca ITIL.
+I.	 A Estratégia de Serviço é o estágio onde é 
+definida a direção estratégica dos serviços 
+de TI, quem são os seus clientes e quais 
+serviços serão disponibilizados para eles.
+II.	 O Desenho de Serviço ajuda a organização a 
+planejar e gerenciar mudanças em serviços 
 e implementar liberações no ambiente 
-proTutivo.
-CCC.	 A 
+produtivo.
+III.	 A 
 Transição 
-Te 
+de 
 Serviço 
 orienta 
 o 
-Tesenvolvimento 
-Te 
+desenvolvimento 
+de 
 recursos 
 para 
 a 
-implementação Te serviços novos ou 
-moTificaTos, além Te garantir que os 
-requisitos Ta Nstratégia, incluíTos no 
-MesenUo, sejam efetivamente realizaTos.
-CV.	 A Operação Te Serviço é momento em que 
-os serviços Te TC passam a ser consumiTos 
-pelos clientes e usuários, além Te ser nesse 
-estágio que o valor To serviço é percebiTo.
+implementação de serviços novos ou 
+modificados, além de garantir que os 
+requisitos da Estratégia, incluídos no 
+Desenho, sejam efetivamente realizados.
+IV.	 A Operação de Serviço é momento em que 
+os serviços de TI passam a ser consumidos 
+pelos clientes e usuários, além de ser nesse 
+estágio que o valor do serviço é percebido.
 É correto apenas o que se afirma em
-A	 C e CC.
-B	 CC e CCC.
-C	 CCC e CV.
-M	 C, CC e CV.
-N	 C, CCC e CV.
-Área livre
-QUNSTÃO 24	
-A tecnologia facilitou a viTa Ta socieTaTe e acelerou 
-sua evolução, mas também trouxe implicações 
-prejuTiciais que conflitam com questões éticas Ta 
-socieTaTe atual. Preconceito, racismo, invasão Te 
-privaciTaTe, experimentos com Uumanos e até 
-mesmo riscos Te viTa já foram relacionaTos ao uso 
-Te algoritmos e avanços tecnológicos. Os limites 
-éticos, morais e até legais seguem se contraponTo 
-à tecnologia em TeterminaTos momentos. Se por 
-um laTo, nem toTos eles constituem ilegaliTaTes, 
-por outro, é preciso ter uma preocupação em 
-relação a como e por quem essas tecnologias estão 
-senTo criaTas e testaTas, reavalianTo os critérios 
-éticos, principalmente em ambientes empresariais. 
-Miante Teste cenário, ainTa recente e impreciso, 
-Uá um Tesafio interTisciplinar: Ta tecnologia, Ta 
-ética e Ta sociologia, à meTiTa que a socieTaTe é 
-a principal impactaTa enquanto não for possível 
-encontrar um equilíbrio. ToTavia, tais Tilemas 
-não são exclusiviTaTe Ta tecnologia. O que é, 
-sim, exclusiviTaTe Ta tecnologia, assim como em 
-Tiversos outros temas, é a proporção e velociTaTe 
-Tos impactos — sejam eles positivos ou não.
- PNRMANN. L. Ética na tecnologia: a critérios Te que(m) e para 
-que(m)? Misponível em: Uttps://olUarTigital.com.br/. 
-Acesso em: 27 jul. 2020 (aTaptaTo).
-ConsiTeranTo o texto e os impactos sociais aTvinTos 
-Tas tecnologias Ta informação, avalie as afirmações 
-a seguir.
-C.	 O uso Tas tecnologias Ta informação, 
-particularmente Ta internet, potencializa e 
-fortalece as relações em reTe.
-CC.	 Os crimes cibernéticos, conTutas nocivas 
-em ambiente virtual, são consequência To 
-avanço tecnológico.
-CCC.	 A Tisseminação Te informações falsas é 
-um fenômeno Te natureza tecnológica 
-e, portanto,  TesvinculaTo Te possíveis 
-impactos sociais.
-CV.	 O uso exacerbaTo Ta internet e a 
-TepenTência Te aparelUos móveis com 
-acesso à internet poTem causar Tanos à 
-saúTe física e emocional Tas pessoas.
-É correto o que se afirma em
-A	 C e CC, apenas.
-B	 C e CV, apenas.
-C	 CC e CCC, apenas.
-M	 CCC e CV, apenas.
-N	 C, CC, CCC e CV.
-*R29202130*
+A	 I e II.
+B	 II e III.
+C	 III e IV.
+D	 I, II e IV.
+E	 I, III e IV.

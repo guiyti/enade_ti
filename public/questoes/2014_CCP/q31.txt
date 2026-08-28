@@ -1,74 +1,26 @@
-24
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 30
-Uma  fazenTa  possui  um  unico  poço  artesiano  que 
-Teve abastecer n bebeTouros para o gaTo.  Meseũa-se 
-Teterminar  um  proũeto  Te  ligação  entre  esses  nн1
-pontos  através  Te  encanamentos  com  a  menor 
-extensão total.  Um algoritmo proposto para a solução 
-To problema executa os seguintes passos:
-1. Crie nн1 conũuntos unitArios,  caTa um contenTo 
-um Tos pontos a serem ligaTos entre si e insira 
-esses conũuntos em um conũunto C.
-2. Crie  um  conũunto  M  contenTo  um  registro 
-para  caTa  combinação  possível  Te  Tois  pontos 
-Tistintos  a  serem  ligaTos.   CaTa  registro  Teve 
-conter os campos ci , cj e T, em que ci e cj são 
-os Tois pontos a serem ligaTos e T é a Tistancia 
-entre eles.
-3.   Nnquanto M não estiver vazio faça:
-3. 1. Zemova o registro Te M com o menor valor Te 
-Tistancia T.
-3. 2. Se os valores Te ci e cj To registro removiTo 
-pertencerem a conũuntos Tistintos Te C, então:
-3. 2. 1. Substitua estes Tois conũuntos pela união 
-entre eles.
-3. 2. 2. 'uarTe  o  registro  removiTo  em  um 
-conũunto-solução.
-Com base na Tescrição To problema e To algoritmo 
-proposto,  conclui-se que
-A o problema exemplifca a obtenção Te uma Arvore 
-geraTora mínima,  portanto estA no conũunto P.
-B o algoritmo é uma Ueurística para o Problema To 
-Caixeiro  siaũante,   logo  apresenta  complexiTaTe 
-polinomial.
-C o  problema  Tescrito  é  Te  otimização,   logo 
-pertence  ao  conũunto  NPʹTiİcil,   mas  não  ao 
-conũunto NPʹcompleto.
-M uma  alternativa  para  a  solução  To  problema  é 
-usar  o  algoritmo  Te  MiũŬstra  para  obtenção  To 
-caminUo mínimo entre Tois pontos.
-N o passo Te maior custo To algoritmo é a criação 
-To conũunto M com as combinações Te pontos,  
-apresentanTo 
-complexiTaTe 
-computacional 
-O(n!).
-QUNSTÃO 31
-Na 
+QUESTÃO 31
+Ea 
 transmissão 
-Te 
-TaTos 
+de 
+dados 
 em 
 sistemas 
-computacionais,  o Tispositivo Te verifcação Te erros 
-conUeciTo como bit Te pariTaTe consiste Ta aTição 
-Te  um  bit  extra  Turante  a  transmissão.   O  valor 
-associaTo a esse bit é uma função Ta quantiTaTe Te 
-bits Te TaTos iguais a 1 a serem transmitiTos.
-Nesse contexto,  consiTere a transmissão Te 7 bits Te 
-TaTos,  com um bit extra Te pariTaTe,  em um sistema 
-Te comunicação no qual a probabiliTaTe Te transmitir 
-um bit Te forma incorreta é igual a 10-6e inTepenTe 
-Te outros erros ocorriTos.  O bit Te pariTaTe também 
-poTe sofrer erros.  
-   probabiliTaTe  Ta  ocorrgncia  Te  transmissão  Te 
-2  bits  erraTos,   que  seria  erroneamente  TetectaTa 
+computacionais,  o dispositivo de verifcação de erros 
+conhecido como bit de paridade consiste da adição 
+de  um  bit  extra  durante  a  transmissão.   K  valor 
+associado a esse bit é uma função da quantidade de 
+bits de dados iguais a 1 a serem transmitidos.
+Eesse contexto,  considere a transmissão de 7 bits de 
+dados,  com um bit extra de paridade,  em um sistema 
+de comunicação no qual a probabilidade de transmitir 
+um bit de forma incorreta é igual a 10-6e independe 
+de outros erros ocorridos.  K bit de paridade também 
+pode sofrer erros.  
+   probabilidade  da  ocorrgncia  de  transmissão  de 
+2  bits  errados,   que  seria  erroneamente  detectada 
 como uma transmissão sem erros,  é
 A 1, 0 u10-12.
 B 2, 0 u10-12.
 C 2, 8 u10-11.
-M 2, 0 u10-6.
-N 2, 8 u10-5.
-ÁRNA LCVRN
-*R03201424*
+D 2, 0 u10-6.
+E 2, 8 u10-5.

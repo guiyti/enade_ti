@@ -7,17 +7,62 @@
     14,
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 25.0,
+      "y0": 103.08905029296875,
+      "x1": 603.3199999999999,
+      "y1": 486.05206298828125,
+      "coluna": 0
+    },
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 454.63507080078125,
+      "coluna": 0
+    },
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 471.862060546875,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/qd03.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/qd03.txt",
   "largura": 2440,
-  "altura": 4892,
+  "altura": 4880,
   "confianca": 0.9,
-  "status": "APROVADA",
+  "texto_completo": "QUESTÃO DISCURSIVA 03\n>istas lineares armazenam uma coleção de elementos.    seguir,  é apresentada a declaração de uma lista \nsimplesmente encadeada.\nstruct ListaEncadeada {\nint dado;\nstruct ListaEncadeada *proximo;\n};\nWara imprimir os seus elementos da cauda para a cabeça (do final para o início) de forma eficiente,  \num algoritmo pode ser escrito da seguinte forma:\nvoid mostrar(struct ListaEncadeada *lista) {\nif (lista != NULL) {\nmostrar(lista->proximo);\nprintf(\"%d \", lista->dado);\n}\n}\nIom base no algoritmo apresentado,  faça o que se pede nos itens a seguir.\na)   presente a classe de complexidade do algoritmo,  usando a notação 4.  (valor:  3, 0 pontos)\nb)  Ionsiderando que ũA existe implementada uma estrutura de dados do tipo pilha de inteiros ͹ com \nas operações de empilhar, desempilhar e verifcar pilha vazia ͹ reescreva o algoritmo de forma não \nrecursiva,  mantendo a mesma complexidade.  ^eu algoritmo pode ser escrito em portugugs estruturado \nou em alguma linguagem de programação,  como I,  :ava ou Wascal.  (valor:  7, 0 pontos)\n\nQUESTÃO D/^IhZ^/s  04 \nhma empresa pretende desenvolver um sistema de folha de pagamento cuũo processo de modelagem \nutilizarA hD> (hnifed Dodeling >anguage).  Essa empresa tem trgs tipos de colaborador:  o comissionado,  \no horista e o assalariado.  dodos os colaboradores registram,  para efeito de controle,  o numero de horas \ntrabalhadas no mgs.   dicionalmente,  os comissionados registram o valor do percentual de comissão \ne o valor total de vendas acumulado no mgs͖  os horistas registram o valor recebido por hora͖  e os \nassalariados registram o valor do salArio.\nIada colaborador pertence a um departamento e cada departamento possui pelo menos um colaborador.  \nEo fnal de cada mgs,  cada departamento deve calcular o salArio dos seus colaboradores da seguinte \nforma:   os  comissionados  devem  receber  o  valor  total  das  vendas  multiplicado  pela  percentagem,  \nindependentemente  do  numero  de  horas  trabalhadas͖   os  horistas  devem  receber  o  valor  da  hora \ntrabalhada multiplicado pelo numero de horas trabalhadas͖  e os assalariados devem receber o valor \nnominal do salArio.\nIonsiderando essa situação e que o modelo que serA elaborado para representA-la utilizarA herança e \npolimorfsmo,  desenhe um diagrama de classe hD> que contenha:\nͻ  as classes que representam as entidades mencionadas (departamento,  colaborador e seus tipos)͖\nͻ  as respectivas associações,  atributos e métodos,  não sendo necessArio tipar os atributos͖\nͻ  eventuais classes abstratas com a indicação da restrição ΂abstract΃͖\nͻ  a multiplicidade de papel das associações͖\nͻ  ao lado de cada ocorrgncia do método para cAlculo do pagamento,  sua defnição na forma de uma \nexpressão que combine os valores dos atributos da classe.\n(valor:  10, 0 pontos)\n\nQUESTÃO D/^IhZ^/s  05 \n  busca primeiro em profundidade é um algoritmo de exploração sistemAtica em grafos,  em que as arestas \nsão exploradas a partir do vértice v mais recentemente descoberto que ainda tem arestas inexploradas \nsaindo dele.  Yuando todas as arestas de v são exploradas,  a busca regressa para explorar as arestas \nque deixam o vértice a partir do qual v foi descoberto.  Esse processo continua até que todos os vértices \nacessíveis a partir do vértice inicial seũam explorados.\nIKZDEE,  d.  ,.͖  >E/^EZ^KE,  I.  E.͖  Z/sE^d, Z.  >.͖  ^dE/E,  I.  /ntroduction to algorithms.  3.  ed.\nIambridge,  Dassachusets:  dhe D/d Wress,  2009 (adaptado).\nIonsidere o grafo a seguir.\np\nw\ns\nq\nt\nx\ny\nr\nu\nz\nIom base nas informações apresentadas,  faça o que se pede nos itens a seguir.\na)  Dostre a sequgncia de vértices descobertos no grafo durante a execução de uma busca em profundidade \ncom controle de estados repetidos.  Wara isso,  utilize o vértice r como inicial.  Eo caso de um vértice \nexplorado ter mais de um vértice adũacente,  utilize a ordem alfabética crescente como critério para \npriorizar a exploração.  (valor:  7, 0 pontos)\nb)  &aça uma representação da matriz de adũacgncias desse grafo,  podendo os zeros ser omitidos nessa \nmatriz.  (valor:  3, 0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Programação e POO"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "tipo": "DISCURSIVA",
+      "pagina": 13,
+      "x": 60.35430145263672,
+      "y": 115.08905029296875,
+      "x1": 185.38351440429688,
+      "y1": 127.08905029296875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO DISCURSIVA 03"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n13\nCOMPONNNTN NSPNC1&/CO\nQUNSTÃO MCSCURSCVA 03\n>istas lineares armazenam uma coleção Te elementos.    seguir,  é apresentaTa a Teclaração Te uma lista \nsimplesmente encaTeaTa.\nstruct ListaNncaTeaTa {\nint TaTo;\nstruct ListaNncaTeaTa *proximo;\n};\nPara imprimir os seus elementos Ta cauTa para a cabeça (To final para o início) Te forma eficiente,  \num algoritmo poTe ser escrito Ta seguinte forma:\nvoiT mostrar(struct ListaNncaTeaTa *lista) {\nif (lista != NULL) {\nmostrar(lista->proximo);\nprintf(\"%T \", lista->TaTo);\n}\n}\nCom base no algoritmo apresentaTo,  faça o que se peTe nos itens a seguir.\na)   presente a classe Te complexiTaTe To algoritmo,  usanTo a notação 4.  (valor:  3, 0 pontos)\nb)  ConsiTeranTo que ũA existe implementaTa uma estrutura Te TaTos To tipo pilUa Te inteiros ͹ com \nas operações Te empilUar, TesempilUar e verifcar pilUa vazia ͹ reescreva o algoritmo Te forma não \nrecursiva,  mantenTo a mesma complexiTaTe.  Seu algoritmo poTe ser escrito em portugugs estruturaTo \nou em alguma linguagem Te programação,  como C,  :ava ou Pascal.  (valor:  7, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R03201713*\n\nCCÊNCCA MA COMPUTAÇÃO\n14\nYUNSTãO M/SCUZS/s  04 \nUma empresa pretenTe Tesenvolver um sistema Te folUa Te pagamento cuũo processo Te moTelagem \nutilizarA UM> (UnifeT MoTeling >anguage).  Nssa empresa tem trgs tipos Te colaboraTor:  o comissionaTo,  \no Uorista e o assalariaTo.  ToTos os colaboraTores registram,  para efeito Te controle,  o numero Te Uoras \ntrabalUaTas no mgs.   Ticionalmente,  os comissionaTos registram o valor To percentual Te comissão \ne o valor total Te venTas acumulaTo no mgs͖  os Uoristas registram o valor recebiTo por Uora͖  e os \nassalariaTos registram o valor To salArio.\nCaTa colaboraTor pertence a um Tepartamento e caTa Tepartamento possui pelo menos um colaboraTor.  \nNo fnal Te caTa mgs,  caTa Tepartamento Teve calcular o salArio Tos seus colaboraTores Ta seguinte \nforma:   os  comissionaTos  Tevem  receber  o  valor  total  Tas  venTas  multiplicaTo  pela  percentagem,  \ninTepenTentemente  To  numero  Te  Uoras  trabalUaTas͖   os  Uoristas  Tevem  receber  o  valor  Ta  Uora \ntrabalUaTa multiplicaTo pelo numero Te Uoras trabalUaTas͖  e os assalariaTos Tevem receber o valor \nnominal To salArio.\nConsiTeranTo essa situação e que o moTelo que serA elaboraTo para representA-la utilizarA Uerança e \npolimorfsmo,  TesenUe um Tiagrama Te classe UM> que contenUa:\nͻ  as classes que representam as entiTaTes mencionaTas (Tepartamento,  colaboraTor e seus tipos)͖\nͻ  as respectivas associações,  atributos e métoTos,  não senTo necessArio tipar os atributos͖\nͻ  eventuais classes abstratas com a inTicação Ta restrição ΂abstract΃͖\nͻ  a multipliciTaTe Te papel Tas associações͖\nͻ  ao laTo Te caTa ocorrgncia To métoTo para cAlculo To pagamento,  sua Tefnição na forma Te uma \nexpressão que combine os valores Tos atributos Ta classe.\n(valor:  10, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R03201714*\n\nCCÊNCCA MA COMPUTAÇÃO\n15\nYUNSTãO M/SCUZS/s  05 \n  busca primeiro em profunTiTaTe é um algoritmo Te exploração sistemAtica em grafos,  em que as arestas \nsão exploraTas a partir To vértice v mais recentemente Tescoberto que ainTa tem arestas inexploraTas \nsainTo Tele.  YuanTo toTas as arestas Te v são exploraTas,  a busca regressa para explorar as arestas \nque Teixam o vértice a partir To qual v foi Tescoberto.  Nsse processo continua até que toTos os vértices \nacessíveis a partir To vértice inicial seũam exploraTos.\nCOZMNN,  T.  ,.͖  >N/SNZSON,  C.  N.͖  Z/sNST, Z.  >.͖  STN/N,  C.  /ntroTuction to algoritUms.  3.  eT.\nCambriTge,  MassacUusets:  TUe M/T Press,  2009 (aTaptaTo).\nConsiTere o grafo a seguir.\np\nw\ns\nq\nt\nx\ny\nr\nu\nz\nCom base nas informações apresentaTas,  faça o que se peTe nos itens a seguir.\na)  Mostre a sequgncia Te vértices Tescobertos no grafo Turante a execução Te uma busca em profunTiTaTe \ncom controle Te estaTos repetiTos.  Para isso,  utilize o vértice r como inicial.  No caso Te um vértice \nexploraTo ter mais Te um vértice aTũacente,  utilize a orTem alfabética crescente como critério para \npriorizar a exploração.  (valor:  7, 0 pontos)\nb)  &aça uma representação Ta matriz Te aTũacgncias Tesse grafo,  poTenTo os zeros ser omitiTos nessa \nmatriz.  (valor:  3, 0 pontos) \nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R03201715*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/qd03.png",
-  "caminho_json": "/questoes/2017_CCP/qd03.json",
-  "caminho_txt": "/questoes/2017_CCP/qd03.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148838"
 }

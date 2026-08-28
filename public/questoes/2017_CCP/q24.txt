@@ -1,11 +1,9 @@
-25
-CCÊNCCA MA COMPUTAÇÃO
-YUNSTãO 24 
+QUESTÃO 24 
   fgura a seguir exibe um grafo que representa um 
-mapa roToviArio,  no qual os vértices representam 
-ciTaTes  e  as  arestas  representam  vias.   Os  pesos 
-inTicam  o  tempo  atual  Te  Teslocamento  entre 
-Tuas ciTaTes.
+mapa rodoviArio,  no qual os vértices representam 
+cidades  e  as  arestas  representam  vias.   Ks  pesos 
+indicam  o  tempo  atual  de  deslocamento  entre 
+duas cidades.
 w
 4
 2
@@ -22,56 +20,24 @@ w
 i
 j
 k
-ConsiTeranTo  que  os  tempos  Te  iTa  e  volta  são 
+Ionsiderando  que  os  tempos  de  ida  e  volta  são 
 iguais  para  qualquer  via,   avalie  as  afrmações  a 
-seguir acerca Tesse grafo.
-/.   MaTo  o  vértice  Te  origem  i,   o  algoritmo 
-Te  MiũŬstra  encontra  o  menor  tempo  Te 
-Teslocamento  entre  a  ciTaTe  i  e  toTas  as 
-Temais ciTaTes To grafo.
-//.   Uma  Arvore  geraTora  Te  custo  mínimo 
-geraTa  pelo  algoritmo  Te  <rusŬal  contém 
-um caminUo Te custo mínimo cuũa origem
-é i e cuũo Testino é k.
-///.   Se um caminUo Te custo mínimo entre os 
+seguir acerca desse grafo.
+/.   Dado  o  vértice  de  origem  i,   o  algoritmo 
+de  DiũŬstra  encontra  o  menor  tempo  de 
+deslocamento  entre  a  cidade  i  e  todas  as 
+demais cidades do grafo.
+//.   hma  Arvore  geradora  de  custo  mínimo 
+gerada  pelo  algoritmo  de  <rusŬal  contém 
+um caminho de custo mínimo cuũa origem
+é i e cuũo destino é k.
+///.   ^e um caminho de custo mínimo entre os 
 vértices i e k contém o vértice w,  então o 
-subcaminUo Te origem w e Testino k Teve 
+subcaminho de origem w e destino k deve 
 também ser mínimo.
  correto o que se afrma em
 A  /,  apenas.
 B  //,  apenas.
 C  / e ///,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-YUNSTãO 25 
-   sequgncia  Te  &ibonacci  é  uma  sequgncia  Te 
-numeros  inteiros  que  começa  em  1,   a  que  se 
-segue 1,  e na qual caTa elemento subsequente é 
-a soma Tos Tois elementos anteriores.    função 
-¿N  a  seguir  calcula  o  n-ésimo  elemento  Ta 
-sequgncia Te &ibonacci:
-XQVLJQHG LQP ¿N XQVLJQHG LQP Q
-{
-if (n < 2)
-return 1;
-UHPXUQ ¿NQ ±   ¿N Q ± 
-}
-ConsiTeranTo  a  implementação  acima,   avalie  as 
-afrmações a seguir.
-/.     complexiTaTe Te tempo Ta função ¿N é 
-exponencial no valor Te n.
-//.     complexiTaTe Te espaço Ta função ¿N é 
-exponencial no valor Te n.
-///.    possível implementar uma versão iterativa 
-Ta função ¿N com complexiTaTe Te tempo 
-linear  no  valor  Te  n  e  complexiTaTe  Te 
-espaço constante.
- correto o que se afrma em
-A  /,  apenas.
-B  //,  apenas.
-C  / e ///,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R03201725*
+D  // e ///,  apenas.
+E  /,  // e ///.

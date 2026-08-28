@@ -5,17 +5,46 @@
   "paginas": [
     28
   ],
+  "segmentos": [
+    {
+      "pagina": 28,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 516.7389526367188,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q27.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q27.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1864,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 27\n  virtualização permite que um unico computador \nhospede  diversas  mAquinas  virtuais,   cada  uma \ncom seu proprio sistema operacional.  Essa técnica \nganhou  importancia  e  conhecimento  publico  a \npartir da década de 1990 e,  atualmente,  vem sendo \nutilizada para resolver diversos tipos de problemas.\nIonsiderando  os  diversos  aspectos  a  serem \nobservados na utilização da virtualização,  avalie as \nafrmações a seguir.\n/.   hm sistema operacional executado em uma \nmAquina  virtual utiliza um subconũunto da \nmemoria disponível na mAquina real.\n//.   hma  das  aplicações  da  virtualização  é  a \ndisponibilização  de  multiplos  sistemas \noperacionais para teste de soŌǁare.\n///.   hm sistema operacional executado em uma \nmAquina virtual apresenta um desempenho \nsuperior ao que alcançaria quando executado \ndiretamente na mesma mAquina real.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Sistemas Operacionais"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 27,
+      "tipo": "OBJETIVA",
+      "pagina": 28,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 27"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "28\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 26\nCertamente,   uma  empresa  com  um  volume  Te \n10  000  notas  fscais  por  mgs  (e  com  vArios  itens \npor  nota  fscal)  não  usarA  copias  Tessas  notas \ncomo meio Te entraTa Te TaTos sobre receitas nos \nsubsistemas Te contas a receber e Te contabiliTaTe.  \n/sso  equivaleria  a  classifcar  e  efetuar  10  000  ou \nmais  lançamentos,   respectivamente,   para  caTa \ncliente,   Te  acorTo  com  o  seu  coTigo  contAbil.  \nPor  outro  laTo,   Te  alguma  forma,   o  sistema  Te \ncontas  a  receber  Teve  ΗinformarΗ  ao  sistema  Te \ncontabiliTaTe  os  recebimentos  Te  clientes.   Ma \nmesma forma,  poTe ser inviAvel o registro contAbil \nTe um por um Tos comprovantes Te recebimento.\nB/O,  S.  Z.  Sistema Te informação:  um enfoque gerencial. 2.  eT.  \nSão Paulo:   tlas,  2008 (aTaptaTo).\n   situação  Tescrita  no  texto  é  um  ơpico  caso  Te \nproblema a ser resolviTo com\nA TataǁareUouse,  \num \nTeposito \nTe \nTaTos \norientaTo  por  assunto,   integraTo,   não  volAtil,  \nvariAvel com o tempo,  para apoiar as Tecisões \ngerenciais.\nB  SO   (Service OrienteT ArcUitecture),   uma \narquitetura proposta para interoperabiliTaTe Te \nsistemas por meio Te um conũunto Te interfaces \nTe serviços.\nC  NZP (Nnterprise Resource Planning),  um soŌǁare \nque integra toTos os TaTos e processos Te uma \norganização em um unico sistema.\nM  'NM  ('estão  Nletrƀnica  Te  Mocumentos),   um \nconũunto  Te  tecnologias  que  permite  a  uma \nempresa gerenciar seus Tocumentos em forma \nTigital.\nN  gestão To conUecimento,  uma Area Te atuação \ntransversal  relacionaTa,   sobretuTo,   a  gestão \nestratégica,   teoria  Tas  organizações,   sistema \nTe informação,  gestão Ta tecnologia,  e as Areas \nmais traTicionais.\nArea livre\nQUNSTÃO 27\n  virtualização permite que um unico computaTor \nUospeTe  Tiversas  mAquinas  virtuais,   caTa  uma \ncom seu proprio sistema operacional.  Nssa técnica \nganUou  importancia  e  conUecimento  publico  a \npartir Ta TécaTa Te 1990 e,  atualmente,  vem senTo \nutilizaTa para resolver Tiversos tipos Te problemas.\nConsiTeranTo  os  Tiversos  aspectos  a  serem \nobservaTos na utilização Ta virtualização,  avalie as \nafrmações a seguir.\n/.   Um sistema operacional executaTo em uma \nmAquina  virtual utiliza um subconũunto Ta \nmemoria Tisponível na mAquina real.\n//.   Uma  Tas  aplicações  Ta  virtualização  é  a \nTisponibilização  Te  multiplos  sistemas \noperacionais para teste Te soŌǁare.\n///.   Um sistema operacional executaTo em uma \nmAquina virtual apresenta um TesempenUo \nsuperior ao que alcançaria quanTo executaTo \nTiretamente na mesma mAquina real.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R43201728*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q27.png",
-  "caminho_json": "/questoes/2017_GTI/q27.json",
-  "caminho_txt": "/questoes/2017_GTI/q27.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697690"
 }

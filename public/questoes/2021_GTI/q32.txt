@@ -1,33 +1,29 @@
-36
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 32	
-Um empreenTeTor, com o auxílio Te um tecnólogo em gestão Ta tecnologia Ta informação, precisa Tefinir 
-um sistema operacional que ofereça suporte aTequaTo ao aplicativo inovaTor a ser TesenvolviTo, que 
-alavancará os negócios Ta startup. O objetivo é atingir o máximo Te usuários possíveis e conseguir alto 
-TesempenUo Te processamento em Tispositivos móveis. Ao pesquisar na internet, encontrou a seguinte 
-notícia Te um fabricante:
-“Nntre as noviTaTes, o sistema operacional ABC para Tispositivos móveis terá, entre outros recursos, nova 
-página inicial e nova tela Te bloqueio, que é ligaTa assim que o aparelUo é suspenso.
-Houve muTança, também, no app Te fotos, que ficou mais inteligente, senTo capaz Te reconUecer rostos 
-e Te mostrar imagens em um mapa. No app Te mensagens passou a ser possível enviar textos escritos à 
-mão e TesenUos animaTos.
-A empresa abriu o seu assistente Te linguagem natural para TesenvolveTores externos. Assim, será possível 
-solicitar carro nos aplicativos mais conUeciTos, publicar foto nos apps mais populares, fazer cUamaTa no 
-Skype por comanTo Te voz e enviar mensagens usanTo apps como PeCUat ou PUatsApp. Também será 
-possível fazer buscas por fotos, Tocumentos, músicas e outros arquivos por comanTo Te voz."
-Misponível em: Uttp://veja.abril.com.br/tecnologia. Acesso em: 3 jul. 2017 (aTaptaTo).
-Como inTica a notícia, o ABC possibilitará novas oportuniTaTes Te Tesenvolvimento Te aplicativos com 
-interfaces mais naturais e imeTiatas, mostranTo-se iTeal para os negócios Ta startup. AnalisanTo as 
+QUESTÃO 32	
+Um empreendedor, com o auxílio de um tecnólogo em gestão da tecnologia da informação, precisa definir 
+um sistema operacional que ofereça suporte adequado ao aplicativo inovador a ser desenvolvido, que 
+alavancará os negócios da startup. O objetivo é atingir o máximo de usuários possíveis e conseguir alto 
+desempenho de processamento em dispositivos móveis. Ao pesquisar na internet, encontrou a seguinte 
+notícia de um fabricante:
+“Entre as novidades, o sistema operacional ABC para dispositivos móveis terá, entre outros recursos, nova 
+página inicial e nova tela de bloqueio, que é ligada assim que o aparelho é suspenso.
+Houve mudança, também, no app de fotos, que ficou mais inteligente, sendo capaz de reconhecer rostos 
+e de mostrar imagens em um mapa. No app de mensagens passou a ser possível enviar textos escritos à 
+mão e desenhos animados.
+A empresa abriu o seu assistente de linguagem natural para desenvolvedores externos. Assim, será possível 
+solicitar carro nos aplicativos mais conhecidos, publicar foto nos apps mais populares, fazer chamada no 
+Skype por comando de voz e enviar mensagens usando apps como WeChat ou WhatsApp. Também será 
+possível fazer buscas por fotos, documentos, músicas e outros arquivos por comando de voz."
+Disponível em: http://veja.abril.com.br/tecnologia. Acesso em: 3 jul. 2017 (adaptado).
+Como indica a notícia, o ABC possibilitará novas oportunidades de desenvolvimento de aplicativos com 
+interfaces mais naturais e imediatas, mostrando-se ideal para os negócios da startup. Analisando as 
 características técnicas, o tecnólogo afirmou, corretamente, que o sistema operacional ABC
-A	 teve suas funções básicas ampliaTas em seu kernel, possibilitanTo uma maior capaciTaTe Te 
-processamento Tos aplicativos inTepenTente Ta arquitetura To Tispositivo.
-B	 teve sua capaciTaTe natural ampliaTa em função Tas muTanças no app Te fotos, com isto o seu kernel 
-passou a executar menos processos tornanTo o Tispositivo mais rápiTo.
-C	 sofreu alteração na camaTa Te apresentação, sua nova página inicial é trataTa por um ou mais 
-processos e seu kernel continua senTo responsável por escalonar os processos Tos aplicativos.
-M	 sofreu muTanças significativas em seu kernel, que passou a resiTir em um Tispositivo fora Ta memória, 
-com isso, poTe Uaver mais processos em execução, TeixanTo o Tispositivo mais rápiTo.
-N	 teve as funçoes To kernel reTuziTas, assim os processos relativos à gerência Te memória não são mais 
-trataTos pelo móTulo Te escalonamento, o que Teixa o TesempenUo To Tispositivo muito melUor.
-Área livre 
-*R29202136*
+A	 teve suas funções básicas ampliadas em seu kernel, possibilitando uma maior capacidade de 
+processamento dos aplicativos independente da arquitetura do dispositivo.
+B	 teve sua capacidade natural ampliada em função das mudanças no app de fotos, com isto o seu kernel 
+passou a executar menos processos tornando o dispositivo mais rápido.
+C	 sofreu alteração na camada de apresentação, sua nova página inicial é tratada por um ou mais 
+processos e seu kernel continua sendo responsável por escalonar os processos dos aplicativos.
+D	 sofreu mudanças significativas em seu kernel, que passou a residir em um dispositivo fora da memória, 
+com isso, pode haver mais processos em execução, deixando o dispositivo mais rápido.
+E	 teve as funçoes do kernel reduzidas, assim os processos relativos à gerência de memória não são mais 
+tratados pelo módulo de escalonamento, o que deixa o desempenho do dispositivo muito melhor.

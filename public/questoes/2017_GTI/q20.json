@@ -5,19 +5,48 @@
   "paginas": [
     24
   ],
-  "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Governança e Gestão de TI"
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 600.3230590820312,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "24\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 20\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. proũectcartoon. comх.   cesso em:  05 ũul.  2017 (aTaptaTo).\nConforme  ilustraTo  na  fgura  apresentaTa,   se  os  requisitos  não  forem  levantaTos  e  TocumentaTos \naTequaTamente,   o  proũeto  não  terA  sucesso.      inclusão  Te  boas  prAticas  na  execução  Tas  fases  Ta \nengenUaria Te requisitos (elicitação,  anAlise e negociação,  Tocumentação,  valiTação e gerenciamento) \npoTe  contribuir  signifcativamente  para  a  obtenção  Te  um  soŌǁare  que  atenTa  as  expectativas  e \nnecessiTaTes To cliente.\nSOMMNZs/>>N,  /.   .  N., Z NSOM,  :.  An Nmpirical StuTy of CnTustrial Requirements Nngineering Process Assessment anT Cmprovement.\n:ournal  CM Transactions on SoŌǁare Nngineering anT MetUoTologǇ,  14(1),  pg.  85ʹ117,  2005 (aTaptaTo).\nNesse contexto,  as ativiTaTes referentes a fase Te anAlise e negociação Te requisitos são:\nA  priorizar requisitos͖  classifcar requisitos͖  planeũar conŇitos e resolvg-los.\nB criar um sumArio Te requisitos͖  Tefnir termos especializaTos͖  rastrear requisitos.\nC registrar fonte Te requisitos͖  procurar Tomínios Te restrição͖  moTelar casos Te uso.\nM rastrear requisitos͖  Tefnir políticas Te muTança Te requisitos͖  introTuzir ferramentas Te apoio.\nN  escrever  um  manual  Te  usuArio͖   organizar  inspeções  Te  requisitos͖   Tesenvolver  caso  Te  teste \npreliminar.\nArea livre\n*R43201724*",
+  "caminho_png": "/questoes/2017_GTI/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q20.txt",
+  "largura": 2440,
+  "altura": 2212,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 20\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. proũectcartoon. comх.   cesso em:  05 ũul.  2017 (adaptado).\nIonforme  ilustrado  na  fgura  apresentada,   se  os  requisitos  não  forem  levantados  e  documentados \nadequadamente,   o  proũeto  não  terA  sucesso.      inclusão  de  boas  prAticas  na  execução  das  fases  da \nengenharia de requisitos (elicitação,  anAlise e negociação,  documentação,  validação e gerenciamento) \npode  contribuir  signifcativamente  para  a  obtenção  de  um  soŌǁare  que  atenda  as  expectativas  e \nnecessidades do cliente.\n^KDDEZs/>>E,  /.   .  E., Z E^KD,  :.  An Empirical Study of Industrial Requirements Engineering Process Assessment and Improvement.\n:ournal  ID dransactions on ^oŌǁare Engineering and DethodologǇ,  14(1),  pg.  85ʹ117,  2005 (adaptado).\nEesse contexto,  as atividades referentes a fase de anAlise e negociação de requisitos são:\nA  priorizar requisitos͖  classifcar requisitos͖  planeũar conŇitos e resolvg-los.\nB criar um sumArio de requisitos͖  defnir termos especializados͖  rastrear requisitos.\nC registrar fonte de requisitos͖  procurar domínios de restrição͖  modelar casos de uso.\nD rastrear requisitos͖  defnir políticas de mudança de requisitos͖  introduzir ferramentas de apoio.\nE  escrever  um  manual  de  usuArio͖   organizar  inspeções  de  requisitos͖   desenvolver  caso  de  teste \npreliminar.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2017_GTI/figuras/q20_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2017_GTI/q20.png",
-  "caminho_json": "/questoes/2017_GTI/q20.json",
-  "caminho_txt": "/questoes/2017_GTI/q20.txt"
+  "categorias": [
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697663"
 }

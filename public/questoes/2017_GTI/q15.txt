@@ -1,88 +1,54 @@
-19
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-YUNSTãO 15 
-  arquitetura Te Tistribuição Tiz respeito ao moTo 
-como  uma  organização  Tistribui  fsicamente 
-entre  os  seus  computaTores,   em  uma  reTe,   o 
-processamento Tos TaTos e o seu banco Te TaTos.  
-Nssa  arquitetura  traz  consequgncias  importantes 
-para o TesempenUo e o uso To banco Te TaTos.   s 
-reTes Te computaTores permitem que um Sistema 
-'erenciaTor  Te  Banco  Te  MaTos  (S'BM),   que  é 
-executaTo  em  um  computaTor,   possa  acessar 
-TaTos Te outro computaTor.  .
-'OZMON S. Z.͖  'OZMON :. Z.  Sistemas Te /nformação:  
-uma aborTagem gerencial.  3.  eT.  Zio Te :aneiro:
- >TC,  2013 (aTaptaTo).
-ConsiTeranTo esse contexto,  avalie as Tescrições 
-a  seguir,   acerca  Te  opções  Te  arquiteturas  Te 
-TaTos utilizaTos por aTministraTores e especialistas 
-em S'BM.
-/.    rquitetura  TescentralizaTa:   não  envolve 
-compartilUamento Te TaTos.
-//.    rquitetura  centralizaTa:   um  unico  S'BM 
-é  executaTo  em  um  unico  computaTor  e 
-mantém os TaTos Te forma centralizaTa.
-///.    rquitetura mista:  permite,  por meio To seu 
-S'BM,   que  se  obtenUa  um  processamento 
-consoliTaTo,   com  TaTos  TistribuíTos  e 
-centralizaTos  Te  forma  simultanea  sem 
-que  Uaũa  reTunTancia  Te  TaTos  e  Te 
+QUESTÃO 15 
+  arquitetura de distribuição diz respeito ao modo 
+como  uma  organização  distribui  fsicamente 
+entre  os  seus  computadores,   em  uma  rede,   o 
+processamento dos dados e o seu banco de dados.  
+Essa  arquitetura  traz  consequgncias  importantes 
+para o desempenho e o uso do banco de dados.   s 
+redes de computadores permitem que um ^istema 
+'erenciador  de  Banco  de  Dados  (^'BD),   que  é 
+executado  em  um  computador,   possa  acessar 
+dados de outro computador.  .
+'KZDKE ^. Z.͖  'KZDKE :. Z.  ^istemas de /nformação:  
+uma abordagem gerencial.  3.  ed.  Zio de :aneiro:
+ >dI,  2013 (adaptado).
+Ionsiderando esse contexto,  avalie as descrições 
+a  seguir,   acerca  de  opções  de  arquiteturas  de 
+dados utilizados por administradores e especialistas 
+em ^'BD.
+/.    rquitetura  descentralizada:   não  envolve 
+compartilhamento de dados.
+//.    rquitetura  centralizada:   um  unico  ^'BD 
+é  executado  em  um  unico  computador  e 
+mantém os dados de forma centralizada.
+///.    rquitetura mista:  permite,  por meio do seu 
+^'BD,   que  se  obtenha  um  processamento 
+consolidado,   com  dados  distribuídos  e 
+centralizados  de  forma  simultanea  sem 
+que  haũa  redundancia  de  dados  e  de 
 processamento.
 /s.    rquitetura 
-clienteͬ serviTor:  
-TiviTe 
+clienteͬ servidor:  
+divide 
 as 
-funções  Te  um  S'BM  entre  computaTores 
-conectaTos 
+funções  de  um  ^'BD  entre  computadores 
+conectados 
 em 
 uma 
-reTe 
+rede 
 enquanto 
 centraliza  o  armazenamento  permanente 
-para  toTos  os  TaTos  em  um  serviTor  Te 
-banco Te TaTos.
-V.  rquitetura  TistribuíTa:   Tistribui  tanto 
-TaTos  como  processamento  e  não  Tispõe,  
+para  todos  os  dados  em  um  servidor  de 
+banco de dados.
+V.  rquitetura  distribuída:   distribui  tanto 
+dados  como  processamento  e  não  dispõe,  
 necessariamente,  
-Te 
+de 
 armazenamento 
-centralizaTo Te TaTos.
- correto apenas o que se Tescreve em
+centralizado de dados.
+ correto apenas o que se descreve em
 A  /// e /s.
 B  /,  //,  e s.
 C  /,  /// e /s.
-M  //,  /// e s.
-N  /,  //,  /s e s.
-QUNSTÃO 16
-SabenTo-se  que,   na  Area  Te  segurança  Ta 
-informação,   uma  empresa  poTe  apresentar 
-inumeras fragiliTaTes,  avalie as afrmações a seguir.
-/.      instabiliTaTe  Tos  sistemas  corporativos 
-compromete  a  TisponibiliTaTe  Tas 
-informações.
-//.   YuanTo as informações presentes nas bases 
-Te  TaTos  corporativas  possuem  refergncia 
-Te sua fonte eͬ ou critério que permite sua 
-valiTação,   ocorre  comprometimento  em 
-sua autenticiTaTe.
-///.  Se a entraTa Te informações TepenTe To 
-atenTimento  Te  critérios  Te  valiTação 
-com  base  nos  requisitos  Tos  sistemas  e 
-nas  regras  Te  negocio,   a  integriTaTe  Tas 
-informações é preũuTicaTa.
-/s.   Compromete-se  a  confTencialiTaTe  Ta 
-informação  quanTo  não  UA  controle  To 
-seu  uso  pelos  usuArios,   possibilitanTo  a 
-impressão  eͬ ou  copia  Te  informações  To 
-ambiente  corporativo  sem  a  iTentifcação 
-To usuArio responsAvel ou Ta Testinação Te 
-tal ação.
- correto apenas o que se afrma em
-A  / e ///.
-B  / e /s.
-C  // e ///.
-M  /,  // e /s.
-N  //,  /// e /s.
-Area livre
-*R43201719*
+D  //,  /// e s.
+E  /,  //,  /s e s.

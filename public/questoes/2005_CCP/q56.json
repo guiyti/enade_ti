@@ -5,19 +5,46 @@
   "paginas": [
     21
   ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 65.71560668945312,
+      "x1": 295.08,
+      "y1": 504.29559326171875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q56.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q56.txt",
   "largura": 1155,
-  "altura": 1819,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1858,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 56\nConsidere um sistema bancário\nsimplificado e uma transação T1,\nque, por meio das 6 operações\napresentadas na tabela ao lado,\ntransfere R$ 100,00 da conta X\npara a conta Y. A partir dessas\ninformações, julgue os itens que se\nseguem.\nI\nSe, durante a execução de T1,\nocorrer uma falha depois da\noperação 3 e antes da operação\n6, e o sistema de banco de dados\nrestabelecer o valor original\nde X, estará garantida a atomicidade de T1.\nII\nSe ocorrer uma falha de sistema após a transação T1 ser\ncompletada com sucesso, mas, ao ser reiniciado o sistema, o\nusuário que a tiver disparado for notificado da transferência\nde fundos e o sistema de banco de dados reconstruir as\natualizações feitas pela transação, estará garantida a\ndurabilidade de T1.\nIII Se outra transação, T2, que estiver sendo executada\nsimultaneamente a T1, tentar executar a operação\nescrita(Y) depois de T1 ter executado a operação 4 e\nainda não ter executado a operação 6, e o sistema de banco\nde dados impedir essa escrita, estará garantida a consistência\nde T1.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.\nT1\n1\nleitura(X);\n2\nX = X – 100;\n3\nescrita(X);\n4\nleitura(Y);\n5\nY = Y + 100;\n6\nescrita (Y);",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Programação e POO",
-    "Algoritmos e Estruturas de Dados",
-    "Inteligência Artificial e Dados"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 56,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 40.560001373291016,
+      "y": 77.71560668945312,
+      "x1": 86.98800659179688,
+      "y1": 83.71560668945312,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 56"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n20\nAs questões Te 56 a 70, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te\nBACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 56\nConsiTere um sistema bancário\nsimplificaTo e uma transação T1,\nque, por meio Tas 6 operações\napresentaTas na tabela ao laTo,\ntransfere R$ 100,00 Ta conta X\npara a conta Y. A partir Tessas\ninformações, julgue os itens que se\nseguem.\nC\nSe, Turante a execução Te T1,\nocorrer uma falUa Tepois Ta\noperação 3 e antes Ta operação\n6, e o sistema Te banco Te TaTos\nrestabelecer o valor original\nTe X, estará garantiTa a atomiciTaTe Te T1.\nCC\nSe ocorrer uma falUa Te sistema após a transação T1 ser\ncompletaTa com sucesso, mas, ao ser reiniciaTo o sistema, o\nusuário que a tiver TisparaTo for notificaTo Ta transferência\nTe funTos e o sistema Te banco Te TaTos reconstruir as\natualizações feitas pela transação, estará garantiTa a\nTurabiliTaTe Te T1.\nCCC Se outra transação, T2, que estiver senTo executaTa\nsimultaneamente a T1, tentar executar a operação\nescrita(Y) Tepois Te T1 ter executaTo a operação 4 e\nainTa não ter executaTo a operação 6, e o sistema Te banco\nTe TaTos impeTir essa escrita, estará garantiTa a consistência\nTe T1.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 57\nA escolUa Te uma boa representação Te conUecimento é tarefa\nfunTamental na resolução Te problemas que envolvem\ninteligência artificial. Acerca Tesse assunto, assinale a opção\ncorreta.\nA O encaTeamento regressivo, por utilizar busca em largura\npara resolução Te conflitos, é menos usaTo que o progressivo.\nB O encaTeamento progressivo utiliza busca gulosa para fazer\na comparação entre os fatos armazenaTos na memória Te\ntrabalUo To sistema e os anteceTentes Tas regras a Tisparar.\nC As reTes semânticas, mecanismo mais expressivo que a\nlógica Te primeira orTem, foram TesenvolviTas para se\nsuperar uma TificulTaTe Tos sistemas embasaTos em lógica\nTe representar categorias.\nM A representação Te conUecimento frames é uma boa\nalternativa para esse tipo Te problema, por incluir, além Te\num mecanismo Te inferência semanticamente bem TefiniTo,\nmecanismos Te encapsulamento e componentes, comuns ao\nparaTigma orientaTo a objeto. \nN Tanto reTes semânticas quanto frames representam\nfacilmente conUecimento estrutural, comportamental e\nproceTural.\nQUNSTÃO 58\nUma forma Te analisar e comparar o TesempenUo Te algoritmos\nTe busca Ueurística é utilizar um problema bem conUeciTo como\nreferência. Um exemplo Tesse tipo Te problema é o cálculo Te\nrotas entre Tiferentes ciTaTes. No grafo ilustraTo acima, caTa nó\nrepresenta uma ciTaTe Tistinta, e caTa ramo, uma roTovia que\ninterliga as ciTaTes representaTas pelos nós que ele une, cujo peso\ninTica a Tistância, em km, entre essas ciTaTes pela roTovia.\nSuponUa que se Teseje encontrar a melUor rota entre as ciTaTes A\ne M, inTicaTas nesse grafo. ConsiTere, ainTa, os valores inTicaTos\nna tabela abaixo como Tistância em linUa reta, em km, Te caTa\nciTaTe para a ciTaTe M.\nA\n44,72\nN\n30,67\nC\n11,18\nB\n20,00\nF\n22,36\nJ\n5,00\nC\n33,54\nG\n14,14\nO\n40,00\nM\n25,00\nH\n10,00\nL\n20,00\nA partir Tessas informações, julgue os itens seguintes, relativos a\nalgoritmos Te busca.\nC\nUtilizanTo-se o algoritmo A*, a rota ente A e M encontraTa no\nproblema acima é ACMFLM e o custo To caminUo é 56,18.\nCC\nUtilizanTo-se a busca gulosa, a rota encontraTa no problema\nacima é ACMFLM.\nCCC Para utilizar algoritmos Te busca Ueurística, Teve-se Tefinir\numa Ueurística que superestime o custo Ta solução.\nCV O A* é um algoritmo ótimo e completo quanTo Ueurísticas\naTmissíveis são utilizaTas.\nV\nNo simulateT annealing, é possível Uaver movimentos para um\nestaTo com avaliação pior To que a To estaTo corrente,\nTepenTenTo Ta temperatura To processo e Ta probabiliTaTe\nTe escolUa.\nNstão certos apenas os itens \nA C, CC e CCC.\nB C, CV e V.\nC C, CCC, e V.\nM CC, CCC, e CV.\nN CC, CV e V.\nT1\n1\nleitura(X);\n2\nX = X – 100;\n3\nescrita(X);\n4\nleitura(Y);\n5\nY = Y + 100;\n6\nescrita (Y);",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q56.png",
-  "caminho_json": "/questoes/2005_CCP/q56.json",
-  "caminho_txt": "/questoes/2005_CCP/q56.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297555"
 }

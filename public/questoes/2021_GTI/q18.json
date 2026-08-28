@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 320.6728210449219,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/q18.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/q18.txt",
   "largura": 2185,
-  "altura": 1693,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1797,
+  "confianca": 1.0,
+  "texto_completo": "de informações sobre pedidos, produção, níveis de estoque e entrega de produtos e serviços.\nQUESTÃO 18\t\nNo cenário atual, as empresas estão investindo cada vez mais em Sistemas de Informação (SI) e em \nTecnologia da Informação (TI), visando obterem e poderem manipular os dados em informações que \npermitem a tomada de decisão e o posicionamento estratégico da empresa. Dentre os sistemas utilizados \npela empresa, para a sua gestão, encontra-se o ERP (Enterprise Resourse Planning), que pode ser \nentendido com um sistema integrado de informação, geralmente adquirido de provedores de mercado, \ncom o objetivo de dar suporte à maioria das operações da empresa, e que se subdividem em módulos, \nos quais se comunicam e atualizam uma base central de dados, permitindo assim a análise e o \nplanejamento de decisões.\nRODRIGUES, M.; ASSOLARIA, L. M. A. A tecnologia da Informação ERP e seus benefícios na Gestão de Processos e Crescimento dos Negócios. \nANPAD. 2007. Disponível em: http://www.anpad.org.br/diversos/. Acesso em: 22 jul. 2020 (adaptado).\nAcerca da adoção de ERP por empresas, avalie as afirmações a seguir.\nI.\t A seleção de provedores dessa ferramenta é uma tarefa árdua e exige esforço da parte do \ncontratante, sob pena de fracasso e de desenvolvimento de um ambiente de animosidade entre \ncliente e fornecedor, caso haja a desobediência dos critérios pré-estabelecidos no projeto inicial.\nII.\t A postura ética, a excelência de serviços e a possibilidade de expansão de novas soluções para o \ncliente devem ser levados em conta no momento da seleção do fornecedor da oferta, considerando \ncritérios técnicos levantados junto aos gestores e tomadores de decisão.\nIII.\t A implantação adequada de sistemas ERP exige que, imediatamente após a sua aquisição, seja \nrealizada a análise dos processos organizacionais da empresa.\nIV.\t Os motivos que levam uma empresa à implementação de um ERP vão desde suprir a obsolescência \ndas tecnologias de sistemas legados por parceiros de negócios até integrar dados transacionais.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t III e IV.\nD\t I, II e III.\nE\t I, II e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Formação Geral e Sociedade"
+    "Governança e Gestão de TI"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 18,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 29.763790130615234,
+      "y": 332.6728210449219,
+      "x1": 94.92378997802734,
+      "y1": 347.996826171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 18"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 17\t\nOs gestores precisam Tas informações certas na Uora certa e no lugar certo. Nste é o mantra Tas aborTagens \nmoTernas Te Business Cntelligence (BC). As organizações precisam atuar com inteligência. Prestar bastante \natenção à gestão Tas iniciativas Te BC é um aspecto necessário aos negócios. Não cUega a surpreenTer, então, \nque as organizações estejam capitaneanTo caTa vez mais o BC, ou sua nova encarnação, a análise Te TaTos.\nSHARMA, R.; MNLNN, M.; TURBAN, N. Business Cntelligence e Análise Te MaTos para Gestão To Negócio. Porto Alegre: Bookman, 2019 (aTaptaTo).\nNesse contexto, poTe-se Tefinir o BC como\nA\t um conjunto Te sistemas Te informação e recursos tecnológicos que apoiam as transações Te negócios \nque ocorrem internamente e externamente à empresa.\nB\t uma integração Te processos Te negócios nas áreas Te proTução, contabiliTaTe, finanças, venTas e \nmarketing, assim como na área Te recursos Uumanos, por meio Te um único sistema Te software.\nC\t uma ferramenta para tratamento e visualização Te TaTos transacionais e que poTe ser utilizaTa para \nTar suporte ao processo Tecisório e estratégico Ta empresa.\nM\t uma infraestrutura para armazenamento, integração, elaboração Te relatórios e análise Te TaTos oriunTos \nTo ambiente empresarial com toTas as informações relevantes para suportar o processo Te Tecisão.\nN\t uma ferramenta que ajuTa as empresas a aTministrar seus forneceTores, por meio To compartilUamento \nTe informações sobre peTiTos, proTução, níveis Te estoque e entrega Te proTutos e serviços.\nQUNSTÃO 18\t\nNo cenário atual, as empresas estão investinTo caTa vez mais em Sistemas Te Cnformação (SC) e em \nTecnologia Ta Cnformação (TC), visanTo obterem e poTerem manipular os TaTos em informações que \npermitem a tomaTa Te Tecisão e o posicionamento estratégico Ta empresa. Mentre os sistemas utilizaTos \npela empresa, para a sua gestão, encontra-se o NRP (Nnterprise Resourse Planning), que poTe ser \nentenTiTo com um sistema integraTo Te informação, geralmente aTquiriTo Te proveTores Te mercaTo, \ncom o objetivo Te Tar suporte à maioria Tas operações Ta empresa, e que se subTiviTem em móTulos, \nos quais se comunicam e atualizam uma base central Te TaTos, permitinTo assim a análise e o \nplanejamento Te Tecisões.\nROMRCGUNS, M.; ASSOLARCA, L. M. A. A tecnologia Ta Cnformação NRP e seus benefícios na Gestão Te Processos e Crescimento Tos Negócios. \nANPAM. 2007. Misponível em: Uttp://www.anpaT.org.br/Tiversos/. Acesso em: 22 jul. 2020 (aTaptaTo).\nAcerca Ta aToção Te NRP por empresas, avalie as afirmações a seguir.\nC.\t A seleção Te proveTores Tessa ferramenta é uma tarefa árTua e exige esforço Ta parte To \ncontratante, sob pena Te fracasso e Te Tesenvolvimento Te um ambiente Te animosiTaTe entre \ncliente e forneceTor, caso Uaja a TesobeTiência Tos critérios pré-estabeleciTos no projeto inicial.\nCC.\t A postura ética, a excelência Te serviços e a possibiliTaTe Te expansão Te novas soluções para o \ncliente Tevem ser levaTos em conta no momento Ta seleção To forneceTor Ta oferta, consiTeranTo \ncritérios técnicos levantaTos junto aos gestores e tomaTores Te Tecisão.\nCCC.\t A implantação aTequaTa Te sistemas NRP exige que, imeTiatamente após a sua aquisição, seja \nrealizaTa a análise Tos processos organizacionais Ta empresa.\nCV.\t Os motivos que levam uma empresa à implementação Te um NRP vão TesTe suprir a obsolescência \nTas tecnologias Te sistemas legaTos por parceiros Te negócios até integrar TaTos transacionais.\nÉ correto apenas o que se afirma em\nA\t C e CV.\nB\t CC e CCC.\nC\t CCC e CV.\nM\t C, CC e CCC.\nN\t C, CC e CV.\n*R29202126*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/q18.png",
-  "caminho_json": "/questoes/2021_GTI/q18.json",
-  "caminho_txt": "/questoes/2021_GTI/q18.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343352"
 }

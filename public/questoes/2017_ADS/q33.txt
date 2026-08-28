@@ -1,30 +1,15 @@
-37
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente 
-os nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍
-A SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;
-B SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
-c.nome, p.nome;
-C SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
-c.nome, p.nome;
-M SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v 
-PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, 
-p.nome, SUM(v.votos);
-N SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
-Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
-c.nome, p.nome, v.votos;
-QUNSTÃO 33
-  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te 
-baralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te 
-caTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  
-Teve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos 
-os momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.
-COZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).
-Um programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas 
-Tescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o 
+, p
+,
+;
+QUESTÃO 33
+  ordenação por inserção funciona de modo semelhante a forma como algumas pessoas ordenam cartas de 
+baralho.  /nicia-se com a mão esquerda vazia e as cartas empilhadas na mesa.  Zemove-se da pilha uma carta de 
+cada vez,  inserindo-a na posição correta na mão esquerda.  Wara se identifcar a posição correta de uma carta,  
+deve-se comparA-la com as cartas presentes na mão esquerda,  no sentido da direita para a esquerda.  Em todos 
+os momentos,  as cartas na mão esquerda estão ordenadas,  tendo sido obtidas no topo da pilha da mesa.
+IKZDEE,  d.  ,.  et al.  /ntroduction to algorithms.  3.  ed.  Iambridge:  dhe D/d Wress,  2009 (adaptado).
+hm programador implementou um algoritmo de ordenação semelhante a forma de ordenação de cartas 
+descrita no texto.   o realizar um teste com um vetor de nove posições (vetor[1..9]),  verifcou que o 
 algoritmo não funcionava corretamente.
 01 para i <- 2 até 9 faça
 02
@@ -42,19 +27,18 @@ enquanto ((j >= 1) e (valor < vetor[j])) faça
 se (j = 0) então
 08
          interrompa
-N  
+E  
  
 ¿P VH
   
-¿P HQTXMQPR
+¿P HQTXDQWR
 11
 vetor[j + 1] <- valor
- ¿P SMUM
-Com base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo 
-a ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.
-A  >inUa 01; para i <- 1 até 9 faça
-B  >inUa 03; j <- i
-C  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
-M  >inUa 05͖     vetor[j + 1] <- vetor[j]
-N  >inUa 11͖     vetor[j] <- valor
-*R41201737*
+ ¿P SDUD
+Iom base nessas informações,  assinale a opção em que se apresentam a linha e o respectivo comando 
+a ser substituído,  para que o algoritmo ordene corretamente um vetor de inteiros de forma crescente.
+A  >inha 01; para i <- 1 até 9 faça
+B  >inha 03; j <- i
+C  >inha 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
+D  >inha 05͖     vetor[j + 1] <- vetor[j]
+E  >inha 11͖     vetor[j] <- valor

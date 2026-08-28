@@ -1,51 +1,47 @@
-CCÊNCCA MA COMPUTAÇÃO
-22
-QUNSTÃO 19
-ConsiTere o Tiagrama NntiTaTe-Zelacionamento apresentaTo a seguir.
+QUESTÃO 19
+Ionsidere o diagrama Entidade-Zelacionamento apresentado a seguir.
 Secao
-iTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁
-PartiTo
-siglaPartiTo:  s ZC, Z(45) NOT NU>>
-TescricaoPartiTo:  s ZC, Z(45) NOT NU>>
-iTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁
-MeputaTo
-iTPartiTo:  /NTN'NZ NOT NU>> ΀&<΁
-nomeMeputaTo:  s ZC, Z(60) NOT NU>>
-iTSecao:  /NTN'NZ NOT NU>> ΀P&<΁
-Participacao
-iTMeputaTo:  /NTN'NZ NOT NU>> ΀P&<΁
-iTSecao:  /NTN'NZ NOT NU>> ΀P<΁
-TataSecao:  M TN NOT NU>>
-UoraSecao:  T/MN NOT NU>>
-Tecisao:  s ZC, Z(2000) NOT NU>>
-Yual coTigo SY> exibe o nome Te toTos os TeputaTos que compareceram a pelo menos uma seção e as 
-Tatas Te caTa seção em que os TeputaTos participaram͍
-A SNLNCT 
-MeputaTo.nomeMeputaTo, 
-Secao.TataSecao 
+idWartido:  /EdE'EZ EKd Eh>> ΀W<΁
+Wartido
+siglaWartido:  s ZI, Z(45) EKd Eh>>
+descricaoWartido:  s ZI, Z(45) EKd Eh>>
+idWartido:  /EdE'EZ EKd Eh>> ΀W<΁
+Deputado
+idWartido:  /EdE'EZ EKd Eh>> ΀&<΁
+nomeDeputado:  s ZI, Z(60) EKd Eh>>
+id^ecao:  /EdE'EZ EKd Eh>> ΀W&<΁
+Warticipacao
+idDeputado:  /EdE'EZ EKd Eh>> ΀W&<΁
+id^ecao:  /EdE'EZ EKd Eh>> ΀W<΁
+data^ecao:  D dE EKd Eh>>
+hora^ecao:  d/DE EKd Eh>>
+decisao:  s ZI, Z(2000) EKd Eh>>
+Yual codigo ^Y> exibe o nome de todos os deputados que compareceram a pelo menos uma seção e as 
+datas de cada seção em que os deputados participaram͍
+A SELECT 
+Deputado.nomeDeputado, 
+Secao.dataSecao 
 FROM 
-MeputaTo, 
-Participacao, Secao PHNRN MeputaTo.iTMeputaTo=Participacao.iTMeputaTo;
-B SNLNCT 
-MeputaTo.nomeMeputaTo, 
-Secao.TataSecao 
+Deputado, 
+Participacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;
+B SELECT 
+Deputado.nomeDeputado, 
+Secao.dataSecao 
 FROM 
-MeputaTo, 
+Deputado, 
 Participacao, 
 Secao 
-PHNRN 
-MeputaTo.iTMeputaTo 
+WHERE 
+Deputado.idDeputado 
 = 
 Participacao.
-iTMeputaTo OR Secao.iTSecao = Participacao.iTSecao;
-C SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo LNFT OUTNR 
-JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
-LNFT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;
-M SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo RCGHT OUTNR 
-JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
-RCGHT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;
-N SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo CNNNR 
-JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
-CNNNR JOCN Secao ON Participacao.iTSecao=Secao.iTSecao;
-Area livre
-*R03201722*
+idDeputado OR Secao.idSecao = Participacao.idSecao;
+C SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER 
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
+LEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+D SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER 
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
+RIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
+E SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER 
+JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
+INNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;

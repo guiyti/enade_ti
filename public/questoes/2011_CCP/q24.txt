@@ -1,97 +1,38 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-15
-QUNSTÃO 24
-As filas Te prioriTaTes (Ueaps) são estruturas Te TaTos 
-importantes no projeto Te algoritmos. Nm especial, Ueaps 
-poTem ser utilizaTos na recuperação Te informação 
-em granTes bases Te TaTos constituíTos por textos. 
-Basicamente, para se exibir o resultaTo Te uma consulta, 
-os Tocumentos recuperaTos são orTenaTos Te acorTo 
-com a relevância presumiTa para o usuário. Uma consulta 
-poTe recuperar milUões Te Tocumentos que certamente 
-não serão toTos examinaTos. Na verTaTe, o usuário 
-examina os primeiros m Tocumentos Tos n recuperaTos, 
-em que m é Ta orTem Te algumas Tezenas.
-ConsiTeranTo as características Tos Ueaps e sua 
-aplicação no problema Tescrito acima, avalie as 
+QUESTÃO 24
+As filas de prioridades (heaps) são estruturas de dados 
+importantes no projeto de algoritmos. Em especial, heaps 
+podem ser utilizados na recuperação de informação 
+em grandes bases de dados constituídos por textos. 
+Basicamente, para se exibir o resultado de uma consulta, 
+os documentos recuperados são ordenados de acordo 
+com a relevância presumida para o usuário. Uma consulta 
+pode recuperar milhões de documentos que certamente 
+não serão todos examinados. Na verdade, o usuário 
+examina os primeiros m documentos dos n recuperados, 
+em que m é da ordem de algumas dezenas.
+Considerando as características dos heaps e sua 
+aplicação no problema descrito acima, avalie as 
 seguintes afirmações.
-C. 
-Uma vez que o Ueap é implementaTo como 
-uma árvore binária Te pesquisa essencialmente 
+I. 
+Uma vez que o heap é implementado como 
+uma árvore binária de pesquisa essencialmente 
 completa, o custo computacional para sua 
 construção é O(n log n).
-CC. A implementação Te Ueaps utilizanTo-se vetores 
-é eficiente em tempo Te execução e em espaço 
-Te armazenamento, pois o pai Te um elemento 
-armazenaTo na posição i se encontra armazenaTo 
+II. A implementação de heaps utilizando-se vetores 
+é eficiente em tempo de execução e em espaço 
+de armazenamento, pois o pai de um elemento 
+armazenado na posição i se encontra armazenado 
 na posição 2i+1.
-CCC. O custo computacional para se recuperar 
-Te forma orTenaTa os m Tocumentos mais 
-relevantes armazenaTos em um Ueap Te 
-tamanUo n é O(m log n).
-CV. Meterminar o Tocumento com maior valor Te 
-relevância armazenaTo em um Ueap tem custo 
+III. O custo computacional para se recuperar 
+de forma ordenada os m documentos mais 
+relevantes armazenados em um heap de 
+tamanho n é O(m log n).
+IV. Determinar o documento com maior valor de 
+relevância armazenado em um heap tem custo 
 computacional O(1). 
-Nstá correto apenas o que se afirma em
-A   C e CC.
-B   CC e CCC.
-C   CCC e CV.
-M   C, CC e CV.
-N   C, CCC e CV.
-QUNSTÃO 25  
-Um PaTrão Te Projeto nomeia, abstrai e iTentifica 
-os aspectos-cUave Te uma estrutura Te projeto comum 
-para torná-la útil para a criação Te um projeto orientaTo a 
-objetos reutilizáveis.
-GAMMA, N., HNLM, R., JOHNSON, R., VLCSSCMNS, J. PaTrões Te Projeto-Soluções 
-Reutilizáveis Te Software OrientaTo a Objetos. Porto Alegre: Bookman, 2000.
-Nm relação a PaTrões Te Projeto, analise as afirmações 
-a seguir.
-C. 
-Prototype é um tipo Te paTrão estrutural.
-CC. Singleton tem por objetivos garantir que uma 
-classe tenUa ao menos uma instância e fornecer 
-um ponto global Te acesso para ela.
-CCC. Template MetUoT tem por objetivo Tefinir o 
-esqueleto Te um algoritmo em uma operação, 
-posterganTo a Tefinição Te alguns passos para 
-subclasses.
-CV. Cterator 
-fornece 
-uma 
-maneira 
-Te 
-acessar 
-sequencialmente os elementos Te um objeto 
-agregaTo 
-sem 
-expor 
-sua 
-representação 
-subjacente.
-É correto apenas o que se afirma em
-A   C.
-B   CC.
-C   C e CV.
-M   CC e CCC.
-N   CCC e CV.
-QUNSTÃO 26
-Um baralUo tem 52 cartas, organizaTas em 4 naipes, 
-com 13 valores Tiferentes para caTa naipe. 
-Os valores possíveis são: Ás, 2, 3, ..., 10, J, Q, O. 
-No jogo Te poker, uma Tas combinações Te 5 cartas 
-mais valiosas é o full Uouse, que é formaTo por 
-três cartas Te mesmo valor e outras Tuas cartas Te 
-mesmo valor. São exemplos Te full Uouses: i) três 
-cartas O e Tuas 10 (como visto na figura) ou ii) três 
-cartas 4 e Tuas Ás.
-Quantas possibiliTaTes para full Uouse existem em um 
-baralUo Te 52 cartas?
-A   156.
-B   624.
-C   1872.
-M   3744.
-N   7488.
-*A13201115*
+Está correto apenas o que se afirma em
+A   I e II.
+B   II e III.
+C   III e IV.
+D   I, II e IV.
+E   I, III e IV.

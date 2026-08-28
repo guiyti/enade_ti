@@ -1,92 +1,28 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-10
-QUNSTÃO 11  
-O problema Ta paraTa para máquinas Te Turing, ou 
-simplesmente problema Ta paraTa, poTe ser assim 
-Tescrito: Teterminar, para quaisquer máquina Te Turing M 
-e palavra w, se M irá eventualmente parar com entraTa w.
-Mais informalmente, o mesmo problema também poTe 
-ser assim Tescrito: TaTos um algoritmo e uma entraTa 
-fi nita, TeciTir se o algoritmo termina ou se executará 
-inTefi niTamente.
-Para o problema Ta paraTa, 
-A   existe algoritmo exato Te tempo Te execução 
-polinomial para solucioná-lo.
-B   existe algoritmo exato Te tempo Te execução 
-exponencial para solucioná-lo.
-C   não existe algoritmo que o solucione, não importa 
-quanto tempo seja TisponibilizaTo.
-M   não existe algoritmo exato, mas existe algoritmo Te 
-aproximação Te tempo Te execução polinomial que o 
-soluciona, fornecenTo respostas aproximaTas.
-N   não existe algoritmo exato, mas existe algoritmo Te 
-aproximação Te tempo Te execução exponencial que 
-o soluciona, fornecenTo respostas aproximaTas. 
-QUNSTÃO 12  
-ConsiTere a gramática a seguir, em que 
+,
+p
+p
+QUESTÃO 12  
+Considere a gramática a seguir, em que 
 , 
 e 
 são símbolos não terminais, 
  e 
 são terminais e 
 é a 
-caTeia vazia.
-A respeito Tessa gramática, analise as afi rmações a seguir.
-C. 
-Nas caTeias geraTas por essa gramática, o último 
+cadeia vazia.
+A respeito dessa gramática, analise as afi rmações a seguir.
+I. 
+Nas cadeias geradas por essa gramática, o último 
 símbolo é .
-CC. O número Te zeros consecutivos nas caTeias 
-geraTas pela gramática é, no máximo, Tois.
-CCC. O número Te uns em caTa caTeia geraTa pela 
-gramática é maior que o número Te zeros.
-CV. Nas caTeias geraTas por essa gramática, toTos os 
-uns estão à esquerTa Te toTos os zeros.
+II. O número de zeros consecutivos nas cadeias 
+geradas pela gramática é, no máximo, dois.
+III. O número de uns em cada cadeia gerada pela 
+gramática é maior que o número de zeros.
+IV. Nas cadeias geradas por essa gramática, todos os 
+uns estão à esquerda de todos os zeros.
 É correto apenas o que se afi rma em
-A   C.
-B   CC.
-C   C e CCC.
-M   CC e CV.
-N   CCC e CV. 
-QUNSTÃO 13  
-O problema To escalonamento Te intervalos tem como 
-entraTa um conjunto Te intervalos numéricos (usualmente 
-interpretaTos como início e fi m Te ativiTaTes), e o objetivo 
-é escolUer, Tesse conjunto, o maior número possível 
-Te intervalos Tisjuntos Tois a Tois. Há vários problemas 
-práticos que poTem ser moTelaTos Tessa forma, como, 
-por exemplo, a seleção Te tarefas com Uorário marcaTo.
-O problema To escalonamento Te intervalos poTe ser 
-resolviTo com o algoritmo Tescrito a seguir. O conjunto 
-Te intervalos TaTos inicialmente é R e o conjunto Te 
-intervalos escolUiTos, A, começa vazio.
-enquanto R não estiver vazio,
-seja x o intervalo Te R com menor tempo 
-Te término, e que não tenUa interseção com 
-algum intervalo em A 
-retire x Te R e aTicione ao conjunto A 
-retorne A
-A respeito Tesse algoritmo, analise as seguintes asserções.
-Para cUecar se o algoritmo está correto, basta verifi car 
-que o primeiro intervalo aTicionaTo ao conjunto A 
-necessariamente faz parte Te uma solução ótima.
-PORQUN
-PoTe-se mostrar, por inTução no número máximo Te 
-intervalos calculaTos (ou seja, no número Te vezes que 
-o laço “enquanto” é executaTo), que, embora possa Uaver 
-soluções tão boas quanto A, nenUuma Telas é estritamente 
-melUor que A. O conjunto com um único intervalo é a base 
-Te inTução.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justifi cativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justifi cativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A segunTa asserção é uma proposição falsa e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
-proposições falsas. 
-*A13201110*
+A   I.
+B   II.
+C   I e III.
+D   II e IV.
+E   III e IV.

@@ -5,17 +5,46 @@
   "paginas": [
     13
   ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 294.84,
+      "y0": 75.3,
+      "x1": 558.68,
+      "y1": 570.4249267578125,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q11.txt",
   "largura": 1130,
-  "altura": 2095,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2094,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 11\nIonsidere um esquema de gergncia de memoria por \npaginação simples,  onde a memoria İsica é dividida \nem quadros (frames) de 1 <bǇte e endereçada por \nbǇte.  Ks espaços de endereçamento dos processos \nsão multiplos de 1 <bǇte.    tabela de pAginas para \num determinado processo W é apresentada a seguir,  \nem  que  o  primeiro  bit  (Bs)  mostra  se  a  pAgina  é \nvAlida (1) ou invAlida (0).\nBV\nYuadro (frame)\n0\n1\n0010\n1\n1\n0100\n2\n1\n0001\n3\n1\n0111\n4\n1\n0000\n5\n1\n1101\n6\n0\n1111\n7\n0\n0110\nIom base na tabela apresentada,  avalie as afrmações \na seguir.\n/.   K endereço İsico é composto por 13 bits.\n//.  K  esquema  de  gergncia  de  memoria \napresentado reduz a fragmentação externa.\n///.    \ntradução \ndo \nendereço \nlogico \n0110000000110  para  endereço  físico \ncausa exceção.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Sistemas Operacionais"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 298.9193115234375,
+      "y": 86.31988525390625,
+      "x1": 361.37213134765625,
+      "y1": 98.31988525390625,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 11"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "13\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 10\nO  gerenciamento  Te  um  proũeto  inclui  ativiTaTes \ncom  o  obũetivo  Te  garantir  que  toTos  os  proTutos \nTefniTos no seu escopo seũam entregues no prazo \nestimaTo.   Nesse  contexto,   avalie  as  afrmações  a \nseguir.\n/.   Técnicas como PNZT e CPM são utilizaTas para \nobtenção  Te  estimativas  Te  esforço  e  como \napoio para Tefnição Te ativiTaTes.\n//.   Séries Uistoricas,  quanTo utilizaTas para obter \nestimativas  Te  esforço  no  Tesenvolvimento \nTe  um  novo  sistema,   levam  a  obtenção  Te \nestimativas consistentes,  inTepenTentemente \nTo  Tomínio  Te  aplicação  Tos  sistemas  que \nTeram origem as séries Uistoricas.\n///.   No caso Te atraso na execução To cronograma,  \na  contratação  Te  novos  TesenvolveTores \nassegura  que  o  proTuto  serA  entregue  Te \nacorTo  com  o  cronograma  inicialmente \nproposto.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.  \nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\nQUNSTÃO 11\nConsiTere um esquema Te gergncia Te memoria por \npaginação simples,  onTe a memoria İsica é TiviTiTa \nem quaTros (frames) Te 1 <bǇte e enTereçaTa por \nbǇte.  Os espaços Te enTereçamento Tos processos \nsão multiplos Te 1 <bǇte.    tabela Te pAginas para \num TeterminaTo processo P é apresentaTa a seguir,  \nem  que  o  primeiro  bit  (Bs)  mostra  se  a  pAgina  é \nvAliTa (1) ou invAliTa (0).\nBV\nYuaTro (frame)\n0\n1\n0010\n1\n1\n0100\n2\n1\n0001\n3\n1\n0111\n4\n1\n0000\n5\n1\n1101\n6\n0\n1111\n7\n0\n0110\nCom base na tabela apresentaTa,  avalie as afrmações \na seguir.\n/.   O enTereço İsico é composto por 13 bits.\n//.  O  esquema  Te  gergncia  Te  memoria \napresentaTo reTuz a fragmentação externa.\n///.    \ntraTução \nTo \nenTereço \nlogico \n0110000000110  para  enTereço  físico \ncausa exceção.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R03201413*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q11.png",
-  "caminho_json": "/questoes/2014_CCP/q11.json",
-  "caminho_txt": "/questoes/2014_CCP/q11.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234316"
 }

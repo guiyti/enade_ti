@@ -1,69 +1,23 @@
-12
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 08
-Os  Obũetivos  Te  Mesenvolvimento  SustentAvel  (OMS)  compõem  uma  agenTa  munTial  aTotaTa 
-Turante a Cupula Tas Nações UniTas sobre o Mesenvolvimento SustentAvel,  em setembro Te 2015.  
-Nessa  agenTa,   representaTa  na  figura  a  seguir,   são  previstas  ações  em  Tiversas  Areas  para  o 
-estabelecimento Te parcerias,  grupos e reTes que favoreçam o cumprimento Tesses obũetivos.
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. stocŬUolmresilience. orgх.   cesso em:  26 set.  2017 (aTaptaTo).
-ConsiTeranTo que os OMS Tevem ser implementaTos por meio Te ações que integrem a economia,  
-a socieTaTe e a biosfera,  avalie as afrmações a seguir.
-/.   O capital Uumano Teve ser capacitaTo para atenTer as TemanTas por pesquisa e inovação em 
-Areas estratégicas para o Tesenvolvimento sustentAvel.
-//.     paTronização cultural Tinamiza a Tifusão To conUecimento cienơfco e tecnologico entre as 
-nações para a promoção To Tesenvolvimento sustentAvel.
-///.   Os países Tevem incentivar políticas Te Tesenvolvimento To empreenTeTorismo e Te ativiTaTes 
-proTutivas com geração Te empregos que garantam a TigniTaTe Ta pessoa Uumana.
+QUESTÃO 08
+Ks  Kbũetivos  de  Desenvolvimento  ^ustentAvel  (KD^)  compõem  uma  agenda  mundial  adotada 
+durante a Iupula das Eações hnidas sobre o Desenvolvimento ^ustentAvel,  em setembro de 2015.  
+Eessa  agenda,   representada  na  figura  a  seguir,   são  previstas  ações  em  diversas  Areas  para  o 
+estabelecimento de parcerias,  grupos e redes que favoreçam o cumprimento desses obũetivos.
+Disponível em:  фhtp:ͬͬ
+ǁǁǁ. stocŬholmresilience. orgх.   cesso em:  26 set.  2017 (adaptado).
+Ionsiderando que os KD^ devem ser implementados por meio de ações que integrem a economia,  
+a sociedade e a biosfera,  avalie as afrmações a seguir.
+/.   K capital humano deve ser capacitado para atender as demandas por pesquisa e inovação em 
+Areas estratégicas para o desenvolvimento sustentAvel.
+//.     padronização cultural dinamiza a difusão do conhecimento cienơfco e tecnologico entre as 
+nações para a promoção do desenvolvimento sustentAvel.
+///.   Ks países devem incentivar políticas de desenvolvimento do empreendedorismo e de atividades 
+produtivas com geração de empregos que garantam a dignidade da pessoa humana.
  correto o que se afrma em
 A //,  apenas.
 B ///,  apenas.
 C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-*R41201712*
+D / e ///,  apenas.
+E /,  // e ///.
 
-13
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-COMPONNNTN NSPNC1&/CO
-QUNSTÃO MCSCURSCVA 03
-Uma empresa Te cosméticos comercializa cinco Tiferentes tipos Te proTutos e os armazena em uma 
-estante Te 40 x 40 posições.  Nm caTa posição Ta estante,  poTe fcar armazenaTa apenas uma caixa com 
-um Tesses proTutos.  Para facilitar sua iTentifcação,  os proTutos foram coTifcaTos Ta forma a seguir:
-1:  xampu͖
-2:  conTicionaTor͖
-3:  UiTratante͖
-4:  tintura͖
-5:  Temaquilante͖
-0:  vazio.
-Nessa  situação  e  consiTeranTo  o  Tesenvolvimento  Te  um  sistema  para  gerenciar  a  organização  Tos 
-proTutos na estante,  estabeleceu-se a Teclaração Te variAveis a seguir.
-Var
-Nstante: matriz [1..40][1..40] Te inteiro
-ProTutos: vetor [0..5] Te texto = {"vazio","xampu","conTicionaTor",
-  "UiTratante", "tintura", "Temaquilante"}
-ContaTor: vetor [0..5] Te inteiro = {0,0,0,0,0,0}
-i, j: inteiro
-Com base nessa Teclaração e consiTeranTo a coTifcação Tos proTutos exposta,  faça o que se peTe nos 
-itens a seguir,  apresentanTo as soluções em pseuTocoTigo ou em linguagem Te programação.
-a)  Nscreva um trecUo Te coTigo para ler os coTigos Tos proTutos e armazenA-los na matriz Nstante.
-(valor:  4, 0 pontos)
-b)  Nscreva um trecUo Te coTigo para contar e imprimir a quantiTaTe Te caixas Te caTa tipo Te proTuto 
-na estante.  (valor:  6, 0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R41201713*
+IKDWKEEEdE E^WEI1&/IK

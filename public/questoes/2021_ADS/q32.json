@@ -5,17 +5,46 @@
   "paginas": [
     39
   ],
+  "segmentos": [
+    {
+      "pagina": 39,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 397.2544250488281,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q32.txt",
   "largura": 2185,
-  "altura": 1373,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1375,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32\t\nUm modelo de negócios descreve a lógica de criação, entrega e captura de valor por parte de uma \norganização. A ferramenta de geração de modelo de negócios Canvas, desenvolvida por Osterwalder, \ntem sido uma das mais utilizadas, principalmente entre as startups. O Canvas é dividido em nove \ncomponentes básicos, que cobrem as quatro áreas principais de um negócio: clientes, oferta, infraestrutura \ne viabilidade financeira. Os componentes são os seguintes: 1) segmentos de clientes; 2) proposta de valor; \n3) canais; 4) relacionamento com cliente; 5) fontes de receita; 6) recursos principais; 7) atividades-chave; \n8) parcerias principais; e 9) estrutura de custo.\nOSTERWALDER, A.; PIGNEUR, Y. Business Model Generation - Inovação em Modelos de Negócios: \num manual para visionários, inovadores e revolucionários. Rio de Janeiro: Alta Books, 2011 (adaptado).\nDiante deste contexto, conclui-se que as startups\nA\t financeiras desenvolvem primeiro o plano de negócios, para em seguida partir para o Canvas.\nB\t de big data utilizam o Canvas para a modelagem da validação da ideia de negócio, ou seja, do problema \na ser resolvido.\nC\t de educação dispensam a utilização do Canvas, ou seja, os modelos de negócios deste segmento já \nnascem validados.\nD\t de logística utilizam o plano de negócios ao invés do Canvas, ou seja, elas nascem a partir de um produto \nmínimo viável (MVP).\nE\t de impacto social podem desconsiderar o componente 1 (segmentos de clientes), pois possuem \nsomente um segmento.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Inteligência Artificial e Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 39,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "39\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 32\t\nUm moTelo Te negócios Tescreve a lógica Te criação, entrega e captura Te valor por parte Te uma \norganização. A ferramenta Te geração Te moTelo Te negócios Canvas, TesenvolviTa por OsterwalTer, \ntem siTo uma Tas mais utilizaTas, principalmente entre as startups. O Canvas é TiviTiTo em nove \ncomponentes básicos, que cobrem as quatro áreas principais Te um negócio: clientes, oferta, infraestrutura \ne viabiliTaTe financeira. Os componentes são os seguintes: 1) segmentos Te clientes; 2) proposta Te valor; \n3) canais; 4) relacionamento com cliente; 5) fontes Te receita; 6) recursos principais; 7) ativiTaTes-cUave; \n8) parcerias principais; e 9) estrutura Te custo.\nOSTNRPALMNR, A.; PCGNNUR, Y. Business MoTel Generation - Cnovação em MoTelos Te Negócios: \num manual para visionários, inovaTores e revolucionários. Rio Te Janeiro: Alta Books, 2011 (aTaptaTo).\nMiante Teste contexto, conclui-se que as startups\nA\t financeiras Tesenvolvem primeiro o plano Te negócios, para em seguiTa partir para o Canvas.\nB\t Te big Tata utilizam o Canvas para a moTelagem Ta valiTação Ta iTeia Te negócio, ou seja, To problema \na ser resolviTo.\nC\t Te eTucação Tispensam a utilização To Canvas, ou seja, os moTelos Te negócios Teste segmento já \nnascem valiTaTos.\nM\t Te logística utilizam o plano Te negócios ao invés To Canvas, ou seja, elas nascem a partir Te um proTuto \nmínimo viável (MVP).\nN\t Te impacto social poTem TesconsiTerar o componente 1 (segmentos Te clientes), pois possuem \nsomente um segmento.\nÁrea livre\n*R28202139*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q32.png",
-  "caminho_json": "/questoes/2021_ADS/q32.json",
-  "caminho_txt": "/questoes/2021_ADS/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625666"
 }

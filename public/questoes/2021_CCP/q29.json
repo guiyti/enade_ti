@@ -5,22 +5,51 @@
   "paginas": [
     38
   ],
-  "largura": 2185,
-  "altura": 2454,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Sistemas Operacionais"
+  "segmentos": [
+    {
+      "pagina": 38,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 656.6194458007812,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "38\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 29\t\nAs operações morfológicas são um conjunto Te operações que processam imagens com base em formas. \nAs operações morfológicas aplicam um elemento estruturaTor B a uma imagem A Te entraTa e geram \numa imagem Te saíTa.\nNm relação às operações morfológicas Te Nrosão e Milatação, avalie as afirmações a seguir.\nC.\t Milatação: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor máximo Te pixel \nsobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, por esse \nvalor máximo; exemplo:\nCC.\t Milatação: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor mínimo Te \npixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, \npor esse valor máximo; exemplo:\nCCC.\t Nrosão: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor máximo Te \npixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, \npor esse valor máximo; exemplo:\nCV.\t Nrosão: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor mínimo Te \npixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, \npor esse valor máximo; exemplo:\nÉ correto o que se afirma em\nA\t C e CCC, apenas.\nB\t C e CV, apenas.\nC\t CC e CCC, apenas.\nM\t CC e CV, apenas.\nN\t C, CC, CCC e CV.\nÁrea livre\n*R02202138*",
+  "caminho_png": "/questoes/2021_CCP/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q29.txt",
+  "largura": 2185,
+  "altura": 2456,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 29\t\nAs operações morfológicas são um conjunto de operações que processam imagens com base em formas. \nAs operações morfológicas aplicam um elemento estruturador B a uma imagem A de entrada e geram \numa imagem de saída.\nEm relação às operações morfológicas de Erosão e Dilatação, avalie as afirmações a seguir.\nI.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de pixel \nsobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, por esse \nvalor máximo; exemplo:\nII.\t Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIII.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nIV.\t Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de \npixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, \npor esse valor máximo; exemplo:\nÉ correto o que se afirma em\nA\t I e III, apenas.\nB\t I e IV, apenas.\nC\t II e III, apenas.\nD\t II e IV, apenas.\nE\t I, II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2021_CCP/figuras/q29_fig1.png",
     "/questoes/2021_CCP/figuras/q29_fig2.png",
     "/questoes/2021_CCP/figuras/q29_fig3.png",
     "/questoes/2021_CCP/figuras/q29_fig4.png"
   ],
-  "caminho_png": "/questoes/2021_CCP/q29.png",
-  "caminho_json": "/questoes/2021_CCP/q29.json",
-  "caminho_txt": "/questoes/2021_CCP/q29.txt"
+  "categorias": [
+    "Sistemas Operacionais"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 38,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 29"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187788"
 }

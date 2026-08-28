@@ -6,17 +6,54 @@
     36,
     37
   ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    },
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 76.5,
+      "x1": 603.3199999999999,
+      "y1": 317.4237976074219,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q32.txt",
   "largura": 2440,
-  "altura": 3626,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 3957,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32 \nhm cliente solicitou a uma empresa a criação de um banco de dados para armazenar o resultado de \numa eleição presidencial,  com dados sobre os partidos políticos,  os candidatos e a votação obtida por \ncada candidato em cada unidade da federação.  K seguinte diagrama de Entidade-Zelacionamento foi \nelaborado como representação dos requisitos obtidos com o cliente.\n s tabelas a seguir contgm os dados registrados a partir do resultado dessa eleição.\nWartido\nIandidato\nsotação\nnumero\nnome\nsigla\nnumero\nnome\npartido\nvotos\nestado\n91\nWartido 1\nW1\n91\nIandidato 1\n91\n12 345\n I\n92\nWartido 2\nW2\n92\nIandidato 2\n91\n98 323\nWE\n93\nWartido 3\nW3\n93\nIandidato 3\n91\n1 726 453\n^W\n94\nWartido 4\nW4\n94\nIandidato 4\n92\n98 463\n I\n95\nWartido 5\nW5\n95\nIandidato 5\n92\n192 837\nWE\n92\n4 283 747\n^W\n93\n16 253\n I\n93\n293 845\nWE\n93\n6 253 745\n^W\n94\n98 372\n I\n94\n598 333\nWE\n94\n8 271 347\n^W\n95\n46 837\n I\n95\n327 264\nWE\n95\n5 938 374\n^W\nsigla\nnome\nnumero\nCandidato\nPartido\nVotacao\nnome\nnumero\npartido\nestado\nFilia\n1\n1\n1\nN\nPossui\nvotos\n\nIom base nas informações e na situação apresentada,  qual o comando ^Y> que seleciona corretamente \nos nomes dos candidatos,  seus partidos e o total de votos de cada partido nessa eleição͍\nA SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero;\nB SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome;\nC SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome;\nD SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v \nWHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome, \np.nome, SUM(v.votos);\nE SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, \nVotacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY \nc.nome, p.nome, v.votos;",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 124.55430603027344,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "36\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 32 \nUm cliente solicitou a uma empresa a criação Te um banco Te TaTos para armazenar o resultaTo Te \numa eleição presiTencial,  com TaTos sobre os partiTos políticos,  os canTiTatos e a votação obtiTa por \ncaTa canTiTato em caTa uniTaTe Ta feTeração.  O seguinte Tiagrama Te NntiTaTe-Zelacionamento foi \nelaboraTo como representação Tos requisitos obtiTos com o cliente.\n s tabelas a seguir contgm os TaTos registraTos a partir To resultaTo Tessa eleição.\nPartiTo\nCanTiTato\nsotação\nnumero\nnome\nsigla\nnumero\nnome\npartiTo\nvotos\nestaTo\n91\nPartiTo 1\nP1\n91\nCanTiTato 1\n91\n12 345\n C\n92\nPartiTo 2\nP2\n92\nCanTiTato 2\n91\n98 323\nPN\n93\nPartiTo 3\nP3\n93\nCanTiTato 3\n91\n1 726 453\nSP\n94\nPartiTo 4\nP4\n94\nCanTiTato 4\n92\n98 463\n C\n95\nPartiTo 5\nP5\n95\nCanTiTato 5\n92\n192 837\nPN\n92\n4 283 747\nSP\n93\n16 253\n C\n93\n293 845\nPN\n93\n6 253 745\nSP\n94\n98 372\n C\n94\n598 333\nPN\n94\n8 271 347\nSP\n95\n46 837\n C\n95\n327 264\nPN\n95\n5 938 374\nSP\nsigla\nnome\nnumero\nCanTiTato\nPartiTo\nVotacao\nnome\nnumero\npartiTo\nestaTo\nFilia\n1\n1\n1\nN\nPossui\nvotos\n*R41201736*\n\n37\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCom base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente \nos nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍\nA SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;\nB SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome;\nC SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome;\nM SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v \nPHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, \np.nome, SUM(v.votos);\nN SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome, v.votos;\nQUNSTÃO 33\n  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te \nbaralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te \ncaTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  \nTeve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos \nos momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.\nCOZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).\nUm programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas \nTescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o \nalgoritmo não funcionava corretamente.\n01 para i <- 2 até 9 faça\n02\nvalor <- vetor[i]\n03\nj <- i – 1\n04\nenquanto ((j >= 1) e (valor < vetor[j])) faça\n05\n   vetor[i] <- vetor[j]\n06\n      j <- j – 1\n07 \n \nse (j = 0) então\n08\n         interrompa\n\u0013N  \n \n¿P VH\n\u0014\u0013  \n¿P HQTXMQPR\n11\nvetor[j + 1] <- valor\n\u0014\u0015 ¿P SMUM\nCom base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo \na ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.\nA  >inUa 01; para i <- 1 até 9 faça\nB  >inUa 03; j <- i\nC  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça\nM  >inUa 05͖     vetor[j + 1] <- vetor[j]\nN  >inUa 11͖     vetor[j] <- valor\n*R41201737*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q32.png",
-  "caminho_json": "/questoes/2017_ADS/q32.json",
-  "caminho_txt": "/questoes/2017_ADS/q32.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601126"
 }

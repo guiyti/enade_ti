@@ -1,80 +1,20 @@
-21
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-YUNSTãO 14 
-O métoTo To caminUo crítico iTentifca a sequgncia 
-Te ativiTaTes que o gerente Te proũetos Teve Tar 
-mais  atenção,   porque,   caso  uma  Telas  atrase,  
-toTo o proũeto estarA atrasaTo.    tabela a seguir 
-apresenta a estrutura Te ativiTaTes Te um proũeto.
- tiviTaTe
- tiviTaTe
-preTecessora
-Muração 
-em Tias
- 
---
-3
-B
- 
-5
-C
---
-12
-M
---
-4
-N
-M
-2
-F
-M
-5
-'
-F
-7
-,
-N e '
-8
-/
-B
-11
-:
-C,  , e /
-3
-  partir Tas informações apresentaTas na tabela,  
-avalie as afrmações a seguir.
-/.   O  caminUo  crítico  é  composto  pelas 
-ativiTaTes  ,  B,  / e :.
-//.   O caminUo crítico tem 27 Tias.
-///.     ativiTaTe , faz parte To caminUo crítico.
-/s.   O  proũeto  em  pauta  possui  Tois  caminUos 
-críticos.
- correto apenas o que se afrma em
-A  / e //.
-B  / e /s.
-C  // e ///.
-M  /,  /// e /s.
-N  //,  /// e /s.
-Area livre
-YUNSTãO 15 
-Uma  empresa  multinacional  estA  avalianTo  um 
-inciTente Te segurança ocorriTo internamente com 
-o envolvimento Te um Te seus funcionArios,  o que 
-poTerA  ser  motivo  para  o  encerramento  Te  seu 
-contrato.  O referiTo funcionArio estava realizanTo o 
-compartilUamento Te senUas e também envianTo 
-mensagens  por  meio  To  serviço  Te  correio 
-eletrƀnico Ta empresa,  com o obũetivo Te Tifamar 
-e caluniar outros colegas Te trabalUo.
-Nessa  situação,   Te  acorTo  com  as  políticas 
-Te  segurança  que  Tefnem  os  Tireitos  e  as 
-responsabiliTaTes  Te  caTa  um  em  relação  a 
-segurança Tos recursos computacionais que utiliza,  
-o funcionArio violou a política Te
-A  senUas.
+QUESTÃO 15 
+hma  empresa  multinacional  estA  avaliando  um 
+incidente de segurança ocorrido internamente com 
+o envolvimento de um de seus funcionArios,  o que 
+poderA  ser  motivo  para  o  encerramento  de  seu 
+contrato.  K referido funcionArio estava realizando o 
+compartilhamento de senhas e também enviando 
+mensagens  por  meio  do  serviço  de  correio 
+eletrƀnico da empresa,  com o obũetivo de difamar 
+e caluniar outros colegas de trabalho.
+Eessa  situação,   de  acordo  com  as  políticas 
+de  segurança  que  defnem  os  direitos  e  as 
+responsabilidades  de  cada  um  em  relação  a 
+segurança dos recursos computacionais que utiliza,  
+o funcionArio violou a política de
+A  senhas.
 B backup.
-C  privaciTaTe.
-M  uso aceitAvel.
-N  confTencialiTaTe.
-Area livre
-*R41201721*
+C  privacidade.
+D  uso aceitAvel.
+E  confdencialidade.

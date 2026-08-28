@@ -3,30 +3,59 @@
   "numero": 67,
   "tipo": "OBJETIVA",
   "paginas": [
-    25,
-    26,
-    27
+    25
   ],
-  "largura": 2306,
-  "altura": 8452,
-  "confianca": 0.9,
-  "status": "APROVADA",
-  "categorias": [
-    "Redes de Computadores",
-    "Segurança da Informação"
-  ],
-  "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n24\nObserve os gráficos a seguir para responTer à questão 67.\nCnformações obtiTas no Relatório Oficial Ta ABNS e BSA, 2005.\nQUNSTÃO 67\nA reTução Ta pirataria Te software no Brasil e no munTo\né resultaTo Te esforços aTvinTos Ta iniciativa privaTa e Tas\nentiTaTes representativas To setor. Um estuTo objetivanTo\nmensurar o ínTice Te pirataria no munTo e os benefícios Te sua\nreTução apresentou os gráficos acima, obtiTos Te uma amostra\nTe 57 países, incluinTo-se o Brasil. \nCom base nas informações apresentaTas, é correto afirmar que\nC\na taxa Te reTução To ínTice Te pirataria Te software no munTo\nmanteve-se constante ano após ano no períoTo mostraTo.\nCC\no Brasil reTuziu em torno Te 25% seu ínTice Te pirataria Te\nsoftware, comparanTo os anos Te 1994 e 2002.\nCCC o Brasil foi, entre os países mostraTos, o que apresentou a maior\nreTução To ínTice Te pirataria no períoTo estuTaTo.\nCV países com maior participação To setor Te TC no PCB apresentam,\nnormalmente, menores ínTices Te pirataria.\nV\no Brasil apresentou aumento Te faturamento no períoTo Te 2000\na 2002, apesar To aumento Te pirataria.\nNstão certos apenas os itens\nA C e CC.\nM CCC e V.\nB C e CCC.\nN CV e V.\nC CC e CV.\nRASC UNH O\nParticipação Te imposto To setor Te TC no PCB\nversus ínTice Te pirataria\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n25\nQUNSTÃO 68\nSuponUa que uma empresa esteja projetanTo um protocolo Te\ntransporte orientaTo a conexão. SuponUa, ainTa, que os projetistas\ntenUam pouca experiência e que alguns requisitos originalmente\nlistaTos não sejam típicos Te um protocolo Te transporte\norientaTo a conexão. A seguir, apresenta-se a lista Tos\nrequisitos propostos pela equipe Te projetistas.\nC\nO protocolo Teve controlar a transmissão por meio Te\nmecanismo Te janela Teslizante (sliTing winTow). Vários\npacotes poTerão ser enviaTos antes Te a origem aguarTar uma\nconfirmação Te recepção. O número máximo Te pacotes\ntransmitiTos antes Te uma confirmação ser recebiTa será\nvariável, o que possibilitará o controle To fluxo Tos TaTos. \nCC\nO protocolo Teve rotear os pacotes entre reTes interligaTas.\nO roteamento Teve ser realizaTo a partir Tas informações em\ntabelas Te roteamento. Nm uma tabela Te roteamento, caTa\nentraTa Teve conter o enTereço Te um Testino e o enTereço Ta\npróxima máquina para a qual os pacotes Tevem ser enviaTos,\nTe moTo a serem encaminUaTos para o Testino.\nCCC Uma comunicação passará por três fases: estabelecimento Ta\nconexão, transferência Tos TaTos e término Ta conexão. O\nprotocolo manterá informações sobre uma conexão em uma\nestrutura Te TaTos. Uma instância Tessa estrutura será alocaTa\nquanTo uma conexão for estabeleciTa e será liberaTa quanTo\na conexão for terminaTa.\nCV O protocolo Teve calcular Tinamicamente o tempo (timeout)\nque a origem Te um pacote Teve aguarTar até retransmitir a\ninformação \ncaso \na \nrecepção \nnão \nseja \nconfirmaTa,\npossibilitanTo que atrasos variáveis sejam acomoTaTos. Csso\nTeverá ser feito por meio Te um algoritmo Te retransmissão\naTaptativo que perioTicamente ajuste o timeout.\nPara um protocolo Te transporte orientaTo a conexão, são\naTequaTos apenas os requisitos\nA C e CC.\nB C e CV.\nC CC e CCC.\nM C, CCC e CV.\nN CC, CCC e CV.\nQUNSTÃO 69\nA reTe Te uma empresa cujo esquema está ilustraTo\nacima é composta por 4 reTes TCP/CP locais. Nssas reTes\nTCP/CP são interligaTas por uma reTe X.25, que opera\ncomo túnel para as 4 reTes. As placas Tos computaTores\npertencentes a essas reTes são numeraTas com enTereços CP\nTas reTes 10.0.0.0 ou 164.41.0.0. Um firewall protege a\nreTe no acesso à Cnternet, senTo que, a partir Te qualquer\nmáquina na reTe, poTe-se acessar a Cnternet. \nA partir Tessas informações, julgue os itens a seguir, relativos à\nreTe Ta referiTa empresa, consiTeranTo o seu correto\nfuncionamento.\nC\nÉ correto utilizar a máscara 255.255.0.0 para segmentar a\nreTe.\nCC\nOs enTereços Te N1 a N9 poTem ser enTereços na reTe\n10.0.0.0.\nCCC\nOs enTereços N2, N4, N5 e N7 Tevem estar em uma mesma\nsub-reTe.\nCV\nO enTereço N10 Teve ser um enTereço na reTe 164.41.0.0.\nV\nO firewall Teve traTuzir entre os enTereços na reTe 10.0.0.0\ne os enTereços na reTe 164.41.0.0.\nVC\nOs pacotes X.25 são transferiTos Tentro Te pacotes CP.\nVCC Não Tevem ter siTo atribuíTos enTereços X.25 aos\nroteaTores 1, 2, 3 e 4.\nVCCC A rota Tefault nas tabelas Te roteamento Tos roteaTores\n1, 3 e 4 é o enTereço N4.\nCX\nA rota Tefault na tabela Te roteamento To roteaTor 2 é o\nenTereço N10.\nX\nOs enTereços na reTe 10.0.0.0 são visíveis pelas máquinas\nque estiverem na Cnternet.\nNstão certos apenas os itens\nA C, CC, CCC, V, VCCC e X.\nB C, CC, CCC, CV, V e VCCC.\nC CC, CV, V, VCCC, CX e X.\nM CCC, V, VC, VCC, VCCC e CX.\nN CCC, CV, V, VCC, VCCC e CX.\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n26\nQUNSTÃO 70 – MCSC URSCVA\nA máquina finita Te estaTos (MFN) cujo Tiagrama é visto ao laTo\nreconUece seqüências Te caracteres compostos pelas letras C, V e X, que\nrepresentam, em notação romana, números corresponTentes ao intervalo Te\n1 a 9, na notação arábica. ConsiTere que toTas as sentenças Te entraTa Ta\nMFN representam números romanos váliTos, ou seja, a MFN não tem\nmecanismo Te tratamento Te erros. Observe a corresponTência Ta\nrepresentação Tos alfabetos romano e arábito forneciTa pela tabela abaixo.\nalfabeto\n Notação:\nromano\narábico\n  \nestaTo inicial\n         \nestaTo final j\n         \nn é o número máximo Te transições possíveis no respectivo estaTo\n   \ntransição após reconUecimento To caractere \"\nC\n  1\nV\n  5\nX\n 10\nL\n50\nC\n100\nM\n500\nConsiTeranTo essas informações, estenTa a MFN apresentaTa acima para:\na) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 20 no alfabeto arábico, com no máximo oito estaTos.\n(valor: 5,0 pontos)\nRASCUNHO\nb) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 500 no alfabeto arábico, com no máximo oito\nestaTos. (valor: 5,0 pontos)\nRASCUNHO",
-  "figuras": [
-    "/questoes/2005_CCP/figuras/q67_fig1.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig2.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig3.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig4.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig5.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig6.jpeg",
-    "/questoes/2005_CCP/figuras/q67_fig7.jpeg"
+  "segmentos": [
+    {
+      "pagina": 25,
+      "x0": 25.0,
+      "y0": 454.5755920410156,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    },
+    {
+      "pagina": 25,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 792.7632446289062,
+      "coluna": 2
+    }
   ],
   "caminho_png": "/questoes/2005_CCP/q67.png",
-  "caminho_json": "/questoes/2005_CCP/q67.json",
-  "caminho_txt": "/questoes/2005_CCP/q67.txt"
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q67.txt",
+  "largura": 1156,
+  "altura": 4592,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 67\nA redução da pirataria de software no Brasil e no mundo\né resultado de esforços advindos da iniciativa privada e das\nentidades representativas do setor. Um estudo objetivando\nmensurar o índice de pirataria no mundo e os benefícios de sua\nredução apresentou os gráficos acima, obtidos de uma amostra\nde 57 países, incluindo-se o Brasil. \nCom base nas informações apresentadas, é correto afirmar que\nI\na taxa de redução do índice de pirataria de software no mun\nmanteve-se constante ano após ano no período mostrado.\nII\no Brasil reduziu em torno de 25% seu índice de pirataria \nsoftware, comparando os anos de 1994 e 2002.\nIII o Brasil foi, entre os países mostrados, o que apresentou a mai\nredução do índice de pirataria no período estudado.\nIV países com maior participação do setor de TI no PIB apresenta\nnormalmente, menores índices de pirataria.\nV\no Brasil apresentou aumento de faturamento no período de 20\na 2002, apesar do aumento de pirataria.\nEstão certos apenas os itens\nA I e II.\nD III e V.\nB I e III.\nE IV e V.\nC II e IV.\n\nInformações obtidas no Relatório Oficial da ABES e BSA, 2005.\no\nde\nor\nm,\n0\nRASC UNH O",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2005_CCP/figuras/q67_fig1.jpeg",
+    "/questoes/2005_CCP/figuras/q67_fig2.jpeg"
+  ],
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 67,
+      "tipo": "OBJETIVA",
+      "pagina": 25,
+      "x": 39.36000061035156,
+      "y": 466.5755920410156,
+      "x1": 85.78800201416016,
+      "y1": 472.5755920410156,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 67"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297629"
 }

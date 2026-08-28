@@ -5,17 +5,46 @@
   "paginas": [
     11
   ],
-  "largura": 1156,
-  "altura": 2594,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 568.2156372070312,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q27.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q27.txt",
+  "largura": 1155,
+  "altura": 965,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 27\nNa etapa de projeto orientado a objetos, no contexto de um\nprocesso de desenvolvimento de software, são desenvolvidas as\natividades de\nA definição da arquitetura do sistema e conversão das bases de\ndados do sistema.\nB identificação dos objetos do sistema e definição da\narquitetura do sistema.\nC conversão das bases de dados do sistema e teste de\nintegração do sistema.\nD teste de integração do sistema e análise de requisitos do\nsistema.\nE análise de requisitos do sistema e definição da arquitetura\ndo sistema.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Segurança da Informação"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 27,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 41.400001525878906,
+      "y": 580.2156372070312,
+      "x1": 87.8280029296875,
+      "y1": 586.2156372070312,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 27"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n10\nQUNSTÃO 25\nNntre os aspectos importantes relativos à segurança Te sistemas\nTe informação, inclui-se\nC\na proteção Te TaTos por meio Te senUas e criptografia forte.\nCC\na existência Te um plano Te recuperação Te Tesastres\nassociaTo a backups freqüentes.\nCCC a utilização Te firewalls associaTa a mecanismos Te\nTetecção Te intrusão.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 26\nToTo jogaTor Teve pertencer a um único clube.\nAssinale a opção que representa corretamente, no moTelo\nentiTaTe-relacionamento, a especificação apresentaTa acima.\nA\nB\nC\nM\nN\nQUNSTÃO 27\nNa etapa Te projeto orientaTo a objetos, no contexto Te um\nprocesso Te Tesenvolvimento Te software, são TesenvolviTas as\nativiTaTes Te\nA Tefinição Ta arquitetura To sistema e conversão Tas bases Te\nTaTos To sistema.\nB iTentificação Tos objetos To sistema e Tefinição Ta\narquitetura To sistema.\nC conversão Tas bases Te TaTos To sistema e teste Te\nintegração To sistema.\nM teste Te integração To sistema e análise Te requisitos To\nsistema.\nN análise Te requisitos To sistema e Tefinição Ta arquitetura\nTo sistema.\nQUNSTÃO 28\nO gerente Te tecnologia Te uma empresa Te TC\nrecebeu a incumbência Te especificar a arquitetura Te um\nsistema Te informação para atenTer a um cliente na área Te\nTiagnóstico por imagem (raio X, tomografia computaTorizaTa\ne ressonância magnética). O cliente está interessaTo em\nagilizar o Tiagnóstico por armazenamento e recuperação Te\nimagens TigitalizaTas e em se manter na vanguarTa To\nmercaTo, TaTa a melUoria contínua Te sua solução em TC.\nO cliente pretenTe iniciar TigitalizanTo 1.000 imagens por\nmês, caTa imagem com tamanUo méTio Te 20 kilobytes, até\ncUegar, em 12 meses, a 20.000 imagens por mês.\nConsiTeranTo essas informações, julgue os seguintes itens.\nC\nUm SBM orientaTo a objeto é aTequaTo para a arquitetura To SC\nTo cliente porque é voltaTo justamente para aplicações que\ntratam objetos complexos e tem alta integração com linguagens\nTe programação orientaTas a objetos.\nCC\nUm SBM relacional não é aTequaTo para a arquitetura To SC To\ncliente porque não constitui ainTa uma tecnologia bem\nestabeleciTa e bem testaTa, apesar Te ser uma linguagem Te\nconsulta poTerosa.\nCCC Um SBM objeto-relacional é aTequaTo para a arquitetura To SC\nTo cliente porque alia estruturas não-normalizaTas, capazes Te\nrepresentar objetos complexos, a uma linguagem Te consulta\npoTerosa.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 29\nT1\n1\nLeitura(X);\n2\nX = X – 100;\n3\nNscrita(X);\n4\nLeitura(Y);\n5\nY = Y + 100;\n6\nNscrita(Y);\nConsiTere um sistema bancário simplificaTo e uma transação T1,\nque transfira R$ 100,00 Ta conta X para a conta Y e é TefiniTa\npelas operações listaTas acima. ConsiTere ainTa que uma transação\nT2 esteja senTo executaTa simultaneamente com T1. Caso a\ntransação T2 realize a operação Nscrita(Y) Tepois Ta execução\nTa operação 4 e antes Ta execução Ta operação 6 por T1, qual\nproprieTaTe Te transações será violaTa no banco Te TaTos To\nreferiTo sistema bancário?\nA AtomiciTaTe.\nB Csolamento.\nC MistributiviTaTe.\nM Consistência.\nN MurabiliTaTe.",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q27.png",
-  "caminho_json": "/questoes/2005_CCP/q27.json",
-  "caminho_txt": "/questoes/2005_CCP/q27.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297363"
 }

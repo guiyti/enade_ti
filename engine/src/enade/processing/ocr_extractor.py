@@ -173,10 +173,11 @@ def run_ocr_if_needed(exam: Exam, structural_markers: List[Marker]) -> Tuple[Exa
 def merge_markers(structural: List[Marker], ocr: List[Marker]) -> List[Marker]:
     merged_dict: Dict[Tuple[str, int], Marker] = {}
     
-    # Structural markers take precedence
+    # Structural markers take precedence (keep first occurrence in reading flow)
     for m in structural:
         key = (m.tipo.value, m.numero)
-        merged_dict[key] = m
+        if key not in merged_dict:
+            merged_dict[key] = m
     
     # OCR markers add any missing ones
     for m in ocr:
@@ -187,5 +188,5 @@ def merge_markers(structural: List[Marker], ocr: List[Marker]) -> List[Marker]:
             merged_dict[key] = m
     
     merged = list(merged_dict.values())
-    merged.sort(key=lambda m: (0 if m.tipo == QuestionType.DISCURSIVA else 1, m.pagina, m.coluna, m.y))
+    merged.sort(key=lambda m: (m.pagina, m.coluna, m.y))
     return merged

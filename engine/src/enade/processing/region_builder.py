@@ -23,6 +23,7 @@ def build_page_slots(
     pages: List[PageData], 
     margin_x: float = 25.0, 
     header_y: float = 75.0, 
+    footer_y: float = 0.0,
     footer_y_offset: float = 60.0,
     dpi: int = 300
 ) -> List[FlowSlot]:
@@ -40,8 +41,8 @@ def build_page_slots(
         h = page.altura / scale if page.altura > 1500 else float(page.altura)
         
         mid_x = w / 2.0
-        y_top = header_y
-        y_bot = h - footer_y_offset
+        y_top = header_y if header_y > 0 else 75.0
+        y_bot = footer_y if footer_y > 0 else (h - footer_y_offset)
         
         if page.num_colunas == 2:
             # Slot 1: Left column
@@ -91,15 +92,15 @@ def find_slot_for_marker(marker: Marker, slots: List[FlowSlot]) -> Optional[Flow
     if len(page_slots) == 1:
         return page_slots[0]
     
-    # 1. Match by explicit column assignment
+    # 1. Match by explicit column assignment (1=left, 2=right)
     if marker.coluna > 0:
         for s in page_slots:
             if s.coluna == marker.coluna:
                 return s
                 
-    # 2. Match by bounding interval containment
+    # 2. Match by bounding interval containment (with 15pt tolerance)
     for s in page_slots:
-        if s.x0 <= marker.x <= s.x1:
+        if (s.x0 - 15.0) <= marker.x <= (s.x1 + 15.0):
             return s
             
     # 3. Match by closest center
@@ -110,7 +111,21 @@ def build_questions_from_markers(exam: Exam, markers: List[Marker], contexts: Li
     if not markers:
         return []
     
-    slots = build_page_slots(exam.paginas, dpi=config.PDF_DPI)
+    hdr_cut = 75.0
+    ftr_cut = 0.0
+    margin_x = 25.0
+    if exam.layout_profile:
+        hdr_cut = exam.layout_profile.get("header_cutoff_y", 75.0)
+        ftr_cut = exam.layout_profile.get("footer_cutoff_y", 0.0)
+        margin_x = exam.layout_profile.get("margin_x", 25.0)
+        
+    slots = build_page_slots(
+        exam.paginas,
+        margin_x=margin_x,
+        header_y=hdr_cut,
+        footer_y=ftr_cut,
+        dpi=config.PDF_DPI
+    )
     
     # Map each marker to its corresponding flow slot
     marker_slots: List[Tuple[Marker, FlowSlot]] = []

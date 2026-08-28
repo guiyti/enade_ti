@@ -5,17 +5,46 @@
   "paginas": [
     15
   ],
+  "segmentos": [
+    {
+      "pagina": 15,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 288.84,
+      "y1": 727.2,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q13.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q13.txt",
   "largura": 1129,
-  "altura": 2724,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2747,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 13\n   fgura  a  seguir  apresenta  uma  Arvore  binAria  de \npesquisa,   que  mantém  a  seguinte  propriedade \nfundamental:   o  valor  associado  a  raiz  é  sempre \nmenor do que o valor de todos os nos da subArvore \na direita e sempre maior do que o valor de todos os \nnos da subArvore a esquerda.\n10\n7\n15\n13\n14\n17\n20\n25\n \nEm relação a Arvore apresentada na fgura,  avalie as \nafrmações a seguir.\n/.      Arvore  possui  a  vantagem  de  realizar  a \nbusca de elementos de forma efciente,  como \na busca binAria em um vetor.\n//.     Arvore estA desbalanceada,  pois a subArvore \nda esquerda possui um numero de nos maior \ndo que a subArvore da direita.\n///.   Yuando  a  Arvore  é  percorrida  utilizando \no  método  de  caminhamento  pos-ordem,  \nos  valores  são  encontrados  em  ordem \ndecrescente.\n/s.   K  numero  de  comparações  realizadas  em \nfunção do numero n de elementos na Arvore \nem uma busca binAria realizada com sucesso \né K(log n).\n\u001e correto apenas o que se afrma em\nA / e ///.\nB / e /s.\nC // e ///.\nD /,  // e /s.\nE //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Teoria da Computação e Compiladores"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 13,
+      "tipo": "OBJETIVA",
+      "pagina": 15,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 92.07929992675781,
+      "y1": 98.31988525390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 13"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "15\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 13\n   fgura  a  seguir  apresenta  uma  Arvore  binAria  Te \npesquisa,   que  mantém  a  seguinte  proprieTaTe \nfunTamental:   o  valor  associaTo  a  raiz  é  sempre \nmenor To que o valor Te toTos os nos Ta subArvore \na Tireita e sempre maior To que o valor Te toTos os \nnos Ta subArvore a esquerTa.\n10\n7\n15\n13\n14\n17\n20\n25\n \nNm relação a Arvore apresentaTa na fgura,  avalie as \nafrmações a seguir.\n/.      Arvore  possui  a  vantagem  Te  realizar  a \nbusca Te elementos Te forma efciente,  como \na busca binAria em um vetor.\n//.     Arvore estA TesbalanceaTa,  pois a subArvore \nTa esquerTa possui um numero Te nos maior \nTo que a subArvore Ta Tireita.\n///.   YuanTo  a  Arvore  é  percorriTa  utilizanTo \no  métoTo  Te  caminUamento  pos-orTem,  \nos  valores  são  encontraTos  em  orTem \nTecrescente.\n/s.   O  numero  Te  comparações  realizaTas  em \nfunção To numero n Te elementos na Arvore \nem uma busca binAria realizaTa com sucesso \né O(log n).\n\u001e correto apenas o que se afrma em\nA / e ///.\nB / e /s.\nC // e ///.\nM /,  // e /s.\nN //,  /// e /s.\nQUNSTÃO 14\nSeũa o universo U с ΂10,  20,  30,  40΃ e o conũunto Tos \nnumeros  naturais  N.   Com  base  no  conUecimento \nsobre a logica Te preTicaTos,  avalie as afrmações \na seguir.\n/.   , с (׊x א N)(׌Ǉ א U)(x ф Ǉ) é vAliTa.\n//.   , с (׊x א N)(׌Ǉ א N)(Ǉ ф x) é vAliTa.\n///.  , с (׊x א U)(׌Ǉ א U)(x х Ǉ) é invAliTa,  senTo \nx с 10 um contra-exemplo.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 15\nConsiTere  as  seguintes  expressões  regulares  cuũo \nalfabeto é ΂a,  b΃.\nZ1 с a(a U b)Ύ\nZ2 с b(a U b)Ύ\nSe  >(Z)  é  a  linguagem  associaTa  a  uma  expressão \nregular Z,  é correto afrmar que\nA >(Z1) с >(Z2).\nB >(Z2) с ΂ǁ ͮ  ǁ termina com b΃.\nC existe  um  autƀmato  fnito  Teterminístico  cuũa \nlinguagem é igual a >(Z1) U >(Z2).\nM se  Z3  é  uma  expressão  regular  tal  que \n>(Z3) с >(Z1) ŀ >(Z2),  então >(Z3) é uma \nlinguagem infinita.\nN um  autƀmato  fnito  não  Teterminístico  que \nreconUeça >(Z1) U >(Z2) tem,  pelo menos,  quatro \nestaTos.\nÁRNA LCVRN\n*R03201415*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q13.png",
-  "caminho_json": "/questoes/2014_CCP/q13.json",
-  "caminho_txt": "/questoes/2014_CCP/q13.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234327"
 }

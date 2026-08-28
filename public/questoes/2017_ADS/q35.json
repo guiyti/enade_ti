@@ -5,17 +5,46 @@
   "paginas": [
     39
   ],
+  "segmentos": [
+    {
+      "pagina": 39,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q35.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q35.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 35 \nEm um sistema ǁeb para venda de ingressos para shoǁs musicais,  a equipe de marŬeting solicitou a \num ǁeb designer que,  na pAgina inicial,  os links para a Area de venda de ingressos de cada shoǁ fossem \nimagens,  para tornar a navegação pelos conteudos da pAgina mais atrativa e para que o proprio link ũA \nservisse como material de divulgação.\n  partir do prototipo da pAgina inicial apresentado e usando ,dD>,  o ǁeb designer optou por implementar \ncada link de forma que a imagem forneça um texto informativo (por meio do atributo alt) para usuArios \nque usem leitores de tela,  conforme a seguir.\n<a href=\"link-area-venda-ingresso\">\n   NLPJ VUF \u0005LPDJHP\u0010VKRZBMSJ\u0005 DOW \u0005LGHQWL¿FDomR GR VKRZ\u0005 I!\n</a>\nIonsiderando  a  situação  apresentada,   o  uso  do  atributo  alt  e  aspectos  da  interação  humano-\ncomputador,  pode-se afrmar que o ǁeb designer atendeu,  em sua implementação,  o requisito de\nA  segurança no uso,  pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização,  o \ntexto informativo associado a imagem possibilita a identifcação do conteudo do respectivo link.\nB facilidade de aprendizado,  pois a comunicação visual do sistema ǁeb,  por meio do uso de imagens,  \naliada a comunicação textual,  por meio do uso de textos informativos para cada imagem,  aũuda o \nusuArio a aprender os caminhos de navegação.\nC  acessibilidade,  pois a possibilidade de acesso a pAgina por pessoas com defcigncia visual,  para \nque interaũam com os conteudos,  oferece condições de igualdade as pessoas na interação com o \nsistema ǁeb.\nD ergonomia,  pois o uso de imagens em links causa um cansaço visual quando o sistema  ǁeb é \naberto em um smartphone ou em um tablet com baixa resolução,  e o atributo alt substitui a \nimagem por texto.\nE comunicabilidade,  pois se uma imagem não comunica adequadamente a informação deseũada,  um \ntexto alternativo deve complementar a respectiva informação,  de forma que a interação com o sistema \nǁeb não seũa preũudicada.\nNavegador\nSlogan do site\n145 x 95\n145 x 95\n145 x 95\n145 x 95\n145 x 95\n145 x 95",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 35,
+      "tipo": "OBJETIVA",
+      "pagina": 39,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 35"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "39\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 35 \nNm um sistema ǁeb para venTa Te ingressos para sUoǁs musicais,  a equipe Te marŬeting solicitou a \num ǁeb Tesigner que,  na pAgina inicial,  os links para a Area Te venTa Te ingressos Te caTa sUoǁ fossem \nimagens,  para tornar a navegação pelos conteuTos Ta pAgina mais atrativa e para que o proprio link ũA \nservisse como material Te Tivulgação.\n  partir To prototipo Ta pAgina inicial apresentaTo e usanTo ,TM>,  o ǁeb Tesigner optou por implementar \ncaTa link Te forma que a imagem forneça um texto informativo (por meio To atributo alt) para usuArios \nque usem leitores Te tela,  conforme a seguir.\n<a Uref=\"link-area-venTa-ingresso\">\n   NLPJ VUF \u0005LPMJHP\u0010VORZBMSJ\u0005 MOP \u0005LGHQPL¿FMomR GR VORZ\u0005 C!\n</a>\nConsiTeranTo  a  situação  apresentaTa,   o  uso  To  atributo  alt  e  aspectos  Ta  interação  Uumano-\ncomputaTor,  poTe-se afrmar que o ǁeb Tesigner atenTeu,  em sua implementação,  o requisito Te\nA  segurança no uso,  pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização,  o \ntexto informativo associaTo a imagem possibilita a iTentifcação To conteuTo To respectivo link.\nB faciliTaTe Te aprenTizaTo,  pois a comunicação visual To sistema ǁeb,  por meio To uso Te imagens,  \naliaTa a comunicação textual,  por meio To uso Te textos informativos para caTa imagem,  aũuTa o \nusuArio a aprenTer os caminUos Te navegação.\nC  acessibiliTaTe,  pois a possibiliTaTe Te acesso a pAgina por pessoas com Tefcigncia visual,  para \nque interaũam com os conteuTos,  oferece conTições Te igualTaTe as pessoas na interação com o \nsistema ǁeb.\nM ergonomia,  pois o uso Te imagens em links causa um cansaço visual quanTo o sistema  ǁeb é \naberto em um smartpUone ou em um tablet com baixa resolução,  e o atributo alt substitui a \nimagem por texto.\nN comunicabiliTaTe,  pois se uma imagem não comunica aTequaTamente a informação TeseũaTa,  um \ntexto alternativo Teve complementar a respectiva informação,  Te forma que a interação com o sistema \nǁeb não seũa preũuTicaTa.\nNavegaTor\nSlogan To site\n145 x 95\n145 x 95\n145 x 95\n145 x 95\n145 x 95\n145 x 95\n*R41201739*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q35.png",
-  "caminho_json": "/questoes/2017_ADS/q35.json",
-  "caminho_txt": "/questoes/2017_ADS/q35.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601140"
 }

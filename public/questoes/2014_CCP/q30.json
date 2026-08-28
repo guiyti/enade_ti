@@ -5,17 +5,46 @@
   "paginas": [
     24
   ],
+  "segmentos": [
+    {
+      "pagina": 24,
+      "x0": 25.0,
+      "y0": 75.3,
+      "x1": 288.84,
+      "y1": 727.2,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_CCP/q30.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_CCP/q30.txt",
   "largura": 1129,
-  "altura": 2724,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2747,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 30\nhma  fazenda  possui  um  unico  poço  artesiano  que \ndeve abastecer n bebedouros para o gado.  Deseũa-se \ndeterminar  um  proũeto  de  ligação  entre  esses  nн1\npontos  através  de  encanamentos  com  a  menor \nextensão total.  hm algoritmo proposto para a solução \ndo problema executa os seguintes passos:\n1. Irie nн1 conũuntos unitArios,  cada um contendo \num dos pontos a serem ligados entre si e insira \nesses conũuntos em um conũunto C.\n2. Irie  um  conũunto  D  contendo  um  registro \npara  cada  combinação  possível  de  dois  pontos \ndistintos  a  serem  ligados.   Iada  registro  deve \nconter os campos ci , cj e d, em que ci e cj são \nos dois pontos a serem ligados e d é a distancia \nentre eles.\n3.   Enquanto D não estiver vazio faça:\n3. 1. Zemova o registro de D com o menor valor de \ndistancia d.\n3. 2. ^e os valores de ci e cj do registro removido \npertencerem a conũuntos distintos de C, então:\n3. 2. 1. ^ubstitua estes dois conũuntos pela união \nentre eles.\n3. 2. 2. 'uarde  o  registro  removido  em  um \nconũunto-solução.\nIom base na descrição do problema e do algoritmo \nproposto,  conclui-se que\nA o problema exemplifca a obtenção de uma Arvore \ngeradora mínima,  portanto estA no conũunto P.\nB o algoritmo é uma heurística para o Wroblema do \nIaixeiro  siaũante,   logo  apresenta  complexidade \npolinomial.\nC o  problema  descrito  é  de  otimização,   logo \npertence  ao  conũunto  NPʹdiİcil,   mas  não  ao \nconũunto NPʹcompleto.\nD uma  alternativa  para  a  solução  do  problema  é \nusar  o  algoritmo  de  DiũŬstra  para  obtenção  do \ncaminho mínimo entre dois pontos.\nE o passo de maior custo do algoritmo é a criação \ndo conũunto D com as combinações de pontos,  \napresentando \ncomplexidade \ncomputacional \nO(n!).",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 30,
+      "tipo": "OBJETIVA",
+      "pagina": 24,
+      "x": 29.62769889831543,
+      "y": 86.31988525390625,
+      "x1": 92.07929992675781,
+      "y1": 98.31988525390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 30"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "24\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 30\nUma  fazenTa  possui  um  unico  poço  artesiano  que \nTeve abastecer n bebeTouros para o gaTo.  Meseũa-se \nTeterminar  um  proũeto  Te  ligação  entre  esses  nн1\npontos  através  Te  encanamentos  com  a  menor \nextensão total.  Um algoritmo proposto para a solução \nTo problema executa os seguintes passos:\n1. Crie nн1 conũuntos unitArios,  caTa um contenTo \num Tos pontos a serem ligaTos entre si e insira \nesses conũuntos em um conũunto C.\n2. Crie  um  conũunto  M  contenTo  um  registro \npara  caTa  combinação  possível  Te  Tois  pontos \nTistintos  a  serem  ligaTos.   CaTa  registro  Teve \nconter os campos ci , cj e T, em que ci e cj são \nos Tois pontos a serem ligaTos e T é a Tistancia \nentre eles.\n3.   Nnquanto M não estiver vazio faça:\n3. 1. Zemova o registro Te M com o menor valor Te \nTistancia T.\n3. 2. Se os valores Te ci e cj To registro removiTo \npertencerem a conũuntos Tistintos Te C, então:\n3. 2. 1. Substitua estes Tois conũuntos pela união \nentre eles.\n3. 2. 2. 'uarTe  o  registro  removiTo  em  um \nconũunto-solução.\nCom base na Tescrição To problema e To algoritmo \nproposto,  conclui-se que\nA o problema exemplifca a obtenção Te uma Arvore \ngeraTora mínima,  portanto estA no conũunto P.\nB o algoritmo é uma Ueurística para o Problema To \nCaixeiro  siaũante,   logo  apresenta  complexiTaTe \npolinomial.\nC o  problema  Tescrito  é  Te  otimização,   logo \npertence  ao  conũunto  NPʹTiİcil,   mas  não  ao \nconũunto NPʹcompleto.\nM uma  alternativa  para  a  solução  To  problema  é \nusar  o  algoritmo  Te  MiũŬstra  para  obtenção  To \ncaminUo mínimo entre Tois pontos.\nN o passo Te maior custo To algoritmo é a criação \nTo conũunto M com as combinações Te pontos,  \napresentanTo \ncomplexiTaTe \ncomputacional \nO(n!).\nQUNSTÃO 31\nNa \ntransmissão \nTe \nTaTos \nem \nsistemas \ncomputacionais,  o Tispositivo Te verifcação Te erros \nconUeciTo como bit Te pariTaTe consiste Ta aTição \nTe  um  bit  extra  Turante  a  transmissão.   O  valor \nassociaTo a esse bit é uma função Ta quantiTaTe Te \nbits Te TaTos iguais a 1 a serem transmitiTos.\nNesse contexto,  consiTere a transmissão Te 7 bits Te \nTaTos,  com um bit extra Te pariTaTe,  em um sistema \nTe comunicação no qual a probabiliTaTe Te transmitir \num bit Te forma incorreta é igual a 10-6e inTepenTe \nTe outros erros ocorriTos.  O bit Te pariTaTe também \npoTe sofrer erros.  \n   probabiliTaTe  Ta  ocorrgncia  Te  transmissão  Te \n2  bits  erraTos,   que  seria  erroneamente  TetectaTa \ncomo uma transmissão sem erros,  é\nA 1, 0 u10-12.\nB 2, 0 u10-12.\nC 2, 8 u10-11.\nM 2, 0 u10-6.\nN 2, 8 u10-5.\nÁRNA LCVRN\n*R03201424*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_CCP/q30.png",
-  "caminho_json": "/questoes/2014_CCP/q30.json",
-  "caminho_txt": "/questoes/2014_CCP/q30.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:55.234410"
 }

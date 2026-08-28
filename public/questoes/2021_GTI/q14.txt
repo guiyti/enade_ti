@@ -1,37 +1,35 @@
-23
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 14	
-A estrutura lógica global Te um banco Te TaTos poTe ser expressa graficamente por um Tiagrama Te 
-entiTaTes (representaTo por retângulos), por relacionamentos (representaTos por losangos) e pelos 
-atributos Te caTa entiTaTe ou relacionamento por meio Te elipses (notação Peter CUen).
-A conectiviTaTe Tescreve as restrições no mapeamento Tas associações existentes entre as ocorrências 
-Te entiTaTes em um relacionamento. Os valores Te conectiviTaTe estão sempre entre um ou muitos em 
-um Tos laTos To relacionamento.
-MACHAMO, F. N. R. Banco Te MaTos: projeto e implementação. São Paulo: Érica, p. 74, 2020 (aTaptaTo).
-A partir Tas informações To texto, consiTere que uma empresa mantém o controle Te seus peTiTos em 
-uma planilUa eletrônica, armazenanTo as informações Te clientes, peTiTos e proTutos conforme a figura 
+QUESTÃO 14	
+A estrutura lógica global de um banco de dados pode ser expressa graficamente por um diagrama de 
+entidades (representado por retângulos), por relacionamentos (representados por losangos) e pelos 
+atributos de cada entidade ou relacionamento por meio de elipses (notação Peter Chen).
+A conectividade descreve as restrições no mapeamento das associações existentes entre as ocorrências 
+de entidades em um relacionamento. Os valores de conectividade estão sempre entre um ou muitos em 
+um dos lados do relacionamento.
+MACHADO, F. N. R. Banco de Dados: projeto e implementação. São Paulo: Érica, p. 74, 2020 (adaptado).
+A partir das informações do texto, considere que uma empresa mantém o controle de seus pedidos em 
+uma planilha eletrônica, armazenando as informações de clientes, pedidos e produtos conforme a figura 
 a seguir.
 A
 B
 C
-M
-N
+D
+E
 F
 G
 H
-C
+I
 J
-O
-Cliente CPF NnTereço Telefone Nro PeTiTo Mata Valor Total PeTiTo Nro Ctem PeTiTo ProTuto QtT Valor unitário
-Com o crescimento Tas venTas, a empresa TeciTiu migrar as informações para um banco Te TaTos e 
-utilizar um sistema para o caTastro Tos peTiTos.
-Miante To exposto, assinale a alternativa que apresenta corretamente o Tiagrama Ta estrutura lógica To 
-banco Te TaTos a ser implementaTo na empresa, seguinTo regras Te normalização.
+K
+Cliente CPF Endereço Telefone Nro Pedido Data Valor Total Pedido Nro Item Pedido Produto Qtd Valor unitário
+Com o crescimento das vendas, a empresa decidiu migrar as informações para um banco de dados e 
+utilizar um sistema para o cadastro dos pedidos.
+Diante do exposto, assinale a alternativa que apresenta corretamente o diagrama da estrutura lógica do 
+banco de dados a ser implementado na empresa, seguindo regras de normalização.
 A
 Cliente
-PeTiTo
+Pedido
 possui
-ProTuto
+Produto
 faz
 1
 N
@@ -39,9 +37,9 @@ N
 N
 B
 Cliente
-PeTiTo
+Pedido
 possui
-ProTuto
+Produto
 faz
 1
 N
@@ -49,12 +47,12 @@ N
 N
 C
 Cliente
-PeTiTo
-Ctem
-PeTiTo
+Pedido
+Item
+Pedido
 possui
 possui
-ProTuto
+Produto
 faz
 1
 N
@@ -62,14 +60,14 @@ N
 N
 N
 1
-M
+D
 Cliente
-PeTiTo
-Ctem
-PeTiTo
+Pedido
+Item
+Pedido
 possui
 possui
-ProTuto
+Produto
 faz
 1
 N
@@ -77,14 +75,14 @@ N
 N
 N
 N
-N
+E
 Cliente
-PeTiTo
-Ctem
-PeTiTo
+Pedido
+Item
+Pedido
 possui
 possui
-ProTuto
+Produto
 faz
 1
 N
@@ -92,4 +90,3 @@ N
 1
 N
 N
-*R29202123*

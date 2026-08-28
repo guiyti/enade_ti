@@ -1,37 +1,17 @@
-9
-C/NNC/  M  COMPUT AãO 
-COMPONNNTN NSPNCÍFCCO
-QUNSTÃO MCSCURSCVA 3
-O ũogo SuToŬu consiste em uma matriz 9x9 TiviTiTa em 9 sub-matrizes 3x3,  como mostraTo na fgura a seguir.
-Misponível em фUtp:ͬͬ
-ǁǁǁ. en-ǁiŬipeTia. orgх.   cesso em:  26 ũul 2014 (aTaptaTo).
-  matriz estA parcialmente preencUiTa com numeros Te 1 a 9,  e o obũetivo To ũogo é completar a matriz,  Te 
-forma que caTa linUa,  coluna e sub-matriz contenUam toTos os numeros Te 1 a 9.
-  partir Tessas informações,  escreva um algoritmo recursivo baseaTo em retrocesso (backtracking) para 
-resolver o ũogo.    matriz foi transformaTa em um vetor V Te 81 posições,  contenTo zeros nas posições que 
-faltam para serem preencUiTas.
-ConsiTere  que  existem  Tuas  funções  implementaTas.      primeira  função,   NaoHaViolacao(x,i,V),  
-retorna verTaTeiro se a inserção To numero x na posição i To vetor V não causa violação Tas restrições 
-To ũogo (numero repetiTo em linUa,  coluna ou sub-matriz).    segunTa função, Cmprime(V), realiza a 
-impressão To vetor V.
-ConsiTere,  ainTa,  que o algoritmo Teve imprimir o vetor V com a solução encontraTa,  se esta existir.  
+QUESTÃO DISCURSIVA 3
+K ũogo ^udoŬu consiste em uma matriz 9x9 dividida em 9 sub-matrizes 3x3,  como mostrado na fgura a seguir.
+Disponível em фhtp:ͬͬ
+ǁǁǁ. en-ǁiŬipedia. orgх.   cesso em:  26 ũul 2014 (adaptado).
+  matriz estA parcialmente preenchida com numeros de 1 a 9,  e o obũetivo do ũogo é completar a matriz,  de 
+forma que cada linha,  coluna e sub-matriz contenham todos os numeros de 1 a 9.
+  partir dessas informações,  escreva um algoritmo recursivo baseado em retrocesso (backtracking) para 
+resolver o ũogo.    matriz foi transformada em um vetor V de 81 posições,  contendo zeros nas posições que 
+faltam para serem preenchidas.
+Ionsidere  que  existem  duas  funções  implementadas.      primeira  função,   NaoHaViolacao(x,i,V),  
+retorna verdadeiro se a inserção do numero x na posição i do vetor V não causa violação das restrições 
+do ũogo (numero repetido em linha,  coluna ou sub-matriz).    segunda função, Imprime(V), realiza a 
+impressão do vetor V.
+Ionsidere,  ainda,  que o algoritmo deve imprimir o vetor V com a solução encontrada,  se esta existir.  
 (valor:  10, 0 pontos)
-Observação:  Yualquer notação em portugugs estruturaTo,  Te forma imperativa ou orientaTa a obũetos poTe 
-ser utilizaTa,  assim como em uma linguagem Te alto nível,  como Pascal,  C ou :ava.
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-*R0320149*
+Kbservação:  Yualquer notação em portugugs estruturado,  de forma imperativa ou orientada a obũetos pode 
+ser utilizada,  assim como em uma linguagem de alto nível,  como Wascal,  I ou :ava.

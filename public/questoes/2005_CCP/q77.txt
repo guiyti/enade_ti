@@ -1,137 +1,39 @@
-NNAMN – 2005
-Área: COMPUTAÇÃO
-28
-QUNSTÃO 75
-Um engenUeiro Te uma companUia fabricante Te
-memórias semiconTutoras estuTou o comportamento
-To custo em função To número Te bits Ta fabricação Te
-um cUip Te memória RAM com TeterminaTa
-tecnologia. 
-Nle 
-cUegou 
-à 
-conclusão 
-Te 
-que,
-consiTeranTo-se a evolução tecnológica, o custo C(x),
-expresso em TeterminaTa uniTaTe monetária, Te um
-cUip Te memória RAM com x bits, na Tata Te conclusão
-To processo Te fabricação, seria TeterminaTo pela
-equação
-ConsiTeranTo-se que o moTelo TesenvolviTo pelo engenUeiro
-esteja correto, caso a empresa TeciTa pelo cUip Te menor
-custo, ela Teverá optar por um cUip com memória Te
-capaciTaTe Te 
-A 256 megabits.
-B 512 megabits.
-C 1.024 megabits.
-M 2.048 megabits.
-N 4.096 megabits.
-QUNSTÃO 76
-O termo imagem Tesigna uma função
-intensiTaTe luminosa biTimensional f, em que um valor
-Te intensiTaTe é associaTo a coorTenaTas espaciais
-(x, y). Uma imagem Tigital é obtiTa pela Tigitalização
-Tas coorTenaTas espaciais por meio Te um processo
-conUeciTo como amostragem Ta imagem. Messa
-forma, uma imagem contínua monocromática f(x, y) é
-aproximaTa por amostras igualmente espaçaTas,
-arranjaTas na forma Te uma matriz N×M, em que caTa
-min
-max
-elemento é um valor inteiro g. O intervalo [G
-, G
-],
-To menor ao maior valor Te intensiTaTe g, é
-min
-TenominaTo escala Te cinza. Normalmente, G
- = 0
-max
-corresponTe a preto, e G
- = G corresponTe ao
-branco.
-ConsiTeranTo os conceitos apresentaTos acima, assinale a
-opção correta.
-A O processo Te Tigitalização Ta imagem requer que as
-Timensões N e M Ta matriz mencionaTa acima sejam
-múltiplas To número Te tons Te cinza na imagem.
-B Para imagens binárias, se L for o número Te tons Te cinza
-representáveis, e L = 2 , então k = 2.
-k
-C Os métoTos para realce Te imagens que operam no
-Tomínio espacial fazem uso To conceito Te vizinUança Te
-pixel.
-M MétoTos Te filtragem normalmente usam máscaras para
-impeTir a transformação Tos níveis Te cinza Tos pixels Ta
-imagem. 
-N Limiarização é um tipo Te processamento Te imagens que
-amplia o número Te níveis Te cinza Ta imagem.
-QUNSTÃO 77
-Observe a situação representaTa acima, em que o triângulo
-iTentificaTo por A sofre transformações geométricas que o levam para
-a situação iTentificaTa por A’. ConsiTeranTo-se Tx e Ty parâmetros
-Te translação e s, parâmetro fator Te escala, então o triângulo A’ poTe
-ser obtiTo a partir Ta aplicação Ta seguinte seqüência Te
-transformações aos vértices To triângulo A:
+UESTÃO 77
+serve a situação representada acima, em que o triângulo
+ntificado por A sofre transformações geométricas que o levam para
+ituação identificada por A’. Considerando-se dx e dy parâmetros
+translação e s, parâmetro fator de escala, então o triângulo A’ pode
+obtido a partir da aplicação da seguinte seqüência de
+nsformações aos vértices do triângulo A:
 c
 c
-A rotação em torno To ponto (x , y ); escala com fator uniforme
+rotação em torno do ponto (x , y ); escala com fator uniforme
 s  = 2.
 c
 c
-B rotação em torno To ponto (x , y ); escala com fator uniforme
+rotação em torno do ponto (x , y ); escala com fator uniforme
 s = 0,5.
 c
 c
-C rotação em torno To ponto (x' , y' ); escala com fator
-uniforme s = 0,5; translação com parâmetros Te Teslocamento
+rotação em torno do ponto (x' , y' ); escala com fator
+uniforme s = 0,5; translação com parâmetros de deslocamento
 c
 c
-Tx = !x e Ty = !y .
-M escala com fator uniforme s = 0,5; translação com parâmetros Te
+dx = !x e dy = !y .
+escala com fator uniforme s = 0,5; translação com parâmetros de
 c
 c
-Teslocamento Tx = x' e Ty = y' ; rotação em torno To
+deslocamento dx = x' e dy = y' ; rotação em torno do
 c
 c
 ponto (x , y ).
 c
 c
-N tanslação com parâmetros Te Teslocamento Tx = !x e Ty = !y ;
+tanslação com parâmetros de deslocamento dx = !x e dy = !y ;
 c
 c
-rotação em torno To ponto (x , y ); translação com parâmetros
+rotação em torno do ponto (x , y ); translação com parâmetros
 c
 c
-Te Teslocamento Tx = x e Ty = y ; escala com fator uniforme
+de deslocamento dx = x e dy = y ; escala com fator uniforme
 s = 0,5.
-QUNSTÃO 78
-Mispositivos Lógicos Programáveis (MLP, ou PLM — programmable
-logic Tevices) são muito utilizaTos Uoje em Tia para o projeto Te
-circuitos Tigitais especiais. Com relação a esse assunto, julgue os
-itens a seguir.
-C
-Como um PLA (programmable logic array) somente implementa
-equações booleanas Tescritas na forma Te soma Te termos-
-proTuto, e não implementa portas lógicas multinível, então nem
-toTas as funções booleanas poTem ser implementaTas em um
-PLA.
-CC
-Nm uma PROM (programmable ROM), o arranjo Te portas ANM
-é fixo, e somente o arranjo Te portas OR poTe ser programaTo; em
-um PAL (programmable array logic), o arranjo Te portas OR é
-fixo, e somente o array Te portas ANM é programável; e, em um
-PLA (programmable logic array), tanto o arranjo Te portas ANM
-como o Te portas OR são programáveis.
-CCC Um circuito Tigital implementaTo por meio Te um Tispositivo
-lógico programável ocupa mais área e consome mais potência To
-que um circuito integraTo TeTicaTo, mas, em compensação, ele
-poTe operar em freqüências maiores, pois seus transistores e
-portas lógicas são projetaTos Te forma a otimizar o cUaveamento
-Te estaTos.
-Assinale a opção correta.
-A Apenas o item CC está certo.
-B Apenas o item CCC está certo.
-C Apenas os itens C e CC estão certos.
-M Apenas os itens C e CCC estão certos.
-N Apenas os itens CC e CCC estão certos.

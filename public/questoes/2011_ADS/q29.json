@@ -5,17 +5,46 @@
   "paginas": [
     16
   ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 64.7,
+      "x1": 287.28,
+      "y1": 432.8739013671875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2011_ADS/q29.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2011_ADS/q29.txt",
   "largura": 1123,
-  "altura": 1521,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1564,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 29  \nA pilha é uma estrutura de dados que permite a inserção/\nremoção de itens dinamicamente seguindo a norma de \núltimo a entrar, primeiro a sair. Suponha que para uma \nestrutura de dados, tipo pilha, são definidos os comandos:\n• \nPUSH (p, n): Empilha um número “n” em uma estrutura \nde dados do tipo pilha “p”;\n• \nPOP (p): Desempilha o elemento no topo da pilha.\nConsidere que, em uma estrutura de dados tipo pilha “p”, \ninicialmente vazia, sejam executados os seguintes comandos:\n            PUSH (p, 10)\n            PUSH (p, 5)\n            PUSH (p, 3)\n            PUSH (p, 40)\n            POP (p)\n            PUSH (p, 11)\n            PUSH (p, 4)\n            PUSH (p, 7)\n            POP (p)\n            POP (p)\nApós a execução dos comandos, o elemento no topo da \npilha “p” e a soma dos elementos armazenados na pilha \n“p” são, respectivamente,\nA   11 e 29.\nB   11 e 80.\nC   4 e  80.\nD   7 e 29.\nE   7 e 40.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 29,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 34.1431999206543,
+      "y": 68.1739273071289,
+      "x1": 103.25318908691406,
+      "y1": 82.03392791748047,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 29"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n16\nQUNSTÃO 29  \nA pilUa é uma estrutura Te TaTos que permite a inserção/\nremoção Te itens Tinamicamente seguinTo a norma Te \núltimo a entrar, primeiro a sair. SuponUa que para uma \nestrutura Te TaTos, tipo pilUa, são TefiniTos os comanTos:\n• \nPUSH (p, n): NmpilUa um número “n” em uma estrutura \nTe TaTos To tipo pilUa “p”;\n• \nPOP (p): MesempilUa o elemento no topo Ta pilUa.\nConsiTere que, em uma estrutura Te TaTos tipo pilUa “p”, \ninicialmente vazia, sejam executaTos os seguintes comanTos:\n            PUSH (p, 10)\n            PUSH (p, 5)\n            PUSH (p, 3)\n            PUSH (p, 40)\n            POP (p)\n            PUSH (p, 11)\n            PUSH (p, 4)\n            PUSH (p, 7)\n            POP (p)\n            POP (p)\nApós a execução Tos comanTos, o elemento no topo Ta \npilUa “p” e a soma Tos elementos armazenaTos na pilUa \n“p” são, respectivamente,\nA   11 e 29.\nB   11 e 80.\nC   4 e  80.\nM   7 e 29.\nN   7 e 40.\nQUNSTÃO 30  \nAs revisões técnicas formais são um meio efetivo Te \nmelUorar a qualiTaTe To software. Com relação a esse \ntipo Te revisão, analise as seguintes asserções.\nNas revisões, os proTutos Te trabalUo Te um inTivíTuo ou \nequipe são revisaTos por técnicos ou gerentes\nPORQUN\nas revisões fornecem informações sobre Tefeitos, \naumentanTo e permitinTo o controle Ta qualiTaTe To \nproTuto final.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC    A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 31  \nNm um TeterminaTo momento, uma reTe recebe uma \nquantiTaTe Te requisições Te operações, vinTas Te \nnúmeros CPs Tistintos, muito acima Tas conTições \noperacionais previstas para os seus recursos e “trava”, isto \né, os seus serviços são interrompiTos. Muitas empresas \ne entiTaTes governamentais sofrem esse tipo Te ataque \nUacker. Para realizá-lo, um atacante precisa Tistribuir \num cóTigo, em vários computaTores, normalmente sem \no consentimento Tos Testinatários, que se tornam seus \n“zumbis”. Nm um momento, o atacante ativa os “zumbis” \nque fazem muitos acessos a um TeterminaTo alvo, \nacabanTo por esgotar seus recursos e TerrubanTo o \nsistema Te informações.\nA respeito Tesse tipo Te ataque, analise as \nafirmações abaixo.\nC. \nÉ um ataque Te negação Te serviço TistribuíTo \n(MistributeT Menial Of Service).\nCC. É um ataque que ameaça o atributo Ta \nTisponibiliTaTe To sistema.\nCCC. É um ataque em que os zumbis roubam as senUas \nTos usuários, para poTer enviar requisições.\nCV. É um ataque não Tetectável por sistemas Te antivírus.\nNstá correto apenas o que se afirma em\nA   C.\nB   CCC.\nC   C e CC.\nM   CC e CV.\nN   CCC e CV.\nQUNSTÃO 32  \nO MPS.BR (MelUoria Te Processos To Software Brasileiro) \né, ao mesmo tempo, um movimento para melUoria Ta \nqualiTaTe e um moTelo Te qualiTaTe Te processo.\nGuia MPS.BR (SOFTNX)\nCom relação às suas características, o MPS.BR\nA   possui 5 níveis Te maturiTaTe.\nB   possui representação contínua e por estágios.\nC   está em conformiTaTe com as normas CSO/CNC 12207 \ne 15504.\nM   consiTera 3 Timensões: pessoas, ferramentas e \nproceTimentos.\nN   TiviTe-se em 3 moTelos: Tesenvolvimento, aquisição \ne serviços.\n*A25201116*",
-  "figuras": [],
-  "caminho_png": "/questoes/2011_ADS/q29.png",
-  "caminho_json": "/questoes/2011_ADS/q29.json",
-  "caminho_txt": "/questoes/2011_ADS/q29.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:53.222721"
 }

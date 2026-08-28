@@ -5,17 +5,46 @@
   "paginas": [
     9
   ],
+  "segmentos": [
+    {
+      "pagina": 9,
+      "x0": 25.0,
+      "y0": 284.8066711425781,
+      "x1": 294.59999999999997,
+      "y1": 779.7,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q16.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q16.txt",
   "largura": 1153,
-  "altura": 2103,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2093,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 16\nO gerenciamento de configuração de software (GCS) é\numa atividade que deve ser realizada para identificar,\ncontrolar, auditar e relatar as modificações que ocorrem\ndurante todo o desenvolvimento ou mesmo durante a fase\nde manutenção, depois que o software for entregue ao\ncliente. O GCS é embasado nos chamados itens de\nconfiguração, que são produzidos como resultado das\natividades de engenharia de software e que ficam\narmazenados em um repositório. Com relação ao GCS,\nanalise as duas asserções apresentadas a seguir.\nNo GCS, o processo de controle das modificações\nobedece ao seguinte fluxo: começa com um pedido de\nmodificação de um item de configuração, que leva à\naceitação ou não desse pedido e termina com a\natualização controlada desse item no repositório\nporque \no controle das modificações dos itens de configuração\nbaseia-se nos processos de check-in e check-out que\nfazem, respectivamente, a inserção de um item de\nconfiguração no repositório e a retirada de itens de\nconfiguração do repositório para efeito de realização das\nmodificações.\nAcerca dessas asserções, assinale a opção correta.\nA\nAs duas asserções são proposições verdadeiras, e a\nsegunda é uma justificativa correta da primeira.\nB\nAs duas asserções são proposições verdadeiras, e a\nsegunda não é uma justificativa correta da primeira.\nC\nA primeira asserção é uma proposição verdadeira, e a\nsegunda é uma proposição falsa.\nD\nA primeira asserção é uma proposição falsa, e a\nsegunda é uma proposição verdadeira.\nE\nAs duas asserções são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Sistemas Operacionais"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 16,
+      "tipo": "OBJETIVA",
+      "pagina": 9,
+      "x": 36.8390998840332,
+      "y": 296.8066711425781,
+      "x1": 106.20230865478516,
+      "y1": 307.8466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 16"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "8\nCOMPUTAÇÃO\nN\nToTos os itens estão certos.\nQUNSTÃO 15\nAlém To acesso a páginas Utml, a Cnternet tem siTo usaTa\ncaTa vez mais para a cópia e troca Te arquivos Te\nmúsicas, filmes, jogos e programas. Muitos Tesses\narquivos possuem Tireitos autorais e restrições Te uso.\nConsiTeranTo o uso Tas reTes ponto-a-ponto para a troca\nTe arquivos Te músicas, filmes, jogos e programas na\nCnternet, a quem cabe a iTentificação e o cumprimento Tas\nrestrições Te uso associaTos a esses arquivos?\nA\naos programas Te troca Te arquivo\nB\naos usuários\nC\nao sistema operacional\nM\naos proTutores Tos arquivos\nN\naos equipamentos roteaTores Ta Cnternet\nQUNSTÃO 16\nO gerenciamento Te configuração Te software (GCS) é\numa ativiTaTe que Teve ser realizaTa para iTentificar,\ncontrolar, auTitar e relatar as moTificações que ocorrem\nTurante toTo o Tesenvolvimento ou mesmo Turante a fase\nTe manutenção, Tepois que o software for entregue ao\ncliente. O GCS é embasaTo nos cUamaTos itens Te\nconfiguração, que são proTuziTos como resultaTo Tas\nativiTaTes Te engenUaria Te software e que ficam\narmazenaTos em um repositório. Com relação ao GCS,\nanalise as Tuas asserções apresentaTas a seguir.\nNo GCS, o processo Te controle Tas moTificações\nobeTece ao seguinte fluxo: começa com um peTiTo Te\nmoTificação Te um item Te configuração, que leva à\naceitação ou não Tesse peTiTo e termina com a\natualização controlaTa Tesse item no repositório\nporque \no controle Tas moTificações Tos itens Te configuração\nbaseia-se nos processos Te cUeck-in e cUeck-out que\nfazem, respectivamente, a inserção Te um item Te\nconfiguração no repositório e a retiraTa Te itens Te\nconfiguração To repositório para efeito Te realização Tas\nmoTificações.\nAcerca Tessas asserções, assinale a opção correta.\nA\nAs Tuas asserções são proposições verTaTeiras, e a\nsegunTa é uma justificativa correta Ta primeira.\nB\nAs Tuas asserções são proposições verTaTeiras, e a\nsegunTa não é uma justificativa correta Ta primeira.\nC\nA primeira asserção é uma proposição verTaTeira, e a\nsegunTa é uma proposição falsa.\nM\nA primeira asserção é uma proposição falsa, e a\nsegunTa é uma proposição verTaTeira.\nN\nAs Tuas asserções são proposições falsas.\nQUNSTÃO 17\nUma fórmula bem formaTa Ta lógica Te preTicaTos é váliTa\nse ela é verTaTeira para toTas as interpretações possíveis.\nConsiTeranTo essa informação, analise as Tuas asserções\napresentaTas a seguir.\nA fórmula bem formaTa (›x) P(x) Y (œx) P(x) é váliTa\nporque,\nem qualquer interpretação Te uma fórmula Ta lógica Te\npreTicaTos, se toTo elemento To conjunto universo tem a\nproprieTaTe P, então existe um elemento To conjunto que\ntem essa proprieTaTe.\nAssinale a opção correta com relação a essas asserções.\nA\nAs Tuas asserções são proposições verTaTeiras, e a\nsegunTa é uma justificativa correta Ta primeira.\nB\nAs Tuas asserções são proposições verTaTeiras, e a\nsegunTa não é uma justificativa correta Ta primeira.\nC\nA primeira asserção é uma proposição verTaTeira, e a\nsegunTa é uma proposição falsa.\nM\nA primeira asserção é uma proposição falsa, e a\nsegunTa é uma proposição verTaTeira.\nN\nAs Tuas asserções são proposições falsas.\nQUNSTÃO 18\nOs números Te Fibonacci constituem uma seqüência\nTe números na qual os Tois primeiros elementos são 0 e 1\ne os Temais, a soma Tos Tois elementos imeTiatamente\nanteriores na seqüência. Como exemplo, a seqüência\nformaTa pelos 10 primeiros números Te Fibonacci é: 0, 1,\n1, 2, 3, 5, 8, 13, 21, 34. Mais precisamente, é possível\nTefinir os números Te Fibonacci pela seguinte relação Te\nrecorrência:\nfib (n) = 0, se n = 0\nfib (n) = 1, se n = 1\nfib (n) = fib (n ! 1) + fib (n ! 2), se n > 1\nAbaixo, apresenta-se uma implementação em\nlinguagem funcional para essa relação Te recorrência:\nfib :: Cnteger -> Cnteger\nfib 0 = 0\nfib 1 = 1\nfib n = fib (n ! 1) + fib (n ! 2)\nConsiTeranTo que o programa acima não reutilize\nresultaTos previamente computaTos, quantas cUamaTas\nsão feitas à função fib para computar fib 5?\nA\n11\nB\n12\nC\n15\nM\n24\nN\n25",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q16.png",
-  "caminho_json": "/questoes/2008_CCP/q16.json",
-  "caminho_txt": "/questoes/2008_CCP/q16.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.394961"
 }

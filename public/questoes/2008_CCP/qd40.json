@@ -6,21 +6,64 @@
     17,
     18
   ],
-  "largura": 2302,
-  "altura": 3696,
-  "confianca": 0.9,
-  "status": "APROVADA",
-  "categorias": [
-    "Formação Geral e Sociedade",
-    "Segurança da Informação",
-    "Banco de Dados"
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 294.59999999999997,
+      "y1": 779.6522827148438,
+      "coluna": 1
+    },
+    {
+      "pagina": 17,
+      "x0": 300.59999999999997,
+      "y0": 74.5,
+      "x1": 570.1999999999999,
+      "y1": 157.43869018554688,
+      "coluna": 2
+    },
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 294.59999999999997,
+      "y1": 160.28665161132812,
+      "coluna": 1
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "16\nCOMPUTAÇÃO\nQUNSTÃO 40 – MCSCURSCVA\nO banco Te TaTos Te um sistema Te controle\nbancário implementaTo por meio Te um SGBM relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentaTas a seguir, em que a cUave primária Ta\nrelação é grifaTa.\nCliente(nroCliente, nome, enTereco,\nTata_nascimento, renTa, iTaTe)\nPara essa relação, foram criaTos Tois ínTices\nsecunTários: CnTiceCTaTe, para o atributo iTaTe, e\nCnTiceRenTa, para o atributo renTa. Nxiste um tipo Te\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos Te 40 anos Te iTaTe quanto aqueles que\npossuem renTa mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão Te\nconsulta em SQL foi utilizaTa:\nSNLNCT nome, enTereco\nFROM Cliente\nPHNRN iTaTe < 40 OR renTa > 30000;\nCom o aumento To número Te clientes Tesse\nbanco, essa consulta passou a apresentar problemas Te\nTesempenUo. Verificou-se, então, que o otimizaTor Te\nconsultas não consiTerava os ínTices existentes para\niTaTe e renTa, e a consulta era realizaTa meTiante\nvarreTura seqüencial na relação Cliente, tornanTo essa\nconsulta onerosa. O plano Te execução Ta consulta,\nusaTo pelo otimizaTor, é apresentaTo na árvore Te\nconsulta abaixo, na qual B e F representam as operações\nTe projeção e Te seleção, respectivamente.\nPara que o otimizaTor Te consultas passasse a\nutilizar os ínTices, a solução encontraTa foi elaborar a\nconsulta em Tois blocos separaTos — um que recupera os\nclientes com iTaTe inferior a 40 anos, e outro que\nrecupera os clientes com renTa mensal superior a 30.000\nreais — para, então, juntar as tuplas Tas Tuas relações\ngeraTas.\nConsiTeranTo a situação apresentaTa, faça o que se peTe\na seguir.\nA Nscreva o cóTigo Te uma consulta em SQL que\ncorresponTa à solução proposta.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 40 - A\nB MesenUe a árvore Te consulta para essa solução.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 40 - B\nnome,enTereco\nB\niTaTe\n40 OR renTa\n30000\n < \n < \nF\nCliente\n\n17\nCOMPUTAÇÃO\nAs questões Te 41 a 60, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nNNGNNHARCA MN COMPUTAÇÃO.\nQUNSTÃO 41\nNm ambientes Te manufatura integraTa, utilizam-\nse computaTores para conectar processos\nconcorrentes separaTos fisicamente, isto é, um\nsistema \nintegraTo \nrequer \nTois \nou \nmais\ncomputaTores \nconectaTos \npara \ntrocar\ninformações. QuanTo integraTos, os processos\npoTem compartilUar informações e iniciar ações,\npermitinTo Tecisões mais rápiTas com menos\nerros. A automação também permite a execução\nTe processos Te manufatura sem necessiTaTe\nTe intervenções. Um exemplo simples poTe ser\num controlaTor Te um robô e um controlaTor\nlógico programável trabalUanTo juntos em uma\núnica máquina. Um exemplo complexo é uma\nplanta \ninteira \nTe \nmanufatura \nenvolvenTo\ncentenas Te estações conectaTas a bancos Te\nTaTos com instruções e planejamento Te\noperações e tarefas em tempo real, envolvenTo\nsensores, atuaTores, transTutores, conversores\netc. NntenTer, projetar e construir esses sistemas\né um granTe Tesafio que impõe uma aborTagem\nsistemática \npelo \nuso \nTe \nferramentas \ne\nconUecimento conceitual Te moTelagem lógica,\nmanipulação \nmatemática, \nabstração,\nTecomposição, \nconcorrência \netc. \nNesse\ncontexto, julgue os seguintes itens.\nC\nControlaTores lógicos programáveis são\ncomputaTores \npara \nprocessamento \nTe\nentraTas e saíTas, senTo que a maioria\npermite múltiplos programas que poTem ser\nutilizaTos como sub-rotinas.\nCC\nPara leituras Te um sinal analógico que varia\nentre ± 10 volts, com precisão Te ± 0,05 volts,\né necessário um conversor AM com, no\nmínimo, 9 bits.\nCCC O principal objetivo Tas reTes Te Petri\nColoriTas é a reTução To tamanUo To moTelo,\npermitinTo \nque \ntokens \ninTiviTualizaTos\n(coloriTos) representem Tiferentes processos\nou recursos em uma mesma sub-reTe.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens C e CCC estão certos.\nM\nApenas os itens CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 42\nAo se realizar o acesso a um serviTor PPP usanTo o protocolo\nHTTPS, uma sessão SSL é estabeleciTa sobre a conexão TCP, entre\no programa navegaTor To usuário e o processo serviTor. Para tanto,\nusam-se mecanismos baseaTos em criptografia simétrica e\nassimétrica para prover serviços Te segurança. Nm relação ao\nacesso HTTP, sem SSL, que serviços Te segurança são proviTos\npara o usuário?\nA\nautenticação To serviTor e controle Te acesso To cliente\nB\nautenticação To cliente e controle Ta velociTaTe Te transmissão\nC\nautenticação Ta reTe e proteção contra vírus\nM\nautenticação To serviTor e confiTencialiTaTe Tas transmissões\nN\nautenticação To cliente e temporização Tas ações executaTas\nQUNSTÃO 43\nConsiTere que seja necessário escrever um cóTigo para um\nmicrocontrolaTor capaz Te iTentificar teclas acionaTas em um teclaTo\nconectaTo como mostraTo abaixo. O microcontrolaTor atribui valores\nlógicos às linUas X3, X2, X1 e X0 Te uma porta Te saíTa To tipo coletor\naberto, e lê os valores lógicos Tas linUas Y3, Y2, Y1 e Y0 em uma porta\nTe entraTa.\nCaso apenas a tecla 9 To teclaTo esteja pressionaTa e o\nmicrocontrolaTor esteja atribuinTo os valores lógicos 1011 às linUas\nX3, X2, X1 e X0 , respectivamente, qual o paTrão binário que Teverá ser\nliTo nas linUas Y3, Y2, Y1 e Y0, respectivamente?\nA\n0111\nB\n1011\nC\n1101\nM\n1110\nN\n1111\n+5 V\n+5 V +5 V +5 V\nteclaTo\nmicrocontrolaTor\nporta Te saíTa\nporta Te entraTa",
+  "caminho_png": "/questoes/2008_CCP/qd40.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/qd40.txt",
+  "largura": 1154,
+  "altura": 3702,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 40 – DISCURSIVA\nO banco de dados de um sistema de controle\nbancário implementado por meio de um SGBD relacional\npossui \na \nrelação \nCliente, \ncom \nas \ninformações\napresentadas a seguir, em que a chave primária da\nrelação é grifada.\nCliente(nroCliente, nome, endereco,\ndata_nascimento, renda, idade)\nPara essa relação, foram criados dois índices\nsecundários: IndiceIdade, para o atributo idade, e\nIndiceRenda, para o atributo renda. Existe um tipo de\nserviço nesse banco cujo alvo são tanto os clientes que\npossuem menos de 40 anos de idade quanto aqueles que\npossuem renda mensal superior a 30.000 reais. Para\nrecuperar esses clientes, a seguinte expressão de\nconsulta em SQL foi utilizada:\nSELECT nome, endereco\nFROM Cliente\nWHERE idade < 40 OR renda > 30000;\nCom o aumento do número de clientes desse\nbanco, essa consulta passou a apresentar problemas de\ndesempenho. Verificou-se, então, que o otimizador de\nconsultas não considerava os índices existentes para\nidade e renda, e a consulta era realizada mediante\nvarredura seqüencial na relação Cliente, tornando essa\nconsulta onerosa. O plano de execução da consulta,\nusado pelo otimizador, é apresentado na árvore de\nconsulta abaixo, na qual B e F representam as operações\nde projeção e de seleção, respectivamente.\nPara que o otimizador de consultas passasse a\nutilizar os índices, a solução encontrada foi elaborar a\nconsulta em dois blocos separados — um que recupera os\nclientes com idade inferior a 40 anos, e outro que\nrecupera os clientes com renda mensal superior a 30.000\nreais — para, então, juntar as tuplas das duas relações\ngeradas.\nnome,endereco\nB\nidade\n40 OR renda\n30000\n < \n < \nF\nCliente\n\nConsiderando a situação apresentada, faça o que se pede\na seguir.\nA Escreva o código de uma consulta em SQL que\ncorresponda à solução proposta.\n(valor: 5,0 pontos)\n\nAs questões de 41 a 60, a seguir, são específicas par\nENGENHARIA DE",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2008_CCP/figuras/qd40_fig1.png"
   ],
-  "caminho_png": "/questoes/2008_CCP/qd40.png",
-  "caminho_json": "/questoes/2008_CCP/qd40.json",
-  "caminho_txt": "/questoes/2008_CCP/qd40.txt"
+  "categorias": [
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 40,
+      "tipo": "DISCURSIVA",
+      "pagina": 17,
+      "x": 35.99909973144531,
+      "y": 78.52682495117188,
+      "x1": 185.15719604492188,
+      "y1": 89.56682586669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 40 – DISCURSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395077"
 }

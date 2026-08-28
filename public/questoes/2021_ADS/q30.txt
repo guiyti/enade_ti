@@ -1,28 +1,24 @@
-37
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 30	
-SuponUa que sua faculTaTe tenTo, em sua reTe Te computaTores, máquinas que compartilUam arquivos 
-e serviços, contratou você para uma consultoria Te TC. Atualmente, na sala Tos professores, existem 
-3 máquinas ligaTas à reTe, com as configurações conforme a imagem a seguir. Porém, a estação Te 
-trabalUo “PROFNSSORNS01” não consegue enviar Tocumentos para impressão em uma impressora, 
-corretamente instalaTa e compartilUaTa na estação Te trabalUo “PROFNSSORNS03”.
-Nesse caso, que alteração Teve ser realizaTa para que o problema seja resolviTo?
-A	 Alterar o gateway Ta estação PROFNSSORNS03 para 175.16.10.200. 
-B	 Alterar o enTereço Te CP Ta estação PROFNSSORNS01 para 175.16.30.200.
-C	 Alterar a máscara Te sub-reTe Ta estação PROFNSSORNS01 para 255.255.0.0.
-M	 Alterar a máscara Te sub-reTe Ta estação PROFNSSORNS03 para 255.255.255.0. 
-N	 Alterar o gateway Ta estação PROFNSSORNS01 para o enTereço Te CP 175.16.30.200.
-Área livre
-PROFNSSORNS 01
-PROFNSSORNS 02
-PROFNSSORNS 03
-NNMNRNÇO CP: 175.16.10.200
-MÁSCARA MN SUB-RNMN: 255.255.255.0
-GATNPAY: 175.16.1.1
-NNMNRNÇO CP: 175.16.20.200
-MÁSCARA MN SUB-RNMN: 255.255.0.0
-GATNPAY: 175.16.1.1
-NNMNRNÇO CP: 175.16.30.200
-MÁSCARA MN SUB-RNMN: 255.255.0.0
-GATNPAY: 175.16.1.1
-*R28202137*
+QUESTÃO 30	
+Suponha que sua faculdade tendo, em sua rede de computadores, máquinas que compartilham arquivos 
+e serviços, contratou você para uma consultoria de TI. Atualmente, na sala dos professores, existem 
+3 máquinas ligadas à rede, com as configurações conforme a imagem a seguir. Porém, a estação de 
+trabalho “PROFESSORES01” não consegue enviar documentos para impressão em uma impressora, 
+corretamente instalada e compartilhada na estação de trabalho “PROFESSORES03”.
+Nesse caso, que alteração deve ser realizada para que o problema seja resolvido?
+A	 Alterar o gateway da estação PROFESSORES03 para 175.16.10.200. 
+B	 Alterar o endereço de IP da estação PROFESSORES01 para 175.16.30.200.
+C	 Alterar a máscara de sub-rede da estação PROFESSORES01 para 255.255.0.0.
+D	 Alterar a máscara de sub-rede da estação PROFESSORES03 para 255.255.255.0. 
+E	 Alterar o gateway da estação PROFESSORES01 para o endereço de IP 175.16.30.200.
+PROFESSORES 01
+PROFESSORES 02
+PROFESSORES 03
+ENDEREÇO IP: 175.16.10.200
+MÁSCARA DE SUB-REDE: 255.255.255.0
+GATEWAY: 175.16.1.1
+ENDEREÇO IP: 175.16.20.200
+MÁSCARA DE SUB-REDE: 255.255.0.0
+GATEWAY: 175.16.1.1
+ENDEREÇO IP: 175.16.30.200
+MÁSCARA DE SUB-REDE: 255.255.0.0
+GATEWAY: 175.16.1.1

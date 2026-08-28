@@ -1,96 +1,13 @@
-22
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 14	
-Um projeto Te integração Te um NRP com um CRM não implementou toTos os serviços esperaTos e Uá falUas 
-nos serviços já implementaTos. Uma auTitoria avaliou a situação e iTentificou que Uá TesentenTimentos 
-entre os membros Ta equipe; os membros Ta qualiTaTe não compreenTem o que Teve ser avaliaTo; 
-TemanTas Te novos solicitantes aparecem constantemente; e o patrocinaTor Temora muito a responTer 
-às solicitações Ta equipe. TuTo isso fez com que o projeto ficasse bastante atrasaTo e com orçamento 
-exceTiTo.
-ConsiTeranTo o cenário Tescrito, o gerente Te projeto Teve priorizar o gerenciamento Te
+QUESTÃO 14	
+Um projeto de integração de um ERP com um CRM não implementou todos os serviços esperados e há falhas 
+nos serviços já implementados. Uma auditoria avaliou a situação e identificou que há desentendimentos 
+entre os membros da equipe; os membros da qualidade não compreendem o que deve ser avaliado; 
+demandas de novos solicitantes aparecem constantemente; e o patrocinador demora muito a responder 
+às solicitações da equipe. Tudo isso fez com que o projeto ficasse bastante atrasado e com orçamento 
+excedido.
+Considerando o cenário descrito, o gerente de projeto deve priorizar o gerenciamento de
 A	 custo.
 B	 tempo.
 C	 escopo.
-M	 qualiTaTe.
-N	 partes interessaTas.
-QUNSTÃO 15	
-Uma funTação municipal Te arte e cultura oferece cursos para crianças e aTolescentes Te até 16 anos. 
-Os registros Te matrículas são realizaTos em uma planilUa eletrônica ilustraTa a seguir, o que Tificulta bastante 
-o controle Tos TaTos frente ao número expressivo Te estuTantes, muitos Tos quais solicitam matrícula em mais 
-Te um curso. A aTministração Ta funTação, então, solicitou o Tesenvolvimento Te um programa para facilitar 
-o registro e a consulta Tesses TaTos, incluinTo-se a Tata Te efetivação Te caTa matrícula, para fins Te controles 
-específicos Ta secretaria.
-NÚMNRO
-NOMN 
-NSTUMANTN
-MATA 
-NASC.
-NOMN 
-RNSPONSÁVNL
-CONTATOS
-CURSO
-HORÁRCO
-PROFNSSOR(A)
-10
-ATa Lovelace
-10/12/2009
-CUarles 
-Babbage
-(99)99999-0101
-cUarles@
-babbage.com
-Violão Básico
-MesenUo
-9U - 10U 
-(ter - qui)
-10U - 11U 
-(seg - qua)
-Mennis RitcUie
-JoUn Backus
-11
-Ole-JoUan 
-MaUl
-12/10/2008
-Oristen NygaarT -
-MesenUo
-9U - 10U
-(seg - qua)
-Mary Oeller
-12
-Grace Hopper 09/12/2010
-HowarT Aiken
-(99)99999-0091
-(99)99999-0095 Balé
-8U - 10U (sex) HeTy Lamarr
-13
-Alan Turing
-23/06/2009
-Joan Clarke
-(99)99999-0231 MesenUo
-Violão Básico
-9U - 10U 
-(seg - qua)
-9U - 10U 
-(ter - qui)
-Mary Oeller
-Mennis RitcUie
-14
-MorotUy 
-VaugUan
-20/09/2009
-OatUerine 
-JoUnson
-(99)99999-0201 Balé
-8U - 10U (sex) HeTy Lamarr
-...
-...
-...
-...
-...
-...
-...
-...
-A equipe Te Tesenvolvimento Te softwares Ta prefeitura, após uma breve entrevista com a aTministração 
-Ta funTação e Te posse Ta planilUa eletrônica, moTelou um Miagrama Te Classes como parte Ta 
-especificação Tos requisitos To sistema.
-*R28202122*
+D	 qualidade.
+E	 partes interessadas.

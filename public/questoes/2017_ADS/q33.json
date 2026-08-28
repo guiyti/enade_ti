@@ -5,17 +5,46 @@
   "paginas": [
     37
   ],
+  "segmentos": [
+    {
+      "pagina": 37,
+      "x0": 25.0,
+      "y0": 313.4237976074219,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q33.txt",
   "largura": 2440,
-  "altura": 1919,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1952,
+  "confianca": 1.0,
+  "texto_completo": ", p\n,\n;\nQUESTÃO 33\n  ordenação por inserção funciona de modo semelhante a forma como algumas pessoas ordenam cartas de \nbaralho.  /nicia-se com a mão esquerda vazia e as cartas empilhadas na mesa.  Zemove-se da pilha uma carta de \ncada vez,  inserindo-a na posição correta na mão esquerda.  Wara se identifcar a posição correta de uma carta,  \ndeve-se comparA-la com as cartas presentes na mão esquerda,  no sentido da direita para a esquerda.  Em todos \nos momentos,  as cartas na mão esquerda estão ordenadas,  tendo sido obtidas no topo da pilha da mesa.\nIKZDEE,  d.  ,.  et al.  /ntroduction to algorithms.  3.  ed.  Iambridge:  dhe D/d Wress,  2009 (adaptado).\nhm programador implementou um algoritmo de ordenação semelhante a forma de ordenação de cartas \ndescrita no texto.   o realizar um teste com um vetor de nove posições (vetor[1..9]),  verifcou que o \nalgoritmo não funcionava corretamente.\n01 para i <- 2 até 9 faça\n02\nvalor <- vetor[i]\n03\nj <- i – 1\n04\nenquanto ((j >= 1) e (valor < vetor[j])) faça\n05\n   vetor[i] <- vetor[j]\n06\n      j <- j – 1\n07 \n \nse (j = 0) então\n08\n         interrompa\n\u0013E  \n \n¿P VH\n\u0014\u0013  \n¿P HQTXDQWR\n11\nvetor[j + 1] <- valor\n\u0014\u0015 ¿P SDUD\nIom base nessas informações,  assinale a opção em que se apresentam a linha e o respectivo comando \na ser substituído,  para que o algoritmo ordene corretamente um vetor de inteiros de forma crescente.\nA  >inha 01; para i <- 1 até 9 faça\nB  >inha 03; j <- i\nC  >inha 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça\nD  >inha 05͖     vetor[j + 1] <- vetor[j]\nE  >inha 11͖     vetor[j] <- valor",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 37,
+      "x": 60.65340805053711,
+      "y": 325.4237976074219,
+      "x1": 123.10621643066406,
+      "y1": 337.4237976074219,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 33"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "37\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCom base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente \nos nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍\nA SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;\nB SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome;\nC SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome;\nM SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v \nPHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, \np.nome, SUM(v.votos);\nN SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, \nVotacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY \nc.nome, p.nome, v.votos;\nQUNSTÃO 33\n  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te \nbaralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te \ncaTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  \nTeve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos \nos momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.\nCOZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).\nUm programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas \nTescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o \nalgoritmo não funcionava corretamente.\n01 para i <- 2 até 9 faça\n02\nvalor <- vetor[i]\n03\nj <- i – 1\n04\nenquanto ((j >= 1) e (valor < vetor[j])) faça\n05\n   vetor[i] <- vetor[j]\n06\n      j <- j – 1\n07 \n \nse (j = 0) então\n08\n         interrompa\n\u0013N  \n \n¿P VH\n\u0014\u0013  \n¿P HQTXMQPR\n11\nvetor[j + 1] <- valor\n\u0014\u0015 ¿P SMUM\nCom base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo \na ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.\nA  >inUa 01; para i <- 1 até 9 faça\nB  >inUa 03; j <- i\nC  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça\nM  >inUa 05͖     vetor[j + 1] <- vetor[j]\nN  >inUa 11͖     vetor[j] <- valor\n*R41201737*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q33.png",
-  "caminho_json": "/questoes/2017_ADS/q33.json",
-  "caminho_txt": "/questoes/2017_ADS/q33.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601131"
 }

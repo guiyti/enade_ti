@@ -3,20 +3,56 @@
   "numero": 10,
   "tipo": "OBJETIVA",
   "paginas": [
-    13,
-    14
+    13
   ],
-  "largura": 2440,
-  "altura": 4094,
-  "confianca": 0.9,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 749.4,
+      "coluna": 1
+    },
+    {
+      "pagina": 13,
+      "x0": 317.15999999999997,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 404.6465148925781,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q10.txt",
+  "largura": 1223,
+  "altura": 4041,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 10\n  classe CountOccurrence escrita na linguagem \n:ava,   tem  por  obũetivo  localizar  e  contar  quantas \nocorrgncias  de  um  determinado  valor  existem  em \num conũunto predeterminado de valores,  retornando \na quantidade de vezes que um determinado valor se \nrepete no conũunto.\n1 public class CountConcurrence {\n2\n3\n public boolean hasValue(int searchValue, int[] array, int i) { \n4\n if (i >= array.length)\n5\n return false;\n6\n7\n if (array[i] == searchValue)\n8\n return true;\n9\n else\n10 \n return hasValue(searchValue, array, i + 1);\n11\n }\n12\n13  public int count(int countValue, int[] array, int i) {\n14 \n    if (!hasValue(countValue, array, i) || i >= array.length)\n15\n return 0;\n16\n17\n int c = 0;\n18\n if (array[i] == contValue)\n19\n c++;\n20\n21\n c += count(countValue, array, i);\n22\n return c;\n23\n }\n24\n25\n public static void main(String[] args) {\n26\n int[] array = {2, 3, 5, 6, 9, 7, 8, 8, 9};\n27\n CountOccurrence co = new CountOccurrence();\n28\n System.out.println(co.count(5, array, 0));     \n29\n }\n30 }\n\nWara  que  o  algoritmo  funcione  corretamente,  \natendendo o requisito proposto,  a mudança em sua \nestrutura que deve ser aplicada é\nA alterar a linha 15,  de: return 0; para: return \ncount(countValue, array, 0)͖\nB alterar  a  linha  18,   de:\nif (array[i] == \ncountValue)  para:\nif \n(array[c] \n== \ncountValue)\nC alterar a linha 21,  de: c += count(countValue, \narray, i)͖  para: c += count(countValue, \narray, i + 1)͖\nD alterar \na \nlinha \n14,  \nde:  \nif\n(!hasValue(countValue, array, i) \n|| i >= array.length) para:  if (i >= \narray.length)\nE alterar \na \nlinha \n10,  \nde:  \nreturn\nhasValue(searchValue, array, i + 1);\npara:   return hasValue(searchValue, \narray, i - 1)͖",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Banco de Dados"
+    "Engenharia de Software"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 10"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "13\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 10\n  classe CountOccurrence escrita na linguagem \n:ava,   tem  por  obũetivo  localizar  e  contar  quantas \nocorrgncias  Te  um  TeterminaTo  valor  existem  em \num conũunto preTeterminaTo Te valores,  retornanTo \na quantiTaTe Te vezes que um TeterminaTo valor se \nrepete no conũunto.\n1 public class CountConcurrence {\n2\n3\n public boolean UasValue(int searcUValue, int[] array, int i) { \n4\n if (i >= array.lengtU)\n5\n return false;\n6\n7\n if (array[i] == searcUValue)\n8\n return true;\n9\n else\n10 \n return UasValue(searcUValue, array, i + 1);\n11\n }\n12\n13  public int count(int countValue, int[] array, int i) {\n14 \n    if (!UasValue(countValue, array, i) || i >= array.lengtU)\n15\n return 0;\n16\n17\n int c = 0;\n18\n if (array[i] == contValue)\n19\n c++;\n20\n21\n c += count(countValue, array, i);\n22\n return c;\n23\n }\n24\n25\n public static voiT main(String[] args) {\n26\n int[] array = {2, 3, 5, 6, 9, 7, 8, 8, 9};\n27\n CountOccurrence co = new CountOccurrence();\n28\n System.out.println(co.count(5, array, 0));     \n29\n }\n30 }\nPara  que  o  algoritmo  funcione  corretamente,  \natenTenTo o requisito proposto,  a muTança em sua \nestrutura que Teve ser aplicaTa é\nA alterar a linUa 15,  Te: return 0; para: return \ncount(countValue, array, 0)͖\nB alterar  a  linUa  18,   Te:\nif (array[i] == \ncountValue)  para:\nif \n(array[c] \n== \ncountValue)\nC alterar a linUa 21,  Te: c += count(countValue, \narray, i)͖  para: c += count(countValue, \narray, i + 1)͖\nM alterar \na \nlinUa \n14,  \nTe:  \nif\n(!UasValue(countValue, array, i) \n|| i >= array.lengtU) para:  if (i >= \narray.lengtU)\nN alterar \na \nlinUa \n10,  \nTe:  \nreturn\nUasValue(searcUValue, array, i + 1);\npara:   return UasValue(searcUValue, \narray, i - 1)͖\nÁRNA LCVRN\n*R40201413*\n\n14\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 11\nLivro\nAutor\nNmpréstimo\nAluno\nPO\nPO\nPO\nFO\nFO\nPO\nliv_coT\ntitúlo\nautor_coT\nint\nint\nint\nint\nint\nint\nint\nvarcUar\nvarcUar\nvarcUar\naut_coT\nnome\nnome\nemp_coT\nmatricula\nTata_emp\nTata_Tev\nTata_nasc\naluno_mat\nlivro_coT\nTate\nTate\nTate\nFO\nO  moTelo  Te  entiTaTe  relacionamento  apresentaTo,   representa  Te  forma  sucinta  uma  solução  para \npersistgncia Te TaTos Te uma biblioteca.  ConsiTeranTo que um livro estA emprestaTo quanTo possuir um \nregistro vinculaTo a ele na tabela \" Nmprestimo\",  e essa tupla não possuir valor na coluna \" TataͺTev\",  o \ncomanTo SY> que Teve ser utilizaTo para listar os ơtulos Tos livros Tisponíveis para empréstimo é\nA select titulo from livro \nexcept\nselect l.titulo from emprestimo e inner join livro l\non e.livro_coT = l.liv_coT wUere e.Tata_Tev is null\nB select titulo from livro\nunion\nselect l.titulo from emprestimo e inner join livro l\non e.livro_coT = l.liv_coT wUere e.Tata_Tev is null\nC select titulo from livro\nexcept\nselect l.titulo from emprestimo e inner join livro l\non e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null\nM select titulo from livro\nunion select l.titulo from emprestimo e left join livro l\non e.livro_coT = l.liv_coT wUere e.Tata_Tev is null\nN select titulo from livro\nexcept\nselect l.titulo from emprestimo e rigUt join livro l\non e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null\nÁRNA LCVRN\n*R40201414*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q10.png",
-  "caminho_json": "/questoes/2014_ADS/q10.json",
-  "caminho_txt": "/questoes/2014_ADS/q10.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119983"
 }

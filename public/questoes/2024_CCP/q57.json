@@ -3,19 +3,57 @@
   "numero": 57,
   "tipo": "OBJETIVA",
   "paginas": [
-    29
+    29,
+    30
   ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 529.2482299804688,
+      "x1": 611.7199999999999,
+      "y1": 717.9644165039062,
+      "coluna": 0
+    },
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 170.63380432128906,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q57.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q57.txt",
   "largura": 2475,
-  "altura": 817,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1189,
+  "confianca": 1.0,
+  "texto_completo": "p\np\nQUESTÃO 57\t\nPara que o professor possa ensinar algoritmos de ordenação de forma interdisciplinar, integrando conceitos de funções \nmatemáticas, a técnica de programação que favorece essa integração baseia-se na\nA\t modelagem do algoritmo a partir de objetos, organizando os dados a partir de atributos e relacionando os métodos como \nfunções matemáticas, permitindo que se estabeleça a transformação sistematizada da entrada em uma saída ordenada.\nB\t utilização da modularização do código em conjunto com funções recursivas, estruturando o algoritmo em etapas reutilizáveis \ne bem definidas, de modo que cada função represente uma transformação parcial dos dados, refletindo diretamente a lógica \nde uma função matemática.\nC\t aplicação de conceitos do paradigma funcional, como funções anônimas e composição, permitindo dividir o processo em \npequenas operações declarativas que podem facilitar a visualização de uma única função que represente a transformação \ncompleta dos dados.\nD\t elaboração de algoritmos como uma sequência de respostas a eventos, associando funções a interações específicas como as \noperações envolvidas na solução do problema de ordenação, permitindo a representação da lógica como uma função matemática.\n\nTexto para questões de 58 a 60\nEm uma escola dos Anos Finais do Ensino Fundamental, os professores têm percebido que os estudantes apresentam dificuldades \ncom o desenvolvimento das habilidades: organizar ideias, resolver problemas por etapas e propor soluções em atividades \ninterdisciplinares. Os professores almejam ajudar os estudantes a decompor problemas complexos em partes menores, identificar \npadrões em situações semelhantes, abstrair informações essenciais e criar algoritmos simples para descrever soluções.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 57,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 64.6063003540039,
+      "y": 541.2482299804688,
+      "x1": 124.34291076660156,
+      "y1": 556.5162353515625,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 57"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n29\nCOMPUTAÇÃO\n2025\nTexto para questões Te 55 a 57\nUm professor Te Computação pretenTe ensinar algoritmos Te orTenação e TeciTe utilizar o Merge Sort, que consiste em TiviTir \numa lista recursivamente até obter listas com um único elemento e combinar as listas orTenanTo os elementos até reconstruir \na lista original. Por ser um exemplo clássico Ta técnica Te Tivisão e conquista, seu objetivo é proporcionar aos estuTantes uma \nexperiência Te aprenTizagem em que percebam, Te forma prática, como problemas complexos poTem ser compreenTiTos e \nresolviTos por meio Ta reestruturação em tarefas mais simples. Além Tisso, o professor percebe que poTe relacionar o conteúTo \na conceitos matemáticos, estabelecenTo conexões que favorecem o raciocínio lógico.\nQUNSTÃO 55\t\nUma aborTagem que use a metoTologia Te programação por pares e permita promover a compreensão To conceito Te Tivisão \ne conquista Teve apresentar\nA\t o passo a passo To algoritmo; organizar os estuTantes em pares e propor que investiguem como TiviTir o problema em \npartes menores; resolver caTa uma separaTamente e Tepois combinar os resultaTos compreenTenTo, na prática, a técnica \nTe Tivisão e conquista.\nB\t o pseuTocóTigo To algoritmo; explicar TetalUaTamente sua lógica e a técnica Te Tivisão e conquista; TiviTir os estuTantes \nem pares e propor que eles implementem o algoritmo em uma linguagem Te programação e simulem sua execução.\nC\t o roteiro com os passos Ta técnica Te Tivisão e conquista; organizar os estuTantes em pares e orientar que escrevam um \npseuTocóTigo To algoritmo e simulem manualmente a execução com vetores pequenos e previamente TefiniTos.\nM\t o mecanismo To algoritmo, utilizanTo como exemplo vetores simples previamente TefiniTos; TiviTir os estuTantes em pares \ne propor exercícios para que simulem a orTenação Te vetores mais complexos, com elementos TesorganizaTos.\nQUNSTÃO 56\t\nA aborTagem Computação MesplugaTa para ensinar algoritmos Te orTenação e promover a compreensão prática Tos conceitos \nTeve propor que os estuTantes\nA\t programem Tispositivos CoT para orTenar fisicamente objetos numeraTos em uma sequência correta, acompanUanTo o \nfuncionamento Tos Tispositivos por meio Te sensores integraTos.\nB\t elaborem, em papel, a coTificação passo a passo Te um algoritmo Te orTenação, usanTo uma linguagem Te programação \npara futura simulação Te sua execução em um computaTor.\nC\t assistam a uma viTeoaula que apresenta Tiferentes aborTagens Te orTenação e responTam inTiviTualmente a um questionário \nsobre suas características.\nM\t usem cartões numeraTos para organizar manualmente listas pequenas, testanTo Tiferentes formas Te orTenar os números \ne TiscutinTo entre pares os critérios usaTos para orTenar os elementos.\nQUNSTÃO 57\t\nPara que o professor possa ensinar algoritmos Te orTenação Te forma interTisciplinar, integranTo conceitos Te funções \nmatemáticas, a técnica Te programação que favorece essa integração baseia-se na\nA\t moTelagem To algoritmo a partir Te objetos, organizanTo os TaTos a partir Te atributos e relacionanTo os métoTos como \nfunções matemáticas, permitinTo que se estabeleça a transformação sistematizaTa Ta entraTa em uma saíTa orTenaTa.\nB\t utilização Ta moTularização To cóTigo em conjunto com funções recursivas, estruturanTo o algoritmo em etapas reutilizáveis \ne bem TefiniTas, Te moTo que caTa função represente uma transformação parcial Tos TaTos, refletinTo Tiretamente a lógica \nTe uma função matemática.\nC\t aplicação Te conceitos To paraTigma funcional, como funções anônimas e composição, permitinTo TiviTir o processo em \npequenas operações Teclarativas que poTem facilitar a visualização Te uma única função que represente a transformação \ncompleta Tos TaTos.\nM\t elaboração Te algoritmos como uma sequência Te respostas a eventos, associanTo funções a interações específicas como as \noperações envolviTas na solução To problema Te orTenação, permitinTo a representação Ta lógica como uma função matemática.\nÁrea livre\n*R0404202529*\nR04042025 - COMPUTACAO.inTb   29\nR04042025 - COMPUTACAO.inTb   29\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q57.png",
-  "caminho_json": "/questoes/2024_CCP/q57.json",
-  "caminho_txt": "/questoes/2024_CCP/q57.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062633"
 }

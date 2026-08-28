@@ -1,14 +1,12 @@
-18
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 09
-Nm uma pesquisa Te satisfação com notas Te 0 a 
-10,  senTo 0 muito insatisfeito e 10 muito satisfeito,  
-uma  empresa  construiu  uma  tabela,   mostraTa  a 
-seguir,   com  o  resumo  Tas  notas  atribuíTas  pelos 
-seus clientes aos serviços recebiTos.
+QUESTÃO 09
+Em uma pesquisa de satisfação com notas de 0 a 
+10,  sendo 0 muito insatisfeito e 10 muito satisfeito,  
+uma  empresa  construiu  uma  tabela,   mostrada  a 
+seguir,   com  o  resumo  das  notas  atribuídas  pelos 
+seus clientes aos serviços recebidos.
 NOTA
-QUANTCMAMN 
-MN CLCNNTNS
+QUANTIDADE 
+DE CLIENTES
 0
 0
 1
@@ -31,76 +29,18 @@ MN CLCNNTNS
 1
 10
 0
-ConsiTeranTo  essa  situação  e  as  informações 
-apresentaTas,  avalie as afrmações a seguir.
-/.     méTia Tas notas Tos clientes é igual a 6, 0.
-//.     meTiana Tas notas Tos clientes é igual a 6, 0.
-///.   O Tesvio paTrão populacional é menor To 
+Ionsiderando  essa  situação  e  as  informações 
+apresentadas,  avalie as afrmações a seguir.
+/.     média das notas dos clientes é igual a 6, 0.
+//.     mediana das notas dos clientes é igual a 6, 0.
+///.   K desvio padrão populacional é menor do 
 que 3, 0.
-/s.   O conũunto Te TaTos é amoTal.
-V. Um cliente que atribuiu nota 3, 0 encontra-se 
+/s.   K conũunto de dados é amodal.
+V. hm cliente que atribuiu nota 3, 0 encontra-se 
 no 1Ǒ quartil.
  correto apenas o que se afrma em
 A  /,  // e ///.
 B  /,  // e s.
 C  /,  /// e /s.
-M  //,  /s e s.
-N  ///,  /s e s.
-Area livre
-QUNSTÃO 10
-  Algebra booleana possui um operaTor unArio ~,  
-conUeciTo como NãO,  e os operaTores binArios *
-e +,  conUeciTos como N e OU,  respectivamente.  
-   tabela  verTaTe  é  utilizaTa  para  valiTar  uma 
-formula  composta  Te  operaTores  Ta  Algebra 
-booleana.      seguir,   é  apresentaTa  a  tabela 
-verTaTe para as proposições p,  q e r Tiante Ta 
-formula G,  em que s representa uma proposição 
-verTaTeira e & uma proposição falsa.
-p
-q
-r
-G
-V
-V
-V
-V
-V
-V
-F
-F
-V
-F
-V
-F
-V
-F
-F
-F
-F
-V
-V
-V
-F
-V
-F
-V
-F
-F
-V
-V
-F
-F
-F
-V
-ConsiTeranTo  as  informações  contiTas  na  tabela 
-acima e a orTem Te preceTgncia Tos operaTores 
-booleanos,   a  formula  '  possui  a  mesma  tabela 
-verTaTe Ta proposição
-A p + ~q * r.
-B p + q * ~r.
-C ~p + q * r.
-M ~p + ~q * r.
-N ~p + q * ~r.
-Area livre
-*R41201718*
+D  //,  /s e s.
+E  ///,  /s e s.

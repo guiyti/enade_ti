@@ -5,17 +5,46 @@
   "paginas": [
     12
   ],
+  "segmentos": [
+    {
+      "pagina": 12,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q07.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q07.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 07  \n TEXTO I\n O estudo  Internet and American Life Project , do  Pew Research Center , demonstrou que, em 2009, \nmetade das buscas de temas relacionados à saúde na internet era feita para terceiros, e quase seis em \ncada dez pessoas que usaram meios digitais para se informar sobre saúde mudaram o enfoque com que \ncuidavam da própria saúde ou da de algum parente. Esti ma-se que exista uma correlação positi va entre o \ngrau de conhecimento das doenças (seus fatores de risco, formas de prevenção e tratamento) e a taxa de \nadoção de hábitos saudáveis pela sociedade. O aumento nos diagnósti cos precoces do câncer de mama \ne a diminuição do tabagismo são dois exemplos clássicos a favor dessa ideia. Acredita-se que indivíduos \nmais bem informados aderem a comportamentos preventi vos e reagem melhor a uma enfermidade.\n Infelizmente, a divulgação de temas médicos é uma faca de dois gumes: quem não sabe nada está mais \nperto da verdade do que a pessoa cuja mente está cheia de informações equivocadas. Conseguir que \na mensagem seja bem decodifi cada pelos receptores é o grande desafi o que preocupa (ou deveria \npreocupar) tanto médicos quanto jornalistas.\n TABAKMAN, R.  A saúde na mídia : medicina para jornalistas, jornalismo para médicos. Trad. Lizandra Magon de Almeida. \nSão Paulo: Summus Editorial, 2013 (adaptado).\n TEXTO II\n De acordo com os dados da últi ma TIC Domicílios — pesquisa realizada anualmente com o objeti vo de \nmapear formas de uso das tecnologias de informação e comunicação no país —, aproximadamente \n46% dos usuários de Internet no Brasil uti lizam a rede à procura de informações médicas sobre saúde em \ngeral e serviços de saúde. Para uma médica e pesquisadora da Fiocruz, os indivíduos sempre procuraram \ninformações sobre seu estado de saúde, mas é inegável que o surgimento da Internet trouxe um aumento \nsignifi cati vo do acesso a informações amplifi cando assim os refl exos deste processo e alterando a relação \nentre os indivíduos. A pesquisadora chama a atenção para o perigo do autodiagnósti co e da automedicação, \nque podem gerar consequências nefastas tanto para os indivíduos quanto para a saúde pública, uma vez \nque boa parte dos estudos mostra que não são adotados critérios durante as buscas na Internet.\n Disponível em: htt ps://agencia.fi ocruz.br/conteudos-sobre-saude-na-web-alteram-relacao-medico-paciente. Acesso em: 16 abr. 2020 (adaptado).\n Considerando a abordagem dos textos, avalie as afi rmações a seguir.\nI.  Os textos I e II evidenciam a importância de critérios nas buscas realizadas pelos usuários da \nInternet por informações sobre patologias, pois algumas informações podem trazer riscos à saúde \npor fomentarem a compreensão equivocada de sintomas e profi laxias.\nII.  O texto I afi rma que a disponibilização de informações sobre temas de saúde nos meios de \ncomunicação tem contribuído para o esclarecimento da população acerca de hábitos saudáveis.\nIII.  No texto II, defende-se o acesso a informações relati vas a pesquisas da área da saúde nos veículos \nde comunicação, pois elas permitem que o indivíduo seja proati vo na prevenção de patologias.\n É correto o que se afi rma em\nA  I, apenas.\nB  III, apenas.\nC  I e II, apenas.\nD  II e III, apenas.\nE  I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 7,
+      "tipo": "OBJETIVA",
+      "pagina": 12,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 104.47579193115234,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 07"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "12\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 07  \n TNXTO C\n O estuTo  Cnternet anT American Life Project , To  Pew ResearcU Center , Temonstrou que, em 2009, \nmetaTe Tas buscas Te temas relacionaTos à saúTe na internet era feita para terceiros, e quase seis em \ncaTa Tez pessoas que usaram meios Tigitais para se informar sobre saúTe muTaram o enfoque com que \ncuiTavam Ta própria saúTe ou Ta Te algum parente. Nsti ma-se que exista uma correlação positi va entre o \ngrau Te conUecimento Tas Toenças (seus fatores Te risco, formas Te prevenção e tratamento) e a taxa Te \naToção Te Uábitos sauTáveis pela socieTaTe. O aumento nos Tiagnósti cos precoces To câncer Te mama \ne a Timinuição To tabagismo são Tois exemplos clássicos a favor Tessa iTeia. AcreTita-se que inTivíTuos \nmais bem informaTos aTerem a comportamentos preventi vos e reagem melUor a uma enfermiTaTe.\n Cnfelizmente, a Tivulgação Te temas méTicos é uma faca Te Tois gumes: quem não sabe naTa está mais \nperto Ta verTaTe To que a pessoa cuja mente está cUeia Te informações equivocaTas. Conseguir que \na mensagem seja bem TecoTifi caTa pelos receptores é o granTe Tesafi o que preocupa (ou Teveria \npreocupar) tanto méTicos quanto jornalistas.\n TABAOMAN, R.  A saúTe na míTia : meTicina para jornalistas, jornalismo para méTicos. TraT. LizanTra Magon Te AlmeiTa. \nSão Paulo: Summus NTitorial, 2013 (aTaptaTo).\n TNXTO CC\n Me acorTo com os TaTos Ta últi ma TCC Momicílios — pesquisa realizaTa anualmente com o objeti vo Te \nmapear formas Te uso Tas tecnologias Te informação e comunicação no país —, aproximaTamente \n46% Tos usuários Te Cnternet no Brasil uti lizam a reTe à procura Te informações méTicas sobre saúTe em \ngeral e serviços Te saúTe. Para uma méTica e pesquisaTora Ta Fiocruz, os inTivíTuos sempre procuraram \ninformações sobre seu estaTo Te saúTe, mas é inegável que o surgimento Ta Cnternet trouxe um aumento \nsignifi cati vo To acesso a informações amplifi canTo assim os refl exos Teste processo e alteranTo a relação \nentre os inTivíTuos. A pesquisaTora cUama a atenção para o perigo To autoTiagnósti co e Ta automeTicação, \nque poTem gerar consequências nefastas tanto para os inTivíTuos quanto para a saúTe pública, uma vez \nque boa parte Tos estuTos mostra que não são aTotaTos critérios Turante as buscas na Cnternet.\n Misponível em: Utt ps://agencia.fi ocruz.br/conteuTos-sobre-sauTe-na-web-alteram-relacao-meTico-paciente. Acesso em: 16 abr. 2020 (aTaptaTo).\n ConsiTeranTo a aborTagem Tos textos, avalie as afi rmações a seguir.\nC.  Os textos C e CC eviTenciam a importância Te critérios nas buscas realizaTas pelos usuários Ta \nCnternet por informações sobre patologias, pois algumas informações poTem trazer riscos à saúTe \npor fomentarem a compreensão equivocaTa Te sintomas e profi laxias.\nCC.  O texto C afi rma que a Tisponibilização Te informações sobre temas Te saúTe nos meios Te \ncomunicação tem contribuíTo para o esclarecimento Ta população acerca Te Uábitos sauTáveis.\nCCC.  No texto CC, TefenTe-se o acesso a informações relati vas a pesquisas Ta área Ta saúTe nos veículos \nTe comunicação, pois elas permitem que o inTivíTuo seja proati vo na prevenção Te patologias.\n É correto o que se afi rma em\nA  C, apenas.\nB  CCC, apenas.\nC  C e CC, apenas.\nM  CC e CCC, apenas.\nN  C, CC e CCC.\n*R28202112*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q07.png",
-  "caminho_json": "/questoes/2021_ADS/q07.json",
-  "caminho_txt": "/questoes/2021_ADS/q07.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625452"
 }

@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 164.4859161376953,
+      "x1": 611.7199999999999,
+      "y1": 344.86700439453125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q45.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q45.txt",
   "largura": 2475,
-  "altura": 1117,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 782,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 45\t\nUm professor de Computação, atuando no Ensino Médio, deseja trabalhar com seus estudantes o conteúdo de lógica de \nprogramação. Para isso, decide aplicar uma metodologia baseada na resolução de problemas, com apoio de diferentes tecnologias \ndigitais. Considerando os princípios de um planejamento pedagógico e o uso dessas tecnologias, qual ação representa a proposta?\nA\t Utilizar diferentes ferramentas visuais e textuais para apresentar conceitos de lógica, permitindo que os estudantes escolham \naquela que melhor se adequa ao seu estilo de aprendizagem, com mediação ativa do professor.\nB\t Propor desafios contextualizados em grupos heterogêneos, utilizando linguagens de programação visuais e textuais, com \nacompanhamento docente para favorecer a colaboração e a adaptação ao ritmo de cada estudante.\nC\t Adotar atividades de programação em ambiente visual, dispensando a introdução de conceitos textuais para facilitar a \ncompreensão dos estudantes com dificuldades cognitivas.\nD\t Aplicar exercícios padronizados em linguagem textual, orientando que os estudantes sigam o modelo fornecido para garantir \na uniformidade na resolução e facilitar a correção pelo professor.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 45,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 64.6063003540039,
+      "y": 176.4859161376953,
+      "x1": 124.34291076660156,
+      "y1": 191.75392150878906,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 45"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n26\n2025\nTexto para questões Te 45 a 47\nNm turmas Te NTucação Básica, a presença Te estuTantes neuroatípicos exige que o planejamento Te ensino seja sensível à \nTiversiTaTe cognitiva. Mentre os principais Tesafios enfrentaTos pelos professores, está a promoção Te práticas peTagógicas \nque consiTerem Tiferentes moTos Te aprenTer, exiginTo a integração consciente Te tecnologias e linguagens variaTas no \nprocesso eTucativo.\nQUNSTÃO 45\t\nUm professor Te Computação, atuanTo no Nnsino MéTio, Teseja trabalUar com seus estuTantes o conteúTo Te lógica Te \nprogramação. Para isso, TeciTe aplicar uma metoTologia baseaTa na resolução Te problemas, com apoio Te Tiferentes tecnologias \nTigitais. ConsiTeranTo os princípios Te um planejamento peTagógico e o uso Tessas tecnologias, qual ação representa a proposta?\nA\t Utilizar Tiferentes ferramentas visuais e textuais para apresentar conceitos Te lógica, permitinTo que os estuTantes escolUam \naquela que melUor se aTequa ao seu estilo Te aprenTizagem, com meTiação ativa To professor.\nB\t Propor Tesafios contextualizaTos em grupos Ueterogêneos, utilizanTo linguagens Te programação visuais e textuais, com \nacompanUamento Tocente para favorecer a colaboração e a aTaptação ao ritmo Te caTa estuTante.\nC\t ATotar ativiTaTes Te programação em ambiente visual, TispensanTo a introTução Te conceitos textuais para facilitar a \ncompreensão Tos estuTantes com TificulTaTes cognitivas.\nM\t Aplicar exercícios paTronizaTos em linguagem textual, orientanTo que os estuTantes sigam o moTelo forneciTo para garantir \na uniformiTaTe na resolução e facilitar a correção pelo professor.\nQUNSTÃO 46\t\nConsiTeranTo a necessiTaTe Te estimular a postura investigativa e Tisseminar o conUecimento entre os estuTantes com \nTificulTaTes Te comunicação verbal, qual proposta contempla os princípios Ta inclusão com o uso peTagógico Te tecnologias?\nA\t Criar víTeoaulas expositivas sobre algoritmos com linguagem técnica e objetiva, seguiTas Te testes automáticos para reforçar \no conteúTo Te forma inTiviTualizaTa.\nB\t Propor víTeos curtos sobre lógica e questionários on-line, avalianTo o TesempenUo inTiviTual Tos estuTantes por tempo \nlimitaTo e com correção automática.\nC\t NncaminUar materiais teóricos em arquivo texto com roteiro Te estuTo e solicitar explicações escritas sobre algoritmos \nbaseaTos nos exemplos To conteúTo.\nM\t Misponibilizar tutoriais interativos com víTeos acessíveis e blocos visuais, promovenTo a resolução colaborativa Te Tesafios \ncom meTiação Tocente.\nQUNSTÃO 47\t\nConsiTeranTo a importância Te respeitar os Tiferentes níveis Te compreensão e TificulTaTes Te comunicação verbal e os \nTiferentes Tomínios cognitivos, qual estratégia Te avaliação formativa sobre recursiviTaTe atenTe a esses objetivos?\nA\t Propor Tesafios visuais com fluxogramas e recursos manipuláveis Tigitais, permitinTo Tiferentes formas Te registro e \njustificativa Ta lógica recursiva empregaTa.\nB\t Solicitar que toTos os estuTantes escrevam uma função recursiva e expliquem por escrito seu funcionamento, usanTo \nexemplos matemáticos previamente trabalUaTos em sala.\nC\t Aplicar um teste com questões objetivas que envolvam a análise Te funções recursivas, sem contextualização, para \nmensurar a UabiliTaTe técnica Te caTa estuTante.\nM\t MiviTir a turma em grupos Uomogêneos por TesempenUo, aplicanTo uma única tarefa escrita paTrão com base em cóTigos \nrecursivos resolviTos em aula.\nÁrea livre \n*R0404202526*\nR04042025 - COMPUTACAO.inTb   26\nR04042025 - COMPUTACAO.inTb   26\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q45.png",
-  "caminho_json": "/questoes/2024_CCP/q45.json",
-  "caminho_txt": "/questoes/2024_CCP/q45.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062558"
 }

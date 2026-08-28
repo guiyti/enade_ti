@@ -5,17 +5,46 @@
   "paginas": [
     29
   ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q20.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q20.txt",
   "largura": 2185,
-  "altura": 2717,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2823,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 20\t\nObserve o código abaixo escrito na linguagem C.\n\t1\t\n#include <stdio.h>\n 2 \n#define TAM 10\n\t3\t\nint funcaol(int vetor[], int v){\n\t4\t\n\t\nint i;\n 5 \n \nfor (i = 0; i < TAM; i++){\n\t6 \t \t\n\t\nif (vetor[i] == v)\n\t7\t\n\t\n\t\n\t\nreturn i;\n\t8 \t \t\n}\n\t9 \t \t\nreturn -1;\n\t10\t\n}\n\t11 \t int funcao2(int vetor[], int v, int i, int f){\n\t12\t\n\t\nint m = (i + f) / 2;\n\t13\t\n\t\nif (v == vetor[m])\n\t14 \t \t\n\t\nreturn m;\n\t15 \t \t\nif (i >= f)\n\t16 \t \t\n\t\nreturn -1;\n\t17 \t \t\nif (v > vetor[m])\n\t18 \t \t\n\t\nreturn funcao2(vetor, v, m+l, f);\n\t19 \t \t\nelse\n\t20 \t \t\n\t\nreturn funcao2(vetor, v, i, m-1);\n\t21\t\n}\n\t22\t\nint main(){\n 23 \n \nint vetor[TAM] = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19};\n 24 \n \nprintf(“%d - %d”, funcao1(vetor, 15), funcao2(vetor, 15, 0, TAM-1));\n\t25\t\n\t\nreturn 0;\n\t26\t\n}\nA respeito das funções implementadas, avalie as afirmações a seguir.\nI.\t O resultado da impressão na linha 24 é: 7 - 7.\nII.\t A função funcao1, no pior caso, é uma estratégia mais rápida do que a funcao2.\nIII.\t A função funcao2 implementa uma estratégia iterativa na concepção do algoritmo.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 20,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 20"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "29\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 20\t\nObserve o cóTigo abaixo escrito na linguagem C.\n\t1\t\n#incluTe <stTio.U>\n 2 \n#Tefine TAM 10\n\t3\t\nint funcaol(int vetor[], int v){\n\t4\t\n\t\nint i;\n 5 \n \nfor (i = 0; i < TAM; i++){\n\t6 \t \t\n\t\nif (vetor[i] == v)\n\t7\t\n\t\n\t\n\t\nreturn i;\n\t8 \t \t\n}\n\t9 \t \t\nreturn -1;\n\t10\t\n}\n\t11 \t int funcao2(int vetor[], int v, int i, int f){\n\t12\t\n\t\nint m = (i + f) / 2;\n\t13\t\n\t\nif (v == vetor[m])\n\t14 \t \t\n\t\nreturn m;\n\t15 \t \t\nif (i >= f)\n\t16 \t \t\n\t\nreturn -1;\n\t17 \t \t\nif (v > vetor[m])\n\t18 \t \t\n\t\nreturn funcao2(vetor, v, m+l, f);\n\t19 \t \t\nelse\n\t20 \t \t\n\t\nreturn funcao2(vetor, v, i, m-1);\n\t21\t\n}\n\t22\t\nint main(){\n 23 \n \nint vetor[TAM] = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19};\n 24 \n \nprintf(“%T - %T”, funcao1(vetor, 15), funcao2(vetor, 15, 0, TAM-1));\n\t25\t\n\t\nreturn 0;\n\t26\t\n}\nA respeito Tas funções implementaTas, avalie as afirmações a seguir.\nC.\t O resultaTo Ta impressão na linUa 24 é: 7 - 7.\nCC.\t A função funcao1, no pior caso, é uma estratégia mais rápiTa To que a funcao2.\nCCC.\t A função funcao2 implementa uma estratégia iterativa na concepção To algoritmo.\nÉ correto o que se afirma em\nA\t C, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t CC e CCC, apenas.\nN\t C, CC e CCC.\n*R02202129*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q20.png",
-  "caminho_json": "/questoes/2021_CCP/q20.json",
-  "caminho_txt": "/questoes/2021_CCP/q20.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187751"
 }

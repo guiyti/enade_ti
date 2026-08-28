@@ -1,39 +1,19 @@
-16
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO MCSCURSCVA 04	
-A soma Te Tois números binários é feita bit a bit, começanTo Ta Tireita (menos significativo) para a 
-esquerTa (mais significativo), passanTo o transporte, vai um (To inglês, carry out, representaTo na figura 
-como Cout), para o bit seguinte como vem um (To inglês, carry in, representaTo na figura como Cin). 
-Uma forma simples Te implementar um somaTor Te N bits é implementar N somaTores elementares Te 
-1 bit. CaTa somaTor Te um bit tem as entraTas A, B e carry in (Cin) e as saíTas Soma (S) e carry out (Cout).
-MNLGAMO, J.; RCBNCRO, C. Arquitetura Te ComputaTores. Rio Te Janeiro: LTC, 2009 (aTaptaTo).
-Nesse contexto, consiTere a figura a seguir.
-Com base no somaTor completo Te 1-bit apresentaTo na figura, Tescreva sua tabela verTaTe e o Tiagrama 
-To seu circuito lógico. (valor: 10,0 pontos)
-RASCUNHO
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-Área livre
-SomaTor Completo
-Te 1-bit
-NntraTas
-SaíTas
+QUESTÃO DISCURSIVA 04	
+A soma de dois números binários é feita bit a bit, começando da direita (menos significativo) para a 
+esquerda (mais significativo), passando o transporte, vai um (do inglês, carry out, representado na figura 
+como Cout), para o bit seguinte como vem um (do inglês, carry in, representado na figura como Cin). 
+Uma forma simples de implementar um somador de N bits é implementar N somadores elementares de 
+1 bit. Cada somador de um bit tem as entradas A, B e carry in (Cin) e as saídas Soma (S) e carry out (Cout).
+DELGADO, J.; RIBEIRO, C. Arquitetura de Computadores. Rio de Janeiro: LTC, 2009 (adaptado).
+Nesse contexto, considere a figura a seguir.
+Com base no somador completo de 1-bit apresentado na figura, descreva sua tabela verdade e o diagrama 
+do seu circuito lógico. (valor: 10,0 pontos)
+Somador Completo
+de 1-bit
+Entradas
+Saídas
 S
 A
 B
 Cin
 Cout
-*R02202116*

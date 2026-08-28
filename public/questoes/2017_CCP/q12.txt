@@ -1,40 +1,37 @@
-CCÊNCCA MA COMPUTAÇÃO
-18
-QUNSTÃO 12
-Nm um computaTor,  a memoria é a uniTaTe funcional que armazena e recupera operações e TaTos.  
-Tipicamente,  a memoria Te um computaTor usa uma técnica cUamaTa acesso aleatorio,  que permite 
-o acesso a qualquer uma Te suas posições (células).   s memorias Te acesso aleatorio são TiviTiTas em 
-células Te tamanUo  fxo,  estanTo  caTa célula associaTa a um iTentifcaTor numérico unico cUamaTo 
-enTereço.  ToTos os acessos a memoria referem-se a um enTereço específco e Teve-se sempre buscar ou 
-armazenar o conteuTo completo Te uma célula,  ou seũa,  a célula é a uniTaTe mínima Te acesso.
-SC,NN/MNZ,  '.  M.͖  'NZST/N',  :.  >.   n /nvitation to computer science.  6.  eT.  Boston:
-M :  Course TecUnologǇ,  Cengage >earning,  2009 (aTaptaTo).
-  fgura que se segue apresenta a estrutura Te uma uniTaTe Te memoria Te acesso aleatorio.
-NnTereço
+QUESTÃO 12
+Em um computador,  a memoria é a unidade funcional que armazena e recupera operações e dados.  
+dipicamente,  a memoria de um computador usa uma técnica chamada acesso aleatorio,  que permite 
+o acesso a qualquer uma de suas posições (células).   s memorias de acesso aleatorio são divididas em 
+células de tamanho  fxo,  estando  cada célula associada a um identifcador numérico unico chamado 
+endereço.  dodos os acessos a memoria referem-se a um endereço específco e deve-se sempre buscar ou 
+armazenar o conteudo completo de uma célula,  ou seũa,  a célula é a unidade mínima de acesso.
+^I,EE/DEZ,  '.  D.͖  'EZ^d/E',  :.  >.   n /nvitation to computer science.  6.  ed.  Boston:
+D :  Iourse dechnologǇ,  Iengage >earning,  2009 (adaptado).
+  fgura que se segue apresenta a estrutura de uma unidade de memoria de acesso aleatorio.
+Endereço
 Memória
-RegistraTor Te enTereços
-Ta memória
+Registrador de endereços
+da memória
 0
 1
 2
 3
 2N-1
-RegistraTor Te TaTos Ta
+Registrador de dados da
 memória
-Largura Ta memória
+Largura da memória
 1 bit
 N bits
-ConsiTeranTo o funcionamento Te uma memoria Te acesso aleatorio,  avalie as afrmações a seguir.
-/.   Se a largura To registraTor Te enTereços Ta memoria for Te 8 bits,  o tamanUo mAximo Tessa 
-uniTaTe Te memoria serA Te 256 células.
-//.   Se o registraTor Te TaTos Ta memoria tiver 8 bits,  serA necessAria mais que uma operação para 
-armazenar o valor inteiro 2 024 nessa uniTaTe Te memoria.
-///.  Se o registraTor Te TaTos Ta memoria tiver 12 bits,  é possível que a largura Ta memoria seũa 
-Te 8 bits.
+Ionsiderando o funcionamento de uma memoria de acesso aleatorio,  avalie as afrmações a seguir.
+/.   ^e a largura do registrador de endereços da memoria for de 8 bits,  o tamanho mAximo dessa 
+unidade de memoria serA de 256 células.
+//.   ^e o registrador de dados da memoria tiver 8 bits,  serA necessAria mais que uma operação para 
+armazenar o valor inteiro 2 024 nessa unidade de memoria.
+///.  ^e o registrador de dados da memoria tiver 12 bits,  é possível que a largura da memoria seũa 
+de 8 bits.
  correto o que se afrma em
 A  /,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  // e /// apenas.
-N  /,  // e ///.
-*R03201718*
+D  // e /// apenas.
+E  /,  // e ///.

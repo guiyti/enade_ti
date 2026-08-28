@@ -5,17 +5,46 @@
   "paginas": [
     21
   ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 311.15999999999997,
+      "y1": 645.1231689453125,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q14.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q14.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2399,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 14 \nK método do caminho crítico identifca a sequgncia \nde atividades que o gerente de proũetos deve dar \nmais  atenção,   porque,   caso  uma  delas  atrase,  \ntodo o proũeto estarA atrasado.    tabela a seguir \napresenta a estrutura de atividades de um proũeto.\n tividade\n tividade\npredecessora\nDuração \nem dias\n \n--\n3\nB\n \n5\nI\n--\n12\nD\n--\n4\nE\nD\n2\nF\nD\n5\n'\nF\n7\n,\nE e '\n8\n/\nB\n11\n:\nI,  , e /\n3\n  partir das informações apresentadas na tabela,  \navalie as afrmações a seguir.\n/.   K  caminho  crítico  é  composto  pelas \natividades  ,  B,  / e :.\n//.   K caminho crítico tem 27 dias.\n///.     atividade , faz parte do caminho crítico.\n/s.   K  proũeto  em  pauta  possui  dois  caminhos \ncríticos.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e /s.\nC  // e ///.\nD  /,  /// e /s.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 14,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 14"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "21\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 14 \nO métoTo To caminUo crítico iTentifca a sequgncia \nTe ativiTaTes que o gerente Te proũetos Teve Tar \nmais  atenção,   porque,   caso  uma  Telas  atrase,  \ntoTo o proũeto estarA atrasaTo.    tabela a seguir \napresenta a estrutura Te ativiTaTes Te um proũeto.\n tiviTaTe\n tiviTaTe\npreTecessora\nMuração \nem Tias\n \n--\n3\nB\n \n5\nC\n--\n12\nM\n--\n4\nN\nM\n2\nF\nM\n5\n'\nF\n7\n,\nN e '\n8\n/\nB\n11\n:\nC,  , e /\n3\n  partir Tas informações apresentaTas na tabela,  \navalie as afrmações a seguir.\n/.   O  caminUo  crítico  é  composto  pelas \nativiTaTes  ,  B,  / e :.\n//.   O caminUo crítico tem 27 Tias.\n///.     ativiTaTe , faz parte To caminUo crítico.\n/s.   O  proũeto  em  pauta  possui  Tois  caminUos \ncríticos.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e /s.\nC  // e ///.\nM  /,  /// e /s.\nN  //,  /// e /s.\nArea livre\nYUNSTãO 15 \nUma  empresa  multinacional  estA  avalianTo  um \ninciTente Te segurança ocorriTo internamente com \no envolvimento Te um Te seus funcionArios,  o que \npoTerA  ser  motivo  para  o  encerramento  Te  seu \ncontrato.  O referiTo funcionArio estava realizanTo o \ncompartilUamento Te senUas e também envianTo \nmensagens  por  meio  To  serviço  Te  correio \neletrƀnico Ta empresa,  com o obũetivo Te Tifamar \ne caluniar outros colegas Te trabalUo.\nNessa  situação,   Te  acorTo  com  as  políticas \nTe  segurança  que  Tefnem  os  Tireitos  e  as \nresponsabiliTaTes  Te  caTa  um  em  relação  a \nsegurança Tos recursos computacionais que utiliza,  \no funcionArio violou a política Te\nA  senUas.\nB backup.\nC  privaciTaTe.\nM  uso aceitAvel.\nN  confTencialiTaTe.\nArea livre\n*R41201721*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q14.png",
-  "caminho_json": "/questoes/2017_ADS/q14.json",
-  "caminho_txt": "/questoes/2017_ADS/q14.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601041"
 }

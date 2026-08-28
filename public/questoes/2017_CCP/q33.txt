@@ -1,8 +1,6 @@
-31
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 33
-ConsiTere a função recursiva F a seguir,  que em sua execução cUama a função G:
-1 voiT F(int n) {
+QUESTÃO 33
+Ionsidere a função recursiva F a seguir,  que em sua execução chama a função G:
+1 void F(int n) {
 2    if(n > 0) {
 3       for(int i = 0; i < n; i++) {
 4          G(i);
@@ -10,16 +8,14 @@ ConsiTere a função recursiva F a seguir,  que em sua execução cUama a funç�
 6       F(n/2);
 7    }
 8 }
-Com base nos conceitos Te teoria Ta complexiTaTe,  avalie as afrmações a seguir.
-/.     equação Te recorrgncia que Tefne a complexiTaTe Ta função F é a mesma To algoritmo clAssico 
-Te orTenação mergesort.
-//.   O numero Te cUamaTas recursivas Ta função F é 4 (log n).
-///.   O numero Te vezes que a função G Ta linUa 4 é cUamaTa é O(n log n).
+Iom base nos conceitos de teoria da complexidade,  avalie as afrmações a seguir.
+/.     equação de recorrgncia que defne a complexidade da função F é a mesma do algoritmo clAssico 
+de ordenação mergesort.
+//.   K numero de chamadas recursivas da função F é 4 (log n).
+///.   K numero de vezes que a função G da linha 4 é chamada é O(n log n).
  correto o que se afrma em
 A  /,  apenas.
 B  //,  apenas.
 C  / e ///,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R03201731*
+D  // e ///,  apenas.
+E  /,  // e ///.

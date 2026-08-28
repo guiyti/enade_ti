@@ -5,17 +5,46 @@
   "paginas": [
     20
   ],
+  "segmentos": [
+    {
+      "pagina": 20,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 547.8529663085938,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q17.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1993,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 17\nWode-se defnir liderança como a capacidade de inŇuenciar um grupo para alcançar metas.    origem \ndessa inŇugncia pode ser formal,  como a que é conferida por um alto cargo na organização.  Iomo essas \nposições remetem a um certo grau de autoridade,  uma pessoa pode assumir um papel de liderança apenas \nem função do cargo que ocupa.  Eem todos os líderes são administradores e nem todos os executivos \nsão líderes.  K fato de a organização conferir a seus executivos alguns direitos formais não lhes assegura \na capacidade de liderança efcaz.    liderança não sancionada ͷ aquela capaz de inŇuenciar os outros,  \nque emerge fora da estrutura formal da organização ͷ geralmente é tão importante quanto a inŇugncia \nformal,  ou até mais.  Em outras palavras,  os líderes podem surgir naturalmente dentro de um grupo ou por \nindicação formal.  Eesse sentido,  uma das habilidades interpessoais cuũo valor é alto para as organizações \né a liderança.\nZKBB/E^,  ^.  W. Iomportamento organizacional.  11.  ed.  ^ão Waulo:  Wrentice ,all,  2009 (adaptado).\nIonsiderando essas informações,  assinale a opção em que se caracteriza corretamente a liderança na \nArea de proũetos.\nA  'estores de proũetos devem prezar pelo desenvolvimento das habilidades interpessoais dos membros \nde seu grupo,  como a liderança e o trabalho em equipe,  essenciais para o sucesso dos proũetos e o \nalcance dos obũetivos estratégicos.\nB  >íderes com perfs mais autocrAticos tgm maior chance de sucesso no gerenciamento de proũetos,  \nvisto que essa é uma atividade fundamental para que os obũetivos estratégicos das organizações seũam \nalcançados.\nC  >íderes devem manter o status quo,  pois sua posição é resultado de uma escolha da administração \nque ele deve representar,  cabendo-lhes fazer com que os obũetivos estratégicos seũam alcançados \ne os proũetos seũam entregues no prazo,  dentro do escopo planeũado e respeitando as estimativas \norçamentArias.\nD  >íderes  de  proũetos  devem  ter  como  características  pessoais  determinação,   confança  e  vontade,  \nsendo-lhes dispensAveis as habilidades técnicas,  pois elas podem ser desempenhadas pelos membros \nda equipe.\nE Wrofssionais do tipo introspectivo são inadequados para funções de liderança,  pois as teorias modernas \nde gerenciamento de proũetos consideram a comunicação como um dos principais papéis do líder.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 20,
+      "x": 60.038299560546875,
+      "y": 88.699951171875,
+      "x1": 122.4911117553711,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "20\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 17\nPoTe-se Tefnir liTerança como a capaciTaTe Te inŇuenciar um grupo para alcançar metas.    origem \nTessa inŇugncia poTe ser formal,  como a que é conferiTa por um alto cargo na organização.  Como essas \nposições remetem a um certo grau Te autoriTaTe,  uma pessoa poTe assumir um papel Te liTerança apenas \nem função To cargo que ocupa.  Nem toTos os líTeres são aTministraTores e nem toTos os executivos \nsão líTeres.  O fato Te a organização conferir a seus executivos alguns Tireitos formais não lUes assegura \na capaciTaTe Te liTerança efcaz.    liTerança não sancionaTa ͷ aquela capaz Te inŇuenciar os outros,  \nque emerge fora Ta estrutura formal Ta organização ͷ geralmente é tão importante quanto a inŇugncia \nformal,  ou até mais.  Nm outras palavras,  os líTeres poTem surgir naturalmente Tentro Te um grupo ou por \ninTicação formal.  Nesse sentiTo,  uma Tas UabiliTaTes interpessoais cuũo valor é alto para as organizações \né a liTerança.\nZOBB/NS,  S.  P. Comportamento organizacional.  11.  eT.  São Paulo:  Prentice ,all,  2009 (aTaptaTo).\nConsiTeranTo essas informações,  assinale a opção em que se caracteriza corretamente a liTerança na \nArea Te proũetos.\nA  'estores Te proũetos Tevem prezar pelo Tesenvolvimento Tas UabiliTaTes interpessoais Tos membros \nTe seu grupo,  como a liTerança e o trabalUo em equipe,  essenciais para o sucesso Tos proũetos e o \nalcance Tos obũetivos estratégicos.\nB  >íTeres com perfs mais autocrAticos tgm maior cUance Te sucesso no gerenciamento Te proũetos,  \nvisto que essa é uma ativiTaTe funTamental para que os obũetivos estratégicos Tas organizações seũam \nalcançaTos.\nC  >íTeres Tevem manter o status quo,  pois sua posição é resultaTo Te uma escolUa Ta aTministração \nque ele Teve representar,  cabenTo-lUes fazer com que os obũetivos estratégicos seũam alcançaTos \ne os proũetos seũam entregues no prazo,  Tentro To escopo planeũaTo e respeitanTo as estimativas \norçamentArias.\nM  >íTeres  Te  proũetos  Tevem  ter  como  características  pessoais  Teterminação,   confança  e  vontaTe,  \nsenTo-lUes TispensAveis as UabiliTaTes técnicas,  pois elas poTem ser TesempenUaTas pelos membros \nTa equipe.\nN Profssionais To tipo introspectivo são inaTequaTos para funções Te liTerança,  pois as teorias moTernas \nTe gerenciamento Te proũetos consiTeram a comunicação como um Tos principais papéis To líTer.\nArea livre\n*R43201720*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q17.png",
-  "caminho_json": "/questoes/2017_GTI/q17.json",
-  "caminho_txt": "/questoes/2017_GTI/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697650"
 }

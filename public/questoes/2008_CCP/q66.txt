@@ -1,175 +1,63 @@
-27
-COMPUTAÇÃO
-QUNSTÃO 64
-A figura abaixo apresenta uma proposta Te classificação Te
-sistemas Te informação, organizaTa tanto no que se refere
-ao nível Uierárquico, no qual atuam os sistemas no âmbito
-Te uma organização, quanto no que se refere às áreas
-funcionais nas quais esses sistemas são aplicaTos.
-ConsiTere a situação Uipotética em que uma reTe Te
-supermercaTos Teverá tomar uma Tecisão com relação à
-substituição To sistema Te automação Te “frente Te loja”,
-que apóia as ativiTaTes Tos caixas nos cUeck-outs.
-A Tecisão envolve substituir o sistema atual, que emprega
-tecnologia Te terminais “burros”, por um que emprega
-computaTores pessoais e reTes sem fio. Nesse sentiTo e
-consiTeranTo a proposta Te classificação apresentaTa,
-qual Tas opções a seguir apresenta uma classificação
-aTequaTa Te nível Uierárquico, área funcional e grupo
-atenTiTo pelo sistema Te informações, que oferece apoio
-Tireto à referiTa tomaTa Te Tecisão?
-A
-estratégico, venTas e marketing, gerentes seniores
-B
-conUecimento, 
-finanças, 
-trabalUaTores 
-To
-conUecimento
-C
-gerencial, contabiliTaTe, gerentes méTios
-M
-operacional, 
-venTas 
-e 
-marketing, 
-gerentes
-operacionais
-N
-estratégico, recursos Uumanos, gerentes méTios
-QUNSTÃO 65
-ConsiTere os seguintes itens: (i) características To proTuto;
-(ii) o moTelo Te maturiTaTe e capaciTaTe; (iii) o paraTigma
-e os métoTos Te Tesenvolvimento. A quais níveis Te
-abstração 
-Te 
-processos 
-esses 
-itens 
-estão,
-respectivamente, associaTos?
-A
-processo paTrão, processo especializaTo e processo
-instanciaTo
-B
-processo paTrão, processo instanciaTo e processo
-especializaTo
-C
-processo instanciaTo, processo paTrão e processo
-especializaTo
-M
-processo instanciaTo, processo especializaTo e
-processo paTrão
-N
-processo especializaTo, processo paTrão e processo
-instanciaTo
-QUNSTÃO 66
-SegunTo o moTelo COBCT (control objectives for
-information tecUnology), os processos Te TC Tevem ser
-auTitaTos por meio Te um processo composto pelas etapas
-Te: (i) COMPRNNNSÃO Tos riscos relacionaTos aos
-requisitos Te negócios e Tas meTiTas Te controle
+QUESTÃO 66
+Segundo o modelo COBIT (control objectives for
+information technology), os processos de TI devem ser
+auditados por meio de um processo composto pelas etapas
+de: (i) COMPREENSÃO dos riscos relacionados aos
+requisitos de negócios e das medidas de controle
 relevantes; 
 (ii) 
 avaliação 
-Ta 
-AMNQUABCLCMAMN
-(PROPRCNMAMN) Tos controles TeclaraTos; (iii) avaliação
-Te CONFORMCMAMN por meio To teste Te funcionamento
-consistente e contínuo Tos controles, conforme prescritos;
-e (iv) SUBSTANCCAÇÃO To risco Tos objetivos Te controle
-não serem alcançaTos por meio Te técnicas analíticas
+da 
+ADEQUABILIDADE
+(PROPRIEDADE) dos controles declarados; (iii) avaliação
+de CONFORMIDADE por meio do teste de funcionamento
+consistente e contínuo dos controles, conforme prescritos;
+e (iv) SUBSTANCIAÇÃO do risco dos objetivos de controle
+não serem alcançados por meio de técnicas analíticas
 e(ou) consulta a fontes alternativas. Com relação a essas
 etapas, assinale a opção correta.
 A
-Murante a etapa Te SUBSTANCCAÇÃO, são realizaTas
-entrevistas com o gestor e os empregaTos que
-TesempenUam o processo Te TC, visanTo iTentificar
+Durante a etapa de SUBSTANCIAÇÃO, são realizadas
+entrevistas com o gestor e os empregados que
+desempenham o processo de TI, visando identificar
 leis e regulamentos aplicáveis.
 B
-Murante 
+Durante 
 a 
 etapa 
-Te 
-CONFORMCMAMN, 
+de 
+CONFORMIDADE, 
 são
-TocumentaTas as fraquezas Tos controles em prática,
-com a inTicação Tas ameaças e vulnerabiliTaTes
+documentadas as fraquezas dos controles em prática,
+com a indicação das ameaças e vulnerabilidades
 presentes.
 C
-Murante a etapa Te AMNQUABCLCMAMN, são obtiTas
-eviTências 
-Tiretas 
+Durante a etapa de ADEQUABILIDADE, são obtidas
+evidências 
+diretas 
 e 
-inTiretas 
+indiretas 
 aplicáveis 
 a
-TeterminaTos artefatos e períoTos Te tempo
-Tiretamente relacionaTos ao processo Te TC, visanTo-
-se garantir que os proceTimentos em prática sejam
-compatíveis com os controles TeclaraTos.
-M
-Murante 
+determinados artefatos e períodos de tempo
+diretamente relacionados ao processo de TI, visando-
+se garantir que os procedimentos em prática sejam
+compatíveis com os controles declarados.
+D
+Durante 
 a 
 etapa 
-Te 
-COMPRNNNSÃO, 
+de 
+COMPREENSÃO, 
 são
-iTentificaTos e TocumentaTos impactos reais e
-potenciais para a organização, empreganTo-se
-análises Te causa-raiz.
-N
-Murante a etapa Te AMNQUABCLCMAMN, é avaliaTa a
-conveniência Tas meTiTas Te controle aTotaTas para
-o processo Te TC, por meio Ta consiTeração Te
-critérios bem TefiniTos, práticas paTronizaTas Ta
-inTústria, fatores críticos Te sucesso para as meTiTas
-Te controle, bem como o julgamento profissional pelo
-auTitor.
-QUNSTÃO 67
-No Tesenvolvimento e na programação Te aplicações em
-reTes TCP/CP, qual tipo Te protocolo Te transporte libera o
-programaTor Ta responsabiliTaTe Te Tetectar e corrigir
-erros Turante a transmissão, objetivanTo tornar a
-programação Ta aplicação mais simples?
-A
-sem conexão
-B
-orientaTo a conexão
-C
-orientaTo a bit
-M
-orientaTo a byte 
-N
-Tatagrama confirmaTo
-TCPOS MN SCSTNMAS
-MN CNFORMAÇÃO
-ÁRNAS
-FUNCCONACS
-GRUPOS
-ATNNMCMOS
-Nível
-estratégico
-Nível
-gerencial
-Nível Te
-conUecimento
-Nível Te
-operacional
-Gerentes
-seniores
-Gerentes
-méTios
-TrabalUaTores To
-conUecimento e Te TaTos
-Gerentes
-operacionais
-VenTas e
-marketing
-Fabricação
-Finanças
-ContabiliTaTe
-Recursos
-Uumanos
-LauTon & LauTon. Sistemas Te Cnformação Gerencial. Pearson, 2004 (com
-aTaptações).
+identificados e documentados impactos reais e
+potenciais para a organização, empregando-se
+análises de causa-raiz.
+E
+Durante a etapa de ADEQUABILIDADE, é avaliada a
+conveniência das medidas de controle adotadas para
+o processo de TI, por meio da consideração de
+critérios bem definidos, práticas padronizadas da
+indústria, fatores críticos de sucesso para as medidas
+de controle, bem como o julgamento profissional pelo
+auditor.

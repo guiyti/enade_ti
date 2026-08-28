@@ -1,107 +1,29 @@
-19
-COMPUTAÇÃO
-QUNSTÃO 46
-No plano Te coorTenaTas cartesianas xOy acima, está
-representaTo o gráfico Te uma função contínua e Terivável
-y = f(x). A partir Tessas informações, qual opção apresenta
-características corretas acerca Ta função y?
+QUESTÃO 49
+A segmentação de imagens é uma das partes essenciais
+na área de processamento de imagens. Assinale a opção
+incorreta em relação à detecção de bordas no contexto da
+segmentação de imagens.
 A
-A função y possui TerivaTa Te primeira orTem positiva
-em toTo o seu Tomínio.
-B
-A função y possui TerivaTa Te segunTa orTem positiva
-em toTo o seu Tomínio.
-C
-A função y possui exatamente Tois pontos críticos Te
-primeira orTem em toTo o seu Tomínio.
-M
-A função y possui exatamente Tois pontos Te inflexão
-em toTo o seu Tomínio.
-N
-A função y tem exatamente Tois zeros em toTo o seu
-Tomínio.
-QUNSTÃO 47
-A transmissão em fibra óptica é realizaTa pelo envio Te
-feixes Te luz através Te um cabo óptico que consiste em
-um filamento Te sílica ou plástico. A fibra óptica funciona
-com base nos princípios Te refração e reflexão Tos feixes
-Te luz no interior To filamento conTutor. Para controlar a
-Tireção Ta propagação Tos feixes Te luz, o núcleo e a
-casca To filamento conTutor são proTuziTos com Tiferentes
-ínTices Te refração. VarianTo-se os ínTices Te refração To
-núcleo e Ta casca, Tiferentes categorias Te fibras ópticas
-são proTuziTas. Qual opção apresenta três categorias Te
-fibras ópticas?
-A
-monomoTo, bimoTo e multimoTo
-B
-monomoTo 
-refratário, 
-monomoTo 
-reflexivo 
-e
-multimoTo
-C
-monomoTo, multimoTo Tegrau e multimoTo graTual
-M
-monomoTo, multimoTo sílico e multimoTo plástico
-N
-monomoTo Tigital, monomoTo analógico e multimoTo
-QUNSTÃO 48
-ConsiTere f(x) = x3 + 3x ! 1, em que x 0 ú. A fim Te que
-sejam obtiTas as raízes Ta função f, vários métoTos Te
-cálculo numérico poTem ser aplicaTos, senTo a maioria
-Teles embasaTa em processos iterativos, o que exige uma
-primeira aproximação para caTa raiz que se Teseje
-Teterminar e para o intervalo em que ela Teva ser
-encontraTa. SuponUa que se esteja aplicanTo o princípio Ta
-bissecção para a Teterminação Te uma raiz aproximaTa
-para a função f Tescrita acima e que, para isso, seja
-necessária a Tefinição Te um intervalo Te busca inicial C,
-bem como uma primeira aproximação para a raiz xN Te  f
-que se encontra em C. Nesse sentiTo, qual Tas opções a
-seguir apresenta uma Tefinição correta Te C e a
-aproximação xN associaTa, Te acorTo com o métoTo Ta
-bissecção?
-A
-C = [!1, !½],  xN = !61/16
-B
-C = [!½, 0],  xN =  !1/4
-C
-C = [!1, 0],  xN = !1/2
-M
-C = [0, ½],  xN = 1/4
-N
-C = [!1, 1],  xN = 1/4
-QUNSTÃO 49
-A segmentação Te imagens é uma Tas partes essenciais
-na área Te processamento Te imagens. Assinale a opção
-incorreta em relação à Tetecção Te borTas no contexto Ta
-segmentação Te imagens.
-A
-A Tetecção Te borTas é a Teterminação Tos limites Te
-um objeto em uma imagem, envolvenTo a avaliação Ta
-variação nos níveis Te cinza Tos pixels em uma
-vizinUança, senTo uma Tas formas Te segmentação Te
+A detecção de bordas é a determinação dos limites de
+um objeto em uma imagem, envolvendo a avaliação da
+variação nos níveis de cinza dos pixels em uma
+vizinhança, sendo uma das formas de segmentação de
 imagens.
 B
-Sobel, Prewitt e Roberts são operaTores usaTos para
-Tetecção Te borTas, toTos embasaTos em graTientes
-calculaTos sobre os níveis Te cinza Te uma imagem.
+Sobel, Prewitt e Roberts são operadores usados para
+detecção de bordas, todos embasados em gradientes
+calculados sobre os níveis de cinza de uma imagem.
 C
-A Tetecção Te borTas é um processo Te segmentação
-Te imagens, mas com princípio Tiferente Tas técnicas
-que agrupam pixels vizinUos que compartilUam
-TeterminaTo atributo.
-M
-Crescimento Te regiões é um métoTo Te Tetecção Te
-borTas embasaTo em graTientes, usanTo como critério
-a TispariTaTe Te valores entre pixels vizinUos.
-N
-O operaTor LoG (laplacian of gaussian) é empregaTo
-para Tetecção Te borTas, usanTo os cruzamentos Te
-zero na Teterminação Tos pixels que formam o limiar
+A detecção de bordas é um processo de segmentação
+de imagens, mas com princípio diferente das técnicas
+que agrupam pixels vizinhos que compartilham
+determinado atributo.
+D
+Crescimento de regiões é um método de detecção de
+bordas embasado em gradientes, usando como critério
+a disparidade de valores entre pixels vizinhos.
+E
+O operador LoG (laplacian of gaussian) é empregado
+para detecção de bordas, usando os cruzamentos de
+zero na determinação dos pixels que formam o limiar
 entre um objeto e outro em uma imagem.
-0
-x
-y

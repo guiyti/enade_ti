@@ -1,46 +1,9 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-COMPUTAÇÃO
-34
-2025
-Texto para questões Te 70 a 72
-Um professor Te Computação TeciTe organizar sua Tisciplina sobre NTucação Cnclusiva utilizanTo um Ambiente Virtual Te 
-AprenTizagem (AVA). Para isso, o professor funTamenta sua prática em uma teoria Te aprenTizagem que valoriza a construção 
-ativa To conUecimento e a autonomia Tos estuTantes. Com base nessa aborTagem, o Tocente estrutura os conteúTos Te moTo 
-que os estuTantes possam explorar recursos Tiversos, interagir com seus pares, proTuzir artefatos Tigitais e refletir sobre os 
-processos Te ensino e aprenTizagem.
-QUNSTÃO 70	
-ConsiTeranTo os funTamentos teórico-metoTológicos no uso To AVA, qual a teoria Te aprenTizagem que foi aTotaTa 
-pelo professor?
-A	 BeUaviorista, ao focar em estímulos e respostas, organiza o AVA com ativiTaTes estruturaTas, uso Te reforços e feeTbacks 
-imeTiatos, priorizanTo o conTicionamento To comportamento.
-B	 Cognitivista, ao valorizar os processos mentais internos, propõe trilUas Te aprenTizagem com conteúTos organizaTos por 
-níveis Te complexiTaTe e foco no processamento Ta informação.
-C	 Construcionista, ao estimular a autoria e a proTução Te artefatos significativos, funTamenta o uso To AVA como um espaço 
-Te investigação, colaboração e construção ativa To conUecimento.
-M	 Conectivista, ao enfatizar o aprenTizaTo em reTes Tigitais, estrutura o AVA para promover conexões entre fontes Tiversas 
-Te informação, comuniTaTes virtuais e experiências Tigitais em tempo real.
-QUNSTÃO 71	
-Qual proposta avaliativa estimula a autonomia Tos estuTantes e Tesenvolve sua capaciTaTe Te análise crítica sobre Políticas 
-Públicas Te Cnclusão voltaTas à cultura Tigital na NTucação Básica?
-A	 Aplicação Te um questionário fecUaTo no AVA, com perguntas sobre as metas Te inclusão Tigital presentes no Plano Nacional 
-Te NTucação, corrigiTo automaticamente pela plataforma.
-B	 Nlaboração Te um fórum temático, no qual os estuTantes analisam Políticas Públicas Te Cnclusão Tigital e proponUam ações 
-possíveis para suas realiTaTes escolares, com meTiação Tocente.
-C	 Organização Te um glossário Tigital colaborativo, com termos relacionaTos à cultura Tigital, acompanUaTo Te breves análises 
-sobre suas implicações nas práticas peTagógicas.
-M	 ProTução Te uma síntese crítica em grupo, com base em Tocumentos oficiais e experiências vivenciaTas pelos estuTantes 
-em suas escolas, publicaTa no AVA e TiscutiTa em webconferência.
-QUNSTÃO 72	
-Os recursos em um AVA poTem ser moTelaTos Te forma análoga ao funcionamento Te uma estrutura Te TaTos. Um professor 
-Te Computação Tisponibilizou quatro recursos com nível crescente Te TificulTaTe para serem utilizaTos Te maneira que o 
-estuTante só poTe acessar o próximo recurso após o anterior. Qual a estrutura Te TaTos que moTela este cenário no AVA?
-A	 PilUa, inserinTo as tarefas Ta mais fácil para a mais Tifícil.
-B	 Grafo, inserinTo as tarefas Ta mais fácil para a mais Tifícil com nós e sem arestas.
-C	 Fila, inserinTo as tarefas Ta mais fácil para a mais Tifícil.
-M	 Lista encaTeaTa, inserinTo, no início, as tarefas Ta mais fácil para a mais Tifícil.
-Área livre
-*R0404202534*
-0404_computacao_bloco_04.inTT   34
-0404_computacao_bloco_04.inTT   34
-22/08/2025   13:02:20
-22/08/2025   13:02:20
+, p
+QUESTÃO 72	
+Os recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor 
+de Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o 
+estudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?
+A	 Pilha, inserindo as tarefas da mais fácil para a mais difícil.
+B	 Grafo, inserindo as tarefas da mais fácil para a mais difícil com nós e sem arestas.
+C	 Fila, inserindo as tarefas da mais fácil para a mais difícil.
+D	 Lista encadeada, inserindo, no início, as tarefas da mais fácil para a mais difícil.

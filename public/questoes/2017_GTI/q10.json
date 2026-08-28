@@ -5,17 +5,46 @@
   "paginas": [
     16
   ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 631.940185546875,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q10.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q10.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2344,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 10\nhma  empresa  da  industria  farmacgutica  estA \nimplantando  um  dataǁarehouse  que  servirA  de \nbase para geração de suas informações gerenciais.  \nDurante  o  processo  de  anAlise,   descobre-se \nque  dois  sistemas  transacionais  adquiridos \nde  empresas  diferentes  armazenam  dados \ncadastrais  de  forma  diversa:   o  primeiro  utiliza \"\nm\"  e \" f\"  para representar os sexos masculino e \nfeminino,  respectivamente.  :A o segundo sistema \nrepresenta  os  mesmos  sexos  como \" 1\"   e \" 2\",  \nrespectivamente.    lém  disso,   outros  sistemas \ntransacionais  da  propria  empresa  alimentam-se \nde dados desses sistemas.\n^abendo  que  os  dados  de  ambos  sistemas \ntransacionais alimentarão o dataǁarehouse que \nestA  sendo  implantado  na  referida  empresa,  \navalie as afrmações a seguir.\n/.     empresa deve defnir um padrão e utilizar \numa solução de Ed> (Extract, Transform and \nLoad)  para  adequar  os  dados  de  entrada \npara o dataǁarehouse ao padrão defnido.\n//.      empresa  deve  armazenar,   na  tabela  de \nfatos do dataǁarehouse,  a sigla do sistema \nde origem para saber interpretar os dados.\n///.     empresa deve solicitar aos fornecedores \ndos aplicativos que a representação de seus \ndados ocorra de forma padronizada.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Governança e Gestão de TI"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 10,
+      "tipo": "OBJETIVA",
+      "pagina": 16,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 10"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "16\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 09\n  estrutura Tas organizações traTicionais apoia-se \nsobre  vArios  pressupostos  superaTos  e  que \nTeram base ao surgimento Te empresas voltaTas \npara  Tentro,   para  suas  proprias  ativiTaTes,  \ncom estruturas UierArquicas pesaTas e rígiTas.  \nPor outro laTo,  empresas mais inovaToras estão \nse organizanTo por processos,  no esforço para \naperfeiçoar seu TesempenUo empresarial,  para \nterem  maior  eficigncia,   melUor  aTaptação  a \nmuTança e melUor integração Te seus esforços.\n'ONA >sNS,  :.  N.  >.  Processo,  que processo͍  Zevista Te  Tministração \nTe Nmpresas,  v.  40,  n.  4,  p.  8ʹ19,  2000 (aTaptaTo).\nConsiTeranTo  o  contexto  apresentaTo,   avalie  as \nasserções a seguir e a relação proposta entre elas.\n/.   Uma  gestão  organizacional  que  valoriza \nmais o Ňuxo Tos processos que as estruturas \nTepartamentais  tenTe  a  alcançar  melUor \nTesempenUo  e  competitiviTaTe  e,   nesse \ncontexto,   os  sistemas  Te  informação \nrepresentam  recursos  importantes  para \ngerenciar e integrar processos e promover \na melUoria To TesempenUo organizacional.\nPOZYUN\n//.   O \nTesempenUo \nTas \norganizações \nestA \nTiretamente  relacionaTo  a  efcigncia  e \na  efcAcia  Te  seus  processos  Te  negocio,  \nsenTo  por  meio  Teles  que  as  organizações \ntransformam  suas  estratégias  em  ações \nefetivas  que  implementam  seus  proTutos \neͬ ou serviços.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nQUNSTÃO 10\nUma  empresa  Ta  inTustria  farmacgutica  estA \nimplantanTo  um  TataǁareUouse  que  servirA  Te \nbase para geração Te suas informações gerenciais.  \nMurante  o  processo  Te  anAlise,   Tescobre-se \nque  Tois  sistemas  transacionais  aTquiriTos \nTe  empresas  Tiferentes  armazenam  TaTos \ncaTastrais  Te  forma  Tiversa:   o  primeiro  utiliza \"\nm\"  e \" f\"  para representar os sexos masculino e \nfeminino,  respectivamente.  :A o segunTo sistema \nrepresenta  os  mesmos  sexos  como \" 1\"   e \" 2\",  \nrespectivamente.    lém  Tisso,   outros  sistemas \ntransacionais  Ta  propria  empresa  alimentam-se \nTe TaTos Tesses sistemas.\nSabenTo  que  os  TaTos  Te  ambos  sistemas \ntransacionais alimentarão o TataǁareUouse que \nestA  senTo  implantaTo  na  referiTa  empresa,  \navalie as afrmações a seguir.\n/.     empresa Teve Tefnir um paTrão e utilizar \numa solução Te NT> (Nxtract, Transform anT \nLoaT)  para  aTequar  os  TaTos  Te  entraTa \npara o TataǁareUouse ao paTrão TefniTo.\n//.      empresa  Teve  armazenar,   na  tabela  Te \nfatos To TataǁareUouse,  a sigla To sistema \nTe origem para saber interpretar os TaTos.\n///.     empresa Teve solicitar aos forneceTores \nTos aplicativos que a representação Te seus \nTaTos ocorra Te forma paTronizaTa.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R43201716*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q10.png",
-  "caminho_json": "/questoes/2017_GTI/q10.json",
-  "caminho_txt": "/questoes/2017_GTI/q10.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697622"
 }

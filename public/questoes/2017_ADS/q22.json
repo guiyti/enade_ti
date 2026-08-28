@@ -5,17 +5,46 @@
   "paginas": [
     26
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 663.5721435546875,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q22.txt",
   "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2475,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 22\nhm desenvolvedor de soŌǁare recém-formado foi \ncontratado  para  a  implementação  de  um  proũeto \nem  uma  empresa  e,   em  reunião,   recebeu  vArias \nexplicações sobre como a gergncia de confguração \nfuncionava.  \nIonsiderando  essa  situação,   avalie  as  afrmações \na  seguir,   referentes  as  informações  dadas  ao \ndesenvolvedor.\n/.   /nicialmente,   para  ter  acesso  a  base  de \ndesenvolvimento,  \no \nprofssional \ndeve \nrealizar  uma  operação  de  checkout  para \nbaixar  os  arquivos  do  proũeto  que  estão \narmazenados no servidor.\n//.   Ea \nsituação \nem \nque \nmais \nde \num \ndesenvolvedor  estiver  modifcando  um \nmesmo documento,  ao se tentar realizar uma \noperação  de  commit,   pode  ser  necessArio \nrealizar uma operação de tag (release) para \nresolução do conŇito entre a versão local e \na versão mais recente no repositorio,  caso \nalgum desenvolvedor tenha submetido uma \nmudança no documento previamente.\n///.   Eo  desenvolvimento  de  um  novo  caso \nde  uso,   em  que  diversos  arquivos  seũam \nmodifcados,   é  recomendada  a  criação  de \numa ramifcação (branch).\n/s.      versão  estAvel  é  o  ramo  principal  de \ndesenvolvimento,  que segue do começo do \ndesenvolvimento até o momento presente.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nD  /,  /// e /s.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "26\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 21\nOs  moTelos  Te  processo  foram  propostos  para \ntrazer  orTem  ao  caos  existente  na  Area  Te \nTesenvolvimento Te soŌǁare.    Uistoria mostra que \nesses moTelos trouxeram consiTerAvel contribuição \nno trabalUo Ta engenUaria Te soŌǁare.\nPZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem \nprofssional.  8.  eT.  Porto  legre:   M',,  2016 (aTaptaTo).\n   respeito  Tos  moTelos  Te  processo,   avalie  as \nafrmações a seguir.\n/.   São  ativiTaTes  To  moTelo  incremental:  \nespecifcação,  Tesenvolvimento e valiTação.\n//.   No moTelo espiral,  a fase Te moTelagem é \nresponsAvel,   entre  outras  ativiTaTes,   pela \nestimativa,  cronograma e anAlise Te risco.\n///.   O  moTelo  cascata  sugere  uma  aborTagem \nsequencial \ne \nsistemAtica \npara \no \nTesenvolvimento Te soŌǁare,  inicianTo na \nespecifcação  Te  requisitos  e  fnalizanTo \ncom a entrega To soŌǁare concluíTo.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  / e ///,  apenas.\nN  /,  // e ///.\nArea livre\nQUNSTÃO 22\nUm TesenvolveTor Te soŌǁare recém-formaTo foi \ncontrataTo  para  a  implementação  Te  um  proũeto \nem  uma  empresa  e,   em  reunião,   recebeu  vArias \nexplicações sobre como a gergncia Te confguração \nfuncionava.  \nConsiTeranTo  essa  situação,   avalie  as  afrmações \na  seguir,   referentes  as  informações  TaTas  ao \nTesenvolveTor.\n/.   /nicialmente,   para  ter  acesso  a  base  Te \nTesenvolvimento,  \no \nprofssional \nTeve \nrealizar  uma  operação  Te  cUeckout  para \nbaixar  os  arquivos  To  proũeto  que  estão \narmazenaTos no serviTor.\n//.   Na \nsituação \nem \nque \nmais \nTe \num \nTesenvolveTor  estiver  moTifcanTo  um \nmesmo Tocumento,  ao se tentar realizar uma \noperação  Te  commit,   poTe  ser  necessArio \nrealizar uma operação Te tag (release) para \nresolução To conŇito entre a versão local e \na versão mais recente no repositorio,  caso \nalgum TesenvolveTor tenUa submetiTo uma \nmuTança no Tocumento previamente.\n///.   No  Tesenvolvimento  Te  um  novo  caso \nTe  uso,   em  que  Tiversos  arquivos  seũam \nmoTifcaTos,   é  recomenTaTa  a  criação  Te \numa ramifcação (brancU).\n/s.      versão  estAvel  é  o  ramo  principal  Te \nTesenvolvimento,  que segue To começo To \nTesenvolvimento até o momento presente.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nM  /,  /// e /s.\nN  //,  /// e /s.\nArea livre\n*R41201726*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q22.png",
-  "caminho_json": "/questoes/2017_ADS/q22.json",
-  "caminho_txt": "/questoes/2017_ADS/q22.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601079"
 }

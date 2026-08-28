@@ -5,17 +5,46 @@
   "paginas": [
     4
   ],
+  "segmentos": [
+    {
+      "pagina": 4,
+      "x0": 25.0,
+      "y0": 85.0,
+      "x1": 611.7199999999999,
+      "y1": 254.65911865234375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q04.txt",
   "largura": 2475,
-  "altura": 746,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 737,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 04\t\nEm uma escola localizada em território quilombola, as turmas do Ensino Médio estavam envolvidas com a festividade de Santo \nAntônio, padroeiro da comunidade. Um professor de História, aproveitando a situação, convidou professores de outras áreas para \nrealizarem atividades pedagógicas sobre a representatividade da festa para o Inventário Cultural Quilombola. Com a mobilização \ndas áreas, foi proposta uma reflexão sobre a autonomia e a identidade escolar presentes no Projeto Político Pedagógico da escola.\nCom base no cenário apresentado, uma intervenção didática que considera a colaboração entre escola e comunidade quilombola \né aquela que\nA\t realiza leituras de textos sobre a festividade para normatizar saberes na escola.\nB\t insere festividades contemporâneas para renovar os princípios educativos da escola.\nC\t promove atividades para reconhecer ritos significativos para a comunidade durante a organização da festa.\nD\t organiza feiras com produtos industrializados para possibilitar a integração da comunidade com os espaços urbanos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "OBJETIVA",
+      "pagina": 4,
+      "x": 64.6063003540039,
+      "y": 94.02613830566406,
+      "x1": 124.34291076660156,
+      "y1": 109.29413604736328,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 04"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nFORMAÇÃO GNRAL MOCNNTN\n4\n2025\nQUNSTÃO 04\t\nNm uma escola localizaTa em território quilombola, as turmas To Nnsino MéTio estavam envolviTas com a festiviTaTe Te Santo \nAntônio, paTroeiro Ta comuniTaTe. Um professor Te História, aproveitanTo a situação, conviTou professores Te outras áreas para \nrealizarem ativiTaTes peTagógicas sobre a representativiTaTe Ta festa para o Cnventário Cultural Quilombola. Com a mobilização \nTas áreas, foi proposta uma reflexão sobre a autonomia e a iTentiTaTe escolar presentes no Projeto Político PeTagógico Ta escola.\nCom base no cenário apresentaTo, uma intervenção TiTática que consiTera a colaboração entre escola e comuniTaTe quilombola \né aquela que\nA\t realiza leituras Te textos sobre a festiviTaTe para normatizar saberes na escola.\nB\t insere festiviTaTes contemporâneas para renovar os princípios eTucativos Ta escola.\nC\t promove ativiTaTes para reconUecer ritos significativos para a comuniTaTe Turante a organização Ta festa.\nM\t organiza feiras com proTutos inTustrializaTos para possibilitar a integração Ta comuniTaTe com os espaços urbanos. \nQUNSTÃO 05\t\nNm uma escola Ta reTe pública municipal, a equipe Te eTucaTores está revisanTo o Projeto Político PeTagógico (PPP) à luz \nTo novo referencial curricular To município, elaboraTo Te acorTo com a Base Nacional Comum Curricular (BNCC). Murante as \nreuniões, surgem Tiferentes percepções entre os professores: alguns compreenTem que esse Tocumento apresenta uma lista Te \nconteúTos obrigatórios a serem cumpriTos; e outros entenTem que ele orienta as Tecisões TiTáticas que Teverão ser aTaptaTas, \nconsiTeranTo o contexto Ta escola e as necessiTaTes Tos estuTantes. Miante Tessa problemática, a coorTenaTora peTagógica \napresenta a perspectiva To currículo molTaTo, segunTo a reflexão Te Gimeno Sacristán (2000): “O currículo molTaTo vai além \nTo currículo prescrito (normativo) e To apresentaTo (materiais TiTáticos), TevenTo ser articulaTo e ressignificaTo Te acorTo \ncom os Tiferentes componentes curriculares, Te moTo a convergir para o contexto local e regional”.\nMiante To exposto, a concepção curricular apresentaTa pela coorTenaTora implica assumir o currículo como\nA\t construção social e o professor como agente meTiaTor no Tesenvolvimento curricular.\nB\t elemento neutro e o professor como agente conTutor Tos referenciais curriculares.\nC\t Tiretriz nacional e o professor como agente executor To currículo apresentaTo.\nM\t proTuto e o professor como agente eTucacional na apropriação curricular.\nÁrea livre\n*R040420254*\nR04042025 - COMPUTACAO.inTb   4\nR04042025 - COMPUTACAO.inTb   4\n21/08/2025   10:06:34\n21/08/2025   10:06:34",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q04.png",
-  "caminho_json": "/questoes/2024_CCP/q04.json",
-  "caminho_txt": "/questoes/2024_CCP/q04.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062287"
 }

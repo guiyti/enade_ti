@@ -1,138 +1,35 @@
-15
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 12
-No  cenArio  Te  uma  economia  globalizaTa,   cresce 
-o  interesse  pelo  empreenTeTorismo  e  pela  busca 
-Te  meios  que  levem  a  uma  maior  proTutiviTaTe,  
-competitiviTaTe  e  inovação.   Os  avanços  Tas 
-tecnologias  Ta  informação  e  comunicação  (T/C) 
-auxiliam esse crescimento.   tualmente,  uma parcela 
-signifcativa  Tos  negocios  tem  uma  TepenTgncia 
-forte Tas T/C.
-Messe moTo,  manter a TisponibiliTaTe Ta informação 
-e  comunicação  e  manter  os  negocios  operanTo,  
-sem  qualquer  paralisação,   é  inTispensAvel.   Porém,  
-é  preciso  analisar  o  que  poTe  ser  afetaTo,   qual  o 
-impacto fnanceiro e quais os impactos na imagem e 
-na reputação Ta empresa,  se caTa um Tos processos 
-Te negocio sofresse uma paralisação por conta Ta T/C.
-   fm  Te  mitigar  possíveis  riscos,   é  recomenTAvel 
-Tocumentar  um  plano  para  eliminar  ou  reTuzir  a 
-possibiliTaTe Te ocorrer cenArios Te inTisponibiliTaTe 
-Ta T/C.  Nessa situação,  é preciso elaborar um
-A plano Te negocio.
-B Tocumento Te visão.
-C plano Te continggncia.
-M plano Te gergncia Te riscos.
-N plano Te gerenciamento Te proũetos.
-ÁRNA LCVRN
-QUNSTÃO 13
-  >ei n. Σ 12. 965,  Te 23 Te abril Te 2014,  originalmente 
-TenominaTa  Marco  Civil  Ta  /nternet,   estabelece 
-princípios,  garantias,  Tireitos e Teveres para o uso 
-Ta  /nternet  no  Brasil,   contribuinTo  principalmente 
-nas relações Te consumo e segurança Ta informação 
-pessoal para com os prestaTores Te serviço Te acesso 
+QUESTÃO 13
+  >ei n. Σ 12. 965,  de 23 de abril de 2014,  originalmente 
+denominada  Darco  Iivil  da  /nternet,   estabelece 
+princípios,  garantias,  direitos e deveres para o uso 
+da  /nternet  no  Brasil,   contribuindo  principalmente 
+nas relações de consumo e segurança da informação 
+pessoal para com os prestadores de serviço de acesso 
 a /nternet.
-BZ S/>.  Lei n.° 12.965,  Te 23 Te abril Te 2014.
-SuponUa  que  o  cliente  Te  TeterminaTo  proveTor 
-Te  acesso  a  /nternet  contrata  um  serviço  com 
-velociTaTe  Te  conexão  Te  5  Megabitsͬ s  (Mbps),  
-mas  tem  continuamente  enfrentaTo  problemas  Te 
-perTa Te conexão e,  aTicionalmente,  não obtém a 
-velociTaTe  contrataTa,   apesar  Te  o  cliente  realizar 
-toTos os pagamentos em Tia.
-Nessa  situação,   avalie  as  seguintes  asserções  e  a 
+BZ ^/>.  Lei n.° 12.965,  de 23 de abril de 2014.
+^uponha  que  o  cliente  de  determinado  provedor 
+de  acesso  a  /nternet  contrata  um  serviço  com 
+velocidade  de  conexão  de  5  Degabitsͬ s  (Dbps),  
+mas  tem  continuamente  enfrentado  problemas  de 
+perda de conexão e,  adicionalmente,  não obtém a 
+velocidade  contratada,   apesar  de  o  cliente  realizar 
+todos os pagamentos em dia.
+Eessa  situação,   avalie  as  seguintes  asserções  e  a 
 relação proposta entre elas.
-/.      manutenção  Ta  qualiTaTe  contrataTa  Ta 
+/.      manutenção  da  qualidade  contratada  da 
 conexão a /nternet é uma obrigação prevista 
-no Marco Civil Ta /nternet.
-PORQUN
-//.   Não  poTe  Uaver  suspensão  Ta  conexão 
-a  /nternet,   salvo  por  Tébito  Tiretamente 
-Tecorrente Te sua utilização.
-  respeito Tessas asserções,  assinale a opção correta.
-A  s asserções / e // são proposições verTaTeiras,  e 
-a // é uma ũustifcativa correta Ta /.
-B  s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C   asserção / é uma proposição verTaTeira,  e a // é 
+no Darco Iivil da /nternet.
+PORQUE
+//.   Eão  pode  haver  suspensão  da  conexão 
+a  /nternet,   salvo  por  débito  diretamente 
+decorrente de sua utilização.
+  respeito dessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verdadeiras,  e 
+a // é uma ũustifcativa correta da /.
+B  s asserções / e // são proposições verdadeiras,  
+mas a // não é uma ũustifcativa correta da /.
+C   asserção / é uma proposição verdadeira,  e a // é 
 uma proposição falsa.
-M   asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N  s asserções / e // são proposições falsas.
-ÁRNA LCVRN
-*R40201415*
-
-16
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 14
-Para  fins  estatísticos,   uma  empresa  precisa 
-armazenar  os  traũetos  que  seus  representantes 
-comerciais  percorrem  entre  pontos  Te  venTa.  
-  importante  que  para  caTa  local  visitaTo  seũam 
-armazenaTos,   além  Ta  informação  To  proprio 
-local,  o local Te origem To representante (ponto 
-Te venTa anterior),  o local Te Testino (ponto Te 
-venTa  posterior),   as  Tistancias  percorriTas  e  os 
-tempos  Te  viagem.   Nsse  proceTimento  permite 
-que estes traũetos possam ser analisaTos,  Te forma 
-rApiTa,  To local Te origem ao local Te Testino,  bem 
-como no sentiTo inverso,  To local Te Testino (final 
-To traũeto) ao local Te origem (início To traũeto).
-O  analista  responsAvel  pelo  sistema  que  utilizarA 
-os  TaTos  armazenaTos  e  proTuzirA  os  relatorios 
-estaơsticos,   proũetou  o  seguinte  esboço  Te  uma 
-classe que representa um ponto Te venTa:
-public class Local {
- private String nome_estabelecimento;
- private String enTereco;
- private Local origem;
- private Local Testino;
-   SULYMPH ÀRMP GLVPMQFLMBRULJHP
-   SULYMPH ÀRMP PHPSRBRULJHP
-}
-  respeito To esboço Ta classe,  avalie as afrmações 
-a seguir.
-/.   O  esboço  acima  representa  uma  lista 
-Tuplamente encaTeaTa.
-//.   Utilizar  um  no  Te  uma  estrutura  Te  TaTos 
-To tipo Arvore Te busca multivias Te grau 3,  
-seria a solução iTeal para o problema porque 
-proviTenciaria  a  economia  Te  recursos  Te 
-memoria e Te Tisco.
-///.     utilização Te uma Arvore Te pesquisa binAria 
-para a solução To problema é normal,  TesTe 
-que o atributo  Te orTenação Ta Arvore seũa 
-Tistancia_origem.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 15
-ConsiTere  o  arranũo  computacional  apresentaTo  a 
-seguir.
-ReTe pública
-MaTos
-pessoais
-Aplicação C
-Aplicação CC
-Base Te
-TaTos CC
-Base Te
-TaTos C
-   característica  funTamental  esperaTa  para  tais 
-sistemas  Te  moTo  a  ter  o  menor  impacto  sobre  a 
-experigncia To usuArio fnal é
-A a transpargncia entre as entiTaTes To sistema.
-B a linguagem Te programação orientaTa a eventos.
-C o UarTǁare com elevaTa taxa Te processamento 
-Te TaTos.
-M a base Te TaTos Teve estar localizaTa no mesmo 
-espaço İsico.
-N a  inTepenTgncia  quanto  a  TisponibiliTaTe  Te 
-conexão a reTe Te comunicação Te TaTos.
-ÁRNA LCVRN
-*R40201416*
+D   asserção / é uma proposição falsa,  e a // é uma 
+proposição verdadeira.
+E  s asserções / e // são proposições falsas.

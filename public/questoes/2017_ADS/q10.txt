@@ -1,62 +1,13 @@
-18
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 09
-Nm uma pesquisa Te satisfação com notas Te 0 a 
-10,  senTo 0 muito insatisfeito e 10 muito satisfeito,  
-uma  empresa  construiu  uma  tabela,   mostraTa  a 
-seguir,   com  o  resumo  Tas  notas  atribuíTas  pelos 
-seus clientes aos serviços recebiTos.
-NOTA
-QUANTCMAMN 
-MN CLCNNTNS
-0
-0
-1
-0
-2
-0
-3
-1
-4
-2
-5
-2
-6
-2
-7
-2
-8
-2
-9
-1
-10
-0
-ConsiTeranTo  essa  situação  e  as  informações 
-apresentaTas,  avalie as afrmações a seguir.
-/.     méTia Tas notas Tos clientes é igual a 6, 0.
-//.     meTiana Tas notas Tos clientes é igual a 6, 0.
-///.   O Tesvio paTrão populacional é menor To 
-que 3, 0.
-/s.   O conũunto Te TaTos é amoTal.
-V. Um cliente que atribuiu nota 3, 0 encontra-se 
-no 1Ǒ quartil.
- correto apenas o que se afrma em
-A  /,  // e ///.
-B  /,  // e s.
-C  /,  /// e /s.
-M  //,  /s e s.
-N  ///,  /s e s.
-Area livre
-QUNSTÃO 10
-  Algebra booleana possui um operaTor unArio ~,  
-conUeciTo como NãO,  e os operaTores binArios *
-e +,  conUeciTos como N e OU,  respectivamente.  
-   tabela  verTaTe  é  utilizaTa  para  valiTar  uma 
-formula  composta  Te  operaTores  Ta  Algebra 
-booleana.      seguir,   é  apresentaTa  a  tabela 
-verTaTe para as proposições p,  q e r Tiante Ta 
+QUESTÃO 10
+  Algebra booleana possui um operador unArio ~,  
+conhecido como EÃK,  e os operadores binArios *
+e +,  conhecidos como E e Kh,  respectivamente.  
+   tabela  verdade  é  utilizada  para  validar  uma 
+formula  composta  de  operadores  da  Algebra 
+booleana.      seguir,   é  apresentada  a  tabela 
+verdade para as proposições p,  q e r diante da 
 formula G,  em que s representa uma proposição 
-verTaTeira e & uma proposição falsa.
+verdadeira e & uma proposição falsa.
 p
 q
 r
@@ -93,14 +44,12 @@ F
 F
 F
 V
-ConsiTeranTo  as  informações  contiTas  na  tabela 
-acima e a orTem Te preceTgncia Tos operaTores 
+Ionsiderando  as  informações  contidas  na  tabela 
+acima e a ordem de precedgncia dos operadores 
 booleanos,   a  formula  '  possui  a  mesma  tabela 
-verTaTe Ta proposição
+verdade da proposição
 A p + ~q * r.
 B p + q * ~r.
 C ~p + q * r.
-M ~p + ~q * r.
-N ~p + q * ~r.
-Area livre
-*R41201718*
+D ~p + ~q * r.
+E ~p + q * ~r.

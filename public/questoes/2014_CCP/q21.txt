@@ -1,44 +1,41 @@
-19
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 21
-O fragmento Te coTigo a seguir,  escrito em :ava,  Tescreve Tuas implementações Tiferentes para um lock.
- mbas possuem um métoTo TenominaTo acquire e um métoTo TenominaTo release.
+QUESTÃO 21
+K fragmento de codigo a seguir,  escrito em :ava,  descreve duas implementações diferentes para um lock.
+ mbas possuem um método denominado acquire e um método denominado release.
 class LockA {
  private int turn = 0
- public voiT acquire(int tiT) {
-      wUile (turn == (1 - tiT));              
+ public void acquire(int tid) {
+      while (turn == (1 - tid));              
  }
- public voiT release(int tiT) {
- turn = (1 - tiT);
+ public void release(int tid) {
+ turn = (1 - tid);
  }
 }
  class LockB {
- public voiT acquire() {
- TisableCnterrupts();
+ public void acquire() {
+ disableInterrupts();
  }
- public voiT release() {
- enableCnterrupts();
+ public void release() {
+ enableInterrupts();
  }
  }
-ConsiTera-se que:
-ͻ  as Tuas implementações Te lock são utilizaTas por aplicações com,  no mAximo,  Tuas tUreaTs;
-ͻ  uma aplicação que utilizar qualquer uma Testas implementações invocarA o métoTo acquire antes Te 
-entrar em sua seção crítica e o métoTo release apos Teixar a seção crítica͖
-ͻ  tanto o métoTo acquire quanto o métoTo release são operações atƀmicas nas Tuas implementações 
-Te lock͖
-ͻ  para a implementação que requer um tiT (tUreaT iT),  assume-se que ele sempre serA 0 ou 1͖
-ͻ  os métoTos TisableCnterrupts e enableCnterrupts são utilizaTos para Tesabilitar e Uabilitar 
-respectivamente as interrupções To processaTor onTe o coTigo for executaTo.  O coTigo Tesses Tois 
-métoTos foi TesenvolviTo para ser utilizaTo em uma mAquina com um ou Tois processaTores.
-  partir Tas informações apresentaTas,  avalie as afrmações a seguir.
-/.     implementação Te LockA garante progresso.
-//.     implementação Te LockB garante progresso.
-///.     implementação Te LockA garante exclusão mutua.
-/s.     implementação Te LockB garante exclusão mutua.
+Ionsidera-se que:
+ͻ  as duas implementações de lock são utilizadas por aplicações com,  no mAximo,  duas threads;
+ͻ  uma aplicação que utilizar qualquer uma destas implementações invocarA o método acquire antes de 
+entrar em sua seção crítica e o método release apos deixar a seção crítica͖
+ͻ  tanto o método acquire quanto o método release são operações atƀmicas nas duas implementações 
+de lock͖
+ͻ  para a implementação que requer um tid (thread id),  assume-se que ele sempre serA 0 ou 1͖
+ͻ  os métodos disableInterrupts e enableInterrupts são utilizados para desabilitar e habilitar 
+respectivamente as interrupções do processador onde o codigo for executado.  K codigo desses dois 
+métodos foi desenvolvido para ser utilizado em uma mAquina com um ou dois processadores.
+  partir das informações apresentadas,  avalie as afrmações a seguir.
+/.     implementação de LockA garante progresso.
+//.     implementação de LockB garante progresso.
+///.     implementação de LockA garante exclusão mutua.
+/s.     implementação de LockB garante exclusão mutua.
  correto apenas o que se afrma em
 A / e //.
 B // e ///.
 C /// e /s.
-M /,  // e /s.
-N /,  /// e /s.
-*R03201419*
+D /,  // e /s.
+E /,  /// e /s.

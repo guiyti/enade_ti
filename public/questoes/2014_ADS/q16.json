@@ -5,17 +5,46 @@
   "paginas": [
     17
   ],
-  "largura": 1223,
-  "altura": 2413,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 311.15999999999997,
+      "y1": 639.41796875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q16.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q16.txt",
+  "largura": 1222,
+  "altura": 2288,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 16\nhma \nfunção \né \ndenominada \nrecursiva \nquando \nela  é  chamada  novamente  dentro  de  seu  corpo.  \n/mplementações  recursivas  tendem  a  ser  menos \nefcientes,   porém  facilitam  a  codifcação  e  seu \nentendimento.\nIE>E^,  t.͖  IEZYhE/Z ,  Z.͖  Z E'E>,  :.  >.  Introdução a estruturas de \ndados.  Zio de :aneiro,  2004 (adaptado).\nIonsidere a função recursiva f(),  a qual foi escrita \nem linguagem I:\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\n^uponha  que  a  função  f()  é  acionada  com  os \nseguintes parametros de entrada:\nf({2,-4,7,0,-1,4},6);\nEesse caso,  o valor de retorno da função f() serA\nA 8.\nB 10.\nC 13.\nD 15.\nE 18.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software"
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 16,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 16"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "17\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 16\nUma \nfunção \né \nTenominaTa \nrecursiva \nquanTo \nela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  \n/mplementações  recursivas  tenTem  a  ser  menos \nefcientes,   porém  facilitam  a  coTifcação  e  seu \nentenTimento.\nCN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te \nTaTos.  Zio Te :aneiro,  2004 (aTaptaTo).\nConsiTere a função recursiva f(),  a qual foi escrita \nem linguagem C:\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\nSuponUa  que  a  função  f()  é  acionaTa  com  os \nseguintes parametros Te entraTa:\nf({2,-4,7,0,-1,4},6);\nNesse caso,  o valor Te retorno Ta função f() serA\nA 8.\nB 10.\nC 13.\nM 15.\nN 18.\nÁRNA LCVRN\nQUNSTÃO 17\nCasos Te uso poTem ser organizaTos agrupanTo-os \nem pacotes To mesmo moTo como são organizaTas \nas  classes.   Também  poTem  ser  organizaTos  pela \nespecifcação Te relacionamentos Te generalização,  \ninclusão e extensão,  existentes entre eles.\nJACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo \nUsuário. 1 eT. Campus, 2006 (aTaptaTo).\nConsiTeranTo  os  relacionamentos  existentes  entre \nos casos Te uso,  avalie as afrmações a seguir.\n/.   Para casos Te uso,  a generalização signifca que \no caso Te uso flUo UerTa o comportamento e \no signifcaTo To caso Te uso pai e no caso Te \nuso flUo TeverA acrescentar ou sobrescrever \no comportamento Te seu pai.\n//.   Um relacionamento Te inclusão entre casos Te \nuso signifca que o caso Te uso base incorpora \nexplicitamente  o  comportamento  Te  outro \ncaso Te uso em uma localização especifcaTa.  \nO  caso  Te  uso  base  poTerA  permanecer \nisolaTo,   mas,   sob  certas  conTições,   seu \ncomportamento  poTerA  ser  incluíTo  pelo \ncomportamento Te outro caso Te uso.\n///.   Um relacionamento estenTiTo entre casos Te \nuso signifca que o caso Te uso base incorpora \nimplicitamente  o  comportamento  Te  outro \ncaso  Te  uso  em  um  local  especifcaTo \ninTiretamente  pelo  caso  Te  uso  estenTiTo.  \nO  caso  Te  uso  estenTiTo  nunca  permanece \nisolaTo,  mas é apenas instanciaTo como parte \nTe alguma base maior que o estenTe.\n/s.   Um  relacionamento  estenTiTo  é  utilizaTo \npara a moTelagem Ta parte Te um caso Te \nuso  que  o  usuArio  poTerA  consiTerar  como \num  comportamento  opcional  To  sistema  e \npara a moTelagem Te um subŇuxo separaTo,  \nque é executaTo somente sob TeterminaTas \nconTições.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nM /,  /// e /s.\nN //,  /// e /s.\n*R40201417*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q16.png",
-  "caminho_json": "/questoes/2014_ADS/q16.json",
-  "caminho_txt": "/questoes/2014_ADS/q16.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120027"
 }

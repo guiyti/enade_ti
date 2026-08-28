@@ -1,118 +1,67 @@
-CCÊNCCA MA COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-25
-QUNSTÃO 38  
-É comum que linguagens Te programação permitam 
-a Tescrição textual Te constantes em UexaTecimal, 
-além Te Tescrições na base Tez. O compilaTor para 
+QUESTÃO 38  
+É comum que linguagens de programação permitam 
+a descrição textual de constantes em hexadecimal, 
+além de descrições na base dez. O compilador para 
 uma linguagem que suporte constantes inteiras em 
-UexaTecimal precisa Tiferenciar inteiros em base Tez Tos 
-números UexaTecimais que não usam os Tígitos Te 
+hexadecimal precisa diferenciar inteiros em base dez dos 
+números hexadecimais que não usam os dígitos de 
 a 
-. Por exemplo, a sequência Te caracteres
+. Por exemplo, a sequência de caracteres
 g
-poTe ser 
-interpretaTa como Toze em base Tez ou como Tezoito em 
-UexaTecimal. Uma maneira Te resolver esse problema 
-é exiginTo que as constantes em UexaTecimal terminem 
+pode ser 
+interpretada como doze em base dez ou como dezoito em 
+hexadecimal. Uma maneira de resolver esse problema 
+é exigindo que as constantes em hexadecimal terminem 
 com o caracter “
-”. Assim, não Uá ambiguiTaTe, por 
-exemplo, no tratamento Tas sequências
+”. Assim, não há ambiguidade, por 
+exemplo, no tratamento das sequências
  e 
 g
 .
-A gramática a seguir Tescreve números inteiros, 
+A gramática a seguir descreve números inteiros, 
 possivelmente com o símbolo “
-” após os Tígitos. Os não 
+” após os dígitos. Os não 
 terminais são 
 , 
 , 
 e os terminais são 
 e
 , em que 
-T representa um Tígito.
+d representa um dígito.
+M → E
 M → N
-M → N
-N → N
-N → NT
-N → T
-Murante a construção Te um autômato LR para essa 
-gramática, os seguintes estaTos são Tefi niTos:
+E → N
+N → Nd
+N → d
+Durante a construção de um autômato LR para essa 
+gramática, os seguintes estados são defi nidos:
 e0:
 M´ → ·M
+M → ·E
 M → ·N
-M → ·N
-N → ·N
-N → ·NT
-N → ·T
+E → ·N
+N → ·Nd
+N → ·d
 e1(e0, N):
 M → N ·
 M → N ·
-M → N · T
-A respeito Tessa gramática, analise as seguintes 
+M → N · d
+A respeito dessa gramática, analise as seguintes 
 asserções e a relação proposta entre elas.
-A gramática Tescrita é To tipo LR(0).
-PORQUN
-É possível construir um autômato LR(0), Teterminístico, 
-cujos estaTos incluem 
+A gramática descrita é do tipo LR(0).
+PORQUE
+É possível construir um autômato LR(0), determinístico, 
+cujos estados incluem 
 e 
-acima Tescritos.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justifi cativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justifi cativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
+acima descritos.
+Acerca dessas asserções, assinale a opção correta.
+A   As duas asserções são proposições verdadeiras, e a 
+segunda é uma justifi cativa correta da primeira.
+B   As duas asserções são proposições verdadeiras, mas 
+a segunda não é uma justifi cativa correta da primeira.
+C   A primeira asserção é uma proposição verdadeira, e a 
+segunda, uma proposição falsa.
+D   A primeira asserção é uma proposição falsa, e a 
+segunda, uma proposição verdadeira.
+E   Tanto a primeira quanto a segunda asserções são 
 proposições falsas.
-QUNSTÃO 39  
-O conceito Te Tipo Te MaTos Abstrato (TMA) é popular em 
-linguagens Te programação. Nesse contexto, analise as 
-afi rmativas a seguir.
-C. 
-A especifi cação Te um TMA é composta Tas 
-operações aplicáveis a ele, Ta sua representação 
-interna, e Tas implementações Tas operações.
-CC. Mois mecanismos utilizáveis na implementação Te 
-um TMA em programas orientaTos a objetos são a 
-composição e a Uerança.
-CCC. Se S é um subtipo Te outro T, então entiTaTes To 
-tipo S em um programa poTem ser substituíTas 
-por entiTaTes To tipo T, sem alterar a corretuTe 
-Tesse programa.
-CV. O encapsulamento em linguagens Te programação 
-orientaTas a objetos é um efeito positivo To uso 
-Te TMA.
-É correto apenas o que se afi rma em
-A  C.
-B  CC.
-C  C e CCC.
-M  CC e CV.
-N  CCC e CV.
-QUNSTÃO 40  
-ConsiTere que a fi gura abaixo corresponTe ao cenário Te 
-um jogo Te computaTor. Nsse cenário é TiviTiTo em 24 
-quaTraTos e a movimentação Te um personagem entre 
-caTa quaTraTo tem custo 1, senTo permitiTa apenas na 
-Uorizontal ou na vertical. Os quaTraTos marcaTos em preto 
-corresponTem a regiões para as quais os personagens 
-não poTem se mover.
-Nesse cenário, o algoritmo A* vai ser usaTo para Teterminar 
-o caminUo Te custo mínimo pelo qual um personagem 
-Teve se mover TesTe o quaTraTo verTe até o quaTraTo 
-vermelUo. ConsiTere que, no A*, o custo f(x) = g(x) + U(x) 
-Te TeterminaTo nó x é computaTo somanTo-se o custo 
-real g(x) ao custo Ta função Ueurística U(x) e que a função 
-Ueurística utilizaTa é a Tistância Te ManUattan (soma Tas 
-Tistâncias Uorizontal e vertical Te x até o objetivo). Messe 
-moTo, o custo f(x) To quaTraTo verTe é igual a
-A  2.
-B  3.
-C  5.
-M  7.
-N  9.
-*A13201125*

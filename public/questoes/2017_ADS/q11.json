@@ -5,17 +5,46 @@
   "paginas": [
     19
   ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 513.5470581054688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q11.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q11.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1850,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 11\nEo  desenvolvimento  de  um  sistema  de  automação  para  um  clube  recreativo,   serão  implementados \nmodulos para o departamento administrativo,  tais como os modulos de cadastro de associados e de \ngestão  de  mensalidades.   Ea  construção  desses  modulos,   algumas  regras  de  negocio  serão  aplicadas \nconforme o diagrama abaixo.\nTipo_Associado\nAssociado\nMensalidade\n- codigo : int\n- descricao : string\n- valorMensalidade : currency\n- codigo : int\n- nome : string\n- endereco : string\n- telefone : string\n- codigo : int\n- anomesreferencia : string\n- valormensalidade : currency\n- datavencimento : date\n- valorpago : currency\n- datapagamento : date\n1\n1\n0..*\n1..*\nIom base nesse diagrama,  avalie as afrmações a seguir.\n/.   ,averA somente 12 mensalidades para cada associado,  ou seũa,  as mensalidades do associado não \npoderão ultrapassar os 12 meses do ano.\n//.   Eão existem associados sem mensalidades,  nem mensalidades sem associado a elas relacionado.\n///.    lterando-se o valor da mensalidade defnido para cada tipo de associado cadastrado,  o sistema \nautomaticamente altera os valores das mensalidades geradas anteriormente.\n/s.   Woderão existir tipos de associados que não terão nenhum associado relacionado a eles.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nD  /,  /// e /s.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 11,
+      "tipo": "OBJETIVA",
+      "pagina": 19,
+      "x": 60.65340042114258,
+      "y": 88.699951171875,
+      "x1": 123.10620880126953,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 11"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "19\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 11\nNo  Tesenvolvimento  Te  um  sistema  Te  automação  para  um  clube  recreativo,   serão  implementaTos \nmoTulos para o Tepartamento aTministrativo,  tais como os moTulos Te caTastro Te associaTos e Te \ngestão  Te  mensaliTaTes.   Na  construção  Tesses  moTulos,   algumas  regras  Te  negocio  serão  aplicaTas \nconforme o Tiagrama abaixo.\nTipo_AssociaTo\nAssociaTo\nMensaliTaTe\n- coTigo : int\n- Tescricao : string\n- valorMensaliTaTe : currency\n- coTigo : int\n- nome : string\n- enTereco : string\n- telefone : string\n- coTigo : int\n- anomesreferencia : string\n- valormensaliTaTe : currency\n- Tatavencimento : Tate\n- valorpago : currency\n- Tatapagamento : Tate\n1\n1\n0..*\n1..*\nCom base nesse Tiagrama,  avalie as afrmações a seguir.\n/.   ,averA somente 12 mensaliTaTes para caTa associaTo,  ou seũa,  as mensaliTaTes To associaTo não \npoTerão ultrapassar os 12 meses To ano.\n//.   Não existem associaTos sem mensaliTaTes,  nem mensaliTaTes sem associaTo a elas relacionaTo.\n///.    lteranTo-se o valor Ta mensaliTaTe TefniTo para caTa tipo Te associaTo caTastraTo,  o sistema \nautomaticamente altera os valores Tas mensaliTaTes geraTas anteriormente.\n/s.   PoTerão existir tipos Te associaTos que não terão nenUum associaTo relacionaTo a eles.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nM  /,  /// e /s.\nN  //,  /// e /s.\nArea livre\n*R41201719*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q11.png",
-  "caminho_json": "/questoes/2017_ADS/q11.json",
-  "caminho_txt": "/questoes/2017_ADS/q11.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.601028"
 }

@@ -1,95 +1,42 @@
-30
-TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
-QUNSTÃO 30
-Uma  empresa  Te  méTio  porte  sofreu  um 
-ataque Uacker  e  alguns  Te  seus  sistemas  foram 
-comprometiTos.   Mepois  Te  alguns  Tias,   a  equipe 
-Te  Tecnologia  Ta  /nformação  (T/)  Tessa  empresa 
-conseguiu  reestabelecer  os  sistemas,   tenTo  a 
-gestora Te T/ apresentaTo um plano para a Tiretoria 
-com o intuito Te criar um setor especializaTo em 
-segurança Ta informação para evitar novos ataques.  
- pos a anAlise Tos riscos e beneİcios To plano,  a 
-Tiretoria aprovou a implantação To referiTo setor 
-Te segurança Ta informação.
-  partir To cenArio Tescrito,  avalie as asserções a 
-seguir e a relação proposta entre elas.
-/.      implantação  Te  um  setor  Te  segurança 
-Ta 
-informação 
-estA 
-associaTa 
-ao 
-Tesenvolvimento  Te  uma  política  Te 
-segurança Ta informação,  que é um conũunto 
-Te  normas,   métoTos  e  proceTimentos 
-utilizaTos para a manutenção Ta segurança 
-Ta  informação,   TevenTo  ser  formalizaTa  e 
-TivulgaTa a toTos os usuArios.
-POZYUN
-//.     implantação Te um sistema Te gestão Ta 
-segurança  Ta  informação  (S'S/)  preserva 
-a  confTencialiTaTe,   a  integriTaTe  e  a 
-TisponibiliTaTe  Ta  informação,   por  meio 
-Ta  aplicação  Te  um  processo  Te  gestão 
-Te  riscos,   e  fornece,   para  as  partes 
-interessaTas,   a  confança  Te  que  os  riscos 
-são  aTequaTamente  gerenciaTos,   senTo 
-importante que o S'S/ esteũa integraTo aos 
-processos Ta organização e a sua estrutura 
-global.
-   respeito  Tessas  asserções,   assinale  a  opção 
-correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
-é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-QUNSTÃO 31
-   T/  serTe  estA  associaTa  a  utilização  efciente 
-Tos recursos organizacionais e a minimização Tos 
-efeitos  nocivos  ao  meio  ambiente  ocasionaTos 
-pelo  uso  Ta  Tecnologia  Ta  /nformação  (T/).  
-Nssas  tecnologias  são  feitas  Te  proTutos 
-químicos,   metais  pesaTos,   materiais  sintéticos 
-etc.   ConsiTeranTo  que  existirão  10  bilUões  Te 
+QUESTÃO 31
+   d/  serde  estA  associada  a  utilização  efciente 
+dos recursos organizacionais e a minimização dos 
+efeitos  nocivos  ao  meio  ambiente  ocasionados 
+pelo  uso  da  decnologia  da  /nformação  (d/).  
+Essas  tecnologias  são  feitas  de  produtos 
+químicos,   metais  pesados,   materiais  sintéticos 
+etc.   Ionsiderando  que  existirão  10  bilhões  de 
 pessoas no nosso planeta em 2050,  teremos que 
-gerir  tanto  o  impacto  ambiental  Ta  tecnologia,  
-quanto usar esta mesma tecnologia para aũuTar 
-a  gerenciar  o  impacto  Ta  espécie  Uumana  no 
+gerir  tanto  o  impacto  ambiental  da  tecnologia,  
+quanto usar esta mesma tecnologia para aũudar 
+a  gerenciar  o  impacto  da  espécie  humana  no 
 planeta.
-Misponível em:  фUtp:ͬͬ
+Disponível em:  фhtp:ͬͬ
 ǁǁǁ. sustent. com. brх.  
- cesso em:  21 ũul.  2017 (aTaptaTo).
-   partir  Tessas  informações  e  consiTeranTo  o 
-conceito Te T/ serTe,  avalie as afrmações a seguir.
-/.   Um  Tos  pilares  Ta  T/  serTe  é  a  busca  Te 
-conscientização  To  usuArio  na  aToção 
-Te  ações  sustentAveis,   tais  como:   reTuzir 
-impressões  inuteis  economizanTo  papel  e 
-tintaͬ toner  e  evitar  o  envio  TesnecessArio 
-Te e-mails reTuzinTo o gasto Te energia To 
-sistema e To receptor.
-//.   Na linUa Te efcigncia energética estão os Tata 
-centers verTes,  nos quais a virtualização Te 
-serviTores poTe ser utilizaTa para fazer com 
-que uma unica mAquina İsica,  consiTeranTo 
-sua  capaciTaTe  Te  processamento,   emule 
-Tiversas mAquinas.
-///.   Um  equívoco  comum  é  consiTerar  ações 
-relativas ao lixo eletrƀnico como ações Te T/ 
-serTe  a  serem  aTotaTas  pela  organização,  
-pois  essas  questões  estão  fora  Te  sua 
+ cesso em:  21 ũul.  2017 (adaptado).
+   partir  dessas  informações  e  considerando  o 
+conceito de d/ serde,  avalie as afrmações a seguir.
+/.   hm  dos  pilares  da  d/  serde  é  a  busca  de 
+conscientização  do  usuArio  na  adoção 
+de  ações  sustentAveis,   tais  como:   reduzir 
+impressões  inuteis  economizando  papel  e 
+tintaͬ toner  e  evitar  o  envio  desnecessArio 
+de e-mails reduzindo o gasto de energia do 
+sistema e do receptor.
+//.   Ea linha de efcigncia energética estão os data 
+centers verdes,  nos quais a virtualização de 
+servidores pode ser utilizada para fazer com 
+que uma unica mAquina İsica,  considerando 
+sua  capacidade  de  processamento,   emule 
+diversas mAquinas.
+///.   hm  equívoco  comum  é  considerar  ações 
+relativas ao lixo eletrƀnico como ações de d/ 
+serde  a  serem  adotadas  pela  organização,  
+pois  essas  questões  estão  fora  de  sua 
 governança.
  correto o que se afrma em
 A  /,  apenas.
 B  ///,  apenas.
 C  / e //,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-Area livre
-*R43201730*
+D  // e ///,  apenas.
+E  /,  // e ///.

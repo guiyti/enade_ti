@@ -6,17 +6,54 @@
     26,
     27
   ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.5902099609375,
+      "coluna": 0
+    },
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 311.91058349609375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_CCP/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_CCP/q17.txt",
   "largura": 2185,
-  "altura": 3720,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 3828,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 17\t\nDurante parte do tempo, um processo está ocupado realizando computações internas e outras coisas \nque não levam a condições de corrida. No entanto, às vezes, um processo tem de acessar uma memória \ncompartilhada ou arquivos, ou realizar outras tarefas críticas que podem levar a corridas. Essa parte do \nprograma onde a memória compartilhada é acessada é chamada de região crítica ou seção crítica. Se \nconseguíssemos arranjar as coisas de maneira que dois processos jamais estivessem em suas regiões \ncríticas ao mesmo tempo, poderíamos evitar as corridas. Embora essa exigência evite as condições \nde corrida, ela não é suficiente para garantir que processos em paralelo cooperem de modo correto e \neficiente usando dados compartilhados. Precisamos que quatro condições se mantenham para chegar a \numa boa solução.\n1. Dois processos jamais podem simultaneamente estar dentro de suas regiões críticas.\n2. Nenhuma suposição pode ser feita a respeito de velocidades ou de número de CPUs.\n3. Nenhum processo executando fora de sua região crítica pode bloquear qualquer processo.\n4. Nenhum processo deve ser obrigado a esperar eternamente para entrar em sua região crítica.\nEm um sentido abstrato, o comportamento que queremos é mostrado na figura a seguir.\nFigura - Exclusão mútua usando regiões críticas\nTANENBAUM, A. S. Sistemas Operacionais Modernos. 4. ed. Versão para Biblioteca Virtual Pearson. \nSão Paulo: Pearson Education do Brasil, p. 83, 2016 (adaptado).\nA entra na região crítica\nProcesso A\nProcesso B\nT1\nT2\nT3\nT4\nB bloqueado\n\nB tenta entrar\nna região\ncrítica\nB entra na\nregião crítica\nB deixa a\nregião crítica\nTempo\nA deixa a região crítica\n\nConsiderando o texto e a figura apresentados, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t Em algumas situações, a exclusão mútua pode ser obtida por meio da desabilitação da interrupção \ncontrolada pelo Sistema Operacional, não sendo permitido que o seu controle seja feito pelo usuário.\nPORQUE\nII.\t A desabilitação da interrupção é uma técnica que pode impedir que o processador que está \nexecutando um processo em sua região crítica seja interrompido para executar outro código, sendo \nmais eficiente em sistemas de multiprocessadores devido a quantidade de processos concorrentes.\nA respeito dessas asserções, assinale a opção correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Sistemas Operacionais"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.93578338623047,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "26\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 17\t\nMurante parte To tempo, um processo está ocupaTo realizanTo computações internas e outras coisas \nque não levam a conTições Te corriTa. No entanto, às vezes, um processo tem Te acessar uma memória \ncompartilUaTa ou arquivos, ou realizar outras tarefas críticas que poTem levar a corriTas. Nssa parte To \nprograma onTe a memória compartilUaTa é acessaTa é cUamaTa Te região crítica ou seção crítica. Se \nconseguíssemos arranjar as coisas Te maneira que Tois processos jamais estivessem em suas regiões \ncríticas ao mesmo tempo, poTeríamos evitar as corriTas. Nmbora essa exigência evite as conTições \nTe corriTa, ela não é suficiente para garantir que processos em paralelo cooperem Te moTo correto e \neficiente usanTo TaTos compartilUaTos. Precisamos que quatro conTições se mantenUam para cUegar a \numa boa solução.\n1. Mois processos jamais poTem simultaneamente estar Tentro Te suas regiões críticas.\n2. NenUuma suposição poTe ser feita a respeito Te velociTaTes ou Te número Te CPUs.\n3. NenUum processo executanTo fora Te sua região crítica poTe bloquear qualquer processo.\n4. NenUum processo Teve ser obrigaTo a esperar eternamente para entrar em sua região crítica.\nNm um sentiTo abstrato, o comportamento que queremos é mostraTo na figura a seguir.\nFigura - Nxclusão mútua usanTo regiões críticas\nTANNNBAUM, A. S. Sistemas Operacionais MoTernos. 4. eT. Versão para Biblioteca Virtual Pearson. \nSão Paulo: Pearson NTucation To Brasil, p. 83, 2016 (aTaptaTo).\nA entra na região crítica\nProcesso A\nProcesso B\nT1\nT2\nT3\nT4\nB bloqueaTo\n\nB tenta entrar\nna região\ncrítica\nB entra na\nregião crítica\nB Teixa a\nregião crítica\nTempo\nA Teixa a região crítica\n*R02202126*\n\n27\nCCÊNCCA MA COMPUTAÇÃO\nConsiTeranTo o texto e a figura apresentaTos, avalie as asserções a seguir e a relação proposta entre elas.\nC.\t Nm algumas situações, a exclusão mútua poTe ser obtiTa por meio Ta Tesabilitação Ta interrupção \ncontrolaTa pelo Sistema Operacional, não senTo permitiTo que o seu controle seja feito pelo usuário.\nPORQUN\nCC.\t A Tesabilitação Ta interrupção é uma técnica que poTe impeTir que o processaTor que está \nexecutanTo um processo em sua região crítica seja interrompiTo para executar outro cóTigo, senTo \nmais eficiente em sistemas Te multiprocessaTores TeviTo a quantiTaTe Te processos concorrentes.\nA respeito Tessas asserções, assinale a opção correta.\nA\t As asserções C e CC são proposições verTaTeiras, e a CC é uma justificativa correta Ta C.\nB\t As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justificativa correta Ta C.\nC\t A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.\nM\t A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.\nN\t As asserções C e CC são proposições falsas.\nQUNSTÃO 18\t\nAs técnicas Te aprenTizaTo Te máquinas empregam um princípio Te inferência TenominaTo inTução, \nno qual é possível obter conclusões genéricas a partir Te um conjunto particular Te exemplos. \nNstas técnicas Te aprenTizaTos inTutivos poTem ser TiviTiTas em Tois principais tipos: os supervisionaTos \ne os não supervisionaTos. No aprenTizaTo supervisionaTo é forneciTa uma referência To objetivo a ser \nalcançaTo, isto é, um treinamento com o conUecimento To ambiente. Miferentemente To aprenTizaTo \nsupervisionaTo, o não supervisionaTo não utiliza referências, ou seja, não ocorre um treinamento com o \nconUecimento To ambiente.\nPNLLUCCC P. R. S. et al. Utilização Te técnicas Te aprenTizaTo Te máquina no reconUecimento Te entiTaTes nomeaTas no português. \nBelo Horizonte. N-xacta, v. 4, n. 1, p. 73-81, 2011 (aTaptaTo).\nConsiTeranTo as informações To texto, avalie as afirmações a seguir.\nC.\t A regressão linear é um exemplo Te moTelo baseaTo no aprenTizaTo supervisionaTo.\nCC.\t A Tiferença entre a saíTa TesejaTa e a saíTa geraTa é o valor To erro Te um aprenTizaTo não \nsupervisionaTo.\nCCC.\t O aprenTizaTo não supervisionaTo é mais utilizaTo quanTo o entenTimento Tos TaTos é feito por \nmeio Te reconUecimento Te paTrões.\nCV.\t O aprenTizaTo supervisionaTo é capaz Te tomar Tecisões precisas ao receber novos TaTos a \npartir Te um treinamento com TaTos conUeciTos.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t CC e CCC.\nC\t CC e CV.\nM\t C, CC e CV.\nN\t C, CCC e CV.\n*R02202127*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_CCP/q17.png",
-  "caminho_json": "/questoes/2021_CCP/q17.json",
-  "caminho_txt": "/questoes/2021_CCP/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:00.187739"
 }

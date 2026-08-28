@@ -1,27 +1,24 @@
-30
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 32
-O uso Te agentes inteligentes permite a resolução Te problemas complexos por meio To uso Te Ueurísticas 
-implementaTas Te forma TistribuíTa.  Na literatura,  o MunTo To  spiraTor Te Po (sacuum-Cleaner torlT) 
-é um problema fcơcio que envolve o emprego e uso Te agentes no ensino Tos conceitos relacionaTos a 
-/nteliggncia  rtifcial.  Nsse munTo fcơcio é composto por um aspiraTor Te po e Tois ou mais ambientes,  
-conforme ilustra a fgura a seguir.  Os ambientes poTem estar suũos ou limpos.
-Nesse munTo,  um agente representa o aspiraTor Te po equipaTo com Tois sensores:  um Te localização e 
-outro para a iTentifcação Te suũeira.  O agente poTe executar as seguintes operações:
+QUESTÃO 32
+K uso de agentes inteligentes permite a resolução de problemas complexos por meio do uso de heurísticas 
+implementadas de forma distribuída.  Ea literatura,  o Dundo do  spirador de Wo (sacuum-Ileaner torld) 
+é um problema fcơcio que envolve o emprego e uso de agentes no ensino dos conceitos relacionados a 
+/nteliggncia  rtifcial.  Esse mundo fcơcio é composto por um aspirador de po e dois ou mais ambientes,  
+conforme ilustra a fgura a seguir.  Ks ambientes podem estar suũos ou limpos.
+Eesse mundo,  um agente representa o aspirador de po equipado com dois sensores:  um de localização e 
+outro para a identifcação de suũeira.  K agente pode executar as seguintes operações:
 ͻ  verifcar se o ambiente atual estA suũo͖
 ͻ  limpar o ambiente͖
-ͻ  fazer naTa͖
-ͻ  mover-se para o proximo ambiente,  utilizanTo um Tos comanTos:  Tireita,  esquerTa,  frente 
+ͻ  fazer nada͖
+ͻ  mover-se para o proximo ambiente,  utilizando um dos comandos:  direita,  esquerda,  frente 
 ou trAs.
-Zussell,  S.  :.͖  Norvig,  P.  rtifcial intelligence: a moTern approacU.  3.  eT.  Neǁ :erseǇ:  Pearson,  2009 (aTaptaTo).
-Com relação aos conceitos envolvenTo sistemas multiagentes e o problema To MunTo To  spiraTor Te 
-Po apresentaTo,  assinale a opção correta.
-A  MefniTas as localizações To agente e Ta suũeira como elementos unicos Te um estaTo,  no cenArio Ta 
-fgura,  UA 22 с 4 estaTos possíveis para avaliação.
-B  O  comportamento  Te  um  agente  é  TefniTo  por  uma  ou  mais  funções  que  mapeiam  uma  TaTa 
-sequgncia percebiTa para uma ação TefniTa.
-C    sequgncia percebiTa Te um agente refere-se ao Uistorico To resultaTo Te toTas as ações tomaTas 
+Zussell,  ^.  :.͖  Eorvig,  W.  rtifcial intelligence: a modern approach.  3.  ed.  Eeǁ :erseǇ:  Wearson,  2009 (adaptado).
+Iom relação aos conceitos envolvendo sistemas multiagentes e o problema do Dundo do  spirador de 
+Wo apresentado,  assinale a opção correta.
+A  Defnidas as localizações do agente e da suũeira como elementos unicos de um estado,  no cenArio da 
+fgura,  hA 22 с 4 estados possíveis para avaliação.
+B  K  comportamento  de  um  agente  é  defnido  por  uma  ou  mais  funções  que  mapeiam  uma  dada 
+sequgncia percebida para uma ação defnida.
+C    sequgncia percebida de um agente refere-se ao historico do resultado de todas as ações tomadas 
 pelo agente até o presente momento.
-M    percepção Te um agente refere-se aos resultaTos Tas ações tomaTas por ele.
-N    opção " fazer naTa"  é uma percepção vAliTa To agente.
-*R03201730*
+D    percepção de um agente refere-se aos resultados das ações tomadas por ele.
+E    opção " fazer nada"  é uma percepção vAlida do agente.

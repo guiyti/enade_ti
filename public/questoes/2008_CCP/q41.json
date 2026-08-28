@@ -5,18 +5,56 @@
   "paginas": [
     18
   ],
-  "largura": 2302,
-  "altura": 113,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 156.28665161132812,
+      "x1": 294.59999999999997,
+      "y1": 779.6522827148438,
+      "coluna": 1
+    },
+    {
+      "pagina": 18,
+      "x0": 300.59999999999997,
+      "y0": 74.5,
+      "x1": 570.1999999999999,
+      "y1": 160.28671264648438,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q41.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q41.txt",
+  "largura": 1154,
+  "altura": 3000,
+  "confianca": 1.0,
+  "texto_completo": "G\nQUESTÃO 41\nEm ambientes de manufatura integrada, utilizam-\nse computadores para conectar processos\nconcorrentes separados fisicamente, isto é, um\nsistema \nintegrado \nrequer \ndois \nou \nmais\ncomputadores \nconectados \npara \ntrocar\ninformações. Quando integrados, os processos\npodem compartilhar informações e iniciar ações,\npermitindo decisões mais rápidas com menos\nerros. A automação também permite a execução\nde processos de manufatura sem necessidade\nde intervenções. Um exemplo simples pode ser\num controlador de um robô e um controlador\nlógico programável trabalhando juntos em uma\núnica máquina. Um exemplo complexo é uma\nplanta \ninteira \nde \nmanufatura \nenvolvendo\ncentenas de estações conectadas a bancos de\ndados com instruções e planejamento de\noperações e tarefas em tempo real, envolvendo\nsensores, atuadores, transdutores, conversores\netc. Entender, projetar e construir esses sistemas\né um grande desafio que impõe uma abordagem\nsistemática \npelo \nuso \nde \nferramentas \ne\nconhecimento conceitual de modelagem lógica,\nmanipulação \nmatemática, \nabstração,\ndecomposição, \nconcorrência \netc. \nNesse\ncontexto, julgue os seguintes itens.\nI\nControladores lógicos programáveis são\ncomputadores \npara \nprocessamento \nde\nentradas e saídas, sendo que a maioria\npermite múltiplos programas que podem ser\nutilizados como sub-rotinas.\nII\nPara leituras de um sinal analógico que varia\nentre ± 10 volts, com precisão de ± 0,05 volts,\né necessário um conversor AD com, no\nmínimo, 9 bits.\nIII O principal objetivo das redes de Petri\nColoridas é a redução do tamanho do modelo,\npermitindo \nque \ntokens \nindividualizados\n(coloridos) representem diferentes processos\nou recursos em uma mesma sub-rede.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens I e II estão certos.\nC\nApenas os itens I e III estão certos.\nD\nApenas os itens II e III estão certos.\nE\nTodos os itens estão certos.\nQUEST\nAo se r\nHTTPS\no progra\nusam-se\nassimét\nacesso \npara o u\nA\naute\nB\naute\nC\naute\nD\naute\nE\naute\nQUEST\nConside\nmicroco\nconecta\nlógicos à\naberto, e\nde entra\nCaso a\nmicroco\nX3, X2, X\nlido nas\nA\n011\n\na os estudantes de cursos com perfis profissionais de \n COMPUTAÇÃO.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2008_CCP/figuras/q41_fig1.png"
+  ],
   "categorias": [
-    "Formação Geral e Sociedade",
-    "Segurança da Informação"
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 41,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 35.999237060546875,
+      "y": 168.28665161132812,
+      "x1": 105.3624496459961,
+      "y1": 179.32664489746094,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 41"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "17\nCOMPUTAÇÃO\nAs questões Te 41 a 60, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nNNGNNHARCA MN COMPUTAÇÃO.\nQUNSTÃO 41\nNm ambientes Te manufatura integraTa, utilizam-\nse computaTores para conectar processos\nconcorrentes separaTos fisicamente, isto é, um\nsistema \nintegraTo \nrequer \nTois \nou \nmais\ncomputaTores \nconectaTos \npara \ntrocar\ninformações. QuanTo integraTos, os processos\npoTem compartilUar informações e iniciar ações,\npermitinTo Tecisões mais rápiTas com menos\nerros. A automação também permite a execução\nTe processos Te manufatura sem necessiTaTe\nTe intervenções. Um exemplo simples poTe ser\num controlaTor Te um robô e um controlaTor\nlógico programável trabalUanTo juntos em uma\núnica máquina. Um exemplo complexo é uma\nplanta \ninteira \nTe \nmanufatura \nenvolvenTo\ncentenas Te estações conectaTas a bancos Te\nTaTos com instruções e planejamento Te\noperações e tarefas em tempo real, envolvenTo\nsensores, atuaTores, transTutores, conversores\netc. NntenTer, projetar e construir esses sistemas\né um granTe Tesafio que impõe uma aborTagem\nsistemática \npelo \nuso \nTe \nferramentas \ne\nconUecimento conceitual Te moTelagem lógica,\nmanipulação \nmatemática, \nabstração,\nTecomposição, \nconcorrência \netc. \nNesse\ncontexto, julgue os seguintes itens.\nC\nControlaTores lógicos programáveis são\ncomputaTores \npara \nprocessamento \nTe\nentraTas e saíTas, senTo que a maioria\npermite múltiplos programas que poTem ser\nutilizaTos como sub-rotinas.\nCC\nPara leituras Te um sinal analógico que varia\nentre ± 10 volts, com precisão Te ± 0,05 volts,\né necessário um conversor AM com, no\nmínimo, 9 bits.\nCCC O principal objetivo Tas reTes Te Petri\nColoriTas é a reTução To tamanUo To moTelo,\npermitinTo \nque \ntokens \ninTiviTualizaTos\n(coloriTos) representem Tiferentes processos\nou recursos em uma mesma sub-reTe.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens C e CCC estão certos.\nM\nApenas os itens CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 42\nAo se realizar o acesso a um serviTor PPP usanTo o protocolo\nHTTPS, uma sessão SSL é estabeleciTa sobre a conexão TCP, entre\no programa navegaTor To usuário e o processo serviTor. Para tanto,\nusam-se mecanismos baseaTos em criptografia simétrica e\nassimétrica para prover serviços Te segurança. Nm relação ao\nacesso HTTP, sem SSL, que serviços Te segurança são proviTos\npara o usuário?\nA\nautenticação To serviTor e controle Te acesso To cliente\nB\nautenticação To cliente e controle Ta velociTaTe Te transmissão\nC\nautenticação Ta reTe e proteção contra vírus\nM\nautenticação To serviTor e confiTencialiTaTe Tas transmissões\nN\nautenticação To cliente e temporização Tas ações executaTas\nQUNSTÃO 43\nConsiTere que seja necessário escrever um cóTigo para um\nmicrocontrolaTor capaz Te iTentificar teclas acionaTas em um teclaTo\nconectaTo como mostraTo abaixo. O microcontrolaTor atribui valores\nlógicos às linUas X3, X2, X1 e X0 Te uma porta Te saíTa To tipo coletor\naberto, e lê os valores lógicos Tas linUas Y3, Y2, Y1 e Y0 em uma porta\nTe entraTa.\nCaso apenas a tecla 9 To teclaTo esteja pressionaTa e o\nmicrocontrolaTor esteja atribuinTo os valores lógicos 1011 às linUas\nX3, X2, X1 e X0 , respectivamente, qual o paTrão binário que Teverá ser\nliTo nas linUas Y3, Y2, Y1 e Y0, respectivamente?\nA\n0111\nB\n1011\nC\n1101\nM\n1110\nN\n1111\n+5 V\n+5 V +5 V +5 V\nteclaTo\nmicrocontrolaTor\nporta Te saíTa\nporta Te entraTa",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q41.png",
-  "caminho_json": "/questoes/2008_CCP/q41.json",
-  "caminho_txt": "/questoes/2008_CCP/q41.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395083"
 }

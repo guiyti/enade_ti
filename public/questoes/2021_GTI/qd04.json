@@ -6,17 +6,62 @@
     16,
     17
   ],
+  "segmentos": [
+    {
+      "pagina": 16,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 280.56,
+      "y1": 744.5902099609375,
+      "coluna": 1
+    },
+    {
+      "pagina": 16,
+      "x0": 286.56,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 744.6,
+      "coluna": 2
+    },
+    {
+      "pagina": 17,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 155.43234252929688,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_GTI/qd04.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_GTI/qd04.txt",
   "largura": 2185,
-  "altura": 3067,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 5983,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO DISCURSIVA 04\t\nA notação Business Process Model Notation (BP\nrepresentação de processos. Analise o processo de h\nSuperior, representado no diagrama a seguir.\nHomologação de Estágio\nCoordenaç\nAcadêmico/Estagiário\nReceber\ndocumentos\npdf e imprimir\n3 vias\nIniciar o\nestágio\nPreencher plano\nde atividades e\ntermos de\ncompromisso\nAssinar\ndocumentos e\nentregar no\nPólo\nAvisar o\nacadêmico\ndos erros\nRegistrar no\nSiga e arquivar\ndocumento\nReceber\ndocumentos e\nentregar via da\nconcedente\nMandar email\nrelatando\nos erros\nEncaminhar por\nemail para\ncoordenação\nde estágio\nArrumar os\nerros e\nencaminhar\nnovamente\nUFJF. Escritório de Pro\n\nMN) adota diversos elementos padronizados para \nomologação de estágio em uma Instituição de Ensino \nda Educação à Distância\nPólo de Educação \na Distância\não de Estágio\nReceber email\ne veriﬁcar\ndocumentos\nNão\nSim\nCorreto?\nNão\nSim\nAdequado?\nEncaminhar\ndocumentos\nvia malote\nReceber\ndocumentos e\nanalisar\nAssinar e\ndevolver\n2 cópias\nReceber\ndocumentos e\nentregar para o\nestagiário\nEncaminhar\ndocumentos\nem formato\npdf por email\nessos. Disponível em: www2.ufjf.br/escritoriodeprocessos/portifolio/ \nAcesso em: 26 Ago. 2021 (adaptado).\n\nConsiderando o diagrama apresentado, faça o que se pede nos itens a seguir.\na)\t Cite o nome de duas tarefas, dois gateways e duas raias que podem ser identificados. (valor: 6,0 pontos)\nb)\t Se o estagiário entregar os documentos errados, cite as tarefas que deverão ser realizadas e por quem. \n(valor: 4,0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Formação Geral e Sociedade"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 4,
+      "tipo": "DISCURSIVA",
+      "pagina": 16,
+      "x": 29.763790130615234,
+      "y": 76.71854400634766,
+      "x1": 157.49180603027344,
+      "y1": 92.04254150390625,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO DISCURSIVA 04"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "16\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO MCSCURSCVA 04\t\nA notação Business Process MoTel Notation (BPMN) aTota Tiversos elementos paTronizaTos para \nrepresentação Te processos. Analise o processo Te Uomologação Te estágio em uma Cnstituição Te Nnsino \nSuperior, representaTo no Tiagrama a seguir.\nHomologação Te Nstágio Ta NTucação à Mistância\nPólo Te NTucação \na Mistância\nCoorTenação Te Nstágio\nAcaTêmico/Nstagiário\nReceber email\ne veriﬁcar\nTocumentos\nNão\nSim\nCorreto?\nNão\nSim\nATequaTo?\nReceber\nTocumentos\npTf e imprimir\n3 vias\nCniciar o\nestágio\nPreencUer plano\nTe ativiTaTes e\ntermos Te\ncompromisso\nNncaminUar\nTocumentos\nvia malote\nAssinar\nTocumentos e\nentregar no\nPólo\nReceber\nTocumentos e\nanalisar\nAvisar o\nacaTêmico\nTos erros\nAssinar e\nTevolver\n2 cópias\nRegistrar no\nSiga e arquivar\nTocumento\nReceber\nTocumentos e\nentregar para o\nestagiário\nReceber\nTocumentos e\nentregar via Ta\nconceTente\nManTar email\nrelatanTo\nos erros\nNncaminUar\nTocumentos\nem formato\npTf por email\nNncaminUar por\nemail para\ncoorTenação\nTe estágio\nArrumar os\nerros e\nencaminUar\nnovamente\nUFJF. Nscritório Te Processos. Misponível em: www2.ufjf.br/escritorioTeprocessos/portifolio/ \nAcesso em: 26 Ago. 2021 (aTaptaTo).\n*R29202116*\n\n17\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nConsiTeranTo o Tiagrama apresentaTo, faça o que se peTe nos itens a seguir.\na)\t Cite o nome Te Tuas tarefas, Tois gateways e Tuas raias que poTem ser iTentificaTos. (valor: 6,0 pontos)\nb)\t Se o estagiário entregar os Tocumentos erraTos, cite as tarefas que Teverão ser realizaTas e por quem. \n(valor: 4,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nÁrea livre\n*R29202117*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_GTI/qd04.png",
-  "caminho_json": "/questoes/2021_GTI/qd04.json",
-  "caminho_txt": "/questoes/2021_GTI/qd04.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:22.343308"
 }

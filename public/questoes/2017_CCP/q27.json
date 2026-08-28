@@ -5,19 +5,48 @@
   "paginas": [
     26
   ],
-  "largura": 1223,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 317.15999999999997,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 2
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "26\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 26\n  fgura a seguir mostra uma imagem Te ressonancia \nmagnética  corrompiTa  por  ruíTo  To  tipo \" sal  e \npimenta\".  \nPara  que  o  ruíTo  seũa  atenuaTo  e  as  borTas  Tas \nestruturas  representaTas  seũam  preservaTas,  \nTeve-se aplicar na imagem o fltro\nA  Sobel.\nB  Ta méTia.\nC  >aplaciano.\nM  To mínimo.\nN  Ta meTiana.\nArea livre\nQUNSTÃO 27\nNm computação grAfica,  existem vArios moTelos \nTe  iluminação  Tiferentes  que  expressam  e \ncontrolam  os  fatores  que  Teterminam  a  cor  Te \numa  superfície  em  função  Te  um  TeterminaTo \nconũunto Te luzes.  Uma vez TefiniTo um moTelo \nTe  iluminação,   poTe-se  aplicar  luz  sobre  as \nvArias faces Tos obũetos Te uma cena,  processo \nTenominaTo sombreamento.\n s  fguras  a  seguir  ilustram  a  aplicação  Te  Tois \nmoTelos  Te  iluminação,   a  saber:   o  moTelo  Te \nsombreamento constante (a esquerTa) e o moTelo \nTe PUong (a Tireita).\n NsNMO,  N.͖  CONC/,   .  Computação grAfca:  geração Te imagens.\n Zio Te :aneiro:  Campus,  2003 (aTaptaTo).\nMisponível em:  фUtps:ͬͬ\nǁǁǁ. cs. cmu. eTuх.   cesso em:  17 ũul 2017.\nNm \nrelação \naos \nmoTelos \nTe \niluminação \napresentaTos,  avalie as afrmações a seguir.\n/.      aplicação  To  moTelo  Te  sombreamento \nconstante causa na imagem um efeito visual \nTenominaTo BanTas Te MacU.\n//.   Nmbora seũa util para gerar imagens realísticas,  \no moTelo Te PUong mostra-se pouco efciente \nna apresentação Tas reŇexões especulares.\n///.   O moTelo Te sombreamento constante não \né util para gerar imagens realísticas porque \nele  TA  Testaque  ao  aspecto  facetaTo  Ta \nrepresentação polieTral Tas superİcies.\n/s.  Para  a  utilização  To  moTelo  Te  PUong,   é \nnecessArio supor que a fonte Te luz localiza-se \nno infnito.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nM  /,  /// e /s.\nN  //,  /// e /s.\n*R03201726*",
+  "caminho_png": "/questoes/2017_CCP/q27.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q27.txt",
+  "largura": 1223,
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 27\nEm computação grAfica,  existem vArios modelos \nde  iluminação  diferentes  que  expressam  e \ncontrolam  os  fatores  que  determinam  a  cor  de \numa  superfície  em  função  de  um  determinado \nconũunto de luzes.  hma vez definido um modelo \nde  iluminação,   pode-se  aplicar  luz  sobre  as \nvArias faces dos obũetos de uma cena,  processo \ndenominado sombreamento.\n s  fguras  a  seguir  ilustram  a  aplicação  de  dois \nmodelos  de  iluminação,   a  saber:   o  modelo  de \nsombreamento constante (a esquerda) e o modelo \nde Whong (a direita).\n EsEDK,  E.͖  IKEI/,   .  Iomputação grAfca:  geração de imagens.\n Zio de :aneiro:  Iampus,  2003 (adaptado).\nDisponível em:  фhtps:ͬͬ\nǁǁǁ. cs. cmu. eduх.   cesso em:  17 ũul 2017.\nEm \nrelação \naos \nmodelos \nde \niluminação \napresentados,  avalie as afrmações a seguir.\n/.      aplicação  do  modelo  de  sombreamento \nconstante causa na imagem um efeito visual \ndenominado Bandas de Dach.\n//.   Embora seũa util para gerar imagens realísticas,  \no modelo de Whong mostra-se pouco efciente \nna apresentação das reŇexões especulares.\n///.   K modelo de sombreamento constante não \né util para gerar imagens realísticas porque \nele  dA  destaque  ao  aspecto  facetado  da \nrepresentação poliedral das superİcies.\n/s.  Wara  a  utilização  do  modelo  de  Whong,   é \nnecessArio supor que a fonte de luz localiza-se \nno infnito.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e ///.\nC  // e /s.\nD  /,  /// e /s.\nE  //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2017_CCP/figuras/q27_fig1.jpeg"
   ],
-  "caminho_png": "/questoes/2017_CCP/q27.png",
-  "caminho_json": "/questoes/2017_CCP/q27.json",
-  "caminho_txt": "/questoes/2017_CCP/q27.txt"
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 27,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 320.0549011230469,
+      "y": 88.699951171875,
+      "x1": 382.50653076171875,
+      "y1": 100.699951171875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 27"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148929"
 }

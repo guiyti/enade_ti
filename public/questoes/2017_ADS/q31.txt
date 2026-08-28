@@ -1,37 +1,20 @@
-35
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-Com base nas informações To texto e no coTigo apresentaTo,  avalie as afrmações a seguir.
-/.     execução To coTigo,  via classe Main,  resulta na seguinte saíTa:
-/mpriminTo na >aser
-/mpriminTo na Matricial
-/mpriminTo na :ato Te tinta
-//.   O coTigo faz uso Ta técnica TenominaTa polimorfsmo.
-///.   O coTigo não serA compilaTo,  pois o vetor imp foi instanciaTo por meio Ta classe abstrata 
-Cmpressora.
- correto o que se afrma em
-A  //,  apenas.
-B  ///,  apenas.
-C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-QUNSTÃO 31
- meTiTa que o proũeto Te uma interface To usuArio evolui,  quatro questões Te proũeto comuns quase 
-sempre  vgm  a  tona:   tempo  Te  resposta  To  sistema,   recursos  Te  aũuTa  ao  usuArio,   informações  Te 
-tratamento Te erros e atribuição Te nomes a comanTos.
-PZNSSM N,  Z.  S.  NngenUaria Te soŌǁare:  uma aborTagem profssional.  8.  eT.  São Paulo:   M',,  2016 (aTaptaTo).
-Nesse contexto,  avalie as afrmações a seguir, a respeito To proũeto Te interface e Tos requisitos Te soŌǁare.
-/.     anAlise Te interfaces tem por obũetivo iTentifcar o perfl Tos usuArios e auxiliar na especifcação 
-To requisito não funcional Te segurança pertinente ao perfl Te acesso Tos usuArios.
-//.   O requisito não funcional Te segurança Tescreve as características relacionaTas a inteligibiliTaTe,  
-moTo Te usar ou operar o sistema.
-///.   O requisito não funcional Te confabiliTaTe Tescreve as características relacionaTas ao tempo Te 
-resposta para processamento Te TaTos ou informações.
-/s.   O requisito não funcional Te usabiliTaTe Tescreve Tiretrizes Te acessibiliTaTe para pessoas 
-com Tefcigncia.
+QUESTÃO 31
+ medida que o proũeto de uma interface do usuArio evolui,  quatro questões de proũeto comuns quase 
+sempre  vgm  a  tona:   tempo  de  resposta  do  sistema,   recursos  de  aũuda  ao  usuArio,   informações  de 
+tratamento de erros e atribuição de nomes a comandos.
+WZE^^D E,  Z.  ^.  Engenharia de soŌǁare:  uma abordagem profssional.  8.  ed.  ^ão Waulo:   D',,  2016 (adaptado).
+Eesse contexto,  avalie as afrmações a seguir, a respeito do proũeto de interface e dos requisitos de soŌǁare.
+/.     anAlise de interfaces tem por obũetivo identifcar o perfl dos usuArios e auxiliar na especifcação 
+do requisito não funcional de segurança pertinente ao perfl de acesso dos usuArios.
+//.   K requisito não funcional de segurança descreve as características relacionadas a inteligibilidade,  
+modo de usar ou operar o sistema.
+///.   K requisito não funcional de confabilidade descreve as características relacionadas ao tempo de 
+resposta para processamento de dados ou informações.
+/s.   K requisito não funcional de usabilidade descreve diretrizes de acessibilidade para pessoas 
+com defcigncia.
  correto apenas o que se afrma em
 A  / e ///.
 B  / e /s.
 C  // e /s.
-M  /,  // e ///.
-N  //,  /// e /s.
-*R41201735*
+D  /,  // e ///.
+E  //,  /// e /s.

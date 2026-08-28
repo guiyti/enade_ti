@@ -5,17 +5,46 @@
   "paginas": [
     17
   ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 301.08,
+      "y0": 262.7555847167969,
+      "x1": 571.16,
+      "y1": 416.8155822753906,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q46.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q46.txt",
   "largura": 1156,
   "altura": 672,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 0.9,
+  "texto_completo": "ç\nq\nQUESTÃO 46\nProcesso Unificado (RUP – rational unified process) é um\noderno processo de desenvolvimento de software constituído de\nuatro fases. Assinale a opção que apresenta as quatro fases do RUP,\na ordem em que elas devem ser executadas.\nconcepção, elaboração, construção, teste\nelaboração, transição, concepção, construção\nelaboração, concepção, teste, transição\nelaboração, concepção, transição, construção\nconcepção, elaboração, construção, transição",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 46,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 297.1199951171875,
+      "y": 274.7555847167969,
+      "x1": 343.4880065917969,
+      "y1": 280.7555847167969,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 46"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n16\nQUNSTÃO 43\nNo processo Te pesquisa binária em um vetor orTenaTo, os\nnúmeros máximos Te comparações necessárias para se\nTeterminar se um elemento faz parte Te vetores com tamanUos\n50, 1.000 e 300 são, respectivamente, iguais a\nA 5, 100 e 30.\nB 6, 10 e 9.\nC 8, 31 e 18.\nM 10, 100 e 30.\nN 25, 500 e 150.\nQUNSTÃO 44\nMeseja-se supervisionar as reTes Te comunicação\nTe TaTos Te um conjunto Te empresas. CaTa empresa\ntem a sua própria reTe, que é inTepenTente Tas reTes\nTas outras empresas e é constituíTa Te ramos Te fibra\nóptica. CaTa ramo conecta Tuas filiais Tistintas (ponto-a-\nponto) Ta empresa. Há, no máximo, um ramo Te fibra\ninterliganTo Tiretamente um mesmo par Te filiais.\nA comunicação entre Tuas filiais poTe ser feita\nTiretamente por um ramo Te fibra que as interliga, se\neste existir, ou, inTiretamente, por meio Te uma\nseqüência Te ramos e filiais. A reTe Te caTa empresa\npermite a comunicação entre toTas as suas filiais.\nA tabela abaixo apresenta algumas informações acerca\nTas reTes Tessas empresas.\nempresa\nn.º Te filiais\nnúmero Te ramos\nTe fibra entre filiais\nN1\n9\n18\nN2\n10\n45\nN3\n14\n13\nN4\n8\n24\nCom relação à situação apresentaTa acima, é correto TeTuzir\nque,\nC\nno caso Ta empresa N1, a falUa Te um ramo Te reTe\ncertamente fará que, ao menos, uma filial não possa mais\ncomunicar-se Tiretamente com toTas as outras filiais Ta\nempresa.\nCC\nna reTe Ta empresa N2, a introTução Te um novo ramo Te\nreTe certamente violará a informação Te que Uá somente\num par Te fibras entre Tuas filiais.\nCCC no caso Ta empresa N3, a falUa Te um único ramo Te reTe\ncertamente fará que, ao menos, uma filial não possa mais\ncomunicar-se, Tireta ou inTiretamente, com toTas as outras\nfiliais Ta empresa.\nCV na reTe Ta empresa N4, toTas as filiais Ta empresa\ncomunicam-se entre si Tiretamente.\nNstão certos apenas os itens\nA C e CC.\nM CC e CV.\nB C e CV.\nN CCC e CV.\nC CC e CCC.\nQUNSTÃO 45\nRequisitos Te um sistema são freqüentemente classificaTos como\nfuncionais, não-funcionais e Te Tomínio. Qual a Tefinição que\nmelUor Tescreve requisitos não-funcionais?\nA São ferramentas automatizaTas Te apoio ao processo Te\nTesenvolvimento Te sistemas.\nB São requisitos que Tescrevem o que o sistema Teve fazer, como\nTeve reagir a TeterminaTas entraTas e como Teve comportar-se\nem situações particulares.\nC São requisitos que Terivam To Tomínio Ta aplicação e que\nrefletem características e restrições Tesse Tomínio.\nM São requisitos que não estão Tiretamente relacionaTos com as\nfunções específicas To sistema.\nN São requisitos que especificam como Teve ser testaTa uma parte\nTo sistema, incluinTo-se as entraTas, os resultaTos esperaTos e as\nconTições sob as quais os testes Tevem ocorrer.\nQUNSTÃO 46\nO Processo UnificaTo (RUP – rational unifieT process) é um\nmoTerno processo Te Tesenvolvimento Te software constituíTo Te\nquatro fases. Assinale a opção que apresenta as quatro fases To RUP,\nna orTem em que elas Tevem ser executaTas.\nA concepção, elaboração, construção, teste\nB elaboração, transição, concepção, construção\nC elaboração, concepção, teste, transição\nM elaboração, concepção, transição, construção\nN concepção, elaboração, construção, transição\nQUNSTÃO 47\nUm estuTo recente realizaTo pela Associação Brasileira Tas\nNmpresas Te Software (ABNS) e a Business Software Alliance\n(BSA) mostra uma reTução na pirataria Te software no munTo e no\nBrasil, Te 1994 a 2002. Com relação a esse assunto, julgue os itens\na seguir.\nC\nA reTução Ta pirataria Te software no contexto brasileiro traz\nbenefícios para a criação Te empregos, aumento Ta arrecaTação\nTe impostos e aumento no faturamento Ta economia.\nCC\nA reproTução Te software original ou autorizaTo para fins Te\nsegurança ou backup é também consiTeraTa pirataria Te\nsoftware.\nCCC As \niniciativas \nantipirataria \nTevem \nincluir \nações \nTe\nconscientização, \neTucação \ne \natuação \nTireta \nsobre \nos\ncontraventores.\nCV A pirataria Te software é uma ativiTaTe criminosa, contuTo não\nUá no Brasil, ainTa, legislação específica que regulamente essa\nquestão.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CCC.\nM CC e CV.\nN CCC e CV.",
-  "figuras": [],
-  "caminho_png": "/questoes/2005_CCP/q46.png",
-  "caminho_json": "/questoes/2005_CCP/q46.json",
-  "caminho_txt": "/questoes/2005_CCP/q46.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297490"
 }

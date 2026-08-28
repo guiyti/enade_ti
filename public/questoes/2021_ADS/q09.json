@@ -5,17 +5,46 @@
   "paginas": [
     18
   ],
+  "segmentos": [
+    {
+      "pagina": 18,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 542.12,
+      "y1": 280.73321533203125,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2021_ADS/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2021_ADS/q09.txt",
   "largura": 2185,
-  "altura": 888,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 890,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 09\t\nA etapa de definição de requisitos é voltada para estabelecer quais as funções são requeridas pelo sistema \ne as restrições sobre a operação e o desenvolvimento do software. Os requisitos de software podem ser \nclassificados como requisitos funcionais e não funcionais.\nSOMMERVILLE, I. Engenharia de Software, 10. ed. São Paulo: Pearson Education, 2019 (adaptado).\nConsiderando as informações do texto, assinale a alternativa em que o item é um requisito funcional.\nA\t O software deve ser operacionalizado no sistema Linux.\nB\t O tempo de desenvolvimento não deve ultrapassar seis meses.\nC\t O software deve emitir relatórios de compras a cada quinze dias.\nD\t O tempo de resposta do sistema não deve ultrapassar 30 segundos.\nE\t A base de dados deve ser protegida para acesso apenas de usuários autorizados.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 18,
+      "x": 29.763790130615234,
+      "y": 76.94654846191406,
+      "x1": 94.92378997802734,
+      "y1": 90.69854736328125,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 09"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "18\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 09\t\nA etapa Te Tefinição Te requisitos é voltaTa para estabelecer quais as funções são requeriTas pelo sistema \ne as restrições sobre a operação e o Tesenvolvimento To software. Os requisitos Te software poTem ser \nclassificaTos como requisitos funcionais e não funcionais.\nSOMMNRVCLLN, C. NngenUaria Te Software, 10. eT. São Paulo: Pearson NTucation, 2019 (aTaptaTo).\nConsiTeranTo as informações To texto, assinale a alternativa em que o item é um requisito funcional.\nA\t O software Teve ser operacionalizaTo no sistema Linux.\nB\t O tempo Te Tesenvolvimento não Teve ultrapassar seis meses.\nC\t O software Teve emitir relatórios Te compras a caTa quinze Tias.\nM\t O tempo Te resposta To sistema não Teve ultrapassar 30 segunTos.\nN\t A base Te TaTos Teve ser protegiTa para acesso apenas Te usuários autorizaTos.\nQUNSTÃO 10\t\nUma fábrica aTquiriu máquinas Te costura inTustrial para a proTução Te jogos Te toalUas Te mesa e guarTanapos \nTe teciTo com estampas quaTriculaTas. CaTa quaTrículo tem tamanUo paTrão Te 5 cm X 5 cm. Para a configuração \nTa costura, é preciso um programa Te computaTor para criar um molTe em que sejam informaTas as quantiTaTes \nTe quaTrículos por comprimento e por largura, além To TesenUo Ta estampa a ser costuraTa. Por exemplo, \npara um guarTanapo Te teciTo que tenUa 30 cm X 30 cm, com uma estampa representaTa pelo caractere “#”, \no seguinte molTe precisa ser criaTo:\nComo uma toalUa poTe ter, no máximo, 250 cm Te comprimento e 200 cm Te largura, o programaTor \nTeclarou uma matriz cUar molTe[40][50] para ser possível representar molTes cujas meTiTas \ncompreenTam esses limites. Nle também implementou, entre outras, as seguintes funções:\n- criar_molTe, para a qual os seguintes parâmetros são esperaTos, nessa orTem: uma referência à \nmatriz molTe, o comprimento e a largura To teciTo (em quantiTaTes Te quaTrículos) e o caractere que \nrepresenta a estampa;\n- alternar_estampa, que tem a tarefa Te controlar a Tisposição alternaTa Tas estampas no molTe.\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n#\n5 cm\n5 cm\n*R28202118*",
-  "figuras": [],
-  "caminho_png": "/questoes/2021_ADS/q09.png",
-  "caminho_json": "/questoes/2021_ADS/q09.json",
-  "caminho_txt": "/questoes/2021_ADS/q09.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:31.625493"
 }

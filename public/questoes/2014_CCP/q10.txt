@@ -1,84 +1,26 @@
-13
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 10
-O  gerenciamento  Te  um  proũeto  inclui  ativiTaTes 
-com  o  obũetivo  Te  garantir  que  toTos  os  proTutos 
-TefniTos no seu escopo seũam entregues no prazo 
-estimaTo.   Nesse  contexto,   avalie  as  afrmações  a 
+QUESTÃO 10
+K  gerenciamento  de  um  proũeto  inclui  atividades 
+com  o  obũetivo  de  garantir  que  todos  os  produtos 
+defnidos no seu escopo seũam entregues no prazo 
+estimado.   Eesse  contexto,   avalie  as  afrmações  a 
 seguir.
-/.   Técnicas como PNZT e CPM são utilizaTas para 
-obtenção  Te  estimativas  Te  esforço  e  como 
-apoio para Tefnição Te ativiTaTes.
-//.   Séries Uistoricas,  quanTo utilizaTas para obter 
-estimativas  Te  esforço  no  Tesenvolvimento 
-Te  um  novo  sistema,   levam  a  obtenção  Te 
-estimativas consistentes,  inTepenTentemente 
-To  Tomínio  Te  aplicação  Tos  sistemas  que 
-Teram origem as séries Uistoricas.
-///.   No caso Te atraso na execução To cronograma,  
-a  contratação  Te  novos  TesenvolveTores 
-assegura  que  o  proTuto  serA  entregue  Te 
-acorTo  com  o  cronograma  inicialmente 
+/.   décnicas como WEZd e IWD são utilizadas para 
+obtenção  de  estimativas  de  esforço  e  como 
+apoio para defnição de atividades.
+//.   ^éries historicas,  quando utilizadas para obter 
+estimativas  de  esforço  no  desenvolvimento 
+de  um  novo  sistema,   levam  a  obtenção  de 
+estimativas consistentes,  independentemente 
+do  domínio  de  aplicação  dos  sistemas  que 
+deram origem as séries historicas.
+///.   Eo caso de atraso na execução do cronograma,  
+a  contratação  de  novos  desenvolvedores 
+assegura  que  o  produto  serA  entregue  de 
+acordo  com  o  cronograma  inicialmente 
 proposto.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.  
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-QUNSTÃO 11
-ConsiTere um esquema Te gergncia Te memoria por 
-paginação simples,  onTe a memoria İsica é TiviTiTa 
-em quaTros (frames) Te 1 <bǇte e enTereçaTa por 
-bǇte.  Os espaços Te enTereçamento Tos processos 
-são multiplos Te 1 <bǇte.    tabela Te pAginas para 
-um TeterminaTo processo P é apresentaTa a seguir,  
-em  que  o  primeiro  bit  (Bs)  mostra  se  a  pAgina  é 
-vAliTa (1) ou invAliTa (0).
-BV
-YuaTro (frame)
-0
-1
-0010
-1
-1
-0100
-2
-1
-0001
-3
-1
-0111
-4
-1
-0000
-5
-1
-1101
-6
-0
-1111
-7
-0
-0110
-Com base na tabela apresentaTa,  avalie as afrmações 
-a seguir.
-/.   O enTereço İsico é composto por 13 bits.
-//.  O  esquema  Te  gergncia  Te  memoria 
-apresentaTo reTuz a fragmentação externa.
-///.    
-traTução 
-To 
-enTereço 
-logico 
-0110000000110  para  enTereço  físico 
-causa exceção.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R03201413*
+D // e ///,  apenas.
+E /,  // e ///.

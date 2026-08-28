@@ -1,76 +1,33 @@
-24
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 22
-Um  país  utiliza  moeTas  Te  1,   5,   10,   25  e  50 
-centavos.  Um programaTor Tesenvolveu o métoTo 
-a seguir,  que implementa a estratégia gulosa para 
-o problema To troco mínimo.  Nsse métoTo recebe 
-como  parametro  um  valor  inteiro,   em  centavos,  
-e retorna um array no qual caTa posição inTica a 
-quantiTaTe Te moeTas Te caTa valor.
-public static int[] troco(int valor){
-int[] moeTas = new int[5];
-moeTas[4] = valor / 50;
-valor = valor % 50;
-moeTas[3] = valor / 25;
-valor = valor % 25;
-moeTas[2] = valor / 10;
-valor = valor % 10;
-moeTas[1] = valor / 5;
-valor = valor % 5;
-moeTas[0] = valor;
-return(moeTas);
-}
-ConsiTeranTo  o  métoTo  apresentaTo,   avalie  as 
-asserções a seguir e a relação proposta entre elas.
-/.   O  métoTo  guloso  encontra  o  menor 
-numero Te moeTas para o valor Te entraTa,  
-consiTeranTo as moeTas To país.
-POZYUN
-//.   MétoTos  gulosos  sempre  encontram  a 
-solução global otima.
-  respeito Tessas asserções,  assinale a opção correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
-é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-QUNSTÃO 23
-ConsiTere o seguinte alfabeto:
+QUESTÃO 23
+Ionsidere o seguinte alfabeto:
 Σ =
 + −
 {(,), , , , , , , , , , , , }
 0 1 2 3 4 5 6 7 8 9
 .
-ConsiTere,  ainTa,  uma linguagem L TefniTa sobre 
+Ionsidere,  ainda,  uma linguagem L defnida sobre 
 esse alfabeto.
-L {w | w  6Ύ,  para caTa ocorrgncia Te ‘(‘ em w,  
-existe uma ocorrgncia Te ‘)’}
-Por exemplo,  a caTeia x  (2 + (3 - 4)) pertence a 
-L,  mas a caTeia y  (2 + (3 - 4) não pertence a L.
-Com relação a linguagem L,  avalie as asserções a 
+L {w | w  6Ύ,  para cada ocorrgncia de ‘(‘ em w,  
+existe uma ocorrgncia de ‘)’}
+Wor exemplo,  a cadeia x  (2 + (3 - 4)) pertence a 
+L,  mas a cadeia y  (2 + (3 - 4) não pertence a L.
+Iom relação a linguagem L,  avalie as asserções a 
 seguir e a relação proposta entre elas.
-/.      linguagem  L não  poTe  ser  consiTeraTa 
+/.      linguagem  L não  pode  ser  considerada 
 regular.
-POZYUN
+WKZYhE
 //.    utƀmatos fnitos não possuem mecanismos 
 que  permitam  contar  infnitamente  o 
-numero  Te  ocorrgncias  Te  TeterminaTo 
-símbolo em uma caTeia.
-   respeito  Tessas  asserções,   assinale  a  opção 
+numero  de  ocorrgncias  de  determinado 
+símbolo em uma cadeia.
+   respeito  dessas  asserções,   assinale  a  opção 
 correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
+A   s asserções / e // são proposições verdadeiras,  
+e a // é uma ũustifcativa correta da /.
+B   s asserções / e // são proposições verdadeiras,  
+mas a // não é uma ũustifcativa correta da /.
+C    asserção / é uma proposição verdadeira,  e a // 
 é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-Area livre
-*R03201724*
+D    asserção / é uma proposição falsa,  e a // é uma 
+proposição verdadeira.
+E   s asserções / e // são proposições falsas.

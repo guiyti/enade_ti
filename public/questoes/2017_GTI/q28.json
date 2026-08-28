@@ -5,18 +5,46 @@
   "paginas": [
     29
   ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 679.2889404296875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q28.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q28.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2541,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 28\n o  terceirizarem  o  ambiente  de  decnologia  da \n/nformação  (d/),   as  empresas  fcam  livres  da \ncomplexidade  operacional  para  se  concentrarem \nnaquilo que sabem,  ou seũa nas ações voltadas a \nconsecução  de  sua  atividade  fm.   Desse  modo,   a \nterceirização desse ambiente permite que a equipe \nde  d/  da  instituição  possa  se  dedicar  a  melhoria \ne  a  inovação  das  ações  ơpicas  da  instituição,  \ntornando-se  parte  importante  do  negocio,   uma \nvez que deixam de ter como principal atribuição a \nmanutenção da infraestrutura de d/.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. exame. abril. com. brͬ tecnologia.\n cesso em:  24 ũul.  2017 (adaptado).\n  partir do conceito de terceirização (outsourcing) \naplicAvel a Area de d/,  avalie as asserções a seguir e \na relação proposta entre elas.\n/.     computação em nuvem é uma ferramenta \nimportante para o outsourcing de decnologia \nda /nformação.\nWKZYhE\n//.   K  outsourcing de  cloud  coloca  computadores \nde  ponta  a  disposição  das  empresas,   o \nque  favorece  a  agilidade  operacional  e \ngarante que a Area de d/ promova inovações \nestratégicas e transformadoras.  \n   respeito  dessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verdadeiras,  \ne a // é uma ũustifcativa correta da /.\nB   s asserções / e // são proposições verdadeiras,  \nmas a // não é uma ũustifcativa correta da /.\nC    asserção / é uma proposição verdadeira,  e a // \né uma proposição falsa.\nD    asserção / é uma proposição falsa,  e a // é uma \nproposição verdadeira.\nE   s asserções / e // são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Engenharia de Software",
     "Sistemas Operacionais"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 28,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 28"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "29\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 28\n o  terceirizarem  o  ambiente  Te  Tecnologia  Ta \n/nformação  (T/),   as  empresas  fcam  livres  Ta \ncomplexiTaTe  operacional  para  se  concentrarem \nnaquilo que sabem,  ou seũa nas ações voltaTas a \nconsecução  Te  sua  ativiTaTe  fm.   Messe  moTo,   a \nterceirização Tesse ambiente permite que a equipe \nTe  T/  Ta  instituição  possa  se  TeTicar  a  melUoria \ne  a  inovação  Tas  ações  ơpicas  Ta  instituição,  \ntornanTo-se  parte  importante  To  negocio,   uma \nvez que Teixam Te ter como principal atribuição a \nmanutenção Ta infraestrutura Te T/.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. exame. abril. com. brͬ tecnologia.\n cesso em:  24 ũul.  2017 (aTaptaTo).\n  partir To conceito Te terceirização (outsourcing) \naplicAvel a Area Te T/,  avalie as asserções a seguir e \na relação proposta entre elas.\n/.     computação em nuvem é uma ferramenta \nimportante para o outsourcing Te Tecnologia \nTa /nformação.\nPOZYUN\n//.   O  outsourcing Te  clouT  coloca  computaTores \nTe  ponta  a  Tisposição  Tas  empresas,   o \nque  favorece  a  agiliTaTe  operacional  e \ngarante que a Area Te T/ promova inovações \nestratégicas e transformaToras.  \n   respeito  Tessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\nQUNSTÃO 29\nUm caso Te uso é a Tescrição Te sequgncias Te ações \nrealizaTas pelo sistema que proporciona resultaTos \nobservAveis  Te  valor  para  um  TeterminaTo  ator,  \né  utilizaTo  para  estruturar  o  comportamento  Te \num  sistema  e  é  realizaTo  por  uma  colaboração.  \nMiagramas Te caso Te uso abrangem a visão estAtica \nTo  sistema.   Nsses  Tiagramas  são  importantes \nprincipalmente para a organização e a moTelagem \nTe comportamentos To sistema.\nBOOC,,  '.  ZUMB U',,  M.  : COBSON,  /.  UM>:  \n'uia To usuArio (aTaptaTo).\nNesse  contexto,   acerca  Ta  Tescrição  Te  casos  Te \nuso,  avalie as afrmações a seguir.\n/.   Nmbora a Tescrição Te casos Te uso enfoque \nrequisitos  funcionais,   ela  também  poTe \nespecifcar  requisitos  não  funcionais,   Te \nforma a comunicar Tecisões que Tevem ser \nconsiTeraTas no nível Te proũeto,  no ciclo Te \nviTa To soŌǁare.\n//.   Na  fase  Te  elicitação  Te  requisitos  Te  um \nprocesso  Te  soŌǁare,   artefatos  como \nprototipos Te interfaces grAfcas e Tiagramas \nTe  ativiTaTes  UM>  poTem  ser  usaTos \ncomo  suporte  a  escrita  e  a  compreensão \nTa Tescrição Te casos Te uso em cenArios \ncomplexos,  que envolvem muitas conTições \ne restrições.\n///.     partir Ta Tescrição Te casos Te uso,  que \nestabelece o Ňuxo e as regras Te interação \nentre usuArio e sistema por meio Tos cenArios \nprincipal e alternativos,  poTem ser escritos \ncasos  Te  teste  caixa-preta  para  valiTação \nfuncional  To  soŌǁare,   antecipanTo-se  o \nplaneũamento Te testes para antes Tas fases \nTe proũeto e coTifcação.\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\n*R43201729*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q28.png",
-  "caminho_json": "/questoes/2017_GTI/q28.json",
-  "caminho_txt": "/questoes/2017_GTI/q28.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697694"
 }

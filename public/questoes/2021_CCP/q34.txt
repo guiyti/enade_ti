@@ -1,12 +1,10 @@
-43
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 34	
-O algoritmo Te Mijkstra para o problema To caminUo mínimo em Tígrafos com pesos utiliza uma fila 
-Te prioriTaTes Te vértices, na qual as prioriTaTes são uma estimativa To custo final. A caTa iteração, 
-um vértice é retiraTo Ta fila, e os arcos que começam nesse vértice são analisaTos. ConsiTere o seguinte 
-grafo, no qual Teseja-se conUecer o custo Te um caminUo mínimo para caTa vértice, a partir To vértice M. 
-ConsiTere que -1 representa um custo “infinito”, ou seja, nenUum caminUo até o vértice foi até o 
-momento Tescoberto.
+QUESTÃO 34	
+O algoritmo de Dijkstra para o problema do caminho mínimo em dígrafos com pesos utiliza uma fila 
+de prioridades de vértices, na qual as prioridades são uma estimativa do custo final. A cada iteração, 
+um vértice é retirado da fila, e os arcos que começam nesse vértice são analisados. Considere o seguinte 
+grafo, no qual deseja-se conhecer o custo de um caminho mínimo para cada vértice, a partir do vértice D. 
+Considere que -1 representa um custo “infinito”, ou seja, nenhum caminho até o vértice foi até o 
+momento descoberto.
   
 5
 2
@@ -23,30 +21,13 @@ A
 B
 C
 F
-M
+D
 G
-N
-Com base nas informações e no grafo apresentaTos, assinale a alternativa que representa a estimativa 
-Te custo após Tuas iterações To algoritmo. 
-A	 A: 5 B: 6 C: 10 M: 0 N: 4 F: 1 G: -1
-B	 A: 5 B: 9 C: -1 M: 0 N: 5 F: 1 G: -1
-C	 A: 5 B: 9 C: -1 M: 0 N: 4 F: 1 G: 2
-M	 A: 5 B: 7 C: 8 M: 0 N: 4 F: 1 G: 2
-N	 A: 5 B: 6 C: 8 M: 0 N: 3 F: 1 G: 2
-QUNSTÃO 35	
-Um sistema TistribuíTo é aquele no qual os componentes Te UarTware ou software, localizaTos em 
-computaTores interligaTos em reTe, comunicam-se e coorTenam suas ações apenas envianTo mensagens 
-entre si.
-COULOURCS, G. et al. Sistemas TistribuíTos: conceitos e projeto. 5. eT., Porto Alegre: Bookman, 2013 (aTaptaTo).
-Com base na Tefinição apresentaTa e nos conceitos básicos Te sistemas TistribuíTos, assinale a opção correta.
-A	 A existência Te um relógio físico local sincronizaTo com um relógio global é o que permite aos usuários 
-Te um sistema TistribuíTo trocarem mensagens Te forma coorTenaTa.
-B	 A falUa Te um componente em um sistema TistribuíTo peer-to-peer causa a interrupção Te toTos os 
-Temais componentes até o seu retorno.
-C	 O compartilUamento Tos recursos TistribuíTos entre computaTores interligaTos por uma reTe 
-é possível TesTe que os Tispositivos sejam Uomogêneos em termos Te UarTware e software.
-M	 A aTição Te novos Tispositivos em um sistema TistribuíTo para atenTer a uma TemanTa temporária 
-ou crescente está ligaTa à característica Te escalabiliTaTe To sistema.
-N	 A possibiliTaTe Te vários clientes acessarem Te forma concorrente um mesmo recurso compartilUaTo 
-em um serviTor é resultaTo To alto nível Te transparência To sistema.
-*R02202143*
+E
+Com base nas informações e no grafo apresentados, assinale a alternativa que representa a estimativa 
+de custo após duas iterações do algoritmo. 
+A	 A: 5 B: 6 C: 10 D: 0 E: 4 F: 1 G: -1
+B	 A: 5 B: 9 C: -1 D: 0 E: 5 F: 1 G: -1
+C	 A: 5 B: 9 C: -1 D: 0 E: 4 F: 1 G: 2
+D	 A: 5 B: 7 C: 8 D: 0 E: 4 F: 1 G: 2
+E	 A: 5 B: 6 C: 8 D: 0 E: 3 F: 1 G: 2

@@ -1,85 +1,39 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-9
-QUNSTÃO 9
-Seja A um conjunto e seja ~ uma relação entre pares Te 
-elementos Te A.
-Miz-se que ~ é uma relação Te equivalência entre pares 
-Te elementos Te A se as seguintes proprieTaTes são 
-verifi caTas, para quaisquer elementos a, a’ e a’’ Te A:
+QUESTÃO 9
+Seja A um conjunto e seja ~ uma relação entre pares de 
+elementos de A.
+Diz-se que ~ é uma relação de equivalência entre pares 
+de elementos de A se as seguintes propriedades são 
+verifi cadas, para quaisquer elementos a, a’ e a’’ de A:
 (i)    a ~ a;
 (ii)   se a ~ a’, então a’ ~ a;
 (iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.
-Uma classe Te equivalência To elemento a Te A com 
+Uma classe de equivalência do elemento a de A com 
 respeito à relação ~ é o conjunto 
-O conjunto quociente Te A pela relação Te 
-equivalência ~ é o conjunto Te toTas as classes Te 
-equivalência relativamente à relação ~, TefiniTo e 
-TenotaTo como a seguir:
+O conjunto quociente de A pela relação de 
+equivalência ~ é o conjunto de todas as classes de 
+equivalência relativamente à relação ~, definido e 
+denotado como a seguir:
 A função 
-  é cUamaTa projeção canônica e é 
-Tefi niTa como 
-ConsiTeranTo as Tefi nições acima, analise as afi rmações 
+  é chamada projeção canônica e é 
+defi nida como 
+Considerando as defi nições acima, analise as afi rmações 
 a seguir.
-C. 
-A relação Te equivalência ~ no conjunto A 
-particiona o conjunto A em subconjuntos Tisjuntos: 
-as classes Te equivalência.
-CC. A união Tas classes Te equivalência Ta relação Te 
+I. 
+A relação de equivalência ~ no conjunto A 
+particiona o conjunto A em subconjuntos disjuntos: 
+as classes de equivalência.
+II. A união das classes de equivalência da relação de 
 equivalência ~ no conjunto A resulta no conjunto 
-Tas partes Te A.
-CCC. As três relações seguintes
-são relações Te equivalência no conjunto Tos 
+das partes de A.
+III. As três relações seguintes
+são relações de equivalência no conjunto dos 
 números inteiros 
 .
-CV. Qualquer relação Te equivalência no conjunto A é 
-proveniente Te sua projeção canônica.
+IV. Qualquer relação de equivalência no conjunto A é 
+proveniente de sua projeção canônica.
 É correto apenas o que se afi rma em
-A   CC.
-B   CCC.
-C   C e CCC.
-M   C e CV.
-N   CC e CV.
-QUNSTÃO 10
-Nm TeterminaTo períoTo letivo, caTa estuTante Te um 
-curso universitário tem aulas com um Te três professores, 
-esses iTentifi caTos pelas letras X, Y e Z. As quantiTaTes 
-Te estuTantes (Uomens e mulUeres) que têm aulas com 
-caTa professor é apresentaTa na tabela Te contingência 
-abaixo.
-Professor X
-Professor Y
-Professor Z
-NstuTantes 
-Uomens
-45
-5
-32
-NstuTantes 
-mulUeres
-67
-2
-4
-A partir To grupo Te estuTantes Tesse curso universitário, 
-escolUe-se um estuTante ao acaso. Qual é a probabiliTaTe 
-Te que esse estuTante seja mulUer, TaTo que ele tem 
-aulas apenas com o professor X?
-A    
-61
-73
-B    
-61
-155
-C    
-67
-155
-M    
-22
-112
-N    
-67
-112
-ÁRNA LCVRN
-*A1320119*
-COMPONNNTN NSPNCÍFCCO
+A   II.
+B   III.
+C   I e III.
+D   I e IV.
+E   II e IV.

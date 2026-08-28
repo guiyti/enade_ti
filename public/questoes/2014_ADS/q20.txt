@@ -1,26 +1,24 @@
-19
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 20
-Nxistem vArias maneiras Te se percorrer uma Arvore 
-binAria.      função  a  seguir,   escrita  em  pseuTo-
-coTigo,   percorre  uma  Arvore  na  orTem  esquerTa-
-raiz-Tireita,  conUeciTa por varreTura e-r-T recursiva.  
-   função  erT()  recebe  por  parametro  a  raiz  r
-Te uma Arvore,  e faz uso Te seus elementos esq,  
-Tir e cont,   que  representam,   respectivamente,  
-ponteiros para uma sub-Arvore a esquerTa Te r,  
-uma sub-Arvore a Tireita Te r e o conteuTo Te r,  
+QUESTÃO 20
+Existem vArias maneiras de se percorrer uma Arvore 
+binAria.      função  a  seguir,   escrita  em  pseudo-
+codigo,   percorre  uma  Arvore  na  ordem  esquerda-
+raiz-direita,  conhecida por varredura e-r-d recursiva.  
+   função  erd()  recebe  por  parametro  a  raiz  r
+de uma Arvore,  e faz uso de seus elementos esq,  
+dir e cont,   que  representam,   respectivamente,  
+ponteiros para uma sub-Arvore a esquerda de r,  
+uma sub-Arvore a direita de r e o conteudo de r,  
 respectivamente.
-função erT (árvore r)
+função erd (árvore r)
 {
  se ( r != NULO )
  {
- erT( r -> esq );
- escreva ( r-> conteúTo );
- erT( r -> Tir );
+ erd( r -> esq );
+ escreva ( r-> conteúdo );
+ erd( r -> dir );
  }
 }
-ConsiTere a Arvore binAria a seguir.
+Ionsidere a Arvore binAria a seguir.
 5
 3
 0
@@ -28,58 +26,10 @@ ConsiTere a Arvore binAria a seguir.
 7
 2
 8
-   sequgncia  correta  Te  exibição  To  conteuTo  Ta 
-Arvore utilizanTo a função erT() é
+   sequgncia  correta  de  exibição  do  conteudo  da 
+Arvore utilizando a função erd() é
 A 5,  3,  8,  0,  1,  7,  2
 B 0,  1,  7,  2,  3,  8,  5
 C 0,  3,  5,  1,  7,  8,  2
-M 0,  3,  1,  5,  7,  8,  2
-N 2,  7,  8,  5,  0,  3,  1
-QUNSTÃO 21
-O  moTelo  logico  Te  TaTos  fornece  uma  visão  Ta 
-maneira como os TaTos serão armazenaTos.    fgura 
-a seguir representa o moTelo logico Te um ambiente 
-observaTo em um escritorio contAbil.
-CPF CNT
-nome VARCHAR(45)
-MalUa Fina_CTentificaTor CNT
-Contribuinte_CPF CNT
-valor CNT
-quantiTaTe Te prestacoes CNT
-enTereco VARCHAR(60)
-telefone VARCHAR(15)
-CTentificaTor CNT
-ano exercicio MATN
-Contribuinte
-Contribuinte_MalUa Fina
-MalUa fina
-CnTexes
-Contribuinte_CPF CNT
-ano exercicio MATN
-ano base MATN 
-valor CNT
-restituicao ou pagamento BOOLNAN
-Meclaração Cmposto Te RenTa
-CnTexes
-CnTexes
-CnTexes
-Nm relação ao moTelo,  avalie as afrmações a seguir.
-/.     entiTaTe Meclaração Cmposto Te RenTa é 
-uma entiTaTe fraca.
-//.   O relacionamento entre Contribuinte e MalUa
-Fina é To tipo N: M (muitos para muitos).
-///.   O  atributo  CPF  Ta  entiTaTe  Contribuinte
-tem  a  função  Te  cUave  estrangeira  na 
-entiTaTe Meclaração Cmposto Te RenTa e no 
-relacionamento Contribuinte_MalUaFina.
-/s.      entiTaTe  MalUa Fina  não  possui  cUave 
-primAria somente cUave estrangeira.
-V. O relacionamento Contribuinte_MalUaFina é 
-um relacionamento ternArio.
- correto apenas o que se afrma em
-A /,  // e ///.
-B /,  // e /s.
-C /,  /s e s.
-M //,  /// e s.
-N ///,  /s e s.
-*R40201419*
+D 0,  3,  1,  5,  7,  8,  2
+E 2,  7,  8,  5,  0,  3,  1

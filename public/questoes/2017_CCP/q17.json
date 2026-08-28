@@ -5,17 +5,46 @@
   "paginas": [
     21
   ],
+  "segmentos": [
+    {
+      "pagina": 21,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 311.15999999999997,
+      "y1": 616.0098266601562,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q17.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2277,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 17\n'rupos  de  cientistas  e  grandes  corporações  de \ntodo o mundo tgm buscado desenvolver sistemas \ncomputacionais  inteligentes  capazes  de aũudar  as \npessoas  a  aprender.    s  possibilidades,   os  efeitos \ne  as  implicações  éticas  da  aplicação  da  chamada \n/nteliggncia   rtifcial  (/ )  na  educação  são  temas \nque vgm ganhando espaço nos debates na Area de \ntecnologia educacional em todo o mundo.\n Disponível em:  фhtp:ͬͬ\nǁǁǁ. revistaeducacao. com. brх.  \n cesso em:  26 set.  2017 (adaptado).\n  respeito da adoção de técnicas de /  no processo \neducacional,  avalie as asserções a seguir e a relação \nproposta entre elas.\n/.    lgoritmos de /  adaptativos podem auxiliar \na experigncia de aprendizado da pessoa de \nacordo com o seu perfl.\nWKZYhE\n//.   Ks sistemas com algoritmos de /  adaptativos \nanalisam  respostas  anteriores,   buscando \ndeterminados padrões que possam indicar \npontos  de  difculdade  ou  facilidade  da \npessoa em relação a determinado assunto.\n  respeito dessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verdadeiras,  \ne a // é uma ũustifcativa correta da /.\nB   s asserções / e // são proposições verdadeiras,  \nmas a // não é uma ũustifcativa correta da /.\nC    asserção / é uma proposição verdadeira,  e a // \né uma proposição falsa.\nD    asserção / é uma proposição falsa,  e a // é uma \nproposição verdadeira.\nE   s asserções / e // são proposições falsas.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 21,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n21\nQUNSTÃO 17\n'rupos  Te  cientistas  e  granTes  corporações  Te \ntoTo o munTo tgm buscaTo Tesenvolver sistemas \ncomputacionais  inteligentes  capazes  Te aũuTar  as \npessoas  a  aprenTer.    s  possibiliTaTes,   os  efeitos \ne  as  implicações  éticas  Ta  aplicação  Ta  cUamaTa \n/nteliggncia   rtifcial  (/ )  na  eTucação  são  temas \nque vgm ganUanTo espaço nos Tebates na Area Te \ntecnologia eTucacional em toTo o munTo.\n Misponível em:  фUtp:ͬͬ\nǁǁǁ. revistaeTucacao. com. brх.  \n cesso em:  26 set.  2017 (aTaptaTo).\n  respeito Ta aToção Te técnicas Te /  no processo \neTucacional,  avalie as asserções a seguir e a relação \nproposta entre elas.\n/.    lgoritmos Te /  aTaptativos poTem auxiliar \na experigncia Te aprenTizaTo Ta pessoa Te \nacorTo com o seu perfl.\nPOZYUN\n//.   Os sistemas com algoritmos Te /  aTaptativos \nanalisam  respostas  anteriores,   buscanTo \nTeterminaTos paTrões que possam inTicar \npontos  Te  TifculTaTe  ou  faciliTaTe  Ta \npessoa em relação a TeterminaTo assunto.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\nQUNSTÃO 18\nO algoritmo a seguir recebe um vetor v Te numeros \ninteiros  e  rearranũa  esse  vetor  Te  tal  forma  que \nseus  elementos,   ao  fnal,   esteũam  orTenaTos  Te \nforma crescente.\n01 voiT orTena(int *v, int n)\n02 {\n03   int i, j, cUave;\n04   for(i = 1; i < n; i++)\n05   {\n06      cUave = v[i];\n07      j = i - 1;\n08       wUile(j >= 0 && v[j] < cUave)\n09      {\n10          v[j-1] = v[j];\n11          j = j - 1;\n12      }\n13      v[j+1] = cUave;\n14   }\n15 }\nConsiTeranTo  que  nesse  algoritmo  UA  erros  Te \nlogica  que  Tevem  ser  corrigiTos  para  que  os \nelementos  seũam  orTenaTos  Te  forma  crescente,  \nassinale  a  opção  correta  no  que  se  refere  as \ncorreções aTequaTas.\nA    linUa 04 Teve ser corrigiTa Ta seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linUa \n13,  To seguinte moTo:  v[j - 1] = cUave;.\nB    linUa 04 Teve ser corrigiTa Ta seguinte forma:  \nfor(i = 1; i < n - 1; i++) e a linUa 07,  \nTo seguinte moTo:  j = i + 1;.\nC    linUa 07 Teve ser corrigiTa Ta seguinte forma:\nj = i + 1 e a linUa 08,  To seguinte moTo:  \nwUile(j >= 0 && v[j] > cUave).\nM    linUa 08 Teve ser corrigiTa Ta seguinte forma:  \nwUile(j >= 0 && v[j] > cUave) e \na linUa 10,  To seguinte moTo:  v[j + 1] = \nv[j];.\nN    linUa 10 Teve ser corrigiTa Ta seguinte forma:  \nv[j + 1] = v[j]; e a linUa 13,  To seguinte \nmoTo:  v[j - 1] = cUave;.\n*R03201721*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q17.png",
-  "caminho_json": "/questoes/2017_CCP/q17.json",
-  "caminho_txt": "/questoes/2017_CCP/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148881"
 }

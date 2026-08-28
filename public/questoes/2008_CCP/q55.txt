@@ -1,115 +1,32 @@
-22
-COMPUTAÇÃO
-QUNSTÃO 53
-Um sinal a ser registraTo por um Tispositivo, em intervalos
-regulares Te tempo t = 1, 2, 3, ..., n, resultará em uma seqüência
-Te variáveis aleatórias contínuas X1, X2, ..., Xn. ConsiTere, nessa
-seqüência, os eventos A e B apresentaTos a seguir, em que
-t = 2, 3, ..., n – 1.
-A = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0
-B = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0
-Na Uipótese Te a seqüência X1, X2, ..., Xn ser inTepenTente e que
-seja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes
-itens.
-C
-A probabiliTaTe Te ocorrer o evento A em uma subseqüência
-{Xt – 1, Xt, Xt + 1} é inferior a 0,3.
-CC
-O número esperaTo Tas ocorrências Tos eventos A ou B na
-seqüência X1, X2, ..., Xn é igual a 
-.
-CCC Os eventos A e B são mutuamente exclusivos e, por isso, são
-inTepenTentes.
-Assinale a opção correta.
-A
-Apenas um item está certo.
-B
-Apenas os itens C e CC estão certos.
-C
-Apenas os itens C e CCC estão certos.
-M
-Apenas os itens CC e CCC estão certos.
-N
-ToTos os itens estão certos.
-QUNSTÃO 54
-No encaminUamento Te pacotes na Cnternet, cabe a caTa
-nó Teterminar se é possível entregar um pacote Tiretamente ao
-Testino ou se é preciso encaminUá-lo a um nó intermeTiário. Para
-tanto, usa-se uma tabela Te rotas. Um exemplo Te tabela Te rotas
-simplificaTa é apresentaTo a seguir e pertence a um computaTor
-com enTereço CP 192.0.2.100 e máscara Te reTe 255.255.255.0.
-enTereço Te
-reTe
-máscara
-enTereço To
-gateway
-interface
-custo
-127.0.0.0
-255.0.0.0
-127.0.0.1
-127.0.0.1
-0
-192.0.2.0
-255.255.255.0
-192.0.2.100
-192.0.2.100
-0
-172.16.0.0
-255.255.0.0
-192.0.2.254
-192.0.2.100
-0
-0.0.0.0
-0.0.0.0
-192.0.2.1
-192.0.2.100
-1
-Na situação em que o referiTo computaTor precise enviar pacotes
-para os enTereços 192.0.2.50 e 192.168.0.100, Te acorTo com a
-tabela Te rotas apresentaTa, como ocorrerá a entrega Tesses
-pacotes?
-A
-Miretamente 
-para 
-192.0.2.50 
-e 
-Tiretamente 
-para
-192.168.0.100, respectivamente.
-B
-Miretamente para 192.0.2.50 e encaminUanTo para
-192.0.2.254, respectivamente.
-C
-Miretamente para 192.0.2.50 e encaminUanTo para 192.0.2.1,
-respectivamente.
-M
-NncaminUanTo para 192.0.2.50 e encaminUanTo para
-192.0.2.50, respectivamente.
-N
-NncaminUaTo para 192.0.2.254 e Tiretamente para
-192.168.0.100, respectivamente.
-QUNSTÃO 55
-ConsiTere que um sistema seja constituíTo por três
-componentes montaTos em paralelo que funcionam
-inTepenTentemente. 
+alos
+ncia
+essa
+que
+que
+ntes
+ncia
+B na
+são
+QUESTÃO 55
+Considere que um sistema seja constituído por três
+componentes montados em paralelo que funcionam
+independentemente. 
 Para 
-caTa 
+cada 
 um 
-Tesses
-componentes, a probabiliTaTe Te que uma falUa
-ocorra até o tempo t é TaTa por 
+desses
+componentes, a probabilidade de que uma falha
+ocorra até o tempo t é dada por 
 , em que
-t > 0. Os componentes, após falUarem, são
+t > 0. Os componentes, após falharem, são
 irrecuperáveis. Como os componentes estão
-montaTos em paralelo, o sistema falUa no instante
-em que toTos os três componentes tiverem falUaTo.
-O sistema é também irrecuperável. ConsiTeranTo a
-situação apresentaTa, qual é a probabiliTaTe Te que
-o sistema falUe até o tempo t ?
+montados em paralelo, o sistema falha no instante
+em que todos os três componentes tiverem falhado.
+O sistema é também irrecuperável. Considerando a
+situação apresentada, qual é a probabilidade de que
+o sistema falhe até o tempo t ?
 A
 B
 C
-M
-N
-RASCUNHO
+D
+E

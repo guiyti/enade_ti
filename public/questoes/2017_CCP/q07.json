@@ -5,17 +5,46 @@
   "paginas": [
     11
   ],
+  "segmentos": [
+    {
+      "pagina": 11,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q07.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q07.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 07\n   produção  artesanal  de  panela  de  barro  é  uma  das  maiores  expressões  da  cultura  popular  do \nEspírito ^anto.    técnica de produção pouco mudou em mais de 400 anos,  desde quando a panela \nde barro era produzida em comunidades indígenas.   tualmente,  apresenta-se com modelagem \npropria e original,  adaptada as necessidades funcionais da culinAria típica da região.   s artesãs,  \nvinculadas a  ssociação das Waneleiras de 'oiabeiras,  do município de sitoria-E^,  trabalham em \num galpão com cabines individuais preparadas para a realização de todas as etapas de produção.  \nWara fazer as panelas,  as artesãs retiram a argila do sale do DulembA e do manguezal que margeia \na região e coletam a casca da Rhysophora mangle,  popularmente chamada de mangue vermelho.  \nDa  casca  dessa  planta  as  artesãs  retiram  a  tintura  impermeabilizante  com  a  qual  açoitam  as \npanelas ainda quentes.  Wor tradição,  as autgnticas moqueca e torta capixabas,  dois pratos típicos \nregionais,  devem ser servidas nas panelas de barro assim produzidas.  Essa fusão entre as panelas \nde barro e os pratos preparados com frutos do mar,  principalmente a moqueca,  pelo menos no \nestado do Espírito ^anto,  faz parte das tradições deixadas pelas comunidades indígenas.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ. vitoria. es. gov. brх.   cesso em:  14 ũul.  2017 (adaptado).\nIomo principal elemento cultural na elaboração de pratos ơpicos da cultura capixaba,  a panela de \nbarro de 'oiabeiras foi tombada,  em 2002,  tornando-se a primeira indicação geogrAfca brasileira \nna Area do artesanato,  considerada bem imaterial,  registrado e protegido no /nstituto do Watrimƀnio \n,istorico e  rơstico Eacional (/phan),  no >ivro de Zegistro dos ^aberes e declarada patrimƀnio cultural \ndo Brasil.\n^/>s ,   .  Iomunidade tradicional,  prAticas coletivas e reconhecimento:  narrativas contemporaneas do patrimƀnio cultural.  \n40Σ Encontro  nual da  npocs.  Iaxambu,  2016 (adaptado).\n tualmente,  o trabalho foi profssionalizado e a concorrgncia para atender ao mercado fcou mais acirrada,  \na produção que se desenvolve no galpão ganhou um ritmo mais empresarial com maior visibilidade \npublicitAria,  enquanto as paneleiras de fundo de quintal se queixam de fcarem ofuscadas comercialmente \ndepois que o galpão ganhou notoriedade.\nDEZ>K,  W. Zepensando a tradição:  a moqueca capixaba e a construção da identidade local.\n/nterseções.  Zio de :aneiro.  v.  13,  n.  1,  2011 (adaptado).\nIom base nas informações apresentadas,  assinale a alternativa correta.\nA   produção das panelas de barro abrange interrelações com a natureza local,  de onde se extrai a \nmatéria-prima indispensAvel a confecção das peças ceramistas.\nB   relação entre as tradições das panelas de barro e o prato ơpico da culinAria indígena permanece \ninalterada,  o que viabiliza a manutenção da identidade cultural capixaba.\nC   demanda por bens culturais produzidos por comunidades tradicionais insere o oİcio das paneleiras no \nmercado comercial,  com retornos positivos para toda a comunidade.\nD   inserção das panelas de barro no mercado turístico reduz a dimensão historica,  cultural e estética do \noİcio das paneleiras a dimensão econƀmica da comercialização de produtos artesanais.\nE K oİcio das paneleiras representa uma forma de resistgncia sociocultural da comunidade tradicional \nna medida em que o estado do Espírito ^anto mantém-se alheio aos modos de produção,  divulgação e \ncomercialização dos produtos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 7,
+      "tipo": "OBJETIVA",
+      "pagina": 11,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 07"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "11\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 07\n   proTução  artesanal  Te  panela  Te  barro  é  uma  Tas  maiores  expressões  Ta  cultura  popular  To \nNspírito Santo.    técnica Te proTução pouco muTou em mais Te 400 anos,  TesTe quanTo a panela \nTe barro era proTuziTa em comuniTaTes inTígenas.   tualmente,  apresenta-se com moTelagem \npropria e original,  aTaptaTa as necessiTaTes funcionais Ta culinAria típica Ta região.   s artesãs,  \nvinculaTas a  ssociação Tas Paneleiras Te 'oiabeiras,  To município Te sitoria-NS,  trabalUam em \num galpão com cabines inTiviTuais preparaTas para a realização Te toTas as etapas Te proTução.  \nPara fazer as panelas,  as artesãs retiram a argila To sale To MulembA e To manguezal que margeia \na região e coletam a casca Ta RUysopUora mangle,  popularmente cUamaTa Te mangue vermelUo.  \nMa  casca  Tessa  planta  as  artesãs  retiram  a  tintura  impermeabilizante  com  a  qual  açoitam  as \npanelas ainTa quentes.  Por traTição,  as autgnticas moqueca e torta capixabas,  Tois pratos típicos \nregionais,  Tevem ser serviTas nas panelas Te barro assim proTuziTas.  Nssa fusão entre as panelas \nTe barro e os pratos preparaTos com frutos To mar,  principalmente a moqueca,  pelo menos no \nestaTo To Nspírito Santo,  faz parte Tas traTições TeixaTas pelas comuniTaTes inTígenas.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. vitoria. es. gov. brх.   cesso em:  14 ũul.  2017 (aTaptaTo).\nComo principal elemento cultural na elaboração Te pratos ơpicos Ta cultura capixaba,  a panela Te \nbarro Te 'oiabeiras foi tombaTa,  em 2002,  tornanTo-se a primeira inTicação geogrAfca brasileira \nna Area To artesanato,  consiTeraTa bem imaterial,  registraTo e protegiTo no /nstituto To Patrimƀnio \n,istorico e  rơstico Nacional (/pUan),  no >ivro Te Zegistro Tos Saberes e TeclaraTa patrimƀnio cultural \nTo Brasil.\nS/>s ,   .  ComuniTaTe traTicional,  prAticas coletivas e reconUecimento:  narrativas contemporaneas To patrimƀnio cultural.  \n40Σ Nncontro  nual Ta  npocs.  Caxambu,  2016 (aTaptaTo).\n tualmente,  o trabalUo foi profssionalizaTo e a concorrgncia para atenTer ao mercaTo fcou mais acirraTa,  \na proTução que se Tesenvolve no galpão ganUou um ritmo mais empresarial com maior visibiliTaTe \npublicitAria,  enquanto as paneleiras Te funTo Te quintal se queixam Te fcarem ofuscaTas comercialmente \nTepois que o galpão ganUou notorieTaTe.\nMNZ>O,  P. ZepensanTo a traTição:  a moqueca capixaba e a construção Ta iTentiTaTe local.\n/nterseções.  Zio Te :aneiro.  v.  13,  n.  1,  2011 (aTaptaTo).\nCom base nas informações apresentaTas,  assinale a alternativa correta.\nA   proTução Tas panelas Te barro abrange interrelações com a natureza local,  Te onTe se extrai a \nmatéria-prima inTispensAvel a confecção Tas peças ceramistas.\nB   relação entre as traTições Tas panelas Te barro e o prato ơpico Ta culinAria inTígena permanece \ninalteraTa,  o que viabiliza a manutenção Ta iTentiTaTe cultural capixaba.\nC   TemanTa por bens culturais proTuziTos por comuniTaTes traTicionais insere o oİcio Tas paneleiras no \nmercaTo comercial,  com retornos positivos para toTa a comuniTaTe.\nM   inserção Tas panelas Te barro no mercaTo turístico reTuz a Timensão Uistorica,  cultural e estética To \noİcio Tas paneleiras a Timensão econƀmica Ta comercialização Te proTutos artesanais.\nN O oİcio Tas paneleiras representa uma forma Te resistgncia sociocultural Ta comuniTaTe traTicional \nna meTiTa em que o estaTo To Nspírito Santo mantém-se alUeio aos moTos Te proTução,  Tivulgação e \ncomercialização Tos proTutos.\n*R03201711*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q07.png",
-  "caminho_json": "/questoes/2017_CCP/q07.json",
-  "caminho_txt": "/questoes/2017_CCP/q07.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148825"
 }

@@ -5,17 +5,46 @@
   "paginas": [
     14
   ],
+  "segmentos": [
+    {
+      "pagina": 14,
+      "x0": 25.0,
+      "y0": 74.5,
+      "x1": 294.59999999999997,
+      "y1": 365.8467102050781,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q31.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q31.txt",
   "largura": 1153,
-  "altura": 1242,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1244,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 31\nJulgue os itens a seguir, relativos a métodos de busca com\ninformação (busca heurística) e sem informação (busca\ncega), aplicados a problemas em que todas as ações têm\no mesmo custo, o grafo de busca tem fator de ramificação\nfinito e as ações não retornam a estados já visitados.\nI\nA primeira solução encontrada pela estratégia de busca\nem largura é a solução ótima.\nII\nA primeira solução encontrada pela estratégia de busca\nem profundidade é a solução ótima.\nIII As estratégias de busca com informação usam funções\nheurísticas que, quando bem definidas, permitem\nmelhorar a eficiência da busca.\nIV A estratégia de busca gulosa é eficiente porque\nexpande apenas os nós que estão no caminho da\nsolução.\nEstão certos apenas os itens\nA\nI e II.\nB\nI e III.\nC\nI e IV.\nD\nII e IV.\nE\nIII e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Algoritmos e Estruturas de Dados"
+    "Inteligência Artificial e Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 31,
+      "tipo": "OBJETIVA",
+      "pagina": 14,
+      "x": 35.99909973144531,
+      "y": 78.52682495117188,
+      "x1": 105.36231231689453,
+      "y1": 89.56682586669922,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 31"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "13\nCOMPUTAÇÃO\nQUNSTÃO 31\nJulgue os itens a seguir, relativos a métoTos Te busca com\ninformação (busca Ueurística) e sem informação (busca\ncega), aplicaTos a problemas em que toTas as ações têm\no mesmo custo, o grafo Te busca tem fator Te ramificação\nfinito e as ações não retornam a estaTos já visitaTos.\nC\nA primeira solução encontraTa pela estratégia Te busca\nem largura é a solução ótima.\nCC\nA primeira solução encontraTa pela estratégia Te busca\nem profunTiTaTe é a solução ótima.\nCCC As estratégias Te busca com informação usam funções\nUeurísticas que, quanTo bem TefiniTas, permitem\nmelUorar a eficiência Ta busca.\nCV A estratégia Te busca gulosa é eficiente porque\nexpanTe apenas os nós que estão no caminUo Ta\nsolução.\nNstão certos apenas os itens\nA\nC e CC.\nB\nC e CCC.\nC\nC e CV.\nM\nCC e CV.\nN\nCCC e CV.\nQUNSTÃO 32\nUma \nempresa \nrealizou \numa \navaliação \nTe\nTesempenUo Te um sistema web. Nessa avaliação, foram\nTeterminaTos o Tesvio paTrão e a méTia To tempo Te\nresposta To referiTo sistema, tenTo como base 10\nconsultas realizaTas. Constatou-se que o tempo Te\nresposta To sistema web possui Tistribuição normal. Para\num nível Te confiança Te 95%, iTentificou-se o intervalo Te\nconfiança para a méTia To tempo Te resposta Tas\nconsultas.\nCom relação a essa avaliação Te TesempenUo, julgue os\nitens abaixo.\nC\nCom a meTição To tempo Te resposta To sistema para\n10 consultas aTicionais, é possível que a méTia e o\nTesvio paTrão To tempo Te resposta para o conjunto\nTas 20 consultas aumente ou Timinua.\nCC\nCom a meTição To tempo Te resposta To sistema para\n15 consultas aTicionais, com nível Te confiança Te\n95%, o intervalo Te confiança para o conjunto Tas 25\nconsultas é maior que o intervalo Te confiança para o\nconjunto Tas 10 consultas iniciais.\nCCC Na meTição To tempo Te resposta Tas 10 consultas\niniciais, o intervalo Te confiança com nível Te confiança\nTe 99% é maior que o intervalo Te confiança com nível\nTe confiança Te 95%.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens C e CCC estão certos.\nM\nApenas os itens CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 33\nCompilaTores Te linguagens Te programação traTuzem\nprogramas-fonte, em uma linguagem Te entraTa, para\nprogramas-objeto, em uma linguagem Te saíTa. Murante o\nprocesso Te traTução, o compilaTor Teve verificar se as\nsentenças To programa-fonte estão sintaticamente corretas.\nNsse processo Te análise sintática poTe ser realizaTo\nconstruinTo-se uma árvore Te análise segunTo Tuas\nprincipais aborTagens: top-Town, quanTo a árvore é\ninvestigaTa Ta raiz às folUas; ou bottom-up, Tas folUas à\nraiz. Acerca Tesse assunto, julgue os itens seguintes.\nC\nA análise top-Town é aTequaTa quanTo a linguagem Te\nentraTa é TefiniTa por uma gramática recursiva à\nesquerTa.\nCC\nCnTepenTentemente Ta aborTagem aTotaTa, top-Town\nou bottom-up, o analisaTor sintático utiliza informações\nresultantes Ta análise léxica.\nCCC Se os programas em uma linguagem poTem ser\nanalisaTos tanto em aborTagem top-Town como em\nbottom-up, a gramática Tessa linguagem é ambígua.\nCV A \nanálise \nbottom-up \nutiliza \nações \ncomumente\nconUeciTas como Teslocamentos e reTuções sobre as\nsentenças To programa-fonte. \nNstão certos apenas os itens\nA\nC e CC.\nB\nC e CCC.\nC\nCC e CV.\nM\nC, CCC e CV.\nN\nCC, CCC e CV.\nQUNSTÃO 34\nMoTems são Tispositivos capazes Te converter um sinal\nTigital em um sinal analógico e vice-versa. No processo Te\nmoTulação, para representar o sinal Tigital, o moTem poTe\nmanipular as características Te uma onTa portaTora\n(amplituTe, freqüência e fase), TerivanTo Tiferentes técnicas\nTe moTulação, por exemplo: cUaveamento Ta amplituTe\n(ASO), cUaveamento Ta freqüência (FSO) e cUaveamento\nTa fase (PSO). Com relação a técnicas Te moTulação,\njulgue os itens a seguir.\nC\nA moTulação ASO é suscetível a ruíTos.\nCC\nA moTulação FSO possui maior imuniTaTe a ruíTos\nquanTo comparaTa à moTulação ASO.\nCCC Na moTulação PSO, a fase Ta portaTora é moTificaTa\nTurante o intervalo Te sinalização.\nCV Nxistem técnicas UíbriTas Te moTulação Tigital que\nmoTificam tanto a amplituTe quanto a fase Ta portaTora.\nV As Tiversas técnicas Te moTulação transmitem, no\nmínimo, um único bit e, no máximo, 2 bits, por intervalo\nTe sinalização.\nNstão certos apenas os itens\nA\nC, CC e CV.\nB\nC, CC e V.\nC\nC, CCC e CV.\nM\nCC, CCC e V.\nN\nCCC, CV e V.",
-  "figuras": [],
-  "caminho_png": "/questoes/2008_CCP/q31.png",
-  "caminho_json": "/questoes/2008_CCP/q31.json",
-  "caminho_txt": "/questoes/2008_CCP/q31.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:33.395034"
 }

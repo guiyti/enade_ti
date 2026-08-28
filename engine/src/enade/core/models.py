@@ -215,6 +215,7 @@ class Exam:
     paginas: List[PageData] = field(default_factory=list)
     questoes: List[Question] = field(default_factory=list)
     anomalias: List[Dict[str, Any]] = field(default_factory=list)
+    layout_profile: Optional[Dict[str, Any]] = None
 
     def __post_init__(self):
         if not self.id_prova:
@@ -234,6 +235,7 @@ class Exam:
             "score_geral": self.score_geral,
             "tipo_pdf": self.tipo_pdf.value if isinstance(self.tipo_pdf, PDFType) else self.tipo_pdf,
             "processado_em": self.processado_em,
+            "layout_profile": self.layout_profile,
             "paginas": [p.to_dict() if isinstance(p, PageData) else p for p in self.paginas],
             "questoes": [q.to_dict() if isinstance(q, Question) else q for q in self.questoes],
             "anomalias": self.anomalias
@@ -260,6 +262,7 @@ class Exam:
             score_geral=data.get("score_geral", 0.0),
             tipo_pdf=PDFType(data.get("tipo_pdf", "digital")),
             processado_em=data.get("processado_em", datetime.now().isoformat()),
+            layout_profile=data.get("layout_profile", None),
         )
         exam.paginas = [PageData(**p) for p in data.get("paginas", [])]
         exam.questoes = [Question.from_dict(q) for q in data.get("questoes", [])]

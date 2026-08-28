@@ -1,64 +1,31 @@
-27
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 28
-Os  métoTos  Ageis  são  funTamentaTos  no 
-Tesenvolvimento  e  entrega  incremental  tenTo 
-em vista atenTer aos requisitos Tos clientes.  Nles 
-agregam  um  conũunto  Te  princípios  provenientes 
-To manifesto Agil,  tais como:
-ͻ  envolvimento To cliente͖
-ͻ  entrega incremental͖
-ͻ  pessoas,  não processos͖
-ͻ  aceitação Tas muTanças͖
-ͻ  manutenção Ta simpliciTaTe.
-O  Scrum  é  um  exemplo  Te  métoTo  Agil  Te 
-gerenciamento Te proũetos.   valie as afrmações a 
-seguir sobre a relação To Scrum com os princípios 
-To manifesto Agil.
-/.   O  Scrum  aTota  a  entrega  incremental  por 
-meio Te Sprints.
-//.   O Scrum aTota a simpliciTaTe por meio To 
-uso Ta programação em pares.
-///.   O Scrum aTota o envolvimento To cliente com 
-a priorização e a negociação Tos requisitos 
-na concepção Te Sprints.
- correto o que se afrma em
-A  //,  apenas.
-B  ///,  apenas.
-C  / e //,  apenas.
-M  / e ///,  apenas.
-N  /,  // e ///.
-Area livre
-QUNSTÃO 29
-O  proũetista  To  gerenciaTor  Te  memoria  Te  um 
-novo sistema operacional precisa escolUer entre os 
-algoritmos Te substituição Te pAginas &/&O (First Cn 
-&irst Out - o primeiro a entrar é o primeiro a sair) 
-e >ZU (>east ZecentlǇ UseT - menos recentemente 
-usaTo).   Para  isso,   avaliou  o  numero  Te  faltas  Te 
-pAgina  obtiTas  em  ambos  os  algoritmos  para  o 
-tamanUo  Te  memoria  Te  4  pAginas,   utilizanTo  a 
-sequgncia Te acessos as pAginas 1-2-3-4-1-2-5-1-2-
-3-4-5 Te um processo e memoria inicialmente vazia.  
-Com  base  nessa  simulação,   avalie  as  asserções  a 
+QUESTÃO 29
+K  proũetista  do  gerenciador  de  memoria  de  um 
+novo sistema operacional precisa escolher entre os 
+algoritmos de substituição de pAginas &/&K (First In 
+&irst Kut - o primeiro a entrar é o primeiro a sair) 
+e >Zh (>east ZecentlǇ hsed - menos recentemente 
+usado).   Wara  isso,   avaliou  o  numero  de  faltas  de 
+pAgina  obtidas  em  ambos  os  algoritmos  para  o 
+tamanho  de  memoria  de  4  pAginas,   utilizando  a 
+sequgncia de acessos as pAginas 1-2-3-4-1-2-5-1-2-
+3-4-5 de um processo e memoria inicialmente vazia.  
+Iom  base  nessa  simulação,   avalie  as  asserções  a 
 seguir e a relação proposta entre elas.
-/.   Na simulação proposta,  é possível observar 
-que os algoritmos &/&O e >ZU apresentam o 
-mesmo TesempenUo.
-POZYUN
-//.   Os parametros utilizaTos na simulação são 
-insufcientes para Teterminar a Tiferença Te 
+/.   Ea simulação proposta,  é possível observar 
+que os algoritmos &/&K e >Zh apresentam o 
+mesmo desempenho.
+WKZYhE
+//.   Ks parametros utilizados na simulação são 
+insufcientes para determinar a diferença de 
 funcionamento entre os algoritmos.
-   respeito  Tessas  asserções,   assinale  a  opção 
+   respeito  dessas  asserções,   assinale  a  opção 
 correta.
-A   s asserções / e // são proposições verTaTeiras,  
-e a // é uma ũustifcativa correta Ta /.
-B   s asserções / e // são proposições verTaTeiras,  
-mas a // não é uma ũustifcativa correta Ta /.
-C    asserção / é uma proposição verTaTeira,  e a // 
+A   s asserções / e // são proposições verdadeiras,  
+e a // é uma ũustifcativa correta da /.
+B   s asserções / e // são proposições verdadeiras,  
+mas a // não é uma ũustifcativa correta da /.
+C    asserção / é uma proposição verdadeira,  e a // 
 é uma proposição falsa.
-M    asserção / é uma proposição falsa,  e a // é uma 
-proposição verTaTeira.
-N   s asserções / e // são proposições falsas.
-Area livre
-*R03201727*
+D    asserção / é uma proposição falsa,  e a // é uma 
+proposição verdadeira.
+E   s asserções / e // são proposições falsas.

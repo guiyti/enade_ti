@@ -5,19 +5,48 @@
   "paginas": [
     30
   ],
-  "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
-  "categorias": [
-    "Algoritmos e Estruturas de Dados"
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.4953002929688,
+      "coluna": 0
+    }
   ],
-  "anomalias": [],
-  "texto_completo": "30\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 32\nO uso Te agentes inteligentes permite a resolução Te problemas complexos por meio To uso Te Ueurísticas \nimplementaTas Te forma TistribuíTa.  Na literatura,  o MunTo To  spiraTor Te Po (sacuum-Cleaner torlT) \né um problema fcơcio que envolve o emprego e uso Te agentes no ensino Tos conceitos relacionaTos a \n/nteliggncia  rtifcial.  Nsse munTo fcơcio é composto por um aspiraTor Te po e Tois ou mais ambientes,  \nconforme ilustra a fgura a seguir.  Os ambientes poTem estar suũos ou limpos.\nNesse munTo,  um agente representa o aspiraTor Te po equipaTo com Tois sensores:  um Te localização e \noutro para a iTentifcação Te suũeira.  O agente poTe executar as seguintes operações:\nͻ  verifcar se o ambiente atual estA suũo͖\nͻ  limpar o ambiente͖\nͻ  fazer naTa͖\nͻ  mover-se para o proximo ambiente,  utilizanTo um Tos comanTos:  Tireita,  esquerTa,  frente \nou trAs.\nZussell,  S.  :.͖  Norvig,  P.  rtifcial intelligence: a moTern approacU.  3.  eT.  Neǁ :erseǇ:  Pearson,  2009 (aTaptaTo).\nCom relação aos conceitos envolvenTo sistemas multiagentes e o problema To MunTo To  spiraTor Te \nPo apresentaTo,  assinale a opção correta.\nA  MefniTas as localizações To agente e Ta suũeira como elementos unicos Te um estaTo,  no cenArio Ta \nfgura,  UA 22 с 4 estaTos possíveis para avaliação.\nB  O  comportamento  Te  um  agente  é  TefniTo  por  uma  ou  mais  funções  que  mapeiam  uma  TaTa \nsequgncia percebiTa para uma ação TefniTa.\nC    sequgncia percebiTa Te um agente refere-se ao Uistorico To resultaTo Te toTas as ações tomaTas \npelo agente até o presente momento.\nM    percepção Te um agente refere-se aos resultaTos Tas ações tomaTas por ele.\nN    opção \" fazer naTa\"  é uma percepção vAliTa To agente.\n*R03201730*",
+  "caminho_png": "/questoes/2017_CCP/q32.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q32.txt",
+  "largura": 2440,
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 32\nK uso de agentes inteligentes permite a resolução de problemas complexos por meio do uso de heurísticas \nimplementadas de forma distribuída.  Ea literatura,  o Dundo do  spirador de Wo (sacuum-Ileaner torld) \né um problema fcơcio que envolve o emprego e uso de agentes no ensino dos conceitos relacionados a \n/nteliggncia  rtifcial.  Esse mundo fcơcio é composto por um aspirador de po e dois ou mais ambientes,  \nconforme ilustra a fgura a seguir.  Ks ambientes podem estar suũos ou limpos.\nEesse mundo,  um agente representa o aspirador de po equipado com dois sensores:  um de localização e \noutro para a identifcação de suũeira.  K agente pode executar as seguintes operações:\nͻ  verifcar se o ambiente atual estA suũo͖\nͻ  limpar o ambiente͖\nͻ  fazer nada͖\nͻ  mover-se para o proximo ambiente,  utilizando um dos comandos:  direita,  esquerda,  frente \nou trAs.\nZussell,  ^.  :.͖  Eorvig,  W.  rtifcial intelligence: a modern approach.  3.  ed.  Eeǁ :erseǇ:  Wearson,  2009 (adaptado).\nIom relação aos conceitos envolvendo sistemas multiagentes e o problema do Dundo do  spirador de \nWo apresentado,  assinale a opção correta.\nA  Defnidas as localizações do agente e da suũeira como elementos unicos de um estado,  no cenArio da \nfgura,  hA 22 с 4 estados possíveis para avaliação.\nB  K  comportamento  de  um  agente  é  defnido  por  uma  ou  mais  funções  que  mapeiam  uma  dada \nsequgncia percebida para uma ação defnida.\nC    sequgncia percebida de um agente refere-se ao historico do resultado de todas as ações tomadas \npelo agente até o presente momento.\nD    percepção de um agente refere-se aos resultados das ações tomadas por ele.\nE    opção \" fazer nada\"  é uma percepção vAlida do agente.",
+  "texto_enunciado": "",
+  "alternativas": {},
   "figuras": [
     "/questoes/2017_CCP/figuras/q32_fig1.png"
   ],
-  "caminho_png": "/questoes/2017_CCP/q32.png",
-  "caminho_json": "/questoes/2017_CCP/q32.json",
-  "caminho_txt": "/questoes/2017_CCP/q32.txt"
+  "categorias": [
+    "Inteligência Artificial e Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 32,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 32"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148953"
 }

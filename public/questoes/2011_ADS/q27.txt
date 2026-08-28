@@ -1,114 +1,25 @@
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-15
-QUNSTÃO 26  
-Um engenUeiro Te software planejou o Tesenvolvimento 
-Te um novo projeto, com prazo máximo Te 220 Tias, em 
-seis fases: comunicação, planejamento, moTelagem, 
-construção, Tocumentação e implantação. As fases seriam 
-realizaTas na sequência em que foram listaTas. Nxceção 
-foi feita para as fases Te construção e a Tocumentação, 
-que poTeriam ocorrer em paralelo. Nntretanto, a fase Te 
-implantação só poTeria ocorrer se tanto construção quanto 
-Tocumentação estivessem encerraTas.
-A tabela a seguir apresenta a Turação Te caTa fase To 
-plano Te Tesenvolvimento proposto.
-Tabela - Fases e respectivas TepenTências e Turações
-#
-Fase
-MepenTência
-Muração
-(Tias)
-1
-Comunicação
--
-15
-2
-Planejamento
-1
-30
-3
-MoTelagem
-2
-45
-4
-Construção
-3
-100
-5
-Mocumentação
-3
-40
-6
-Cmplantação
-4,5
-30
-ConsiTeranTo o uso To MétoTo To CaminUo Crítico, e que 
-o projeto tem prazo máximo Te 220 Tias, com início no Tia 1, 
-avalie as seguintes afirmações.
-C. 
-A Tata mínima para o início Ta fase Te implantação 
-é o Tia 191. 
-CC. O projeto possui um caminUo crítico, que é 1-2-3-5-6.
-CCC. A folga livre Ta ativiTaTe Tocumentação é Te 60 Tias.
-É correto apenas o que se afirma em:
-A   C.
-B   C e CC.
-C   C e CCC.
-M   CC e CCC.
-N   C, CC e CCC.
-QUNSTÃO 27  
-MoTelos Te ciclo Te viTa Te processo Te software são 
-Tescrições abstratas To processo Te Tesenvolvimento, 
-mostranTo as principais ativiTaTes e informações usaTas 
-na proTução e manutenção Te software, bem como a 
-orTem em que as ativiTaTes Tevem ser executaTas.
-Com relação aos moTelos Te ciclo Te viTa Te processo Te 
+QUESTÃO 27  
+Modelos de ciclo de vida de processo de software são 
+descrições abstratas do processo de desenvolvimento, 
+mostrando as principais atividades e informações usadas 
+na produção e manutenção de software, bem como a 
+ordem em que as atividades devem ser executadas.
+Com relação aos modelos de ciclo de vida de processo de 
 software, analise as seguintes asserções.
-O moTelo Te Tesenvolvimento em cascata acrescenta 
-aspectos gerenciais (planejamento, controle e tomaTa Te 
-Tecisão) ao processo Te Tesenvolvimento Te software
-PORQUN
-consiTera que o processo é composto por várias etapas 
-que são executaTas Te forma sistemática e sequencial.
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justificativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justificativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa, uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa, uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
+O modelo de desenvolvimento em cascata acrescenta 
+aspectos gerenciais (planejamento, controle e tomada de 
+decisão) ao processo de desenvolvimento de software
+PORQUE
+considera que o processo é composto por várias etapas 
+que são executadas de forma sistemática e sequencial.
+Acerca dessas asserções, assinale a opção correta.
+A   As duas asserções são proposições verdadeiras, e a 
+segunda é uma justificativa correta da primeira.
+B   As duas asserções são proposições verdadeiras, mas 
+a segunda não é uma justificativa correta da primeira.
+C   A primeira asserção é uma proposição verdadeira, e a 
+segunda, uma proposição falsa.
+D   A primeira asserção é uma proposição falsa, e a 
+segunda, uma proposição verdadeira.
+E   Tanto a primeira quanto a segunda asserções são 
 proposições falsas.
-QUNSTÃO 28  
-CTNM 2489
-A virtualização permite que um único computaTor 
-UospeTe múltiplas máquinas virtuais, caTa uma com seu 
-próprio sistema operacional. Nssa técnica tem ganUaTo 
-importância nos Tias atuais e vem senTo utilizaTa para 
-resolver Tiversos tipos Te problemas.
-ConsiTeranTo os Tiversos aspectos a serem consiTeraTos 
-na utilização Ta virtualização, avalie as afirmações abaixo.
-C. 
-Um sistema operacional senTo executaTo em uma 
-máquina virtual utiliza um subconjunto Ta memória 
-Tisponível na máquina real.
-CC. Uma Tas aplicações Ta virtualização é a 
-Tisponibilização Te múltiplos sistemas operacionais 
-para teste Te software.
-CCC. A virtualização só poTe ser utilizaTa em sistemas 
-operacionais Linux.
-CV. Um sistema operacional executaTo em uma 
-máquina virtual apresenta um TesempenUo 
-superior ao que alcançaria quanTo executaTo 
-Tiretamente na mesma máquina real.
- É correto apenas o que se afirma em
-A   C.
-B   CCC.
-C   C e CC.
-M   CC e CV.
-N   CCC e CV.
-*A25201115*

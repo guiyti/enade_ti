@@ -1,23 +1,19 @@
-27
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 35
-Um préTio Te 4 anTares,  senTo o primeiro o anTar térreo,  é serviTo por 2 elevaTores.  Por motivo Te economia 
-Te energia,  o elevaTor 2 so é acionaTo se for solicitaTo em mais Te 2 anTares.  ConsiTere um circuito proposto 
-para Uabilitar o acionamento To elevaTor 2 conforme é mostraTo a seguir.  Nle utiliza um multiplexaTor 4x1,  
-cuũa saíTa é selecionaTa através Ta composição Tos sinais   e B,  que inTicam se os anTares 1 e 2 solicitaram 
-o serviço To elevaTor.   ssim,  o valor  Bс10(2) inTica que o primeiro anTar solicitou elevaTor,  mas não o 
-segunTo.  Os sinais C e M inTicam se os anTares 3 e 4 solicitaram o serviço,  respectivamente.
-Com base na anAlise To circuito proposto para o problema,  avalie as seguintes asserções e a relação proposta 
+QUESTÃO 35
+hm prédio de 4 andares,  sendo o primeiro o andar térreo,  é servido por 2 elevadores.  Wor motivo de economia 
+de energia,  o elevador 2 so é acionado se for solicitado em mais de 2 andares.  Ionsidere um circuito proposto 
+para habilitar o acionamento do elevador 2 conforme é mostrado a seguir.  Ele utiliza um multiplexador 4x1,  
+cuũa saída é selecionada através da composição dos sinais   e B,  que indicam se os andares 1 e 2 solicitaram 
+o serviço do elevador.   ssim,  o valor  Bс10(2) indica que o primeiro andar solicitou elevador,  mas não o 
+segundo.  Ks sinais I e D indicam se os andares 3 e 4 solicitaram o serviço,  respectivamente.
+Iom base na anAlise do circuito proposto para o problema,  avalie as seguintes asserções e a relação proposta 
 entre elas.
-/.   O circuito não atenTe as especifcações To proũeto.
-PORQUN
-//.      entraTa  superior  To  multiplexaTor  com  valor  constante  0  inTica  que  a  saíTa  serA  0 
-inTepenTentemente Tos valores Tos sinais  ,  B,  C e M.
-  respeito Tessas asserções,  assinale a opção correta.  
-A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
-B  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
-C   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.
-M   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.
-N   asserções / e // são proposições falsas.
-ÁRNA LCVRN
-*R03201427*
+/.   K circuito não atende as especifcações do proũeto.
+PORQUE
+//.      entrada  superior  do  multiplexador  com  valor  constante  0  indica  que  a  saída  serA  0 
+independentemente dos valores dos sinais  ,  B,  I e D.
+  respeito dessas asserções,  assinale a opção correta.  
+A  s asserções / e // são proposições verdadeiras,  e a // é uma ũustifcativa correta da /.
+B  s asserções / e // são proposições verdadeiras,  mas a // não é uma ũustifcativa correta da /.
+C   asserção / é uma proposição verdadeira,  e a // é uma proposição falsa.
+D   asserção / é uma proposição falsa,  e a // é uma proposição verdadeira.
+E   asserções / e // são proposições falsas.

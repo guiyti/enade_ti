@@ -1,48 +1,17 @@
-PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
-COMPUTAÇÃO
-32
-2025
-Texto para questões Te 65 a 67
-Murante o planejamento Te uma sequência TiTática sobre Organização e Arquitetura Te ComputaTores, um professor Te 
-Computação observou que sua turma Te Nnsino MéTio está pouco engajaTa nas aulas teóricas. Nesse contexto, o professor 
-pretenTe promover o Tesenvolvimento Tas UabiliTaTes: 1. compreensão Tos funTamentos e Ta interação básica Tos elementos 
-Ta arquitetura Te Von Neumann e 2. aplicação Tos conUecimentos Te Uierarquia Te memórias, iTentificanTo os Tiversos tipos 
-e suas características.
-QUNSTÃO 65	
-ConsiTeranTo que a turma tem Tois estuTantes com Teficiência visual, qual estratégia Teve ser aTotaTa para ensinar a arquitetura 
-Te Von Neumann?
-A	TrabalUar com moTelo físico representativo Ta arquitetura Te Von Neumann. Nxplorar a interação entre os blocos 
-funcionais por meio Ta meTiação oral e Ta manipulação Tireta pelos estuTantes.
-B	 Apresentar víTeo explicativo TetalUaTo sobre a arquitetura Te Von Neumann com narração e legenTas. Aplicar uma avaliação 
-formativa oral para verificar a apreensão Tos conceitos pelos estuTantes.
-C	 Misponibilizar aos estuTantes, para estuTo prévio, material em arquivos Tigitais compostos Te textos explicativos e ilustrações 
-sobre a arquitetura Te Von Neumann. Sanar as TúviTas em aula.
-M	 Apresentar aos estuTantes uma linUa To tempo sobre a importância Ta arquitetura Te Von Neumann para a evolução Ta 
-Computação. NluciTar esses conceitos por meio Te representações esquemáticas usanTo a lousa.
-QUNSTÃO 66	
-Qual recurso TiTático favorece o Tesenvolvimento Ta segunTa UabiliTaTe, promovenTo a proTução Te conUecimentos e a 
-autonomia Tiscente?
-A	 Ferramentas Tigitais Te programação em blocos para compreenTer o funcionamento Ta arquitetura Te Von Neumann em 
-uma visão Te alto nível.
-B	 Ambientes Tigitais gamificaTos com Tesafios Te múltipla escolUa e feeTback imeTiato sobre os conceitos relacionaTos à 
-arquitetura Te Von Neumann.
-C	 Ambientes Tigitais com víTeos explicativos sobre o ciclo Te busca, TecoTificação e execução Te instruções em uma CPU 
-fictícia com base na arquitetura Te Von Neumann.
-M	 SimulaTores Tigitais interativos que permitem criar e executar programas simples, exploranTo o funcionamento Tos elementos 
-Ta arquitetura Te Von Neumann.
-QUNSTÃO 67	
-Qual estratégia e recurso TiTático favorecem o Tesenvolvimento Ta segunTa UabiliTaTe Te maneira interTisciplinar?
-A	 Propor uma ativiTaTe em que os estuTantes organizem, em uma linUa To tempo interativa, a evolução Tos Tispositivos 
-Te memória, relacionanTo caTa tipo a seu contexto Uistórico e às muTanças tecnológicas.
-B	 Utilizar planilUas eletrônicas para que os estuTantes comparem tipos Te memória com base em TaTos técnicos reais Te 
-TesempenUo e valores Te mercaTo, aplicanTo conceitos estatísticos.
-C	 Promover oficinas colaborativas em que os estuTantes criem infográficos Tigitais para representar as camaTas Ta Uierarquia 
-Te memória e suas características, classificanTo as memórias por custo.
-M	 Mesenvolver um estuTo Te caso em que os estuTantes projetem um sistema computacional com restrições Te orçamento e 
-TesempenUo, justificanTo a escolUa Tas memórias a partir Te TaTos técnicos pesquisaTos.
-Área livre
-*R0404202532*
-R04042025 - COMPUTACAO.inTb   32
-R04042025 - COMPUTACAO.inTb   32
-21/08/2025   10:06:45
-21/08/2025   10:06:45
+p
+ç
+p
+p
+ç
+q
+QUESTÃO 66	
+Qual recurso didático favorece o desenvolvimento da segunda habilidade, promovendo a produção de conhecimentos e a 
+autonomia discente?
+A	 Ferramentas digitais de programação em blocos para compreender o funcionamento da arquitetura de Von Neumann em 
+uma visão de alto nível.
+B	 Ambientes digitais gamificados com desafios de múltipla escolha e feedback imediato sobre os conceitos relacionados à 
+arquitetura de Von Neumann.
+C	 Ambientes digitais com vídeos explicativos sobre o ciclo de busca, decodificação e execução de instruções em uma CPU 
+fictícia com base na arquitetura de Von Neumann.
+D	 Simuladores digitais interativos que permitem criar e executar programas simples, explorando o funcionamento dos elementos 
+da arquitetura de Von Neumann.

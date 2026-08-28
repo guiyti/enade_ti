@@ -1,88 +1,12 @@
-COMPUTAÇÃO
-2011
-NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
-13
-QUNSTÃO 18  
-Um venTeTor Te artigos Te pesca obteve com um amigo 
-o cóTigo executável (já compilaTo) Te um programa que 
-gerencia venTas e faz o controle Te estoque, com o intuito 
-Te usá-lo em sua loja. SegunTo o seu amigo, o referiTo 
-programa foi compilaTo em seu sistema computacional 
-pessoal (sistema A) e funciona corretamente. O venTeTor 
-constatou que o programa excecutável também funciona 
-corretamente no sistema computacional Te sua loja 
-(sistema B). ConsiTeranTo a situação relataTa, analise as 
-afi rmações a seguir.
-C. 
-Os computaTores poTeriam ter quantiTaTes 
-Tiferentes Te núcleos (cores).
-CC. As cUamaTas ao sistema (system call) To sistema 
-operacional no sistema A Tevem ser compatíveis 
-com as To sistema B.
-CCC. O conjunto Te instruções To sistema A poTeria ser 
-Tiferente To conjunto Te instruções To sistema B.
-CV. Se os registraTores To sistema A forem Te 64 bits, os 
-registraTores To sistema B poTeriam ser Te 32 bits.
-É correto o que se afi rma em
-A   CCC, apenas.
-B   C e CC, apenas.
-C   CCC e CV, apenas.
-M   C, CC e CV, apenas.
-N   C, CC, CCC e CV.
-QUNSTÃO 19
-Uma equipe está realizanTo testes com base nos 
-cóTigos-fonte Te um sistema. Os testes envolvem a 
-verifi cação Te Tiversos componentes inTiviTualmente, 
-bem como Tas interfaces entre os componentes.
-No contexto apresentaTo, essa equipe está realizanTo 
-testes em nível Te
-A   uniTaTe.
+QUESTÃO 19
+Uma equipe está realizando testes com base nos 
+códigos-fonte de um sistema. Os testes envolvem a 
+verifi cação de diversos componentes individualmente, 
+bem como das interfaces entre os componentes.
+No contexto apresentado, essa equipe está realizando 
+testes em nível de
+A   unidade.
 B   aceitação.
 C   sistema e aceitação.
-M   integração e sistema.
-N   uniTaTe e integração.
-QUNSTÃO 20  
-ConsiTere que G é um grafo qualquer e que V e N são os 
-conjuntos Te vértices e Te arestas Te G, respectivamente. 
-ConsiTere também que grau (v) é o grau Te um vértice 
-v pertencente ao conjunto V. Nesse contexto, analise as 
-seguintes asserções.
-Nm G, a quantiTaTe Te vértices com grau ímpar é ímpar.
-PORQUN
-Para G, vale a iTentiTaTe TaTa pela expressão
-Acerca Tessas asserções, assinale a opção correta.
-A   As Tuas asserções são proposições verTaTeiras, e a 
-segunTa é uma justifi cativa correta Ta primeira.
-B   As Tuas asserções são proposições verTaTeiras, mas 
-a segunTa não é uma justifi cativa correta Ta primeira.
-C   A primeira asserção é uma proposição verTaTeira, e a 
-segunTa uma proposição falsa.
-M   A primeira asserção é uma proposição falsa, e a 
-segunTa uma proposição verTaTeira.
-N   Tanto a primeira quanto a segunTa asserções são 
-proposições falsas. 
-QUNSTÃO 21  
-No Tesenvolvimento Te um software que analisa bases Te 
-MNA, representaTas pelas letras A, C, G, T, utilizou-se as 
-estruturas Te TaTos: pilUa e fi la. ConsiTere que, se uma 
-sequência representa uma pilUa, o topo é o elemento mais 
-à esquerTa; e se uma sequência representa uma fi la, a 
-sua frente é o elemento mais à esquerTa. 
-Analise o seguinte cenário: “a sequência inicial fi cou 
-armazenaTa na primeira estrutura Te TaTos na seguinte 
-orTem: (A,G,T,C,A,G,T,T). CaTa elemento foi retiraTo 
-Ta primeira estrutura Te TaTos e inseriTo na segunTa 
-estrutura Te TaTos, e a sequência fi cou armazenaTa na 
-seguinte orTem: (T,T,G,A,C,T,G,A). Finalmente, caTa 
-elemento foi retiraTo Ta segunTa estrutura Te TaTos e 
-inseriTo na terceira estrutura Te TaTos e a sequência fi cou 
-armazenaTa na seguinte orTem: (T,T,G,A,C,T,G,A)”.
-Qual a única sequência Te estruturas Te TaTos 
-apresentaTas a seguir poTe ter siTo usaTa no cenário 
-Tescrito acima?
-A   Fila - PilUa - Fila.
-B   Fila - Fila - PilUa.
-C   Fila - PilUa - PilUa.
-M   PilUa - Fila - PilUa.
-N   PilUa - PilUa - PilUa.
-*A13201113*
+D   integração e sistema.
+E   unidade e integração.

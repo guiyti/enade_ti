@@ -5,17 +5,46 @@
   "paginas": [
     2
   ],
+  "segmentos": [
+    {
+      "pagina": 2,
+      "x0": 25.0,
+      "y0": 542.0209350585938,
+      "x1": 611.7199999999999,
+      "y1": 773.9274291992188,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2024_CCP/q02.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2024_CCP/q02.txt",
   "largura": 2475,
   "altura": 997,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "confianca": 1.0,
+  "texto_completo": "g\nç\n, p\nq\np\nç\nQUESTÃO 02\t\nUm professor, diante de questionamentos acerca da eficácia das vacinas na comunidade, propõe aos estudantes a realização de \npráticas pedagógicas sobre a relação entre o aumento da ocorrência de doenças que haviam sido erradicadas e o baixo índice \nde vacinação referente aos imunizantes do Programa Nacional de Imunizações (PNI). Considerando o papel da escola como \nespaço de promoção do letramento científico, o professor inicia um projeto de conscientização da comunidade escolar quanto \nà importância da atualização das carteiras vacinais e do combate à desinformação. A fim de atender aos objetivos do projeto, \nfoi elaborada uma proposta de prática pedagógica.\nPara que essa proposta promova o letramento científico, o professor deve\nA\t solicitar uma pesquisa em que os estudantes façam um levantamento junto aos familiares relativo a pendências na carteira \nde vacinação.\nB\t desenvolver um projeto interdisciplinar em que os estudantes investiguem dados científicos sobre vacinação e apresentem \nos resultados em uma feira de ciências com a participação da comunidade escolar.\nC\t promover rodas de conversa em que os estudantes construam um espaço de escuta e reflexão coletiva sobre a importância \ndo conhecimento para a tomada de decisão em relação à escolha das melhores vacinas.\nD\t propor uma prática pedagógica em que os estudantes tenham acesso aos materiais informativos da campanha de vacinação \norganizada pela Secretaria de Saúde na própria unidade escolar.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 2,
+      "tipo": "OBJETIVA",
+      "pagina": 2,
+      "x": 64.60639953613281,
+      "y": 554.0209350585938,
+      "x1": 124.34300231933594,
+      "y1": 569.2889404296875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 02"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nFORMAÇÃO GNRAL MOCNNTN\n2\n2025\nQUNSTÃO 01\t\nTNXTO 1\nMisponível em: www.eTucaTorinclusivo.org.br. Acesso em: 15 ago. 2025 (aTaptaTo).\nTNXTO 2\nNm uma sala Te aula To Nnsino FunTamental, uma turma recebeu um estuTante surTo e que se comunicava por meio Ta Língua \nBrasileira Te Sinais (Libras). ConsiTeranTo que o professor regente não era fluente em Libras, para garantir a participação To \nestuTante nas ativiTaTes, a escola contratou um intérprete que aTaptava e conTuzia as ativiTaTes peTagógicas com o estuTante \nsem a participação To professor.\nAo relacionar a situação Tescrita no Texto 2 com a figura apresentaTa no Texto 1, conclui-se que está ocorrenTo um processo Te\nA\t exclusão, pois o professor não Tialoga Tiretamente com o estuTante surTo.\nB\t segregação, porque a turma não consegue se comunicar com o estuTante surTo.\nC\t inclusão, porque o estuTante surTo participa regularmente Tas aulas com a turma.\nM\t integração, porque o intérprete estabelece uma relação inTiviTual com o estuTante surTo.\nQUNSTÃO 02\t\nUm professor, Tiante Te questionamentos acerca Ta eficácia Tas vacinas na comuniTaTe, propõe aos estuTantes a realização Te \npráticas peTagógicas sobre a relação entre o aumento Ta ocorrência Te Toenças que Uaviam siTo erraTicaTas e o baixo ínTice \nTe vacinação referente aos imunizantes To Programa Nacional Te Cmunizações (PNC). ConsiTeranTo o papel Ta escola como \nespaço Te promoção To letramento científico, o professor inicia um projeto Te conscientização Ta comuniTaTe escolar quanto \nà importância Ta atualização Tas carteiras vacinais e To combate à Tesinformação. A fim Te atenTer aos objetivos To projeto, \nfoi elaboraTa uma proposta Te prática peTagógica.\nPara que essa proposta promova o letramento científico, o professor Teve\nA\t solicitar uma pesquisa em que os estuTantes façam um levantamento junto aos familiares relativo a penTências na carteira \nTe vacinação.\nB\t Tesenvolver um projeto interTisciplinar em que os estuTantes investiguem TaTos científicos sobre vacinação e apresentem \nos resultaTos em uma feira Te ciências com a participação Ta comuniTaTe escolar.\nC\t promover roTas Te conversa em que os estuTantes construam um espaço Te escuta e reflexão coletiva sobre a importância \nTo conUecimento para a tomaTa Te Tecisão em relação à escolUa Tas melUores vacinas.\nM\t propor uma prática peTagógica em que os estuTantes tenUam acesso aos materiais informativos Ta campanUa Te vacinação \norganizaTa pela Secretaria Te SaúTe na própria uniTaTe escolar.\n*R040420252*\nR04042025 - COMPUTACAO.inTb   2\nR04042025 - COMPUTACAO.inTb   2\n21/08/2025   10:06:29\n21/08/2025   10:06:29",
-  "figuras": [],
-  "caminho_png": "/questoes/2024_CCP/q02.png",
-  "caminho_json": "/questoes/2024_CCP/q02.json",
-  "caminho_txt": "/questoes/2024_CCP/q02.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:55:47.062274"
 }

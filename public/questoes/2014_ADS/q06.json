@@ -3,20 +3,48 @@
   "numero": 6,
   "tipo": "OBJETIVA",
   "paginas": [
-    7,
-    8
+    7
   ],
+  "segmentos": [
+    {
+      "pagina": 7,
+      "x0": 25.0,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 749.4,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q06.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q06.txt",
   "largura": 2440,
-  "altura": 2869,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 06\n s mulheres frequentam mais os bancos escolares que os homens,  dividem seu tempo entre o trabalho e os \ncuidados com a casa,  geram renda familiar,  porém continuam ganhando menos e trabalhando mais que os \nhomens.\n s políticas de beneİcios implementadas por empresas preocupadas em facilitar a vida das funcionArias que \ntgm criança pequena em casa ũA estão chegando ao Brasil.   cordos de horArios Ňexíveis,  programas como \nauxílio-creche,  auxílio-babA e auxílio-amamentação são alguns dos beneİcios oferecidos.\nDisponível em: фhtp:ͬͬ\nǁǁǁ1. folha. uol. com. brх.   cesso em:  30 ũul.  2013 (adaptado).\n30,3\n36,5\n10,1\n44,4\n31,7\n34\n15,5\n41,4\nJORNADA MÉDIA TOTAL DE TRABALHO POR\nSEMANA NO BRASIL - (EM HORAS)\nmãe com filhos\npai com filhos\nmulher chefe de casal\ncom filhos\nhomem chefe de casal\ncom filhos\nmulher cônjuge em\ncasal com filhos\ntempo médio por semana dedicado aos afazeres domésticos\n0\n10\n20\n30\n40\n50\n60\n70\ntempo médio por semana dedicado ao trabalho remunerado\n25,9\n36,8\nDisponível em:  фhtp:ͬͬ\nipea. gov. brх.   cesso em:  30 ũul.  2013.  \nIonsiderando o texto e o grAfco,  avalie as afrmações a seguir.\n/.   K somatorio do tempo dedicado pelas mulheres aos afazeres domésticos e ao trabalho remunerado \né superior ao dedicado pelos homens,  independentemente do formato da família.\n//.   K fragmento de texto e os dados do grAfco apontam para a necessidade de criação de políticas que \npromovam a igualdade entre os ggneros no que concerne,  por exemplo,  a tempo médio dedicado \nao trabalho e remuneração recebida.  \n///.  Eo fragmento de reportagem apresentado,  ressalta-se a diferença entre o tempo dedicado por \nmulheres e homens ao trabalho remunerado,  sem alusão aos afazeres domésticos.  \n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD // e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 6,
+      "tipo": "OBJETIVA",
+      "pagina": 7,
+      "x": 51.850399017333984,
+      "y": 108.5428466796875,
+      "x1": 114.302001953125,
+      "y1": 120.5428466796875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 06"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "7\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 06\n s mulUeres frequentam mais os bancos escolares que os Uomens,  TiviTem seu tempo entre o trabalUo e os \ncuiTaTos com a casa,  geram renTa familiar,  porém continuam ganUanTo menos e trabalUanTo mais que os \nUomens.\n s políticas Te beneİcios implementaTas por empresas preocupaTas em facilitar a viTa Tas funcionArias que \ntgm criança pequena em casa ũA estão cUeganTo ao Brasil.   corTos Te UorArios Ňexíveis,  programas como \nauxílio-crecUe,  auxílio-babA e auxílio-amamentação são alguns Tos beneİcios ofereciTos.\nMisponível em: фUtp:ͬͬ\nǁǁǁ1. folUa. uol. com. brх.   cesso em:  30 ũul.  2013 (aTaptaTo).\n30,3\n36,5\n10,1\n44,4\n31,7\n34\n15,5\n41,4\nJORNAMA MÉMCA TOTAL MN TRABALHO POR\nSNMANA NO BRASCL - (NM HORAS)\nmãe com filUos\npai com filUos\nmulUer cUefe Te casal\ncom filUos\nUomem cUefe Te casal\ncom filUos\nmulUer cônjuge em\ncasal com filUos\ntempo méTio por semana TeTicaTo aos afazeres Tomésticos\n0\n10\n20\n30\n40\n50\n60\n70\ntempo méTio por semana TeTicaTo ao trabalUo remuneraTo\n25,9\n36,8\nMisponível em:  фUtp:ͬͬ\nipea. gov. brх.   cesso em:  30 ũul.  2013.  \nConsiTeranTo o texto e o grAfco,  avalie as afrmações a seguir.\n/.   O somatorio To tempo TeTicaTo pelas mulUeres aos afazeres Tomésticos e ao trabalUo remuneraTo \né superior ao TeTicaTo pelos Uomens,  inTepenTentemente To formato Ta família.\n//.   O fragmento Te texto e os TaTos To grAfco apontam para a necessiTaTe Te criação Te políticas que \npromovam a igualTaTe entre os ggneros no que concerne,  por exemplo,  a tempo méTio TeTicaTo \nao trabalUo e remuneração recebiTa.  \n///.  No fragmento Te reportagem apresentaTo,  ressalta-se a Tiferença entre o tempo TeTicaTo por \nmulUeres e Uomens ao trabalUo remuneraTo,  sem alusão aos afazeres Tomésticos.  \n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\n*R4020147*\n\n8\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 07\nO  quaTro  a  seguir  apresenta  a  proporção  (%) \nTe  trabalUaTores  por  faixa  Te  tempo  gasto  no \nTeslocamento  casa-trabalUo,   no  Brasil  e  em  trgs \nciTaTes brasileiras.\nTempo Te \nTeslocamento\nBrasil\nRio Te \nJaneiro\nSão\nPaulo Curitiba \nAté cinco minutos\n12, 70\n5, 80\n5, 10\n7, 80\nMe seis minutos \naté meia Uora\n52, 20\n32, 10\n31, 60\n45, 80\nMais Te meia Uora \naté uma Uora\n23, 60\n33, 50\n34, 60\n32, 40\nMais Te uma Uora \naté Tuas Uoras\n9, 80\n23, 20\n23, 30\n12, 90\nMais Te Tuas \nUoras\n1, 80\n5, 50\n5, 30\n1, 20\nCNNSO 2010ͬ /B'N (aTaptaTo).  \nCom base nos  TaTos apresentaTos e consiTeranTo a \nTistribuição Ta população trabalUaTora nas ciTaTes e \nas políticas publicas TirecionaTas a mobiliTaTe urbana,  \navalie as afrmações a seguir.\n/.     Tistribuição Tas pessoas por faixa Te tempo \nTe  Teslocamento  casa-trabalUo  na  região \nmetropolitana To Zio Te :aneiro é proxima a que \nse verifca em São Paulo,  mas não em Curitiba e \nna méTia brasileira.\n//.   Nas metropoles,  em geral,  a maioria Tos postos \nTe  trabalUo  estA  localizaTa  nas  Areas  urbanas \ncentrais,  e as resiTgncias Ta população Te baixa \nrenTa estão concentraTas em Areas irregulares \nou na periferia,  o que aumenta o tempo gasto por \nesta população no Teslocamento casa-trabalUo e \no custo To transporte.\n///.    s  políticas  publicas  referentes  a  transportes \nurbanos,   como,   por  exemplo,   BilUete  jnico \ne  seículo  >eve  sobre  TrilUos  (s>T),   ao  serem \nimplementaTas,   contribuem  para  reTução  To \ntempo gasto no Teslocamento casa-trabalUo e \nTo custo To transporte.\n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 08\nConstantes  transformações  ocorreram  nos  meios \nrural e urbano,  a partir To século yy.  Com o aTvento \nTa inTustrialização,  Uouve muTanças importantes no \nmoTo Te viTa Tas pessoas,  em seus paTrões culturais,  \nvalores e traTições.  O conũunto Te acontecimentos \nprovocou,   tanto  na  zona  urbana  quanto  na  rural,  \nproblemas como explosão TemogrAfca,  preũuízo nas \nativiTaTes agrícolas e violgncia.\n/niciaram-se  inumeras  transformações  na  natureza,  \ncrianTo-se técnicas para obũetos até então sem utiliTaTe \npara  o  Uomem.   /sso  so  foi  possível  em  Tecorrgncia \nTos  recursos  naturais  existentes,   que  propiciaram \nestrutura Te crescimento e busca Te prosperiTaTe,  o \nque faz Ta experimentação um métoTo Te transformar \nos recursos em beneİcio proprio.\nS NTOS,  M.  Metamorfoses To espaço UabitaTo.\nSão Paulo:  ,ucitec,  1988 (aTaptaTo).\n  partir Tas iTeias expressas no texto acima,  conclui-se \nque,  no Brasil To século yy,\nA a  inTustrialização  ocorreu  inTepenTentemente \nTo gxoTo rural e Tos recursos naturais Tisponíveis.\nB o gxoTo rural para as ciTaTes não preũuTicou as \nativiTaTes agrícolas nem o meio rural porque \nnovas  tecnologias  Uaviam  siTo  introTuziTas \nno campo.\nC Uomens e mulUeres aTvinTos To campo Teixaram \nsua  cultura  e  se  aTaptaram  a  outra,   citaTina,  \ntotalmente Tiferente e oposta aos seus valores.\nM tanto o espaço urbano quanto o rural sofreram \ntransformações  Tecorrentes  Ta  aplicação  Te \nnovas  tecnologias  as  ativiTaTes  inTustriais  e \nagrícolas.\nN os  migrantes  cUegaram  as  granTes  ciTaTes \ntrazenTo  consigo  valores  e  traTições,   que  lUes \npossibilitaram  manter  intacta  sua  cultura,   tal \ncomo se manifestava nas pequenas ciTaTes e no \nmeio rural.\n*R4020148*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q06.png",
-  "caminho_json": "/questoes/2014_ADS/q06.json",
-  "caminho_txt": "/questoes/2014_ADS/q06.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.119930"
 }

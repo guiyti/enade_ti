@@ -1,67 +1,21 @@
-18
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 19
-O  algoritmo  Te  traçaTo  Te  raios  (ray-tracing)  é 
-consiTeraTo  um  marco  no  Tesenvolvimento  Te 
-técnicas  Te  computação  grAfca  para  a  geração  Te 
+QUESTÃO 19
+K  algoritmo  de  traçado  de  raios  (ray-tracing)  é 
+considerado  um  marco  no  desenvolvimento  de 
+técnicas  de  computação  grAfca  para  a  geração  de 
 imagens realistas.
 /magem 1
-Misponível em:  фUtp:ͬͬ
-ǁǁǁ. ǁiŬipeTia. orgх.   cesso em:  18 ũun.  2014.  
+Disponível em:  фhtp:ͬͬ
+ǁǁǁ. ǁiŬipedia. orgх.   cesso em:  18 ũun.  2014.  
 /magem 2 
-Misponível em:  фUtp:ͬͬ
+Disponível em:  фhtp:ͬͬ
 ǁǁǁ.colegioǁeb. com. brх.   cesso em:  18 ũun.  2014.
 /magem 3
-Misponível em:  фUtp:ͬͬ
+Disponível em:  фhtp:ͬͬ
 ǁǁǁ. cgǁ. comх.   cesso em:  18 ũun.  2014.
-  partir Ta anAlise Tas imagens apresentaTas,  conclui-se 
-que a técnica Te traçaTo Te raios foi utilizaTa para a geração
-A apenas Ta imagem 1.
-B apenas Ta imagem 2.
-C apenas Tas imagens 1 e 3.
-M apenas Tas imagens 2 e 3.
-N Tas imagens 1,  2 e 3.
-QUNSTÃO 20
-Um processo tem um ou mais Ňuxos Te execução,  
-normalmente TenominaTos apenas por tUreaTs.
-TUreaT
-Processo 1
-Nspaço
-To usuário
-Nspaço
-To kernel
-Oernel
-Figura 1
-Processo 2
-Processo 3
-TUreaT
-Oernel
-Figura 2
-Processo
-T NNNB UM,   .  M.  Sistemas operacionais moTernos.  3.  eT.  São Paulo:  
-Pearson Prentice ,all,  2010 (aTaptaTo).
-   partir  Tas  fguras  1  e  2  apresentaTas,   avalie  as 
-afrmações a seguir.
-/.   Tanto na fgura 1 quanto na fgura 2,  existem 
-trgs tUreaTs que utilizam o mesmo espaço Te 
-enTereçamento.
-//.   Tanto na fgura 1 quanto na fgura 2,  existem 
-trgs  tUreaTs que  utilizam  trgs  espaços  Te 
-enTereçamento Tistintos.
-///.   Na fgura 2,  existe um processo com um unico 
-espaço Te enTereçamento e trgs tUreaTs Te 
-controle.
-/s.   Na fgura 1,  existem trgs processos traTicionais,  
-caTa qual tem seu espaço Te enTereçamento 
-e uma unica tUreaT Te controle.
-V.  s  tUreaTs  permitem  que  vArias  execuções 
-ocorram no mesmo ambiente Te processo Te 
-forma inTepenTente uma Tas outras.
- correto apenas o que se afrma em
-A /,  // e ///.
-B /,  // e /s.
-C /,  /// e s.
-M //,  /s e s.
-N ///,  /s e s.
-ÁRNA LCVRN
-*R03201418*
+  partir da anAlise das imagens apresentadas,  conclui-se 
+que a técnica de traçado de raios foi utilizada para a geração
+A apenas da imagem 1.
+B apenas da imagem 2.
+C apenas das imagens 1 e 3.
+D apenas das imagens 2 e 3.
+E das imagens 1,  2 e 3.

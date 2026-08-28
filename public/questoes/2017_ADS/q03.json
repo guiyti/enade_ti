@@ -5,17 +5,46 @@
   "paginas": [
     7
   ],
+  "segmentos": [
+    {
+      "pagina": 7,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 774.5,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_ADS/q03.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_ADS/q03.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 03\nK sistema de tarifação de energia elétrica funciona com base em trgs bandeiras.  Ea bandeira verde,  \nas condições de geração de energia são favorAveis e a tarifa não sofre acréscimo.  Ea bandeira amarela,  \na tarifa sofre acréscimo de ZΨ 0, 020 para cada Ŭth consumido,  e na bandeira vermelha,  condição de \nmaior custo de geração de energia,  a tarifa sofre acréscimo de ZΨ 0, 035 para cada Ŭth consumido.   ssim,  \npara saber o quanto se gasta com o consumo de energia de cada aparelho,  basta multiplicar o consumo \nem Ŭth do aparelho pela tarifa em questão.\nDisponível em:  фhtp:ͬͬ\nǁǁǁ.aneel. gov.brх.   cesso em:  17 ũul.  2017 (adaptado).\nEa  tabela  a  seguir,   são  apresentadas  a  potgncia  e  o  tempo  de  uso  diArio  de  alguns  aparelhos \neletroeletrƀnicos usuais em residgncias.\n parelho \nWotgncia \n(kW)\ndempo de uso \ndiArio (h) \nŬth \nIarregador de celular \n0, 010 \n24\n0, 240 \nIhuveiro 3 500 t \n3, 500 \n0, 5 \n1, 750 \nIhuveiro 5 500 t \n5, 500 \n0, 5 \n2, 250 \n>ampada de >ED \n0, 008 \n5\n0, 040 \n>ampada Ňuorescente \n0, 015 \n5\n0, 075 \n>ampada incandescente \n0, 060 \n5\n0, 300 \nModem de internet em stand-by\n0, 005 \n24\n0, 120 \nModem de internet em uso \n0, 012 \n8 \n0, 096 \nDisponível em:  фhtps:ͬͬ\nǁǁǁ. educandoseubolso. blog. brх.   cesso em:  17 ũul.  2017 (adaptado).\nIonsiderando as informações do texto,  os dados apresentados na tabela,  uma tarifa de ZΨ 0, 50 por Ŭth \nem bandeira verde e um mgs de 30 dias,  avalie as afrmações a seguir.\n/.   Em bandeira amarela,  o valor mensal da tarifa de energia elétrica para um chuveiro de 3 500 t \nseria de ZΨ 1, 05,  e de ZΨ 1, 65,  para um chuveiro de 5 500 t.\n//.   Deixar um carregador de celular e um modem de internet em stand-by conectados na rede de \nenergia durante 24 horas representa um gasto mensal de ZΨ 5, 40 na tarifa de energia elétrica em \nbandeira verde,  e de ZΨ 5, 78,  em bandeira amarela.\n///.   Em bandeira verde,  o consumidor gastaria mensalmente ZΨ 3, 90 a mais na tarifa de energia elétrica \nem relação a cada lampada incandescente usada no lugar de uma lampada >ED.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nD / e ///,  apenas.\nE /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Formação Geral e Sociedade"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 3,
+      "tipo": "OBJETIVA",
+      "pagina": 7,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 03"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "7\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 03\nO sistema Te tarifação Te energia elétrica funciona com base em trgs banTeiras.  Na banTeira verTe,  \nas conTições Te geração Te energia são favorAveis e a tarifa não sofre acréscimo.  Na banTeira amarela,  \na tarifa sofre acréscimo Te ZΨ 0, 020 para caTa ŬtU consumiTo,  e na banTeira vermelUa,  conTição Te \nmaior custo Te geração Te energia,  a tarifa sofre acréscimo Te ZΨ 0, 035 para caTa ŬtU consumiTo.   ssim,  \npara saber o quanto se gasta com o consumo Te energia Te caTa aparelUo,  basta multiplicar o consumo \nem ŬtU To aparelUo pela tarifa em questão.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ.aneel. gov.brх.   cesso em:  17 ũul.  2017 (aTaptaTo).\nNa  tabela  a  seguir,   são  apresentaTas  a  potgncia  e  o  tempo  Te  uso  TiArio  Te  alguns  aparelUos \neletroeletrƀnicos usuais em resiTgncias.\n parelUo \nPotgncia \n(kP)\nTempo Te uso \nTiArio (U) \nŬtU \nCarregaTor Te celular \n0, 010 \n24\n0, 240 \nCUuveiro 3 500 t \n3, 500 \n0, 5 \n1, 750 \nCUuveiro 5 500 t \n5, 500 \n0, 5 \n2, 250 \n>ampaTa Te >NM \n0, 008 \n5\n0, 040 \n>ampaTa Ňuorescente \n0, 015 \n5\n0, 075 \n>ampaTa incanTescente \n0, 060 \n5\n0, 300 \nMoTem Te internet em stanT-by\n0, 005 \n24\n0, 120 \nMoTem Te internet em uso \n0, 012 \n8 \n0, 096 \nMisponível em:  фUtps:ͬͬ\nǁǁǁ. eTucanToseubolso. blog. brх.   cesso em:  17 ũul.  2017 (aTaptaTo).\nConsiTeranTo as informações To texto,  os TaTos apresentaTos na tabela,  uma tarifa Te ZΨ 0, 50 por ŬtU \nem banTeira verTe e um mgs Te 30 Tias,  avalie as afrmações a seguir.\n/.   Nm banTeira amarela,  o valor mensal Ta tarifa Te energia elétrica para um cUuveiro Te 3 500 t \nseria Te ZΨ 1, 05,  e Te ZΨ 1, 65,  para um cUuveiro Te 5 500 t.\n//.   Meixar um carregaTor Te celular e um moTem Te internet em stanT-by conectaTos na reTe Te \nenergia Turante 24 Uoras representa um gasto mensal Te ZΨ 5, 40 na tarifa Te energia elétrica em \nbanTeira verTe,  e Te ZΨ 5, 78,  em banTeira amarela.\n///.   Nm banTeira verTe,  o consumiTor gastaria mensalmente ZΨ 3, 90 a mais na tarifa Te energia elétrica \nem relação a caTa lampaTa incanTescente usaTa no lugar Te uma lampaTa >NM.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\n*R4120177*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_ADS/q03.png",
-  "caminho_json": "/questoes/2017_ADS/q03.json",
-  "caminho_txt": "/questoes/2017_ADS/q03.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:16.600982"
 }

@@ -5,17 +5,46 @@
   "paginas": [
     19
   ],
+  "segmentos": [
+    {
+      "pagina": 19,
+      "x0": 25.0,
+      "y0": 76.67594909667969,
+      "x1": 311.15999999999997,
+      "y1": 774.5,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2017_GTI/q15.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_GTI/q15.txt",
   "largura": 1222,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2938,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 15 \n  arquitetura de distribuição diz respeito ao modo \ncomo  uma  organização  distribui  fsicamente \nentre  os  seus  computadores,   em  uma  rede,   o \nprocessamento dos dados e o seu banco de dados.  \nEssa  arquitetura  traz  consequgncias  importantes \npara o desempenho e o uso do banco de dados.   s \nredes de computadores permitem que um ^istema \n'erenciador  de  Banco  de  Dados  (^'BD),   que  é \nexecutado  em  um  computador,   possa  acessar \ndados de outro computador.  .\n'KZDKE ^. Z.͖  'KZDKE :. Z.  ^istemas de /nformação:  \numa abordagem gerencial.  3.  ed.  Zio de :aneiro:\n >dI,  2013 (adaptado).\nIonsiderando esse contexto,  avalie as descrições \na  seguir,   acerca  de  opções  de  arquiteturas  de \ndados utilizados por administradores e especialistas \nem ^'BD.\n/.    rquitetura  descentralizada:   não  envolve \ncompartilhamento de dados.\n//.    rquitetura  centralizada:   um  unico  ^'BD \né  executado  em  um  unico  computador  e \nmantém os dados de forma centralizada.\n///.    rquitetura mista:  permite,  por meio do seu \n^'BD,   que  se  obtenha  um  processamento \nconsolidado,   com  dados  distribuídos  e \ncentralizados  de  forma  simultanea  sem \nque  haũa  redundancia  de  dados  e  de \nprocessamento.\n/s.    rquitetura \nclienteͬ servidor:  \ndivide \nas \nfunções  de  um  ^'BD  entre  computadores \nconectados \nem \numa \nrede \nenquanto \ncentraliza  o  armazenamento  permanente \npara  todos  os  dados  em  um  servidor  de \nbanco de dados.\nV.  rquitetura  distribuída:   distribui  tanto \ndados  como  processamento  e  não  dispõe,  \nnecessariamente,  \nde \narmazenamento \ncentralizado de dados.\n\u001e correto apenas o que se descreve em\nA  /// e /s.\nB  /,  //,  e s.\nC  /,  /// e /s.\nD  //,  /// e s.\nE  /,  //,  /s e s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
-    "Governança e Gestão de TI"
+    "Banco de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 15,
+      "tipo": "OBJETIVA",
+      "pagina": 19,
+      "x": 60.35430145263672,
+      "y": 88.67594909667969,
+      "x1": 125.5143051147461,
+      "y1": 100.95195007324219,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 15"
+    }
   ],
   "anomalias": [],
-  "texto_completo": "19\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nYUNSTãO 15 \n  arquitetura Te Tistribuição Tiz respeito ao moTo \ncomo  uma  organização  Tistribui  fsicamente \nentre  os  seus  computaTores,   em  uma  reTe,   o \nprocessamento Tos TaTos e o seu banco Te TaTos.  \nNssa  arquitetura  traz  consequgncias  importantes \npara o TesempenUo e o uso To banco Te TaTos.   s \nreTes Te computaTores permitem que um Sistema \n'erenciaTor  Te  Banco  Te  MaTos  (S'BM),   que  é \nexecutaTo  em  um  computaTor,   possa  acessar \nTaTos Te outro computaTor.  .\n'OZMON S. Z.͖  'OZMON :. Z.  Sistemas Te /nformação:  \numa aborTagem gerencial.  3.  eT.  Zio Te :aneiro:\n >TC,  2013 (aTaptaTo).\nConsiTeranTo esse contexto,  avalie as Tescrições \na  seguir,   acerca  Te  opções  Te  arquiteturas  Te \nTaTos utilizaTos por aTministraTores e especialistas \nem S'BM.\n/.    rquitetura  TescentralizaTa:   não  envolve \ncompartilUamento Te TaTos.\n//.    rquitetura  centralizaTa:   um  unico  S'BM \né  executaTo  em  um  unico  computaTor  e \nmantém os TaTos Te forma centralizaTa.\n///.    rquitetura mista:  permite,  por meio To seu \nS'BM,   que  se  obtenUa  um  processamento \nconsoliTaTo,   com  TaTos  TistribuíTos  e \ncentralizaTos  Te  forma  simultanea  sem \nque  Uaũa  reTunTancia  Te  TaTos  e  Te \nprocessamento.\n/s.    rquitetura \nclienteͬ serviTor:  \nTiviTe \nas \nfunções  Te  um  S'BM  entre  computaTores \nconectaTos \nem \numa \nreTe \nenquanto \ncentraliza  o  armazenamento  permanente \npara  toTos  os  TaTos  em  um  serviTor  Te \nbanco Te TaTos.\nV.  rquitetura  TistribuíTa:   Tistribui  tanto \nTaTos  como  processamento  e  não  Tispõe,  \nnecessariamente,  \nTe \narmazenamento \ncentralizaTo Te TaTos.\n\u001e correto apenas o que se Tescreve em\nA  /// e /s.\nB  /,  //,  e s.\nC  /,  /// e /s.\nM  //,  /// e s.\nN  /,  //,  /s e s.\nQUNSTÃO 16\nSabenTo-se  que,   na  Area  Te  segurança  Ta \ninformação,   uma  empresa  poTe  apresentar \ninumeras fragiliTaTes,  avalie as afrmações a seguir.\n/.      instabiliTaTe  Tos  sistemas  corporativos \ncompromete  a  TisponibiliTaTe  Tas \ninformações.\n//.   YuanTo as informações presentes nas bases \nTe  TaTos  corporativas  possuem  refergncia \nTe sua fonte eͬ ou critério que permite sua \nvaliTação,   ocorre  comprometimento  em \nsua autenticiTaTe.\n///.  Se a entraTa Te informações TepenTe To \natenTimento  Te  critérios  Te  valiTação \ncom  base  nos  requisitos  Tos  sistemas  e \nnas  regras  Te  negocio,   a  integriTaTe  Tas \ninformações é preũuTicaTa.\n/s.   Compromete-se  a  confTencialiTaTe  Ta \ninformação  quanTo  não  UA  controle  To \nseu  uso  pelos  usuArios,   possibilitanTo  a \nimpressão  eͬ ou  copia  Te  informações  To \nambiente  corporativo  sem  a  iTentifcação \nTo usuArio responsAvel ou Ta Testinação Te \ntal ação.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  / e /s.\nC  // e ///.\nM  /,  // e /s.\nN  //,  /// e /s.\nArea livre\n*R43201719*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_GTI/q15.png",
-  "caminho_json": "/questoes/2017_GTI/q15.json",
-  "caminho_txt": "/questoes/2017_GTI/q15.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:54:08.697642"
 }

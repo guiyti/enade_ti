@@ -1,52 +1,49 @@
-29
-TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
-QUNSTÃO 26
-Para  que  se  realize  a  multiplicação  Te  probabiliTaTes  com  maior  faciliTaTe,   foi  TesenvolviTa,  
-utilizanTo-se  o  paTrão  MsC  (MoTel-sieǁ-Controller),   uma  calculaTora  que  poTe  ser  configuraTa 
-Te Tois moTos:  comum e probabilista.  No primeiro,  as multiplicações ocorrem Te forma orTinAria.  
-No segunTo,  as multiplicações são feitas utilizanTo-se uma formula específica.
-  classe a seguir,  escrita na linguagem :ava,  Tefne o métoTo multiplica.  Nle é executaTo quanTo o 
-botão Ta multiplicação é pressionaTo,  e recebe como parametro os valores que o usuArio Teseũa usar na 
-operação,  além Te possuir uma variAvel Te instancia To tipo CalculaToraController.  O métoTo 
-alteraMoTo é encarregaTo Te alterar a instancia para a qual essa variAvel faz refergncia conforme o 
-moTo selecionaTo pelo usuArio.    instancia interage com as partes To moTel apropriaTas a solicitação 
-realizaTa pelo usuArio.  YuanTo o usuArio Teseũa usar o moTo probabilista,  a variAvel moTo tem o valor 1,  
+QUESTÃO 26
+Wara  que  se  realize  a  multiplicação  de  probabilidades  com  maior  facilidade,   foi  desenvolvida,  
+utilizando-se  o  padrão  DsI  (Dodel-sieǁ-Iontroller),   uma  calculadora  que  pode  ser  configurada 
+de dois modos:  comum e probabilista.  Eo primeiro,  as multiplicações ocorrem de forma ordinAria.  
+Eo segundo,  as multiplicações são feitas utilizando-se uma formula específica.
+  classe a seguir,  escrita na linguagem :ava,  defne o método multiplica.  Ele é executado quando o 
+botão da multiplicação é pressionado,  e recebe como parametro os valores que o usuArio deseũa usar na 
+operação,  além de possuir uma variAvel de instancia do tipo CalculadoraController.  K método 
+alteraModo é encarregado de alterar a instancia para a qual essa variAvel faz refergncia conforme o 
+modo selecionado pelo usuArio.    instancia interage com as partes do model apropriadas a solicitação 
+realizada pelo usuArio.  Yuando o usuArio deseũa usar o modo probabilista,  a variAvel modo tem o valor 1,  
 caso contrArio,  ela tem o valor 0.
-public class CalculaTora {
-   private CalculaToraController c;
-   private int moTo;
-   public Touble multiplica (Touble[] valores) {
+public class Calculadora {
+   private CalculadoraController c;
+   private int modo;
+   public double multiplica (double[] valores) {
       return c.multiplica (valores);
    }
-   public voiT alteraMoTo () {
-      if ( moTo == 1)
+   public void alteraModo () {
+      if ( modo == 1)
          c = new ProbabilistaController();
       else
-         c = new OrTinarioController();
+         c = new OrdinarioController();
       }
 }
-O Tiagrama Te classe que se segue mostra a Uierarquia Te controllers TefniTa para a implementação 
-Ta  calculaTora  Tescrita.      Uierarquia  Te  classes  Te  controle  representa  uma  família  Te  algoritmos 
-intercambiAveis,   por  isso,   o  comportamento  Tos  componentes  Ta  vieǁ,   a  caTa  instante,   poTe  ser 
-Tinamicamente alteraTo,  bastanTo trocar o tipo Ta instancia referenciaTa pela variAvel c.
-CalculaToraController
-+ multiplica(valores : Touble[ ]) : Touble
+K diagrama de classe que se segue mostra a hierarquia de controllers defnida para a implementação 
+da  calculadora  descrita.      hierarquia  de  classes  de  controle  representa  uma  família  de  algoritmos 
+intercambiAveis,   por  isso,   o  comportamento  dos  componentes  da  vieǁ,   a  cada  instante,   pode  ser 
+dinamicamente alterado,  bastando trocar o tipo da instancia referenciada pela variAvel c.
+CalculadoraController
++ multiplica(valores : double[ ]) : double
 ProbabilistaController
-+ multiplica(valores : Touble[ ]) : Touble
-OrTinarioController
-+ multiplica(valores : Touble[ ]) : Touble
-ConsiTeranTo esse cenArio,  avalie as afrmações a seguir.
-/.     Uierarquia exibiTa ilustra o uso To paTrão Te proũetos Strategy.
-//.   O paTrão composto MsC Tefne a existgncia Te um unico controller e,  portanto,  a solução proposta 
-não caracteriza o uso Tesse paTrão.
-///.   O  métoTo  multiplica  Ta  classe  CalculaTora
-cUama o métoTo  multiplica  Te 
-CalculaToraController,  o que caracteriza uma conversão Te interfaces e,  portanto,  o uso 
-To paTrão Te proũetos ATapter.
++ multiplica(valores : double[ ]) : double
+OrdinarioController
++ multiplica(valores : double[ ]) : double
+Ionsiderando esse cenArio,  avalie as afrmações a seguir.
+/.     hierarquia exibida ilustra o uso do padrão de proũetos Strategy.
+//.   K padrão composto DsI defne a existgncia de um unico controller e,  portanto,  a solução proposta 
+não caracteriza o uso desse padrão.
+///.   K  método  multiplica  da  classe  Calculadora
+chama o método  multiplica  de 
+CalculadoraController,  o que caracteriza uma conversão de interfaces e,  portanto,  o uso 
+do padrão de proũetos Adapter.
  correto o que se afrma em
 A  /,  apenas.
 B  //,  apenas.
 C  / e ///,  apenas.
-M  // e ///,  apenas.
-N  /,  // e ///.
-*R41201729*
+D  // e ///,  apenas.
+E  /,  // e ///.

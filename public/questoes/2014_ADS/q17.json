@@ -3,20 +3,48 @@
   "numero": 17,
   "tipo": "OBJETIVA",
   "paginas": [
-    17,
-    18
+    17
   ],
+  "segmentos": [
+    {
+      "pagina": 17,
+      "x0": 317.15999999999997,
+      "y0": 97.5,
+      "x1": 603.3199999999999,
+      "y1": 749.4,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2014_ADS/q17.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2014_ADS/q17.txt",
   "largura": 1223,
-  "altura": 2871,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 2746,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 17\nIasos de uso podem ser organizados agrupando-os \nem pacotes do mesmo modo como são organizadas \nas  classes.   dambém  podem  ser  organizados  pela \nespecifcação de relacionamentos de generalização,  \ninclusão e extensão,  existentes entre eles.\nJACOBSON, I.; BOOCH, G.; RUMBAUGH, J. UML - Guia Do \nUsuário. 1 ed. Campus, 2006 (adaptado).\nIonsiderando  os  relacionamentos  existentes  entre \nos casos de uso,  avalie as afrmações a seguir.\n/.   Wara casos de uso,  a generalização signifca que \no caso de uso flho herda o comportamento e \no signifcado do caso de uso pai e no caso de \nuso flho deverA acrescentar ou sobrescrever \no comportamento de seu pai.\n//.   hm relacionamento de inclusão entre casos de \nuso signifca que o caso de uso base incorpora \nexplicitamente  o  comportamento  de  outro \ncaso de uso em uma localização especifcada.  \nK  caso  de  uso  base  poderA  permanecer \nisolado,   mas,   sob  certas  condições,   seu \ncomportamento  poderA  ser  incluído  pelo \ncomportamento de outro caso de uso.\n///.   hm relacionamento estendido entre casos de \nuso signifca que o caso de uso base incorpora \nimplicitamente  o  comportamento  de  outro \ncaso  de  uso  em  um  local  especifcado \nindiretamente  pelo  caso  de  uso  estendido.  \nK  caso  de  uso  estendido  nunca  permanece \nisolado,  mas é apenas instanciado como parte \nde alguma base maior que o estende.\n/s.   hm  relacionamento  estendido  é  utilizado \npara a modelagem da parte de um caso de \nuso  que  o  usuArio  poderA  considerar  como \num  comportamento  opcional  do  sistema  e \npara a modelagem de um subŇuxo separado,  \nque é executado somente sob determinadas \ncondições.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nD /,  /// e /s.\nE //,  /// e /s.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Engenharia de Software"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 17,
+      "tipo": "OBJETIVA",
+      "pagina": 17,
+      "x": 321.1419982910156,
+      "y": 108.5428466796875,
+      "x1": 383.5948181152344,
+      "y1": 120.5428466796875,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 17"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "17\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 16\nUma \nfunção \né \nTenominaTa \nrecursiva \nquanTo \nela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  \n/mplementações  recursivas  tenTem  a  ser  menos \nefcientes,   porém  facilitam  a  coTifcação  e  seu \nentenTimento.\nCN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te \nTaTos.  Zio Te :aneiro,  2004 (aTaptaTo).\nConsiTere a função recursiva f(),  a qual foi escrita \nem linguagem C:\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\nSuponUa  que  a  função  f()  é  acionaTa  com  os \nseguintes parametros Te entraTa:\nf({2,-4,7,0,-1,4},6);\nNesse caso,  o valor Te retorno Ta função f() serA\nA 8.\nB 10.\nC 13.\nM 15.\nN 18.\nÁRNA LCVRN\nQUNSTÃO 17\nCasos Te uso poTem ser organizaTos agrupanTo-os \nem pacotes To mesmo moTo como são organizaTas \nas  classes.   Também  poTem  ser  organizaTos  pela \nespecifcação Te relacionamentos Te generalização,  \ninclusão e extensão,  existentes entre eles.\nJACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo \nUsuário. 1 eT. Campus, 2006 (aTaptaTo).\nConsiTeranTo  os  relacionamentos  existentes  entre \nos casos Te uso,  avalie as afrmações a seguir.\n/.   Para casos Te uso,  a generalização signifca que \no caso Te uso flUo UerTa o comportamento e \no signifcaTo To caso Te uso pai e no caso Te \nuso flUo TeverA acrescentar ou sobrescrever \no comportamento Te seu pai.\n//.   Um relacionamento Te inclusão entre casos Te \nuso signifca que o caso Te uso base incorpora \nexplicitamente  o  comportamento  Te  outro \ncaso Te uso em uma localização especifcaTa.  \nO  caso  Te  uso  base  poTerA  permanecer \nisolaTo,   mas,   sob  certas  conTições,   seu \ncomportamento  poTerA  ser  incluíTo  pelo \ncomportamento Te outro caso Te uso.\n///.   Um relacionamento estenTiTo entre casos Te \nuso signifca que o caso Te uso base incorpora \nimplicitamente  o  comportamento  Te  outro \ncaso  Te  uso  em  um  local  especifcaTo \ninTiretamente  pelo  caso  Te  uso  estenTiTo.  \nO  caso  Te  uso  estenTiTo  nunca  permanece \nisolaTo,  mas é apenas instanciaTo como parte \nTe alguma base maior que o estenTe.\n/s.   Um  relacionamento  estenTiTo  é  utilizaTo \npara a moTelagem Ta parte Te um caso Te \nuso  que  o  usuArio  poTerA  consiTerar  como \num  comportamento  opcional  To  sistema  e \npara a moTelagem Te um subŇuxo separaTo,  \nque é executaTo somente sob TeterminaTas \nconTições.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nM /,  /// e /s.\nN //,  /// e /s.\n*R40201417*\n\n18\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 18\nNos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturaTas  e  com  toTas  as  funcionaliTaTes  em \num  unico  moTulo,   com  granTe  quantiTaTe  Te \nlinUas Te coTigo.   cessos a bancos Te TaTos não \nrelacionais,   regras  Te  negocios  e  tratamento  Te \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nPosteriormente,  \numa \nimportante \nmuTança  ocorreu:   a  substituição  Tos  terminais \"\nburros\"   por  microcomputaTores,   permitinTo \nque toTo o tratamento Ta interface,  e Te algumas \nregras  Te  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   Surgiam  as  aplicações  cliente-\nserviTor.    partir Tos anos 90,  até os Tias atuais,  \nas  muTanças  foram  mais  raTicais,   os  bancos  Te \nTaTos  passaram  a  ser  relacionais  e  TistribuíTos.  \n s linguagens passaram a ser orientaTas a obũetos,  \ncuũa  moTelagem  encapsula  TaTos  e  oferece \nfuncionaliTaTes  através  Te  métoTos.      interface \npassou a ser web.  sive-se a era Tas aplicações em \ntrgs camaTas.\nConsiTeranTo a evolução Ta arquitetura Te soŌǁare\nTe sistemas Te informação,  conforme citaTo no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerenTo pessoal mais especializaTo.\n//.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitinTo que as partes possam ser alteraTas \nTe forma inTepenTente.\n///.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas aumentou o acoplamento,  TifcultanTo \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 19\nZequisitos funcionais e não funcionais poTem Tefnir \ncaracterísticas  e  funcionaliTaTes  presentes  na \ninterface a ser TesenvolviTa para um sistema.  \nNm  relação  aos  requisitos  não  funcionais,   também \ncUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as \nafrmações a seguir.\n/.   São levantaTos e elicitaTos apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  Teterminarão  as  funcionaliTaTes \nTa interface.\n//.   Sempre  serão  TefniTos  Te  forma  mais \nconcreta,   através  Te  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionaliTaTes levantaTas.\n///.   PoTem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201418*",
-  "figuras": [],
-  "caminho_png": "/questoes/2014_ADS/q17.png",
-  "caminho_json": "/questoes/2014_ADS/q17.json",
-  "caminho_txt": "/questoes/2014_ADS/q17.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:52:36.120034"
 }

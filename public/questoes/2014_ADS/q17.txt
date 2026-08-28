@@ -1,164 +1,44 @@
-17
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 16
-Uma 
-função 
-é 
-TenominaTa 
-recursiva 
-quanTo 
-ela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  
-/mplementações  recursivas  tenTem  a  ser  menos 
-efcientes,   porém  facilitam  a  coTifcação  e  seu 
-entenTimento.
-CN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te 
-TaTos.  Zio Te :aneiro,  2004 (aTaptaTo).
-ConsiTere a função recursiva f(),  a qual foi escrita 
-em linguagem C:
-1 int f( int v[], int n) {
-2
- if (n == 0)
-3
- return 0;
-4
- else {
-5
- int s;
-6
- s = f( v, n-1);
-7       if (v[n-1] > 0) s = s + v[n-1];
-8
- return s;
-9
- }
-10 }
-SuponUa  que  a  função  f()  é  acionaTa  com  os 
-seguintes parametros Te entraTa:
-f({2,-4,7,0,-1,4},6);
-Nesse caso,  o valor Te retorno Ta função f() serA
-A 8.
-B 10.
-C 13.
-M 15.
-N 18.
-ÁRNA LCVRN
-QUNSTÃO 17
-Casos Te uso poTem ser organizaTos agrupanTo-os 
-em pacotes To mesmo moTo como são organizaTas 
-as  classes.   Também  poTem  ser  organizaTos  pela 
-especifcação Te relacionamentos Te generalização,  
+QUESTÃO 17
+Iasos de uso podem ser organizados agrupando-os 
+em pacotes do mesmo modo como são organizadas 
+as  classes.   dambém  podem  ser  organizados  pela 
+especifcação de relacionamentos de generalização,  
 inclusão e extensão,  existentes entre eles.
-JACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo 
-Usuário. 1 eT. Campus, 2006 (aTaptaTo).
-ConsiTeranTo  os  relacionamentos  existentes  entre 
-os casos Te uso,  avalie as afrmações a seguir.
-/.   Para casos Te uso,  a generalização signifca que 
-o caso Te uso flUo UerTa o comportamento e 
-o signifcaTo To caso Te uso pai e no caso Te 
-uso flUo TeverA acrescentar ou sobrescrever 
-o comportamento Te seu pai.
-//.   Um relacionamento Te inclusão entre casos Te 
-uso signifca que o caso Te uso base incorpora 
-explicitamente  o  comportamento  Te  outro 
-caso Te uso em uma localização especifcaTa.  
-O  caso  Te  uso  base  poTerA  permanecer 
-isolaTo,   mas,   sob  certas  conTições,   seu 
-comportamento  poTerA  ser  incluíTo  pelo 
-comportamento Te outro caso Te uso.
-///.   Um relacionamento estenTiTo entre casos Te 
-uso signifca que o caso Te uso base incorpora 
-implicitamente  o  comportamento  Te  outro 
-caso  Te  uso  em  um  local  especifcaTo 
-inTiretamente  pelo  caso  Te  uso  estenTiTo.  
-O  caso  Te  uso  estenTiTo  nunca  permanece 
-isolaTo,  mas é apenas instanciaTo como parte 
-Te alguma base maior que o estenTe.
-/s.   Um  relacionamento  estenTiTo  é  utilizaTo 
-para a moTelagem Ta parte Te um caso Te 
-uso  que  o  usuArio  poTerA  consiTerar  como 
-um  comportamento  opcional  To  sistema  e 
-para a moTelagem Te um subŇuxo separaTo,  
-que é executaTo somente sob TeterminaTas 
-conTições.
+JACOBSON, I.; BOOCH, G.; RUMBAUGH, J. UML - Guia Do 
+Usuário. 1 ed. Campus, 2006 (adaptado).
+Ionsiderando  os  relacionamentos  existentes  entre 
+os casos de uso,  avalie as afrmações a seguir.
+/.   Wara casos de uso,  a generalização signifca que 
+o caso de uso flho herda o comportamento e 
+o signifcado do caso de uso pai e no caso de 
+uso flho deverA acrescentar ou sobrescrever 
+o comportamento de seu pai.
+//.   hm relacionamento de inclusão entre casos de 
+uso signifca que o caso de uso base incorpora 
+explicitamente  o  comportamento  de  outro 
+caso de uso em uma localização especifcada.  
+K  caso  de  uso  base  poderA  permanecer 
+isolado,   mas,   sob  certas  condições,   seu 
+comportamento  poderA  ser  incluído  pelo 
+comportamento de outro caso de uso.
+///.   hm relacionamento estendido entre casos de 
+uso signifca que o caso de uso base incorpora 
+implicitamente  o  comportamento  de  outro 
+caso  de  uso  em  um  local  especifcado 
+indiretamente  pelo  caso  de  uso  estendido.  
+K  caso  de  uso  estendido  nunca  permanece 
+isolado,  mas é apenas instanciado como parte 
+de alguma base maior que o estende.
+/s.   hm  relacionamento  estendido  é  utilizado 
+para a modelagem da parte de um caso de 
+uso  que  o  usuArio  poderA  considerar  como 
+um  comportamento  opcional  do  sistema  e 
+para a modelagem de um subŇuxo separado,  
+que é executado somente sob determinadas 
+condições.
  correto apenas o que se afrma em
 A / e //.
 B / e /s.
 C // e ///.
-M /,  /// e /s.
-N //,  /// e /s.
-*R40201417*
-
-18
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 18
-Nos  anos  70,   os  sistemas  executavam  em 
-mainframes com aplicativos escritos em linguagens 
-estruturaTas  e  com  toTas  as  funcionaliTaTes  em 
-um  unico  moTulo,   com  granTe  quantiTaTe  Te 
-linUas Te coTigo.   cessos a bancos Te TaTos não 
-relacionais,   regras  Te  negocios  e  tratamento  Te 
-telas  para  terminais " burros"   fcavam  no  mesmo 
-programa.  
-Posteriormente,  
-uma 
-importante 
-muTança  ocorreu:   a  substituição  Tos  terminais "
-burros"   por  microcomputaTores,   permitinTo 
-que toTo o tratamento Ta interface,  e Te algumas 
-regras  Te  negocios,   passassem  a  ser  feitas  nas 
-estações  clientes.   Surgiam  as  aplicações  cliente-
-serviTor.    partir Tos anos 90,  até os Tias atuais,  
-as  muTanças  foram  mais  raTicais,   os  bancos  Te 
-TaTos  passaram  a  ser  relacionais  e  TistribuíTos.  
- s linguagens passaram a ser orientaTas a obũetos,  
-cuũa  moTelagem  encapsula  TaTos  e  oferece 
-funcionaliTaTes  através  Te  métoTos.      interface 
-passou a ser web.  sive-se a era Tas aplicações em 
-trgs camaTas.
-ConsiTeranTo a evolução Ta arquitetura Te soŌǁare
-Te sistemas Te informação,  conforme citaTo no texto 
-acima,  avalie as seguintes afrmações.
-/.      separação  Tos  sistemas  em  trgs  camaTas 
-logicas  torna  os  sistemas  mais  complexos,  
-requerenTo pessoal mais especializaTo.
-//.      separação  Tos  sistemas  em  trgs  camaTas 
-logicas  torna  os  sistemas  mais  Ňexíveis,  
-permitinTo que as partes possam ser alteraTas 
-Te forma inTepenTente.
-///.      separação  Tos  sistemas  em  trgs  camaTas 
-logicas aumentou o acoplamento,  TifcultanTo 
-a manutenção.
- correto o que se afrma em
-A //,  apenas.
-B ///,  apenas.
-C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-QUNSTÃO 19
-Zequisitos funcionais e não funcionais poTem Tefnir 
-características  e  funcionaliTaTes  presentes  na 
-interface a ser TesenvolviTa para um sistema.  
-Nm  relação  aos  requisitos  não  funcionais,   também 
-cUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as 
-afrmações a seguir.
-/.   São levantaTos e elicitaTos apos os requisitos 
-funcionais,   uma  vez  que  os  requisitos 
-funcionais  Teterminarão  as  funcionaliTaTes 
-Ta interface.
-//.   Sempre  serão  TefniTos  Te  forma  mais 
-concreta,   através  Te  requisitos  funcionais,  
-uma vez que o usuArio manipula na interface 
-somente as funcionaliTaTes levantaTas.
-///.   PoTem 
-complementar 
-os 
-requisitos 
-funcionais.
- correto o que se afrma em
-A //,  apenas.
-B ///,  apenas.
-C / e //,  apenas.
-M / e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201418*
+D /,  /// e /s.
+E //,  /// e /s.

@@ -1,47 +1,31 @@
-23
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 28
-Um  cientista  afrma  ter  encontraTo  uma  reTução  polinomial  Te  um  problema  NP-Completo  para  um 
-problema pertencente a classe P. ConsiTeranTo que esta afrmação tem implicações importantes no que 
-Tiz respeito a complexiTaTe computacional,  avalie as seguintes asserções e a relação proposta entre elas.
-/.     Tescoberta To cientista implica P с NP.
-PORQUN
-//.     Tescoberta To cientista implica na existgncia Te algoritmos polinomiais para toTos os problemas 
-NP-Completos.
-  respeito Tessas asserções,  assinale a opção correta.
-A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
-B  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
-C   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.
-M   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.
-N  s asserções / e // são proposições falsas.
-QUNSTÃO 29
-Miferentes implementações Ta linguagem Te programação PZO>O' permitem preTicaTos com parametros,  
-aceitam as operações Te conũunção e Tisũunção logica,  utilizanTo os símbolos vírgula (conũunção) e ponto e 
-vírgula (Tisũunção),  e a negação logica com o preTicaTo not.
-ConsiTere que um programaTor propoz as clAusulas mostraTas a seguir,  TefniTas em uma linguagem Te 
-programação como PZO>O',  como parte Ta verifcação Te critérios para seleção Te canTiTatos a uma cUapa 
-Te presiTente e vice-presiTente Te uma empresa.  Nstas clAusulas apresentam as premissas para cUegar as 
-conclusões selecionaTos,  TesconsiTeraTos e TescartaTo,  a partir Ta possibiliTaTe Ta existgncia Te fatos ou 
-regras com o iTentifcaTor superior.
+E  s asserções / e // são proposições falsas.
+QUESTÃO 29
+Diferentes implementações da linguagem de programação WZK>K' permitem predicados com parametros,  
+aceitam as operações de conũunção e disũunção logica,  utilizando os símbolos vírgula (conũunção) e ponto e 
+vírgula (disũunção),  e a negação logica com o predicado not.
+Ionsidere que um programador propoz as clAusulas mostradas a seguir,  defnidas em uma linguagem de 
+programação como WZK>K',  como parte da verifcação de critérios para seleção de candidatos a uma chapa 
+de presidente e vice-presidente de uma empresa.  Estas clAusulas apresentam as premissas para chegar as 
+conclusões selecionados,  desconsiderados e descartado,  a partir da possibilidade da existgncia de fatos ou 
+regras com o identifcador superior.
 superior(jorge).
 superior(ana).
-selecionaTos(P,Q) :- superior(P), superior(Q).
-TesconsiTeraTos(P,Q) :- not(superior(P)); not(superior(Q)).
-TescartaTo(P) :- not(superior(P)).
-ConsiTeranTo  apenas  as  colocações  e  clAusulas  acima  e  a  Uipotese  Te  munTo  fecUaTo  (closeT worlT 
+selecionados(P,Q) :- superior(P), superior(Q).
+desconsiderados(P,Q) :- not(superior(P)); not(superior(Q)).
+descartado(P) :- not(superior(P)).
+Ionsiderando  apenas  as  colocações  e  clAusulas  acima  e  a  hipotese  de  mundo  fechado  (closed world 
 assumption),  avalie as afrmações a seguir.  
-/.   Para toTos valores Tos parametros P e Q,  o preTicaTo selecionaTos retornarA um valor logico falso.
-//.   Para toTos valores Te P e Q,  os preTicaTos selecionaTos e TesconsiTeraTos retornarão 
-valores logicos Tiferentes.
-///.     conũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  
-retornarA um valor logico verTaTeiro.
-/s.    Para qualquer valor To parametro P,  o preTicaTo TescartaTo retornarA um valor verTaTeiro.
-V.   Tisũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  
-retornarA um valor logico verTaTeiro.  
+/.   Wara todos valores dos parametros P e Q,  o predicado selecionados retornarA um valor logico falso.
+//.   Wara todos valores de P e Q,  os predicados selecionados e desconsiderados retornarão 
+valores logicos diferentes.
+///.     conũunção dos predicados selecionados e desconsiderados,  para quaisquer valores de P e Q,  
+retornarA um valor logico verdadeiro.
+/s.    Wara qualquer valor do parametro P,  o predicado descartado retornarA um valor verdadeiro.
+V.   disũunção dos predicados selecionados e desconsiderados,  para quaisquer valores de P e Q,  
+retornarA um valor logico verdadeiro.  
  correto apenas o que se afrma em
 A / e //.
 B / e ///.
 C // e s.
-M /// e /s.
-N /s e s.
-*R03201423*
+D /// e /s.
+E /s e s.

@@ -1,85 +1,20 @@
-21
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 24
-O ZUP (Zational UnifeT Process) é subTiviTiTo em 
-&ases,  que inTicam a gnfase que é TaTa ao proũeto 
-em um TaTo instante,  e em &luxos Te trabalUo,  que 
-Tefnem os grupos Te ativiTaTes a serem realizaTas 
-ao longo Tas fases.
-ConsiTeranTo que no Tesenvolvimento Te soŌǁare
-utilizam-se  técnicas  Te  anAlise  e  proũeto  orientaTo 
-a  obũetos  e  que  as  ativiTaTes  seũam  TistribuíTas 
-Te acorTo com o ZUP, o momento que Tevem ser 
-elaboraTos os Tiagramas Te classes e Te interação 
-entre os obũetos To sistema é
-A na fase Te Concepção,  no Ňuxo Te MoTelagem Te 
+QUESTÃO 24
+K ZhW (Zational hnifed Wrocess) é subdividido em 
+&ases,  que indicam a gnfase que é dada ao proũeto 
+em um dado instante,  e em &luxos de trabalho,  que 
+defnem os grupos de atividades a serem realizadas 
+ao longo das fases.
+Ionsiderando que no desenvolvimento de soŌǁare
+utilizam-se  técnicas  de  anAlise  e  proũeto  orientado 
+a  obũetos  e  que  as  atividades  seũam  distribuídas 
+de acordo com o ZhW, o momento que devem ser 
+elaborados os diagramas de classes e de interação 
+entre os obũetos do sistema é
+A na fase de Ioncepção,  no Ňuxo de Dodelagem de 
 negocios.
-B na  fase  Te  Nlaboração,   no  Ňuxo  Te   nAlise  e 
-Mesign.
-C na  fase  Te  Concepção,   no  Ňuxo  Te   nAlise  e 
-Mesign.
-M na fase Te Nlaboração,  no Ňuxo Te Zequisitos.
-N na fase Te Concepção,  no Ňuxo Te Zequisitos.
-QUNSTÃO 25
-  engenUaria Te soŌǁare consiTera Tiversos aspectos 
-para a garantia Ta qualiTaTe.  Os requisitos funcionais 
-Tefnem  como  um  sistema  TeverA  se  comportar 
-em  relação  as  suas  funcionaliTaTes  bAsicas,   ũA  os 
-requisitos não funcionais avaliam outros aspectos To 
-soŌǁare.
-São exemplos Te requisitos não funcionais a serem 
-consiTeraTos em um soŌǁare:
-A segurança,  TesempenUo,  estresse e sistema.
-B usabiliTaTe,  segurança,  aceitação e confabiliTaTe.
-C usabiliTaTe,  
-segurança,  
-TesempenUo 
-e 
-confabiliTaTe.
-M segurança,  
-aceitação,  
-testabiliTaTe 
-e 
-confTencialiTaTe.
-N usabiliTaTe,  
-confTencialiTaTe,  
-aceitação 
-e 
-confabiliTaTe.
-QUNSTÃO 26
-O serviço MNS (Momain Name SǇstem) traTuz nomes 
-alfanuméricos  Te  Uosts  em  enTereços  numéricos,  
-Te  acorTo  com  o  protocolo  /P  (/nternet  Protocol).  
-Nssa ação é comumente cUamaTa Te resolução Te 
-enTereço.
-T NNNB UM,   .  S.  ReTes Te ComputaTores.
-Zio Te :aneiro:  Campus,  2003 (aTaptaTo).
-ConsiTere 
-um 
-conũunto 
-Te 
-computaTores 
-conectaTos  em  uma  reTe  local,   os  quais  tgm  a 
-sua Tisposição um serviTor MNS capaz Te resolver 
-enTereços,  seũam eles internos ou externos.
-Nesse contexto,  avalie as afrmações a seguir.
-/.   O serviTor MNS também executa funções Te 
-cliente  MNS  quanTo  não  é  autoritativo  para 
-TeterminaTo enTereço.
-//.     aToção To /Pv6 (/nternet Protocol,  versão 6) 
-TispensarA serviços Te MNS,  pois suas funções 
-serão incorporaTas pelo proprio protocolo /P.
-///.   O  cacUe  MNS  permite  que  TeterminaTa 
-requisição To cliente MNS possa ser resolviTa 
-sem  que  seũa  necessArio  recorrer  a  outro 
-serviço MNS.
-/s.   O  protocolo  MNS  TepenTe  Te  um  banco  Te 
-TaTos TistribuíTo.
- correto apenas o que se afrma em
-A / e //.
-B / e ///.
-C // e /s.
-M /,  /// e /s.
-N //,  /// e /s.
-ÁRNA LCVRN
-*R40201421*
+B na  fase  de  Elaboração,   no  Ňuxo  de   nAlise  e 
+Design.
+C na  fase  de  Ioncepção,   no  Ňuxo  de   nAlise  e 
+Design.
+D na fase de Elaboração,  no Ňuxo de Zequisitos.
+E na fase de Ioncepção,  no Ňuxo de Zequisitos.

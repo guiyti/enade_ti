@@ -1,165 +1,103 @@
-23
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 29
-UM>  é  uma  linguagem  paTrão  para  Tesenvolver  e 
-Tocumentar  proũetos  Te  soŌǁare  e  permite  que 
-TesenvolveTores  visualizem  os  proTutos  Te  seus 
-trabalUos  em  Tiagramas  paTronizaTos.   Nla  surgiu 
-como  uma  proposta  Te  ser  uma  linguagem  para 
-moTelagem Te TaTos que usava Tiversos artefatos 
-para representar o moTelo Te negocio e um Tesses 
-artefatos é o Tiagrama Te classes.
-PZNSSM N,  Z.  S.  NngenUaria Te soŌǁare.  6 eT.  Porto  legre:  
-BooŬman,  2006 (aTaptaTo).
-Se um proũeto não tem a Tocumentação apropriaTa 
-ou se estA com a Tocumentação TesatualizaTa,  uma 
-opção é a engenUaria reversa que possibilita mapear 
-coTigos para Tiagramas UM>.    seguir,  é apresentaTo 
-um coTigo na linguagem Te programação : s .
-1 package Tefault; 
+QUESTÃO 29
+hD>  é  uma  linguagem  padrão  para  desenvolver  e 
+documentar  proũetos  de  soŌǁare  e  permite  que 
+desenvolvedores  visualizem  os  produtos  de  seus 
+trabalhos  em  diagramas  padronizados.   Ela  surgiu 
+como  uma  proposta  de  ser  uma  linguagem  para 
+modelagem de dados que usava diversos artefatos 
+para representar o modelo de negocio e um desses 
+artefatos é o diagrama de classes.
+WZE^^D E,  Z.  ^.  Engenharia de soŌǁare.  6 ed.  Worto  legre:  
+BooŬman,  2006 (adaptado).
+^e um proũeto não tem a documentação apropriada 
+ou se estA com a documentação desatualizada,  uma 
+opção é a engenharia reversa que possibilita mapear 
+codigos para diagramas hD>.    seguir,  é apresentado 
+um codigo na linguagem de programação : s .
+1 package default; 
 2
-3 public class Funcionario extenTs Pessoa {
+3 public class Funcionario extends Pessoa {
 4
-private Touble salario;
+private double salario;
 5
 6
 public Funcionario(int rg, String nome,
 7
-Touble salario) {
+double salario) {
 8
 super(rg, nome);
 9
- tUis.salario= salario;
+ this.salario= salario;
 10
 }
 11
-public Touble getSalario() {
+public double getSalario() {
 12
 return salario; 
 13
 14
 }
 15
-public Touble obterSalario(Touble
+public double obterSalario(double
 16
 percentualAcrescimo) {
 17
-Touble salarioReajustaTo = salario +
+double salarioReajustado = salario +
 1 8
 salario * percentualAcrescimo / 100;
 19
-return salarioReajustaTo; 
+return salarioReajustado; 
 20
 21
 }
 22
-public Touble obterSalario(Touble
+public double obterSalario(double
 23
-aTicional, Touble Tesconto){
+adicional, double desconto){
 24
-return tUis.getSalario() + aTicional - Tesconto;
+return this.getSalario() + adicional - desconto;
 25
 26
 }
 27 }
-UtilizanTo  a  engenUaria  reversa  nesse  trecUo  Te 
-coTigo,  o Tiagrama UM> Te classes corresponTente é
+
+htilizando  a  engenharia  reversa  nesse  trecho  de 
+codigo,  o diagrama hD> de classes correspondente é
 A
 Pessoa
 Funcionario
 +Pessoa(rg:int,nome:String)
-+Funcionario(rg:int,nome:String,salario:Touble)
-+getSalario(): Touble
-+obterSalario(aTicional:Touble,Tesconto:Touble): Touble
-+obterSalario(percentualAcrescimo:Touble): Touble
++Funcionario(rg:int,nome:String,salario:double)
++getSalario(): double
++obterSalario(adicional:double,desconto:double): double
++obterSalario(percentualAcrescimo:double): double
 B
 Pessoa
 Funcionario
 +Pessoa(rg:int,nome:String)
-+Funcionario(rg:int,nome:String,salario:Touble)
-+getSalario(): Touble
-+obterSalario(aTicional:Touble,Tesconto:Touble): Touble
-+obterSalario(percentualAcrescimo:Touble): Touble
++Funcionario(rg:int,nome:String,salario:double)
++getSalario(): double
++obterSalario(adicional:double,desconto:double): double
++obterSalario(percentualAcrescimo:double): double
 C
 Pessoa
 Funcionario
 +Funcionario(rg:int,nome:String)
-+Funcionario(rg:int,nome:String,salario:Touble)
-+getSalario(): Touble
-+obterSalario(aTicional:Touble,Tesconto:Touble): Touble
-+obterSalario(percentualAcrescimo:Touble): Touble
-M
++Funcionario(rg:int,nome:String,salario:double)
++getSalario(): double
++obterSalario(adicional:double,desconto:double): double
++obterSalario(percentualAcrescimo:double): double
+D
 Pessoa
 Funcionario
 +Pessoa(rg:int,nome:String)
-+Funcionario(rg:int,nome:String,salario:Touble)
-+getSalario(): Touble
-+obterSalario(aTicional:Touble,Tesconto:Touble): Touble
-N
++Funcionario(rg:int,nome:String,salario:double)
++getSalario(): double
++obterSalario(adicional:double,desconto:double): double
+E
 Pessoa
 Funcionario
-+Funcionario(rg:int,nome:String,salario:Touble)
-+getSalario(): Touble
-+obterSalario(percentualAcrescimo:Touble): Touble
-+obterSalario(aTicional:Touble,Tesconto:Touble): Touble
-*R40201423*
-
-24
-TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
-QUNSTÃO 30
-   gergncia  Te  confguração  Te  soŌǁare,   também 
-cUamaTa Te gergncia Te muTança e confguração,  é 
-o processo que mantém atualizaTas as informações 
-Tos elementos Te confguração.
-  esse respeito,  avalie as afrmações a seguir.
-/.     auTitoria Te soŌǁare é um processo que 
-consiste  em  verifcar  se  a  linUa  Te  base  foi 
-atenTiTa ou se os requisitos To sistema foram 
-atenTiTos.
-//.      linUa  Te  base  é  o  marco  Te  refergncia,   a 
-partir  To  qual  serão  feitos  os  controles  Te 
-muTança,   e  poTe  ser  a  versão  1. 0  Te  um 
-soŌǁare.
-///.   Um  item  Te  confguração  é  um  elemento 
-unitArio,  que compõe aquele soŌǁare e Teve 
-ser gerenciaTo.
- correto o que se afrma em
-A /,  apenas.
-B //,  apenas.
-C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-QUNSTÃO 31
- nalise o Ňuxograma a seguir.
-Cnício
-1
-2
-7
-4
-3
-9
-8
-5
-6
-Fim
-Nm  relação  a  execução  Te  testes  Te  caixa  branca 
-sobre este Ňuxograma,  avalie as afrmações a seguir.  
-/.   Os caminUos 1-2-3-4-5,  1-2-3-4-6,  1-2-3-7-9,  
-1-2-3-7-8-9 formam um conũunto Te caminUos 
-Te execução inTepenTentes.
-//.   O cAlculo Te complexiTaTe ciclomAtica fornece 
-a quantiTaTe Te caminUos inTepenTentes a 
-testar.  
-///.   Testes sobre caminUos inTepenTentes poTem 
-ser  executaTos  em  programas  proceTurais,  
-mas não poTem ser executaTos em programas 
-orientaTos a obũetos.  
- correto o que se afrma em
-A /,  apenas.
-B ///,  apenas.
-C / e //,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R40201424*
++Funcionario(rg:int,nome:String,salario:double)
++getSalario(): double
++obterSalario(percentualAcrescimo:double): double
++obterSalario(adicional:double,desconto:double): double

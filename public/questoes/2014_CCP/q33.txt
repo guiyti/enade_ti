@@ -1,81 +1,31 @@
-25
-C/NNC/  M  COMPUT AãO
-QUNSTÃO 32
-ConsiTere as proposições logicas simples P, Y,  Z:
-P:  o programaTor lg a literatura técnica
-Y:  o programaTor conUece o iTioma inglgs
-Z:  o programaTor serA selecionaTo
-PretenTe-se Temonstrar a valiTaTe ou invaliTaTe To 
-seguinte argumento:
-Se o programaTor lê a literatura técnica, então ele 
-conUece inglês.
-Se o programaTor conUece o iTioma inglês, então ele 
-será selecionaTo.
-O programaTor não será selecionaTo ou ele lê a 
-literatura técnica.
-Logo, o programaTor lê a literatura técnica se e 
-somente se conUece o iTioma inglês. 
-ConsiTeranTo  as  colocações  acima,   avalie  as 
-afrmações a seguir.
-/.    s  premissas  To  argumento  poTem  ser 
-expressas na forma:  P ї Y,  Y ї Z e щZ v P. 
-  conclusão To argumento poTe ser expressa 
-na forma:  P ў Y.
-//.     valiTaTe To argumento se Temostra com os 
-passos:  щY v P (equivalente Te uma premissa),  
-P ї Z (transitiviTaTe Ta implicação a partir Tas 
-premissas) e conclusão Y ў Z (conũunção Te 
-Tuas proposições conTicionais e transformação 
-em biconTicional).
-///.     valiTaTe To argumento se Temostra com os 
-passos:  Z ї P (equivalente Te uma premissa),  
-Y ї P (transitiviTaTe Ta implicação),  cUegamos 
-a  conclusão  P  ў  Y  (conũunção  Te  Tuas 
-proposições conTicionais e transformação em 
-biconTicional).
-/s.   s  premissas  To  argumento  poTem  ser 
-expressas na forma:  P ї Y,  Y ї Z e щZ ї P 
-e a conclusão To argumento acima poTe ser 
-expressa na forma:  P ї Y.
-V.   invaliTaTe To argumento acima se Temonstra 
-Testa  forma:   a  proposição  logica  P  ў  Y  é 
-Tiferente Tas premissas P ї Y,  Y ї Z e щZ v P.
- correto apenas o que se afrma em
-A / e ///.
-B // e /s.
-C /,  /// e s.
-M /,  //,  /s e s.
-N //,  ///,  /s e s.
-QUNSTÃO 33
-   seguinte  sequgncia  Te  instruções  logicas  e 
-aritméticas serA executaTa por um processaTor em 
-pipeline Te 5 estAgios:  busca Ta instrução,  leitura Te 
-registraTores,  execução,  acesso a memoria e escrita 
-Te registraTores.    sequgncia,  no entanto,  apresenta 
-conŇito Te TaTos.
-anT       Z5,  Z4,  Z3
+QUESTÃO 33
+   seguinte  sequgncia  de  instruções  logicas  e 
+aritméticas serA executada por um processador em 
+pipeline de 5 estAgios:  busca da instrução,  leitura de 
+registradores,  execução,  acesso a memoria e escrita 
+de registradores.    sequgncia,  no entanto,  apresenta 
+conŇito de dados.
+and       Z5,  Z4,  Z3
 or         Z6,  Z4,  Z2
-aTT       Z1,  Z2,  Z2
+add       Z1,  Z2,  Z2
 mul       Z3,  Z2,  Z1
 sub       Z1,  Z1,  Z4
-O pipeline foi implementaTo sem UarTware aTicional 
-para  a  resolução  Te  conŇitos,   mas  os  valores  Tos 
-registraTores poTem ser escritos na primeira metaTe 
-To ciclo e liTos na segunTa metaTe.  SabenTo-se que 
-o primeiro operanTo Tas instruções é o registraTor 
-Testino,  avalie as afrmações a seguir.
-/.      troca  Te  posição  entre  as  instruções  or e
-aTT soluciona o conŇito Te TaTos.
-//.     troca Te posição entre as instruções aTT e
-anT soluciona o conŇito Te TaTos.
-///.      inserção  Te  uma  operação  nop (sem 
-operação) entre aTT e mul soluciona o conŇito 
-Te TaTos.
+K pipeline foi implementado sem hardware adicional 
+para  a  resolução  de  conŇitos,   mas  os  valores  dos 
+registradores podem ser escritos na primeira metade 
+do ciclo e lidos na segunda metade.  ^abendo-se que 
+o primeiro operando das instruções é o registrador 
+destino,  avalie as afrmações a seguir.
+/.      troca  de  posição  entre  as  instruções  or e
+add soluciona o conŇito de dados.
+//.     troca de posição entre as instruções add e
+and soluciona o conŇito de dados.
+///.      inserção  de  uma  operação  nop (sem 
+operação) entre add e mul soluciona o conŇito 
+de dados.
  correto o que se afrma em
 A /,  apenas.
 B //,  apenas.
 C / e ///,  apenas.
-M // e ///,  apenas.
-N /,  // e ///.
-ÁRNA LCVRN
-*R03201425*
+D // e ///,  apenas.
+E /,  // e ///.

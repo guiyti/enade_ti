@@ -1,28 +1,24 @@
-28
-CCÊNCCA MA COMPUTAÇÃO
-QUNSTÃO 19	
-Muas técnicas comumente utilizaTas para ampliar as informações básicas sobre requisitos são personas 
-e cenários. Frequentemente usaTas juntas, essas técnicas se complementam Te forma a trazer TetalUes 
-realísticos que possibilitam ao TesenvolveTor explorar as ativiTaTes atuais To usuário, uso futuro Te 
-novos proTutos e visões futuristas Te novas tecnologias. Nlas também poTem guiar o Tesenvolvimento 
-ao longo To ciclo Te viTa To proTuto.
-ROGNRS, Y.; PRNNCN, J.; SHARP, H. Cnteraction Mesign: beyonT Uuman-computer interaction. 
-5. eT. CnTianapolis, CN, USA: JoUn Piley & Sons, Cnc., 2019 (aTaptaTo).
-Com base no texto apresentaTo e sobre os objetivos To uso Te personas e cenários em um processo Te 
-elicitação Te requisitos, avalie as afirmações a seguir.
-C.	 O uso Te personas e cenários, em um processo Te elicitação, explicita algumas situações que 
+QUESTÃO 19	
+Duas técnicas comumente utilizadas para ampliar as informações básicas sobre requisitos são personas 
+e cenários. Frequentemente usadas juntas, essas técnicas se complementam de forma a trazer detalhes 
+realísticos que possibilitam ao desenvolvedor explorar as atividades atuais do usuário, uso futuro de 
+novos produtos e visões futuristas de novas tecnologias. Elas também podem guiar o desenvolvimento 
+ao longo do ciclo de vida do produto.
+ROGERS, Y.; PREECE, J.; SHARP, H. Interaction Design: beyond human-computer interaction. 
+5. ed. Indianapolis, IN, USA: John Wiley & Sons, Inc., 2019 (adaptado).
+Com base no texto apresentado e sobre os objetivos do uso de personas e cenários em um processo de 
+elicitação de requisitos, avalie as afirmações a seguir.
+I.	 O uso de personas e cenários, em um processo de elicitação, explicita algumas situações que 
 aparecem implícitas nos requisitos.
-CC.	 O uso Te personas e cenários, em um processo Te elicitação, ajuTa o projetista a entenTer melUor 
-o impacto Tas Tecisões Te projeto.
-CCC.	O uso Te personas e cenários, em um processo Te elicitação, facilita a especificação formal 
-e não-ambígua Tos requisitos Te interação.
-CV.	 O uso Te personas e cenários, em um processo Te elicitação, lembra à equipe Te Tesenvolvimento 
-que pessoas reais usarão o proTuto.
+II.	 O uso de personas e cenários, em um processo de elicitação, ajuda o projetista a entender melhor 
+o impacto das decisões de projeto.
+III.	O uso de personas e cenários, em um processo de elicitação, facilita a especificação formal 
+e não-ambígua dos requisitos de interação.
+IV.	 O uso de personas e cenários, em um processo de elicitação, lembra à equipe de desenvolvimento 
+que pessoas reais usarão o produto.
 É correto apenas o que se afirma em
-A	 C e CCC.
-B	 C e CV.
-C	 CC e CCC.
-M	 C, CC e CV.
-N	 CC, CCC e CV.
-Área livre
-*R02202128*
+A	 I e III.
+B	 I e IV.
+C	 II e III.
+D	 I, II e IV.
+E	 II, III e IV.

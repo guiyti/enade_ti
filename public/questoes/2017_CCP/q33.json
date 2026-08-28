@@ -5,17 +5,46 @@
   "paginas": [
     31
   ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 25.0,
+      "y0": 76.699951171875,
+      "x1": 603.3199999999999,
+      "y1": 485.31195068359375,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2017_CCP/q33.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2017_CCP/q33.txt",
   "largura": 2440,
-  "altura": 2905,
-  "confianca": 0.98,
-  "status": "APROVADA",
+  "altura": 1733,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 33\nIonsidere a função recursiva F a seguir,  que em sua execução chama a função G:\n1 void F(int n) {\n2    if(n > 0) {\n3       for(int i = 0; i < n; i++) {\n4          G(i);\n5       }\n6       F(n/2);\n7    }\n8 }\nIom base nos conceitos de teoria da complexidade,  avalie as afrmações a seguir.\n/.     equação de recorrgncia que defne a complexidade da função F é a mesma do algoritmo clAssico \nde ordenação mergesort.\n//.   K numero de chamadas recursivas da função F é 4 (log n).\n///.   K numero de vezes que a função G da linha 4 é chamada é O(n log n).\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nD  // e ///,  apenas.\nE  /,  // e ///.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
   "categorias": [
     "Algoritmos e Estruturas de Dados"
   ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 33,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 60.35430145263672,
+      "y": 88.699951171875,
+      "x1": 122.80711364746094,
+      "y1": 100.699951171875,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 33"
+    }
+  ],
   "anomalias": [],
-  "texto_completo": "31\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 33\nConsiTere a função recursiva F a seguir,  que em sua execução cUama a função G:\n1 voiT F(int n) {\n2    if(n > 0) {\n3       for(int i = 0; i < n; i++) {\n4          G(i);\n5       }\n6       F(n/2);\n7    }\n8 }\nCom base nos conceitos Te teoria Ta complexiTaTe,  avalie as afrmações a seguir.\n/.     equação Te recorrgncia que Tefne a complexiTaTe Ta função F é a mesma To algoritmo clAssico \nTe orTenação mergesort.\n//.   O numero Te cUamaTas recursivas Ta função F é 4 (log n).\n///.   O numero Te vezes que a função G Ta linUa 4 é cUamaTa é O(n log n).\n\u001e correto o que se afrma em\nA  /,  apenas.\nB  //,  apenas.\nC  / e ///,  apenas.\nM  // e ///,  apenas.\nN  /,  // e ///.\nArea livre\n*R03201731*",
-  "figuras": [],
-  "caminho_png": "/questoes/2017_CCP/q33.png",
-  "caminho_json": "/questoes/2017_CCP/q33.json",
-  "caminho_txt": "/questoes/2017_CCP/q33.txt"
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:53:44.148957"
 }
