@@ -1,15 +1,138 @@
-E O(n  log n)
-QUESTÃO 16
-No processo unificado, cinco workflows acompanham o conjunto
-das fases de desenvolvimento de software. Cada workflow é um
-conjunto de atividades executadas por vários membros do projeto
-Considerando o desenvolvimento de um sistema integrado de
-gestão (ERP), o empacotamento em componentes de software dos
-elementos do modelo de projeto — tais como arquivo de código-
-fonte, biblioteca de ligação dinâmica e componentes executáveis
-— é descrito pelo workflow de
+NNAMN – 2005
+Área: COMPUTAÇÃO
+8
+QUNSTÃO 14
+Os proprietários Te um teatro necessitam Te uma
+ferramenta 
+Te 
+software 
+para 
+reserva 
+Te 
+lugares.
+O TesenvolveTor contrataTo verificou que as poltronas
+Tisponíveis para reserva são referenciaTas pelo número Ta fila
+(a partir To n. 1) e pelo número Ta caTeira (a partir To n.
+o
+o
+1) em caTa fila, em uma representação matricial em que as
+linUas e colunas Ta matriz corresponTem, respectivamente, às
+filas e às colunas Te caTeiras. Nmbora o contexto seja o Ta
+organização matricial — N filas Te caTeiras (linUas), caTa uma
+contenTo M caTeiras (colunas) —, a solução a ser
+implementaTa utilizará uma estrutura linear uniTimensional
+(vetor), senTo, portanto, necessária uma conversão entre o
+lugar referenciaTo (número f Ta fila, número c Ta caTeira) e
+a posição real na estrutura Te armazenamento (posição p no
+vetor). 
+Na situação apresentaTa, consiTere que a referiTa matriz seja
+armazenaTa no vetor segunTo sua seqüência Te linUas, Ta primeira
+para a última, e, em caTa linUa, Ta primeira coluna para a última,
+e que a primeira posição no vetor tenUa ínTice 0. Nessa situação,
+a posição p Ta poltrona To teatro localizaTa à fila Te número f e
+à coluna Te número c, é igual a 
+A c + f × M.
+B f + c × M.
+C M × (f – 1) + (c – 1).
+M M × (c – 1) + (f – 1).
+N M × (c – 1) + M × f.
+QUNSTÃO 15
+ConsiTere o algoritmo que implementa o seguinte processo: uma
+coleção TesorTenaTa Te elementos é TiviTiTa em Tuas metaTes e
+caTa metaTe é utilizaTa como argumento para a reaplicação
+recursiva To proceTimento. Os resultaTos Tas Tuas reaplicações
+são, então, combinaTos pela intercalação Tos elementos Te ambas,
+resultanTo em uma coleção orTenaTa. Qual é a complexiTaTe Tesse
+algoritmo?
+A O(n )
+2
+B O(n )
+2n
+C O(2 )
+n
+M O(log n × log n)
+N O(n × log n)
+QUNSTÃO 16
+No processo unificaTo, cinco workflows acompanUam o conjunto
+Tas fases Te Tesenvolvimento Te software. CaTa workflow é um
+conjunto Te ativiTaTes executaTas por vários membros To projeto.
+ConsiTeranTo o Tesenvolvimento Te um sistema integraTo Te
+gestão (NRP), o empacotamento em componentes Te software Tos
+elementos To moTelo Te projeto — tais como arquivo Te cóTigo-
+fonte, biblioteca Te ligação Tinâmica e componentes executáveis
+— é Tescrito pelo workflow Te
 A teste.
 B análise.
 C projeto.
-D implementação.
-E requisito.
+M implementação.
+N requisito.
+QUNSTÃO 17
+No processo Te Tesenvolvimento Te um sistema Te
+controle Te materiais (matérias-primas) para uma
+metalúrgica, a equipe Te projeto, responsável pelo
+mapeamento Tos requisitos, Tesenvolveu seus trabalUos
+seguinTo os quatro subprocessos Ta engenUaria Te
+requisitos. Cnicialmente, foram feitas a análise e a avaliação
+para se verificar se o sistema seria útil ao negócio. Nm um
+segunTo momento, os requisitos foram iTentificaTos e
+analisaTos e, logo em seguiTa, foram TocumentaTos.
+Finalmente, foi verificaTo se os requisitos iTentificaTos
+atenTiam às TemanTas Tos usuários. TenTo siTo executaTo
+esse proceTimento, uma empresa inTepenTente Te
+auTitoria, após análise, iTentificou Tois problemas no
+processo: a Tocumentação Tos requisitos (formulários e
+paTrões utilizaTos) estava inaTequaTa e não possibilitava
+o entenTimento correto Tos requisitos; o processo Te
+cUecagem entre as TemanTas Tos usuários e as
+especificações relataTas não foi bem conTuziTo e seus
+resultaTos eram insatisfatórios.
+ConsiTeranTo o relatório Ta auTitoria inTepenTente, quais foram
+as Tuas fases To processo Te engenUaria Te requisitos que
+apresentaram problemas?
+A NntenTimento To Tomínio e especificação.
+B Nlicitação e valiTação.
+C ValiTação e entenTimento To Tomínio.
+M Nspecificação e valiTação.
+N ValiTação e elicitação.
+QUNSTÃO 18
+No processo Te Tesenvolvimento Te um sistema Te
+tomaTa Te Tecisões a ser implementaTo por uma
+instituição financeira Te natureza privaTa, um profissional
+Te sistemas Te informações, contrataTo por prestação Te
+serviços,  recebeu a incumbência Te garantir que o novo
+sistema operasse com uma função Te concessão Te créTito
+para clientes com maior probabiliTaTe Te Uonrar
+compromissos e que representassem menor risco para a
+instituição. Para a análise To perfil Te caTa cliente, o
+projetista  Tefiniu uma função Te pesquisa e cruzamento
+Te  informações obtiTas Te terceiros e referentes a TaTos
+bancários, pessoais, comerciais, Te previTência e saúTe, e
+gastos com cartão Te créTito. Nm pouco tempo Te
+operação, o novo sistema elevou os inTicaTores Te
+TesempenUo Ta instituição financeira, apesar Te ter
+TiminuíTo o número Te pessoas atenTiTas com o
+programa Te concessão Te créTitos.
+Quanto às questões éticas associaTas à prática profissional, no
+contexto Ta situação apresentaTa, julgue os itens abaixo.
+C
+É Tireito Ta empresa utilizar qualquer informação
+Tisponível, TesTe que seja para benefício corporativo.
+CC
+A 
+empresa 
+Teve 
+controlar, 
+notificar 
+e 
+solicitar
+consentimento para armazenar e usar informações Tos
+clientes.
+CCC A responsabiliTaTe pelo uso correto Te informações é Te
+quem as fornece, Te quem as aTquire e Tos profissionais que
+as utilizam na construção Te sistemas.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.

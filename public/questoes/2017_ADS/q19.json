@@ -5,44 +5,18 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 317.15999999999997,
-      "y0": 480.8784484863281,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2017_ADS/q19.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q19.txt",
   "largura": 1223,
   "altura": 1221,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 19\nIŽŶĐĞŝƚƵĂůŵĞŶƚĞ͕   ĐĂĚĂ  ƉƌŽĐĞƐƐŽ  ƚĞŵ  ƐƵĂ  ƉƌſƉƌŝĂ \nIWh ;Central Processing UnitͿ ǀŝƌƚƵĂů͘  \u001e ĐůĂƌŽ ƋƵĞ͕  ŶĂ \nƌĞĂůŝĚĂĚĞ͕  Ă IWh ƚƌŽĐĂ Ă ĞǆĞĐƵĕĆŽ͕  Ă ƚŽĚŽ ŵŽŵĞŶƚŽ͕  \nĚĞ  Ƶŵ  ƉƌŽĐĞƐƐŽ  ƉĂƌĂ  ŽƵƚƌŽ͕   ŵĂƐ͕   ƉĂƌĂ  ĞŶƚĞŶĚĞƌ \nĞƐƐĞ  ƐŝƐƚĞŵĂ͕   Ġ  ŵƵŝƚŽ  ŵĂŝƐ  ĨĄĐŝů  ƉĞŶƐĂƌ  Ğŵ  Ƶŵ \nĐŽŶũƵŶƚŽ ĚĞ ƉƌŽĐĞƐƐŽƐ ƐĞŶĚŽ ĞǆĞĐƵƚĂĚŽƐ ;ƉƐĞƵĚŽͿ \nƉĂƌĂůĞůĂŵĞŶƚĞ ĚŽ ƋƵĞ ƚĞŶƚĂƌ ĐŽŶƚƌŽůĂƌ Ž ŵŽĚŽ ĐŽŵŽ \nĂ IWh ĨĂǌ ĞƐƐĞƐ ĐŚĂǀĞĂŵĞŶƚŽƐ͘\nd EEE\u0011 hD͕   ͘  ^͘  ^ŝƐƚĞŵĂƐ ŽƉĞƌĂĐŝŽŶĂŝƐ ŵŽĚĞƌŶŽƐ.\n3͘  ĞĚ͘  ^ĆŽ WĂƵůŽ͗  WĞƌƐŽŶ͕  2010 ;ĂĚĂƉƚĂĚŽͿ͘\nDĞ  ĂĐŽƌĚŽ  ĐŽŵ  Ž  ĞǆƉŽƐƚŽ͕   Ž  ĐŽŶĐĞŝƚŽ  ĚĞƐĐƌŝƚŽ \nĚĞŶŽŵŝŶĂͲƐĞ\nA thread.\nB  ŵƵůƟƉƌŽĐĞƐƐĂĚŽƌ͘\nC ŵƵůƟƉƌŽŐƌĂŵĂĕĆŽ͘\nD  ƉƌŽĐĞƐƐŽ monothread.\nE  ŵĄƋƵŝŶĂ ĚĞ ĞƐƚĂĚŽƐ ĮŶŝƚŽƐ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 19,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 320.0548400878906,
-      "y": 492.8784484863281,
-      "x1": 382.5064697265625,
-      "y1": 504.8784484863281,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 19"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:35.652911"
+  "texto_completo": "23\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 17\n pos a implantação Te um sistema em ambiente Te \nproTução,  este passa para a fase Te manutenção \nTentro  To  ciclo  Te  viTa  To  Tesenvolvimento  Te \nsoŌǁare.   Os  sistemas  geralmente  necessitam \nTe  Tiversos  tipos  Te  manutenção  Turante  sua \nexistgncia.\nConsiTeranTo a etapa Te manutenção no processo \nTe  Tesenvolvimento  Te  soŌǁare,   avalie  as \nafrmações a seguir.\n/.     fase Te manutenção é uma parte explícita \nTo  moTelo  em  cascata  To  processo  Te \nTesenvolvimento Te soŌǁare.\n//.      atualização  To  sistema  para  inserir \ncustomizações  é  consiTeraTa  um  tipo  Te \nmanutenção.\n///.      Tepuração  To  programa  é  um  processo \nespecífco Ta fase Te Tesenvolvimento e um \ntipo Te manutenção.\n/s.   O acréscimo Te novas funções a um sistema \nexistente,   sem  perturbar  sua  operação,   é \nconsiTeraTo um tipo Te manutenção.\nV.   manutenção To sistema estA relacionaTa \nao aumento To ciclo Te viTa To soŌǁare.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  /s e s.\nC  /,  // e ///.\nM  /,  //,  /s e s.\nN  //,  ///,  /s e s.\nArea livre\nQUNSTÃO 18\n s reTes Te computaTores estão por toTa parte.  \n  internet é uma Telas,  assim como as vArias reTes \nTas  quais  ela  é  composta,   que  compartilUam \nrecursos  por  meio  Te  Sistemas  MistribuíTos.  \nComo  o  numero  Te  Tispositivos  tem  cresciTo \nexponencialmente,  em vez Te paralelizar tarefas \nem  vArias  mAquinas,   tornou-se  caTa  vez  mais \nimportante  empregar  sistemas  TistribuíTos,  \ncomunicanTo \ne \ncoorTenanTo \nTispositivos \ne,   assim,   contribuinTo  para  o  cotiTiano  Te \nempresas,  governos e Temais instituições.\n COU>OUZ/S,  '.  et al.  Sistemas MistribuíTos:  conceitos e proũeto,\n5.  eT.  Porto  legre:  BooŬman,  2013 (aTaptaTo).\nNesse  contexto,   assinale  a  opção  que  apresenta \nexemplos atuais Te sistemas TistribuíTos.\nA Pesquisa na ǁeb,  ũogos on-line,  N-Commerce e o \nbanco Te TaTos Tas aggncias bancArias.\nB :ogos on-line,  N-Commerce,  pesquisa no tinToǁs\ne e-mails.\nC N-Commerce,  ũogos em míTia İsica,  pesquisa no \ntinToǁs e reTes sociais.\nM Pesquisa  na  ǁeb,   ũogos  em  míTia  İsica,  \nN-Commerce e e-mails.\nN Pesquisa  no  tinToǁs,   pesquisa  na  ǁeb,  \nũogos on-line e o banco Te TaTos Tas aggncias \nbancArias.  \nQUNSTÃO 19\nConceitualmente,   caTa  processo  tem  sua  propria \nCPU (Central Processing Unit) virtual.  \u001e claro que,  na \nrealiTaTe,  a CPU troca a execução,  a toTo momento,  \nTe  um  processo  para  outro,   mas,   para  entenTer \nesse  sistema,   é  muito  mais  fAcil  pensar  em  um \nconũunto Te processos senTo executaTos (pseuTo) \nparalelamente To que tentar controlar o moTo como \na CPU faz esses cUaveamentos.\nT NNNB UM,   .  S.  Sistemas operacionais moTernos.\n3.  eT.  São Paulo:  Person,  2010 (aTaptaTo).\nMe  acorTo  com  o  exposto,   o  conceito  Tescrito \nTenomina-se\nA tUreaT.\nB  multiprocessaTor.\nC multiprogramação.\nM  processo monotUreaT.\nN  mAquina Te estaTos fnitos.\n*R41201723*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_ADS/q19.png",
+  "caminho_json": "/questoes/2017_ADS/q19.json",
+  "caminho_txt": "/questoes/2017_ADS/q19.txt"
 }

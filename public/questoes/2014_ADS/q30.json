@@ -5,52 +5,17 @@
   "paginas": [
     24
   ],
-  "segmentos": [
-    {
-      "pagina": 24,
-      "x0": 25.0,
-      "y0": 96.5428466796875,
-      "x1": 311.15999999999997,
-      "y1": 493.3950500488281,
-      "coluna": 1
-    },
-    {
-      "pagina": 24,
-      "x0": 317.15999999999997,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 100.5428466796875,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q30.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q30.txt",
   "largura": 1223,
   "altura": 1804,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\n   ŐĞƌġŶĐŝĂ  ĚĞ  ĐŽŶĮŐƵƌĂĕĆŽ  ĚĞ  ƐŽŌǁĂƌĞ͕   ƚĂŵďĠŵ \nĐŚĂŵĂĚĂ ĚĞ ŐĞƌġŶĐŝĂ ĚĞ ŵƵĚĂŶĕĂ Ğ ĐŽŶĮŐƵƌĂĕĆŽ͕  Ġ \nŽ ƉƌŽĐĞƐƐŽ ƋƵĞ ŵĂŶƚĠŵ ĂƚƵĂůŝǌĂĚĂƐ ĂƐ ŝŶĨŽƌŵĂĕƁĞƐ \nĚŽƐ ĞůĞŵĞŶƚŽƐ ĚĞ ĐŽŶĮŐƵƌĂĕĆŽ͘\n  ĞƐƐĞ ƌĞƐƉĞŝƚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘     ĂƵĚŝƚŽƌŝĂ ĚĞ ƐŽŌǁĂƌĞ Ġ Ƶŵ ƉƌŽĐĞƐƐŽ ƋƵĞ \nĐŽŶƐŝƐƚĞ  Ğŵ  ǀĞƌŝĮĐĂƌ  ƐĞ  Ă  ůŝŶŚĂ  ĚĞ  ďĂƐĞ  ĨŽŝ \nĂƚĞŶĚŝĚĂ ŽƵ ƐĞ ŽƐ ƌĞƋƵŝƐŝƚŽƐ ĚŽ ƐŝƐƚĞŵĂ ĨŽƌĂŵ \nĂƚĞŶĚŝĚŽƐ͘\n//͘      ůŝŶŚĂ  ĚĞ  ďĂƐĞ  Ġ  Ž  ŵĂƌĐŽ  ĚĞ  ƌĞĨĞƌġŶĐŝĂ͕   Ă \nƉĂƌƟƌ  ĚŽ  ƋƵĂů  ƐĞƌĆŽ  ĨĞŝƚŽƐ  ŽƐ  ĐŽŶƚƌŽůĞƐ  ĚĞ \nŵƵĚĂŶĕĂ͕   Ğ  ƉŽĚĞ  ƐĞƌ  Ă  ǀĞƌƐĆŽ  1͘ 0  ĚĞ  Ƶŵ \nƐŽŌǁĂƌĞ.\n///͘   hŵ  ŝƚĞŵ  ĚĞ  ĐŽŶĮŐƵƌĂĕĆŽ  Ġ  Ƶŵ  ĞůĞŵĞŶƚŽ \nƵŶŝƚĄƌŝŽ͕  ƋƵĞ ĐŽŵƉƁĞ ĂƋƵĞůĞ ƐŽŌǁĂƌĞ Ğ ĚĞǀĞ \nƐĞƌ ŐĞƌĞŶĐŝĂĚŽ͘\n\u001e ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA /͕  ĂƉĞŶĂƐ͘\nB //͕  ĂƉĞŶĂƐ͘\nC / Ğ ///͕  ĂƉĞŶĂƐ͘\nD // Ğ ///͕  ĂƉĞŶĂƐ͘\nE /͕  // Ğ ///͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 30,
-      "tipo": "OBJETIVA",
-      "pagina": 24,
-      "x": 51.850399017333984,
-      "y": 108.5428466796875,
-      "x1": 114.302001953125,
-      "y1": 120.5428466796875,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 30"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502205"
+  "texto_completo": "24\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 30\n   gergncia  Te  confguração  Te  soŌǁare,   também \ncUamaTa Te gergncia Te muTança e confguração,  é \no processo que mantém atualizaTas as informações \nTos elementos Te confguração.\n  esse respeito,  avalie as afrmações a seguir.\n/.     auTitoria Te soŌǁare é um processo que \nconsiste  em  verifcar  se  a  linUa  Te  base  foi \natenTiTa ou se os requisitos To sistema foram \natenTiTos.\n//.      linUa  Te  base  é  o  marco  Te  refergncia,   a \npartir  To  qual  serão  feitos  os  controles  Te \nmuTança,   e  poTe  ser  a  versão  1. 0  Te  um \nsoŌǁare.\n///.   Um  item  Te  confguração  é  um  elemento \nunitArio,  que compõe aquele soŌǁare e Teve \nser gerenciaTo.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\nQUNSTÃO 31\n nalise o Ňuxograma a seguir.\nCnício\n1\n2\n7\n4\n3\n9\n8\n5\n6\nFim\nNm  relação  a  execução  Te  testes  Te  caixa  branca \nsobre este Ňuxograma,  avalie as afrmações a seguir.  \n/.   Os caminUos 1-2-3-4-5,  1-2-3-4-6,  1-2-3-7-9,  \n1-2-3-7-8-9 formam um conũunto Te caminUos \nTe execução inTepenTentes.\n//.   O cAlculo Te complexiTaTe ciclomAtica fornece \na quantiTaTe Te caminUos inTepenTentes a \ntestar.  \n///.   Testes sobre caminUos inTepenTentes poTem \nser  executaTos  em  programas  proceTurais,  \nmas não poTem ser executaTos em programas \norientaTos a obũetos.  \n\u001e correto o que se afrma em\nA /,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201424*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q30.png",
+  "caminho_json": "/questoes/2014_ADS/q30.json",
+  "caminho_txt": "/questoes/2014_ADS/q30.txt"
 }

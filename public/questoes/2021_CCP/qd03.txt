@@ -1,17 +1,19 @@
-QUESTÃO DISCURSIVA 03	
-Um corpo de conhecimento representado na lógica proposicional utiliza os conectivos lógicos de 
-implicação ( ® ) que representa o condicional, conjunção ( Ù ) que representa o operador lógico AND, 
-a disjunção ( Ú ) que representa o operador lógico OR e a negação ( Ø ) que representa o operador 
-lógico NOT. Seja P o seguinte conjunto de fórmulas da lógica proposicional:
+14
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO MCSCURSCVA 03	
+Um corpo Te conUecimento representaTo na lógica proposicional utiliza os conectivos lógicos Te 
+implicação ( ® ) que representa o conTicional, conjunção ( Ù ) que representa o operaTor lógico ANM, 
+a Tisjunção ( Ú ) que representa o operaTor lógico OR e a negação ( Ø ) que representa o operaTor 
+lógico NOT. Seja P o seguinte conjunto Te fórmulas Ta lógica proposicional:
 1.a ® Ø b
 2.b Ù a
 3.Ø b Ú b
-seja Q o seguinte conjunto de fórmulas da lógica proposicional:
+seja Q o seguinte conjunto Te fórmulas Ta lógica proposicional:
 4.a Ú b
 5.b ® a
 e seja R a fórmula
 6.Ø b ® a
-Veja a tabela-verdade para estas fórmulas.
+Veja a tabela-verTaTe para estas fórmulas.
 1
 2
 3
@@ -58,19 +60,42 @@ V
 V
 V
 V
-Sabe-se que cada linha da tabela-verdade corresponde a uma atribuição de valores-verdade para os 
-símbolos proposicionais (a e b) e cada coluna corresponde à avaliação da fórmula para esta atribuição. 
-Algumas definições:
-(i) Uma fórmula é uma tautologia se e somente se, para toda atribuição de valores-verdade, sua avaliação 
-é verdadeira.
-(ii) Uma atribuição de valores-verdade satisfaz a um conjunto de fórmulas se e somente se, para toda 
-fórmula no conjunto, a avaliação é verdadeira.
-(iii) Um conjunto de fórmulas é satisfazível se e somente se existe uma atribuição de valores-verdade que 
-satisfaz o conjunto. Em caso contrário, ele é insatisfazível.
-(iv) Uma fórmula é uma consequência lógica de um conjunto de fórmulas se e somente se, para toda
+Sabe-se que caTa linUa Ta tabela-verTaTe corresponTe a uma atribuição Te valores-verTaTe para os 
+símbolos proposicionais (a e b) e caTa coluna corresponTe à avaliação Ta fórmula para esta atribuição. 
+Algumas Tefinições:
+(i) Uma fórmula é uma tautologia se e somente se, para toTa atribuição Te valores-verTaTe, sua avaliação 
+é verTaTeira.
+(ii) Uma atribuição Te valores-verTaTe satisfaz a um conjunto Te fórmulas se e somente se, para toTa 
+fórmula no conjunto, a avaliação é verTaTeira.
+(iii) Um conjunto Te fórmulas é satisfazível se e somente se existe uma atribuição Te valores-verTaTe que 
+satisfaz o conjunto. Nm caso contrário, ele é insatisfazível.
+(iv) Uma fórmula é uma consequência lógica Te um conjunto Te fórmulas se e somente se, para toTa 
+atribuição Te valores-verTaTe, se a atribuição satisfaz o conjunto então satisfaz a fórmula.
+COMPONNNTN NSPNCÍFCCO
+*R02202114*
 
-Com base nas informações apresentadas, responda os itens a seguir.
+15
+CCÊNCCA MA COMPUTAÇÃO
+Com base nas informações apresentaTas, responTa os itens a seguir.
 a)	 Há alguma tautologia nas fórmulas 1 a 6? Justifique sua resposta. (valor: 2,5 pontos)
 b)	 Há algum conjunto (P ou Q) satisfazível? Justifique sua resposta. (valor: 2,5 pontos)
 c)	 Há algum conjunto (P ou Q) insatisfazível? Justifique sua resposta. (valor: 2,5 pontos)
-d)	 A fórmula 6 é consequência lógica de Q? Justifique sua resposta. (valor: 2,5 pontos)
+T)	 A fórmula 6 é consequência lógica Te Q? Justifique sua resposta. (valor: 2,5 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Área livre
+*R02202115*

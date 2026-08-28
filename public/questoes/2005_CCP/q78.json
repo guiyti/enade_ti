@@ -6,52 +6,17 @@
     29,
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 29,
-      "x0": 301.08,
-      "y0": 417.2555847167969,
-      "x1": 571.16,
-      "y1": 782.16,
-      "coluna": 2
-    },
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 295.08,
-      "y1": 308.7555847167969,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q78.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q78.txt",
   "largura": 1156,
   "altura": 2540,
   "confianca": 0.98,
-  "texto_completo": "s  0,5.\nUESTÃO 78\nspositivos Lógicos Programáveis (DLP, ou PLD — programmable\nic devices) são muito utilizados hoje em dia para o projeto de\ncuitos digitais especiais. Com relação a esse assunto, julgue os\nns a seguir.\nComo um PLA (programmable logic array) somente implementa\nequações booleanas descritas na forma de soma de termos-\nproduto, e não implementa portas lógicas multinível, então nem\ntodas as funções booleanas podem ser implementadas em um\nPLA.\nEm uma PROM (programmable ROM), o arranjo de portas AND\né fixo, e somente o arranjo de portas OR pode ser programado; em\num PAL (programmable array logic), o arranjo de portas OR é\nfixo, e somente o array de portas AND é programável; e, em um\nPLA (programmable logic array), tanto o arranjo de portas AND\ncomo o de portas OR são programáveis.\nUm circuito digital implementado por meio de um dispositivo\nlógico programável ocupa mais área e consome mais potência do\nque um circuito integrado dedicado, mas, em compensação, ele\npode operar em freqüências maiores, pois seus transistores e\nportas lógicas são projetados de forma a otimizar o chaveamento\nde estados.\nsinale a opção correta.\nApenas o item II está certo.\nApenas o item III está certo.\nApenas os itens I e II estão certos.\nApenas os itens I e III estão certos.\nApenas os itens II e III estão certos.\n\nxpto( [H | T1], Y, [H | T2] ) : xpto( T1, Y, T2 )\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos predicados escritos em Prolog acima, julgue o\nitens a seguir.\nI\nA execução de xpto([1,2,3],[ ], F) conclui com sucess\ninstanciando F para [1,2,3].\nII\nA execução de zpto(5,[1,2,3] ) conclui sem sucesso.\nIII A \nexecução \nde \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso\ninstanciando X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 78,
-      "tipo": "OBJETIVA",
-      "pagina": 29,
-      "x": 294.8399963378906,
-      "y": 429.2555847167969,
-      "x1": 341.2080078125,
-      "y1": 435.2555847167969,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 78"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152899"
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n28\nQUNSTÃO 75\nUm engenUeiro Te uma companUia fabricante Te\nmemórias semiconTutoras estuTou o comportamento\nTo custo em função To número Te bits Ta fabricação Te\num cUip Te memória RAM com TeterminaTa\ntecnologia. \nNle \ncUegou \nà \nconclusão \nTe \nque,\nconsiTeranTo-se a evolução tecnológica, o custo C(x),\nexpresso em TeterminaTa uniTaTe monetária, Te um\ncUip Te memória RAM com x bits, na Tata Te conclusão\nTo processo Te fabricação, seria TeterminaTo pela\nequação\nConsiTeranTo-se que o moTelo TesenvolviTo pelo engenUeiro\nesteja correto, caso a empresa TeciTa pelo cUip Te menor\ncusto, ela Teverá optar por um cUip com memória Te\ncapaciTaTe Te \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nM 2.048 megabits.\nN 4.096 megabits.\nQUNSTÃO 76\nO termo imagem Tesigna uma função\nintensiTaTe luminosa biTimensional f, em que um valor\nTe intensiTaTe é associaTo a coorTenaTas espaciais\n(x, y). Uma imagem Tigital é obtiTa pela Tigitalização\nTas coorTenaTas espaciais por meio Te um processo\nconUeciTo como amostragem Ta imagem. Messa\nforma, uma imagem contínua monocromática f(x, y) é\naproximaTa por amostras igualmente espaçaTas,\narranjaTas na forma Te uma matriz N×M, em que caTa\nmin\nmax\nelemento é um valor inteiro g. O intervalo [G\n, G\n],\nTo menor ao maior valor Te intensiTaTe g, é\nmin\nTenominaTo escala Te cinza. Normalmente, G\n = 0\nmax\ncorresponTe a preto, e G\n = G corresponTe ao\nbranco.\nConsiTeranTo os conceitos apresentaTos acima, assinale a\nopção correta.\nA O processo Te Tigitalização Ta imagem requer que as\nTimensões N e M Ta matriz mencionaTa acima sejam\nmúltiplas To número Te tons Te cinza na imagem.\nB Para imagens binárias, se L for o número Te tons Te cinza\nrepresentáveis, e L = 2 , então k = 2.\nk\nC Os métoTos para realce Te imagens que operam no\nTomínio espacial fazem uso To conceito Te vizinUança Te\npixel.\nM MétoTos Te filtragem normalmente usam máscaras para\nimpeTir a transformação Tos níveis Te cinza Tos pixels Ta\nimagem. \nN Limiarização é um tipo Te processamento Te imagens que\namplia o número Te níveis Te cinza Ta imagem.\nQUNSTÃO 77\nObserve a situação representaTa acima, em que o triângulo\niTentificaTo por A sofre transformações geométricas que o levam para\na situação iTentificaTa por A’. ConsiTeranTo-se Tx e Ty parâmetros\nTe translação e s, parâmetro fator Te escala, então o triângulo A’ poTe\nser obtiTo a partir Ta aplicação Ta seguinte seqüência Te\ntransformações aos vértices To triângulo A:\nc\nc\nA rotação em torno To ponto (x , y ); escala com fator uniforme\ns  = 2.\nc\nc\nB rotação em torno To ponto (x , y ); escala com fator uniforme\ns = 0,5.\nc\nc\nC rotação em torno To ponto (x' , y' ); escala com fator\nuniforme s = 0,5; translação com parâmetros Te Teslocamento\nc\nc\nTx = !x e Ty = !y .\nM escala com fator uniforme s = 0,5; translação com parâmetros Te\nc\nc\nTeslocamento Tx = x' e Ty = y' ; rotação em torno To\nc\nc\nponto (x , y ).\nc\nc\nN tanslação com parâmetros Te Teslocamento Tx = !x e Ty = !y ;\nc\nc\nrotação em torno To ponto (x , y ); translação com parâmetros\nc\nc\nTe Teslocamento Tx = x e Ty = y ; escala com fator uniforme\ns = 0,5.\nQUNSTÃO 78\nMispositivos Lógicos Programáveis (MLP, ou PLM — programmable\nlogic Tevices) são muito utilizaTos Uoje em Tia para o projeto Te\ncircuitos Tigitais especiais. Com relação a esse assunto, julgue os\nitens a seguir.\nC\nComo um PLA (programmable logic array) somente implementa\nequações booleanas Tescritas na forma Te soma Te termos-\nproTuto, e não implementa portas lógicas multinível, então nem\ntoTas as funções booleanas poTem ser implementaTas em um\nPLA.\nCC\nNm uma PROM (programmable ROM), o arranjo Te portas ANM\né fixo, e somente o arranjo Te portas OR poTe ser programaTo; em\num PAL (programmable array logic), o arranjo Te portas OR é\nfixo, e somente o array Te portas ANM é programável; e, em um\nPLA (programmable logic array), tanto o arranjo Te portas ANM\ncomo o Te portas OR são programáveis.\nCCC Um circuito Tigital implementaTo por meio Te um Tispositivo\nlógico programável ocupa mais área e consome mais potência To\nque um circuito integraTo TeTicaTo, mas, em compensação, ele\npoTe operar em freqüências maiores, pois seus transistores e\nportas lógicas são projetaTos Te forma a otimizar o cUaveamento\nTe estaTos.\nAssinale a opção correta.\nA Apenas o item CC está certo.\nB Apenas o item CCC está certo.\nC Apenas os itens C e CC estão certos.\nM Apenas os itens C e CCC estão certos.\nN Apenas os itens CC e CCC estão certos.\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n29\nQUNSTÃO 79\nxpto( [ ], R, R ).\nxpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 ).\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos preTicaTos escritos em Prolog acima, julgue os\nitens a seguir.\nC\nA execução Te xpto([1,2,3],[ ], F) conclui com sucesso\ninstancianTo F para [1,2,3].\nCC\nA execução Te zpto(5,[1,2,3] ) conclui sem sucesso.\nCCC A \nexecução \nTe \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso,\ninstancianTo X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 80\nQue caTeia é reconUeciTa pelo\nautômato \nrepresentaTo \npelo\nTiagrama Te estaTos ao laTo?\nA 101010\nB 111011000\nC 11111000\nM 10100\nN 00110011\nQUNSTÃO 81\nO estuTo Te Timensionamento e Te TesempenUo Te reTes Te\ncomunicação é uma ciência que usa constantemente os resultaTos Ta\nteoria Te filas. Nesse tipo Te análise, é comum a aToção Te moTelos\nTe filas M/M/1 para a análise Te enlaces Te roteaTores e\ncomutaTores. Nesse tipo Te moTelo, a cUegaTa Te pacotes para\ntransmissão e a transmissão Teles são processos Te Poisson. Assim,\nas características Ta fila que se forma em caTa enlace poTem ser\nTeterminaTas em função Ta taxa Te cUegaTa (tempo méTio TecorriTo\nentre a cUegaTa Te pacotes sucessivos encaminUaTos para\ntransmissão pelo enlace) e Ta taxa Te serviço (tempo méTio para\ntransmissão Te um pacote). Acerca To moTelo M/M/1 aplicaTo ao\nestuTo Te capaciTaTe e TesempenUo Te enlaces Te reTes, por\ncomutação Te pacotes, assinale a opção correta.\nA Caso a taxa Te cUegaTa seja maior que a taxa Te serviço (taxa Te\nsaíTa), conclui-se que o enlace está subTimensionaTo e Uaverá\nperTa Te pacotes.\nB A taxa Te serviço é inTepenTente To tamanUo To pacote.\nC Nm um roteaTor com múltiplos enlaces, a taxa Te cUegaTa para\ncaTa enlace é igual ao somatório Tas capaciTaTes Te toTos os\nenlaces TiviTiTo pelo número Te enlaces To roteaTor.\nM O moTelo M/M/1 apresenta instabiliTaTe numérica sempre que\na taxa Te cUegaTa for próxima Te zero.\nN QuanTo a taxa Te cUegaTa é menor que a taxa Te serviço,\npoTe-se esperar que o número méTio Te pacotes na fila seja igual\na zero.\nQUNSTÃO 82\nConsiTere que, em uma reTe PLAN, a função Te\nTensiTaTe Te probabiliTaTe (PMF) Te erro Te bit na\ntransmissão entre um computaTor conectaTo à reTe e o\nerro\nponto Te acesso (access point) — p\n(T) — seja TaTa\npela função cujo gráfico está mostraTo acima, em que T\n$ 0 é a Tistância entre o ponto Te acesso e o\ncomputaTor.\nConsiTeranTo essas informações, julgue os itens a seguir.\nC\nA probabiliTaTe Te erro Te bit na transmissão no caso Te o\n0\ncomputaTor estar localizaTo à Tistância T é TaTa\npor \n.\nCC\nSabenTo-se que a méTia Ta Tistribuição corresponTente\nà PMF acima mencionaTa é igual a x, conclui-se que é Te\n0,5 a probabiliTaTe Te erro Te bit na transmissão no caso\nTe o computaTor estar localizaTo à Tistância T = x.\nCCC SuponTo-se que o sistema Te transmissão seja binário, as\ninformações \napresentaTas \nsão \nsuficientes \npara \nse\nconcluir que a probabiliTaTe Te erro TaTo que foi enviaTo\num bit 1 é igual à probabiliTaTe Te erro TaTo que foi\nenviaTo um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 83\nCom relação à tecnologia bluetootU, que possibilita a\ncomunicação sem fios entre Tispositivos, assinale a opção\ncorreta.\nA Nssa tecnologia utiliza a transmissão em enlace via ráTio na\nbanTa Te freqüência VHF.\nB Nssa tecnologia possibilita a transmissão Te voz e TaTos a\ncurtas Tistâncias.\nC Um Tispositivo poTe assumir, simultaneamente, o papel Te\nmestre e Te escravo em uma mesma piconet que utiliza essa\ntecnologia.\nM Uma piconet poTe ser formaTa por até 255 mestres e\n255 escravos.\nN Um Tispositivo poTe participar, simultaneamente, Te Tuas\npiconets, TesTe que ele seja mestre em ambas.",
+  "figuras": [],
+  "caminho_png": "/questoes/2005_CCP/q78.png",
+  "caminho_json": "/questoes/2005_CCP/q78.json",
+  "caminho_txt": "/questoes/2005_CCP/q78.txt"
 }

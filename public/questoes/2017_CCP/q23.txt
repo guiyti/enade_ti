@@ -1,34 +1,76 @@
-QUESTÃO 23
-IŽŶƐŝĚĞƌĞ Ž ƐĞŐƵŝŶƚĞ ĂůĨĂďĞƚŽ͗
+24
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 22
+Um  país  utiliza  moeTas  Te  1,   5,   10,   25  e  50 
+centavos.  Um programaTor Tesenvolveu o métoTo 
+a seguir,  que implementa a estratégia gulosa para 
+o problema To troco mínimo.  Nsse métoTo recebe 
+como  parametro  um  valor  inteiro,   em  centavos,  
+e retorna um array no qual caTa posição inTica a 
+quantiTaTe Te moeTas Te caTa valor.
+public static int[] troco(int valor){
+int[] moeTas = new int[5];
+moeTas[4] = valor / 50;
+valor = valor % 50;
+moeTas[3] = valor / 25;
+valor = valor % 25;
+moeTas[2] = valor / 10;
+valor = valor % 10;
+moeTas[1] = valor / 5;
+valor = valor % 5;
+moeTas[0] = valor;
+return(moeTas);
+}
+ConsiTeranTo  o  métoTo  apresentaTo,   avalie  as 
+asserções a seguir e a relação proposta entre elas.
+/.   O  métoTo  guloso  encontra  o  menor 
+numero Te moeTas para o valor Te entraTa,  
+consiTeranTo as moeTas To país.
+POZYUN
+//.   MétoTos  gulosos  sempre  encontram  a 
+solução global otima.
+  respeito Tessas asserções,  assinale a opção correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+QUNSTÃO 23
+ConsiTere o seguinte alfabeto:
 Σ =
 + −
 {(,), , , , , , , , , , , , }
 0 1 2 3 4 5 6 7 8 9
 .
-IŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  ƵŵĂ ůŝŶŐƵĂŐĞŵ L ĚĞĮŶŝĚĂ ƐŽďƌĞ 
-ĞƐƐĞ ĂůĨĂďĞƚŽ͘
-L {w | w  6Ύ͕  ƉĂƌĂ ĐĂĚĂ ŽĐŽƌƌġŶĐŝĂ ĚĞ ‘(‘ em w͕  
-ĞǆŝƐƚĞ ƵŵĂ ŽĐŽƌƌġŶĐŝĂ ĚĞ ‘)’}
-WŽƌ ĞǆĞŵƉůŽ͕  Ă ĐĂĚĞŝĂ x  (2 + (3 - 4)) ƉĞƌƚĞŶĐĞ Ă 
-L͕  ŵĂƐ Ă ĐĂĚĞŝĂ y  (2 + (3 - 4) ŶĆŽ ƉĞƌƚĞŶĐĞ Ă L.
-IŽŵ ƌĞůĂĕĆŽ ă ůŝŶŐƵĂŐĞŵ L͕  ĂǀĂůŝĞ ĂƐ ĂƐƐĞƌĕƁĞƐ Ă 
-ƐĞŐƵŝƌ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘
-/͘      ůŝŶŐƵĂŐĞŵ  L ŶĆŽ  ƉŽĚĞ  ƐĞƌ  ĐŽŶƐŝĚĞƌĂĚĂ 
-ƌĞŐƵůĂƌ͘
-WKZYhE
-//͘    ƵƚƀŵĂƚŽƐ ĮŶŝƚŽƐ ŶĆŽ ƉŽƐƐƵĞŵ ŵĞĐĂŶŝƐŵŽƐ 
-ƋƵĞ  ƉĞƌŵŝƚĂŵ  ĐŽŶƚĂƌ  ŝŶĮŶŝƚĂŵĞŶƚĞ  Ž 
-ŶƷŵĞƌŽ  ĚĞ  ŽĐŽƌƌġŶĐŝĂƐ  ĚĞ  ĚĞƚĞƌŵŝŶĂĚŽ 
-ƐşŵďŽůŽ Ğŵ ƵŵĂ ĐĂĚĞŝĂ͘
-   ƌĞƐƉĞŝƚŽ  ĚĞƐƐĂƐ  ĂƐƐĞƌĕƁĞƐ͕   ĂƐƐŝŶĂůĞ  Ă  ŽƉĕĆŽ 
-ĐŽƌƌĞƚĂ͘
-A   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  
-Ğ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-B   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  
-ŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-C    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // 
-Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘
-D    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // Ġ ƵŵĂ 
-ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘
-E   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘
-ƌĞĂ ůŝǀƌĞ
+ConsiTere,  ainTa,  uma linguagem L TefniTa sobre 
+esse alfabeto.
+L {w | w  6Ύ,  para caTa ocorrgncia Te ‘(‘ em w,  
+existe uma ocorrgncia Te ‘)’}
+Por exemplo,  a caTeia x  (2 + (3 - 4)) pertence a 
+L,  mas a caTeia y  (2 + (3 - 4) não pertence a L.
+Com relação a linguagem L,  avalie as asserções a 
+seguir e a relação proposta entre elas.
+/.      linguagem  L não  poTe  ser  consiTeraTa 
+regular.
+POZYUN
+//.    utƀmatos fnitos não possuem mecanismos 
+que  permitam  contar  infnitamente  o 
+numero  Te  ocorrgncias  Te  TeterminaTo 
+símbolo em uma caTeia.
+   respeito  Tessas  asserções,   assinale  a  opção 
+correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+Area livre
+*R03201724*

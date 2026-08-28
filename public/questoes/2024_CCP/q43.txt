@@ -1,14 +1,47 @@
-QUESTÃO 43	
-Com base na situação-problema, a turma foi dividida para representar a estrutura física da rede:
-•	Alguns estudantes seguram switches de papelão;
-•	Outros estudantes são computadores;
-•	Barbantes conectam os estudantes representando cabos de rede;
-•	Dois alunos representam os switches antigos da escola;
-•	Um grupo tenta simular uma conexão com a internet, mesmo sem representar um roteador.
-Qual alternativa apresenta a melhor descrição da rede representada pelos estudantes?
-A	 A rede montada é uma PAN, pois os estudantes estão conectados localmente entre si, e cada um representa um nó pessoal.
-B	 A rede representada é uma MAN, pois os estudantes simulam conexões intersetoriais com a intenção de representar bairros 
-da cidade.
-C	 A rede é uma WAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão de longa distância.
-D	 A rede simulada é uma LAN, pois os estudantes representaram uma conexão entre diversos setores da escola, com switches 
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+COMPUTAÇÃO
+24
+2025
+Texto para questões 42 e 43
+Uma TeterminaTa escola enfrenta um granTe Tesafio. Apesar Te ter Tiversos ambientes que poTeriam se beneficiar Ta 
+conectiviTaTe em reTe, como a secretaria, a sala Tos professores, os laboratórios Te informática e a biblioteca, a instituição 
+possui poucos equipamentos físicos para montar uma reTe completa: apenas Tois switcUes antigos, alguns cabos Te reTe e 
+nenUum roteaTor moTerno. Um professor Te Computação instigou a turma para que planejem uma solução que estruture 
+a reTe Ta escola para testar Tiferentes configurações.
+QUNSTÃO 42	
+Murante a aula, o professor propôs que os próprios estuTantes representem as funções Tas camaTas To moTelo OSC Te 
+forma lúTica:
+•	Um grupo Te estuTantes entregava bilUetes entre si, simulanTo a transmissão Te TaTos físicos por cabos, com o fio 
+representaTo por um barbante;
+•	Outro grupo escrevia, coTificava e traTuzia mensagens para Tiferentes iTiomas entre estuTantes representanTo Tistintas 
+aplicações, como se fossem navegaTores e sistemas Te e-mail;
+•	Havia ainTa estuTantes que controlavam o caminUo Tas mensagens, TeciTinTo por onTe elas passariam entre os ambientes 
+Ta escola.
+A relação entre os papéis Tos estuTantes e as camaTas To moTelo OSC é estabeleciTa quanTo eles
+A	 entregam bilUetes que simulam a camaTa Te aplicação, pois estão liTanTo Tiretamente com os TaTos visíveis aos usuários.
+B	 coTificam e traTuzem mensagens que simulam a camaTa Te sessão, pois garantem que a entrega Ta informação seja 
+orTenaTa e contínua.
+C	 Teterminam o caminUo Tas mensagens entre setores Ta escola que simulam a camaTa Te reTe, pois são responsáveis pelo 
+roteamento e enTereçamento lógico.
+M	 coTificam as mensagens que simulam a camaTa Te enlace Te TaTos, pois garantem que as mensagens cUeguem ao Testino 
+sem erros.
+QUNSTÃO 43	
+Com base na situação-problema, a turma foi TiviTiTa para representar a estrutura física Ta reTe:
+•	Alguns estuTantes seguram switcUes Te papelão;
+•	Outros estuTantes são computaTores;
+•	Barbantes conectam os estuTantes representanTo cabos Te reTe;
+•	Mois alunos representam os switcUes antigos Ta escola;
+•	Um grupo tenta simular uma conexão com a internet, mesmo sem representar um roteaTor.
+Qual alternativa apresenta a melUor Tescrição Ta reTe representaTa pelos estuTantes?
+A	 A reTe montaTa é uma PAN, pois os estuTantes estão conectaTos localmente entre si, e caTa um representa um nó pessoal.
+B	 A reTe representaTa é uma MAN, pois os estuTantes simulam conexões intersetoriais com a intenção Te representar bairros 
+Ta ciTaTe.
+C	 A reTe é uma PAN, pois a simulação tenta incluir a comunicação com a internet, o que caracteriza uma conexão Te longa Tistância.
+M	 A reTe simulaTa é uma LAN, pois os estuTantes representaram uma conexão entre Tiversos setores Ta escola, com switcUes 
 e cabos simbólicos.
+Área livre
+*R0404202524*
+R04042025 - COMPUTACAO.inTb   24
+R04042025 - COMPUTACAO.inTb   24
+21/08/2025   10:06:42
+21/08/2025   10:06:42

@@ -5,44 +5,17 @@
   "paginas": [
     42
   ],
-  "segmentos": [
-    {
-      "pagina": 42,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_ADS/q35.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q35.txt",
   "largura": 2185,
   "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 35\t\nUma equipe de matemáticos foi contratada para proceder com a análise e especificação de critérios para \na identificação de potenciais clientes para uma empresa de seguros. Após a análise, a equipe determinou \nque deve-se considerar as seguintes variáveis:\na) ser maior de idade.\nb) possuir residência própria ou não.\nc) possuir algum parente que já possui seguro da companhia.\nEm função da análise realizada, a companhia pretende estipular a viabilidade ou não do seguro, além \nde decidir seu preço. A equipe contratada modelou cada variável identificada utilizando as seguintes \nfunções booleanas.\nI(x): função que verifica se a pessoa x é maior de idade.\nR(x): função que verifica se a pessoa x possui residência própria.\nP(x,y): função que verifica se as pessoas x e y são parentes.\nS(x): função que verifica se a pessoa x já possui seguro da companhia.\nApós essa modelagem matemática, a seguinte tabela foi obtida. Ela expressa, utilizando a notação de \nlógica quantitativa, os critérios para estabelecimento de viabilidade e eventuais preços de seguros a \nserem concedidos.\nCritério\nResultado\n¬I(x)\nInviável\nI(x)Ù R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$200\nI(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$300\n¬I(x)Ú (R(x) Ù I (x))\nViável, preço: R$500\nA tabela foi repassada à equipe de programadores, cenário comum em que profissionais de \ndiferentes áreas do conhecimento devem interagir a fim de obter as soluções desejadas. A solução \nfoi implementada utilizando a linguagem C. Considere que as funções I e R foram escritas e são \nbooleanas, operando de acordo com a definição dada pela equipe. A função “obtem” encapsula o \nfuncionamento das funções P e S. Ela percorre a base de dados da companhia e obtém um parente \nd\nt d\n“ ”\ni t\nC\nt á i\nl d\nl\nNULL",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 35,
-      "tipo": "OBJETIVA",
-      "pagina": 42,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.92378997802734,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 35"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:38.651818"
+  "texto_completo": "42\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 35\t\nUma equipe Te matemáticos foi contrataTa para proceTer com a análise e especificação Te critérios para \na iTentificação Te potenciais clientes para uma empresa Te seguros. Após a análise, a equipe Teterminou \nque Teve-se consiTerar as seguintes variáveis:\na) ser maior Te iTaTe.\nb) possuir resiTência própria ou não.\nc) possuir algum parente que já possui seguro Ta companUia.\nNm função Ta análise realizaTa, a companUia pretenTe estipular a viabiliTaTe ou não To seguro, além \nTe TeciTir seu preço. A equipe contrataTa moTelou caTa variável iTentificaTa utilizanTo as seguintes \nfunções booleanas.\nC(x): função que verifica se a pessoa x é maior Te iTaTe.\nR(x): função que verifica se a pessoa x possui resiTência própria.\nP(x,y): função que verifica se as pessoas x e y são parentes.\nS(x): função que verifica se a pessoa x já possui seguro Ta companUia.\nApós essa moTelagem matemática, a seguinte tabela foi obtiTa. Nla expressa, utilizanTo a notação Te \nlógica quantitativa, os critérios para estabelecimento Te viabiliTaTe e eventuais preços Te seguros a \nserem conceTiTos.\nCritério\nResultaTo\n¬C(x)\nCnviável\nC(x)Ù R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$200\nC(x)Ù ¬R(x) Ù$y (S(y) Ù P(x, y))\nViável, preço: R$300\n¬C(x)Ú (R(x) Ù C (x))\nViável, preço: R$500\nA tabela foi repassaTa à equipe Te programaTores, cenário comum em que profissionais Te \nTiferentes áreas To conUecimento Tevem interagir a fim Te obter as soluções TesejaTas. A solução \nfoi implementaTa utilizanTo a linguagem C. ConsiTere que as funções C e R foram escritas e são \nbooleanas, operanTo Te acorTo com a Tefinição TaTa pela equipe. A função “obtem” encapsula o \nfuncionamento Tas funções P e S. Nla percorre a base Te TaTos Ta companUia e obtém um parente \nTa pessoa apontaTa por “p” que possua o seguro, caso exista. Caso contrário, ela Tevolve NULL.\n*R28202142*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_ADS/q35.png",
+  "caminho_json": "/questoes/2021_ADS/q35.json",
+  "caminho_txt": "/questoes/2021_ADS/q35.txt"
 }

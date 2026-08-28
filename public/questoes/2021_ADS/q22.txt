@@ -1,23 +1,27 @@
-QUESTÃO 22	
-Um ponto importante para fábricas de software é a garantia de que seus produtos e/ou serviços acompanhem 
-as diversas mudanças ocasionadas pelo mundo corporativo. As restrições de orçamento ou cronograma, 
-reestruturação do negócio, modificações de regras de negócio ou novas necessidades do cliente, geram 
-mudanças inevitáveis. Nesse cenário, a utilização de um processo de Gerência de Configuração de Software 
-(GCS) que contemple características necessárias para gerenciar e controlar a evolução de um software, através 
-do controle formal de versão e solicitação de mudanças, é extremamente importante.
-Sobre o processo de Gerência de Configuração de Software (GCS), avalie as afirmações a seguir.
-I.	 O controle de versão possibilita o compartilhamento de dados e a edição colaborativa, permitindo 
-a gestão de diferentes ramos de desenvolvimento e possibilitando a existência de diferentes 
-versões de forma simultânea.
-II.	 A auditoria de configuração é uma atividade de garantia de qualidade do sistema que tem por 
-objetivo assegurar que a qualidade do software seja mantida quando feitas alterações requisitadas.
-III.	 O relatório de status de configuração possui informações sobre o GCS, tendo por objetivo manter o 
-cliente informado sobre as alterações, e deve ser gerado ao final do processo.
-IV.	 A GCS proporciona um conjunto de atividades de acompanhamento e controle de mudanças que é 
-iniciado logo depois que o software for fornecido ao cliente e colocado em operação.
+30
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 22	
+Um ponto importante para fábricas Te software é a garantia Te que seus proTutos e/ou serviços acompanUem 
+as Tiversas muTanças ocasionaTas pelo munTo corporativo. As restrições Te orçamento ou cronograma, 
+reestruturação To negócio, moTificações Te regras Te negócio ou novas necessiTaTes To cliente, geram 
+muTanças inevitáveis. Nesse cenário, a utilização Te um processo Te Gerência Te Configuração Te Software 
+(GCS) que contemple características necessárias para gerenciar e controlar a evolução Te um software, através 
+To controle formal Te versão e solicitação Te muTanças, é extremamente importante.
+Sobre o processo Te Gerência Te Configuração Te Software (GCS), avalie as afirmações a seguir.
+C.	 O controle Te versão possibilita o compartilUamento Te TaTos e a eTição colaborativa, permitinTo 
+a gestão Te Tiferentes ramos Te Tesenvolvimento e possibilitanTo a existência Te Tiferentes 
+versões Te forma simultânea.
+CC.	 A auTitoria Te configuração é uma ativiTaTe Te garantia Te qualiTaTe To sistema que tem por 
+objetivo assegurar que a qualiTaTe To software seja mantiTa quanTo feitas alterações requisitaTas.
+CCC.	 O relatório Te status Te configuração possui informações sobre o GCS, tenTo por objetivo manter o 
+cliente informaTo sobre as alterações, e Teve ser geraTo ao final To processo.
+CV.	 A GCS proporciona um conjunto Te ativiTaTes Te acompanUamento e controle Te muTanças que é 
+iniciaTo logo Tepois que o software for forneciTo ao cliente e colocaTo em operação.
 É correto apenas o que se afirma em
-A	 I e II.
-B	 II e III.
-C	 III e IV.
-D	 I, II e IV.
-E	 I, III e IV.
+A	 C e CC.
+B	 CC e CCC.
+C	 CCC e CV.
+M	 C, CC e CV.
+N	 C, CCC e CV.
+Área livre
+*R28202130*

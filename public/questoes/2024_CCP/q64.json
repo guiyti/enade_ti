@@ -5,44 +5,18 @@
   "paginas": [
     31
   ],
-  "segmentos": [
-    {
-      "pagina": 31,
-      "x0": 321.35999999999996,
-      "y0": 318.40728759765625,
-      "x1": 611.7199999999999,
-      "y1": 715.3707885742188,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q64.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q64.txt",
   "largura": 1240,
   "altura": 1685,
   "confianca": 0.98,
-  "texto_completo": "p\nQUESTÃO 64\t\nO professor de Computação deseja ensinar os estados do \nprocesso em sistemas operacionais (novo, pronto, em \nexecução, bloqueado, encerrado), adaptando sua metodologia \na diferentes etapas da Educação Básica, conforme os níveis de \ndesenvolvimento cognitivo dos estudantes, fundamentados \npela BNCC - Complemento Computação.\nConsiderando seu plano de ensino, centrado em estratégias \nacessíveis, linguagem cinestésica e computação desplugada, qual \ndas ações deve ser implementada ao contexto apresentado?\nA\t Nos Anos Finais do Ensino Fundamental, solicitar que \nos estudantes desenhem os estados do processo em \num fluxograma impresso, seguindo definições prévias e \nidentificando transições com base em material expositivo \npreviamente lido.\nB\t No Ensino Médio, apresentar vídeos técnicos sobre os \nestados do processo e, em seguida, pedir que os estudantes \ncriem resumos individuais relacionando os conceitos com \no funcionamento do sistema operacional.\nC\t No Ensino Médio, propor uma atividade na qual estudantes \ndramatizam os estados do processo, movimentando-\nse entre estações da sala que representam os estados, \nrealizando ações típicas de cada um, de forma guiada por \numa sequência lógica, simulando o comportamento do \nsistema operacional.\nD\t Nos Anos Iniciais do Ensino Fundamental, organizar uma \natividade em que os estudantes agrupam figuras que \nsimbolizam tarefas (comer, correr, dormir) aos estados do \nprocesso, justificando oralmente suas escolhas com apoio \ndo professor.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 64,
-      "tipo": "OBJETIVA",
-      "pagina": 31,
-      "x": 325.3937072753906,
-      "y": 330.40728759765625,
-      "x1": 385.1302795410156,
-      "y1": 345.67529296875,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 64"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade",
+    "Sistemas Operacionais"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407685"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n31\nCOMPUTAÇÃO\n2025\nTexto para questões Te 61 a 63\nO processo Te Tesenvolvimento Te software é uma ativiTaTe \nrealizaTa por e para pessoas. Assim, as pessoas são o elemento \nessencial em toTas as fases To processo, uma vez que os \nproTutos Te software têm impacto Tireto na viTa To seu \npúblico-alvo. Os princípios Te MiversiTaTe, NquiTaTe e Cnclusão \n(MNC) funcionam em conjunto e sua integração ao longo Te \ntoTo o processo Te Tesenvolvimento Te software aumenta o \nTesempenUo Ta equipe, melUora a qualiTaTe e a relevância \nTo proTuto Te software para um público-alvo TiversificaTo.\nMARQUNS, A. B. et al. GranTes Tesafios para TiversiTaTe, equiTaTe e \ninclusão (MNC) no Mesenvolvimento Te Software. PorksUop sobre \nAspectos Sociais, Humanos e Nconômicos Te \nSoftware. SBC, 2024 (aTaptaTo).\nQUNSTÃO 61\t\nPara atenTer pessoas com Teficiência, iTosos e pessoas com \nbaixo letramento Tigital, Te acorTo com os princípios MNC, qual \nprática Teve ser utilizaTa nesse contexto?\nA\t Priorizar a criação Te interfaces paTronizaTas e com \nrecursos acessíveis Te navegação.\nB\t Cncluir representantes Te grupos Te usuários Tiversos nas \netapas To processo.\nC\t Utilizar métoTos ágeis com o objetivo Te assegurar entregas \nrápiTas.\nM\t Realizar testes com base em paTrões Te Tesign e usabiliTaTe.\nQUNSTÃO 62\t\nCom base nos princípios MNC, qual ação atenTe aos requisitos \nTe acessibiliTaTe Turante o Tesenvolvimento Te software?\nA\t Cncorporar Tiretrizes Te acessibiliTaTe ao processo para \ngarantir testes baseaTos em tecnologias assistivas.\nB\t Cncluir os recursos Te navegação por teclaTo e leitores Te \ntela para facilitar o uso pelos usuários Ta aplicação.\nC\t Utilizar contrastes visuais fortes e aumentar o tamanUo Ta \nfonte para assegurar as necessiTaTes Te acessibiliTaTe.\nM\t Certificar responsiviTaTe e compatibiliTaTe com navegaTores \nmoTernos para reTuzir TificulTaTes enfrentaTas pelos usuários.\nÁrea livre\nQUNSTÃO 63\t\nUma equipe está TesenvolvenTo um conjunto Te jogos \neTucacionais Tigitais voltaTo para as etapas Ta NTucação \nCnfantil, Anos Cniciais e Anos Finais To Nnsino FunTamental. \nPara garantir que os jogos atenTam aos princípios MNC, qual \nação Teve ser utilizaTa?\nA\t Realizar testes automatizaTos Te TesempenUo e segurança, \npois esses são os aspectos críticos em jogos eTucacionais.\nB\t Utilizar um grupo Te estuTantes com bom TesempenUo \nescolar como referência para assegurar que os jogos sejam \nTesafiaTores.\nC\t Avaliar os jogos com base em critérios técnicos e peTagógicos \nTefiniTos previamente, consiTeranTo a TiversiTaTe To \npúblico escolar.\nM\t Classificar os jogos Te acorTo com a faixa etária, perfil \ncognitivo e aspectos culturais, Tos grupos que representem \no público escolar.\nQUNSTÃO 64\t\nO professor Te Computação Teseja ensinar os estaTos To \nprocesso em sistemas operacionais (novo, pronto, em \nexecução, bloqueaTo, encerraTo), aTaptanTo sua metoTologia \na Tiferentes etapas Ta NTucação Básica, conforme os níveis Te \nTesenvolvimento cognitivo Tos estuTantes, funTamentaTos \npela BNCC - Complemento Computação.\nConsiTeranTo seu plano Te ensino, centraTo em estratégias \nacessíveis, linguagem cinestésica e computação TesplugaTa, qual \nTas ações Teve ser implementaTa ao contexto apresentaTo?\nA\t Nos Anos Finais To Nnsino FunTamental, solicitar que \nos estuTantes TesenUem os estaTos To processo em \num fluxograma impresso, seguinTo Tefinições prévias e \niTentificanTo transições com base em material expositivo \npreviamente liTo.\nB\t No Nnsino MéTio, apresentar víTeos técnicos sobre os \nestaTos To processo e, em seguiTa, peTir que os estuTantes \ncriem resumos inTiviTuais relacionanTo os conceitos com \no funcionamento To sistema operacional.\nC\t No Nnsino MéTio, propor uma ativiTaTe na qual estuTantes \nTramatizam os estaTos To processo, movimentanTo-\nse entre estações Ta sala que representam os estaTos, \nrealizanTo ações típicas Te caTa um, Te forma guiaTa por \numa sequência lógica, simulanTo o comportamento To \nsistema operacional.\nM\t Nos Anos Cniciais To Nnsino FunTamental, organizar uma \nativiTaTe em que os estuTantes agrupam figuras que \nsimbolizam tarefas (comer, correr, Tormir) aos estaTos To \nprocesso, justificanTo oralmente suas escolUas com apoio \nTo professor.\nÁrea livre\n*R0404202531*\nR04042025 - COMPUTACAO.inTb   31\nR04042025 - COMPUTACAO.inTb   31\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q64.png",
+  "caminho_json": "/questoes/2024_CCP/q64.json",
+  "caminho_txt": "/questoes/2024_CCP/q64.txt"
 }

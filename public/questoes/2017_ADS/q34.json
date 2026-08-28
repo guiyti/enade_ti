@@ -5,44 +5,17 @@
   "paginas": [
     38
   ],
-  "segmentos": [
-    {
-      "pagina": 38,
-      "x0": 25.0,
-      "y0": 76.67594909667969,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_ADS/q34.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q34.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 34 \n:KÃK 'Z/>K͗  Ͷ /ƐƐŽ Ġ ĐŽŝƐĂ ĚĞ ƐĞĐĂ͘   ĐĂďĂ ŶŝƐƐŽ͕  ĞƐƐĂ ĨŽŵĞ͗  ŶŝŶŐƵĠŵ ƉŽĚĞ ƚĞƌ ŵĞŶŝŶŽ Ğ ŚĂũĂ ĐĂǀĂůŽ ŶŽ \nŵƵŶĚŽ͘    ĐŽŵŝĚĂ Ġ ŵĂŝƐ ďĂƌĂƚĂ Ğ Ġ ĐŽŝƐĂ ƋƵĞ ƐĞ ƉŽĚĞ ǀĞŶĚĞƌ͘  DĂƐ ƐĞƵ ĐĂǀĂůŽ͕  ĐŽŵŽ ĨŽŝ͍\nI,/IM͗  Ͷ &Žŝ ƵŵĂ ǀĞůŚĂ ƋƵĞ ŵĞ ǀĞŶĚĞƵ ďĂƌĂƚŽ͕  ƉŽƌƋƵĞ ŝĂ ƐĞ ŵƵĚĂƌ͕  ŵĂƐ ƌĞĐŽŵĞŶĚŽƵ ƚŽĚŽ ĐƵŝĚĂĚŽ͕  \nƉŽƌƋƵĞ Ž ĐĂǀĂůŽ ĞƌĂ ďĞŶƚŽ͘  E Ɛſ ƉŽĚŝĂ ƐĞƌ ŵĞƐŵŽ͕  ƉŽƌƋƵĞ ĐĂǀĂůŽ ďŽŵ ĐŽŵŽ ĂƋƵĞůĞ ĞƵ ŶƵŶĐĂ ƟŶŚĂ ǀŝƐƚŽ͘\n^h ^^hE ͕   ͘   ƵƚŽ ĚĂ IŽŵƉĂĚĞĐŝĚĂ͘  ZŝŽ ĚĞ :ĂŶĞŝƌŽ͗   Őŝƌ͕  2000 ;ĂĚĂƉƚĂĚŽͿ͘\n  ƐĞŐƵŝƌ ĂƉƌĞƐĞŶƚĂͲƐĞ Ƶŵ ŵŽĚĞůŽ ĚĞ ĚĂĚŽƐ ĞůĂďŽƌĂĚŽ Ă ƉĂƌƟƌ ĚŽ ĚŝĄůŽŐŽ ĞŶƚƌĞ IŚŝĐſ Ğ :ŽĆŽ 'ƌŝůŽ͘\nIŽŵ ďĂƐĞ ŶŽ ĚŝĄůŽŐŽ Ğ ŶŽ ĚŝĂŐƌĂŵĂ ĂƉƌĞƐĞŶƚĂĚŽƐ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘   K IŚŝĐſ Ğ Ă ǀĞůŚĂ ƉŽĚĞƌĆŽ ƐĞƌ ĐĂĚĂƐƚƌĂĚŽƐ ŶĂ ĞŶƟĚĂĚĞ ƉĞƐƐŽĂ͘\n//͘   K IŚŝĐſ Ğ Ă ǀĞůŚĂ ƉŽĚĞƌĆŽ ƚĞƌ ŵĂŝƐ ƋƵĞ Ƶŵ ĐĂǀĂůŽ ĐĂĚĂƐƚƌĂĚŽƐ͘\n///͘   K ĂƚƌŝďƵƚŽ ƌŐ ĚĂ ĞŶƟĚĂĚĞ ƉĞƐƐŽĂ ƉŽĚĞ ƚĞƌ Ă ĨƵŶĕĆŽ ĚĞ ĐŚĂǀĞ ƉƌŝŵĄƌŝĂ ŶĞƐƐĂ ĞŶƟĚĂĚĞ͘\n/s͘   K ĐĂǀĂůŽ ĚĞǀĞƌĄ ƚĞƌ ŶŽ ŵşŶŝŵŽ ƵŵĂ ƉĞƐƐŽĂ Ğ ƵŵĂ ƉĞƐƐŽĂ ƉŽĚĞƌĄ ƐĞƌ ĐĂĚĂƐƚƌĂĚĂ ƐĞŵ Ă ŶĞĐĞƐƐŝĚĂĚĞ \nĚĞ ƚĞƌ Ƶŵ ĐĂǀĂůŽ͘\n\u001e ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA  / Ğ ///͘\nB  / Ğ /s͘\nC  // Ğ ///͘\nD  /͕  // Ğ /s͘\nE  //͕  /// Ğ /s͘\n\u0006ƌĞĂ ůŝǀƌĞ\npessoa\ncavalo\npossui\nnome\ncpf\ncodigo\nrg\neBento?\nraca\ncodigo\n(1,1)\n(0,1)",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 34,
-      "tipo": "OBJETIVA",
-      "pagina": 38,
-      "x": 60.35430145263672,
-      "y": 88.67594909667969,
-      "x1": 125.5143051147461,
-      "y1": 100.95195007324219,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 34"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:35.652982"
+  "texto_completo": "38\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 34 \n:OãO 'Z/>O:  Ͷ /sso é coisa Te seca.   caba nisso,  essa fome:  ninguém poTe ter menino e Uaũa cavalo no \nmunTo.    comiTa é mais barata e é coisa que se poTe venTer.  Mas seu cavalo,  como foi͍\nC,/CM:  Ͷ &oi uma velUa que me venTeu barato,  porque ia se muTar,  mas recomenTou toTo cuiTaTo,  \nporque o cavalo era bento.  N so poTia ser mesmo,  porque cavalo bom como aquele eu nunca tinUa visto.\nSU SSUN ,   .   uto Ta CompaTeciTa.  Zio Te :aneiro:   gir,  2000 (aTaptaTo).\n  seguir apresenta-se um moTelo Te TaTos elaboraTo a partir To TiAlogo entre CUico e :oão 'rilo.\nCom base no TiAlogo e no Tiagrama apresentaTos,  avalie as afrmações a seguir.\n/.   O CUico e a velUa poTerão ser caTastraTos na entiTaTe pessoa.\n//.   O CUico e a velUa poTerão ter mais que um cavalo caTastraTos.\n///.   O atributo rg Ta entiTaTe pessoa poTe ter a função Te cUave primAria nessa entiTaTe.\n/s.   O cavalo TeverA ter no mínimo uma pessoa e uma pessoa poTerA ser caTastraTa sem a necessiTaTe \nTe ter um cavalo.\n\u001e correto apenas o que se afrma em\nA  / e ///.\nB  / e /s.\nC  // e ///.\nM  /,  // e /s.\nN  //,  /// e /s.\nArea livre\npessoa\ncavalo\npossui\nnome\ncpf\ncoTigo\nrg\neBento?\nraca\ncoTigo\n(1,1)\n(0,1)\n*R41201738*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_ADS/q34.png",
+  "caminho_json": "/questoes/2017_ADS/q34.json",
+  "caminho_txt": "/questoes/2017_ADS/q34.txt"
 }

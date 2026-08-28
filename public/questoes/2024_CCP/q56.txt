@@ -1,19 +1,53 @@
-p
-p
-p
-q
-ç
-p
-,
-g
-QUESTÃO 56	
-A abordagem Computação Desplugada para ensinar algoritmos de ordenação e promover a compreensão prática dos conceitos 
-deve propor que os estudantes
-A	 programem dispositivos IoT para ordenar fisicamente objetos numerados em uma sequência correta, acompanhando o 
-funcionamento dos dispositivos por meio de sensores integrados.
-B	 elaborem, em papel, a codificação passo a passo de um algoritmo de ordenação, usando uma linguagem de programação 
-para futura simulação de sua execução em um computador.
-C	 assistam a uma videoaula que apresenta diferentes abordagens de ordenação e respondam individualmente a um questionário 
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+29
+COMPUTAÇÃO
+2025
+Texto para questões Te 55 a 57
+Um professor Te Computação pretenTe ensinar algoritmos Te orTenação e TeciTe utilizar o Merge Sort, que consiste em TiviTir 
+uma lista recursivamente até obter listas com um único elemento e combinar as listas orTenanTo os elementos até reconstruir 
+a lista original. Por ser um exemplo clássico Ta técnica Te Tivisão e conquista, seu objetivo é proporcionar aos estuTantes uma 
+experiência Te aprenTizagem em que percebam, Te forma prática, como problemas complexos poTem ser compreenTiTos e 
+resolviTos por meio Ta reestruturação em tarefas mais simples. Além Tisso, o professor percebe que poTe relacionar o conteúTo 
+a conceitos matemáticos, estabelecenTo conexões que favorecem o raciocínio lógico.
+QUNSTÃO 55	
+Uma aborTagem que use a metoTologia Te programação por pares e permita promover a compreensão To conceito Te Tivisão 
+e conquista Teve apresentar
+A	 o passo a passo To algoritmo; organizar os estuTantes em pares e propor que investiguem como TiviTir o problema em 
+partes menores; resolver caTa uma separaTamente e Tepois combinar os resultaTos compreenTenTo, na prática, a técnica 
+Te Tivisão e conquista.
+B	 o pseuTocóTigo To algoritmo; explicar TetalUaTamente sua lógica e a técnica Te Tivisão e conquista; TiviTir os estuTantes 
+em pares e propor que eles implementem o algoritmo em uma linguagem Te programação e simulem sua execução.
+C	 o roteiro com os passos Ta técnica Te Tivisão e conquista; organizar os estuTantes em pares e orientar que escrevam um 
+pseuTocóTigo To algoritmo e simulem manualmente a execução com vetores pequenos e previamente TefiniTos.
+M	 o mecanismo To algoritmo, utilizanTo como exemplo vetores simples previamente TefiniTos; TiviTir os estuTantes em pares 
+e propor exercícios para que simulem a orTenação Te vetores mais complexos, com elementos TesorganizaTos.
+QUNSTÃO 56	
+A aborTagem Computação MesplugaTa para ensinar algoritmos Te orTenação e promover a compreensão prática Tos conceitos 
+Teve propor que os estuTantes
+A	 programem Tispositivos CoT para orTenar fisicamente objetos numeraTos em uma sequência correta, acompanUanTo o 
+funcionamento Tos Tispositivos por meio Te sensores integraTos.
+B	 elaborem, em papel, a coTificação passo a passo Te um algoritmo Te orTenação, usanTo uma linguagem Te programação 
+para futura simulação Te sua execução em um computaTor.
+C	 assistam a uma viTeoaula que apresenta Tiferentes aborTagens Te orTenação e responTam inTiviTualmente a um questionário 
 sobre suas características.
-D	 usem cartões numerados para organizar manualmente listas pequenas, testando diferentes formas de ordenar os números 
-e discutindo entre pares os critérios usados para ordenar os elementos.
+M	 usem cartões numeraTos para organizar manualmente listas pequenas, testanTo Tiferentes formas Te orTenar os números 
+e TiscutinTo entre pares os critérios usaTos para orTenar os elementos.
+QUNSTÃO 57	
+Para que o professor possa ensinar algoritmos Te orTenação Te forma interTisciplinar, integranTo conceitos Te funções 
+matemáticas, a técnica Te programação que favorece essa integração baseia-se na
+A	 moTelagem To algoritmo a partir Te objetos, organizanTo os TaTos a partir Te atributos e relacionanTo os métoTos como 
+funções matemáticas, permitinTo que se estabeleça a transformação sistematizaTa Ta entraTa em uma saíTa orTenaTa.
+B	 utilização Ta moTularização To cóTigo em conjunto com funções recursivas, estruturanTo o algoritmo em etapas reutilizáveis 
+e bem TefiniTas, Te moTo que caTa função represente uma transformação parcial Tos TaTos, refletinTo Tiretamente a lógica 
+Te uma função matemática.
+C	 aplicação Te conceitos To paraTigma funcional, como funções anônimas e composição, permitinTo TiviTir o processo em 
+pequenas operações Teclarativas que poTem facilitar a visualização Te uma única função que represente a transformação 
+completa Tos TaTos.
+M	 elaboração Te algoritmos como uma sequência Te respostas a eventos, associanTo funções a interações específicas como as 
+operações envolviTas na solução To problema Te orTenação, permitinTo a representação Ta lógica como uma função matemática.
+Área livre
+*R0404202529*
+R04042025 - COMPUTACAO.inTb   29
+R04042025 - COMPUTACAO.inTb   29
+21/08/2025   10:06:45
+21/08/2025   10:06:45

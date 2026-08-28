@@ -5,44 +5,17 @@
   "paginas": [
     21
   ],
-  "segmentos": [
-    {
-      "pagina": 21,
-      "x0": 317.15999999999997,
-      "y0": 76.67594909667969,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2017_ADS/q15.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q15.txt",
   "largura": 1223,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 15 \nhŵĂ  ĞŵƉƌĞƐĂ  ŵƵůƟŶĂĐŝŽŶĂů  ĞƐƚĄ  ĂǀĂůŝĂŶĚŽ  Ƶŵ \nŝŶĐŝĚĞŶƚĞ ĚĞ ƐĞŐƵƌĂŶĕĂ ŽĐŽƌƌŝĚŽ ŝŶƚĞƌŶĂŵĞŶƚĞ ĐŽŵ \nŽ ĞŶǀŽůǀŝŵĞŶƚŽ ĚĞ Ƶŵ ĚĞ ƐĞƵƐ ĨƵŶĐŝŽŶĄƌŝŽƐ͕  Ž ƋƵĞ \nƉŽĚĞƌĄ  ƐĞƌ  ŵŽƟǀŽ  ƉĂƌĂ  Ž  ĞŶĐĞƌƌĂŵĞŶƚŽ  ĚĞ  ƐĞƵ \nĐŽŶƚƌĂƚŽ͘  K ƌĞĨĞƌŝĚŽ ĨƵŶĐŝŽŶĄƌŝŽ ĞƐƚĂǀĂ ƌĞĂůŝǌĂŶĚŽ Ž \nĐŽŵƉĂƌƟůŚĂŵĞŶƚŽ ĚĞ ƐĞŶŚĂƐ Ğ ƚĂŵďĠŵ ĞŶǀŝĂŶĚŽ \nŵĞŶƐĂŐĞŶƐ  ƉŽƌ  ŵĞŝŽ  ĚŽ  ƐĞƌǀŝĕŽ  ĚĞ  ĐŽƌƌĞŝŽ \nĞůĞƚƌƀŶŝĐŽ ĚĂ ĞŵƉƌĞƐĂ͕  ĐŽŵ Ž ŽďũĞƟǀŽ ĚĞ ĚŝĨĂŵĂƌ \nĞ ĐĂůƵŶŝĂƌ ŽƵƚƌŽƐ ĐŽůĞŐĂƐ ĚĞ ƚƌĂďĂůŚŽ͘\nEĞƐƐĂ  ƐŝƚƵĂĕĆŽ͕   ĚĞ  ĂĐŽƌĚŽ  ĐŽŵ  ĂƐ  ƉŽůşƟĐĂƐ \nĚĞ  ƐĞŐƵƌĂŶĕĂ  ƋƵĞ  ĚĞĮŶĞŵ  ŽƐ  ĚŝƌĞŝƚŽƐ  Ğ  ĂƐ \nƌĞƐƉŽŶƐĂďŝůŝĚĂĚĞƐ  ĚĞ  ĐĂĚĂ  Ƶŵ  Ğŵ  ƌĞůĂĕĆŽ  ă \nƐĞŐƵƌĂŶĕĂ ĚŽƐ ƌĞĐƵƌƐŽƐ ĐŽŵƉƵƚĂĐŝŽŶĂŝƐ ƋƵĞ ƵƟůŝǌĂ͕  \nŽ ĨƵŶĐŝŽŶĄƌŝŽ ǀŝŽůŽƵ Ă ƉŽůşƟĐĂ ĚĞ\nA  ƐĞŶŚĂƐ͘\nB backup.\nC  ƉƌŝǀĂĐŝĚĂĚĞ͘\nD  ƵƐŽ ĂĐĞŝƚĄǀĞů͘\nE  ĐŽŶĮĚĞŶĐŝĂůŝĚĂĚĞ͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 15,
-      "tipo": "OBJETIVA",
-      "pagina": 21,
-      "x": 320.0549011230469,
-      "y": 88.67594909667969,
-      "x1": 385.2149353027344,
-      "y1": 100.95195007324219,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 15"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:35.652893"
+  "texto_completo": "21\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO 14 \nO métoTo To caminUo crítico iTentifca a sequgncia \nTe ativiTaTes que o gerente Te proũetos Teve Tar \nmais  atenção,   porque,   caso  uma  Telas  atrase,  \ntoTo o proũeto estarA atrasaTo.    tabela a seguir \napresenta a estrutura Te ativiTaTes Te um proũeto.\n tiviTaTe\n tiviTaTe\npreTecessora\nMuração \nem Tias\n \n--\n3\nB\n \n5\nC\n--\n12\nM\n--\n4\nN\nM\n2\nF\nM\n5\n'\nF\n7\n,\nN e '\n8\n/\nB\n11\n:\nC,  , e /\n3\n  partir Tas informações apresentaTas na tabela,  \navalie as afrmações a seguir.\n/.   O  caminUo  crítico  é  composto  pelas \nativiTaTes  ,  B,  / e :.\n//.   O caminUo crítico tem 27 Tias.\n///.     ativiTaTe , faz parte To caminUo crítico.\n/s.   O  proũeto  em  pauta  possui  Tois  caminUos \ncríticos.\n\u001e correto apenas o que se afrma em\nA  / e //.\nB  / e /s.\nC  // e ///.\nM  /,  /// e /s.\nN  //,  /// e /s.\nArea livre\nYUNSTãO 15 \nUma  empresa  multinacional  estA  avalianTo  um \ninciTente Te segurança ocorriTo internamente com \no envolvimento Te um Te seus funcionArios,  o que \npoTerA  ser  motivo  para  o  encerramento  Te  seu \ncontrato.  O referiTo funcionArio estava realizanTo o \ncompartilUamento Te senUas e também envianTo \nmensagens  por  meio  To  serviço  Te  correio \neletrƀnico Ta empresa,  com o obũetivo Te Tifamar \ne caluniar outros colegas Te trabalUo.\nNessa  situação,   Te  acorTo  com  as  políticas \nTe  segurança  que  Tefnem  os  Tireitos  e  as \nresponsabiliTaTes  Te  caTa  um  em  relação  a \nsegurança Tos recursos computacionais que utiliza,  \no funcionArio violou a política Te\nA  senUas.\nB backup.\nC  privaciTaTe.\nM  uso aceitAvel.\nN  confTencialiTaTe.\nArea livre\n*R41201721*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_ADS/q15.png",
+  "caminho_json": "/questoes/2017_ADS/q15.json",
+  "caminho_txt": "/questoes/2017_ADS/q15.txt"
 }

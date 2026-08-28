@@ -1,46 +1,81 @@
-QUESTÃO 32
-IŽŶƐŝĚĞƌĞ ĂƐ ƉƌŽƉŽƐŝĕƁĞƐ ůſŐŝĐĂƐ ƐŝŵƉůĞƐ W͕ Y͕  Z͗
-W͗  Ž ƉƌŽŐƌĂŵĂĚŽƌ ůġ Ă ůŝƚĞƌĂƚƵƌĂ ƚĠĐŶŝĐĂ
-Y͗  Ž ƉƌŽŐƌĂŵĂĚŽƌ ĐŽŶŚĞĐĞ Ž ŝĚŝŽŵĂ ŝŶŐůġƐ
-Z͗  Ž ƉƌŽŐƌĂŵĂĚŽƌ ƐĞƌĄ ƐĞůĞĐŝŽŶĂĚŽ
-WƌĞƚĞŶĚĞͲƐĞ ĚĞŵŽŶƐƚƌĂƌ Ă ǀĂůŝĚĂĚĞ ŽƵ ŝŶǀĂůŝĚĂĚĞ ĚŽ 
-ƐĞŐƵŝŶƚĞ ĂƌŐƵŵĞŶƚŽ͗
-Se o programador lê a literatura técnica, então ele 
-conhece inglês.
-Se o programador conhece o idioma inglês, então ele 
-será selecionado.
-O programador não será selecionado ou ele lê a 
+25
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 32
+ConsiTere as proposições logicas simples P, Y,  Z:
+P:  o programaTor lg a literatura técnica
+Y:  o programaTor conUece o iTioma inglgs
+Z:  o programaTor serA selecionaTo
+PretenTe-se Temonstrar a valiTaTe ou invaliTaTe To 
+seguinte argumento:
+Se o programaTor lê a literatura técnica, então ele 
+conUece inglês.
+Se o programaTor conUece o iTioma inglês, então ele 
+será selecionaTo.
+O programaTor não será selecionaTo ou ele lê a 
 literatura técnica.
-Logo, o programador lê a literatura técnica se e 
-somente se conhece o idioma inglês. 
-IŽŶƐŝĚĞƌĂŶĚŽ  ĂƐ  ĐŽůŽĐĂĕƁĞƐ  ĂĐŝŵĂ͕   ĂǀĂůŝĞ  ĂƐ 
-ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘    Ɛ  ƉƌĞŵŝƐƐĂƐ  ĚŽ  ĂƌŐƵŵĞŶƚŽ  ƉŽĚĞŵ  ƐĞƌ 
-ĞǆƉƌĞƐƐĂƐ ŶĂ ĨŽƌŵĂ͗  W ї Y͕  Y ї Z Ğ щZ ǀ W͘ 
-  ĐŽŶĐůƵƐĆŽ ĚŽ ĂƌŐƵŵĞŶƚŽ ƉŽĚĞ ƐĞƌ ĞǆƉƌĞƐƐĂ 
-ŶĂ ĨŽƌŵĂ͗  W ў Y͘
-//͘     ǀĂůŝĚĂĚĞ ĚŽ ĂƌŐƵŵĞŶƚŽ ƐĞ ĚĞŵŽƐƚƌĂ ĐŽŵ ŽƐ 
-ƉĂƐƐŽƐ͗  щY ǀ W ;ĞƋƵŝǀĂůĞŶƚĞ ĚĞ ƵŵĂ ƉƌĞŵŝƐƐĂͿ͕  
-W ї Z ;ƚƌĂŶƐŝƟǀŝĚĂĚĞ ĚĂ ŝŵƉůŝĐĂĕĆŽ Ă ƉĂƌƟƌ ĚĂƐ 
-ƉƌĞŵŝƐƐĂƐͿ Ğ ĐŽŶĐůƵƐĆŽ Y ў Z ;ĐŽŶũƵŶĕĆŽ ĚĞ 
-ĚƵĂƐ ƉƌŽƉŽƐŝĕƁĞƐ ĐŽŶĚŝĐŝŽŶĂŝƐ Ğ ƚƌĂŶƐĨŽƌŵĂĕĆŽ 
-Ğŵ ďŝĐŽŶĚŝĐŝŽŶĂůͿ͘
-///͘     ǀĂůŝĚĂĚĞ ĚŽ ĂƌŐƵŵĞŶƚŽ ƐĞ ĚĞŵŽƐƚƌĂ ĐŽŵ ŽƐ 
-ƉĂƐƐŽƐ͗  Z ї W ;ĞƋƵŝǀĂůĞŶƚĞ ĚĞ ƵŵĂ ƉƌĞŵŝƐƐĂͿ͕  
-Y ї W ;ƚƌĂŶƐŝƟǀŝĚĂĚĞ ĚĂ ŝŵƉůŝĐĂĕĆŽͿ͕  ĐŚĞŐĂŵŽƐ 
-ă  ĐŽŶĐůƵƐĆŽ  W  ў  Y  ;ĐŽŶũƵŶĕĆŽ  ĚĞ  ĚƵĂƐ 
-ƉƌŽƉŽƐŝĕƁĞƐ ĐŽŶĚŝĐŝŽŶĂŝƐ Ğ ƚƌĂŶƐĨŽƌŵĂĕĆŽ Ğŵ 
-ďŝĐŽŶĚŝĐŝŽŶĂůͿ͘
-/s͘   Ɛ  ƉƌĞŵŝƐƐĂƐ  ĚŽ  ĂƌŐƵŵĞŶƚŽ  ƉŽĚĞŵ  ƐĞƌ 
-ĞǆƉƌĞƐƐĂƐ ŶĂ ĨŽƌŵĂ͗  W ї Y͕  Y ї Z Ğ щZ ї W 
-Ğ Ă ĐŽŶĐůƵƐĆŽ ĚŽ ĂƌŐƵŵĞŶƚŽ ĂĐŝŵĂ ƉŽĚĞ ƐĞƌ 
-ĞǆƉƌĞƐƐĂ ŶĂ ĨŽƌŵĂ͗  W ї Y͘
-V.   ŝŶǀĂůŝĚĂĚĞ ĚŽ ĂƌŐƵŵĞŶƚŽ ĂĐŝŵĂ ƐĞ ĚĞŵŽŶƐƚƌĂ 
-ĚĞƐƚĂ  ĨŽƌŵĂ͗   Ă  ƉƌŽƉŽƐŝĕĆŽ  ůſŐŝĐĂ  W  ў  Y  Ġ 
-ĚŝĨĞƌĞŶƚĞ ĚĂƐ ƉƌĞŵŝƐƐĂƐ W ї Y͕  Y ї Z Ğ щZ ǀ W͘
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A / Ğ ///͘
-B // Ğ /s͘
-C /͕  /// Ğ s͘
-D /͕  //͕  /s Ğ s͘
-E //͕  ///͕  /s Ğ s͘
+Logo, o programaTor lê a literatura técnica se e 
+somente se conUece o iTioma inglês. 
+ConsiTeranTo  as  colocações  acima,   avalie  as 
+afrmações a seguir.
+/.    s  premissas  To  argumento  poTem  ser 
+expressas na forma:  P ї Y,  Y ї Z e щZ v P. 
+  conclusão To argumento poTe ser expressa 
+na forma:  P ў Y.
+//.     valiTaTe To argumento se Temostra com os 
+passos:  щY v P (equivalente Te uma premissa),  
+P ї Z (transitiviTaTe Ta implicação a partir Tas 
+premissas) e conclusão Y ў Z (conũunção Te 
+Tuas proposições conTicionais e transformação 
+em biconTicional).
+///.     valiTaTe To argumento se Temostra com os 
+passos:  Z ї P (equivalente Te uma premissa),  
+Y ї P (transitiviTaTe Ta implicação),  cUegamos 
+a  conclusão  P  ў  Y  (conũunção  Te  Tuas 
+proposições conTicionais e transformação em 
+biconTicional).
+/s.   s  premissas  To  argumento  poTem  ser 
+expressas na forma:  P ї Y,  Y ї Z e щZ ї P 
+e a conclusão To argumento acima poTe ser 
+expressa na forma:  P ї Y.
+V.   invaliTaTe To argumento acima se Temonstra 
+Testa  forma:   a  proposição  logica  P  ў  Y  é 
+Tiferente Tas premissas P ї Y,  Y ї Z e щZ v P.
+ correto apenas o que se afrma em
+A / e ///.
+B // e /s.
+C /,  /// e s.
+M /,  //,  /s e s.
+N //,  ///,  /s e s.
+QUNSTÃO 33
+   seguinte  sequgncia  Te  instruções  logicas  e 
+aritméticas serA executaTa por um processaTor em 
+pipeline Te 5 estAgios:  busca Ta instrução,  leitura Te 
+registraTores,  execução,  acesso a memoria e escrita 
+Te registraTores.    sequgncia,  no entanto,  apresenta 
+conŇito Te TaTos.
+anT       Z5,  Z4,  Z3
+or         Z6,  Z4,  Z2
+aTT       Z1,  Z2,  Z2
+mul       Z3,  Z2,  Z1
+sub       Z1,  Z1,  Z4
+O pipeline foi implementaTo sem UarTware aTicional 
+para  a  resolução  Te  conŇitos,   mas  os  valores  Tos 
+registraTores poTem ser escritos na primeira metaTe 
+To ciclo e liTos na segunTa metaTe.  SabenTo-se que 
+o primeiro operanTo Tas instruções é o registraTor 
+Testino,  avalie as afrmações a seguir.
+/.      troca  Te  posição  entre  as  instruções  or e
+aTT soluciona o conŇito Te TaTos.
+//.     troca Te posição entre as instruções aTT e
+anT soluciona o conŇito Te TaTos.
+///.      inserção  Te  uma  operação  nop (sem 
+operação) entre aTT e mul soluciona o conŇito 
+Te TaTos.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R03201425*

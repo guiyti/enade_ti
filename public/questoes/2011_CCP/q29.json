@@ -5,44 +5,18 @@
   "paginas": [
     17
   ],
-  "segmentos": [
-    {
-      "pagina": 17,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 476.78924560546875,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q29.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q29.txt",
   "largura": 1123,
   "altura": 1704,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 29  \nUma antiga empresa de desenvolvimento de software \nresolveu atualizar toda sua infraestrutura computacional \nadquirindo \num \nsistema \noperacional \nmultitarefa, \nprocessadores multi-core (múltiplos núcleos) e o uso de \numa linguagem de programação com suporte a threads.\nO sistema operacional multitarefa de um computador \né capaz de executar vários processos (programas) em \nparalelo. Considerando esses processos implementados \ncom mais de uma thread (multi-threads), analise as \nafirmações abaixo.\nI. \nOs ciclos de vida de processos e threads são idênticos.\nII. Threads de diferentes processos compartilham \nmemória.\nIII. Somente processadores multi-core são capazes \nde executar programas multi-threads.\nIV. Em sistemas operacionais multitarefa, threads \npodem migrar de um processo para outro.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   I e IV.\nE   II e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 29,
-      "tipo": "OBJETIVA",
-      "pagina": 17,
-      "x": 34.1431999206543,
-      "y": 66.9593276977539,
-      "x1": 103.25318908691406,
-      "y1": 80.81932830810547,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 29"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209555"
+  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n17\nQUNSTÃO 29  \nUma antiga empresa Te Tesenvolvimento Te software \nresolveu atualizar toTa sua infraestrutura computacional \naTquirinTo \num \nsistema \noperacional \nmultitarefa, \nprocessaTores multi-core (múltiplos núcleos) e o uso Te \numa linguagem Te programação com suporte a tUreaTs.\nO sistema operacional multitarefa Te um computaTor \né capaz Te executar vários processos (programas) em \nparalelo. ConsiTeranTo esses processos implementaTos \ncom mais Te uma tUreaT (multi-tUreaTs), analise as \nafirmações abaixo.\nC. \nOs ciclos Te viTa Te processos e tUreaTs são iTênticos.\nCC. TUreaTs Te Tiferentes processos compartilUam \nmemória.\nCCC. Somente processaTores multi-core são capazes \nTe executar programas multi-tUreaTs.\nCV. Nm sistemas operacionais multitarefa, tUreaTs \npoTem migrar Te um processo para outro.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CCC.\nM   C e CV.\nN   CC e CV.\nÁRNA LCVRN\nQUNSTÃO 30  \nSuponUa que se queira pesquisar a cUave 287 em uma \nárvore binária Te pesquisa com cUaves entre 1 e 1 000. \nMurante uma pesquisa como essa, uma sequência Te \ncUaves é examinaTa. CaTa sequência abaixo é uma \nsuposta sequência Te cUaves examinaTas em uma busca \nTa cUave 287.\nC. \n7, 342, 199, 201, 310, 258, 287\nCC. 110, 132, 133, 156, 289, 288, 287\nCCC. 252, 266, 271, 294, 295, 289, 287\nCV. 715, 112, 530, 249, 406, 234, 287\nÉ váliTo apenas o que se apresenta em\nA   C.\nB   CCC.\nC   C e CC.\nM   CC e CV.\nN   CCC e CV.\nÁRNA LCVRN\n*A13201117*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q29.png",
+  "caminho_json": "/questoes/2011_CCP/q29.json",
+  "caminho_txt": "/questoes/2011_CCP/q29.txt"
 }

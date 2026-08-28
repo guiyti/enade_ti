@@ -1,24 +1,28 @@
-QUESTÃO 25	
-Atualmente um número crescente de empresas investe em Tecnologia de Informação (TI), contudo, 
-investir em TI somente por modismo, sem se preocupar com os procedimentos adequados para que isso 
-ocorra, gera um risco elevado. A TI exige qualidade em seu desenvolvimento, principalmente na criação 
-dos sistemas de informações gerenciais, onde a Engenharia de Software deve ser aplicada. O ambiente 
-deve estar preparado para receber esta tecnologia e saber fazer bom uso dela. Em algumas ocasiões, 
-é bastante complexo estabelecer uma forma para mensurar e quantificar a capacidade que a TI possui 
-para criar valores, reduzir custos e avaliar se realmente a empresa está se tornando melhor ou mais 
+31
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 25	
+Atualmente um número crescente Te empresas investe em Tecnologia Te Cnformação (TC), contuTo, 
+investir em TC somente por moTismo, sem se preocupar com os proceTimentos aTequaTos para que isso 
+ocorra, gera um risco elevaTo. A TC exige qualiTaTe em seu Tesenvolvimento, principalmente na criação 
+Tos sistemas Te informações gerenciais, onTe a NngenUaria Te Software Teve ser aplicaTa. O ambiente 
+Teve estar preparaTo para receber esta tecnologia e saber fazer bom uso Tela. Nm algumas ocasiões, 
+é bastante complexo estabelecer uma forma para mensurar e quantificar a capaciTaTe que a TC possui 
+para criar valores, reTuzir custos e avaliar se realmente a empresa está se tornanTo melUor ou mais 
 competitiva com sua aplicação.
-PRADO, A. et al. Tecnologia da Informação Aplicada de Forma Estratégica nos Processos Organizacionais, por Meio de Sistemas de 
-Informações Gerenciais. Janus Revista de Pesquisa Científica - UNIFATEA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (adaptado).
-Considerando as informações do texto, avalie as afirmações a seguir, acerca das atividades fundamentais 
-da Engenharia de Software. 
-I.	 A Especificação do Software é a etapa em que clientes e engenheiros projetam e programam 
+PRAMO, A. et al. Tecnologia Ta Cnformação AplicaTa Te Forma Nstratégica nos Processos Organizacionais, por Meio Te Sistemas Te 
+Cnformações Gerenciais. Janus Revista Te Pesquisa Científica - UNCFATNA, Lorena, v. 4, n. 5, p 47-64, jan. – jun. 2007 (aTaptaTo).
+ConsiTeranTo as informações To texto, avalie as afirmações a seguir, acerca Tas ativiTaTes funTamentais 
+Ta NngenUaria Te Software. 
+C.	 A Nspecificação To Software é a etapa em que clientes e engenUeiros projetam e programam 
 o software.
-II.	 A Validação de Software é a etapa para assegurar se o programa atende as demandas do cliente.
-III.	 A Evolução do Software é a etapa de modificação para definir a mudança de requisitos, tanto do 
-cliente quanto do mercado.
+CC.	 A ValiTação Te Software é a etapa para assegurar se o programa atenTe as TemanTas To cliente.
+CCC.	 A Nvolução To Software é a etapa Te moTificação para Tefinir a muTança Te requisitos, tanto To 
+cliente quanto To mercaTo.
 É correto o que se afirma em
-A	 I, apenas.
-B	 III, apenas.
-C	 I e II, apenas.
-D	 II e III, apenas.
-E	 I, II e III.
+A	 C, apenas.
+B	 CCC, apenas.
+C	 C e CC, apenas.
+M	 CC e CCC, apenas.
+N	 C, CC e CCC.
+Área livre
+*R29202131*

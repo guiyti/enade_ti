@@ -1,18 +1,20 @@
-QUESTÃO 16
-hŵĂ 
-ĨƵŶĕĆŽ 
-Ġ 
-ĚĞŶŽŵŝŶĂĚĂ 
-ƌĞĐƵƌƐŝǀĂ 
-ƋƵĂŶĚŽ 
-ĞůĂ  Ġ  ĐŚĂŵĂĚĂ  ŶŽǀĂŵĞŶƚĞ  ĚĞŶƚƌŽ  ĚĞ  ƐĞƵ  ĐŽƌƉŽ͘  
-/ŵƉůĞŵĞŶƚĂĕƁĞƐ  ƌĞĐƵƌƐŝǀĂƐ  ƚĞŶĚĞŵ  Ă  ƐĞƌ  ŵĞŶŽƐ 
-ĞĮĐŝĞŶƚĞƐ͕   ƉŽƌĠŵ  ĨĂĐŝůŝƚĂŵ  Ă  ĐŽĚŝĮĐĂĕĆŽ  Ğ  ƐĞƵ 
-ĞŶƚĞŶĚŝŵĞŶƚŽ͘
-IE>E^͕  t͖͘  IEZYhE/Z ͕  Z͖͘  Z E'E>͕  :͘  >͘  Introdução a estruturas de 
-dados͘  ZŝŽ ĚĞ :ĂŶĞŝƌŽ͕  2004 ;ĂĚĂƉƚĂĚŽͿ͘
-IŽŶƐŝĚĞƌĞ Ă ĨƵŶĕĆŽ ƌĞĐƵƌƐŝǀĂ f()͕  Ă ƋƵĂů ĨŽŝ ĞƐĐƌŝƚĂ 
-Ğŵ ůŝŶŐƵĂŐĞŵ I͗
+17
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 16
+Uma 
+função 
+é 
+TenominaTa 
+recursiva 
+quanTo 
+ela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  
+/mplementações  recursivas  tenTem  a  ser  menos 
+efcientes,   porém  facilitam  a  coTifcação  e  seu 
+entenTimento.
+CN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te 
+TaTos.  Zio Te :aneiro,  2004 (aTaptaTo).
+ConsiTere a função recursiva f(),  a qual foi escrita 
+em linguagem C:
 1 int f( int v[], int n) {
 2
  if (n == 0)
@@ -30,12 +32,58 @@ IŽŶƐŝĚĞƌĞ Ă ĨƵŶĕĆŽ ƌĞĐƵƌƐŝǀĂ f()͕  Ă ƋƵĂů ĨŽŝ �
 9
  }
 10 }
-^ƵƉŽŶŚĂ  ƋƵĞ  Ă  ĨƵŶĕĆŽ  f()  Ġ  ĂĐŝŽŶĂĚĂ  ĐŽŵ  ŽƐ 
-ƐĞŐƵŝŶƚĞƐ ƉĂƌąŵĞƚƌŽƐ ĚĞ ĞŶƚƌĂĚĂ͗
+SuponUa  que  a  função  f()  é  acionaTa  com  os 
+seguintes parametros Te entraTa:
 f({2,-4,7,0,-1,4},6);
-EĞƐƐĞ ĐĂƐŽ͕  Ž ǀĂůŽƌ ĚĞ ƌĞƚŽƌŶŽ ĚĂ ĨƵŶĕĆŽ f() ƐĞƌĄ
-A 8͘
+Nesse caso,  o valor Te retorno Ta função f() serA
+A 8.
 B 10.
-C 13͘
-D 15.
-E 18͘
+C 13.
+M 15.
+N 18.
+ÁRNA LCVRN
+QUNSTÃO 17
+Casos Te uso poTem ser organizaTos agrupanTo-os 
+em pacotes To mesmo moTo como são organizaTas 
+as  classes.   Também  poTem  ser  organizaTos  pela 
+especifcação Te relacionamentos Te generalização,  
+inclusão e extensão,  existentes entre eles.
+JACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo 
+Usuário. 1 eT. Campus, 2006 (aTaptaTo).
+ConsiTeranTo  os  relacionamentos  existentes  entre 
+os casos Te uso,  avalie as afrmações a seguir.
+/.   Para casos Te uso,  a generalização signifca que 
+o caso Te uso flUo UerTa o comportamento e 
+o signifcaTo To caso Te uso pai e no caso Te 
+uso flUo TeverA acrescentar ou sobrescrever 
+o comportamento Te seu pai.
+//.   Um relacionamento Te inclusão entre casos Te 
+uso signifca que o caso Te uso base incorpora 
+explicitamente  o  comportamento  Te  outro 
+caso Te uso em uma localização especifcaTa.  
+O  caso  Te  uso  base  poTerA  permanecer 
+isolaTo,   mas,   sob  certas  conTições,   seu 
+comportamento  poTerA  ser  incluíTo  pelo 
+comportamento Te outro caso Te uso.
+///.   Um relacionamento estenTiTo entre casos Te 
+uso signifca que o caso Te uso base incorpora 
+implicitamente  o  comportamento  Te  outro 
+caso  Te  uso  em  um  local  especifcaTo 
+inTiretamente  pelo  caso  Te  uso  estenTiTo.  
+O  caso  Te  uso  estenTiTo  nunca  permanece 
+isolaTo,  mas é apenas instanciaTo como parte 
+Te alguma base maior que o estenTe.
+/s.   Um  relacionamento  estenTiTo  é  utilizaTo 
+para a moTelagem Ta parte Te um caso Te 
+uso  que  o  usuArio  poTerA  consiTerar  como 
+um  comportamento  opcional  To  sistema  e 
+para a moTelagem Te um subŇuxo separaTo,  
+que é executaTo somente sob TeterminaTas 
+conTições.
+ correto apenas o que se afrma em
+A / e //.
+B / e /s.
+C // e ///.
+M /,  /// e /s.
+N //,  /// e /s.
+*R40201417*

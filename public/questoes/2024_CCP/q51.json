@@ -5,44 +5,17 @@
   "paginas": [
     27
   ],
-  "segmentos": [
-    {
-      "pagina": 27,
-      "x0": 321.35999999999996,
-      "y0": 462.40728759765625,
-      "x1": 611.7199999999999,
-      "y1": 697.62353515625,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q51.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q51.txt",
   "largura": 1240,
   "altura": 1010,
   "confianca": 0.98,
-  "texto_completo": "p\n,\nQUESTÃO 51\t\nConsiderando o contexto das escolas, qual a abordagem que \nrepresenta uma estratégia didático-pedagógica que utiliza a \nComputação Desplugada para o ensino de vetores?\nA\t Promover uma sequência de passos de dança com \ncomandos repetitivos, como “Repita 3 vezes: pular, girar, \nbater palmas”.\nB\t Organizar uma atividade em que os estudantes fiquem em \nfila e manipulem cartões numéricos, simulando inserção, \nexclusão e acesso por índice.\nC\t Criar cartões com condições do tipo: “Se o estudante estiver \nusando camisa azul, então pule para a frente”, para que \nsigam comandos baseados em condições.\nD\t Solicitar que o estudante dê instruções precisas, como se \nprogramasse um robô, para que outro colega monte um \nsanduíche, onde cada passo precisa estar em ordem lógica.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 51,
-      "tipo": "OBJETIVA",
-      "pagina": 27,
-      "x": 325.3937072753906,
-      "y": 474.40728759765625,
-      "x1": 385.1302795410156,
-      "y1": 489.67529296875,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 51"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407437"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n27\nCOMPUTAÇÃO\n2025\nTexto para questões Te 48 a 51\nMuas escolas, A e B, localizaTas em regiões Tiferentes, \nenfrentam Tesafios Tistintos no ensino Te algoritmos e \nestruturas Te TaTos. A Nscola A possui um laboratório Te \ninformática equipaTo com computaTores inTiviTuais e acesso \nà internet estável. Os estuTantes já tiveram contato com lógica \nTe programação básica e noções introTutórias Te algoritmos, \ncomo fluxogramas e pseuTocóTigo. Já na Nscola B, o acesso \nà internet é instável e Uá apenas um laboratório com poucos \ncomputaTores que precisam ser compartilUaTos em pequenos \ngrupos Te 5 estuTantes. Nsses estuTantes, no entanto, \nTemonstram granTe interesse em tecnologia e criativiTaTe \npara resolver problemas com os recursos Tisponíveis. A maioria \nainTa não teve aulas Te programação, mas já usou ferramentas \ncomo planilUas.\nQUNSTÃO 48\t\nNa elaboração Te uma ativiTaTe Te ensino Te vetores para \nestuTantes To 7º ano To Nnsino FunTamental nas Tuas \nescolas, propõe-se a elaboração Te uma ativiTaTe que integre \nTiferentes aborTagens TiTático-peTagógicas. Qual alternativa \nrepresenta Tuas aborTagens a serem utilizaTas Te forma \ncontextualizaTa nos processos Te ensino e aprenTizagem, \nrespectivamente, nas escolas A e B?\nA\t AprenTizagem BaseaTa em Projetos; Programação por Pares.\nB\tAprenTizagem BaseaTa em Mesign; Gamificação.\nC\tRotação por Nstações; Programação em PytUon.\nM\t Programação em Blocos; Computação MesplugaTa. \nQUNSTÃO 49\t\nCom base nas informações Tas Tuas escolas e na BNCC \n- Complemento Computação, qual alternativa apresenta a \naborTagem para o ensino Te conceitos Te algoritmos que \nseja coerente com os contextos Te caTa escola e as etapas Te \nescolarização?\nA\t AprenTizagem BaseaTa em Projetos para o ensino Te \nalgoritmos Te inserção, remoção e busca para estuTantes \nTa Nscola A, To 6º ano To Nnsino FunTamental.\nB\t Rotação por Nstações para o ensino Te algoritmos Te \ninserção, remoção e busca para estuTantes Ta Nscola B, \nTo 6º ano To Nnsino FunTamental.\nC\t Gamificação para o ensino Te algoritmos Te inserção, \nremoção e busca para estuTantes Ta Nscola A, To 8º ano \nTo Nnsino FunTamental.\nM\t Programação por Pares para o ensino Te algoritmos Te \ninserção, remoção e busca para estuTantes Ta Nscola B, \nTo 8º ano To Nnsino FunTamental.\nÁrea livre\nQUNSTÃO 50\t\nConsiTeranTo as especificiTaTes Te caTa escola e Te seus \nestuTantes, qual alternativa apresenta uma aborTagem \nmetoTológica alinUaTa às características Ta AprenTizagem \nBaseaTa em Projetos para o ensino Te algoritmos Te orTenação?\nA\t Na Nscola A, propor o Tesenvolvimento, pelos estuTantes, \nTe algoritmos para organizar TaTos reais, como listas Te \nlivros Ta biblioteca, utilizanTo linguagens Te programação. \nNa Nscola B, os estuTantes poTem criar simulaTores com \nobjetos manuais, como jogos Te cartas, representanTo o \nfuncionamento Te algoritmos Te orTenação.\nB\t Na Nscola A, propor uma competição entre os estuTantes \npara verificar suas UabiliTaTes na implementação Te \nalgoritmos Te orTenação mais eficientes. Na Nscola B, \norganizar Tesafios para orTenar objetos físicos, como \nficUas ou papéis, simulanTo os algoritmos Te orTenação \ne apresentar as estratégias usaTas.\nC\t Na Nscola A, propor o Tesenvolvimento Te ativiTaTes \npráticas baseaTas em repetição Te cóTigos no laboratório, \nvisanTo a fixação Tos algoritmos Te orTenação por meio \nTe linguagens Te programação. Na Nscola B, sugerir que os \nestuTantes criem murais explicativos com os passos Tos \nalgoritmos, utilizanTo materiais recicláveis.\nM\t Na Nscola A, propor a realização Te uma sequência Te \noficinas, em que os estuTantes explorem Tiferentes \nalgoritmos Te orTenação, com exercícios guiaTos. \nNa Nscola B, propor ativiTaTes em que os estuTantes, em \ngrupos, pesquisem algoritmos Te orTenação, com base em \nexemplos To munTo real, TiscutinTo como eles funcionam.\nQUNSTÃO 51\t\nConsiTeranTo o contexto Tas escolas, qual a aborTagem que \nrepresenta uma estratégia TiTático-peTagógica que utiliza a \nComputação MesplugaTa para o ensino Te vetores?\nA\t Promover uma sequência Te passos Te Tança com \ncomanTos repetitivos, como “Repita 3 vezes: pular, girar, \nbater palmas”.\nB\t Organizar uma ativiTaTe em que os estuTantes fiquem em \nfila e manipulem cartões numéricos, simulanTo inserção, \nexclusão e acesso por ínTice.\nC\t Criar cartões com conTições To tipo: “Se o estuTante estiver \nusanTo camisa azul, então pule para a frente”, para que \nsigam comanTos baseaTos em conTições.\nM\t Solicitar que o estuTante Tê instruções precisas, como se \nprogramasse um robô, para que outro colega monte um \nsanTuícUe, onTe caTa passo precisa estar em orTem lógica.\nÁrea livre\n*R0404202527*\n0404_computacao_bloco_04.inTT   27\n0404_computacao_bloco_04.inTT   27\n22/08/2025   13:02:05\n22/08/2025   13:02:05",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q51.png",
+  "caminho_json": "/questoes/2024_CCP/q51.json",
+  "caminho_txt": "/questoes/2024_CCP/q51.txt"
 }

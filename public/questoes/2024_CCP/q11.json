@@ -5,44 +5,17 @@
   "paginas": [
     7
   ],
-  "segmentos": [
-    {
-      "pagina": 7,
-      "x0": 25.0,
-      "y0": 274.6591796875,
-      "x1": 611.7199999999999,
-      "y1": 463.1466064453125,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q11.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q11.txt",
   "largura": 2475,
   "altura": 816,
   "confianca": 0.98,
-  "texto_completo": "p\np\nç\np\np\nQUESTÃO 11\t\nJustiça determina melhorias imediatas nas vias de acesso e  \nna estrutura de escolas em assentamentos\nEntre as precariedades identificadas pelo Ministério Público Federal (MPF) está o desgaste da infraestrutura dos prédios das \nescolas com pisos de areia e barro. Os professores e os estudantes são orientados a fazerem as necessidades fisiológicas na \nmata porque não há banheiro, nem rede de água ou de esgotamento sanitário.\nDisponível em: www.g1.globo.com. Acesso em: 11 maio 2025 (adaptado).\nDiante da situação retratada na matéria jornalística, que ação compete à escola e contribui para o enfrentamento dessa realidade?\nA\t A elaboração de um projeto com base em um diagnóstico sobre a situação da rede de água para solucionar o problema. \nB\t A instalação mínima de redes de água e de esgotamento sanitário nas escolas para superar as condições precárias de infraestrutura.\nC\t A articulação da gestão escolar com as autoridades competentes em busca de ações para melhorar a infraestrutura.\nD\t A convocação da comunidade escolar para proceder à despoluição de um rio do entorno.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 11,
-      "tipo": "OBJETIVA",
-      "pagina": 7,
-      "x": 64.6063003540039,
-      "y": 286.6591796875,
-      "x1": 124.34291076660156,
-      "y1": 301.92718505859375,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 11"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.403942"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n7\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 10\t\nMurante uma aula envolvenTo o ensino Te Uistória e cultura afro-brasileira e africana na NTucação Básica, em atenTimento ao \nTisposto na Lei n. 10 639/2003, uma professora explorou o movimento To cinema Te países africanos, que tomou corpo a partir \nTe 1960, como forma Te comunicação e instrumento Te expressão cultural. Nla explicou que, nesse contexto, as proTuções \nauTiovisuais contrapõem-se às narrativas coloniais e propõem novas formas Te representar suas Uistórias, suas culturas e \nsuas lutas. NntusiasmaTos com o tema, os estuTantes, juntamente com a professora, TeciTiram realizar uma mostra Te filmes \nproTuziTos em países africanos para ser apresentaTa à comuniTaTe escolar. A professora orientou que os estuTantes Teveriam \nselecionar três filmes, com base em critérios relevantes na compreensão To valor Tas culturas africanas.\nConsiTeranTo os objetivos previstos na proposta Ta professora, os estuTantes Tevem selecionar filmes que\nA\t retratem os espaços físicos e a viTa animal selvagem como elementos característicos To continente africano.\nB\t proTuzam a sensação Te familiariTaTe no espectaTor com base nas narrativas auTiovisuais europeias e americanas.\nC\t reconUecem as variaTas formas Te expressão Tos povos africanos, suas subjetiviTaTes e questões sociais associaTas a esses povos.\nM\t apresentem estereótipos relacionaTos a temáticas Ta colonização e seus impactos no moTo Te viTa urbanizaTo em países africanos.\nQUNSTÃO 11\t\nJustiça Tetermina melUorias imeTiatas nas vias Te acesso e  \nna estrutura Te escolas em assentamentos\nNntre as precarieTaTes iTentificaTas pelo Ministério Público FeTeral (MPF) está o Tesgaste Ta infraestrutura Tos préTios Tas \nescolas com pisos Te areia e barro. Os professores e os estuTantes são orientaTos a fazerem as necessiTaTes fisiológicas na \nmata porque não Uá banUeiro, nem reTe Te água ou Te esgotamento sanitário.\nMisponível em: www.g1.globo.com. Acesso em: 11 maio 2025 (aTaptaTo).\nMiante Ta situação retrataTa na matéria jornalística, que ação compete à escola e contribui para o enfrentamento Tessa realiTaTe?\nA\t A elaboração Te um projeto com base em um Tiagnóstico sobre a situação Ta reTe Te água para solucionar o problema. \nB\t A instalação mínima Te reTes Te água e Te esgotamento sanitário nas escolas para superar as conTições precárias Te infraestrutura.\nC\t A articulação Ta gestão escolar com as autoriTaTes competentes em busca Te ações para melUorar a infraestrutura.\nM\t A convocação Ta comuniTaTe escolar para proceTer à Tespoluição Te um rio To entorno.\nÁrea livre\n*R040420257*\nR04042025 - COMPUTACAO.inTb   7\nR04042025 - COMPUTACAO.inTb   7\n21/08/2025   10:06:34\n21/08/2025   10:06:34",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q11.png",
+  "caminho_json": "/questoes/2024_CCP/q11.json",
+  "caminho_txt": "/questoes/2024_CCP/q11.txt"
 }

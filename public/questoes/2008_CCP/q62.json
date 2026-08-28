@@ -5,55 +5,20 @@
   "paginas": [
     27
   ],
-  "segmentos": [
-    {
-      "pagina": 27,
-      "x0": 25.0,
-      "y0": 579.166748046875,
-      "x1": 294.59999999999997,
-      "y1": 779.6522827148438,
-      "coluna": 1
-    },
-    {
-      "pagina": 27,
-      "x0": 300.59999999999997,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 405.56671142578125,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q62.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q62.txt",
   "largura": 1154,
   "altura": 2259,
   "confianca": 0.98,
-  "texto_completo": "E\ngerente de desenvolvimento de aplicações\nQUESTÃO 62\nO código de ética da Organização Internacional de In\nSupremas de Auditoria (INTOSAI) define como valores e \nbásicos da atuação da auditoria a independência, a objeti\nimparcialidade, o segredo profissional e a competência. Ao \ntrabalho de auditoria sem definir claramente a finalidade da\ne o modelo de conformidade no qual a auditoria se apóia, q\nou princípio um auditor estaria primariamente falhando em \nA\nindependência\nB\nobjetividade\nC\nimparcialidade\nD\nsegredo profissional\nE\ncompetência\n\na os estudantes de cursos com perfis profissionais de \nEMAS DE INFORMAÇÃO.\nvida de um serviço de TI\nUsuário\ngócios\nSoluções de negócios\nnico\não\nOperações\nImplantação\nGerenciamento de\ninfra-estrutura de TIC\nTratar\nobsolescência\nOperar\nserviços\nImplantar\nserviços\nOperador de suporte técnico\nSuporte a serviços",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "anomalias": [],
+  "texto_completo": "26\nCOMPUTAÇÃO\nAs questões Te 61 a 80, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nBACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.\nFigura para a questão 61\nNstágios To ciclo Te viTa Te um serviço Te TC\nGerente To Tesenvolvimento\nTe aplicações\nGerenciamento Te aplicações\nCliente\nUsuário\nNegócios\nSoluções Te negócios\nMesenUo e planejamento\nSuporte técnico\nATministração\nOperações\nCmplantação\nGerenciamento Te\ninfra-estrutura Te TCC\nTratar\nobsolescência\nOperar\nserviços\nCmplantar\nserviços\nValiTar\nserviços\nPlanejar\nserviços\nMefinir\npolíticas\nNstabelecer\nestratégias\nNstratégias, planos e requisitos\nOperaTor Te suporte técnico\nSuporte a serviços\nGerente Te serviços\nNntrega Te serviços\nQUNSTÃO 61\nA figura acima, aTaptaTa To Tocumento que Tescreve o\ngerenciamento Te serviços Te tecnologia Ta informação To moTelo\nCTCL (Cnformation TecUnology Cnfra-Structure Library), apresenta as\nrelações entre elementos que participam Tos estágios To ciclo Te viTa\nTe um serviço Te TC. Com base  no moTelo acima Tescrito, qual\nelemento Tetém maior responsabiliTaTe por Tefinir as necessiTaTes\nTe informação Ta organização que utilizará um serviço Te TC?\nA\nusuário\nB\ncliente\nC\noperaTor Te suporte técnico\nM\ngerente Te serviços\nN\ngerente Te Tesenvolvimento Te aplicações\nQUNSTÃO 62\nO cóTigo Te ética Ta Organização Cnternacional Te Cnstituições\nSupremas Te AuTitoria (CNTOSAC) Tefine como valores e princípios\nbásicos Ta atuação Ta auTitoria a inTepenTência, a objetiviTaTe, a\nimparcialiTaTe, o segreTo profissional e a competência. Ao iniciar um\ntrabalUo Te auTitoria sem Tefinir claramente a finaliTaTe Ta auTitoria\ne o moTelo Te conformiTaTe no qual a auTitoria se apóia, qual valor\nou princípio um auTitor estaria primariamente falUanTo em atenTer?\nA\ninTepenTência\nB\nobjetiviTaTe\nC\nimparcialiTaTe\nM\nsegreTo profissional\nN\ncompetência\nQUNSTÃO 63\nConsiTere \na \nseguinte \nrepresentação \nTe\nabstração Te generalização/especialização, com\nproprieTaTe Te cobertura parcial e sobreposta,\nsegunTo notação To Tiagrama entiTaTe-\nrelacionamento estenTiTo.\nA \nB \nC \nO \natrB \npkA \natrA \natrC \nQual opção apresenta um esquema Te banco Te\nTaTos relacional que representa corretamente a\nreferiTa abstração?\nA\nA(pkA, atrA) B(atrB) C(atrC).\nB\nA(pkA, atrA, atrB, atrC, tipoBouC),\nem que tipoBouC é booleano.\nC\nA(pkA, atrA, atrB, atrC, tipoB,\ntipoC), em que tipoB e tipoC são\nbooleanos.\nM\nB(pkA, atrA, atrB) C(pkA, atrA,\natrC).\nN\nA(pkA, atrA) B(pkB, atrB) C(pkC,\natrC), em que pkB e pkC são atributos\nartificiais criaTos para ser a cUave primária\nTas relações B e C, respectivamente.",
   "figuras": [
     "/questoes/2008_CCP/figuras/q62_fig1.jpeg",
     "/questoes/2008_CCP/figuras/q62_fig2.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 62,
-      "tipo": "OBJETIVA",
-      "pagina": 27,
-      "x": 35.99909973144531,
-      "y": 591.166748046875,
-      "x1": 105.36231231689453,
-      "y1": 602.2067260742188,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 62"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027153"
+  "caminho_png": "/questoes/2008_CCP/q62.png",
+  "caminho_json": "/questoes/2008_CCP/q62.json",
+  "caminho_txt": "/questoes/2008_CCP/q62.txt"
 }

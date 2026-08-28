@@ -9,80 +9,21 @@
     16,
     17
   ],
-  "segmentos": [
-    {
-      "pagina": 13,
-      "x0": 25.0,
-      "y0": 99.02008056640625,
-      "x1": 603.3199999999999,
-      "y1": 478.1280822753906,
-      "coluna": 0
-    },
-    {
-      "pagina": 14,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    },
-    {
-      "pagina": 15,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 194.7930908203125,
-      "coluna": 0
-    },
-    {
-      "pagina": 16,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    },
-    {
-      "pagina": 17,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 140.25408935546875,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_ADS/qd03.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/qd03.txt",
   "largura": 2440,
   "altura": 8205,
   "confianca": 0.9,
-  "texto_completo": "IKDWKEEEdE E^WEI1&/IK\nQUESTÃO DISCURSIVA 03\nhŵĂ ĞŵƉƌĞƐĂ ĚĞ ĐŽƐŵĠƟĐŽƐ ĐŽŵĞƌĐŝĂůŝǌĂ ĐŝŶĐŽ ĚŝĨĞƌĞŶƚĞƐ ƟƉŽƐ ĚĞ ƉƌŽĚƵƚŽƐ Ğ ŽƐ ĂƌŵĂǌĞŶĂ Ğŵ ƵŵĂ \nĞƐƚĂŶƚĞ ĚĞ 40 ǆ 40 ƉŽƐŝĕƁĞƐ͘  Eŵ ĐĂĚĂ ƉŽƐŝĕĆŽ ĚĂ ĞƐƚĂŶƚĞ͕  ƉŽĚĞ ĮĐĂƌ ĂƌŵĂǌĞŶĂĚĂ ĂƉĞŶĂƐ ƵŵĂ ĐĂŝǆĂ ĐŽŵ \nƵŵ ĚĞƐƐĞƐ ƉƌŽĚƵƚŽƐ͘  WĂƌĂ ĨĂĐŝůŝƚĂƌ ƐƵĂ ŝĚĞŶƟĮĐĂĕĆŽ͕  ŽƐ ƉƌŽĚƵƚŽƐ ĨŽƌĂŵ ĐŽĚŝĮĐĂĚŽƐ ĚĂ ĨŽƌŵĂ Ă ƐĞŐƵŝƌ͗\n1͗  ǆĂŵƉƵ͖\n2͗  ĐŽŶĚŝĐŝŽŶĂĚŽƌ͖\n3͗  ŚŝĚƌĂƚĂŶƚĞ͖\n4͗  ƟŶƚƵƌĂ͖\n5͗  ĚĞŵĂƋƵŝůĂŶƚĞ͖\n0͗  ǀĂǌŝŽ͘\nEĞƐƐĂ  ƐŝƚƵĂĕĆŽ  Ğ  ĐŽŶƐŝĚĞƌĂŶĚŽ  Ž  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  Ƶŵ  ƐŝƐƚĞŵĂ  ƉĂƌĂ  ŐĞƌĞŶĐŝĂƌ  Ă  ŽƌŐĂŶŝǌĂĕĆŽ  ĚŽƐ \nƉƌŽĚƵƚŽƐ ŶĂ ĞƐƚĂŶƚĞ͕  ĞƐƚĂďĞůĞĐĞƵͲƐĞ Ă ĚĞĐůĂƌĂĕĆŽ ĚĞ ǀĂƌŝĄǀĞŝƐ Ă ƐĞŐƵŝƌ͘\nVar\nEstante: matriz [1..40][1..40] de inteiro\nProdutos: vetor [0..5] de texto = {\"vazio\",\"xampu\",\"condicionador\",\n  \"hidratante\", \"tintura\", \"demaquilante\"}\nContador: vetor [0..5] de inteiro = {0,0,0,0,0,0}\ni, j: inteiro\nIŽŵ ďĂƐĞ ŶĞƐƐĂ ĚĞĐůĂƌĂĕĆŽ Ğ ĐŽŶƐŝĚĞƌĂŶĚŽ Ă ĐŽĚŝĮĐĂĕĆŽ ĚŽƐ ƉƌŽĚƵƚŽƐ ĞǆƉŽƐƚĂ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ \nŝƚĞŶƐ Ă ƐĞŐƵŝƌ͕  ĂƉƌĞƐĞŶƚĂŶĚŽ ĂƐ ƐŽůƵĕƁĞƐ Ğŵ ƉƐĞƵĚŽĐſĚŝŐŽ ŽƵ Ğŵ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ͘\nĂͿ  EƐĐƌĞǀĂ Ƶŵ ƚƌĞĐŚŽ ĚĞ ĐſĚŝŐŽ ƉĂƌĂ ůĞƌ ŽƐ ĐſĚŝŐŽƐ ĚŽƐ ƉƌŽĚƵƚŽƐ Ğ ĂƌŵĂǌĞŶĄͲůŽƐ ŶĂ ŵĂƚƌŝǌ Estante.\n;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ\nďͿ  EƐĐƌĞǀĂ Ƶŵ ƚƌĞĐŚŽ ĚĞ ĐſĚŝŐŽ ƉĂƌĂ ĐŽŶƚĂƌ Ğ ŝŵƉƌŝŵŝƌ Ă ƋƵĂŶƟĚĂĚĞ ĚĞ ĐĂŝǆĂƐ ĚĞ ĐĂĚĂ ƟƉŽ ĚĞ ƉƌŽĚƵƚŽ \nŶĂ ĞƐƚĂŶƚĞ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ\n\nQUESTÃO D/^IhZ^/s  04 \nhŵĂ ĞŵƉƌĞƐĂ ƚƌĂďĂůŚĂ ŶĂ ƉƌŽĚƵĕĆŽ ĚĞ ĐŽŶĐƌĞƚŽ Ğ ƚĞƌĐĞŝƌŝǌĂ Ž ƐĞƌǀŝĕŽ ĚĞ ƚƌĂŶƐƉŽƌƚĞ ĚŽ ƉƌŽĚƵƚŽ͘  KƐ \nĐĂŵŝŶŚŽŶĞŝƌŽƐ ƚĞůĞĨŽŶĂŵ ƉĂƌĂ Ă ĞŵƉƌĞƐĂ Ğ ƌĞŐŝƐƚƌĂŵ ƐĞƵ ŝŶƚĞƌĞƐƐĞ ƉĞůŽ ƚƌĂďĂůŚŽ͘  dŽĚĂƐ ĂƐ ŵĂŶŚĆƐ͕  \nŽƐ ĐĂŵŝŶŚŽŶĞŝƌŽƐ ĞƐƚĂĐŝŽŶĂŵ Ž ĐĂŵŝŶŚĆŽ ŶŽ ƉĄƟŽ ĚĂ ĞŵƉƌĞƐĂ Ğ ĂŐƵĂƌĚĂŵ ƐƵĂ ǀĞǌ͘  K ĂƚĞŶĚŝŵĞŶƚŽ \nƐĞŐƵĞ Ž ĐƌŝƚĠƌŝŽ ĚĞ ŽƌĚĞŵ ĚĞ ĐŚĞŐĂĚĂ͘  EƐƐĞ ƉƌŽĐĞƐƐŽ Ġ͕  ĂƚƵĂůŵĞŶƚĞ͕  ĐŽŶƚƌŽůĂĚŽ ƉĞůĂ ƐĞĐƌĞƚĄƌŝĂ͕  ƋƵĞ \nƵƟůŝǌĂ ƐƵĂ ĂŐĞŶĚĂ ƉĂƌĂ ŐĞƌĞŶĐŝĂƌ ŽƐ ŵŽƚŽƌŝƐƚĂƐ ĚŝĂƌŝĂŵĞŶƚĞ͘    ĞŵƉƌĞƐĂ͕  ƋƵĞ ĐĂƌƌĞŐĂ͕  ŶŽ ŵĄǆŝŵŽ͕  10 \nĐĂŵŝŶŚƁĞƐ ƉŽƌ ĚŝĂ͕  ƉƌĞƚĞŶĚĞ ŝŶĨŽƌŵĂƟǌĂƌ ĞƐƐĞ ƉƌŽĐĞƐƐŽ͘\nWĂƌĂ  Ă  ƐŽůƵĕĆŽ  ĚŽ  ƉƌŽďůĞŵĂ͕   ĂƉƌĞƐĞŶƚĂͲƐĞ͕   Ă  ƐĞŐƵŝƌ͕   Ƶŵ  ƉƐĞƵĚŽĐſĚŝŐŽ  ƋƵĞ  ƵƟůŝǌĂ  Ž  ĐŽŶĐĞŝƚŽ  ĚĞ  ĮůĂ͕  \nŵĂŶƚĞŶĚŽ ŽƐ ĞůĞŵĞŶƚŽƐ ƐĞŵƉƌĞ ŶĂƐ ƉƌŝŵĞŝƌĂƐ ƉŽƐŝĕƁĞƐ ĚŽ ǀĞƚŽƌ͘\nAlgoritmo Fila_Caminhoneiros\ninício\n   var\n   caminhoneiros : vetor[1..10] de texto\n   total : inteiro\n   procedimento inicializa()\n   início\n      total <- 0\n \n   ¿P\n   função estaVazia() : lógico\n   início\n      se (total = 0) então\n         retorna verdadeiro\n      senão\n         retorna falso\n \n      ¿P\u0010VH\n \n   ¿P\n   função estaCheia() : lógico\n   início\n      se (total >= 10) então\n         retorna verdadeiro\n      senão\n         retorna falso\n \n      ¿P\u0010VH\n \n   ¿P\n \n   SURFHGLPHQWR HQ¿OHLUDU\u000bFDPLQKRQHLUR \u001d WH[WR\f\n   início\n      se (estaCheia() = falso) então \n         total <- total + 1 \n         caminhoneiros[total] <- caminhoneiro\n      senão\n         imprima(\"Fila cheia\")\n \n      ¿P\u0010VH\n \n   ¿m\n¿m\n\nIŽŵ ďĂƐĞ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͕  ĞǆƉŽŶĚŽ ĐĂĚĂ ƐŽůƵĕĆŽ Ğŵ \nƉƐĞƵĚŽĐſĚŝŐŽ ŽƵ Ğŵ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ͘\nĂͿ  /ŵƉůĞŵĞŶƚĞ Ă ĨƵŶĕĆŽ GHVHQ¿OHLUDU\u000f ƋƵĞ ĚĞǀĞ ƌĞŵŽǀĞƌ Ğ ƌĞƚŽƌŶĂƌ Ƶŵ ĞůĞŵĞŶƚŽ ƌĞƉƌĞƐĞŶƚĂĚŽ \nƉŽƌ Ƶŵ ĐĂŵŝŶŚŽŶĞŝƌŽ ĚĂ ĮůĂ ŽƵ Ă ŵĞŶƐĂŐĞŵ Η&ŝůĂ ǀĂǌŝĂΗ ƐĞ ŶĆŽ ŚŽƵǀĞƌ ĞůĞŵĞŶƚŽƐ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ\nďͿ  /ŵƉůĞŵĞŶƚĞ Ž ƉƌŽĐĞĚŝŵĞŶƚŽ mostrarFila͕  ƋƵĞ ĚĞǀĞ ĂƉƌĞƐĞŶƚĂƌ Ă ůŝƐƚĂ ĚĞ ĞůĞŵĞŶƚŽƐ͕  ŽƵ ƐĞũĂ͕  ŽƐ \nĐĂŵŝŶŚŽŶĞŝƌŽƐ ƋƵĞ ĞƐƚĆŽ ŶĂ ĮůĂ͘  ;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ\n\nQUESTÃO D/^IhZ^/s  05 \n  ĐŽŽƌĚĞŶĂĕĆŽ ĚĞ ŐĞƐƚĆŽ ĚĞ ƉĞƐƐŽĂƐ ;I'WͿ ĚĞ ƵŵĂ ĞŵƉƌĞƐĂ ƐŽůŝĐŝƚŽƵ ă ĞƋƵŝƉĞ ĚĞ d/ ƋƵĞ ĚĞƐĞŶǀŽůǀĞƐƐĞ \nƵŵ ĂƉůŝĐĂƟǀŽ ;appͿ ƉĂƌĂ ĐƌŝĂĕĆŽ ĚĞ ƵŵĂ ƌĞĚĞ ƐŽĐŝĂů on-line ƋƵĞ ŝŶĐĞŶƟǀĂƐƐĞ ŽƐ ĞŵƉƌĞŐĂĚŽƐ Ă ŝĚĞĂůŝǌĂƌ Ğ \nĞǆĞĐƵƚĂƌ ƉƌŽũĞƚŽƐ͘    Įŵ ĚĞ ƌĞĂůŝǌĂƌ Ž ůĞǀĂŶƚĂŵĞŶƚŽ ĚĞ ƌĞƋƵŝƐŝƚŽƐ͕  Ă ĞƋƵŝƉĞ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ƐĞ ƌĞƵŶŝƵ \nĐŽŵ Ă I'W Ğ ĂůŐƵŶƐ ĞŵƉƌĞŐĂĚŽƐ Ğ͕  ƉĂƌĂ ŵĞůŚŽƌĂƌ Ă ĐŽŵƵŶŝĐĂĕĆŽ ĞŶƚƌĞ ŽƐ ĞŶǀŽůǀŝĚŽƐ͕  ŽƐ ĂŶĂůŝƐƚĂƐ ĚĞ \nƐŝƐƚĞŵĂƐ ĚĂ ĞŵƉƌĞƐĂ ŽƉƚĂƌĂŵ ƉĞůĂ ƉƌŽƚŽƟƉĂĕĆŽ ĚĞ ƚĞůĂƐ ĚŽ app͕  ĐŽŶĨŽƌŵĞ ŽƐ ĞǆĞŵƉůŽƐ Ă ƐĞŐƵŝƌ͘\nWƌŽƚſƟƉŽ 1 \nWƌŽƚſƟƉŽ 2 \nWƌŽƚſƟƉŽ 3 \ndĞŶĚŽͲƐĞ ƵƐĂĚŽ Ă ĂďŽƌĚĂŐĞŵ ĚĞ ƉƌŽƚŽƟƉĂĕĆŽ͕  ĨŽƌĂŵ ĚŽĐƵŵĞŶƚĂĚŽƐ ŽƐ ƐĞŐƵŝŶƚĞƐ ƌĞƋƵŝƐŝƚŽƐ͗\nͻ  ƚŽĚŽ ĐŽůĂďŽƌĂĚŽƌ ĚĞǀĞ ŝŶĨŽƌŵĂƌ ŶƷŵĞƌŽ ĚĞ ŵĂƚƌşĐƵůĂ͕  ŶŽŵĞ͕  ĞŶĚĞƌĞĕŽ ĚĞ e-mail Ğ ƐĞŶŚĂ ĚĞ login\nƉĂƌĂ ƐĞ ĐĂĚĂƐƚƌĂƌ ŶŽ app Ğ ƉŽĚĞƌ ƌĞŐŝƐƚƌĂƌ ƉƌŽũĞƚŽƐ Ğ ĞŶǀŝĂƌ ĐŽŵĞŶƚĄƌŝŽƐ͖  Ă ĐŽŽƌĚĞŶĂĕĆŽ ĚĞ Ƶŵ \nƉƌŽũĞƚŽ Ġ ĂƚƌŝďƵşĚĂ ĂƵƚŽŵĂƟĐĂŵĞŶƚĞ ĂŽ ĐŽůĂďŽƌĂĚŽƌ ƋƵĞ Ž ƌĞŐŝƐƚƌĂƌ͖\nͻ  ĐĂĚĂ ƉƌŽũĞƚŽ ƉŽĚĞ ƐĞƌ ĐůĂƐƐŝĮĐĂĚŽ Ğŵ ƵŵĂ ĚĞ ĚƵĂƐ ƉŽƐƐşǀĞŝƐ ĐĂƚĞŐŽƌŝĂƐ͗  ΗDĞůŚŽƌŝĂ ĚĞ WƌŽĐĞƐƐŽΗ \nŽƵ Η^ŽĐŝĂůΗ͖  ĂůĠŵ ĚŽƐ ĚĂĚŽƐ Ğŵ ĐŽŵƵŵ ƉĂƌĂ ĂŵďĂƐ ĂƐ ĐĂƚĞŐŽƌŝĂƐ͕  Ƶŵ ƉƌŽũĞƚŽ ĚĞ ΗDĞůŚŽƌŝĂ ĚĞ \nWƌŽĐĞƐƐŽΗ ĚĞǀĞ ƐĞƌ ĂůŽĐĂĚŽ ĂŽ ĚĞƉĂƌƚĂŵĞŶƚŽ ;ƐĞůĞĐŝŽŶĂĚŽ ĚĞ ƵŵĂ ůŝƐƚĂͿ Ğŵ ƋƵĞ ĞůĞ ƐĞƌĄ ĂƉůŝĐĂĚŽ \nĞ  ŽƐ  ƌĞƐƵůƚĂĚŽƐ  ĞƐƉĞƌĂĚŽƐ  ĚĞǀĞŵ  ƐĞƌ  ŝŶĨŽƌŵĂĚŽƐ  ;ĐŽŶĨŽƌŵĞ  Ž  ƉƌŽƚſƟƉŽ  1Ϳ͖   ƉĂƌĂ  Ƶŵ  ƉƌŽũĞƚŽ \nΗ^ŽĐŝĂůΗ͕  ĚĞǀĞͲƐĞ ŝŶĚŝĐĂƌ Ž ƉƷďůŝĐŽ ďĞŶĞĮĐŝĄƌŝŽ ;ĐŽŶĨŽƌŵĞ Ž ƉƌŽƚſƟƉŽ 2Ϳ͖\nͻ  ƵŵĂ ǀĞǌ ƌĞŐŝƐƚƌĂĚŽ Ž ƉƌŽũĞƚŽ͕  ƋƵĂůƋƵĞƌ ĐŽůĂďŽƌĂĚŽƌ ƉŽĚĞ ǀŝƐƵĂůŝǌĄͲůŽ ŶŽ app Ğ ƌĞŐŝƐƚƌĂƌ Ƶŵ ŽƵ ŵĂŝƐ \nĐŽŵĞŶƚĄƌŝŽƐ ƉĂƌĂ ĐŽŶƚƌŝďƵŝƌ ĐŽŵ Ž ƌĞĮŶĂŵĞŶƚŽ ĚĂ ŝĚĞŝĂ ;ĐŽŶĨŽƌŵĞ Ž ƉƌŽƚſƟƉŽ 3Ϳ͖  ŽƐ ĐŽŵĞŶƚĄƌŝŽƐ \nƐĆŽ ǀŝƐƵĂůŝǌĂĚŽƐ Ğŵ ŽƌĚĞŵ ĐƌŽŶŽůſŐŝĐĂ͕  ƉŽƌ ĚĂƚĂ Ğ ŚŽƌĄƌŝŽ͖\nͻ  Ž ĐŽŽƌĚĞŶĂĚŽƌ ĚŽ ƉƌŽũĞƚŽ ƉŽĚĞ ŝŶĐůƵŝƌ ĂƚĠ ƚƌġƐ ĐŽůĂďŽƌĂĚŽƌĞƐ ƉĂƌĂ ƉĂƌƟĐŝƉĂƌĞŵ ĚĂ ĞƋƵŝƉĞ͘\n\nIŽŶƐŝĚĞƌĂŶĚŽ Ă ƐŝƚƵĂĕĆŽ Ğ ĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĐŽŶƐƚƌƵĂ Ƶŵ ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞ ƋƵĞ ĞƐƚĞũĂ Ğŵ \nĐŽŶĨŽƌŵŝĚĂĚĞ ĐŽŵ ŽƐ ƌĞƋƵŝƐŝƚŽƐ͕  ŝŶĚŝĐĂŶĚŽ ŽƐ ĂƚƌŝďƵƚŽƐ ĚĞ ĐĂĚĂ ĐůĂƐƐĞ Ğ ĂƐ ĂƐƐŽĐŝĂĕƁĞƐ ĞŶƚƌĞ ĂƐ ĐůĂƐƐĞƐ͘  \n;ǀĂůŽƌ͗  10͕ 0 ƉŽŶƚŽƐͿ",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
+  ],
+  "anomalias": [],
+  "texto_completo": "13\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCOMPONNNTN NSPNC1&/CO\nQUNSTÃO MCSCURSCVA 03\nUma empresa Te cosméticos comercializa cinco Tiferentes tipos Te proTutos e os armazena em uma \nestante Te 40 x 40 posições.  Nm caTa posição Ta estante,  poTe fcar armazenaTa apenas uma caixa com \num Tesses proTutos.  Para facilitar sua iTentifcação,  os proTutos foram coTifcaTos Ta forma a seguir:\n1:  xampu͖\n2:  conTicionaTor͖\n3:  UiTratante͖\n4:  tintura͖\n5:  Temaquilante͖\n0:  vazio.\nNessa  situação  e  consiTeranTo  o  Tesenvolvimento  Te  um  sistema  para  gerenciar  a  organização  Tos \nproTutos na estante,  estabeleceu-se a Teclaração Te variAveis a seguir.\nVar\nNstante: matriz [1..40][1..40] Te inteiro\nProTutos: vetor [0..5] Te texto = {\"vazio\",\"xampu\",\"conTicionaTor\",\n  \"UiTratante\", \"tintura\", \"Temaquilante\"}\nContaTor: vetor [0..5] Te inteiro = {0,0,0,0,0,0}\ni, j: inteiro\nCom base nessa Teclaração e consiTeranTo a coTifcação Tos proTutos exposta,  faça o que se peTe nos \nitens a seguir,  apresentanTo as soluções em pseuTocoTigo ou em linguagem Te programação.\na)  Nscreva um trecUo Te coTigo para ler os coTigos Tos proTutos e armazenA-los na matriz Nstante.\n(valor:  4, 0 pontos)\nb)  Nscreva um trecUo Te coTigo para contar e imprimir a quantiTaTe Te caixas Te caTa tipo Te proTuto \nna estante.  (valor:  6, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R41201713*\n\n14\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO M/SCUZS/s  04 \nUma empresa trabalUa na proTução Te concreto e terceiriza o serviço Te transporte To proTuto.  Os \ncaminUoneiros telefonam para a empresa e registram seu interesse pelo trabalUo.  ToTas as manUãs,  \nos caminUoneiros estacionam o caminUão no pAtio Ta empresa e aguarTam sua vez.  O atenTimento \nsegue o critério Te orTem Te cUegaTa.  Nsse processo é,  atualmente,  controlaTo pela secretAria,  que \nutiliza sua agenTa para gerenciar os motoristas Tiariamente.    empresa,  que carrega,  no mAximo,  10 \ncaminUões por Tia,  pretenTe informatizar esse processo.\nPara  a  solução  To  problema,   apresenta-se,   a  seguir,   um  pseuTocoTigo  que  utiliza  o  conceito  Te  fla,  \nmantenTo os elementos sempre nas primeiras posições To vetor.\nAlgoritmo Fila_CaminUoneiros\ninício\n   var\n   caminUoneiros : vetor[1..10] Te texto\n   total : inteiro\n   proceTimento inicializa()\n   início\n      total <- 0\n \n   ¿P\n   função estaVazia() : lógico\n   início\n      se (total = 0) então\n         retorna verTaTeiro\n      senão\n         retorna falso\n \n      ¿P\u0010VH\n \n   ¿P\n   função estaCUeia() : lógico\n   início\n      se (total >= 10) então\n         retorna verTaTeiro\n      senão\n         retorna falso\n \n      ¿P\u0010VH\n \n   ¿P\n \n   SURFHGLPHQPR HQ¿OHLUMU\u000bFMPLQORQHLUR \u001d PH[PR\f\n   início\n      se (estaCUeia() = falso) então \n         total <- total + 1 \n         caminUoneiros[total] <- caminUoneiro\n      senão\n         imprima(\"Fila cUeia\")\n \n      ¿P\u0010VH\n \n   ¿m\n¿m\n*R41201714*\n\n15\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nCom base nas informações apresentaTas,  faça o que se peTe nos itens a seguir,  exponTo caTa solução em \npseuTocoTigo ou em linguagem Te programação.\na)  /mplemente a função GHVHQ¿OHLUMU\u000f que Teve remover e retornar um elemento representaTo \npor um caminUoneiro Ta fla ou a mensagem Η&ila vaziaΗ se não Uouver elementos.  (valor:  6, 0 pontos)\nb)  /mplemente o proceTimento mostrarFila,  que Teve apresentar a lista Te elementos,  ou seũa,  os \ncaminUoneiros que estão na fla.  (valor:  4, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nArea livre\n*R41201715*\n\n16\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nYUNSTãO M/SCUZS/s  05 \n  coorTenação Te gestão Te pessoas (C'P) Te uma empresa solicitou a equipe Te T/ que Tesenvolvesse \num aplicativo (app) para criação Te uma reTe social on-line que incentivasse os empregaTos a iTealizar e \nexecutar proũetos.    fm Te realizar o levantamento Te requisitos,  a equipe Te Tesenvolvimento se reuniu \ncom a C'P e alguns empregaTos e,  para melUorar a comunicação entre os envolviTos,  os analistas Te \nsistemas Ta empresa optaram pela prototipação Te telas To app,  conforme os exemplos a seguir.\nPrototipo 1 \nPrototipo 2 \nPrototipo 3 \nTenTo-se usaTo a aborTagem Te prototipação,  foram TocumentaTos os seguintes requisitos:\nͻ  toTo colaboraTor Teve informar numero Te matrícula,  nome,  enTereço Te e-mail e senUa Te login\npara se caTastrar no app e poTer registrar proũetos e enviar comentArios͖  a coorTenação Te um \nproũeto é atribuíTa automaticamente ao colaboraTor que o registrar͖\nͻ  caTa proũeto poTe ser classifcaTo em uma Te Tuas possíveis categorias:  ΗMelUoria Te ProcessoΗ \nou ΗSocialΗ͖  além Tos TaTos em comum para ambas as categorias,  um proũeto Te ΗMelUoria Te \nProcessoΗ Teve ser alocaTo ao Tepartamento (selecionaTo Te uma lista) em que ele serA aplicaTo \ne  os  resultaTos  esperaTos  Tevem  ser  informaTos  (conforme  o  prototipo  1)͖   para  um  proũeto \nΗSocialΗ,  Teve-se inTicar o publico benefciArio (conforme o prototipo 2)͖\nͻ  uma vez registraTo o proũeto,  qualquer colaboraTor poTe visualizA-lo no app e registrar um ou mais \ncomentArios para contribuir com o refnamento Ta iTeia (conforme o prototipo 3)͖  os comentArios \nsão visualizaTos em orTem cronologica,  por Tata e UorArio͖\nͻ  o coorTenaTor To proũeto poTe incluir até trgs colaboraTores para participarem Ta equipe.\n*R41201716*\n\n17\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nConsiTeranTo a situação e as informações apresentaTas,  construa um Tiagrama Te classe que esteũa em \nconformiTaTe com os requisitos,  inTicanTo os atributos Te caTa classe e as associações entre as classes.  \n(valor:  10, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nArea livre\n*R41201717*",
   "figuras": [
     "/questoes/2017_ADS/figuras/qd03_fig1.jpeg",
     "/questoes/2017_ADS/figuras/qd03_fig2.jpeg",
     "/questoes/2017_ADS/figuras/qd03_fig3.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 3,
-      "tipo": "DISCURSIVA",
-      "pagina": 13,
-      "x": 60.35419845581055,
-      "y": 111.02008056640625,
-      "x1": 185.38221740722656,
-      "y1": 123.02008056640625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO DISCURSIVA 03"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:35.652861"
+  "caminho_png": "/questoes/2017_ADS/qd03.png",
+  "caminho_json": "/questoes/2017_ADS/qd03.json",
+  "caminho_txt": "/questoes/2017_ADS/qd03.txt"
 }

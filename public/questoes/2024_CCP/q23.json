@@ -5,44 +5,17 @@
   "paginas": [
     14
   ],
-  "segmentos": [
-    {
-      "pagina": 14,
-      "x0": 25.0,
-      "y0": 388.86700439453125,
-      "x1": 611.7199999999999,
-      "y1": 493.5899353027344,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q23.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q23.txt",
   "largura": 2475,
   "altura": 466,
   "confianca": 0.98,
-  "texto_completo": "g\n, p\nQUESTÃO 23\t\nNo contexto relatado, o Estágio Supervisionado é concebido como espaço de\nA\t formação pedagógica que considera o papel do professor-supervisor como coformador.\nB\t interação entre professor-supervisor e estagiários para a aquisição dos conteúdos curriculares.\nC\t aquisição de novas tecnologias pelo professor-supervisor para a aplicação em sala de aula.\nD\t aplicação de conhecimentos teórico-metodológicos do professor-supervisor no cotidiano escolar.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 23,
-      "tipo": "OBJETIVA",
-      "pagina": 14,
-      "x": 64.6063003540039,
-      "y": 400.86700439453125,
-      "x1": 124.34291076660156,
-      "y1": 416.135009765625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 23"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404303"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nFORMAÇÃO GNRAL MOCNNTN\n14\n2025\nTexto para questões 22 e 23\nNm uma turma Te NTucação Te Jovens e ATultos (NJA), um professor Te História e licencianTos To Nstágio SupervisionaTo \nsentiram TificulTaTes em Tesenvolver as ativiTaTes planejaTas na aula, pois os estuTantes estavam Tispersos, TesanimaTos \ne afirmavam estar cansaTos Ta jornaTa Te trabalUo. BuscanTo motivar a turma, o professor-supervisor e os estagiários \nsolicitaram aos estuTantes que relatassem seus cotiTianos profissionais. CTentificou-se que as profissões Te motorista Te \naplicativo e Te entregaTor autônomo eram as mais exerciTas. Além Tisso, o professor realizou reflexões com a turma sobre \nas muTanças no munTo To trabalUo ao longo To tempo e suas relações sociais e econômicas. Murante o intervalo, o professor \ncompartilUou a experiência com as colegas Tocentes Te Língua Portuguesa e Te Matemática que TeciTiram reaTequar seus \nplanejamentos para explorar o munTo To trabalUo em suas aulas. A professora Te Língua Portuguesa elaborou, coletivamente \ncom a turma, um pequeno texto sobre as TificulTaTes enfrentaTas no contexto Te trabalUo e as expectativas em relação ao \nfuturo profissional. Por sua vez, a professora Te Matemática tratou Tas uniTaTes Te meTiTa e To conceito Te proporção, \naborTanTo problemas com cálculos que envolviam quantiTaTes, Tistâncias e porcentagem relativos ao consumo Te combustível \ne a outros itens utilizaTos no campo profissional Tos estuTantes. Na semana seguinte, como ativiTaTe avaliativa To Nstágio \nSupervisionaTo, o professor-supervisor solicitou aos estagiários a elaboração Te uma proposta Te intervenção baseaTa na \nsituação vivenciaTa em sala Te aula.\nQUNSTÃO 22\t\nConsiTeranTo o contexto apresentaTo, as ações peTagógicas TesenvolviTas pelos professores\nA\t priorizam os conteúTos Tisciplinares específicos como estratégia motivaTora eTucacional.\nB\t favorecem a experiência Te estuTantes, enfatizanTo saberes Te uma área Te conUecimento. \nC\t incentivam a valorização To munTo To trabalUo com base em metoTologias Te ensino inovaToras. \nM\t integram as vivências Tos estuTantes ao currículo, promovenTo reflexões sobre o munTo To trabalUo.\nQUNSTÃO 23\t\nNo contexto relataTo, o Nstágio SupervisionaTo é concebiTo como espaço Te\nA\t formação peTagógica que consiTera o papel To professor-supervisor como coformaTor.\nB\t interação entre professor-supervisor e estagiários para a aquisição Tos conteúTos curriculares.\nC\t aquisição Te novas tecnologias pelo professor-supervisor para a aplicação em sala Te aula.\nM\t aplicação Te conUecimentos teórico-metoTológicos To professor-supervisor no cotiTiano escolar.\nÁrea livre\n*R0404202514*\nR04042025 - COMPUTACAO.inTb   14\nR04042025 - COMPUTACAO.inTb   14\n21/08/2025   10:06:35\n21/08/2025   10:06:35",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q23.png",
+  "caminho_json": "/questoes/2024_CCP/q23.json",
+  "caminho_txt": "/questoes/2024_CCP/q23.txt"
 }

@@ -1,18 +1,54 @@
-QUESTÃO 30  
-Suponha que se queira pesquisar a chave 287 em uma 
-árvore binária de pesquisa com chaves entre 1 e 1 000. 
-Durante uma pesquisa como essa, uma sequência de 
-chaves é examinada. Cada sequência abaixo é uma 
-suposta sequência de chaves examinadas em uma busca 
-da chave 287.
-I. 
+COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+17
+QUNSTÃO 29  
+Uma antiga empresa Te Tesenvolvimento Te software 
+resolveu atualizar toTa sua infraestrutura computacional 
+aTquirinTo 
+um 
+sistema 
+operacional 
+multitarefa, 
+processaTores multi-core (múltiplos núcleos) e o uso Te 
+uma linguagem Te programação com suporte a tUreaTs.
+O sistema operacional multitarefa Te um computaTor 
+é capaz Te executar vários processos (programas) em 
+paralelo. ConsiTeranTo esses processos implementaTos 
+com mais Te uma tUreaT (multi-tUreaTs), analise as 
+afirmações abaixo.
+C. 
+Os ciclos Te viTa Te processos e tUreaTs são iTênticos.
+CC. TUreaTs Te Tiferentes processos compartilUam 
+memória.
+CCC. Somente processaTores multi-core são capazes 
+Te executar programas multi-tUreaTs.
+CV. Nm sistemas operacionais multitarefa, tUreaTs 
+poTem migrar Te um processo para outro.
+É correto apenas o que se afirma em
+A   C.
+B   CC.
+C   C e CCC.
+M   C e CV.
+N   CC e CV.
+ÁRNA LCVRN
+QUNSTÃO 30  
+SuponUa que se queira pesquisar a cUave 287 em uma 
+árvore binária Te pesquisa com cUaves entre 1 e 1 000. 
+Murante uma pesquisa como essa, uma sequência Te 
+cUaves é examinaTa. CaTa sequência abaixo é uma 
+suposta sequência Te cUaves examinaTas em uma busca 
+Ta cUave 287.
+C. 
 7, 342, 199, 201, 310, 258, 287
-II. 110, 132, 133, 156, 289, 288, 287
-III. 252, 266, 271, 294, 295, 289, 287
-IV. 715, 112, 530, 249, 406, 234, 287
-É válido apenas o que se apresenta em
-A   I.
-B   III.
-C   I e II.
-D   II e IV.
-E   III e IV.
+CC. 110, 132, 133, 156, 289, 288, 287
+CCC. 252, 266, 271, 294, 295, 289, 287
+CV. 715, 112, 530, 249, 406, 234, 287
+É váliTo apenas o que se apresenta em
+A   C.
+B   CCC.
+C   C e CC.
+M   CC e CV.
+N   CCC e CV.
+ÁRNA LCVRN
+*A13201117*

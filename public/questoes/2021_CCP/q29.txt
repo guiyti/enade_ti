@@ -1,23 +1,27 @@
-QUESTÃO 29	
-As operações morfológicas são um conjunto de operações que processam imagens com base em formas. 
-As operações morfológicas aplicam um elemento estruturador B a uma imagem A de entrada e geram 
-uma imagem de saída.
-Em relação às operações morfológicas de Erosão e Dilatação, avalie as afirmações a seguir.
-I.	 Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de pixel 
-sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, por esse 
+38
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 29	
+As operações morfológicas são um conjunto Te operações que processam imagens com base em formas. 
+As operações morfológicas aplicam um elemento estruturaTor B a uma imagem A Te entraTa e geram 
+uma imagem Te saíTa.
+Nm relação às operações morfológicas Te Nrosão e Milatação, avalie as afirmações a seguir.
+C.	 Milatação: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor máximo Te pixel 
+sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, por esse 
 valor máximo; exemplo:
-II.	 Dilatação: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de 
-pixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, 
+CC.	 Milatação: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor mínimo Te 
+pixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, 
 por esse valor máximo; exemplo:
-III.	 Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor máximo de 
-pixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, 
+CCC.	 Nrosão: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor máximo Te 
+pixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, 
 por esse valor máximo; exemplo:
-IV.	 Erosão: À medida que o kernel B é aplicado sobre a imagem, calculamos o valor mínimo de 
-pixel sobreposto por B e substituímos o pixel da imagem, na posição do ponto de ancoragem, 
+CV.	 Nrosão: À meTiTa que o kernel B é aplicaTo sobre a imagem, calculamos o valor mínimo Te 
+pixel sobreposto por B e substituímos o pixel Ta imagem, na posição To ponto Te ancoragem, 
 por esse valor máximo; exemplo:
 É correto o que se afirma em
-A	 I e III, apenas.
-B	 I e IV, apenas.
-C	 II e III, apenas.
-D	 II e IV, apenas.
-E	 I, II, III e IV.
+A	 C e CCC, apenas.
+B	 C e CV, apenas.
+C	 CC e CCC, apenas.
+M	 CC e CV, apenas.
+N	 C, CC, CCC e CV.
+Área livre
+*R02202138*

@@ -1,14 +1,43 @@
-QUESTÃO 11
-IŽŶƐŝĚĞƌĞ Ƶŵ ĞƐƋƵĞŵĂ ĚĞ ŐĞƌġŶĐŝĂ ĚĞ ŵĞŵſƌŝĂ ƉŽƌ 
-ƉĂŐŝŶĂĕĆŽ ƐŝŵƉůĞƐ͕  ŽŶĚĞ Ă ŵĞŵſƌŝĂ İƐŝĐĂ Ġ ĚŝǀŝĚŝĚĂ 
-Ğŵ ƋƵĂĚƌŽƐ ;framesͿ ĚĞ 1 <ďǇƚĞ Ğ ĞŶĚĞƌĞĕĂĚĂ ƉŽƌ 
-ďǇƚĞ͘  KƐ ĞƐƉĂĕŽƐ ĚĞ ĞŶĚĞƌĞĕĂŵĞŶƚŽ ĚŽƐ ƉƌŽĐĞƐƐŽƐ 
-ƐĆŽ ŵƷůƟƉůŽƐ ĚĞ 1 <ďǇƚĞ͘    ƚĂďĞůĂ ĚĞ ƉĄŐŝŶĂƐ ƉĂƌĂ 
-Ƶŵ ĚĞƚĞƌŵŝŶĂĚŽ ƉƌŽĐĞƐƐŽ W Ġ ĂƉƌĞƐĞŶƚĂĚĂ Ă ƐĞŐƵŝƌ͕  
-Ğŵ  ƋƵĞ  Ž  ƉƌŝŵĞŝƌŽ  ďŝƚ  ;sͿ  ŵŽƐƚƌĂ  ƐĞ  Ă  ƉĄŐŝŶĂ  Ġ 
-ǀĄůŝĚĂ ;1Ϳ ŽƵ ŝŶǀĄůŝĚĂ ;0Ϳ͘
+13
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 10
+O  gerenciamento  Te  um  proũeto  inclui  ativiTaTes 
+com  o  obũetivo  Te  garantir  que  toTos  os  proTutos 
+TefniTos no seu escopo seũam entregues no prazo 
+estimaTo.   Nesse  contexto,   avalie  as  afrmações  a 
+seguir.
+/.   Técnicas como PNZT e CPM são utilizaTas para 
+obtenção  Te  estimativas  Te  esforço  e  como 
+apoio para Tefnição Te ativiTaTes.
+//.   Séries Uistoricas,  quanTo utilizaTas para obter 
+estimativas  Te  esforço  no  Tesenvolvimento 
+Te  um  novo  sistema,   levam  a  obtenção  Te 
+estimativas consistentes,  inTepenTentemente 
+To  Tomínio  Te  aplicação  Tos  sistemas  que 
+Teram origem as séries Uistoricas.
+///.   No caso Te atraso na execução To cronograma,  
+a  contratação  Te  novos  TesenvolveTores 
+assegura  que  o  proTuto  serA  entregue  Te 
+acorTo  com  o  cronograma  inicialmente 
+proposto.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.  
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+QUNSTÃO 11
+ConsiTere um esquema Te gergncia Te memoria por 
+paginação simples,  onTe a memoria İsica é TiviTiTa 
+em quaTros (frames) Te 1 <bǇte e enTereçaTa por 
+bǇte.  Os espaços Te enTereçamento Tos processos 
+são multiplos Te 1 <bǇte.    tabela Te pAginas para 
+um TeterminaTo processo P é apresentaTa a seguir,  
+em  que  o  primeiro  bit  (Bs)  mostra  se  a  pAgina  é 
+vAliTa (1) ou invAliTa (0).
 BV
-YƵĂĚƌŽ ;frameͿ
+YuaTro (frame)
 0
 1
 0010
@@ -33,21 +62,23 @@ YƵĂĚƌŽ ;frameͿ
 7
 0
 0110
-IŽŵ ďĂƐĞ ŶĂ ƚĂďĞůĂ ĂƉƌĞƐĞŶƚĂĚĂ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ 
-Ă ƐĞŐƵŝƌ͘
-/͘   K ĞŶĚĞƌĞĕŽ İƐŝĐŽ Ġ ĐŽŵƉŽƐƚŽ ƉŽƌ 13 ďŝƚƐ͘
-//͘  K  ĞƐƋƵĞŵĂ  ĚĞ  ŐĞƌġŶĐŝĂ  ĚĞ  ŵĞŵſƌŝĂ 
-ĂƉƌĞƐĞŶƚĂĚŽ ƌĞĚƵǌ Ă ĨƌĂŐŵĞŶƚĂĕĆŽ ĞǆƚĞƌŶĂ͘
-///͘    
-ƚƌĂĚƵĕĆŽ 
-ĚŽ 
-ĞŶĚĞƌĞĕŽ 
-ůſŐŝĐŽ 
-0110000000110  ƉĂƌĂ  ĞŶĚĞƌĞĕŽ  ĨşƐŝĐŽ 
-ĐĂƵƐĂ ĞǆĐĞĕĆŽ͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B //͕  ĂƉĞŶĂƐ͘
-C / Ğ ///͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+Com base na tabela apresentaTa,  avalie as afrmações 
+a seguir.
+/.   O enTereço İsico é composto por 13 bits.
+//.  O  esquema  Te  gergncia  Te  memoria 
+apresentaTo reTuz a fragmentação externa.
+///.    
+traTução 
+To 
+enTereço 
+logico 
+0110000000110  para  enTereço  físico 
+causa exceção.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R03201413*

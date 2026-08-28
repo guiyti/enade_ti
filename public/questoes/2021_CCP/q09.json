@@ -5,44 +5,18 @@
   "paginas": [
     19
   ],
-  "segmentos": [
-    {
-      "pagina": 19,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 280.56,
-      "y1": 558.4889526367188,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q09.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q09.txt",
   "largura": 1095,
   "altura": 2045,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 09\t\nQuando um computador é multiprogramado, ele \ngeralmente tem múltiplos processos ou threads \nque competem pela CPU ao mesmo tempo. \nEssa situação ocorre sempre que dois ou mais \nprocessos estão simultaneamente no estado \npronto. Se somente uma CPU se encontrar \ndisponível, deverá ser feita uma escolha de \nqual processo executar em seguida. A parte do \nsistema operacional que faz a escolha é chamada \nde escalonador, e o algoritmo que ele usa é o \nalgoritmo de escalonamento.\nTANENBAUM, A. S. Sistemas Operacionais Modernos. \n3. ed., São Paulo: Pearson, 2010 (adaptado).\nConsiderando que em ambientes diferentes são \nnecessários algoritmos diferentes de escalonamento, \ngarantindo assim que seja maximizado o uso de \nseus recursos, assinale a opção que apresenta um \nalgoritmo de escalonamento seguido do tipo de \nambiente no qual deva ser implementado.\nA\t Primeiro a chegar, último a sair (first in, last out \n- FILO); propício para sistemas de tempo real.\nB\t Escalonamento \npor \ntaxas \nmonotônicas \n(rate monotonic scheduling - RMS); propício \npara sistemas em lote.\nC\t Tarefa mais curta primeiro; propício para \nsistemas interativos.\nD\t Escalonamento por chave circular (round-robin); \npropício para sistemas de tempo real.\nE\t Escalonamento por prioridades; propício para \nsistemas interativos.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 9,
-      "tipo": "OBJETIVA",
-      "pagina": 19,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 09"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469258"
+  "texto_completo": "19\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 09\t\nQuanTo um computaTor é multiprogramaTo, ele \ngeralmente tem múltiplos processos ou tUreaTs \nque competem pela CPU ao mesmo tempo. \nNssa situação ocorre sempre que Tois ou mais \nprocessos estão simultaneamente no estaTo \npronto. Se somente uma CPU se encontrar \nTisponível, Teverá ser feita uma escolUa Te \nqual processo executar em seguiTa. A parte To \nsistema operacional que faz a escolUa é cUamaTa \nTe escalonaTor, e o algoritmo que ele usa é o \nalgoritmo Te escalonamento.\nTANNNBAUM, A. S. Sistemas Operacionais MoTernos. \n3. eT., São Paulo: Pearson, 2010 (aTaptaTo).\nConsiTeranTo que em ambientes Tiferentes são \nnecessários algoritmos Tiferentes Te escalonamento, \ngarantinTo assim que seja maximizaTo o uso Te \nseus recursos, assinale a opção que apresenta um \nalgoritmo Te escalonamento seguiTo To tipo Te \nambiente no qual Teva ser implementaTo.\nA\t Primeiro a cUegar, último a sair (first in, last out \n- FCLO); propício para sistemas Te tempo real.\nB\t Nscalonamento \npor \ntaxas \nmonotônicas \n(rate monotonic scUeTuling - RMS); propício \npara sistemas em lote.\nC\t Tarefa mais curta primeiro; propício para \nsistemas interativos.\nM\t Nscalonamento por cUave circular (rounT-robin); \npropício para sistemas Te tempo real.\nN\t Nscalonamento por prioriTaTes; propício para \nsistemas interativos.\nÁrea livre\nQUNSTÃO 10\t\nA biblioteca Te coleções Ta linguagem Java \nTisponibiliza implementações Te propósito \ngeral para estruturas Te TaTos elementares, \ncomo listas, filas e pilUas. ConsiTere as \nseguintes Tefinições Te classes que representam \nimplementações \nTe \nestruturas \nTe \nTaTos \nTisponíveis na biblioteca Ta linguagem:\n•\tClasse A: os objetos são organizaTos em uma \norTem linear e poTem ser inseriTos somente \nno início ou no final Tessa sequência;\n•\tClasse B: os objetos são organizaTos em uma \norTem linear TeterminaTa por uma referência \nao próximo objeto;\n•\tClasse C: os objetos são removiTos na orTem \noposta em que foram inseriTos;\n•\tClasse M: os objetos são inseriTos e removiTos \nrespeitanTo a seguinte regra: o elemento \na ser removiTo é sempre aquele que foi \ninseriTo primeiro.\nNesse contexto, assinale a alternativa que \nrepresenta, respectivamente, as estruturas Te \nTaTos implementaTas pelas classes A, B, C e M.\nA\t Lista circular, lista simplesmente ligaTa, pilUa \ne fila.\nB\t Meque, lista simplesmente ligaTa, pilUa e fila.\nC\t Lista Tuplamente ligaTa, lista simplesmente \nligaTa, fila e pilUa.\nM\t PilUa, fila, Teque e lista simplesmente encaTeaTa.\nN\t Meque, pilUa, lista ligaTa e fila.\nÁrea livre\n*R02202119*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q09.png",
+  "caminho_json": "/questoes/2021_CCP/q09.json",
+  "caminho_txt": "/questoes/2021_CCP/q09.txt"
 }

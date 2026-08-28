@@ -6,55 +6,22 @@
     7,
     8
   ],
-  "segmentos": [
-    {
-      "pagina": 7,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 591.3587036132812,
-      "coluna": 0
-    },
-    {
-      "pagina": 8,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 294.59999999999997,
-      "y1": 138.20608520507812,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/qd10.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd10.txt",
   "largura": 2302,
   "altura": 2460,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 10 – DISCURSIVA\nAlunos dão nota 7,1 para ensino médio\nApesar das várias avaliações que mostram que o ensino médio está\nmuito aquém do desejado, os alunos, ao analisarem a formação que\nreceberam, têm outro diagnóstico. No questionário socioeconômico que\nresponderam no Enem (Exame Nacional do Ensino Médio) do ano\npassado, eles deram para seus colégios nota média 7,1. Essa boa\navaliação varia pouco conforme o desempenho do aluno. Entre os que\nforam mal no exame, a média é de 7,2; entre aqueles que foram bem,\nela fica em 7,1.\nGOIS, Antonio. Folha de S.Paulo, 11 jun. 2008 (Fragmento).\nEntre os piores também em matemática e leitura\nO Brasil teve o quarto pior desempenho, entre 57 países e territórios, no\nmaior teste mundial de matemática, o Programa Internacional de\nAvaliação de Alunos (Pisa) de 2006. Os estudantes brasileiros de\nescolas públicas e particulares ficaram na 54.a posição, à frente apenas de Tunísia, Qatar e Quirguistão. Na prova de\nleitura, que mede a compreensão de textos, o país foi o oitavo pior, entre 56 nações.\nOs resultados completos do Pisa 2006, que avalia jovens de 15 anos, foram anunciados ontem pela Organização para\na Cooperação e o Desenvolvimento (OCDE), entidade que reúne países adeptos da economia de mercado, a maioria\ndo mundo desenvolvido.\nWEBER, Demétrio. Jornal O Globo, 5 dez. 2007, p. 14 (Fragmento).\nEnsino fundamental atinge meta de 2009\nO aumento das médias dos alunos, especialmente em matemática, e a diminuição da reprovação fizeram com que, de\n2005 para 2007, o país melhorasse os indicadores de qualidade da educação. O avanço foi mais visível no ensino\nfundamental. No ensino médio, praticamente não houve melhoria. Numa escala de zero a dez, o ensino fundamental em\nseus anos iniciais (da primeira à quarta série) teve nota 4,2 em 2007. Em 2005, a nota fora 3,8. Nos anos finais (quinta\na oitava), a alta foi de 3,5 para 3,8. No ensino médio, de 3,4 para 3,5. Embora tenha comemorado o aumento da nota,\nela ainda foi considerada “pior do que regular” pelo ministro da Educação, Fernando Haddad.\nGOIS, Antonio; PINHO, Angela. Folha de S.Paulo, 12 jun. 2008 (Fragmento).\nA partir da leitura dos fragmentos motivadores reproduzidos, redija um texto dissertativo (fundamentado em pelo menos\ndois argumentos), sobre o seguinte tema:\nA contradição entre os resultados de avaliações oficiais e a opinião emitida pelos\nprofessores, pais e alunos sobre a educação brasileira.\nNo desenvolvimento do tema proposto, utilize os conhecimentos adquiridos ao longo de sua formação.\nObservações\n•\nSeu texto deve ser de cunho dissertativo-argumentativo (não\ndeve, portanto, ser escrito em forma de poema, de narração\netc.). \n•\nSeu ponto de vista deve estar apoiado em pelo menos dois\nargumentos.\n•\nO texto deve ter entre 8 e 10 linhas. \n•\nO texto deve ser redigido na modalidade padrão da\nlíngua portuguesa.\n•\nSeu texto não deve conter fragmentos dos textos\nmotivadores.\n(valor: 10,0 pontos)\nRevista Veja, 20 ago. 2008, p. 72-3.\n\nCOMPO\nAs questões de 11 a 20, a seguir, são comu\nBACHARELADO EM CIÊNCIA DA CO\nBACHARELADO EM",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Programação e POO",
+    "Algoritmos e Estruturas de Dados",
+    "Arquitetura e Organização de Computadores"
+  ],
+  "anomalias": [],
+  "texto_completo": "6\nCOMPUTAÇÃO\nQUNSTÃO 10 – MCSCURSCVA\nAlunos Tão nota 7,1 para ensino méTio\nApesar Tas várias avaliações que mostram que o ensino méTio está\nmuito aquém To TesejaTo, os alunos, ao analisarem a formação que\nreceberam, têm outro Tiagnóstico. No questionário socioeconômico que\nresponTeram no Nnem (Nxame Nacional To Nnsino MéTio) To ano\npassaTo, eles Teram para seus colégios nota méTia 7,1. Nssa boa\navaliação varia pouco conforme o TesempenUo To aluno. Nntre os que\nforam mal no exame, a méTia é Te 7,2; entre aqueles que foram bem,\nela fica em 7,1.\nGOCS, Antonio. FolUa Te S.Paulo, 11 jun. 2008 (Fragmento).\nNntre os piores também em matemática e leitura\nO Brasil teve o quarto pior TesempenUo, entre 57 países e territórios, no\nmaior teste munTial Te matemática, o Programa Cnternacional Te\nAvaliação Te Alunos (Pisa) Te 2006. Os estuTantes brasileiros Te\nescolas públicas e particulares ficaram na 54.a posição, à frente apenas Te Tunísia, Qatar e Quirguistão. Na prova Te\nleitura, que meTe a compreensão Te textos, o país foi o oitavo pior, entre 56 nações.\nOs resultaTos completos To Pisa 2006, que avalia jovens Te 15 anos, foram anunciaTos ontem pela Organização para\na Cooperação e o Mesenvolvimento (OCMN), entiTaTe que reúne países aTeptos Ta economia Te mercaTo, a maioria\nTo munTo TesenvolviTo.\nPNBNR, Memétrio. Jornal O Globo, 5 Tez. 2007, p. 14 (Fragmento).\nNnsino funTamental atinge meta Te 2009\nO aumento Tas méTias Tos alunos, especialmente em matemática, e a Timinuição Ta reprovação fizeram com que, Te\n2005 para 2007, o país melUorasse os inTicaTores Te qualiTaTe Ta eTucação. O avanço foi mais visível no ensino\nfunTamental. No ensino méTio, praticamente não Uouve melUoria. Numa escala Te zero a Tez, o ensino funTamental em\nseus anos iniciais (Ta primeira à quarta série) teve nota 4,2 em 2007. Nm 2005, a nota fora 3,8. Nos anos finais (quinta\na oitava), a alta foi Te 3,5 para 3,8. No ensino méTio, Te 3,4 para 3,5. Nmbora tenUa comemoraTo o aumento Ta nota,\nela ainTa foi consiTeraTa “pior To que regular” pelo ministro Ta NTucação, FernanTo HaTTaT.\nGOCS, Antonio; PCNHO, Angela. FolUa Te S.Paulo, 12 jun. 2008 (Fragmento).\nA partir Ta leitura Tos fragmentos motivaTores reproTuziTos, reTija um texto Tissertativo (funTamentaTo em pelo menos\nTois argumentos), sobre o seguinte tema:\nA contraTição entre os resultaTos Te avaliações oficiais e a opinião emitiTa pelos\nprofessores, pais e alunos sobre a eTucação brasileira.\nNo Tesenvolvimento To tema proposto, utilize os conUecimentos aTquiriTos ao longo Te sua formação.\nObservações\n•\nSeu texto Teve ser Te cunUo Tissertativo-argumentativo (não\nTeve, portanto, ser escrito em forma Te poema, Te narração\netc.). \n•\nSeu ponto Te vista Teve estar apoiaTo em pelo menos Tois\nargumentos.\n•\nO texto Teve ter entre 8 e 10 linUas. \n•\nO texto Teve ser reTigiTo na moTaliTaTe paTrão Ta\nlíngua portuguesa.\n•\nSeu texto não Teve conter fragmentos Tos textos\nmotivaTores.\n(valor: 10,0 pontos)\nRASCUNHO – QUNSTÃO 10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nRevista Veja, 20 ago. 2008, p. 72-3.\n\n7\nCOMPUTAÇÃO\nCOMPONNNTN NSPNCÍFCCO\nAs questões Te 11 a 20, a seguir, são comuns para os estuTantes Te cursos com perfis profissionais Te\nBACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO, NNGNNHARCA MN COMPUTAÇÃO e \nBACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.\nQUNSTÃO 11\nCom relação às Tiferentes tecnologias Te armazenamento\nTe TaTos, julgue os itens a seguir.\nC\nQuanTo a tensão Te alimentação Te uma memória\nROM é TesligaTa, os TaTos Tessa memória são\napagaTos. Por isso, esse tipo Te memória é\nTenominaTo volátil.\nCC\nO tempo Te acesso à memória RAM é maior que o\ntempo Te acesso a um registraTor Ta uniTaTe central\nTe processamento (UCP).\nCCC O tempo Te acesso à memória cacUe Ta UCP é menor\nque o tempo Te acesso a um Tisco magnético.\nCV O tempo Te acesso à memória cacUe Ta UCP é maior\nque o tempo Te acesso à memória RAM.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CCC.\nM CC e CV.\nN CCC e CV.\nQUNSTÃO 12\nAo longo Te toTo o Tesenvolvimento To software,\nTevem ser aplicaTas ativiTaTes Te garantia Te\nqualiTaTe Te software (GQS), entre as quais se\nencontra a ativiTaTe Te teste. Um Tos critérios\nTe teste utilizaTos para gerar casos Te teste é o\nTenominaTo critério Tos caminUos básicos, cujo\nnúmero Te caminUos poTe ser TeterminaTo com\nbase \nna \ncomplexiTaTe \nciclomática.\nConsiTeranTo-se o grafo Te fluxo Te controle\napresentaTo na figura ao laTo, no qual os nós\nrepresentam os blocos Te comanTos e as\narestas representam a transferência Te controle,\nqual a quantiTaTe Te caminUos básicos que\nTevem ser testaTos no programa associaTo a esse grafo\nTe fluxo Te controle, sabenTo-se que essa quantiTaTe é\nigual à complexiTaTe ciclomática mais um?\nA\n1.\nB\n3.\nC\n4.\nM\n7.\nN\n8.\nQUNSTÃO 13\nConsiTeranTo o conjunto A = {1, 2, 3, 4, 5, 6}, qual opção\ncorresponTe a uma partição Tesse conjunto?\nA\n{{1}, {2}, {3}, {4}, {5}, {6}}\nB\n{{1}, {1,2}, {3,4}, {5, 6}}\nC\n{{ }, {1, 2, 3}, {4, 5, 6}}\nM\n{{1, 2, 3}, {5, 6}}\nN\n{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}\nQUNSTÃO 14\nUm programaTor propôs um algoritmo não-recursivo\npara o percurso em preorTem Te uma árvore binária com\nas seguintes características.\n<\nCaTa nó Ta árvore binária é representaTo por um\nregistro com três campos: cUave, que armazena seu\niTentificaTor; esq e Tir, ponteiros para os filUos\nesquerTo e Tireito, respectivamente.\n<\nO algoritmo Teve ser invocaTo inicialmente tomanTo o\nponteiro para o nó raiz Ta árvore binária como\nargumento.\n<\nO algoritmo utiliza pusU() e pop() como funções\nauxiliares Te empilUamento e TesempilUamento Te\nponteiros para nós Te árvore binária, respectivamente.\nA seguir, está apresentaTo o algoritmo proposto, em\nque 8 representa o ponteiro nulo.\nProceTimento preorTem (ptraiz : PtrNoArvBin)\n  Var ptr : PtrNoArvBin;\n  ptr := ptraiz;\n  Nnquanto (ptr … 8) Faça\n     escreva (ptr8.cUave);\n     Se (ptr8.Tir … 8) Nntão\n        pusU(ptr8.Tir);\n     Se (ptr8.esq … 8) Nntão\n        pusU(ptr8.esq);\n      ptr := pop();\n  Fim_Nnquanto\nFim_ProceTimento\nCom base nessas informações e suponTo que a raiz Te\numa árvore binária com n nós seja passaTa ao\nproceTimento preorTem(), julgue os itens seguintes.\nC\nO algoritmo visita caTa nó Ta árvore binária exatamente\numa vez ao longo To percurso.\nCC\nO algoritmo só funcionará corretamente se o\nproceTimento pop() for projetaTo Te forma a retornar 8\ncaso a pilUa esteja vazia.\nCCC NmpilUar e TesempilUar ponteiros para nós Ta árvore\nsão operações que poTem ser implementaTas com\ncusto constante. \nCV A complexiTaTe To pior caso para o proceTimento\npreorTem() é O(n).\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CV estão certos.\nC\nApenas os itens C, CC e CCC estão certos.\nM\nApenas os itens CC, CCC e CV estão certos.\n1\n2\n3\n4\n5\n6\n7",
   "figuras": [
     "/questoes/2008_CCP/figuras/qd10_fig1.jpeg",
     "/questoes/2008_CCP/figuras/qd10_fig2.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 10,
-      "tipo": "DISCURSIVA",
-      "pagina": 7,
-      "x": 36.8390998840332,
-      "y": 76.48672485351562,
-      "x1": 185.9971923828125,
-      "y1": 87.52672576904297,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 10 – DISCURSIVA"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.026854"
+  "caminho_png": "/questoes/2008_CCP/qd10.png",
+  "caminho_json": "/questoes/2008_CCP/qd10.json",
+  "caminho_txt": "/questoes/2008_CCP/qd10.txt"
 }

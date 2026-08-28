@@ -1,21 +1,49 @@
-E
-3͕
-5
-7
-QUESTÃO 14 
-hŵĂ ƌĞůĂĕĆŽ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ Ġ ƵŵĂ ƌĞůĂĕĆŽ ďŝŶĄƌŝĂ R Ğŵ Ƶŵ ĐŽŶũƵŶƚŽ A͕  ƚĂů ƋƵĞ R Ġ ƌĞŇĞǆŝǀĂ͕  ƐŝŵĠƚƌŝĐĂ 
-Ğ ƚƌĂŶƐŝƟǀĂ͘
-IŽŶƐŝĚĞƌĞ ĂƐ ƌĞůĂĕƁĞƐ ďŝŶĄƌŝĂƐ ĂƉƌĞƐĞŶƚĂĚĂƐ Ă ƐĞŐƵŝƌ͘
+CCÊNCCA MA COMPUTAÇÃO
+19
+QUNSTÃO 13
+Os sistemas Te refrigeração Te piscinas Te combusơvel em usinas nucleares evitam que a temperatura 
+Tesses  tanques  exceTa  o  limite  Te  segurança.   O  circuito  representaTo  na  fgura  a  seguir  atenTe  aos 
+requisitos necessArios para o controle Ta ativação To sistema Te resfriamento quanTo a temperatura estA 
+proxima Te seu ponto crítico.
+O Tiagrama Te tempo ilustraTo na fgura apresenta uma amostra Tas temperaturas liTas TesTe o momento 
+t1 ao t8.  Os sinais Te entraTa Ta,  Tb e Tc são Te termƀmetros que meTem a temperatura Ta piscina em 
+Tiferentes pontos ao longo To Tia e S é o terminal Te acionamento To sistema.
+Ta
+Tb
+Tc
+t1
+t2
+t3
+t4
+t5
+t6
+t7
+t8
+Ta
+Tb
+Tc
+S
+Nesse  contexto,   assinale  a  opção  em  que  são  apresentaTos  os  momentos  em  que  o  sistema  foi 
+acionaTo.
+A t1, t4 e t8.
+B t1, t6 e t8.
+C t2, t4 e t6.
+M t2, t6 e t8.
+N t3, t5 e t7.
+YUNSTãO 14 
+Uma relação Te equivalgncia é uma relação binAria R em um conũunto A,  tal que R é reŇexiva,  simétrica 
+e transitiva.
+ConsiTere as relações binArias apresentaTas a seguir.
 ͻ 
 ͻ 
 ͻ 
 ͻ 
-^ĆŽ ƌĞůĂĕƁĞƐ ĚĞ ĞƋƵŝǀĂůġŶĐŝĂ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂƉƌĞƐĞŶƚĂ Ğŵ
+São relações Te equivalgncia apenas o que se apresenta em
 A R2 e R3.
 B R1 e R3.
 C R1 e R4.
-D R1, R2 e R4.
-E R2, R3 e R4.
+M R1, R2 e R4.
+N R2, R3 e R4.
 R
 a b
 a b
@@ -64,3 +92,4 @@ b
 }.
 N e
 é um número par
+*R03201719*

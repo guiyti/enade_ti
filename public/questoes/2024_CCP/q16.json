@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 25.0,
-      "y0": 83.01449584960938,
-      "x1": 611.7199999999999,
-      "y1": 290.6591796875,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q16.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q16.txt",
   "largura": 2475,
   "altura": 896,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 16\t\nEm uma reunião de planejamento, foi proposta uma discussão sobre os diferentes tipos de avaliação e suas aplicações no \nprocesso de ensino e de aprendizagem. Foram apresentadas as características e as funções das avaliações diagnóstica, formativa \ne somativa no contexto escolar. Os professores foram convidados a descrever suas práticas pedagógicas e a relacioná-las aos \ndiferentes objetivos das avaliações.\nEntre as atividades avaliativas descritas, é associada à função formativa aquela que\nA\t inicia o ensino de frações com uma atividade de recortes de modelos de pizzas de papel divididas em partes iguais, para \nque os estudantes resolvam uma lista de exercícios.\nB\t propõe uma série de perguntas para serem respondidas pelos estudantes sobre o tema de desmatamento ilegal, com o \nintuito de identificar os conhecimentos prévios dos estudantes sobre o assunto.\nC\t oferece devolutivas para a produção coletiva de uma linha do tempo com marcos da Revolução Industrial, a fim de orientar \no que pode ser aperfeiçoado no trabalho.\nD\t aplica uma prova escrita com questões objetivas e dissertativas sobre os ciclos biogeoquímicos, com a finalidade de classificar \nos estudantes.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 16,
-      "tipo": "OBJETIVA",
-      "pagina": 11,
-      "x": 64.6063003540039,
-      "y": 94.02613830566406,
-      "x1": 124.34291076660156,
-      "y1": 109.29413604736328,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 16"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404096"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n11\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 16\t\nNm uma reunião Te planejamento, foi proposta uma Tiscussão sobre os Tiferentes tipos Te avaliação e suas aplicações no \nprocesso Te ensino e Te aprenTizagem. Foram apresentaTas as características e as funções Tas avaliações Tiagnóstica, formativa \ne somativa no contexto escolar. Os professores foram conviTaTos a Tescrever suas práticas peTagógicas e a relacioná-las aos \nTiferentes objetivos Tas avaliações.\nNntre as ativiTaTes avaliativas Tescritas, é associaTa à função formativa aquela que\nA\t inicia o ensino Te frações com uma ativiTaTe Te recortes Te moTelos Te pizzas Te papel TiviTiTas em partes iguais, para \nque os estuTantes resolvam uma lista Te exercícios.\nB\t propõe uma série Te perguntas para serem responTiTas pelos estuTantes sobre o tema Te Tesmatamento ilegal, com o \nintuito Te iTentificar os conUecimentos prévios Tos estuTantes sobre o assunto.\nC\t oferece Tevolutivas para a proTução coletiva Te uma linUa To tempo com marcos Ta Revolução CnTustrial, a fim Te orientar \no que poTe ser aperfeiçoaTo no trabalUo.\nM\t aplica uma prova escrita com questões objetivas e Tissertativas sobre os ciclos biogeoquímicos, com a finaliTaTe Te classificar \nos estuTantes.\nQUNSTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional Te Avaliação Ta NTucação Básica (Saeb), são utilizaTas \ncomo instrumentos Te aferição Ta qualiTaTe Ta NTucação Básica no Brasil. Seu resultaTo é utilizaTo no cálculo To ÍnTice Te \nMesenvolvimento Ta NTucação Básica (CTeb) Tas escolas. Uma TeterminaTa escola recebeu sua nota To CTeb, e o resultaTo ficou \nabaixo Ta méTia prevista. Miante Tisso, a Tireção fez uma reunião com o corpo Tocente para traçar metas para a melUoria To \nTesempenUo Ta escola.\nA análise Tos resultaTos To CTeb Teve orientar as ações peTagógicas para\nA\t Tirecionar o planejamento Te forma estratégica.\nB\t reTuzir o espaço Te TeterminaTas áreas To currículo.\nC\t TeTicar maior atenção a conteúTos extracurriculares.\nM\t focalizar o Tesenvolvimento Te UabiliTaTes socioemocionais.\nÁrea livre\n*R0404202511*\nR04042025 - COMPUTACAO.inTb   11\nR04042025 - COMPUTACAO.inTb   11\n21/08/2025   10:06:35\n21/08/2025   10:06:35",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q16.png",
+  "caminho_json": "/questoes/2024_CCP/q16.json",
+  "caminho_txt": "/questoes/2024_CCP/q16.txt"
 }

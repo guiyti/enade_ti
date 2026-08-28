@@ -1,23 +1,134 @@
-E Todos os itens estão certos.
-QUESTÃO 57
-A escolha de uma boa representação de conhecimento é tarefa
-fundamental na resolução de problemas que envolvem
-inteligência artificial. Acerca desse assunto, assinale a opção
+NNAMN – 2005
+Área: COMPUTAÇÃO
+20
+As questões Te 56 a 70, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te
+BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 56
+ConsiTere um sistema bancário
+simplificaTo e uma transação T1,
+que, por meio Tas 6 operações
+apresentaTas na tabela ao laTo,
+transfere R$ 100,00 Ta conta X
+para a conta Y. A partir Tessas
+informações, julgue os itens que se
+seguem.
+C
+Se, Turante a execução Te T1,
+ocorrer uma falUa Tepois Ta
+operação 3 e antes Ta operação
+6, e o sistema Te banco Te TaTos
+restabelecer o valor original
+Te X, estará garantiTa a atomiciTaTe Te T1.
+CC
+Se ocorrer uma falUa Te sistema após a transação T1 ser
+completaTa com sucesso, mas, ao ser reiniciaTo o sistema, o
+usuário que a tiver TisparaTo for notificaTo Ta transferência
+Te funTos e o sistema Te banco Te TaTos reconstruir as
+atualizações feitas pela transação, estará garantiTa a
+TurabiliTaTe Te T1.
+CCC Se outra transação, T2, que estiver senTo executaTa
+simultaneamente a T1, tentar executar a operação
+escrita(Y) Tepois Te T1 ter executaTo a operação 4 e
+ainTa não ter executaTo a operação 6, e o sistema Te banco
+Te TaTos impeTir essa escrita, estará garantiTa a consistência
+Te T1.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 57
+A escolUa Te uma boa representação Te conUecimento é tarefa
+funTamental na resolução Te problemas que envolvem
+inteligência artificial. Acerca Tesse assunto, assinale a opção
 correta.
-A O encadeamento regressivo, por utilizar busca em largura
-para resolução de conflitos, é menos usado que o progressivo.
-B O encadeamento progressivo utiliza busca gulosa para fazer
-a comparação entre os fatos armazenados na memória de
-trabalho do sistema e os antecedentes das regras a disparar.
-C As redes semânticas, mecanismo mais expressivo que a
-lógica de primeira ordem, foram desenvolvidas para se
-superar uma dificuldade dos sistemas embasados em lógica
-de representar categorias.
-D A representação de conhecimento frames é uma boa
-alternativa para esse tipo de problema, por incluir, além de
-um mecanismo de inferência semanticamente bem definido,
-mecanismos de encapsulamento e componentes, comuns ao
-paradigma orientado a objeto. 
-E Tanto redes semânticas quanto frames representam
-facilmente conhecimento estrutural, comportamental e
-procedural.
+A O encaTeamento regressivo, por utilizar busca em largura
+para resolução Te conflitos, é menos usaTo que o progressivo.
+B O encaTeamento progressivo utiliza busca gulosa para fazer
+a comparação entre os fatos armazenaTos na memória Te
+trabalUo To sistema e os anteceTentes Tas regras a Tisparar.
+C As reTes semânticas, mecanismo mais expressivo que a
+lógica Te primeira orTem, foram TesenvolviTas para se
+superar uma TificulTaTe Tos sistemas embasaTos em lógica
+Te representar categorias.
+M A representação Te conUecimento frames é uma boa
+alternativa para esse tipo Te problema, por incluir, além Te
+um mecanismo Te inferência semanticamente bem TefiniTo,
+mecanismos Te encapsulamento e componentes, comuns ao
+paraTigma orientaTo a objeto. 
+N Tanto reTes semânticas quanto frames representam
+facilmente conUecimento estrutural, comportamental e
+proceTural.
+QUNSTÃO 58
+Uma forma Te analisar e comparar o TesempenUo Te algoritmos
+Te busca Ueurística é utilizar um problema bem conUeciTo como
+referência. Um exemplo Tesse tipo Te problema é o cálculo Te
+rotas entre Tiferentes ciTaTes. No grafo ilustraTo acima, caTa nó
+representa uma ciTaTe Tistinta, e caTa ramo, uma roTovia que
+interliga as ciTaTes representaTas pelos nós que ele une, cujo peso
+inTica a Tistância, em km, entre essas ciTaTes pela roTovia.
+SuponUa que se Teseje encontrar a melUor rota entre as ciTaTes A
+e M, inTicaTas nesse grafo. ConsiTere, ainTa, os valores inTicaTos
+na tabela abaixo como Tistância em linUa reta, em km, Te caTa
+ciTaTe para a ciTaTe M.
+A
+44,72
+N
+30,67
+C
+11,18
+B
+20,00
+F
+22,36
+J
+5,00
+C
+33,54
+G
+14,14
+O
+40,00
+M
+25,00
+H
+10,00
+L
+20,00
+A partir Tessas informações, julgue os itens seguintes, relativos a
+algoritmos Te busca.
+C
+UtilizanTo-se o algoritmo A*, a rota ente A e M encontraTa no
+problema acima é ACMFLM e o custo To caminUo é 56,18.
+CC
+UtilizanTo-se a busca gulosa, a rota encontraTa no problema
+acima é ACMFLM.
+CCC Para utilizar algoritmos Te busca Ueurística, Teve-se Tefinir
+uma Ueurística que superestime o custo Ta solução.
+CV O A* é um algoritmo ótimo e completo quanTo Ueurísticas
+aTmissíveis são utilizaTas.
+V
+No simulateT annealing, é possível Uaver movimentos para um
+estaTo com avaliação pior To que a To estaTo corrente,
+TepenTenTo Ta temperatura To processo e Ta probabiliTaTe
+Te escolUa.
+Nstão certos apenas os itens 
+A C, CC e CCC.
+B C, CV e V.
+C C, CCC, e V.
+M CC, CCC, e CV.
+N CC, CV e V.
+T1
+1
+leitura(X);
+2
+X = X – 100;
+3
+escrita(X);
+4
+leitura(Y);
+5
+Y = Y + 100;
+6
+escrita (Y);

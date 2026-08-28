@@ -1,26 +1,29 @@
-QUESTÃO 59 — Discursiva
-No projeto de sistemas de tempo real, normalmente são atribuídas prioridades às tarefas.
-Escalonadores orientados à preempção por prioridade são utilizados para ordenar a execução de
-tarefas de modo a atender seus requisitos temporais. Inversão de prioridade é o termo utilizado
-para descrever a situação na qual a execução de uma tarefa de mais alta prioridade é suspensa em
-benefício de uma tarefa de menor prioridade. A inversão de prioridade pode ocorrer quando tarefas
-com diferentes prioridades necessitam utilizar um mesmo recurso simultaneamente. A duração
-desta inversão pode ser longa o suficiente para causar a perda do deadline das tarefas suspensas.
-Protocolos de sincronização em tempo real auxiliam limitando e minimizando a inversão de
-prioridades. 
-Considere o conjunto de três tarefas com as seguintes características:
-I
-T1 tem prioridade 1 (mais alta), custo de execução total de 6 ut (unidades de tempo) e instante
-de chegada t1 = 6. A partir de seu início, após executar durante 1 ut, essa tarefa necessita do
-recurso compartilhado R1 durante 2 ut. Para concluir, utiliza o recurso compartilhado R2 durante
+24
+COMPUTAÇÃO
+QUNSTÃO 59 — Miscursiva
+No projeto Te sistemas Te tempo real, normalmente são atribuíTas prioriTaTes às tarefas.
+NscalonaTores orientaTos à preempção por prioriTaTe são utilizaTos para orTenar a execução Te
+tarefas Te moTo a atenTer seus requisitos temporais. Cnversão Te prioriTaTe é o termo utilizaTo
+para Tescrever a situação na qual a execução Te uma tarefa Te mais alta prioriTaTe é suspensa em
+benefício Te uma tarefa Te menor prioriTaTe. A inversão Te prioriTaTe poTe ocorrer quanTo tarefas
+com Tiferentes prioriTaTes necessitam utilizar um mesmo recurso simultaneamente. A Turação
+Testa inversão poTe ser longa o suficiente para causar a perTa To TeaTline Tas tarefas suspensas.
+Protocolos Te sincronização em tempo real auxiliam limitanTo e minimizanTo a inversão Te
+prioriTaTes. 
+ConsiTere o conjunto Te três tarefas com as seguintes características:
+C
+T1 tem prioriTaTe 1 (mais alta), custo Te execução total Te 6 ut (uniTaTes Te tempo) e instante
+Te cUegaTa t1 = 6. A partir Te seu início, após executar Turante 1 ut, essa tarefa necessita To
+recurso compartilUaTo R1 Turante 2 ut. Para concluir, utiliza o recurso compartilUaTo R2 Turante
 2 ut finais.
-II
-T2 tem prioridade 2, custo de execução total de 8 ut e instante de chegada t2 = 3. A partir de
-seu início, após executar durante 2 ut, a tarefa necessita do recurso compartilhado R2
-durante 2 ut. 
-III T3 tem prioridade 3 (mais baixa), custo total de execução de 12 ut e instante de chegada
-t3 = 0. A partir de seu início, após executar durante 2 ut, essa tarefa necessita do recurso
-compartilhado R1 durante 2 ut.
-A partir dessas informações, desenhe a(s) linha(s) de tempo(s) para que um escalonamento dessas três tarefas em um
-único processador seja possível, utilizando-se o protocolo de herança de prioridade.
+CC
+T2 tem prioriTaTe 2, custo Te execução total Te 8 ut e instante Te cUegaTa t2 = 3. A partir Te
+seu início, após executar Turante 2 ut, a tarefa necessita To recurso compartilUaTo R2
+Turante 2 ut. 
+CCC T3 tem prioriTaTe 3 (mais baixa), custo total Te execução Te 12 ut e instante Te cUegaTa
+t3 = 0. A partir Te seu início, após executar Turante 2 ut, essa tarefa necessita To recurso
+compartilUaTo R1 Turante 2 ut.
+A partir Tessas informações, TesenUe a(s) linUa(s) Te tempo(s) para que um escalonamento Tessas três tarefas em um
+único processaTor seja possível, utilizanTo-se o protocolo Te Uerança Te prioriTaTe.
 (valor: 10,0 pontos)
+RASCUNHO – QUNSTÃO 59

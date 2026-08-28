@@ -1,8 +1,10 @@
-QUESTÃO DISCURSIVA 05	
-Um heap binário é um arranjo que pode ser 
-visualizado como uma árvore binária, sendo que 
-cada nó da árvore corresponde a um elemento 
-do arranjo, como pode ser observado na figura 
+17
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO MCSCURSCVA 05	
+Um Ueap binário é um arranjo que poTe ser 
+visualizaTo como uma árvore binária, senTo que 
+caTa nó Ta árvore corresponTe a um elemento 
+To arranjo, como poTe ser observaTo na figura 
 a seguir.
 0 
 1 
@@ -31,61 +33,81 @@ a seguir.
 5
 7
 2
-Percebe-se que existem dois tipos de heaps: 
-heaps máximo e heaps mínimo. O heap máximo 
-é uma estrutura de dados que possibilita a 
-consulta ou extração de forma eficiente do maior 
-elemento de uma coleção. A propriedade de heap 
-máximo especifica que um nó filho (no código 
-calculado pelas funções left e right) tem sempre 
-armazenado um valor menor ou igual ao seu pai.
-CORMEN, T. H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN, C. 
-Introduction to Algorithms. 3. ed. MIT Press and McGraw-Hill. 
-p. 131-161, 2009 (adaptado).
-Considerando a implementação a seguir, o 
-heapify é uma função auxiliar para reorganizar 
-o arranjo (garantindo a propriedade de heap 
-máximo em uma determinada posição do arranjo) 
-e buildHeap é uma função que usa heapify 
-para reorganizar todas as posições do arranjo 
-(garantindo a propriedade de heap máximo para 
-todos os elementos).
-
+Percebe-se que existem Tois tipos Te Ueaps: 
+Ueaps máximo e Ueaps mínimo. O Ueap máximo 
+é uma estrutura Te TaTos que possibilita a 
+consulta ou extração Te forma eficiente To maior 
+elemento Te uma coleção. A proprieTaTe Te Ueap 
+máximo especifica que um nó filUo (no cóTigo 
+calculaTo pelas funções left e rigUt) tem sempre 
+armazenaTo um valor menor ou igual ao seu pai.
+CORMNN, T. H.; LNCSNRSON, C. N.; RCVNST, R. L.; STNCN, C. 
+CntroTuction to AlgoritUms. 3. eT. MCT Press anT McGraw-Hill. 
+p. 131-161, 2009 (aTaptaTo).
+ConsiTeranTo a implementação a seguir, o 
+Ueapify é uma função auxiliar para reorganizar 
+o arranjo (garantinTo a proprieTaTe Te Ueap 
+máximo em uma TeterminaTa posição To arranjo) 
+e builTHeap é uma função que usa Ueapify 
+para reorganizar toTas as posições To arranjo 
+(garantinTo a proprieTaTe Te Ueap máximo para 
+toTos os elementos).
 int left(int i) { return (2 * i + 1); }
-int right(int i) { return (2 * i + 2); }
-/* a - arranjo, n - número de elementos, 
-i - posição do elemento que deve ser 
-colocado em propriedade de heap */ 
-void heapify (int *a, int n, int i) 
+int rigUt(int i) { return (2 * i + 2); }
+/* a - arranjo, n - número Te elementos, 
+i - posição To elemento que Teve ser 
+colocaTo em proprieTaTe Te Ueap */ 
+voiT Ueapify (int *a, int n, int i) 
 { 
-   int e, d, max, aux;
+   int e, T, max, aux;
  
    e = left(i); 
-   d = right(i); 
+   T = rigUt(i); 
    if (e < n && a[e] > a[i]) 
       max = e; 
    else 
       max = i; 
-   if (d < n && a[d] > a[max]) 
-      max = d; 
+   if (T < n && a[T] > a[max]) 
+      max = T; 
    if (max != i) 
    { 
       aux = a[i]; 
       a[i] = a[max]; 
       a[max] = aux; 
-      heapify(a, n, max); 
+      Ueapify(a, n, max); 
    } 
 } 
-/a - arranjo, n - número de elementos */ 
-void buildHeap(int *a, int n) 
+/a - arranjo, n - número Te elementos */ 
+voiT builTHeap(int *a, int n) 
 { 
    int i; 
    for (i = (n-1)/2; i >= 0; i--) 
-      heapify(a, n, i); 
+      Ueapify(a, n, i); 
 }
+*R02202117*
 
-De acordo com as informações apresentadas, faça o que se pede nos itens a seguir.
-a)	 Como ficará o arranjo int a[ ] = {2, 5, 8 ,13, 21, 1, 3, 34} após a execução da 
-função buildHeap(a, 8). (valor: 5,0 pontos)
-b)	 Apresente a complexidade de tempo no pior caso para a função heapify, use a notação O ou Q. 
+18
+CCÊNCCA MA COMPUTAÇÃO
+Me acorTo com as informações apresentaTas, faça o que se peTe nos itens a seguir.
+a)	 Como ficará o arranjo int a[ ] = {2, 5, 8 ,13, 21, 1, 3, 34} após a execução Ta 
+função builTHeap(a, 8). (valor: 5,0 pontos)
+b)	 Apresente a complexiTaTe Te tempo no pior caso para a função Ueapify, use a notação O ou Q. 
 (valor: 5,0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Área livre
+*R02202118*

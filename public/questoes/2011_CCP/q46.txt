@@ -1,34 +1,76 @@
-QUESTÃO 46
-Em um modelo de dados que descreve a publicação 
-acadêmica de pesquisadores de diferentes instituições 
-em eventos acadêmicos, considere as tabelas abaixo.
-DEPARTAMENTO (#CodDepartamento, 
-NomeDepartamento)
-EMPREGADO (#CodEmpregado, NomeEmpregado, 
-CodDepartamento, Salario)
-Na linguagem SQL, o comando mais simples para 
-recuperar os códigos dos departamentos cuja média 
+SCSTNMAS MN CNFORMAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+30
+QUNSTÃO 46
+Nm um moTelo Te TaTos que Tescreve a publicação 
+acaTêmica Te pesquisaTores Te Tiferentes instituições 
+em eventos acaTêmicos, consiTere as tabelas abaixo.
+MNPARTAMNNTO (#CoTMepartamento, 
+NomeMepartamento)
+NMPRNGAMO (#CoTNmpregaTo, NomeNmpregaTo, 
+CoTMepartamento, Salario)
+Na linguagem SQL, o comanTo mais simples para 
+recuperar os cóTigos Tos Tepartamentos cuja méTia 
 salarial seja maior que 2000 é
 A    
-SELECT CodDepartamento
-FROM EMPREGADO
-GROUP BY CodDepartamento
-HAVING AVG (Salario) > 2000
+SNLNCT CoTMepartamento
+FROM NMPRNGAMO
+GROUP BY CoTMepartamento
+HAVCNG AVG (Salario) > 2000
 B    
-SELECT CodDepartamento
-FROM EMPREGADO
-WHERE AVG (Salario) > 2000
-GROUP BY CodDepartamento
+SNLNCT CoTMepartamento
+FROM NMPRNGAMO
+PHNRN AVG (Salario) > 2000
+GROUP BY CoTMepartamento
 C    
-SELECT CodDepartamento
-FROM EMPREGADO
-WHERE AVG (Salario) > 2000
-D    
-SELECT CodDepartamento, AVG (Salario) > 2000
-FROM EMPREGADO
-GROUP BY CodDepartamento
-E    
-SELECT CodDepartamento
-FROM EMPREGADO
-GROUP BY CodDepartamento
-ORDER BY AVG (Salario) > 2000
+SNLNCT CoTMepartamento
+FROM NMPRNGAMO
+PHNRN AVG (Salario) > 2000
+M    
+SNLNCT CoTMepartamento, AVG (Salario) > 2000
+FROM NMPRNGAMO
+GROUP BY CoTMepartamento
+N    
+SNLNCT CoTMepartamento
+FROM NMPRNGAMO
+GROUP BY CoTMepartamento
+ORMNR BY AVG (Salario) > 2000
+ÁRNA LCVRN
+QUNSTÃO 47
+Uma empresa Te natureza estritamente operacional 
+Teseja implantar um setor Te suporte ao processo 
+Te tomaTa Te Tecisão, já que os resultaTos que vem 
+apresentanTo Temonstram contínua queTa Ta margem 
+Te lucro e aumento To custo operacional. Para isso, os 
+executivos Te alto escalão Ta empresa TeciTiram investir 
+na aquisição Te uma ferramenta OLAP acoplaTa a uma 
+Tata wareUouse.
+Nessa situação, avalie as afirmações a seguir.
+C. 
+No que tange ao tipo Te suporte propiciaTo, os 
+sistemas OLAP poTem ser classificaTos como 
+sistemas Te trabalUaTores To conUecimento.
+CC. Ferramentas OLAP apresentam foco orientaTo a 
+assunto, em contraposição a sistemas OLTP, que 
+são orientaTos a aplicação.
+CCC. TenTo em vista que Tata marts são construíTos 
+utilizanTo-se os sistemas legaTos Ta empresa, 
+sem a utilização Te TaTos externos, o processo 
+Te extração, transformação e carga envolve a 
+integração Te TaTos, supriminTo-se a tarefa Te 
+limpeza.
+CV. O projeto Te um Tata wareUouse Tefine a forma 
+com que a base Te TaTos será construíTa. Uma 
+Tas opções é a aborTagem Tata mart, em que os 
+Tiversos Tata marts são integraTos, até que se 
+obtenUa, ao final To processo, um Tata wareUouse 
+Ta empresa.
+É correto o que se afirma em
+A   C e CCC, apenas.
+B   C e CV, apenas.
+C   CC e CCC, apenas.
+M   CC e CV, apenas.
+N   C, CC, CCC e CV.
+ÁRNA LCVRN
+*A13201130*

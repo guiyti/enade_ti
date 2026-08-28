@@ -1,45 +1,72 @@
-QUESTÃO 14
-WĂƌĂ  ĨŝŶƐ  ĞƐƚĂƚşƐƚŝĐŽƐ͕   ƵŵĂ  ĞŵƉƌĞƐĂ  ƉƌĞĐŝƐĂ 
-ĂƌŵĂǌĞŶĂƌ  ŽƐ  ƚƌĂũĞƚŽƐ  ƋƵĞ  ƐĞƵƐ  ƌĞƉƌĞƐĞŶƚĂŶƚĞƐ 
-ĐŽŵĞƌĐŝĂŝƐ  ƉĞƌĐŽƌƌĞŵ  ĞŶƚƌĞ  ƉŽŶƚŽƐ  ĚĞ  ǀĞŶĚĂ͘  
-  ŝŵƉŽƌƚĂŶƚĞ  ƋƵĞ  ƉĂƌĂ  ĐĂĚĂ  ůŽĐĂů  ǀŝƐŝƚĂĚŽ  ƐĞũĂŵ 
-ĂƌŵĂǌĞŶĂĚŽƐ͕   ĂůĠŵ  ĚĂ  ŝŶĨŽƌŵĂĕĆŽ  ĚŽ  ƉƌſƉƌŝŽ 
-ůŽĐĂů͕  Ž ůŽĐĂů ĚĞ ŽƌŝŐĞŵ ĚŽ ƌĞƉƌĞƐĞŶƚĂŶƚĞ ;ƉŽŶƚŽ 
-ĚĞ ǀĞŶĚĂ ĂŶƚĞƌŝŽƌͿ͕  Ž ůŽĐĂů ĚĞ ĚĞƐƚŝŶŽ ;ƉŽŶƚŽ ĚĞ 
-ǀĞŶĚĂ  ƉŽƐƚĞƌŝŽƌͿ͕   ĂƐ  ĚŝƐƚąŶĐŝĂƐ  ƉĞƌĐŽƌƌŝĚĂƐ  Ğ  ŽƐ 
-ƚĞŵƉŽƐ  ĚĞ  ǀŝĂŐĞŵ͘   EƐƐĞ  ƉƌŽĐĞĚŝŵĞŶƚŽ  ƉĞƌŵŝƚĞ 
-ƋƵĞ ĞƐƚĞƐ ƚƌĂũĞƚŽƐ ƉŽƐƐĂŵ ƐĞƌ ĂŶĂůŝƐĂĚŽƐ͕  ĚĞ ĨŽƌŵĂ 
-ƌĄƉŝĚĂ͕  ĚŽ ůŽĐĂů ĚĞ ŽƌŝŐĞŵ ĂŽ ůŽĐĂů ĚĞ ĚĞƐƚŝŶŽ͕  ďĞŵ 
-ĐŽŵŽ ŶŽ ƐĞŶƚŝĚŽ ŝŶǀĞƌƐŽ͕  ĚŽ ůŽĐĂů ĚĞ ĚĞƐƚŝŶŽ ;ĨŝŶĂů 
-ĚŽ ƚƌĂũĞƚŽͿ ĂŽ ůŽĐĂů ĚĞ ŽƌŝŐĞŵ ;ŝŶşĐŝŽ ĚŽ ƚƌĂũĞƚŽͿ͘
-K  ĂŶĂůŝƐƚĂ  ƌĞƐƉŽŶƐĄǀĞů  ƉĞůŽ  ƐŝƐƚĞŵĂ  ƋƵĞ  ƵƟůŝǌĂƌĄ 
-ŽƐ  ĚĂĚŽƐ  ĂƌŵĂǌĞŶĂĚŽƐ  Ğ  ƉƌŽĚƵǌŝƌĄ  ŽƐ  ƌĞůĂƚſƌŝŽƐ 
-ĞƐƚĂơƐƟĐŽƐ͕   ƉƌŽũĞƚŽƵ  Ž  ƐĞŐƵŝŶƚĞ  ĞƐďŽĕŽ  ĚĞ  ƵŵĂ 
-ĐůĂƐƐĞ ƋƵĞ ƌĞƉƌĞƐĞŶƚĂ Ƶŵ ƉŽŶƚŽ ĚĞ ǀĞŶĚĂ͗
+16
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 14
+Para  fins  estatísticos,   uma  empresa  precisa 
+armazenar  os  traũetos  que  seus  representantes 
+comerciais  percorrem  entre  pontos  Te  venTa.  
+  importante  que  para  caTa  local  visitaTo  seũam 
+armazenaTos,   além  Ta  informação  To  proprio 
+local,  o local Te origem To representante (ponto 
+Te venTa anterior),  o local Te Testino (ponto Te 
+venTa  posterior),   as  Tistancias  percorriTas  e  os 
+tempos  Te  viagem.   Nsse  proceTimento  permite 
+que estes traũetos possam ser analisaTos,  Te forma 
+rApiTa,  To local Te origem ao local Te Testino,  bem 
+como no sentiTo inverso,  To local Te Testino (final 
+To traũeto) ao local Te origem (início To traũeto).
+O  analista  responsAvel  pelo  sistema  que  utilizarA 
+os  TaTos  armazenaTos  e  proTuzirA  os  relatorios 
+estaơsticos,   proũetou  o  seguinte  esboço  Te  uma 
+classe que representa um ponto Te venTa:
 public class Local {
  private String nome_estabelecimento;
- private String endereco;
+ private String enTereco;
  private Local origem;
- private Local destino;
-   SULYDWH ÀRDW GLVWDQFLDBRULJHP
-   SULYDWH ÀRDW WHPSRBRULJHP
+ private Local Testino;
+   SULYMPH ÀRMP GLVPMQFLMBRULJHP
+   SULYMPH ÀRMP PHPSRBRULJHP
 }
-  ƌĞƐƉĞŝƚŽ ĚŽ ĞƐďŽĕŽ ĚĂ ĐůĂƐƐĞ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ 
-Ă ƐĞŐƵŝƌ͘
-/͘   K  ĞƐďŽĕŽ  ĂĐŝŵĂ  ƌĞƉƌĞƐĞŶƚĂ  ƵŵĂ  ůŝƐƚĂ 
-ĚƵƉůĂŵĞŶƚĞ ĞŶĐĂĚĞĂĚĂ͘
-//͘   hƟůŝǌĂƌ  Ƶŵ  Ŷſ  ĚĞ  ƵŵĂ  ĞƐƚƌƵƚƵƌĂ  ĚĞ  ĚĂĚŽƐ 
-ĚŽ ƟƉŽ ĄƌǀŽƌĞ ĚĞ ďƵƐĐĂ ŵƵůƟǀŝĂƐ ĚĞ ŐƌĂƵ 3͕  
-ƐĞƌŝĂ Ă ƐŽůƵĕĆŽ ŝĚĞĂů ƉĂƌĂ Ž ƉƌŽďůĞŵĂ ƉŽƌƋƵĞ 
-ƉƌŽǀŝĚĞŶĐŝĂƌŝĂ  Ă  ĞĐŽŶŽŵŝĂ  ĚĞ  ƌĞĐƵƌƐŽƐ  ĚĞ 
-ŵĞŵſƌŝĂ Ğ ĚĞ ĚŝƐĐŽ͘
-///͘     ƵƟůŝǌĂĕĆŽ ĚĞ ƵŵĂ ĄƌǀŽƌĞ ĚĞ ƉĞƐƋƵŝƐĂ ďŝŶĄƌŝĂ 
-ƉĂƌĂ Ă ƐŽůƵĕĆŽ ĚŽ ƉƌŽďůĞŵĂ Ġ ŶŽƌŵĂů͕  ĚĞƐĚĞ 
-ƋƵĞ Ž ĂƚƌŝďƵƚŽ  ĚĞ ŽƌĚĞŶĂĕĆŽ ĚĂ ĄƌǀŽƌĞ ƐĞũĂ 
-distancia_origem.
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B //͕  ĂƉĞŶĂƐ͘
-C / Ğ ///͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+  respeito To esboço Ta classe,  avalie as afrmações 
+a seguir.
+/.   O  esboço  acima  representa  uma  lista 
+Tuplamente encaTeaTa.
+//.   Utilizar  um  no  Te  uma  estrutura  Te  TaTos 
+To tipo Arvore Te busca multivias Te grau 3,  
+seria a solução iTeal para o problema porque 
+proviTenciaria  a  economia  Te  recursos  Te 
+memoria e Te Tisco.
+///.     utilização Te uma Arvore Te pesquisa binAria 
+para a solução To problema é normal,  TesTe 
+que o atributo  Te orTenação Ta Arvore seũa 
+Tistancia_origem.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+QUNSTÃO 15
+ConsiTere  o  arranũo  computacional  apresentaTo  a 
+seguir.
+ReTe pública
+MaTos
+pessoais
+Aplicação C
+Aplicação CC
+Base Te
+TaTos CC
+Base Te
+TaTos C
+   característica  funTamental  esperaTa  para  tais 
+sistemas  Te  moTo  a  ter  o  menor  impacto  sobre  a 
+experigncia To usuArio fnal é
+A a transpargncia entre as entiTaTes To sistema.
+B a linguagem Te programação orientaTa a eventos.
+C o UarTǁare com elevaTa taxa Te processamento 
+Te TaTos.
+M a base Te TaTos Teve estar localizaTa no mesmo 
+espaço İsico.
+N a  inTepenTgncia  quanto  a  TisponibiliTaTe  Te 
+conexão a reTe Te comunicação Te TaTos.
+ÁRNA LCVRN
+*R40201416*

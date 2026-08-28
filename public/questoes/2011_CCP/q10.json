@@ -5,44 +5,17 @@
   "paginas": [
     9
   ],
-  "segmentos": [
-    {
-      "pagina": 9,
-      "x0": 293.28,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 478.83380126953125,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q10.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q10.txt",
   "largura": 1123,
   "altura": 1713,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 10\nEm determinado período letivo, cada estudante de um \ncurso universitário tem aulas com um de três professores, \nesses identifi cados pelas letras X, Y e Z. As quantidades \nde estudantes (homens e mulheres) que têm aulas com \ncada professor é apresentada na tabela de contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nEstudantes \nhomens\n45\n5\n32\nEstudantes \nmulheres\n67\n2\n4\nA partir do grupo de estudantes desse curso universitário, \nescolhe-se um estudante ao acaso. Qual é a probabilidade \nde que esse estudante seja mulher, dado que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nD    \n22\n112\nE    \n67\n112",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 10,
-      "tipo": "OBJETIVA",
-      "pagina": 9,
-      "x": 302.347900390625,
-      "y": 68.1739273071289,
-      "x1": 365.6979064941406,
-      "y1": 82.03392791748047,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 10"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209477"
+  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n9\nQUNSTÃO 9\nSeja A um conjunto e seja ~ uma relação entre pares Te \nelementos Te A.\nMiz-se que ~ é uma relação Te equivalência entre pares \nTe elementos Te A se as seguintes proprieTaTes são \nverifi caTas, para quaisquer elementos a, a’ e a’’ Te A:\n(i)    a ~ a;\n(ii)   se a ~ a’, então a’ ~ a;\n(iii)  se a ~ a’ e a’ ~ a’’, então a ~ a’’.\nUma classe Te equivalência To elemento a Te A com \nrespeito à relação ~ é o conjunto \nO conjunto quociente Te A pela relação Te \nequivalência ~ é o conjunto Te toTas as classes Te \nequivalência relativamente à relação ~, TefiniTo e \nTenotaTo como a seguir:\nA função \n  é cUamaTa projeção canônica e é \nTefi niTa como \nConsiTeranTo as Tefi nições acima, analise as afi rmações \na seguir.\nC. \nA relação Te equivalência ~ no conjunto A \nparticiona o conjunto A em subconjuntos Tisjuntos: \nas classes Te equivalência.\nCC. A união Tas classes Te equivalência Ta relação Te \nequivalência ~ no conjunto A resulta no conjunto \nTas partes Te A.\nCCC. As três relações seguintes\nsão relações Te equivalência no conjunto Tos \nnúmeros inteiros \n.\nCV. Qualquer relação Te equivalência no conjunto A é \nproveniente Te sua projeção canônica.\nÉ correto apenas o que se afi rma em\nA   CC.\nB   CCC.\nC   C e CCC.\nM   C e CV.\nN   CC e CV.\nQUNSTÃO 10\nNm TeterminaTo períoTo letivo, caTa estuTante Te um \ncurso universitário tem aulas com um Te três professores, \nesses iTentifi caTos pelas letras X, Y e Z. As quantiTaTes \nTe estuTantes (Uomens e mulUeres) que têm aulas com \ncaTa professor é apresentaTa na tabela Te contingência \nabaixo.\nProfessor X\nProfessor Y\nProfessor Z\nNstuTantes \nUomens\n45\n5\n32\nNstuTantes \nmulUeres\n67\n2\n4\nA partir To grupo Te estuTantes Tesse curso universitário, \nescolUe-se um estuTante ao acaso. Qual é a probabiliTaTe \nTe que esse estuTante seja mulUer, TaTo que ele tem \naulas apenas com o professor X?\nA    \n61\n73\nB    \n61\n155\nC    \n67\n155\nM    \n22\n112\nN    \n67\n112\nÁRNA LCVRN\n*A1320119*\nCOMPONNNTN NSPNCÍFCCO",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q10.png",
+  "caminho_json": "/questoes/2011_CCP/q10.json",
+  "caminho_txt": "/questoes/2011_CCP/q10.txt"
 }

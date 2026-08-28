@@ -6,52 +6,17 @@
     16,
     17
   ],
-  "segmentos": [
-    {
-      "pagina": 16,
-      "x0": 317.15999999999997,
-      "y0": 96.5428466796875,
-      "x1": 603.3199999999999,
-      "y1": 515.5079345703125,
-      "coluna": 2
-    },
-    {
-      "pagina": 17,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 311.15999999999997,
-      "y1": 100.5428466796875,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q15.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q15.txt",
   "largura": 1223,
   "altura": 1897,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 15\nIŽŶƐŝĚĞƌĞ  Ž  ĂƌƌĂŶũŽ  ĐŽŵƉƵƚĂĐŝŽŶĂů  ĂƉƌĞƐĞŶƚĂĚŽ  Ă \nƐĞŐƵŝƌ͘\nRede pública\nDados\npessoais\nAplicação I\nAplicação II\nBase de\ndados II\nBase de\ndados I\n   ĐĂƌĂĐƚĞƌşƐƟĐĂ  ĨƵŶĚĂŵĞŶƚĂů  ĞƐƉĞƌĂĚĂ  ƉĂƌĂ  ƚĂŝƐ \nƐŝƐƚĞŵĂƐ  ĚĞ  ŵŽĚŽ  Ă  ƚĞƌ  Ž  ŵĞŶŽƌ  ŝŵƉĂĐƚŽ  ƐŽďƌĞ  Ă \nĞǆƉĞƌŝġŶĐŝĂ ĚŽ ƵƐƵĄƌŝŽ ĮŶĂů Ġ\nA Ă ƚƌĂŶƐƉĂƌġŶĐŝĂ ĞŶƚƌĞ ĂƐ ĞŶƟĚĂĚĞƐ ĚŽ ƐŝƐƚĞŵĂ͘\nB Ă ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ ŽƌŝĞŶƚĂĚĂ Ă ĞǀĞŶƚŽƐ͘\nC Ž ŚĂƌĚǁĂƌĞ ĐŽŵ ĞůĞǀĂĚĂ ƚĂǆĂ ĚĞ ƉƌŽĐĞƐƐĂŵĞŶƚŽ \nĚĞ ĚĂĚŽƐ͘\nD Ă ďĂƐĞ ĚĞ ĚĂĚŽƐ ĚĞǀĞ ĞƐƚĂƌ ůŽĐĂůŝǌĂĚĂ ŶŽ ŵĞƐŵŽ \nĞƐƉĂĕŽ İƐŝĐŽ͘\nE Ă  ŝŶĚĞƉĞŶĚġŶĐŝĂ  ƋƵĂŶƚŽ  ă  ĚŝƐƉŽŶŝďŝůŝĚĂĚĞ  ĚĞ \nĐŽŶĞǆĆŽ ă ƌĞĚĞ ĚĞ ĐŽŵƵŶŝĐĂĕĆŽ ĚĞ ĚĂĚŽƐ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 15,
-      "tipo": "OBJETIVA",
-      "pagina": 16,
-      "x": 321.1419982910156,
-      "y": 108.5428466796875,
-      "x1": 383.5948181152344,
-      "y1": 120.5428466796875,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 15"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502139"
+  "texto_completo": "16\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 14\nPara  fins  estatísticos,   uma  empresa  precisa \narmazenar  os  traũetos  que  seus  representantes \ncomerciais  percorrem  entre  pontos  Te  venTa.  \n\u001e  importante  que  para  caTa  local  visitaTo  seũam \narmazenaTos,   além  Ta  informação  To  proprio \nlocal,  o local Te origem To representante (ponto \nTe venTa anterior),  o local Te Testino (ponto Te \nvenTa  posterior),   as  Tistancias  percorriTas  e  os \ntempos  Te  viagem.   Nsse  proceTimento  permite \nque estes traũetos possam ser analisaTos,  Te forma \nrApiTa,  To local Te origem ao local Te Testino,  bem \ncomo no sentiTo inverso,  To local Te Testino (final \nTo traũeto) ao local Te origem (início To traũeto).\nO  analista  responsAvel  pelo  sistema  que  utilizarA \nos  TaTos  armazenaTos  e  proTuzirA  os  relatorios \nestaơsticos,   proũetou  o  seguinte  esboço  Te  uma \nclasse que representa um ponto Te venTa:\npublic class Local {\n private String nome_estabelecimento;\n private String enTereco;\n private Local origem;\n private Local Testino;\n   SULYMPH ÀRMP GLVPMQFLMBRULJHP\u001e\n   SULYMPH ÀRMP PHPSRBRULJHP\u001e\n}\n  respeito To esboço Ta classe,  avalie as afrmações \na seguir.\n/.   O  esboço  acima  representa  uma  lista \nTuplamente encaTeaTa.\n//.   Utilizar  um  no  Te  uma  estrutura  Te  TaTos \nTo tipo Arvore Te busca multivias Te grau 3,  \nseria a solução iTeal para o problema porque \nproviTenciaria  a  economia  Te  recursos  Te \nmemoria e Te Tisco.\n///.     utilização Te uma Arvore Te pesquisa binAria \npara a solução To problema é normal,  TesTe \nque o atributo  Te orTenação Ta Arvore seũa \nTistancia_origem.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 15\nConsiTere  o  arranũo  computacional  apresentaTo  a \nseguir.\nReTe pública\nMaTos\npessoais\nAplicação C\nAplicação CC\nBase Te\nTaTos CC\nBase Te\nTaTos C\n   característica  funTamental  esperaTa  para  tais \nsistemas  Te  moTo  a  ter  o  menor  impacto  sobre  a \nexperigncia To usuArio fnal é\nA a transpargncia entre as entiTaTes To sistema.\nB a linguagem Te programação orientaTa a eventos.\nC o UarTǁare com elevaTa taxa Te processamento \nTe TaTos.\nM a base Te TaTos Teve estar localizaTa no mesmo \nespaço İsico.\nN a  inTepenTgncia  quanto  a  TisponibiliTaTe  Te \nconexão a reTe Te comunicação Te TaTos.\nÁRNA LCVRN\n*R40201416*\n\n17\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 16\nUma \nfunção \né \nTenominaTa \nrecursiva \nquanTo \nela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  \n/mplementações  recursivas  tenTem  a  ser  menos \nefcientes,   porém  facilitam  a  coTifcação  e  seu \nentenTimento.\nCN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te \nTaTos.  Zio Te :aneiro,  2004 (aTaptaTo).\nConsiTere a função recursiva f(),  a qual foi escrita \nem linguagem C:\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\nSuponUa  que  a  função  f()  é  acionaTa  com  os \nseguintes parametros Te entraTa:\nf({2,-4,7,0,-1,4},6);\nNesse caso,  o valor Te retorno Ta função f() serA\nA 8.\nB 10.\nC 13.\nM 15.\nN 18.\nÁRNA LCVRN\nQUNSTÃO 17\nCasos Te uso poTem ser organizaTos agrupanTo-os \nem pacotes To mesmo moTo como são organizaTas \nas  classes.   Também  poTem  ser  organizaTos  pela \nespecifcação Te relacionamentos Te generalização,  \ninclusão e extensão,  existentes entre eles.\nJACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo \nUsuário. 1 eT. Campus, 2006 (aTaptaTo).\nConsiTeranTo  os  relacionamentos  existentes  entre \nos casos Te uso,  avalie as afrmações a seguir.\n/.   Para casos Te uso,  a generalização signifca que \no caso Te uso flUo UerTa o comportamento e \no signifcaTo To caso Te uso pai e no caso Te \nuso flUo TeverA acrescentar ou sobrescrever \no comportamento Te seu pai.\n//.   Um relacionamento Te inclusão entre casos Te \nuso signifca que o caso Te uso base incorpora \nexplicitamente  o  comportamento  Te  outro \ncaso Te uso em uma localização especifcaTa.  \nO  caso  Te  uso  base  poTerA  permanecer \nisolaTo,   mas,   sob  certas  conTições,   seu \ncomportamento  poTerA  ser  incluíTo  pelo \ncomportamento Te outro caso Te uso.\n///.   Um relacionamento estenTiTo entre casos Te \nuso signifca que o caso Te uso base incorpora \nimplicitamente  o  comportamento  Te  outro \ncaso  Te  uso  em  um  local  especifcaTo \ninTiretamente  pelo  caso  Te  uso  estenTiTo.  \nO  caso  Te  uso  estenTiTo  nunca  permanece \nisolaTo,  mas é apenas instanciaTo como parte \nTe alguma base maior que o estenTe.\n/s.   Um  relacionamento  estenTiTo  é  utilizaTo \npara a moTelagem Ta parte Te um caso Te \nuso  que  o  usuArio  poTerA  consiTerar  como \num  comportamento  opcional  To  sistema  e \npara a moTelagem Te um subŇuxo separaTo,  \nque é executaTo somente sob TeterminaTas \nconTições.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nM /,  /// e /s.\nN //,  /// e /s.\n*R40201417*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q15.png",
+  "caminho_json": "/questoes/2014_ADS/q15.json",
+  "caminho_txt": "/questoes/2014_ADS/q15.txt"
 }

@@ -5,44 +5,17 @@
   "paginas": [
     13
   ],
-  "segmentos": [
-    {
-      "pagina": 13,
-      "x0": 25.0,
-      "y0": 600.88671875,
-      "x1": 294.59999999999997,
-      "y1": 779.6522827148438,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q27.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q27.txt",
   "largura": 1153,
   "altura": 775,
   "confianca": 0.98,
-  "texto_completo": "g\np\nQUESTÃO 27\nEm redes locais de computadores, o protocolo de controle \nacesso ao meio define um conjunto de regras que devem s\nadotadas pelos múltiplos dispositivos para compartilhar o me\nfísico de transmissão. No caso de uma rede Ethernet IEE\n802.3 conectada fisicamente a um concentrador (hub), em q\nabordagem se baseia o protocolo de controle de acesso \nmeio?\nA\nna passagem de permissão em anel\nB\nna ordenação com contenção\nC\nna ordenação sem contenção\nD\nna contenção com detecção de colisão\nE\nna arbitragem centralizada",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 27,
-      "tipo": "OBJETIVA",
-      "pagina": 13,
-      "x": 35.99909973144531,
-      "y": 612.88671875,
-      "x1": 105.36231231689453,
-      "y1": 623.9266967773438,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 27"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.026951"
+  "texto_completo": "12\nCOMPUTAÇÃO\nQUNSTÃO 26\nFigura C\nFigura CC\nAs figuras C e CC apresentam Tuas imagens, ambas com\nresolução Te 246 pixels × 300 pixels, senTo que a figura C\napresenta 256 níveis Te cinza e a figura CC, 4 níveis Te cinza.\nConsiTere que a imagem Ta figura C seja a original, tenTo siTo\nmanipulaTa em um único atributo para gerar a imagem Ta\nfigura CC. Nessa situação, em qual atributo se Tiferenciam as\nimagens C e CC acima?\nA\nresolução\nB\nquantização\nC\niluminação\nM\nescala\nN\namostragem espacial\nQUNSTÃO 27\nNm reTes locais Te computaTores, o protocolo Te controle Te\nacesso ao meio Tefine um conjunto Te regras que Tevem ser\naTotaTas pelos múltiplos Tispositivos para compartilUar o meio\nfísico Te transmissão. No caso Te uma reTe NtUernet CNNN\n802.3 conectaTa fisicamente a um concentraTor (Uub), em que\naborTagem se baseia o protocolo Te controle Te acesso ao\nmeio?\nA\nna passagem Te permissão em anel\nB\nna orTenação com contenção\nC\nna orTenação sem contenção\nM\nna contenção com Tetecção Te colisão\nN\nna arbitragem centralizaTa\nQUNSTÃO 28\nA figura acima mostra uma árvore Te Tecisão\nconstruíTa por um algoritmo Te aprenTizaTo inTutivo a\npartir Te um conjunto Te TaTos em que os objetos são\nTescritos por 4 atributos: X1, X2, X3 e X4. MaTo um\nobjeto Te classe TesconUeciTa, essa árvore classifica\no objeto na classe 1 ou na classe 2. A tabela a seguir\napresenta três objetos a serem classificaTos: O1, O2 e\nO3.\nObjeto\nX1\nX2\nX3\nX4\nO1\na\nP\n20\nnão\nO2\nb\nM\n21\nnão\nO3\nc\nM\n10\nsim\nA que classes corresponTeriam, respectivamente, os\nobjetos O1, O2 e O3?\nA 1, 1 e 2\nB 1, 2 e 1\nC 2, 1 e 2\nM 2, 2 e 1\nN 1, 1 e 1\nQUNSTÃO 29\nConsiTere a gramática G TefiniTa pelas\nregras Te proTução ao laTo, em que os\nsímbolos não-terminais são S, A e B, e os\nsímbolos terminais são a e b.\nCom relação a essa gramática, é correto afirmar que\nA\na gramática G é ambígua.\nB\na gramática G é uma gramática livre Te contexto.\nC\na caTeia aabbb é geraTa por essa gramática.\nM\né possível encontrar uma gramática regular\nequivalente a G.\nN\na gramática G gera a caTeia nula.\nQUNSTÃO 30\nNa comunicação sem fio, o espectro Te raTiofreqüência\naTotaTo é um recurso finito e apenas TeterminaTa\nbanTa Te freqüência está Tisponível para caTa serviço.\nMessa forma, torna-se crítico explorar técnicas Te\nmúltiplo acesso que permitam o compartilUamento Ta\nbanTa Te freqüência To serviço entre os usuários. Qual\nopção apresenta apenas técnicas Te múltiplo acesso\npara o compartilUamento Ta banTa Te freqüência\nalocaTa a um serviço?\nA\nBluetootU, PiFi e PiMax\nB\nCMMA, GSM, TMMA\nC\n3G, PAP e ZigBee\nM\nCMMA, FMMA e TMMA\nN\nCCMP, TOCP e PNP\nX1\nX2\nX4\nX3\n1\n1\n1\n1\n2\n2\n2\na\nb\nc\nP\nM\nG\nsim\nnão\n<=35\n>35\nS ÷ AB\nAB ÷ AAB\nA ÷ a\nB ÷ b",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q27.png",
+  "caminho_json": "/questoes/2008_CCP/q27.json",
+  "caminho_txt": "/questoes/2008_CCP/q27.txt"
 }

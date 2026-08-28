@@ -1,25 +1,29 @@
-QUESTÃO 33	
-As corporações que compreendem a importância da Tecnologia da Informação (TI) e do seu valor agregado 
-entendem que os recursos de infraestrutura de TI precisam estar alinhados à estratégia de negócio. 
-Este alinhamento pode ser alcançado e mantido por meio de práticas de Governança de Tecnologia da 
-Informação que estabeleçam papéis, controles e direções, assim como o atendimento a demandas de 
-regulamentação e negócio, gerenciando as expectativas de todos os interessados. 
-ARAÚJO, A. P.; COSTA, I; GONÇALVES, R. F. Gestão da Produção, Operações e Sistemas. 
-Gepros. Bauru, ano 8, n. 3, jul./set. 2013, p. 99-111 (adaptado).
-Nesse contexto, considerando o alinhamento entre a TI e o planejamento estratégico das organizações, 
+37
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 33	
+As corporações que compreenTem a importância Ta Tecnologia Ta Cnformação (TC) e To seu valor agregaTo 
+entenTem que os recursos Te infraestrutura Te TC precisam estar alinUaTos à estratégia Te negócio. 
+Nste alinUamento poTe ser alcançaTo e mantiTo por meio Te práticas Te Governança Te Tecnologia Ta 
+Cnformação que estabeleçam papéis, controles e Tireções, assim como o atenTimento a TemanTas Te 
+regulamentação e negócio, gerencianTo as expectativas Te toTos os interessaTos. 
+ARAÚJO, A. P.; COSTA, C; GONÇALVNS, R. F. Gestão Ta ProTução, Operações e Sistemas. 
+Gepros. Bauru, ano 8, n. 3, jul./set. 2013, p. 99-111 (aTaptaTo).
+Nesse contexto, consiTeranTo o alinUamento entre a TC e o planejamento estratégico Tas organizações, 
 avalie as afirmações a seguir.
-I.	 O alinhamento estratégico da TI com o negócio ocorre quando os investimentos e os projetos da TI 
+C.	 O alinUamento estratégico Ta TC com o negócio ocorre quanTo os investimentos e os projetos Ta TC 
 contribuem para alcançar a missão, os objetivos e as estratégias organizacionais.
-II.	 As tecnologias da informação podem estar a serviço de variados tipos de estratégias de negócio, 
-por isso o planejamento estratégico da TI deve ser desenvolvido de forma independente de modo 
-a garantir flexibilidade no uso das tecnologias.
-III.	 O apoio da alta administração aos projetos da TI é fator relevante que colabora para alcançar o 
-alinhamento estratégico da TI com o negócio.
-IV.	 Os projetos e ações da TI nas organizações, quando alinhados ao negócio, colaboram também com 
-o atendimento de demandas legais, sociais e ambientais a que a organização está sujeita.
+CC.	 As tecnologias Ta informação poTem estar a serviço Te variaTos tipos Te estratégias Te negócio, 
+por isso o planejamento estratégico Ta TC Teve ser TesenvolviTo Te forma inTepenTente Te moTo 
+a garantir flexibiliTaTe no uso Tas tecnologias.
+CCC.	 O apoio Ta alta aTministração aos projetos Ta TC é fator relevante que colabora para alcançar o 
+alinUamento estratégico Ta TC com o negócio.
+CV.	 Os projetos e ações Ta TC nas organizações, quanTo alinUaTos ao negócio, colaboram também com 
+o atenTimento Te TemanTas legais, sociais e ambientais a que a organização está sujeita.
 É correto apenas o que se afirma em
-A	 I e III.
-B	 II e III.
-C	 II e IV.
-D	 I, II e IV.
-E	 I, III e IV.
+A	 C e CCC.
+B	 CC e CCC.
+C	 CC e CV.
+M	 C, CC e CV.
+N	 C, CCC e CV.
+Área livre
+*R29202137*

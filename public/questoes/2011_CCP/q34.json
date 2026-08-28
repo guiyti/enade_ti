@@ -5,44 +5,17 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 273.4037170410156,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q34.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q34.txt",
   "largura": 2241,
   "altura": 857,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 34  \nNa escola em que João é professor, existe um laboratório de informática, que é utilizado para os estudantes trabalharem \nconteúdos em diferentes disciplinas. Considere que João quer utilizar o laboratório para favorecer o processo ensino-\naprendizagem, fazendo uso da abordagem da Pedagogia de Projetos. Nesse caso, seu planejamento deve \nA   ter como eixo temático uma problemática significativa para os estudantes, considerando as possibilidades \ntecnológicas existentes no laboratório.\nB   relacionar os conteúdos previamente instituídos no início do período letivo e os que estão no banco de dados \ndisponível nos computadores do laboratório de informática.\nC   definir os conteúdos a serem trabalhados, utilizando a relação dos temas instituídos no Projeto Pedagógico da \nescola e o banco de dados disponível nos computadores do laboratório.\nD   listar os conteúdos que deverão ser ministrados durante o semestre, considerando a sequência apresentada no \nlivro didático e os programas disponíveis nos computadores do laboratório.\nE   propor o estudo dos projetos que foram desenvolvidos pelo governo quanto ao uso de laboratórios de informática, \nrelacionando o que consta no livro didático com as tecnologias existentes no laboratório.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 34,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 103.25318908691406,
-      "y1": 82.03392791748047,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 34"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209588"
+  "texto_completo": "LCCNNCCATURA\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n23\nQUNSTÃO 34  \nNa escola em que João é professor, existe um laboratório Te informática, que é utilizaTo para os estuTantes trabalUarem \nconteúTos em Tiferentes Tisciplinas. ConsiTere que João quer utilizar o laboratório para favorecer o processo ensino-\naprenTizagem, fazenTo uso Ta aborTagem Ta PeTagogia Te Projetos. Nesse caso, seu planejamento Teve \nA   ter como eixo temático uma problemática significativa para os estuTantes, consiTeranTo as possibiliTaTes \ntecnológicas existentes no laboratório.\nB   relacionar os conteúTos previamente instituíTos no início To períoTo letivo e os que estão no banco Te TaTos \nTisponível nos computaTores To laboratório Te informática.\nC   Tefinir os conteúTos a serem trabalUaTos, utilizanTo a relação Tos temas instituíTos no Projeto PeTagógico Ta \nescola e o banco Te TaTos Tisponível nos computaTores To laboratório.\nM   listar os conteúTos que Teverão ser ministraTos Turante o semestre, consiTeranTo a sequência apresentaTa no \nlivro TiTático e os programas Tisponíveis nos computaTores To laboratório.\nN   propor o estuTo Tos projetos que foram TesenvolviTos pelo governo quanto ao uso Te laboratórios Te informática, \nrelacionanTo o que consta no livro TiTático com as tecnologias existentes no laboratório.\nQUNSTÃO 35  \nQUCNO. ToTa a MafalTa. TraT. AnTréa StaUel M. Ta Silva et al. São Paulo: Martins Fontes, 1993, p. 71.\nMuitas vezes, os próprios eTucaTores, por incrível que pareça, também vítimas Te uma formação alienante, não \nsabem o porquê Taquilo que Tão, não sabem o significaTo Taquilo que ensinam e quanTo interrogaTos Tão respostas \nevasivas: “é pré-requisito para as séries seguintes”, “cai no vestibular”, “Uoje você não entenTe, mas Taqui a Tez anos \nvai entenTer”. Muitos alunos acabam acreTitanTo que aquilo que se aprenTe na escola não é para entenTer mesmo, \nque só entenTerão quanTo forem aTultos, ou seja, acabam se conformanTo com o ensino TesproviTo Te sentiTo. \nVASCONCNLLOS, C. S. Construção To conUecimento em sala Te aula. 13ª eT. São Paulo: LibertaT, 2002, p. 27-8. \nCorrelacionanTo a tirinUa Te MafalTa e o texto Te Vasconcellos, avalie as afirmações a seguir.\nC. \nO processo Te conUecimento Teve ser refletiTo e encaminUaTo a partir Ta perspectiva Te uma prática social.\nCC. Saber qual conUecimento Teve ser ensinaTo nas escolas continua senTo uma questão nuclear para o processo \npeTagógico. \nCCC. O processo Te conUecimento Teve possibilitar compreenTer, usufruir e transformar a realiTaTe.\nCV. A escola Teve ensinar os conteúTos previstos na matriz curricular, mesmo que sejam TesproviTos Te significaTo \ne sentiTo para professores e alunos.\nV. Os projetos curriculares Tevem TesconsiTerar a influência To currículo oculto que ocorre na escola com caráter \ninformal e sem planejamento.\nÉ correto apenas o que se afirma em\nA   C e CCC. \n \nB   C e CV. \n \nC   CC e CV. \n \nM   C, CC e CCC. \n \nN   CC, CCC e CV. \n*A13201123*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q34.png",
+  "caminho_json": "/questoes/2011_CCP/q34.json",
+  "caminho_txt": "/questoes/2011_CCP/q34.txt"
 }

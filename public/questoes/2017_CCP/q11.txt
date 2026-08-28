@@ -1,33 +1,83 @@
-QUESTÃO 11
-K 
-ĞŶĐĂƉƐƵůĂŵĞŶƚŽ 
-Ġ 
-Ƶŵ 
-ŵĞĐĂŶŝƐŵŽ 
-ĚĂ 
-ƉƌŽŐƌĂŵĂĕĆŽ  ŽƌŝĞŶƚĂĚĂ  Ă  ŽďũĞƚŽƐ  ŶŽ  ƋƵĂů  ŽƐ 
-ŵĞŵďƌŽƐ  ĚĞ  ƵŵĂ  ĐůĂƐƐĞ  ;ĂƚƌŝďƵƚŽƐ  Ğ  ŵĠƚŽĚŽƐͿ 
-ĐŽŶƐƟƚƵĞŵ  ƵŵĂ  ĐĂŝǆĂ  ƉƌĞƚĂ͘   K  ŶşǀĞů  ĚĞ 
-ǀŝƐŝďŝůŝĚĂĚĞ ĚŽƐ ŵĞŵďƌŽƐ ƉŽĚĞ ƐĞƌ ĚĞĮŶŝĚŽ ƉĞůŽƐ 
-ŵŽĚŝĮĐĂĚŽƌĞƐ ĚĞ ǀŝƐŝďŝůŝĚĂĚĞ ΗƉƌŝǀĂĚŽΗ͕  ΗƉƷďůŝĐŽΗ 
-Ğ ΗƉƌŽƚĞŐŝĚŽΗ͘
-IŽŵ  ƌĞůĂĕĆŽ  ĂŽ  ĐŽŵƉŽƌƚĂŵĞŶƚŽ  ŐĞƌĂĚŽ  ƉĞůŽƐ 
-ŵŽĚŝĮĐĂĚŽƌĞƐ  ĚĞ  ǀŝƐŝďŝůŝĚĂĚĞ͕   ĂƐƐŝŶĂůĞ  Ă  ŽƉĕĆŽ 
-ĐŽƌƌĞƚĂ͘
-A hŵ  ĂƚƌŝďƵƚŽ  ƉƌŝǀĂĚŽ  ƉŽĚĞ  ƐĞƌ  ĂĐĞƐƐĂĚŽ 
-ƉĞůŽƐ  ŵĠƚŽĚŽƐ  ƉƌŝǀĂĚŽƐ  ĚĂ  ƉƌſƉƌŝĂ  ĐůĂƐƐĞ  Ğ 
-ƉĞůŽƐ  ŵĠƚŽĚŽƐ  ƉƌŽƚĞŐŝĚŽƐ  ĚĂƐ  ƐƵĂƐ  ĐůĂƐƐĞƐ 
-ĚĞƐĐĞŶĚĞŶƚĞƐ͘
-B hŵ  ĂƚƌŝďƵƚŽ  ƉƌŝǀĂĚŽ  ƉŽĚĞ  ƐĞƌ  ĂĐĞƐƐĂĚŽ 
-ƉĞůŽƐ  ŵĠƚŽĚŽƐ  ƉƷďůŝĐŽƐ  ĚĂ  ƉƌſƉƌŝĂ  ĐůĂƐƐĞ 
-Ğ  ƉĞůŽƐ  ŵĠƚŽĚŽƐ  ƉƷďůŝĐŽƐ  ĚĂƐ  ƐƵĂƐ  ĐůĂƐƐĞƐ 
-ĚĞƐĐĞŶĚĞŶƚĞƐ͘
-C hŵ ŵĞŵďƌŽ ƉƷďůŝĐŽ Ġ ǀŝƐşǀĞů ŶĂ ĐůĂƐƐĞ ă ƋƵĂů 
-ĞůĞ ƉĞƌƚĞŶĐĞ͕  ŵĂƐ ŶĆŽ Ġ ǀŝƐşǀĞů ŶĂƐ ƐƵĂƐ ĐůĂƐƐĞƐ 
-ĚĞƐĐĞŶĚĞŶƚĞƐ͘
-D hŵ  ŵĠƚŽĚŽ  ƉƌŽƚĞŐŝĚŽ  ŶĆŽ  ƉŽĚĞ  ĂĐĞƐƐĂƌ  ŽƐ 
-ĂƚƌŝďƵƚŽƐ  ƉƌŝǀĂĚŽƐ  Ğ  ĚĞĐůĂƌĂĚŽƐ  ŶĂ  ƉƌſƉƌŝĂ 
-ĐůĂƐƐĞ͘
-E  hŵ ŵĞŵďƌŽ ƉƌŽƚĞŐŝĚŽ Ġ ǀŝƐşǀĞů ŶĂ ĐůĂƐƐĞ ă ƋƵĂů 
-ƉĞƌƚĞŶĐĞ Ğ Ğŵ ƐƵĂƐ ĐůĂƐƐĞƐ ĚĞƐĐĞŶĚĞŶƚĞƐ͘
-ƌĞĂ ůŝǀƌĞ
+CCÊNCCA MA COMPUTAÇÃO
+17
+QUNSTÃO 10
+ConsiTere 
+os 
+seguintes 
+requisitos 
+para 
+Tesenvolvimento  Te  uma  solução  para  uma  reTe 
+Te restaurantes fast-fooT:
+YuanTo o status Te um peTiTo é atualizaTo,  toTos 
+os  Tispositivos  Tos  envolviTos  Tevem  receber 
+a  informação.   Os  sistemas  a  ser  atualizaTos 
+incluem os acessaTos pelo entregaTor,  pela linUa 
+Te  proTução  e  pela  central  Te  atenTimento.  
+Nspera-se ainTa que outros sistemas possam ser 
+incluíTos futuramente (por exemplo,  sistema Te 
+peTiTo on-line To cliente),  TevenTo se comportar 
+Ta mesma forma.
+ConsiTeranTo esse contexto,  avalie as asserções a 
+seguir e a relação proposta entre elas.
+/.   O 
+requisito 
+apresentaTo 
+poTe 
+ser 
+implementaTo  com  a  utilização  To  paTrão 
+Te proũeto Observer.
+POZYUN
+//.   O  paTrão  Te  proũeto  Observer  realiza  o 
+estilo 
+arquitetural 
+cliente-serviTor,  
+no 
+qual  o  serviTor  é  responsAvel  por  enviar 
+notifcações aos clientes sempre que Uouver 
+atualização  em  alguma  informação  Te 
+interesse.
+  respeito Tessas asserções,  assinale a opção correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+Area livre
+QUNSTÃO 11
+O 
+encapsulamento 
+é 
+um 
+mecanismo 
+Ta 
+programação  orientaTa  a  obũetos  no  qual  os 
+membros  Te  uma  classe  (atributos  e  métoTos) 
+constituem  uma  caixa  preta.   O  nível  Te 
+visibiliTaTe Tos membros poTe ser TefniTo pelos 
+moTifcaTores Te visibiliTaTe ΗprivaToΗ,  ΗpublicoΗ 
+e ΗprotegiToΗ.
+Com  relação  ao  comportamento  geraTo  pelos 
+moTifcaTores  Te  visibiliTaTe,   assinale  a  opção 
+correta.
+A Um  atributo  privaTo  poTe  ser  acessaTo 
+pelos  métoTos  privaTos  Ta  propria  classe  e 
+pelos  métoTos  protegiTos  Tas  suas  classes 
+TescenTentes.
+B Um  atributo  privaTo  poTe  ser  acessaTo 
+pelos  métoTos  publicos  Ta  propria  classe 
+e  pelos  métoTos  publicos  Tas  suas  classes 
+TescenTentes.
+C Um membro publico é visível na classe a qual 
+ele pertence,  mas não é visível nas suas classes 
+TescenTentes.
+M Um  métoTo  protegiTo  não  poTe  acessar  os 
+atributos  privaTos  e  TeclaraTos  na  propria 
+classe.
+N  Um membro protegiTo é visível na classe a qual 
+pertence e em suas classes TescenTentes.
+Area livre
+*R03201717*

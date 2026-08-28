@@ -1,60 +1,63 @@
-QUESTÃO 25 
-K ĨƌĂŐŵĞŶƚŽ ĚĞ ĐſĚŝŐŽ Iнн͕  Ă ƐĞŐƵŝƌ͕ ĐŽŶƚĠŵ Ă ŝŵƉůĞŵĞŶƚĂĕĆŽ ĚĂ ŝŶƐĞƌĕĆŽ ĚĞ Ƶŵ Ŷſ Ğŵ ƵŵĂ ĄƌǀŽƌĞ ďŝŶĄƌŝĂ͘
+28
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO 25 
+O fragmento Te coTigo Cнн,  a seguir, contém a implementação Ta inserção Te um no em uma Arvore binAria.
 ...
 struct noArvore {
-   int dado;
-   noArvore *esquerda;
-   noArvore *direita;
+   int TaTo;
+   noArvore *esquerTa;
+   noArvore *Tireita;
 };
 noArvore *insere(noArvore *arvore, int valor) {
    if (arvore == NULL) {
       arvore = new noArvore;
-      arvore->esquerda = NULL;
-      arvore->direita = NULL;
-      arvore->dado = valor;
-   } else if(valor < arvore->dado) {
-        arvore->esquerda = insere (arvore->esquerda, valor);
+      arvore->esquerTa = NULL;
+      arvore->Tireita = NULL;
+      arvore->TaTo = valor;
+   } else if(valor < arvore->TaTo) {
+        arvore->esquerTa = insere (arvore->esquerTa, valor);
      } 
      else {
-        arvore->direita = insere (arvore->direita, valor);
+        arvore->Tireita = insere (arvore->Tireita, valor);
      } 
      return(arvore);
 }
 ...
-IŽŵ ďĂƐĞ ŶŽ ĞǆƉŽƐƚŽ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ƋƵĞ ĂƉƌĞƐĞŶƚĂ Ž ĨƌĂŐŵĞŶƚŽ ĚĞ ƉƌŽŐƌĂŵĂ ƉĂƌĂ ŝŵƉƌŝŵŝƌ ŽƐ ǀĂůŽƌĞƐ 
-ĐŽŶƟĚŽƐ ŶŽƐ ŶſƐ͕  ƉĞƌĐŽƌƌĞŶĚŽ Ă ĄƌǀŽƌĞ Ğŵ ƉƌĠͲŽƌĚĞŵ͘
-A void preorder(noArvore *raiz) {
+Com base no exposto,  assinale a opção que apresenta o fragmento Te programa para imprimir os valores 
+contiTos nos nos,  percorrenTo a Arvore em pré-orTem.
+A voiT preorTer(noArvore *raiz) {
 if (raiz != NULL) { 
-      cout << raiz->dado << " ";
-      preorder(raiz->esquerda);
-      preorder(raiz->direita); 
+      cout << raiz->TaTo << " ";
+      preorTer(raiz->esquerTa);
+      preorTer(raiz->Tireita); 
    } 
 }
-B void preorder(noArvore *raiz) { 
+B voiT preorTer(noArvore *raiz) { 
    if (raiz != NULL) { 
-      preorder(raiz->direita); 
-      preorder(raiz->esquerda); 
-      cout << raiz->dado << " "; 
+      preorTer(raiz->Tireita); 
+      preorTer(raiz->esquerTa); 
+      cout << raiz->TaTo << " "; 
    }
 }
-C void preorder(noArvore *raiz) { 
+C voiT preorTer(noArvore *raiz) { 
    if (raiz != NULL) { 
-      preorder(raiz->esquerda); 
-      cout << raiz->dado << " "; 
-      preorder(raiz->direita); 
+      preorTer(raiz->esquerTa); 
+      cout << raiz->TaTo << " "; 
+      preorTer(raiz->Tireita); 
 }
 }
-D void preorder(noArvore *raiz) { 
+M voiT preorTer(noArvore *raiz) { 
    if (raiz != NULL) { 
-      preorder(raiz->esquerda); 
-      preorder(raiz->direita); 
-      cout << raiz->dado << " "; 
+      preorTer(raiz->esquerTa); 
+      preorTer(raiz->Tireita); 
+      cout << raiz->TaTo << " "; 
 }
 }
-E void preorder(noArvore *raiz) { 
+N voiT preorTer(noArvore *raiz) { 
    if (raiz != NULL) { 
-      preorder(raiz->direita); 
-      cout << raiz->dado << " "; 
-      preorder(raiz->esquerda); 
+      preorTer(raiz->Tireita); 
+      cout << raiz->TaTo << " "; 
+      preorTer(raiz->esquerTa); 
    } 
 }
+*R41201728*

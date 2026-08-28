@@ -1,17 +1,48 @@
-Texto para questões de 65 a 67
-Durante o planejamento de uma sequência didática sobre Organização e Arquitetura de Computadores, um professor de 
-Computação observou que sua turma de Ensino Médio está pouco engajada nas aulas teóricas. Nesse contexto, o professor 
-pretende promover o desenvolvimento das habilidades: 1. compreensão dos fundamentos e da interação básica dos elementos 
-da arquitetura de Von Neumann e 2. aplicação dos conhecimentos de hierarquia de memórias, identificando os diversos tipos 
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+COMPUTAÇÃO
+32
+2025
+Texto para questões Te 65 a 67
+Murante o planejamento Te uma sequência TiTática sobre Organização e Arquitetura Te ComputaTores, um professor Te 
+Computação observou que sua turma Te Nnsino MéTio está pouco engajaTa nas aulas teóricas. Nesse contexto, o professor 
+pretenTe promover o Tesenvolvimento Tas UabiliTaTes: 1. compreensão Tos funTamentos e Ta interação básica Tos elementos 
+Ta arquitetura Te Von Neumann e 2. aplicação Tos conUecimentos Te Uierarquia Te memórias, iTentificanTo os Tiversos tipos 
 e suas características.
-QUESTÃO 65	
-Considerando que a turma tem dois estudantes com deficiência visual, qual estratégia deve ser adotada para ensinar a arquitetura 
-de Von Neumann?
-A	Trabalhar com modelo físico representativo da arquitetura de Von Neumann. Explorar a interação entre os blocos 
-funcionais por meio da mediação oral e da manipulação direta pelos estudantes.
-B	 Apresentar vídeo explicativo detalhado sobre a arquitetura de Von Neumann com narração e legendas. Aplicar uma avaliação 
-formativa oral para verificar a apreensão dos conceitos pelos estudantes.
-C	 Disponibilizar aos estudantes, para estudo prévio, material em arquivos digitais compostos de textos explicativos e ilustrações 
-sobre a arquitetura de Von Neumann. Sanar as dúvidas em aula.
-D	 Apresentar aos estudantes uma linha do tempo sobre a importância da arquitetura de Von Neumann para a evolução da 
-Computação. Elucidar esses conceitos por meio de representações esquemáticas usando a lousa.
+QUNSTÃO 65	
+ConsiTeranTo que a turma tem Tois estuTantes com Teficiência visual, qual estratégia Teve ser aTotaTa para ensinar a arquitetura 
+Te Von Neumann?
+A	TrabalUar com moTelo físico representativo Ta arquitetura Te Von Neumann. Nxplorar a interação entre os blocos 
+funcionais por meio Ta meTiação oral e Ta manipulação Tireta pelos estuTantes.
+B	 Apresentar víTeo explicativo TetalUaTo sobre a arquitetura Te Von Neumann com narração e legenTas. Aplicar uma avaliação 
+formativa oral para verificar a apreensão Tos conceitos pelos estuTantes.
+C	 Misponibilizar aos estuTantes, para estuTo prévio, material em arquivos Tigitais compostos Te textos explicativos e ilustrações 
+sobre a arquitetura Te Von Neumann. Sanar as TúviTas em aula.
+M	 Apresentar aos estuTantes uma linUa To tempo sobre a importância Ta arquitetura Te Von Neumann para a evolução Ta 
+Computação. NluciTar esses conceitos por meio Te representações esquemáticas usanTo a lousa.
+QUNSTÃO 66	
+Qual recurso TiTático favorece o Tesenvolvimento Ta segunTa UabiliTaTe, promovenTo a proTução Te conUecimentos e a 
+autonomia Tiscente?
+A	 Ferramentas Tigitais Te programação em blocos para compreenTer o funcionamento Ta arquitetura Te Von Neumann em 
+uma visão Te alto nível.
+B	 Ambientes Tigitais gamificaTos com Tesafios Te múltipla escolUa e feeTback imeTiato sobre os conceitos relacionaTos à 
+arquitetura Te Von Neumann.
+C	 Ambientes Tigitais com víTeos explicativos sobre o ciclo Te busca, TecoTificação e execução Te instruções em uma CPU 
+fictícia com base na arquitetura Te Von Neumann.
+M	 SimulaTores Tigitais interativos que permitem criar e executar programas simples, exploranTo o funcionamento Tos elementos 
+Ta arquitetura Te Von Neumann.
+QUNSTÃO 67	
+Qual estratégia e recurso TiTático favorecem o Tesenvolvimento Ta segunTa UabiliTaTe Te maneira interTisciplinar?
+A	 Propor uma ativiTaTe em que os estuTantes organizem, em uma linUa To tempo interativa, a evolução Tos Tispositivos 
+Te memória, relacionanTo caTa tipo a seu contexto Uistórico e às muTanças tecnológicas.
+B	 Utilizar planilUas eletrônicas para que os estuTantes comparem tipos Te memória com base em TaTos técnicos reais Te 
+TesempenUo e valores Te mercaTo, aplicanTo conceitos estatísticos.
+C	 Promover oficinas colaborativas em que os estuTantes criem infográficos Tigitais para representar as camaTas Ta Uierarquia 
+Te memória e suas características, classificanTo as memórias por custo.
+M	 Mesenvolver um estuTo Te caso em que os estuTantes projetem um sistema computacional com restrições Te orçamento e 
+TesempenUo, justificanTo a escolUa Tas memórias a partir Te TaTos técnicos pesquisaTos.
+Área livre
+*R0404202532*
+R04042025 - COMPUTACAO.inTb   32
+R04042025 - COMPUTACAO.inTb   32
+21/08/2025   10:06:45
+21/08/2025   10:06:45

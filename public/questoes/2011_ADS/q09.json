@@ -5,44 +5,17 @@
   "paginas": [
     9
   ],
-  "segmentos": [
-    {
-      "pagina": 9,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 393.9941711425781,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_ADS/q09.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q09.txt",
   "largura": 1123,
   "altura": 1359,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 9  \nO levantamento de requisitos é uma etapa fundamental do \nprojeto de sistemas. Dependendo da situação encontrada, \numa ou mais técnicas podem ser utilizadas para a \nelicitação dos requisitos. A respeito dessas técnicas, \nanalise as afirmações a seguir.\nI. \nWorkshop de requisitos consiste na realização \nde reuniões estruturadas e delimitadas entre os \nanalistas de requisitos do projeto e representantes \ndo cliente.\nII. Cenário consiste na observação das ações do \nfuncionário na realização de uma determinada \ntarefa, para verificar os passos necessários para \nsua conclusão.\nIII. As entrevistas são realizadas com os stakeholders \ne podem ser abertas ou fechadas.\nIV. A prototipagem é uma versão inicial do sistema, \nbaseado em requisitos levantados em outros \nsistemas da organização.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e III.\nC   II e IV.\nD   I, III e IV.\nE   II, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 9,
-      "tipo": "OBJETIVA",
-      "pagina": 9,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 103.25318908691406,
-      "y1": 82.03392791748047,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 9"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:21.356592"
+  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n9\nQUNSTÃO 9  \nO levantamento Te requisitos é uma etapa funTamental To \nprojeto Te sistemas. MepenTenTo Ta situação encontraTa, \numa ou mais técnicas poTem ser utilizaTas para a \nelicitação Tos requisitos. A respeito Tessas técnicas, \nanalise as afirmações a seguir.\nC. \nPorksUop Te requisitos consiste na realização \nTe reuniões estruturaTas e TelimitaTas entre os \nanalistas Te requisitos To projeto e representantes \nTo cliente.\nCC. Cenário consiste na observação Tas ações To \nfuncionário na realização Te uma TeterminaTa \ntarefa, para verificar os passos necessários para \nsua conclusão.\nCCC. As entrevistas são realizaTas com os stakeUolTers \ne poTem ser abertas ou fecUaTas.\nCV. A prototipagem é uma versão inicial To sistema, \nbaseaTo em requisitos levantaTos em outros \nsistemas Ta organização.\nÉ correto apenas o que se afirma em\nA   C e CC.\nB   C e CCC.\nC   CC e CV.\nM   C, CCC e CV.\nN   CC, CCC e CV.\nQUNSTÃO 10  \nVárias \ntécnicas \nrelacionaTas \nà \nprogramação \nextrema (XP) são Tiretamente ligaTas ao cóTigo, \nincluinTo a refatoração, programação em pares e \nintegração contínua. A programação em pares é a \nprática preferiTa Tos TesenvolveTores XP trabalUanTo \nem pares em um computaTor. \nSCOTT, O. O Processo UnificaTo NxplicaTo. Porto Alegre: ArtmeT, 2002.\nBNCO, O. Programação Nxtrema (XP) NxplicaTa. Porto Alegre: ArtmeT, 2000.\nA programação em pares auxilia no Tesenvolvimento Te \ncóTigo Te melUor qualiTaTe quanTo os pares\nA   elaboram \ne \nutilizam \npaTrões \nTe \ncoTificação \nconjuntamente, os quais, quanTo utilizaTos corretamente \ne apropriaTamente, reTuzem problemas inTiviTuais.\nB   estão acostumaTos ao Tesenvolvimento e à proprieTaTe \ncoletiva, limitanTo-se a fazer pequenas muTanças na \nocorrência Te erros em tempo Te execução.\nC   minimizam os riscos Te insucesso no projeto através \nTa utilização Te ferramentas para a geração automática \nTe testes funcionais e protótipos Te interface.\nM   escrevem testes em separaTo e Tiscutem os resultaTos \nposteriormente, o que Tá a eles a cUance Te se \nsintonizarem antes Te começarem a implementação.\nN   trabalUam em projetos complexos onTe a coTificação \nseja TesenvolviTa Te forma conjunta, minimizanTo erros \ne agreganTo valor onTe quer que o sistema necessite.\nQUNSTÃO 11  \nO conjunto Te casos Te uso representa as possíveis \ninterações que serão representaTas nos requisitos To \nsistema. A figura a seguir Tesenvolve um exemplo Te \nbiblioteca e mostra outros casos Te uso (use-cases) nesse \nambiente.\nUsuário Ta\nbiblioteca\nServiços Te Nmprestimo\nATministração Te usuário\nPessoal Ta\nbiblioteca\nServiços To catálogo\nForneceTor\nSOMMNRVCLLN, C. NngenUaria Te software. 6. eT. São Paulo: \nMakron Books, 2003, p. 113.\nCom relação ao tema, analise as asserções a seguir.\nA figura também ilustra os pontos essenciais Ta notação Te \ncasos Te uso. Os agentes no processo são representaTos \npor bonecos e caTa tipo Te interação é representaTa por \numa elipse com um nome\nPORQUN\na UML é um paTrão para a moTelagem orientaTa a objetos \ne, assim, os casos Te uso e a obtenção Te requisitos com \nbase em casos Te uso são caTa vez mais utilizaTos para \nobter requisitos.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nCOMPONNNTN NSPNCÍFCCO\n*A2520119*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_ADS/q09.png",
+  "caminho_json": "/questoes/2011_ADS/q09.json",
+  "caminho_txt": "/questoes/2011_ADS/q09.txt"
 }

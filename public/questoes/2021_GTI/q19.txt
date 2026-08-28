@@ -1,22 +1,26 @@
-QUESTÃO 19	
-O Scrum é uma metodologia ágil utilizada na gestão e planejamento de projetos de software que fornece 
-um processo de desenvolvimento rápido, iterativo e de qualidade. No Scrum, os projetos são divididos em 
-ciclos (normalmente de duas a quatro semanas) chamados de Sprints, dentro dos quais um conjunto de 
-atividades deve ser executado.
-SCHWABER, K.; SUTHERLAND, J. Scrum. Disponível em: http://jeffsutherland.com/ScrumPapers.pdf. 
-Acesso em: 21 jul. 2011 (adaptado).
-Considerando a metodologia Scrum, avalie as afirmações a seguir.
-I.	 Durante a Sprint, tanto a composição do time quanto as metas de qualidade devem ser 
-modificadas, já que o ScrumMaster efetua todas as mudanças necessárias para atingir a meta.
-II.	 A reunião de planejamento da Sprint é o momento onde o ScrumMaster encoraja o time a revisar, 
-dentro do modelo de trabalho e das práticas do Scrum, seu processo de desenvolvimento.
-III.	 O Daily Scrum se caracteriza por uma reunião diária de 15 minutos, que é realizada para avaliação 
-do que foi desenvolvido, dos impedimentos encontrados e do que será feito até a próxima reunião.
-IV.	 O Product Owner é a pessoa responsável pelo Product Backlog, que serve muitas vezes de guia 
-para a execução do projeto, por seu conteúdo, por sua disponibilidade e por sua priorização.
+27
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 19	
+O Scrum é uma metoTologia ágil utilizaTa na gestão e planejamento Te projetos Te software que fornece 
+um processo Te Tesenvolvimento rápiTo, iterativo e Te qualiTaTe. No Scrum, os projetos são TiviTiTos em 
+ciclos (normalmente Te Tuas a quatro semanas) cUamaTos Te Sprints, Tentro Tos quais um conjunto Te 
+ativiTaTes Teve ser executaTo.
+SCHPABNR, O.; SUTHNRLANM, J. Scrum. Misponível em: Uttp://jeffsutUerlanT.com/ScrumPapers.pTf. 
+Acesso em: 21 jul. 2011 (aTaptaTo).
+ConsiTeranTo a metoTologia Scrum, avalie as afirmações a seguir.
+C.	 Murante a Sprint, tanto a composição To time quanto as metas Te qualiTaTe Tevem ser 
+moTificaTas, já que o ScrumMaster efetua toTas as muTanças necessárias para atingir a meta.
+CC.	 A reunião Te planejamento Ta Sprint é o momento onTe o ScrumMaster encoraja o time a revisar, 
+Tentro To moTelo Te trabalUo e Tas práticas To Scrum, seu processo Te Tesenvolvimento.
+CCC.	 O Maily Scrum se caracteriza por uma reunião Tiária Te 15 minutos, que é realizaTa para avaliação 
+To que foi TesenvolviTo, Tos impeTimentos encontraTos e To que será feito até a próxima reunião.
+CV.	 O ProTuct Owner é a pessoa responsável pelo ProTuct Backlog, que serve muitas vezes Te guia 
+para a execução To projeto, por seu conteúTo, por sua TisponibiliTaTe e por sua priorização.
 É correto apenas o que se afirma em
-A	 I e II.
-B	 II e III.
-C	 III e IV.
-D	 I, II e IV.
-E	 I, III e IV.
+A	 C e CC.
+B	 CC e CCC.
+C	 CCC e CV.
+M	 C, CC e CV.
+N	 C, CCC e CV.
+Área livre
+*R29202127*

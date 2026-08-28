@@ -1,10 +1,14 @@
-QUESTÃO 27  
-Um dos problemas clássicos da computação científica é a 
-multiplicação de matrizes. Assuma que foram declaradas 
-e inicializadas três matrizes quadradas de ponto flutuante, 
-a, b e c, cujos índices variam entre 0 e n - 1. O seguinte 
-trecho de código pode ser usado para multiplicar matrizes 
-de forma sequencial:
+COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+16
+QUNSTÃO 27  
+Um Tos problemas clássicos Ta computação científica é a 
+multiplicação Te matrizes. Assuma que foram TeclaraTas 
+e inicializaTas três matrizes quaTraTas Te ponto flutuante, 
+a, b e c, cujos ínTices variam entre 0 e n - 1. O seguinte 
+trecUo Te cóTigo poTe ser usaTo para multiplicar matrizes 
+Te forma sequencial:
 1.  for [i = 0 to n - 1] { 
 2.    for [j = 0 to n - 1] { 
 3.         c[i, j] = 0.0; 
@@ -12,36 +16,75 @@ de forma sequencial:
 5.             c[i, j] = c[i, j] + a[i, k] * b[k, j]; 
 6.     } 
 7.  }
-O objetivo é paralelizar esse código para que o tempo de 
-execução seja reduzido em uma máquina com múltiplos 
-processadores e memória compartilhada. Suponha que 
-o comando “co” seja usado para definição de comandos 
-concorrentes, da seguinte forma: “co [i = 0 to n - 1] { x; y; z;}” 
-cria n processos concorrentes, cada um executando 
-sequencialmente uma instância dos comandos x, y, z 
-contidos no bloco.
+O objetivo é paralelizar esse cóTigo para que o tempo Te 
+execução seja reTuziTo em uma máquina com múltiplos 
+processaTores e memória compartilUaTa. SuponUa que 
+o comanTo “co” seja usaTo para Tefinição Te comanTos 
+concorrentes, Ta seguinte forma: “co [i = 0 to n - 1] { x; y; z;}” 
+cria n processos concorrentes, caTa um executanTo 
+sequencialmente uma instância Tos comanTos x, y, z 
+contiTos no bloco.
 Avalie as seguintes afirmações sobre o problema.
-I. 
-Esse problema é exemplo do que se chama 
+C. 
+Nsse problema é exemplo To que se cUama 
 “embaraçosamente 
 paralelo”, 
 porque 
-pode 
-ser decomposto em um conjunto de várias 
-operações menores que podem ser executadas 
-independentemente.
-II. O programa produziria resultados corretos e em 
-tempo menor do que o sequencial, trocando-se o 
-“for” na linha 1 por um “co”.
-III. O programa produziria resultados corretos e em 
-tempo menor do que o sequencial, trocando-se o 
-“for” na linha 2 por um “co”.
-IV. O programa produziria resultados corretos e em 
-tempo menor do que o sequencial, trocando-se 
-ambos “for”, nas linhas 1 e 2, por “co”.
+poTe 
+ser Tecomposto em um conjunto Te várias 
+operações menores que poTem ser executaTas 
+inTepenTentemente.
+CC. O programa proTuziria resultaTos corretos e em 
+tempo menor To que o sequencial, trocanTo-se o 
+“for” na linUa 1 por um “co”.
+CCC. O programa proTuziria resultaTos corretos e em 
+tempo menor To que o sequencial, trocanTo-se o 
+“for” na linUa 2 por um “co”.
+CV. O programa proTuziria resultaTos corretos e em 
+tempo menor To que o sequencial, trocanTo-se 
+ambos “for”, nas linUas 1 e 2, por “co”.
 É correto o que se afirma em
-A   I, II e III, apenas.
-B   I, II e IV, apenas.
-C   I, III e IV, apenas.
-D   II, III e IV, apenas.
-E   I, II, III, IV.
+A   C, CC e CCC, apenas.
+B   C, CC e CV, apenas.
+C   C, CCC e CV, apenas.
+M   CC, CCC e CV, apenas.
+N   C, CC, CCC, CV.
+QUNSTÃO 28
+Algoritmos criaTos para resolver um mesmo problema 
+poTem Tiferir Te forma Trástica quanto a sua eficiência. 
+Para evitar este fato, são utilizaTas técnicas algorítmicas, 
+isto é, conjunto Te técnicas que compreenTem os métoTos 
+Te coTificação Te algoritmos Te forma a salientar sua 
+complexiTaTe, levanTo-se em conta a forma pela qual 
+TeterminaTo algoritmo cUega à solução TesejaTa.
+ConsiTeranTo os Tiferentes paraTigmas e técnicas Te 
+projeto Te algoritmos, analise as afirmações abaixo.
+C. 
+A técnica Te tentativa e erro (backtracking) efetua 
+uma escolUa ótima local, na esperança Te obter 
+uma solução ótima global.
+CC. A técnica Te Tivisão e conquista poTe ser TiviTiTa 
+em três etapas: TiviTir a instância To problema 
+em Tuas ou mais instâncias menores; resolver 
+as instâncias menores recursivamente; obter a 
+solução para as instâncias originais (maiores) por 
+meio Ta combinação Tessas soluções.
+CCC. A 
+técnica 
+Te 
+programação 
+Tinâmica 
+Tecompõe o processo em um número finito Te 
+subtarefas parciais que Tevem ser exploraTas 
+exaustivamente.
+CV. O uso Te Ueurísticas (ou algoritmos aproximaTos) 
+é caracterizaTo pela ação Te um proceTimento 
+cUamar a si próprio, Tireta ou inTiretamente.
+É correto apenas o que se afirma em
+A   C.
+B   CC.
+C   C e CV.
+M   CC e CCC.
+N   CCC e CV.
+ÁRNA LCVRN
+*A13201116*

@@ -1,15 +1,74 @@
-QUESTÃO 14
-^ĞũĂ Ž ƵŶŝǀĞƌƐŽ h с ΂10͕  20͕  30͕  40΃ Ğ Ž ĐŽŶũƵŶƚŽ ĚŽƐ 
-ŶƷŵĞƌŽƐ  ŶĂƚƵƌĂŝƐ  E͘   IŽŵ  ďĂƐĞ  ŶŽ  ĐŽŶŚĞĐŝŵĞŶƚŽ 
-ƐŽďƌĞ Ă ůſŐŝĐĂ ĚĞ ƉƌĞĚŝĐĂĚŽƐ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ 
-Ă ƐĞŐƵŝƌ͘
-/͘   , с ;׊ǆ א EͿ;׌Ǉ א hͿ;ǆ ф ǇͿ Ġ ǀĄůŝĚĂ͘
-//͘   , с ;׊ǆ א EͿ;׌Ǉ א EͿ;Ǉ ф ǆͿ Ġ ǀĄůŝĚĂ͘
-///͘  , с ;׊ǆ א hͿ;׌Ǉ א hͿ;ǆ х ǇͿ Ġ ŝŶǀĄůŝĚĂ͕  ƐĞŶĚŽ 
-ǆ с 10 Ƶŵ ĐŽŶƚƌĂͲĞǆĞŵƉůŽ͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B ///͕  ĂƉĞŶĂƐ͘
-C / Ğ //͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+15
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 13
+   fgura  a  seguir  apresenta  uma  Arvore  binAria  Te 
+pesquisa,   que  mantém  a  seguinte  proprieTaTe 
+funTamental:   o  valor  associaTo  a  raiz  é  sempre 
+menor To que o valor Te toTos os nos Ta subArvore 
+a Tireita e sempre maior To que o valor Te toTos os 
+nos Ta subArvore a esquerTa.
+10
+7
+15
+13
+14
+17
+20
+25
+ 
+Nm relação a Arvore apresentaTa na fgura,  avalie as 
+afrmações a seguir.
+/.      Arvore  possui  a  vantagem  Te  realizar  a 
+busca Te elementos Te forma efciente,  como 
+a busca binAria em um vetor.
+//.     Arvore estA TesbalanceaTa,  pois a subArvore 
+Ta esquerTa possui um numero Te nos maior 
+To que a subArvore Ta Tireita.
+///.   YuanTo  a  Arvore  é  percorriTa  utilizanTo 
+o  métoTo  Te  caminUamento  pos-orTem,  
+os  valores  são  encontraTos  em  orTem 
+Tecrescente.
+/s.   O  numero  Te  comparações  realizaTas  em 
+função To numero n Te elementos na Arvore 
+em uma busca binAria realizaTa com sucesso 
+é O(log n).
+ correto apenas o que se afrma em
+A / e ///.
+B / e /s.
+C // e ///.
+M /,  // e /s.
+N //,  /// e /s.
+QUNSTÃO 14
+Seũa o universo U с ΂10,  20,  30,  40΃ e o conũunto Tos 
+numeros  naturais  N.   Com  base  no  conUecimento 
+sobre a logica Te preTicaTos,  avalie as afrmações 
+a seguir.
+/.   , с (׊x א N)(׌Ǉ א U)(x ф Ǉ) é vAliTa.
+//.   , с (׊x א N)(׌Ǉ א N)(Ǉ ф x) é vAliTa.
+///.  , с (׊x א U)(׌Ǉ א U)(x х Ǉ) é invAliTa,  senTo 
+x с 10 um contra-exemplo.
+ correto o que se afrma em
+A /,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+QUNSTÃO 15
+ConsiTere  as  seguintes  expressões  regulares  cuũo 
+alfabeto é ΂a,  b΃.
+Z1 с a(a U b)Ύ
+Z2 с b(a U b)Ύ
+Se  >(Z)  é  a  linguagem  associaTa  a  uma  expressão 
+regular Z,  é correto afrmar que
+A >(Z1) с >(Z2).
+B >(Z2) с ΂ǁ ͮ  ǁ termina com b΃.
+C existe  um  autƀmato  fnito  Teterminístico  cuũa 
+linguagem é igual a >(Z1) U >(Z2).
+M se  Z3  é  uma  expressão  regular  tal  que 
+>(Z3) с >(Z1) ŀ >(Z2),  então >(Z3) é uma 
+linguagem infinita.
+N um  autƀmato  fnito  não  Teterminístico  que 
+reconUeça >(Z1) U >(Z2) tem,  pelo menos,  quatro 
+estaTos.
+ÁRNA LCVRN
+*R03201415*

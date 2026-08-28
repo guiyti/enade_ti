@@ -5,44 +5,17 @@
   "paginas": [
     28
   ],
-  "segmentos": [
-    {
-      "pagina": 28,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 505.12506103515625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q19.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q19.txt",
   "largura": 2185,
   "altura": 1823,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 19\t\nDuas técnicas comumente utilizadas para ampliar as informações básicas sobre requisitos são personas \ne cenários. Frequentemente usadas juntas, essas técnicas se complementam de forma a trazer detalhes \nrealísticos que possibilitam ao desenvolvedor explorar as atividades atuais do usuário, uso futuro de \nnovos produtos e visões futuristas de novas tecnologias. Elas também podem guiar o desenvolvimento \nao longo do ciclo de vida do produto.\nROGERS, Y.; PREECE, J.; SHARP, H. Interaction Design: beyond human-computer interaction. \n5. ed. Indianapolis, IN, USA: John Wiley & Sons, Inc., 2019 (adaptado).\nCom base no texto apresentado e sobre os objetivos do uso de personas e cenários em um processo de \nelicitação de requisitos, avalie as afirmações a seguir.\nI.\t O uso de personas e cenários, em um processo de elicitação, explicita algumas situações que \naparecem implícitas nos requisitos.\nII.\t O uso de personas e cenários, em um processo de elicitação, ajuda o projetista a entender melhor \no impacto das decisões de projeto.\nIII.\tO uso de personas e cenários, em um processo de elicitação, facilita a especificação formal \ne não-ambígua dos requisitos de interação.\nIV.\t O uso de personas e cenários, em um processo de elicitação, lembra à equipe de desenvolvimento \nque pessoas reais usarão o produto.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t I e IV.\nC\t II e III.\nD\t I, II e IV.\nE\t II, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 19,
-      "tipo": "OBJETIVA",
-      "pagina": 28,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 19"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469300"
+  "texto_completo": "28\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 19\t\nMuas técnicas comumente utilizaTas para ampliar as informações básicas sobre requisitos são personas \ne cenários. Frequentemente usaTas juntas, essas técnicas se complementam Te forma a trazer TetalUes \nrealísticos que possibilitam ao TesenvolveTor explorar as ativiTaTes atuais To usuário, uso futuro Te \nnovos proTutos e visões futuristas Te novas tecnologias. Nlas também poTem guiar o Tesenvolvimento \nao longo To ciclo Te viTa To proTuto.\nROGNRS, Y.; PRNNCN, J.; SHARP, H. Cnteraction Mesign: beyonT Uuman-computer interaction. \n5. eT. CnTianapolis, CN, USA: JoUn Piley & Sons, Cnc., 2019 (aTaptaTo).\nCom base no texto apresentaTo e sobre os objetivos To uso Te personas e cenários em um processo Te \nelicitação Te requisitos, avalie as afirmações a seguir.\nC.\t O uso Te personas e cenários, em um processo Te elicitação, explicita algumas situações que \naparecem implícitas nos requisitos.\nCC.\t O uso Te personas e cenários, em um processo Te elicitação, ajuTa o projetista a entenTer melUor \no impacto Tas Tecisões Te projeto.\nCCC.\tO uso Te personas e cenários, em um processo Te elicitação, facilita a especificação formal \ne não-ambígua Tos requisitos Te interação.\nCV.\t O uso Te personas e cenários, em um processo Te elicitação, lembra à equipe Te Tesenvolvimento \nque pessoas reais usarão o proTuto.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t C e CV.\nC\t CC e CCC.\nM\t C, CC e CV.\nN\t CC, CCC e CV.\nÁrea livre\n*R02202128*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q19.png",
+  "caminho_json": "/questoes/2021_CCP/q19.json",
+  "caminho_txt": "/questoes/2021_CCP/q19.txt"
 }

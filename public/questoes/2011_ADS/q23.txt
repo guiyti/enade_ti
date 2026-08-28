@@ -1,23 +1,27 @@
-QUESTÃO 23  
-Considere o diagrama de entidades e relacionamentos 
-a seguir, onde as chaves primárias de cada entidade se 
-encontram na parte superior dos retângulos. As entidades 
-fortes são representadas por retângulos e as entidades fracas 
-são representadas por retângulos com cantos arredondados. 
-O diagrama atende as seguintes restrições:
-(i) entre Ent1 e Ent2, tem-se um relacionamento 
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+14
+QUNSTÃO 23  
+ConsiTere o Tiagrama Te entiTaTes e relacionamentos 
+a seguir, onTe as cUaves primárias Te caTa entiTaTe se 
+encontram na parte superior Tos retângulos. As entiTaTes 
+fortes são representaTas por retângulos e as entiTaTes fracas 
+são representaTas por retângulos com cantos arreTonTaTos. 
+O Tiagrama atenTe as seguintes restrições:
+(i) entre Nnt1 e Nnt2, tem-se um relacionamento 
 muitos para muitos; 
-(ii) entre as Entidades Ent2 e Ent3, tem-se um 
-relacionamento de um para nenhum, um ou muitos;
-(iii) entre Ent1 e Ent5, tem-se um relacionamento de 
+(ii) entre as NntiTaTes Nnt2 e Nnt3, tem-se um 
+relacionamento Te um para nenUum, um ou muitos;
+(iii) entre Nnt1 e Nnt5, tem-se um relacionamento Te 
 zero ou um para zero, um ou muitos; e 
-(iv) entre Ent3 e Ent4, tem-se um relacionamento de 
+(iv) entre Nnt3 e Nnt4, tem-se um relacionamento Te 
 muitos para muitos.
-Ent1
-Ent2
-Ent5
-Ent3
-Ent4
+Nnt1
+Nnt2
+Nnt5
+Nnt3
+Nnt4
 cent11
 cent12
 aent11
@@ -35,11 +39,57 @@ cent41
 aent41
 aent42
 aent43
-Aplicando a terceira forma normal ao modelo, qual será o 
-total de colunas que deve ser criado para representar as 
-chaves estrangeiras?
+AplicanTo a terceira forma normal ao moTelo, qual será o 
+total Te colunas que Teve ser criaTo para representar as 
+cUaves estrangeiras?
 A   3.
 B   5.
 C   7.
-D   8.
-E 9
+M   8.
+N   9.
+QUNSTÃO 24  
+No que Tiz respeito aos baselines (linUas base) Ta 
+gerência Te configuração, avalie as seguintes afirmações.
+C. 
+As baselines representam conjuntos Te itens Te 
+configuração formalmente aprovaTos que servem Te 
+base para as etapas seguintes Te Tesenvolvimento.
+CC. As baselines são TefiniTas e poTem ocorrer 
+ao final Te caTa uma Tas fases To processo Te 
+Tesenvolvimento Te software, ou Te algum outro 
+moTo TefiniTo pela gerência.
+CCC. Um item Te configuração Te software “baselineT” 
+poTe ser alteraTo a qualquer momento Turante o 
+Tesenvolvimento Te software inTepenTentemente 
+Te um proceTimento formal.
+CV. Ao término Te uma etapa To Tesenvolvimento, e 
+após sua aceitação formal, a baseline na qual a 
+etapa se baseou poTe ser TescartaTa pois já se 
+encontra representaTa nos artefatos geraTos.
+V. Uma Tas funções Ta tarefa “CTentificação Ta 
+Configuração”, envolve a Tefinição Te uma 
+nomenclatura que possibilite a iTentificação 
+inequívoca Tos itens Te configuração, baselines 
+e releases. 
+É correto apenas o que se afirma em
+A   CCC e V.
+B   CCC e CV.
+C   C, CC e CCC.
+M   C, CC e CV.
+N   C, CC e V.
+QUNSTÃO 25  
+Nm projetos Te Tesenvolvimento Te software, vários tipos Te 
+testes poTem ser empregaTos para garantia Ta qualiTaTe 
+To proTuto. Um Tos tipos comumente empregaTos é o 
+teste Te regressão, o qual tem como objetivo
+A   iTentificar Tefeitos através Ta verificação To 
+cóTigo-fonte.
+B   iTentificar Tefeitos através Ta execução To sistema ou 
+parte Tele.
+C   iTentificar Tefeitos no sistema em situação Te 
+sobrecarga.
+M   verificar a existência Te Tefeitos após alterações em 
+um sistema (ou parte Tele) já testaTo.
+N   verificar a existência Te Tefeitos em um sistema ou 
+parte Tele.
+*A25201114*

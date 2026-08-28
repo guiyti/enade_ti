@@ -5,44 +5,18 @@
   "paginas": [
     33
   ],
-  "segmentos": [
-    {
-      "pagina": 33,
-      "x0": 25.0,
-      "y0": 292.86712646484375,
-      "x1": 611.7199999999999,
-      "y1": 397.5899963378906,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q69.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q69.txt",
   "largura": 2475,
   "altura": 466,
   "confianca": 0.98,
-  "texto_completo": "g , p\n(f\n, f\n)\nQUESTÃO 69\t\nA simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?\nA\t Vazão, maximizando o número de processos executados por instante de tempo.\nB\t Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.\nC\t Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.\nD\t Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 69,
-      "tipo": "OBJETIVA",
-      "pagina": 33,
-      "x": 64.6063003540039,
-      "y": 304.86712646484375,
-      "x1": 124.34291076660156,
-      "y1": 320.1351318359375,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 69"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407766"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n33\nCOMPUTAÇÃO\n2025\nTexto para questões 68 e 69\nUm professor Te Computação, Turante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estuTantes e que \no local TisponibilizaTo para uma aula Te 60 minutos possui apenas 1 computaTor. O professor então informa aos estuTantes que \neles irão revezar o uso To computaTor. O primeiro estuTante a comparecer na sala Te aula terá acesso imeTiato ao computaTor. \nOs Temais, por orTem Te cUegaTa, formarão e permanecerão em uma fila Te espera. CaTa estuTante poTerá utilizar o computaTor \npor 5 minutos. Após esse tempo, o estuTante voltará para o final Ta fila. O professor explicou que os estuTantes seriam \ncomparáveis aos processos e que o esquema utilizaTo para uso To computaTor seria comparável ao escalonaTor Te processos.\nQUNSTÃO 68\t\nQue aborTagem Te uso To computaTor poTe ser associaTa a algoritmo Te escalonamento Te processos?\nA\t CUaveamento circular (rounT-robin).\nB\t Por loteria (lottery scUeTuling).\nC\t Tarefa mais curta primeiro (sUortest job first).\nM\t Primeiro a cUegar, primeiro a ser serviTo (first-come, first-serveT).\nQUNSTÃO 69\t\nA simulação Te uso To processaTor, no exemplo, está associaTa a qual política Te escalonamento?\nA\t Vazão, maximizanTo o número Te processos executaTos por instante Te tempo.\nB\t Justiça, fazenTo com que processos semelUantes tenUam tempos iguais para uso Ta CPU.\nC\t Tempo Te retorno, minimizanTo o tempo méTio entre a criação e o término Tos processos.\nM\t ProporcionaliTaTe, fazenTo com que toTos os processos tenUam acesso à CPU o mais rápiTo possível.\nÁrea livre\n*R0404202533*\nR04042025 - COMPUTACAO.inTb   33\nR04042025 - COMPUTACAO.inTb   33\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q69.png",
+  "caminho_json": "/questoes/2024_CCP/q69.json",
+  "caminho_txt": "/questoes/2024_CCP/q69.txt"
 }

@@ -1,22 +1,62 @@
-QUESTÃO 22
-K  ŵŽĚĞůŽ  ƌĞůĂĐŝŽŶĂů  ƌĞƉƌĞƐĞŶƚĂ  Ž  ďĂŶĐŽ  ĚĞ  ĚĂĚŽƐ 
-ĐŽŵŽ  ƵŵĂ  ĐŽůĞĕĆŽ  ĚĞ  ƌĞůĂĕƁĞƐ  ;ƚĂďĞůĂƐͿ͘   EĂ 
-ƚĞƌŵŝŶŽůŽŐŝĂ ĨŽƌŵĂů ĚŽ ŵŽĚĞůŽ ƌĞůĂĐŝŽŶĂů͕  ƵŵĂ ůŝŶŚĂ 
-Ġ ĐŚĂŵĂĚĂ ĚĞ ͞ ƚƵƉůĂ͕͟  Ž ơƚƵůŽ ĚĂ ĐŽůƵŶĂ Ġ ĚĞŶŽŵŝŶĂĚŽ ͞
-ĂƚƌŝďƵƚŽ͟  Ğ Ă ƚĂďĞůĂ Ġ ĐŚĂŵĂĚĂ ĚĞ ͞ ƌĞůĂĕĆŽ͘͟  K ƟƉŽ 
-ĚĞ ĚĂĚŽ ƋƵĞ ĚĞƐĐƌĞǀĞ ŽƐ ƟƉŽƐ ĚĞ ǀĂůŽƌĞƐ ƋƵĞ ƉŽĚĞŵ 
-ĂƉĂƌĞĐĞƌ Ğŵ ĐĂĚĂ ĐŽůƵŶĂ Ġ ĚĞŶŽŵŝŶĂĚŽ ͞ ĚŽŵşŶŝŽ͘͟  
-hŵ  ďĂŶĐŽ  ĚĞ  ĚĂĚŽƐ  ƌĞůĂĐŝŽŶĂů  ƉŽĚĞ  ŝŵƉŽƌ  ǀĄƌŝŽƐ 
-ƟƉŽƐ ĚĞ ƌĞƐƚƌŝĕƁĞƐ ŶŽƐ ĚĂĚŽƐ ĂƌŵĂǌĞŶĂĚŽƐ͘
-E>D ^Z/͕  Z͖͘  E s d,E͕  ^͘  ͘  Sistema de Banco de Dados 
-Fundamentos e Aplicações͘  ZŝŽ ĚĞ :ĂŶĞŝƌŽ͗  >dI͕  2002͘  
-ZĞƐƚƌŝĕƁĞƐ ƋƵĞ ƉĞƌŵŝƚĞŵ ĐŽŶƚƌŽůĂƌ ƐŝƚƵĂĕƁĞƐ ĐŽŵŽ͕  
-ƉŽƌ ĞǆĞŵƉůŽ͕  ͞ Ž ƐĂůĄƌŝŽ ĚĞ Ƶŵ ĞŵƉƌĞŐĂĚŽ ŶĆŽ ĚĞǀĞ 
-ĞǆĐĞĚĞƌ  Ž  ƐĂůĄƌŝŽ  ĚŽ  ƐƵƉĞƌǀŝƐŽƌ  ĚŽ  ĞŵƉƌĞŐĂĚŽ͟   Ğ 
-ƵƟůŝǌĂŵ ŵĞĐĂŶŝƐŵŽƐ ĐŚĂŵĂĚŽƐ triggers ;ŐĂƟůŚŽƐͿ ŶĂ 
-ƐƵĂ ŝŵƉůĞŵĞŶƚĂĕĆŽ͕  ƐĆŽ ĚŽ ƟƉŽ
-A ƌĞƐƚƌŝĕƁĞƐ ĚĞ ĚŽŵşŶŝŽ͘
-B ƌĞƐƚƌŝĕƁĞƐ ĚĞ ƵŶŝĐŝĚĂĚĞ͘
-C ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ƌĞĨĞƌĞŶĐŝĂů͘
-D ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ĚĂ ĞŶƟĚĂĚĞ͘
-E ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ƐĞŵąŶƟĐĂ͘
+20
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 22
+O  moTelo  relacional  representa  o  banco  Te  TaTos 
+como  uma  coleção  Te  relações  (tabelas).   Na 
+terminologia formal To moTelo relacional,  uma linUa 
+é cUamaTa Te " tupla",  o ơtulo Ta coluna é TenominaTo "
+atributo"  e a tabela é cUamaTa Te " relação".  O tipo 
+Te TaTo que Tescreve os tipos Te valores que poTem 
+aparecer em caTa coluna é TenominaTo " Tomínio".  
+Um  banco  Te  TaTos  relacional  poTe  impor  vArios 
+tipos Te restrições nos TaTos armazenaTos.
+N>M SZ/,  Z.͖  N s T,N,  S.  B.  Sistema Te Banco Te MaTos 
+FunTamentos e Aplicações.  Zio Te :aneiro:  >TC,  2002.  
+Zestrições que permitem controlar situações como,  
+por exemplo,  " o salArio Te um empregaTo não Teve 
+exceTer  o  salArio  To  supervisor  To  empregaTo"   e 
+utilizam mecanismos cUamaTos triggers (gatilUos) na 
+sua implementação,  são To tipo
+A restrições Te Tomínio.
+B restrições Te uniciTaTe.
+C restrições Te integriTaTe referencial.
+M restrições Te integriTaTe Ta entiTaTe.
+N restrições Te integriTaTe semantica.
+ÁRNA LCVRN
+QUNSTÃO 23
+Os 
+termos 
+inovação 
+e 
+empreenTeTorismo 
+Tizem  respeito  a  prAtica  Ta  gestão  e  a  muTança 
+criativa.  
+  
+inovação 
+preocupa-se,  
+sobretuTo,  
+com  o  Tesenvolvimento  Te  proTutos.   :A  o 
+empreenTeTorismo  TeTica-se  mais  a  questão  Ta 
+criação Te pequenas empresas.
+Nesse contexto,  avalie as afrmações a seguir.
+/.   /novação  e  sustentabiliTaTe  são  processos 
+antagƀnicos,   ũA  que  a  inovação  contribui 
+Te  forma  importante  para  a  TegraTação  To 
+meio ambiente TeviTo a sua associação com 
+o aumento To crescimento econƀmico e To 
+consumo.
+//.      exploração  Te  um  problema  social 
+transformaTo  em  uma  oportuniTaTe  Te 
+negocio  visanTo  a  geração  Te  lucro  ao 
+empreenTeTor é um Tos principais obũetivos 
+To empreenTeTorismo social.
+///.   Nem toTo resultaTo Te um processo criativo 
+estA associaTo a uma inovação.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R40201420*

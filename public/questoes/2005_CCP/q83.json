@@ -5,44 +5,17 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 301.08,
-      "y0": 564.7356567382812,
-      "x1": 571.16,
-      "y1": 782.16,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q83.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q83.txt",
   "largura": 1156,
   "altura": 936,
   "confianca": 0.98,
-  "texto_completo": "E Todos os itens estão certos.\nQUESTÃO 83\nCom relação à tecnologia bluetooth, que possibilita a\ncomunicação sem fios entre dispositivos, assinale a opção\ncorreta.\nA Essa tecnologia utiliza a transmissão em enlace via rádio na\nbanda de freqüência VHF.\nB Essa tecnologia possibilita a transmissão de voz e dados a\ncurtas distâncias.\nC Um dispositivo pode assumir, simultaneamente, o papel de\nmestre e de escravo em uma mesma piconet que utiliza essa\ntecnologia.\nD Uma piconet pode ser formada por até 255 mestres e\n255 escravos.\nE Um dispositivo pode participar, simultaneamente, de duas\npiconets, desde que ele seja mestre em ambas.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 83,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 318.29998779296875,
-      "y": 576.7356567382812,
-      "x1": 364.7279968261719,
-      "y1": 582.7356567382812,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 83"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152912"
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n29\nQUNSTÃO 79\nxpto( [ ], R, R ).\nxpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 ).\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos preTicaTos escritos em Prolog acima, julgue os\nitens a seguir.\nC\nA execução Te xpto([1,2,3],[ ], F) conclui com sucesso\ninstancianTo F para [1,2,3].\nCC\nA execução Te zpto(5,[1,2,3] ) conclui sem sucesso.\nCCC A \nexecução \nTe \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso,\ninstancianTo X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 80\nQue caTeia é reconUeciTa pelo\nautômato \nrepresentaTo \npelo\nTiagrama Te estaTos ao laTo?\nA 101010\nB 111011000\nC 11111000\nM 10100\nN 00110011\nQUNSTÃO 81\nO estuTo Te Timensionamento e Te TesempenUo Te reTes Te\ncomunicação é uma ciência que usa constantemente os resultaTos Ta\nteoria Te filas. Nesse tipo Te análise, é comum a aToção Te moTelos\nTe filas M/M/1 para a análise Te enlaces Te roteaTores e\ncomutaTores. Nesse tipo Te moTelo, a cUegaTa Te pacotes para\ntransmissão e a transmissão Teles são processos Te Poisson. Assim,\nas características Ta fila que se forma em caTa enlace poTem ser\nTeterminaTas em função Ta taxa Te cUegaTa (tempo méTio TecorriTo\nentre a cUegaTa Te pacotes sucessivos encaminUaTos para\ntransmissão pelo enlace) e Ta taxa Te serviço (tempo méTio para\ntransmissão Te um pacote). Acerca To moTelo M/M/1 aplicaTo ao\nestuTo Te capaciTaTe e TesempenUo Te enlaces Te reTes, por\ncomutação Te pacotes, assinale a opção correta.\nA Caso a taxa Te cUegaTa seja maior que a taxa Te serviço (taxa Te\nsaíTa), conclui-se que o enlace está subTimensionaTo e Uaverá\nperTa Te pacotes.\nB A taxa Te serviço é inTepenTente To tamanUo To pacote.\nC Nm um roteaTor com múltiplos enlaces, a taxa Te cUegaTa para\ncaTa enlace é igual ao somatório Tas capaciTaTes Te toTos os\nenlaces TiviTiTo pelo número Te enlaces To roteaTor.\nM O moTelo M/M/1 apresenta instabiliTaTe numérica sempre que\na taxa Te cUegaTa for próxima Te zero.\nN QuanTo a taxa Te cUegaTa é menor que a taxa Te serviço,\npoTe-se esperar que o número méTio Te pacotes na fila seja igual\na zero.\nQUNSTÃO 82\nConsiTere que, em uma reTe PLAN, a função Te\nTensiTaTe Te probabiliTaTe (PMF) Te erro Te bit na\ntransmissão entre um computaTor conectaTo à reTe e o\nerro\nponto Te acesso (access point) — p\n(T) — seja TaTa\npela função cujo gráfico está mostraTo acima, em que T\n$ 0 é a Tistância entre o ponto Te acesso e o\ncomputaTor.\nConsiTeranTo essas informações, julgue os itens a seguir.\nC\nA probabiliTaTe Te erro Te bit na transmissão no caso Te o\n0\ncomputaTor estar localizaTo à Tistância T é TaTa\npor \n.\nCC\nSabenTo-se que a méTia Ta Tistribuição corresponTente\nà PMF acima mencionaTa é igual a x, conclui-se que é Te\n0,5 a probabiliTaTe Te erro Te bit na transmissão no caso\nTe o computaTor estar localizaTo à Tistância T = x.\nCCC SuponTo-se que o sistema Te transmissão seja binário, as\ninformações \napresentaTas \nsão \nsuficientes \npara \nse\nconcluir que a probabiliTaTe Te erro TaTo que foi enviaTo\num bit 1 é igual à probabiliTaTe Te erro TaTo que foi\nenviaTo um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 83\nCom relação à tecnologia bluetootU, que possibilita a\ncomunicação sem fios entre Tispositivos, assinale a opção\ncorreta.\nA Nssa tecnologia utiliza a transmissão em enlace via ráTio na\nbanTa Te freqüência VHF.\nB Nssa tecnologia possibilita a transmissão Te voz e TaTos a\ncurtas Tistâncias.\nC Um Tispositivo poTe assumir, simultaneamente, o papel Te\nmestre e Te escravo em uma mesma piconet que utiliza essa\ntecnologia.\nM Uma piconet poTe ser formaTa por até 255 mestres e\n255 escravos.\nN Um Tispositivo poTe participar, simultaneamente, Te Tuas\npiconets, TesTe que ele seja mestre em ambas.",
+  "figuras": [],
+  "caminho_png": "/questoes/2005_CCP/q83.png",
+  "caminho_json": "/questoes/2005_CCP/q83.json",
+  "caminho_txt": "/questoes/2005_CCP/q83.txt"
 }

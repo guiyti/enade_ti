@@ -5,44 +5,17 @@
   "paginas": [
     21
   ],
-  "segmentos": [
-    {
-      "pagina": 21,
-      "x0": 25.0,
-      "y0": 602.8855590820312,
-      "x1": 611.7199999999999,
-      "y1": 773.9274291992188,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q35.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q35.txt",
   "largura": 2475,
   "altura": 743,
   "confianca": 0.98,
-  "texto_completo": "p\np\nQUESTÃO 35\t\nQual alternativa apresenta exemplos de atividades de um plano de aula no modelo híbrido, voltado para o ensino de conceitos \nde Pensamento Computacional?\nA\t Aprendizagem dos pilares do Pensamento Computacional utilizando ambiente on-line, por meio de vídeos e quizzes interativos; \nresolução de problemas em plataformas de programação, com feedback automático; participação em fóruns de discussão.\nB\t Atividades que envolvem discussões em grupo, dinâmicas práticas com materiais físicos, criação de algoritmos visuais em \nsuportes como quadros, resolução colaborativa de desafios em sala e apresentações seguidas de debate, favorecendo a \ninteração direta entre os participantes.\nC\t Aula expositiva sobre os pilares do Pensamento Computacional, com discussão em grupo para aprofundamento dos conceitos; \nrealização de atividades práticas em ambiente da escola para resolver problemas reais aplicando os pilares estudados.\nD\t Estudo dos pilares do Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento de dúvidas e realização \nde exercícios práticos, com aplicação dos pilares na resolução de problemas e uso de recompensas para estimular o engajamento.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 35,
-      "tipo": "OBJETIVA",
-      "pagina": 21,
-      "x": 64.6063003540039,
-      "y": 614.8855590820312,
-      "x1": 124.34291076660156,
-      "y1": 630.153564453125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 35"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404680"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n21\nCOMPUTAÇÃO\n2025\nTexto para questões 34 e 35\nMurante a panTemia Ta coviT-19, Uouve um acréscimo no número Te estuTantes Te licenciatura na moTaliTaTe Te NTucação a \nMistância, conforme inTicaTo na figura. Nesse cenário, até mesmo cursos presenciais passaram a incorporar componentes on-line em \nsua estrutura curricular, aTotanTo formato UíbriTo, combinanTo práticas presenciais com ativiTaTes meTiaTas por tecnologias Tigitais.\nNúmero Te licenciaTos concluintes por moTaliTaTe e ano\nMisponível em: www.gov.br/inep. Acesso em: 30 maio 2025.\nQUNSTÃO 34\t\nCom base nas características Te caTa moTaliTaTe Te ensino, qual alternativa aponta metoTologias To ensino presencial e a \nTistância, respectivamente?\nA\t Avaliação MiversificaTa, com avaliações realizaTas por meio Te ativiTaTes no AVA, participação em fóruns, entregas Te \ntrabalUos, provas on-line; Uso Te Tecnologias Migitais como ambiente principal Te aprenTizagem, por meio Te plataformas \nvirtuais que centralizam conteúTos, ativiTaTes e interações.\nB\t Aulas Nxpositivas e Práticas, com a possibiliTaTe Ta realização Te aulas teóricas intercalaTas com ativiTaTes práticas, como \noficinas, laboratórios e observação Te campo; Cnteração Mireta, com presença entre estuTantes e professores, possibilitanTo \ntrocas imeTiatas, Turante toTas as aulas.\nC\t Cnteração Mireta, em que a aprenTizagem é centraTa no contato entre estuTantes e professores, facilitanTo Tiscussões, \nativiTaTes em grupo, Tinâmicas e trocas imeTiatas; AprenTizagem Autônoma, em que o estuTante tem maior responsabiliTaTe \npela gestão To seu tempo e pela construção To próprio conUecimento.\nM\t Ambiente Te AprenTizagem Físico, em que a sala Te aula, os laboratórios e espaços físicos Ta instituição são os principais \nlocais Te ensino; Formação Cnterativa, com as relações interpessoais, a convivência acaTêmica e o Tesenvolvimento Te \ncompetências socioemocionais senTo estimulaTas pela convivência.\nQUNSTÃO 35\t\nQual alternativa apresenta exemplos Te ativiTaTes Te um plano Te aula no moTelo UíbriTo, voltaTo para o ensino Te conceitos \nTe Pensamento Computacional?\nA\t AprenTizagem Tos pilares To Pensamento Computacional utilizanTo ambiente on-line, por meio Te víTeos e quizzes interativos; \nresolução Te problemas em plataformas Te programação, com feeTback automático; participação em fóruns Te Tiscussão.\nB\t AtiviTaTes que envolvem Tiscussões em grupo, Tinâmicas práticas com materiais físicos, criação Te algoritmos visuais em \nsuportes como quaTros, resolução colaborativa Te Tesafios em sala e apresentações seguiTas Te Tebate, favorecenTo a \ninteração Tireta entre os participantes.\nC\t Aula expositiva sobre os pilares To Pensamento Computacional, com Tiscussão em grupo para aprofunTamento Tos conceitos; \nrealização Te ativiTaTes práticas em ambiente Ta escola para resolver problemas reais aplicanTo os pilares estuTaTos.\nM\t NstuTo Tos pilares To Pensamento Computacional em ambiente on-line; na aula presencial, esclarecimento Te TúviTas e realização \nTe exercícios práticos, com aplicação Tos pilares na resolução Te problemas e uso Te recompensas para estimular o engajamento.\n*R0404202521*\n0404_computacao_bloco_04.inTT   21\n0404_computacao_bloco_04.inTT   21\n22/08/2025   13:02:46\n22/08/2025   13:02:46",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q35.png",
+  "caminho_json": "/questoes/2024_CCP/q35.json",
+  "caminho_txt": "/questoes/2024_CCP/q35.txt"
 }

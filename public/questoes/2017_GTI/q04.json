@@ -5,46 +5,19 @@
   "paginas": [
     8
   ],
-  "segmentos": [
-    {
-      "pagina": 8,
-      "x0": 25.0,
-      "y0": 76.67594909667969,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_GTI/q04.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/q04.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 04 \n^ŽďƌĞ Ă ƚĞůĞǀŝƐĆŽ͕  ĐŽŶƐŝĚĞƌĞ Ă ƟƌŝŶŚĂ Ğ Ž ƚĞǆƚŽ Ă ƐĞŐƵŝƌ͘\nTEXTO 1\nDŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉƐ͗ͬͬ\nǁǁǁ͘ ĐŽůĞƟǀĂŶĚŽ͘ ĮůĞƐ͘ ǁŽƌĚƉƌĞƐƐ͘ ĐŽŵх͘   ĐĞƐƐŽ Ğŵ͗  25 ũƵů͘  2015͘\nTEXTO 2\n  ƚĞůĞǀŝƐĆŽ Ġ ĞƐƚĞ ĐŽŶơŶƵŽ ĚĞ ŝŵĂŐĞŶƐ͕  Ğŵ ƋƵĞ Ž ƚĞůĞũŽƌŶĂů ƐĞ ĐŽŶĨƵŶĚĞ ĐŽŵ Ž ĂŶƷŶĐŝŽ ĚĞ ƉĂƐƚĂ ĚĞ \nĚĞŶƚĞƐ͕  ƋƵĞ Ġ ƐĞŵĞůŚĂŶƚĞ ă ŶŽǀĞůĂ͕  ƋƵĞ ƐĞ ŵŝƐƚƵƌĂ ĐŽŵ Ă ƚƌĂŶƐŵŝƐƐĆŽ ĚĞ ĨƵƚĞďŽů͘  KƐ ƉƌŽŐƌĂŵĂƐ ŵĂů \nƐĞ ĚŝƐƟŶŐƵĞŵ ƵŶƐ ĚŽƐ ŽƵƚƌŽƐ͘  K ĞƐƉĞƚĄĐƵůŽ ĐŽŶƐŝƐƚĞ ŶĂ ƉƌſƉƌŝĂ ƐĞƋƵġŶĐŝĂ͕  ĐĂĚĂ ǀĞǌ ŵĂŝƐ ǀĞƌƟŐŝŶŽƐĂ͕  \nĚĞ ŝŵĂŐĞŶƐ͘\nWE/yKdK͕  E͘  \u0011͘   Ɛ ŝŵĂŐĞŶƐ ĚĞ ds ƚġŵ ƚĞŵƉŽ͍  /Ŷ͗  EKs E^͕   ͘  ZĞĚĞ ŝŵĂŐŝŶĄƌŝĂ͗  ƚĞůĞǀŝƐĆŽ Ğ ĚĞŵŽĐƌĂĐŝĂ͘  \n^ĆŽ WĂƵůŽ͗  IŽŵƉĂŶŚŝĂ ĚĂƐ >ĞƚƌĂƐ͕  1991 ;ĂĚĂƉƚĂĚŽͿ͘\nIŽŵ ďĂƐĞ ŶŽƐ ƚĞǆƚŽƐ 1 Ğ 2͕  Ġ ĐŽƌƌĞƚŽ ĂĮƌŵĂƌ ƋƵĞ Ž ƚĞŵƉŽ ĚĞ ƌĞĐĞƉĕĆŽ ơƉŝĐŽ ĚĂ ƚĞůĞǀŝƐĆŽ ĐŽŵŽ ǀĞşĐƵůŽ \nĚĞ ĐŽŵƵŶŝĐĂĕĆŽ ĞƐƟŵƵůĂ Ă\nA ĐŽŶƚĞŵƉůĂĕĆŽ ĚĂƐ ŝŵĂŐĞŶƐ ĂŶŝŵĂĚĂƐ ĐŽŵŽ ŵĞŝŽ ĚĞ ƌĞŇĞǆĆŽ ĂĐĞƌĐĂ ĚŽ ĞƐƚĂĚŽ ĚĞ ĐŽŝƐĂƐ ŶŽ ŵƵŶĚŽ \nĐŽŶƚĞŵƉŽƌąŶĞŽ͕  ƚƌĂĚƵǌŝĚŽ Ğŵ ĨŽƌŵĂ ĚĞ ĞƐƉĞƚĄĐƵůŽ͘\nB ĨƌĂŐŵĞŶƚĂĕĆŽ Ğ Ž ĞǆĐĞƐƐŽ ĚĞ ŝŶĨŽƌŵĂĕĆŽ͕  ƋƵĞ ĞǀŝĚĞŶĐŝĂŵ Ă ŽƉĂĐŝĚĂĚĞ ĚŽ ŵƵŶĚŽ ĐŽŶƚĞŵƉŽƌąŶĞŽ͕  \nĐĂĚĂ ǀĞǌ ŵĂŝƐ ŝŵƉƌĞŐŶĂĚŽ ĚĞ ŝŵĂŐĞŶƐ Ğ ŝŶĨŽƌŵĂĕƁĞƐ ƐƵƉĞƌĮĐŝĂŝƐ͘\nC ĞƐƉĞĐŝĂůŝǌĂĕĆŽ ĚŽ ĐŽŶŚĞĐŝŵĞŶƚŽ͕  ĐŽŵ ǀŝƐƚĂƐ Ă ƉƌŽŵŽǀĞƌ ƵŵĂ ĚŝĨƵƐĆŽ ĚĞ ǀĂůŽƌĞƐ Ğ ƉƌŝŶĐşƉŝŽƐ ĂŵƉůŽƐ͕  \nĐŽŵ ĞƐƉĂĕŽ ŐĂƌĂŶƟĚŽ ƉĂƌĂ Ă ĚŝĨĞƌĞŶĕĂ ĐƵůƚƵƌĂů ĐŽŵŽ ĐĂƉŝƚĂů ƐŝŵďſůŝĐŽ ǀĂůŽƌŝǌĂĚŽ͘\nD ĂƚĞŶĕĆŽ ĐŽŶĐĞŶƚƌĂĚĂ ĚŽ ƚĞůĞƐƉĞĐƚĂĚŽƌ Ğŵ ĚĞƚĞƌŵŝŶĂĚŽ ĂƐƐƵŶƚŽ͕  ƵŵĂ ǀĞǌ ƋƵĞ ŽƐ ƌĞĐƵƌƐŽƐ ĞǆƉƌĞƐƐŝǀŽƐ \nƉƌſƉƌŝŽƐ ĚŽ ŵĞŝŽ ŐĂƌĂŶƚĞŵ Ă ŵŽƟǀĂĕĆŽ ŶĞĐĞƐƐĄƌŝĂ ƉĂƌĂ Ž ĨŽĐŽ Ğŵ ĚĞƚĞƌŵŝŶĂĚŽ ĂƐƐƵŶƚŽ͘\nE ƌĞĨůĞǆĆŽ ĐƌşƚŝĐĂ ĚŽ ƚĞůĞƐƉĞĐƚĂĚŽƌ͕  ƵŵĂ ǀĞǌ ƋƵĞ ƉĞƌŵŝƚĞ Ž ĂĐĞƐƐŽ Ă ƵŵĂ ƐĞƋƵġŶĐŝĂ ĚĞ ĂƐƐƵŶƚŽƐ ĚĞ \nŝŶƚĞƌĞƐƐĞ ƉƷďůŝĐŽ ƋƵĞ ƐĆŽ ĂƉƌĞƐĞŶƚĂĚŽƐ ĚĞ ĨŽƌŵĂ ũƵƐƚĂƉŽƐƚĂ͕  Ž ƋƵĞ ƉĞƌŵŝƚĞ Ž ĞƐƚĂďĞůĞĐŝŵĞŶƚŽ \nĚĞ ĐŽŵƉĂƌĂĕƁĞƐ͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "anomalias": [],
+  "texto_completo": "8\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nYUNSTãO 04 \nSobre a televisão,  consiTere a tirinUa e o texto a seguir.\nTNXTO 1\nMisponível em:  фUtps:ͬͬ\nǁǁǁ. coletivanTo. fles. ǁorTpress. comх.   cesso em:  25 ũul.  2015.\nTNXTO 2\n  televisão é este conơnuo Te imagens,  em que o teleũornal se confunTe com o anuncio Te pasta Te \nTentes,  que é semelUante a novela,  que se mistura com a transmissão Te futebol.  Os programas mal \nse Tistinguem uns Tos outros.  O espetAculo consiste na propria sequgncia,  caTa vez mais vertiginosa,  \nTe imagens.\nPN/yOTO,  N.  B.   s imagens Te Ts tgm tempo͍  /n:  NOs NS,   .  ZeTe imaginAria:  televisão e Temocracia.  \nSão Paulo:  CompanUia Tas >etras,  1991 (aTaptaTo).\nCom base nos textos 1 e 2,  é correto afrmar que o tempo Te recepção ơpico Ta televisão como veículo \nTe comunicação estimula a\nA contemplação Tas imagens animaTas como meio Te reŇexão acerca To estaTo Te coisas no munTo \ncontemporaneo,  traTuziTo em forma Te espetAculo.\nB fragmentação e o excesso Te informação,  que eviTenciam a opaciTaTe To munTo contemporaneo,  \ncaTa vez mais impregnaTo Te imagens e informações superfciais.\nC especialização To conUecimento,  com vistas a promover uma Tifusão Te valores e princípios amplos,  \ncom espaço garantiTo para a Tiferença cultural como capital simbolico valorizaTo.\nM atenção concentraTa To telespectaTor em TeterminaTo assunto,  uma vez que os recursos expressivos \nproprios To meio garantem a motivação necessAria para o foco em TeterminaTo assunto.\nN reflexão crítica To telespectaTor,  uma vez que permite o acesso a uma sequgncia Te assuntos Te \ninteresse publico que são apresentaTos Te forma ũustaposta,  o que permite o estabelecimento \nTe comparações.\nArea livre\n*R4320178*",
   "figuras": [
     "/questoes/2017_GTI/figuras/q04_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 4,
-      "tipo": "OBJETIVA",
-      "pagina": 8,
-      "x": 60.35430145263672,
-      "y": 88.67594909667969,
-      "x1": 125.5143051147461,
-      "y1": 100.95195007324219,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 04"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:16.379420"
+  "caminho_png": "/questoes/2017_GTI/q04.png",
+  "caminho_json": "/questoes/2017_GTI/q04.json",
+  "caminho_txt": "/questoes/2017_GTI/q04.txt"
 }

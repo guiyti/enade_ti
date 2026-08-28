@@ -5,44 +5,17 @@
   "paginas": [
     28
   ],
-  "segmentos": [
-    {
-      "pagina": 28,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q30.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q30.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\nEŵ Ƶŵ ĐŽŵƉŝůĂĚŽƌ͕  Ƶŵ ĂŶĂůŝƐĂĚŽƌ ƐŝŶƚĄƟĐŽ ĚĞƐĐĞŶĚĞŶƚĞ ƉƌĞĚŝƟǀŽ ƉŽĚĞ ƐĞƌ ŝŵƉůĞŵĞŶƚĂĚŽ ĐŽŵ Ž ĂƵǆşůŝŽ \nĚĞ  ƵŵĂ  ƚĂďĞůĂ  ĐŽŶƐƚƌƵşĚĂ  Ă  ƉĂƌƟƌ  ĚĞ  ƵŵĂ  ŐƌĂŵĄƟĐĂ  ůŝǀƌĞ  ĚĞ  ĐŽŶƚĞǆƚŽ͘   EƐƐĂ  ƚĂďĞůĂ͕   ĐŚĂŵĂĚĂ  ƚĂďĞůĂ \nLL(k)͕  ŝŶĚŝĐĂ Ă ƌĞŐƌĂ ĚĞ ƉƌŽĚƵĕĆŽ Ă ƐĞƌ ĂƉůŝĐĂĚĂ ŽůŚĂŶĚŽͲƐĞ Ž kͲĠƐŝŵŽ ƉƌſǆŝŵŽ ƐşŵďŽůŽ ůŝĚŽ͕  ĐŚĂŵĂĚŽ \nůŽŽŬĂŚĞĂĚ(k)͘  WŽƌ ŵŽƟǀŽ ĚĞ ĞĮĐŝġŶĐŝĂ͕  ŶŽƌŵĂůŵĞŶƚĞ ďƵƐĐĂͲƐĞ ƵƟůŝǌĂƌ k 1͘  IŽŶƐŝĚĞƌĞ Ă ŐƌĂŵĄƟĐĂ ůŝǀƌĞ \nĚĞ ĐŽŶƚĞǆƚŽ G  (X, Y, Z, a, b, c, d, e, P, X) ͕  Ğŵ ƋƵĞ P Ġ ĐŽŵƉŽƐƚŽ ƉĞůĂƐ ƐĞŐƵŝŶƚĞƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ͗\nX\naZbXY c\nY\ndX\nZ\ne\n→\n→\n→\n|\n| ε\nIŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  Ă ƐĞŐƵŝŶƚĞ ƚĂďĞůĂ LL(1)͕  ĐŽŶƐƚƌƵşĚĂ Ă ƉĂƌƟƌ ĚĂ ŐƌĂŵĄƟĐĂ G͕  ƐĞŶĚŽ Ψ Ž ƐşŵďŽůŽ ƋƵĞ \nƌĞƉƌĞƐĞŶƚĂ Ž Įŵ ĚĂ ĐĂĚĞŝĂ͘  EƐƐĂ ƚĂďĞůĂ ƉŽƐƐƵŝ ĚƵĂƐ ƉƌŽĚƵĕƁĞƐ ĚŝƐƟŶƚĂƐ ŶĂ ĐĠůƵůĂ (Y, d)͕  ŐĞƌĂŶĚŽ͕  ŶŽ \nĂŶĂůŝƐĂĚŽƌ ƐŝŶƚĄƟĐŽ͕  ƵŵĂ ĚƷǀŝĚĂ ŶĂ ĞƐĐŽůŚĂ ĚĂ ƌĞŐƌĂ ĚĞ ƉƌŽĚƵĕĆŽ ĂƉůŝĐĂĚĂ Ğŵ ĚĞƚĞƌŵŝŶĂĚŽƐ ŵŽŵĞŶƚŽƐ \nĚĂ ĂŶĄůŝƐĞ͘\na\nb\nc\nd\ne\n$\nX\nXoaZbXY\nXoc\nY\nYodX\nYoH\nYoH\nZ\nZoe\nIŽŶƐŝĚĞƌĂŶĚŽ  ƋƵĞ  Ž  ƉƌŽĐĞƐƐŽ  ĚĞ  ĐŽŶƐƚƌƵĕĆŽ  ĚĞƐƐĂ  ƚĂďĞůĂ  LL(1)͕   Ă  ƉĂƌƟƌ  ĚĂ  ŐƌĂŵĄƟĐĂ  G͕   ĨŽŝ  ƐĞŐƵŝĚŽ \nĐŽƌƌĞƚĂŵĞŶƚĞ͕  Ă ĞǆŝƐƚġŶĐŝĂ ĚĞ ĚƵĂƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ ĚŝƐƟŶƚĂƐ ŶĂ ĐĠůƵůĂ (Y, d)͕  ŶĞƐƚĞ ĐĂƐŽ ĞƐƉĞĐşĮĐŽ͕  ƌĞƐƵůƚĂ\nA  ĚĂ ĂƵƐġŶĐŝĂ ĚŽ ƐşŵďŽůŽ ĚĞ Įŵ ĚĞ ĐĂĚĞŝĂ ;ΨͿ ŶĂƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ͘\nB  ĚĞ Ƶŵ ŶĆŽͲĚĞƚĞƌŵŝŶŝƐŵŽ ĐĂƵƐĂĚŽ ƉŽƌ ƵŵĂ ĂŵďŝŐƵŝĚĂĚĞ ŶĂ ŐƌĂŵĄƟĐĂ͘\nC  ĚŽ ƵƐŽ ŝŶĐŽƌƌĞƚŽ ĚŽ ƐşŵďŽůŽ ĚĞ ĐĂĚĞŝĂ ǀĂǌŝĂ ;HͿ ŶĂƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ͘\nD  ĚĂ ƉƌĞƐĞŶĕĂ ĚĞ ĚƵĂƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ ĐŽŵ Ƶŵ ƷŶŝĐŽ ƚĞƌŵŝŶĂů ŶŽ ĐŽƌƉŽ͘\nE  ĚĂ ƉƌĞƐĞŶĕĂ ĚĞ ĚƵĂƐ ƌĞŐƌĂƐ ĚĞ ƉƌŽĚƵĕĆŽ ĐŽŵ Ž ŵĞƐŵŽ ŶĆŽ ƚĞƌŵŝŶĂů ŶĂ ĐĂďĞĕĂ͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 30,
-      "tipo": "OBJETIVA",
-      "pagina": 28,
-      "x": 60.35430145263672,
-      "y": 88.699951171875,
-      "x1": 122.80711364746094,
-      "y1": 100.699951171875,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 30"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549233"
+  "texto_completo": "28\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 30\nNm um compilaTor,  um analisaTor sintAtico TescenTente preTitivo poTe ser implementaTo com o auxílio \nTe  uma  tabela  construíTa  a  partir  Te  uma  gramAtica  livre  Te  contexto.   Nssa  tabela,   cUamaTa  tabela \nLL(k),  inTica a regra Te proTução a ser aplicaTa olUanTo-se o k-ésimo proximo símbolo liTo,  cUamaTo \nlooŬaUeaT(k).  Por motivo Te efcigncia,  normalmente busca-se utilizar k 1.  ConsiTere a gramAtica livre \nTe contexto G  (X, Y, Z, a, b, c, T, e, P, X) ,  em que P é composto pelas seguintes regras Te proTução:\nX\naZbXY c\nY\nTX\nZ\ne\n→\n→\n→\n|\n| ε\nConsiTere,  ainTa,  a seguinte tabela LL(1),  construíTa a partir Ta gramAtica G,  senTo Ψ o símbolo que \nrepresenta o fm Ta caTeia.  Nssa tabela possui Tuas proTuções Tistintas na célula (Y, T),  geranTo,  no \nanalisaTor sintAtico,  uma TuviTa na escolUa Ta regra Te proTução aplicaTa em TeterminaTos momentos \nTa anAlise.\na\nb\nc\nT\ne\n$\nX\nXoaZbXY\nXoc\nY\nYoTX\nYoH\nYoH\nZ\nZoe\nConsiTeranTo  que  o  processo  Te  construção  Tessa  tabela  LL(1),   a  partir  Ta  gramAtica  G,   foi  seguiTo \ncorretamente,  a existgncia Te Tuas regras Te proTução Tistintas na célula (Y, T),  neste caso específco,  resulta\nA  Ta ausgncia To símbolo Te fm Te caTeia (Ψ) nas regras Te proTução.\nB  Te um não-Teterminismo causaTo por uma ambiguiTaTe na gramAtica.\nC  To uso incorreto To símbolo Te caTeia vazia (H) nas regras Te proTução.\nM  Ta presença Te Tuas regras Te proTução com um unico terminal no corpo.\nN  Ta presença Te Tuas regras Te proTução com o mesmo não terminal na cabeça.\nArea livre\n*R03201728*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_CCP/q30.png",
+  "caminho_json": "/questoes/2017_CCP/q30.json",
+  "caminho_txt": "/questoes/2017_CCP/q30.txt"
 }

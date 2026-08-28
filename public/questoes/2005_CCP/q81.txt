@@ -1,65 +1,119 @@
-E 00110011
-QUESTÃO 81
-O estudo de dimensionamento e de desempenho de redes d
-comunicação é uma ciência que usa constantemente os resultados d
-teoria de filas. Nesse tipo de análise, é comum a adoção de modelo
-de filas M/M/1 para a análise de enlaces de roteadores 
-comutadores. Nesse tipo de modelo, a chegada de pacotes par
-transmissão e a transmissão deles são processos de Poisson. Assim
-as características da fila que se forma em cada enlace podem se
-determinadas em função da taxa de chegada (tempo médio decorrid
-entre a chegada de pacotes sucessivos encaminhados par
-transmissão pelo enlace) e da taxa de serviço (tempo médio par
-transmissão de um pacote). Acerca do modelo M/M/1 aplicado a
-estudo de capacidade e desempenho de enlaces de redes, po
-comutação de pacotes, assinale a opção correta.
-A Caso a taxa de chegada seja maior que a taxa de serviço (taxa d
-saída), conclui-se que o enlace está subdimensionado e haver
-perda de pacotes.
-B A taxa de serviço é independente do tamanho do pacote.
-C Em um roteador com múltiplos enlaces, a taxa de chegada par
-cada enlace é igual ao somatório das capacidades de todos o
-enlaces dividido pelo número de enlaces do roteador.
-D O modelo M/M/1 apresenta instabilidade numérica sempre qu
-a taxa de chegada for próxima de zero.
-E Quando a taxa de chegada é menor que a taxa de serviço
-pode-se esperar que o número médio de pacotes na fila seja igua
+NNAMN – 2005
+Área: COMPUTAÇÃO
+29
+QUNSTÃO 79
+xpto( [ ], R, R ).
+xpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 ).
+zpto( X, [X|Y] ).
+zpto( X, [Y|Z] ) :- zpto( X, Z ).
+Com relação aos preTicaTos escritos em Prolog acima, julgue os
+itens a seguir.
+C
+A execução Te xpto([1,2,3],[ ], F) conclui com sucesso
+instancianTo F para [1,2,3].
+CC
+A execução Te zpto(5,[1,2,3] ) conclui sem sucesso.
+CCC A 
+execução 
+Te 
+zpto(X,[1,2,3]) 
+conclui 
+com 
+sucesso,
+instancianTo X para 1. 
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 80
+Que caTeia é reconUeciTa pelo
+autômato 
+representaTo 
+pelo
+Tiagrama Te estaTos ao laTo?
+A 101010
+B 111011000
+C 11111000
+M 10100
+N 00110011
+QUNSTÃO 81
+O estuTo Te Timensionamento e Te TesempenUo Te reTes Te
+comunicação é uma ciência que usa constantemente os resultaTos Ta
+teoria Te filas. Nesse tipo Te análise, é comum a aToção Te moTelos
+Te filas M/M/1 para a análise Te enlaces Te roteaTores e
+comutaTores. Nesse tipo Te moTelo, a cUegaTa Te pacotes para
+transmissão e a transmissão Teles são processos Te Poisson. Assim,
+as características Ta fila que se forma em caTa enlace poTem ser
+TeterminaTas em função Ta taxa Te cUegaTa (tempo méTio TecorriTo
+entre a cUegaTa Te pacotes sucessivos encaminUaTos para
+transmissão pelo enlace) e Ta taxa Te serviço (tempo méTio para
+transmissão Te um pacote). Acerca To moTelo M/M/1 aplicaTo ao
+estuTo Te capaciTaTe e TesempenUo Te enlaces Te reTes, por
+comutação Te pacotes, assinale a opção correta.
+A Caso a taxa Te cUegaTa seja maior que a taxa Te serviço (taxa Te
+saíTa), conclui-se que o enlace está subTimensionaTo e Uaverá
+perTa Te pacotes.
+B A taxa Te serviço é inTepenTente To tamanUo To pacote.
+C Nm um roteaTor com múltiplos enlaces, a taxa Te cUegaTa para
+caTa enlace é igual ao somatório Tas capaciTaTes Te toTos os
+enlaces TiviTiTo pelo número Te enlaces To roteaTor.
+M O moTelo M/M/1 apresenta instabiliTaTe numérica sempre que
+a taxa Te cUegaTa for próxima Te zero.
+N QuanTo a taxa Te cUegaTa é menor que a taxa Te serviço,
+poTe-se esperar que o número méTio Te pacotes na fila seja igual
 a zero.
-
-Considere que, em uma rede WLAN, a função de
-densidade de probabilidade (PDF) de erro de bit na
-transmissão entre um computador conectado à rede e o
+QUNSTÃO 82
+ConsiTere que, em uma reTe PLAN, a função Te
+TensiTaTe Te probabiliTaTe (PMF) Te erro Te bit na
+transmissão entre um computaTor conectaTo à reTe e o
 erro
-ponto de acesso (access point) — p
-(d) — seja dada
-pela função cujo gráfico está mostrado acima, em que d
-$ 0 é a distância entre o ponto de acesso e o
-computador.
-Considerando essas informações, julgue os itens a seguir.
-I
-A probabilidade de erro de bit na transmissão no caso de o
+ponto Te acesso (access point) — p
+(T) — seja TaTa
+pela função cujo gráfico está mostraTo acima, em que T
+$ 0 é a Tistância entre o ponto Te acesso e o
+computaTor.
+ConsiTeranTo essas informações, julgue os itens a seguir.
+C
+A probabiliTaTe Te erro Te bit na transmissão no caso Te o
 0
-computador estar localizado à distância d é dada
+computaTor estar localizaTo à Tistância T é TaTa
 por 
 .
-II
-Sabendo-se que a média da distribuição correspondente
-à PDF acima mencionada é igual a x, conclui-se que é de
-0,5 a probabilidade de erro de bit na transmissão no caso
-de o computador estar localizado à distância d = x.
-III Supondo-se que o sistema de transmissão seja binário, as
+CC
+SabenTo-se que a méTia Ta Tistribuição corresponTente
+à PMF acima mencionaTa é igual a x, conclui-se que é Te
+0,5 a probabiliTaTe Te erro Te bit na transmissão no caso
+Te o computaTor estar localizaTo à Tistância T = x.
+CCC SuponTo-se que o sistema Te transmissão seja binário, as
 informações 
-apresentadas 
+apresentaTas 
 são 
 suficientes 
 para 
 se
-concluir que a probabilidade de erro dado que foi enviado
-um bit 1 é igual à probabilidade de erro dado que foi
-enviado um bit 0. 
+concluir que a probabiliTaTe Te erro TaTo que foi enviaTo
+um bit 1 é igual à probabiliTaTe Te erro TaTo que foi
+enviaTo um bit 0. 
 Assinale a opção correta.
 A Apenas um item está certo.
-B Apenas os itens I e II estão certos.
-C Apenas os itens I e III estão certos.
-D Apenas os itens II e III estão certos.
-E Todos os itens estão certos.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 83
+Com relação à tecnologia bluetootU, que possibilita a
+comunicação sem fios entre Tispositivos, assinale a opção
+correta.
+A Nssa tecnologia utiliza a transmissão em enlace via ráTio na
+banTa Te freqüência VHF.
+B Nssa tecnologia possibilita a transmissão Te voz e TaTos a
+curtas Tistâncias.
+C Um Tispositivo poTe assumir, simultaneamente, o papel Te
+mestre e Te escravo em uma mesma piconet que utiliza essa
+tecnologia.
+M Uma piconet poTe ser formaTa por até 255 mestres e
+255 escravos.
+N Um Tispositivo poTe participar, simultaneamente, Te Tuas
+piconets, TesTe que ele seja mestre em ambas.

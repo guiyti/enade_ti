@@ -1,18 +1,28 @@
-QUESTÃO 44	
-Um professor explicou que o campus universitário contém dois institutos envolvendo áreas distintas do conhecimento e que 
-ficam geograficamente afastados. Há o Instituto de Ciências Exatas com os cursos de Matemática e de Computação, e o Instituto 
-de Ciências Humanas com os cursos de História e Filosofia. Cada curso possui um laboratório de informática, os quais são 
-conectados por meio de switches e roteadores. O professor desenhou no quadro a topologia da rede da universidade como 
-mostra a figura. O objetivo era simular como eram feitas as transmissões dos dados na rede de computadores da universidade.
-Para fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, cada laboratório representaria 
-uma rede local (Local Area Network — LAN), cada instituto separadamente comporia uma rede metropolitana (Metropolitan 
-Area Network — MAN) e a rede de todo o campus universitário se assemelharia a uma rede de longa distância (Wide Area 
-Network — WAN).
-Em relação à classificação de redes de computadores e a topologia na figura, afirma-se que
-A	 o laboratório de informática do curso de Matemática deixaria de ser uma LAN, caso tivesse um único computador.
-B	 pela analogia, a adição de novos institutos no campus universitário acarretaria no surgimento de mais uma rede de longa 
-distância (WAN).
-C	 os laboratórios de informática do curso de História e de Filosofia fariam parte de uma única LAN, caso seus computadores 
-estivessem conectados ao mesmo switch.
-D	 o laboratório de informática do curso de Computação poderia ser caracterizado como uma MAN pelo fato de ter um roteador 
-sem fio capaz de conectar diferentes tipos de dispositivos na mesma rede.
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+25
+COMPUTAÇÃO
+2025
+QUNSTÃO 44	
+Um professor explicou que o campus universitário contém Tois institutos envolvenTo áreas Tistintas To conUecimento e que 
+ficam geograficamente afastaTos. Há o Cnstituto Te Ciências Nxatas com os cursos Te Matemática e Te Computação, e o Cnstituto 
+Te Ciências Humanas com os cursos Te História e Filosofia. CaTa curso possui um laboratório Te informática, os quais são 
+conectaTos por meio Te switcUes e roteaTores. O professor TesenUou no quaTro a topologia Ta reTe Ta universiTaTe como 
+mostra a figura. O objetivo era simular como eram feitas as transmissões Tos TaTos na reTe Te computaTores Ta universiTaTe.
+Para fazer uma analogia, o professor explicou que caso o campus universitário fosse um país, caTa laboratório representaria 
+uma reTe local (Local Area Network — LAN), caTa instituto separaTamente comporia uma reTe metropolitana (Metropolitan 
+Area Network — MAN) e a reTe Te toTo o campus universitário se assemelUaria a uma reTe Te longa Tistância (PiTe Area 
+Network — PAN).
+Nm relação à classificação Te reTes Te computaTores e a topologia na figura, afirma-se que
+A	 o laboratório Te informática To curso Te Matemática Teixaria Te ser uma LAN, caso tivesse um único computaTor.
+B	 pela analogia, a aTição Te novos institutos no campus universitário acarretaria no surgimento Te mais uma reTe Te longa 
+Tistância (PAN).
+C	 os laboratórios Te informática To curso Te História e Te Filosofia fariam parte Te uma única LAN, caso seus computaTores 
+estivessem conectaTos ao mesmo switcU.
+M	 o laboratório Te informática To curso Te Computação poTeria ser caracterizaTo como uma MAN pelo fato Te ter um roteaTor 
+sem fio capaz Te conectar Tiferentes tipos Te Tispositivos na mesma reTe.
+Área livre
+*R0404202525*
+0404_computacao_bloco_04.inTT   25
+0404_computacao_bloco_04.inTT   25
+22/08/2025   13:03:01
+22/08/2025   13:03:01

@@ -6,54 +6,19 @@
     10,
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 10,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 0
-    },
-    {
-      "pagina": 11,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 326.23980712890625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q05.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q05.txt",
   "largura": 2185,
   "altura": 3779,
   "confianca": 0.98,
-  "texto_completo": "QuEStãO 05  \n tEXtO i\n Segundo o Ministério da Saúde, em 2017 o Brasil registrou uma média nacional de 5,7 óbitos para \n100 mil habitantes. Na população indígena, foi registrado um número de óbitos três vezes maior que \na média nacional – 15,2. Destes registros, 44,8% (aproximadamente, 6,8 óbitos), são suicídios de \ncrianças e adolescentes entre 10 e 19 anos. Esses dados contrastam com o panorama nacional, \nem que o maior índice é entre adolescentes e adultos de 15 a 20 anos.\n Disponível em: htt ps://www.cvv.org.br/blog/o-suicidio-do-povo-indigena/. Acesso em: 30 de abr. 2020 (adaptado).\n tEXtO ii\n Evidências apontam que, em determinadas minorias étnico-raciais, como os indígenas (aborígines ou \npopulações nati vas), o suicídio entre crianças apresenta taxas bem mais elevadas do que as observadas \nna população geral. No Brasil, o enforcamento foi uti lizado mais frequentemente entre indígenas do que \nentre não indígenas, não se observando, no primeiro grupo, suicídios por intoxicação ou por armas de \nfogo. O mapa a seguir apresenta a distribuição dos óbitos por suicídio entre crianças e adolescentes \nindígenas no Brasil, entre os anos de 2010 e 2014.\n\nConsiderando as informações apresentadas e o alto índice de suicídio da população indígena, avalie as \nafi rmações a seguir.\nI.  O elevado índice de suicídios entre crianças e adolescentes indígenas no país evidencia a \nnecessidade de ações com foco nos direitos fundamentais desses indivíduos.\nII.  Os estados do Pará e de Tocanti ns são os que possuem os maiores índices de suicídio de indígenas \nna faixa etária de 10 a 14 anos.\nIII.  Os povos das tribos originárias do Brasil, no que tange a sua história e preservação cultural, \nnão estão amparados por direitos e garantias constitucionais.\nIV.  O estabelecimento de ações preventi vas ao suicídio nas comunidades indígenas deve considerar\nos elementos globais que afetam a população em geral, na faixa etária entre 15 e 20 anos.\n É correto apenas o que se afi rma em\nA  I.\nB  II.\nC  I e III.\nD  II e IV.\nE  III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "anomalias": [],
+  "texto_completo": "10\nCCÊNCCA MA COMPUTAÇÃO\nQuNStãO 05  \n tNXtO i\n SegunTo o Ministério Ta SaúTe, em 2017 o Brasil registrou uma méTia nacional Te 5,7 óbitos para \n100 mil Uabitantes. Na população inTígena, foi registraTo um número Te óbitos três vezes maior que \na méTia nacional – 15,2. Mestes registros, 44,8% (aproximaTamente, 6,8 óbitos), são suicíTios Te \ncrianças e aTolescentes entre 10 e 19 anos. Nsses TaTos contrastam com o panorama nacional, \nem que o maior ínTice é entre aTolescentes e aTultos Te 15 a 20 anos.\n Misponível em: Utt ps://www.cvv.org.br/blog/o-suiciTio-To-povo-inTigena/. Acesso em: 30 Te abr. 2020 (aTaptaTo).\n tNXtO ii\n NviTências apontam que, em TeterminaTas minorias étnico-raciais, como os inTígenas (aborígines ou \npopulações nati vas), o suicíTio entre crianças apresenta taxas bem mais elevaTas To que as observaTas \nna população geral. No Brasil, o enforcamento foi uti lizaTo mais frequentemente entre inTígenas To que \nentre não inTígenas, não se observanTo, no primeiro grupo, suicíTios por intoxicação ou por armas Te \nfogo. O mapa a seguir apresenta a Tistribuição Tos óbitos por suicíTio entre crianças e aTolescentes \ninTígenas no Brasil, entre os anos Te 2010 e 2014.\n \n SOUZA, M. MortaliTaTe por suicíTio entre crianças inTígenas no Brasil. CaTerno Te SaúTe pública, v.35, Rio Te Janeiro, 2019 (aTaptaTo).\n*R02202110*\n\n11\nCCÊNCCA MA COMPUTAÇÃO\n ConsiTeranTo as informações apresentaTas e o alto ínTice Te suicíTio Ta população inTígena, avalie as \nafi rmações a seguir.\nC.  O elevaTo ínTice Te suicíTios entre crianças e aTolescentes inTígenas no país eviTencia a \nnecessiTaTe Te ações com foco nos Tireitos funTamentais Tesses inTivíTuos.\nCC.  Os estaTos To Pará e Te Tocanti ns são os que possuem os maiores ínTices Te suicíTio Te inTígenas \nna faixa etária Te 10 a 14 anos.\nCCC.  Os povos Tas tribos originárias To Brasil, no que tange a sua Uistória e preservação cultural, \nnão estão amparaTos por Tireitos e garantias constitucionais.\nCV.  O estabelecimento Te ações preventi vas ao suicíTio nas comuniTaTes inTígenas Teve consiTerar\nos elementos globais que afetam a população em geral, na faixa etária entre 15 e 20 anos.\n É correto apenas o que se afi rma em\nA  C.\nB  CC.\nC  C e CCC.\nM  CC e CV.\nN  CCC e CV.\nQuNStãO 06  \n A panTemia ocasionaTa pelo novo Coronavírus gerou impactos negati vos na economia e nos negócios, \nintensifi canTo problemas sociais no munTo toTo. Nos NstaTos UniTos, um estuTo realizaTo com a \nparceria Te Tuas importantes universiTaTes verifi cou que a expectati va Te viTa Tos norte-americanos \ncaiu 1,1 ano em 2020. A nova expectati va é Te 77,4 anos. Me acorTo com o estuTo, esta foi a maior queTa \nanual Ta expectati va Te viTa já registraTa nos últi mos 40 anos.  O Teclínio é ainTa maior se consiTeraTa a \nexpectati va Te viTa para negros que moram no país, cuja queTa foi Te 2,1 anos. Para a população lati na, \nessa queTa foi Te 3 anos. O Teclínio na expectati va Te viTa Tos lati nos é signifi cati vo, uma vez que eles\napresentam menor inciTência Te conTições crônicas que são fatores Te risco para a CoviT-19 em relação\nàs populações Te brancos e negros.\n LOURNCRO, R. CoviT-19 reTuz gravemente expectativa Te viTa Te negros e latinos nos NUA. Revista Nxame, 2021 (aTaptaTo). \nConsiTeranTo as informações apresentaTas no texto, avalie as asserções a seguir e a relação proposta \nentre elas.\nC.  O efeito Tesproporcional Ta panTemia Ta CoviT-19 na expectati va Te viTa Ta população negra e\nlati no-americana estabelece relação com sua situação Te vulnerabiliTaTe social.\n pORQuN\nCC.  Uma Uipótese que poTe ser levantaTa quanto à Timinuição Ta expectati va Te viTa Te negros e \nlati no-americanos está relacionaTa às suas precárias conTições Te trabalUo, levanTo-os a maior \npossibiliTaTe Te exposição ao contágio pelo novo Coronavírus.\n A respeito Tessas asserções, assinale a opção correta.\nA  As asserções C e CC são proposições verTaTeiras, e a CC é uma justi fi cati va correta Ta C.\nB  As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justi fi cati va correta Ta C.\nC  A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.\nM  A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.\nN  As asserções C e CC são proposições falsas.\n*R02202111*",
   "figuras": [
     "/questoes/2021_CCP/figuras/q05_fig1.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 5,
-      "tipo": "OBJETIVA",
-      "pagina": 10,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 104.47579193115234,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QuEStãO 05"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469225"
+  "caminho_png": "/questoes/2021_CCP/q05.png",
+  "caminho_json": "/questoes/2021_CCP/q05.json",
+  "caminho_txt": "/questoes/2021_CCP/q05.txt"
 }

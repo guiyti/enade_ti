@@ -5,44 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 525.6760864257812,
-      "x1": 288.84,
-      "y1": 721.4399999999999,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2014_CCP/q23.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q23.txt",
   "largura": 1129,
   "altura": 846,
   "confianca": 0.98,
-  "texto_completo": "ƉƌŽďůĞŵĂ ĚŽ ĐĂŝǆĞŝƌŽ ǀŝĂũĂŶƚĞ ƐĞ ƌĞĚƵǌ Ă ĞůĞ͘\nQUESTÃO 23\nYƵĂů Ž ǀĂůŽƌ ĚĞ ƌĞƚŽƌŶŽ ĚĂ ĨƵŶĕĆŽ Ă ƐĞŐƵŝƌ͕ ĐĂƐŽ Ŷ с 27͍\nint recursao (int n) {\nif (n <= 10) {\nreturn n * 2;\n}\nelse {\nreturn recursao(recursao(n/3));\n}\n}\nA 8͘\nB 9.\nC 12.\nD 16.\nE 18",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 23,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 29.6276912689209,
-      "y": 537.6760864257812,
-      "x1": 92.07929229736328,
-      "y1": 549.6760864257812,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 23"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:17.577275"
+  "texto_completo": "20\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 22\nConsiTere  o  processo  Te  fabricação  Te  um  proTuto \nsiTerurgico  que  necessita  passar  por  n  tratamentos \ntérmicos  e  químicos  para  fcar  pronto.   CaTa  uma  Tas \nn etapas Te tratamento é realizaTa uma unica vez na \nmesma calTeira.   lém To custo proprio Te caTa etapa \nTo tratamento,  existe o custo Te se passar Te uma etapa \npara  outra,   uma  vez  que,   TepenTenTo  Ta  sequgncia \nescolUiTa,  poTe ser necessArio alterar a temperatura Ta \ncalTeira e limpA-la para evitar a reação entre os proTutos \nquímicos utilizaTos.   ssuma que o processo Te fabricação \ninicia e termina com a calTeira limpa.  Meseũa-se proũetar \num algoritmo para inTicar a sequgncia Te tratamentos \nque possibilite fabricar o proTuto com o menor custo \ntotal.  Nessa situação,  conclui-se que\nA a  solução  To  problema  é  obtiTa  em  tempo  Te \norTem  O(nlogn),   utilizanTo-se  um  algoritmo \notimo Te orTenação.\nB uma  Ueurística  para  a  solução  To  problema  Te \ncoloração Te grafos solucionarA o problema em \ntempo polinomial.\nC o problema se reTuz a encontrar a Arvore geraTora \nmínima para o conũunto Te etapas To processo,  \nrequerenTo tempo Te orTem polinomial para ser \nsolucionaTo.\nM a  utilização  To  algoritmo  Te  MiũŬstra  para  se \nTeterminar o caminUo Te custo mínimo entre o \nestaTo inicial e o fnal soluciona o problema em \ntempo polinomial.\nN qualquer algoritmo conUeciTo para a solução To \nproblema Tescrito possui orTem Te complexiTaTe \nTe  tempo  não-polinomial,   uma  vez  que  o \nproblema To caixeiro viaũante se reTuz a ele.\nQUNSTÃO 23\nYual o valor Te retorno Ta função a seguir, caso n с 27͍\nint recursao (int n) {\nif (n <= 10) {\nreturn n * 2;\n}\nelse {\nreturn recursao(recursao(n/3));\n}\n}\nA 8.\nB 9.\nC 12.\nM 16.\nN 18.\nQUNSTÃO 24\nConsiTere as seguintes tabelas Te um banco Te TaTos:\n1. &orneceTor (coTͺfornec,  nomeͺfornec,  telefone,  \nciTaTe,  U&)\n2. NstaTo (U&,  nomeͺestaTo)\n  expressão SY> que obtém os nomes Tos estaTos \npara os quais não UA forneceTores caTastraTos é\nA\nSNLNCT N.UF\nFROM NstaTo AS N\nPHNRN N.nome_estaTo NOT CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\nB\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N, FROM \nForneceTor AS F\nPHNRN N.UF = F.UF;\nC\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N\nPHNRN N.UF NOT CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\nM\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N, FROM \nForneceTor AS F\nPHNRN N.nome_estaTo = F.UF;\nN\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N\nPHNRN N.UF CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\n*R03201420*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_CCP/q23.png",
+  "caminho_json": "/questoes/2014_CCP/q23.json",
+  "caminho_txt": "/questoes/2014_CCP/q23.txt"
 }

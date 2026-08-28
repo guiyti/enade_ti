@@ -5,44 +5,17 @@
   "paginas": [
     25
   ],
-  "segmentos": [
-    {
-      "pagina": 25,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 636.0886840820312,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q16.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q16.txt",
   "largura": 2185,
   "altura": 2369,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 16\t\nTEXTO I\nO desenvolvimento da Tecnologia da Informação desencadeou o crescimento exponencial do volume \nde dados. Diante desse cenário, o desafio principal é identificar, ao longo do processo de tomada de \ndecisão estratégica, os dados com verdadeiro potencial de geração de valor à organização e, neste caso, \nentende-se como geração de valor o potencial agregado em vantagem competitiva. Conseguinte, \na Ciência de Dados contribui para a consolidação do espaço significativo e importante para a \nracionalização da tomada de decisão, ferramentas e filosofias inovadoras relativas ao Big Data espelham \na maneira de dirigir a organização.\nSILVA, R. S.; PALLETA, F. C. Big Data e a informação pública: suporte à tomada de decisão estratégica. \nRevista Inteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (adaptado).\nTEXTO II\nA mente humana realiza tarefas complexas com um poder superior aos computadores, ou seja, \ntrata-se de um processo racional e lógico. Contudo, seus mecanismos de funcionamento são \nincompreendidos. A tomada de decisão depende dos dados que a suportam, todavia, a qualidade \ndos dados seja fundamental, não é condição suficiente. Outro fator de influência direta na tomada de \ndecisão, é a interpretação dos dados pela mente humana e seus processos cognitivos característicos.\nBAZERMAN, M. H.; MOORE, D. A. Processo Decisório. 8. ed. Rio de Janeiro: Elsevier, 2014 (adaptado).\nLevando em consideração os textos apresentados, avalie as afirmações a seguir.\nI.\t Em um processo de tomada de decisão, quanto mais informação o gestor tiver, melhor serão suas \nescolhas.\nII.\t As abordagens visuais são relevantes para compreensão de uma informação e, por consequência, \npara a tomada de decisão. \nIII.\t O indivíduo analisa a informação para orientar a tomada de decisão a partir de seu próprio \nconjunto de processos cognitivos, assim, a forma pela qual um dado é apresentado não influencia \na tomada de decisão.\nIV.\t A tomada de decisão pode ser prejudicada por vieses heurísticos, ou seja, por processos cognitivos \nempregados em decisões não racionais, definidos como estratégias que ignoram parte da \ninformação a fim de tornar a escolha fácil e rápida.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t II e IV.\nC\t III e IV.\nD\t I, II e III.\nE\t I, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 16,
-      "tipo": "OBJETIVA",
-      "pagina": 25,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 94.92378997802734,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 16"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241321"
+  "texto_completo": "25\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 16\t\nTNXTO C\nO Tesenvolvimento Ta Tecnologia Ta Cnformação TesencaTeou o crescimento exponencial To volume \nTe TaTos. Miante Tesse cenário, o Tesafio principal é iTentificar, ao longo To processo Te tomaTa Te \nTecisão estratégica, os TaTos com verTaTeiro potencial Te geração Te valor à organização e, neste caso, \nentenTe-se como geração Te valor o potencial agregaTo em vantagem competitiva. Conseguinte, \na Ciência Te MaTos contribui para a consoliTação To espaço significativo e importante para a \nracionalização Ta tomaTa Te Tecisão, ferramentas e filosofias inovaToras relativas ao Big Mata espelUam \na maneira Te Tirigir a organização.\nSCLVA, R. S.; PALLNTA, F. C. Big Mata e a informação pública: suporte à tomaTa Te Tecisão estratégica. \nRevista Cnteligência Competitiva, v. 9, n. 2, p. 31-52, abr./jun. 2019 (aTaptaTo).\nTNXTO CC\nA mente Uumana realiza tarefas complexas com um poTer superior aos computaTores, ou seja, \ntrata-se Te um processo racional e lógico. ContuTo, seus mecanismos Te funcionamento são \nincompreenTiTos. A tomaTa Te Tecisão TepenTe Tos TaTos que a suportam, toTavia, a qualiTaTe \nTos TaTos seja funTamental, não é conTição suficiente. Outro fator Te influência Tireta na tomaTa Te \nTecisão, é a interpretação Tos TaTos pela mente Uumana e seus processos cognitivos característicos.\nBAZNRMAN, M. H.; MOORN, M. A. Processo Mecisório. 8. eT. Rio Te Janeiro: Nlsevier, 2014 (aTaptaTo).\nLevanTo em consiTeração os textos apresentaTos, avalie as afirmações a seguir.\nC.\t Nm um processo Te tomaTa Te Tecisão, quanto mais informação o gestor tiver, melUor serão suas \nescolUas.\nCC.\t As aborTagens visuais são relevantes para compreensão Te uma informação e, por consequência, \npara a tomaTa Te Tecisão. \nCCC.\t O inTivíTuo analisa a informação para orientar a tomaTa Te Tecisão a partir Te seu próprio \nconjunto Te processos cognitivos, assim, a forma pela qual um TaTo é apresentaTo não influencia \na tomaTa Te Tecisão.\nCV.\t A tomaTa Te Tecisão poTe ser prejuTicaTa por vieses Ueurísticos, ou seja, por processos cognitivos \nempregaTos em Tecisões não racionais, TefiniTos como estratégias que ignoram parte Ta \ninformação a fim Te tornar a escolUa fácil e rápiTa.\nÉ correto apenas o que se afirma em\nA\t C e CC.\nB\t CC e CV.\nC\t CCC e CV.\nM\t C, CC e CCC.\nN\t C, CCC e CV.\nÁrea livre\n*R29202125*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q16.png",
+  "caminho_json": "/questoes/2021_GTI/q16.json",
+  "caminho_txt": "/questoes/2021_GTI/q16.txt"
 }

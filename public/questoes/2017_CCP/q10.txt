@@ -1,47 +1,83 @@
-QUESTÃO 10
-IŽŶƐŝĚĞƌĞ 
-ŽƐ 
-ƐĞŐƵŝŶƚĞƐ 
-ƌĞƋƵŝƐŝƚŽƐ 
-ƉĂƌĂ 
-ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  ƵŵĂ  ƐŽůƵĕĆŽ  ƉĂƌĂ  ƵŵĂ  ƌĞĚĞ 
-ĚĞ ƌĞƐƚĂƵƌĂŶƚĞƐ fast-food͗
-YƵĂŶĚŽ Ž ƐƚĂƚƵƐ ĚĞ Ƶŵ ƉĞĚŝĚŽ Ġ ĂƚƵĂůŝǌĂĚŽ͕  ƚŽĚŽƐ 
-ŽƐ  ĚŝƐƉŽƐŝƟǀŽƐ  ĚŽƐ  ĞŶǀŽůǀŝĚŽƐ  ĚĞǀĞŵ  ƌĞĐĞďĞƌ 
-Ă  ŝŶĨŽƌŵĂĕĆŽ͘   KƐ  ƐŝƐƚĞŵĂƐ  Ă  ƐĞƌ  ĂƚƵĂůŝǌĂĚŽƐ 
-ŝŶĐůƵĞŵ ŽƐ ĂĐĞƐƐĂĚŽƐ ƉĞůŽ ĞŶƚƌĞŐĂĚŽƌ͕  ƉĞůĂ ůŝŶŚĂ 
-ĚĞ  ƉƌŽĚƵĕĆŽ  Ğ  ƉĞůĂ  ĐĞŶƚƌĂů  ĚĞ  ĂƚĞŶĚŝŵĞŶƚŽ͘  
-EƐƉĞƌĂͲƐĞ ĂŝŶĚĂ ƋƵĞ ŽƵƚƌŽƐ ƐŝƐƚĞŵĂƐ ƉŽƐƐĂŵ ƐĞƌ 
-ŝŶĐůƵşĚŽƐ ĨƵƚƵƌĂŵĞŶƚĞ ;ƉŽƌ ĞǆĞŵƉůŽ͕  ƐŝƐƚĞŵĂ ĚĞ 
-ƉĞĚŝĚŽ on-line ĚŽ ĐůŝĞŶƚĞͿ͕  ĚĞǀĞŶĚŽ ƐĞ ĐŽŵƉŽƌƚĂƌ 
-ĚĂ ŵĞƐŵĂ ĨŽƌŵĂ͘
-IŽŶƐŝĚĞƌĂŶĚŽ ĞƐƐĞ ĐŽŶƚĞǆƚŽ͕  ĂǀĂůŝĞ ĂƐ ĂƐƐĞƌĕƁĞƐ Ă 
-ƐĞŐƵŝƌ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘
-/͘   K 
-ƌĞƋƵŝƐŝƚŽ 
-ĂƉƌĞƐĞŶƚĂĚŽ 
-ƉŽĚĞ 
-ƐĞƌ 
-ŝŵƉůĞŵĞŶƚĂĚŽ  ĐŽŵ  Ă  ƵƟůŝǌĂĕĆŽ  ĚŽ  ƉĂĚƌĆŽ 
-ĚĞ ƉƌŽũĞƚŽ Observer.
-WKZYhE
-//͘   K  ƉĂĚƌĆŽ  ĚĞ  ƉƌŽũĞƚŽ  Observer  ƌĞĂůŝǌĂ  Ž 
-ĞƐƟůŽ 
-ĂƌƋƵŝƚĞƚƵƌĂů 
-ĐůŝĞŶƚĞͲƐĞƌǀŝĚŽƌ͕  
-ŶŽ 
-ƋƵĂů  Ž  ƐĞƌǀŝĚŽƌ  Ġ  ƌĞƐƉŽŶƐĄǀĞů  ƉŽƌ  ĞŶǀŝĂƌ 
-ŶŽƟĮĐĂĕƁĞƐ ĂŽƐ ĐůŝĞŶƚĞƐ ƐĞŵƉƌĞ ƋƵĞ ŚŽƵǀĞƌ 
-ĂƚƵĂůŝǌĂĕĆŽ  Ğŵ  ĂůŐƵŵĂ  ŝŶĨŽƌŵĂĕĆŽ  ĚĞ 
-ŝŶƚĞƌĞƐƐĞ͘
-  ƌĞƐƉĞŝƚŽ ĚĞƐƐĂƐ ĂƐƐĞƌĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘
-A   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  
-Ğ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-B   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  
-ŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-C    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // 
-Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘
-D    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // Ġ ƵŵĂ 
-ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘
-E   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘
-ƌĞĂ ůŝǀƌĞ
+CCÊNCCA MA COMPUTAÇÃO
+17
+QUNSTÃO 10
+ConsiTere 
+os 
+seguintes 
+requisitos 
+para 
+Tesenvolvimento  Te  uma  solução  para  uma  reTe 
+Te restaurantes fast-fooT:
+YuanTo o status Te um peTiTo é atualizaTo,  toTos 
+os  Tispositivos  Tos  envolviTos  Tevem  receber 
+a  informação.   Os  sistemas  a  ser  atualizaTos 
+incluem os acessaTos pelo entregaTor,  pela linUa 
+Te  proTução  e  pela  central  Te  atenTimento.  
+Nspera-se ainTa que outros sistemas possam ser 
+incluíTos futuramente (por exemplo,  sistema Te 
+peTiTo on-line To cliente),  TevenTo se comportar 
+Ta mesma forma.
+ConsiTeranTo esse contexto,  avalie as asserções a 
+seguir e a relação proposta entre elas.
+/.   O 
+requisito 
+apresentaTo 
+poTe 
+ser 
+implementaTo  com  a  utilização  To  paTrão 
+Te proũeto Observer.
+POZYUN
+//.   O  paTrão  Te  proũeto  Observer  realiza  o 
+estilo 
+arquitetural 
+cliente-serviTor,  
+no 
+qual  o  serviTor  é  responsAvel  por  enviar 
+notifcações aos clientes sempre que Uouver 
+atualização  em  alguma  informação  Te 
+interesse.
+  respeito Tessas asserções,  assinale a opção correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+Area livre
+QUNSTÃO 11
+O 
+encapsulamento 
+é 
+um 
+mecanismo 
+Ta 
+programação  orientaTa  a  obũetos  no  qual  os 
+membros  Te  uma  classe  (atributos  e  métoTos) 
+constituem  uma  caixa  preta.   O  nível  Te 
+visibiliTaTe Tos membros poTe ser TefniTo pelos 
+moTifcaTores Te visibiliTaTe ΗprivaToΗ,  ΗpublicoΗ 
+e ΗprotegiToΗ.
+Com  relação  ao  comportamento  geraTo  pelos 
+moTifcaTores  Te  visibiliTaTe,   assinale  a  opção 
+correta.
+A Um  atributo  privaTo  poTe  ser  acessaTo 
+pelos  métoTos  privaTos  Ta  propria  classe  e 
+pelos  métoTos  protegiTos  Tas  suas  classes 
+TescenTentes.
+B Um  atributo  privaTo  poTe  ser  acessaTo 
+pelos  métoTos  publicos  Ta  propria  classe 
+e  pelos  métoTos  publicos  Tas  suas  classes 
+TescenTentes.
+C Um membro publico é visível na classe a qual 
+ele pertence,  mas não é visível nas suas classes 
+TescenTentes.
+M Um  métoTo  protegiTo  não  poTe  acessar  os 
+atributos  privaTos  e  TeclaraTos  na  propria 
+classe.
+N  Um membro protegiTo é visível na classe a qual 
+pertence e em suas classes TescenTentes.
+Area livre
+*R03201717*

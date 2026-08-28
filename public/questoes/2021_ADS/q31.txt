@@ -1,31 +1,35 @@
-QUESTÃO 31	
-Foi solicitado o desenvolvimento de um software para o controle e gestão das matrículas dos alunos 
-em uma universidade. Os alunos poderão realizá-las diretamente no sistema, em um terminal a ser 
-disponibilizado na universidade. Além dessas características, o sistema deverá considerar as restrições 
-representadas no diagrama a seguir:
+38
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 31	
+Foi solicitaTo o Tesenvolvimento Te um software para o controle e gestão Tas matrículas Tos alunos 
+em uma universiTaTe. Os alunos poTerão realizá-las Tiretamente no sistema, em um terminal a ser 
+TisponibilizaTo na universiTaTe. Além Tessas características, o sistema Teverá consiTerar as restrições 
+representaTas no Tiagrama a seguir:
 Realizar
 Matricula Fora 
-do Prazo
+To Prazo
 Realizar
 Matricula 
-Validar via
-ReƟna
-Validar via
-Digital
-Validar Aluno
+ValiTar via
+Retina
+ValiTar via
+Migital
+ValiTar Aluno
 Aluno
-<<extend>>
-<<include>>
-Com base no texto e no diagrama, avalie as afirmações a seguir.
-I.	 O aluno poderá realizar a matrícula fora do prazo e as tratativas são as mesmas da matrícula feita 
-dentro do prazo.
-II.	 O aluno poderá, opcionalmente, realizar a matrícula fora do prazo.
-III.	 O sistema, obrigatoriamente, deverá validar o aluno que realizar a matrícula fora do prazo.
-IV.	 A validação do aluno deverá ser feita a partir da sua matrícula informada no sistema.
-V.	 A validação do aluno, a ser feita por retina, é diferente da validação feita pela digital.
+<<extenT>>
+<<incluTe>>
+Com base no texto e no Tiagrama, avalie as afirmações a seguir.
+C.	 O aluno poTerá realizar a matrícula fora To prazo e as tratativas são as mesmas Ta matrícula feita 
+Tentro To prazo.
+CC.	 O aluno poTerá, opcionalmente, realizar a matrícula fora To prazo.
+CCC.	 O sistema, obrigatoriamente, Teverá valiTar o aluno que realizar a matrícula fora To prazo.
+CV.	 A valiTação To aluno Teverá ser feita a partir Ta sua matrícula informaTa no sistema.
+V.	 A valiTação To aluno, a ser feita por retina, é Tiferente Ta valiTação feita pela Tigital.
 É correto apenas o que se afirma em
-A	 I e IV.
-B	 I, II e IV.
-C	 I, III e V.
-D	 II, III e V.
-E	 II, III, IV e V.
+A	 C e CV.
+B	 C, CC e CV.
+C	 C, CCC e V.
+M	 CC, CCC e V.
+N	 CC, CCC, CV e V.
+Área livre
+*R28202138*

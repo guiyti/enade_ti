@@ -5,44 +5,17 @@
   "paginas": [
     32
   ],
-  "segmentos": [
-    {
-      "pagina": 32,
-      "x0": 25.0,
-      "y0": 76.67594909667969,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q34.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q34.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 34 \nYƵĂŶĚŽ ƐĞ ƚƌĂďĂůŚĂ ĐŽŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ͕  Ġ ƉŽƐƐşǀĞů ĞŶĐŽŶƚƌĂƌ ƌĞĚƵŶĚąŶĐŝĂ ĚĞ ĚĂĚŽƐ Ğ ŵŝƐƚƵƌĂ ĚĞ ĚŝĨĞƌĞŶƚĞƐ \nĂƐƐƵŶƚŽƐ Ğŵ ƵŵĂ ŵĞƐŵĂ ƚĂďĞůĂ͘  WĂƌĂ ĞǀŝƚĂƌ ĞƐƐĞƐ ƟƉŽƐ ĚĞ ĨĂůŚĂƐ͕  ƉŽĚĞŵ ƐĞƌ ĂƉůŝĐĂĚĂƐ ĨŽƌŵĂƐ ŶŽƌŵĂŝƐ͕  \nƋƵĞ ƐĆŽ ƌĞŐƌĂƐ ƋƵĞ ĐŽŵƉƁĞŵ Ž ƉƌŽĐĞƐƐŽ ĐŚĂŵĂĚŽ ŶŽƌŵĂůŝǌĂĕĆŽ͘  EŶƚƌĞ ĞƐƐĂƐ ƌĞŐƌĂƐ͕  ĂƐ ŵĂŝƐ ƵƟůŝǌĂĚĂƐ Ğ \nƋƵĞ ƌĞƐŽůǀĞŵ Ă ŵĂŝŽƌŝĂ ĚĂƐ ĨĂůŚĂƐ ƐĆŽ Ă WƌŝŵĞŝƌĂ &ŽƌŵĂ EŽƌŵĂů ;1&EͿ͕  Ă ^ĞŐƵŶĚĂ &ŽƌŵĂ EŽƌŵĂů ;2&EͿ Ğ Ă \ndĞƌĐĞŝƌĂ &ŽƌŵĂ EŽƌŵĂů ;3&EͿ͘    ĮŐƵƌĂ Ă ƐĞŐƵŝƌ ŵŽƐƚƌĂ Ƶŵ ĞǆĞŵƉůŽ ĚĞ ƚĂďĞůĂ ƋƵĞ ƉŽĚĞƌŝĂ ƐĞƌ ĂƌŵĂǌĞŶĂĚĂ \nĞŵ Ƶŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ͘  EĞůĂ͕  Ă ĐŽůƵŶĂ EƵŵĞƌŽ ĐŽŶƚĠŵ Ƶŵ ǀĂůŽƌ ƷŶŝĐŽ͕  ƐĞƋƵĞŶĐŝĂů͕  ƋƵĞ ŶĆŽ ƐĞ ƌĞƉĞƚĞ͘\nEƵŵĞƌŽ\ndŝƚƵůŽ\nŽŶĂ\n^ĞĕĆŽ\nUF\nEŽŵĞEůĞŝƚŽƌ\n&ŽŶĞEůĞŝƚŽƌ\n^ŝŐůĂ\nEŽŵĞWĂƌƟĚŽ\nEƵŵIĂŶĚ\nEŽŵĞIĂŶĚ\n1\n11111111111\n40\n999\nD&\nWĞƐƐŽĂ1\n11111-1111\nW1\nWĂƌƟĚŽ1\n99\nIĂŶĚŝĚĂƚŽ1\n22222-2222\n2\n22222222222\n22\n888\nRR\nWĞƐƐŽĂ2\n33333Ͳ3333\nW2\nWĂƌƟĚŽ2\n88\nIĂŶĚŝĚĂƚŽ2\n44444-4444\nIŽŵ ďĂƐĞ ŶŽ ƚĞǆƚŽ Ğ ŶŽ ĞǆĞŵƉůŽ ĚĞ ƚĂďĞůĂ ĂƉƌĞƐĞŶƚĂĚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘     ƚĂďĞůĂ ŶĆŽ ĞƐƚĄ ŶĂ 1&E Ğ͕  ƉŽƌƚĂŶƚŽ͕  ƉŽĚĞͲƐĞ ĚŝǌĞƌ ƋƵĞ ĞůĂ ŶĆŽ ĂƚĞŶĚĞ ă 2&E ŶĞŵ ă 3&E͘\n//͘   ^Ğ ĨŽƌĞŵ ĐƌŝĂĚĂƐ ĚƵĂƐ ŶŽǀĂƐ ƚĂďĞůĂƐ͗  WĂƌƟĚŽ ;ĐŽŵ ĂƐ ĐŽůƵŶĂƐ ^ŝŐůĂ Ğ EŽŵĞWĂƌƟĚŽͿ Ğ IĂŶĚŝĚĂƚŽ;ĐŽŵ \nĂƐ ĐŽůƵŶĂƐ EƵŵIĂŶĚ Ğ EŽŵĞIĂŶĚͿ͕  ƉŽĚĞͲƐĞ ĚŝǌĞƌ ƋƵĞ ĂƐ ƚƌġƐ ƚĂďĞůĂƐ ĂƚĞŶĚĞŵ ă 2&E͘\n///͘   ^Ğ Ă ƚĂďĞůĂ ĨŽƌ ƚƌĂŶƐĨŽƌŵĂĚĂ Ğŵ ĚƵĂƐ͗  sŽƚŽ ;ĐŽŵ ĂƐ ĐŽůƵŶĂƐ EƵŵĞƌŽ͕  ^ŝŐůĂ͕  EŽŵĞWĂƌƟĚŽ͕  EƵŵIĂŶĚ͕  \nEŽŵĞIĂŶĚ Ğ dŝƚƵůŽͿ Ğ EůĞŝƚŽƌ ;ĐŽŵ Ă ĐŽůƵŶĂ dŝƚƵůŽ Ğ ĂƐ ĐŽůƵŶĂƐ ƌĞƐƚĂŶƚĞƐͿ͕  ƉŽĚĞͲƐĞ ĚŝǌĞƌ ƋƵĞ ĂƐ \nĚƵĂƐ ƚĂďĞůĂƐ ĂƚĞŶĚĞŵ ă 3&E͘\n/s͘   KƐ  ĂƚƌŝďƵƚŽƐ  ^ŝŐůĂ͕   EŽŵĞWĂƌƟĚŽ͕   EƵŵIĂŶĚ  Ğ  EŽŵĞIĂŶĚ  ŶĆŽ  ĚĞƉĞŶĚĞŵ  ĨƵŶĐŝŽŶĂůŵĞŶƚĞ  ĚŽ \nĂƚƌŝďƵƚŽ EƵŵĞƌŽ͕  ŵĂƐ ŽƐ ĂƚƌŝďƵƚŽƐ ƌĞƐƚĂŶƚĞƐ͕  Ɛŝŵ͘\n\u001e ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA  /͘\nB  /s͘\nC  / Ğ ///͘\nD  // Ğ ///͘\nE  // Ğ /s͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 34,
-      "tipo": "OBJETIVA",
-      "pagina": 32,
-      "x": 60.35430145263672,
-      "y": 88.67594909667969,
-      "x1": 125.5143051147461,
-      "y1": 100.95195007324219,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 34"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Banco de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549249"
+  "texto_completo": "32\nCCÊNCCA MA COMPUTAÇÃO\nYUNSTãO 34 \nYuanTo se trabalUa com banco Te TaTos,  é possível encontrar reTunTancia Te TaTos e mistura Te Tiferentes \nassuntos em uma mesma tabela.  Para evitar esses tipos Te falUas,  poTem ser aplicaTas formas normais,  \nque são regras que compõem o processo cUamaTo normalização.  Nntre essas regras,  as mais utilizaTas e \nque resolvem a maioria Tas falUas são a Primeira &orma Normal (1&N),  a SegunTa &orma Normal (2&N) e a \nTerceira &orma Normal (3&N).    fgura a seguir mostra um exemplo Te tabela que poTeria ser armazenaTa \nem um banco Te TaTos.  Nela,  a coluna Numero contém um valor unico,  sequencial,  que não se repete.\nNumero\nTitulo\nona\nSeção\nUF\nNomeNleitor\n&oneNleitor\nSigla\nNomePartiTo\nNumCanT\nNomeCanT\n1\n11111111111\n40\n999\nM&\nPessoa1\n11111-1111\nP1\nPartiTo1\n99\nCanTiTato1\n22222-2222\n2\n22222222222\n22\n888\nRR\nPessoa2\n33333-3333\nP2\nPartiTo2\n88\nCanTiTato2\n44444-4444\nCom base no texto e no exemplo Te tabela apresentaTo,  avalie as afrmações a seguir.\n/.     tabela não estA na 1&N e,  portanto,  poTe-se Tizer que ela não atenTe a 2&N nem a 3&N.\n//.   Se forem criaTas Tuas novas tabelas:  PartiTo (com as colunas Sigla e NomePartiTo) e CanTiTato(com \nas colunas NumCanT e NomeCanT),  poTe-se Tizer que as trgs tabelas atenTem a 2&N.\n///.   Se a tabela for transformaTa em Tuas:  soto (com as colunas Numero,  Sigla,  NomePartiTo,  NumCanT,  \nNomeCanT e Titulo) e Nleitor (com a coluna Titulo e as colunas restantes),  poTe-se Tizer que as \nTuas tabelas atenTem a 3&N.\n/s.   Os  atributos  Sigla,   NomePartiTo,   NumCanT  e  NomeCanT  não  TepenTem  funcionalmente  To \natributo Numero,  mas os atributos restantes,  sim.\n\u001e correto apenas o que se afrma em\nA  /.\nB  /s.\nC  / e ///.\nM  // e ///.\nN  // e /s.\nArea livre\n*R03201732*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_CCP/q34.png",
+  "caminho_json": "/questoes/2017_CCP/q34.json",
+  "caminho_txt": "/questoes/2017_CCP/q34.txt"
 }

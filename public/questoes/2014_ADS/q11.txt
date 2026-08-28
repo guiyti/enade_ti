@@ -1,17 +1,19 @@
-QUESTÃO 11
+14
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 11
 Livro
 Autor
-Empréstimo
+Nmpréstimo
 Aluno
-PK
-PK
-PK
-FK
-FK
-PK
-liv_cod
+PO
+PO
+PO
+FO
+FO
+PO
+liv_coT
 titúlo
-autor_cod
+autor_coT
 int
 int
 int
@@ -19,43 +21,111 @@ int
 int
 int
 int
-varchar
-varchar
-varchar
-aut_cod
+varcUar
+varcUar
+varcUar
+aut_coT
 nome
 nome
-emp_cod
+emp_coT
 matricula
-data_emp
-data_dev
-data_nasc
+Tata_emp
+Tata_Tev
+Tata_nasc
 aluno_mat
-livro_cod
-date
-date
-date
-FK
-K  ŵŽĚĞůŽ  ĚĞ  ĞŶƟĚĂĚĞ  ƌĞůĂĐŝŽŶĂŵĞŶƚŽ  ĂƉƌĞƐĞŶƚĂĚŽ͕   ƌĞƉƌĞƐĞŶƚĂ  ĚĞ  ĨŽƌŵĂ  ƐƵĐŝŶƚĂ  ƵŵĂ  ƐŽůƵĕĆŽ  ƉĂƌĂ 
-ƉĞƌƐŝƐƚġŶĐŝĂ ĚĞ ĚĂĚŽƐ ĚĞ ƵŵĂ ďŝďůŝŽƚĞĐĂ͘  IŽŶƐŝĚĞƌĂŶĚŽ ƋƵĞ Ƶŵ ůŝǀƌŽ ĞƐƚĄ ĞŵƉƌĞƐƚĂĚŽ ƋƵĂŶĚŽ ƉŽƐƐƵŝƌ Ƶŵ 
-ƌĞŐŝƐƚƌŽ ǀŝŶĐƵůĂĚŽ Ă ĞůĞ ŶĂ ƚĂďĞůĂ ͞ EŵƉƌĞƐƟŵŽ͕͟  Ğ ĞƐƐĂ ƚƵƉůĂ ŶĆŽ ƉŽƐƐƵŝƌ ǀĂůŽƌ ŶĂ ĐŽůƵŶĂ ͞ ĚĂƚĂͺĚĞǀ͕͟  Ž 
-ĐŽŵĂŶĚŽ ^Y> ƋƵĞ ĚĞǀĞ ƐĞƌ ƵƟůŝǌĂĚŽ ƉĂƌĂ ůŝƐƚĂƌ ŽƐ ơƚƵůŽƐ ĚŽƐ ůŝǀƌŽƐ ĚŝƐƉŽŶşǀĞŝƐ ƉĂƌĂ ĞŵƉƌĠƐƟŵŽ Ġ
+livro_coT
+Tate
+Tate
+Tate
+FO
+O  moTelo  Te  entiTaTe  relacionamento  apresentaTo,   representa  Te  forma  sucinta  uma  solução  para 
+persistgncia Te TaTos Te uma biblioteca.  ConsiTeranTo que um livro estA emprestaTo quanTo possuir um 
+registro vinculaTo a ele na tabela " Nmprestimo",  e essa tupla não possuir valor na coluna " TataͺTev",  o 
+comanTo SY> que Teve ser utilizaTo para listar os ơtulos Tos livros Tisponíveis para empréstimo é
 A select titulo from livro 
 except
 select l.titulo from emprestimo e inner join livro l
-on e.livro_cod = l.liv_cod where e.data_dev is null
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
 B select titulo from livro
 union
 select l.titulo from emprestimo e inner join livro l
-on e.livro_cod = l.liv_cod where e.data_dev is null
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
 C select titulo from livro
 except
 select l.titulo from emprestimo e inner join livro l
-on e.livro_cod = l.liv_cod where e.data_dev is not null
-D select titulo from livro
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
+M select titulo from livro
 union select l.titulo from emprestimo e left join livro l
-on e.livro_cod = l.liv_cod where e.data_dev is null
-E select titulo from livro
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
+N select titulo from livro
 except
-select l.titulo from emprestimo e right join livro l
-on e.livro_cod = l.liv_cod where e.data_dev is not null
+select l.titulo from emprestimo e rigUt join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
+ÁRNA LCVRN
+*R40201414*
+
+15
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 12
+No  cenArio  Te  uma  economia  globalizaTa,   cresce 
+o  interesse  pelo  empreenTeTorismo  e  pela  busca 
+Te  meios  que  levem  a  uma  maior  proTutiviTaTe,  
+competitiviTaTe  e  inovação.   Os  avanços  Tas 
+tecnologias  Ta  informação  e  comunicação  (T/C) 
+auxiliam esse crescimento.   tualmente,  uma parcela 
+signifcativa  Tos  negocios  tem  uma  TepenTgncia 
+forte Tas T/C.
+Messe moTo,  manter a TisponibiliTaTe Ta informação 
+e  comunicação  e  manter  os  negocios  operanTo,  
+sem  qualquer  paralisação,   é  inTispensAvel.   Porém,  
+é  preciso  analisar  o  que  poTe  ser  afetaTo,   qual  o 
+impacto fnanceiro e quais os impactos na imagem e 
+na reputação Ta empresa,  se caTa um Tos processos 
+Te negocio sofresse uma paralisação por conta Ta T/C.
+   fm  Te  mitigar  possíveis  riscos,   é  recomenTAvel 
+Tocumentar  um  plano  para  eliminar  ou  reTuzir  a 
+possibiliTaTe Te ocorrer cenArios Te inTisponibiliTaTe 
+Ta T/C.  Nessa situação,  é preciso elaborar um
+A plano Te negocio.
+B Tocumento Te visão.
+C plano Te continggncia.
+M plano Te gergncia Te riscos.
+N plano Te gerenciamento Te proũetos.
+ÁRNA LCVRN
+QUNSTÃO 13
+  >ei n. Σ 12. 965,  Te 23 Te abril Te 2014,  originalmente 
+TenominaTa  Marco  Civil  Ta  /nternet,   estabelece 
+princípios,  garantias,  Tireitos e Teveres para o uso 
+Ta  /nternet  no  Brasil,   contribuinTo  principalmente 
+nas relações Te consumo e segurança Ta informação 
+pessoal para com os prestaTores Te serviço Te acesso 
+a /nternet.
+BZ S/>.  Lei n.° 12.965,  Te 23 Te abril Te 2014.
+SuponUa  que  o  cliente  Te  TeterminaTo  proveTor 
+Te  acesso  a  /nternet  contrata  um  serviço  com 
+velociTaTe  Te  conexão  Te  5  Megabitsͬ s  (Mbps),  
+mas  tem  continuamente  enfrentaTo  problemas  Te 
+perTa Te conexão e,  aTicionalmente,  não obtém a 
+velociTaTe  contrataTa,   apesar  Te  o  cliente  realizar 
+toTos os pagamentos em Tia.
+Nessa  situação,   avalie  as  seguintes  asserções  e  a 
+relação proposta entre elas.
+/.      manutenção  Ta  qualiTaTe  contrataTa  Ta 
+conexão a /nternet é uma obrigação prevista 
+no Marco Civil Ta /nternet.
+PORQUN
+//.   Não  poTe  Uaver  suspensão  Ta  conexão 
+a  /nternet,   salvo  por  Tébito  Tiretamente 
+Tecorrente Te sua utilização.
+  respeito Tessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verTaTeiras,  e 
+a // é uma ũustifcativa correta Ta /.
+B  s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C   asserção / é uma proposição verTaTeira,  e a // é 
+uma proposição falsa.
+M   asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N  s asserções / e // são proposições falsas.
+ÁRNA LCVRN
+*R40201415*

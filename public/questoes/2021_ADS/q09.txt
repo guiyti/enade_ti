@@ -1,11 +1,49 @@
-QUESTÃO 09	
-A etapa de definição de requisitos é voltada para estabelecer quais as funções são requeridas pelo sistema 
-e as restrições sobre a operação e o desenvolvimento do software. Os requisitos de software podem ser 
-classificados como requisitos funcionais e não funcionais.
-SOMMERVILLE, I. Engenharia de Software, 10. ed. São Paulo: Pearson Education, 2019 (adaptado).
-Considerando as informações do texto, assinale a alternativa em que o item é um requisito funcional.
-A	 O software deve ser operacionalizado no sistema Linux.
-B	 O tempo de desenvolvimento não deve ultrapassar seis meses.
-C	 O software deve emitir relatórios de compras a cada quinze dias.
-D	 O tempo de resposta do sistema não deve ultrapassar 30 segundos.
-E	 A base de dados deve ser protegida para acesso apenas de usuários autorizados.
+18
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 09	
+A etapa Te Tefinição Te requisitos é voltaTa para estabelecer quais as funções são requeriTas pelo sistema 
+e as restrições sobre a operação e o Tesenvolvimento To software. Os requisitos Te software poTem ser 
+classificaTos como requisitos funcionais e não funcionais.
+SOMMNRVCLLN, C. NngenUaria Te Software, 10. eT. São Paulo: Pearson NTucation, 2019 (aTaptaTo).
+ConsiTeranTo as informações To texto, assinale a alternativa em que o item é um requisito funcional.
+A	 O software Teve ser operacionalizaTo no sistema Linux.
+B	 O tempo Te Tesenvolvimento não Teve ultrapassar seis meses.
+C	 O software Teve emitir relatórios Te compras a caTa quinze Tias.
+M	 O tempo Te resposta To sistema não Teve ultrapassar 30 segunTos.
+N	 A base Te TaTos Teve ser protegiTa para acesso apenas Te usuários autorizaTos.
+QUNSTÃO 10	
+Uma fábrica aTquiriu máquinas Te costura inTustrial para a proTução Te jogos Te toalUas Te mesa e guarTanapos 
+Te teciTo com estampas quaTriculaTas. CaTa quaTrículo tem tamanUo paTrão Te 5 cm X 5 cm. Para a configuração 
+Ta costura, é preciso um programa Te computaTor para criar um molTe em que sejam informaTas as quantiTaTes 
+Te quaTrículos por comprimento e por largura, além To TesenUo Ta estampa a ser costuraTa. Por exemplo, 
+para um guarTanapo Te teciTo que tenUa 30 cm X 30 cm, com uma estampa representaTa pelo caractere “#”, 
+o seguinte molTe precisa ser criaTo:
+Como uma toalUa poTe ter, no máximo, 250 cm Te comprimento e 200 cm Te largura, o programaTor 
+Teclarou uma matriz cUar molTe[40][50] para ser possível representar molTes cujas meTiTas 
+compreenTam esses limites. Nle também implementou, entre outras, as seguintes funções:
+- criar_molTe, para a qual os seguintes parâmetros são esperaTos, nessa orTem: uma referência à 
+matriz molTe, o comprimento e a largura To teciTo (em quantiTaTes Te quaTrículos) e o caractere que 
+representa a estampa;
+- alternar_estampa, que tem a tarefa Te controlar a Tisposição alternaTa Tas estampas no molTe.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+5 cm
+5 cm
+*R28202118*

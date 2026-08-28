@@ -1,12 +1,91 @@
-QUESTÃO DISCURSIVA 4
-hŵĂ ĞƐƚƌƵƚƵƌĂ ĚĞ ĚĂĚŽƐ ĚŽ ƟƉŽ ƉŝůŚĂ ƉŽĚĞ ƐĞƌ ƵƐĂĚĂ Ğŵ Ƶŵ ĂůŐŽƌŝƚŵŽ ƋƵĞ ƉĞƌŵŝƚĞ ŝŵƉƌŝŵŝƌ ƵŵĂ ƉĂůĂǀƌĂ ĚĞ 
-ĨŽƌŵĂ ŝŶǀĞƌƟĚĂ͘  EǆĞŵƉůŽ͗  &E>/I/D DE ĚĞǀĞ ƐĞƌ ŝŵƉƌĞƐƐŽ ĐŽŵŽ ED D/I/>E&͘
-hƟůŝǌĂŶĚŽ ĂƐ ǀĂƌŝĄǀĞŝƐ ĚĞĐůĂƌĂĚĂƐ ĂďĂŝǆŽ͗
-pilha[1..50]: caractere;
+10
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO MCSCURSCVA 4
+Uma estrutura Te TaTos To tipo pilUa poTe ser usaTa em um algoritmo que permite imprimir uma palavra Te 
+forma invertiTa.  Nxemplo:  &N>/C/M MN Teve ser impresso como NM M/C/>N&.
+UtilizanTo as variAveis TeclaraTas abaixo:
+pilUa[1..50]: caractere;
 i, topo: inteiro;
 palavra: string;
-Eŵ ƉƐĞƵĚŽĐſĚŝŐŽ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͘
-ĂͿ  DĞƐĞŶǀŽůǀĂ Ă ƌŽƟŶĂ push ƋƵĞ ŝŶĐůƵŝ Ƶŵ ĞůĞŵĞŶƚŽ ŶĂ ƉŝůŚĂ͘  ;ǀĂůŽƌ͗  3͕ 0 ƉŽŶƚŽƐͿ
-ďͿ  DĞƐĞŶǀŽůǀĂ Ă ƌŽƟŶĂ pop ƋƵĞ ƌĞƟƌĂ Ƶŵ ĞůĞŵĞŶƚŽ ĚĂ ƉŝůŚĂ͘  ;ǀĂůŽƌ͗  3͕ 0 ƉŽŶƚŽƐͿ
-ĐͿ  DĞƐĞŶǀŽůǀĂ Ă ƌŽƟŶĂ ƋƵĞ ůĞŝĂ Ă ƉĂůĂǀƌĂ Ğ͕  ƵƐĂŶĚŽ Ă ƉŝůŚĂ͕  Ă ŝŵƉƌŝŵĂ ĚĞ ĨŽƌŵĂ ŝŶǀĞƌƟĚĂ͘  ;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ
-IĂƐŽ ŶĞĐĞƐƐŝƚĞ ĚĞ ŵĂŝƐ ĞƐƉĂĕŽ͕  ĚŝǀŝĚĂ ĂƐ ůŝŶŚĂƐ Ğŵ ĚƵĂƐ ŽƵ ƚƌġƐ ĐŽůƵŶĂƐ͘
+Nm pseuTocoTigo,  faça o que se peTe nos itens a seguir.
+a)  Mesenvolva a rotina pusU que inclui um elemento na pilUa.  (valor:  3, 0 pontos)
+b)  Mesenvolva a rotina pop que retira um elemento Ta pilUa.  (valor:  3, 0 pontos)
+c)  Mesenvolva a rotina que leia a palavra e,  usanTo a pilUa,  a imprima Te forma invertiTa.  (valor:  4, 0 pontos)
+Caso necessite Te mais espaço,  TiviTa as linUas em Tuas ou trgs colunas.  
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R40201410*
+
+11
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO MCSCURSCVA 5
+Matrizes multiTimensionais são vetores capazes Te armazenarem mais Te uma posição Te caTa elemento 
+que serA inTicaTo por Tois ou mais ínTices.  Um exemplo Te matrizes multiTimensionais são as matrizes 
+matemAticas,  que representam valores tabulaTos em linUas e colunas.
+01 algoritmo “matriz”
+02 var
+03 i, j : inteiro;
+04 m1 : vetor [1..3, 1..3] Te inteiro;
+05 m2 : vetor [1..3, 1..3] Te inteiro;
+06 inicio
+07 para i Te 1 ate 3 faça
+08
+ para j Te 1 ate 3 faça
+09
+ m1[i,j] := i + 1;
+10
+ m2[i,j] := j + 1;
+11
+ fimpara;
+12 fimpara;
+13 para i Te 1 ate 3 faça
+14
+ para j Te 1 ate 3 faça
+15
+ se (m1[i,j] = m2[i,j]) então
+16
+ m1[i,j] := 0;
+17
+ senão
+18
+ m2[i,j] := 1;
+19
+ fimse;
+20
+ fimpara;
+21 fimpara;
+22 fimalgoritmo
+ConsiTeranTo o algoritmo acima e com base no teste Te mesa,  faça o que se peTe nos itens a seguir.
+a)   presente os TaTos Tos vetores m1 e m2 ao término Ta execução Ta linUa 12.  (valor:  5, 0 pontos)
+b)   presente os TaTos Tos vetores m1 e m2 ao término Ta execução Ta linUa 21.  (valor:  5, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R40201411*

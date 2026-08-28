@@ -1,18 +1,58 @@
-QUESTÃO 50  
-Uma empresa vem desenvolvendo um programa de 
-melhoria de seus processos de software utilizando o 
-modelo de qualidade CMMI. O programa envolveu a 
-definição de todos os processos padrão da organização, 
-implementação de técnicas de controle estatístico de 
-processos e métodos de melhoria contínua. Após a 
-avaliação SCAMPI, classe A, foi detectado que a área 
-de processo de PP - Project Planning (Planejamento de 
-Projeto) não estava aderente ao modelo.
-Nesse contexto, considerando a representação por 
-estágios do CMMI, a empresa seria classificada em que 
-nível de maturidade?
+SCSTNMAS MN CNFORMAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+31
+QUNSTÃO 48  
+No Tesenvolvimento Te um software para um sistema 
+Te venTa Te proTutos nacionais e importaTos, o analista 
+gerou o Tiagrama Te casos Te uso a seguir.
+Ma análise To Tiagrama, conclui-se que
+A   a execução To caso Te uso ‘Consultar estoque’ incorpora 
+opcionalmente o caso Te uso ‘Liberar Tesconto’.
+B   a execução To caso Te uso ‘Liberar Tesconto’ incorpora 
+opcionalmente o caso Te uso ‘Realizar venTa’.
+C   a execução To caso Te uso ‘Realizar venTa’ incorpora 
+obrigatoriamente o caso Te uso ‘Consultar estoque’.
+M   a execução To caso Te uso ‘Realizar venTa Te 
+proTuto nacional’ incorpora obrigatoriamente o caso 
+Te uso ‘Liberar Tesconto’.
+N   um Gerente poTe interagir com o caso Te uso 
+‘Realizar venTa’, pois ele é um Usuário.
+QUNSTÃO 49  
+ConsiTeranTo 
+o 
+conceito 
+Te 
+sistema, 
+traziTo 
+pela Teoria Geral Te Sistemas, um projeto Te 
+Tesenvolvimento Te software poTeria ser consiTeraTo 
+como um sistema aberto.
+Nessa perspectiva, solicitações Te muTanças originaTas 
+Te um stakeUolTer externo e que afetam o projeto poTem 
+ser consiTeraTas como
+A   ambiente.
+B   entraTa.
+C   feeTback.
+M   processos.
+N   saíTa.
+QUNSTÃO 50  
+Uma empresa vem TesenvolvenTo um programa Te 
+melUoria Te seus processos Te software utilizanTo o 
+moTelo Te qualiTaTe CMMC. O programa envolveu a 
+Tefinição Te toTos os processos paTrão Ta organização, 
+implementação Te técnicas Te controle estatístico Te 
+processos e métoTos Te melUoria contínua. Após a 
+avaliação SCAMPC, classe A, foi TetectaTo que a área 
+Te processo Te PP - Project Planning (Planejamento Te 
+Projeto) não estava aTerente ao moTelo.
+Nesse contexto, consiTeranTo a representação por 
+estágios To CMMC, a empresa seria classificaTa em que 
+nível Te maturiTaTe?
 A   Nível 1.
 B   Nível 2.
 C   Nível 3.
-D   Nível 4.
-E   Nível 5.
+M   Nível 4.
+N   Nível 5.
+ÁRNA LCVRN
+*A13201131*

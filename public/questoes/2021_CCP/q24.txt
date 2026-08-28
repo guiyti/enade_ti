@@ -1,27 +1,31 @@
-QUESTÃO 24	
-A criptografia de ponta a ponta do WhatsApp garante que somente você e a pessoa com quem você está 
-se comunicando podem ler o que é enviado. Ninguém mais terá acesso a elas, nem mesmo o WhatsApp. 
-As suas mensagens estão seguras com cadeados e somente você e a pessoa que as recebe possuem 
-as chaves especiais necessárias para abri-los e ler as mensagens. E, para uma proteção ainda maior, 
-cada mensagem que você envia tem um cadeado e uma chave únicos.
-Disponível em: https://faq.whatsapp.com/pt_br/general/28030015. Acesso em: 05 mai. 2020.
-Com base no texto acima e considerando os conceitos de segurança e criptografia, avalie as 
+33
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 24	
+A criptografia Te ponta a ponta To PUatsApp garante que somente você e a pessoa com quem você está 
+se comunicanTo poTem ler o que é enviaTo. Ninguém mais terá acesso a elas, nem mesmo o PUatsApp. 
+As suas mensagens estão seguras com caTeaTos e somente você e a pessoa que as recebe possuem 
+as cUaves especiais necessárias para abri-los e ler as mensagens. N, para uma proteção ainTa maior, 
+caTa mensagem que você envia tem um caTeaTo e uma cUave únicos.
+Misponível em: Uttps://faq.wUatsapp.com/pt_br/general/28030015. Acesso em: 05 mai. 2020.
+Com base no texto acima e consiTeranTo os conceitos Te segurança e criptografia, avalie as 
 afirmações a seguir.
-I.	 Se um par de chaves é gerado durante a instalação do aplicativo e a chave pública do usuário é 
-armazenada no servidor, é possível verificar a autenticidade de uma mensagem recebida usando a 
-chave pública do remetente obtida do servidor.
-II.	 A estratégia de utilizar um vetor de inicialização (IV) variável para compor chaves criptográficas 
-diferentes para cada mensagem enviada oculta padrões de dados, além de dificultar os chamados 
-ataques de reprodução.
-III.	 O uso do algoritmo AES nas comunicações entre dois usuários indica o emprego de criptografia 
-simétrica, isto é, aquela que utiliza um par de chaves, uma usada pelo remetente, para encriptar a 
-mensagem, e outra para o destinatário decriptá-la.
-IV.	 A presença do algoritmo SHA-256, no protocolo de comunicação entre cliente e servidor, 
-sugere a verificação de integridade das mensagens, visto que é possível detectar se ocorreu 
-alguma modificação comparando-se os valores de hash da mensagem enviada e recebida.
+C.	 Se um par Te cUaves é geraTo Turante a instalação To aplicativo e a cUave pública To usuário é 
+armazenaTa no serviTor, é possível verificar a autenticiTaTe Te uma mensagem recebiTa usanTo a 
+cUave pública To remetente obtiTa To serviTor.
+CC.	 A estratégia Te utilizar um vetor Te inicialização (CV) variável para compor cUaves criptográficas 
+Tiferentes para caTa mensagem enviaTa oculta paTrões Te TaTos, além Te Tificultar os cUamaTos 
+ataques Te reproTução.
+CCC.	 O uso To algoritmo ANS nas comunicações entre Tois usuários inTica o emprego Te criptografia 
+simétrica, isto é, aquela que utiliza um par Te cUaves, uma usaTa pelo remetente, para encriptar a 
+mensagem, e outra para o Testinatário Tecriptá-la.
+CV.	 A presença To algoritmo SHA-256, no protocolo Te comunicação entre cliente e serviTor, 
+sugere a verificação Te integriTaTe Tas mensagens, visto que é possível Tetectar se ocorreu 
+alguma moTificação comparanTo-se os valores Te UasU Ta mensagem enviaTa e recebiTa.
 É correto apenas o que se afirma em
-A	 I e IV.
-B	 II e III.
-C	 III e IV.
-D	 I, II e III.
-E	 I, II e IV.
+A	 C e CV.
+B	 CC e CCC.
+C	 CCC e CV.
+M	 C, CC e CCC.
+N	 C, CC e CV.
+Área livre
+*R02202133*

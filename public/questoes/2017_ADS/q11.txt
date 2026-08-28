@@ -1,39 +1,42 @@
-QUESTÃO 11
-EŽ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  Ƶŵ  ƐŝƐƚĞŵĂ  ĚĞ  ĂƵƚŽŵĂĕĆŽ  ƉĂƌĂ  Ƶŵ  ĐůƵďĞ  ƌĞĐƌĞĂƟǀŽ͕   ƐĞƌĆŽ  ŝŵƉůĞŵĞŶƚĂĚŽƐ 
-ŵſĚƵůŽƐ ƉĂƌĂ Ž ĚĞƉĂƌƚĂŵĞŶƚŽ ĂĚŵŝŶŝƐƚƌĂƟǀŽ͕  ƚĂŝƐ ĐŽŵŽ ŽƐ ŵſĚƵůŽƐ ĚĞ ĐĂĚĂƐƚƌŽ ĚĞ ĂƐƐŽĐŝĂĚŽƐ Ğ ĚĞ 
-ŐĞƐƚĆŽ  ĚĞ  ŵĞŶƐĂůŝĚĂĚĞƐ͘   EĂ  ĐŽŶƐƚƌƵĕĆŽ  ĚĞƐƐĞƐ  ŵſĚƵůŽƐ͕   ĂůŐƵŵĂƐ  ƌĞŐƌĂƐ  ĚĞ  ŶĞŐſĐŝŽ  ƐĞƌĆŽ  ĂƉůŝĐĂĚĂƐ 
-ĐŽŶĨŽƌŵĞ Ž ĚŝĂŐƌĂŵĂ ĂďĂŝǆŽ͘
-Tipo_Associado
-Associado
-Mensalidade
-- codigo : int
-- descricao : string
-- valorMensalidade : currency
-- codigo : int
+19
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 11
+No  Tesenvolvimento  Te  um  sistema  Te  automação  para  um  clube  recreativo,   serão  implementaTos 
+moTulos para o Tepartamento aTministrativo,  tais como os moTulos Te caTastro Te associaTos e Te 
+gestão  Te  mensaliTaTes.   Na  construção  Tesses  moTulos,   algumas  regras  Te  negocio  serão  aplicaTas 
+conforme o Tiagrama abaixo.
+Tipo_AssociaTo
+AssociaTo
+MensaliTaTe
+- coTigo : int
+- Tescricao : string
+- valorMensaliTaTe : currency
+- coTigo : int
 - nome : string
-- endereco : string
+- enTereco : string
 - telefone : string
-- codigo : int
+- coTigo : int
 - anomesreferencia : string
-- valormensalidade : currency
-- datavencimento : date
+- valormensaliTaTe : currency
+- Tatavencimento : Tate
 - valorpago : currency
-- datapagamento : date
+- Tatapagamento : Tate
 1
 1
 0..*
 1..*
-IŽŵ ďĂƐĞ ŶĞƐƐĞ ĚŝĂŐƌĂŵĂ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   ,ĂǀĞƌĄ ƐŽŵĞŶƚĞ 12 ŵĞŶƐĂůŝĚĂĚĞƐ ƉĂƌĂ ĐĂĚĂ ĂƐƐŽĐŝĂĚŽ͕  ŽƵ ƐĞũĂ͕  ĂƐ ŵĞŶƐĂůŝĚĂĚĞƐ ĚŽ ĂƐƐŽĐŝĂĚŽ ŶĆŽ 
-ƉŽĚĞƌĆŽ ƵůƚƌĂƉĂƐƐĂƌ ŽƐ 12 ŵĞƐĞƐ ĚŽ ĂŶŽ͘
-//͘   EĆŽ ĞǆŝƐƚĞŵ ĂƐƐŽĐŝĂĚŽƐ ƐĞŵ ŵĞŶƐĂůŝĚĂĚĞƐ͕  ŶĞŵ ŵĞŶƐĂůŝĚĂĚĞƐ ƐĞŵ ĂƐƐŽĐŝĂĚŽ Ă ĞůĂƐ ƌĞůĂĐŝŽŶĂĚŽ͘
-///͘    ůƚĞƌĂŶĚŽͲƐĞ Ž ǀĂůŽƌ ĚĂ ŵĞŶƐĂůŝĚĂĚĞ ĚĞĮŶŝĚŽ ƉĂƌĂ ĐĂĚĂ ƟƉŽ ĚĞ ĂƐƐŽĐŝĂĚŽ ĐĂĚĂƐƚƌĂĚŽ͕  Ž ƐŝƐƚĞŵĂ 
-ĂƵƚŽŵĂƟĐĂŵĞŶƚĞ ĂůƚĞƌĂ ŽƐ ǀĂůŽƌĞƐ ĚĂƐ ŵĞŶƐĂůŝĚĂĚĞƐ ŐĞƌĂĚĂƐ ĂŶƚĞƌŝŽƌŵĞŶƚĞ͘
-/s͘   WŽĚĞƌĆŽ ĞǆŝƐƟƌ ƟƉŽƐ ĚĞ ĂƐƐŽĐŝĂĚŽƐ ƋƵĞ ŶĆŽ ƚĞƌĆŽ ŶĞŶŚƵŵ ĂƐƐŽĐŝĂĚŽ ƌĞůĂĐŝŽŶĂĚŽ Ă ĞůĞƐ͘
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  / Ğ //͘
-B  / Ğ ///͘
-C  // Ğ /s͘
-D  /͕  /// Ğ /s͘
-E  //͕  /// Ğ /s͘
-ƌĞĂ ůŝǀƌĞ
+Com base nesse Tiagrama,  avalie as afrmações a seguir.
+/.   ,averA somente 12 mensaliTaTes para caTa associaTo,  ou seũa,  as mensaliTaTes To associaTo não 
+poTerão ultrapassar os 12 meses To ano.
+//.   Não existem associaTos sem mensaliTaTes,  nem mensaliTaTes sem associaTo a elas relacionaTo.
+///.    lteranTo-se o valor Ta mensaliTaTe TefniTo para caTa tipo Te associaTo caTastraTo,  o sistema 
+automaticamente altera os valores Tas mensaliTaTes geraTas anteriormente.
+/s.   PoTerão existir tipos Te associaTos que não terão nenUum associaTo relacionaTo a eles.
+ correto apenas o que se afrma em
+A  / e //.
+B  / e ///.
+C  // e /s.
+M  /,  /// e /s.
+N  //,  /// e /s.
+Area livre
+*R41201719*

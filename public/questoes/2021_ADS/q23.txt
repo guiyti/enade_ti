@@ -1,36 +1,40 @@
-QUESTÃO 23	
-A evolução de sistemas de software legados pode ser dividida em três categorias: manutenção, 
-modernização e substituição. De acordo com a figura a seguir, conforme o tempo aumenta, a quantidade 
-de funcionalidades também cresce. No primeiro período de evolução a manutenção é realizada, pois as 
-necessidades de negócio são alteradas e o sistema precisa suprir as mudanças por meio da manutenção. 
-No segundo período é realizada a modernização do sistema, pois as necessidades de negócio continuam 
-a crescer, mas há mudanças mais significativas que se fazem necessárias. Além da substituição do sistema 
-de software, nos casos em que o modelo de negócio não atende mais a necessidade da empresa, 
-a manutenção e modernização também não são mais suficientes.
+31
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 23	
+A evolução Te sistemas Te software legaTos poTe ser TiviTiTa em três categorias: manutenção, 
+moTernização e substituição. Me acorTo com a figura a seguir, conforme o tempo aumenta, a quantiTaTe 
+Te funcionaliTaTes também cresce. No primeiro períoTo Te evolução a manutenção é realizaTa, pois as 
+necessiTaTes Te negócio são alteraTas e o sistema precisa suprir as muTanças por meio Ta manutenção. 
+No segunTo períoTo é realizaTa a moTernização To sistema, pois as necessiTaTes Te negócio continuam 
+a crescer, mas Uá muTanças mais significativas que se fazem necessárias. Além Ta substituição To sistema 
+Te software, nos casos em que o moTelo Te negócio não atenTe mais a necessiTaTe Ta empresa, 
+a manutenção e moTernização também não são mais suficientes.
 Software é
-construído
-Modernização
+construíTo
+MoTernização
 Substituição
-do software
+To software
 Manutenção
-do segundo
+To segunTo
 software
 Tempo
-Funcionalidade
+FuncionaliTaTe
 Software  1
 Software  2
-Necessidades de Negócio
-Segundo
-período de
+NecessiTaTes Te Negócio
+SegunTo
+períoTo Te
 manutenção
 Manutenção
-SEACORD, R. C.; PLAKOSH, D.; LEWIS, G. A. Modernizing Legancy Systems. Boston: Pearson Education, 2003 (adaptado).
-De acordo com a figura apresentada e considerando um sistema de software implantado de ERP (Enterprise 
-Resource Planning - Planejamento de Recursos Empresariais) contendo um conjunto de módulos que 
-integra todos os departamentos existentes de uma empresa, observou-se a necessidade de criação de um 
-relatório gerencial de comissão da equipe de vendas. Nesse contexto, é correto afirmar que a manutenção 
-a ser realizada é
+SNACORM, R. C.; PLAOOSH, M.; LNPCS, G. A. MoTernizing Legancy Systems. Boston: Pearson NTucation, 2003 (aTaptaTo).
+Me acorTo com a figura apresentaTa e consiTeranTo um sistema Te software implantaTo Te NRP (Nnterprise 
+Resource Planning - Planejamento Te Recursos Nmpresariais) contenTo um conjunto Te móTulos que 
+integra toTos os Tepartamentos existentes Te uma empresa, observou-se a necessiTaTe Te criação Te um 
+relatório gerencial Te comissão Ta equipe Te venTas. Nesse contexto, é correto afirmar que a manutenção 
+a ser realizaTa é
 A	 corretiva.
 B	 evolutiva.
 C	 funcional.
-D	 preventiva.i
+M	 preventiva.
+N	 aTaptativa.
+*R28202131*

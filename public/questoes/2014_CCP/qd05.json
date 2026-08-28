@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 558.68,
-      "y1": 229.96588134765625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2014_CCP/qd05.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/qd05.txt",
   "largura": 2254,
   "altura": 676,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO DISCURSIVA 5\n Ɛ  ƚĠĐŶŝĐĂƐ  ĚĞ  ƉƌŽũĞƚŽ  ĚĞ  ĂůŐŽƌŝƚŵŽƐ  ƐĆŽ  ĞƐƐĞŶĐŝĂŝƐ  ƉĂƌĂ  ƋƵĞ  ŽƐ  ĚĞƐĞŶǀŽůǀĞĚŽƌĞƐ  ƉŽƐƐĂŵ  ŝŵƉůĞŵĞŶƚĂƌ \nƐŽŌǁĂƌĞ ĚĞ ƋƵĂůŝĚĂĚĞ͘  EƐƐĂƐ ƚĠĐŶŝĐĂƐ ĚĞƐĐƌĞǀĞŵ ŽƐ ƉƌŝŶĐşƉŝŽƐ ƋƵĞ ĚĞǀĞŵ ƐĞƌ ĂĚŽƚĂĚŽƐ ƉĂƌĂ ƐĞ ƉƌŽũĞƚĂƌ \nƐŽůƵĕƁĞƐ  ĂůŐŽƌşƚŵŝĐĂƐ  ƉĂƌĂ  Ƶŵ  ĚĂĚŽ  ƉƌŽďůĞŵĂ͘   EŶƚƌĞ  ĂƐ  ƉƌŝŶĐŝƉĂŝƐ  ƚĠĐŶŝĐĂƐ͕   ĚĞƐƚĂĐĂŵͲƐĞ  ŽƐ  ƉƌŽũĞƚŽƐ  ĚĞ \nĂůŐŽƌŝƚŵŽƐ ƉŽƌ ƚĞŶƚĂƟǀĂ Ğ ĞƌƌŽ͕  ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͕  ƉƌŽŐƌĂŵĂĕĆŽ ĚŝŶąŵŝĐĂ Ğ ĂůŐŽƌŝƚŵŽƐ ŐƵůŽƐŽƐ͘\nEĞƐƐĞ ĐŽŶƚĞǆƚŽ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͘\nĂͿ  DĞƐĐƌĞǀĂ Ž ƋƵĞ ĐĂƌĂĐƚĞƌŝǌĂ Ž ƉƌŽũĞƚŽ ĚĞ ĂůŐŽƌŝƚŵŽƐ ƉŽƌ ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ\nďͿ   ƉƌĞƐĞŶƚĞ ƵŵĂ ƐŝƚƵĂĕĆŽ ĚĞ ƵƐŽ ĚĂ ƚĠĐŶŝĐĂ ĚĞ ƉƌŽũĞƚŽ ĚĞ ĂůŐŽƌŝƚŵŽƐ ƉŽƌ ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͘  ;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 5,
-      "tipo": "DISCURSIVA",
-      "pagina": 11,
-      "x": 29.62769889831543,
-      "y": 86.31988525390625,
-      "x1": 148.57049560546875,
-      "y1": 98.31988525390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO DISCURSIVA 5"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:17.577213"
+  "texto_completo": "11\nC/NNC/  M  COMPUT AãO\nQUNSTÃO MCSCURSCVA 5\n s  técnicas  Te  proũeto  Te  algoritmos  são  essenciais  para  que  os  TesenvolveTores  possam  implementar \nsoŌǁare Te qualiTaTe.  Nssas técnicas Tescrevem os princípios que Tevem ser aTotaTos para se proũetar \nsoluções  algorítmicas  para  um  TaTo  problema.   Nntre  as  principais  técnicas,   Testacam-se  os  proũetos  Te \nalgoritmos por tentativa e erro,  Tivisão e conquista,  programação Tinamica e algoritmos gulosos.\nNesse contexto,  faça o que se peTe nos itens a seguir.\na)  Mescreva o que caracteriza o proũeto Te algoritmos por Tivisão e conquista.  (valor:  6, 0 pontos)\nb)   presente uma situação Te uso Ta técnica Te proũeto Te algoritmos por Tivisão e conquista.  (valor:  4, 0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n*R03201411*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_CCP/qd05.png",
+  "caminho_json": "/questoes/2014_CCP/qd05.json",
+  "caminho_txt": "/questoes/2014_CCP/qd05.txt"
 }

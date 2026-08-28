@@ -5,44 +5,17 @@
   "paginas": [
     13
   ],
-  "segmentos": [
-    {
-      "pagina": 13,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 719.28,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2011_ADS/q22.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q22.txt",
   "largura": 2241,
   "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22  \nPedro foi contratado como desenvolvedor de software de uma empresa. Em seu primeiro dia de trabalho ele se deparou \ncom o DER (Diagrama Entidade-Relacionamento), que representa os dados de um sistema de controle de malotes. Foi \nsolicitado a Pedro relatório para o sistema contendo os seguintes dados: o nome de todos os funcionários que enviaram \nos malotes, o código dos malotes enviados, a descrição de seus conteúdos e a situação dos malotes. Para a geração \ndo relatório, Pedro tem que fazer uma consulta utilizando o comando SELECT da linguagem SQL.\nFUNCIONARIOS\nMatricula: INTEGER [ PK ]\nNome: VARCHAR(50)\nData_Nascimento: DATE\nCodigo_Malote: INTEGER [ PK ]\nCodigo_Conteudo: INTEGER [ PFK ]\nMatricula: INTEGER [ FK ]\nOrigem: INTEGER\nDestino: INTEGER\nData_Envio: DATE\nData_Conferencia: DATE\nSituacao_Malote: CHAR(1)\nCodigo_Conteudo: INTEGER [ PK ]\nDescricao: VARCHR(50)\nCONTEUDOS\nMALOTES\nConhecidos o modelo conceitual de dados e os dados necessários para a tarefa de Pedro, o comando SELECT que ele \ndeve executar para realizar a consulta e produzir o relatório corretamente é\nA   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (CODIGO_CONTEUDO = CODIGO_CONTEUDO) INNER JOIN FUNCIONARIOS ON (MATRICULA = \nMATRICULA);\nB   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS WHERE (CODIGO_CONTEUDO = CODIGO_CONTEUDO) AND (MATRICULA = MATRICULA);\nC   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nINNER JOIN FUNCIONARIOS ON(MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)\nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nD   SELECT NOME, CODIGO_MALOTE, DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS \nON (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)INNER JOIN FUNCIONARIOS \nON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);\nE   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, \nFUNCIONARIOS INNER JOIN WHERE (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO) \nAND (MALOTES MATRICULA = FUNCIONARIOS MATRICULA);",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 22,
-      "tipo": "OBJETIVA",
-      "pagina": 13,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 103.25318908691406,
-      "y1": 82.03392791748047,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 22"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Banco de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:21.356647"
+  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n13\nQUNSTÃO 22  \nPeTro foi contrataTo como TesenvolveTor Te software Te uma empresa. Nm seu primeiro Tia Te trabalUo ele se Teparou \ncom o MNR (Miagrama NntiTaTe-Relacionamento), que representa os TaTos Te um sistema Te controle Te malotes. Foi \nsolicitaTo a PeTro relatório para o sistema contenTo os seguintes TaTos: o nome Te toTos os funcionários que enviaram \nos malotes, o cóTigo Tos malotes enviaTos, a Tescrição Te seus conteúTos e a situação Tos malotes. Para a geração \nTo relatório, PeTro tem que fazer uma consulta utilizanTo o comanTo SNLNCT Ta linguagem SQL.\nFUNCCONARCOS\nMatricula: CNTNGNR [ PO ]\nNome: VARCHAR(50)\nMata_Nascimento: MATN\nCoTigo_Malote: CNTNGNR [ PO ]\nCoTigo_ConteuTo: CNTNGNR [ PFO ]\nMatricula: CNTNGNR [ FO ]\nOrigem: CNTNGNR\nMestino: CNTNGNR\nMata_Nnvio: MATN\nMata_Conferencia: MATN\nSituacao_Malote: CHAR(1)\nCoTigo_ConteuTo: CNTNGNR [ PO ]\nMescricao: VARCHR(50)\nCONTNUMOS\nMALOTNS\nConUeciTos o moTelo conceitual Te TaTos e os TaTos necessários para a tarefa Te PeTro, o comanTo SNLNCT que ele \nTeve executar para realizar a consulta e proTuzir o relatório corretamente é\nA   SNLNCT NOMN,COMCGO_MALOTN,MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS \nON (COMCGO_CONTNUMO = COMCGO_CONTNUMO) CNNNR JOCN FUNCCONARCOS ON (MATRCCULA = \nMATRCCULA);\nB   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO, SCTUACAO_MALOTN FROM MALOTNS, CONTNUMOS, \nFUNCCONARCOS PHNRN (COMCGO_CONTNUMO = COMCGO_CONTNUMO) ANM (MATRCCULA = MATRCCULA);\nC   SNLNCT NOMN,COMCGO_MALOTN,MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS \nCNNNR JOCN FUNCCONARCOS ON(MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO)\nON(MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);\nM   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS \nON (MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO)CNNNR JOCN FUNCCONARCOS \nON(MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);\nN   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO, SCTUACAO_MALOTN FROM MALOTNS, CONTNUMOS, \nFUNCCONARCOS CNNNR JOCN PHNRN (MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO) \nANM (MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);\n*A25201113*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_ADS/q22.png",
+  "caminho_json": "/questoes/2011_ADS/q22.json",
+  "caminho_txt": "/questoes/2011_ADS/q22.txt"
 }

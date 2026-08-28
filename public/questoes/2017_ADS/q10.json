@@ -5,44 +5,17 @@
   "paginas": [
     18
   ],
-  "segmentos": [
-    {
-      "pagina": 18,
-      "x0": 317.15999999999997,
-      "y0": 76.699951171875,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2017_ADS/q10.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_ADS/q10.txt",
   "largura": 1223,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 10\n  ĄůŐĞďƌĂ ďŽŽůĞĂŶĂ ƉŽƐƐƵŝ Ƶŵ ŽƉĞƌĂĚŽƌ ƵŶĄƌŝŽ ~͕  \nĐŽŶŚĞĐŝĚŽ ĐŽŵŽ EÃK͕  Ğ ŽƐ ŽƉĞƌĂĚŽƌĞƐ ďŝŶĄƌŝŽƐ *\ne +͕  ĐŽŶŚĞĐŝĚŽƐ ĐŽŵŽ E Ğ Kh͕  ƌĞƐƉĞĐƚŝǀĂŵĞŶƚĞ͘  \n   ƚĂďĞůĂ  ǀĞƌĚĂĚĞ  Ġ  ƵƚŝůŝǌĂĚĂ  ƉĂƌĂ  ǀĂůŝĚĂƌ  ƵŵĂ \nĨſƌŵƵůĂ  ĐŽŵƉŽƐƚĂ  ĚĞ  ŽƉĞƌĂĚŽƌĞƐ  ĚĂ  ĄůŐĞďƌĂ \nďŽŽůĞĂŶĂ͘      ƐĞŐƵŝƌ͕   Ġ  ĂƉƌĞƐĞŶƚĂĚĂ  Ă  ƚĂďĞůĂ \nǀĞƌĚĂĚĞ ƉĂƌĂ ĂƐ ƉƌŽƉŽƐŝĕƁĞƐ p͕  q e r ĚŝĂŶƚĞ ĚĂ \nĨſƌŵƵůĂ G͕  Ğŵ ƋƵĞ s ƌĞƉƌĞƐĞŶƚĂ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ \nǀĞƌĚĂĚĞŝƌĂ Ğ & ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘\np\nq\nr\nG\nV\nV\nV\nV\nV\nV\nF\nF\nV\nF\nV\nF\nV\nF\nF\nF\nF\nV\nV\nV\nF\nV\nF\nV\nF\nF\nV\nV\nF\nF\nF\nV\nIŽŶƐŝĚĞƌĂŶĚŽ  ĂƐ  ŝŶĨŽƌŵĂĕƁĞƐ  ĐŽŶƟĚĂƐ  ŶĂ  ƚĂďĞůĂ \nĂĐŝŵĂ Ğ Ă ŽƌĚĞŵ ĚĞ ƉƌĞĐĞĚġŶĐŝĂ ĚŽƐ ŽƉĞƌĂĚŽƌĞƐ \nďŽŽůĞĂŶŽƐ͕   Ă  ĨſƌŵƵůĂ  '  ƉŽƐƐƵŝ  Ă  ŵĞƐŵĂ  ƚĂďĞůĂ \nǀĞƌĚĂĚĞ ĚĂ ƉƌŽƉŽƐŝĕĆŽ\nA p + ~q * r.\nB p + q * ~r.\nC ~p + q * r.\nD ~p + ~q * r.\nE ~p + q * ~r.\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 10,
-      "tipo": "OBJETIVA",
-      "pagina": 18,
-      "x": 320.0549011230469,
-      "y": 88.699951171875,
-      "x1": 382.50653076171875,
-      "y1": 100.699951171875,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 10"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:35.652871"
+  "texto_completo": "18\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 09\nNm uma pesquisa Te satisfação com notas Te 0 a \n10,  senTo 0 muito insatisfeito e 10 muito satisfeito,  \numa  empresa  construiu  uma  tabela,   mostraTa  a \nseguir,   com  o  resumo  Tas  notas  atribuíTas  pelos \nseus clientes aos serviços recebiTos.\nNOTA\nQUANTCMAMN \nMN CLCNNTNS\n0\n0\n1\n0\n2\n0\n3\n1\n4\n2\n5\n2\n6\n2\n7\n2\n8\n2\n9\n1\n10\n0\nConsiTeranTo  essa  situação  e  as  informações \napresentaTas,  avalie as afrmações a seguir.\n/.     méTia Tas notas Tos clientes é igual a 6, 0.\n//.     meTiana Tas notas Tos clientes é igual a 6, 0.\n///.   O Tesvio paTrão populacional é menor To \nque 3, 0.\n/s.   O conũunto Te TaTos é amoTal.\nV. Um cliente que atribuiu nota 3, 0 encontra-se \nno 1Ǒ quartil.\n\u001e correto apenas o que se afrma em\nA  /,  // e ///.\nB  /,  // e s.\nC  /,  /// e /s.\nM  //,  /s e s.\nN  ///,  /s e s.\nArea livre\nQUNSTÃO 10\n  Algebra booleana possui um operaTor unArio ~,  \nconUeciTo como NãO,  e os operaTores binArios *\ne +,  conUeciTos como N e OU,  respectivamente.  \n   tabela  verTaTe  é  utilizaTa  para  valiTar  uma \nformula  composta  Te  operaTores  Ta  Algebra \nbooleana.      seguir,   é  apresentaTa  a  tabela \nverTaTe para as proposições p,  q e r Tiante Ta \nformula G,  em que s representa uma proposição \nverTaTeira e & uma proposição falsa.\np\nq\nr\nG\nV\nV\nV\nV\nV\nV\nF\nF\nV\nF\nV\nF\nV\nF\nF\nF\nF\nV\nV\nV\nF\nV\nF\nV\nF\nF\nV\nV\nF\nF\nF\nV\nConsiTeranTo  as  informações  contiTas  na  tabela \nacima e a orTem Te preceTgncia Tos operaTores \nbooleanos,   a  formula  '  possui  a  mesma  tabela \nverTaTe Ta proposição\nA p + ~q * r.\nB p + q * ~r.\nC ~p + q * r.\nM ~p + ~q * r.\nN ~p + q * ~r.\nArea livre\n*R41201718*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_ADS/q10.png",
+  "caminho_json": "/questoes/2017_ADS/q10.json",
+  "caminho_txt": "/questoes/2017_ADS/q10.txt"
 }

@@ -1,33 +1,35 @@
-QUESTÃO 10
-  ĐůĂƐƐĞ CountOccurrence ĞƐĐƌŝƚĂ ŶĂ ůŝŶŐƵĂŐĞŵ 
-:ĂǀĂ͕   ƚĞŵ  ƉŽƌ  ŽďũĞƟǀŽ  ůŽĐĂůŝǌĂƌ  Ğ  ĐŽŶƚĂƌ  ƋƵĂŶƚĂƐ 
-ŽĐŽƌƌġŶĐŝĂƐ  ĚĞ  Ƶŵ  ĚĞƚĞƌŵŝŶĂĚŽ  ǀĂůŽƌ  ĞǆŝƐƚĞŵ  Ğŵ 
-Ƶŵ ĐŽŶũƵŶƚŽ ƉƌĞĚĞƚĞƌŵŝŶĂĚŽ ĚĞ ǀĂůŽƌĞƐ͕  ƌĞƚŽƌŶĂŶĚŽ 
-Ă ƋƵĂŶƟĚĂĚĞ ĚĞ ǀĞǌĞƐ ƋƵĞ Ƶŵ ĚĞƚĞƌŵŝŶĂĚŽ ǀĂůŽƌ ƐĞ 
-ƌĞƉĞƚĞ ŶŽ ĐŽŶũƵŶƚŽ͘
+13
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 10
+  classe CountOccurrence escrita na linguagem 
+:ava,   tem  por  obũetivo  localizar  e  contar  quantas 
+ocorrgncias  Te  um  TeterminaTo  valor  existem  em 
+um conũunto preTeterminaTo Te valores,  retornanTo 
+a quantiTaTe Te vezes que um TeterminaTo valor se 
+repete no conũunto.
 1 public class CountConcurrence {
 2
 3
- public boolean hasValue(int searchValue, int[] array, int i) { 
+ public boolean UasValue(int searcUValue, int[] array, int i) { 
 4
- if (i >= array.length)
+ if (i >= array.lengtU)
 5
  return false;
 6
 7
- if (array[i] == searchValue)
+ if (array[i] == searcUValue)
 8
  return true;
 9
  else
 10 
- return hasValue(searchValue, array, i + 1);
+ return UasValue(searcUValue, array, i + 1);
 11
  }
 12
 13  public int count(int countValue, int[] array, int i) {
 14 
-    if (!hasValue(countValue, array, i) || i >= array.length)
+    if (!UasValue(countValue, array, i) || i >= array.lengtU)
 15
  return 0;
 16
@@ -46,44 +48,114 @@ QUESTÃO 10
  }
 24
 25
- public static void main(String[] args) {
+ public static voiT main(String[] args) {
 26
  int[] array = {2, 3, 5, 6, 9, 7, 8, 8, 9};
 27
  CountOccurrence co = new CountOccurrence();
 28
- System.out.println(co.count(5, array, 0));
-
-WĂƌĂ  ƋƵĞ  Ž  ĂůŐŽƌŝƚŵŽ  ĨƵŶĐŝŽŶĞ  ĐŽƌƌĞƚĂŵĞŶƚĞ͕  
-ĂƚĞŶĚĞŶĚŽ Ž ƌĞƋƵŝƐŝƚŽ ƉƌŽƉŽƐƚŽ͕  Ă ŵƵĚĂŶĕĂ Ğŵ ƐƵĂ 
-ĞƐƚƌƵƚƵƌĂ ƋƵĞ ĚĞǀĞ ƐĞƌ ĂƉůŝĐĂĚĂ Ġ
-A ĂůƚĞƌĂƌ Ă ůŝŶŚĂ 15͕  ĚĞ͗ return 0; ƉĂƌĂ͗ return 
+ System.out.println(co.count(5, array, 0));     
+29
+ }
+30 }
+Para  que  o  algoritmo  funcione  corretamente,  
+atenTenTo o requisito proposto,  a muTança em sua 
+estrutura que Teve ser aplicaTa é
+A alterar a linUa 15,  Te: return 0; para: return 
 count(countValue, array, 0)͖
-B ĂůƚĞƌĂƌ  Ă  ůŝŶŚĂ  18͕   ĚĞ͗
+B alterar  a  linUa  18,   Te:
 if (array[i] == 
-countValue)  ƉĂƌĂ͗
+countValue)  para:
 if 
 (array[c] 
 == 
 countValue)
-C ĂůƚĞƌĂƌ Ă ůŝŶŚĂ 21͕  ĚĞ͗ c += count(countValue, 
-array, i)͖  ƉĂƌĂ͗ c += count(countValue, 
+C alterar a linUa 21,  Te: c += count(countValue, 
+array, i)͖  para: c += count(countValue, 
 array, i + 1)͖
-D ĂůƚĞƌĂƌ 
-Ă 
-ůŝŶŚĂ 
-14͕  
-ĚĞ͗  
+M alterar 
+a 
+linUa 
+14,  
+Te:  
 if
-(!hasValue(countValue, array, i) 
-|| i >= array.length) ƉĂƌĂ͗  if (i >= 
-array.length)
-E ĂůƚĞƌĂƌ 
-Ă 
-ůŝŶŚĂ 
-10͕  
-ĚĞ͗  
+(!UasValue(countValue, array, i) 
+|| i >= array.lengtU) para:  if (i >= 
+array.lengtU)
+N alterar 
+a 
+linUa 
+10,  
+Te:  
 return
-hasValue(searchValue, array, i + 1);
-ƉĂƌĂ͗   return hasValue(searchValue, 
+UasValue(searcUValue, array, i + 1);
+para:   return UasValue(searcUValue, 
 array, i - 1)͖
+ÁRNA LCVRN
+*R40201413*
+
+14
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 11
+Livro
+Autor
+Nmpréstimo
+Aluno
+PO
+PO
+PO
+FO
+FO
+PO
+liv_coT
+titúlo
+autor_coT
+int
+int
+int
+int
+int
+int
+int
+varcUar
+varcUar
+varcUar
+aut_coT
+nome
+nome
+emp_coT
+matricula
+Tata_emp
+Tata_Tev
+Tata_nasc
+aluno_mat
+livro_coT
+Tate
+Tate
+Tate
+FO
+O  moTelo  Te  entiTaTe  relacionamento  apresentaTo,   representa  Te  forma  sucinta  uma  solução  para 
+persistgncia Te TaTos Te uma biblioteca.  ConsiTeranTo que um livro estA emprestaTo quanTo possuir um 
+registro vinculaTo a ele na tabela " Nmprestimo",  e essa tupla não possuir valor na coluna " TataͺTev",  o 
+comanTo SY> que Teve ser utilizaTo para listar os ơtulos Tos livros Tisponíveis para empréstimo é
+A select titulo from livro 
+except
+select l.titulo from emprestimo e inner join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
+B select titulo from livro
+union
+select l.titulo from emprestimo e inner join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
+C select titulo from livro
+except
+select l.titulo from emprestimo e inner join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
+M select titulo from livro
+union select l.titulo from emprestimo e left join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is null
+N select titulo from livro
+except
+select l.titulo from emprestimo e rigUt join livro l
+on e.livro_coT = l.liv_coT wUere e.Tata_Tev is not null
+ÁRNA LCVRN
+*R40201414*

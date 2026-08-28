@@ -1,44 +1,65 @@
-IKDWKEEEdE E^WEI1&/IK
-QUESTÃO DISCURSIVA 03
-hŵĂ ĞŵƉƌĞƐĂ ĚĞ ĐŽƐŵĠƟĐŽƐ ĐŽŵĞƌĐŝĂůŝǌĂ ĐŝŶĐŽ ĚŝĨĞƌĞŶƚĞƐ ƟƉŽƐ ĚĞ ƉƌŽĚƵƚŽƐ Ğ ŽƐ ĂƌŵĂǌĞŶĂ Ğŵ ƵŵĂ 
-ĞƐƚĂŶƚĞ ĚĞ 40 ǆ 40 ƉŽƐŝĕƁĞƐ͘  Eŵ ĐĂĚĂ ƉŽƐŝĕĆŽ ĚĂ ĞƐƚĂŶƚĞ͕  ƉŽĚĞ ĮĐĂƌ ĂƌŵĂǌĞŶĂĚĂ ĂƉĞŶĂƐ ƵŵĂ ĐĂŝǆĂ ĐŽŵ 
-Ƶŵ ĚĞƐƐĞƐ ƉƌŽĚƵƚŽƐ͘  WĂƌĂ ĨĂĐŝůŝƚĂƌ ƐƵĂ ŝĚĞŶƟĮĐĂĕĆŽ͕  ŽƐ ƉƌŽĚƵƚŽƐ ĨŽƌĂŵ ĐŽĚŝĮĐĂĚŽƐ ĚĂ ĨŽƌŵĂ Ă ƐĞŐƵŝƌ͗
-1͗  ǆĂŵƉƵ͖
-2͗  ĐŽŶĚŝĐŝŽŶĂĚŽƌ͖
-3͗  ŚŝĚƌĂƚĂŶƚĞ͖
-4͗  ƟŶƚƵƌĂ͖
-5͗  ĚĞŵĂƋƵŝůĂŶƚĞ͖
-0͗  ǀĂǌŝŽ͘
-EĞƐƐĂ  ƐŝƚƵĂĕĆŽ  Ğ  ĐŽŶƐŝĚĞƌĂŶĚŽ  Ž  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  Ƶŵ  ƐŝƐƚĞŵĂ  ƉĂƌĂ  ŐĞƌĞŶĐŝĂƌ  Ă  ŽƌŐĂŶŝǌĂĕĆŽ  ĚŽƐ 
-ƉƌŽĚƵƚŽƐ ŶĂ ĞƐƚĂŶƚĞ͕  ĞƐƚĂďĞůĞĐĞƵͲƐĞ Ă ĚĞĐůĂƌĂĕĆŽ ĚĞ ǀĂƌŝĄǀĞŝƐ Ă ƐĞŐƵŝƌ͘
+13
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+COMPONNNTN NSPNC1&/CO
+QUNSTÃO MCSCURSCVA 03
+Uma empresa Te cosméticos comercializa cinco Tiferentes tipos Te proTutos e os armazena em uma 
+estante Te 40 x 40 posições.  Nm caTa posição Ta estante,  poTe fcar armazenaTa apenas uma caixa com 
+um Tesses proTutos.  Para facilitar sua iTentifcação,  os proTutos foram coTifcaTos Ta forma a seguir:
+1:  xampu͖
+2:  conTicionaTor͖
+3:  UiTratante͖
+4:  tintura͖
+5:  Temaquilante͖
+0:  vazio.
+Nessa  situação  e  consiTeranTo  o  Tesenvolvimento  Te  um  sistema  para  gerenciar  a  organização  Tos 
+proTutos na estante,  estabeleceu-se a Teclaração Te variAveis a seguir.
 Var
-Estante: matriz [1..40][1..40] de inteiro
-Produtos: vetor [0..5] de texto = {"vazio","xampu","condicionador",
-  "hidratante", "tintura", "demaquilante"}
-Contador: vetor [0..5] de inteiro = {0,0,0,0,0,0}
+Nstante: matriz [1..40][1..40] Te inteiro
+ProTutos: vetor [0..5] Te texto = {"vazio","xampu","conTicionaTor",
+  "UiTratante", "tintura", "Temaquilante"}
+ContaTor: vetor [0..5] Te inteiro = {0,0,0,0,0,0}
 i, j: inteiro
-IŽŵ ďĂƐĞ ŶĞƐƐĂ ĚĞĐůĂƌĂĕĆŽ Ğ ĐŽŶƐŝĚĞƌĂŶĚŽ Ă ĐŽĚŝĮĐĂĕĆŽ ĚŽƐ ƉƌŽĚƵƚŽƐ ĞǆƉŽƐƚĂ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ 
-ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͕  ĂƉƌĞƐĞŶƚĂŶĚŽ ĂƐ ƐŽůƵĕƁĞƐ Ğŵ ƉƐĞƵĚŽĐſĚŝŐŽ ŽƵ Ğŵ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ͘
-ĂͿ  EƐĐƌĞǀĂ Ƶŵ ƚƌĞĐŚŽ ĚĞ ĐſĚŝŐŽ ƉĂƌĂ ůĞƌ ŽƐ ĐſĚŝŐŽƐ ĚŽƐ ƉƌŽĚƵƚŽƐ Ğ ĂƌŵĂǌĞŶĄͲůŽƐ ŶĂ ŵĂƚƌŝǌ Estante.
-;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ
-ďͿ  EƐĐƌĞǀĂ Ƶŵ ƚƌĞĐŚŽ ĚĞ ĐſĚŝŐŽ ƉĂƌĂ ĐŽŶƚĂƌ Ğ ŝŵƉƌŝŵŝƌ Ă ƋƵĂŶƟĚĂĚĞ ĚĞ ĐĂŝǆĂƐ ĚĞ ĐĂĚĂ ƟƉŽ ĚĞ ƉƌŽĚƵƚŽ 
-ŶĂ ĞƐƚĂŶƚĞ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ
+Com base nessa Teclaração e consiTeranTo a coTifcação Tos proTutos exposta,  faça o que se peTe nos 
+itens a seguir,  apresentanTo as soluções em pseuTocoTigo ou em linguagem Te programação.
+a)  Nscreva um trecUo Te coTigo para ler os coTigos Tos proTutos e armazenA-los na matriz Nstante.
+(valor:  4, 0 pontos)
+b)  Nscreva um trecUo Te coTigo para contar e imprimir a quantiTaTe Te caixas Te caTa tipo Te proTuto 
+na estante.  (valor:  6, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R41201713*
 
-QUESTÃO D/^IhZ^/s  04 
-hŵĂ ĞŵƉƌĞƐĂ ƚƌĂďĂůŚĂ ŶĂ ƉƌŽĚƵĕĆŽ ĚĞ ĐŽŶĐƌĞƚŽ Ğ ƚĞƌĐĞŝƌŝǌĂ Ž ƐĞƌǀŝĕŽ ĚĞ ƚƌĂŶƐƉŽƌƚĞ ĚŽ ƉƌŽĚƵƚŽ͘  KƐ 
-ĐĂŵŝŶŚŽŶĞŝƌŽƐ ƚĞůĞĨŽŶĂŵ ƉĂƌĂ Ă ĞŵƉƌĞƐĂ Ğ ƌĞŐŝƐƚƌĂŵ ƐĞƵ ŝŶƚĞƌĞƐƐĞ ƉĞůŽ ƚƌĂďĂůŚŽ͘  dŽĚĂƐ ĂƐ ŵĂŶŚĆƐ͕  
-ŽƐ ĐĂŵŝŶŚŽŶĞŝƌŽƐ ĞƐƚĂĐŝŽŶĂŵ Ž ĐĂŵŝŶŚĆŽ ŶŽ ƉĄƟŽ ĚĂ ĞŵƉƌĞƐĂ Ğ ĂŐƵĂƌĚĂŵ ƐƵĂ ǀĞǌ͘  K ĂƚĞŶĚŝŵĞŶƚŽ 
-ƐĞŐƵĞ Ž ĐƌŝƚĠƌŝŽ ĚĞ ŽƌĚĞŵ ĚĞ ĐŚĞŐĂĚĂ͘  EƐƐĞ ƉƌŽĐĞƐƐŽ Ġ͕  ĂƚƵĂůŵĞŶƚĞ͕  ĐŽŶƚƌŽůĂĚŽ ƉĞůĂ ƐĞĐƌĞƚĄƌŝĂ͕  ƋƵĞ 
-ƵƟůŝǌĂ ƐƵĂ ĂŐĞŶĚĂ ƉĂƌĂ ŐĞƌĞŶĐŝĂƌ ŽƐ ŵŽƚŽƌŝƐƚĂƐ ĚŝĂƌŝĂŵĞŶƚĞ͘    ĞŵƉƌĞƐĂ͕  ƋƵĞ ĐĂƌƌĞŐĂ͕  ŶŽ ŵĄǆŝŵŽ͕  10 
-ĐĂŵŝŶŚƁĞƐ ƉŽƌ ĚŝĂ͕  ƉƌĞƚĞŶĚĞ ŝŶĨŽƌŵĂƟǌĂƌ ĞƐƐĞ ƉƌŽĐĞƐƐŽ͘
-WĂƌĂ  Ă  ƐŽůƵĕĆŽ  ĚŽ  ƉƌŽďůĞŵĂ͕   ĂƉƌĞƐĞŶƚĂͲƐĞ͕   Ă  ƐĞŐƵŝƌ͕   Ƶŵ  ƉƐĞƵĚŽĐſĚŝŐŽ  ƋƵĞ  ƵƟůŝǌĂ  Ž  ĐŽŶĐĞŝƚŽ  ĚĞ  ĮůĂ͕  
-ŵĂŶƚĞŶĚŽ ŽƐ ĞůĞŵĞŶƚŽƐ ƐĞŵƉƌĞ ŶĂƐ ƉƌŝŵĞŝƌĂƐ ƉŽƐŝĕƁĞƐ ĚŽ ǀĞƚŽƌ͘
-Algoritmo Fila_Caminhoneiros
+14
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO M/SCUZS/s  04 
+Uma empresa trabalUa na proTução Te concreto e terceiriza o serviço Te transporte To proTuto.  Os 
+caminUoneiros telefonam para a empresa e registram seu interesse pelo trabalUo.  ToTas as manUãs,  
+os caminUoneiros estacionam o caminUão no pAtio Ta empresa e aguarTam sua vez.  O atenTimento 
+segue o critério Te orTem Te cUegaTa.  Nsse processo é,  atualmente,  controlaTo pela secretAria,  que 
+utiliza sua agenTa para gerenciar os motoristas Tiariamente.    empresa,  que carrega,  no mAximo,  10 
+caminUões por Tia,  pretenTe informatizar esse processo.
+Para  a  solução  To  problema,   apresenta-se,   a  seguir,   um  pseuTocoTigo  que  utiliza  o  conceito  Te  fla,  
+mantenTo os elementos sempre nas primeiras posições To vetor.
+Algoritmo Fila_CaminUoneiros
 início
    var
-   caminhoneiros : vetor[1..10] de texto
+   caminUoneiros : vetor[1..10] Te texto
    total : inteiro
-   procedimento inicializa()
+   proceTimento inicializa()
    início
       total <- 0
  
@@ -46,17 +67,17 @@ início
    função estaVazia() : lógico
    início
       se (total = 0) então
-         retorna verdadeiro
+         retorna verTaTeiro
       senão
          retorna falso
  
       ¿PVH
  
    ¿P
-   função estaCheia() : lógico
+   função estaCUeia() : lógico
    início
       se (total >= 10) então
-         retorna verdadeiro
+         retorna verTaTeiro
       senão
          retorna falso
  
@@ -64,49 +85,93 @@ início
  
    ¿P
  
-   SURFHGLPHQWR HQ¿OHLUDUFDPLQKRQHLUR  WH[WR
+   SURFHGLPHQPR HQ¿OHLUMUFMPLQORQHLUR  PH[PR
    início
-      se (estaCheia() = falso) então 
+      se (estaCUeia() = falso) então 
          total <- total + 1 
-         caminhoneiros[total] <- caminhoneiro
+         caminUoneiros[total] <- caminUoneiro
       senão
-         imprima("Fila cheia")
+         imprima("Fila cUeia")
  
       ¿PVH
  
    ¿m
 ¿m
+*R41201714*
 
-IŽŵ ďĂƐĞ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͕  ĞǆƉŽŶĚŽ ĐĂĚĂ ƐŽůƵĕĆŽ Ğŵ 
-ƉƐĞƵĚŽĐſĚŝŐŽ ŽƵ Ğŵ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ͘
-ĂͿ  /ŵƉůĞŵĞŶƚĞ Ă ĨƵŶĕĆŽ GHVHQ¿OHLUDU ƋƵĞ ĚĞǀĞ ƌĞŵŽǀĞƌ Ğ ƌĞƚŽƌŶĂƌ Ƶŵ ĞůĞŵĞŶƚŽ ƌĞƉƌĞƐĞŶƚĂĚŽ 
-ƉŽƌ Ƶŵ ĐĂŵŝŶŚŽŶĞŝƌŽ ĚĂ ĮůĂ ŽƵ Ă ŵĞŶƐĂŐĞŵ Η&ŝůĂ ǀĂǌŝĂΗ ƐĞ ŶĆŽ ŚŽƵǀĞƌ ĞůĞŵĞŶƚŽƐ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ
-ďͿ  /ŵƉůĞŵĞŶƚĞ Ž ƉƌŽĐĞĚŝŵĞŶƚŽ mostrarFila͕  ƋƵĞ ĚĞǀĞ ĂƉƌĞƐĞŶƚĂƌ Ă ůŝƐƚĂ ĚĞ ĞůĞŵĞŶƚŽƐ͕  ŽƵ ƐĞũĂ͕  ŽƐ 
-ĐĂŵŝŶŚŽŶĞŝƌŽƐ ƋƵĞ ĞƐƚĆŽ ŶĂ ĮůĂ͘  ;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ
+15
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+Com base nas informações apresentaTas,  faça o que se peTe nos itens a seguir,  exponTo caTa solução em 
+pseuTocoTigo ou em linguagem Te programação.
+a)  /mplemente a função GHVHQ¿OHLUMU que Teve remover e retornar um elemento representaTo 
+por um caminUoneiro Ta fla ou a mensagem Η&ila vaziaΗ se não Uouver elementos.  (valor:  6, 0 pontos)
+b)  /mplemente o proceTimento mostrarFila,  que Teve apresentar a lista Te elementos,  ou seũa,  os 
+caminUoneiros que estão na fla.  (valor:  4, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Area livre
+*R41201715*
 
-QUESTÃO D/^IhZ^/s  05 
-  ĐŽŽƌĚĞŶĂĕĆŽ ĚĞ ŐĞƐƚĆŽ ĚĞ ƉĞƐƐŽĂƐ ;I'WͿ ĚĞ ƵŵĂ ĞŵƉƌĞƐĂ ƐŽůŝĐŝƚŽƵ ă ĞƋƵŝƉĞ ĚĞ d/ ƋƵĞ ĚĞƐĞŶǀŽůǀĞƐƐĞ 
-Ƶŵ ĂƉůŝĐĂƟǀŽ ;appͿ ƉĂƌĂ ĐƌŝĂĕĆŽ ĚĞ ƵŵĂ ƌĞĚĞ ƐŽĐŝĂů on-line ƋƵĞ ŝŶĐĞŶƟǀĂƐƐĞ ŽƐ ĞŵƉƌĞŐĂĚŽƐ Ă ŝĚĞĂůŝǌĂƌ Ğ 
-ĞǆĞĐƵƚĂƌ ƉƌŽũĞƚŽƐ͘    Įŵ ĚĞ ƌĞĂůŝǌĂƌ Ž ůĞǀĂŶƚĂŵĞŶƚŽ ĚĞ ƌĞƋƵŝƐŝƚŽƐ͕  Ă ĞƋƵŝƉĞ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ƐĞ ƌĞƵŶŝƵ 
-ĐŽŵ Ă I'W Ğ ĂůŐƵŶƐ ĞŵƉƌĞŐĂĚŽƐ Ğ͕  ƉĂƌĂ ŵĞůŚŽƌĂƌ Ă ĐŽŵƵŶŝĐĂĕĆŽ ĞŶƚƌĞ ŽƐ ĞŶǀŽůǀŝĚŽƐ͕  ŽƐ ĂŶĂůŝƐƚĂƐ ĚĞ 
-ƐŝƐƚĞŵĂƐ ĚĂ ĞŵƉƌĞƐĂ ŽƉƚĂƌĂŵ ƉĞůĂ ƉƌŽƚŽƟƉĂĕĆŽ ĚĞ ƚĞůĂƐ ĚŽ app͕  ĐŽŶĨŽƌŵĞ ŽƐ ĞǆĞŵƉůŽƐ Ă ƐĞŐƵŝƌ͘
-WƌŽƚſƟƉŽ 1 
-WƌŽƚſƟƉŽ 2 
-WƌŽƚſƟƉŽ 3 
-dĞŶĚŽͲƐĞ ƵƐĂĚŽ Ă ĂďŽƌĚĂŐĞŵ ĚĞ ƉƌŽƚŽƟƉĂĕĆŽ͕  ĨŽƌĂŵ ĚŽĐƵŵĞŶƚĂĚŽƐ ŽƐ ƐĞŐƵŝŶƚĞƐ ƌĞƋƵŝƐŝƚŽƐ͗
-ͻ  ƚŽĚŽ ĐŽůĂďŽƌĂĚŽƌ ĚĞǀĞ ŝŶĨŽƌŵĂƌ ŶƷŵĞƌŽ ĚĞ ŵĂƚƌşĐƵůĂ͕  ŶŽŵĞ͕  ĞŶĚĞƌĞĕŽ ĚĞ e-mail Ğ ƐĞŶŚĂ ĚĞ login
-ƉĂƌĂ ƐĞ ĐĂĚĂƐƚƌĂƌ ŶŽ app Ğ ƉŽĚĞƌ ƌĞŐŝƐƚƌĂƌ ƉƌŽũĞƚŽƐ Ğ ĞŶǀŝĂƌ ĐŽŵĞŶƚĄƌŝŽƐ͖  Ă ĐŽŽƌĚĞŶĂĕĆŽ ĚĞ Ƶŵ 
-ƉƌŽũĞƚŽ Ġ ĂƚƌŝďƵşĚĂ ĂƵƚŽŵĂƟĐĂŵĞŶƚĞ ĂŽ ĐŽůĂďŽƌĂĚŽƌ ƋƵĞ Ž ƌĞŐŝƐƚƌĂƌ͖
-ͻ  ĐĂĚĂ ƉƌŽũĞƚŽ ƉŽĚĞ ƐĞƌ ĐůĂƐƐŝĮĐĂĚŽ Ğŵ ƵŵĂ ĚĞ ĚƵĂƐ ƉŽƐƐşǀĞŝƐ ĐĂƚĞŐŽƌŝĂƐ͗  ΗDĞůŚŽƌŝĂ ĚĞ WƌŽĐĞƐƐŽΗ 
-ŽƵ Η^ŽĐŝĂůΗ͖  ĂůĠŵ ĚŽƐ ĚĂĚŽƐ Ğŵ ĐŽŵƵŵ ƉĂƌĂ ĂŵďĂƐ ĂƐ ĐĂƚĞŐŽƌŝĂƐ͕  Ƶŵ ƉƌŽũĞƚŽ ĚĞ ΗDĞůŚŽƌŝĂ ĚĞ 
-WƌŽĐĞƐƐŽΗ ĚĞǀĞ ƐĞƌ ĂůŽĐĂĚŽ ĂŽ ĚĞƉĂƌƚĂŵĞŶƚŽ ;ƐĞůĞĐŝŽŶĂĚŽ ĚĞ ƵŵĂ ůŝƐƚĂͿ Ğŵ ƋƵĞ ĞůĞ ƐĞƌĄ ĂƉůŝĐĂĚŽ 
-Ğ  ŽƐ  ƌĞƐƵůƚĂĚŽƐ  ĞƐƉĞƌĂĚŽƐ  ĚĞǀĞŵ  ƐĞƌ  ŝŶĨŽƌŵĂĚŽƐ  ;ĐŽŶĨŽƌŵĞ  Ž  ƉƌŽƚſƟƉŽ  1Ϳ͖   ƉĂƌĂ  Ƶŵ  ƉƌŽũĞƚŽ 
-Η^ŽĐŝĂůΗ͕  ĚĞǀĞͲƐĞ ŝŶĚŝĐĂƌ Ž ƉƷďůŝĐŽ ďĞŶĞĮĐŝĄƌŝŽ ;ĐŽŶĨŽƌŵĞ Ž ƉƌŽƚſƟƉŽ 2Ϳ͖
-ͻ  ƵŵĂ ǀĞǌ ƌĞŐŝƐƚƌĂĚŽ Ž ƉƌŽũĞƚŽ͕  ƋƵĂůƋƵĞƌ ĐŽůĂďŽƌĂĚŽƌ ƉŽĚĞ ǀŝƐƵĂůŝǌĄͲůŽ ŶŽ app Ğ ƌĞŐŝƐƚƌĂƌ Ƶŵ ŽƵ ŵĂŝƐ 
-ĐŽŵĞŶƚĄƌŝŽƐ ƉĂƌĂ ĐŽŶƚƌŝďƵŝƌ ĐŽŵ Ž ƌĞĮŶĂŵĞŶƚŽ ĚĂ ŝĚĞŝĂ ;ĐŽŶĨŽƌŵĞ Ž ƉƌŽƚſƟƉŽ 3Ϳ͖  ŽƐ ĐŽŵĞŶƚĄƌŝŽƐ 
-ƐĆŽ ǀŝƐƵĂůŝǌĂĚŽƐ Ğŵ ŽƌĚĞŵ ĐƌŽŶŽůſŐŝĐĂ͕  ƉŽƌ ĚĂƚĂ Ğ ŚŽƌĄƌŝŽ͖
-ͻ  Ž ĐŽŽƌĚĞŶĂĚŽƌ ĚŽ ƉƌŽũĞƚŽ ƉŽĚĞ ŝŶĐůƵŝƌ ĂƚĠ ƚƌġƐ ĐŽůĂďŽƌĂĚŽƌĞƐ ƉĂƌĂ ƉĂƌƟĐŝƉĂƌĞŵ ĚĂ ĞƋƵŝƉĞ͘
+16
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO M/SCUZS/s  05 
+  coorTenação Te gestão Te pessoas (C'P) Te uma empresa solicitou a equipe Te T/ que Tesenvolvesse 
+um aplicativo (app) para criação Te uma reTe social on-line que incentivasse os empregaTos a iTealizar e 
+executar proũetos.    fm Te realizar o levantamento Te requisitos,  a equipe Te Tesenvolvimento se reuniu 
+com a C'P e alguns empregaTos e,  para melUorar a comunicação entre os envolviTos,  os analistas Te 
+sistemas Ta empresa optaram pela prototipação Te telas To app,  conforme os exemplos a seguir.
+Prototipo 1 
+Prototipo 2 
+Prototipo 3 
+TenTo-se usaTo a aborTagem Te prototipação,  foram TocumentaTos os seguintes requisitos:
+ͻ  toTo colaboraTor Teve informar numero Te matrícula,  nome,  enTereço Te e-mail e senUa Te login
+para se caTastrar no app e poTer registrar proũetos e enviar comentArios͖  a coorTenação Te um 
+proũeto é atribuíTa automaticamente ao colaboraTor que o registrar͖
+ͻ  caTa proũeto poTe ser classifcaTo em uma Te Tuas possíveis categorias:  ΗMelUoria Te ProcessoΗ 
+ou ΗSocialΗ͖  além Tos TaTos em comum para ambas as categorias,  um proũeto Te ΗMelUoria Te 
+ProcessoΗ Teve ser alocaTo ao Tepartamento (selecionaTo Te uma lista) em que ele serA aplicaTo 
+e  os  resultaTos  esperaTos  Tevem  ser  informaTos  (conforme  o  prototipo  1)͖   para  um  proũeto 
+ΗSocialΗ,  Teve-se inTicar o publico benefciArio (conforme o prototipo 2)͖
+ͻ  uma vez registraTo o proũeto,  qualquer colaboraTor poTe visualizA-lo no app e registrar um ou mais 
+comentArios para contribuir com o refnamento Ta iTeia (conforme o prototipo 3)͖  os comentArios 
+são visualizaTos em orTem cronologica,  por Tata e UorArio͖
+ͻ  o coorTenaTor To proũeto poTe incluir até trgs colaboraTores para participarem Ta equipe.
+*R41201716*
 
-IŽŶƐŝĚĞƌĂŶĚŽ Ă ƐŝƚƵĂĕĆŽ Ğ ĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĐŽŶƐƚƌƵĂ Ƶŵ ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞ ƋƵĞ ĞƐƚĞũĂ Ğŵ 
-ĐŽŶĨŽƌŵŝĚĂĚĞ ĐŽŵ ŽƐ ƌĞƋƵŝƐŝƚŽƐ͕  ŝŶĚŝĐĂŶĚŽ ŽƐ ĂƚƌŝďƵƚŽƐ ĚĞ ĐĂĚĂ ĐůĂƐƐĞ Ğ ĂƐ ĂƐƐŽĐŝĂĕƁĞƐ ĞŶƚƌĞ ĂƐ ĐůĂƐƐĞƐ͘  
-;ǀĂůŽƌ͗  10͕ 0 ƉŽŶƚŽƐͿ
+17
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+ConsiTeranTo a situação e as informações apresentaTas,  construa um Tiagrama Te classe que esteũa em 
+conformiTaTe com os requisitos,  inTicanTo os atributos Te caTa classe e as associações entre as classes.  
+(valor:  10, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Area livre
+*R41201717*

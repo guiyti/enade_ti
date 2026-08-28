@@ -1,8 +1,10 @@
-QUESTÃO 21
-IŽŶƐŝĚĞƌĞ  Ƶŵ  ƉĂŝŶĞů  ůƵŵŝŶŽƐŽ  ƌĞƉƌĞƐĞŶƚĂĚŽ  ƉŽƌ  ƵŵĂ  ŵĂƚƌŝǌ  ƋƵĂĚƌĂĚĂ  ĚĞ  ŽƌĚĞŵ  Ŷ͕   ƐĞŶĚŽ  Ŷ  Ƶŵ 
-ŶƷŵĞƌŽ ŝŶƚĞŝƌŽ şŵƉĂƌ͘    ĐŽƌ ĚĞ ĐĂĚĂ ĐĠůƵůĂ Ġ ĚĞĮŶŝĚĂ ƉĞůŽ ĞůĞŵĞŶƚŽ cor[i, j] ƵƟůŝǌĂĚŽ ŶĂ ƉŽƐŝĕĆŽ 
-ĐŽƌƌĞƐƉŽŶĚĞŶƚĞ ŶŽ ƉĂŝŶĞů͘  IŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  ƋƵĞ Ă ĨƵŶĕĆŽ par(x) ĚĞǀŽůǀĞ ǀĞƌĚĂĚĞŝƌŽ ƐĞ Ž ĂƌŐƵŵĞŶƚŽ x
-ĨŽƌ Ƶŵ ŶƷŵĞƌŽ ƉĂƌ͘ K ƚƌĞĐŚŽ ĚĞ ĐſĚŝŐŽ Ă ƐĞŐƵŝƌ ĨŽŝ ĞůĂďŽƌĂĚŽ ƉĂƌĂ ƉƌŽĚƵǌŝƌ ĚĞƚĞƌŵŝŶĂĚŽ ƉĂĚƌĆŽ ŶŽ ƉĂŝŶĞů͘
+25
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 21
+ConsiTere  um  painel  luminoso  representaTo  por  uma  matriz  quaTraTa  Te  orTem  n,   senTo  n  um 
+numero inteiro ímpar.    cor Te caTa célula é TefniTa pelo elemento cor[i, j] utilizaTo na posição 
+corresponTente no painel.  ConsiTere,  ainTa,  que a função par(x) Tevolve verTaTeiro se o argumento x
+for um numero par. O trecUo Te coTigo a seguir foi elaboraTo para proTuzir TeterminaTo paTrão no painel.
 ...
 m = (n+1)/2
 para i = 1 até n faça
@@ -12,12 +14,13 @@ para i = 1 até n faça
         senão
             cor[i,j] = branco
         ¿PVH
-    ¿PSDUD
-¿PSDUD
+    ¿PSMUM
+¿PSMUM
 ...
-EĞƐƐĂ ƐŝƚƵĂĕĆŽ͕  ƐĞ Ž ǀĂůŽƌ ĚĞ Ŷ ĨŽƌ ŝŐƵĂů Ă 7͕  Ž ƉĂĚƌĆŽ ƋƵĞ ƐĞƌĄ ƉƌŽĚƵǌŝĚŽ ŶŽ ƉĂşŶĞů Ġ
+Nessa situação,  se o valor Te n for igual a 7,  o paTrão que serA proTuziTo no paínel é
  A
-D
+M
 B
-E
+N
 C
+*R43201725*

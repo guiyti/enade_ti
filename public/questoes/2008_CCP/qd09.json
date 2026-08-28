@@ -5,54 +5,19 @@
   "paginas": [
     6
   ],
-  "segmentos": [
-    {
-      "pagina": 6,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 294.59999999999997,
-      "y1": 710.1734008789062,
-      "coluna": 1
-    },
-    {
-      "pagina": 6,
-      "x0": 300.59999999999997,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 567.5986938476562,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/qd09.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd09.txt",
   "largura": 1154,
   "altura": 4745,
   "confianca": 0.98,
-  "texto_completo": "LE MONDE Diplomatique Brasil. Ano 2, n. 7, fev. 2008, p. 31.\nQUESTÃO 9 – DISCURSIVA\nDIREITOS HUMAN\né d\nsã\nsit\nNe\nDe\npe\nbr\nint\nm\nint\nno\n<\n<\n<\nTe\nco\nav\nint\nSe\n1\n2\n3\n4\n5\n6\n7\n\nOS EM QUESTÃO\nO caráter universalizante dos direitos do homem (...) não\na ordem do saber teórico, mas do operatório ou prático: eles\no invocados para agir, desde o princípio, em qualquer\nação dada.\nFrançois JULIEN, filósofo e sociólogo.\nste ano, em que são comemorados os 60 anos da\nclaração \nUniversal \ndos \nDireitos \nHumanos, \nnovas\nrspectivas e concepções incorporam-se à agenda pública\nsileira. Uma das novas perspectivas em foco é a visão mais\negrada dos direitos econômicos, sociais, civis, políticos e,\nis recentemente, ambientais, ou seja, trata-se da\negralidade ou indivisibilidade dos direitos humanos. Dentre as\nvas concepções de direitos, destacam-se:\na habitação como moradia digna e não apenas como\nnecessidade de abrigo e proteção;\na segurança como bem-estar e não apenas como\nnecessidade de vigilância e punição;\no trabalho como ação para a vida e não apenas como\nnecessidade de emprego e renda.\nndo em vista o exposto acima, selecione uma das\nncepções destacadas e esclareça por que ela representa um\nanço para o exercício pleno da cidadania, na perspectiva da\negralidade dos direitos humanos. \nu texto deve ter entre 8 e 10 linhas.\n(valor: 10,0 pontos)",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "5\nCOMPUTAÇÃO\nLN MONMN Miplomatique Brasil. Ano 2, n. 7, fev. 2008, p. 31.\nQUNSTÃO 9 – MCSCURSCVA\nMCRNCTOS HUMANOS NM QUNSTÃO\nO caráter universalizante Tos Tireitos To Uomem (...) não\né Ta orTem To saber teórico, mas To operatório ou prático: eles\nsão invocaTos para agir, TesTe o princípio, em qualquer\nsituação TaTa.\nFrançois JULCNN, filósofo e sociólogo.\nNeste ano, em que são comemoraTos os 60 anos Ta\nMeclaração \nUniversal \nTos \nMireitos \nHumanos, \nnovas\nperspectivas e concepções incorporam-se à agenTa pública\nbrasileira. Uma Tas novas perspectivas em foco é a visão mais\nintegraTa Tos Tireitos econômicos, sociais, civis, políticos e,\nmais recentemente, ambientais, ou seja, trata-se Ta\nintegraliTaTe ou inTivisibiliTaTe Tos Tireitos Uumanos. Mentre as\nnovas concepções Te Tireitos, Testacam-se:\n<\na Uabitação como moraTia Tigna e não apenas como\nnecessiTaTe Te abrigo e proteção;\n<\na segurança como bem-estar e não apenas como\nnecessiTaTe Te vigilância e punição;\n<\no trabalUo como ação para a viTa e não apenas como\nnecessiTaTe Te emprego e renTa.\nTenTo em vista o exposto acima, selecione uma Tas\nconcepções TestacaTas e esclareça por que ela representa um\navanço para o exercício pleno Ta ciTaTania, na perspectiva Ta\nintegraliTaTe Tos Tireitos Uumanos. \nSeu texto Teve ter entre 8 e 10 linUas.\n(valor: 10,0 pontos)\nRASCUNHO – QUNSTÃO 9\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10",
   "figuras": [
     "/questoes/2008_CCP/figuras/qd09_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 9,
-      "tipo": "DISCURSIVA",
-      "pagina": 6,
-      "x": 36.8390998840332,
-      "y": 76.48672485351562,
-      "x1": 179.88104248046875,
-      "y1": 87.52672576904297,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 9 – DISCURSIVA"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.026847"
+  "caminho_png": "/questoes/2008_CCP/qd09.png",
+  "caminho_json": "/questoes/2008_CCP/qd09.json",
+  "caminho_txt": "/questoes/2008_CCP/qd09.txt"
 }

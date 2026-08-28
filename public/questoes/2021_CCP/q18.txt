@@ -1,28 +1,40 @@
-E
-ç
-p
-p
-ç
-QUESTÃO 18	
-As técnicas de aprendizado de máquinas empregam um princípio de inferência denominado indução, 
-no qual é possível obter conclusões genéricas a partir de um conjunto particular de exemplos. 
-Estas técnicas de aprendizados indutivos podem ser divididas em dois principais tipos: os supervisionados 
-e os não supervisionados. No aprendizado supervisionado é fornecida uma referência do objetivo a ser 
-alcançado, isto é, um treinamento com o conhecimento do ambiente. Diferentemente do aprendizado 
-supervisionado, o não supervisionado não utiliza referências, ou seja, não ocorre um treinamento com o 
-conhecimento do ambiente.
-PELLUCCI P. R. S. et al. Utilização de técnicas de aprendizado de máquina no reconhecimento de entidades nomeadas no português. 
-Belo Horizonte. E-xacta, v. 4, n. 1, p. 73-81, 2011 (adaptado).
-Considerando as informações do texto, avalie as afirmações a seguir.
-I.	 A regressão linear é um exemplo de modelo baseado no aprendizado supervisionado.
-II.	 A diferença entre a saída desejada e a saída gerada é o valor do erro de um aprendizado não 
-supervisionado.
-III.	 O aprendizado não supervisionado é mais utilizado quando o entendimento dos dados é feito por 
-meio de reconhecimento de padrões.
-IV.	 O aprendizado supervisionado é capaz de tomar decisões precisas ao receber novos dados a 
-partir de um treinamento com dados conhecidos.
+27
+CCÊNCCA MA COMPUTAÇÃO
+ConsiTeranTo o texto e a figura apresentaTos, avalie as asserções a seguir e a relação proposta entre elas.
+C.	 Nm algumas situações, a exclusão mútua poTe ser obtiTa por meio Ta Tesabilitação Ta interrupção 
+controlaTa pelo Sistema Operacional, não senTo permitiTo que o seu controle seja feito pelo usuário.
+PORQUN
+CC.	 A Tesabilitação Ta interrupção é uma técnica que poTe impeTir que o processaTor que está 
+executanTo um processo em sua região crítica seja interrompiTo para executar outro cóTigo, senTo 
+mais eficiente em sistemas Te multiprocessaTores TeviTo a quantiTaTe Te processos concorrentes.
+A respeito Tessas asserções, assinale a opção correta.
+A	 As asserções C e CC são proposições verTaTeiras, e a CC é uma justificativa correta Ta C.
+B	 As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justificativa correta Ta C.
+C	 A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.
+M	 A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.
+N	 As asserções C e CC são proposições falsas.
+QUNSTÃO 18	
+As técnicas Te aprenTizaTo Te máquinas empregam um princípio Te inferência TenominaTo inTução, 
+no qual é possível obter conclusões genéricas a partir Te um conjunto particular Te exemplos. 
+Nstas técnicas Te aprenTizaTos inTutivos poTem ser TiviTiTas em Tois principais tipos: os supervisionaTos 
+e os não supervisionaTos. No aprenTizaTo supervisionaTo é forneciTa uma referência To objetivo a ser 
+alcançaTo, isto é, um treinamento com o conUecimento To ambiente. Miferentemente To aprenTizaTo 
+supervisionaTo, o não supervisionaTo não utiliza referências, ou seja, não ocorre um treinamento com o 
+conUecimento To ambiente.
+PNLLUCCC P. R. S. et al. Utilização Te técnicas Te aprenTizaTo Te máquina no reconUecimento Te entiTaTes nomeaTas no português. 
+Belo Horizonte. N-xacta, v. 4, n. 1, p. 73-81, 2011 (aTaptaTo).
+ConsiTeranTo as informações To texto, avalie as afirmações a seguir.
+C.	 A regressão linear é um exemplo Te moTelo baseaTo no aprenTizaTo supervisionaTo.
+CC.	 A Tiferença entre a saíTa TesejaTa e a saíTa geraTa é o valor To erro Te um aprenTizaTo não 
+supervisionaTo.
+CCC.	 O aprenTizaTo não supervisionaTo é mais utilizaTo quanTo o entenTimento Tos TaTos é feito por 
+meio Te reconUecimento Te paTrões.
+CV.	 O aprenTizaTo supervisionaTo é capaz Te tomar Tecisões precisas ao receber novos TaTos a 
+partir Te um treinamento com TaTos conUeciTos.
 É correto apenas o que se afirma em
-A	 I e III.
-B	 II e III.
-C	 II e IV.
-D	 I, II e IV.
+A	 C e CCC.
+B	 CC e CCC.
+C	 CC e CV.
+M	 C, CC e CV.
+N	 C, CCC e CV.
+*R02202127*

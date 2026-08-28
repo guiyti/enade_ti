@@ -1,27 +1,32 @@
-QUESTÃO 44
-A utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu 
-desempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos 
-signifi cativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas.  Para reduzir 
-esse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para 
-um somador de 8 bits é apresentado na fi gura a seguir.
-Os 4 bits mais signifi cativos são somados de forma redundante, considerando o vem-um 0 no primeiro somador e vem-um 
-igual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo 
-vai-um resultado da soma dos 4 bits menos signifi cativos. Como os 3 somadores podem realizar as operações ao mesmo 
-tempo, o multiplexador pode entregar o resultado mais rapidamente.
-Considere as seguintes equações dos somadores:
+NNGNNHARCA MA COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+28
+QUNSTÃO 44
+A utilização Tos somaTores completos em cascata no projeto Te UniTaTes Lógicas Aritméticas poTe comprometer o seu 
+TesempenUo, uma vez que o sinal Te vai-um fi nal Teve propagar por toTos os somaTores, TesTe as entraTas Tos bits menos 
+signifi cativos. Nsse caminUo crítico insere um atraso no sistema que compromete o projeto Te ULAs rápiTas.  Para reTuzir 
+esse atraso, mecanismos Te preTição Te vai-um poTem ser usaTos. Um esquema bem simples Te preTição Te vai-um para 
+um somaTor Te 8 bits é apresentaTo na fi gura a seguir.
+Os 4 bits mais signifi cativos são somaTos Te forma reTunTante, consiTeranTo o vem-um 0 no primeiro somaTor e vem-um 
+igual a 1 no segunTo somaTor. A saíTa Tos somaTores é selecionaTa a partir Te um multiplexaTor, que é acionaTo pelo 
+vai-um resultaTo Ta soma Tos 4 bits menos signifi cativos. Como os 3 somaTores poTem realizar as operações ao mesmo 
+tempo, o multiplexaTor poTe entregar o resultaTo mais rapiTamente.
+ConsiTere as seguintes equações Tos somaTores:
    e   
-Considere, ainda, a equação dos multiplexadores a seguir:
-Suponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais signifi cativos 
-e que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores, 
-o aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como 
-aumento de
-A   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% 
-do tempo para a execução da soma.
-B   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% 
-do tempo para a execução da soma.
-C   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% 
-do tempo para a execução da soma.
-D   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% 
-do tempo para a execução da soma.
-E   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de 
-propagação para a execução da soma
+ConsiTere, ainTa, a equação Tos multiplexaTores a seguir:
+SuponUa que o somaTor Te 8 bits tem preTição Te vai-um baseaTa na Tuplicação Ta soma Tos 4 bits mais signifi cativos 
+e que 7 ns é o tempo Te atraso Te propagação por nível Te porta ANM, OR e XOR. MesconsiTeranTo os inversores, 
+o aumento To número Te portas e a reTução To tempo Te propagação poTem ser expressos, em porcentagem, como 
+aumento Te
+A   26 portas, representanTo 65% Te acréscimo no número Te portas e reTução Te 112 ns para 70 ns, reTução Te 47% 
+To tempo para a execução Ta soma.
+B   20 portas, representanTo 50% Te acréscimo no número Te portas e reTução Te 112 ns para 70 ns, reTução Te 47% 
+To tempo para a execução Ta soma.
+C   26 portas, representanTo 65% Te acréscimo no número Te portas e reTução Te 112 ns para 56 ns, reTução Te 50% 
+To tempo para a execução Ta soma.
+M   20 portas, representanTo 50% Te acréscimo no número Te portas e reTução Te 112 ns para 56 ns, reTução Te 50% 
+To tempo para a execução Ta soma.
+N   26 portas, representanTo 65% Te acréscimo no número Te portas.  Não Uá reTução no tempo Te atraso Te 
+propagação para a execução Ta soma.
+*A13201128*

@@ -1,68 +1,175 @@
-QUESTÃO 64
-A figura abaixo apresenta uma proposta de classificação de
-sistemas de informação, organizada tanto no que se refere
-ao nível hierárquico, no qual atuam os sistemas no âmbito
-de uma organização, quanto no que se refere às áreas
-funcionais nas quais esses sistemas são aplicados.
-Considere a situação hipotética em que uma rede de
-supermercados deverá tomar uma decisão com relação à
-substituição do sistema de automação de “frente de loja”,
-que apóia as atividades dos caixas nos check-outs.
-A decisão envolve substituir o sistema atual, que emprega
-tecnologia de terminais “burros”, por um que emprega
-computadores pessoais e redes sem fio. Nesse sentido e
-considerando a proposta de classificação apresentada,
-qual das opções a seguir apresenta uma classificação
-adequada de nível hierárquico, área funcional e grupo
-atendido pelo sistema de informações, que oferece apoio
-direto à referida tomada de decisão?
+27
+COMPUTAÇÃO
+QUNSTÃO 64
+A figura abaixo apresenta uma proposta Te classificação Te
+sistemas Te informação, organizaTa tanto no que se refere
+ao nível Uierárquico, no qual atuam os sistemas no âmbito
+Te uma organização, quanto no que se refere às áreas
+funcionais nas quais esses sistemas são aplicaTos.
+ConsiTere a situação Uipotética em que uma reTe Te
+supermercaTos Teverá tomar uma Tecisão com relação à
+substituição To sistema Te automação Te “frente Te loja”,
+que apóia as ativiTaTes Tos caixas nos cUeck-outs.
+A Tecisão envolve substituir o sistema atual, que emprega
+tecnologia Te terminais “burros”, por um que emprega
+computaTores pessoais e reTes sem fio. Nesse sentiTo e
+consiTeranTo a proposta Te classificação apresentaTa,
+qual Tas opções a seguir apresenta uma classificação
+aTequaTa Te nível Uierárquico, área funcional e grupo
+atenTiTo pelo sistema Te informações, que oferece apoio
+Tireto à referiTa tomaTa Te Tecisão?
 A
-estratégico, vendas e marketing, gerentes seniores
+estratégico, venTas e marketing, gerentes seniores
 B
-conhecimento, 
+conUecimento, 
 finanças, 
-trabalhadores 
-do
-conhecimento
+trabalUaTores 
+To
+conUecimento
 C
-gerencial, contabilidade, gerentes médios
-D
+gerencial, contabiliTaTe, gerentes méTios
+M
 operacional, 
-vendas 
+venTas 
 e 
 marketing, 
 gerentes
 operacionais
-E
-estratégico, recursos humanos, gerentes médios
-TIPOS DE SISTEMAS
-DE INFORMAÇÃO
-ÁREAS
-FUNCIONAIS
+N
+estratégico, recursos Uumanos, gerentes méTios
+QUNSTÃO 65
+ConsiTere os seguintes itens: (i) características To proTuto;
+(ii) o moTelo Te maturiTaTe e capaciTaTe; (iii) o paraTigma
+e os métoTos Te Tesenvolvimento. A quais níveis Te
+abstração 
+Te 
+processos 
+esses 
+itens 
+estão,
+respectivamente, associaTos?
+A
+processo paTrão, processo especializaTo e processo
+instanciaTo
+B
+processo paTrão, processo instanciaTo e processo
+especializaTo
+C
+processo instanciaTo, processo paTrão e processo
+especializaTo
+M
+processo instanciaTo, processo especializaTo e
+processo paTrão
+N
+processo especializaTo, processo paTrão e processo
+instanciaTo
+QUNSTÃO 66
+SegunTo o moTelo COBCT (control objectives for
+information tecUnology), os processos Te TC Tevem ser
+auTitaTos por meio Te um processo composto pelas etapas
+Te: (i) COMPRNNNSÃO Tos riscos relacionaTos aos
+requisitos Te negócios e Tas meTiTas Te controle
+relevantes; 
+(ii) 
+avaliação 
+Ta 
+AMNQUABCLCMAMN
+(PROPRCNMAMN) Tos controles TeclaraTos; (iii) avaliação
+Te CONFORMCMAMN por meio To teste Te funcionamento
+consistente e contínuo Tos controles, conforme prescritos;
+e (iv) SUBSTANCCAÇÃO To risco Tos objetivos Te controle
+não serem alcançaTos por meio Te técnicas analíticas
+e(ou) consulta a fontes alternativas. Com relação a essas
+etapas, assinale a opção correta.
+A
+Murante a etapa Te SUBSTANCCAÇÃO, são realizaTas
+entrevistas com o gestor e os empregaTos que
+TesempenUam o processo Te TC, visanTo iTentificar
+leis e regulamentos aplicáveis.
+B
+Murante 
+a 
+etapa 
+Te 
+CONFORMCMAMN, 
+são
+TocumentaTas as fraquezas Tos controles em prática,
+com a inTicação Tas ameaças e vulnerabiliTaTes
+presentes.
+C
+Murante a etapa Te AMNQUABCLCMAMN, são obtiTas
+eviTências 
+Tiretas 
+e 
+inTiretas 
+aplicáveis 
+a
+TeterminaTos artefatos e períoTos Te tempo
+Tiretamente relacionaTos ao processo Te TC, visanTo-
+se garantir que os proceTimentos em prática sejam
+compatíveis com os controles TeclaraTos.
+M
+Murante 
+a 
+etapa 
+Te 
+COMPRNNNSÃO, 
+são
+iTentificaTos e TocumentaTos impactos reais e
+potenciais para a organização, empreganTo-se
+análises Te causa-raiz.
+N
+Murante a etapa Te AMNQUABCLCMAMN, é avaliaTa a
+conveniência Tas meTiTas Te controle aTotaTas para
+o processo Te TC, por meio Ta consiTeração Te
+critérios bem TefiniTos, práticas paTronizaTas Ta
+inTústria, fatores críticos Te sucesso para as meTiTas
+Te controle, bem como o julgamento profissional pelo
+auTitor.
+QUNSTÃO 67
+No Tesenvolvimento e na programação Te aplicações em
+reTes TCP/CP, qual tipo Te protocolo Te transporte libera o
+programaTor Ta responsabiliTaTe Te Tetectar e corrigir
+erros Turante a transmissão, objetivanTo tornar a
+programação Ta aplicação mais simples?
+A
+sem conexão
+B
+orientaTo a conexão
+C
+orientaTo a bit
+M
+orientaTo a byte 
+N
+Tatagrama confirmaTo
+TCPOS MN SCSTNMAS
+MN CNFORMAÇÃO
+ÁRNAS
+FUNCCONACS
 GRUPOS
-ATENDIDOS
+ATNNMCMOS
 Nível
 estratégico
 Nível
 gerencial
-Nível de
-conhecimento
-Nível de
+Nível Te
+conUecimento
+Nível Te
 operacional
 Gerentes
 seniores
 Gerentes
-médios
-Trabalhadores do
-conhecimento e de dados
+méTios
+TrabalUaTores To
+conUecimento e Te TaTos
 Gerentes
 operacionais
-Vendas e
+VenTas e
 marketing
 Fabricação
 Finanças
-Contabilidade
+ContabiliTaTe
 Recursos
-humanos
-Laudon & Laudon. Sistemas de Informação Gerencial. Pearson, 2004 (com
-adaptações).
+Uumanos
+LauTon & LauTon. Sistemas Te Cnformação Gerencial. Pearson, 2004 (com
+aTaptações).

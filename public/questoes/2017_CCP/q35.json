@@ -5,44 +5,17 @@
   "paginas": [
     33
   ],
-  "segmentos": [
-    {
-      "pagina": 33,
-      "x0": 25.0,
-      "y0": 76.67594909667969,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q35.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q35.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 35 \nhŵ ƉƌŽŐƌĂŵĂĚŽƌ ŝŶĞǆƉĞƌŝĞŶƚĞ ĞƐƚĄ ĚĞƐĞŶǀŽůǀĞŶĚŽ Ƶŵ ƐŝƐƚĞŵĂ ŵƵůƟƚŚƌĞĂĚ ƋƵĞ ƉŽƐƐƵŝ ĚƵĂƐ ĞƐƚƌƵƚƵƌĂƐ \nĚĞ  ĚĂĚŽƐ  ĚŝĨĞƌĞŶƚĞƐ͕   E1 e E2͕   ĂƐ  ƋƵĂŝƐ  ĂƌŵĂǌĞŶĂŵ  ǀĂůŽƌĞƐ  ŝŶƚĞŝƌŽƐ͘   K  ĂĐĞƐƐŽ  ĐŽŶĐŽƌƌĞŶƚĞ  Ă  ĞƐƐĂƐ \nĞƐƚƌƵƚƵƌĂƐ Ġ ĐŽŶƚƌŽůĂĚŽ ƉŽƌ ƐĞŵĄĨŽƌŽƐ͘  DƵƌĂŶƚĞ ƐƵĂ ĞǆĞĐƵĕĆŽ͕  Ž ƐŝƐƚĞŵĂ ĚŝƐƉĂƌĂ ĂƐ threads T1 e T2\nƐŝŵƵůƚĂŶĞĂŵĞŶƚĞ͘    ƚĂďĞůĂ Ă ƐĞŐƵŝƌ ƉŽƐƐŝďŝůŝƚĂ ƵŵĂ ǀŝƐĆŽ Ğŵ ůŝŶŚĂƐ ŐĞƌĂŝƐ ĚŽƐ ĂůŐŽƌŝƚŵŽƐ ĚĞƐƐĂƐ threads.\nT1\nT2\n ůŽĐĂ E1\n ůŽĐĂ E2\nIĂůĐƵůĂ Ă ŵĠĚŝĂ M1 ĚŽƐ ǀĂůŽƌĞƐ ĚĞ E1\nIĂůĐƵůĂ Ă ƐŽŵĂ S1 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E2\n ůŽĐĂ E2\n ůŽĐĂ E1\nIĂůĐƵůĂ Ă ŵĠĚŝĂ M2 ĚŽƐ ǀĂůŽƌĞƐ ĚĞ E2\nIĂůĐƵůĂ Ă ƐŽŵĂ S2 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E1\nIĂůĐƵůĂ M3 M1 + M2\nIĂůĐƵůĂ S3  |S1 \u0010 S2|\n^ŽŵĂ M3 Ğŵ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E2\n^ƵďƚƌĂŝ S2 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E1\n>ŝďĞƌĂ E1\n>ŝďĞƌĂ E2\n>ŝďĞƌĂ E2\n>ŝďĞƌĂ E1\nDƵƌĂŶƚĞ Ă ĞǆĞĐƵĕĆŽ ĚŽ ƌĞĨĞƌŝĚŽ ƉƌŽŐƌĂŵĂ͕  Ġ ƉŽƐƐşǀĞů ƋƵĞ\nA ŶĆŽ ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƉŽƌƋƵĞ Ă ƐĞƋƵġŶĐŝĂ ĚĞ ĂůŽĐĂĕĆŽ ĚŽƐ ƌĞĐƵƌƐŽƐ ŝŵƉĞĚĞ ŶĂƚƵƌĂůŵĞŶƚĞ Ž ƉƌŽďůĞŵĂ͘\nB ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƋƵĞ ƉŽĚĞ ƐĞƌ ĞǀŝƚĂĚŽ ƐĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƚŽŵĂƌ Ž ĐƵŝĚĂĚŽ ĚĞ ŶĆŽ ĞǆĞĐƵƚĂƌ ĐĄůĐƵůŽƐ \nĞŶƚƌĞ Ƶŵ ƉĞĚŝĚŽ ĚĞ ĂůŽĐĂĕĆŽ Ğ ŽƵƚƌŽ͘\nC ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƐĞŶĚŽ Ă ƉƌŽďĂďŝůŝĚĂĚĞ ĚĞƐƐĂ ŽĐŽƌƌġŶĐŝĂ ƚĆŽ ďĂŝǆĂ Ğ ƐƵĂ ĐŽŶƐĞƋƵġŶĐŝĂ ƚĆŽ ŝŶſĐƵĂ ƋƵĞ \nŶĆŽ ŚĂǀĞƌĄ ĐŽŵƉƌŽŵĞƟŵĞŶƚŽ ĚŽ ƉƌŽŐƌĂŵĂ͘\nD ŶĆŽ ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ĚĞƐĚĞ ƋƵĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƵƐĞ ƐĞŵĄĨŽƌŽƐ ƉĂƌĂ ĐŽŶƚƌŽůĂƌ Ž ĂĐĞƐƐŽ ăƐ ĞƐƚƌƵƚƵƌĂƐ \nĚĞ ĚĂĚŽƐ͕  Ž ƋƵĞ Ġ ƐƵĮĐŝĞŶƚĞ ƉĂƌĂ ĞǀŝƚĂƌ Ž ƉƌŽďůĞŵĂ͘\nE ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƋƵĞ ƉŽĚĞ ƐĞƌ ĞǀŝƚĂĚŽ ƐĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƚŽŵĂƌ Ž ĐƵŝĚĂĚŽ ĚĞ ƐŽůŝĐŝƚĂƌ Ž ĂĐĞƐƐŽ ăƐ \nĞƐƚƌƵƚƵƌĂƐ ĚĞ ĚĂĚŽƐ ŶĂ ŵĞƐŵĂ ŽƌĚĞŵ Ğŵ ĂŵďĂƐ ĂƐ threads.\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 35,
-      "tipo": "OBJETIVA",
-      "pagina": 33,
-      "x": 60.35430145263672,
-      "y": 88.67594909667969,
-      "x1": 125.5143051147461,
-      "y1": 100.95195007324219,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 35"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549409"
+  "texto_completo": "33\nCCÊNCCA MA COMPUTAÇÃO\nYUNSTãO 35 \nUm programaTor inexperiente estA TesenvolvenTo um sistema multitUreaT que possui Tuas estruturas \nTe  TaTos  Tiferentes,   N1 e N2,   as  quais  armazenam  valores  inteiros.   O  acesso  concorrente  a  essas \nestruturas é controlaTo por semAforos.  Murante sua execução,  o sistema Tispara as tUreaTs T1 e T2\nsimultaneamente.    tabela a seguir possibilita uma visão em linUas gerais Tos algoritmos Tessas tUreaTs.\nT1\nT2\n loca N1\n loca N2\nCalcula a méTia M1 Tos valores Te N1\nCalcula a soma S1 Te toTos os valores Te N2\n loca N2\n loca N1\nCalcula a méTia M2 Tos valores Te N2\nCalcula a soma S2 Te toTos os valores Te N1\nCalcula M3 M1 + M2\nCalcula S3  |S1 \u0010 S2|\nSoma M3 em toTos os valores Te N2\nSubtrai S2 Te toTos os valores Te N1\n>ibera N1\n>ibera N2\n>ibera N2\n>ibera N1\nMurante a execução To referiTo programa,  é possível que\nA não ocorra TeaTlocŬ,  porque a sequgncia Te alocação Tos recursos impeTe naturalmente o problema.\nB ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te não executar cAlculos \nentre um peTiTo Te alocação e outro.\nC ocorra TeaTlocŬ,  senTo a probabiliTaTe Tessa ocorrgncia tão baixa e sua consequgncia tão inocua que \nnão UaverA comprometimento To programa.\nM não ocorra TeaTlocŬ,  TesTe que o programaTor use semAforos para controlar o acesso as estruturas \nTe TaTos,  o que é sufciente para evitar o problema.\nN ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te solicitar o acesso as \nestruturas Te TaTos na mesma orTem em ambas as tUreaTs.\nArea livre\n*R03201733*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_CCP/q35.png",
+  "caminho_json": "/questoes/2017_CCP/q35.json",
+  "caminho_txt": "/questoes/2017_CCP/q35.txt"
 }

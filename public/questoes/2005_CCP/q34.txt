@@ -1,77 +1,294 @@
-C I, III e IV.
-QUESTÃO 34
-Julgue os seguintes itens referentes a teste de software.
-I
-A técnica de teste funcional, que estabelece os requisitos de
-teste com base em determinada implementação, permite
-verificar se são atendidos os detalhes do código e solicita a
-execução de partes ou de componentes elementares do
-programa; a técnica de teste estrutural aborda o software de
-um ponto de vista macroscópico e estabelece os requisitos
-de teste, com base em determinada implementação.
-II
-Na fase de teste de unidade, o objetivo é explorar-se a
-menor unidade de projeto, procurando-se identificar erros de
-lógica e de implementação de cada módulo; na fase de teste
-de integração, o objetivo é descobrir erros associados às
-interfaces entre os módulos quando esses são integrados,
-para se construir a estrutura do software, estabelecida na
-fase de projeto.
-III Critérios com base na complexidade, em fluxo de controle
-e em fluxo de dados, são utilizados pela técnica estrutural de
+NNAMN – 2005
+Área: COMPUTAÇÃO
+11
+QUNSTÃO 30
+O Tesenvolvimento global Te software GSM — global
+software Tevelopment — tem-se firmaTo como uma Tas
+granTes tenTências na área Te sistemas Te informação nas
+organizações. ConsiTere que uma organização Ta área Te
+varejo e Tistribuição seTiaTa na Nuropa tenUa implantaTo três
+uniTaTes Te Tesenvolvimento Te software espalUaTas no
+munTo: uma no Brasil, uma na ÍnTia e outra na CUina.
+ConsiTere ainTa que nenUuma Tessas uniTaTes possua
+qualquer tipo Te certificação e que o principal problema Ta
+organização esteja relacionaTo ao Tesenvolvimento Te
+sistemas que atenTam às necessiTaTes Ta organização e que
+reflitam as expectativas Tos clientes globais. 
+Nessa situação, o nível To moTelo SP-CMM e a OPA (área cUave
+Te processo) mais aTequaTos para a situação apresentaTa são,
+respectivamente,
+A nível 2, OPA RM – gestão Te requisitos.
+B nível 2, OPA SPP – planejamento.
+C nível 2, OPA SPTO – acompanUamento Te projeto.
+M nível 3, OPA OPM – Tefinição To processo Ta organização.
+N nível 3, OPA SPN – engenUaria Te proTutos Te software.
+QUNSTÃO 31
+O moTelo Te gerenciamento Te projetos To PMC
+(Project Management Cnstitute), Tescrito no PMBOO, envolve
+um conjunto Te nove áreas Te conUecimento a serem
+consiTeraTas com vistas a melUorar o processo Te gestão Te
+um projeto, amplianTo-se, conseqüentemente, suas cUances
+Te sucesso. ConsiTere que, no Tesenvolvimento Te um
+sistema Te venTas Te uma empresa que atua no segmento
+inTustrial, o orçamento inicial tenUa siTo extrapolaTo em
+120% e que a equipe Ta área Te sistemas tenUa concluíTo o
+sistema com mais Te quatro meses Te atraso. Nas reuniões
+com os usuários para a entrega To sistema, foi constataTo que
+este não atenTia às especificações esperaTas pelos usuários. 
+Nessa situação, eviTenciam-se áreas Te conUecimento que
+compõem a cUamaTa tripla restrição, que são as áreas Te
+gerenciamento Te
+A escopo, contratação e custo.
+B tempo, contratação e risco.
+C custo, tempo e escopo.
+M contratação, custo e tempo.
+N risco, tempo e escopo.
+QUNSTÃO 32
+O planejamento estratégico Te sistemas Te informação poTe ser
+entenTiTo como o processo Te iTentificação Te um porta-fólio
+computaTorizaTo Te aplicações que Tá suporte ao plano Te
+negócios Tas organizações e auxilia na concretização Tos objetivos
+organizacionais. Os principais objetivos To processo Te
+planejamento estratégico Te sistemas Te informação não incluem
+A o alinUamento Tas estratégias Ta área Te SC com as estratégias
+To negócio.
+B o comprometimento Ta alta aTministração, pela alocação Tos
+recursos e resultaTos intermeTiários e incrementais.
+C a melUoria To TesempenUo Ta área Te SC, seja pela alocação
+mais eficaz Te recursos, seja pelo aumento Te proTutiviTaTe
+Tos profissionais.
+M a antecipação Te tenTências, envolvenTo inovação tecnológica
+contínua.
+N a iTentificação, a avaliação e a valiTação Tos controles
+relacionaTos aos sistemas Te informação existentes, To ponto
+Te vista Te sua eficiência e eficácia.
+QUNSTÃO 33
+ConsiTere que a reTe Te uma empresa usará os protocolos
+TCP/CP para facilitar o acesso To público às informações Tessa
+empresa a partir Te máquinas conectaTas à Cnternet. ConsiTere
+ainTa que, ao serem Tescritos os protocolos que serão usaTos na
+reTe, alguns erros foram cometiTos. As Tescrições estão
+apresentaTas nos itens a seguir.
+C
+O Cnternet Protocol (CP) provê serviço não-orientaTo a
+conexão, e garante a entrega Tos Tatagramas enviaTos. Além
+Te garantir a entrega Tos Tatagramas enviaTos, outra
+importante responsabiliTaTe To CP é rotear os Tatagramas
+por meio Te reTes interligaTas. O roteamento é feito usanTo-
+se enTereços CP.
+CC
+O Cnternet Control Message Protocol (CCMP) possibilita
+que mensagens Te erro e Te controle sejam trocaTas entre
+máquinas. As mensagens CCMP são transferiTas como TaTos
+em Tatagramas To CP.
+CCC O Transmission Control Protocol (TCP) provê um serviço
+orientaTo a conexão. Os TaTos são transferiTos por meio Te
+uma conexão em uniTaTes conUeciTas como segmentos.
+O TCP espera que a recepção Tos segmentos transmitiTos
+seja confirmaTa pelo Testino e retransmite segmentos cuja
+recepção não seja confirmaTa.
+CV O User Matagram Protocol (UMP) provê um mecanismo
+para 
+que 
+aplicações 
+possam 
+comunicar-se 
+usanTo
+Tatagramas. O UMP provê um protocolo Te transporte
+orientaTo a conexão e não garante a entrega Tos Tatagramas.
+V
+A emulação Te terminal usará o protocolo TNLNNT, e a
+transferência Te arquivos, o File Transfer Protocol (FTP).
+O correio eletrônico será proviTo pelo Simple Mail Transfer
+Protocol (SMTP) e as mensagens serão transferiTas Tos
+serviTores Te correio eletrônico para as máquinas Tos
+usuários via Cnternet Mail Access Protocol (CMAP).
+Nstão corretas apenas as Tescrições
+A C, CC e CV.
+M CC, CCC e V.
+B C, CC e V.
+N CCC, CV e V.
+C C, CCC e CV.
+QUNSTÃO 34
+Julgue os seguintes itens referentes a teste Te software.
+C
+A técnica Te teste funcional, que estabelece os requisitos Te
+teste com base em TeterminaTa implementação, permite
+verificar se são atenTiTos os TetalUes To cóTigo e solicita a
+execução Te partes ou Te componentes elementares To
+programa; a técnica Te teste estrutural aborTa o software Te
+um ponto Te vista macroscópico e estabelece os requisitos
+Te teste, com base em TeterminaTa implementação.
+CC
+Na fase Te teste Te uniTaTe, o objetivo é explorar-se a
+menor uniTaTe Te projeto, procuranTo-se iTentificar erros Te
+lógica e Te implementação Te caTa móTulo; na fase Te teste
+Te integração, o objetivo é Tescobrir erros associaTos às
+interfaces entre os móTulos quanTo esses são integraTos,
+para se construir a estrutura To software, estabeleciTa na
+fase Te projeto.
+CCC Critérios com base na complexiTaTe, em fluxo Te controle
+e em fluxo Te TaTos, são utilizaTos pela técnica estrutural Te
 teste.
 Assinale a opção correta.
 A Apenas um item está certo.
-B Apenas os itens I e II estão certos.
-C Apenas os itens I e III estão certos.
-D Apenas os itens II e III estão certos.
-E Todos os itens estão certos.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
 
-Florianópolis. Em cada cidade, a empresa possui computadores que
-serão interligados. A seguir, encontram-se os requisitos que devem
-ser observados no projeto da rede.
-Requisito A: Em Natal, existem dois prédios. Para interligá-los,
-devem ser usados dispositivos que dividam o tráfego entre os prédios.
-Os dispositivos devem atuar na camada de enlace e a presença dos
-mesmos deve ser transparente às máquinas na rede.
-Requisito B: Em Brasília, há computadores em vários departamentos.
-Para interligar os departamentos, devem ser usados dispositivos que
-dividam o tráfego entre os departamentos e que possibilitem a
-comunicação simultânea entre esses departamentos.
-Requisito C: As redes em Natal, Brasília e Florianópolis devem ser
-interligadas por dispositivos que dividam o tráfego e que possibilitem
-a interligação de redes com diferentes protocolos da camada física.
-Para decidir os destinos dos dados, devem ser usados endereços de
-rede. Os dispositivos devem possibilitar que o tráfego seja filtrado.
-Requisito D: A rede deve usar TCP/IP. O endereço da rede será da
-classe B e um dos bytes identificará o segmento da rede localizado em
-cada 
-cidade. 
-Em 
-cada 
+NNAMN – 2005
+Área: COMPUTAÇÃO
+12
+QUNSTÃO 35
+Uma empresa tem a sua seTe em Natal e filiais em Brasília e
+Florianópolis. Nm caTa ciTaTe, a empresa possui computaTores que
+serão interligaTos. A seguir, encontram-se os requisitos que Tevem
+ser observaTos no projeto Ta reTe.
+Requisito A: Nm Natal, existem Tois préTios. Para interligá-los,
+Tevem ser usaTos Tispositivos que TiviTam o tráfego entre os préTios.
+Os Tispositivos Tevem atuar na camaTa Te enlace e a presença Tos
+mesmos Teve ser transparente às máquinas na reTe.
+Requisito B: Nm Brasília, Uá computaTores em vários Tepartamentos.
+Para interligar os Tepartamentos, Tevem ser usaTos Tispositivos que
+TiviTam o tráfego entre os Tepartamentos e que possibilitem a
+comunicação simultânea entre esses Tepartamentos.
+Requisito C: As reTes em Natal, Brasília e Florianópolis Tevem ser
+interligaTas por Tispositivos que TiviTam o tráfego e que possibilitem
+a interligação Te reTes com Tiferentes protocolos Ta camaTa física.
+Para TeciTir os Testinos Tos TaTos, Tevem ser usaTos enTereços Te
+reTe. Os Tispositivos Tevem possibilitar que o tráfego seja filtraTo.
+Requisito M: A reTe Teve usar TCP/CP. O enTereço Ta reTe será Ta
+classe B e um Tos bytes iTentificará o segmento Ta reTe localizaTo em
+caTa 
+ciTaTe. 
+Nm 
+caTa 
 segmento, 
-servidores 
-distribuirão
-automaticamente os endereços IP entre as máquinas.
-Requisito E: Os nomes das máquinas serão traduzidos em endereços
-IP por servidores em cada cidade. Esses servidores estarão
-organizados em uma hierarquia. Cada servidor será responsável por
-um ou por vários subdomínios.
-A seguir, encontram-se as decisões que foram tomadas para cada
+serviTores 
+Tistribuirão
+automaticamente os enTereços CP entre as máquinas.
+Requisito N: Os nomes Tas máquinas serão traTuziTos em enTereços
+CP por serviTores em caTa ciTaTe. Nsses serviTores estarão
+organizaTos em uma Uierarquia. CaTa serviTor será responsável por
+um ou por vários subTomínios.
+A seguir, encontram-se as Tecisões que foram tomaTas para caTa
 requisito.
-I
-Usar repetidores para atender ao requisito A.
-II
-Usar comutadores (switches) para atender ao requisito B.
-III Usar roteadores para atender ao requisito C.
-IV Usar o endereço de rede 164.41.0.0, a máscara 255.255.0.0 e
-servidores DHCP para atender ao requisito D.
+C
+Usar repetiTores para atenTer ao requisito A.
+CC
+Usar comutaTores (switcUes) para atenTer ao requisito B.
+CCC Usar roteaTores para atenTer ao requisito C.
+CV Usar o enTereço Te reTe 164.41.0.0, a máscara 255.255.0.0 e
+serviTores MHCP para atenTer ao requisito M.
 V
-Configurar servidores Domain Name System (DNS) para
-atender ao requisito E.
-Estão corretas apenas as decisões
-A I, II e IV.
-D II, III e V.
-B I, II e V.
-E III, IV e V.
-C I, III e IV.
+Configurar serviTores Momain Name System (MNS) para
+atenTer ao requisito N.
+Nstão corretas apenas as Tecisões
+A C, CC e CV.
+M CC, CCC e V.
+B C, CC e V.
+N CCC, CV e V.
+C C, CCC e CV.
+QUNSTÃO 36
+João, ao tentar consertar o móTulo eletrônico Te um
+carrinUo Te brinqueTos, levantou as características Te um pequeno
+circuito Tigital incluso no móTulo. Verificou que o circuito tinUa
+0
+1
+0
+1
+Tois bits Te entraTa, x e x , e um bit Te saíTa. Os bits x e x
+eram utilizaTos para representar valores Te inteiros Te 0 a 3
+0
+1
+(x , o bit menos significativo e x , o bit mais significativo).
+Após testes, João verificou que a saíTa To circuito é 0 para
+toTos os valores Te entraTa, exceto para o valor 2.
+Qual Tas expressões a seguir representa aTequaTamente o circuito
+analisaTo por João?
+0
+1
+A x anT (not x )
+0
+1
+B (not x ) or (not x )
+0
+1
+C (not x ) anT x
+0
+1
+M x anT x
+0
+1
+N x or (not x )
+QUNSTÃO 37
+O gerente Te Tesenvolvimento Te uma empresa Te
+TC examinou a seguinte planilUa sobre anTamento Te
+projetos.
+projeto
+percentual
+completaTo (em %)
+percentual To orçamento
+já TespenTiTo (em %)
+P1
+50
+70
+P2
+80
+65
+Com base nessa planilUa e com relação aos conceitos Te TaTo,
+informação e conUecimento, julgue os itens que se seguem.
+C
+O número 65, na célula inferior Tireita, é um TaTo.
+CC
+Associar o número 80 (célula inferior central) ao percentual
+completaTo (em %) e a P2, e concluir que o projeto P2 está
+80% completaTo é um conUecimento.
+CCC Mizer que P1 está aTiantaTo ou atrasaTo é uma informação.
+CV Mizer o quanto P1 vai precisar a mais To que foi
+inicialmente previsto no orçamento é um conUecimento.
+Nstão certos apenas os itens
+A C e CC.
+B C e CV.
+C CC e CCC.
+M CC e CV.
+N CCC e CV.
+QUNSTÃO 38
+O objetivo Ta Teoria Geral Tos Sistemas (TGS) é a formulação
+Tos princípios váliTos para os sistemas em geral, qualquer que
+seja a natureza Tos elementos que os compõem e as relações ou
+forças existentes entre eles. Na área Te sistemas Te informação,
+Tiversos problemas requerem aborTagem multiTisciplinar para
+serem resolviTos. Por exemplo, na área Te Tesenvolvimento Te
+software, a especificação Te requisitos apresenta vários Tesafios
+Tesse tipo, tais como aspectos Te relacionamento interpessoal,
+conUecimento To negócio, resolução Te conflitos, Tiferenças
+culturais etc. Os propósitos Ta TGS que poTem contribuir para
+a resolução Tesses problemas incluem
+C
+o 
+incentivo 
+à 
+especialização 
+total 
+Tas 
+áreas 
+To
+conUecimento.
+CC
+o Tesenvolvimento Tos princípios unificaTores que
+transcenTem o universo Tas ciências inTiviTuais.
+CCC a integração Te contribuições Te várias ciências na busca Te
+solução Tos problemas.
+CV o Tesenvolvimento Te princípios únicos para caTa área To
+conUecimento.
+V
+o Tesenvolvimento Te estuTos que visem à ampliação Ta
+separação entre as ciências naturais e sociais.
+Nstão certos apenas os itens
+A C e CC.
+B C e V.
+C CC e CCC.
+M CCC e CV.
+N CV e V.

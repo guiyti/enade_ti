@@ -6,52 +6,17 @@
     17,
     18
   ],
-  "segmentos": [
-    {
-      "pagina": 17,
-      "x0": 317.15999999999997,
-      "y0": 96.5428466796875,
-      "x1": 603.3199999999999,
-      "y1": 749.4680786132812,
-      "coluna": 2
-    },
-    {
-      "pagina": 18,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 311.15999999999997,
-      "y1": 100.5428466796875,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q17.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q17.txt",
   "largura": 1223,
   "altura": 2871,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 17\nIĂƐŽƐ ĚĞ ƵƐŽ ƉŽĚĞŵ ƐĞƌ ŽƌŐĂŶŝǌĂĚŽƐ ĂŐƌƵƉĂŶĚŽͲŽƐ \nĞŵ ƉĂĐŽƚĞƐ ĚŽ ŵĞƐŵŽ ŵŽĚŽ ĐŽŵŽ ƐĆŽ ŽƌŐĂŶŝǌĂĚĂƐ \nĂƐ  ĐůĂƐƐĞƐ͘   dĂŵďĠŵ  ƉŽĚĞŵ  ƐĞƌ  ŽƌŐĂŶŝǌĂĚŽƐ  ƉĞůĂ \nĞƐƉĞĐŝĮĐĂĕĆŽ ĚĞ ƌĞůĂĐŝŽŶĂŵĞŶƚŽƐ ĚĞ ŐĞŶĞƌĂůŝǌĂĕĆŽ͕  \nŝŶĐůƵƐĆŽ Ğ ĞǆƚĞŶƐĆŽ͕  ĞǆŝƐƚĞŶƚĞƐ ĞŶƚƌĞ ĞůĞƐ͘\nJACOBSON, I.; BOOCH, G.; RUMBAUGH, J. UML - Guia Do \nUsuário. 1 ed. Campus, 2006 (adaptado).\nIŽŶƐŝĚĞƌĂŶĚŽ  ŽƐ  ƌĞůĂĐŝŽŶĂŵĞŶƚŽƐ  ĞǆŝƐƚĞŶƚĞƐ  ĞŶƚƌĞ \nŽƐ ĐĂƐŽƐ ĚĞ ƵƐŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘   WĂƌĂ ĐĂƐŽƐ ĚĞ ƵƐŽ͕  Ă ŐĞŶĞƌĂůŝǌĂĕĆŽ ƐŝŐŶŝĮĐĂ ƋƵĞ \nŽ ĐĂƐŽ ĚĞ ƵƐŽ ĮůŚŽ ŚĞƌĚĂ Ž ĐŽŵƉŽƌƚĂŵĞŶƚŽ Ğ \nŽ ƐŝŐŶŝĮĐĂĚŽ ĚŽ ĐĂƐŽ ĚĞ ƵƐŽ ƉĂŝ Ğ ŶŽ ĐĂƐŽ ĚĞ \nƵƐŽ ĮůŚŽ ĚĞǀĞƌĄ ĂĐƌĞƐĐĞŶƚĂƌ ŽƵ ƐŽďƌĞƐĐƌĞǀĞƌ \nŽ ĐŽŵƉŽƌƚĂŵĞŶƚŽ ĚĞ ƐĞƵ ƉĂŝ͘\n//͘   hŵ ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ĚĞ ŝŶĐůƵƐĆŽ ĞŶƚƌĞ ĐĂƐŽƐ ĚĞ \nƵƐŽ ƐŝŐŶŝĮĐĂ ƋƵĞ Ž ĐĂƐŽ ĚĞ ƵƐŽ ďĂƐĞ ŝŶĐŽƌƉŽƌĂ \nĞǆƉůŝĐŝƚĂŵĞŶƚĞ  Ž  ĐŽŵƉŽƌƚĂŵĞŶƚŽ  ĚĞ  ŽƵƚƌŽ \nĐĂƐŽ ĚĞ ƵƐŽ Ğŵ ƵŵĂ ůŽĐĂůŝǌĂĕĆŽ ĞƐƉĞĐŝĮĐĂĚĂ͘  \nK  ĐĂƐŽ  ĚĞ  ƵƐŽ  ďĂƐĞ  ƉŽĚĞƌĄ  ƉĞƌŵĂŶĞĐĞƌ \nŝƐŽůĂĚŽ͕   ŵĂƐ͕   ƐŽď  ĐĞƌƚĂƐ  ĐŽŶĚŝĕƁĞƐ͕   ƐĞƵ \nĐŽŵƉŽƌƚĂŵĞŶƚŽ  ƉŽĚĞƌĄ  ƐĞƌ  ŝŶĐůƵşĚŽ  ƉĞůŽ \nĐŽŵƉŽƌƚĂŵĞŶƚŽ ĚĞ ŽƵƚƌŽ ĐĂƐŽ ĚĞ ƵƐŽ͘\n///͘   hŵ ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ĞƐƚĞŶĚŝĚŽ ĞŶƚƌĞ ĐĂƐŽƐ ĚĞ \nƵƐŽ ƐŝŐŶŝĮĐĂ ƋƵĞ Ž ĐĂƐŽ ĚĞ ƵƐŽ ďĂƐĞ ŝŶĐŽƌƉŽƌĂ \nŝŵƉůŝĐŝƚĂŵĞŶƚĞ  Ž  ĐŽŵƉŽƌƚĂŵĞŶƚŽ  ĚĞ  ŽƵƚƌŽ \nĐĂƐŽ  ĚĞ  ƵƐŽ  Ğŵ  Ƶŵ  ůŽĐĂů  ĞƐƉĞĐŝĮĐĂĚŽ \nŝŶĚŝƌĞƚĂŵĞŶƚĞ  ƉĞůŽ  ĐĂƐŽ  ĚĞ  ƵƐŽ  ĞƐƚĞŶĚŝĚŽ͘  \nK  ĐĂƐŽ  ĚĞ  ƵƐŽ  ĞƐƚĞŶĚŝĚŽ  ŶƵŶĐĂ  ƉĞƌŵĂŶĞĐĞ \nŝƐŽůĂĚŽ͕  ŵĂƐ Ġ ĂƉĞŶĂƐ ŝŶƐƚĂŶĐŝĂĚŽ ĐŽŵŽ ƉĂƌƚĞ \nĚĞ ĂůŐƵŵĂ ďĂƐĞ ŵĂŝŽƌ ƋƵĞ Ž ĞƐƚĞŶĚĞ͘\n/s͘   hŵ  ƌĞůĂĐŝŽŶĂŵĞŶƚŽ  ĞƐƚĞŶĚŝĚŽ  Ġ  ƵƟůŝǌĂĚŽ \nƉĂƌĂ Ă ŵŽĚĞůĂŐĞŵ ĚĂ ƉĂƌƚĞ ĚĞ Ƶŵ ĐĂƐŽ ĚĞ \nƵƐŽ  ƋƵĞ  Ž  ƵƐƵĄƌŝŽ  ƉŽĚĞƌĄ  ĐŽŶƐŝĚĞƌĂƌ  ĐŽŵŽ \nƵŵ  ĐŽŵƉŽƌƚĂŵĞŶƚŽ  ŽƉĐŝŽŶĂů  ĚŽ  ƐŝƐƚĞŵĂ  Ğ \nƉĂƌĂ Ă ŵŽĚĞůĂŐĞŵ ĚĞ Ƶŵ ƐƵďŇƵǆŽ ƐĞƉĂƌĂĚŽ͕  \nƋƵĞ Ġ ĞǆĞĐƵƚĂĚŽ ƐŽŵĞŶƚĞ ƐŽď ĚĞƚĞƌŵŝŶĂĚĂƐ \nĐŽŶĚŝĕƁĞƐ͘\n\u001e ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA / Ğ //͘\nB / Ğ /s͘\nC // Ğ ///͘\nD /͕  /// Ğ /s͘\nE //͕  /// Ğ /s͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 17,
-      "tipo": "OBJETIVA",
-      "pagina": 17,
-      "x": 321.1419982910156,
-      "y": 108.5428466796875,
-      "x1": 383.5948181152344,
-      "y1": 120.5428466796875,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 17"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502148"
+  "texto_completo": "17\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 16\nUma \nfunção \né \nTenominaTa \nrecursiva \nquanTo \nela  é  cUamaTa  novamente  Tentro  Te  seu  corpo.  \n/mplementações  recursivas  tenTem  a  ser  menos \nefcientes,   porém  facilitam  a  coTifcação  e  seu \nentenTimento.\nCN>NS,  t.͖  CNZYUN/Z ,  Z.͖  Z N'N>,  :.  >.  CntroTução a estruturas Te \nTaTos.  Zio Te :aneiro,  2004 (aTaptaTo).\nConsiTere a função recursiva f(),  a qual foi escrita \nem linguagem C:\n1 int f( int v[], int n) {\n2\n if (n == 0)\n3\n return 0;\n4\n else {\n5\n int s;\n6\n s = f( v, n-1);\n7       if (v[n-1] > 0) s = s + v[n-1];\n8\n return s;\n9\n }\n10 }\nSuponUa  que  a  função  f()  é  acionaTa  com  os \nseguintes parametros Te entraTa:\nf({2,-4,7,0,-1,4},6);\nNesse caso,  o valor Te retorno Ta função f() serA\nA 8.\nB 10.\nC 13.\nM 15.\nN 18.\nÁRNA LCVRN\nQUNSTÃO 17\nCasos Te uso poTem ser organizaTos agrupanTo-os \nem pacotes To mesmo moTo como são organizaTas \nas  classes.   Também  poTem  ser  organizaTos  pela \nespecifcação Te relacionamentos Te generalização,  \ninclusão e extensão,  existentes entre eles.\nJACOBSON, C.; BOOCH, G.; RUMBAUGH, J. UML - Guia Mo \nUsuário. 1 eT. Campus, 2006 (aTaptaTo).\nConsiTeranTo  os  relacionamentos  existentes  entre \nos casos Te uso,  avalie as afrmações a seguir.\n/.   Para casos Te uso,  a generalização signifca que \no caso Te uso flUo UerTa o comportamento e \no signifcaTo To caso Te uso pai e no caso Te \nuso flUo TeverA acrescentar ou sobrescrever \no comportamento Te seu pai.\n//.   Um relacionamento Te inclusão entre casos Te \nuso signifca que o caso Te uso base incorpora \nexplicitamente  o  comportamento  Te  outro \ncaso Te uso em uma localização especifcaTa.  \nO  caso  Te  uso  base  poTerA  permanecer \nisolaTo,   mas,   sob  certas  conTições,   seu \ncomportamento  poTerA  ser  incluíTo  pelo \ncomportamento Te outro caso Te uso.\n///.   Um relacionamento estenTiTo entre casos Te \nuso signifca que o caso Te uso base incorpora \nimplicitamente  o  comportamento  Te  outro \ncaso  Te  uso  em  um  local  especifcaTo \ninTiretamente  pelo  caso  Te  uso  estenTiTo.  \nO  caso  Te  uso  estenTiTo  nunca  permanece \nisolaTo,  mas é apenas instanciaTo como parte \nTe alguma base maior que o estenTe.\n/s.   Um  relacionamento  estenTiTo  é  utilizaTo \npara a moTelagem Ta parte Te um caso Te \nuso  que  o  usuArio  poTerA  consiTerar  como \num  comportamento  opcional  To  sistema  e \npara a moTelagem Te um subŇuxo separaTo,  \nque é executaTo somente sob TeterminaTas \nconTições.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e /s.\nC // e ///.\nM /,  /// e /s.\nN //,  /// e /s.\n*R40201417*\n\n18\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 18\nNos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturaTas  e  com  toTas  as  funcionaliTaTes  em \num  unico  moTulo,   com  granTe  quantiTaTe  Te \nlinUas Te coTigo.   cessos a bancos Te TaTos não \nrelacionais,   regras  Te  negocios  e  tratamento  Te \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nPosteriormente,  \numa \nimportante \nmuTança  ocorreu:   a  substituição  Tos  terminais \"\nburros\"   por  microcomputaTores,   permitinTo \nque toTo o tratamento Ta interface,  e Te algumas \nregras  Te  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   Surgiam  as  aplicações  cliente-\nserviTor.    partir Tos anos 90,  até os Tias atuais,  \nas  muTanças  foram  mais  raTicais,   os  bancos  Te \nTaTos  passaram  a  ser  relacionais  e  TistribuíTos.  \n s linguagens passaram a ser orientaTas a obũetos,  \ncuũa  moTelagem  encapsula  TaTos  e  oferece \nfuncionaliTaTes  através  Te  métoTos.      interface \npassou a ser web.  sive-se a era Tas aplicações em \ntrgs camaTas.\nConsiTeranTo a evolução Ta arquitetura Te soŌǁare\nTe sistemas Te informação,  conforme citaTo no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerenTo pessoal mais especializaTo.\n//.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitinTo que as partes possam ser alteraTas \nTe forma inTepenTente.\n///.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas aumentou o acoplamento,  TifcultanTo \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 19\nZequisitos funcionais e não funcionais poTem Tefnir \ncaracterísticas  e  funcionaliTaTes  presentes  na \ninterface a ser TesenvolviTa para um sistema.  \nNm  relação  aos  requisitos  não  funcionais,   também \ncUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as \nafrmações a seguir.\n/.   São levantaTos e elicitaTos apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  Teterminarão  as  funcionaliTaTes \nTa interface.\n//.   Sempre  serão  TefniTos  Te  forma  mais \nconcreta,   através  Te  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionaliTaTes levantaTas.\n///.   PoTem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201418*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q17.png",
+  "caminho_json": "/questoes/2014_ADS/q17.json",
+  "caminho_txt": "/questoes/2014_ADS/q17.txt"
 }

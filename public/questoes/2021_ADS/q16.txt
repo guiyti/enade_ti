@@ -1,46 +1,50 @@
-QUESTÃO 16	
-Uma ONG decidiu construir um hospital de campanha para tratamento de pacientes diagnosticados 
-com a Covid-19. Para auxiliar na gerência hospitalar, a ONG contratou alguns programadores voluntários 
-para desenvolver um Sistema de Suporte à Decisão para Gestão Hospitalar. Esse sistema irá auxiliar no 
-registro de todos os procedimentos diários realizados no paciente que dá entrada no hospital, desde sua 
-internação até a saída, seja essa saída por recebimento de alta, por transferência ou óbito. O sistema foi 
-todo desenvolvido em Java de acordo com o Paradigma Orientado a Objetos. Durante o curto processo de 
-análise, devido à urgência, foram construídos diversos diagramas em UML (Unified Modeling Language). 
-Um desses diagramas relaciona a interação entre os objetos do sistema, o Diagrama de Sequência. 
-Esse diagrama é apresentado a seguir.
-Considerando o Diagrama de Sequência apresentado, assinale a opção correta.
-A	 Leito é uma subclasse de UTI.
-B	 O método registraPaciente() é implementado por Paciente.
-C	 Todos os objetos foram criados no instante de execução do Caso de Uso representado.
-D	 O diagrama apresenta um erro ao não representar as mensagens de retorno depois da destruição dos objetos.
-E	 A mensagem 4 pode ser substituída pelo estereótipo <<create>> sem causar prejuízo à interpretação 
-correta do Diagrama de Sequência representado.
+24
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 16	
+Uma ONG TeciTiu construir um Uospital Te campanUa para tratamento Te pacientes TiagnosticaTos 
+com a CoviT-19. Para auxiliar na gerência Uospitalar, a ONG contratou alguns programaTores voluntários 
+para Tesenvolver um Sistema Te Suporte à Mecisão para Gestão Hospitalar. Nsse sistema irá auxiliar no 
+registro Te toTos os proceTimentos Tiários realizaTos no paciente que Tá entraTa no Uospital, TesTe sua 
+internação até a saíTa, seja essa saíTa por recebimento Te alta, por transferência ou óbito. O sistema foi 
+toTo TesenvolviTo em Java Te acorTo com o ParaTigma OrientaTo a Objetos. Murante o curto processo Te 
+análise, TeviTo à urgência, foram construíTos Tiversos Tiagramas em UML (UnifieT MoTeling Language). 
+Um Tesses Tiagramas relaciona a interação entre os objetos To sistema, o Miagrama Te Sequência. 
+Nsse Tiagrama é apresentaTo a seguir.
+ConsiTeranTo o Miagrama Te Sequência apresentaTo, assinale a opção correta.
+A	 Leito é uma subclasse Te UTC.
+B	 O métoTo registraPaciente() é implementaTo por Paciente.
+C	 ToTos os objetos foram criaTos no instante Te execução To Caso Te Uso representaTo.
+M	 O Tiagrama apresenta um erro ao não representar as mensagens Te retorno Tepois Ta Testruição Tos objetos.
+N	 A mensagem 4 poTe ser substituíTa pelo estereótipo <<create>> sem causar prejuízo à interpretação 
+correta To Miagrama Te Sequência representaTo.
+Área livre
 3: Consulta existência 
-de leitos : 
+Te leitos : 
 consultaLeitos()
-1: Registro do 
+1: Registro To 
 Paciente:
 registraPaciente()
 4: Consulta 
-disponibilidade de UTI :
-consultaUTI()
-UTI
-Intervencao
+TisponibiliTaTe Te UTC :
+consultaUTC()
+UTC
+Cntervencao
 Leito
 Registro
 Paciente
-5: UTI gerada
-6: Leito Gerado
+5: UTC geraTa
+6: Leito GeraTo
 2: Retorna o número
-do paciente.
-7: Realiza Intervenção : realizaIntervencao()
-10: Intervenção Realizada
-11: Liberação do
+To paciente.
+7: Realiza Cntervenção : realizaCntervencao()
+10: Cntervenção RealizaTa
+11: Liberação To
 Paciente:
 liberaPaciente()
 12: Libera Leito
-8: realizaIntervencao()
-9: Intervenção
-Realizada
+8: realizaCntervencao()
+9: Cntervenção
+RealizaTa
 Laço
 Proﬁssional
+*R28202124*

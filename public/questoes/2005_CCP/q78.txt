@@ -1,54 +1,257 @@
-s  0,5.
-UESTÃO 78
-spositivos Lógicos Programáveis (DLP, ou PLD — programmable
-ic devices) são muito utilizados hoje em dia para o projeto de
-cuitos digitais especiais. Com relação a esse assunto, julgue os
-ns a seguir.
+NNAMN – 2005
+Área: COMPUTAÇÃO
+28
+QUNSTÃO 75
+Um engenUeiro Te uma companUia fabricante Te
+memórias semiconTutoras estuTou o comportamento
+To custo em função To número Te bits Ta fabricação Te
+um cUip Te memória RAM com TeterminaTa
+tecnologia. 
+Nle 
+cUegou 
+à 
+conclusão 
+Te 
+que,
+consiTeranTo-se a evolução tecnológica, o custo C(x),
+expresso em TeterminaTa uniTaTe monetária, Te um
+cUip Te memória RAM com x bits, na Tata Te conclusão
+To processo Te fabricação, seria TeterminaTo pela
+equação
+ConsiTeranTo-se que o moTelo TesenvolviTo pelo engenUeiro
+esteja correto, caso a empresa TeciTa pelo cUip Te menor
+custo, ela Teverá optar por um cUip com memória Te
+capaciTaTe Te 
+A 256 megabits.
+B 512 megabits.
+C 1.024 megabits.
+M 2.048 megabits.
+N 4.096 megabits.
+QUNSTÃO 76
+O termo imagem Tesigna uma função
+intensiTaTe luminosa biTimensional f, em que um valor
+Te intensiTaTe é associaTo a coorTenaTas espaciais
+(x, y). Uma imagem Tigital é obtiTa pela Tigitalização
+Tas coorTenaTas espaciais por meio Te um processo
+conUeciTo como amostragem Ta imagem. Messa
+forma, uma imagem contínua monocromática f(x, y) é
+aproximaTa por amostras igualmente espaçaTas,
+arranjaTas na forma Te uma matriz N×M, em que caTa
+min
+max
+elemento é um valor inteiro g. O intervalo [G
+, G
+],
+To menor ao maior valor Te intensiTaTe g, é
+min
+TenominaTo escala Te cinza. Normalmente, G
+ = 0
+max
+corresponTe a preto, e G
+ = G corresponTe ao
+branco.
+ConsiTeranTo os conceitos apresentaTos acima, assinale a
+opção correta.
+A O processo Te Tigitalização Ta imagem requer que as
+Timensões N e M Ta matriz mencionaTa acima sejam
+múltiplas To número Te tons Te cinza na imagem.
+B Para imagens binárias, se L for o número Te tons Te cinza
+representáveis, e L = 2 , então k = 2.
+k
+C Os métoTos para realce Te imagens que operam no
+Tomínio espacial fazem uso To conceito Te vizinUança Te
+pixel.
+M MétoTos Te filtragem normalmente usam máscaras para
+impeTir a transformação Tos níveis Te cinza Tos pixels Ta
+imagem. 
+N Limiarização é um tipo Te processamento Te imagens que
+amplia o número Te níveis Te cinza Ta imagem.
+QUNSTÃO 77
+Observe a situação representaTa acima, em que o triângulo
+iTentificaTo por A sofre transformações geométricas que o levam para
+a situação iTentificaTa por A’. ConsiTeranTo-se Tx e Ty parâmetros
+Te translação e s, parâmetro fator Te escala, então o triângulo A’ poTe
+ser obtiTo a partir Ta aplicação Ta seguinte seqüência Te
+transformações aos vértices To triângulo A:
+c
+c
+A rotação em torno To ponto (x , y ); escala com fator uniforme
+s  = 2.
+c
+c
+B rotação em torno To ponto (x , y ); escala com fator uniforme
+s = 0,5.
+c
+c
+C rotação em torno To ponto (x' , y' ); escala com fator
+uniforme s = 0,5; translação com parâmetros Te Teslocamento
+c
+c
+Tx = !x e Ty = !y .
+M escala com fator uniforme s = 0,5; translação com parâmetros Te
+c
+c
+Teslocamento Tx = x' e Ty = y' ; rotação em torno To
+c
+c
+ponto (x , y ).
+c
+c
+N tanslação com parâmetros Te Teslocamento Tx = !x e Ty = !y ;
+c
+c
+rotação em torno To ponto (x , y ); translação com parâmetros
+c
+c
+Te Teslocamento Tx = x e Ty = y ; escala com fator uniforme
+s = 0,5.
+QUNSTÃO 78
+Mispositivos Lógicos Programáveis (MLP, ou PLM — programmable
+logic Tevices) são muito utilizaTos Uoje em Tia para o projeto Te
+circuitos Tigitais especiais. Com relação a esse assunto, julgue os
+itens a seguir.
+C
 Como um PLA (programmable logic array) somente implementa
-equações booleanas descritas na forma de soma de termos-
-produto, e não implementa portas lógicas multinível, então nem
-todas as funções booleanas podem ser implementadas em um
+equações booleanas Tescritas na forma Te soma Te termos-
+proTuto, e não implementa portas lógicas multinível, então nem
+toTas as funções booleanas poTem ser implementaTas em um
 PLA.
-Em uma PROM (programmable ROM), o arranjo de portas AND
-é fixo, e somente o arranjo de portas OR pode ser programado; em
-um PAL (programmable array logic), o arranjo de portas OR é
-fixo, e somente o array de portas AND é programável; e, em um
-PLA (programmable logic array), tanto o arranjo de portas AND
-como o de portas OR são programáveis.
-Um circuito digital implementado por meio de um dispositivo
-lógico programável ocupa mais área e consome mais potência do
-que um circuito integrado dedicado, mas, em compensação, ele
-pode operar em freqüências maiores, pois seus transistores e
-portas lógicas são projetados de forma a otimizar o chaveamento
-de estados.
-sinale a opção correta.
-Apenas o item II está certo.
-Apenas o item III está certo.
-Apenas os itens I e II estão certos.
-Apenas os itens I e III estão certos.
-Apenas os itens II e III estão certos.
+CC
+Nm uma PROM (programmable ROM), o arranjo Te portas ANM
+é fixo, e somente o arranjo Te portas OR poTe ser programaTo; em
+um PAL (programmable array logic), o arranjo Te portas OR é
+fixo, e somente o array Te portas ANM é programável; e, em um
+PLA (programmable logic array), tanto o arranjo Te portas ANM
+como o Te portas OR são programáveis.
+CCC Um circuito Tigital implementaTo por meio Te um Tispositivo
+lógico programável ocupa mais área e consome mais potência To
+que um circuito integraTo TeTicaTo, mas, em compensação, ele
+poTe operar em freqüências maiores, pois seus transistores e
+portas lógicas são projetaTos Te forma a otimizar o cUaveamento
+Te estaTos.
+Assinale a opção correta.
+A Apenas o item CC está certo.
+B Apenas o item CCC está certo.
+C Apenas os itens C e CC estão certos.
+M Apenas os itens C e CCC estão certos.
+N Apenas os itens CC e CCC estão certos.
 
-xpto( [H | T1], Y, [H | T2] ) : xpto( T1, Y, T2 )
+NNAMN – 2005
+Área: COMPUTAÇÃO
+29
+QUNSTÃO 79
+xpto( [ ], R, R ).
+xpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 ).
 zpto( X, [X|Y] ).
 zpto( X, [Y|Z] ) :- zpto( X, Z ).
-Com relação aos predicados escritos em Prolog acima, julgue o
+Com relação aos preTicaTos escritos em Prolog acima, julgue os
 itens a seguir.
-I
-A execução de xpto([1,2,3],[ ], F) conclui com sucess
-instanciando F para [1,2,3].
-II
-A execução de zpto(5,[1,2,3] ) conclui sem sucesso.
-III A 
+C
+A execução Te xpto([1,2,3],[ ], F) conclui com sucesso
+instancianTo F para [1,2,3].
+CC
+A execução Te zpto(5,[1,2,3] ) conclui sem sucesso.
+CCC A 
 execução 
-de 
+Te 
 zpto(X,[1,2,3]) 
 conclui 
 com 
-sucesso
-instanciando X para 1. 
+sucesso,
+instancianTo X para 1. 
 Assinale a opção correta.
 A Apenas um item está certo.
-B Apenas os itens I e II estão certos.
-C Apenas os itens I e III estão certos.
-D Apenas os itens II e III estão certos.
-E Todos os itens estão certos.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 80
+Que caTeia é reconUeciTa pelo
+autômato 
+representaTo 
+pelo
+Tiagrama Te estaTos ao laTo?
+A 101010
+B 111011000
+C 11111000
+M 10100
+N 00110011
+QUNSTÃO 81
+O estuTo Te Timensionamento e Te TesempenUo Te reTes Te
+comunicação é uma ciência que usa constantemente os resultaTos Ta
+teoria Te filas. Nesse tipo Te análise, é comum a aToção Te moTelos
+Te filas M/M/1 para a análise Te enlaces Te roteaTores e
+comutaTores. Nesse tipo Te moTelo, a cUegaTa Te pacotes para
+transmissão e a transmissão Teles são processos Te Poisson. Assim,
+as características Ta fila que se forma em caTa enlace poTem ser
+TeterminaTas em função Ta taxa Te cUegaTa (tempo méTio TecorriTo
+entre a cUegaTa Te pacotes sucessivos encaminUaTos para
+transmissão pelo enlace) e Ta taxa Te serviço (tempo méTio para
+transmissão Te um pacote). Acerca To moTelo M/M/1 aplicaTo ao
+estuTo Te capaciTaTe e TesempenUo Te enlaces Te reTes, por
+comutação Te pacotes, assinale a opção correta.
+A Caso a taxa Te cUegaTa seja maior que a taxa Te serviço (taxa Te
+saíTa), conclui-se que o enlace está subTimensionaTo e Uaverá
+perTa Te pacotes.
+B A taxa Te serviço é inTepenTente To tamanUo To pacote.
+C Nm um roteaTor com múltiplos enlaces, a taxa Te cUegaTa para
+caTa enlace é igual ao somatório Tas capaciTaTes Te toTos os
+enlaces TiviTiTo pelo número Te enlaces To roteaTor.
+M O moTelo M/M/1 apresenta instabiliTaTe numérica sempre que
+a taxa Te cUegaTa for próxima Te zero.
+N QuanTo a taxa Te cUegaTa é menor que a taxa Te serviço,
+poTe-se esperar que o número méTio Te pacotes na fila seja igual
+a zero.
+QUNSTÃO 82
+ConsiTere que, em uma reTe PLAN, a função Te
+TensiTaTe Te probabiliTaTe (PMF) Te erro Te bit na
+transmissão entre um computaTor conectaTo à reTe e o
+erro
+ponto Te acesso (access point) — p
+(T) — seja TaTa
+pela função cujo gráfico está mostraTo acima, em que T
+$ 0 é a Tistância entre o ponto Te acesso e o
+computaTor.
+ConsiTeranTo essas informações, julgue os itens a seguir.
+C
+A probabiliTaTe Te erro Te bit na transmissão no caso Te o
+0
+computaTor estar localizaTo à Tistância T é TaTa
+por 
+.
+CC
+SabenTo-se que a méTia Ta Tistribuição corresponTente
+à PMF acima mencionaTa é igual a x, conclui-se que é Te
+0,5 a probabiliTaTe Te erro Te bit na transmissão no caso
+Te o computaTor estar localizaTo à Tistância T = x.
+CCC SuponTo-se que o sistema Te transmissão seja binário, as
+informações 
+apresentaTas 
+são 
+suficientes 
+para 
+se
+concluir que a probabiliTaTe Te erro TaTo que foi enviaTo
+um bit 1 é igual à probabiliTaTe Te erro TaTo que foi
+enviaTo um bit 0. 
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 83
+Com relação à tecnologia bluetootU, que possibilita a
+comunicação sem fios entre Tispositivos, assinale a opção
+correta.
+A Nssa tecnologia utiliza a transmissão em enlace via ráTio na
+banTa Te freqüência VHF.
+B Nssa tecnologia possibilita a transmissão Te voz e TaTos a
+curtas Tistâncias.
+C Um Tispositivo poTe assumir, simultaneamente, o papel Te
+mestre e Te escravo em uma mesma piconet que utiliza essa
+tecnologia.
+M Uma piconet poTe ser formaTa por até 255 mestres e
+255 escravos.
+N Um Tispositivo poTe participar, simultaneamente, Te Tuas
+piconets, TesTe que ele seja mestre em ambas.

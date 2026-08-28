@@ -1,39 +1,82 @@
-QUESTÃO 22	
-Os serviços de Tecnologia da Informação (TI) podem 
-ser melhorados em relação ao seu Ciclo de Vida do 
-Serviço, no alinhamento do Portfólio de TI com os 
+29
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 21	
+O Cnformation TecUnology Cnfrastructure Library 
+(CTCL) compreenTe um conjunto Te boas práticas 
+que buscam TetalUar o gerenciamento To serviço 
+Te TC, por meio To alinUamento entre a tecnologia 
+Ta informação e as necessiTaTes To negócio. Surge 
+no Reino UniTo e HolanTa na TécaTa Te 1980, 
+Tiante Ta insatisfação To governo britânico quanto 
+ao nível Te serviços Te TC, voltaTo para a Tescrição 
+Te um moTelo operacional para a entrega Te 
+proTutos e serviços UabilitaTos por tecnologia.
+ROSA, F. Avaliação sobre as melUores práticas e estuTo Te 
+migração para CTCL V3. Misponível em: Uttp://repositorio.roca.
+utfpr.eTu.br/jspui/bitstream/1/636/1/MM_COAMS_2011_2_01.pTf. 
+Acesso: em 20 jul. 2020 (aTaptaTo).
+A respeito Tos benefícios que o CTCL poTe oferecer 
+às organizações, avalie as afirmações a seguir.
+C.	 O CTCL é uma metoTologia prescritiva que 
+Tefine TetalUaTamente o que se Teve 
+fazer, 
+aTaptanTo-se 
+às 
+necessiTaTes 
+organizacionais.
+CC.	 O CTCL gera transparência quanto à prestação 
+Te serviços Te TC, Te forma a possibilitar o 
+entenTimento comum entre a área Te TC e 
+Te negócios.
+CCC.	 O CTCL permite a iTentificação Te pontos 
+falUos e características Te melUoria contínua.
+CV.	 O CTCL melUora a qualiTaTe Tos serviços 
+prestaTos e gera valor para o cliente.
+ É correto apenas o que se afirma em
+A	 C e CC.
+B	 C e CCC.
+C	 CC e CV.
+M	 C, CCC e CV.
+N	 CC, CCC e CV.
+Área livre
+QUNSTÃO 22	
+Os serviços Te Tecnologia Ta Cnformação (TC) poTem 
+ser melUoraTos em relação ao seu Ciclo Te ViTa To 
+Serviço, no alinUamento To Portfólio Te TC com os 
 requerimentos atuais e futuros e com o aumento 
-da maturidade das entregas dos processos em 
-cada Serviço de TI. No Information Technology 
-Infrastructure Library (ITIL), essa melhoria ocorre 
-na etapa de Melhoria Continuada de Serviço.
- FREITAS, M. A. S. Fundamentos do gerenciamento de serviços de TI. 
-Rio de Janeiro: Brasport, 2013 (adaptado).
-Considerando o ciclo de vida do serviço descrito, a 
-etapa de Melhoria Continuada de Serviço do ITIL
-A	 descreve a fase do ciclo de vida responsável pelas 
-atividades do dia a dia, orientando sobre como 
-garantir a entrega e o suporte a serviços de forma 
+Ta maturiTaTe Tas entregas Tos processos em 
+caTa Serviço Te TC. No Cnformation TecUnology 
+Cnfrastructure Library (CTCL), essa melUoria ocorre 
+na etapa Te MelUoria ContinuaTa Te Serviço.
+ FRNCTAS, M. A. S. FunTamentos To gerenciamento Te serviços Te TC. 
+Rio Te Janeiro: Brasport, 2013 (aTaptaTo).
+ConsiTeranTo o ciclo Te viTa To serviço Tescrito, a 
+etapa Te MelUoria ContinuaTa Te Serviço To CTCL
+A	 Tescreve a fase To ciclo Te viTa responsável pelas 
+ativiTaTes To Tia a Tia, orientanTo sobre como 
+garantir a entrega e o suporte a serviços Te forma 
 eficiente e eficaz em ambientes operacionais 
-gerenciados.
-B	 orienta, através de princípios, práticas e métodos 
-de gerenciamento da qualidade, sobre como 
-aprimorar a qualidade do serviço, incluindo as 
-metas de eficiência operacional e a continuidade 
-do serviço.
+gerenciaTos.
+B	 orienta, através Te princípios, práticas e métoTos 
+Te gerenciamento Ta qualiTaTe, sobre como 
+aprimorar a qualiTaTe To serviço, incluinTo as 
+metas Te eficiência operacional e a continuiTaTe 
+To serviço.
 C	 orienta sobre como visualizar o gerenciamento 
-de serviços não somente como uma capacidade 
+Te serviços não somente como uma capaciTaTe 
 organizacional, e sim como ativo estratégico, 
-descrevendo princípios úteis para criar políticas, 
-diretrizes e processos de gerenciamento.
-D	 orienta sobre como implantar serviços novos 
-e modificados para ambientes operacionais 
-gerenciados, detalhando os processos de 
-planejamento, gerenciamento de mudanças, 
-gerenciamento da configuração e gerenciamento 
-de liberação.
-E	 fornece orientação para o desenvolvimento 
-dos serviços e das práticas de gerenciamento 
-de serviços, propondo mudanças e melhorias 
+TescrevenTo princípios úteis para criar políticas, 
+Tiretrizes e processos Te gerenciamento.
+M	 orienta sobre como implantar serviços novos 
+e moTificaTos para ambientes operacionais 
+gerenciaTos, TetalUanTo os processos Te 
+planejamento, gerenciamento Te muTanças, 
+gerenciamento Ta configuração e gerenciamento 
+Te liberação.
+N	 fornece orientação para o Tesenvolvimento 
+Tos serviços e Tas práticas Te gerenciamento 
+Te serviços, proponTo muTanças e melUorias 
 necessárias para manter ou agregar valor aos 
-clientes ao longo do ciclo de vida do serviço.
+clientes ao longo To ciclo Te viTa To serviço.
+Área livre
+*R29202129*

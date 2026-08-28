@@ -6,54 +6,21 @@
     28,
     29
   ],
-  "segmentos": [
-    {
-      "pagina": 28,
-      "x0": 301.08,
-      "y0": 570.015625,
-      "x1": 571.16,
-      "y1": 782.16,
-      "coluna": 2
-    },
-    {
-      "pagina": 29,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 295.08,
-      "y1": 340.79559326171875,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q74.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q74.txt",
   "largura": 1156,
   "altura": 2037,
   "confianca": 0.98,
-  "texto_completo": "WHERE CODIGO  COD_PECA;\nQUESTÃO 74\nNo que diz respeito às redes neurais, assinale a opção correta.\nA O treinamento de uma rede neural tem tempo determinado de\nexecução.\nB Não há problemas em realizar o teste de desempenho de uma\nrede neural com o mesmo conjunto de dados usado para o\ntreinamento.\nC O número de pesos de uma rede neural não influencia a\nrapidez com que ela processa dados.\nD O aprendizado supervisionado é o paradigma de treinamento\nmais utilizado para desenvolver aplicações de redes neurais\npara classificação e predição.\nE O número de camadas ocultas de uma rede de alimentação\ndireta é inversamente proporcional ao aumento do espaço de\nhipóteses que ela pode representar.\n\nmemórias semicondutoras estudou o comportamento\ndo custo em função do número de bits da fabricação de\num chip de memória RAM com determinada\ntecnologia. \nEle \nchegou \nà \nconclusão \nde \nque,\nconsiderando-se a evolução tecnológica, o custo C(x),\nexpresso em determinada unidade monetária, de um\nchip de memória RAM com x bits, na data de conclusão\ndo processo de fabricação, seria determinado pela\nequação\nConsiderando-se que o modelo desenvolvido pelo engenheiro\nesteja correto, caso a empresa decida pelo chip de menor\ncusto, ela deverá optar por um chip com memória de\ncapacidade de \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nD 2.048 megabits.\nE 4.096 megabits.\nO\nid\na \nde\nse\ntra\nA\nB\nC",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Banco de Dados",
+    "Arquitetura e Organização de Computadores"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n27\nAs questões Te 71 a 85, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te\nNNGNNHARCA MN COMPUTAÇÃO\nQUNSTÃO 71\nSistemas operacionais Te tempo real são utilizaTos em controle\nTe processos automatizaTos, em que o tempo Te resposta a\nTeterminaTos eventos é um fator crítico. Com relação a esse\nassunto, julgue os itens seguintes.\nC\nSistemas Te tempo real estritos (UarT real-time) não utilizam\nTispositivos Te memória secunTária (como Tiscos), pois estes\nnão oferecem garantia Te término Tas operações Tentro Te\numa quantiTaTe máxima Te tempo.\nCC\nUm sistema operacional Te propósito geral poTe ser\nmoTificaTo para ser Te tempo real atribuinTo-se prioriTaTes\nfixas para caTa um Tos processos.\nCCC O escalonamento mais utilizaTo por sistemas operacionais Te\ntempo real é o sUortest-job-first (tarefa mais curta primeiro).\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 72\n1\n2\n3\nT\nT\nT\n1\n2\n3\n4\n5\n6\n7\n8\nbloqueia A\nrecupera A\natualiza A\nTesbloqueia A\nbloqueia B\nrecupera B\natualiza B\nTesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\natualiza A\nTesbloqueia A\nTesbloqueia B\nbloqueia B\nrecupera B\natualiza B\nbloqueia A\nrecupera A\nTesbloqueia A\nTesbloqueia B\ni\nj\nA execução Te Tuas transações, T e T , em um banco Te TaTos,\né serializável se proTuz o mesmo resultaTo para a execução serial\nTe qualquer intercalação Te operações Tessas transações\ni\nj\nj\ni\n(T seguiTa Te T ou T seguiTa Te T ). O uso Te bloqueios (locks)\né uma maneira Te se garantir que transações concorrentes sejam\nserializáveis. A tabela acima mostra informações relativas a três\n1\n2\n3\ntransações, T , T e T , que operam sobre Tois TaTos\ncompartilUaTos, A e B, e utilizam bloqueios para controle Te\n1\n2\n3\nconcorrência. Com relação às transações T , T e T , julgue os\nitens seguintes.\n1\n2\nC\nO conjunto (T , T ) não é serializável, e Uá o perigo Te\nocorrer TeaTlock Turante a execução concorrente Tessas\ntransações.\n1\n3\nCC\nO conjunto (T , T ) não é serializável, mas não Uá o perigo Te\nocorrer TeaTlock Turante a execução concorrente Tessas\ntransações.\n2\n3\nCCC O conjunto (T , T ) é serializável, e não Uá o perigo Te\nocorrer TeaTlock Turante a execução concorrente Tessas\ntransações.\nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 73\nConsiTere o seguinte script SQL Te criação Te um banco Te\nTaTos.\nCRNATN TABLN PNCAS (COMCGO NUMNRCC(5) NOT NULL,\n MNSCRCCAO VARCHAR(20) NOT NULL,\n NSTOQUN NUMNRCC(5) NOT NULL,\n PRCMARY ONY(COMCGO));\nCRNATN TABLN FORNNCNMORNS\n(COM_FORN NUMNRCC(3) NOT NULL,\n NOMN VARCHAR(30) NOT NULL,\n PRCMARY ONY(COM_FORN));\nCRNATN TABLN FORNNCCMNNTOS\n(COM_PNCA NUMNRCC(5) NOT NULL,\n COM_FORN NUMNRCC(3) NOT NULL,\n QUANTCMAMN NUMNRCC(4) NOT NULL,\n PRCMARY ONY(COM_PNCA, COM_FORN),\n FORNCGN ONY (COM_PNCA) RNFNRNNCNS PNCAS,\n FORNCGN ONY (COM_FORN) RNFNRNNCNS\n FORNNCNMORNS);\nA partir Tesse script, assinale a opção que apresenta comanTo\nSQL que permite obter uma lista que contenUa o nome Te caTa\nforneceTor que tenUa forneciTo alguma peça, o cóTigo Ta peça\nforneciTa, a Tescrição Tessa peça e a quantiTaTe forneciTa Ta\nreferiTa peça.\nA SNLNCT * FROM PNCAS, FORNNCNMORNS,\nFORNNCCMNNTOS;\nB SNLNCT * FROM PNCAS, FORNNCNMORNS,\nFORNNCCMNNTOS PHNRN PNCAS.COMCGO =\nFORNNCCMNNTOS.COM_PNCA ANM\nFORNNCNMORNS.COM_FORN =\nFORNNCCMNNTOS.COM_FORN;\nC SNLNCT NOMN, COMCGO, MNSCRCCAO, QUANTCMAMN\nFROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS;\nM SNLNCT NOMN, COMCGO, MNSCRCCAO, QUANTCMAMN\nFROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS\nPHNRN PNCAS.COMCGO = FORNNCCMNNTOS.COM_PNCA\nANM FORNNCNMORNS.COM_FORN =\nFORNNCCMNNTOS.COM_FORN;\nN SNLNCT MCSTCNCT NOMN, COMCGO, MNSCRCCAO,\nQUANTCMAMN \nFROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS\nPHNRN COMCGO = COM_PNCA;\nQUNSTÃO 74\nNo que Tiz respeito às reTes neurais, assinale a opção correta.\nA O treinamento Te uma reTe neural tem tempo TeterminaTo Te\nexecução.\nB Não Uá problemas em realizar o teste Te TesempenUo Te uma\nreTe neural com o mesmo conjunto Te TaTos usaTo para o\ntreinamento.\nC O número Te pesos Te uma reTe neural não influencia a\nrapiTez com que ela processa TaTos.\nM O aprenTizaTo supervisionaTo é o paraTigma Te treinamento\nmais utilizaTo para Tesenvolver aplicações Te reTes neurais\npara classificação e preTição.\nN O número Te camaTas ocultas Te uma reTe Te alimentação\nTireta é inversamente proporcional ao aumento To espaço Te\nUipóteses que ela poTe representar.\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n28\nQUNSTÃO 75\nUm engenUeiro Te uma companUia fabricante Te\nmemórias semiconTutoras estuTou o comportamento\nTo custo em função To número Te bits Ta fabricação Te\num cUip Te memória RAM com TeterminaTa\ntecnologia. \nNle \ncUegou \nà \nconclusão \nTe \nque,\nconsiTeranTo-se a evolução tecnológica, o custo C(x),\nexpresso em TeterminaTa uniTaTe monetária, Te um\ncUip Te memória RAM com x bits, na Tata Te conclusão\nTo processo Te fabricação, seria TeterminaTo pela\nequação\nConsiTeranTo-se que o moTelo TesenvolviTo pelo engenUeiro\nesteja correto, caso a empresa TeciTa pelo cUip Te menor\ncusto, ela Teverá optar por um cUip com memória Te\ncapaciTaTe Te \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nM 2.048 megabits.\nN 4.096 megabits.\nQUNSTÃO 76\nO termo imagem Tesigna uma função\nintensiTaTe luminosa biTimensional f, em que um valor\nTe intensiTaTe é associaTo a coorTenaTas espaciais\n(x, y). Uma imagem Tigital é obtiTa pela Tigitalização\nTas coorTenaTas espaciais por meio Te um processo\nconUeciTo como amostragem Ta imagem. Messa\nforma, uma imagem contínua monocromática f(x, y) é\naproximaTa por amostras igualmente espaçaTas,\narranjaTas na forma Te uma matriz N×M, em que caTa\nmin\nmax\nelemento é um valor inteiro g. O intervalo [G\n, G\n],\nTo menor ao maior valor Te intensiTaTe g, é\nmin\nTenominaTo escala Te cinza. Normalmente, G\n = 0\nmax\ncorresponTe a preto, e G\n = G corresponTe ao\nbranco.\nConsiTeranTo os conceitos apresentaTos acima, assinale a\nopção correta.\nA O processo Te Tigitalização Ta imagem requer que as\nTimensões N e M Ta matriz mencionaTa acima sejam\nmúltiplas To número Te tons Te cinza na imagem.\nB Para imagens binárias, se L for o número Te tons Te cinza\nrepresentáveis, e L = 2 , então k = 2.\nk\nC Os métoTos para realce Te imagens que operam no\nTomínio espacial fazem uso To conceito Te vizinUança Te\npixel.\nM MétoTos Te filtragem normalmente usam máscaras para\nimpeTir a transformação Tos níveis Te cinza Tos pixels Ta\nimagem. \nN Limiarização é um tipo Te processamento Te imagens que\namplia o número Te níveis Te cinza Ta imagem.\nQUNSTÃO 77\nObserve a situação representaTa acima, em que o triângulo\niTentificaTo por A sofre transformações geométricas que o levam para\na situação iTentificaTa por A’. ConsiTeranTo-se Tx e Ty parâmetros\nTe translação e s, parâmetro fator Te escala, então o triângulo A’ poTe\nser obtiTo a partir Ta aplicação Ta seguinte seqüência Te\ntransformações aos vértices To triângulo A:\nc\nc\nA rotação em torno To ponto (x , y ); escala com fator uniforme\ns  = 2.\nc\nc\nB rotação em torno To ponto (x , y ); escala com fator uniforme\ns = 0,5.\nc\nc\nC rotação em torno To ponto (x' , y' ); escala com fator\nuniforme s = 0,5; translação com parâmetros Te Teslocamento\nc\nc\nTx = !x e Ty = !y .\nM escala com fator uniforme s = 0,5; translação com parâmetros Te\nc\nc\nTeslocamento Tx = x' e Ty = y' ; rotação em torno To\nc\nc\nponto (x , y ).\nc\nc\nN tanslação com parâmetros Te Teslocamento Tx = !x e Ty = !y ;\nc\nc\nrotação em torno To ponto (x , y ); translação com parâmetros\nc\nc\nTe Teslocamento Tx = x e Ty = y ; escala com fator uniforme\ns = 0,5.\nQUNSTÃO 78\nMispositivos Lógicos Programáveis (MLP, ou PLM — programmable\nlogic Tevices) são muito utilizaTos Uoje em Tia para o projeto Te\ncircuitos Tigitais especiais. Com relação a esse assunto, julgue os\nitens a seguir.\nC\nComo um PLA (programmable logic array) somente implementa\nequações booleanas Tescritas na forma Te soma Te termos-\nproTuto, e não implementa portas lógicas multinível, então nem\ntoTas as funções booleanas poTem ser implementaTas em um\nPLA.\nCC\nNm uma PROM (programmable ROM), o arranjo Te portas ANM\né fixo, e somente o arranjo Te portas OR poTe ser programaTo; em\num PAL (programmable array logic), o arranjo Te portas OR é\nfixo, e somente o array Te portas ANM é programável; e, em um\nPLA (programmable logic array), tanto o arranjo Te portas ANM\ncomo o Te portas OR são programáveis.\nCCC Um circuito Tigital implementaTo por meio Te um Tispositivo\nlógico programável ocupa mais área e consome mais potência To\nque um circuito integraTo TeTicaTo, mas, em compensação, ele\npoTe operar em freqüências maiores, pois seus transistores e\nportas lógicas são projetaTos Te forma a otimizar o cUaveamento\nTe estaTos.\nAssinale a opção correta.\nA Apenas o item CC está certo.\nB Apenas o item CCC está certo.\nC Apenas os itens C e CC estão certos.\nM Apenas os itens C e CCC estão certos.\nN Apenas os itens CC e CCC estão certos.",
   "figuras": [
     "/questoes/2005_CCP/figuras/q74_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 74,
-      "tipo": "OBJETIVA",
-      "pagina": 28,
-      "x": 310.9800109863281,
-      "y": 582.015625,
-      "x1": 357.40802001953125,
-      "y1": 588.015625,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 74"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152887"
+  "caminho_png": "/questoes/2005_CCP/q74.png",
+  "caminho_json": "/questoes/2005_CCP/q74.json",
+  "caminho_txt": "/questoes/2005_CCP/q74.txt"
 }

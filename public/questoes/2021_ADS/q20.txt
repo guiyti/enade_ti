@@ -1,30 +1,34 @@
-QUESTÃO 20	
-Uma secretaria municipal de esportes decidiu criar e disponibilizar um site que sirva como portal de 
-comunicação com pessoas da terceira idade. A finalidade é fornecer orientações que propiciem práticas 
-para uma vida mais saudável, além de divulgar eventos esportivos ofertados pelo município para esse 
-público-alvo. O projeto ainda prevê a interação entre os usuários do site, por meio da publicação de fotos, 
-que podem ser curtidas e comentadas.
-A iniciativa de criação do site foi embasada em uma pesquisa mostrando que a maioria da população de 
-terceira idade do município dispõe de acesso à internet, especialmente por meio de dispositivos móveis 
-(smartphones e tablets), embora uma parcela dessa população prefira realizar o acesso com computadores 
-de mesa e notebooks.
-Considerando as informações do texto e as responsabilidades inerentes ao desenvolvimento do site, 
+28
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 20	
+Uma secretaria municipal Te esportes TeciTiu criar e Tisponibilizar um site que sirva como portal Te 
+comunicação com pessoas Ta terceira iTaTe. A finaliTaTe é fornecer orientações que propiciem práticas 
+para uma viTa mais sauTável, além Te Tivulgar eventos esportivos ofertaTos pelo município para esse 
+público-alvo. O projeto ainTa prevê a interação entre os usuários To site, por meio Ta publicação Te fotos, 
+que poTem ser curtiTas e comentaTas.
+A iniciativa Te criação To site foi embasaTa em uma pesquisa mostranTo que a maioria Ta população Te 
+terceira iTaTe To município Tispõe Te acesso à internet, especialmente por meio Te Tispositivos móveis 
+(smartpUones e tablets), embora uma parcela Tessa população prefira realizar o acesso com computaTores 
+Te mesa e notebooks.
+ConsiTeranTo as informações To texto e as responsabiliTaTes inerentes ao Tesenvolvimento To site, 
 avalie as afirmações a seguir.
-I.	 A segurança no uso é um fator crítico de usabilidade a ser considerado no projeto de interface para 
-o site, tendo em vista que pessoas da terceira idade são temerosas quanto ao registro de dados 
-pessoais e confidenciais em sites e aplicativos.
-II.	 A responsividade, que pressupõe o uso de valores relativos para definir as dimensões de elementos 
-na estilização de páginas HTML, deve ser considerada na construção do site, tendo em vista que o 
-acesso deve ocorrer através de dispositivos com diferentes tamanhos de tela.
-III.	 A construção de protótipos pode antecipar problemas de design de interação e minimizar custos 
-de desenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o 
-público-alvo e assim possibilitar a validação de usabilidade e da experiência do usuário.
-IV.	 O design participativo é um processo de design de Interação Humano-Computador (IHC) viável 
-para direcionar o projeto de interfaces e de experiência com o usuário do site, pois o público-alvo 
-tende a apresentar dificuldades no manuseio de tecnologias da informação e da comunicação.
+C.	 A segurança no uso é um fator crítico Te usabiliTaTe a ser consiTeraTo no projeto Te interface para 
+o site, tenTo em vista que pessoas Ta terceira iTaTe são temerosas quanto ao registro Te TaTos 
+pessoais e confiTenciais em sites e aplicativos.
+CC.	 A responsiviTaTe, que pressupõe o uso Te valores relativos para Tefinir as Timensões Te elementos 
+na estilização Te páginas HTML, Teve ser consiTeraTa na construção To site, tenTo em vista que o 
+acesso Teve ocorrer através Te Tispositivos com Tiferentes tamanUos Te tela.
+CCC.	 A construção Te protótipos poTe antecipar problemas Te Tesign Te interação e minimizar custos 
+Te Tesenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o 
+público-alvo e assim possibilitar a valiTação Te usabiliTaTe e Ta experiência To usuário.
+CV.	 O Tesign participativo é um processo Te Tesign Te Cnteração Humano-ComputaTor (CHC) viável 
+para Tirecionar o projeto Te interfaces e Te experiência com o usuário To site, pois o público-alvo 
+tenTe a apresentar TificulTaTes no manuseio Te tecnologias Ta informação e Ta comunicação.
 É correto apenas o que se afirma em
-A	 I e II.
-B	 I e III.
-C	 II e IV.
-D	 I, III e IV.
-E	 II, III e IV.
+A	 C e CC.
+B	 C e CCC.
+C	 CC e CV.
+M	 C, CCC e CV.
+N	 CC, CCC e CV.
+Área livre
+*R28202128*

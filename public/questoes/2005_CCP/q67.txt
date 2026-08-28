@@ -1,147 +1,157 @@
-QUESTÃO 67
-A redução da pirataria de software no Brasil e no mundo
-é resultado de esforços advindos da iniciativa privada e das
-entidades representativas do setor. Um estudo objetivando
-mensurar o índice de pirataria no mundo e os benefícios de sua
-redução apresentou os gráficos acima, obtidos de uma amostra
-de 57 países, incluindo-se o Brasil. 
-Com base nas informações apresentadas, é correto afirmar que
-I
-a taxa de redução do índice de pirataria de software no mundo
-manteve-se constante ano após ano no período mostrado.
-II
-o Brasil reduziu em torno de 25% seu índice de pirataria de
-software, comparando os anos de 1994 e 2002.
-III o Brasil foi, entre os países mostrados, o que apresentou a maior
-redução do índice de pirataria no período estudado.
-IV países com maior participação do setor de TI no PIB apresentam,
-normalmente, menores índices de pirataria.
+NNAMN – 2005
+Área: COMPUTAÇÃO
+24
+Observe os gráficos a seguir para responTer à questão 67.
+Cnformações obtiTas no Relatório Oficial Ta ABNS e BSA, 2005.
+QUNSTÃO 67
+A reTução Ta pirataria Te software no Brasil e no munTo
+é resultaTo Te esforços aTvinTos Ta iniciativa privaTa e Tas
+entiTaTes representativas To setor. Um estuTo objetivanTo
+mensurar o ínTice Te pirataria no munTo e os benefícios Te sua
+reTução apresentou os gráficos acima, obtiTos Te uma amostra
+Te 57 países, incluinTo-se o Brasil. 
+Com base nas informações apresentaTas, é correto afirmar que
+C
+a taxa Te reTução To ínTice Te pirataria Te software no munTo
+manteve-se constante ano após ano no períoTo mostraTo.
+CC
+o Brasil reTuziu em torno Te 25% seu ínTice Te pirataria Te
+software, comparanTo os anos Te 1994 e 2002.
+CCC o Brasil foi, entre os países mostraTos, o que apresentou a maior
+reTução To ínTice Te pirataria no períoTo estuTaTo.
+CV países com maior participação To setor Te TC no PCB apresentam,
+normalmente, menores ínTices Te pirataria.
 V
-o Brasil apresentou aumento de faturamento no período de 2000
-a 2002, apesar do aumento de pirataria.
-Estão certos apenas os itens
-A I e II.
-D III e V.
-B I e III.
-E IV e V.
-C II e IV.
+o Brasil apresentou aumento Te faturamento no períoTo Te 2000
+a 2002, apesar To aumento Te pirataria.
+Nstão certos apenas os itens
+A C e CC.
+M CCC e V.
+B C e CCC.
+N CV e V.
+C CC e CV.
 RASC UNH O
+Participação Te imposto To setor Te TC no PCB
+versus ínTice Te pirataria
 
-p
-q
-p
-j
-p
-j
-p
-transporte orientado a conexão. Suponha, ainda, que os projetistas
-tenham pouca experiência e que alguns requisitos originalmente
-listados não sejam típicos de um protocolo de transporte
-orientado a conexão. A seguir, apresenta-se a lista dos
-requisitos propostos pela equipe de projetistas.
-I
-O protocolo deve controlar a transmissão por meio de
-mecanismo de janela deslizante (sliding window). Vários
-pacotes poderão ser enviados antes de a origem aguardar uma
-confirmação de recepção. O número máximo de pacotes
-transmitidos antes de uma confirmação ser recebida será
-variável, o que possibilitará o controle do fluxo dos dados. 
-II
-O protocolo deve rotear os pacotes entre redes interligadas.
-O roteamento deve ser realizado a partir das informações em
-tabelas de roteamento. Em uma tabela de roteamento, cada
-entrada deve conter o endereço de um destino e o endereço da
-próxima máquina para a qual os pacotes devem ser enviados,
-de modo a serem encaminhados para o destino.
-III Uma comunicação passará por três fases: estabelecimento da
-conexão, transferência dos dados e término da conexão. O
+NNAMN – 2005
+Área: COMPUTAÇÃO
+25
+QUNSTÃO 68
+SuponUa que uma empresa esteja projetanTo um protocolo Te
+transporte orientaTo a conexão. SuponUa, ainTa, que os projetistas
+tenUam pouca experiência e que alguns requisitos originalmente
+listaTos não sejam típicos Te um protocolo Te transporte
+orientaTo a conexão. A seguir, apresenta-se a lista Tos
+requisitos propostos pela equipe Te projetistas.
+C
+O protocolo Teve controlar a transmissão por meio Te
+mecanismo Te janela Teslizante (sliTing winTow). Vários
+pacotes poTerão ser enviaTos antes Te a origem aguarTar uma
+confirmação Te recepção. O número máximo Te pacotes
+transmitiTos antes Te uma confirmação ser recebiTa será
+variável, o que possibilitará o controle To fluxo Tos TaTos. 
+CC
+O protocolo Teve rotear os pacotes entre reTes interligaTas.
+O roteamento Teve ser realizaTo a partir Tas informações em
+tabelas Te roteamento. Nm uma tabela Te roteamento, caTa
+entraTa Teve conter o enTereço Te um Testino e o enTereço Ta
+próxima máquina para a qual os pacotes Tevem ser enviaTos,
+Te moTo a serem encaminUaTos para o Testino.
+CCC Uma comunicação passará por três fases: estabelecimento Ta
+conexão, transferência Tos TaTos e término Ta conexão. O
 protocolo manterá informações sobre uma conexão em uma
-estrutura de dados. Uma instância dessa estrutura será alocada
-quando uma conexão for estabelecida e será liberada quando
-a conexão for terminada.
-IV O protocolo deve calcular dinamicamente o tempo (timeout)
-que a origem de um pacote deve aguardar até retransmitir a
+estrutura Te TaTos. Uma instância Tessa estrutura será alocaTa
+quanTo uma conexão for estabeleciTa e será liberaTa quanTo
+a conexão for terminaTa.
+CV O protocolo Teve calcular Tinamicamente o tempo (timeout)
+que a origem Te um pacote Teve aguarTar até retransmitir a
 informação 
 caso 
 a 
 recepção 
 não 
 seja 
-confirmada,
-possibilitando que atrasos variáveis sejam acomodados. Isso
-deverá ser feito por meio de um algoritmo de retransmissão
-adaptativo que periodicamente ajuste o timeout.
-Para um protocolo de transporte orientado a conexão, são
-adequados apenas os requisitos
-A I e II.
-B I e IV.
-C II e III.
-D I, III e IV.
-E II, III e IV.
-
-A rede de uma empresa cujo esquema está ilustrado
-acima é composta por 4 redes TCP/IP locais. Essas redes
-TCP/IP são interligadas por uma rede X.25, que opera
-como túnel para as 4 redes. As placas dos computadores
-pertencentes a essas redes são numeradas com endereços IP
-das redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
-rede no acesso à Internet, sendo que, a partir de qualquer
-máquina na rede, pode-se acessar a Internet. 
-A partir dessas informações, julgue os itens a seguir, relativos à
-rede da referida empresa, considerando o seu correto
+confirmaTa,
+possibilitanTo que atrasos variáveis sejam acomoTaTos. Csso
+Teverá ser feito por meio Te um algoritmo Te retransmissão
+aTaptativo que perioTicamente ajuste o timeout.
+Para um protocolo Te transporte orientaTo a conexão, são
+aTequaTos apenas os requisitos
+A C e CC.
+B C e CV.
+C CC e CCC.
+M C, CCC e CV.
+N CC, CCC e CV.
+QUNSTÃO 69
+A reTe Te uma empresa cujo esquema está ilustraTo
+acima é composta por 4 reTes TCP/CP locais. Nssas reTes
+TCP/CP são interligaTas por uma reTe X.25, que opera
+como túnel para as 4 reTes. As placas Tos computaTores
+pertencentes a essas reTes são numeraTas com enTereços CP
+Tas reTes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
+reTe no acesso à Cnternet, senTo que, a partir Te qualquer
+máquina na reTe, poTe-se acessar a Cnternet. 
+A partir Tessas informações, julgue os itens a seguir, relativos à
+reTe Ta referiTa empresa, consiTeranTo o seu correto
 funcionamento.
-I
+C
 É correto utilizar a máscara 255.255.0.0 para segmentar a
-rede.
-II
-Os endereços de E1 a E9 podem ser endereços na rede
+reTe.
+CC
+Os enTereços Te N1 a N9 poTem ser enTereços na reTe
 10.0.0.0.
-III
-Os endereços E2, E4, E5 e E7 devem estar em uma mesma
-sub-rede.
-IV
-O endereço E10 deve ser um endereço na rede 164.41.0.0.
+CCC
+Os enTereços N2, N4, N5 e N7 Tevem estar em uma mesma
+sub-reTe.
+CV
+O enTereço N10 Teve ser um enTereço na reTe 164.41.0.0.
 V
-O firewall deve traduzir entre os endereços na rede 10.0.0.0
-e os endereços na rede 164.41.0.0.
-VI
-Os pacotes X.25 são transferidos dentro de pacotes IP.
-VII Não devem ter sido atribuídos endereços X.25 aos
-roteadores 1, 2, 3 e 4.
-VIII A rota default nas tabelas de roteamento dos roteadores
-1, 3 e 4 é o endereço E4.
-IX
-A rota default na tabela de roteamento do roteador 2 é o
-endereço E10.
+O firewall Teve traTuzir entre os enTereços na reTe 10.0.0.0
+e os enTereços na reTe 164.41.0.0.
+VC
+Os pacotes X.25 são transferiTos Tentro Te pacotes CP.
+VCC Não Tevem ter siTo atribuíTos enTereços X.25 aos
+roteaTores 1, 2, 3 e 4.
+VCCC A rota Tefault nas tabelas Te roteamento Tos roteaTores
+1, 3 e 4 é o enTereço N4.
+CX
+A rota Tefault na tabela Te roteamento To roteaTor 2 é o
+enTereço N10.
 X
-Os endereços na rede 10.0.0.0 são visíveis pelas máquinas
-que estiverem na Internet.
-Estão certos apenas os itens
-A I, II, III, V, VIII e X.
-B I, II, III, IV, V e VIII.
-C II, IV, V, VIII, IX e X.
-D III, V, VI, VII, VIII e IX.
-E III, IV, V, VII, VIII e IX.
+Os enTereços na reTe 10.0.0.0 são visíveis pelas máquinas
+que estiverem na Cnternet.
+Nstão certos apenas os itens
+A C, CC, CCC, V, VCCC e X.
+B C, CC, CCC, CV, V e VCCC.
+C CC, CV, V, VCCC, CX e X.
+M CCC, V, VC, VCC, VCCC e CX.
+N CCC, CV, V, VCC, VCCC e CX.
 
-reconhece seqüências de caracteres compostos pelas letras I, V e X, que
-representam, em notação romana, números correspondentes ao intervalo de
-1 a 9, na notação arábica. Considere que todas as sentenças de entrada da
-MFE representam números romanos válidos, ou seja, a MFE não tem
-mecanismo de tratamento de erros. Observe a correspondência da
-representação dos alfabetos romano e arábito fornecida pela tabela abaixo.
+NNAMN – 2005
+Área: COMPUTAÇÃO
+26
+QUNSTÃO 70 – MCSC URSCVA
+A máquina finita Te estaTos (MFN) cujo Tiagrama é visto ao laTo
+reconUece seqüências Te caracteres compostos pelas letras C, V e X, que
+representam, em notação romana, números corresponTentes ao intervalo Te
+1 a 9, na notação arábica. ConsiTere que toTas as sentenças Te entraTa Ta
+MFN representam números romanos váliTos, ou seja, a MFN não tem
+mecanismo Te tratamento Te erros. Observe a corresponTência Ta
+representação Tos alfabetos romano e arábito forneciTa pela tabela abaixo.
 alfabeto
  Notação:
 romano
 arábico
   
-estado inicial
+estaTo inicial
          
-estado final j
+estaTo final j
          
-n é o número máximo de transições possíveis no respectivo estado
+n é o número máximo Te transições possíveis no respectivo estaTo
    
-transição após reconhecimento do caractere "
-I
+transição após reconUecimento To caractere "
+C
   1
 V
   5
@@ -151,8 +161,12 @@ L
 50
 C
 100
-D
+M
 500
-Considerando essas informações, estenda a MFE apresentada acima para:
-a) reconhecer números no alfabeto romano correspondentes aos números de 1 a 20 no alfabeto arábico, com no máximo oito estados.
+ConsiTeranTo essas informações, estenTa a MFN apresentaTa acima para:
+a) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 20 no alfabeto arábico, com no máximo oito estaTos.
 (valor: 5,0 pontos)
+RASCUNHO
+b) reconUecer números no alfabeto romano corresponTentes aos números Te 1 a 500 no alfabeto arábico, com no máximo oito
+estaTos. (valor: 5,0 pontos)
+RASCUNHO

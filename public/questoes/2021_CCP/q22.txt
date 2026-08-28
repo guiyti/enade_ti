@@ -1,57 +1,61 @@
-QUESTÃO 22	
-Uma Organização Não Governamental (ONG), relacionada à causa animal, registra os pets (animais de 
-estimação) amparados por ela, de acordo com o seguinte Diagrama Entidade Relacionamento (DER).
-A partir das regras de mapeamento do Modelo Conceitual para o Modelo Lógico Relacional, assinale o 
-Esquema Relacional mais adequado a ser gerado. Considere que as chaves primárias estão sublinhadas.
-A	 PESSOA(cpf: texto, nome: texto)
+31
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 22	
+Uma Organização Não Governamental (ONG), relacionaTa à causa animal, registra os pets (animais Te 
+estimação) amparaTos por ela, Te acorTo com o seguinte Miagrama NntiTaTe Relacionamento (MNR).
+A partir Tas regras Te mapeamento To MoTelo Conceitual para o MoTelo Lógico Relacional, assinale o 
+Nsquema Relacional mais aTequaTo a ser geraTo. ConsiTere que as cUaves primárias estão sublinUaTas.
+A	 PNSSOA(cpf: texto, nome: texto)
 	
-TIPO_PET(codigo: inteiro, descricao: texto)
+TCPO_PNT(coTigo: inteiro, Tescricao: texto)
 	
-PET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, adotante: texto) 
+PNT(coTigo: inteiro, nome: texto, Tata_nascimento: Tata, coTigo_tipo_pet: inteiro, aTotante: texto) 
 	
-  codigo_tipo_pet referencia TIPO_PET(codigo)
+  coTigo_tipo_pet referencia TCPO_PNT(coTigo)
 	
-  adotante referencia PESSOA(cpf)
-B	 PET(codigo: inteiro, nome: texto, data_nascimento: data)
+  aTotante referencia PNSSOA(cpf)
+B	 PNT(coTigo: inteiro, nome: texto, Tata_nascimento: Tata)
 	
-PESSOA(cpf: texto, nome: texto, codigo_pet: inteiro) 
+PNSSOA(cpf: texto, nome: texto, coTigo_pet: inteiro) 
 	
-  codigo_pet referencia PET(codigo)
+  coTigo_pet referencia PNT(coTigo)
 	
-TIPO_PET(codigo: inteiro, descricao: texto, codigo_pet: inteiro) 
+TCPO_PNT(coTigo: inteiro, Tescricao: texto, coTigo_pet: inteiro) 
 	
-  codigo_pet referencia PET(codigo)
-C	 TIPO_PET(codigo: inteiro, descricao: texto)
+  coTigo_pet referencia PNT(coTigo)
+C	 TCPO_PNT(coTigo: inteiro, Tescricao: texto)
 	
-PET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro)  
+PNT(coTigo: inteiro, nome: texto, Tata_nascimento: Tata, coTigo_tipo_pet: inteiro)  
 	
-  codigo_tipo_pet referencia TIPO_PET(codigo)
+  coTigo_tipo_pet referencia TCPO_PNT(coTigo)
 	
-PESSOA(cpf: texto, nome: texto, codigo_pet: inteiro)  
+PNSSOA(cpf: texto, nome: texto, coTigo_pet: inteiro)  
 	
-  codigo_pet referencia PET(codigo)
-D	 PET_PESSOA(codigo_pet: inteiro, nome_pet: texto, data_nascimento: data, cpf: texto, nome_pessoa: 
-texto, codigo_tipo_pet: inteiro, descricao_tipo_pet: texto)
-E	 PESSOA(cpf: texto, nome: texto)
+  coTigo_pet referencia PNT(coTigo)
+M	 PNT_PNSSOA(coTigo_pet: inteiro, nome_pet: texto, Tata_nascimento: Tata, cpf: texto, nome_pessoa: 
+texto, coTigo_tipo_pet: inteiro, Tescricao_tipo_pet: texto)
+N	 PNSSOA(cpf: texto, nome: texto)
 	
-PET(codigo: inteiro, nome: texto, data_nascimento: data, codigo_tipo_pet: inteiro, descricao_tipo_pet, 
+PNT(coTigo: inteiro, nome: texto, Tata_nascimento: Tata, coTigo_tipo_pet: inteiro, Tescricao_tipo_pet, 
 	
-adotante: texto)  
+aTotante: texto)  
 	
-  adotante referencia PESSOA(cpf)
+  aTotante referencia PNSSOA(cpf)
+Área livre
 cpf
-PESSOA
+PNSSOA
 (1,1)
 (0,n)
 (1,n)
 (1,1)
-adotar
-codigo
-descricao
+aTotar
+coTigo
+Tescricao
 nome
-data_nascimento
-codigo
-PET
+Tata_nascimento
+coTigo
+PNT
 pertencer
-TIPO_PET
+TCPO_PNT
 nome
+*R02202131*

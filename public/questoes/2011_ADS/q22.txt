@@ -1,38 +1,43 @@
-QUESTÃO 22  
-Pedro foi contratado como desenvolvedor de software de uma empresa. Em seu primeiro dia de trabalho ele se deparou 
-com o DER (Diagrama Entidade-Relacionamento), que representa os dados de um sistema de controle de malotes. Foi 
-solicitado a Pedro relatório para o sistema contendo os seguintes dados: o nome de todos os funcionários que enviaram 
-os malotes, o código dos malotes enviados, a descrição de seus conteúdos e a situação dos malotes. Para a geração 
-do relatório, Pedro tem que fazer uma consulta utilizando o comando SELECT da linguagem SQL.
-FUNCIONARIOS
-Matricula: INTEGER [ PK ]
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+13
+QUNSTÃO 22  
+PeTro foi contrataTo como TesenvolveTor Te software Te uma empresa. Nm seu primeiro Tia Te trabalUo ele se Teparou 
+com o MNR (Miagrama NntiTaTe-Relacionamento), que representa os TaTos Te um sistema Te controle Te malotes. Foi 
+solicitaTo a PeTro relatório para o sistema contenTo os seguintes TaTos: o nome Te toTos os funcionários que enviaram 
+os malotes, o cóTigo Tos malotes enviaTos, a Tescrição Te seus conteúTos e a situação Tos malotes. Para a geração 
+To relatório, PeTro tem que fazer uma consulta utilizanTo o comanTo SNLNCT Ta linguagem SQL.
+FUNCCONARCOS
+Matricula: CNTNGNR [ PO ]
 Nome: VARCHAR(50)
-Data_Nascimento: DATE
-Codigo_Malote: INTEGER [ PK ]
-Codigo_Conteudo: INTEGER [ PFK ]
-Matricula: INTEGER [ FK ]
-Origem: INTEGER
-Destino: INTEGER
-Data_Envio: DATE
-Data_Conferencia: DATE
+Mata_Nascimento: MATN
+CoTigo_Malote: CNTNGNR [ PO ]
+CoTigo_ConteuTo: CNTNGNR [ PFO ]
+Matricula: CNTNGNR [ FO ]
+Origem: CNTNGNR
+Mestino: CNTNGNR
+Mata_Nnvio: MATN
+Mata_Conferencia: MATN
 Situacao_Malote: CHAR(1)
-Codigo_Conteudo: INTEGER [ PK ]
-Descricao: VARCHR(50)
-CONTEUDOS
-MALOTES
-Conhecidos o modelo conceitual de dados e os dados necessários para a tarefa de Pedro, o comando SELECT que ele 
-deve executar para realizar a consulta e produzir o relatório corretamente é
-A   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS 
-ON (CODIGO_CONTEUDO = CODIGO_CONTEUDO) INNER JOIN FUNCIONARIOS ON (MATRICULA = 
-MATRICULA);
-B   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, 
-FUNCIONARIOS WHERE (CODIGO_CONTEUDO = CODIGO_CONTEUDO) AND (MATRICULA = MATRICULA);
-C   SELECT NOME,CODIGO_MALOTE,DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS 
-INNER JOIN FUNCIONARIOS ON(MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)
-ON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);
-D   SELECT NOME, CODIGO_MALOTE, DESCRICAO,SITUACAO_MALOTE FROM MALOTES INNER JOIN CONTEUDOS 
-ON (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO)INNER JOIN FUNCIONARIOS 
-ON(MALOTES.MATRICULA = FUNCIONARIOS.MATRICULA);
-E   SELECT NOME, CODIGO_MALOTE, DESCRICAO, SITUACAO_MALOTE FROM MALOTES, CONTEUDOS, 
-FUNCIONARIOS INNER JOIN WHERE (MALOTES.CODIGO_CONTEUDO = CONTEUDOS.CODIGO_CONTEUDO) 
-AND (MALOTES MATRICULA = FUNCIONARIOS MATRICULA);
+CoTigo_ConteuTo: CNTNGNR [ PO ]
+Mescricao: VARCHR(50)
+CONTNUMOS
+MALOTNS
+ConUeciTos o moTelo conceitual Te TaTos e os TaTos necessários para a tarefa Te PeTro, o comanTo SNLNCT que ele 
+Teve executar para realizar a consulta e proTuzir o relatório corretamente é
+A   SNLNCT NOMN,COMCGO_MALOTN,MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS 
+ON (COMCGO_CONTNUMO = COMCGO_CONTNUMO) CNNNR JOCN FUNCCONARCOS ON (MATRCCULA = 
+MATRCCULA);
+B   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO, SCTUACAO_MALOTN FROM MALOTNS, CONTNUMOS, 
+FUNCCONARCOS PHNRN (COMCGO_CONTNUMO = COMCGO_CONTNUMO) ANM (MATRCCULA = MATRCCULA);
+C   SNLNCT NOMN,COMCGO_MALOTN,MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS 
+CNNNR JOCN FUNCCONARCOS ON(MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO)
+ON(MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);
+M   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO,SCTUACAO_MALOTN FROM MALOTNS CNNNR JOCN CONTNUMOS 
+ON (MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO)CNNNR JOCN FUNCCONARCOS 
+ON(MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);
+N   SNLNCT NOMN, COMCGO_MALOTN, MNSCRCCAO, SCTUACAO_MALOTN FROM MALOTNS, CONTNUMOS, 
+FUNCCONARCOS CNNNR JOCN PHNRN (MALOTNS.COMCGO_CONTNUMO = CONTNUMOS.COMCGO_CONTNUMO) 
+ANM (MALOTNS.MATRCCULA = FUNCCONARCOS.MATRCCULA);
+*A25201113*

@@ -294,25 +294,50 @@ export function StudentQuestionViewer({
       {/* Full Page PDF Modal (Context / Motivational Texts) */}
       {showFullPageModal && (
         <div className="fixed inset-0 z-50 bg-black/90 backdrop-blur-md flex flex-col animate-in fade-in duration-200">
-          <div className="h-14 px-4 border-b border-slate-800 bg-slate-900/90 flex items-center justify-between">
-            <div className="flex items-center gap-2">
-              <BookOpen className="w-4 h-4 text-indigo-400" />
-              <h3 className="font-bold text-sm text-white">
-                Folha Completa do PDF · {exam.id_prova} · Página {fullPageNum}
+          <div className="h-14 px-4 border-b border-slate-800 bg-slate-900/90 flex items-center justify-between gap-2">
+            <div className="flex items-center gap-2 min-w-0">
+              <BookOpen className="w-4 h-4 text-indigo-400 shrink-0" />
+              <h3 className="font-bold text-xs sm:text-sm text-white truncate">
+                Folha Completa · {exam.id_prova} · Página {fullPageNum} {exam.total_paginas ? `de ${exam.total_paginas}` : ""}
               </h3>
             </div>
-            <button
-              onClick={() => setShowFullPageModal(false)}
-              className="p-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white"
-            >
-              <X className="w-5 h-5" />
-            </button>
+
+            <div className="flex items-center gap-2">
+              {/* Adjacent Page Controls */}
+              <button
+                disabled={fullPageNum <= 1}
+                onClick={() => setFullPageNum((prev) => Math.max(1, prev - 1))}
+                className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:pointer-events-none text-xs font-semibold text-slate-200 transition-colors"
+                title="Página Anterior do Caderno"
+              >
+                <ChevronLeft className="w-3.5 h-3.5" />
+                <span className="hidden sm:inline">Anterior</span>
+              </button>
+
+              <button
+                disabled={Boolean(exam.total_paginas && fullPageNum >= exam.total_paginas)}
+                onClick={() => setFullPageNum((prev) => prev + 1)}
+                className="flex items-center gap-1 px-2.5 py-1 rounded-lg bg-slate-800 hover:bg-slate-700 disabled:opacity-30 disabled:pointer-events-none text-xs font-semibold text-slate-200 transition-colors"
+                title="Próxima Página do Caderno"
+              >
+                <span className="hidden sm:inline">Próxima</span>
+                <ChevronRight className="w-3.5 h-3.5" />
+              </button>
+
+              <button
+                onClick={() => setShowFullPageModal(false)}
+                className="p-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white ml-1"
+                title="Fechar"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
           </div>
 
           <div className="flex-1 p-2 sm:p-6 flex items-center justify-center overflow-hidden">
             <div className="w-full h-full max-w-5xl bg-white rounded-xl overflow-hidden shadow-2xl flex items-center justify-center p-2">
               <ZoomableImage
-                src={`/questoes/${exam.id_prova}/pag_${String(fullPageNum).padStart(2, "0")}.png`}
+                src={`/questoes/${exam.id_prova}/paginas/pagina_${fullPageNum}.png`}
                 alt={`Página ${fullPageNum} do ENADE ${exam.id_prova}`}
                 className="max-h-[85vh] w-auto object-contain mx-auto"
                 containerClassName="w-full h-full"

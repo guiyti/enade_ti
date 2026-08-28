@@ -1,8 +1,27 @@
-QUESTÃO DISCURSIVA 5
- Ɛ  ƚĠĐŶŝĐĂƐ  ĚĞ  ƉƌŽũĞƚŽ  ĚĞ  ĂůŐŽƌŝƚŵŽƐ  ƐĆŽ  ĞƐƐĞŶĐŝĂŝƐ  ƉĂƌĂ  ƋƵĞ  ŽƐ  ĚĞƐĞŶǀŽůǀĞĚŽƌĞƐ  ƉŽƐƐĂŵ  ŝŵƉůĞŵĞŶƚĂƌ 
-ƐŽŌǁĂƌĞ ĚĞ ƋƵĂůŝĚĂĚĞ͘  EƐƐĂƐ ƚĠĐŶŝĐĂƐ ĚĞƐĐƌĞǀĞŵ ŽƐ ƉƌŝŶĐşƉŝŽƐ ƋƵĞ ĚĞǀĞŵ ƐĞƌ ĂĚŽƚĂĚŽƐ ƉĂƌĂ ƐĞ ƉƌŽũĞƚĂƌ 
-ƐŽůƵĕƁĞƐ  ĂůŐŽƌşƚŵŝĐĂƐ  ƉĂƌĂ  Ƶŵ  ĚĂĚŽ  ƉƌŽďůĞŵĂ͘   EŶƚƌĞ  ĂƐ  ƉƌŝŶĐŝƉĂŝƐ  ƚĠĐŶŝĐĂƐ͕   ĚĞƐƚĂĐĂŵͲƐĞ  ŽƐ  ƉƌŽũĞƚŽƐ  ĚĞ 
-ĂůŐŽƌŝƚŵŽƐ ƉŽƌ ƚĞŶƚĂƟǀĂ Ğ ĞƌƌŽ͕  ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͕  ƉƌŽŐƌĂŵĂĕĆŽ ĚŝŶąŵŝĐĂ Ğ ĂůŐŽƌŝƚŵŽƐ ŐƵůŽƐŽƐ͘
-EĞƐƐĞ ĐŽŶƚĞǆƚŽ͕  ĨĂĕĂ Ž ƋƵĞ ƐĞ ƉĞĚĞ ŶŽƐ ŝƚĞŶƐ Ă ƐĞŐƵŝƌ͘
-ĂͿ  DĞƐĐƌĞǀĂ Ž ƋƵĞ ĐĂƌĂĐƚĞƌŝǌĂ Ž ƉƌŽũĞƚŽ ĚĞ ĂůŐŽƌŝƚŵŽƐ ƉŽƌ ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͘  ;ǀĂůŽƌ͗  6͕ 0 ƉŽŶƚŽƐͿ
-ďͿ   ƉƌĞƐĞŶƚĞ ƵŵĂ ƐŝƚƵĂĕĆŽ ĚĞ ƵƐŽ ĚĂ ƚĠĐŶŝĐĂ ĚĞ ƉƌŽũĞƚŽ ĚĞ ĂůŐŽƌŝƚŵŽƐ ƉŽƌ ĚŝǀŝƐĆŽ Ğ ĐŽŶƋƵŝƐƚĂ͘  ;ǀĂůŽƌ͗  4͕ 0 ƉŽŶƚŽƐͿ
+11
+C/NNC/  M  COMPUT AãO
+QUNSTÃO MCSCURSCVA 5
+ s  técnicas  Te  proũeto  Te  algoritmos  são  essenciais  para  que  os  TesenvolveTores  possam  implementar 
+soŌǁare Te qualiTaTe.  Nssas técnicas Tescrevem os princípios que Tevem ser aTotaTos para se proũetar 
+soluções  algorítmicas  para  um  TaTo  problema.   Nntre  as  principais  técnicas,   Testacam-se  os  proũetos  Te 
+algoritmos por tentativa e erro,  Tivisão e conquista,  programação Tinamica e algoritmos gulosos.
+Nesse contexto,  faça o que se peTe nos itens a seguir.
+a)  Mescreva o que caracteriza o proũeto Te algoritmos por Tivisão e conquista.  (valor:  6, 0 pontos)
+b)   presente uma situação Te uso Ta técnica Te proũeto Te algoritmos por Tivisão e conquista.  (valor:  4, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R03201411*

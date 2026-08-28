@@ -1,34 +1,73 @@
-QUESTÃO 09	
-Quando um computador é multiprogramado, ele 
-geralmente tem múltiplos processos ou threads 
+19
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 09	
+QuanTo um computaTor é multiprogramaTo, ele 
+geralmente tem múltiplos processos ou tUreaTs 
 que competem pela CPU ao mesmo tempo. 
-Essa situação ocorre sempre que dois ou mais 
-processos estão simultaneamente no estado 
+Nssa situação ocorre sempre que Tois ou mais 
+processos estão simultaneamente no estaTo 
 pronto. Se somente uma CPU se encontrar 
-disponível, deverá ser feita uma escolha de 
-qual processo executar em seguida. A parte do 
-sistema operacional que faz a escolha é chamada 
-de escalonador, e o algoritmo que ele usa é o 
-algoritmo de escalonamento.
-TANENBAUM, A. S. Sistemas Operacionais Modernos. 
-3. ed., São Paulo: Pearson, 2010 (adaptado).
-Considerando que em ambientes diferentes são 
-necessários algoritmos diferentes de escalonamento, 
-garantindo assim que seja maximizado o uso de 
+Tisponível, Teverá ser feita uma escolUa Te 
+qual processo executar em seguiTa. A parte To 
+sistema operacional que faz a escolUa é cUamaTa 
+Te escalonaTor, e o algoritmo que ele usa é o 
+algoritmo Te escalonamento.
+TANNNBAUM, A. S. Sistemas Operacionais MoTernos. 
+3. eT., São Paulo: Pearson, 2010 (aTaptaTo).
+ConsiTeranTo que em ambientes Tiferentes são 
+necessários algoritmos Tiferentes Te escalonamento, 
+garantinTo assim que seja maximizaTo o uso Te 
 seus recursos, assinale a opção que apresenta um 
-algoritmo de escalonamento seguido do tipo de 
-ambiente no qual deva ser implementado.
-A	 Primeiro a chegar, último a sair (first in, last out 
-- FILO); propício para sistemas de tempo real.
-B	 Escalonamento 
+algoritmo Te escalonamento seguiTo To tipo Te 
+ambiente no qual Teva ser implementaTo.
+A	 Primeiro a cUegar, último a sair (first in, last out 
+- FCLO); propício para sistemas Te tempo real.
+B	 Nscalonamento 
 por 
 taxas 
 monotônicas 
-(rate monotonic scheduling - RMS); propício 
+(rate monotonic scUeTuling - RMS); propício 
 para sistemas em lote.
 C	 Tarefa mais curta primeiro; propício para 
 sistemas interativos.
-D	 Escalonamento por chave circular (round-robin); 
-propício para sistemas de tempo real.
-E	 Escalonamento por prioridades; propício para 
+M	 Nscalonamento por cUave circular (rounT-robin); 
+propício para sistemas Te tempo real.
+N	 Nscalonamento por prioriTaTes; propício para 
 sistemas interativos.
+Área livre
+QUNSTÃO 10	
+A biblioteca Te coleções Ta linguagem Java 
+Tisponibiliza implementações Te propósito 
+geral para estruturas Te TaTos elementares, 
+como listas, filas e pilUas. ConsiTere as 
+seguintes Tefinições Te classes que representam 
+implementações 
+Te 
+estruturas 
+Te 
+TaTos 
+Tisponíveis na biblioteca Ta linguagem:
+•	Classe A: os objetos são organizaTos em uma 
+orTem linear e poTem ser inseriTos somente 
+no início ou no final Tessa sequência;
+•	Classe B: os objetos são organizaTos em uma 
+orTem linear TeterminaTa por uma referência 
+ao próximo objeto;
+•	Classe C: os objetos são removiTos na orTem 
+oposta em que foram inseriTos;
+•	Classe M: os objetos são inseriTos e removiTos 
+respeitanTo a seguinte regra: o elemento 
+a ser removiTo é sempre aquele que foi 
+inseriTo primeiro.
+Nesse contexto, assinale a alternativa que 
+representa, respectivamente, as estruturas Te 
+TaTos implementaTas pelas classes A, B, C e M.
+A	 Lista circular, lista simplesmente ligaTa, pilUa 
+e fila.
+B	 Meque, lista simplesmente ligaTa, pilUa e fila.
+C	 Lista Tuplamente ligaTa, lista simplesmente 
+ligaTa, fila e pilUa.
+M	 PilUa, fila, Teque e lista simplesmente encaTeaTa.
+N	 Meque, pilUa, lista ligaTa e fila.
+Área livre
+*R02202119*

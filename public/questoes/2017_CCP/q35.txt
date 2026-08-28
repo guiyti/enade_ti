@@ -1,34 +1,37 @@
-QUESTÃO 35 
-hŵ ƉƌŽŐƌĂŵĂĚŽƌ ŝŶĞǆƉĞƌŝĞŶƚĞ ĞƐƚĄ ĚĞƐĞŶǀŽůǀĞŶĚŽ Ƶŵ ƐŝƐƚĞŵĂ ŵƵůƟƚŚƌĞĂĚ ƋƵĞ ƉŽƐƐƵŝ ĚƵĂƐ ĞƐƚƌƵƚƵƌĂƐ 
-ĚĞ  ĚĂĚŽƐ  ĚŝĨĞƌĞŶƚĞƐ͕   E1 e E2͕   ĂƐ  ƋƵĂŝƐ  ĂƌŵĂǌĞŶĂŵ  ǀĂůŽƌĞƐ  ŝŶƚĞŝƌŽƐ͘   K  ĂĐĞƐƐŽ  ĐŽŶĐŽƌƌĞŶƚĞ  Ă  ĞƐƐĂƐ 
-ĞƐƚƌƵƚƵƌĂƐ Ġ ĐŽŶƚƌŽůĂĚŽ ƉŽƌ ƐĞŵĄĨŽƌŽƐ͘  DƵƌĂŶƚĞ ƐƵĂ ĞǆĞĐƵĕĆŽ͕  Ž ƐŝƐƚĞŵĂ ĚŝƐƉĂƌĂ ĂƐ threads T1 e T2
-ƐŝŵƵůƚĂŶĞĂŵĞŶƚĞ͘    ƚĂďĞůĂ Ă ƐĞŐƵŝƌ ƉŽƐƐŝďŝůŝƚĂ ƵŵĂ ǀŝƐĆŽ Ğŵ ůŝŶŚĂƐ ŐĞƌĂŝƐ ĚŽƐ ĂůŐŽƌŝƚŵŽƐ ĚĞƐƐĂƐ threads.
+33
+CCÊNCCA MA COMPUTAÇÃO
+YUNSTãO 35 
+Um programaTor inexperiente estA TesenvolvenTo um sistema multitUreaT que possui Tuas estruturas 
+Te  TaTos  Tiferentes,   N1 e N2,   as  quais  armazenam  valores  inteiros.   O  acesso  concorrente  a  essas 
+estruturas é controlaTo por semAforos.  Murante sua execução,  o sistema Tispara as tUreaTs T1 e T2
+simultaneamente.    tabela a seguir possibilita uma visão em linUas gerais Tos algoritmos Tessas tUreaTs.
 T1
 T2
- ůŽĐĂ E1
- ůŽĐĂ E2
-IĂůĐƵůĂ Ă ŵĠĚŝĂ M1 ĚŽƐ ǀĂůŽƌĞƐ ĚĞ E1
-IĂůĐƵůĂ Ă ƐŽŵĂ S1 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E2
- ůŽĐĂ E2
- ůŽĐĂ E1
-IĂůĐƵůĂ Ă ŵĠĚŝĂ M2 ĚŽƐ ǀĂůŽƌĞƐ ĚĞ E2
-IĂůĐƵůĂ Ă ƐŽŵĂ S2 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E1
-IĂůĐƵůĂ M3 M1 + M2
-IĂůĐƵůĂ S3  |S1  S2|
-^ŽŵĂ M3 Ğŵ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E2
-^ƵďƚƌĂŝ S2 ĚĞ ƚŽĚŽƐ ŽƐ ǀĂůŽƌĞƐ ĚĞ E1
->ŝďĞƌĂ E1
->ŝďĞƌĂ E2
->ŝďĞƌĂ E2
->ŝďĞƌĂ E1
-DƵƌĂŶƚĞ Ă ĞǆĞĐƵĕĆŽ ĚŽ ƌĞĨĞƌŝĚŽ ƉƌŽŐƌĂŵĂ͕  Ġ ƉŽƐƐşǀĞů ƋƵĞ
-A ŶĆŽ ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƉŽƌƋƵĞ Ă ƐĞƋƵġŶĐŝĂ ĚĞ ĂůŽĐĂĕĆŽ ĚŽƐ ƌĞĐƵƌƐŽƐ ŝŵƉĞĚĞ ŶĂƚƵƌĂůŵĞŶƚĞ Ž ƉƌŽďůĞŵĂ͘
-B ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƋƵĞ ƉŽĚĞ ƐĞƌ ĞǀŝƚĂĚŽ ƐĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƚŽŵĂƌ Ž ĐƵŝĚĂĚŽ ĚĞ ŶĆŽ ĞǆĞĐƵƚĂƌ ĐĄůĐƵůŽƐ 
-ĞŶƚƌĞ Ƶŵ ƉĞĚŝĚŽ ĚĞ ĂůŽĐĂĕĆŽ Ğ ŽƵƚƌŽ͘
-C ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƐĞŶĚŽ Ă ƉƌŽďĂďŝůŝĚĂĚĞ ĚĞƐƐĂ ŽĐŽƌƌġŶĐŝĂ ƚĆŽ ďĂŝǆĂ Ğ ƐƵĂ ĐŽŶƐĞƋƵġŶĐŝĂ ƚĆŽ ŝŶſĐƵĂ ƋƵĞ 
-ŶĆŽ ŚĂǀĞƌĄ ĐŽŵƉƌŽŵĞƟŵĞŶƚŽ ĚŽ ƉƌŽŐƌĂŵĂ͘
-D ŶĆŽ ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ĚĞƐĚĞ ƋƵĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƵƐĞ ƐĞŵĄĨŽƌŽƐ ƉĂƌĂ ĐŽŶƚƌŽůĂƌ Ž ĂĐĞƐƐŽ ăƐ ĞƐƚƌƵƚƵƌĂƐ 
-ĚĞ ĚĂĚŽƐ͕  Ž ƋƵĞ Ġ ƐƵĮĐŝĞŶƚĞ ƉĂƌĂ ĞǀŝƚĂƌ Ž ƉƌŽďůĞŵĂ͘
-E ŽĐŽƌƌĂ ĚĞĂĚůŽĐŬ͕  ƋƵĞ ƉŽĚĞ ƐĞƌ ĞǀŝƚĂĚŽ ƐĞ Ž ƉƌŽŐƌĂŵĂĚŽƌ ƚŽŵĂƌ Ž ĐƵŝĚĂĚŽ ĚĞ ƐŽůŝĐŝƚĂƌ Ž ĂĐĞƐƐŽ ăƐ 
-ĞƐƚƌƵƚƵƌĂƐ ĚĞ ĚĂĚŽƐ ŶĂ ŵĞƐŵĂ ŽƌĚĞŵ Ğŵ ĂŵďĂƐ ĂƐ threads.
-ƌĞĂ ůŝǀƌĞ
+ loca N1
+ loca N2
+Calcula a méTia M1 Tos valores Te N1
+Calcula a soma S1 Te toTos os valores Te N2
+ loca N2
+ loca N1
+Calcula a méTia M2 Tos valores Te N2
+Calcula a soma S2 Te toTos os valores Te N1
+Calcula M3 M1 + M2
+Calcula S3  |S1  S2|
+Soma M3 em toTos os valores Te N2
+Subtrai S2 Te toTos os valores Te N1
+>ibera N1
+>ibera N2
+>ibera N2
+>ibera N1
+Murante a execução To referiTo programa,  é possível que
+A não ocorra TeaTlocŬ,  porque a sequgncia Te alocação Tos recursos impeTe naturalmente o problema.
+B ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te não executar cAlculos 
+entre um peTiTo Te alocação e outro.
+C ocorra TeaTlocŬ,  senTo a probabiliTaTe Tessa ocorrgncia tão baixa e sua consequgncia tão inocua que 
+não UaverA comprometimento To programa.
+M não ocorra TeaTlocŬ,  TesTe que o programaTor use semAforos para controlar o acesso as estruturas 
+Te TaTos,  o que é sufciente para evitar o problema.
+N ocorra TeaTlocŬ,  que poTe ser evitaTo se o programaTor tomar o cuiTaTo Te solicitar o acesso as 
+estruturas Te TaTos na mesma orTem em ambas as tUreaTs.
+Area livre
+*R03201733*

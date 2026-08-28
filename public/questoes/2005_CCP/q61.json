@@ -5,46 +5,19 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 275.9555969238281,
-      "x1": 295.08,
-      "y1": 782.16,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q61.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q61.txt",
   "largura": 1155,
   "altura": 2139,
   "confianca": 0.98,
-  "texto_completo": "E s  (not(a) and b) or c.\nQUESTÃO 61\nConsidere o volume de visualização e os objetos identificados\ncomo Î, Ï e Ð na figura acima. Considere, ainda, que todos os\nobjetos têm o mesmo tamanho, que o objeto Î está localizado fora\ndo volume de visualização e que os objetos Ï e Ð estão dentro\ndele. A partir desses dados, no que concerne à execução do\npipeline de visualização na situação acima representada, é correto\ninferir que\nI\no objeto Î está na linha de visão do observador, mas não\naparece na imagem final.\nII\né suficiente, para a determinação das faces visíveis, realizar o\nrecorte contra o volume canônico.\nIII a remoção de faces traseiras (back face culling) utiliza\ninformação de posição e orientação do observador.\nIV o processo de visualização garante que os objetos Ï e Ð sejam\ntotalmente visíveis na imagem final.\nEstão certos apenas os itens\nA I e II.\nB I e III.\nC II e III.\nD III e IV.\nE III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n22\nC\nCC\nQUNSTÃO 60\nConsiTere o circuito combinacional ilustraTo acima, que apresenta\na, b e c como sinais Te entraTa e s como sinal Te saíTa. A equação\nbooleana mínima que Tescreve a função Tesse circuito é igual a\nA s = a or not(b) or c.\nB s = a anT not(b) anT c.\nC s = not(a) or b or not(c).\nM s = not(a) anT b anT not(c).\nN s = (not(a) anT b) or c.\nQUNSTÃO 61\nConsiTere o volume Te visualização e os objetos iTentificaTos\ncomo Î, Ï e Ð na figura acima. ConsiTere, ainTa, que toTos os\nobjetos têm o mesmo tamanUo, que o objeto Î está localizaTo fora\nTo volume Te visualização e que os objetos Ï e Ð estão Tentro\nTele. A partir Tesses TaTos, no que concerne à execução To\npipeline Te visualização na situação acima representaTa, é correto\ninferir que\nC\no objeto Î está na linUa Te visão To observaTor, mas não\naparece na imagem final.\nCC\né suficiente, para a Teterminação Tas faces visíveis, realizar o\nrecorte contra o volume canônico.\nCCC a remoção Te faces traseiras (back face culling) utiliza\ninformação Te posição e orientação To observaTor.\nCV o processo Te visualização garante que os objetos Ï e Ð sejam\ntotalmente visíveis na imagem final.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CCC.\nM CCC e CV.\nN CCC e CV.\nQUNSTÃO 62\nConsiTere que um colega seu tenUa ganUaTo uma máquina\nfotográfica Tigital e tenUa tiraTo a foto iTentificaTa por C acima.\nNa seqüência, a partir Ta imagem C, consiTere que ele tenUa\ngeraTo a imagem CC acima. Nessa situação, o processamento\nrealizaTo sobre a imagem C que melUor explica a geração Ta\nimagem CC envolve a aplicação Te\nA filtro passa-baixas.\nB quantizaTor.\nC reamostragem.\nM filtro passa-altas.\nN compressão.",
   "figuras": [
     "/questoes/2005_CCP/figuras/q61_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 61,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 43.08000183105469,
-      "y": 287.9555969238281,
-      "x1": 89.50800323486328,
-      "y1": 293.9555969238281,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 61"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152845"
+  "caminho_png": "/questoes/2005_CCP/q61.png",
+  "caminho_json": "/questoes/2005_CCP/q61.json",
+  "caminho_txt": "/questoes/2005_CCP/q61.txt"
 }

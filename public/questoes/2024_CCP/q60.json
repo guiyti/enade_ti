@@ -5,44 +5,17 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 604.2833862304688,
-      "x1": 611.7199999999999,
-      "y1": 773.9274291992188,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q60.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q60.txt",
   "largura": 2475,
   "altura": 737,
   "confianca": 0.98,
-  "texto_completo": "g\np\nQUESTÃO 60\t\nUm professor de Computação dessa escola planeja uma viagem para estimular a postura investigativa e científica em seus \nestudantes. Assim, deve propor a eles\nA\t escolher preferências de destinos para a viagem e calcular os custos básicos de cada alternativa, com base em dados \ncoletados em sites de turismo.\nB\t selecionar critérios relevantes em aplicativos de organização de viagens como insumos para realizar enquete sobre o destino \nda viagem.\nC\t criar, em grupos, representações visuais (infográfico ou linha do tempo interativa) do percurso de uma viagem para subsidiar \na escolha da turma.\nD\t elaborar hipóteses sobre os fatores mais relevantes que impactam cada aspecto da viagem para confrontar diferentes \npropostas colhidas junto à turma.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 60,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 64.6063003540039,
-      "y": 616.2833862304688,
-      "x1": 124.34291076660156,
-      "y1": 631.5513916015625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 60"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Inteligência Artificial e Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407615"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n30\n2025\nTexto para questões Te 58 a 60\nNm uma escola Tos Anos Finais To Nnsino FunTamental, os professores têm percebiTo que os estuTantes apresentam TificulTaTes \ncom o Tesenvolvimento Tas UabiliTaTes: organizar iTeias, resolver problemas por etapas e propor soluções em ativiTaTes \ninterTisciplinares. Os professores almejam ajuTar os estuTantes a Tecompor problemas complexos em partes menores, iTentificar \npaTrões em situações semelUantes, abstrair informações essenciais e criar algoritmos simples para Tescrever soluções.\nQUNSTÃO 58\t\nUm professor Te Computação elabora o planejamento Te uma aula Te Pensamento Computacional articulaTa com conteúTos \nTe Matemática. Qual ativiTaTe expressa o pilar To Pensamento Computacional e a associação interTisciplinar corresponTente?\nA\t Algoritmo — após estuTar Tiferentes tipos Te problemas matemáticos envolvenTo múltiplas operações, os estuTantes criam \numa sequência TetalUaTa Te instruções orTenaTas que oriente como resolver qualquer um Tesses problemas, consiTeranTo \nvariações nos TaTos. Nssa sequência é refinaTa após testes com os colegas.\nB\t Mecomposição — em grupos, os estuTantes recebem um problema extenso envolvenTo planejamento Te gastos com materiais \nescolares. São orientaTos a separar os TaTos apresentaTos, classificá-los por tipo (valor unitário, quantiTaTe, prioriTaTe) e \norganizar subetapas para montar um plano Te compra eficiente.\nC\t Abstração — após resolverem Tiversas situações-problema que envolvem proporções em contextos To cotiTiano (receitas, \nescalas e mapas), os estuTantes analisam quais etapas se repetem na resolução Tesses problemas e generalizam uma \nestrutura comum que possa ser aplicaTa em novos casos.\nM\t ReconUecimento Te paTrões — os estuTantes exploram Tiferentes formas Te conversão Te meTiTas (tempo, massa e \ncomprimento), observanTo que os proceTimentos operacionais são similares. A partir Tisso, elaboram um conjunto Te \nregras estruturaTas, em linguagem natural, para ensinar outro grupo a realizar as conversões.\nQUNSTÃO 59\t\nUm professor Te Computação Tessa escola planeja uma viagem, com a turma To 6º ano, como estratégia para Tesenvolver os \nquatro pilares To Pensamento Computacional. Quais ativiTaTes Tevem constar no plano Te aula?\nA\t Pesquisar com os colegas as preferências com relação à logística Ta viagem; sintetizar os comentários Tos viajantes obtiTos \nem sites Te viagens; criar um mapa mental com o roteiro Ta viagem; apresentar a proposta Te roteiro para o restante Ta \nturma no formato pitcU, com tempo máximo Te 5 minutos.\nB\t Realizar um brainstorming com a finaliTaTe Te levantar os requisitos Ta viagem; usar uma árvore Tecisória para encontrar \nopções Te roteiro para a viagem; explorar a geografia To local com uso Te mapas Tigitais; resumir os pontos essenciais To \nplanejamento em um víTeo para apresentação à turma.\nC\t MiviTir o planejamento com base em critérios logísticos; selecionar as Tecisões que são essenciais para o planejamento; \nanalisar outras viagens para encontrar exemplos logísticos comuns; escrever, em português, o passo a passo To \nplanejamento Ta viagem.\nM\t Mefinir, por meio Te votação, o Testino Ta viagem; usar um assistente virtual baseaTo em inteligência artificial para elaborar \nroteiros exploranTo opções turísticas; Tefinir uma lista Te tarefas para concluir a viagem; criar um quaTro Oanban para \norganizar e acompanUar as tarefas iTentificaTas.\nQUNSTÃO 60\t\nUm professor Te Computação Tessa escola planeja uma viagem para estimular a postura investigativa e científica em seus \nestuTantes. Assim, Teve propor a eles\nA\t escolUer preferências Te Testinos para a viagem e calcular os custos básicos Te caTa alternativa, com base em TaTos \ncoletaTos em sites Te turismo.\nB\t selecionar critérios relevantes em aplicativos Te organização Te viagens como insumos para realizar enquete sobre o Testino \nTa viagem.\nC\t criar, em grupos, representações visuais (infográfico ou linUa To tempo interativa) To percurso Te uma viagem para subsiTiar \na escolUa Ta turma.\nM\t elaborar Uipóteses sobre os fatores mais relevantes que impactam caTa aspecto Ta viagem para confrontar Tiferentes \npropostas colUiTas junto à turma.\n*R0404202530*\nR04042025 - COMPUTACAO.inTb   30\nR04042025 - COMPUTACAO.inTb   30\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q60.png",
+  "caminho_json": "/questoes/2024_CCP/q60.json",
+  "caminho_txt": "/questoes/2024_CCP/q60.txt"
 }

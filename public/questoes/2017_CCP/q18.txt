@@ -1,41 +1,79 @@
-QUESTÃO 18
-K ĂůŐŽƌŝƚŵŽ Ă ƐĞŐƵŝƌ ƌĞĐĞďĞ Ƶŵ ǀĞƚŽƌ v ĚĞ ŶƷŵĞƌŽƐ 
-ŝŶƚĞŝƌŽƐ  Ğ  ƌĞĂƌƌĂŶũĂ  ĞƐƐĞ  ǀĞƚŽƌ  ĚĞ  ƚĂů  ĨŽƌŵĂ  ƋƵĞ 
-ƐĞƵƐ  ĞůĞŵĞŶƚŽƐ͕   ĂŽ  ĮŶĂů͕   ĞƐƚĞũĂŵ  ŽƌĚĞŶĂĚŽƐ  ĚĞ 
-ĨŽƌŵĂ ĐƌĞƐĐĞŶƚĞ͘
-01 void ordena(int *v, int n)
+CCÊNCCA MA COMPUTAÇÃO
+21
+QUNSTÃO 17
+'rupos  Te  cientistas  e  granTes  corporações  Te 
+toTo o munTo tgm buscaTo Tesenvolver sistemas 
+computacionais  inteligentes  capazes  Te aũuTar  as 
+pessoas  a  aprenTer.    s  possibiliTaTes,   os  efeitos 
+e  as  implicações  éticas  Ta  aplicação  Ta  cUamaTa 
+/nteliggncia   rtifcial  (/ )  na  eTucação  são  temas 
+que vgm ganUanTo espaço nos Tebates na Area Te 
+tecnologia eTucacional em toTo o munTo.
+ Misponível em:  фUtp:ͬͬ
+ǁǁǁ. revistaeTucacao. com. brх.  
+ cesso em:  26 set.  2017 (aTaptaTo).
+  respeito Ta aToção Te técnicas Te /  no processo 
+eTucacional,  avalie as asserções a seguir e a relação 
+proposta entre elas.
+/.    lgoritmos Te /  aTaptativos poTem auxiliar 
+a experigncia Te aprenTizaTo Ta pessoa Te 
+acorTo com o seu perfl.
+POZYUN
+//.   Os sistemas com algoritmos Te /  aTaptativos 
+analisam  respostas  anteriores,   buscanTo 
+TeterminaTos paTrões que possam inTicar 
+pontos  Te  TifculTaTe  ou  faciliTaTe  Ta 
+pessoa em relação a TeterminaTo assunto.
+  respeito Tessas asserções,  assinale a opção correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+Area livre
+QUNSTÃO 18
+O algoritmo a seguir recebe um vetor v Te numeros 
+inteiros  e  rearranũa  esse  vetor  Te  tal  forma  que 
+seus  elementos,   ao  fnal,   esteũam  orTenaTos  Te 
+forma crescente.
+01 voiT orTena(int *v, int n)
 02 {
-03   int i, j, chave;
+03   int i, j, cUave;
 04   for(i = 1; i < n; i++)
 05   {
-06      chave = v[i];
+06      cUave = v[i];
 07      j = i - 1;
-08       while(j >= 0 && v[j] < chave)
+08       wUile(j >= 0 && v[j] < cUave)
 09      {
 10          v[j-1] = v[j];
 11          j = j - 1;
 12      }
-13      v[j+1] = chave;
+13      v[j+1] = cUave;
 14   }
 15 }
-IŽŶƐŝĚĞƌĂŶĚŽ  ƋƵĞ  ŶĞƐƐĞ  ĂůŐŽƌŝƚŵŽ  ŚĄ  ĞƌƌŽƐ  ĚĞ 
-ůſŐŝĐĂ  ƋƵĞ  ĚĞǀĞŵ  ƐĞƌ  ĐŽƌƌŝŐŝĚŽƐ  ƉĂƌĂ  ƋƵĞ  ŽƐ 
-ĞůĞŵĞŶƚŽƐ  ƐĞũĂŵ  ŽƌĚĞŶĂĚŽƐ  ĚĞ  ĨŽƌŵĂ  ĐƌĞƐĐĞŶƚĞ͕  
-ĂƐƐŝŶĂůĞ  Ă  ŽƉĕĆŽ  ĐŽƌƌĞƚĂ  ŶŽ  ƋƵĞ  ƐĞ  ƌĞĨĞƌĞ  ăƐ 
-ĐŽƌƌĞĕƁĞƐ ĂĚĞƋƵĂĚĂƐ͘
-A    ůŝŶŚĂ 04 ĚĞǀĞ ƐĞƌ ĐŽƌƌŝŐŝĚĂ ĚĂ ƐĞŐƵŝŶƚĞ ĨŽƌŵĂ͗  
-for(i = 1; i < n - 1; i++) Ğ Ă ůŝŶŚĂ 
-13͕  ĚŽ ƐĞŐƵŝŶƚĞ ŵŽĚŽ͗  v[j - 1] = chave;.
-B    ůŝŶŚĂ 04 ĚĞǀĞ ƐĞƌ ĐŽƌƌŝŐŝĚĂ ĚĂ ƐĞŐƵŝŶƚĞ ĨŽƌŵĂ͗  
-for(i = 1; i < n - 1; i++) Ğ Ă ůŝŶŚĂ 07͕  
-ĚŽ ƐĞŐƵŝŶƚĞ ŵŽĚŽ͗  j = i + 1;.
-C    ůŝŶŚĂ 07 ĚĞǀĞ ƐĞƌ ĐŽƌƌŝŐŝĚĂ ĚĂ ƐĞŐƵŝŶƚĞ ĨŽƌŵĂ͗
-j = i + 1 Ğ Ă ůŝŶŚĂ 08͕  ĚŽ ƐĞŐƵŝŶƚĞ ŵŽĚŽ͗  
-while(j >= 0 && v[j] > chave).
-D    ůŝŶŚĂ 08 ĚĞǀĞ ƐĞƌ ĐŽƌƌŝŐŝĚĂ ĚĂ ƐĞŐƵŝŶƚĞ ĨŽƌŵĂ͗  
-while(j >= 0 && v[j] > chave) e 
-Ă ůŝŶŚĂ 10͕  ĚŽ ƐĞŐƵŝŶƚĞ ŵŽĚŽ͗  v[j + 1] = 
+ConsiTeranTo  que  nesse  algoritmo  UA  erros  Te 
+logica  que  Tevem  ser  corrigiTos  para  que  os 
+elementos  seũam  orTenaTos  Te  forma  crescente,  
+assinale  a  opção  correta  no  que  se  refere  as 
+correções aTequaTas.
+A    linUa 04 Teve ser corrigiTa Ta seguinte forma:  
+for(i = 1; i < n - 1; i++) e a linUa 
+13,  To seguinte moTo:  v[j - 1] = cUave;.
+B    linUa 04 Teve ser corrigiTa Ta seguinte forma:  
+for(i = 1; i < n - 1; i++) e a linUa 07,  
+To seguinte moTo:  j = i + 1;.
+C    linUa 07 Teve ser corrigiTa Ta seguinte forma:
+j = i + 1 e a linUa 08,  To seguinte moTo:  
+wUile(j >= 0 && v[j] > cUave).
+M    linUa 08 Teve ser corrigiTa Ta seguinte forma:  
+wUile(j >= 0 && v[j] > cUave) e 
+a linUa 10,  To seguinte moTo:  v[j + 1] = 
 v[j];.
-E    ůŝŶŚĂ 10 ĚĞǀĞ ƐĞƌ ĐŽƌƌŝŐŝĚĂ ĚĂ ƐĞŐƵŝŶƚĞ ĨŽƌŵĂ͗  
-v[j + 1] = v[j]; Ğ Ă ůŝŶŚĂ 13͕  ĚŽ ƐĞŐƵŝŶƚĞ 
-ŵŽĚŽ͗  v[j - 1] = chave;.
+N    linUa 10 Teve ser corrigiTa Ta seguinte forma:  
+v[j + 1] = v[j]; e a linUa 13,  To seguinte 
+moTo:  v[j - 1] = cUave;.
+*R03201721*

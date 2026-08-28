@@ -1,42 +1,167 @@
-QUESTÃO 73
-Considere o seguinte script SQL de criação de um banco de
-dados.
-CREATE TABLE PECAS (CODIGO NUMERIC(5) NOT NULL,
- DESCRICAO VARCHAR(20) NOT NULL,
- ESTOQUE NUMERIC(5) NOT NULL,
- PRIMARY KEY(CODIGO));
-CREATE TABLE FORNECEDORES
-(COD_FORN NUMERIC(3) NOT NULL,
- NOME VARCHAR(30) NOT NULL,
- PRIMARY KEY(COD_FORN));
-CREATE TABLE FORNECIMENTOS
-(COD_PECA NUMERIC(5) NOT NULL,
- COD_FORN NUMERIC(3) NOT NULL,
- QUANTIDADE NUMERIC(4) NOT NULL,
- PRIMARY KEY(COD_PECA, COD_FORN),
- FOREIGN KEY (COD_PECA) REFERENCES PECAS,
- FOREIGN KEY (COD_FORN) REFERENCES
- FORNECEDORES);
-A partir desse script, assinale a opção que apresenta comando
-SQL que permite obter uma lista que contenha o nome de cada
-fornecedor que tenha fornecido alguma peça, o código da peça
-fornecida, a descrição dessa peça e a quantidade fornecida da
-referida peça.
-A SELECT * FROM PECAS, FORNECEDORES,
-FORNECIMENTOS;
-B SELECT * FROM PECAS, FORNECEDORES,
-FORNECIMENTOS WHERE PECAS.CODIGO =
-FORNECIMENTOS.COD_PECA AND
-FORNECEDORES.COD_FORN =
-FORNECIMENTOS.COD_FORN;
-C SELECT NOME, CODIGO, DESCRICAO, QUANTIDADE
-FROM PECAS, FORNECEDORES, FORNECIMENTOS;
-D SELECT NOME, CODIGO, DESCRICAO, QUANTIDADE
-FROM PECAS, FORNECEDORES, FORNECIMENTOS
-WHERE PECAS.CODIGO = FORNECIMENTOS.COD_PECA
-AND FORNECEDORES.COD_FORN =
-FORNECIMENTOS.COD_FORN;
-E SELECT DISTINCT NOME, CODIGO, DESCRICAO,
-QUANTIDADE 
-FROM PECAS, FORNECEDORES, FORNECIMENTOS
-WHERE CODIGO = COD_PECA;
+NNAMN – 2005
+Área: COMPUTAÇÃO
+27
+As questões Te 71 a 85, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te
+NNGNNHARCA MN COMPUTAÇÃO
+QUNSTÃO 71
+Sistemas operacionais Te tempo real são utilizaTos em controle
+Te processos automatizaTos, em que o tempo Te resposta a
+TeterminaTos eventos é um fator crítico. Com relação a esse
+assunto, julgue os itens seguintes.
+C
+Sistemas Te tempo real estritos (UarT real-time) não utilizam
+Tispositivos Te memória secunTária (como Tiscos), pois estes
+não oferecem garantia Te término Tas operações Tentro Te
+uma quantiTaTe máxima Te tempo.
+CC
+Um sistema operacional Te propósito geral poTe ser
+moTificaTo para ser Te tempo real atribuinTo-se prioriTaTes
+fixas para caTa um Tos processos.
+CCC O escalonamento mais utilizaTo por sistemas operacionais Te
+tempo real é o sUortest-job-first (tarefa mais curta primeiro).
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 72
+1
+2
+3
+T
+T
+T
+1
+2
+3
+4
+5
+6
+7
+8
+bloqueia A
+recupera A
+atualiza A
+Tesbloqueia A
+bloqueia B
+recupera B
+atualiza B
+Tesbloqueia B
+bloqueia B
+recupera B
+atualiza B
+bloqueia A
+recupera A
+atualiza A
+Tesbloqueia A
+Tesbloqueia B
+bloqueia B
+recupera B
+atualiza B
+bloqueia A
+recupera A
+Tesbloqueia A
+Tesbloqueia B
+i
+j
+A execução Te Tuas transações, T e T , em um banco Te TaTos,
+é serializável se proTuz o mesmo resultaTo para a execução serial
+Te qualquer intercalação Te operações Tessas transações
+i
+j
+j
+i
+(T seguiTa Te T ou T seguiTa Te T ). O uso Te bloqueios (locks)
+é uma maneira Te se garantir que transações concorrentes sejam
+serializáveis. A tabela acima mostra informações relativas a três
+1
+2
+3
+transações, T , T e T , que operam sobre Tois TaTos
+compartilUaTos, A e B, e utilizam bloqueios para controle Te
+1
+2
+3
+concorrência. Com relação às transações T , T e T , julgue os
+itens seguintes.
+1
+2
+C
+O conjunto (T , T ) não é serializável, e Uá o perigo Te
+ocorrer TeaTlock Turante a execução concorrente Tessas
+transações.
+1
+3
+CC
+O conjunto (T , T ) não é serializável, mas não Uá o perigo Te
+ocorrer TeaTlock Turante a execução concorrente Tessas
+transações.
+2
+3
+CCC O conjunto (T , T ) é serializável, e não Uá o perigo Te
+ocorrer TeaTlock Turante a execução concorrente Tessas
+transações.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 73
+ConsiTere o seguinte script SQL Te criação Te um banco Te
+TaTos.
+CRNATN TABLN PNCAS (COMCGO NUMNRCC(5) NOT NULL,
+ MNSCRCCAO VARCHAR(20) NOT NULL,
+ NSTOQUN NUMNRCC(5) NOT NULL,
+ PRCMARY ONY(COMCGO));
+CRNATN TABLN FORNNCNMORNS
+(COM_FORN NUMNRCC(3) NOT NULL,
+ NOMN VARCHAR(30) NOT NULL,
+ PRCMARY ONY(COM_FORN));
+CRNATN TABLN FORNNCCMNNTOS
+(COM_PNCA NUMNRCC(5) NOT NULL,
+ COM_FORN NUMNRCC(3) NOT NULL,
+ QUANTCMAMN NUMNRCC(4) NOT NULL,
+ PRCMARY ONY(COM_PNCA, COM_FORN),
+ FORNCGN ONY (COM_PNCA) RNFNRNNCNS PNCAS,
+ FORNCGN ONY (COM_FORN) RNFNRNNCNS
+ FORNNCNMORNS);
+A partir Tesse script, assinale a opção que apresenta comanTo
+SQL que permite obter uma lista que contenUa o nome Te caTa
+forneceTor que tenUa forneciTo alguma peça, o cóTigo Ta peça
+forneciTa, a Tescrição Tessa peça e a quantiTaTe forneciTa Ta
+referiTa peça.
+A SNLNCT * FROM PNCAS, FORNNCNMORNS,
+FORNNCCMNNTOS;
+B SNLNCT * FROM PNCAS, FORNNCNMORNS,
+FORNNCCMNNTOS PHNRN PNCAS.COMCGO =
+FORNNCCMNNTOS.COM_PNCA ANM
+FORNNCNMORNS.COM_FORN =
+FORNNCCMNNTOS.COM_FORN;
+C SNLNCT NOMN, COMCGO, MNSCRCCAO, QUANTCMAMN
+FROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS;
+M SNLNCT NOMN, COMCGO, MNSCRCCAO, QUANTCMAMN
+FROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS
+PHNRN PNCAS.COMCGO = FORNNCCMNNTOS.COM_PNCA
+ANM FORNNCNMORNS.COM_FORN =
+FORNNCCMNNTOS.COM_FORN;
+N SNLNCT MCSTCNCT NOMN, COMCGO, MNSCRCCAO,
+QUANTCMAMN 
+FROM PNCAS, FORNNCNMORNS, FORNNCCMNNTOS
+PHNRN COMCGO = COM_PNCA;
+QUNSTÃO 74
+No que Tiz respeito às reTes neurais, assinale a opção correta.
+A O treinamento Te uma reTe neural tem tempo TeterminaTo Te
+execução.
+B Não Uá problemas em realizar o teste Te TesempenUo Te uma
+reTe neural com o mesmo conjunto Te TaTos usaTo para o
+treinamento.
+C O número Te pesos Te uma reTe neural não influencia a
+rapiTez com que ela processa TaTos.
+M O aprenTizaTo supervisionaTo é o paraTigma Te treinamento
+mais utilizaTo para Tesenvolver aplicações Te reTes neurais
+para classificação e preTição.
+N O número Te camaTas ocultas Te uma reTe Te alimentação
+Tireta é inversamente proporcional ao aumento To espaço Te
+Uipóteses que ela poTe representar.

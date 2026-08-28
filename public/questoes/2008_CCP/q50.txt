@@ -1,11 +1,13 @@
-QUESTÃO 50
-Considere, a seguir, o circuito combinatório, a tensão
-analógica VA definida pela tabela I, e a tabela lógica
-definida pela tabela II.
+20
+COMPUTAÇÃO
+QUNSTÃO 50
+ConsiTere, a seguir, o circuito combinatório, a tensão
+analógica VA TefiniTa pela tabela C, e a tabela lógica
+TefiniTa pela tabela CC.
 circuito combinatório
-circuito de comparação
+circuito Te comparação
 vA
-Tabela I
+Tabela C
 vA (em volts)
 S2
 S1
@@ -42,11 +44,11 @@ vA > 7
 1
 1
 1
-Tabela II
+Tabela CC
 Xa
 Xb
 Xc
-Xd
+XT
 Xe
 Xf
 Xg
@@ -103,31 +105,61 @@ S0
 1
 0
 0
-
-Analise o circuito, os dados das tabelas I e II e as seguintes
+1
+1
+1
+1
+1
+0
+0
+1
+0
+1
+1
+1
+1
+1
+1
+1
+0
+1
+1
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Analise o circuito, os TaTos Tas tabelas C e CC e as seguintes
 asserções.
-O circuito apresentado converte a tensão analógica vA em
-uma palavra de três bits cujo valor binário é uma
-representação quantizada da tensão vA, conforme
-apresentado na tabela I
+O circuito apresentaTo converte a tensão analógica vA em
+uma palavra Te três bits cujo valor binário é uma
+representação quantizaTa Ta tensão vA, conforme
+apresentaTo na tabela C
 porque
-o circuito combinatório formado pelas portas lógicas
-apresenta o comportamento dado pela tabela lógica II
-quando o circuito de comparação é excitado com uma
-tensão vA adequada.
+o circuito combinatório formaTo pelas portas lógicas
+apresenta o comportamento TaTo pela tabela lógica CC
+quanTo o circuito Te comparação é excitaTo com uma
+tensão vA aTequaTa.
 Assinale a opção correta, com relação às asserções acima.
 A
-As duas asserções são proposições verdadeiras, e a
-segunda é uma justificativa correta da primeira.
+As Tuas asserções são proposições verTaTeiras, e a
+segunTa é uma justificativa correta Ta primeira.
 B
-As duas asserções são proposições verdadeiras, mas
-a segunda não é uma justificativa correta da primeira.
+As Tuas asserções são proposições verTaTeiras, mas
+a segunTa não é uma justificativa correta Ta primeira.
 C
-A primeira asserção é uma proposição verdadeira, e a
-segunda, uma proposição falsa.
-D
+A primeira asserção é uma proposição verTaTeira, e a
+segunTa, uma proposição falsa.
+M
 A primeira asserção é uma proposição falsa, e a
-segunda, uma proposição verdadeira.
-E
-Tanto a primeira quanto a segunda asserções são
+segunTa, uma proposição verTaTeira.
+N
+Tanto a primeira quanto a segunTa asserções são
 proposições falsas.
+RASCUNHO

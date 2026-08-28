@@ -5,44 +5,17 @@
   "paginas": [
     29
   ],
-  "segmentos": [
-    {
-      "pagina": 29,
-      "x0": 286.56,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 689.0728759765625,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q22.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q22.txt",
   "largura": 1095,
   "altura": 2589,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22\t\nOs serviços de Tecnologia da Informação (TI) podem \nser melhorados em relação ao seu Ciclo de Vida do \nServiço, no alinhamento do Portfólio de TI com os \nrequerimentos atuais e futuros e com o aumento \nda maturidade das entregas dos processos em \ncada Serviço de TI. No Information Technology \nInfrastructure Library (ITIL), essa melhoria ocorre \nna etapa de Melhoria Continuada de Serviço.\n FREITAS, M. A. S. Fundamentos do gerenciamento de serviços de TI. \nRio de Janeiro: Brasport, 2013 (adaptado).\nConsiderando o ciclo de vida do serviço descrito, a \netapa de Melhoria Continuada de Serviço do ITIL\nA\t descreve a fase do ciclo de vida responsável pelas \natividades do dia a dia, orientando sobre como \ngarantir a entrega e o suporte a serviços de forma \neficiente e eficaz em ambientes operacionais \ngerenciados.\nB\t orienta, através de princípios, práticas e métodos \nde gerenciamento da qualidade, sobre como \naprimorar a qualidade do serviço, incluindo as \nmetas de eficiência operacional e a continuidade \ndo serviço.\nC\t orienta sobre como visualizar o gerenciamento \nde serviços não somente como uma capacidade \norganizacional, e sim como ativo estratégico, \ndescrevendo princípios úteis para criar políticas, \ndiretrizes e processos de gerenciamento.\nD\t orienta sobre como implantar serviços novos \ne modificados para ambientes operacionais \ngerenciados, detalhando os processos de \nplanejamento, gerenciamento de mudanças, \ngerenciamento da configuração e gerenciamento \nde liberação.\nE\t fornece orientação para o desenvolvimento \ndos serviços e das práticas de gerenciamento \nde serviços, propondo mudanças e melhorias \nnecessárias para manter ou agregar valor aos \nclientes ao longo do ciclo de vida do serviço.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 22,
-      "tipo": "OBJETIVA",
-      "pagina": 29,
-      "x": 289.464599609375,
-      "y": 76.71854400634766,
-      "x1": 354.6246337890625,
-      "y1": 92.04254150390625,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 22"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241348"
+  "texto_completo": "29\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 21\t\nO Cnformation TecUnology Cnfrastructure Library \n(CTCL) compreenTe um conjunto Te boas práticas \nque buscam TetalUar o gerenciamento To serviço \nTe TC, por meio To alinUamento entre a tecnologia \nTa informação e as necessiTaTes To negócio. Surge \nno Reino UniTo e HolanTa na TécaTa Te 1980, \nTiante Ta insatisfação To governo britânico quanto \nao nível Te serviços Te TC, voltaTo para a Tescrição \nTe um moTelo operacional para a entrega Te \nproTutos e serviços UabilitaTos por tecnologia.\nROSA, F. Avaliação sobre as melUores práticas e estuTo Te \nmigração para CTCL V3. Misponível em: Uttp://repositorio.roca.\nutfpr.eTu.br/jspui/bitstream/1/636/1/MM_COAMS_2011_2_01.pTf. \nAcesso: em 20 jul. 2020 (aTaptaTo).\nA respeito Tos benefícios que o CTCL poTe oferecer \nàs organizações, avalie as afirmações a seguir.\nC.\t O CTCL é uma metoTologia prescritiva que \nTefine TetalUaTamente o que se Teve \nfazer, \naTaptanTo-se \nàs \nnecessiTaTes \norganizacionais.\nCC.\t O CTCL gera transparência quanto à prestação \nTe serviços Te TC, Te forma a possibilitar o \nentenTimento comum entre a área Te TC e \nTe negócios.\nCCC.\t O CTCL permite a iTentificação Te pontos \nfalUos e características Te melUoria contínua.\nCV.\t O CTCL melUora a qualiTaTe Tos serviços \nprestaTos e gera valor para o cliente.\n É correto apenas o que se afirma em\nA\t C e CC.\nB\t C e CCC.\nC\t CC e CV.\nM\t C, CCC e CV.\nN\t CC, CCC e CV.\nÁrea livre\nQUNSTÃO 22\t\nOs serviços Te Tecnologia Ta Cnformação (TC) poTem \nser melUoraTos em relação ao seu Ciclo Te ViTa To \nServiço, no alinUamento To Portfólio Te TC com os \nrequerimentos atuais e futuros e com o aumento \nTa maturiTaTe Tas entregas Tos processos em \ncaTa Serviço Te TC. No Cnformation TecUnology \nCnfrastructure Library (CTCL), essa melUoria ocorre \nna etapa Te MelUoria ContinuaTa Te Serviço.\n FRNCTAS, M. A. S. FunTamentos To gerenciamento Te serviços Te TC. \nRio Te Janeiro: Brasport, 2013 (aTaptaTo).\nConsiTeranTo o ciclo Te viTa To serviço Tescrito, a \netapa Te MelUoria ContinuaTa Te Serviço To CTCL\nA\t Tescreve a fase To ciclo Te viTa responsável pelas \nativiTaTes To Tia a Tia, orientanTo sobre como \ngarantir a entrega e o suporte a serviços Te forma \neficiente e eficaz em ambientes operacionais \ngerenciaTos.\nB\t orienta, através Te princípios, práticas e métoTos \nTe gerenciamento Ta qualiTaTe, sobre como \naprimorar a qualiTaTe To serviço, incluinTo as \nmetas Te eficiência operacional e a continuiTaTe \nTo serviço.\nC\t orienta sobre como visualizar o gerenciamento \nTe serviços não somente como uma capaciTaTe \norganizacional, e sim como ativo estratégico, \nTescrevenTo princípios úteis para criar políticas, \nTiretrizes e processos Te gerenciamento.\nM\t orienta sobre como implantar serviços novos \ne moTificaTos para ambientes operacionais \ngerenciaTos, TetalUanTo os processos Te \nplanejamento, gerenciamento Te muTanças, \ngerenciamento Ta configuração e gerenciamento \nTe liberação.\nN\t fornece orientação para o Tesenvolvimento \nTos serviços e Tas práticas Te gerenciamento \nTe serviços, proponTo muTanças e melUorias \nnecessárias para manter ou agregar valor aos \nclientes ao longo To ciclo Te viTa To serviço.\nÁrea livre\n*R29202129*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q22.png",
+  "caminho_json": "/questoes/2021_GTI/q22.json",
+  "caminho_txt": "/questoes/2021_GTI/q22.txt"
 }

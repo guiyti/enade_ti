@@ -5,44 +5,17 @@
   "paginas": [
     39
   ],
-  "segmentos": [
-    {
-      "pagina": 39,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 457.2461242675781,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q35.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q35.txt",
   "largura": 2185,
   "altura": 1623,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 35\t\nUm auditor de TI deve ter um forte entendimento das técnicas de controle interno para cobrir muitas \ndas tecnologias e processos presentes na empresa, e para tal deve usar os controles gerais de TI que \ncobrem todos os aspectos das operações de TI, como atividades de processamento, acesso a programas \ne dados, desenvolvimento e alterações de programas, controles de rede e muitos outros. Estes controles \nestão organizados em uma hierarquia dividida em três grupos de TI: Controles Gerais de Governança; \nControles Gerais de Gerenciamento; e Controles Gerais de Ambiente Técnico.\nMOELLER, R. IT audit, control, and security. New Jersey: \nJohn Wiley & Sons Inc., 2010 (adaptado).\nA respeito dos controles gerais de TI, avalie as afirmações a seguir.\nI.\t Fazem parte do grupo de Governança de TI os controles que envolvem a garantia de princípios, \npolíticas e processos eficazes de gerenciamento e segurança.\nII.\t Fazem parte do grupo de Gerenciamento de TI os controles que cobrem áreas como desenvolvimento \nde sistemas, aquisição de software, documentação e procedimentos de controle.\nIII.\t Fazem parte do grupo de Ambiente Técnico de TI os controles que permitem uma compreensão \nda organização, seus procedimentos de controle estabelecidos e os deveres e responsabilidades \nespecializados de qualquer operação.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 35,
-      "tipo": "OBJETIVA",
-      "pagina": 39,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 94.92378997802734,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 35"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241413"
+  "texto_completo": "39\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 35\t\nUm auTitor Te TC Teve ter um forte entenTimento Tas técnicas Te controle interno para cobrir muitas \nTas tecnologias e processos presentes na empresa, e para tal Teve usar os controles gerais Te TC que \ncobrem toTos os aspectos Tas operações Te TC, como ativiTaTes Te processamento, acesso a programas \ne TaTos, Tesenvolvimento e alterações Te programas, controles Te reTe e muitos outros. Nstes controles \nestão organizaTos em uma Uierarquia TiviTiTa em três grupos Te TC: Controles Gerais Te Governança; \nControles Gerais Te Gerenciamento; e Controles Gerais Te Ambiente Técnico.\nMONLLNR, R. CT auTit, control, anT security. New Jersey: \nJoUn Piley & Sons Cnc., 2010 (aTaptaTo).\nA respeito Tos controles gerais Te TC, avalie as afirmações a seguir.\nC.\t Fazem parte To grupo Te Governança Te TC os controles que envolvem a garantia Te princípios, \npolíticas e processos eficazes Te gerenciamento e segurança.\nCC.\t Fazem parte To grupo Te Gerenciamento Te TC os controles que cobrem áreas como Tesenvolvimento \nTe sistemas, aquisição Te software, Tocumentação e proceTimentos Te controle.\nCCC.\t Fazem parte To grupo Te Ambiente Técnico Te TC os controles que permitem uma compreensão \nTa organização, seus proceTimentos Te controle estabeleciTos e os Teveres e responsabiliTaTes \nespecializaTos Te qualquer operação.\nÉ correto o que se afirma em\nA\t C, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t CC e CCC, apenas.\nN\t C, CC e CCC.\nÁrea livre\n*R29202139*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q35.png",
+  "caminho_json": "/questoes/2021_GTI/q35.json",
+  "caminho_txt": "/questoes/2021_GTI/q35.txt"
 }

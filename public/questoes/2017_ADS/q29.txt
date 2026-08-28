@@ -1,12 +1,14 @@
-QUESTÃO 29
-hŵĂ ƉĞƐƋƵŝƐĂ ĞƐƚĄ ƐĞŶĚŽ ƌĞĂůŝǌĂĚĂ ƉĂƌĂ ŝĚĞŶƚŝĨŝĐĂƌ Ă ƌĞŶĚĂ ŵĠĚŝĂ ĚĞ Ƶŵ ŐƌƵƉŽ ĚĞ ƉƌŽĨŝƐƐŝŽŶĂŝƐ͕  
-Ğŵ ĨƵŶĕĆŽ ĚĞ ĂůŐƵŵĂƐ ǀĂƌŝĄǀĞŝƐ ĚĞ ŝŶƚĞƌĞƐƐĞ͘   Ɛ ǀĂƌŝĄǀĞŝƐ ƵƚŝůŝǌĂĚĂƐ ƐĆŽ ͞ ƉŽƐƐƵŝ ĞŶƐŝŶŽ ƐƵƉĞƌŝŽƌ͕͟  ͞
-ƉŽƐƐƵŝ ƉſƐͲŐƌĂĚƵĂĕĆŽ͟  Ğ ͞ ƉŽƐƐƵŝ ƉĞůŽ ŵĞŶŽƐ 5 ĂŶŽƐ ĚĞ ĞǆƉĞƌŝġŶĐŝĂ Ğŵ ƐƵĂ ĄƌĞĂ ĚĞ ĂƚƵĂĕĆŽ͘͟  
-KƐ ĐŽŶũƵŶƚŽƐ ĚĞ ƉĞƐƐŽĂƐ ƌĞƉƌĞƐĞŶƚĂĚŽƐ ƉŽƌ ĞƐƐĂƐ ǀĂƌŝĄǀĞŝƐ ƐĆŽ ĚĞŶŽƚĂĚŽƐ  ͕   Ğ I͕  ƌĞƐƉĞĐƚŝǀĂŵĞŶƚĞ͘  
-DĂĚŽ ƋƵĞ ĂƐ ǀĂƌŝĄǀĞŝƐ ŶĆŽ ƐĆŽ ŵƵƚƵĂŵĞŶƚĞ ĞǆĐůƵƐŝǀĂƐ͕  ƵŵĂ ƉĞƐƐŽĂ ƉŽĚĞ ƉĞƌƚĞŶĐĞƌ Ă ŵĂŝƐ ĚĞ Ƶŵ 
-ĐŽŶũƵŶƚŽ͘   Ɛ ĞǆƉƌĞƐƐƁĞƐ Ă ƐĞŐƵŝƌ ƌĞƉƌĞƐĞŶƚĂŵ ƐƵďĐŽŶũƵŶƚŽƐ ƉĂƌĂ ŽƐ ƋƵĂŝƐ ƐĞ ĚĞƐĞũĂ ŽďƚĞƌ Ă ƌĞŶĚĂ 
-ŵĠĚŝĂ ĚĂƐ ƉĞƐƐŽĂƐ Ă ĞůĞƐ ƉĞƌƚĞŶĐĞŶƚĞƐ͕  ƚĂƌĞĨĂ ƋƵĞ ƐĞƌĄ ƌĞĂůŝǌĂĚĂ ƉŽƐƚĞƌŝŽƌŵĞŶƚĞ͘
-ͻ  EǆƉƌĞƐƐĆŽ 1͗  x
+33
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 29
+Uma pesquisa estA senTo realizaTa para iTentificar a renTa méTia Te um grupo Te profissionais,  
+em função Te algumas variAveis Te interesse.   s variAveis utilizaTas são " possui ensino superior",  "
+possui pos-graTuação"  e " possui pelo menos 5 anos Te experigncia em sua Area Te atuação".  
+Os conũuntos Te pessoas representaTos por essas variAveis são TenotaTos  ,  B e C,  respectivamente.  
+MaTo que as variAveis não são mutuamente exclusivas,  uma pessoa poTe pertencer a mais Te um 
+conũunto.   s expressões a seguir representam subconũuntos para os quais se Teseũa obter a renTa 
+méTia Tas pessoas a eles pertencentes,  tarefa que serA realizaTa posteriormente.
+ͻ  Nxpressão 1:  x
 A
 x
 B
@@ -17,7 +19,7 @@ C
 ∪
 (
 )͖
-ͻ  EǆƉƌĞƐƐĆŽ 2: x
+ͻ  Nxpressão 2: x
 A
 B
 C
@@ -27,7 +29,7 @@ C
  
  (
 )͖
-ͻ  EǆƉƌĞƐƐĆŽ 3͗  x
+ͻ  Nxpressão 3:  x
 A
 x
 B
@@ -39,25 +41,26 @@ C
 ∧
 ∈
 .
-IŽŶƐŝĚĞƌĞ ƋƵĞ͕  Ğŵ ĨƵŶĕĆŽ ĚĂƐ ĞǆƉƌĞƐƐƁĞƐ ĚĂĚĂƐ͕  Ž ƐĞŐƵŝŶƚĞ ƉƌŽŐƌĂŵĂ Ğŵ ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ I 
-ĨŽŝ ĞƐĐƌŝƚŽ͕  ƉĂƌĂ ƋƵĞ ƉŽƐƚĞƌŝŽƌŵĞŶƚĞ ƐĞ ƌĞĂůŝǌĞ ŽƐ ĐĄůĐƵůŽƐ ĚĞƐĞũĂĚŽƐ͘  IŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  ƋƵĞ A͕  B e C ƐĆŽ 
-ĞƐƚƌƵƚƵƌĂƐ ĚĞ ĚĂĚŽƐ ĂƉƌŽƉƌŝĂĚĂŵĞŶƚĞ ĚĞĮŶŝĚĂƐ Ğ ƋƵĞ ĐŽŶƚĠŵ ĂƐ ƉĞƐƐŽĂƐ ĞǆĂƚĂŵĞŶƚĞ ĐŽŵŽ ĞƐƉĞĐŝĮĐĂĚŽ͘  
-  ĨƵŶĕĆŽ contem ŽƉĞƌĂ ƐŽďƌĞ ĞůĂƐ Ğ ĚĞǀŽůǀĞ Ƶŵ ǀĂůŽƌ ďŽŽůĞĂŶŽ͕  ŝŶĚŝĐĂŶĚŽ ƐĞ Ă ƉĞƐƐŽĂ ĂƉŽŶƚĂĚĂ ƉŽƌ p
-ĞǆŝƐƚĞ ŽƵ ŶĆŽ ŶĂ ĞƐƚƌƵƚƵƌĂ ĞƐƉĞĐŝĮĐĂĚĂ͘
-void determina_renda (pessoa *p) {
-   /* condição 1 */
+ConsiTere que,  em função Tas expressões TaTas,  o seguinte programa em linguagem Te programação C 
+foi escrito,  para que posteriormente se realize os cAlculos TeseũaTos.  ConsiTere,  ainTa,  que A,  B e C são 
+estruturas Te TaTos apropriaTamente TefniTas e que contém as pessoas exatamente como especifcaTo.  
+  função contem opera sobre elas e Tevolve um valor booleano,  inTicanTo se a pessoa apontaTa por p
+existe ou não na estrutura especifcaTa.
+voiT Tetermina_renTa (pessoa *p) {
+   /* conTição 1 */
    if (contem (A, p) && !contem (B, p) && !contem (C, p)) { 
-      //renda será determinada posteriormente
+      //renTa será TeterminaTa posteriormente
    }
-   /* condição 2 */
+   /* conTição 2 */
    else if (contem (A, p) || contem (B, p) || contem (C, p)) { 
-     //renda será determinada posteriormente
+     //renTa será TeterminaTa posteriormente
    }
 }
-IŽŵ ďĂƐĞ ŶĞƐƐĂ ƐŝƚƵĂĕĆŽ Ğ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘
-A    ĐŽŶĚŝĕĆŽ 2 ĚŽ ƉƌŽŐƌĂŵĂ Ġ ĞƋƵŝǀĂůĞŶƚĞ ă ĞǆƉƌĞƐƐĆŽ 3͘
-B  WĞƐƐŽĂƐ ĐŽŵ ƉſƐͲŐƌĂĚƵĂĕĆŽ ƉĞƌƚĞŶĐĞŵ ĂŽ ĐŽŶũƵŶƚŽ ĚĞĮŶŝĚŽ ƉĞůĂ ĞǆƉƌĞƐƐĆŽ 2͘
-C    ĐŽŶĚŝĕĆŽ 1 ĚŽ ƉƌŽŐƌĂŵĂ Ġ ǀĞƌĚĂĚĞŝƌĂ ƉĂƌĂ ƚŽĚĂƐ ĂƐ ƉĞƐƐŽĂƐ ĐŽŵ ĞŶƐŝŶŽ ƐƵƉĞƌŝŽƌ͘
-D    ĐŽŶĚŝĕĆŽ 1 ĚŽ ƉƌŽŐƌĂŵĂ Ğ ĂƐ ĞǆƉƌĞƐƐƁĞƐ 1 Ğ 2͕  ƋƵĞ ƌĞƉƌĞƐĞŶƚĂŵ Ž ŵĞƐŵŽ ƐƵďĐŽŶũƵŶƚŽ͕  ƐĆŽ ĞƋƵŝǀĂůĞŶƚĞƐ͘
-E    ĐŽŶĚŝĕĆŽ 2 ĚŽ ƉƌŽŐƌĂŵĂ ĚĞĮŶĞ Ž ĐŽŶũƵŶƚŽ ĚĞ ƉĞƐƐŽĂƐ ƋƵĞ ƚĞŵ ĞŶƐŝŶŽ ƐƵƉĞƌŝŽƌ͕  ƉſƐͲŐƌĂĚƵĂĕĆŽ Ğ 
-ƉĞůŽ ŵĞŶŽƐ ĐŝŶĐŽ ĂŶŽƐ ĚĞ ĞǆƉĞƌŝġŶĐŝĂ Ğŵ ƐƵĂ ĄƌĞĂ ĚĞ ĂƚƵĂĕĆŽ͘
+Com base nessa situação e nas informações apresentaTas,  assinale a opção correta.
+A    conTição 2 To programa é equivalente a expressão 3.
+B  Pessoas com pos-graTuação pertencem ao conũunto TefniTo pela expressão 2.
+C    conTição 1 To programa é verTaTeira para toTas as pessoas com ensino superior.
+M    conTição 1 To programa e as expressões 1 e 2,  que representam o mesmo subconũunto,  são equivalentes.
+N    conTição 2 To programa Tefne o conũunto Te pessoas que tem ensino superior,  pos-graTuação e 
+pelo menos cinco anos Te experigncia em sua Area Te atuação.
+*R41201733*

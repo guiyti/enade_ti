@@ -1,56 +1,82 @@
-QUESTÃO 26
-hŵ ĐŽŶũƵŶƚŽ ŝŶĚƵƟǀŽ ^ Ġ ĚĞĮŶŝĚŽ ĚĞ ĂĐŽƌĚŽ ĐŽŵ ŽƐ 
-ƐĞŐƵŝŶƚĞƐ ƉĂƐƐŽƐ͗
-΀Base΁ DĞĐůĂƌĂĕĆŽ ĚŽƐ ĞůĞŵĞŶƚŽƐ ŝŶŝĐŝĂŝƐ͕  ĂƚƀŵŝĐŽƐ͘
-΀Indução΁  DĞĮŶŝĕĆŽ  ĚĞ  ƌĞŐƌĂƐ  ƋƵĞ  ĐŽŶƐƚƌŽĞŵ 
-ĞǆƉƌĞƐƐƁĞƐ Ă ƉĂƌƟƌ ĚĞ ĞůĞŵĞŶƚŽƐ ũĄ ĞǆŝƐƚĞŶƚĞƐ Ğŵ ^͘
-΀Fecho΁ hŵĂ ĚĞĐůĂƌĂĕĆŽ ĚĞ ƋƵĞ ŶĂĚĂ ŵĂŝƐ ĞƐƚĄ Ğŵ 
-^ Ă ŶĆŽ ƐĞƌ ŽƐ ĞůĞŵĞŶƚŽƐ ĐŽŶƐƚƌƵşĚŽƐ ƉĞůŽƐ ƉĂƐƐŽƐ 
-Base e Indução.
-KƐ  ŽƉĞƌĂĚŽƌĞƐ  ƋƵĞ  ĐŽŶƐƚƌŽĞŵ  ĂƐ  ĞǆƉƌĞƐƐƁĞƐ  ŶŽƐ 
-ƉĂƐƐŽƐ Base e Indução ƐĆŽ ĐŚĂŵĂĚŽƐ ĚĞ ĐŽŶƐƚƌƵƚŽƌĞƐ 
-ĚŽ  ĐŽŶũƵŶƚŽ  ^͘   IŽŵŽ  Ƶŵ  ĞǆĞŵƉůŽ͕   Ă  ĚĞĮŶŝĕĆŽ 
-ĂďĂŝǆŽ  ĞƐƉĞĐŝĮĐĂ  Ƶŵ  ĐŽŶũƵŶƚŽ  ŝŶĚƵƟǀŽ  Prop͕   ĚĂƐ 
-ƉƌŽƉŽƐŝĕƁĞƐ ďŽŽůĞĂŶĂƐ ĨŽƌŵĂĚĂƐ ƉĞůŽƐ ĐŽŶƐƚƌƵƚŽƌĞƐ 
-V ;ǀĂůŽƌ ǀĞƌĚĂĚĞŝƌŽͿ͕  F ;ǀĂůŽƌ ĨĂůƐŽͿ͕  ! ;ƉĂƌĂ ŶĞŐĂĕĆŽ 
-ĚĞ ĞǆƉƌĞƐƐƁĞƐͿ Ğ and ;ƉĂƌĂ ĐŽŶũƵŶĕĆŽ ĚĞ ĞǆƉƌĞƐƐƁĞƐͿ͘
-1. ΀Base΁ V, F ĞƐƚĆŽ Ğŵ Prop.
-2. ΀Indução΁ ^Ğ  ĞƐƚĄ Ğŵ Prop͕  ĞŶƚĆŽ ;! Ϳ ĞƐƚĄ Ğŵ 
+22
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 26
+Um conũunto inTutivo S é TefniTo Te acorTo com os 
+seguintes passos:
+΀Base΁ Meclaração Tos elementos iniciais,  atƀmicos.
+΀CnTução΁  Mefnição  Te  regras  que  constroem 
+expressões a partir Te elementos ũA existentes em S.
+΀FecUo΁ Uma Teclaração Te que naTa mais estA em 
+S a não ser os elementos construíTos pelos passos 
+Base e CnTução.
+Os  operaTores  que  constroem  as  expressões  nos 
+passos Base e CnTução são cUamaTos Te construtores 
+To  conũunto  S.   Como  um  exemplo,   a  Tefnição 
+abaixo  especifca  um  conũunto  inTutivo  Prop,   Tas 
+proposições booleanas formaTas pelos construtores 
+V (valor verTaTeiro),  F (valor falso),  ! (para negação 
+Te expressões) e anT (para conũunção Te expressões).
+1. ΀Base΁ V, F estão em Prop.
+2. ΀CnTução΁ Se B estA em Prop,  então (! B) estA em 
 Prop.
-3͘   ΀Indução΁ ^Ğ 1 Ğ 2 ĞƐƚĆŽ Ğŵ Prop͕  ĞŶƚĆŽ ;and
-1 2Ϳ ĞƐƚĄ Ğŵ Prop.
-4. ΀Fecho΁  EĂĚĂ  ŵĂŝƐ  ĞƐƚĄ  Ğŵ  WƌŽƉ͕   Ă  ŶĆŽ  ƐĞƌ  Ž 
-ĞƐƉĞĐŝĮĐĂĚŽ Ğŵ Base e Indução.
-EǆƉƌĞƐƐƁĞƐ ;ƚĞƌŵŽƐͿ Ğŵ Prop ŝŶĐůƵĞŵ V, F, ! F, ! V, 
-(and V F), (and (! V) (! F)) Ğ ĂƐƐŝŵ ƉŽƌ ĚŝĂŶƚĞ͘  DĞ 
-ĨŽƌŵĂ  ĂŶĄůŽŐĂ͕   ůŝŶŐƵĂŐĞŶƐ  ĨƵŶĐŝŽŶĂŝƐ  ƉĞƌŵŝƚĞŵ  Ă 
-ĚĞĐůĂƌĂĕĆŽ ĚĞ ƟƉŽƐ ŝŶĚƵƟǀŽƐ ĐŽŵ ƐĞƵƐ ƌĞƐƉĞĐƟǀŽƐ 
-ĐŽŶƐƚƌƵƚŽƌĞƐ͘  
-EĞƐƚĞ ĐŽŶƚĞǆƚŽ͕  ĂǀĂůŝĞ ĂƐ ƐĞŐƵŝŶƚĞƐ ĂĮƌŵĂĕƁĞƐ͘
-/͘   IŽŶũƵŶƚŽƐ 
-ŝŶĚƵƟǀŽƐ 
-ƐĆŽ 
-ĐŽŶũƵŶƚŽƐ 
-ĞŶƵŵĞƌĄǀĞŝƐ͘
-//͘   IŽŶũƵŶƚŽƐ 
-ŝŶĮŶŝƚŽƐ 
-ŶĆŽ 
-ƉŽĚĞŵ 
-ƐĞƌ 
-ĞƐƉĞĐŝĮĐĂĚŽƐ 
-ƉŽƌ 
-ŵĞŝŽ 
-ĚĞ 
-ĚĞĮŶŝĕƁĞƐ 
-ŝŶĚƵƟǀĂƐ͘
-///͘   WĂƌĂ ĞƐƚĞŶĚĞƌ Ă ůŝŶŐƵĂŐĞŵ Prop ĚĞ ƚĂů ĨŽƌŵĂ 
-Ă  ĐŽŶƐŝĚĞƌĂƌ  ĞǆƉƌĞƐƐƁĞƐ  ƉĂƌĂ  ĚŝƐũƵŶĕĆŽ 
-Ğ  ŝŵƉůŝĐĂĕĆŽ  ĚĞ  ƉƌŽƉŽƐŝĕĆŽ͕   Ġ  ŶĞĐĞƐƐĄƌŝŽ 
-ĂĐƌĞƐĐĞŶƚĂƌ ŵĂŝƐ ĚŽŝƐ ĐŽŶƐƚƌƵƚŽƌĞƐ  ă ĚĞĮŶŝĕĆŽ 
-ĚĞ Prop ĂŶƚĞƌŝŽƌ͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B //͕  ĂƉĞŶĂƐ͘
-C / Ğ ///͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+3.   ΀CnTução΁ Se B1 e B2 estão em Prop,  então (anT
+B1 B2) estA em Prop.
+4. ΀FecUo΁  NaTa  mais  estA  em  Prop,   a  não  ser  o 
+especifcaTo em Base e CnTução.
+Nxpressões (termos) em Prop incluem V, F, ! F, ! V, 
+(anT V F), (anT (! V) (! F)) e assim por Tiante.  Me 
+forma  anAloga,   linguagens  funcionais  permitem  a 
+Teclaração Te tipos inTutivos com seus respectivos 
+construtores.  
+Neste contexto,  avalie as seguintes afrmações.
+/.   Conũuntos 
+inTutivos 
+são 
+conũuntos 
+enumerAveis.
+//.   Conũuntos 
+infnitos 
+não 
+poTem 
+ser 
+especifcaTos 
+por 
+meio 
+Te 
+Tefnições 
+inTutivas.
+///.   Para estenTer a linguagem Prop Te tal forma 
+a  consiTerar  expressões  para  Tisũunção 
+e  implicação  Te  proposição,   é  necessArio 
+acrescentar mais Tois construtores  a Tefnição 
+Te Prop anterior.
+ correto o que se afrma em
+A /,  apenas.
+B //,  apenas.
+C / e ///,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+QUNSTÃO 27
+ConsiTere o seguinte argumento:
+1 - Se existe fogo,  então existe oxiggnio.
+2 - Não UA oxiggnio.
+3 - Nntão não UA fogo.
+   regra  Te  infergncia  que  ũustifca  a  valiTaTe  To 
+argumento acima é
+A
+P ĺ Q, ¬P
+¬Q
+B
+P ĺ Q, ¬Q
+¬P
+C
+P ĺ Q, Q
+P
+M
+P ĺ Q, ¬Q
+¬¬P
+N
+P ĺ Q, P
+Q
+ÁRNA LCVRN
+*R03201422*

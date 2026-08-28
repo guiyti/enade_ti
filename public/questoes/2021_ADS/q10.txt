@@ -1,22 +1,30 @@
-E
-p
-g
-p
-p
-QUESTÃO 10	
-Uma fábrica adquiriu máquinas de costura industrial para a produção de jogos de toalhas de mesa e guardanapos 
-de tecido com estampas quadriculadas. Cada quadrículo tem tamanho padrão de 5 cm X 5 cm. Para a configuração 
-da costura, é preciso um programa de computador para criar um molde em que sejam informadas as quantidades 
-de quadrículos por comprimento e por largura, além do desenho da estampa a ser costurada. Por exemplo, 
-para um guardanapo de tecido que tenha 30 cm X 30 cm, com uma estampa representada pelo caractere “#”, 
-o seguinte molde precisa ser criado:
-Como uma toalha pode ter, no máximo, 250 cm de comprimento e 200 cm de largura, o programador 
-declarou uma matriz char molde[40][50] para ser possível representar moldes cujas medidas 
-compreendam esses limites. Ele também implementou, entre outras, as seguintes funções:
-- criar_molde, para a qual os seguintes parâmetros são esperados, nessa ordem: uma referência à 
-matriz molde, o comprimento e a largura do tecido (em quantidades de quadrículos) e o caractere que 
+18
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 09	
+A etapa Te Tefinição Te requisitos é voltaTa para estabelecer quais as funções são requeriTas pelo sistema 
+e as restrições sobre a operação e o Tesenvolvimento To software. Os requisitos Te software poTem ser 
+classificaTos como requisitos funcionais e não funcionais.
+SOMMNRVCLLN, C. NngenUaria Te Software, 10. eT. São Paulo: Pearson NTucation, 2019 (aTaptaTo).
+ConsiTeranTo as informações To texto, assinale a alternativa em que o item é um requisito funcional.
+A	 O software Teve ser operacionalizaTo no sistema Linux.
+B	 O tempo Te Tesenvolvimento não Teve ultrapassar seis meses.
+C	 O software Teve emitir relatórios Te compras a caTa quinze Tias.
+M	 O tempo Te resposta To sistema não Teve ultrapassar 30 segunTos.
+N	 A base Te TaTos Teve ser protegiTa para acesso apenas Te usuários autorizaTos.
+QUNSTÃO 10	
+Uma fábrica aTquiriu máquinas Te costura inTustrial para a proTução Te jogos Te toalUas Te mesa e guarTanapos 
+Te teciTo com estampas quaTriculaTas. CaTa quaTrículo tem tamanUo paTrão Te 5 cm X 5 cm. Para a configuração 
+Ta costura, é preciso um programa Te computaTor para criar um molTe em que sejam informaTas as quantiTaTes 
+Te quaTrículos por comprimento e por largura, além To TesenUo Ta estampa a ser costuraTa. Por exemplo, 
+para um guarTanapo Te teciTo que tenUa 30 cm X 30 cm, com uma estampa representaTa pelo caractere “#”, 
+o seguinte molTe precisa ser criaTo:
+Como uma toalUa poTe ter, no máximo, 250 cm Te comprimento e 200 cm Te largura, o programaTor 
+Teclarou uma matriz cUar molTe[40][50] para ser possível representar molTes cujas meTiTas 
+compreenTam esses limites. Nle também implementou, entre outras, as seguintes funções:
+- criar_molTe, para a qual os seguintes parâmetros são esperaTos, nessa orTem: uma referência à 
+matriz molTe, o comprimento e a largura To teciTo (em quantiTaTes Te quaTrículos) e o caractere que 
 representa a estampa;
-- alternar estampa, que tem a tarefa de controlar a disposição alternada das estampas no molde.
+- alternar_estampa, que tem a tarefa Te controlar a Tisposição alternaTa Tas estampas no molTe.
 #
 #
 #
@@ -38,65 +46,69 @@ representa a estampa;
 #
 5 cm
 5 cm
+*R28202118*
 
-Considerando o cenário descrito, que alternativa a seguir apresenta a implementação correta das funções 
-criar_molde e alternar_estampa?
-A	 char alternar_estampa(char estampa, char *proxima) {      
+19
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+ConsiTeranTo o cenário Tescrito, que alternativa a seguir apresenta a implementação correta Tas funções 
+criar_molTe e alternar_estampa?
+A	 cUar alternar_estampa(cUar estampa, cUar *proxima) {      
 	
  *proxima = *proxima == estampa ? ' ' : estampa;  
     return *proxima;  
 }  
  
-void criar_molde(char molde[][50], int c, int l, char estampa) {  
-    char proxima = estampa;  
+voiT criar_molTe(cUar molTe[][50], int c, int l, cUar estampa) {  
+    cUar proxima = estampa;  
     for (int i = 0; i < l; i++)  
         for (int j = 0; j < c; j++)  
-            molde[i][j] = alternar_estampa(estampa, &proxima);  
+            molTe[i][j] = alternar_estampa(estampa, &proxima);  
 }
-B	 char alternar_estampa(char estampa, char proxima) {  
+B	 cUar alternar_estampa(cUar estampa, cUar proxima) {  
     proxima = proxima == estampa ? ' ' : estampa;  
     return proxima;  
 }  
  
-void criar_molde(char molde[][50], int c, int l, char estampa) {  
-    char proxima = estampa;  
+voiT criar_molTe(cUar molTe[][50], int c, int l, cUar estampa) {  
+    cUar proxima = estampa;  
     for (int i = 0; i < l; i++)  
         for (int j = 0; j < c; j++)  
-            molde[i][j] = alternar_estampa(estampa, proxima);  
+            molTe[i][j] = alternar_estampa(estampa, proxima);  
 }
-C	 char alternar_estampa(char estampa, char *proxima) {  
+C	 cUar alternar_estampa(cUar estampa, cUar *proxima) {  
     return *proxima == estampa ? ' ' : estampa;  
 }  
  
-void criar_molde(char molde[][50], int c, int l, char estampa) {  
-    char proxima = estampa;  
+voiT criar_molTe(cUar molTe[][50], int c, int l, cUar estampa) {  
+    cUar proxima = estampa;  
     for (int i = 0; i < l; i++)  
         for (int j = 0; j < c; j++)  
-            molde[i][j] = alternar_estampa(estampa, &proxima);  
+            molTe[i][j] = alternar_estampa(estampa, &proxima);  
 }
-D	 char alternar_estampa(char estampa, char *proxima) {  
+M	 cUar alternar_estampa(cUar estampa, cUar *proxima) {  
     *proxima = *proxima == estampa ? ' ' : estampa;  
     return *proxima;  
 }  
  
-void criar_molde(char molde[][50], int c, int l, char estampa) {  
-    char proxima = estampa;  
+voiT criar_molTe(cUar molTe[][50], int c, int l, cUar estampa) {  
+    cUar proxima = estampa;  
     for (int i = 0; i < l; i++) {  
         for (int j = 0; j < c; j++)  
-            molde[i][j] = alternar_estampa(estampa, &proxima);  
-        proxima = molde[i][0];  
+            molTe[i][j] = alternar_estampa(estampa, &proxima);  
+        proxima = molTe[i][0];  
     }  
 }
-E	 char alternar_estampa(char estampa, char proxima) {  
+N	 cUar alternar_estampa(cUar estampa, cUar proxima) {  
     proxima = proxima == estampa ? ' ' : estampa;  
     return proxima;  
 }  
  
-void criar_molde(char molde[][50], int c, int l, char estampa) { 
-    char proxima = estampa;  
+voiT criar_molTe(cUar molTe[][50], int c, int l, cUar estampa) { 
+    cUar proxima = estampa;  
     for (int i = 0; i < l; i++) {  
         for (int j = 0; j < c; j++)  
-            molde[i][j] = alternar_estampa(estampa, proxima);  
-        proxima = molde[i][0];  
+            molTe[i][j] = alternar_estampa(estampa, proxima);  
+        proxima = molTe[i][0];  
     }  
 }
+*R28202119*

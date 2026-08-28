@@ -5,44 +5,17 @@
   "paginas": [
     21
   ],
-  "segmentos": [
-    {
-      "pagina": 21,
-      "x0": 25.0,
-      "y0": 336.6620788574219,
-      "x1": 555.56,
-      "y1": 719.28,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q32.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q32.txt",
   "largura": 2241,
   "altura": 1625,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 31  \nNa Sociologia da Educação, o currículo é considerado \num mecanismo por meio do qual a escola define o \nplano educativo para a consecução do projeto global \nde educação de uma sociedade, realizando, assim, sua \nfunção social. Considerando o currículo na perspectiva \ncrítica da Educação, avalie as afirmações a seguir.\nI. \nO currículo é um fenômeno escolar que se \ndesdobra em uma prática pedagógica expressa \npor determinações do contexto da escola.\nII. O currículo reflete uma proposta educacional que \ninclui o estabelecimento da relação entre o ensino \ne a pesquisa, na perspectiva do desenvolvimento \nprofissional docente.\nIII. O currículo é uma realidade objetiva que inviabiliza \nintervenções, uma vez que o conteúdo é condição \nlógica do ensino.\nIV. O currículo é a expressão da harmonia de valores \ndominantes inerentes ao processo educativo.\nÉ correto apenas o que se afirma em\nA   I.\nB   II.\nC   I e III.\nD   II e IV.\nE III e IV\nQUESTÃO 32  \nO fazer docente pressupõe a realização de um \nconjunto de operações didáticas coordenadas entre si. São \no planejamento, a direção do ensino e da aprendizagem e \na avaliação, cada uma delas desdobradas em tarefas ou \nfunções didáticas, mas que convergem para a realização \ndo ensino propriamente dito.\nLIBÂNEO, J. C. Didática. São Paulo: Cortez, 2004, p. 72.\nConsiderando que, para desenvolver cada operação \ndidática inerente ao ato de planejar, executar e avaliar, \no professor precisa dominar certos conhecimentos \ndidáticos, avalie quais afirmações abaixo se referem a \nconhecimentos e domínios esperados do professor.\nI. \nConhecimento dos conteúdos da disciplina que \nleciona, bem como capacidade de abordá-los de \nmodo contextualizado.\nII. Domínio das técnicas de elaboração de provas \nobjetivas, por se configurarem instrumentos \nquantitativos precisos e fidedignos.\nIII. Domínio de diferentes métodos e procedimentos \nde ensino e capacidade de escolhê-los conforme \na natureza dos temas a serem tratados e as \ncaracterísticas dos estudantes.\nIV. Domínio do conteúdo do livro didático adotado, \nque deve conter todos os conteúdos a serem \ntrabalhados durante o ano letivo.\nÉ correto apenas o que se afirma em\nA   I e II.\nB   I e III.\nC   II e III.\nD   II e IV.\nE III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 32,
-      "tipo": "OBJETIVA",
-      "pagina": 21,
-      "x": 302.347900390625,
-      "y": 348.6620788574219,
-      "x1": 371.4579162597656,
-      "y1": 362.5220947265625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 32"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209579"
+  "texto_completo": "LCCNNCCATURA\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n21\nQUNSTÃO 31  \nNa Sociologia Ta NTucação, o currículo é consiTeraTo \num mecanismo por meio To qual a escola Tefine o \nplano eTucativo para a consecução To projeto global \nTe eTucação Te uma socieTaTe, realizanTo, assim, sua \nfunção social. ConsiTeranTo o currículo na perspectiva \ncrítica Ta NTucação, avalie as afirmações a seguir.\nC. \nO currículo é um fenômeno escolar que se \nTesTobra em uma prática peTagógica expressa \npor Teterminações To contexto Ta escola.\nCC. O currículo reflete uma proposta eTucacional que \ninclui o estabelecimento Ta relação entre o ensino \ne a pesquisa, na perspectiva To Tesenvolvimento \nprofissional Tocente.\nCCC. O currículo é uma realiTaTe objetiva que inviabiliza \nintervenções, uma vez que o conteúTo é conTição \nlógica To ensino.\nCV. O currículo é a expressão Ta Uarmonia Te valores \nTominantes inerentes ao processo eTucativo.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CCC.\nM   CC e CV.\nN   CCC e CV. \nQUNSTÃO 32  \nO fazer Tocente pressupõe a realização Te um \nconjunto Te operações TiTáticas coorTenaTas entre si. São \no planejamento, a Tireção To ensino e Ta aprenTizagem e \na avaliação, caTa uma Telas TesTobraTas em tarefas ou \nfunções TiTáticas, mas que convergem para a realização \nTo ensino propriamente Tito.\nLCBÂNNO, J. C. MiTática. São Paulo: Cortez, 2004, p. 72.\nConsiTeranTo que, para Tesenvolver caTa operação \nTiTática inerente ao ato Te planejar, executar e avaliar, \no professor precisa Tominar certos conUecimentos \nTiTáticos, avalie quais afirmações abaixo se referem a \nconUecimentos e Tomínios esperaTos To professor.\nC. \nConUecimento Tos conteúTos Ta Tisciplina que \nleciona, bem como capaciTaTe Te aborTá-los Te \nmoTo contextualizaTo.\nCC. Momínio Tas técnicas Te elaboração Te provas \nobjetivas, por se configurarem instrumentos \nquantitativos precisos e fiTeTignos.\nCCC. Momínio Te Tiferentes métoTos e proceTimentos \nTe ensino e capaciTaTe Te escolUê-los conforme \na natureza Tos temas a serem trataTos e as \ncaracterísticas Tos estuTantes.\nCV. Momínio To conteúTo To livro TiTático aTotaTo, \nque Teve conter toTos os conteúTos a serem \ntrabalUaTos Turante o ano letivo.\nÉ correto apenas o que se afirma em\nA   C e CC.\nB   C e CCC.\nC   CC e CCC.\nM   CC e CV.\nN   CCC e CV.\nATNNÇÃO!\n1 - A seguir serão apresentaTas questões Te múltipla escolUa (objetivas) relativas ao Componente \nNspecífico Tos cursos Ta área Te Computação, assim TistribuíTas: \n2 - Você Teverá responTer APNNAS às questões referentes ao curso no qual você está inscrito, \nconforme consta no CaTerno Te Respostas.\n3 - Observe atentamente os números Tas questões Te múltipla escolUa corresponTentes ao curso \nno qual você está inscrito para assinalar corretamente no CaTerno Te Respostas. \nPrezaTo(a) estuTante,\nCursos\nNúmero Tas questões\nLicenciatura\n31 a 35\nCiência Ta Computação \n36 a 40\nNngenUaria Te Computação\n41 a 45\nSistemas Te Cnformação\n46 a 50\n*A13201121*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q32.png",
+  "caminho_json": "/questoes/2011_CCP/q32.json",
+  "caminho_txt": "/questoes/2011_CCP/q32.txt"
 }

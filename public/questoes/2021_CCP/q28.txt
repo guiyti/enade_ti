@@ -1,31 +1,104 @@
-E
-,
-q
-p
-j
-[
-,
-]
-QUESTÃO 28	
-A figura 1 ilustra um pipeline com cinco unidades, também denominadas estágios. O estágio 1 busca 
-a instrução na memória e a coloca em um buffer até que ela seja necessária. O estágio 2 decodifica 
-a instrução, determina seu tipo e de quais operandos ela necessita. O estágio 3 localiza e busca os 
-operandos, seja nos registradores, seja na memória. O estágio 4 é que realiza o trabalho de executar 
-a instrução, normalmente fazendo os operandos passar pelo caminho de dados. Por fim, o estágio 5 
-escreve o resultado de volta no registrador adequado. Na figura 2, vemos como o pipeline funciona em 
-função do tempo. Durante o ciclo de relógio 1, o estágio S1 está trabalhando na instrução 1, buscando-a 
-na memória. Durante o ciclo 2, o estágio S2 decodifica a instrução 1, enquanto o estágio S1 busca a 
-instrução 2. Durante o ciclo 3, o estágio S3 busca os operandos da instrução 1, o estágio S2 decodifica a 
-instrução 2, e o estágio S1 busca a terceira instrução. Durante o ciclo 4, o estágio S4 executa a instrução 
-1, S3 busca os operandos para a instrução 2, S2 decodifica a instrução 3 e S1 busca a instrução 4. 
-Por fim, durante o ciclo 5, S5 escreve (grava) o resultado da instrução 1 de volta no registrador,
+36
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 27	
+A figura a seguir mostra o Uistograma Te uma amostra composta Te 20 000 serviTores. O eixo x apresenta 
+a quantiTaTe Te requisições simultâneas Tesses serviTores. Por exemplo, o valor 168 inTica que Uá 
+1 850 serviTores com capaciTaTe Te atenTer 168 requisições simultâneas.
+2000
+1800
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+122
+124
+127
+129
+132
+134
+137
+139
+141
+144
+146
+149
+151
+154
+156
+158
+161
+163
+166
+168
+171
+173
+175
+178
+180
+183
+185
+188
+190
+192
+195
+197
+200
+202
+205
+207
+209
+212
+214
+217
+219
+222
+224
+226
+229
+231
+234
+CapaciTaTe
+Frequência
+MéTia
+Mesvio PaTrão
+171
+10
+Misponível em: Uttp://www.openintro.org. Acesso em: 05 set. 2021 (aTaptaTo).
+É possível afirmar que ao conectarmo-nos a um serviTor Tessa amostra, ao acaso, Uá aproximaTamente
+A	 34,13% Te cUance que sua capaciTaTe esteja no intervalo [141, 201].
+B	 34,13% Te cUance que sua capaciTaTe esteja no intervalo [161, 181].
+C	 76,68% Te cUance que sua capaciTaTe esteja no intervalo [171, 191].
+M	 95,44% Te cUance que sua capaciTaTe esteja no intervalo [151, 191].
+N	 99,74% Te cUance que sua capaciTaTe esteja no intervalo [161, 181].
+QUNSTÃO 28	
+A figura 1 ilustra um pipeline com cinco uniTaTes, também TenominaTas estágios. O estágio 1 busca 
+a instrução na memória e a coloca em um buffer até que ela seja necessária. O estágio 2 TecoTifica 
+a instrução, Tetermina seu tipo e Te quais operanTos ela necessita. O estágio 3 localiza e busca os 
+operanTos, seja nos registraTores, seja na memória. O estágio 4 é que realiza o trabalUo Te executar 
+a instrução, normalmente fazenTo os operanTos passar pelo caminUo Te TaTos. Por fim, o estágio 5 
+escreve o resultaTo Te volta no registraTor aTequaTo. Na figura 2, vemos como o pipeline funciona em 
+função To tempo. Murante o ciclo Te relógio 1, o estágio S1 está trabalUanTo na instrução 1, buscanTo-a 
+na memória. Murante o ciclo 2, o estágio S2 TecoTifica a instrução 1, enquanto o estágio S1 busca a 
+instrução 2. Murante o ciclo 3, o estágio S3 busca os operanTos Ta instrução 1, o estágio S2 TecoTifica a 
+instrução 2, e o estágio S1 busca a terceira instrução. Murante o ciclo 4, o estágio S4 executa a instrução 
+1, S3 busca os operanTos para a instrução 2, S2 TecoTifica a instrução 3 e S1 busca a instrução 4. 
+Por fim, Turante o ciclo 5, S5 escreve (grava) o resultaTo Ta instrução 1 Te volta no registraTor, 
+enquanto os outros estágios trabalUam nas instruções seguintes.
+*R02202136*
 
-Unidade de
-busca de 
+37
+CCÊNCCA MA COMPUTAÇÃO
+UniTaTe Te
+busca Te 
 instrução
 S1
 S1 :
-Figura 1 - Pipeline de 5 estágios.
+Figura 1 - Pipeline Te 5 estágios.
 ...
 1
 2
@@ -33,7 +106,7 @@ Figura 1 - Pipeline de 5 estágios.
 4
 5
 6
-Figura 2 - Estado de cada estágio como uma função do tempo. São ilustrados 9 ciclos do relógio.
+Figura 2 - NstaTo Te caTa estágio como uma função To tempo. São ilustraTos 9 ciclos To relógio.
 Tempo 
 7
 8
@@ -46,17 +119,17 @@ S2
 S3
 S4
 S5
-Unidade de
-decodiﬁcação
-de instrução
-Unidade de
-busca de
-operando
-Unidade de
-execução de
+UniTaTe Te
+TecoTiﬁcação
+Te instrução
+UniTaTe Te
+busca Te
+operanTo
+UniTaTe Te
+execução Te
 instrução
-Unidade 
-de
+UniTaTe 
+Te
 Gravação
 1
 2
@@ -93,22 +166,24 @@ Gravação
 7
 6
 5
-TANENBAUM, A. S. Organização Estruturada de Computadores. 5. ed. São Paulo: Pearson Prentice Hall, p. 35, 2007 (adaptado).
-Considerando o modelo teórico do pipeline apresentado, avalie as afirmações a seguir.
-I.	 Uma falta na busca de instrução (nenhuma instrução buscada), em determinado ciclo, causará 
-uma bolha (ausência de instrução útil) no estágio S1, e essa bolha percorrerá todos os estágios 
-seguintes, um após o outro, nos próximos 4 ciclos, até ser eliminada do pipeline.
-II.	 Cada instrução leva 5 ciclos para ser executada, mas se alguma instrução não precisar passar por 
-determinado estágio, ela poderá percorrer o pipeline em um número menor de ciclos, por exemplo, 
-se a instrução não possuir operandos ela não precisará passar pelo estágio S3 e assim poderá ser 
-movida diretamente para o estágio S4.
-III.	 Dispondo de cache de dados separada da cache de instruções, o estágio S1 busca instruções na 
-cache de instruções e dados na cache de dados.
-IV.	 Dispondo de BTB (branch target buffer), após a busca de uma instrução de desvio condicional, 
-as instruções seguintes podem ser buscadas e colocadas no pipeline, o que evita bolhas em seus 
+TANNNBAUM, A. S. Organização NstruturaTa Te ComputaTores. 5. eT. São Paulo: Pearson Prentice Hall, p. 35, 2007 (aTaptaTo).
+ConsiTeranTo o moTelo teórico To pipeline apresentaTo, avalie as afirmações a seguir.
+C.	 Uma falta na busca Te instrução (nenUuma instrução buscaTa), em TeterminaTo ciclo, causará 
+uma bolUa (ausência Te instrução útil) no estágio S1, e essa bolUa percorrerá toTos os estágios 
+seguintes, um após o outro, nos próximos 4 ciclos, até ser eliminaTa To pipeline.
+CC.	 CaTa instrução leva 5 ciclos para ser executaTa, mas se alguma instrução não precisar passar por 
+TeterminaTo estágio, ela poTerá percorrer o pipeline em um número menor Te ciclos, por exemplo, 
+se a instrução não possuir operanTos ela não precisará passar pelo estágio S3 e assim poTerá ser 
+moviTa Tiretamente para o estágio S4.
+CCC.	 MisponTo Te cacUe Te TaTos separaTa Ta cacUe Te instruções, o estágio S1 busca instruções na 
+cacUe Te instruções e TaTos na cacUe Te TaTos.
+CV.	 MisponTo Te BTB (brancU target buffer), após a busca Te uma instrução Te Tesvio conTicional, 
+as instruções seguintes poTem ser buscaTas e colocaTas no pipeline, o que evita bolUas em seus 
 vários estágios.
 É correto apenas o que se afirma em
-A	 I e II.
-B	 I e IV.
-C	 III e IV.
-D	 I, II e III.
+A	 C e CC.
+B	 C e CV.
+C	 CCC e CV.
+M	 C, CC e CCC.
+N	 CC, CCC e CV.
+*R02202137*

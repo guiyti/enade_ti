@@ -1,29 +1,32 @@
-QUESTÃO 16
-K ƐĞŐƵŝŶƚĞ ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞ ƌĞƉƌĞƐĞŶƚĂ Ă ŵŽĚĞůĂŐĞŵ ĚĞ Ƶŵ ƐĞƌǀŝĕŽ ĚĞ ƚƌĂŶƐĨĞƌġŶĐŝĂ ĚĞ ŵĂƚĞƌŝĂŝƐ ĞŶƚƌĞ 
-ĨƵŶĐŝŽŶĄƌŝŽƐ ĚĞ ƵŵĂ ĞŵƉƌĞƐĂ͘
-IŽŶƐŝĚĞƌĂŶĚŽ Ž ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞ ĂƉƌĞƐĞŶƚĂĚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘     ĐůĂƐƐĞ &ƵŶĐŝŽŶĂƌŝŽ Ġ ĂďƐƚƌĂƚĂ͘
-//͘   hŵĂ ZĞƋƵŝƐŝĐĂŽdƌĂŶƐĨĞƌĞŶĐŝĂ Ɛſ ĞǆŝƐƚĞ ƐĞ ĞƐƟǀĞƌ ǀŝŶĐƵůĂĚĂ Ă Ƶŵ DĂƚĞƌŝĂů͘
-///͘     ĐůĂƐƐĞ &ƵŶĐŝŽŶĂƌŝŽ͕  Ğŵ ƌĂǌĆŽ ĚĞ ƐƵĂ ĂƐƐŽĐŝĂĕĆŽ͕  ƉŽƐƐƵŝ Ƶŵ ĂƚƌŝďƵƚŽ ĚŽ ƟƉŽ ZĞƋƵŝƐŝĐĂŽdƌĂŶƐĨĞƌĞŶĐŝĂ͘
-/s͘   Eŵ ƵŵĂ ŝŵƉůĞŵĞŶƚĂĕĆŽ ĚĂ ĐůĂƐƐĞ ZĞƋƵŝƐŝĐĂŽdƌĂŶƐĨĞƌĞŶĐŝĂ͕  Ġ ŶĞĐĞƐƐĄƌŝŽ ĂĚŝĐŝŽŶĂƌ Ƶŵ ĂƚƌŝďƵƚŽ 
-ƐŝŵƉůĞƐ ĚŽ ƟƉŽ DĂƚĞƌŝĂů͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  //͕  ĂƉĞŶĂƐ͘
-B  / Ğ //͕  ĂƉĞŶĂƐ͘
-C  /// Ğ /s͕  ĂƉĞŶĂƐ͘
-D  /͕  /// Ğ /s͕  ĂƉĞŶĂƐ͘
-E  /͕  //͕  /// Ğ /s͘
-ƌĞĂ ůŝǀƌĞ
+22
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 16
+O seguinte Tiagrama Te classe representa a moTelagem Te um serviço Te transfergncia Te materiais entre 
+funcionArios Te uma empresa.
+ConsiTeranTo o Tiagrama Te classe apresentaTo,  avalie as afrmações a seguir.
+/.     classe &uncionario é abstrata.
+//.   Uma ZequisicaoTransferencia so existe se estiver vinculaTa a um Material.
+///.     classe &uncionario,  em razão Te sua associação,  possui um atributo To tipo ZequisicaoTransferencia.
+/s.   Nm uma implementação Ta classe ZequisicaoTransferencia,  é necessArio aTicionar um atributo 
+simples To tipo Material.
+ correto o que se afrma em
+A  //,  apenas.
+B  / e //,  apenas.
+C  /// e /s,  apenas.
+M  /,  /// e /s,  apenas.
+N  /,  //,  /// e /s.
+Area livre
 Funcionario
 - nome: string
 RequisicaoTransferencia
-- dataRequisicao: date
+- TataRequisicao: Tate
 Material
-- descricao: string
-- preco: double
-- destino
+- Tescricao: string
+- preco: Touble
+- Testino
 - origem
 - material
+*R41201722*
 0..1
 1..*
 1

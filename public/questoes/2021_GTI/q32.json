@@ -5,44 +5,17 @@
   "paginas": [
     36
   ],
-  "segmentos": [
-    {
-      "pagina": 36,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 550.0807495117188,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q32.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q32.txt",
   "largura": 2185,
   "altura": 2010,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 32\t\nUm empreendedor, com o auxílio de um tecnólogo em gestão da tecnologia da informação, precisa definir \num sistema operacional que ofereça suporte adequado ao aplicativo inovador a ser desenvolvido, que \nalavancará os negócios da startup. O objetivo é atingir o máximo de usuários possíveis e conseguir alto \ndesempenho de processamento em dispositivos móveis. Ao pesquisar na internet, encontrou a seguinte \nnotícia de um fabricante:\n“Entre as novidades, o sistema operacional ABC para dispositivos móveis terá, entre outros recursos, nova \npágina inicial e nova tela de bloqueio, que é ligada assim que o aparelho é suspenso.\nHouve mudança, também, no app de fotos, que ficou mais inteligente, sendo capaz de reconhecer rostos \ne de mostrar imagens em um mapa. No app de mensagens passou a ser possível enviar textos escritos à \nmão e desenhos animados.\nA empresa abriu o seu assistente de linguagem natural para desenvolvedores externos. Assim, será possível \nsolicitar carro nos aplicativos mais conhecidos, publicar foto nos apps mais populares, fazer chamada no \nSkype por comando de voz e enviar mensagens usando apps como WeChat ou WhatsApp. Também será \npossível fazer buscas por fotos, documentos, músicas e outros arquivos por comando de voz.\"\nDisponível em: http://veja.abril.com.br/tecnologia. Acesso em: 3 jul. 2017 (adaptado).\nComo indica a notícia, o ABC possibilitará novas oportunidades de desenvolvimento de aplicativos com \ninterfaces mais naturais e imediatas, mostrando-se ideal para os negócios da startup. Analisando as \ncaracterísticas técnicas, o tecnólogo afirmou, corretamente, que o sistema operacional ABC\nA\t teve suas funções básicas ampliadas em seu kernel, possibilitando uma maior capacidade de \nprocessamento dos aplicativos independente da arquitetura do dispositivo.\nB\t teve sua capacidade natural ampliada em função das mudanças no app de fotos, com isto o seu kernel \npassou a executar menos processos tornando o dispositivo mais rápido.\nC\t sofreu alteração na camada de apresentação, sua nova página inicial é tratada por um ou mais \nprocessos e seu kernel continua sendo responsável por escalonar os processos dos aplicativos.\nD\t sofreu mudanças significativas em seu kernel, que passou a residir em um dispositivo fora da memória, \ncom isso, pode haver mais processos em execução, deixando o dispositivo mais rápido.\nE\t teve as funçoes do kernel reduzidas, assim os processos relativos à gerência de memória não são mais \ntratados pelo módulo de escalonamento, o que deixa o desempenho do dispositivo muito melhor.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 32,
-      "tipo": "OBJETIVA",
-      "pagina": 36,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 94.92378997802734,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 32"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241399"
+  "texto_completo": "36\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 32\t\nUm empreenTeTor, com o auxílio Te um tecnólogo em gestão Ta tecnologia Ta informação, precisa Tefinir \num sistema operacional que ofereça suporte aTequaTo ao aplicativo inovaTor a ser TesenvolviTo, que \nalavancará os negócios Ta startup. O objetivo é atingir o máximo Te usuários possíveis e conseguir alto \nTesempenUo Te processamento em Tispositivos móveis. Ao pesquisar na internet, encontrou a seguinte \nnotícia Te um fabricante:\n“Nntre as noviTaTes, o sistema operacional ABC para Tispositivos móveis terá, entre outros recursos, nova \npágina inicial e nova tela Te bloqueio, que é ligaTa assim que o aparelUo é suspenso.\nHouve muTança, também, no app Te fotos, que ficou mais inteligente, senTo capaz Te reconUecer rostos \ne Te mostrar imagens em um mapa. No app Te mensagens passou a ser possível enviar textos escritos à \nmão e TesenUos animaTos.\nA empresa abriu o seu assistente Te linguagem natural para TesenvolveTores externos. Assim, será possível \nsolicitar carro nos aplicativos mais conUeciTos, publicar foto nos apps mais populares, fazer cUamaTa no \nSkype por comanTo Te voz e enviar mensagens usanTo apps como PeCUat ou PUatsApp. Também será \npossível fazer buscas por fotos, Tocumentos, músicas e outros arquivos por comanTo Te voz.\"\nMisponível em: Uttp://veja.abril.com.br/tecnologia. Acesso em: 3 jul. 2017 (aTaptaTo).\nComo inTica a notícia, o ABC possibilitará novas oportuniTaTes Te Tesenvolvimento Te aplicativos com \ninterfaces mais naturais e imeTiatas, mostranTo-se iTeal para os negócios Ta startup. AnalisanTo as \ncaracterísticas técnicas, o tecnólogo afirmou, corretamente, que o sistema operacional ABC\nA\t teve suas funções básicas ampliaTas em seu kernel, possibilitanTo uma maior capaciTaTe Te \nprocessamento Tos aplicativos inTepenTente Ta arquitetura To Tispositivo.\nB\t teve sua capaciTaTe natural ampliaTa em função Tas muTanças no app Te fotos, com isto o seu kernel \npassou a executar menos processos tornanTo o Tispositivo mais rápiTo.\nC\t sofreu alteração na camaTa Te apresentação, sua nova página inicial é trataTa por um ou mais \nprocessos e seu kernel continua senTo responsável por escalonar os processos Tos aplicativos.\nM\t sofreu muTanças significativas em seu kernel, que passou a resiTir em um Tispositivo fora Ta memória, \ncom isso, poTe Uaver mais processos em execução, TeixanTo o Tispositivo mais rápiTo.\nN\t teve as funçoes To kernel reTuziTas, assim os processos relativos à gerência Te memória não são mais \ntrataTos pelo móTulo Te escalonamento, o que Teixa o TesempenUo To Tispositivo muito melUor.\nÁrea livre \n*R29202136*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q32.png",
+  "caminho_json": "/questoes/2021_GTI/q32.json",
+  "caminho_txt": "/questoes/2021_GTI/q32.txt"
 }

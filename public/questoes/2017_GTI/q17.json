@@ -5,44 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_GTI/q17.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/q17.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 17\nWŽĚĞͲƐĞ ĚĞĮŶŝƌ ůŝĚĞƌĂŶĕĂ ĐŽŵŽ Ă ĐĂƉĂĐŝĚĂĚĞ ĚĞ ŝŶŇƵĞŶĐŝĂƌ Ƶŵ ŐƌƵƉŽ ƉĂƌĂ ĂůĐĂŶĕĂƌ ŵĞƚĂƐ͘    ŽƌŝŐĞŵ \nĚĞƐƐĂ ŝŶŇƵġŶĐŝĂ ƉŽĚĞ ƐĞƌ ĨŽƌŵĂů͕  ĐŽŵŽ Ă ƋƵĞ Ġ ĐŽŶĨĞƌŝĚĂ ƉŽƌ Ƶŵ ĂůƚŽ ĐĂƌŐŽ ŶĂ ŽƌŐĂŶŝǌĂĕĆŽ͘  IŽŵŽ ĞƐƐĂƐ \nƉŽƐŝĕƁĞƐ ƌĞŵĞƚĞŵ Ă Ƶŵ ĐĞƌƚŽ ŐƌĂƵ ĚĞ ĂƵƚŽƌŝĚĂĚĞ͕  ƵŵĂ ƉĞƐƐŽĂ ƉŽĚĞ ĂƐƐƵŵŝƌ Ƶŵ ƉĂƉĞů ĚĞ ůŝĚĞƌĂŶĕĂ ĂƉĞŶĂƐ \nĞŵ ĨƵŶĕĆŽ ĚŽ ĐĂƌŐŽ ƋƵĞ ŽĐƵƉĂ͘  EĞŵ ƚŽĚŽƐ ŽƐ ůşĚĞƌĞƐ ƐĆŽ ĂĚŵŝŶŝƐƚƌĂĚŽƌĞƐ Ğ ŶĞŵ ƚŽĚŽƐ ŽƐ ĞǆĞĐƵƟǀŽƐ \nƐĆŽ ůşĚĞƌĞƐ͘  K ĨĂƚŽ ĚĞ Ă ŽƌŐĂŶŝǌĂĕĆŽ ĐŽŶĨĞƌŝƌ Ă ƐĞƵƐ ĞǆĞĐƵƟǀŽƐ ĂůŐƵŶƐ ĚŝƌĞŝƚŽƐ ĨŽƌŵĂŝƐ ŶĆŽ ůŚĞƐ ĂƐƐĞŐƵƌĂ \nĂ ĐĂƉĂĐŝĚĂĚĞ ĚĞ ůŝĚĞƌĂŶĕĂ ĞĮĐĂǌ͘    ůŝĚĞƌĂŶĕĂ ŶĆŽ ƐĂŶĐŝŽŶĂĚĂ ͷ ĂƋƵĞůĂ ĐĂƉĂǌ ĚĞ ŝŶŇƵĞŶĐŝĂƌ ŽƐ ŽƵƚƌŽƐ͕  \nƋƵĞ ĞŵĞƌŐĞ ĨŽƌĂ ĚĂ ĞƐƚƌƵƚƵƌĂ ĨŽƌŵĂů ĚĂ ŽƌŐĂŶŝǌĂĕĆŽ ͷ ŐĞƌĂůŵĞŶƚĞ Ġ ƚĆŽ ŝŵƉŽƌƚĂŶƚĞ ƋƵĂŶƚŽ Ă ŝŶŇƵġŶĐŝĂ \nĨŽƌŵĂů͕  ŽƵ ĂƚĠ ŵĂŝƐ͘  Eŵ ŽƵƚƌĂƐ ƉĂůĂǀƌĂƐ͕  ŽƐ ůşĚĞƌĞƐ ƉŽĚĞŵ ƐƵƌŐŝƌ ŶĂƚƵƌĂůŵĞŶƚĞ ĚĞŶƚƌŽ ĚĞ Ƶŵ ŐƌƵƉŽ ŽƵ ƉŽƌ \nŝŶĚŝĐĂĕĆŽ ĨŽƌŵĂů͘  EĞƐƐĞ ƐĞŶƟĚŽ͕  ƵŵĂ ĚĂƐ ŚĂďŝůŝĚĂĚĞƐ ŝŶƚĞƌƉĞƐƐŽĂŝƐ ĐƵũŽ ǀĂůŽƌ Ġ ĂůƚŽ ƉĂƌĂ ĂƐ ŽƌŐĂŶŝǌĂĕƁĞƐ \nĠ Ă ůŝĚĞƌĂŶĕĂ͘\nZK\u0011\u0011/E^͕  ^͘  W͘ IŽŵƉŽƌƚĂŵĞŶƚŽ ŽƌŐĂŶŝǌĂĐŝŽŶĂů͘  11͘  ĞĚ͘  ^ĆŽ WĂƵůŽ͗  WƌĞŶƟĐĞ ,Ăůů͕  2009 ;ĂĚĂƉƚĂĚŽͿ͘\nIŽŶƐŝĚĞƌĂŶĚŽ ĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ Ğŵ ƋƵĞ ƐĞ ĐĂƌĂĐƚĞƌŝǌĂ ĐŽƌƌĞƚĂŵĞŶƚĞ Ă ůŝĚĞƌĂŶĕĂ ŶĂ \nĄƌĞĂ ĚĞ ƉƌŽũĞƚŽƐ͘\nA  'ĞƐƚŽƌĞƐ ĚĞ ƉƌŽũĞƚŽƐ ĚĞǀĞŵ ƉƌĞǌĂƌ ƉĞůŽ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ĚĂƐ ŚĂďŝůŝĚĂĚĞƐ ŝŶƚĞƌƉĞƐƐŽĂŝƐ ĚŽƐ ŵĞŵďƌŽƐ \nĚĞ ƐĞƵ ŐƌƵƉŽ͕  ĐŽŵŽ Ă ůŝĚĞƌĂŶĕĂ Ğ Ž ƚƌĂďĂůŚŽ Ğŵ ĞƋƵŝƉĞ͕  ĞƐƐĞŶĐŝĂŝƐ ƉĂƌĂ Ž ƐƵĐĞƐƐŽ ĚŽƐ ƉƌŽũĞƚŽƐ Ğ Ž \nĂůĐĂŶĐĞ ĚŽƐ ŽďũĞƟǀŽƐ ĞƐƚƌĂƚĠŐŝĐŽƐ͘\nB  >şĚĞƌĞƐ ĐŽŵ ƉĞƌĮƐ ŵĂŝƐ ĂƵƚŽĐƌĄƟĐŽƐ ƚġŵ ŵĂŝŽƌ ĐŚĂŶĐĞ ĚĞ ƐƵĐĞƐƐŽ ŶŽ ŐĞƌĞŶĐŝĂŵĞŶƚŽ ĚĞ ƉƌŽũĞƚŽƐ͕  \nǀŝƐƚŽ ƋƵĞ ĞƐƐĂ Ġ ƵŵĂ ĂƟǀŝĚĂĚĞ ĨƵŶĚĂŵĞŶƚĂů ƉĂƌĂ ƋƵĞ ŽƐ ŽďũĞƟǀŽƐ ĞƐƚƌĂƚĠŐŝĐŽƐ ĚĂƐ ŽƌŐĂŶŝǌĂĕƁĞƐ ƐĞũĂŵ \nĂůĐĂŶĕĂĚŽƐ͘\nC  >şĚĞƌĞƐ ĚĞǀĞŵ ŵĂŶƚĞƌ Ž status quo͕  ƉŽŝƐ ƐƵĂ ƉŽƐŝĕĆŽ Ġ ƌĞƐƵůƚĂĚŽ ĚĞ ƵŵĂ ĞƐĐŽůŚĂ ĚĂ ĂĚŵŝŶŝƐƚƌĂĕĆŽ \nƋƵĞ ĞůĞ ĚĞǀĞ ƌĞƉƌĞƐĞŶƚĂƌ͕  ĐĂďĞŶĚŽͲůŚĞƐ ĨĂǌĞƌ ĐŽŵ ƋƵĞ ŽƐ ŽďũĞƟǀŽƐ ĞƐƚƌĂƚĠŐŝĐŽƐ ƐĞũĂŵ ĂůĐĂŶĕĂĚŽƐ \nĞ ŽƐ ƉƌŽũĞƚŽƐ ƐĞũĂŵ ĞŶƚƌĞŐƵĞƐ ŶŽ ƉƌĂǌŽ͕  ĚĞŶƚƌŽ ĚŽ ĞƐĐŽƉŽ ƉůĂŶĞũĂĚŽ Ğ ƌĞƐƉĞŝƚĂŶĚŽ ĂƐ ĞƐƟŵĂƟǀĂƐ \nŽƌĕĂŵĞŶƚĄƌŝĂƐ͘\nD  >şĚĞƌĞƐ  ĚĞ  ƉƌŽũĞƚŽƐ  ĚĞǀĞŵ  ƚĞƌ  ĐŽŵŽ  ĐĂƌĂĐƚĞƌşƐƟĐĂƐ  ƉĞƐƐŽĂŝƐ  ĚĞƚĞƌŵŝŶĂĕĆŽ͕   ĐŽŶĮĂŶĕĂ  Ğ  ǀŽŶƚĂĚĞ͕  \nƐĞŶĚŽͲůŚĞƐ ĚŝƐƉĞŶƐĄǀĞŝƐ ĂƐ ŚĂďŝůŝĚĂĚĞƐ ƚĠĐŶŝĐĂƐ͕  ƉŽŝƐ ĞůĂƐ ƉŽĚĞŵ ƐĞƌ ĚĞƐĞŵƉĞŶŚĂĚĂƐ ƉĞůŽƐ ŵĞŵďƌŽƐ \nĚĂ ĞƋƵŝƉĞ͘\nE WƌŽĮƐƐŝŽŶĂŝƐ ĚŽ ƟƉŽ ŝŶƚƌŽƐƉĞĐƟǀŽ ƐĆŽ ŝŶĂĚĞƋƵĂĚŽƐ ƉĂƌĂ ĨƵŶĕƁĞƐ ĚĞ ůŝĚĞƌĂŶĕĂ͕  ƉŽŝƐ ĂƐ ƚĞŽƌŝĂƐ ŵŽĚĞƌŶĂƐ \nĚĞ ŐĞƌĞŶĐŝĂŵĞŶƚŽ ĚĞ ƉƌŽũĞƚŽƐ ĐŽŶƐŝĚĞƌĂŵ Ă ĐŽŵƵŶŝĐĂĕĆŽ ĐŽŵŽ Ƶŵ ĚŽƐ ƉƌŝŶĐŝƉĂŝƐ ƉĂƉĠŝƐ ĚŽ ůşĚĞƌ͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 17,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 60.038299560546875,
-      "y": 88.699951171875,
-      "x1": 122.4911117553711,
-      "y1": 100.699951171875,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 17"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:16.379487"
+  "texto_completo": "20\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 17\nPoTe-se Tefnir liTerança como a capaciTaTe Te inŇuenciar um grupo para alcançar metas.    origem \nTessa inŇugncia poTe ser formal,  como a que é conferiTa por um alto cargo na organização.  Como essas \nposições remetem a um certo grau Te autoriTaTe,  uma pessoa poTe assumir um papel Te liTerança apenas \nem função To cargo que ocupa.  Nem toTos os líTeres são aTministraTores e nem toTos os executivos \nsão líTeres.  O fato Te a organização conferir a seus executivos alguns Tireitos formais não lUes assegura \na capaciTaTe Te liTerança efcaz.    liTerança não sancionaTa ͷ aquela capaz Te inŇuenciar os outros,  \nque emerge fora Ta estrutura formal Ta organização ͷ geralmente é tão importante quanto a inŇugncia \nformal,  ou até mais.  Nm outras palavras,  os líTeres poTem surgir naturalmente Tentro Te um grupo ou por \ninTicação formal.  Nesse sentiTo,  uma Tas UabiliTaTes interpessoais cuũo valor é alto para as organizações \né a liTerança.\nZOBB/NS,  S.  P. Comportamento organizacional.  11.  eT.  São Paulo:  Prentice ,all,  2009 (aTaptaTo).\nConsiTeranTo essas informações,  assinale a opção em que se caracteriza corretamente a liTerança na \nArea Te proũetos.\nA  'estores Te proũetos Tevem prezar pelo Tesenvolvimento Tas UabiliTaTes interpessoais Tos membros \nTe seu grupo,  como a liTerança e o trabalUo em equipe,  essenciais para o sucesso Tos proũetos e o \nalcance Tos obũetivos estratégicos.\nB  >íTeres com perfs mais autocrAticos tgm maior cUance Te sucesso no gerenciamento Te proũetos,  \nvisto que essa é uma ativiTaTe funTamental para que os obũetivos estratégicos Tas organizações seũam \nalcançaTos.\nC  >íTeres Tevem manter o status quo,  pois sua posição é resultaTo Te uma escolUa Ta aTministração \nque ele Teve representar,  cabenTo-lUes fazer com que os obũetivos estratégicos seũam alcançaTos \ne os proũetos seũam entregues no prazo,  Tentro To escopo planeũaTo e respeitanTo as estimativas \norçamentArias.\nM  >íTeres  Te  proũetos  Tevem  ter  como  características  pessoais  Teterminação,   confança  e  vontaTe,  \nsenTo-lUes TispensAveis as UabiliTaTes técnicas,  pois elas poTem ser TesempenUaTas pelos membros \nTa equipe.\nN Profssionais To tipo introspectivo são inaTequaTos para funções Te liTerança,  pois as teorias moTernas \nTe gerenciamento Te proũetos consiTeram a comunicação como um Tos principais papéis To líTer.\nArea livre\n*R43201720*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_GTI/q17.png",
+  "caminho_json": "/questoes/2017_GTI/q17.json",
+  "caminho_txt": "/questoes/2017_GTI/q17.txt"
 }

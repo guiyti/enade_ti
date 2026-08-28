@@ -1,26 +1,160 @@
-QUESTÃO 19
-ZĞƋƵŝƐŝƚŽƐ ĨƵŶĐŝŽŶĂŝƐ Ğ ŶĆŽ ĨƵŶĐŝŽŶĂŝƐ ƉŽĚĞŵ ĚĞĮŶŝƌ 
-ĐĂƌĂĐƚĞƌşƐƟĐĂƐ  Ğ  ĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ  ƉƌĞƐĞŶƚĞƐ  ŶĂ 
-ŝŶƚĞƌĨĂĐĞ Ă ƐĞƌ ĚĞƐĞŶǀŽůǀŝĚĂ ƉĂƌĂ Ƶŵ ƐŝƐƚĞŵĂ͘  
-Eŵ  ƌĞůĂĕĆŽ  ĂŽƐ  ƌĞƋƵŝƐŝƚŽƐ  ŶĆŽ  ĨƵŶĐŝŽŶĂŝƐ͕   ƚĂŵďĠŵ 
-ĐŚĂŵĂĚŽƐ  ĚĞ  ƌĞƋƵŝƐŝƚŽƐ  ĚĞ  ƋƵĂůŝĚĂĚĞ͕   ĂǀĂůŝĞ  ĂƐ 
-ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   ^ĆŽ ůĞǀĂŶƚĂĚŽƐ Ğ ĞůŝĐŝƚĂĚŽƐ ĂƉſƐ ŽƐ ƌĞƋƵŝƐŝƚŽƐ 
-ĨƵŶĐŝŽŶĂŝƐ͕   ƵŵĂ  ǀĞǌ  ƋƵĞ  ŽƐ  ƌĞƋƵŝƐŝƚŽƐ 
-ĨƵŶĐŝŽŶĂŝƐ  ĚĞƚĞƌŵŝŶĂƌĆŽ  ĂƐ  ĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ 
-ĚĂ ŝŶƚĞƌĨĂĐĞ͘
-//͘   ^ĞŵƉƌĞ  ƐĞƌĆŽ  ĚĞĮŶŝĚŽƐ  ĚĞ  ĨŽƌŵĂ  ŵĂŝƐ 
-ĐŽŶĐƌĞƚĂ͕   ĂƚƌĂǀĠƐ  ĚĞ  ƌĞƋƵŝƐŝƚŽƐ  ĨƵŶĐŝŽŶĂŝƐ͕  
-ƵŵĂ ǀĞǌ ƋƵĞ Ž ƵƐƵĄƌŝŽ ŵĂŶŝƉƵůĂ ŶĂ ŝŶƚĞƌĨĂĐĞ 
-ƐŽŵĞŶƚĞ ĂƐ ĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ ůĞǀĂŶƚĂĚĂƐ͘
-///͘   WŽĚĞŵ 
-ĐŽŵƉůĞŵĞŶƚĂƌ 
-ŽƐ 
-ƌĞƋƵŝƐŝƚŽƐ 
-ĨƵŶĐŝŽŶĂŝƐ͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A //͕  ĂƉĞŶĂƐ͘
-B ///͕  ĂƉĞŶĂƐ͘
-C / Ğ //͕  ĂƉĞŶĂƐ͘
-D / Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+18
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 18
+Nos  anos  70,   os  sistemas  executavam  em 
+mainframes com aplicativos escritos em linguagens 
+estruturaTas  e  com  toTas  as  funcionaliTaTes  em 
+um  unico  moTulo,   com  granTe  quantiTaTe  Te 
+linUas Te coTigo.   cessos a bancos Te TaTos não 
+relacionais,   regras  Te  negocios  e  tratamento  Te 
+telas  para  terminais " burros"   fcavam  no  mesmo 
+programa.  
+Posteriormente,  
+uma 
+importante 
+muTança  ocorreu:   a  substituição  Tos  terminais "
+burros"   por  microcomputaTores,   permitinTo 
+que toTo o tratamento Ta interface,  e Te algumas 
+regras  Te  negocios,   passassem  a  ser  feitas  nas 
+estações  clientes.   Surgiam  as  aplicações  cliente-
+serviTor.    partir Tos anos 90,  até os Tias atuais,  
+as  muTanças  foram  mais  raTicais,   os  bancos  Te 
+TaTos  passaram  a  ser  relacionais  e  TistribuíTos.  
+ s linguagens passaram a ser orientaTas a obũetos,  
+cuũa  moTelagem  encapsula  TaTos  e  oferece 
+funcionaliTaTes  através  Te  métoTos.      interface 
+passou a ser web.  sive-se a era Tas aplicações em 
+trgs camaTas.
+ConsiTeranTo a evolução Ta arquitetura Te soŌǁare
+Te sistemas Te informação,  conforme citaTo no texto 
+acima,  avalie as seguintes afrmações.
+/.      separação  Tos  sistemas  em  trgs  camaTas 
+logicas  torna  os  sistemas  mais  complexos,  
+requerenTo pessoal mais especializaTo.
+//.      separação  Tos  sistemas  em  trgs  camaTas 
+logicas  torna  os  sistemas  mais  Ňexíveis,  
+permitinTo que as partes possam ser alteraTas 
+Te forma inTepenTente.
+///.      separação  Tos  sistemas  em  trgs  camaTas 
+logicas aumentou o acoplamento,  TifcultanTo 
+a manutenção.
+ correto o que se afrma em
+A //,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M / e ///,  apenas.
+N /,  // e ///.
+QUNSTÃO 19
+Zequisitos funcionais e não funcionais poTem Tefnir 
+características  e  funcionaliTaTes  presentes  na 
+interface a ser TesenvolviTa para um sistema.  
+Nm  relação  aos  requisitos  não  funcionais,   também 
+cUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as 
+afrmações a seguir.
+/.   São levantaTos e elicitaTos apos os requisitos 
+funcionais,   uma  vez  que  os  requisitos 
+funcionais  Teterminarão  as  funcionaliTaTes 
+Ta interface.
+//.   Sempre  serão  TefniTos  Te  forma  mais 
+concreta,   através  Te  requisitos  funcionais,  
+uma vez que o usuArio manipula na interface 
+somente as funcionaliTaTes levantaTas.
+///.   PoTem 
+complementar 
+os 
+requisitos 
+funcionais.
+ correto o que se afrma em
+A //,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M / e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R40201418*
+
+19
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 20
+Nxistem vArias maneiras Te se percorrer uma Arvore 
+binAria.      função  a  seguir,   escrita  em  pseuTo-
+coTigo,   percorre  uma  Arvore  na  orTem  esquerTa-
+raiz-Tireita,  conUeciTa por varreTura e-r-T recursiva.  
+   função  erT()  recebe  por  parametro  a  raiz  r
+Te uma Arvore,  e faz uso Te seus elementos esq,  
+Tir e cont,   que  representam,   respectivamente,  
+ponteiros para uma sub-Arvore a esquerTa Te r,  
+uma sub-Arvore a Tireita Te r e o conteuTo Te r,  
+respectivamente.
+função erT (árvore r)
+{
+ se ( r != NULO )
+ {
+ erT( r -> esq );
+ escreva ( r-> conteúTo );
+ erT( r -> Tir );
+ }
+}
+ConsiTere a Arvore binAria a seguir.
+5
+3
+0
+1
+7
+2
+8
+   sequgncia  correta  Te  exibição  To  conteuTo  Ta 
+Arvore utilizanTo a função erT() é
+A 5,  3,  8,  0,  1,  7,  2
+B 0,  1,  7,  2,  3,  8,  5
+C 0,  3,  5,  1,  7,  8,  2
+M 0,  3,  1,  5,  7,  8,  2
+N 2,  7,  8,  5,  0,  3,  1
+QUNSTÃO 21
+O  moTelo  logico  Te  TaTos  fornece  uma  visão  Ta 
+maneira como os TaTos serão armazenaTos.    fgura 
+a seguir representa o moTelo logico Te um ambiente 
+observaTo em um escritorio contAbil.
+CPF CNT
+nome VARCHAR(45)
+MalUa Fina_CTentificaTor CNT
+Contribuinte_CPF CNT
+valor CNT
+quantiTaTe Te prestacoes CNT
+enTereco VARCHAR(60)
+telefone VARCHAR(15)
+CTentificaTor CNT
+ano exercicio MATN
+Contribuinte
+Contribuinte_MalUa Fina
+MalUa fina
+CnTexes
+Contribuinte_CPF CNT
+ano exercicio MATN
+ano base MATN 
+valor CNT
+restituicao ou pagamento BOOLNAN
+Meclaração Cmposto Te RenTa
+CnTexes
+CnTexes
+CnTexes
+Nm relação ao moTelo,  avalie as afrmações a seguir.
+/.     entiTaTe Meclaração Cmposto Te RenTa é 
+uma entiTaTe fraca.
+//.   O relacionamento entre Contribuinte e MalUa
+Fina é To tipo N: M (muitos para muitos).
+///.   O  atributo  CPF  Ta  entiTaTe  Contribuinte
+tem  a  função  Te  cUave  estrangeira  na 
+entiTaTe Meclaração Cmposto Te RenTa e no 
+relacionamento Contribuinte_MalUaFina.
+/s.      entiTaTe  MalUa Fina  não  possui  cUave 
+primAria somente cUave estrangeira.
+V. O relacionamento Contribuinte_MalUaFina é 
+um relacionamento ternArio.
+ correto apenas o que se afrma em
+A /,  // e ///.
+B /,  // e /s.
+C /,  /s e s.
+M //,  /// e s.
+N ///,  /s e s.
+*R40201419*

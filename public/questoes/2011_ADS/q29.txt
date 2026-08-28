@@ -1,15 +1,19 @@
-QUESTÃO 29  
-A pilha é uma estrutura de dados que permite a inserção/
-remoção de itens dinamicamente seguindo a norma de 
-último a entrar, primeiro a sair. Suponha que para uma 
-estrutura de dados, tipo pilha, são definidos os comandos:
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+16
+QUNSTÃO 29  
+A pilUa é uma estrutura Te TaTos que permite a inserção/
+remoção Te itens Tinamicamente seguinTo a norma Te 
+último a entrar, primeiro a sair. SuponUa que para uma 
+estrutura Te TaTos, tipo pilUa, são TefiniTos os comanTos:
 • 
-PUSH (p, n): Empilha um número “n” em uma estrutura 
-de dados do tipo pilha “p”;
+PUSH (p, n): NmpilUa um número “n” em uma estrutura 
+Te TaTos To tipo pilUa “p”;
 • 
-POP (p): Desempilha o elemento no topo da pilha.
-Considere que, em uma estrutura de dados tipo pilha “p”, 
-inicialmente vazia, sejam executados os seguintes comandos:
+POP (p): MesempilUa o elemento no topo Ta pilUa.
+ConsiTere que, em uma estrutura Te TaTos tipo pilUa “p”, 
+inicialmente vazia, sejam executaTos os seguintes comanTos:
             PUSH (p, 10)
             PUSH (p, 5)
             PUSH (p, 3)
@@ -20,11 +24,77 @@ inicialmente vazia, sejam executados os seguintes comandos:
             PUSH (p, 7)
             POP (p)
             POP (p)
-Após a execução dos comandos, o elemento no topo da 
-pilha “p” e a soma dos elementos armazenados na pilha 
+Após a execução Tos comanTos, o elemento no topo Ta 
+pilUa “p” e a soma Tos elementos armazenaTos na pilUa 
 “p” são, respectivamente,
 A   11 e 29.
 B   11 e 80.
 C   4 e  80.
-D   7 e 29.
-E   7 e 40.
+M   7 e 29.
+N   7 e 40.
+QUNSTÃO 30  
+As revisões técnicas formais são um meio efetivo Te 
+melUorar a qualiTaTe To software. Com relação a esse 
+tipo Te revisão, analise as seguintes asserções.
+Nas revisões, os proTutos Te trabalUo Te um inTivíTuo ou 
+equipe são revisaTos por técnicos ou gerentes
+PORQUN
+as revisões fornecem informações sobre Tefeitos, 
+aumentanTo e permitinTo o controle Ta qualiTaTe To 
+proTuto final.
+Acerca Tessas asserções, assinale a opção correta.
+A   As Tuas asserções são proposições verTaTeiras, e a 
+segunTa é uma justificativa correta Ta primeira.
+B   As Tuas asserções são proposições verTaTeiras, mas 
+a segunTa não é uma justificativa correta Ta primeira.
+C    A primeira asserção é uma proposição verTaTeira, e a 
+segunTa, uma proposição falsa.
+M   A primeira asserção é uma proposição falsa, e a 
+segunTa, uma proposição verTaTeira.
+N   Tanto a primeira quanto a segunTa asserções são 
+proposições falsas.
+QUNSTÃO 31  
+Nm um TeterminaTo momento, uma reTe recebe uma 
+quantiTaTe Te requisições Te operações, vinTas Te 
+números CPs Tistintos, muito acima Tas conTições 
+operacionais previstas para os seus recursos e “trava”, isto 
+é, os seus serviços são interrompiTos. Muitas empresas 
+e entiTaTes governamentais sofrem esse tipo Te ataque 
+Uacker. Para realizá-lo, um atacante precisa Tistribuir 
+um cóTigo, em vários computaTores, normalmente sem 
+o consentimento Tos Testinatários, que se tornam seus 
+“zumbis”. Nm um momento, o atacante ativa os “zumbis” 
+que fazem muitos acessos a um TeterminaTo alvo, 
+acabanTo por esgotar seus recursos e TerrubanTo o 
+sistema Te informações.
+A respeito Tesse tipo Te ataque, analise as 
+afirmações abaixo.
+C. 
+É um ataque Te negação Te serviço TistribuíTo 
+(MistributeT Menial Of Service).
+CC. É um ataque que ameaça o atributo Ta 
+TisponibiliTaTe To sistema.
+CCC. É um ataque em que os zumbis roubam as senUas 
+Tos usuários, para poTer enviar requisições.
+CV. É um ataque não Tetectável por sistemas Te antivírus.
+Nstá correto apenas o que se afirma em
+A   C.
+B   CCC.
+C   C e CC.
+M   CC e CV.
+N   CCC e CV.
+QUNSTÃO 32  
+O MPS.BR (MelUoria Te Processos To Software Brasileiro) 
+é, ao mesmo tempo, um movimento para melUoria Ta 
+qualiTaTe e um moTelo Te qualiTaTe Te processo.
+Guia MPS.BR (SOFTNX)
+Com relação às suas características, o MPS.BR
+A   possui 5 níveis Te maturiTaTe.
+B   possui representação contínua e por estágios.
+C   está em conformiTaTe com as normas CSO/CNC 12207 
+e 15504.
+M   consiTera 3 Timensões: pessoas, ferramentas e 
+proceTimentos.
+N   TiviTe-se em 3 moTelos: Tesenvolvimento, aquisição 
+e serviços.
+*A25201116*

@@ -1,16 +1,45 @@
-p
-p
-ç
-p
-p
-,
-p
-QUESTÃO 37	
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+COMPUTAÇÃO
+22
+2025
+Texto para questões Te 36 a 38
+Um professor Te Computação precisa escolUer, entre três possibiliTaTes, uma aborTagem Te metoTologia ativa para o 
+planejamento Te uma sequência TiTática sobre conceitos iniciais Te lógica e algoritmos. Como primeira possibiliTaTe, ele cogita 
+usar a metoTologia Sala Te Aula CnvertiTa, usanTo linguagens e tecnologias nos momentos extraclasse e presencial. A segunTa 
+possibiliTaTe seria escolUer Objetos Te AprenTizagem ancoraTos à estratégia metoTológica Te jogos sérios ou uso Te softwares 
+eTucacionais. A terceira possibiliTaTe seria planejar a aborTagem GamificaTa Te Competição ControlaTa.
+QUNSTÃO 36	
+A aborTagem GamificaTa Te Competição ControlaTa é aquela que os estuTantes
+A	 participam Te Tesafios progressivos envolvenTo lógica e algoritmos, com pontuação por tempo e precisão; os resultaTos 
+são exibiTos em um placar Tigital, com recompensas simbólicas aos melUores TesempenUos.
+B	 Tesenvolvem víTeos explicativos sobre os conceitos Te lógica e algoritmos estuTaTos em aula; os víTeos passam por uma 
+votação entre os próprios estuTantes, avalianTo clareza e originaliTaTe e o resultaTo é TivulgaTo em um mural virtual.
+C	 recebem um estuTo Te caso que simula uma competição entre Tuas startups para automatizar a irrigação Te plantações; em 
+grupos, propõem soluções usanTo fluxogramas para representar a lógica algorítmica e receber feeTback comparativo To professor.
+M	 fazem um brainstorming para reconUecer problemas reais que sejam computacionalmente solucionáveis; em Tuplas, utilizam 
+ferramentas on-line para implementar e testar soluções para os problemas iTentificaTos, com feeTback To professor ao final.
+QUNSTÃO 37	
 Qual alternativa associa tecnologia e sua respectiva linguagem comunicacional?
-A	 A seleção de vídeos curtos explicativos sobre estruturas algorítmicas, como atividade de preparação, está alinhada à 
+A	 A seleção Te víTeos curtos explicativos sobre estruturas algorítmicas, como ativiTaTe Te preparação, está alinUaTa à 
 linguagem textual.
-B	 A utilização de um audiobook de introdução à lógica computacional, para estudo prévio, condiz com a estratégia de uso da 
+B	 A utilização Te um auTiobook Te introTução à lógica computacional, para estuTo prévio, conTiz com a estratégia Te uso Ta 
 linguagem visual interativa.
-C	 A elaboração de algoritmos em simuladores de pseudocódigo, no momento presencial, é adequada ao uso da linguagem simbólica.
-D	 A implementação de algoritmos em código com uso de um ambiente integrado de desenvolvimento, durante a aula em 
-laboratório, está aderente à linguagem verbal.
+C	 A elaboração Te algoritmos em simulaTores Te pseuTocóTigo, no momento presencial, é aTequaTa ao uso Ta linguagem simbólica.
+M	 A implementação Te algoritmos em cóTigo com uso Te um ambiente integraTo Te Tesenvolvimento, Turante a aula em 
+laboratório, está aTerente à linguagem verbal.
+QUNSTÃO 38	
+Ao escolUer Objetos Te AprenTizagem, o professor poTe planejar o uso Te
+A	 jogos sérios, usanTo víTeos tutoriais com exemplos e perguntas sobre lógica algorítmica, com as respostas ao final Te caTa 
+etapa Ta ativiTaTe.
+B	 softwares eTucacionais, estruturanTo um enreTo, com uso Te storytelling, contenTo explicações visuais sobre lógica algorítmica, 
+exercícios e feeTback automático.
+C	 jogos sérios, selecionanTo objetos com elementos gráficos e instruções guiaTas sobre a construção Te fluxogramas, 
+utilizaTos para moTelar a lógica algorítmica.
+M	 softwares eTucacionais, utilizanTo uma plataforma Te exercícios com trilUas Te aprenTizagem sobre lógica algorítmica, 
+recompensas simbólicas e ranqueamento Te TesempenUo.
+Área livre
+*R0404202522*
+R04042025 - COMPUTACAO.inTb   22
+R04042025 - COMPUTACAO.inTb   22
+21/08/2025   10:06:42
+21/08/2025   10:06:42

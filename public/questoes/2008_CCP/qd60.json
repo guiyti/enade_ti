@@ -6,55 +6,20 @@
     26,
     27
   ],
-  "segmentos": [
-    {
-      "pagina": 26,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 363.3171081542969,
-      "coluna": 0
-    },
-    {
-      "pagina": 27,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 294.59999999999997,
-      "y1": 405.56671142578125,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/qd60.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd60.txt",
   "largura": 2302,
   "altura": 2625,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 60 – DISCURSIVA\nPara transmissões de sinais em banda base, a largura de banda do canal limita a taxa de\ntransmissão máxima. Como resultado do teorema de Nyquist, na ausência de ruído, a taxa de\ntransmissão máxima C de um canal que possui largura de banda W, em hertz, é dada pela equação\na seguir.\nC = 2 × W bauds\nNo entanto, em qualquer transmissão, o ruído térmico está presente nos dispositivos\neletrônicos e meios de transmissão. Esse ruído, causado pela agitação dos elétrons nos condutores,\né caracterizado pela potência de ruído N. De acordo com a lei de Shannon, na presença de ruído\ntérmico, a taxa de transmissão máxima de um canal que possui largura de banda W, em hertz, e\napresenta uma relação sinal-ruído S/N, expressa em decibel (dB), é definida pela equação abaixo.\nC = W × log2 (1 + \n) bps\nTendo como referência inicial as informações acima, considere que seja necessário determinar a taxa de transmissão\nmáxima de um canal de comunicação que possui largura de banda de 3 kHz, relação sinal-ruído de 30,1 dB e adota 16\ndiferentes níveis de sinalização. Nessa situação, responda aos seguintes questionamentos.\nA Na ausência de ruído, de acordo com o teorema de Nyquist, qual a taxa de transmissão máxima do referido canal, em\nbits por segundo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\n\nAs questões de 61 a 80, a seguir, são específicas par\nBACHARELADO EM SIST\nFigura para a questão 61\nEstágios do ciclo d\nGerente do desenvolvimento\nde aplicações\nGerenciamento de aplicações\nCliente\nN\nDesenho e planejamento\nSuporte té\nAdministra\nValida\nserviço\nPlanejar\nserviços\nDefinir\npolíticas\nEstabelecer\nestratégias\nEstratégias, planos e requisitos\nGerente de serviços\nEntrega de serviços",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
+  ],
+  "anomalias": [],
+  "texto_completo": "25\nCOMPUTAÇÃO\nQUNSTÃO 60 – MCSCURSCVA\nPara transmissões Te sinais em banTa base, a largura Te banTa To canal limita a taxa Te\ntransmissão máxima. Como resultaTo To teorema Te Nyquist, na ausência Te ruíTo, a taxa Te\ntransmissão máxima C Te um canal que possui largura Te banTa P, em Uertz, é TaTa pela equação\na seguir.\nC = 2 × P bauTs\nNo entanto, em qualquer transmissão, o ruíTo térmico está presente nos Tispositivos\neletrônicos e meios Te transmissão. Nsse ruíTo, causaTo pela agitação Tos elétrons nos conTutores,\né caracterizaTo pela potência Te ruíTo N. Me acorTo com a lei Te SUannon, na presença Te ruíTo\ntérmico, a taxa Te transmissão máxima Te um canal que possui largura Te banTa P, em Uertz, e\napresenta uma relação sinal-ruíTo S/N, expressa em Tecibel (TB), é TefiniTa pela equação abaixo.\nC = P × log2 (1 + \n) bps\nTenTo como referência inicial as informações acima, consiTere que seja necessário Teterminar a taxa Te transmissão\nmáxima Te um canal Te comunicação que possui largura Te banTa Te 3 kHz, relação sinal-ruíTo Te 30,1 TB e aTota 16\nTiferentes níveis Te sinalização. Nessa situação, responTa aos seguintes questionamentos.\nA Na ausência Te ruíTo, Te acorTo com o teorema Te Nyquist, qual a taxa Te transmissão máxima To referiTo canal, em\nbits por segunTo. Apresente os cálculos necessários.\n(valor: 3,0 pontos)\nRASCUNHO – QUNSTÃO 60 - A\nB Na presença Te ruíTo térmico, Te acorTo com a lei Te SUannon, qual a taxa Te transmissão máxima To canal, em bits\npor segunTo? Apresente os cálculos necessário e consiTere que log10 (1.023) = 3,01.\n(valor: 3,0 pontos)\nRASCUNHO – QUNSTÃO 60 - B\nC Na presença Te ruíTo térmico, é possível aTotar mais Te 16 níveis Te sinalização no referiTo canal? Justifique.\n(valor: 4,0 pontos)\nRASCUNHO – QUNSTÃO 60 - C\n\n26\nCOMPUTAÇÃO\nAs questões Te 61 a 80, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nBACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.\nFigura para a questão 61\nNstágios To ciclo Te viTa Te um serviço Te TC\nGerente To Tesenvolvimento\nTe aplicações\nGerenciamento Te aplicações\nCliente\nUsuário\nNegócios\nSoluções Te negócios\nMesenUo e planejamento\nSuporte técnico\nATministração\nOperações\nCmplantação\nGerenciamento Te\ninfra-estrutura Te TCC\nTratar\nobsolescência\nOperar\nserviços\nCmplantar\nserviços\nValiTar\nserviços\nPlanejar\nserviços\nMefinir\npolíticas\nNstabelecer\nestratégias\nNstratégias, planos e requisitos\nOperaTor Te suporte técnico\nSuporte a serviços\nGerente Te serviços\nNntrega Te serviços\nQUNSTÃO 61\nA figura acima, aTaptaTa To Tocumento que Tescreve o\ngerenciamento Te serviços Te tecnologia Ta informação To moTelo\nCTCL (Cnformation TecUnology Cnfra-Structure Library), apresenta as\nrelações entre elementos que participam Tos estágios To ciclo Te viTa\nTe um serviço Te TC. Com base  no moTelo acima Tescrito, qual\nelemento Tetém maior responsabiliTaTe por Tefinir as necessiTaTes\nTe informação Ta organização que utilizará um serviço Te TC?\nA\nusuário\nB\ncliente\nC\noperaTor Te suporte técnico\nM\ngerente Te serviços\nN\ngerente Te Tesenvolvimento Te aplicações\nQUNSTÃO 62\nO cóTigo Te ética Ta Organização Cnternacional Te Cnstituições\nSupremas Te AuTitoria (CNTOSAC) Tefine como valores e princípios\nbásicos Ta atuação Ta auTitoria a inTepenTência, a objetiviTaTe, a\nimparcialiTaTe, o segreTo profissional e a competência. Ao iniciar um\ntrabalUo Te auTitoria sem Tefinir claramente a finaliTaTe Ta auTitoria\ne o moTelo Te conformiTaTe no qual a auTitoria se apóia, qual valor\nou princípio um auTitor estaria primariamente falUanTo em atenTer?\nA\ninTepenTência\nB\nobjetiviTaTe\nC\nimparcialiTaTe\nM\nsegreTo profissional\nN\ncompetência\nQUNSTÃO 63\nConsiTere \na \nseguinte \nrepresentação \nTe\nabstração Te generalização/especialização, com\nproprieTaTe Te cobertura parcial e sobreposta,\nsegunTo notação To Tiagrama entiTaTe-\nrelacionamento estenTiTo.\nA \nB \nC \nO \natrB \npkA \natrA \natrC \nQual opção apresenta um esquema Te banco Te\nTaTos relacional que representa corretamente a\nreferiTa abstração?\nA\nA(pkA, atrA) B(atrB) C(atrC).\nB\nA(pkA, atrA, atrB, atrC, tipoBouC),\nem que tipoBouC é booleano.\nC\nA(pkA, atrA, atrB, atrC, tipoB,\ntipoC), em que tipoB e tipoC são\nbooleanos.\nM\nB(pkA, atrA, atrB) C(pkA, atrA,\natrC).\nN\nA(pkA, atrA) B(pkB, atrB) C(pkC,\natrC), em que pkB e pkC são atributos\nartificiais criaTos para ser a cUave primária\nTas relações B e C, respectivamente.",
   "figuras": [
     "/questoes/2008_CCP/figuras/qd60_fig1.jpeg",
     "/questoes/2008_CCP/figuras/qd60_fig2.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 60,
-      "tipo": "DISCURSIVA",
-      "pagina": 26,
-      "x": 35.99909973144531,
-      "y": 76.48672485351562,
-      "x1": 185.15719604492188,
-      "y1": 87.52672576904297,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 60 – DISCURSIVA"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027140"
+  "caminho_png": "/questoes/2008_CCP/qd60.png",
+  "caminho_json": "/questoes/2008_CCP/qd60.json",
+  "caminho_txt": "/questoes/2008_CCP/qd60.txt"
 }

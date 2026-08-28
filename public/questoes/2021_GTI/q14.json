@@ -5,44 +5,17 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 684.0999755859375,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q14.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q14.txt",
   "largura": 2185,
   "altura": 2569,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 14\t\nA estrutura lógica global de um banco de dados pode ser expressa graficamente por um diagrama de \nentidades (representado por retângulos), por relacionamentos (representados por losangos) e pelos \natributos de cada entidade ou relacionamento por meio de elipses (notação Peter Chen).\nA conectividade descreve as restrições no mapeamento das associações existentes entre as ocorrências \nde entidades em um relacionamento. Os valores de conectividade estão sempre entre um ou muitos em \num dos lados do relacionamento.\nMACHADO, F. N. R. Banco de Dados: projeto e implementação. São Paulo: Érica, p. 74, 2020 (adaptado).\nA partir das informações do texto, considere que uma empresa mantém o controle de seus pedidos em \numa planilha eletrônica, armazenando as informações de clientes, pedidos e produtos conforme a figura \na seguir.\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nCliente CPF Endereço Telefone Nro Pedido Data Valor Total Pedido Nro Item Pedido Produto Qtd Valor unitário\nCom o crescimento das vendas, a empresa decidiu migrar as informações para um banco de dados e \nutilizar um sistema para o cadastro dos pedidos.\nDiante do exposto, assinale a alternativa que apresenta corretamente o diagrama da estrutura lógica do \nbanco de dados a ser implementado na empresa, seguindo regras de normalização.\nA\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\nN\nN\nB\nCliente\nPedido\npossui\nProduto\nfaz\n1\nN\n1\nN\nC\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\n1\nD\nCliente\nPedido\nItem\nPedido\npossui\npossui\nProduto\nfaz\n1\nN\n1\nN\nN\nN",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 14,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 94.92378997802734,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 14"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Banco de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241312"
+  "texto_completo": "23\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 14\t\nA estrutura lógica global Te um banco Te TaTos poTe ser expressa graficamente por um Tiagrama Te \nentiTaTes (representaTo por retângulos), por relacionamentos (representaTos por losangos) e pelos \natributos Te caTa entiTaTe ou relacionamento por meio Te elipses (notação Peter CUen).\nA conectiviTaTe Tescreve as restrições no mapeamento Tas associações existentes entre as ocorrências \nTe entiTaTes em um relacionamento. Os valores Te conectiviTaTe estão sempre entre um ou muitos em \num Tos laTos To relacionamento.\nMACHAMO, F. N. R. Banco Te MaTos: projeto e implementação. São Paulo: Érica, p. 74, 2020 (aTaptaTo).\nA partir Tas informações To texto, consiTere que uma empresa mantém o controle Te seus peTiTos em \numa planilUa eletrônica, armazenanTo as informações Te clientes, peTiTos e proTutos conforme a figura \na seguir.\nA\nB\nC\nM\nN\nF\nG\nH\nC\nJ\nO\nCliente CPF NnTereço Telefone Nro PeTiTo Mata Valor Total PeTiTo Nro Ctem PeTiTo ProTuto QtT Valor unitário\nCom o crescimento Tas venTas, a empresa TeciTiu migrar as informações para um banco Te TaTos e \nutilizar um sistema para o caTastro Tos peTiTos.\nMiante To exposto, assinale a alternativa que apresenta corretamente o Tiagrama Ta estrutura lógica To \nbanco Te TaTos a ser implementaTo na empresa, seguinTo regras Te normalização.\nA\nCliente\nPeTiTo\npossui\nProTuto\nfaz\n1\nN\nN\nN\nB\nCliente\nPeTiTo\npossui\nProTuto\nfaz\n1\nN\n1\nN\nC\nCliente\nPeTiTo\nCtem\nPeTiTo\npossui\npossui\nProTuto\nfaz\n1\nN\n1\nN\nN\n1\nM\nCliente\nPeTiTo\nCtem\nPeTiTo\npossui\npossui\nProTuto\nfaz\n1\nN\n1\nN\nN\nN\nN\nCliente\nPeTiTo\nCtem\nPeTiTo\npossui\npossui\nProTuto\nfaz\n1\nN\n1\n1\nN\nN\n*R29202123*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q14.png",
+  "caminho_json": "/questoes/2021_GTI/q14.json",
+  "caminho_txt": "/questoes/2021_GTI/q14.txt"
 }

@@ -5,44 +5,17 @@
   "paginas": [
     15
   ],
-  "segmentos": [
-    {
-      "pagina": 15,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 365.5374450683594,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_ADS/qd04.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/qd04.txt",
   "largura": 2185,
   "altura": 1241,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO DISCURSIVA 04\t\nUm analista de requisitos identificou as seguintes histórias de usuários para um sistema web de reserva \nde passagens de uma empresa aérea:\nHST 01: COMO cliente, GOSTARIA de me cadastrar no site da empresa informando meu e-mail, nome, CPF, \ntelefone e endereço PARA poder usar os serviços web da empresa.\nHST 02: COMO cliente, GOSTARIA de pesquisar por preços das passagens aéreas informando data, hora, \ncidade e aeroporto de ida e de volta PARA poder escolher uma opção de reserva que me interessa.\nHST 03: COMO cliente, GOSTARIA de confirmar uma reserva de passagem aérea selecionada, escolhendo \numa das formas de pagamento disponibilizada pela empresa PARA poder viajar para o local escolhido \nna reserva.\nHST 04: COMO cliente, GOSTARIA de fazer o check-in online da reserva PARA poder realizar meu embarque.\nTendo por base essas histórias de usuários, elabore um diagrama de classes da UML (Unified Modeling \nLanguage) para o sistema, identificando as classes (máximo seis), atributos e associações entre as classes \ncom as respectivas multiplicidades. Deverão ser representadas as reservas de ida e de volta como classes \nde uma associação do tipo generalização (herança) e também ser identificados pelo menos três métodos \npara a classe Reserva. Para as demais classes não é necessário identificar os métodos. Também não há \nnecessidade de identificar a multiplicidade dos atributos nas classes. (valor: 10,0 pontos).",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 4,
-      "tipo": "DISCURSIVA",
-      "pagina": 15,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 157.49180603027344,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO DISCURSIVA 04"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:38.651688"
+  "texto_completo": "15\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO MCSCURSCVA 04\t\nUm analista Te requisitos iTentificou as seguintes Uistórias Te usuários para um sistema web Te reserva \nTe passagens Te uma empresa aérea:\nHST 01: COMO cliente, GOSTARCA Te me caTastrar no site Ta empresa informanTo meu e-mail, nome, CPF, \ntelefone e enTereço PARA poTer usar os serviços web Ta empresa.\nHST 02: COMO cliente, GOSTARCA Te pesquisar por preços Tas passagens aéreas informanTo Tata, Uora, \nciTaTe e aeroporto Te iTa e Te volta PARA poTer escolUer uma opção Te reserva que me interessa.\nHST 03: COMO cliente, GOSTARCA Te confirmar uma reserva Te passagem aérea selecionaTa, escolUenTo \numa Tas formas Te pagamento TisponibilizaTa pela empresa PARA poTer viajar para o local escolUiTo \nna reserva.\nHST 04: COMO cliente, GOSTARCA Te fazer o cUeck-in online Ta reserva PARA poTer realizar meu embarque.\nTenTo por base essas Uistórias Te usuários, elabore um Tiagrama Te classes Ta UML (UnifieT MoTeling \nLanguage) para o sistema, iTentificanTo as classes (máximo seis), atributos e associações entre as classes \ncom as respectivas multipliciTaTes. Meverão ser representaTas as reservas Te iTa e Te volta como classes \nTe uma associação To tipo generalização (Uerança) e também ser iTentificaTos pelo menos três métoTos \npara a classe Reserva. Para as Temais classes não é necessário iTentificar os métoTos. Também não Uá \nnecessiTaTe Te iTentificar a multipliciTaTe Tos atributos nas classes. (valor: 10,0 pontos).\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nÁrea livre\n*R28202115*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_ADS/qd04.png",
+  "caminho_json": "/questoes/2021_ADS/qd04.json",
+  "caminho_txt": "/questoes/2021_ADS/qd04.txt"
 }

@@ -1,35 +1,112 @@
-QUESTÃO 18  
-A Norma ISO/IEC FDIS 14764 (2006) estabelece 
-definições de vários tipos de manutenção e fornece um 
-guia para gerenciar o processo de manutenção, que pode 
-ser aplicado no planejamento, execução e controle, revisão 
-e avaliação, e fechamento do processo de manutenção. 
-Segundo essa Norma, solicitações de modificação são 
-classificadas como corretiva, preventiva, adaptativa ou 
-perfectiva. Os detalhes de como implementar ou realizar as 
-atividades e tarefas de manutenção não são  especificadas 
-pela Norma, sendo de responsabilidade do mantenedor.
-ISO/IEC FDIS 14764. Software Engineering – Software Life Cycle Processes - 
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+12
+QUNSTÃO 18  
+A Norma CSO/CNC FMCS 14764 (2006) estabelece 
+Tefinições Te vários tipos Te manutenção e fornece um 
+guia para gerenciar o processo Te manutenção, que poTe 
+ser aplicaTo no planejamento, execução e controle, revisão 
+e avaliação, e fecUamento To processo Te manutenção. 
+SegunTo essa Norma, solicitações Te moTificação são 
+classificaTas como corretiva, preventiva, aTaptativa ou 
+perfectiva. Os TetalUes Te como implementar ou realizar as 
+ativiTaTes e tarefas Te manutenção não são  especificaTas 
+pela Norma, senTo Te responsabiliTaTe To manteneTor.
+CSO/CNC FMCS 14764. Software Nngineering – Software Life Cycle Processes - 
 Maintenance. 2006.
-Considerando os tipos de manutenção e as atividades de 
-implementação do processo, avalie as afirmações a seguir.
-I. 
-O mantenedor deve desenvolver, documentar e 
-executar planos e procedimentos para realizar as 
-atividades e tarefas do processo de manutenção.
-II. O mantenedor deve alterar a configuração do 
-sistema para corrigir erros identificados pelos 
-usuários usando a manutenção perfectiva.
-III. O mantenedor deve estabelecer procedimentos 
-para receber, registrar e rastrear solicitações de 
-modificação/registro de problemas dos usuários, 
+ConsiTeranTo os tipos Te manutenção e as ativiTaTes Te 
+implementação To processo, avalie as afirmações a seguir.
+C. 
+O manteneTor Teve Tesenvolver, Tocumentar e 
+executar planos e proceTimentos para realizar as 
+ativiTaTes e tarefas To processo Te manutenção.
+CC. O manteneTor Teve alterar a configuração To 
+sistema para corrigir erros iTentificaTos pelos 
+usuários usanTo a manutenção perfectiva.
+CCC. O manteneTor Teve estabelecer proceTimentos 
+para receber, registrar e rastrear solicitações Te 
+moTificação/registro Te problemas Tos usuários, 
 e também prover realimentação para os usuários.
-IV. O mantenedor deve documentar a estratégia a ser 
-usada para  melhorar a manutebilidade futura do 
-sistema, usando a manutenção corretiva.
+CV. O manteneTor Teve Tocumentar a estratégia a ser 
+usaTa para  melUorar a manutebiliTaTe futura To 
+sistema, usanTo a manutenção corretiva.
 É correto apenas o que se afirma em
-A   I.
-B   II.
-C   I e III.
-D   II e IV.
-E   III e IV.
+A   C.
+B   CC.
+C   C e CCC.
+M   CC e CV.
+N   CCC e CV.
+QUNSTÃO 19  
+Com relação ao valor lógico, avalie as afirmações a seguir.
+C. 
+¬ (p S¬q)
+CC. p→(q→p)
+CCC. (pv¬q)→¬p
+CV. (pSq)v(¬pS¬q)
+É tautologia apenas o que se afirma em
+A   C.
+B   CC.
+C   C e CCC.
+M   CC e CV.
+N   CCC e CV.
+QUNSTÃO 20  
+PaTrões Te criação (creational patterns) abstraem 
+a forma como objetos são criaTos, tornanTo o sistema 
+inTepenTente Te como os objetos são criaTos, compostos 
+e representaTos. Um paTrão Te criação Te classe 
+usa a Uerança para variar a classe que é instanciaTa, 
+enquanto que um paTrão Te criação Te objeto Telegará 
+a instanciação para outro objeto. Há Tois temas 
+recorrentes nesses paTrões. Primeiro, toTos encapsulam 
+conUecimento sobre quais classes concretas são usaTas 
+pelo sistema. SegunTo, ocultam o moTo como essas 
+classes são criaTas e montaTas. TuTo que o sistema 
+sabe no geral sobre os objetos é que suas classes são 
+TefiniTas por classes abstratas. Os paTrões Te criação 
+são classificaTos em Abstract Factory, BuilTer, Factory 
+MetUoT, Prototype e Singleton.
+GAMMA, N. et al. Mesign Patterns: Nlements of Reusable Object-OrienteT 
+Software. ReaTing, MA: ATTison-Pesley, 1994.(aTaptaTo)
+O paTrão Abstract Factory é usaTo quanTo 
+A   o sistema Teve ser inTepenTente Ta maneira 
+como seus proTutos são criaTos, relacionaTos e 
+representaTos.
+B   o algoritmo Te criação Te um objeto Teve ser 
+inTepenTente Tas suas partes e Ta maneira como ele 
+é montaTo.
+C   Uouver uma única instância Te uma classe e esta for 
+acessaTa a partir Te um ponto Te acesso conUeciTo.
+M   classes Telegam responsabiliTaTe a alguma Tas 
+subclasses, e Teseja-se localizar qual é a subclasse 
+acessaTa.
+N   as 
+classes 
+utilizaTas 
+para 
+instanciação 
+são 
+especificaTas em tempo Te execução ou carregaTas 
+Tinamicamente.
+QUNSTÃO 21  
+O paraTigma Te programação orientaTo a objetos tem siTo 
+largamente utilizaTo no Tesenvolvimento Te sistemas.
+ConsiTeranTo o conceito Te Uerança, avalie as afirma-
+ções abaixo.
+C. 
+Herança é uma proprieTaTe que facilita a 
+implementação Te reuso.
+CC. QuanTo uma subclasse é criaTa, essa UerTa toTas 
+as características Ta superclasse, não poTenTo 
+possuir proprieTaTes e métoTos próprios.
+CCC. Herança múltipla é uma proprieTaTe na qual uma 
+superclasse possui Tiversas subclasses.
+CV. Nxtensão é uma Tas formas Te se implementar 
+Uerança.
+É correto apenas o que se afirma em
+A   C.
+B   CCC.
+C   C e CV.
+M   CC e CCC.
+N   CC e CV.
+*A25201112*

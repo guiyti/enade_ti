@@ -1,35 +1,38 @@
-QUESTÃO 35 
-Eŵ Ƶŵ ƐŝƐƚĞŵĂ ǁĞď ƉĂƌĂ ǀĞŶĚĂ ĚĞ ŝŶŐƌĞƐƐŽƐ ƉĂƌĂ ƐŚŽǁƐ ŵƵƐŝĐĂŝƐ͕  Ă ĞƋƵŝƉĞ ĚĞ ŵĂƌŬĞƟŶŐ ƐŽůŝĐŝƚŽƵ Ă 
-Ƶŵ ǁĞď ĚĞƐŝŐŶĞƌ ƋƵĞ͕  ŶĂ ƉĄŐŝŶĂ ŝŶŝĐŝĂů͕  ŽƐ links ƉĂƌĂ Ă ĄƌĞĂ ĚĞ ǀĞŶĚĂ ĚĞ ŝŶŐƌĞƐƐŽƐ ĚĞ ĐĂĚĂ ƐŚŽǁ ĨŽƐƐĞŵ 
-ŝŵĂŐĞŶƐ͕  ƉĂƌĂ ƚŽƌŶĂƌ Ă ŶĂǀĞŐĂĕĆŽ ƉĞůŽƐ ĐŽŶƚĞƷĚŽƐ ĚĂ ƉĄŐŝŶĂ ŵĂŝƐ ĂƚƌĂƟǀĂ Ğ ƉĂƌĂ ƋƵĞ Ž ƉƌſƉƌŝŽ link ũĄ 
-ƐĞƌǀŝƐƐĞ ĐŽŵŽ ŵĂƚĞƌŝĂů ĚĞ ĚŝǀƵůŐĂĕĆŽ͘
-  ƉĂƌƟƌ ĚŽ ƉƌŽƚſƟƉŽ ĚĂ ƉĄŐŝŶĂ ŝŶŝĐŝĂů ĂƉƌĞƐĞŶƚĂĚŽ Ğ ƵƐĂŶĚŽ ,dD>͕  Ž ǁĞď ĚĞƐŝŐŶĞƌ ŽƉƚŽƵ ƉŽƌ ŝŵƉůĞŵĞŶƚĂƌ 
-ĐĂĚĂ link ĚĞ ĨŽƌŵĂ ƋƵĞ Ă ŝŵĂŐĞŵ ĨŽƌŶĞĕĂ Ƶŵ ƚĞǆƚŽ ŝŶĨŽƌŵĂƟǀŽ ;ƉŽƌ ŵĞŝŽ ĚŽ ĂƚƌŝďƵƚŽ altͿ ƉĂƌĂ ƵƐƵĄƌŝŽƐ 
-ƋƵĞ ƵƐĞŵ ůĞŝƚŽƌĞƐ ĚĞ ƚĞůĂ͕  ĐŽŶĨŽƌŵĞ Ă ƐĞŐƵŝƌ͘
-<a href="link-area-venda-ingresso">
-   NLPJ VUF LPDJHPVKRZMSJ DOW LGHQWL¿FDomR GR VKRZ I!
+39
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO 35 
+Nm um sistema ǁeb para venTa Te ingressos para sUoǁs musicais,  a equipe Te marŬeting solicitou a 
+um ǁeb Tesigner que,  na pAgina inicial,  os links para a Area Te venTa Te ingressos Te caTa sUoǁ fossem 
+imagens,  para tornar a navegação pelos conteuTos Ta pAgina mais atrativa e para que o proprio link ũA 
+servisse como material Te Tivulgação.
+  partir To prototipo Ta pAgina inicial apresentaTo e usanTo ,TM>,  o ǁeb Tesigner optou por implementar 
+caTa link Te forma que a imagem forneça um texto informativo (por meio To atributo alt) para usuArios 
+que usem leitores Te tela,  conforme a seguir.
+<a Uref="link-area-venTa-ingresso">
+   NLPJ VUF LPMJHPVORZBMSJ MOP LGHQPL¿FMomR GR VORZ C!
 </a>
-IŽŶƐŝĚĞƌĂŶĚŽ  Ă  ƐŝƚƵĂĕĆŽ  ĂƉƌĞƐĞŶƚĂĚĂ͕   Ž  ƵƐŽ  ĚŽ  ĂƚƌŝďƵƚŽ  alt  Ğ  ĂƐƉĞĐƚŽƐ  ĚĂ  ŝŶƚĞƌĂĕĆŽ  ŚƵŵĂŶŽͲ
-ĐŽŵƉƵƚĂĚŽƌ͕  ƉŽĚĞͲƐĞ ĂĮƌŵĂƌ ƋƵĞ Ž ǁĞď ĚĞƐŝŐŶĞƌ ĂƚĞŶĚĞƵ͕  Ğŵ ƐƵĂ ŝŵƉůĞŵĞŶƚĂĕĆŽ͕  Ž ƌĞƋƵŝƐŝƚŽ ĚĞ
-A  ƐĞŐƵƌĂŶĕĂ ŶŽ ƵƐŽ͕  ƉŽŝƐ ƐĞ ƵŵĂ ŝŵĂŐĞŵ ƟǀĞƌ ďĂŝǆĂ ƌĞƐŽůƵĕĆŽ Ğ ŝŵƉŽƐƐŝďŝůŝƚĂƌ Ă ĐŽƌƌĞƚĂ ǀŝƐƵĂůŝǌĂĕĆŽ͕  Ž 
-ƚĞǆƚŽ ŝŶĨŽƌŵĂƟǀŽ ĂƐƐŽĐŝĂĚŽ ă ŝŵĂŐĞŵ ƉŽƐƐŝďŝůŝƚĂ Ă ŝĚĞŶƟĮĐĂĕĆŽ ĚŽ ĐŽŶƚĞƷĚŽ ĚŽ ƌĞƐƉĞĐƟǀŽ link.
-B ĨĂĐŝůŝĚĂĚĞ ĚĞ ĂƉƌĞŶĚŝǌĂĚŽ͕  ƉŽŝƐ Ă ĐŽŵƵŶŝĐĂĕĆŽ ǀŝƐƵĂů ĚŽ ƐŝƐƚĞŵĂ ǁĞď͕  ƉŽƌ ŵĞŝŽ ĚŽ ƵƐŽ ĚĞ ŝŵĂŐĞŶƐ͕  
-ĂůŝĂĚĂ ă ĐŽŵƵŶŝĐĂĕĆŽ ƚĞǆƚƵĂů͕  ƉŽƌ ŵĞŝŽ ĚŽ ƵƐŽ ĚĞ ƚĞǆƚŽƐ ŝŶĨŽƌŵĂƟǀŽƐ ƉĂƌĂ ĐĂĚĂ ŝŵĂŐĞŵ͕  ĂũƵĚĂ Ž 
-ƵƐƵĄƌŝŽ Ă ĂƉƌĞŶĚĞƌ ŽƐ ĐĂŵŝŶŚŽƐ ĚĞ ŶĂǀĞŐĂĕĆŽ͘
-C  ĂĐĞƐƐŝďŝůŝĚĂĚĞ͕  ƉŽŝƐ Ă ƉŽƐƐŝďŝůŝĚĂĚĞ ĚĞ ĂĐĞƐƐŽ ă ƉĄŐŝŶĂ ƉŽƌ ƉĞƐƐŽĂƐ ĐŽŵ ĚĞĮĐŝġŶĐŝĂ ǀŝƐƵĂů͕  ƉĂƌĂ 
-ƋƵĞ ŝŶƚĞƌĂũĂŵ ĐŽŵ ŽƐ ĐŽŶƚĞƷĚŽƐ͕  ŽĨĞƌĞĐĞ ĐŽŶĚŝĕƁĞƐ ĚĞ ŝŐƵĂůĚĂĚĞ ăƐ ƉĞƐƐŽĂƐ ŶĂ ŝŶƚĞƌĂĕĆŽ ĐŽŵ Ž 
-ƐŝƐƚĞŵĂ ǁĞď.
-D ĞƌŐŽŶŽŵŝĂ͕  ƉŽŝƐ Ž ƵƐŽ ĚĞ ŝŵĂŐĞŶƐ Ğŵ links ĐĂƵƐĂ Ƶŵ ĐĂŶƐĂĕŽ ǀŝƐƵĂů ƋƵĂŶĚŽ Ž ƐŝƐƚĞŵĂ  ǁĞď Ġ 
-ĂďĞƌƚŽ Ğŵ Ƶŵ smartphone ŽƵ Ğŵ Ƶŵ tablet ĐŽŵ ďĂŝǆĂ ƌĞƐŽůƵĕĆŽ͕  Ğ Ž ĂƚƌŝďƵƚŽ alt ƐƵďƐƟƚƵŝ Ă 
-ŝŵĂŐĞŵ ƉŽƌ ƚĞǆƚŽ͘
-E ĐŽŵƵŶŝĐĂďŝůŝĚĂĚĞ͕  ƉŽŝƐ ƐĞ ƵŵĂ ŝŵĂŐĞŵ ŶĆŽ ĐŽŵƵŶŝĐĂ ĂĚĞƋƵĂĚĂŵĞŶƚĞ Ă ŝŶĨŽƌŵĂĕĆŽ ĚĞƐĞũĂĚĂ͕  Ƶŵ 
-ƚĞǆƚŽ ĂůƚĞƌŶĂƟǀŽ ĚĞǀĞ ĐŽŵƉůĞŵĞŶƚĂƌ Ă ƌĞƐƉĞĐƟǀĂ ŝŶĨŽƌŵĂĕĆŽ͕  ĚĞ ĨŽƌŵĂ ƋƵĞ Ă ŝŶƚĞƌĂĕĆŽ ĐŽŵ Ž ƐŝƐƚĞŵĂ 
-ǁĞď ŶĆŽ ƐĞũĂ ƉƌĞũƵĚŝĐĂĚĂ͘
-Navegador
-Slogan do site
+ConsiTeranTo  a  situação  apresentaTa,   o  uso  To  atributo  alt  e  aspectos  Ta  interação  Uumano-
+computaTor,  poTe-se afrmar que o ǁeb Tesigner atenTeu,  em sua implementação,  o requisito Te
+A  segurança no uso,  pois se uma imagem tiver baixa resolução e impossibilitar a correta visualização,  o 
+texto informativo associaTo a imagem possibilita a iTentifcação To conteuTo To respectivo link.
+B faciliTaTe Te aprenTizaTo,  pois a comunicação visual To sistema ǁeb,  por meio To uso Te imagens,  
+aliaTa a comunicação textual,  por meio To uso Te textos informativos para caTa imagem,  aũuTa o 
+usuArio a aprenTer os caminUos Te navegação.
+C  acessibiliTaTe,  pois a possibiliTaTe Te acesso a pAgina por pessoas com Tefcigncia visual,  para 
+que interaũam com os conteuTos,  oferece conTições Te igualTaTe as pessoas na interação com o 
+sistema ǁeb.
+M ergonomia,  pois o uso Te imagens em links causa um cansaço visual quanTo o sistema  ǁeb é 
+aberto em um smartpUone ou em um tablet com baixa resolução,  e o atributo alt substitui a 
+imagem por texto.
+N comunicabiliTaTe,  pois se uma imagem não comunica aTequaTamente a informação TeseũaTa,  um 
+texto alternativo Teve complementar a respectiva informação,  Te forma que a interação com o sistema 
+ǁeb não seũa preũuTicaTa.
+NavegaTor
+Slogan To site
 145 x 95
 145 x 95
 145 x 95
 145 x 95
 145 x 95
 145 x 95
+*R41201739*

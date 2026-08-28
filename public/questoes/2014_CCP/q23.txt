@@ -1,6 +1,40 @@
-ƉƌŽďůĞŵĂ ĚŽ ĐĂŝǆĞŝƌŽ ǀŝĂũĂŶƚĞ ƐĞ ƌĞĚƵǌ Ă ĞůĞ͘
-QUESTÃO 23
-YƵĂů Ž ǀĂůŽƌ ĚĞ ƌĞƚŽƌŶŽ ĚĂ ĨƵŶĕĆŽ Ă ƐĞŐƵŝƌ͕ ĐĂƐŽ Ŷ с 27͍
+20
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 22
+ConsiTere  o  processo  Te  fabricação  Te  um  proTuto 
+siTerurgico  que  necessita  passar  por  n  tratamentos 
+térmicos  e  químicos  para  fcar  pronto.   CaTa  uma  Tas 
+n etapas Te tratamento é realizaTa uma unica vez na 
+mesma calTeira.   lém To custo proprio Te caTa etapa 
+To tratamento,  existe o custo Te se passar Te uma etapa 
+para  outra,   uma  vez  que,   TepenTenTo  Ta  sequgncia 
+escolUiTa,  poTe ser necessArio alterar a temperatura Ta 
+calTeira e limpA-la para evitar a reação entre os proTutos 
+químicos utilizaTos.   ssuma que o processo Te fabricação 
+inicia e termina com a calTeira limpa.  Meseũa-se proũetar 
+um algoritmo para inTicar a sequgncia Te tratamentos 
+que possibilite fabricar o proTuto com o menor custo 
+total.  Nessa situação,  conclui-se que
+A a  solução  To  problema  é  obtiTa  em  tempo  Te 
+orTem  O(nlogn),   utilizanTo-se  um  algoritmo 
+otimo Te orTenação.
+B uma  Ueurística  para  a  solução  To  problema  Te 
+coloração Te grafos solucionarA o problema em 
+tempo polinomial.
+C o problema se reTuz a encontrar a Arvore geraTora 
+mínima para o conũunto Te etapas To processo,  
+requerenTo tempo Te orTem polinomial para ser 
+solucionaTo.
+M a  utilização  To  algoritmo  Te  MiũŬstra  para  se 
+Teterminar o caminUo Te custo mínimo entre o 
+estaTo inicial e o fnal soluciona o problema em 
+tempo polinomial.
+N qualquer algoritmo conUeciTo para a solução To 
+problema Tescrito possui orTem Te complexiTaTe 
+Te  tempo  não-polinomial,   uma  vez  que  o 
+problema To caixeiro viaũante se reTuz a ele.
+QUNSTÃO 23
+Yual o valor Te retorno Ta função a seguir, caso n с 27͍
 int recursao (int n) {
 if (n <= 10) {
 return n * 2;
@@ -9,8 +43,44 @@ else {
 return recursao(recursao(n/3));
 }
 }
-A 8͘
+A 8.
 B 9.
 C 12.
-D 16.
-E 18
+M 16.
+N 18.
+QUNSTÃO 24
+ConsiTere as seguintes tabelas Te um banco Te TaTos:
+1. &orneceTor (coTͺfornec,  nomeͺfornec,  telefone,  
+ciTaTe,  U&)
+2. NstaTo (U&,  nomeͺestaTo)
+  expressão SY> que obtém os nomes Tos estaTos 
+para os quais não UA forneceTores caTastraTos é
+A
+SNLNCT N.UF
+FROM NstaTo AS N
+PHNRN N.nome_estaTo NOT CN (
+ SNLNCT F.UF
+ FROM ForneceTor AS F);
+B
+SNLNCT N.nome_estaTo
+FROM NstaTo AS N, FROM 
+ForneceTor AS F
+PHNRN N.UF = F.UF;
+C
+SNLNCT N.nome_estaTo
+FROM NstaTo AS N
+PHNRN N.UF NOT CN (
+ SNLNCT F.UF
+ FROM ForneceTor AS F);
+M
+SNLNCT N.nome_estaTo
+FROM NstaTo AS N, FROM 
+ForneceTor AS F
+PHNRN N.nome_estaTo = F.UF;
+N
+SNLNCT N.nome_estaTo
+FROM NstaTo AS N
+PHNRN N.UF CN (
+ SNLNCT F.UF
+ FROM ForneceTor AS F);
+*R03201420*

@@ -5,44 +5,19 @@
   "paginas": [
     8
   ],
-  "segmentos": [
-    {
-      "pagina": 8,
-      "x0": 25.0,
-      "y0": 394.36669921875,
-      "x1": 294.59999999999997,
-      "y1": 645.8067016601562,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q12.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q12.txt",
   "largura": 1153,
   "altura": 1078,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 12\nAo longo de todo o desenvolvimento do software,\ndevem ser aplicadas atividades de garantia de\nqualidade de software (GQS), entre as quais se\nencontra a atividade de teste. Um dos critérios\nde teste utilizados para gerar casos de teste é o\ndenominado critério dos caminhos básicos, cujo\nnúmero de caminhos pode ser determinado com\nbase \nna \ncomplexidade \nciclomática.\nConsiderando-se o grafo de fluxo de controle\napresentado na figura ao lado, no qual os nós\nrepresentam os blocos de comandos e as\narestas representam a transferência de controle,\nqual a quantidade de caminhos básicos que\ndevem ser testados no programa associado a esse grafo\nde fluxo de controle, sabendo-se que essa quantidade é\nigual à complexidade ciclomática mais um?\nA\n1.\nB\n3.\nC\n4.\nD\n7.\nE\n8.\n1\n2\n3\n4\n5\n6\n7",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 12,
-      "tipo": "OBJETIVA",
-      "pagina": 8,
-      "x": 36.8390998840332,
-      "y": 406.36669921875,
-      "x1": 106.20230865478516,
-      "y1": 417.4067077636719,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 12"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Programação e POO",
+    "Algoritmos e Estruturas de Dados",
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.026865"
+  "texto_completo": "7\nCOMPUTAÇÃO\nCOMPONNNTN NSPNCÍFCCO\nAs questões Te 11 a 20, a seguir, são comuns para os estuTantes Te cursos com perfis profissionais Te\nBACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO, NNGNNHARCA MN COMPUTAÇÃO e \nBACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.\nQUNSTÃO 11\nCom relação às Tiferentes tecnologias Te armazenamento\nTe TaTos, julgue os itens a seguir.\nC\nQuanTo a tensão Te alimentação Te uma memória\nROM é TesligaTa, os TaTos Tessa memória são\napagaTos. Por isso, esse tipo Te memória é\nTenominaTo volátil.\nCC\nO tempo Te acesso à memória RAM é maior que o\ntempo Te acesso a um registraTor Ta uniTaTe central\nTe processamento (UCP).\nCCC O tempo Te acesso à memória cacUe Ta UCP é menor\nque o tempo Te acesso a um Tisco magnético.\nCV O tempo Te acesso à memória cacUe Ta UCP é maior\nque o tempo Te acesso à memória RAM.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CCC.\nM CC e CV.\nN CCC e CV.\nQUNSTÃO 12\nAo longo Te toTo o Tesenvolvimento To software,\nTevem ser aplicaTas ativiTaTes Te garantia Te\nqualiTaTe Te software (GQS), entre as quais se\nencontra a ativiTaTe Te teste. Um Tos critérios\nTe teste utilizaTos para gerar casos Te teste é o\nTenominaTo critério Tos caminUos básicos, cujo\nnúmero Te caminUos poTe ser TeterminaTo com\nbase \nna \ncomplexiTaTe \nciclomática.\nConsiTeranTo-se o grafo Te fluxo Te controle\napresentaTo na figura ao laTo, no qual os nós\nrepresentam os blocos Te comanTos e as\narestas representam a transferência Te controle,\nqual a quantiTaTe Te caminUos básicos que\nTevem ser testaTos no programa associaTo a esse grafo\nTe fluxo Te controle, sabenTo-se que essa quantiTaTe é\nigual à complexiTaTe ciclomática mais um?\nA\n1.\nB\n3.\nC\n4.\nM\n7.\nN\n8.\nQUNSTÃO 13\nConsiTeranTo o conjunto A = {1, 2, 3, 4, 5, 6}, qual opção\ncorresponTe a uma partição Tesse conjunto?\nA\n{{1}, {2}, {3}, {4}, {5}, {6}}\nB\n{{1}, {1,2}, {3,4}, {5, 6}}\nC\n{{ }, {1, 2, 3}, {4, 5, 6}}\nM\n{{1, 2, 3}, {5, 6}}\nN\n{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}\nQUNSTÃO 14\nUm programaTor propôs um algoritmo não-recursivo\npara o percurso em preorTem Te uma árvore binária com\nas seguintes características.\n<\nCaTa nó Ta árvore binária é representaTo por um\nregistro com três campos: cUave, que armazena seu\niTentificaTor; esq e Tir, ponteiros para os filUos\nesquerTo e Tireito, respectivamente.\n<\nO algoritmo Teve ser invocaTo inicialmente tomanTo o\nponteiro para o nó raiz Ta árvore binária como\nargumento.\n<\nO algoritmo utiliza pusU() e pop() como funções\nauxiliares Te empilUamento e TesempilUamento Te\nponteiros para nós Te árvore binária, respectivamente.\nA seguir, está apresentaTo o algoritmo proposto, em\nque 8 representa o ponteiro nulo.\nProceTimento preorTem (ptraiz : PtrNoArvBin)\n  Var ptr : PtrNoArvBin;\n  ptr := ptraiz;\n  Nnquanto (ptr … 8) Faça\n     escreva (ptr8.cUave);\n     Se (ptr8.Tir … 8) Nntão\n        pusU(ptr8.Tir);\n     Se (ptr8.esq … 8) Nntão\n        pusU(ptr8.esq);\n      ptr := pop();\n  Fim_Nnquanto\nFim_ProceTimento\nCom base nessas informações e suponTo que a raiz Te\numa árvore binária com n nós seja passaTa ao\nproceTimento preorTem(), julgue os itens seguintes.\nC\nO algoritmo visita caTa nó Ta árvore binária exatamente\numa vez ao longo To percurso.\nCC\nO algoritmo só funcionará corretamente se o\nproceTimento pop() for projetaTo Te forma a retornar 8\ncaso a pilUa esteja vazia.\nCCC NmpilUar e TesempilUar ponteiros para nós Ta árvore\nsão operações que poTem ser implementaTas com\ncusto constante. \nCV A complexiTaTe To pior caso para o proceTimento\npreorTem() é O(n).\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CV estão certos.\nC\nApenas os itens C, CC e CCC estão certos.\nM\nApenas os itens CC, CCC e CV estão certos.\n1\n2\n3\n4\n5\n6\n7",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q12.png",
+  "caminho_json": "/questoes/2008_CCP/q12.json",
+  "caminho_txt": "/questoes/2008_CCP/q12.txt"
 }

@@ -1,33 +1,89 @@
-QUESTÃO 12  
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+10
+QUNSTÃO 12  
 Analise as seguintes afirmações sobre a UML (Linguagem 
-de Modelagem Unificada).
-I. 
-A UML é uma metodologia para o desenvolvimento 
-de software orientado a objetos, uma vez que 
-fornece um conjunto de representações gráficas 
-e sua semântica para a modelagem de software.
-II. O diagrama de casos de uso procura, por 
-meio de uma linguagem simples, demonstrar 
-o comportamento externo do sistema. Esse 
-diagrama apresenta o sistema sob a perspectiva 
-do usuário, e é dentre todos da UML, o mais 
+Te MoTelagem UnificaTa).
+C. 
+A UML é uma metoTologia para o Tesenvolvimento 
+Te software orientaTo a objetos, uma vez que 
+fornece um conjunto Te representações gráficas 
+e sua semântica para a moTelagem Te software.
+CC. O Tiagrama Te casos Te uso procura, por 
+meio Te uma linguagem simples, Temonstrar 
+o comportamento externo To sistema. Nsse 
+Tiagrama apresenta o sistema sob a perspectiva 
+To usuário, e é Tentre toTos Ta UML, o mais 
 abstrato, flexível e informal.
-III. Um relacionamento de extensão de um caso de 
-uso “A” para um caso de uso “B” significa que 
-toda vez que “A” for executado ele incorporará o 
-comportamento definido em “B”.
-IV. Os diagramas de comportamento da UML 
-demonstram 
+CCC. Um relacionamento Te extensão Te um caso Te 
+uso “A” para um caso Te uso “B” significa que 
+toTa vez que “A” for executaTo ele incorporará o 
+comportamento TefiniTo em “B”.
+CV. Os Tiagramas Te comportamento Ta UML 
+Temonstram 
 como 
 ocorrem 
 as 
 trocas 
-de 
-mensagens entre os objetos do sistema para se 
-atingir um determinado objetivo. 
+Te 
+mensagens entre os objetos To sistema para se 
+atingir um TeterminaTo objetivo. 
 É correto apenas o que se afirma em
-A   I e II.
-B   II e IV.
-C   III e IV.
-D   I, II e III.
-E   II, III e IV.
+A   C e CC.
+B   CC e CV.
+C   CCC e CV.
+M   C, CC e CCC.
+N   CC, CCC e CV.
+QUNSTÃO 13  
+A linguagem gráfica NPC/ARCS é utilizaTa para moTelar 
+processos Te negócios. Para isso, utiliza Tiversos recursos 
+para Tescrever, representar ou inTicar, por exemplo, 
+ativiTaTes, funções, processos e fluxos. Nesse contexto, 
+avalie as afirmações a seguir.
+C. 
+A ligação entre Tois processos é inTicaTa por um 
+conector.
+CC. A Tescrição Te um processo Teve iniciar e terminar 
+em um evento.
+CCC. As funções, ou ativiTaTes, são representaTas por 
+um retângulo com borTas arreTonTaTas.
+É correto apenas o que se afirma em
+A   C.
+B   CC.
+C   CCC.
+M   C e CC.
+N   CC e CCC.
+QUNSTÃO 14  
+O Tiagrama Te ativiTaTes é um Tos Tiagramas Tisponíveis 
+na UML (Linguagem Te MoTelagem UnificaTa) para a 
+moTelagem Te aspectos Tinâmicos Te sistemas.
+AtiviTaTe 01
+AtiviTaTe 02
+AtiviTaTe 03
+AtiviTaTe 04
+AtiviTaTe 05
+[não]
+[sim]
+Com relação ao Tiagrama Te ativiTaTes apresentaTo, 
+avalie as afirmações a seguir.
+C. 
+A ativiTaTe 05 será executaTa se a ativiTaTe 03 ou 
+a ativiTaTe 04 for concluíTa.
+CC. A ramificação sequencial existente após a 
+ativiTaTe 02 significa que, caso o fluxo seja [não], 
+é necessário que sejam executaTas novamente as 
+ativiTaTes 01 e 02.
+CCC. As ativiTaTes 03 e 04 vão ter início ao mesmo 
+tempo, entretanto, não significa que terminarão ao 
+mesmo tempo.
+CV. Caso o fluxo Ta ramificação sequencial existente 
+após a ativiTaTe 02 tenUa o fluxo [sim], a ativiTaTe 
+02 não será mais executaTa.
+É correto apenas o que afirma em
+A   C e CC.
+B   CC e CCC.
+C   CCC e CV.
+M   C, CC e CV.
+N   C, CCC e CV.
+*A25201110*

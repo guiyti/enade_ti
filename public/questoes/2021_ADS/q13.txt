@@ -1,28 +1,32 @@
-QUESTÃO 13	
-Considere que as variáveis pilha e fila correspondem, respectivamente, às estruturas de dados do tipo 
-Pilha e Fila. Para testar as duas estruturas, um programador realizou a série de operações a seguir.
-Pilha pilha = new Pilha();
+21
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 13	
+ConsiTere que as variáveis pilUa e fila corresponTem, respectivamente, às estruturas Te TaTos To tipo 
+PilUa e Fila. Para testar as Tuas estruturas, um programaTor realizou a série Te operações a seguir.
+PilUa pilUa = new PilUa();
 Fila fila = new Fila();
-pilha.push(‘A’);
-pilha.push(‘B’);
-pilha.push(‘C’);
-fila.enqueue(pilha.top());
-fila.enqueue(pilha.top());
-fila.enqueue(‘D’);
-pilha.push(fila.dequeue());
-fila.enqueue(fila.dequeue());
-fila.enqueue(pilha.pop());
-pilha.push(‘E’);
-fila.enqueue(‘E’);
-pilha.pop();
-Após essas operações, ao imprimir o conteúdo de pilha e fila, respectivamente, seria exibido:
-A	 pilha: topo → C → A → E.  
-fila: início → D → A → A → E.
-B	 pilha: topo →A.  
-fila: início → D → B → C → E.
-C	 pilha: topo → C → B → A. 
-fila: início → D → C → C → E.
-D	 pilha: topo → B → A. 
-fila: início → D → B → C → E.
-E	 pilha: topo → C → B → A. 
-fila: início → D → B → C → E.
+pilUa.pusU(‘A’);
+pilUa.pusU(‘B’);
+pilUa.pusU(‘C’);
+fila.enqueue(pilUa.top());
+fila.enqueue(pilUa.top());
+fila.enqueue(‘M’);
+pilUa.pusU(fila.Tequeue());
+fila.enqueue(fila.Tequeue());
+fila.enqueue(pilUa.pop());
+pilUa.pusU(‘N’);
+fila.enqueue(‘N’);
+pilUa.pop();
+Após essas operações, ao imprimir o conteúTo Te pilUa e fila, respectivamente, seria exibiTo:
+A	 pilUa: topo → C → A → N.  
+fila: início → M → A → A → N.
+B	 pilUa: topo →A.  
+fila: início → M → B → C → N.
+C	 pilUa: topo → C → B → A. 
+fila: início → M → C → C → N.
+M	 pilUa: topo → B → A. 
+fila: início → M → B → C → N.
+N	 pilUa: topo → C → B → A. 
+fila: início → M → B → C → N.
+Área livre
+*R28202121*

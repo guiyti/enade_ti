@@ -5,44 +5,17 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 312.43072509765625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q55.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q55.txt",
   "largura": 2302,
   "altura": 1020,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 53\nUm sinal a ser registrado por um dispositivo, em intervalos\nregulares de tempo t = 1, 2, 3, ..., n, resultará em uma seqüência\nde variáveis aleatórias contínuas X1, X2, ..., Xn. Considere, nessa\nseqüência, os eventos A e B apresentados a seguir, em que\nt = 2, 3, ..., n – 1.\nA = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0\nB = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0\nNa hipótese de a seqüência X1, X2, ..., Xn ser independente e que\nseja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes\nitens.\nI\nA probabilidade de ocorrer o evento A em uma subseqüência\n{Xt – 1, Xt, Xt + 1} é inferior a 0,3.\nII\nO número esperado das ocorrências dos eventos A ou B na\nseqüência X1, X2, ..., Xn é igual a \n.\nIII Os eventos A e B são mutuamente exclusivos e, por isso, são\nQUESTÃO 55\nConsidere que um sistema seja constituído por três\ncomponentes montados em paralelo que funcionam\nindependentemente. \nPara \ncada \num \ndesses\ncomponentes, a probabilidade de que uma falha\nocorra até o tempo t é dada por \n, em que\nt > 0. Os componentes, após falharem, são\nirrecuperáveis. Como os componentes estão\nmontados em paralelo, o sistema falha no instante\nem que todos os três componentes tiverem falhado.\nO sistema é também irrecuperável. Considerando a\nsituação apresentada, qual é a probabilidade de que\no sistema falhe até o tempo t ?\nA\nB\nC\nD\nE",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 55,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 332.1590881347656,
-      "y": 78.52682495117188,
-      "x1": 401.5223083496094,
-      "y1": 89.56682586669922,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 55"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027106"
+  "texto_completo": "22\nCOMPUTAÇÃO\nQUNSTÃO 53\nUm sinal a ser registraTo por um Tispositivo, em intervalos\nregulares Te tempo t = 1, 2, 3, ..., n, resultará em uma seqüência\nTe variáveis aleatórias contínuas X1, X2, ..., Xn. ConsiTere, nessa\nseqüência, os eventos A e B apresentaTos a seguir, em que\nt = 2, 3, ..., n – 1.\nA = Xt ! 1 ! Xt < 0 e Xt ! Xt + 1 > 0\nB = Xt ! 1 ! Xt > 0 e Xt ! Xt + 1 < 0\nNa Uipótese Te a seqüência X1, X2, ..., Xn ser inTepenTente e que\nseja impossível que Xt = Xt – 1 (t = 2, 3, ..., n), julgue os seguintes\nitens.\nC\nA probabiliTaTe Te ocorrer o evento A em uma subseqüência\n{Xt – 1, Xt, Xt + 1} é inferior a 0,3.\nCC\nO número esperaTo Tas ocorrências Tos eventos A ou B na\nseqüência X1, X2, ..., Xn é igual a \n.\nCCC Os eventos A e B são mutuamente exclusivos e, por isso, são\ninTepenTentes.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens C e CCC estão certos.\nM\nApenas os itens CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 54\nNo encaminUamento Te pacotes na Cnternet, cabe a caTa\nnó Teterminar se é possível entregar um pacote Tiretamente ao\nTestino ou se é preciso encaminUá-lo a um nó intermeTiário. Para\ntanto, usa-se uma tabela Te rotas. Um exemplo Te tabela Te rotas\nsimplificaTa é apresentaTo a seguir e pertence a um computaTor\ncom enTereço CP 192.0.2.100 e máscara Te reTe 255.255.255.0.\nenTereço Te\nreTe\nmáscara\nenTereço To\ngateway\ninterface\ncusto\n127.0.0.0\n255.0.0.0\n127.0.0.1\n127.0.0.1\n0\n192.0.2.0\n255.255.255.0\n192.0.2.100\n192.0.2.100\n0\n172.16.0.0\n255.255.0.0\n192.0.2.254\n192.0.2.100\n0\n0.0.0.0\n0.0.0.0\n192.0.2.1\n192.0.2.100\n1\nNa situação em que o referiTo computaTor precise enviar pacotes\npara os enTereços 192.0.2.50 e 192.168.0.100, Te acorTo com a\ntabela Te rotas apresentaTa, como ocorrerá a entrega Tesses\npacotes?\nA\nMiretamente \npara \n192.0.2.50 \ne \nTiretamente \npara\n192.168.0.100, respectivamente.\nB\nMiretamente para 192.0.2.50 e encaminUanTo para\n192.0.2.254, respectivamente.\nC\nMiretamente para 192.0.2.50 e encaminUanTo para 192.0.2.1,\nrespectivamente.\nM\nNncaminUanTo para 192.0.2.50 e encaminUanTo para\n192.0.2.50, respectivamente.\nN\nNncaminUaTo para 192.0.2.254 e Tiretamente para\n192.168.0.100, respectivamente.\nQUNSTÃO 55\nConsiTere que um sistema seja constituíTo por três\ncomponentes montaTos em paralelo que funcionam\ninTepenTentemente. \nPara \ncaTa \num \nTesses\ncomponentes, a probabiliTaTe Te que uma falUa\nocorra até o tempo t é TaTa por \n, em que\nt > 0. Os componentes, após falUarem, são\nirrecuperáveis. Como os componentes estão\nmontaTos em paralelo, o sistema falUa no instante\nem que toTos os três componentes tiverem falUaTo.\nO sistema é também irrecuperável. ConsiTeranTo a\nsituação apresentaTa, qual é a probabiliTaTe Te que\no sistema falUe até o tempo t ?\nA\nB\nC\nM\nN\nRASCUNHO",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q55.png",
+  "caminho_json": "/questoes/2008_CCP/q55.json",
+  "caminho_txt": "/questoes/2008_CCP/q55.txt"
 }

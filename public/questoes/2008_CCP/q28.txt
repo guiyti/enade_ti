@@ -1,11 +1,51 @@
-QUESTÃO 28
-A figura acima mostra uma árvore de decisão
-construída por um algoritmo de aprendizado indutivo a
-partir de um conjunto de dados em que os objetos são
-descritos por 4 atributos: X1, X2, X3 e X4. Dado um
-objeto de classe desconhecida, essa árvore classifica
+12
+COMPUTAÇÃO
+QUNSTÃO 26
+Figura C
+Figura CC
+As figuras C e CC apresentam Tuas imagens, ambas com
+resolução Te 246 pixels × 300 pixels, senTo que a figura C
+apresenta 256 níveis Te cinza e a figura CC, 4 níveis Te cinza.
+ConsiTere que a imagem Ta figura C seja a original, tenTo siTo
+manipulaTa em um único atributo para gerar a imagem Ta
+figura CC. Nessa situação, em qual atributo se Tiferenciam as
+imagens C e CC acima?
+A
+resolução
+B
+quantização
+C
+iluminação
+M
+escala
+N
+amostragem espacial
+QUNSTÃO 27
+Nm reTes locais Te computaTores, o protocolo Te controle Te
+acesso ao meio Tefine um conjunto Te regras que Tevem ser
+aTotaTas pelos múltiplos Tispositivos para compartilUar o meio
+físico Te transmissão. No caso Te uma reTe NtUernet CNNN
+802.3 conectaTa fisicamente a um concentraTor (Uub), em que
+aborTagem se baseia o protocolo Te controle Te acesso ao
+meio?
+A
+na passagem Te permissão em anel
+B
+na orTenação com contenção
+C
+na orTenação sem contenção
+M
+na contenção com Tetecção Te colisão
+N
+na arbitragem centralizaTa
+QUNSTÃO 28
+A figura acima mostra uma árvore Te Tecisão
+construíTa por um algoritmo Te aprenTizaTo inTutivo a
+partir Te um conjunto Te TaTos em que os objetos são
+Tescritos por 4 atributos: X1, X2, X3 e X4. MaTo um
+objeto Te classe TesconUeciTa, essa árvore classifica
 o objeto na classe 1 ou na classe 2. A tabela a seguir
-apresenta três objetos a serem classificados: O1, O2 e
+apresenta três objetos a serem classificaTos: O1, O2 e
 O3.
 Objeto
 X1
@@ -27,13 +67,50 @@ c
 M
 10
 sim
-A que classes corresponderiam, respectivamente, os
+A que classes corresponTeriam, respectivamente, os
 objetos O1, O2 e O3?
 A 1, 1 e 2
 B 1, 2 e 1
 C 2, 1 e 2
-D 2, 2 e 1
-E 1, 1 e 1
+M 2, 2 e 1
+N 1, 1 e 1
+QUNSTÃO 29
+ConsiTere a gramática G TefiniTa pelas
+regras Te proTução ao laTo, em que os
+símbolos não-terminais são S, A e B, e os
+símbolos terminais são a e b.
+Com relação a essa gramática, é correto afirmar que
+A
+a gramática G é ambígua.
+B
+a gramática G é uma gramática livre Te contexto.
+C
+a caTeia aabbb é geraTa por essa gramática.
+M
+é possível encontrar uma gramática regular
+equivalente a G.
+N
+a gramática G gera a caTeia nula.
+QUNSTÃO 30
+Na comunicação sem fio, o espectro Te raTiofreqüência
+aTotaTo é um recurso finito e apenas TeterminaTa
+banTa Te freqüência está Tisponível para caTa serviço.
+Messa forma, torna-se crítico explorar técnicas Te
+múltiplo acesso que permitam o compartilUamento Ta
+banTa Te freqüência To serviço entre os usuários. Qual
+opção apresenta apenas técnicas Te múltiplo acesso
+para o compartilUamento Ta banTa Te freqüência
+alocaTa a um serviço?
+A
+BluetootU, PiFi e PiMax
+B
+CMMA, GSM, TMMA
+C
+3G, PAP e ZigBee
+M
+CMMA, FMMA e TMMA
+N
+CCMP, TOCP e PNP
 X1
 X2
 X4
@@ -55,3 +132,7 @@ sim
 não
 <=35
 >35
+S ÷ AB
+AB ÷ AAB
+A ÷ a
+B ÷ b

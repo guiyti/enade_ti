@@ -1,17 +1,37 @@
-QUESTÃO DISCURSIVA 3
-K ũŽŐŽ ^ƵĚŽŬƵ ĐŽŶƐŝƐƚĞ Ğŵ ƵŵĂ ŵĂƚƌŝǌ 9ǆ9 ĚŝǀŝĚŝĚĂ Ğŵ 9 ƐƵďͲŵĂƚƌŝǌĞƐ 3ǆ3͕  ĐŽŵŽ ŵŽƐƚƌĂĚŽ ŶĂ ĮŐƵƌĂ Ă ƐĞŐƵŝƌ͘
-DŝƐƉŽŶşǀĞů Ğŵ фŚƩƉ͗ͬͬ
-ǁǁǁ͘ ĞŶͲǁŝŬŝƉĞĚŝĂ͘ ŽƌŐх͘   ĐĞƐƐŽ Ğŵ͗  26 ũƵů 2014 ;ĂĚĂƉƚĂĚŽͿ͘
-  ŵĂƚƌŝǌ ĞƐƚĄ ƉĂƌĐŝĂůŵĞŶƚĞ ƉƌĞĞŶĐŚŝĚĂ ĐŽŵ ŶƷŵĞƌŽƐ ĚĞ 1 Ă 9͕  Ğ Ž ŽďũĞƟǀŽ ĚŽ ũŽŐŽ Ġ ĐŽŵƉůĞƚĂƌ Ă ŵĂƚƌŝǌ͕  ĚĞ 
-ĨŽƌŵĂ ƋƵĞ ĐĂĚĂ ůŝŶŚĂ͕  ĐŽůƵŶĂ Ğ ƐƵďͲŵĂƚƌŝǌ ĐŽŶƚĞŶŚĂŵ ƚŽĚŽƐ ŽƐ ŶƷŵĞƌŽƐ ĚĞ 1 Ă 9͘
-  ƉĂƌƟƌ ĚĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĞƐĐƌĞǀĂ Ƶŵ ĂůŐŽƌŝƚŵŽ ƌĞĐƵƌƐŝǀŽ ďĂƐĞĂĚŽ Ğŵ ƌĞƚƌŽĐĞƐƐŽ ;backtrackingͿ ƉĂƌĂ 
-ƌĞƐŽůǀĞƌ Ž ũŽŐŽ͘    ŵĂƚƌŝǌ ĨŽŝ ƚƌĂŶƐĨŽƌŵĂĚĂ Ğŵ Ƶŵ ǀĞƚŽƌ V ĚĞ 81 ƉŽƐŝĕƁĞƐ͕  ĐŽŶƚĞŶĚŽ ǌĞƌŽƐ ŶĂƐ ƉŽƐŝĕƁĞƐ ƋƵĞ 
-ĨĂůƚĂŵ ƉĂƌĂ ƐĞƌĞŵ ƉƌĞĞŶĐŚŝĚĂƐ͘
-IŽŶƐŝĚĞƌĞ  ƋƵĞ  ĞǆŝƐƚĞŵ  ĚƵĂƐ  ĨƵŶĕƁĞƐ  ŝŵƉůĞŵĞŶƚĂĚĂƐ͘      ƉƌŝŵĞŝƌĂ  ĨƵŶĕĆŽ͕   NaoHaViolacao(x,i,V)͕  
-ƌĞƚŽƌŶĂ ǀĞƌĚĂĚĞŝƌŽ ƐĞ Ă ŝŶƐĞƌĕĆŽ ĚŽ ŶƷŵĞƌŽ x ŶĂ ƉŽƐŝĕĆŽ i ĚŽ ǀĞƚŽƌ V ŶĆŽ ĐĂƵƐĂ ǀŝŽůĂĕĆŽ ĚĂƐ ƌĞƐƚƌŝĕƁĞƐ 
-ĚŽ ũŽŐŽ ;ŶƷŵĞƌŽ ƌĞƉĞƟĚŽ Ğŵ ůŝŶŚĂ͕  ĐŽůƵŶĂ ŽƵ ƐƵďͲŵĂƚƌŝǌͿ͘    ƐĞŐƵŶĚĂ ĨƵŶĕĆŽ͕ Imprime(V), ƌĞĂůŝǌĂ Ă 
-ŝŵƉƌĞƐƐĆŽ ĚŽ ǀĞƚŽƌ V.
-IŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  ƋƵĞ Ž ĂůŐŽƌŝƚŵŽ ĚĞǀĞ ŝŵƉƌŝŵŝƌ Ž ǀĞƚŽƌ V ĐŽŵ Ă ƐŽůƵĕĆŽ ĞŶĐŽŶƚƌĂĚĂ͕  ƐĞ ĞƐƚĂ ĞǆŝƐƟƌ͘  
-;ǀĂůŽƌ͗  10͕ 0 ƉŽŶƚŽƐͿ
-KďƐĞƌǀĂĕĆŽ͗  YƵĂůƋƵĞƌ ŶŽƚĂĕĆŽ Ğŵ ƉŽƌƚƵŐƵġƐ ĞƐƚƌƵƚƵƌĂĚŽ͕  ĚĞ ĨŽƌŵĂ ŝŵƉĞƌĂƟǀĂ ŽƵ ŽƌŝĞŶƚĂĚĂ Ă ŽďũĞƚŽƐ ƉŽĚĞ 
-ƐĞƌ ƵƟůŝǌĂĚĂ͕  ĂƐƐŝŵ ĐŽŵŽ Ğŵ ƵŵĂ ůŝŶŐƵĂŐĞŵ ĚĞ ĂůƚŽ ŶşǀĞů͕  ĐŽŵŽ WĂƐĐĂů͕  I ŽƵ :ĂǀĂ͘
+9
+C/NNC/  M  COMPUT AãO 
+COMPONNNTN NSPNCÍFCCO
+QUNSTÃO MCSCURSCVA 3
+O ũogo SuToŬu consiste em uma matriz 9x9 TiviTiTa em 9 sub-matrizes 3x3,  como mostraTo na fgura a seguir.
+Misponível em фUtp:ͬͬ
+ǁǁǁ. en-ǁiŬipeTia. orgх.   cesso em:  26 ũul 2014 (aTaptaTo).
+  matriz estA parcialmente preencUiTa com numeros Te 1 a 9,  e o obũetivo To ũogo é completar a matriz,  Te 
+forma que caTa linUa,  coluna e sub-matriz contenUam toTos os numeros Te 1 a 9.
+  partir Tessas informações,  escreva um algoritmo recursivo baseaTo em retrocesso (backtracking) para 
+resolver o ũogo.    matriz foi transformaTa em um vetor V Te 81 posições,  contenTo zeros nas posições que 
+faltam para serem preencUiTas.
+ConsiTere  que  existem  Tuas  funções  implementaTas.      primeira  função,   NaoHaViolacao(x,i,V),  
+retorna verTaTeiro se a inserção To numero x na posição i To vetor V não causa violação Tas restrições 
+To ũogo (numero repetiTo em linUa,  coluna ou sub-matriz).    segunTa função, Cmprime(V), realiza a 
+impressão To vetor V.
+ConsiTere,  ainTa,  que o algoritmo Teve imprimir o vetor V com a solução encontraTa,  se esta existir.  
+(valor:  10, 0 pontos)
+Observação:  Yualquer notação em portugugs estruturaTo,  Te forma imperativa ou orientaTa a obũetos poTe 
+ser utilizaTa,  assim como em uma linguagem Te alto nível,  como Pascal,  C ou :ava.
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R0320149*

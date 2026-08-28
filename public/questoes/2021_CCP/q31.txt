@@ -1,32 +1,34 @@
-QUESTÃO 31	
-Semelhante a um autômato finito mas com uma memória ilimitada e irrestrita, uma máquina de Turing é um 
-modelo muito mais preciso de um computador de propósito geral. Uma máquina de Turing pode fazer tudo o 
-que um computador real pode fazer, entretanto mesmo ela não pode resolver certos problemas. Num sentido 
-muito real, esses problemas estão além dos limites teóricos da computação.
-SIPSER, M. Introdução à Teoria da Computação. 2. ed. norte-americana. Cengage CTP, 2007 (adaptado).
-Considere a seguinte máquina de Turing M que aceita apenas números binários palíndromos cujo 
+40
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 31	
+SemelUante a um autômato finito mas com uma memória ilimitaTa e irrestrita, uma máquina Te Turing é um 
+moTelo muito mais preciso Te um computaTor Te propósito geral. Uma máquina Te Turing poTe fazer tuTo o 
+que um computaTor real poTe fazer, entretanto mesmo ela não poTe resolver certos problemas. Num sentiTo 
+muito real, esses problemas estão além Tos limites teóricos Ta computação.
+SCPSNR, M. CntroTução à Teoria Ta Computação. 2. eT. norte-americana. Cengage CTP, 2007 (aTaptaTo).
+ConsiTere a seguinte máquina Te Turing M que aceita apenas números binários palínTromos cujo 
 comprimento é par.
-Observação: no diagrama, as transições estão representadas no seguinte formato: "Leitura/Escrita 
-Movimento", onde direção pode ser "D" (direita) ou "E" (esquerda). Exemplo: "0/B D" significa que o 
-símbolo lido é "0", o símbolo escrito é "B" e o movimento é para a direita.
-B/B D
-0/B E
-B/B D
-B/B E
-0/B D
-1/B E
-B/B D
-B/B E
-1/B D
-0/0 E, 1/1 E
-0/0 E,
-1/1 E
-0/0 D,
-1/1 D
-0/0 D,
-1/1 D
-0/0 E,
-1/1 E
+Observação: no Tiagrama, as transições estão representaTas no seguinte formato: "Leitura/Nscrita 
+Movimento", onTe Tireção poTe ser "M" (Tireita) ou "N" (esquerTa). Nxemplo: "0/B M" significa que o 
+símbolo liTo é "0", o símbolo escrito é "B" e o movimento é para a Tireita.
+B/B M
+0/B N
+B/B M
+B/B N
+0/B M
+1/B N
+B/B M
+B/B N
+1/B M
+0/0 N, 1/1 N
+0/0 N,
+1/1 N
+0/0 M,
+1/1 M
+0/0 M,
+1/1 M
+0/0 N,
+1/1 N
 q0
 q4
 q3
@@ -36,15 +38,17 @@ q5
 q6
 q7
 qf
-Considerando que o estado inicial de M é q0, que a sua fita se encontra inicializada com a entrada 110011 
-e infinitos símbolos "B" à esquerda e à direita, e que a cabeça de leitura encontra-se inicialmente no 
-símbolo mais à esquerda da entrada, avalie as afirmações a seguir.
-I.	 Após 4 movimentos de M, o conteúdo da fita, excluindo-se os símbolos "B", é "110011".
-II.	 Após 8 movimentos de M, o conteúdo da fita, excluindo-se os símbolos "B", é "1001". 
-III.	 A máquina irá certamente travar em um estado de aceitação. 
-IV.	 Existe um autômato com pilha que também aceita a linguagem de M.
+ConsiTeranTo que o estaTo inicial Te M é q0, que a sua fita se encontra inicializaTa com a entraTa 110011 
+e infinitos símbolos "B" à esquerTa e à Tireita, e que a cabeça Te leitura encontra-se inicialmente no 
+símbolo mais à esquerTa Ta entraTa, avalie as afirmações a seguir.
+C.	 Após 4 movimentos Te M, o conteúTo Ta fita, excluinTo-se os símbolos "B", é "110011".
+CC.	 Após 8 movimentos Te M, o conteúTo Ta fita, excluinTo-se os símbolos "B", é "1001". 
+CCC.	 A máquina irá certamente travar em um estaTo Te aceitação. 
+CV.	 Nxiste um autômato com pilUa que também aceita a linguagem Te M.
 É correto apenas o que se afirma em
-A	 I e II. 
-B	 I e IV. 
-C	 II e III. 
-D I, III e IV.
+A	 C e CC. 
+B	 C e CV. 
+C	 CC e CCC. 
+M	 C, CCC e CV. 
+N	 CC, CCC e CV.
+*R02202140*

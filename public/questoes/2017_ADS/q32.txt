@@ -1,88 +1,102 @@
-QUESTÃO 32 
-hŵ ĐůŝĞŶƚĞ ƐŽůŝĐŝƚŽƵ Ă ƵŵĂ ĞŵƉƌĞƐĂ Ă ĐƌŝĂĕĆŽ ĚĞ Ƶŵ ďĂŶĐŽ ĚĞ ĚĂĚŽƐ ƉĂƌĂ ĂƌŵĂǌĞŶĂƌ Ž ƌĞƐƵůƚĂĚŽ ĚĞ 
-ƵŵĂ ĞůĞŝĕĆŽ ƉƌĞƐŝĚĞŶĐŝĂů͕  ĐŽŵ ĚĂĚŽƐ ƐŽďƌĞ ŽƐ ƉĂƌƟĚŽƐ ƉŽůşƟĐŽƐ͕  ŽƐ ĐĂŶĚŝĚĂƚŽƐ Ğ Ă ǀŽƚĂĕĆŽ ŽďƟĚĂ ƉŽƌ 
-ĐĂĚĂ ĐĂŶĚŝĚĂƚŽ Ğŵ ĐĂĚĂ ƵŶŝĚĂĚĞ ĚĂ ĨĞĚĞƌĂĕĆŽ͘  K ƐĞŐƵŝŶƚĞ ĚŝĂŐƌĂŵĂ ĚĞ EŶƟĚĂĚĞͲZĞůĂĐŝŽŶĂŵĞŶƚŽ ĨŽŝ 
-ĞůĂďŽƌĂĚŽ ĐŽŵŽ ƌĞƉƌĞƐĞŶƚĂĕĆŽ ĚŽƐ ƌĞƋƵŝƐŝƚŽƐ ŽďƟĚŽƐ ĐŽŵ Ž ĐůŝĞŶƚĞ͘
- Ɛ ƚĂďĞůĂƐ Ă ƐĞŐƵŝƌ ĐŽŶƚġŵ ŽƐ ĚĂĚŽƐ ƌĞŐŝƐƚƌĂĚŽƐ Ă ƉĂƌƟƌ ĚŽ ƌĞƐƵůƚĂĚŽ ĚĞƐƐĂ ĞůĞŝĕĆŽ͘
-WĂƌƟĚŽ
-IĂŶĚŝĚĂƚŽ
-sŽƚĂĕĆŽ
-ŶƷŵĞƌŽ
-ŶŽŵĞ
-ƐŝŐůĂ
-ŶƷŵĞƌŽ
-ŶŽŵĞ
-ƉĂƌƟĚŽ
-ǀŽƚŽƐ
-ĞƐƚĂĚŽ
+36
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO 32 
+Um cliente solicitou a uma empresa a criação Te um banco Te TaTos para armazenar o resultaTo Te 
+uma eleição presiTencial,  com TaTos sobre os partiTos políticos,  os canTiTatos e a votação obtiTa por 
+caTa canTiTato em caTa uniTaTe Ta feTeração.  O seguinte Tiagrama Te NntiTaTe-Zelacionamento foi 
+elaboraTo como representação Tos requisitos obtiTos com o cliente.
+ s tabelas a seguir contgm os TaTos registraTos a partir To resultaTo Tessa eleição.
+PartiTo
+CanTiTato
+sotação
+numero
+nome
+sigla
+numero
+nome
+partiTo
+votos
+estaTo
 91
-WĂƌƟĚŽ 1
-W1
+PartiTo 1
+P1
 91
-IĂŶĚŝĚĂƚŽ 1
+CanTiTato 1
 91
 12 345
- I
+ C
 92
-WĂƌƟĚŽ 2
-W2
+PartiTo 2
+P2
 92
-IĂŶĚŝĚĂƚŽ 2
+CanTiTato 2
 91
 98 323
-WE
+PN
 93
-WĂƌƟĚŽ 3
-W3
+PartiTo 3
+P3
 93
-IĂŶĚŝĚĂƚŽ 3
+CanTiTato 3
 91
 1 726 453
-^W
+SP
 94
-WĂƌƟĚŽ 4
-W4
+PartiTo 4
+P4
 94
-IĂŶĚŝĚĂƚŽ 4
+CanTiTato 4
 92
 98 463
- I
+ C
 95
-WĂƌƟĚŽ 5
-W5
+PartiTo 5
+P5
 95
-IĂŶĚŝĚĂƚŽ 5
+CanTiTato 5
 92
 192 837
-WE
+PN
 92
 4 283 747
-^W
+SP
 93
 16 253
- I
+ C
 93
 293 845
-WE
+PN
 93
 6 253 745
-^W
+SP
 94
 98 372
- I
+ C
 94
 598 333
-WE
+PN
+94
+8 271 347
+SP
+95
+46 837
+ C
+95
+327 264
+PN
+95
+5 938 374
+SP
 sigla
 nome
 numero
-Candidato
-Partido
+CanTiTato
+PartiTo
 Votacao
 nome
 numero
-partido
-estado
+partiTo
+estaTo
 Filia
 1
 1
@@ -90,20 +104,65 @@ Filia
 N
 Possui
 votos
+*R41201736*
 
-IŽŵ ďĂƐĞ ŶĂƐ ŝŶĨŽƌŵĂĕƁĞƐ Ğ ŶĂ ƐŝƚƵĂĕĆŽ ĂƉƌĞƐĞŶƚĂĚĂ͕  ƋƵĂů Ž ĐŽŵĂŶĚŽ ^Y> ƋƵĞ ƐĞůĞĐŝŽŶĂ ĐŽƌƌĞƚĂŵĞŶƚĞ 
-ŽƐ ŶŽŵĞƐ ĚŽƐ ĐĂŶĚŝĚĂƚŽƐ͕  ƐĞƵƐ ƉĂƌƟĚŽƐ Ğ Ž ƚŽƚĂů ĚĞ ǀŽƚŽƐ ĚĞ ĐĂĚĂ ƉĂƌƟĚŽ ŶĞƐƐĂ ĞůĞŝĕĆŽ͍
-A SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, 
-Votacao v WHERE c.numero = p.numero and v.partido = c.numero;
-B SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, 
-Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
+37
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+Com base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente 
+os nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍
+A SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;
+B SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
 c.nome, p.nome;
-C SELECT c.nome, p.nome, SUM(v.votos) FROM Partido p, Candidato c, 
-Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
+C SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
 c.nome, p.nome;
-D SELECT c.nome, p.nome, v.votos FROM Partido p, Candidato c, Votacao v 
-WHERE c.numero = p.numero and v.partido = c.numero GROUP BY c.nome, 
+M SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v 
+PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, 
 p.nome, SUM(v.votos);
-E SELECT c.nome, p.nome, COUNT(v.votos) FROM Partido p, Candidato c, 
-Votacao v WHERE c.numero = p.numero and v.partido = c.numero GROUP BY 
+N SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
 c.nome, p.nome, v.votos;
+QUNSTÃO 33
+  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te 
+baralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te 
+caTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  
+Teve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos 
+os momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.
+COZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).
+Um programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas 
+Tescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o 
+algoritmo não funcionava corretamente.
+01 para i <- 2 até 9 faça
+02
+valor <- vetor[i]
+03
+j <- i – 1
+04
+enquanto ((j >= 1) e (valor < vetor[j])) faça
+05
+   vetor[i] <- vetor[j]
+06
+      j <- j – 1
+07 
+ 
+se (j = 0) então
+08
+         interrompa
+N  
+ 
+¿P VH
+  
+¿P HQTXMQPR
+11
+vetor[j + 1] <- valor
+ ¿P SMUM
+Com base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo 
+a ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.
+A  >inUa 01; para i <- 1 até 9 faça
+B  >inUa 03; j <- i
+C  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
+M  >inUa 05͖     vetor[j + 1] <- vetor[j]
+N  >inUa 11͖     vetor[j] <- valor
+*R41201737*

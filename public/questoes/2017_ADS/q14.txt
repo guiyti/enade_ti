@@ -1,56 +1,80 @@
-QUESTÃO 14 
-K ŵĠƚŽĚŽ ĚŽ ĐĂŵŝŶŚŽ ĐƌşƟĐŽ ŝĚĞŶƟĮĐĂ Ă ƐĞƋƵġŶĐŝĂ 
-ĚĞ ĂƟǀŝĚĂĚĞƐ ƋƵĞ Ž ŐĞƌĞŶƚĞ ĚĞ ƉƌŽũĞƚŽƐ ĚĞǀĞ ĚĂƌ 
-ŵĂŝƐ  ĂƚĞŶĕĆŽ͕   ƉŽƌƋƵĞ͕   ĐĂƐŽ  ƵŵĂ  ĚĞůĂƐ  ĂƚƌĂƐĞ͕  
-ƚŽĚŽ Ž ƉƌŽũĞƚŽ ĞƐƚĂƌĄ ĂƚƌĂƐĂĚŽ͘    ƚĂďĞůĂ Ă ƐĞŐƵŝƌ 
-ĂƉƌĞƐĞŶƚĂ Ă ĞƐƚƌƵƚƵƌĂ ĚĞ ĂƟǀŝĚĂĚĞƐ ĚĞ Ƶŵ ƉƌŽũĞƚŽ͘
- ƟǀŝĚĂĚĞ
- ƟǀŝĚĂĚĞ
-ƉƌĞĚĞĐĞƐƐŽƌĂ
-DƵƌĂĕĆŽ 
-Ğŵ ĚŝĂƐ
+21
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+YUNSTãO 14 
+O métoTo To caminUo crítico iTentifca a sequgncia 
+Te ativiTaTes que o gerente Te proũetos Teve Tar 
+mais  atenção,   porque,   caso  uma  Telas  atrase,  
+toTo o proũeto estarA atrasaTo.    tabela a seguir 
+apresenta a estrutura Te ativiTaTes Te um proũeto.
+ tiviTaTe
+ tiviTaTe
+preTecessora
+Muração 
+em Tias
  
 --
 3
-
+B
  
 5
-I
+C
 --
 12
-D
+M
 --
 4
-E
-D
+N
+M
 2
 F
-D
+M
 5
 '
 F
 7
 ,
-E Ğ '
+N e '
 8
 /
-
+B
 11
 :
-I͕  , Ğ /
+C,  , e /
 3
-  ƉĂƌƟƌ ĚĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ ŶĂ ƚĂďĞůĂ͕  
-ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   K  ĐĂŵŝŶŚŽ  ĐƌşƟĐŽ  Ġ  ĐŽŵƉŽƐƚŽ  ƉĞůĂƐ 
-ĂƟǀŝĚĂĚĞƐ  ͕  ͕  / Ğ :͘
-//͘   K ĐĂŵŝŶŚŽ ĐƌşƟĐŽ ƚĞŵ 27 ĚŝĂƐ͘
-///͘     ĂƟǀŝĚĂĚĞ , ĨĂǌ ƉĂƌƚĞ ĚŽ ĐĂŵŝŶŚŽ ĐƌşƟĐŽ͘
-/s͘   K  ƉƌŽũĞƚŽ  Ğŵ  ƉĂƵƚĂ  ƉŽƐƐƵŝ  ĚŽŝƐ  ĐĂŵŝŶŚŽƐ 
-ĐƌşƟĐŽƐ͘
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  / Ğ //͘
-B  / Ğ /s͘
-C  // Ğ ///͘
-D  /͕  /// Ğ /s͘
-E  //͕  /// Ğ /s͘
-ƌĞĂ ůŝǀƌĞ
+  partir Tas informações apresentaTas na tabela,  
+avalie as afrmações a seguir.
+/.   O  caminUo  crítico  é  composto  pelas 
+ativiTaTes  ,  B,  / e :.
+//.   O caminUo crítico tem 27 Tias.
+///.     ativiTaTe , faz parte To caminUo crítico.
+/s.   O  proũeto  em  pauta  possui  Tois  caminUos 
+críticos.
+ correto apenas o que se afrma em
+A  / e //.
+B  / e /s.
+C  // e ///.
+M  /,  /// e /s.
+N  //,  /// e /s.
+Area livre
+YUNSTãO 15 
+Uma  empresa  multinacional  estA  avalianTo  um 
+inciTente Te segurança ocorriTo internamente com 
+o envolvimento Te um Te seus funcionArios,  o que 
+poTerA  ser  motivo  para  o  encerramento  Te  seu 
+contrato.  O referiTo funcionArio estava realizanTo o 
+compartilUamento Te senUas e também envianTo 
+mensagens  por  meio  To  serviço  Te  correio 
+eletrƀnico Ta empresa,  com o obũetivo Te Tifamar 
+e caluniar outros colegas Te trabalUo.
+Nessa  situação,   Te  acorTo  com  as  políticas 
+Te  segurança  que  Tefnem  os  Tireitos  e  as 
+responsabiliTaTes  Te  caTa  um  em  relação  a 
+segurança Tos recursos computacionais que utiliza,  
+o funcionArio violou a política Te
+A  senUas.
+B backup.
+C  privaciTaTe.
+M  uso aceitAvel.
+N  confTencialiTaTe.
+Area livre
+*R41201721*

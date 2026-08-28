@@ -1,17 +1,48 @@
-QUESTÃO 17	
-Os gestores precisam das informações certas na hora certa e no lugar certo. Este é o mantra das abordagens 
-modernas de Business Intelligence (BI). As organizações precisam atuar com inteligência. Prestar bastante 
-atenção à gestão das iniciativas de BI é um aspecto necessário aos negócios. Não chega a surpreender, então, 
-que as organizações estejam capitaneando cada vez mais o BI, ou sua nova encarnação, a análise de dados.
-SHARDA, R.; DELEN, D.; TURBAN, E. Business Intelligence e Análise de Dados para Gestão do Negócio. Porto Alegre: Bookman, 2019 (adaptado).
-Nesse contexto, pode-se definir o BI como
-A	 um conjunto de sistemas de informação e recursos tecnológicos que apoiam as transações de negócios 
+26
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 17	
+Os gestores precisam Tas informações certas na Uora certa e no lugar certo. Nste é o mantra Tas aborTagens 
+moTernas Te Business Cntelligence (BC). As organizações precisam atuar com inteligência. Prestar bastante 
+atenção à gestão Tas iniciativas Te BC é um aspecto necessário aos negócios. Não cUega a surpreenTer, então, 
+que as organizações estejam capitaneanTo caTa vez mais o BC, ou sua nova encarnação, a análise Te TaTos.
+SHARMA, R.; MNLNN, M.; TURBAN, N. Business Cntelligence e Análise Te MaTos para Gestão To Negócio. Porto Alegre: Bookman, 2019 (aTaptaTo).
+Nesse contexto, poTe-se Tefinir o BC como
+A	 um conjunto Te sistemas Te informação e recursos tecnológicos que apoiam as transações Te negócios 
 que ocorrem internamente e externamente à empresa.
-B	 uma integração de processos de negócios nas áreas de produção, contabilidade, finanças, vendas e 
-marketing, assim como na área de recursos humanos, por meio de um único sistema de software.
-C	 uma ferramenta para tratamento e visualização de dados transacionais e que pode ser utilizada para 
-dar suporte ao processo decisório e estratégico da empresa.
-D	 uma infraestrutura para armazenamento, integração, elaboração de relatórios e análise de dados oriundos 
-do ambiente empresarial com todas as informações relevantes para suportar o processo de decisão.
-E	 uma ferramenta que ajuda as empresas a administrar seus fornecedores, por meio do compartilhamento 
-de informações sobre pedidos, produção, níveis de estoque e entrega de produtos e serviços.
+B	 uma integração Te processos Te negócios nas áreas Te proTução, contabiliTaTe, finanças, venTas e 
+marketing, assim como na área Te recursos Uumanos, por meio Te um único sistema Te software.
+C	 uma ferramenta para tratamento e visualização Te TaTos transacionais e que poTe ser utilizaTa para 
+Tar suporte ao processo Tecisório e estratégico Ta empresa.
+M	 uma infraestrutura para armazenamento, integração, elaboração Te relatórios e análise Te TaTos oriunTos 
+To ambiente empresarial com toTas as informações relevantes para suportar o processo Te Tecisão.
+N	 uma ferramenta que ajuTa as empresas a aTministrar seus forneceTores, por meio To compartilUamento 
+Te informações sobre peTiTos, proTução, níveis Te estoque e entrega Te proTutos e serviços.
+QUNSTÃO 18	
+No cenário atual, as empresas estão investinTo caTa vez mais em Sistemas Te Cnformação (SC) e em 
+Tecnologia Ta Cnformação (TC), visanTo obterem e poTerem manipular os TaTos em informações que 
+permitem a tomaTa Te Tecisão e o posicionamento estratégico Ta empresa. Mentre os sistemas utilizaTos 
+pela empresa, para a sua gestão, encontra-se o NRP (Nnterprise Resourse Planning), que poTe ser 
+entenTiTo com um sistema integraTo Te informação, geralmente aTquiriTo Te proveTores Te mercaTo, 
+com o objetivo Te Tar suporte à maioria Tas operações Ta empresa, e que se subTiviTem em móTulos, 
+os quais se comunicam e atualizam uma base central Te TaTos, permitinTo assim a análise e o 
+planejamento Te Tecisões.
+ROMRCGUNS, M.; ASSOLARCA, L. M. A. A tecnologia Ta Cnformação NRP e seus benefícios na Gestão Te Processos e Crescimento Tos Negócios. 
+ANPAM. 2007. Misponível em: Uttp://www.anpaT.org.br/Tiversos/. Acesso em: 22 jul. 2020 (aTaptaTo).
+Acerca Ta aToção Te NRP por empresas, avalie as afirmações a seguir.
+C.	 A seleção Te proveTores Tessa ferramenta é uma tarefa árTua e exige esforço Ta parte To 
+contratante, sob pena Te fracasso e Te Tesenvolvimento Te um ambiente Te animosiTaTe entre 
+cliente e forneceTor, caso Uaja a TesobeTiência Tos critérios pré-estabeleciTos no projeto inicial.
+CC.	 A postura ética, a excelência Te serviços e a possibiliTaTe Te expansão Te novas soluções para o 
+cliente Tevem ser levaTos em conta no momento Ta seleção To forneceTor Ta oferta, consiTeranTo 
+critérios técnicos levantaTos junto aos gestores e tomaTores Te Tecisão.
+CCC.	 A implantação aTequaTa Te sistemas NRP exige que, imeTiatamente após a sua aquisição, seja 
+realizaTa a análise Tos processos organizacionais Ta empresa.
+CV.	 Os motivos que levam uma empresa à implementação Te um NRP vão TesTe suprir a obsolescência 
+Tas tecnologias Te sistemas legaTos por parceiros Te negócios até integrar TaTos transacionais.
+É correto apenas o que se afirma em
+A	 C e CV.
+B	 CC e CCC.
+C	 CCC e CV.
+M	 C, CC e CCC.
+N	 C, CC e CV.
+*R29202126*

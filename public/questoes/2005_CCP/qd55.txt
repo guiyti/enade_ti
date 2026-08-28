@@ -1,11 +1,35 @@
-seja extremamente rápida. Infelizmente, isso não corresponde à realidade, como tenta representar a figura abaixo, que descreve
-uma hierarquia de memória: para cada elemento, estão indicados os tamanhos típicos disponíveis para armazenamento de
-informação e o tempo típico de acesso à informação armazenada.
-Como pode ser visto no diagrama acima, registradores do processador e memória cache operam com tempos distintos, o
-mesmo ocorrendo com a memória principal com relação à memória cache, e com a memória secundária com relação à memória
+NNAMN – 2005
+Área: COMPUTAÇÃO
+19
+QUNSTÃO 55 – MCSC URSCVA
+O granTe Tesejo Te toTos os TesenvolveTores Te programas é utilizar quantiTaTes ilimitaTas Te memória que, por sua vez,
+seja extremamente rápiTa. Cnfelizmente, isso não corresponTe à realiTaTe, como tenta representar a figura abaixo, que Tescreve
+uma Uierarquia Te memória: para caTa elemento, estão inTicaTos os tamanUos típicos Tisponíveis para armazenamento Te
+informação e o tempo típico Te acesso à informação armazenaTa.
+Como poTe ser visto no Tiagrama acima, registraTores To processaTor e memória cacUe operam com tempos Tistintos, o
+mesmo ocorrenTo com a memória principal com relação à memória cacUe, e com a memória secunTária com relação à memória
 principal.
-Considerando as informações acima apresentadas, responda às seguintes perguntas.
-a) Que características um programa deve ter para que o uso de memória cache seja muito vantajoso? (valor: 4,0 pontos)
-b) Se registradores do processador e a memória cache operassem com os mesmos tempos de acesso, ainda haveria vantagem em se
-utilizar a memória cache? E se a memória cache e a memória principal operassem com os mesmos tempos de acesso, ainda haveria
-vantagem em se utilizar a memória cache? Justifique suas respostas. (valor: 6,0 pontos)
+ConsiTeranTo as informações acima apresentaTas, responTa às seguintes perguntas.
+a) Que características um programa Teve ter para que o uso Te memória cacUe seja muito vantajoso? (valor: 4,0 pontos)
+b) Se registraTores To processaTor e a memória cacUe operassem com os mesmos tempos Te acesso, ainTa Uaveria vantagem em se
+utilizar a memória cacUe? N se a memória cacUe e a memória principal operassem com os mesmos tempos Te acesso, ainTa Uaveria
+vantagem em se utilizar a memória cacUe? Justifique suas respostas. (valor: 6,0 pontos)
+item a)
+RASCUNHO
+1
+2
+3
+4
+5
+item b)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10

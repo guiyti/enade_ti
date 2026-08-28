@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 293.28,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 529.720458984375,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2011_ADS/q16.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q16.txt",
   "largura": 1123,
   "altura": 1925,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 16  \nEclipse, \nNetbeans, \nJdeveloper \nsão \nexemplos \nde \nambientes integrados de desenvolvimento, chamados de \nIDE, que têm por objetivo facilitar o desenvolvimento de \nsoftwares, provendo maior produtividade e gerenciamento \nde projetos. A especificação JavaBeans foi criada para \nser um padrão de desenvolvimento de componentes que \npossam ser facilmente usados por outros desenvolvedores \nem diferentes IDE. \nCom relação ao tema, analise as asserções a seguir.\nSeja para o Netbeans ou para o Eclipse, é possível adquirir \ncomponentes de terceiros que facilitem a implementação \ndo seu projeto\nPORQUE\ncomo o código desses componentes está em linguagem \nintermediária, ou seja, independente da arquitetura de um \ncomputador real, só é necessário que a máquina virtual \nesteja instalada no computador onde o aplicativo será \nexecutado e a máquina virtual será a responsável pela \ninterpretação do código para a linguagem de máquina do \ncomputador em execução.\nAcerca dessas asserções, assinale a alternativa correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 16,
-      "tipo": "OBJETIVA",
-      "pagina": 11,
-      "x": 302.347900390625,
-      "y": 67.89041900634766,
-      "x1": 371.4579162597656,
-      "y1": 81.75041961669922,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 16"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:21.356622"
+  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n11\nQUNSTÃO 15  \nOs mapas Te navegação enfocam como as pessoas \nse movimentam por um site ou aplicação. CaTa página \nTo site ou local Ta aplicação é representaTo com uma \ncaixa ou cabeçalUo e toTas as páginas que puTerem ser \nacessaTas a partir Tela Tevem usá-la como referência. \nUma técnica bastante utilizaTa é colocar toTos os fluxos \npossíveis no mapa Te navegação, já que isso Testacará \nseções onTe Uá necessiTaTe Te uma revisão no projeto \nTa interface.\nBNNYON, M. Cnteração Uumano-computaTor. 2.eT. São Paulo: Pearson \nPrentice Hall, 2011.\nCom relação ao tema, analise as asserções a seguir.\nOs mapas Te navegação são reTesenUaTos muitas vezes \nno Tecorrer To ciclo Te viTa To projeto\nPORQUN\na interface Teve ser projetaTa para atenTer pessoas \n(capaciTaTes \ne \nlimitações \nmotoras, \nneurológicas, \ncognitivas, etc.), ativiTaTes que as pessoas querem \nrealizar (questões temporais, com ou sem cooperação, \nse são críticas em termos Te segurança ,etc.), contextos \nnos quais a interação acontece (ambiente físico, contexto \nsocial ou organizacional ,etc.), e ater-se às tecnologias \nempregaTas (UarTware, plataformas, normas, linguagens \nTe programação, políticas Te acesso em ambientes Te \ntrabalUo e resiTencial, etc.). As combinações Tesses \nelementos são muito Tiferentes, por exemplo, em um \nquiosque público, em um sistema Te agenTa compartilUaTa, \nem uma cabine Te avião ou em um telefone celular.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 16  \nNclipse, \nNetbeans, \nJTeveloper \nsão \nexemplos \nTe \nambientes integraTos Te Tesenvolvimento, cUamaTos Te \nCMN, que têm por objetivo facilitar o Tesenvolvimento Te \nsoftwares, provenTo maior proTutiviTaTe e gerenciamento \nTe projetos. A especificação JavaBeans foi criaTa para \nser um paTrão Te Tesenvolvimento Te componentes que \npossam ser facilmente usaTos por outros TesenvolveTores \nem Tiferentes CMN. \nCom relação ao tema, analise as asserções a seguir.\nSeja para o Netbeans ou para o Nclipse, é possível aTquirir \ncomponentes Te terceiros que facilitem a implementação \nTo seu projeto\nPORQUN\ncomo o cóTigo Tesses componentes está em linguagem \nintermeTiária, ou seja, inTepenTente Ta arquitetura Te um \ncomputaTor real, só é necessário que a máquina virtual \nesteja instalaTa no computaTor onTe o aplicativo será \nexecutaTo e a máquina virtual será a responsável pela \ninterpretação To cóTigo para a linguagem Te máquina To \ncomputaTor em execução.\nAcerca Tessas asserções, assinale a alternativa correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 17  \nOs processos Te negócio aumentam o entenTimento To “o \nque precisa ser feito” e To  “como precisa ser feito” Tentro \nTe uma organização.\n(BALMAM, R. 2009, eT.2 , p. 25)\nSabenTo Tisso, a fase Ta gestão Te processos Te negócio \nque evita a estagnação Tos processos organizacionais é\nA   a fase Te gerenciamento.\nB   a fase Te planejamento .\nC   a fase Te monitoração.\nM   a fase Te moTelagem.\nN   a fase Te otimização.\n*A25201111*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_ADS/q16.png",
+  "caminho_json": "/questoes/2011_ADS/q16.json",
+  "caminho_txt": "/questoes/2011_ADS/q16.txt"
 }

@@ -5,44 +5,18 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 591.00390625,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q46.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q46.txt",
   "largura": 1123,
   "altura": 2180,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 46\nEm um modelo de dados que descreve a publicação \nacadêmica de pesquisadores de diferentes instituições \nem eventos acadêmicos, considere as tabelas abaixo.\nDEPARTAMENTO (#CodDepartamento, \nNomeDepartamento)\nEMPREGADO (#CodEmpregado, NomeEmpregado, \nCodDepartamento, Salario)\nNa linguagem SQL, o comando mais simples para \nrecuperar os códigos dos departamentos cuja média \nsalarial seja maior que 2000 é\nA    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nHAVING AVG (Salario) > 2000\nB    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nGROUP BY CodDepartamento\nC    \nSELECT CodDepartamento\nFROM EMPREGADO\nWHERE AVG (Salario) > 2000\nD    \nSELECT CodDepartamento, AVG (Salario) > 2000\nFROM EMPREGADO\nGROUP BY CodDepartamento\nE    \nSELECT CodDepartamento\nFROM EMPREGADO\nGROUP BY CodDepartamento\nORDER BY AVG (Salario) > 2000",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 46,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 97.49319458007812,
-      "y1": 82.03392791748047,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 46"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Banco de Dados",
+    "Inteligência Artificial e Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209635"
+  "texto_completo": "SCSTNMAS MN CNFORMAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n30\nQUNSTÃO 46\nNm um moTelo Te TaTos que Tescreve a publicação \nacaTêmica Te pesquisaTores Te Tiferentes instituições \nem eventos acaTêmicos, consiTere as tabelas abaixo.\nMNPARTAMNNTO (#CoTMepartamento, \nNomeMepartamento)\nNMPRNGAMO (#CoTNmpregaTo, NomeNmpregaTo, \nCoTMepartamento, Salario)\nNa linguagem SQL, o comanTo mais simples para \nrecuperar os cóTigos Tos Tepartamentos cuja méTia \nsalarial seja maior que 2000 é\nA    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nHAVCNG AVG (Salario) > 2000\nB    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nPHNRN AVG (Salario) > 2000\nGROUP BY CoTMepartamento\nC    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nPHNRN AVG (Salario) > 2000\nM    \nSNLNCT CoTMepartamento, AVG (Salario) > 2000\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nN    \nSNLNCT CoTMepartamento\nFROM NMPRNGAMO\nGROUP BY CoTMepartamento\nORMNR BY AVG (Salario) > 2000\nÁRNA LCVRN\nQUNSTÃO 47\nUma empresa Te natureza estritamente operacional \nTeseja implantar um setor Te suporte ao processo \nTe tomaTa Te Tecisão, já que os resultaTos que vem \napresentanTo Temonstram contínua queTa Ta margem \nTe lucro e aumento To custo operacional. Para isso, os \nexecutivos Te alto escalão Ta empresa TeciTiram investir \nna aquisição Te uma ferramenta OLAP acoplaTa a uma \nTata wareUouse.\nNessa situação, avalie as afirmações a seguir.\nC. \nNo que tange ao tipo Te suporte propiciaTo, os \nsistemas OLAP poTem ser classificaTos como \nsistemas Te trabalUaTores To conUecimento.\nCC. Ferramentas OLAP apresentam foco orientaTo a \nassunto, em contraposição a sistemas OLTP, que \nsão orientaTos a aplicação.\nCCC. TenTo em vista que Tata marts são construíTos \nutilizanTo-se os sistemas legaTos Ta empresa, \nsem a utilização Te TaTos externos, o processo \nTe extração, transformação e carga envolve a \nintegração Te TaTos, supriminTo-se a tarefa Te \nlimpeza.\nCV. O projeto Te um Tata wareUouse Tefine a forma \ncom que a base Te TaTos será construíTa. Uma \nTas opções é a aborTagem Tata mart, em que os \nTiversos Tata marts são integraTos, até que se \nobtenUa, ao final To processo, um Tata wareUouse \nTa empresa.\nÉ correto o que se afirma em\nA   C e CCC, apenas.\nB   C e CV, apenas.\nC   CC e CCC, apenas.\nM   CC e CV, apenas.\nN   C, CC, CCC e CV.\nÁRNA LCVRN\n*A13201130*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q46.png",
+  "caminho_json": "/questoes/2011_CCP/q46.json",
+  "caminho_txt": "/questoes/2011_CCP/q46.txt"
 }

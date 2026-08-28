@@ -5,52 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 96.5428466796875,
-      "x1": 311.15999999999997,
-      "y1": 468.9869079589844,
-      "coluna": 1
-    },
-    {
-      "pagina": 20,
-      "x0": 317.15999999999997,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 100.5428466796875,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q22.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q22.txt",
   "largura": 1223,
   "altura": 1703,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22\nK  ŵŽĚĞůŽ  ƌĞůĂĐŝŽŶĂů  ƌĞƉƌĞƐĞŶƚĂ  Ž  ďĂŶĐŽ  ĚĞ  ĚĂĚŽƐ \nĐŽŵŽ  ƵŵĂ  ĐŽůĞĕĆŽ  ĚĞ  ƌĞůĂĕƁĞƐ  ;ƚĂďĞůĂƐͿ͘   EĂ \nƚĞƌŵŝŶŽůŽŐŝĂ ĨŽƌŵĂů ĚŽ ŵŽĚĞůŽ ƌĞůĂĐŝŽŶĂů͕  ƵŵĂ ůŝŶŚĂ \nĠ ĐŚĂŵĂĚĂ ĚĞ ͞ ƚƵƉůĂ͕͟  Ž ơƚƵůŽ ĚĂ ĐŽůƵŶĂ Ġ ĚĞŶŽŵŝŶĂĚŽ ͞\nĂƚƌŝďƵƚŽ͟  Ğ Ă ƚĂďĞůĂ Ġ ĐŚĂŵĂĚĂ ĚĞ ͞ ƌĞůĂĕĆŽ͘͟  K ƟƉŽ \nĚĞ ĚĂĚŽ ƋƵĞ ĚĞƐĐƌĞǀĞ ŽƐ ƟƉŽƐ ĚĞ ǀĂůŽƌĞƐ ƋƵĞ ƉŽĚĞŵ \nĂƉĂƌĞĐĞƌ Ğŵ ĐĂĚĂ ĐŽůƵŶĂ Ġ ĚĞŶŽŵŝŶĂĚŽ ͞ ĚŽŵşŶŝŽ͘͟  \nhŵ  ďĂŶĐŽ  ĚĞ  ĚĂĚŽƐ  ƌĞůĂĐŝŽŶĂů  ƉŽĚĞ  ŝŵƉŽƌ  ǀĄƌŝŽƐ \nƟƉŽƐ ĚĞ ƌĞƐƚƌŝĕƁĞƐ ŶŽƐ ĚĂĚŽƐ ĂƌŵĂǌĞŶĂĚŽƐ͘\nE>D ^Z/͕  Z͖͘  E s d,E͕  ^͘  \u0011͘  Sistema de Banco de Dados \nFundamentos e Aplicações͘  ZŝŽ ĚĞ :ĂŶĞŝƌŽ͗  >dI͕  2002͘  \nZĞƐƚƌŝĕƁĞƐ ƋƵĞ ƉĞƌŵŝƚĞŵ ĐŽŶƚƌŽůĂƌ ƐŝƚƵĂĕƁĞƐ ĐŽŵŽ͕  \nƉŽƌ ĞǆĞŵƉůŽ͕  ͞ Ž ƐĂůĄƌŝŽ ĚĞ Ƶŵ ĞŵƉƌĞŐĂĚŽ ŶĆŽ ĚĞǀĞ \nĞǆĐĞĚĞƌ  Ž  ƐĂůĄƌŝŽ  ĚŽ  ƐƵƉĞƌǀŝƐŽƌ  ĚŽ  ĞŵƉƌĞŐĂĚŽ͟   Ğ \nƵƟůŝǌĂŵ ŵĞĐĂŶŝƐŵŽƐ ĐŚĂŵĂĚŽƐ triggers ;ŐĂƟůŚŽƐͿ ŶĂ \nƐƵĂ ŝŵƉůĞŵĞŶƚĂĕĆŽ͕  ƐĆŽ ĚŽ ƟƉŽ\nA ƌĞƐƚƌŝĕƁĞƐ ĚĞ ĚŽŵşŶŝŽ͘\nB ƌĞƐƚƌŝĕƁĞƐ ĚĞ ƵŶŝĐŝĚĂĚĞ͘\nC ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ƌĞĨĞƌĞŶĐŝĂů͘\nD ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ĚĂ ĞŶƟĚĂĚĞ͘\nE ƌĞƐƚƌŝĕƁĞƐ ĚĞ ŝŶƚĞŐƌŝĚĂĚĞ ƐĞŵąŶƟĐĂ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 22,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 51.850399017333984,
-      "y": 108.5428466796875,
-      "x1": 114.302001953125,
-      "y1": 120.5428466796875,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 22"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502170"
+  "texto_completo": "20\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 22\nO  moTelo  relacional  representa  o  banco  Te  TaTos \ncomo  uma  coleção  Te  relações  (tabelas).   Na \nterminologia formal To moTelo relacional,  uma linUa \né cUamaTa Te \" tupla\",  o ơtulo Ta coluna é TenominaTo \"\natributo\"  e a tabela é cUamaTa Te \" relação\".  O tipo \nTe TaTo que Tescreve os tipos Te valores que poTem \naparecer em caTa coluna é TenominaTo \" Tomínio\".  \nUm  banco  Te  TaTos  relacional  poTe  impor  vArios \ntipos Te restrições nos TaTos armazenaTos.\nN>M SZ/,  Z.͖  N s T,N,  S.  B.  Sistema Te Banco Te MaTos \nFunTamentos e Aplicações.  Zio Te :aneiro:  >TC,  2002.  \nZestrições que permitem controlar situações como,  \npor exemplo,  \" o salArio Te um empregaTo não Teve \nexceTer  o  salArio  To  supervisor  To  empregaTo\"   e \nutilizam mecanismos cUamaTos triggers (gatilUos) na \nsua implementação,  são To tipo\nA restrições Te Tomínio.\nB restrições Te uniciTaTe.\nC restrições Te integriTaTe referencial.\nM restrições Te integriTaTe Ta entiTaTe.\nN restrições Te integriTaTe semantica.\nÁRNA LCVRN\nQUNSTÃO 23\nOs \ntermos \ninovação \ne \nempreenTeTorismo \nTizem  respeito  a  prAtica  Ta  gestão  e  a  muTança \ncriativa.  \n  \ninovação \npreocupa-se,  \nsobretuTo,  \ncom  o  Tesenvolvimento  Te  proTutos.   :A  o \nempreenTeTorismo  TeTica-se  mais  a  questão  Ta \ncriação Te pequenas empresas.\nNesse contexto,  avalie as afrmações a seguir.\n/.   /novação  e  sustentabiliTaTe  são  processos \nantagƀnicos,   ũA  que  a  inovação  contribui \nTe  forma  importante  para  a  TegraTação  To \nmeio ambiente TeviTo a sua associação com \no aumento To crescimento econƀmico e To \nconsumo.\n//.      exploração  Te  um  problema  social \ntransformaTo  em  uma  oportuniTaTe  Te \nnegocio  visanTo  a  geração  Te  lucro  ao \nempreenTeTor é um Tos principais obũetivos \nTo empreenTeTorismo social.\n///.   Nem toTo resultaTo Te um processo criativo \nestA associaTo a uma inovação.\n\u001e correto o que se afrma em\nA /,  apenas.\nB //,  apenas.\nC / e ///,  apenas.\nM // e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201420*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q22.png",
+  "caminho_json": "/questoes/2014_ADS/q22.json",
+  "caminho_txt": "/questoes/2014_ADS/q22.txt"
 }

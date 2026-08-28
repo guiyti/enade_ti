@@ -1,18 +1,48 @@
-QUESTÃO 28	
-O modo clássico de encarar um sistema operacional é como um gerenciador de recursos. Desse ponto de 
-vista, o sistema operacional é responsável pelo hardware do sistema. Nesse papel, ele recebe solicitações 
-de acesso a recursos por parte das aplicações e concede ou nega tais acessos. Ao conceder solicitações de 
-alocação, ele deve dispor com cuidado os recursos, de modo que os programas não interfiram uns nos outros.
-Por exemplo, é uma péssima ideia permitir que os programas tenham acesso sem restrição à memória 
-uns dos outros. Se um programa com defeito (ou malicioso) escreve no espaço de memória do outro 
-programa, o segundo programa travará, na melhor das hipóteses, ou produzirá resultados incorretos, na 
-pior das hipóteses. Ou ainda, se o programa ofensivo modificar a memória do sistema operacional poderá 
-afetar o comportamento de todo o sistema.
-STUART. B. L. Princípios de Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (adaptado).
-Considerando que o texto alerta para a possibilidade de um programa interferir no outro, a atividade que 
+36
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 28	
+O moTo clássico Te encarar um sistema operacional é como um gerenciaTor Te recursos. Messe ponto Te 
+vista, o sistema operacional é responsável pelo UarTware To sistema. Nesse papel, ele recebe solicitações 
+Te acesso a recursos por parte Tas aplicações e conceTe ou nega tais acessos. Ao conceTer solicitações Te 
+alocação, ele Teve Tispor com cuiTaTo os recursos, Te moTo que os programas não interfiram uns nos outros.
+Por exemplo, é uma péssima iTeia permitir que os programas tenUam acesso sem restrição à memória 
+uns Tos outros. Se um programa com Tefeito (ou malicioso) escreve no espaço Te memória To outro 
+programa, o segunTo programa travará, na melUor Tas Uipóteses, ou proTuzirá resultaTos incorretos, na 
+pior Tas Uipóteses. Ou ainTa, se o programa ofensivo moTificar a memória To sistema operacional poTerá 
+afetar o comportamento Te toTo o sistema.
+STUART. B. L. Princípios Te Sistemas Operacionais: projetos e aplicações. São Paulo: Cengage Learning, 2011 (aTaptaTo).
+ConsiTeranTo que o texto alerta para a possibiliTaTe Te um programa interferir no outro, a ativiTaTe que 
 um sistema operacional garante essa proteção é
 A	 o programa antivírus.
-B	 o gerenciamento de memória.
-C	 o gerenciamento de arquivos.
-D	 o gerenciamento de processos.
-E	 o gerenciamento de entrada e saída.
+B	 o gerenciamento Te memória.
+C	 o gerenciamento Te arquivos.
+M	 o gerenciamento Te processos.
+N	 o gerenciamento Te entraTa e saíTa.
+QUNSTÃO 29	
+Um algoritmo é qualquer proceTimento computacional bem TefiniTo que toma algum valor ou conjunto 
+Te valores como entraTa e proTuz algum valor ou conjunto Te valores como saíTa.
+CORMNN, T. H. et al. Algoritmos Teoria e Prática. Rio Te Janeiro: Nlsevier, 2002 (aTaptaTo).
+ConsiTere o algoritmo a seguir.
+Algoritmo Calcular
+   var 
+      mat [1..3][1..5] Te inteiro = 
+      {{1, 2, -1, 2, 3}, {1, -3, 4, 2, 0}, {-3, 5, 2, 3, 4}}  
+      sl[1..3] Te inteiro = {0, 0, 0}  
+      x, i, j : inteiro 
+      x <- 0  
+   início 
+      para i <- 1 até 3 faça 
+          para j <- 1 até 5 faça 
+             sl[i] <- sl[i] + mat[i][j] 
+          fimpara  
+          x <- x + sl[i] 
+      fimpara 
+      imprima x 
+   fim
+No fim Ta execução To cóTigo apresentaTo, será exibiTo o valor
+A	 4.
+B	 7.
+C	 11.
+M	 22.
+N	 30.
+*R28202136*

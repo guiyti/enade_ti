@@ -5,52 +5,17 @@
   "paginas": [
     18
   ],
-  "segmentos": [
-    {
-      "pagina": 18,
-      "x0": 25.0,
-      "y0": 96.5428466796875,
-      "x1": 311.15999999999997,
-      "y1": 749.444091796875,
-      "coluna": 1
-    },
-    {
-      "pagina": 18,
-      "x0": 317.15999999999997,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 100.5428466796875,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q18.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q18.txt",
   "largura": 1223,
   "altura": 2871,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 18\nEŽƐ  ĂŶŽƐ  70͕   ŽƐ  ƐŝƐƚĞŵĂƐ  ĞǆĞĐƵƚĂǀĂŵ  Ğŵ \nŵĂŝŶĨƌĂŵĞƐ ĐŽŵ ĂƉůŝĐĂƟǀŽƐ ĞƐĐƌŝƚŽƐ Ğŵ ůŝŶŐƵĂŐĞŶƐ \nĞƐƚƌƵƚƵƌĂĚĂƐ  Ğ  ĐŽŵ  ƚŽĚĂƐ  ĂƐ  ĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ  Ğŵ \nƵŵ  ƷŶŝĐŽ  ŵſĚƵůŽ͕   ĐŽŵ  ŐƌĂŶĚĞ  ƋƵĂŶƟĚĂĚĞ  ĚĞ \nůŝŶŚĂƐ ĚĞ ĐſĚŝŐŽ͘   ĐĞƐƐŽƐ Ă ďĂŶĐŽƐ ĚĞ ĚĂĚŽƐ ŶĆŽ \nƌĞůĂĐŝŽŶĂŝƐ͕   ƌĞŐƌĂƐ  ĚĞ  ŶĞŐſĐŝŽƐ  Ğ  ƚƌĂƚĂŵĞŶƚŽ  ĚĞ \nƚĞůĂƐ  ƉĂƌĂ  ƚĞƌŵŝŶĂŝƐ ͞ ďƵƌƌŽƐ͟   ĮĐĂǀĂŵ  ŶŽ  ŵĞƐŵŽ \nƉƌŽŐƌĂŵĂ͘  \nWŽƐƚĞƌŝŽƌŵĞŶƚĞ͕  \nƵŵĂ \nŝŵƉŽƌƚĂŶƚĞ \nŵƵĚĂŶĕĂ  ŽĐŽƌƌĞƵ͗   Ă  ƐƵďƐƟƚƵŝĕĆŽ  ĚŽƐ  ƚĞƌŵŝŶĂŝƐ ͞\nďƵƌƌŽƐ͟   ƉŽƌ  ŵŝĐƌŽĐŽŵƉƵƚĂĚŽƌĞƐ͕   ƉĞƌŵŝƟŶĚŽ \nƋƵĞ ƚŽĚŽ Ž ƚƌĂƚĂŵĞŶƚŽ ĚĂ ŝŶƚĞƌĨĂĐĞ͕  Ğ ĚĞ ĂůŐƵŵĂƐ \nƌĞŐƌĂƐ  ĚĞ  ŶĞŐſĐŝŽƐ͕   ƉĂƐƐĂƐƐĞŵ  Ă  ƐĞƌ  ĨĞŝƚĂƐ  ŶĂƐ \nĞƐƚĂĕƁĞƐ  ĐůŝĞŶƚĞƐ͘   ^ƵƌŐŝĂŵ  ĂƐ  ĂƉůŝĐĂĕƁĞƐ  ĐůŝĞŶƚĞͲ\nƐĞƌǀŝĚŽƌ͘    ƉĂƌƟƌ ĚŽƐ ĂŶŽƐ 90͕  ĂƚĠ ŽƐ ĚŝĂƐ ĂƚƵĂŝƐ͕  \nĂƐ  ŵƵĚĂŶĕĂƐ  ĨŽƌĂŵ  ŵĂŝƐ  ƌĂĚŝĐĂŝƐ͕   ŽƐ  ďĂŶĐŽƐ  ĚĞ \nĚĂĚŽƐ  ƉĂƐƐĂƌĂŵ  Ă  ƐĞƌ  ƌĞůĂĐŝŽŶĂŝƐ  Ğ  ĚŝƐƚƌŝďƵşĚŽƐ͘  \n Ɛ ůŝŶŐƵĂŐĞŶƐ ƉĂƐƐĂƌĂŵ Ă ƐĞƌ ŽƌŝĞŶƚĂĚĂƐ Ă ŽďũĞƚŽƐ͕  \nĐƵũĂ  ŵŽĚĞůĂŐĞŵ  ĞŶĐĂƉƐƵůĂ  ĚĂĚŽƐ  Ğ  ŽĨĞƌĞĐĞ \nĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ  ĂƚƌĂǀĠƐ  ĚĞ  ŵĠƚŽĚŽƐ͘      ŝŶƚĞƌĨĂĐĞ \nƉĂƐƐŽƵ Ă ƐĞƌ web͘  sŝǀĞͲƐĞ Ă ĞƌĂ ĚĂƐ ĂƉůŝĐĂĕƁĞƐ Ğŵ \nƚƌġƐ ĐĂŵĂĚĂƐ͘\nIŽŶƐŝĚĞƌĂŶĚŽ Ă ĞǀŽůƵĕĆŽ ĚĂ ĂƌƋƵŝƚĞƚƵƌĂ ĚĞ ƐŽŌǁĂƌĞ\nĚĞ ƐŝƐƚĞŵĂƐ ĚĞ ŝŶĨŽƌŵĂĕĆŽ͕  ĐŽŶĨŽƌŵĞ ĐŝƚĂĚŽ ŶŽ ƚĞǆƚŽ \nĂĐŝŵĂ͕  ĂǀĂůŝĞ ĂƐ ƐĞŐƵŝŶƚĞƐ ĂĮƌŵĂĕƁĞƐ͘\n/͘      ƐĞƉĂƌĂĕĆŽ  ĚŽƐ  ƐŝƐƚĞŵĂƐ  Ğŵ  ƚƌġƐ  ĐĂŵĂĚĂƐ \nůſŐŝĐĂƐ  ƚŽƌŶĂ  ŽƐ  ƐŝƐƚĞŵĂƐ  ŵĂŝƐ  ĐŽŵƉůĞǆŽƐ͕  \nƌĞƋƵĞƌĞŶĚŽ ƉĞƐƐŽĂů ŵĂŝƐ ĞƐƉĞĐŝĂůŝǌĂĚŽ͘\n//͘      ƐĞƉĂƌĂĕĆŽ  ĚŽƐ  ƐŝƐƚĞŵĂƐ  Ğŵ  ƚƌġƐ  ĐĂŵĂĚĂƐ \nůſŐŝĐĂƐ  ƚŽƌŶĂ  ŽƐ  ƐŝƐƚĞŵĂƐ  ŵĂŝƐ  ŇĞǆşǀĞŝƐ͕  \nƉĞƌŵŝƟŶĚŽ ƋƵĞ ĂƐ ƉĂƌƚĞƐ ƉŽƐƐĂŵ ƐĞƌ ĂůƚĞƌĂĚĂƐ \nĚĞ ĨŽƌŵĂ ŝŶĚĞƉĞŶĚĞŶƚĞ͘\n///͘      ƐĞƉĂƌĂĕĆŽ  ĚŽƐ  ƐŝƐƚĞŵĂƐ  Ğŵ  ƚƌġƐ  ĐĂŵĂĚĂƐ \nůſŐŝĐĂƐ ĂƵŵĞŶƚŽƵ Ž ĂĐŽƉůĂŵĞŶƚŽ͕  ĚŝĮĐƵůƚĂŶĚŽ \nĂ ŵĂŶƵƚĞŶĕĆŽ͘\n\u001e ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA //͕  ĂƉĞŶĂƐ͘\nB ///͕  ĂƉĞŶĂƐ͘\nC / Ğ //͕  ĂƉĞŶĂƐ͘\nD / Ğ ///͕  ĂƉĞŶĂƐ͘\nE /͕  // Ğ ///͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 18,
-      "tipo": "OBJETIVA",
-      "pagina": 18,
-      "x": 51.850399017333984,
-      "y": 108.5428466796875,
-      "x1": 114.302001953125,
-      "y1": 120.5428466796875,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 18"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502152"
+  "texto_completo": "18\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 18\nNos  anos  70,   os  sistemas  executavam  em \nmainframes com aplicativos escritos em linguagens \nestruturaTas  e  com  toTas  as  funcionaliTaTes  em \num  unico  moTulo,   com  granTe  quantiTaTe  Te \nlinUas Te coTigo.   cessos a bancos Te TaTos não \nrelacionais,   regras  Te  negocios  e  tratamento  Te \ntelas  para  terminais \" burros\"   fcavam  no  mesmo \nprograma.  \nPosteriormente,  \numa \nimportante \nmuTança  ocorreu:   a  substituição  Tos  terminais \"\nburros\"   por  microcomputaTores,   permitinTo \nque toTo o tratamento Ta interface,  e Te algumas \nregras  Te  negocios,   passassem  a  ser  feitas  nas \nestações  clientes.   Surgiam  as  aplicações  cliente-\nserviTor.    partir Tos anos 90,  até os Tias atuais,  \nas  muTanças  foram  mais  raTicais,   os  bancos  Te \nTaTos  passaram  a  ser  relacionais  e  TistribuíTos.  \n s linguagens passaram a ser orientaTas a obũetos,  \ncuũa  moTelagem  encapsula  TaTos  e  oferece \nfuncionaliTaTes  através  Te  métoTos.      interface \npassou a ser web.  sive-se a era Tas aplicações em \ntrgs camaTas.\nConsiTeranTo a evolução Ta arquitetura Te soŌǁare\nTe sistemas Te informação,  conforme citaTo no texto \nacima,  avalie as seguintes afrmações.\n/.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  complexos,  \nrequerenTo pessoal mais especializaTo.\n//.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas  torna  os  sistemas  mais  Ňexíveis,  \npermitinTo que as partes possam ser alteraTas \nTe forma inTepenTente.\n///.      separação  Tos  sistemas  em  trgs  camaTas \nlogicas aumentou o acoplamento,  TifcultanTo \na manutenção.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nQUNSTÃO 19\nZequisitos funcionais e não funcionais poTem Tefnir \ncaracterísticas  e  funcionaliTaTes  presentes  na \ninterface a ser TesenvolviTa para um sistema.  \nNm  relação  aos  requisitos  não  funcionais,   também \ncUamaTos  Te  requisitos  Te  qualiTaTe,   avalie  as \nafrmações a seguir.\n/.   São levantaTos e elicitaTos apos os requisitos \nfuncionais,   uma  vez  que  os  requisitos \nfuncionais  Teterminarão  as  funcionaliTaTes \nTa interface.\n//.   Sempre  serão  TefniTos  Te  forma  mais \nconcreta,   através  Te  requisitos  funcionais,  \numa vez que o usuArio manipula na interface \nsomente as funcionaliTaTes levantaTas.\n///.   PoTem \ncomplementar \nos \nrequisitos \nfuncionais.\n\u001e correto o que se afrma em\nA //,  apenas.\nB ///,  apenas.\nC / e //,  apenas.\nM / e ///,  apenas.\nN /,  // e ///.\nÁRNA LCVRN\n*R40201418*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q18.png",
+  "caminho_json": "/questoes/2014_ADS/q18.json",
+  "caminho_txt": "/questoes/2014_ADS/q18.txt"
 }

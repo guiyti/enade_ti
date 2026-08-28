@@ -1,16 +1,31 @@
-, p
-,
-;
-QUESTÃO 33
-  ŽƌĚĞŶĂĕĆŽ ƉŽƌ ŝŶƐĞƌĕĆŽ ĨƵŶĐŝŽŶĂ ĚĞ ŵŽĚŽ ƐĞŵĞůŚĂŶƚĞ ă ĨŽƌŵĂ ĐŽŵŽ ĂůŐƵŵĂƐ ƉĞƐƐŽĂƐ ŽƌĚĞŶĂŵ ĐĂƌƚĂƐ ĚĞ 
-ďĂƌĂůŚŽ͘  /ŶŝĐŝĂͲƐĞ ĐŽŵ Ă ŵĆŽ ĞƐƋƵĞƌĚĂ ǀĂǌŝĂ Ğ ĂƐ ĐĂƌƚĂƐ ĞŵƉŝůŚĂĚĂƐ ŶĂ ŵĞƐĂ͘  ZĞŵŽǀĞͲƐĞ ĚĂ ƉŝůŚĂ ƵŵĂ ĐĂƌƚĂ ĚĞ 
-ĐĂĚĂ ǀĞǌ͕  ŝŶƐĞƌŝŶĚŽͲĂ ŶĂ ƉŽƐŝĕĆŽ ĐŽƌƌĞƚĂ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ͘  WĂƌĂ ƐĞ ŝĚĞŶƟĮĐĂƌ Ă ƉŽƐŝĕĆŽ ĐŽƌƌĞƚĂ ĚĞ ƵŵĂ ĐĂƌƚĂ͕  
-ĚĞǀĞͲƐĞ ĐŽŵƉĂƌĄͲůĂ ĐŽŵ ĂƐ ĐĂƌƚĂƐ ƉƌĞƐĞŶƚĞƐ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ͕  ŶŽ ƐĞŶƟĚŽ ĚĂ ĚŝƌĞŝƚĂ ƉĂƌĂ Ă ĞƐƋƵĞƌĚĂ͘  Eŵ ƚŽĚŽƐ 
-ŽƐ ŵŽŵĞŶƚŽƐ͕  ĂƐ ĐĂƌƚĂƐ ŶĂ ŵĆŽ ĞƐƋƵĞƌĚĂ ĞƐƚĆŽ ŽƌĚĞŶĂĚĂƐ͕  ƚĞŶĚŽ ƐŝĚŽ ŽďƟĚĂƐ ŶŽ ƚŽƉŽ ĚĂ ƉŝůŚĂ ĚĂ ŵĞƐĂ͘
-IKZDEE͕  d͘  ,͘  Ğƚ Ăů͘  /ŶƚƌŽĚƵĐƟŽŶ ƚŽ ĂůŐŽƌŝƚŚŵƐ͘  3͘  ĞĚ͘  IĂŵďƌŝĚŐĞ͗  dŚĞ D/d WƌĞƐƐ͕  2009 ;ĂĚĂƉƚĂĚŽͿ͘
-hŵ ƉƌŽŐƌĂŵĂĚŽƌ ŝŵƉůĞŵĞŶƚŽƵ Ƶŵ ĂůŐŽƌŝƚŵŽ ĚĞ ŽƌĚĞŶĂĕĆŽ ƐĞŵĞůŚĂŶƚĞ ă ĨŽƌŵĂ ĚĞ ŽƌĚĞŶĂĕĆŽ ĚĞ ĐĂƌƚĂƐ 
-ĚĞƐĐƌŝƚĂ ŶŽ ƚĞǆƚŽ͘   Ž ƌĞĂůŝǌĂƌ Ƶŵ ƚĞƐƚĞ ĐŽŵ Ƶŵ ǀĞƚŽƌ ĚĞ ŶŽǀĞ ƉŽƐŝĕƁĞƐ ;vetor[1..9]Ϳ͕  ǀĞƌŝĮĐŽƵ ƋƵĞ Ž 
-ĂůŐŽƌŝƚŵŽ ŶĆŽ ĨƵŶĐŝŽŶĂǀĂ ĐŽƌƌĞƚĂŵĞŶƚĞ͘
+37
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+Com base nas informações e na situação apresentaTa,  qual o comanTo SY> que seleciona corretamente 
+os nomes Tos canTiTatos,  seus partiTos e o total Te votos Te caTa partiTo nessa eleição͍
+A SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero;
+B SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+c.nome, p.nome;
+C SNLNCT c.nome, p.nome, SUM(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+c.nome, p.nome;
+M SNLNCT c.nome, p.nome, v.votos FROM PartiTo p, CanTiTato c, Votacao v 
+PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY c.nome, 
+p.nome, SUM(v.votos);
+N SNLNCT c.nome, p.nome, COUNT(v.votos) FROM PartiTo p, CanTiTato c, 
+Votacao v PHNRN c.numero = p.numero anT v.partiTo = c.numero GROUP BY 
+c.nome, p.nome, v.votos;
+QUNSTÃO 33
+  orTenação por inserção funciona Te moTo semelUante a forma como algumas pessoas orTenam cartas Te 
+baralUo.  /nicia-se com a mão esquerTa vazia e as cartas empilUaTas na mesa.  Zemove-se Ta pilUa uma carta Te 
+caTa vez,  inserinTo-a na posição correta na mão esquerTa.  Para se iTentifcar a posição correta Te uma carta,  
+Teve-se comparA-la com as cartas presentes na mão esquerTa,  no sentiTo Ta Tireita para a esquerTa.  Nm toTos 
+os momentos,  as cartas na mão esquerTa estão orTenaTas,  tenTo siTo obtiTas no topo Ta pilUa Ta mesa.
+COZMNN,  T.  ,.  et al.  /ntroTuction to algoritUms.  3.  eT.  CambriTge:  TUe M/T Press,  2009 (aTaptaTo).
+Um programaTor implementou um algoritmo Te orTenação semelUante a forma Te orTenação Te cartas 
+Tescrita no texto.   o realizar um teste com um vetor Te nove posições (vetor[1..9]),  verifcou que o 
+algoritmo não funcionava corretamente.
 01 para i <- 2 até 9 faça
 02
 valor <- vetor[i]
@@ -27,18 +42,19 @@ enquanto ((j >= 1) e (valor < vetor[j])) faça
 se (j = 0) então
 08
          interrompa
-E  
+N  
  
 ¿P VH
   
-¿P HQTXDQWR
+¿P HQTXMQPR
 11
 vetor[j + 1] <- valor
- ¿P SDUD
-IŽŵ ďĂƐĞ ŶĞƐƐĂƐ ŝŶĨŽƌŵĂĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ Ğŵ ƋƵĞ ƐĞ ĂƉƌĞƐĞŶƚĂŵ Ă ůŝŶŚĂ Ğ Ž ƌĞƐƉĞĐƟǀŽ ĐŽŵĂŶĚŽ 
-Ă ƐĞƌ ƐƵďƐƟƚƵşĚŽ͕  ƉĂƌĂ ƋƵĞ Ž ĂůŐŽƌŝƚŵŽ ŽƌĚĞŶĞ ĐŽƌƌĞƚĂŵĞŶƚĞ Ƶŵ ǀĞƚŽƌ ĚĞ ŝŶƚĞŝƌŽƐ ĚĞ ĨŽƌŵĂ ĐƌĞƐĐĞŶƚĞ͘
-A  >ŝŶŚĂ 01; para i <- 1 até 9 faça
-B  >ŝŶŚĂ 03; j <- i
-C  >ŝŶŚĂ 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
-D  >ŝŶŚĂ 05͖     vetor[j + 1] <- vetor[j]
-E  >ŝŶŚĂ 11͖     vetor[j] <- valor
+ ¿P SMUM
+Com base nessas informações,  assinale a opção em que se apresentam a linUa e o respectivo comanTo 
+a ser substituíTo,  para que o algoritmo orTene corretamente um vetor Te inteiros Te forma crescente.
+A  >inUa 01; para i <- 1 até 9 faça
+B  >inUa 03; j <- i
+C  >inUa 04͖     enquanto ((j >= 1) ou (valor < vetor[j])) faça
+M  >inUa 05͖     vetor[j + 1] <- vetor[j]
+N  >inUa 11͖     vetor[j] <- valor
+*R41201737*

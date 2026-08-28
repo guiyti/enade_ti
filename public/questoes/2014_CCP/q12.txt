@@ -1,8 +1,10 @@
-QUESTÃO 12
- ŶĂůŝƐĞ Ž ĐƵƐƚŽ ĐŽŵƉƵƚĂĐŝŽŶĂů ĚŽƐ ĂůŐŽƌŝƚŵŽƐ Ă ƐĞŐƵŝƌ͕ ƋƵĞ ĐĂůĐƵůĂŵ Ž ǀĂůŽƌ ĚĞ Ƶŵ ƉŽůŝŶƀŵŝŽ ĚĞ ŐƌĂƵ n, ĚĂ 
-ĨŽƌŵĂ͗ P(x) = anxn + aŶо1xŶо1 + . . . + a1x+ a0͕  ŽŶĚĞ ŽƐ ĐŽĞĮĐŝĞŶƚĞƐ ƐĆŽ ŶƷŵĞƌŽƐ ĚĞ ƉŽŶƚŽ ŇƵƚƵĂŶƚĞ ĂƌŵĂǌĞŶĂĚŽƐ 
-ŶŽ ǀĞƚŽƌ a[0..n], Ğ Ž ǀĂůŽƌ ĚĞ n Ġ ŵĂŝŽƌ ƋƵĞ ǌĞƌŽ͘  dŽĚŽƐ ŽƐ ĐŽĞĮĐŝĞŶƚĞƐ ƉŽĚĞŵ ĂƐƐƵŵŝƌ ƋƵĂůƋƵĞƌ ǀĂůŽƌ͕  ĞǆĐĞƚŽ 
-Ž ĐŽĞĮĐŝĞŶƚĞ an ƋƵĞ Ġ ĚŝĨĞƌĞŶƚĞ ĚĞ ǌĞƌŽ.
+14
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 12
+ nalise o custo computacional Tos algoritmos a seguir, que calculam o valor Te um polinƀmio Te grau n, Ta 
+forma: P(x) = anxn + anо1xnо1 + . . . + a1x+ a0,  onTe os coefcientes são numeros Te ponto Ňutuante armazenaTos 
+no vetor a[0..n], e o valor Te n é maior que zero.  ToTos os coefcientes poTem assumir qualquer valor,  exceto 
+o coefciente an que é Tiferente Te zero.
 Algoritmo 1: 
 soma = a[0]
 Repita para i = 1 até n
@@ -14,20 +16,21 @@ Se a[i]  0.0 então
  soma = soma + a[i] * potencia
  Fim se
 Fim repita
-Imprima(soma)
+Cmprima(soma)
 Algoritmo 2: 
 soma = a[n]
 Repita para i = n-1 até 0 passo -1
  soma = soma * x + a[i]
 Fim repita
-Imprima(soma)
-IŽŵ ďĂƐĞ ŶŽƐ ĂůŐŽƌŝƚŵŽƐ 1 Ğ 2͕  ĂǀĂůŝĞ ĂƐ ĂƐƐĞƌĕƁĞƐ Ă ƐĞŐƵŝƌ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘
-/͘   KƐ ĂůŐŽƌŝƚŵŽƐ ƉŽƐƐƵĞŵ Ă ŵĞƐŵĂ ĐŽŵƉůĞǆŝĚĂĚĞ ĂƐƐŝŶƚſƟĐĂ͘
-PORQUE
-//͘   WĂƌĂ Ž ŵĞůŚŽƌ ĐĂƐŽ͕  ĂŵďŽƐ ŽƐ ĂůŐŽƌŝƚŵŽƐ ƉŽƐƐƵĞŵ ĐŽŵƉůĞǆŝĚĂĚĞ O(n).
-  ƌĞƐƉĞŝƚŽ ĚĞƐƐĂƐ ĂƐƐĞƌĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘
-A  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  Ğ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-B  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ //  ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  ŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-C   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘
-D   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘
-E  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘
+Cmprima(soma)
+Com base nos algoritmos 1 e 2,  avalie as asserções a seguir e a relação proposta entre elas.
+/.   Os algoritmos possuem a mesma complexiTaTe assintotica.
+PORQUN
+//.   Para o melUor caso,  ambos os algoritmos possuem complexiTaTe O(n).
+  respeito Tessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
+B  s asserções / e //  são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
+C   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.
+M   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.
+N  s asserções / e // são proposições falsas.
+*R03201414*

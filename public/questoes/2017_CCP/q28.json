@@ -5,44 +5,18 @@
   "paginas": [
     27
   ],
-  "segmentos": [
-    {
-      "pagina": 27,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 311.15999999999997,
-      "y1": 766.56,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q28.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q28.txt",
   "largura": 1222,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 28\nKƐ  ŵĠƚŽĚŽƐ  ĄŐĞŝƐ  ƐĆŽ  ĨƵŶĚĂŵĞŶƚĂĚŽƐ  ŶŽ \nĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  Ğ  ĞŶƚƌĞŐĂ  ŝŶĐƌĞŵĞŶƚĂů  ƚĞŶĚŽ \nĞŵ ǀŝƐƚĂ ĂƚĞŶĚĞƌ ĂŽƐ ƌĞƋƵŝƐŝƚŽƐ ĚŽƐ ĐůŝĞŶƚĞƐ͘  EůĞƐ \nĂŐƌĞŐĂŵ  Ƶŵ  ĐŽŶũƵŶƚŽ  ĚĞ  ƉƌŝŶĐşƉŝŽƐ  ƉƌŽǀĞŶŝĞŶƚĞƐ \nĚŽ ŵĂŶŝĨĞƐƚŽ ĄŐŝů͕  ƚĂŝƐ ĐŽŵŽ͗\nͻ  ĞŶǀŽůǀŝŵĞŶƚŽ ĚŽ ĐůŝĞŶƚĞ͖\nͻ  ĞŶƚƌĞŐĂ ŝŶĐƌĞŵĞŶƚĂů͖\nͻ  ƉĞƐƐŽĂƐ͕  ŶĆŽ ƉƌŽĐĞƐƐŽƐ͖\nͻ  ĂĐĞŝƚĂĕĆŽ ĚĂƐ ŵƵĚĂŶĕĂƐ͖\nͻ  ŵĂŶƵƚĞŶĕĆŽ ĚĂ ƐŝŵƉůŝĐŝĚĂĚĞ͘\nK  ^ĐƌƵŵ  Ġ  Ƶŵ  ĞǆĞŵƉůŽ  ĚĞ  ŵĠƚŽĚŽ  ĄŐŝů  ĚĞ \nŐĞƌĞŶĐŝĂŵĞŶƚŽ ĚĞ ƉƌŽũĞƚŽƐ͘   ǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă \nƐĞŐƵŝƌ ƐŽďƌĞ Ă ƌĞůĂĕĆŽ ĚŽ ^ĐƌƵŵ ĐŽŵ ŽƐ ƉƌŝŶĐşƉŝŽƐ \nĚŽ ŵĂŶŝĨĞƐƚŽ ĄŐŝů͘\n/͘   K  ^ĐƌƵŵ  ĂĚŽƚĂ  Ă  ĞŶƚƌĞŐĂ  ŝŶĐƌĞŵĞŶƚĂů  ƉŽƌ \nŵĞŝŽ ĚĞ ^ƉƌŝŶƚƐ.\n//͘   K ^ĐƌƵŵ ĂĚŽƚĂ Ă ƐŝŵƉůŝĐŝĚĂĚĞ ƉŽƌ ŵĞŝŽ ĚŽ \nƵƐŽ ĚĂ ƉƌŽŐƌĂŵĂĕĆŽ Ğŵ ƉĂƌĞƐ͘\n///͘   K ^ĐƌƵŵ ĂĚŽƚĂ Ž ĞŶǀŽůǀŝŵĞŶƚŽ ĚŽ ĐůŝĞŶƚĞ ĐŽŵ \nĂ ƉƌŝŽƌŝǌĂĕĆŽ Ğ Ă ŶĞŐŽĐŝĂĕĆŽ ĚŽƐ ƌĞƋƵŝƐŝƚŽƐ \nŶĂ ĐŽŶĐĞƉĕĆŽ ĚĞ ^ƉƌŝŶƚƐ.\n\u001e ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA  //͕  ĂƉĞŶĂƐ͘\nB  ///͕  ĂƉĞŶĂƐ͘\nC  / Ğ //͕  ĂƉĞŶĂƐ͘\nD  / Ğ ///͕  ĂƉĞŶĂƐ͘\nE  /͕  // Ğ ///͘\n\u0006ƌĞĂ ůŝǀƌĞ",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 28,
-      "tipo": "OBJETIVA",
-      "pagina": 27,
-      "x": 60.35430145263672,
-      "y": 88.699951171875,
-      "x1": 122.80711364746094,
-      "y1": 100.699951171875,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 28"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais",
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549225"
+  "texto_completo": "27\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 28\nOs  métoTos  Ageis  são  funTamentaTos  no \nTesenvolvimento  e  entrega  incremental  tenTo \nem vista atenTer aos requisitos Tos clientes.  Nles \nagregam  um  conũunto  Te  princípios  provenientes \nTo manifesto Agil,  tais como:\nͻ  envolvimento To cliente͖\nͻ  entrega incremental͖\nͻ  pessoas,  não processos͖\nͻ  aceitação Tas muTanças͖\nͻ  manutenção Ta simpliciTaTe.\nO  Scrum  é  um  exemplo  Te  métoTo  Agil  Te \ngerenciamento Te proũetos.   valie as afrmações a \nseguir sobre a relação To Scrum com os princípios \nTo manifesto Agil.\n/.   O  Scrum  aTota  a  entrega  incremental  por \nmeio Te Sprints.\n//.   O Scrum aTota a simpliciTaTe por meio To \nuso Ta programação em pares.\n///.   O Scrum aTota o envolvimento To cliente com \na priorização e a negociação Tos requisitos \nna concepção Te Sprints.\n\u001e correto o que se afrma em\nA  //,  apenas.\nB  ///,  apenas.\nC  / e //,  apenas.\nM  / e ///,  apenas.\nN  /,  // e ///.\nArea livre\nQUNSTÃO 29\nO  proũetista  To  gerenciaTor  Te  memoria  Te  um \nnovo sistema operacional precisa escolUer entre os \nalgoritmos Te substituição Te pAginas &/&O (First Cn \n&irst Out - o primeiro a entrar é o primeiro a sair) \ne >ZU (>east ZecentlǇ UseT - menos recentemente \nusaTo).   Para  isso,   avaliou  o  numero  Te  faltas  Te \npAgina  obtiTas  em  ambos  os  algoritmos  para  o \ntamanUo  Te  memoria  Te  4  pAginas,   utilizanTo  a \nsequgncia Te acessos as pAginas 1-2-3-4-1-2-5-1-2-\n3-4-5 Te um processo e memoria inicialmente vazia.  \nCom  base  nessa  simulação,   avalie  as  asserções  a \nseguir e a relação proposta entre elas.\n/.   Na simulação proposta,  é possível observar \nque os algoritmos &/&O e >ZU apresentam o \nmesmo TesempenUo.\nPOZYUN\n//.   Os parametros utilizaTos na simulação são \ninsufcientes para Teterminar a Tiferença Te \nfuncionamento entre os algoritmos.\n   respeito  Tessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\n*R03201727*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_CCP/q28.png",
+  "caminho_json": "/questoes/2017_CCP/q28.json",
+  "caminho_txt": "/questoes/2017_CCP/q28.txt"
 }

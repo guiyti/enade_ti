@@ -1,25 +1,29 @@
-QUESTÃO 34	
-Sistemas especialistas são aqueles que fazem uso intensivo do conhecimento especializado para resolver 
-problemas de modo semelhante àquele de um especialista humano. Uma das diversas utilizações de 
-sistemas especialistas é na elaboração de diagnósticos destinados a inferir sobre o mau funcionamento 
-de um sistema, a partir de observações, de modo a prescrever soluções para a anomalia detectada. 
-A medicina, atualmente, já se beneficia do uso de sistemas especialistas em conjunto com técnicas de 
+41
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 34	
+Sistemas especialistas são aqueles que fazem uso intensivo To conUecimento especializaTo para resolver 
+problemas Te moTo semelUante àquele Te um especialista Uumano. Uma Tas Tiversas utilizações Te 
+sistemas especialistas é na elaboração Te Tiagnósticos TestinaTos a inferir sobre o mau funcionamento 
+Te um sistema, a partir Te observações, Te moTo a prescrever soluções para a anomalia TetectaTa. 
+A meTicina, atualmente, já se beneficia To uso Te sistemas especialistas em conjunto com técnicas Te 
 inferência estatística.
-Uma das formas de trabalhar com sistemas especialistas é por meio do uso de “regras de produção”, 
-que são instruções do tipo “se - então”. As regras de produção aplicam-se à memória de trabalho, 
-que contém dados, e se tiverem êxito, contribuirão com alguma nova informação para a memória.
-A metodologia de trabalho de um médico do serviço de emergência inclui a utilização de um sistema 
-especialista para diagnóstico de dengue, para o qual se encontra a seguinte regra de produção.
-Se ((temperatura > 38º) e (dores musculares intensas))
-então (quadro de dengue, com 70% de chance);
-senão(quadro de resfriado comum com 30% de chance);
-Levando em conta a regra de produção do sistema especialista utilizado pelo médico, é correto 
+Uma Tas formas Te trabalUar com sistemas especialistas é por meio To uso Te “regras Te proTução”, 
+que são instruções To tipo “se - então”. As regras Te proTução aplicam-se à memória Te trabalUo, 
+que contém TaTos, e se tiverem êxito, contribuirão com alguma nova informação para a memória.
+A metoTologia Te trabalUo Te um méTico To serviço Te emergência inclui a utilização Te um sistema 
+especialista para Tiagnóstico Te Tengue, para o qual se encontra a seguinte regra Te proTução.
+Se ((temperatura > 38º) e (Tores musculares intensas))
+então (quaTro Te Tengue, com 70% Te cUance);
+senão(quaTro Te resfriaTo comum com 30% Te cUance);
+LevanTo em conta a regra Te proTução To sistema especialista utilizaTo pelo méTico, é correto 
 afirmar que
-A	 cada pessoa que procura atendimento apresentando ambos os sintomas, possui a probabilidade “0,7” 
-de estar contaminada pela dengue.
-B	 se 50 pessoas procurarem o atendimento apresentando um dos dois sintomas, provavelmente 
-15 pessoas estarão com resfriado comum.
-C	 se 100 pessoas procurarem o atendimento apresentando ambos os sintomas, a quantidade de pessoas 
-com dengue será igual a 70.
-D	 cada pessoa que chega apresentando um dos dois sintomas estará com resfriado comum.
-E	 a cada 100 pessoas que procuram atendimento, no máximo 30 estarão doentes.
+A	 caTa pessoa que procura atenTimento apresentanTo ambos os sintomas, possui a probabiliTaTe “0,7” 
+Te estar contaminaTa pela Tengue.
+B	 se 50 pessoas procurarem o atenTimento apresentanTo um Tos Tois sintomas, provavelmente 
+15 pessoas estarão com resfriaTo comum.
+C	 se 100 pessoas procurarem o atenTimento apresentanTo ambos os sintomas, a quantiTaTe Te pessoas 
+com Tengue será igual a 70.
+M	 caTa pessoa que cUega apresentanTo um Tos Tois sintomas estará com resfriaTo comum.
+N	 a caTa 100 pessoas que procuram atenTimento, no máximo 30 estarão Toentes.
+Área livre
+*R28202141*

@@ -1,10 +1,14 @@
-QUESTÃO 22  
-Considere a seguinte tabela  verdade, na qual estão 
-defi nidas quatro entradas – A, B, C e D – e uma saída S. 
+COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+14
+QUNSTÃO 22  
+ConsiTere a seguinte tabela  verTaTe, na qual estão 
+Tefi niTas quatro entraTas – A, B, C e M – e uma saíTa S. 
 A
 B
 C
-D
+M
 S
 0
 0
@@ -86,10 +90,37 @@ S
 1
 1
 1
-A menor expressão de chaveamento representada por 
-uma soma de produtos correspondente à saída S é
-A   AB’(D+C’)+A’D’+ABC.
-B   AD + A’BD’+A’BC+A’B’C’.
-C   A’D’ + AB’D+AB’C’+ABC.
-D   (A’+D)(A+B+C’)(A+B’+C+D’).
-E    (A+D’)(A’+B’+C)(A’+B+C’+D).
+A menor expressão Te cUaveamento representaTa por 
+uma soma Te proTutos corresponTente à saíTa S é
+A   AB’(M+C’)+A’M’+ABC.
+B   AM + A’BM’+A’BC+A’B’C’.
+C   A’M’ + AB’M+AB’C’+ABC.
+M   (A’+M)(A+B+C’)(A+B’+C+M’).
+N    (A+M’)(A’+B’+C)(A’+B+C’+M).
+ÁRNA LCVRN
+QUNSTÃO 23
+Autômatos fi nitos possuem Tiversas aplicações práticas, 
+como na Tetecção Te sequências Te caracteres em 
+um texto. A fi gura abaixo apresenta um autômato que 
+reconUece sequências sobre o alfabeto 
+e 
+uma gramática livre Te contexto que gera um subconjunto 
+Te 
+, em que 
+representa o string vazio.
+AnalisanTo a gramática e o autômato acima, 
+conclui-se que
+A   a linguagem geraTa pela gramática é inerentemente 
+ambígua.
+B   a gramática é regular e gera uma linguagem livre Te 
+contexto.
+C   a linguagem reconUeciTa pelo autômato é a mesma 
+geraTa pela gramática.
+M   o autômato reconUece a linguagem sobre 
+ em que 
+os strings possuem o prefi xo ababc.
+N   a linguagem reconUeciTa pelo autômato é a 
+mesma que a representaTa pela expressão regular 
+.
+ÁRNA LCVRN
+*A13201114*

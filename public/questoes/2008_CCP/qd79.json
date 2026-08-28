@@ -5,44 +5,17 @@
   "paginas": [
     33
   ],
-  "segmentos": [
-    {
-      "pagina": 33,
-      "x0": 300.59999999999997,
-      "y0": 75.0,
-      "x1": 570.1999999999999,
-      "y1": 252.1970672607422,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/qd79.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/qd79.txt",
   "largura": 1154,
   "altura": 769,
   "confianca": 0.98,
-  "texto_completo": "está\n de\netivo\naos\ndeve\nulta,\ne do\num\nas a\no de\npor\nto e\nntes\nQUESTÃO 79 – DISCURSIVA\nConsiderando as informações apresentadas no texto\ne considerando ainda que entre os principais\nbenefícios de um projeto de melhoria de sistema de\ninformação destacam-se o aumento da: (I)\neficiência; (II) eficácia; (III) integridade; e (IV)\ndisponibilidade, faça o que se pede a seguir.\nA Cite 4 vantagens da solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços de saúde, sendo duas delas relativas à\neficiência e duas relativas à eficácia.\n(valor: 5,0 pontos)",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 79,
-      "tipo": "DISCURSIVA",
-      "pagina": 33,
-      "x": 332.1590881347656,
-      "y": 80.44668579101562,
-      "x1": 481.3172607421875,
-      "y1": 91.48668670654297,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 79 – DISCURSIVA"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027252"
+  "texto_completo": "32\nCOMPUTAÇÃO\nTexto para as questões 78 e 79\nA Secretaria Te SaúTe Te TeterminaTo município está\nexecutanTo um projeto Te automação To seu sistema Te\natenTimento méTico e laboratorial, atualmente manual. O objetivo\nTo projeto é melUorar a satisfação Tos usuários com relação aos\nserviços prestaTos pela Secretaria. O sistema automatizaTo Teve\ncontemplar os seguintes processos: marcação Te consulta,\nmanutenção Te prontuário To paciente, além To peTiTo e To\nregistro Te resultaTos Te exame laboratorial.\nA Secretaria possui vários postos Te saúTe e caTa um\nTeles atenTe a um ou mais bairros To município. As consultas a\ncaTa paciente são realizaTas no posto Te saúTe mais próximo Te\nonTe ele resiTe. Os exames laboratoriais são realizaTos por\nlaboratórios terceirizaTos e conveniaTos.\nA solução proposta pela equipe Te Tesenvolvimento e\nimplantação Ta automação contempla, entre outros, os seguintes\naspectos:\n<\nsistema computacional To tipo cliente-serviTor na web, em que\ncaTa usuário caTastraTo utiliza login e senUa para fazer uso To\nsistema;\n<\numa aplicação, compartilUaTa por méTicos e laboratórios,\ngerencia o peTiTo e o registro Te resultaTos Tos exames.\nMurante uma consulta o próprio méTico registra o peTiTo Te\nexames no sistema;\n<\numa aplicação, compartilUaTa por méTicos e pacientes,\npermite que ambos tenUam acesso aos resultaTos Tos\nexames laboratoriais; \n<\numa aplicação, compartilUaTa por méTicos e pacientes, que\nautomatiza o prontuário Tos pacientes, em que os registros em\nprontuário, efetuaTos por caTa méTico para caTa paciente,\nestão Tisponíveis apenas para o paciente e o méTico\nespecíficos. Além Tisso, caTa méTico poTe fazer registros\nprivaTos no prontuário To paciente, apenas visíveis por ele;\n<\numa aplicação, compartilUaTa por pacientes e atenTentes Te\npostos Te saúTe, que permite a marcação Te consultas por\npacientes e(ou) por atenTentes. Nsses atenTentes atenTem o\npaciente no balcão ou por telefone.\nQUNSTÃO 78\nConsiTeranTo o contexto acima, julgue os seguintes itens.\nC\nNo contexto To projeto acima Tescrito, aquele que\nTesempenUa o papel Te usuário To sistema Te informação\nautomatizaTo não é apenas o paciente, e aquele que\nTesempenUa o papel Te cliente poTe não ser um méTico.\nCC\nO sistema Te informação manual atualmente em uso na\nreferiTa secretaria Te saúTe não Tá suporte aos processos Te\nnegócio Tessa secretaria.\nCCC O projeto Te automação Tos serviços Te saúTe não é uma\nsolução Te outsourcing.\nCV No sistema acima, os riscos Te não-repúTio são aumentaTos\ncom a automação.\nV Para o gestor To sistema Te informação a ser automatizaTo,\na acessibiliTaTe é uma característica Te menor importância\njuríTica frente à necessiTaTe Te ampliar a confiTencialiTaTe.\nNstão certos apenas os itens\nA C e CC.\nB C e CCC.\nC CC e CV.\nM CCC e V.\nN CV e V.\nQUNSTÃO 79 – MCSCURSCVA\nConsiTeranTo as informações apresentaTas no texto\ne consiTeranTo ainTa que entre os principais\nbenefícios Te um projeto Te melUoria Te sistema Te\ninformação Testacam-se o aumento Ta: (C)\neficiência; (CC) eficácia; (CCC) integriTaTe; e (CV)\nTisponibiliTaTe, faça o que se peTe a seguir.\nA Cite 4 vantagens Ta solução proposta, frente à\natual, para tratar a interação entre pacientes e os\nserviços Te saúTe, senTo Tuas Telas relativas à\neficiência e Tuas relativas à eficácia.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 79 - A\n1\n2\n3\n4\n5\n6\n7\n8\nB Mescreva 2 riscos Te segurança Ta informação\nque aumentam quanTo se substitui o sistema\natual pelo sistema proposto, e que são relativos\nà interação entre pacientes e os serviços Ta\nreferiTa secretaria Te saúTe. Um Tos riscos Teve\nser relativo à perTa Te TisponibiliTaTe e o outro,\nà perTa Te integriTaTe.\n(valor: 5,0 pontos)\nRASCUNHO – QUNSTÃO 79 - B\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/qd79.png",
+  "caminho_json": "/questoes/2008_CCP/qd79.json",
+  "caminho_txt": "/questoes/2008_CCP/qd79.txt"
 }

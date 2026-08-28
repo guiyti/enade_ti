@@ -5,44 +5,17 @@
   "paginas": [
     24
   ],
-  "segmentos": [
-    {
-      "pagina": 24,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 311.15999999999997,
-      "y1": 766.56,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q22.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q22.txt",
   "largura": 1222,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22\nhŵ  ƉĂşƐ  ƵƟůŝǌĂ  ŵŽĞĚĂƐ  ĚĞ  1͕   5͕   10͕   25  Ğ  50 \nĐĞŶƚĂǀŽƐ͘  hŵ ƉƌŽŐƌĂŵĂĚŽƌ ĚĞƐĞŶǀŽůǀĞƵ Ž ŵĠƚŽĚŽ \nĂ ƐĞŐƵŝƌ͕  ƋƵĞ ŝŵƉůĞŵĞŶƚĂ Ă ĞƐƚƌĂƚĠŐŝĂ ŐƵůŽƐĂ ƉĂƌĂ \nŽ ƉƌŽďůĞŵĂ ĚŽ ƚƌŽĐŽ ŵşŶŝŵŽ͘  EƐƐĞ ŵĠƚŽĚŽ ƌĞĐĞďĞ \nĐŽŵŽ  ƉĂƌąŵĞƚƌŽ  Ƶŵ  ǀĂůŽƌ  ŝŶƚĞŝƌŽ͕   Ğŵ  ĐĞŶƚĂǀŽƐ͕  \nĞ ƌĞƚŽƌŶĂ Ƶŵ array ŶŽ ƋƵĂů ĐĂĚĂ ƉŽƐŝĕĆŽ ŝŶĚŝĐĂ Ă \nƋƵĂŶƟĚĂĚĞ ĚĞ ŵŽĞĚĂƐ ĚĞ ĐĂĚĂ ǀĂůŽƌ͘\npublic static int[] troco(int valor){\nint[] moedas = new int[5];\nmoedas[4] = valor / 50;\nvalor = valor % 50;\nmoedas[3] = valor / 25;\nvalor = valor % 25;\nmoedas[2] = valor / 10;\nvalor = valor % 10;\nmoedas[1] = valor / 5;\nvalor = valor % 5;\nmoedas[0] = valor;\nreturn(moedas);\n}\nIŽŶƐŝĚĞƌĂŶĚŽ  Ž  ŵĠƚŽĚŽ  ĂƉƌĞƐĞŶƚĂĚŽ͕   ĂǀĂůŝĞ  ĂƐ \nĂƐƐĞƌĕƁĞƐ Ă ƐĞŐƵŝƌ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘\n/͘   K  ŵĠƚŽĚŽ  ŐƵůŽƐŽ  ĞŶĐŽŶƚƌĂ  Ž  ŵĞŶŽƌ \nŶƷŵĞƌŽ ĚĞ ŵŽĞĚĂƐ ƉĂƌĂ Ž ǀĂůŽƌ ĚĞ ĞŶƚƌĂĚĂ͕  \nĐŽŶƐŝĚĞƌĂŶĚŽ ĂƐ ŵŽĞĚĂƐ ĚŽ ƉĂşƐ͘\nWKZYhE\n//͘   DĠƚŽĚŽƐ  ŐƵůŽƐŽƐ  ƐĞŵƉƌĞ  ĞŶĐŽŶƚƌĂŵ  Ă \nƐŽůƵĕĆŽ ŐůŽďĂů ſƟŵĂ͘\n  ƌĞƐƉĞŝƚŽ ĚĞƐƐĂƐ ĂƐƐĞƌĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘\nA   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  \nĞ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘\nB   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  \nŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘\nC    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // \nĠ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘\nD    ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // Ġ ƵŵĂ \nƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘\nE   Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 22,
-      "tipo": "OBJETIVA",
-      "pagina": 24,
-      "x": 60.35430145263672,
-      "y": 88.699951171875,
-      "x1": 122.80711364746094,
-      "y1": 100.699951171875,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 22"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549201"
+  "texto_completo": "24\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 22\nUm  país  utiliza  moeTas  Te  1,   5,   10,   25  e  50 \ncentavos.  Um programaTor Tesenvolveu o métoTo \na seguir,  que implementa a estratégia gulosa para \no problema To troco mínimo.  Nsse métoTo recebe \ncomo  parametro  um  valor  inteiro,   em  centavos,  \ne retorna um array no qual caTa posição inTica a \nquantiTaTe Te moeTas Te caTa valor.\npublic static int[] troco(int valor){\nint[] moeTas = new int[5];\nmoeTas[4] = valor / 50;\nvalor = valor % 50;\nmoeTas[3] = valor / 25;\nvalor = valor % 25;\nmoeTas[2] = valor / 10;\nvalor = valor % 10;\nmoeTas[1] = valor / 5;\nvalor = valor % 5;\nmoeTas[0] = valor;\nreturn(moeTas);\n}\nConsiTeranTo  o  métoTo  apresentaTo,   avalie  as \nasserções a seguir e a relação proposta entre elas.\n/.   O  métoTo  guloso  encontra  o  menor \nnumero Te moeTas para o valor Te entraTa,  \nconsiTeranTo as moeTas To país.\nPOZYUN\n//.   MétoTos  gulosos  sempre  encontram  a \nsolução global otima.\n  respeito Tessas asserções,  assinale a opção correta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nQUNSTÃO 23\nConsiTere o seguinte alfabeto:\nΣ =\n+ −\n{(,), , , , , , , , , , , , }\n0 1 2 3 4 5 6 7 8 9\n.\nConsiTere,  ainTa,  uma linguagem L TefniTa sobre \nesse alfabeto.\nL {w | w  6Ύ,  para caTa ocorrgncia Te ‘(‘ em w,  \nexiste uma ocorrgncia Te ‘)’}\nPor exemplo,  a caTeia x  (2 + (3 - 4)) pertence a \nL,  mas a caTeia y  (2 + (3 - 4) não pertence a L.\nCom relação a linguagem L,  avalie as asserções a \nseguir e a relação proposta entre elas.\n/.      linguagem  L não  poTe  ser  consiTeraTa \nregular.\nPOZYUN\n//.    utƀmatos fnitos não possuem mecanismos \nque  permitam  contar  infnitamente  o \nnumero  Te  ocorrgncias  Te  TeterminaTo \nsímbolo em uma caTeia.\n   respeito  Tessas  asserções,   assinale  a  opção \ncorreta.\nA   s asserções / e // são proposições verTaTeiras,  \ne a // é uma ũustifcativa correta Ta /.\nB   s asserções / e // são proposições verTaTeiras,  \nmas a // não é uma ũustifcativa correta Ta /.\nC    asserção / é uma proposição verTaTeira,  e a // \né uma proposição falsa.\nM    asserção / é uma proposição falsa,  e a // é uma \nproposição verTaTeira.\nN   s asserções / e // são proposições falsas.\nArea livre\n*R03201724*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_CCP/q22.png",
+  "caminho_json": "/questoes/2017_CCP/q22.json",
+  "caminho_txt": "/questoes/2017_CCP/q22.txt"
 }

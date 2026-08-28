@@ -5,46 +5,19 @@
   "paginas": [
     12
   ],
-  "segmentos": [
-    {
-      "pagina": 12,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 558.68,
-      "y1": 721.4399999999999,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2014_CCP/q09.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q09.txt",
   "largura": 2254,
   "altura": 2724,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 09\n  ĮŐƵƌĂ Ă ƐĞŐƵŝƌ ĂƉƌĞƐĞŶƚĂ ĚƵĂƐ ƚĞůĂƐ ĚĞ Ƶŵ ƐŝƐƚĞŵĂ ĚĞ ǀĞŶĚĂ ĚĞ ƉĂƐƐĂŐĞŶƐ ĂĠƌĞĂƐ ĚĞ ƵŵĂ ĞŵƉƌĞƐĂ͘  EĂ ƚĞůĂ 1͕  \nŽ ƵƐƵĄƌŝŽ ƐĞůĞĐŝŽŶŽƵ ƐƵĂ ŽƌŝŐĞŵ͕  ƐĞƵ ĚĞƐƟŶŽ͕  Ğ͕  ůŽŐŽ Ğŵ ƐĞŐƵŝĚĂ͕  ƐƵĂ ĚĂƚĂ ĚĞ ŝĚĂ͘   Ž ŵƵĚĂƌ Ž ĨŽĐŽ ƉĂƌĂ Ž \nĐĂŵƉŽ ĚĞ ƉƌĞĞŶĐŚŝŵĞŶƚŽ ĚĂ ĚĂƚĂ ĚĞ ƌĞƚŽƌŶŽ͕  Ă ĨĞƌƌĂŵĞŶƚĂ ĚĞ ĐĂůĞŶĚĄƌŝŽ ĂƉƌĞƐĞŶƚŽƵ ĂƵƚŽŵĂƟĐĂŵĞŶƚĞ Ă \nĚĂƚĂ ĚŽ ĚŝĂ ĚĂ ĐŽŵƉƌĂ ;01ͬ 09ͬ 2014Ϳ͕  ĐŽŶĨŽƌŵĞ ĞǆŝďŝĚŽ ŶĂ ƚĞůĂ 2͘\nIŽŵ ďĂƐĞ ŶĂƐ ƚĞůĂƐ ĂƉƌĞƐĞŶƚĂĚĂƐ Ğ Ğŵ ĚŝŵĞŶƐƁĞƐ ĚĞ ƋƵĂůŝĚĂĚĞ͕  ƚĂŝƐ ĐŽŵŽ ĨĂĐŝůŝĚĂĚĞ ĚĞ ĂƉƌĞŶĚŝǌĂŐĞŵ͕  \nƉƌĞǀĞŶĕĆŽ ĚĞ ĞƌƌŽƐ͕  ĞĮĐŝġŶĐŝĂ͕  ŵĞŵŽƌŝǌĂĕĆŽ Ğ ƐĂƟƐĨĂĕĆŽ ƐƵďũĞƟǀĂ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘\n/͘   K ďŽƚĆŽ ͞ /ƌ͟  ĂƉƌĞƐĞŶƚĂ ƵŵĂ ŵĞƚĄĨŽƌĂ ĂĚĞƋƵĂĚĂ ĐŽŵ Ž ŵƵŶĚŽ ƌĞĂů͕  ĨĂĐŝůŝƚĂŶĚŽ Ă ĂƉƌĞŶĚŝǌĂŐĞŵ.\n//͘   EĂ ƚĞůĂ 1͕  Ž ƵƐŽ ĚŽ ĐĂůĞŶĚĄƌŝŽ ĐůŝĐĄǀĞů ŶĆŽ ĂƵǆŝůŝĂ ŶĂ ƉƌĞǀĞŶĕĆŽ ĚĞ ĞƌƌŽƐ͕  ǀŝƐƚŽ ƋƵĞ Ă ĞŶƚƌĂĚĂ ĚĞ ĚĂƚĂƐ \nƉŽĚĞ ƐĞƌ ƌĞĂůŝǌĂĚĂ ŵĂŶƵĂůŵĞŶƚĞ ƉĞůŽƐ ƵƐƵĄƌŝŽƐ͘\n///͘  EĂ ƚĞůĂ 2͕  Ž ĨĂƚŽ ĚĞ Ž ĐĂůĞŶĚĄƌŝŽ ƐĞůĞĐŝŽŶĂƌ Ă ĚĂƚĂ ĚĂ ĐŽŵƉƌĂ ƉƌĞũƵĚŝĐĂ Ă ĞĮĐŝġŶĐŝĂ ĚĂ ŝŶƚĞƌĨĂĐĞ͕  ũĄ \nƋƵĞ Ă ĚĂƚĂ ƉƌĞĞŶĐŚŝĚĂ Ġ ĂŶƚĞƌŝŽƌ ă ĚĂƚĂ ĚĞ ŝĚĂ͘\n/s͘     ŵĞŵŽƌŝǌĂĕĆŽ Ġ ƉƌĞũƵĚŝĐĂĚĂ ƉŽŝƐ Ă ŝŶƚĞƌĨĂĐĞ ĂƉƌĞƐĞŶƚĂ ĞůĞŵĞŶƚŽƐ ŐƌĄĮĐŽƐ Ğŵ ĚĞŵĂƐŝĂ͘\n\u001e ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ\nA / Ğ //͘\nB / Ğ ///͘\nC // Ğ /s͘\nD /͕  /// Ğ /s͘\nE //͕  /// Ğ /s͘",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "12\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 09\n  fgura a seguir apresenta Tuas telas Te um sistema Te venTa Te passagens aéreas Te uma empresa.  Na tela 1,  \no usuArio selecionou sua origem,  seu Testino,  e,  logo em seguiTa,  sua Tata Te iTa.   o muTar o foco para o \ncampo Te preencUimento Ta Tata Te retorno,  a ferramenta Te calenTArio apresentou automaticamente a \nTata To Tia Ta compra (01ͬ 09ͬ 2014),  conforme exibiTo na tela 2.\nCom base nas telas apresentaTas e em Timensões Te qualiTaTe,  tais como faciliTaTe Te aprenTizagem,  \nprevenção Te erros,  efcigncia,  memorização e satisfação subũetiva,  avalie as afrmações a seguir.\n/.   O botão \" /r\"  apresenta uma metAfora aTequaTa com o munTo real,  facilitanTo a aprenTizagem.\n//.   Na tela 1,  o uso To calenTArio clicAvel não auxilia na prevenção Te erros,  visto que a entraTa Te Tatas \npoTe ser realizaTa manualmente pelos usuArios.\n///.  Na tela 2,  o fato Te o calenTArio selecionar a Tata Ta compra preũuTica a efcigncia Ta interface,  ũA \nque a Tata preencUiTa é anterior a Tata Te iTa.\n/s.     memorização é preũuTicaTa pois a interface apresenta elementos grAfcos em Temasia.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e /s.\nM /,  /// e /s.\nN //,  /// e /s.\n*R03201412*",
   "figuras": [
     "/questoes/2014_CCP/figuras/q09_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 9,
-      "tipo": "OBJETIVA",
-      "pagina": 12,
-      "x": 29.62769889831543,
-      "y": 86.31988525390625,
-      "x1": 92.07929992675781,
-      "y1": 98.31988525390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 09"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:17.577217"
+  "caminho_png": "/questoes/2014_CCP/q09.png",
+  "caminho_json": "/questoes/2014_CCP/q09.json",
+  "caminho_txt": "/questoes/2014_CCP/q09.txt"
 }

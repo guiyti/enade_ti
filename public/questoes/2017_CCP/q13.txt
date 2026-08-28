@@ -1,11 +1,13 @@
-QUESTÃO 13
-KƐ ƐŝƐƚĞŵĂƐ ĚĞ ƌĞĨƌŝŐĞƌĂĕĆŽ ĚĞ ƉŝƐĐŝŶĂƐ ĚĞ ĐŽŵďƵƐơǀĞů Ğŵ ƵƐŝŶĂƐ ŶƵĐůĞĂƌĞƐ ĞǀŝƚĂŵ ƋƵĞ Ă ƚĞŵƉĞƌĂƚƵƌĂ 
-ĚĞƐƐĞƐ  ƚĂŶƋƵĞƐ  ĞǆĐĞĚĂ  Ž  ůŝŵŝƚĞ  ĚĞ  ƐĞŐƵƌĂŶĕĂ͘   K  ĐŝƌĐƵŝƚŽ  ƌĞƉƌĞƐĞŶƚĂĚŽ  ŶĂ  ĮŐƵƌĂ  Ă  ƐĞŐƵŝƌ  ĂƚĞŶĚĞ  ĂŽƐ 
-ƌĞƋƵŝƐŝƚŽƐ ŶĞĐĞƐƐĄƌŝŽƐ ƉĂƌĂ Ž ĐŽŶƚƌŽůĞ ĚĂ ĂƟǀĂĕĆŽ ĚŽ ƐŝƐƚĞŵĂ ĚĞ ƌĞƐĨƌŝĂŵĞŶƚŽ ƋƵĂŶĚŽ Ă ƚĞŵƉĞƌĂƚƵƌĂ ĞƐƚĄ 
-ƉƌſǆŝŵĂ ĚĞ ƐĞƵ ƉŽŶƚŽ ĐƌşƟĐŽ͘
-K ĚŝĂŐƌĂŵĂ ĚĞ ƚĞŵƉŽ ŝůƵƐƚƌĂĚŽ ŶĂ ĮŐƵƌĂ ĂƉƌĞƐĞŶƚĂ ƵŵĂ ĂŵŽƐƚƌĂ ĚĂƐ ƚĞŵƉĞƌĂƚƵƌĂƐ ůŝĚĂƐ ĚĞƐĚĞ Ž ŵŽŵĞŶƚŽ 
-t1 ĂŽ t8͘  KƐ ƐŝŶĂŝƐ ĚĞ ĞŶƚƌĂĚĂ Ta͕  Tb e Tc ƐĆŽ ĚĞ ƚĞƌŵƀŵĞƚƌŽƐ ƋƵĞ ŵĞĚĞŵ Ă ƚĞŵƉĞƌĂƚƵƌĂ ĚĂ ƉŝƐĐŝŶĂ Ğŵ 
-ĚŝĨĞƌĞŶƚĞƐ ƉŽŶƚŽƐ ĂŽ ůŽŶŐŽ ĚŽ ĚŝĂ Ğ S Ġ Ž ƚĞƌŵŝŶĂů ĚĞ ĂĐŝŽŶĂŵĞŶƚŽ ĚŽ ƐŝƐƚĞŵĂ͘
+CCÊNCCA MA COMPUTAÇÃO
+19
+QUNSTÃO 13
+Os sistemas Te refrigeração Te piscinas Te combusơvel em usinas nucleares evitam que a temperatura 
+Tesses  tanques  exceTa  o  limite  Te  segurança.   O  circuito  representaTo  na  fgura  a  seguir  atenTe  aos 
+requisitos necessArios para o controle Ta ativação To sistema Te resfriamento quanTo a temperatura estA 
+proxima Te seu ponto crítico.
+O Tiagrama Te tempo ilustraTo na fgura apresenta uma amostra Tas temperaturas liTas TesTe o momento 
+t1 ao t8.  Os sinais Te entraTa Ta,  Tb e Tc são Te termƀmetros que meTem a temperatura Ta piscina em 
+Tiferentes pontos ao longo To Tia e S é o terminal Te acionamento To sistema.
 Ta
 Tb
 Tc
@@ -21,10 +23,73 @@ Ta
 Tb
 Tc
 S
-EĞƐƐĞ  ĐŽŶƚĞǆƚŽ͕   ĂƐƐŝŶĂůĞ  Ă  ŽƉĕĆŽ  Ğŵ  ƋƵĞ  ƐĆŽ  ĂƉƌĞƐĞŶƚĂĚŽƐ  ŽƐ  ŵŽŵĞŶƚŽƐ  Ğŵ  ƋƵĞ  Ž  ƐŝƐƚĞŵĂ  ĨŽŝ 
-ĂĐŝŽŶĂĚŽ͘
-A t1͕ t4 e t8.
-B t1͕ t6 e t8.
-C t2͕ t4 e t6.
-D t2͕ t6 e t8.
-E t3͕ t5 e t7.
+Nesse  contexto,   assinale  a  opção  em  que  são  apresentaTos  os  momentos  em  que  o  sistema  foi 
+acionaTo.
+A t1, t4 e t8.
+B t1, t6 e t8.
+C t2, t4 e t6.
+M t2, t6 e t8.
+N t3, t5 e t7.
+YUNSTãO 14 
+Uma relação Te equivalgncia é uma relação binAria R em um conũunto A,  tal que R é reŇexiva,  simétrica 
+e transitiva.
+ConsiTere as relações binArias apresentaTas a seguir.
+ͻ 
+ͻ 
+ͻ 
+ͻ 
+São relações Te equivalgncia apenas o que se apresenta em
+A R2 e R3.
+B R1 e R3.
+C R1 e R4.
+M R1, R2 e R4.
+N R2, R3 e R4.
+R
+a b
+a b
+a
+b
+1 =
+∈
+=
+{( , ) : ,
+};
+N e
+R
+a b
+a b
+a
+b
+2 =
+∈
+≤
+{( , ) : ,
+};
+N e
+R
+a b
+a b
+a
+b
+3
+1
+=
+∈
+=
+−
+{( , ) : ,
+};
+N e
+R
+a b
+a b
+a
+b
+4 =
+∈
++
+{( , ) : ,
+}.
+N e
+é um número par
+*R03201719*

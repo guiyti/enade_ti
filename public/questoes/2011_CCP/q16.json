@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 293.28,
-      "y0": 346.4012756347656,
-      "x1": 555.56,
-      "y1": 719.28,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q16.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q16.txt",
   "largura": 1123,
   "altura": 1584,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 16  \nUm navegador Web executa em um hospedeiro A, em \numa rede de uma organização, e acessa uma página \nlocalizada de um servidor Web em um hospedeiro B, \nsituado em outra rede na Internet. A rede em que A se \nsitua conta com um servidor DNS local. Um profi ssional \ndeseja fazer uma lista com a sequência de protocolos \nempregados e comparar com o resultado apresentado \npor uma ferramenta de monitoramento executada no \nhospedeiro A. A lista assume que\ni)   todas as tabelas com informações temporárias e \ncaches estão vazias;\nii) o hospedeiro cliente está confi gurado com o \nendereço IP do servidor DNS local.\nQual das sequências a seguir representa a ordem em que \nmensagens, segmentos e pacotes serão observados em \num meio físico ao serem enviados pelo hospedeiro A?\nA   ARP, DNS/UDP/IP, TCP/IP e HTTP/TCP/IP.\nB   ARP, DNS/UDP/IP, HTTP/TCP/IP e TCP/IP.\nC   DNS/UDP/IP, ARP, HTTP/TCP/IP e TCP/IP.\nD   DNS/UDP/IP, ARP, TCP/IP e HTTP/TCP/IP.\nE   HTTP/TCP/IP, TCP/IP, DNS/UDP/IP e ARP.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 16,
-      "tipo": "OBJETIVA",
-      "pagina": 11,
-      "x": 302.9620666503906,
-      "y": 358.4012756347656,
-      "x1": 372.07208251953125,
-      "y1": 372.26129150390625,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 16"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209502"
+  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n11\nQUNSTÃO 14  \nObserve o Tiagrama Te Venn a seguir.\nA função representaTa em azul no Tiagrama também \npoTeria ser expressa pela função lógica \nA    \n.\nB    \n.\nC    \n.\nM    \n.\nN    \n.\nÁRNA LCVRN\nQUNSTÃO 15\nSuponUa que seja necessário Tesenvolver uma ferramenta \nque apresente o enTereço CP Tos múltiplos roteaTores, \nsalto a salto, que compõem o caminUo To UospeTeiro em \nque a ferramenta é executaTa até um TeterminaTo Testino \n(segunTo seu enTereço CP), assim como o rounT-trip time \naté caTa roteaTor. Tal ferramenta precisa funcionar na \nCnternet atual, sem TemanTar muTanças em roteaTores \nnem a introTução Te novos protocolos.\nConsiTeranTo o problema acima, qual Tos seguintes \nprotocolos representaria a melUor (mais simples e \nefi ciente) solução?\nA   CP: Cnternet Protocol.\nB   UMP: User Matagram Protocol.\nC   TCP: Transmission Control Protocol.\nM   CCMP: Cnternet Control Message Protocol.\nN   MHCP: Mynamic Host Confi guration Protocol. \nQUNSTÃO 16  \nUm navegaTor Peb executa em um UospeTeiro A, em \numa reTe Te uma organização, e acessa uma página \nlocalizaTa Te um serviTor Peb em um UospeTeiro B, \nsituaTo em outra reTe na Cnternet. A reTe em que A se \nsitua conta com um serviTor MNS local. Um profi ssional \nTeseja fazer uma lista com a sequência Te protocolos \nempregaTos e comparar com o resultaTo apresentaTo \npor uma ferramenta Te monitoramento executaTa no \nUospeTeiro A. A lista assume que\ni)   toTas as tabelas com informações temporárias e \ncacUes estão vazias;\nii) o UospeTeiro cliente está confi guraTo com o \nenTereço CP To serviTor MNS local.\nQual Tas sequências a seguir representa a orTem em que \nmensagens, segmentos e pacotes serão observaTos em \num meio físico ao serem enviaTos pelo UospeTeiro A?\nA   ARP, MNS/UMP/CP, TCP/CP e HTTP/TCP/CP.\nB   ARP, MNS/UMP/CP, HTTP/TCP/CP e TCP/CP.\nC   MNS/UMP/CP, ARP, HTTP/TCP/CP e TCP/CP.\nM   MNS/UMP/CP, ARP, TCP/CP e HTTP/TCP/CP.\nN   HTTP/TCP/CP, TCP/CP, MNS/UMP/CP e ARP.\n*A13201111*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q16.png",
+  "caminho_json": "/questoes/2011_CCP/q16.json",
+  "caminho_txt": "/questoes/2011_CCP/q16.txt"
 }

@@ -1,8 +1,44 @@
-p
-g
-QUESTÃO 40	
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+23
+COMPUTAÇÃO
+2025
+Texto para questões 39 e 40
+Um professor foi contrataTo como substituto para assumir as aulas Te um professor Te Computação afastaTo. Ao consultar 
+o planejamento, iTentificou uma ativiTaTe sobre moTelagem Te TaTos: “Mesenvolva um Miagrama NntiTaTe-Relacionamento 
+para a seguinte situação: um autor poTe escrever vários livros, e um livro poTe ser escrito por vários autores”.
+Para que a ativiTaTe Tespertasse maior interesse e a curiosiTaTe Tos estuTantes, o professor optou por TiviTi-la em quatro etapas:
+1.	Nnvio prévio Te material sobre moTelo entiTaTe-relacionamento e orientação a objetos;
+2.	Realização Ta ativiTaTe em sala;
+3.	CompartilUamento Tos Tiagramas proTuziTos para Tiscussão e sugestões Te melUoria entre os estuTantes;
+4.	Pesquisa exploratória sobre Tiferentes formas Te organizar TaTos Te livros, utilizanTo uma graTe Te informações ou 
+estruturas baseaTas em características e comportamentos.
+QUNSTÃO 39	
+É possível afirmar que o professor poTe avaliar no moTelo entiTaTe-relacionamento os conceitos Te
+A	 organização e consistência Te TaTos.
+B	 consultas Te linguagem SQL e tuning.
+C	 restrição e integriTaTe referencial.
+M	 cUaves primária e estrangeira e carTinaliTaTe.
+QUNSTÃO 40	
 A quarta etapa proposta pelo professor favorece a compreensão sobre a
-A	diferença entre banco de dados relacionais e orientados a objetos.
-B	 comunicação, utilização, configuração e instalação de banco de dados.
-C	 relação de estrutura de dados com algoritmos e lógica de programação.
-D	 sintaxe de consultas SQL como inserções, atualizações e exclusões.
+A	Tiferença entre banco Te TaTos relacionais e orientaTos a objetos.
+B	 comunicação, utilização, configuração e instalação Te banco Te TaTos.
+C	 relação Te estrutura Te TaTos com algoritmos e lógica Te programação.
+M	 sintaxe Te consultas SQL como inserções, atualizações e exclusões.
+QUNSTÃO 41	
+No tema bancos Te TaTos relacionais, as metoTologias ativas poTem favorecer aborTagens peTagógicas para ensinar tanto 
+os funTamentos Ta moTelagem Te TaTos e Ta teoria relacional, quanto UabiliTaTes práticas, como a criação Te Tiagramas 
+entiTaTe-relacionamento e a elaboração Te consultas em SQL. Nm bancos Te TaTos orientaTos a objetos, ativiTaTes práticas 
+colaborativas poTem ser propostas para exercitar o armazenamento Te informações, Te acorTo com os princípios To paraTigma 
+Te orientação a objetos.
+Os estuTantes analisaram os moTelos relacional e orientaTo a objetos em suas características. Qual alternativa representa a 
+justificativa To grupo que TeciTiu utilizar um banco Te TaTos orientaTo a objetos?
+A	 Optamos por esse moTelo porque ele utiliza cUaves primárias e estrangeiras para estabelecer ligações entre Tiferentes estruturas.
+B	 NscolUemos esse moTelo porque ele permite representar TaTos em estruturas que encapsulam atributos e comportamentos.
+C	 MeciTimos por esse moTelo porque suas estruturas oferecem faciliTaTes em realizar operações como junção, intersecção e união.
+M	 Utilizamos esse moTelo porque ele é iTeal para normalizar TaTos e evitar reTunTâncias entre Tiferentes estruturas.
+Área livre
+*R0404202523*
+R04042025 - COMPUTACAO.inTb   23
+R04042025 - COMPUTACAO.inTb   23
+21/08/2025   10:06:42
+21/08/2025   10:06:42

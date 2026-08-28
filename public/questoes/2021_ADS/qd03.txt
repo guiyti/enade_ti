@@ -1,8 +1,29 @@
-QUESTÃO DISCURSIVA 03	
-Considere a realização de uma pesquisa com 1 000 pessoas para obtenção das seguintes informações: 
-o valor da maior altura; o valor da menor altura; a média das alturas; quantas pessoas têm altura inferior 
-à média das alturas.
-Considere, ainda, que um programador foi selecionado para desenvolver um modelo de código que 
-soluciona o problema automatizando a coleta das alturas e a geração das informações.
-Com base nas informações apresentadas, desenvolva o código adequado para resolver o problema 
-usando pseudocódigo ou uma linguagem de programação. (valor: 10,0 pontos)
+14
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO MCSCURSCVA 03	
+ConsiTere a realização Te uma pesquisa com 1 000 pessoas para obtenção Tas seguintes informações: 
+o valor Ta maior altura; o valor Ta menor altura; a méTia Tas alturas; quantas pessoas têm altura inferior 
+à méTia Tas alturas.
+ConsiTere, ainTa, que um programaTor foi selecionaTo para Tesenvolver um moTelo Te cóTigo que 
+soluciona o problema automatizanTo a coleta Tas alturas e a geração Tas informações.
+Com base nas informações apresentaTas, Tesenvolva o cóTigo aTequaTo para resolver o problema 
+usanTo pseuTocóTigo ou uma linguagem Te programação. (valor: 10,0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Área livre
+COMPONNNTN NSPNCÍFCCO
+*R28202114*

@@ -1,14 +1,47 @@
-QUESTÃO 28
-hŵ  ĐŝĞŶƟƐƚĂ  ĂĮƌŵĂ  ƚĞƌ  ĞŶĐŽŶƚƌĂĚŽ  ƵŵĂ  ƌĞĚƵĕĆŽ  ƉŽůŝŶŽŵŝĂů  ĚĞ  Ƶŵ  ƉƌŽďůĞŵĂ  EWͲIŽŵƉůĞƚŽ  ƉĂƌĂ  Ƶŵ 
-ƉƌŽďůĞŵĂ ƉĞƌƚĞŶĐĞŶƚĞ ă ĐůĂƐƐĞ W͘ IŽŶƐŝĚĞƌĂŶĚŽ ƋƵĞ ĞƐƚĂ ĂĮƌŵĂĕĆŽ ƚĞŵ ŝŵƉůŝĐĂĕƁĞƐ ŝŵƉŽƌƚĂŶƚĞƐ ŶŽ ƋƵĞ 
-Ěŝǌ ƌĞƐƉĞŝƚŽ ă ĐŽŵƉůĞǆŝĚĂĚĞ ĐŽŵƉƵƚĂĐŝŽŶĂů͕  ĂǀĂůŝĞ ĂƐ ƐĞŐƵŝŶƚĞƐ ĂƐƐĞƌĕƁĞƐ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘
-/͘     ĚĞƐĐŽďĞƌƚĂ ĚŽ ĐŝĞŶƟƐƚĂ ŝŵƉůŝĐĂ W с EW͘
-PORQUE
-//͘     ĚĞƐĐŽďĞƌƚĂ ĚŽ ĐŝĞŶƟƐƚĂ ŝŵƉůŝĐĂ ŶĂ ĞǆŝƐƚġŶĐŝĂ ĚĞ ĂůŐŽƌŝƚŵŽƐ ƉŽůŝŶŽŵŝĂŝƐ ƉĂƌĂ ƚŽĚŽƐ ŽƐ ƉƌŽďůĞŵĂƐ 
-EWͲIŽŵƉůĞƚŽƐ͘
-  ƌĞƐƉĞŝƚŽ ĚĞƐƐĂƐ ĂƐƐĞƌĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘
-A  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  Ğ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-B  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  ŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-C   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘
-D   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘
-E  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘
+23
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 28
+Um  cientista  afrma  ter  encontraTo  uma  reTução  polinomial  Te  um  problema  NP-Completo  para  um 
+problema pertencente a classe P. ConsiTeranTo que esta afrmação tem implicações importantes no que 
+Tiz respeito a complexiTaTe computacional,  avalie as seguintes asserções e a relação proposta entre elas.
+/.     Tescoberta To cientista implica P с NP.
+PORQUN
+//.     Tescoberta To cientista implica na existgncia Te algoritmos polinomiais para toTos os problemas 
+NP-Completos.
+  respeito Tessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
+B  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
+C   asserção / é uma proposição verTaTeira,  e a // é uma proposição falsa.
+M   asserção / é uma proposição falsa,  e a // é uma proposição verTaTeira.
+N  s asserções / e // são proposições falsas.
+QUNSTÃO 29
+Miferentes implementações Ta linguagem Te programação PZO>O' permitem preTicaTos com parametros,  
+aceitam as operações Te conũunção e Tisũunção logica,  utilizanTo os símbolos vírgula (conũunção) e ponto e 
+vírgula (Tisũunção),  e a negação logica com o preTicaTo not.
+ConsiTere que um programaTor propoz as clAusulas mostraTas a seguir,  TefniTas em uma linguagem Te 
+programação como PZO>O',  como parte Ta verifcação Te critérios para seleção Te canTiTatos a uma cUapa 
+Te presiTente e vice-presiTente Te uma empresa.  Nstas clAusulas apresentam as premissas para cUegar as 
+conclusões selecionaTos,  TesconsiTeraTos e TescartaTo,  a partir Ta possibiliTaTe Ta existgncia Te fatos ou 
+regras com o iTentifcaTor superior.
+superior(jorge).
+superior(ana).
+selecionaTos(P,Q) :- superior(P), superior(Q).
+TesconsiTeraTos(P,Q) :- not(superior(P)); not(superior(Q)).
+TescartaTo(P) :- not(superior(P)).
+ConsiTeranTo  apenas  as  colocações  e  clAusulas  acima  e  a  Uipotese  Te  munTo  fecUaTo  (closeT worlT 
+assumption),  avalie as afrmações a seguir.  
+/.   Para toTos valores Tos parametros P e Q,  o preTicaTo selecionaTos retornarA um valor logico falso.
+//.   Para toTos valores Te P e Q,  os preTicaTos selecionaTos e TesconsiTeraTos retornarão 
+valores logicos Tiferentes.
+///.     conũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  
+retornarA um valor logico verTaTeiro.
+/s.    Para qualquer valor To parametro P,  o preTicaTo TescartaTo retornarA um valor verTaTeiro.
+V.   Tisũunção Tos preTicaTos selecionaTos e TesconsiTeraTos,  para quaisquer valores Te P e Q,  
+retornarA um valor logico verTaTeiro.  
+ correto apenas o que se afrma em
+A / e //.
+B / e ///.
+C // e s.
+M /// e /s.
+N /s e s.
+*R03201423*

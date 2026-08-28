@@ -5,49 +5,22 @@
   "paginas": [
     28
   ],
-  "segmentos": [
-    {
-      "pagina": 28,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 719.28,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q44.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q44.txt",
   "largura": 2241,
   "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 44\nA utilização dos somadores completos em cascata no projeto de Unidades Lógicas Aritméticas pode comprometer o seu \ndesempenho, uma vez que o sinal de vai-um fi nal deve propagar por todos os somadores, desde as entradas dos bits menos \nsignifi cativos. Esse caminho crítico insere um atraso no sistema que compromete o projeto de ULAs rápidas.  Para reduzir \nesse atraso, mecanismos de predição de vai-um podem ser usados. Um esquema bem simples de predição de vai-um para \num somador de 8 bits é apresentado na fi gura a seguir.\nOs 4 bits mais signifi cativos são somados de forma redundante, considerando o vem-um 0 no primeiro somador e vem-um \nigual a 1 no segundo somador. A saída dos somadores é selecionada a partir de um multiplexador, que é acionado pelo \nvai-um resultado da soma dos 4 bits menos signifi cativos. Como os 3 somadores podem realizar as operações ao mesmo \ntempo, o multiplexador pode entregar o resultado mais rapidamente.\nConsidere as seguintes equações dos somadores:\n   e   \nConsidere, ainda, a equação dos multiplexadores a seguir:\nSuponha que o somador de 8 bits tem predição de vai-um baseada na duplicação da soma dos 4 bits mais signifi cativos \ne que 7 ns é o tempo de atraso de propagação por nível de porta AND, OR e XOR. Desconsiderando os inversores, \no aumento do número de portas e a redução do tempo de propagação podem ser expressos, em porcentagem, como \naumento de\nA   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nB   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 70 ns, redução de 47% \ndo tempo para a execução da soma.\nC   26 portas, representando 65% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nD   20 portas, representando 50% de acréscimo no número de portas e redução de 112 ns para 56 ns, redução de 50% \ndo tempo para a execução da soma.\nE   26 portas, representando 65% de acréscimo no número de portas.  Não há redução no tempo de atraso de \npropagação para a execução da soma",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNGNNHARCA MA COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n28\nQUNSTÃO 44\nA utilização Tos somaTores completos em cascata no projeto Te UniTaTes Lógicas Aritméticas poTe comprometer o seu \nTesempenUo, uma vez que o sinal Te vai-um fi nal Teve propagar por toTos os somaTores, TesTe as entraTas Tos bits menos \nsignifi cativos. Nsse caminUo crítico insere um atraso no sistema que compromete o projeto Te ULAs rápiTas.  Para reTuzir \nesse atraso, mecanismos Te preTição Te vai-um poTem ser usaTos. Um esquema bem simples Te preTição Te vai-um para \num somaTor Te 8 bits é apresentaTo na fi gura a seguir.\nOs 4 bits mais signifi cativos são somaTos Te forma reTunTante, consiTeranTo o vem-um 0 no primeiro somaTor e vem-um \nigual a 1 no segunTo somaTor. A saíTa Tos somaTores é selecionaTa a partir Te um multiplexaTor, que é acionaTo pelo \nvai-um resultaTo Ta soma Tos 4 bits menos signifi cativos. Como os 3 somaTores poTem realizar as operações ao mesmo \ntempo, o multiplexaTor poTe entregar o resultaTo mais rapiTamente.\nConsiTere as seguintes equações Tos somaTores:\n   e   \nConsiTere, ainTa, a equação Tos multiplexaTores a seguir:\nSuponUa que o somaTor Te 8 bits tem preTição Te vai-um baseaTa na Tuplicação Ta soma Tos 4 bits mais signifi cativos \ne que 7 ns é o tempo Te atraso Te propagação por nível Te porta ANM, OR e XOR. MesconsiTeranTo os inversores, \no aumento To número Te portas e a reTução To tempo Te propagação poTem ser expressos, em porcentagem, como \naumento Te\nA   26 portas, representanTo 65% Te acréscimo no número Te portas e reTução Te 112 ns para 70 ns, reTução Te 47% \nTo tempo para a execução Ta soma.\nB   20 portas, representanTo 50% Te acréscimo no número Te portas e reTução Te 112 ns para 70 ns, reTução Te 47% \nTo tempo para a execução Ta soma.\nC   26 portas, representanTo 65% Te acréscimo no número Te portas e reTução Te 112 ns para 56 ns, reTução Te 50% \nTo tempo para a execução Ta soma.\nM   20 portas, representanTo 50% Te acréscimo no número Te portas e reTução Te 112 ns para 56 ns, reTução Te 50% \nTo tempo para a execução Ta soma.\nN   26 portas, representanTo 65% Te acréscimo no número Te portas.  Não Uá reTução no tempo Te atraso Te \npropagação para a execução Ta soma.\n*A13201128*",
   "figuras": [
     "/questoes/2011_CCP/figuras/q44_fig1.jpeg",
     "/questoes/2011_CCP/figuras/q44_fig2.png",
     "/questoes/2011_CCP/figuras/q44_fig3.png",
     "/questoes/2011_CCP/figuras/q44_fig4.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 44,
-      "tipo": "OBJETIVA",
-      "pagina": 28,
-      "x": 34.1431999206543,
-      "y": 66.35550689697266,
-      "x1": 97.49319458007812,
-      "y1": 80.21550750732422,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 44"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209627"
+  "caminho_png": "/questoes/2011_CCP/q44.png",
+  "caminho_json": "/questoes/2011_CCP/q44.json",
+  "caminho_txt": "/questoes/2011_CCP/q44.txt"
 }

@@ -1,50 +1,57 @@
-estado
-lido na fita
+NNAMN – 2005
+Área: COMPUTAÇÃO
+23
+QUNSTÃO 63
+estaTo
+símbolo
+liTo na fita
+símbolo gravaTo
 na fita
-direção
-estado
+Tireção
+próximo
+estaTo
 início
 !
 !
-direita
+Tireita
 0
 0
 0
 1
-direita
+Tireita
 0
 0
 1
 0
-direita
+Tireita
 0
 0
 -
 -
-esquerda
+esquerTa
 1
 1
 0
 0
-esquerda
+esquerTa
 1
 1
 1
 1
-esquerda
+esquerTa
 1
 1
 !
 !
-direita
-parada
-Na tabela acima, estão descritas as ações correspondentes a cada
-um dos quatro estados (início, 0, 1, parada) de uma máquina de
-Turing, que começa a operar no estado “início” processando
-símbolos do alfabeto {0,1,!, -}, em que ‘-’ representa o espaço
-em branco. Considere que, no estado “início”, a fita a ser
-processada esteja com a cabeça de leitura/gravação na posição 1,
-conforme ilustrado a seguir.
+Tireita
+paraTa
+Na tabela acima, estão Tescritas as ações corresponTentes a caTa
+um Tos quatro estaTos (início, 0, 1, paraTa) Te uma máquina Te
+Turing, que começa a operar no estaTo “início” processanTo
+símbolos To alfabeto {0,1,!, -}, em que ‘-’ representa o espaço
+em branco. ConsiTere que, no estaTo “início”, a fita a ser
+processaTa esteja com a cabeça Te leitura/gravação na posição 1,
+conforme ilustraTo a seguir.
 1
 2
 3
@@ -69,10 +76,10 @@ conforme ilustrado a seguir.
 -
 -
 ...
-Considerando essa situação, assinale a opção que indica
-corretamente a posição da cabeça de leitura/gravação e o conteúdo
-da fita após o término da operação, ou seja, após a máquina atingir
-o estado “parada”.
+ConsiTeranTo essa situação, assinale a opção que inTica
+corretamente a posição Ta cabeça Te leitura/gravação e o conteúTo
+Ta fita após o término Ta operação, ou seja, após a máquina atingir
+o estaTo “paraTa”.
 A
 1
 2
@@ -148,7 +155,7 @@ C
 0
 1
 ...
-D
+M
 1
 2
 3
@@ -173,7 +180,7 @@ D
 -
 -
 ...
-E
+N
 1
 2
 3
@@ -198,3 +205,97 @@ E
 -
 -
 ...
+QUNSTÃO 64
+ConsiTere a necessiTaTe Te se implementar um componente Te
+software que realiza cálculos Te expressões matemáticas simples
+para as operações básicas (soma, subtração, multiplicação, Tivisão
+e exponenciação). O software reproTuz na tela To computaTor a
+entraTa, os resultaTos parciais e o resultaTo final Ta expressão e,
+ainTa, trata os operaTores Te exponenciação, multiplicação e
+Tivisão com preceTência sobre os operaTores Te soma e subtração.
+Para obter o referiTo software, é correto que o projetista
+C
+Tefina uma caTeia Te caracteres para armazenar e imprimir toTa
+a expressão Te entraTa.
+CC
+Tefina uma gramática regular para iTentificar as expressões
+aritméticas váliTas.
+CCC Tefina um reconUeceTor Te linguagem regular com autômato
+finito Teterminístico.
+CV especifique a orTem Te preceTência Tos operaTores com uma
+notação Te gramática livre Te contexto.
+Nstão certos apenas os itens
+A C e CC.
+M C, CCC e CV.
+B CCC e CV.
+N CC, CCC e CV.
+C C, CC e CV.
+QUNSTÃO 65
+A análise Te complexiTaTe provê critérios para a classificação
+Te problemas com base na computabiliTaTe Te suas soluções,
+utilizanTo-se a máquina Te Turing como moTelo referencial e
+possibilitanTo o agrupamento Te problemas em classes. Nesse
+contexto, julgue os itens a seguir.
+C
+É possível Temonstrar que P f NP e NP f P.
+CC
+É 
+possível 
+Temonstrar 
+que 
+se 
+P  
+NP, 
+então
+P 1 NP-Completo = i.
+CCC Se um problema Q é NP-Tifícil e Q 0 NP, então Q é
+NP-completo.
+CV O problema Ta satisfatibiliTaTe Te uma fórmula booleana F
+(uma fórmula é satisfatível, se é verTaTeira em algum
+moTelo) foi provaTo ser NP-Tifícil e NP-Completo.
+V
+Nncontrar o caminUo mais curto entre Tois vértices TaTos
+em um grafo Te N vértices e M arestas não é um problema
+Ta classe P.
+Nstão certos apenas os itens
+A C, CCC e CV.
+B CC, CCC, e CV.
+C CCC, CV e V.
+M C, CC, CCC, e CV.
+N CC, CCC, CV e V.
+QUNSTÃO 66
+ConsiTere que, em uma empresa que Tesenvolve aplicações
+TistribuíTas, tenUa siTo elaboraTo um manual TestinaTo ao
+treinamento Te empregaTos e que o responsável por elaborar o
+manual tenUa cometiTo alguns erros. Analise os seguintes
+trecUos To referiTo manual.
+C
+Uma aplicação que usa o User Matagram Protocol (UMP)
+para transporte Tos TaTos poTe ter Te tratar os problemas
+Tecorrentes Te perTas Te mensagens, mensagens recebiTas
+fora Te orTem e Tuplicações Te mensagens. 
+CC
+Um mecanismo Te cUamaTa a proceTimento remoto (remote
+proceTure call) ou Te invocação a métoTo remoto (remote
+metUoT invocation) possibilita que programas cUamem
+proceTimentos ou métoTos em Tiferentes computaTores e
+que se abstraiam Te toTos os TetalUes relacionaTos à
+Tistribuição.
+CCC Nm um sistema Te comunicação embasaTo na cUamaTa a
+proceTimento remoto ou na invocação Te métoTo remoto, os
+serviços remotos são TefiniTos por meio Te interfaces. Uma
+interface é tipicamente processaTa por um compilaTor que
+gera cóTigos (stubs), que, nos clientes, se fazem passar pelos
+cóTigos remotos que são cUamaTos.
+CV Sistemas Te cUamaTa a proceTimentos remotos ou Te
+invocação a métoTos remotos tipicamente implementam as
+semânticas at-most-once ou at-least-once, pois é mais Tifícil
+implementar a semântica exactly-once, segunTo a qual quem
+cUama o proceTimento sabe que ele é executaTo exatamente
+uma vez.
+Nstão certos apenas os trecUos
+A C e CC.
+B CCC e CV.
+C C, CC e CCC.
+M C, CCC e CV.
+N CC, CCC e CV.

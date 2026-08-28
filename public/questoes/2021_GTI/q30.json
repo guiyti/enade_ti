@@ -5,44 +5,17 @@
   "paginas": [
     34
   ],
-  "segmentos": [
-    {
-      "pagina": 34,
-      "x0": 286.56,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q30.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q30.txt",
   "largura": 1095,
   "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\t\nPara ter sucesso no trabalho, o analista de \nprocessos pode e deve conhecer as diversas \nfontes das especialidades que possam auxiliá-\nlo no tratamento dos diversos temas envolvidos \ncom o trabalho que hoje é uma das principais \npreocupações de organizações de todos os tipos: \nconhecer \ne \ngerenciar \nadequadamente \nseus \nprocessos. Nenhum analista de processos deve \nnutrir a veleidade de pensar que vai encontrar \na solulção para algum problema sozinho. Este \né um trabalho que deve ser feito em conjunto \ncom os funcionários da organização. Quanto \nmais cedo e melhor for o envolvimento de todos, \nmais rápidas e maiores serão as chances de sucesso.\nCRUZ, T. Manual para Gerenciamento de Processos de Negócio. \nSão Paulo: Atlas, 2015 (adaptado).\nCom base no texto, avalie as afirmações a seguir.\nI.\t O analista de processos deve discutir e \nouvir com atenção cada ator com relação às \nresponsabilidades do papel que ele terá no \nprocesso melhorado ou criado.\nII.\t O analista de processos deve permitir que \ndiscussões sobre o funcionamento do \nprocesso, e o que necessita ser modificado \nou não, ocorram de acordo com interesses \nparticulares.\nIII.\t O analista de processos deve criar ou utilizar \nmétodos que privilegiem a prática da \ncriação coletiva e da colaboração entre os \nenvolvidos.\nIV.\t O analista de processos deve direcionar para \nque a discussão sobre os processos aconteça \nno âmbito dos departamentos.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t I e IV.\nC\t II e IV.\nD\t I, II e III.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 30,
-      "tipo": "OBJETIVA",
-      "pagina": 34,
-      "x": 289.464599609375,
-      "y": 76.71854400634766,
-      "x1": 354.6246337890625,
-      "y1": 92.04254150390625,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 30"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241390"
+  "texto_completo": "34\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 29\t\nA 6ª eTição To Guia Project Management BoTy \nof OnowleTge (PMBOO) tem como objetivo \nprincipal oferecer um conjunto Te conUecimentos \nem \ngerenciamento \nTe \nprojetos, \ngeralmente \nreconUeciTos como boas práticas. Para isso, o PMBOO \npropõe que seus processos sejam categorizaTos em \ncinco grupos e Tez áreas Te conUecimento, que \ncorresponTem a agrupamentos lógicos Te processos \nTe gerenciamento, com a finaliTaTe Te atingir os \nobjetivos específicos To projeto.\nPROJNCT MANAGNMNNT CNSTCTUTN (PMC). Um guia To conUecimento \nem gerenciamento Te projetos (Guia PMBOO). 6. eT. Newtown Square, PA: \nProject Management Cnstitute, 2016 (aTaptaTo).\nCom relação aos grupos Te processos Te \ngerenciamento Te projetos Tescritos no PMBOO, \nassinale a alternativa correta.\nA\t O grupo Te processos Te monitoramento e \ncontrole tem como objetivo acompanUar e \nanalisar o progresso e o TesempenUo To projeto, \ncontemplanTo toTas as áreas Te conUecimento \npara iTentificar eventuais áreas nas quais serão \nnecessárias muTanças.\nB\t O grupo Te processos Te iniciação é robusto, \npois contém processos em toTas as áreas \nTe conUecimento, incluinTo os processos Te \nTefinição To escopo, criação Ta Nstrutura \nAnalítica To Projeto (NAP) e Tesenvolvimento \nTo cronograma.\nC\t O grupo Te processos Te planejamento prevê \no Tesenvolvimento To Termo Te Abertura \nTo Projeto (TAP) na área Te integração e \na \niTentificação \nTas \npartes \ninteressaTas, \nconUeciTas como stakeUolTers.\nM\t No grupo Te execução, existe apenas um \nprocesso na área Te integração, que prevê, \nentre outros, a avaliação e o aceite To cliente, \nalém Te uma avaliação To projeto, que poTe ser \ninterna ou externa.\nN\t No grupo Te encerramento, é feito o \ngerenciamento To trabalUo To projeto, o que \ninclui o gerenciamento Ta qualiTaTe e To \nconUecimento geraTo no âmbito To projeto, \nalém Ta gestão To Tesenvolvimento Ta equipe \nenvolviTa.\nQUNSTÃO 30\t\nPara ter sucesso no trabalUo, o analista Te \nprocessos poTe e Teve conUecer as Tiversas \nfontes Tas especialiTaTes que possam auxiliá-\nlo no tratamento Tos Tiversos temas envolviTos \ncom o trabalUo que Uoje é uma Tas principais \npreocupações Te organizações Te toTos os tipos: \nconUecer \ne \ngerenciar \naTequaTamente \nseus \nprocessos. NenUum analista Te processos Teve \nnutrir a veleiTaTe Te pensar que vai encontrar \na solulção para algum problema sozinUo. Nste \né um trabalUo que Teve ser feito em conjunto \ncom os funcionários Ta organização. Quanto \nmais ceTo e melUor for o envolvimento Te toTos, \nmais rápiTas e maiores serão as cUances Te sucesso.\nCRUZ, T. Manual para Gerenciamento Te Processos Te Negócio. \nSão Paulo: Atlas, 2015 (aTaptaTo).\nCom base no texto, avalie as afirmações a seguir.\nC.\t O analista Te processos Teve Tiscutir e \nouvir com atenção caTa ator com relação às \nresponsabiliTaTes To papel que ele terá no \nprocesso melUoraTo ou criaTo.\nCC.\t O analista Te processos Teve permitir que \nTiscussões sobre o funcionamento To \nprocesso, e o que necessita ser moTificaTo \nou não, ocorram Te acorTo com interesses \nparticulares.\nCCC.\t O analista Te processos Teve criar ou utilizar \nmétoTos que privilegiem a prática Ta \ncriação coletiva e Ta colaboração entre os \nenvolviTos.\nCV.\t O analista Te processos Teve Tirecionar para \nque a Tiscussão sobre os processos aconteça \nno âmbito Tos Tepartamentos.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t C e CV.\nC\t CC e CV.\nM\t C, CC e CCC.\nN\t CC, CCC e CV.\n*R29202134*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q30.png",
+  "caminho_json": "/questoes/2021_GTI/q30.json",
+  "caminho_txt": "/questoes/2021_GTI/q30.txt"
 }

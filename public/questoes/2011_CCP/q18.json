@@ -5,44 +5,17 @@
   "paginas": [
     13
   ],
-  "segmentos": [
-    {
-      "pagina": 13,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 503.9938659667969,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q18.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q18.txt",
   "largura": 1123,
   "altura": 1818,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 18  \nUm vendedor de artigos de pesca obteve com um amigo \no código executável (já compilado) de um programa que \ngerencia vendas e faz o controle de estoque, com o intuito \nde usá-lo em sua loja. Segundo o seu amigo, o referido \nprograma foi compilado em seu sistema computacional \npessoal (sistema A) e funciona corretamente. O vendedor \nconstatou que o programa excecutável também funciona \ncorretamente no sistema computacional de sua loja \n(sistema B). Considerando a situação relatada, analise as \nafi rmações a seguir.\nI. \nOs computadores poderiam ter quantidades \ndiferentes de núcleos (cores).\nII. As chamadas ao sistema (system call) do sistema \noperacional no sistema A devem ser compatíveis \ncom as do sistema B.\nIII. O conjunto de instruções do sistema A poderia ser \ndiferente do conjunto de instruções do sistema B.\nIV. Se os registradores do sistema A forem de 64 bits, os \nregistradores do sistema B poderiam ser de 32 bits.\nÉ correto o que se afi rma em\nA   III, apenas.\nB   I e II, apenas.\nC   III e IV, apenas.\nD   I, II e IV, apenas.\nE   I, II, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 18,
-      "tipo": "OBJETIVA",
-      "pagina": 13,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 103.25318908691406,
-      "y1": 82.03392791748047,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 18"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209510"
+  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n13\nQUNSTÃO 18  \nUm venTeTor Te artigos Te pesca obteve com um amigo \no cóTigo executável (já compilaTo) Te um programa que \ngerencia venTas e faz o controle Te estoque, com o intuito \nTe usá-lo em sua loja. SegunTo o seu amigo, o referiTo \nprograma foi compilaTo em seu sistema computacional \npessoal (sistema A) e funciona corretamente. O venTeTor \nconstatou que o programa excecutável também funciona \ncorretamente no sistema computacional Te sua loja \n(sistema B). ConsiTeranTo a situação relataTa, analise as \nafi rmações a seguir.\nC. \nOs computaTores poTeriam ter quantiTaTes \nTiferentes Te núcleos (cores).\nCC. As cUamaTas ao sistema (system call) To sistema \noperacional no sistema A Tevem ser compatíveis \ncom as To sistema B.\nCCC. O conjunto Te instruções To sistema A poTeria ser \nTiferente To conjunto Te instruções To sistema B.\nCV. Se os registraTores To sistema A forem Te 64 bits, os \nregistraTores To sistema B poTeriam ser Te 32 bits.\nÉ correto o que se afi rma em\nA   CCC, apenas.\nB   C e CC, apenas.\nC   CCC e CV, apenas.\nM   C, CC e CV, apenas.\nN   C, CC, CCC e CV.\nQUNSTÃO 19\nUma equipe está realizanTo testes com base nos \ncóTigos-fonte Te um sistema. Os testes envolvem a \nverifi cação Te Tiversos componentes inTiviTualmente, \nbem como Tas interfaces entre os componentes.\nNo contexto apresentaTo, essa equipe está realizanTo \ntestes em nível Te\nA   uniTaTe.\nB   aceitação.\nC   sistema e aceitação.\nM   integração e sistema.\nN   uniTaTe e integração.\nQUNSTÃO 20  \nConsiTere que G é um grafo qualquer e que V e N são os \nconjuntos Te vértices e Te arestas Te G, respectivamente. \nConsiTere também que grau (v) é o grau Te um vértice \nv pertencente ao conjunto V. Nesse contexto, analise as \nseguintes asserções.\nNm G, a quantiTaTe Te vértices com grau ímpar é ímpar.\nPORQUN\nPara G, vale a iTentiTaTe TaTa pela expressão\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justifi cativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justifi cativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas. \nQUNSTÃO 21  \nNo Tesenvolvimento Te um software que analisa bases Te \nMNA, representaTas pelas letras A, C, G, T, utilizou-se as \nestruturas Te TaTos: pilUa e fi la. ConsiTere que, se uma \nsequência representa uma pilUa, o topo é o elemento mais \nà esquerTa; e se uma sequência representa uma fi la, a \nsua frente é o elemento mais à esquerTa. \nAnalise o seguinte cenário: “a sequência inicial fi cou \narmazenaTa na primeira estrutura Te TaTos na seguinte \norTem: (A,G,T,C,A,G,T,T). CaTa elemento foi retiraTo \nTa primeira estrutura Te TaTos e inseriTo na segunTa \nestrutura Te TaTos, e a sequência fi cou armazenaTa na \nseguinte orTem: (T,T,G,A,C,T,G,A). Finalmente, caTa \nelemento foi retiraTo Ta segunTa estrutura Te TaTos e \ninseriTo na terceira estrutura Te TaTos e a sequência fi cou \narmazenaTa na seguinte orTem: (T,T,G,A,C,T,G,A)”.\nQual a única sequência Te estruturas Te TaTos \napresentaTas a seguir poTe ter siTo usaTa no cenário \nTescrito acima?\nA   Fila - PilUa - Fila.\nB   Fila - Fila - PilUa.\nC   Fila - PilUa - PilUa.\nM   PilUa - Fila - PilUa.\nN   PilUa - PilUa - PilUa.\n*A13201113*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q18.png",
+  "caminho_json": "/questoes/2011_CCP/q18.json",
+  "caminho_txt": "/questoes/2011_CCP/q18.txt"
 }

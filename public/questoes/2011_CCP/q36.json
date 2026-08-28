@@ -5,44 +5,18 @@
   "paginas": [
     24
   ],
-  "segmentos": [
-    {
-      "pagina": 24,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 719.28,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q36.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q36.txt",
   "largura": 1123,
   "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 36  \nO problema P versus NP é um problema ainda não \nresolvido e um dos mais estudados em Computação. \nEm linhas gerais, deseja-se saber se todo problema \ncuja solução pode ser eficientemente verificada por um \ncomputador, também pode ser eficientemente obtida \npor um computador. Por “eficientemente” ou “eficiente” \nsignifica “em tempo polinomial”.\nA classe dos problemas cujas soluções podem ser \neficientemente obtidas por um computador é chamada de \nclasse P. Os algoritmos que solucionam os problemas \ndessa classe têm complexidade de pior caso polinomial \nno tamanho das suas entradas.\nPara alguns problemas computacionais, não se conhece \nsolução eficiente, isto é, não se conhece algoritmo eficiente \npara resolvê-los. No entanto, se para uma dada solução \nde um problema é possível verificá-la eficientemente, \nentão o problema é dito estar em NP. Dessa forma, a \nclasse de problemas para os quais suas soluções podem \nser eficientemente verificadas é chamada de classe NP.\nUm problema é dito ser NP-completo se pertence à \nclasse NP e, além disso, se qualquer outro problema na \nclasse NP pode ser eficientemente transformado nesse \nproblema. Essa transformação eficiente envolve as \nentradas e saídas dos problemas.\nConsiderando as noções de complexidade computacional \napresentadas acima, analise as afirmações que se seguem.\nI. \nExistem problemas na classe P que não estão na \nclasse NP.\nII. Se o problema A pode ser eficientemente \ntransformado no problema B e B está na classe P, \nentão A está na classe P.\nIII. Se P = NP, então um problema NP-completo pode \nser solucionado eficientemente.\nIV. Se P é diferente de NP, então existem problemas \nna classe P que são NP-completos.\nÉ correto apenas o que se afirma em\nA   I.\nB   IV.\nC   I e III.\nD   II e III.\nE II e IV",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 36,
-      "tipo": "OBJETIVA",
-      "pagina": 24,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 103.25318908691406,
-      "y1": 82.03392791748047,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 36"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Programação e POO",
+    "Teoria da Computação e Compiladores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209595"
+  "texto_completo": "CCÊNCCA MA COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n24\nQUNSTÃO 36  \nO problema P versus NP é um problema ainTa não \nresolviTo e um Tos mais estuTaTos em Computação. \nNm linUas gerais, Teseja-se saber se toTo problema \ncuja solução poTe ser eficientemente verificaTa por um \ncomputaTor, também poTe ser eficientemente obtiTa \npor um computaTor. Por “eficientemente” ou “eficiente” \nsignifica “em tempo polinomial”.\nA classe Tos problemas cujas soluções poTem ser \neficientemente obtiTas por um computaTor é cUamaTa Te \nclasse P. Os algoritmos que solucionam os problemas \nTessa classe têm complexiTaTe Te pior caso polinomial \nno tamanUo Tas suas entraTas.\nPara alguns problemas computacionais, não se conUece \nsolução eficiente, isto é, não se conUece algoritmo eficiente \npara resolvê-los. No entanto, se para uma TaTa solução \nTe um problema é possível verificá-la eficientemente, \nentão o problema é Tito estar em NP. Messa forma, a \nclasse Te problemas para os quais suas soluções poTem \nser eficientemente verificaTas é cUamaTa Te classe NP.\nUm problema é Tito ser NP-completo se pertence à \nclasse NP e, além Tisso, se qualquer outro problema na \nclasse NP poTe ser eficientemente transformaTo nesse \nproblema. Nssa transformação eficiente envolve as \nentraTas e saíTas Tos problemas.\nConsiTeranTo as noções Te complexiTaTe computacional \napresentaTas acima, analise as afirmações que se seguem.\nC. \nNxistem problemas na classe P que não estão na \nclasse NP.\nCC. Se o problema A poTe ser eficientemente \ntransformaTo no problema B e B está na classe P, \nentão A está na classe P.\nCCC. Se P = NP, então um problema NP-completo poTe \nser solucionaTo eficientemente.\nCV. Se P é Tiferente Te NP, então existem problemas \nna classe P que são NP-completos.\nÉ correto apenas o que se afirma em\nA   C.\nB   CV.\nC   C e CCC.\nM   CC e CCC.\nN   CC e CV.\nQUNSTÃO 37  \nNscopo Tinâmico: para as linguagens com escopo \nTinâmico, a vinculação Tas variáveis ao escopo é realizaTa \nem tempo Te execução. (...) Se uma variável é local ao \nbloco, então o uso Ta TaTa variável no bloco será sempre \nvinculaTo àquela local. ContuTo, se a variável for não-\nlocal, a sua vinculação TepenTe Ta orTem Te execução, \na última vinculaTa na execução. A consequência Tisso é \nque, em um mesmo bloco Te comanTos, um iTentificaTor \npoTe ter significaTos Tiferentes, e o programaTor precisa \nter a iTeia precisa Te qual variável está senTo usaTa.\nTe MNLO, A. C. V.; Ta SCLVA, F. S. C. Princípios Te Linguagens Te \nProgramação. São Paulo: NTgarT BlücUer, 2003. p.65.\nSuponUa que uma linguagem Te programação tenUa siTo \nprojetaTa com vinculação e verificação estáticas para tipos \nTe variáveis, além Te passagem Te parâmetros por valor. \nTambém é exigiTo pela especificação Ta linguagem que \nprogramas sejam compilaTos integralmente e que não é \npermitiTo compilar bibliotecas separaTamente. Murante \numa revisão Ta especificação Ta linguagem, alguém \npropôs que seja aTicionaTo um mecanismo para suporte \na variáveis com escopo Tinâmico.\nA respeito Ta proposta Te moTificação Ta linguagem, \nanalise as seguintes afirmações.\nC. \nAs variáveis com escopo Tinâmico poTem ser \ntrataTas como se fossem parâmetros para \nos subprogramas que as utilizam, sem que o \nprogramaTor tenUa que especificá-las ou Teclarar \nseu tipo (o compilaTor fará isso). Assim, elimina-\nse a necessiTaTe Te polimorfismo e é possível \nverificar tipos em tempo Te compilação.\nCC. Como Tiferentes subprogramas poTem Teclarar \nvariáveis com o mesmo nome mas com tipos \nTiferentes, se as variáveis com escopo Tinâmico \nnão forem TeclaraTas no escopo onTe são \nreferenciaTas, será necessário que a linguagem \nsuporte polimorfismo Te tipos.\nCCC. Se as variáveis Tinâmicas forem TeclaraTas \ntanto nos escopos onTe são criaTas como \nnos subprogramas em que são referenciaTas, \nmarcaTas como tenTo escopo Tinâmico, será \npossível iTentificar toTos os erros Te tipo em \ntempo Te compilação.\nÉ correto apenas o que se afirma em\nA   C.\nB   CC.\nC   C e CCC.\nM   CC e CCC.\nN   C, CC e CCC.\n*A13201124*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q36.png",
+  "caminho_json": "/questoes/2011_CCP/q36.json",
+  "caminho_txt": "/questoes/2011_CCP/q36.txt"
 }

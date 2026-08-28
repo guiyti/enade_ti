@@ -6,56 +6,21 @@
     24,
     25
   ],
-  "segmentos": [
-    {
-      "pagina": 24,
-      "x0": 301.08,
-      "y0": 338.235595703125,
-      "x1": 571.16,
-      "y1": 782.16,
-      "coluna": 2
-    },
-    {
-      "pagina": 25,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 571.16,
-      "y1": 458.5755920410156,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q66.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q66.txt",
   "largura": 2306,
   "altura": 3494,
   "confianca": 0.98,
-  "texto_completo": "E II, III, IV e V.\nQUESTÃO 66\nConsidere que, em uma empresa que desenvolve aplicações\ndistribuídas, tenha sido elaborado um manual destinado ao\ntreinamento de empregados e que o responsável por elaborar o\nmanual tenha cometido alguns erros. Analise os seguintes\ntrechos do referido manual.\nI\nUma aplicação que usa o User Datagram Protocol (UDP)\npara transporte dos dados pode ter de tratar os problemas\ndecorrentes de perdas de mensagens, mensagens recebidas\nfora de ordem e duplicações de mensagens. \nII\nUm mecanismo de chamada a procedimento remoto (remote\nprocedure call) ou de invocação a método remoto (remote\nmethod invocation) possibilita que programas chamem\nprocedimentos ou métodos em diferentes computadores e\nque se abstraiam de todos os detalhes relacionados à\ndistribuição.\nIII Em um sistema de comunicação embasado na chamada a\nprocedimento remoto ou na invocação de método remoto, os\nserviços remotos são definidos por meio de interfaces. Uma\ninterface é tipicamente processada por um compilador que\ngera códigos (stubs), que, nos clientes, se fazem passar pelos\ncódigos remotos que são chamados.\nIV Sistemas de chamada a procedimentos remotos ou de\ninvocação a métodos remotos tipicamente implementam as\nsemânticas at-most-once ou at-least-once, pois é mais difícil\nimplementar a semântica exactly-once, segundo a qual quem\nchama o procedimento sabe que ele é executado exatamente\numa vez.\nEstão certos apenas os trechos\nA I e II.\nB III e IV.\nC I, II e III.\nD I, III e IV.\nE II, III e IV.\n\nInformações obtidas no Relatório Oficial da ABES e BSA, 2005.\nversus índice de pirataria",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Teoria da Computação e Compiladores"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n23\nQUNSTÃO 63\nestaTo\nsímbolo\nliTo na fita\nsímbolo gravaTo\nna fita\nTireção\npróximo\nestaTo\ninício\n!\n!\nTireita\n0\n0\n0\n1\nTireita\n0\n0\n1\n0\nTireita\n0\n0\n-\n-\nesquerTa\n1\n1\n0\n0\nesquerTa\n1\n1\n1\n1\nesquerTa\n1\n1\n!\n!\nTireita\nparaTa\nNa tabela acima, estão Tescritas as ações corresponTentes a caTa\num Tos quatro estaTos (início, 0, 1, paraTa) Te uma máquina Te\nTuring, que começa a operar no estaTo “início” processanTo\nsímbolos To alfabeto {0,1,!, -}, em que ‘-’ representa o espaço\nem branco. ConsiTere que, no estaTo “início”, a fita a ser\nprocessaTa esteja com a cabeça Te leitura/gravação na posição 1,\nconforme ilustraTo a seguir.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n0\n1\n1\n0\n1\n-\n-\n-\n-\n-\n...\nConsiTeranTo essa situação, assinale a opção que inTica\ncorretamente a posição Ta cabeça Te leitura/gravação e o conteúTo\nTa fita após o término Ta operação, ou seja, após a máquina atingir\no estaTo “paraTa”.\nA\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n0\n0\n1\n1\n1\n1\n0\n0\n1\n1\n...\nB\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n0\n1\n1\n0\n1\n-\n-\n-\n-\n-\n...\nC\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n0\n1\n1\n0\n1\n0\n1\n0\n0\n1\n...\nM\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n-\n-\n-\n-\n-\n1\n-\n-\n-\n-\n...\nN\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n...\n!\n1\n0\n0\n1\n0\n-\n-\n-\n-\n-\n...\nQUNSTÃO 64\nConsiTere a necessiTaTe Te se implementar um componente Te\nsoftware que realiza cálculos Te expressões matemáticas simples\npara as operações básicas (soma, subtração, multiplicação, Tivisão\ne exponenciação). O software reproTuz na tela To computaTor a\nentraTa, os resultaTos parciais e o resultaTo final Ta expressão e,\nainTa, trata os operaTores Te exponenciação, multiplicação e\nTivisão com preceTência sobre os operaTores Te soma e subtração.\nPara obter o referiTo software, é correto que o projetista\nC\nTefina uma caTeia Te caracteres para armazenar e imprimir toTa\na expressão Te entraTa.\nCC\nTefina uma gramática regular para iTentificar as expressões\naritméticas váliTas.\nCCC Tefina um reconUeceTor Te linguagem regular com autômato\nfinito Teterminístico.\nCV especifique a orTem Te preceTência Tos operaTores com uma\nnotação Te gramática livre Te contexto.\nNstão certos apenas os itens\nA C e CC.\nM C, CCC e CV.\nB CCC e CV.\nN CC, CCC e CV.\nC C, CC e CV.\nQUNSTÃO 65\nA análise Te complexiTaTe provê critérios para a classificação\nTe problemas com base na computabiliTaTe Te suas soluções,\nutilizanTo-se a máquina Te Turing como moTelo referencial e\npossibilitanTo o agrupamento Te problemas em classes. Nesse\ncontexto, julgue os itens a seguir.\nC\nÉ possível Temonstrar que P f NP e NP f P.\nCC\nÉ \npossível \nTemonstrar \nque \nse \nP  \nNP, \nentão\nP 1 NP-Completo = i.\nCCC Se um problema Q é NP-Tifícil e Q 0 NP, então Q é\nNP-completo.\nCV O problema Ta satisfatibiliTaTe Te uma fórmula booleana F\n(uma fórmula é satisfatível, se é verTaTeira em algum\nmoTelo) foi provaTo ser NP-Tifícil e NP-Completo.\nV\nNncontrar o caminUo mais curto entre Tois vértices TaTos\nem um grafo Te N vértices e M arestas não é um problema\nTa classe P.\nNstão certos apenas os itens\nA C, CCC e CV.\nB CC, CCC, e CV.\nC CCC, CV e V.\nM C, CC, CCC, e CV.\nN CC, CCC, CV e V.\nQUNSTÃO 66\nConsiTere que, em uma empresa que Tesenvolve aplicações\nTistribuíTas, tenUa siTo elaboraTo um manual TestinaTo ao\ntreinamento Te empregaTos e que o responsável por elaborar o\nmanual tenUa cometiTo alguns erros. Analise os seguintes\ntrecUos To referiTo manual.\nC\nUma aplicação que usa o User Matagram Protocol (UMP)\npara transporte Tos TaTos poTe ter Te tratar os problemas\nTecorrentes Te perTas Te mensagens, mensagens recebiTas\nfora Te orTem e Tuplicações Te mensagens. \nCC\nUm mecanismo Te cUamaTa a proceTimento remoto (remote\nproceTure call) ou Te invocação a métoTo remoto (remote\nmetUoT invocation) possibilita que programas cUamem\nproceTimentos ou métoTos em Tiferentes computaTores e\nque se abstraiam Te toTos os TetalUes relacionaTos à\nTistribuição.\nCCC Nm um sistema Te comunicação embasaTo na cUamaTa a\nproceTimento remoto ou na invocação Te métoTo remoto, os\nserviços remotos são TefiniTos por meio Te interfaces. Uma\ninterface é tipicamente processaTa por um compilaTor que\ngera cóTigos (stubs), que, nos clientes, se fazem passar pelos\ncóTigos remotos que são cUamaTos.\nCV Sistemas Te cUamaTa a proceTimentos remotos ou Te\ninvocação a métoTos remotos tipicamente implementam as\nsemânticas at-most-once ou at-least-once, pois é mais Tifícil\nimplementar a semântica exactly-once, segunTo a qual quem\ncUama o proceTimento sabe que ele é executaTo exatamente\numa vez.\nNstão certos apenas os trecUos\nA C e CC.\nB CCC e CV.\nC C, CC e CCC.\nM C, CCC e CV.\nN CC, CCC e CV.\n\nNNAMN – 2005\nÁrea: COMPUTAÇÃO\n24\nObserve os gráficos a seguir para responTer à questão 67.\nCnformações obtiTas no Relatório Oficial Ta ABNS e BSA, 2005.\nQUNSTÃO 67\nA reTução Ta pirataria Te software no Brasil e no munTo\né resultaTo Te esforços aTvinTos Ta iniciativa privaTa e Tas\nentiTaTes representativas To setor. Um estuTo objetivanTo\nmensurar o ínTice Te pirataria no munTo e os benefícios Te sua\nreTução apresentou os gráficos acima, obtiTos Te uma amostra\nTe 57 países, incluinTo-se o Brasil. \nCom base nas informações apresentaTas, é correto afirmar que\nC\na taxa Te reTução To ínTice Te pirataria Te software no munTo\nmanteve-se constante ano após ano no períoTo mostraTo.\nCC\no Brasil reTuziu em torno Te 25% seu ínTice Te pirataria Te\nsoftware, comparanTo os anos Te 1994 e 2002.\nCCC o Brasil foi, entre os países mostraTos, o que apresentou a maior\nreTução To ínTice Te pirataria no períoTo estuTaTo.\nCV países com maior participação To setor Te TC no PCB apresentam,\nnormalmente, menores ínTices Te pirataria.\nV\no Brasil apresentou aumento Te faturamento no períoTo Te 2000\na 2002, apesar To aumento Te pirataria.\nNstão certos apenas os itens\nA C e CC.\nM CCC e V.\nB C e CCC.\nN CV e V.\nC CC e CV.\nRASC UNH O\nParticipação Te imposto To setor Te TC no PCB\nversus ínTice Te pirataria",
   "figuras": [
     "/questoes/2005_CCP/figuras/q66_fig1.jpeg",
     "/questoes/2005_CCP/figuras/q66_fig2.jpeg",
     "/questoes/2005_CCP/figuras/q66_fig3.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 66,
-      "tipo": "OBJETIVA",
-      "pagina": 24,
-      "x": 316.1400146484375,
-      "y": 350.235595703125,
-      "x1": 362.5680236816406,
-      "y1": 356.235595703125,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 66"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152865"
+  "caminho_png": "/questoes/2005_CCP/q66.png",
+  "caminho_json": "/questoes/2005_CCP/q66.json",
+  "caminho_txt": "/questoes/2005_CCP/q66.txt"
 }

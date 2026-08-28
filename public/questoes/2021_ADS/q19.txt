@@ -1,22 +1,26 @@
-QUESTÃO 19	
-Arquitetura de software é uma representação que permite analisar a efetividade do projeto no 
-entendimento dos requisitos declarados. Durante a fase de concepção da arquitetura, podem-se 
-considerar alternativas de arquitetura em um estágio em que mudanças ainda são realizadas com menor 
-esforço, diminuindo riscos associados à construção do software ainda na fase inicial.
-PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. Porto Alegue: AMGH, 2016 (adaptado).
-A respeito dos estilos e padrões arquiteturais contidos na engenharia de software, avalie as afirmações 
+27
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 19	
+Arquitetura Te software é uma representação que permite analisar a efetiviTaTe To projeto no 
+entenTimento Tos requisitos TeclaraTos. Murante a fase Te concepção Ta arquitetura, poTem-se 
+consiTerar alternativas Te arquitetura em um estágio em que muTanças ainTa são realizaTas com menor 
+esforço, TiminuinTo riscos associaTos à construção To software ainTa na fase inicial.
+PRNSSMAN, R. S. NngenUaria Te Software: uma aborTagem profissional. 8. eT. Porto Alegue: AMGH, 2016 (aTaptaTo).
+A respeito Tos estilos e paTrões arquiteturais contiTos na engenUaria Te software, avalie as afirmações 
 a seguir.
-I.	 Em arquiteturas orientadas a objetos, a comunicação entre os componentes do software é realizada 
-por intermédio da troca de mensagens.
-II.	 As arquiteturas monolíticas consistem de um sistema dividido em pequenas partes, possibilitando 
-que estas tenham sua manutenção, execução e evolução individual.
-III.	 No padrão arquitetural Modelo-Visão-Controle (MVC), a camada de Modelo armazena as interações 
-realizadas no Controle, podendo ser apresentados/manipulados posteriormente na Visão.
-IV.	 Nas arquiteturas microsserviços, o software possui componentes altamente acoplados, dificultando 
+C.	 Nm arquiteturas orientaTas a objetos, a comunicação entre os componentes To software é realizaTa 
+por interméTio Ta troca Te mensagens.
+CC.	 As arquiteturas monolíticas consistem Te um sistema TiviTiTo em pequenas partes, possibilitanTo 
+que estas tenUam sua manutenção, execução e evolução inTiviTual.
+CCC.	 No paTrão arquitetural MoTelo-Visão-Controle (MVC), a camaTa Te MoTelo armazena as interações 
+realizaTas no Controle, poTenTo ser apresentaTos/manipulaTos posteriormente na Visão.
+CV.	 Nas arquiteturas microsserviços, o software possui componentes altamente acoplaTos, TificultanTo 
 a manutenção.
 É correto apenas o que se afirma em
-A	 I e III.
-B	 II e III.
-C	 II e IV.
-D	 I, II e IV.
-E	 I, III e IV.
+A	 C e CCC.
+B	 CC e CCC.
+C	 CC e CV.
+M	 C, CC e CV.
+N	 C, CCC e CV.
+Área livre
+*R28202127*

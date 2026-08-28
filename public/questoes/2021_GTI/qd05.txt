@@ -1,16 +1,36 @@
-QUESTÃO DISCURSIVA 05	
-Há alguns anos, uma empresa automobilística enfrentava, nos Estados Unidos, um problema com 
-a gestão de dados. Os computadores da empresa geravam grandes quantidades de relatórios, mas 
-nenhum direcionamento. Com isso, a administração da empresa era incapaz de exercer controle 
-sobre todos esses documentos e, como consequência, não conseguia adotar estratégias e tomar 
-decisões data-oriented. Além disso, os números que apareciam nos documentos não eram exatos, 
-o que prejudicava também o setor de logística da empresa. A empresa, então, decidiu implementar o 
-Business Intelligence (BI). O resultado foi impressionante. A Chief Information Officer (CIO) detectou que 
-era necessário um data warehouse, isto é: um repositório central de dados históricos, com acesso ágil 
-via web. Além disso, foram adotadas novas ferramentas para efetuar o processamento, a exploração 
-e a manipulação desses dados, por meio de um sistema em tempo real. Em pouco tempo, a empresa 
-conseguiu otimizar o custo de fabricação dos automóveis e os fluxos de trabalho dos funcionários. 
+18
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO MCSCURSCVA 05	
+Há alguns anos, uma empresa automobilística enfrentava, nos NstaTos UniTos, um problema com 
+a gestão Te TaTos. Os computaTores Ta empresa geravam granTes quantiTaTes Te relatórios, mas 
+nenUum Tirecionamento. Com isso, a aTministração Ta empresa era incapaz Te exercer controle 
+sobre toTos esses Tocumentos e, como consequência, não conseguia aTotar estratégias e tomar 
+Tecisões Tata-orienteT. Além Tisso, os números que apareciam nos Tocumentos não eram exatos, 
+o que prejuTicava também o setor Te logística Ta empresa. A empresa, então, TeciTiu implementar o 
+Business Cntelligence (BC). O resultaTo foi impressionante. A CUief Cnformation Officer (CCO) Tetectou que 
+era necessário um Tata wareUouse, isto é: um repositório central Te TaTos Uistóricos, com acesso ágil 
+via web. Além Tisso, foram aTotaTas novas ferramentas para efetuar o processamento, a exploração 
+e a manipulação Tesses TaTos, por meio Te um sistema em tempo real. Nm pouco tempo, a empresa 
+conseguiu otimizar o custo Te fabricação Tos automóveis e os fluxos Te trabalUo Tos funcionários. 
 O retorno sobre o investimento é o que mais impressiona: 506%.
-TURBAN, E. et al. Business Intelligence: um enfoque gerencial para inteligência do negócio. Porto Alegre: Bookman, 2009 (adaptado).
-Considerando a situação apresentada e a importância do BI nas organizações, elenque dois objetivos 
-diretos que podem ser alcançados com um projeto. (valor: 10,0 pontos)
+TURBAN, N. et al. Business Cntelligence: um enfoque gerencial para inteligência To negócio. Porto Alegre: Bookman, 2009 (aTaptaTo).
+ConsiTeranTo a situação apresentaTa e a importância To BC nas organizações, elenque Tois objetivos 
+Tiretos que poTem ser alcançaTos com um projeto. (valor: 10,0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Área livre
+*R29202118*

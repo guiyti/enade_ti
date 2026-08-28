@@ -1,20 +1,24 @@
-QUESTÃO 16	
-Em 1938, o matemático americano Claude Shannon notou o paralelismo entre a lógica proposicional e 
-a lógica dos circuitos e percebeu que a álgebra booleana teria um papel importante na sistematização 
-deste ramo da eletrônica. Cada um dos conetivos básicos da lógica são instâncias das operações básicas 
-da álgebra booleana (“+”, “.” e ” ’ ”). Expressões booleanas combinando operações e variáveis podem ser 
-usadas para representar circuitos combinacionais formados por portas lógicas.
-GERSTING, J. L. Mathematical Structures for Computer Science. New York: W. H. Freeman and Company, 2002.
+25
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 16	
+Nm 1938, o matemático americano ClauTe SUannon notou o paralelismo entre a lógica proposicional e 
+a lógica Tos circuitos e percebeu que a álgebra booleana teria um papel importante na sistematização 
+Teste ramo Ta eletrônica. CaTa um Tos conetivos básicos Ta lógica são instâncias Tas operações básicas 
+Ta álgebra booleana (“+”, “.” e ” ’ ”). Nxpressões booleanas combinanTo operações e variáveis poTem ser 
+usaTas para representar circuitos combinacionais formaTos por portas lógicas.
+GNRSTCNG, J. L. MatUematical Structures for Computer Science. New York: P. H. Freeman anT Company, 2002.
 A figura a seguir apresenta as portas básicas.
 Porta “não” (not)
 Porta “ou” (or)
-Porta “e” (and)
-A partir das informações apresentadas, considere o circuito combinacional da figura a seguir. 
+Porta “e” (anT)
+A partir Tas informações apresentaTas, consiTere o circuito combinacional Ta figura a seguir. 
 X¹
 X²
 X³
-Qual das alternativas apresenta a expressão booleana correspondente?
+Qual Tas alternativas apresenta a expressão booleana corresponTente?
 A	 (X3 . X2’) + X1’
 B	 (X3 . (X2’) + (X1’))’
 C	 ((X3 . X2)’ + X1’)’
-D	 (X3 . X2)’ + X1’
+M	 (X3 . X2)’ + X1’
+N	 ((X3 . X2’)’ + X1’)’
+*R02202125*

@@ -5,55 +5,20 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 433.8155822753906,
-      "x1": 295.08,
-      "y1": 782.16,
-      "coluna": 1
-    },
-    {
-      "pagina": 30,
-      "x0": 301.08,
-      "y0": 75.0,
-      "x1": 571.16,
-      "y1": 568.7356567382812,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2005_CCP/q81.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2005_CCP/q81.txt",
   "largura": 1156,
   "altura": 3555,
   "confianca": 0.98,
-  "texto_completo": "E 00110011\nQUESTÃO 81\nO estudo de dimensionamento e de desempenho de redes d\ncomunicação é uma ciência que usa constantemente os resultados d\nteoria de filas. Nesse tipo de análise, é comum a adoção de modelo\nde filas M/M/1 para a análise de enlaces de roteadores \ncomutadores. Nesse tipo de modelo, a chegada de pacotes par\ntransmissão e a transmissão deles são processos de Poisson. Assim\nas características da fila que se forma em cada enlace podem se\ndeterminadas em função da taxa de chegada (tempo médio decorrid\nentre a chegada de pacotes sucessivos encaminhados par\ntransmissão pelo enlace) e da taxa de serviço (tempo médio par\ntransmissão de um pacote). Acerca do modelo M/M/1 aplicado a\nestudo de capacidade e desempenho de enlaces de redes, po\ncomutação de pacotes, assinale a opção correta.\nA Caso a taxa de chegada seja maior que a taxa de serviço (taxa d\nsaída), conclui-se que o enlace está subdimensionado e haver\nperda de pacotes.\nB A taxa de serviço é independente do tamanho do pacote.\nC Em um roteador com múltiplos enlaces, a taxa de chegada par\ncada enlace é igual ao somatório das capacidades de todos o\nenlaces dividido pelo número de enlaces do roteador.\nD O modelo M/M/1 apresenta instabilidade numérica sempre qu\na taxa de chegada for próxima de zero.\nE Quando a taxa de chegada é menor que a taxa de serviço\npode-se esperar que o número médio de pacotes na fila seja igua\na zero.\n\nConsidere que, em uma rede WLAN, a função de\ndensidade de probabilidade (PDF) de erro de bit na\ntransmissão entre um computador conectado à rede e o\nerro\nponto de acesso (access point) — p\n(d) — seja dada\npela função cujo gráfico está mostrado acima, em que d\n$ 0 é a distância entre o ponto de acesso e o\ncomputador.\nConsiderando essas informações, julgue os itens a seguir.\nI\nA probabilidade de erro de bit na transmissão no caso de o\n0\ncomputador estar localizado à distância d é dada\npor \n.\nII\nSabendo-se que a média da distribuição correspondente\nà PDF acima mencionada é igual a x, conclui-se que é de\n0,5 a probabilidade de erro de bit na transmissão no caso\nde o computador estar localizado à distância d = x.\nIII Supondo-se que o sistema de transmissão seja binário, as\ninformações \napresentadas \nsão \nsuficientes \npara \nse\nconcluir que a probabilidade de erro dado que foi enviado\num bit 1 é igual à probabilidade de erro dado que foi\nenviado um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNAMN – 2005\nÁrea: COMPUTAÇÃO\n29\nQUNSTÃO 79\nxpto( [ ], R, R ).\nxpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 ).\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos preTicaTos escritos em Prolog acima, julgue os\nitens a seguir.\nC\nA execução Te xpto([1,2,3],[ ], F) conclui com sucesso\ninstancianTo F para [1,2,3].\nCC\nA execução Te zpto(5,[1,2,3] ) conclui sem sucesso.\nCCC A \nexecução \nTe \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso,\ninstancianTo X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 80\nQue caTeia é reconUeciTa pelo\nautômato \nrepresentaTo \npelo\nTiagrama Te estaTos ao laTo?\nA 101010\nB 111011000\nC 11111000\nM 10100\nN 00110011\nQUNSTÃO 81\nO estuTo Te Timensionamento e Te TesempenUo Te reTes Te\ncomunicação é uma ciência que usa constantemente os resultaTos Ta\nteoria Te filas. Nesse tipo Te análise, é comum a aToção Te moTelos\nTe filas M/M/1 para a análise Te enlaces Te roteaTores e\ncomutaTores. Nesse tipo Te moTelo, a cUegaTa Te pacotes para\ntransmissão e a transmissão Teles são processos Te Poisson. Assim,\nas características Ta fila que se forma em caTa enlace poTem ser\nTeterminaTas em função Ta taxa Te cUegaTa (tempo méTio TecorriTo\nentre a cUegaTa Te pacotes sucessivos encaminUaTos para\ntransmissão pelo enlace) e Ta taxa Te serviço (tempo méTio para\ntransmissão Te um pacote). Acerca To moTelo M/M/1 aplicaTo ao\nestuTo Te capaciTaTe e TesempenUo Te enlaces Te reTes, por\ncomutação Te pacotes, assinale a opção correta.\nA Caso a taxa Te cUegaTa seja maior que a taxa Te serviço (taxa Te\nsaíTa), conclui-se que o enlace está subTimensionaTo e Uaverá\nperTa Te pacotes.\nB A taxa Te serviço é inTepenTente To tamanUo To pacote.\nC Nm um roteaTor com múltiplos enlaces, a taxa Te cUegaTa para\ncaTa enlace é igual ao somatório Tas capaciTaTes Te toTos os\nenlaces TiviTiTo pelo número Te enlaces To roteaTor.\nM O moTelo M/M/1 apresenta instabiliTaTe numérica sempre que\na taxa Te cUegaTa for próxima Te zero.\nN QuanTo a taxa Te cUegaTa é menor que a taxa Te serviço,\npoTe-se esperar que o número méTio Te pacotes na fila seja igual\na zero.\nQUNSTÃO 82\nConsiTere que, em uma reTe PLAN, a função Te\nTensiTaTe Te probabiliTaTe (PMF) Te erro Te bit na\ntransmissão entre um computaTor conectaTo à reTe e o\nerro\nponto Te acesso (access point) — p\n(T) — seja TaTa\npela função cujo gráfico está mostraTo acima, em que T\n$ 0 é a Tistância entre o ponto Te acesso e o\ncomputaTor.\nConsiTeranTo essas informações, julgue os itens a seguir.\nC\nA probabiliTaTe Te erro Te bit na transmissão no caso Te o\n0\ncomputaTor estar localizaTo à Tistância T é TaTa\npor \n.\nCC\nSabenTo-se que a méTia Ta Tistribuição corresponTente\nà PMF acima mencionaTa é igual a x, conclui-se que é Te\n0,5 a probabiliTaTe Te erro Te bit na transmissão no caso\nTe o computaTor estar localizaTo à Tistância T = x.\nCCC SuponTo-se que o sistema Te transmissão seja binário, as\ninformações \napresentaTas \nsão \nsuficientes \npara \nse\nconcluir que a probabiliTaTe Te erro TaTo que foi enviaTo\num bit 1 é igual à probabiliTaTe Te erro TaTo que foi\nenviaTo um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens C e CC estão certos.\nC Apenas os itens C e CCC estão certos.\nM Apenas os itens CC e CCC estão certos.\nN ToTos os itens estão certos.\nQUNSTÃO 83\nCom relação à tecnologia bluetootU, que possibilita a\ncomunicação sem fios entre Tispositivos, assinale a opção\ncorreta.\nA Nssa tecnologia utiliza a transmissão em enlace via ráTio na\nbanTa Te freqüência VHF.\nB Nssa tecnologia possibilita a transmissão Te voz e TaTos a\ncurtas Tistâncias.\nC Um Tispositivo poTe assumir, simultaneamente, o papel Te\nmestre e Te escravo em uma mesma piconet que utiliza essa\ntecnologia.\nM Uma piconet poTe ser formaTa por até 255 mestres e\n255 escravos.\nN Um Tispositivo poTe participar, simultaneamente, Te Tuas\npiconets, TesTe que ele seja mestre em ambas.",
   "figuras": [
     "/questoes/2005_CCP/figuras/q81_fig1.jpeg",
     "/questoes/2005_CCP/figuras/q81_fig2.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 81,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 40.20000076293945,
-      "y": 445.8155822753906,
-      "x1": 86.62800598144531,
-      "y1": 451.8155822753906,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 81"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:40:40.152908"
+  "caminho_png": "/questoes/2005_CCP/q81.png",
+  "caminho_json": "/questoes/2005_CCP/q81.json",
+  "caminho_txt": "/questoes/2005_CCP/q81.txt"
 }

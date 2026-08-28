@@ -5,44 +5,17 @@
   "paginas": [
     39
   ],
-  "segmentos": [
-    {
-      "pagina": 39,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 496.757080078125,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q30.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q30.txt",
   "largura": 2185,
   "altura": 1788,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 30\t\nUm compilador é um software que traduz um programa descrito em uma linguagem de alto nível para \num programa equivalente em código de máquina para um processador. Em geral, um compilador não \nproduz diretamente o código de máquina, mas sim, um programa em linguagem simbólica (assembly) \nsemanticamente equivalente ao programa em linguagem de alto nível. O programa em linguagem \nsimbólica é, então, traduzido para o programa em linguagem de máquina através de montadores. \nPara realizar esta tarefa, o compilador executa a análise léxica, sintática e semântica do código-fonte \ndo programa que está sendo executado em linguagem abstrata para depois gerar o código de máquina.\nBRANCO, G. A. Jr.; TAMAE, R. Y. Uma breve introdução ao estudo e implementação de compiladores. \nRevista Científica Eletrônica de Psicologia. Ano V, n. 08, fev. 2008 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir.\nI.\t O analisador sintático tem a função de verificar se a sequência de símbolos gerada pelo analisador \nléxico compõe um programa válido ou não.\nII.\t Na análise léxica, o analisador irá identificar cada símbolo que tenha significado para linguagem, \ngerando a mesma classificação para Java, Pascal ou outra linguagem.\nIII.\t O analisador semântico utiliza o código fonte para verificar incoerências quanto ao significado das \nconstruções implementadas.\nIV.\t A fase de otimização do código procura melhorar o código intermediário, visando um código de \nmáquina mais rápido em termos de execução.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t II e III.\nC\t II e IV.\nD\t I, II e III.\nE\t I, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 30,
-      "tipo": "OBJETIVA",
-      "pagina": 39,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 30"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469348"
+  "texto_completo": "39\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 30\t\nUm compilaTor é um software que traTuz um programa Tescrito em uma linguagem Te alto nível para \num programa equivalente em cóTigo Te máquina para um processaTor. Nm geral, um compilaTor não \nproTuz Tiretamente o cóTigo Te máquina, mas sim, um programa em linguagem simbólica (assembly) \nsemanticamente equivalente ao programa em linguagem Te alto nível. O programa em linguagem \nsimbólica é, então, traTuziTo para o programa em linguagem Te máquina através Te montaTores. \nPara realizar esta tarefa, o compilaTor executa a análise léxica, sintática e semântica To cóTigo-fonte \nTo programa que está senTo executaTo em linguagem abstrata para Tepois gerar o cóTigo Te máquina.\nBRANCO, G. A. Jr.; TAMAN, R. Y. Uma breve introTução ao estuTo e implementação Te compilaTores. \nRevista Científica Nletrônica Te Psicologia. Ano V, n. 08, fev. 2008 (aTaptaTo).\nConsiTeranTo as informações To texto, avalie as afirmações a seguir.\nC.\t O analisaTor sintático tem a função Te verificar se a sequência Te símbolos geraTa pelo analisaTor \nléxico compõe um programa váliTo ou não.\nCC.\t Na análise léxica, o analisaTor irá iTentificar caTa símbolo que tenUa significaTo para linguagem, \ngeranTo a mesma classificação para Java, Pascal ou outra linguagem.\nCCC.\t O analisaTor semântico utiliza o cóTigo fonte para verificar incoerências quanto ao significaTo Tas \nconstruções implementaTas.\nCV.\t A fase Te otimização To cóTigo procura melUorar o cóTigo intermeTiário, visanTo um cóTigo Te \nmáquina mais rápiTo em termos Te execução.\nÉ correto apenas o que se afirma em\nA\t C e CV.\nB\t CC e CCC.\nC\t CC e CV.\nM\t C, CC e CCC.\nN\t C, CCC e CV.\nÁrea livre\n*R02202139*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q30.png",
+  "caminho_json": "/questoes/2021_CCP/q30.json",
+  "caminho_txt": "/questoes/2021_CCP/q30.txt"
 }

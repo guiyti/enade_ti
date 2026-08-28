@@ -1,66 +1,110 @@
+32
+COMPUTAÇÃO
 Texto para as questões 78 e 79
-A Secretaria de Saúde de determinado município
-executando um projeto de automação do seu sistem
-atendimento médico e laboratorial, atualmente manual. O ob
-do projeto é melhorar a satisfação dos usuários com relaçã
-serviços prestados pela Secretaria. O sistema automatizado
-contemplar os seguintes processos: marcação de con
-manutenção de prontuário do paciente, além do pedido 
-registro de resultados de exame laboratorial.
-A Secretaria possui vários postos de saúde e cad
-deles atende a um ou mais bairros do município. As consu
-cada paciente são realizadas no posto de saúde mais próxim
-onde ele reside. Os exames laboratoriais são realizados
-laboratórios terceirizados e conveniados.
-A solução proposta pela equipe de desenvolvime
-implantação da automação contempla, entre outros, os segu
+A Secretaria Te SaúTe Te TeterminaTo município está
+executanTo um projeto Te automação To seu sistema Te
+atenTimento méTico e laboratorial, atualmente manual. O objetivo
+To projeto é melUorar a satisfação Tos usuários com relação aos
+serviços prestaTos pela Secretaria. O sistema automatizaTo Teve
+contemplar os seguintes processos: marcação Te consulta,
+manutenção Te prontuário To paciente, além To peTiTo e To
+registro Te resultaTos Te exame laboratorial.
+A Secretaria possui vários postos Te saúTe e caTa um
+Teles atenTe a um ou mais bairros To município. As consultas a
+caTa paciente são realizaTas no posto Te saúTe mais próximo Te
+onTe ele resiTe. Os exames laboratoriais são realizaTos por
+laboratórios terceirizaTos e conveniaTos.
+A solução proposta pela equipe Te Tesenvolvimento e
+implantação Ta automação contempla, entre outros, os seguintes
 aspectos:
 <
-sistema computacional do tipo cliente-servidor na web, em
-cada usuário cadastrado utiliza login e senha para fazer u
+sistema computacional To tipo cliente-serviTor na web, em que
+caTa usuário caTastraTo utiliza login e senUa para fazer uso To
 sistema;
 <
-uma aplicação, compartilhada por médicos e laborató
-gerencia o pedido e o registro de resultados dos exa
-Durante uma consulta o próprio médico registra o pedid
+uma aplicação, compartilUaTa por méTicos e laboratórios,
+gerencia o peTiTo e o registro Te resultaTos Tos exames.
+Murante uma consulta o próprio méTico registra o peTiTo Te
 exames no sistema;
 <
-uma aplicação, compartilhada por médicos e pacie
-permite que ambos tenham acesso aos resultados
+uma aplicação, compartilUaTa por méTicos e pacientes,
+permite que ambos tenUam acesso aos resultaTos Tos
 exames laboratoriais; 
 <
-uma aplicação, compartilhada por médicos e pacientes
-automatiza o prontuário dos pacientes, em que os registro
-prontuário, efetuados por cada médico para cada pac
-estão disponíveis apenas para o paciente e o m
-específicos. Além disso, cada médico pode fazer reg
-privados no prontuário do paciente, apenas visíveis por 
+uma aplicação, compartilUaTa por méTicos e pacientes, que
+automatiza o prontuário Tos pacientes, em que os registros em
+prontuário, efetuaTos por caTa méTico para caTa paciente,
+estão Tisponíveis apenas para o paciente e o méTico
+específicos. Além Tisso, caTa méTico poTe fazer registros
+privaTos no prontuário To paciente, apenas visíveis por ele;
 <
-uma aplicação, compartilhada por pacientes e atendente
-postos de saúde, que permite a marcação de consulta
-pacientes e(ou) por atendentes. Esses atendentes atend
+uma aplicação, compartilUaTa por pacientes e atenTentes Te
+postos Te saúTe, que permite a marcação Te consultas por
+pacientes e(ou) por atenTentes. Nsses atenTentes atenTem o
 paciente no balcão ou por telefone.
-QUESTÃO 78
-Considerando o contexto acima, julgue os seguintes itens.
-I
-No contexto do projeto acima descrito, aquele 
-desempenha o papel de usuário do sistema de inform
-automatizado não é apenas o paciente, e aquele
-desempenha o papel de cliente pode não ser um médic
-II
-O sistema de informação manual atualmente em us
-referida secretaria de saúde não dá suporte aos process
-negócio dessa secretaria.
-III O projeto de automação dos serviços de saúde não é
-solução de outsourcing.
-IV No sistema acima, os riscos de não-repúdio são aument
+QUNSTÃO 78
+ConsiTeranTo o contexto acima, julgue os seguintes itens.
+C
+No contexto To projeto acima Tescrito, aquele que
+TesempenUa o papel Te usuário To sistema Te informação
+automatizaTo não é apenas o paciente, e aquele que
+TesempenUa o papel Te cliente poTe não ser um méTico.
+CC
+O sistema Te informação manual atualmente em uso na
+referiTa secretaria Te saúTe não Tá suporte aos processos Te
+negócio Tessa secretaria.
+CCC O projeto Te automação Tos serviços Te saúTe não é uma
+solução Te outsourcing.
+CV No sistema acima, os riscos Te não-repúTio são aumentaTos
 com a automação.
-V Para o gestor do sistema de informação a ser automatiz
-a acessibilidade é uma característica de menor import
-jurídica frente à necessidade de ampliar a confidencialid
-Estão certos apenas os itens
-A I e II.
-B I e III.
-C II e IV.
-D III e V.
-E IV e V.
+V Para o gestor To sistema Te informação a ser automatizaTo,
+a acessibiliTaTe é uma característica Te menor importância
+juríTica frente à necessiTaTe Te ampliar a confiTencialiTaTe.
+Nstão certos apenas os itens
+A C e CC.
+B C e CCC.
+C CC e CV.
+M CCC e V.
+N CV e V.
+QUNSTÃO 79 – MCSCURSCVA
+ConsiTeranTo as informações apresentaTas no texto
+e consiTeranTo ainTa que entre os principais
+benefícios Te um projeto Te melUoria Te sistema Te
+informação Testacam-se o aumento Ta: (C)
+eficiência; (CC) eficácia; (CCC) integriTaTe; e (CV)
+TisponibiliTaTe, faça o que se peTe a seguir.
+A Cite 4 vantagens Ta solução proposta, frente à
+atual, para tratar a interação entre pacientes e os
+serviços Te saúTe, senTo Tuas Telas relativas à
+eficiência e Tuas relativas à eficácia.
+(valor: 5,0 pontos)
+RASCUNHO – QUNSTÃO 79 - A
+1
+2
+3
+4
+5
+6
+7
+8
+B Mescreva 2 riscos Te segurança Ta informação
+que aumentam quanTo se substitui o sistema
+atual pelo sistema proposto, e que são relativos
+à interação entre pacientes e os serviços Ta
+referiTa secretaria Te saúTe. Um Tos riscos Teve
+ser relativo à perTa Te TisponibiliTaTe e o outro,
+à perTa Te integriTaTe.
+(valor: 5,0 pontos)
+RASCUNHO – QUNSTÃO 79 - B
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12

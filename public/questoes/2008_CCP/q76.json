@@ -5,44 +5,19 @@
   "paginas": [
     32
   ],
-  "segmentos": [
-    {
-      "pagina": 32,
-      "x0": 25.0,
-      "y0": 248.44668579101562,
-      "x1": 294.59999999999997,
-      "y1": 536.7267456054688,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q76.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q76.txt",
   "largura": 1153,
   "altura": 1231,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 76\nConsidere o esquema de relação Cliente(CPF, nome, RGem\nRGnro, endereco, loginemail, dominioemail) e as s\ndependências funcionais (DF) válidas sobre o esquema:\nDF1: CPF ÷ nome, RGemissor, RGnro, endereco, logi\ndominioemail\nDF2: RGemissor, RGnro ÷ CPF, nome, endereco, logi\ndominioemail\nDF3: loginemail, dominioemail ÷ CPF\nQual é o conjunto completo de chaves candidatas de Clien\nque forma normal mais alta essa relação está?\nA\n{(RGemissor, RGnro), (CPF)}, na Forma Normal de\nCodd (FNBC).\nB\n{(RGemissor, RGnro), (CPF)}, na Segunda Forma\n(2FN).\nC\n{(loginemail, dominioemail)}, na Forma Normal de\nCodd (FNBC).\nD\n{(RGemissor, RGnro), (loginemail, dominioe\n(CPF)}, na Forma Normal de Boyce-Codd (FNBC).\nE\n{(RGemissor, RGnro), (loginemail, dominioe\n(CPF)}, na Segunda Forma Normal (2FN).",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 76,
-      "tipo": "OBJETIVA",
-      "pagina": 32,
-      "x": 35.99909973144531,
-      "y": 260.4466857910156,
-      "x1": 105.36231231689453,
-      "y1": 271.4866943359375,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 76"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade",
+    "Redes de Computadores",
+    "Banco de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027233"
+  "texto_completo": "31\nCOMPUTAÇÃO\nQUNSTÃO 75\nConsiTere que a figura ao laTo ilustre o cenário Te NAPT em uma empresa\ncujos equipamentos Te reTe interna (LAN) usam enTereços CP privaTos.\nConsiTere, ainTa, que Uaja apenas um enTereço CP váliTo nas reTes Tessa\nempresa, que é atribuíTo à interface externa To roteaTor. ConsiTeranTo que os\ncomputaTores A e B façam acessos simultâneos a um serviTor PPP externo\n(www.inep.gov.br, por exemplo), quais Teverão ser os enTereços CP Te origem\ncontiTos nos pacotes Te A e B, respectivamente, que cUegarão a esse serviTor?\nA\n10.0.0.1 e 10.0.0.2\nB\n10.0.0.254 e 10.0.0.254\nC\n138.76.28.4 e 138.76.28.4\nM\n138.76.28.1 e 138.76.28.2\nN\n169.254.1.1 e 169.254.1.2\nQUNSTÃO 76\nConsiTere o esquema Te relação Cliente(CPF, nome, RGemissor,\nRGnro, enTereco, loginemail, Tominioemail) e as seguintes\nTepenTências funcionais (MF) váliTas sobre o esquema:\nMF1: CPF ÷ nome, RGemissor, RGnro, enTereco, loginemail,\nTominioemail\nMF2: RGemissor, RGnro ÷ CPF, nome, enTereco, loginemail,\nTominioemail\nMF3: loginemail, Tominioemail ÷ CPF\nQual é o conjunto completo Te cUaves canTiTatas Te Cliente e em\nque forma normal mais alta essa relação está?\nA\n{(RGemissor, RGnro), (CPF)}, na Forma Normal Te Boyce-\nCoTT (FNBC).\nB\n{(RGemissor, RGnro), (CPF)}, na SegunTa Forma Normal\n(2FN).\nC\n{(loginemail, Tominioemail)}, na Forma Normal Te Boyce-\nCoTT (FNBC).\nM\n{(RGemissor, RGnro), (loginemail, Tominioemail),\n(CPF)}, na Forma Normal Te Boyce-CoTT (FNBC).\nN\n{(RGemissor, RGnro), (loginemail, Tominioemail),\n(CPF)}, na SegunTa Forma Normal (2FN).\nQUNSTÃO 77\nConsiTere que você trabalUe em uma empresa Te Tesenvolvimento\nTe software e que a empresa tenUa TeciTiTo Tesenvolver um novo\neTitor Te texto para colocar no mercaTo. Nsse eTitor Teve ser um\nsoftware que forneça recursos aTicionais Te apoio à autoria,\nembasaTo no estilo Te escrita To usuário, o que o torna um software\nTe funcionaliTaTe mais complexa. ConsiTere que a empresa Teseje\nTisponibilizar o proTuto no mercaTo em versões que agreguem esse\nsuporte Te forma graTativa, fazenTo análise Te risco para avaliar a\nviabiliTaTe Te Tesenvolvimento Te uma nova versão. TenTo Te\nescolUer um moTelo Te processo para Tesenvolver esse eTitor, e\nconUecenTo as características Tos moTelos existentes, entre os\nmoTelos abaixo, qual é o moTelo apropriaTo para esse caso?\nA\ncascata\nB\nespiral\nC\nRAM (rapiT application Tevelopment)\nM\nprototipação\nN\ncleanroom\nRASCUNHO\nRoteaTor To ProveTor\nPAN\n138.76.28.4\n10.0.0.254\n10.0.0.1\nComputaTor A\n10.0.0.2\nComputaTor B\n10.0.0.10\nLAN\nRoteaTor com NAPT",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q76.png",
+  "caminho_json": "/questoes/2008_CCP/q76.json",
+  "caminho_txt": "/questoes/2008_CCP/q76.txt"
 }

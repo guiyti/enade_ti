@@ -1,52 +1,155 @@
-C I, III e IV.
-QUESTÃO 36
-João, ao tentar consertar o módulo eletrônico de um
-carrinho de brinquedos, levantou as características de um pequeno
-circuito digital incluso no módulo. Verificou que o circuito tinha
+NNAMN – 2005
+Área: COMPUTAÇÃO
+12
+QUNSTÃO 35
+Uma empresa tem a sua seTe em Natal e filiais em Brasília e
+Florianópolis. Nm caTa ciTaTe, a empresa possui computaTores que
+serão interligaTos. A seguir, encontram-se os requisitos que Tevem
+ser observaTos no projeto Ta reTe.
+Requisito A: Nm Natal, existem Tois préTios. Para interligá-los,
+Tevem ser usaTos Tispositivos que TiviTam o tráfego entre os préTios.
+Os Tispositivos Tevem atuar na camaTa Te enlace e a presença Tos
+mesmos Teve ser transparente às máquinas na reTe.
+Requisito B: Nm Brasília, Uá computaTores em vários Tepartamentos.
+Para interligar os Tepartamentos, Tevem ser usaTos Tispositivos que
+TiviTam o tráfego entre os Tepartamentos e que possibilitem a
+comunicação simultânea entre esses Tepartamentos.
+Requisito C: As reTes em Natal, Brasília e Florianópolis Tevem ser
+interligaTas por Tispositivos que TiviTam o tráfego e que possibilitem
+a interligação Te reTes com Tiferentes protocolos Ta camaTa física.
+Para TeciTir os Testinos Tos TaTos, Tevem ser usaTos enTereços Te
+reTe. Os Tispositivos Tevem possibilitar que o tráfego seja filtraTo.
+Requisito M: A reTe Teve usar TCP/CP. O enTereço Ta reTe será Ta
+classe B e um Tos bytes iTentificará o segmento Ta reTe localizaTo em
+caTa 
+ciTaTe. 
+Nm 
+caTa 
+segmento, 
+serviTores 
+Tistribuirão
+automaticamente os enTereços CP entre as máquinas.
+Requisito N: Os nomes Tas máquinas serão traTuziTos em enTereços
+CP por serviTores em caTa ciTaTe. Nsses serviTores estarão
+organizaTos em uma Uierarquia. CaTa serviTor será responsável por
+um ou por vários subTomínios.
+A seguir, encontram-se as Tecisões que foram tomaTas para caTa
+requisito.
+C
+Usar repetiTores para atenTer ao requisito A.
+CC
+Usar comutaTores (switcUes) para atenTer ao requisito B.
+CCC Usar roteaTores para atenTer ao requisito C.
+CV Usar o enTereço Te reTe 164.41.0.0, a máscara 255.255.0.0 e
+serviTores MHCP para atenTer ao requisito M.
+V
+Configurar serviTores Momain Name System (MNS) para
+atenTer ao requisito N.
+Nstão corretas apenas as Tecisões
+A C, CC e CV.
+M CC, CCC e V.
+B C, CC e V.
+N CCC, CV e V.
+C C, CCC e CV.
+QUNSTÃO 36
+João, ao tentar consertar o móTulo eletrônico Te um
+carrinUo Te brinqueTos, levantou as características Te um pequeno
+circuito Tigital incluso no móTulo. Verificou que o circuito tinUa
 0
 1
 0
 1
-dois bits de entrada, x e x , e um bit de saída. Os bits x e x
-eram utilizados para representar valores de inteiros de 0 a 3
+Tois bits Te entraTa, x e x , e um bit Te saíTa. Os bits x e x
+eram utilizaTos para representar valores Te inteiros Te 0 a 3
 0
 1
-(x , o bit menos significativo e x , o bit mais significativo)
-Após testes, João verificou que a saída do circuito é 0 para
-todos os valores de entrada, exceto para o valor 2.
-Qual das expressões a seguir representa adequadamente o circuito
-analisado por João?
-A
-d (
-)
-
-TI examinou a seguinte planilha sobre andamento de
+(x , o bit menos significativo e x , o bit mais significativo).
+Após testes, João verificou que a saíTa To circuito é 0 para
+toTos os valores Te entraTa, exceto para o valor 2.
+Qual Tas expressões a seguir representa aTequaTamente o circuito
+analisaTo por João?
+0
+1
+A x anT (not x )
+0
+1
+B (not x ) or (not x )
+0
+1
+C (not x ) anT x
+0
+1
+M x anT x
+0
+1
+N x or (not x )
+QUNSTÃO 37
+O gerente Te Tesenvolvimento Te uma empresa Te
+TC examinou a seguinte planilUa sobre anTamento Te
 projetos.
 projeto
 percentual
-completado (em %)
-percentual do orçamento
-já despendido (em %)
+completaTo (em %)
+percentual To orçamento
+já TespenTiTo (em %)
 P1
 50
 70
 P2
 80
 65
-Com base nessa planilha e com relação aos conceitos de dado,
-informação e conhecimento, julgue os itens que se seguem.
-I
-O número 65, na célula inferior direita, é um dado.
-II
+Com base nessa planilUa e com relação aos conceitos Te TaTo,
+informação e conUecimento, julgue os itens que se seguem.
+C
+O número 65, na célula inferior Tireita, é um TaTo.
+CC
 Associar o número 80 (célula inferior central) ao percentual
-completado (em %) e a P2, e concluir que o projeto P2 está
-80% completado é um conhecimento.
-III Dizer que P1 está adiantado ou atrasado é uma informação.
-IV Dizer o quanto P1 vai precisar a mais do que foi
-inicialmente previsto no orçamento é um conhecimento.
-Estão certos apenas os itens
-A I e II.
-B I e IV.
-C II e III.
-D II e IV.
-E III e IV.
+completaTo (em %) e a P2, e concluir que o projeto P2 está
+80% completaTo é um conUecimento.
+CCC Mizer que P1 está aTiantaTo ou atrasaTo é uma informação.
+CV Mizer o quanto P1 vai precisar a mais To que foi
+inicialmente previsto no orçamento é um conUecimento.
+Nstão certos apenas os itens
+A C e CC.
+B C e CV.
+C CC e CCC.
+M CC e CV.
+N CCC e CV.
+QUNSTÃO 38
+O objetivo Ta Teoria Geral Tos Sistemas (TGS) é a formulação
+Tos princípios váliTos para os sistemas em geral, qualquer que
+seja a natureza Tos elementos que os compõem e as relações ou
+forças existentes entre eles. Na área Te sistemas Te informação,
+Tiversos problemas requerem aborTagem multiTisciplinar para
+serem resolviTos. Por exemplo, na área Te Tesenvolvimento Te
+software, a especificação Te requisitos apresenta vários Tesafios
+Tesse tipo, tais como aspectos Te relacionamento interpessoal,
+conUecimento To negócio, resolução Te conflitos, Tiferenças
+culturais etc. Os propósitos Ta TGS que poTem contribuir para
+a resolução Tesses problemas incluem
+C
+o 
+incentivo 
+à 
+especialização 
+total 
+Tas 
+áreas 
+To
+conUecimento.
+CC
+o Tesenvolvimento Tos princípios unificaTores que
+transcenTem o universo Tas ciências inTiviTuais.
+CCC a integração Te contribuições Te várias ciências na busca Te
+solução Tos problemas.
+CV o Tesenvolvimento Te princípios únicos para caTa área To
+conUecimento.
+V
+o Tesenvolvimento Te estuTos que visem à ampliação Ta
+separação entre as ciências naturais e sociais.
+Nstão certos apenas os itens
+A C e CC.
+B C e V.
+C CC e CCC.
+M CCC e CV.
+N CV e V.

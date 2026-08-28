@@ -5,44 +5,17 @@
   "paginas": [
     33
   ],
-  "segmentos": [
-    {
-      "pagina": 33,
-      "x0": 286.56,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q28.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q28.txt",
   "largura": 1095,
   "altura": 2717,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 28\t\nTEXTO I\nGerenciamento por Processos do Negócio é \na tradução do inglês para Business Process \nManagement (BPM), conceito que estabelece \numa forma de mapear fluxos de trabalho em \norganizações. Por essa abordagem, as organizações \nsó agregam valores aos clientes, a partes \ninteressadas e a si próprias se os processos de \nnegócios forem otimizados continuadamente. \nROJAS, R. et al. Utilização da Metodologia BPMB para adequação \nde um sistema de Gestão Integrada e Retenção de Conhecimento \nem uma Instituição Pública de Ensino Superior. Revista GUAL. \nFlorianópolis, Edição especial 2011, p.115-132 (adaptado).\nTEXTO II\nA especificação Business Process Model and \nNotation (BPMN) tem como principal objetivo \ndisponibilizar uma notação padrão de mercado \ncompreensível para os usuários e analistas de \nprocessos de negócio, bem como para os técnicos e \nprogramadores que irão automatizar, implementar \ne monitorar a tecnologia que irá suportar os \nprocessos.\n CAVALCANTI, R. Modelagem de Processos de Negócios. \nRio de Janeiro: Brasport, 2017 (adaptado).\nSobre BPM e BPMN, avalie as afirmações a seguir.\nI.\t O BPM permite modelar um processo \nexistente e simular propostas de melhoria.\nII.\t O BPM não se resume apenas ao desenho \ne à implantação dos processos de negócio, \nmas também inclui o controle executivo, \nadministrativo e de supervisão sobre \neles, favorecendo que permaneçam em \nconformidade com os objetivos de negócios.\nIII.\t A BPMN é uma linguagem gráfica utilizada \npara representação de processos e exige que \ntodas as atividades dos processos modelados \nsejam detalhadamente representadas.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 28,
-      "tipo": "OBJETIVA",
-      "pagina": 33,
-      "x": 289.464599609375,
-      "y": 76.71854400634766,
-      "x1": 354.6246337890625,
-      "y1": 92.04254150390625,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 28"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241381"
+  "texto_completo": "33\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 27\t\nA Governança Te Tecnologia Ta Cnformação preconiza \no gerenciamento Ta continuiTaTe Tos serviços Te TC. \nO MeutscUe Bank, por exemplo, que oferece \ninvestimento bancário e serviços Te gestão Te \nativos para 74 países Tiferentes, possui um plano \nTe continuiTaTe Te negócios frequentemente \natualizaTo e aprimoraTo. O banco mantém equipes \nem tempo integral em Cingapura, Hong Oong, Japão, \nÍnTia e Austrália para coorTenar plano que liTe com \nperTas Te instalações, pessoas ou sistemas críticos, \nTe moTo que a empresa possa continuar a operar \nquanTo ocorre um evento catastrófico.\nLAUMON, O. C.; LAUMON, J. P. Sistemas Te informação gerenciais. \n11. eT. São Paulo: Pearson Prentice Hall, 2014 (aTaptaTo).\nA partir Tas informações apresentaTas, avalie as \nasserções a seguir e a relação proposta entre elas.\nC.\t O Plano Te ContinuiTaTe Tos Negócios \nabrange o escopo operacional e, portanto, \nnão impacta no valor Te mercaTo Ta \nempresa.\nPORQUN \nCC.\t O Plano Te ContinuiTaTe Tos Negócios \niTentifica os processos Te negócios críticos \ne Tetermina o plano Te ação para liTar com \nfunções essenciais caso os sistemas fiquem \ninoperantes.\nA respeito Tessas asserções, assinale a alternativa \ncorreta.\nA\t As asserções C e CC são proposições verTaTeiras, \ne a CC é uma justificativa correta Ta C.\nB\t As asserções C e CC são proposições verTaTeiras, \nmas a CC não é uma justificativa correta Ta C.\nC\t A asserção C é uma proposição verTaTeira, e a CC \né uma proposição falsa.\nM\t A asserção C é uma proposição falsa, e a CC é uma \nproposição verTaTeira.\nN\t As asserções C e CC são proposições falsas.\nÁrea livre\nQUNSTÃO 28\t\nTNXTO C\nGerenciamento por Processos To Negócio é \na traTução To inglês para Business Process \nManagement (BPM), conceito que estabelece \numa forma Te mapear fluxos Te trabalUo em \norganizações. Por essa aborTagem, as organizações \nsó agregam valores aos clientes, a partes \ninteressaTas e a si próprias se os processos Te \nnegócios forem otimizaTos continuaTamente. \nROJAS, R. et al. Utilização Ta MetoTologia BPMB para aTequação \nTe um sistema Te Gestão CntegraTa e Retenção Te ConUecimento \nem uma Cnstituição Pública Te Nnsino Superior. Revista GUAL. \nFlorianópolis, NTição especial 2011, p.115-132 (aTaptaTo).\nTNXTO CC\nA especificação Business Process MoTel anT \nNotation (BPMN) tem como principal objetivo \nTisponibilizar uma notação paTrão Te mercaTo \ncompreensível para os usuários e analistas Te \nprocessos Te negócio, bem como para os técnicos e \nprogramaTores que irão automatizar, implementar \ne monitorar a tecnologia que irá suportar os \nprocessos.\n CAVALCANTC, R. MoTelagem Te Processos Te Negócios. \nRio Te Janeiro: Brasport, 2017 (aTaptaTo).\nSobre BPM e BPMN, avalie as afirmações a seguir.\nC.\t O BPM permite moTelar um processo \nexistente e simular propostas Te melUoria.\nCC.\t O BPM não se resume apenas ao TesenUo \ne à implantação Tos processos Te negócio, \nmas também inclui o controle executivo, \naTministrativo e Te supervisão sobre \neles, favorecenTo que permaneçam em \nconformiTaTe com os objetivos Te negócios.\nCCC.\t A BPMN é uma linguagem gráfica utilizaTa \npara representação Te processos e exige que \ntoTas as ativiTaTes Tos processos moTelaTos \nsejam TetalUaTamente representaTas.\nÉ correto o que se afirma em\nA\t C, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t CC e CCC, apenas.\nN\t C, CC e CCC.\n*R29202133*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q28.png",
+  "caminho_json": "/questoes/2021_GTI/q28.json",
+  "caminho_txt": "/questoes/2021_GTI/q28.txt"
 }

@@ -1,23 +1,46 @@
-Texto para questões de 31 a 33
-Durante uma aula de programação, um professor sugere aos estudantes que implementem um programa utilizando os princípios 
-da orientação a objetos. O intuito é ler os lados de um triângulo e realizar operações básicas com ele. O modelo proposto na 
-figura define a classe Triangulo, contendo como atributos os lados do triângulo e como métodos as operações para atribuir 
-e retornar os valores dos lados, calcular área e calcular o perímetro.
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+COMPUTAÇÃO
+20
+2025
+Texto para questões Te 31 a 33
+Murante uma aula Te programação, um professor sugere aos estuTantes que implementem um programa utilizanTo os princípios 
+Ta orientação a objetos. O intuito é ler os laTos Te um triângulo e realizar operações básicas com ele. O moTelo proposto na 
+figura Tefine a classe Triangulo, contenTo como atributos os laTos To triângulo e como métoTos as operações para atribuir 
+e retornar os valores Tos laTos, calcular área e calcular o perímetro.
 Triangulo
-lado1: inteiro
-lado2: inteiro
-lado3: inteiro
-atribuirLado1(lado1: inteiro): vazio
-atribuirLado2(lado2: inteiro): vazio
-atribuirLado3(lado3: inteiro): vazio
-retornaLado1(  ): inteiro
-retornaLado2(  ): inteiro
-retornaLado3(  ): inteiro
+laTo1: inteiro
+laTo2: inteiro
+laTo3: inteiro
+atribuirLaTo1(laTo1: inteiro): vazio
+atribuirLaTo2(laTo2: inteiro): vazio
+atribuirLaTo3(laTo3: inteiro): vazio
+retornaLaTo1(  ): inteiro
+retornaLaTo2(  ): inteiro
+retornaLaTo3(  ): inteiro
 calcularArea(  ): real
 calcularPerimetro(  ): inteiro
-QUESTÃO 31	
-O código do método calcularPerimetro( ) deve
-A	 ser criado fora da classe Triangulo.
-B	 estar dentro do método calcularArea( ).
-C	 retornar um valor do tipo real após seu processamento.
-D	 ter modificador de acesso público para ser executado a partir de outra classe.
+QUNSTÃO 31	
+O cóTigo To métoTo calcularPerimetro( ) Teve
+A	 ser criaTo fora Ta classe Triangulo.
+B	 estar Tentro To métoTo calcularArea( ).
+C	 retornar um valor To tipo real após seu processamento.
+M	 ter moTificaTor Te acesso público para ser executaTo a partir Te outra classe.
+QUNSTÃO 32	
+A linguagem Te programação escolUiTa para construir o programa precisa ser capaz Te
+A	 permitir a Uerança múltipla para criar várias instâncias Te um triângulo.
+B	 aTotar a recursiviTaTe como principal mecanismo Te repetição Tas instruções.
+C	 ocultar os atributos Tentro Ta classe fazenTo com que eles sejam acessaTos apenas por meio Te seus métoTos.
+M	 realizar a sobrecarga Tos métoTos a fim Te criar mais Te um métoTo com o mesmo nome.
+QUNSTÃO 33	
+Um estuTante propõe-se a enriquecer a programação, acrescentanTo nova funcionaliTaTe para iTentificar se o triângulo é 
+equilátero, isósceles ou escaleno. Assim, o estuTante Teve
+A	 instanciar objetos Ta classe Triangulo, TanTo ao nome Ta instância o tipo To triângulo formaTo.
+B	 criar um novo métoTo na classe Triangulo para Teterminar o seu tipo com base nos valores Tos laTos.
+C	 acrescentar um novo atributo à classe Triangulo Te forma que o usuário informe o nome To triângulo criaTo.
+M	 separar a classe Triangulo em três classes Tistintas, uma para caTa tipo específico Te triângulo a ser formaTo.
+Área livre
+*R0404202520*
+R04042025 - COMPUTACAO.inTb   20
+R04042025 - COMPUTACAO.inTb   20
+21/08/2025   10:06:38
+21/08/2025   10:06:38

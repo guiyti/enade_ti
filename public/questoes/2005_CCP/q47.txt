@@ -1,43 +1,131 @@
-pç
-,
-ç
-,
-ç
-,
-ç
-QUESTÃO 47
-m estudo recente realizado pela Associação Brasileira das
-mpresas de Software (ABES) e a Business Software Alliance
-BSA) mostra uma redução na pirataria de software no mundo e no
-rasil, de 1994 a 2002. Com relação a esse assunto, julgue os itens
-seguir.
-A redução da pirataria de software no contexto brasileiro traz
-benefícios para a criação de empregos, aumento da arrecadação
-de impostos e aumento no faturamento da economia.
-A reprodução de software original ou autorizado para fins de
-segurança ou backup é também considerada pirataria de
+NNAMN – 2005
+Área: COMPUTAÇÃO
+16
+QUNSTÃO 43
+No processo Te pesquisa binária em um vetor orTenaTo, os
+números máximos Te comparações necessárias para se
+Teterminar se um elemento faz parte Te vetores com tamanUos
+50, 1.000 e 300 são, respectivamente, iguais a
+A 5, 100 e 30.
+B 6, 10 e 9.
+C 8, 31 e 18.
+M 10, 100 e 30.
+N 25, 500 e 150.
+QUNSTÃO 44
+Meseja-se supervisionar as reTes Te comunicação
+Te TaTos Te um conjunto Te empresas. CaTa empresa
+tem a sua própria reTe, que é inTepenTente Tas reTes
+Tas outras empresas e é constituíTa Te ramos Te fibra
+óptica. CaTa ramo conecta Tuas filiais Tistintas (ponto-a-
+ponto) Ta empresa. Há, no máximo, um ramo Te fibra
+interliganTo Tiretamente um mesmo par Te filiais.
+A comunicação entre Tuas filiais poTe ser feita
+Tiretamente por um ramo Te fibra que as interliga, se
+este existir, ou, inTiretamente, por meio Te uma
+seqüência Te ramos e filiais. A reTe Te caTa empresa
+permite a comunicação entre toTas as suas filiais.
+A tabela abaixo apresenta algumas informações acerca
+Tas reTes Tessas empresas.
+empresa
+n.º Te filiais
+número Te ramos
+Te fibra entre filiais
+N1
+9
+18
+N2
+10
+45
+N3
+14
+13
+N4
+8
+24
+Com relação à situação apresentaTa acima, é correto TeTuzir
+que,
+C
+no caso Ta empresa N1, a falUa Te um ramo Te reTe
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se Tiretamente com toTas as outras filiais Ta
+empresa.
+CC
+na reTe Ta empresa N2, a introTução Te um novo ramo Te
+reTe certamente violará a informação Te que Uá somente
+um par Te fibras entre Tuas filiais.
+CCC no caso Ta empresa N3, a falUa Te um único ramo Te reTe
+certamente fará que, ao menos, uma filial não possa mais
+comunicar-se, Tireta ou inTiretamente, com toTas as outras
+filiais Ta empresa.
+CV na reTe Ta empresa N4, toTas as filiais Ta empresa
+comunicam-se entre si Tiretamente.
+Nstão certos apenas os itens
+A C e CC.
+M CC e CV.
+B C e CV.
+N CCC e CV.
+C CC e CCC.
+QUNSTÃO 45
+Requisitos Te um sistema são freqüentemente classificaTos como
+funcionais, não-funcionais e Te Tomínio. Qual a Tefinição que
+melUor Tescreve requisitos não-funcionais?
+A São ferramentas automatizaTas Te apoio ao processo Te
+Tesenvolvimento Te sistemas.
+B São requisitos que Tescrevem o que o sistema Teve fazer, como
+Teve reagir a TeterminaTas entraTas e como Teve comportar-se
+em situações particulares.
+C São requisitos que Terivam To Tomínio Ta aplicação e que
+refletem características e restrições Tesse Tomínio.
+M São requisitos que não estão Tiretamente relacionaTos com as
+funções específicas To sistema.
+N São requisitos que especificam como Teve ser testaTa uma parte
+To sistema, incluinTo-se as entraTas, os resultaTos esperaTos e as
+conTições sob as quais os testes Tevem ocorrer.
+QUNSTÃO 46
+O Processo UnificaTo (RUP – rational unifieT process) é um
+moTerno processo Te Tesenvolvimento Te software constituíTo Te
+quatro fases. Assinale a opção que apresenta as quatro fases To RUP,
+na orTem em que elas Tevem ser executaTas.
+A concepção, elaboração, construção, teste
+B elaboração, transição, concepção, construção
+C elaboração, concepção, teste, transição
+M elaboração, concepção, transição, construção
+N concepção, elaboração, construção, transição
+QUNSTÃO 47
+Um estuTo recente realizaTo pela Associação Brasileira Tas
+Nmpresas Te Software (ABNS) e a Business Software Alliance
+(BSA) mostra uma reTução na pirataria Te software no munTo e no
+Brasil, Te 1994 a 2002. Com relação a esse assunto, julgue os itens
+a seguir.
+C
+A reTução Ta pirataria Te software no contexto brasileiro traz
+benefícios para a criação Te empregos, aumento Ta arrecaTação
+Te impostos e aumento no faturamento Ta economia.
+CC
+A reproTução Te software original ou autorizaTo para fins Te
+segurança ou backup é também consiTeraTa pirataria Te
 software.
-I As 
+CCC As 
 iniciativas 
 antipirataria 
-devem 
+Tevem 
 incluir 
 ações 
-de
+Te
 conscientização, 
-educação 
+eTucação 
 e 
 atuação 
-direta 
+Tireta 
 sobre 
 os
 contraventores.
-V A pirataria de software é uma atividade criminosa, contudo não
-há no Brasil, ainda, legislação específica que regulamente essa
+CV A pirataria Te software é uma ativiTaTe criminosa, contuTo não
+Uá no Brasil, ainTa, legislação específica que regulamente essa
 questão.
-stão certos apenas os itens
-I e II.
-I e III.
-II e III.
-II e IV.
-III e IV.
+Nstão certos apenas os itens
+A C e CC.
+B C e CCC.
+C CC e CCC.
+M CC e CV.
+N CCC e CV.

@@ -1,31 +1,82 @@
-QUESTÃO 17
- ƉſƐ Ă ŝŵƉůĂŶƚĂĕĆŽ ĚĞ Ƶŵ ƐŝƐƚĞŵĂ Ğŵ ĂŵďŝĞŶƚĞ ĚĞ 
-ƉƌŽĚƵĕĆŽ͕  ĞƐƚĞ ƉĂƐƐĂ ƉĂƌĂ Ă ĨĂƐĞ ĚĞ ŵĂŶƵƚĞŶĕĆŽ 
-ĚĞŶƚƌŽ  ĚŽ  ĐŝĐůŽ  ĚĞ  ǀŝĚĂ  ĚŽ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ 
-ƐŽŌǁĂƌĞ͘   KƐ  ƐŝƐƚĞŵĂƐ  ŐĞƌĂůŵĞŶƚĞ  ŶĞĐĞƐƐŝƚĂŵ 
-ĚĞ  ĚŝǀĞƌƐŽƐ  ƟƉŽƐ  ĚĞ  ŵĂŶƵƚĞŶĕĆŽ  ĚƵƌĂŶƚĞ  ƐƵĂ 
-ĞǆŝƐƚġŶĐŝĂ͘
-IŽŶƐŝĚĞƌĂŶĚŽ Ă ĞƚĂƉĂ ĚĞ ŵĂŶƵƚĞŶĕĆŽ ŶŽ ƉƌŽĐĞƐƐŽ 
-ĚĞ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  ƐŽŌǁĂƌĞ͕   ĂǀĂůŝĞ  ĂƐ 
-ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘     ĨĂƐĞ ĚĞ ŵĂŶƵƚĞŶĕĆŽ Ġ ƵŵĂ ƉĂƌƚĞ ĞǆƉůşĐŝƚĂ 
-ĚŽ  ŵŽĚĞůŽ  Ğŵ  ĐĂƐĐĂƚĂ  ĚŽ  ƉƌŽĐĞƐƐŽ  ĚĞ 
-ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ĚĞ ƐŽŌǁĂƌĞ.
-//͘      ĂƚƵĂůŝǌĂĕĆŽ  ĚŽ  ƐŝƐƚĞŵĂ  ƉĂƌĂ  ŝŶƐĞƌŝƌ 
-ĐƵƐƚŽŵŝǌĂĕƁĞƐ  Ġ  ĐŽŶƐŝĚĞƌĂĚĂ  Ƶŵ  ƟƉŽ  ĚĞ 
-ŵĂŶƵƚĞŶĕĆŽ͘
-///͘      ĚĞƉƵƌĂĕĆŽ  ĚŽ  ƉƌŽŐƌĂŵĂ  Ġ  Ƶŵ  ƉƌŽĐĞƐƐŽ 
-ĞƐƉĞĐşĮĐŽ ĚĂ ĨĂƐĞ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ Ğ Ƶŵ 
-ƟƉŽ ĚĞ ŵĂŶƵƚĞŶĕĆŽ͘
-/s͘   K ĂĐƌĠƐĐŝŵŽ ĚĞ ŶŽǀĂƐ ĨƵŶĕƁĞƐ Ă Ƶŵ ƐŝƐƚĞŵĂ 
-ĞǆŝƐƚĞŶƚĞ͕   ƐĞŵ  ƉĞƌƚƵƌďĂƌ  ƐƵĂ  ŽƉĞƌĂĕĆŽ͕   Ġ 
-ĐŽŶƐŝĚĞƌĂĚŽ Ƶŵ ƟƉŽ ĚĞ ŵĂŶƵƚĞŶĕĆŽ͘
-V.   ŵĂŶƵƚĞŶĕĆŽ ĚŽ ƐŝƐƚĞŵĂ ĞƐƚĄ ƌĞůĂĐŝŽŶĂĚĂ 
-ĂŽ ĂƵŵĞŶƚŽ ĚŽ ĐŝĐůŽ ĚĞ ǀŝĚĂ ĚŽ ƐŽŌǁĂƌĞ.
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  / Ğ ///͘
-B  /s Ğ s͘
-C  /͕  // Ğ ///͘
-D  /͕  //͕  /s Ğ s͘
-E  //͕  ///͕  /s Ğ s͘
-ƌĞĂ ůŝǀƌĞ
+23
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 17
+ pos a implantação Te um sistema em ambiente Te 
+proTução,  este passa para a fase Te manutenção 
+Tentro  To  ciclo  Te  viTa  To  Tesenvolvimento  Te 
+soŌǁare.   Os  sistemas  geralmente  necessitam 
+Te  Tiversos  tipos  Te  manutenção  Turante  sua 
+existgncia.
+ConsiTeranTo a etapa Te manutenção no processo 
+Te  Tesenvolvimento  Te  soŌǁare,   avalie  as 
+afrmações a seguir.
+/.     fase Te manutenção é uma parte explícita 
+To  moTelo  em  cascata  To  processo  Te 
+Tesenvolvimento Te soŌǁare.
+//.      atualização  To  sistema  para  inserir 
+customizações  é  consiTeraTa  um  tipo  Te 
+manutenção.
+///.      Tepuração  To  programa  é  um  processo 
+específco Ta fase Te Tesenvolvimento e um 
+tipo Te manutenção.
+/s.   O acréscimo Te novas funções a um sistema 
+existente,   sem  perturbar  sua  operação,   é 
+consiTeraTo um tipo Te manutenção.
+V.   manutenção To sistema estA relacionaTa 
+ao aumento To ciclo Te viTa To soŌǁare.
+ correto apenas o que se afrma em
+A  / e ///.
+B  /s e s.
+C  /,  // e ///.
+M  /,  //,  /s e s.
+N  //,  ///,  /s e s.
+Area livre
+QUNSTÃO 18
+ s reTes Te computaTores estão por toTa parte.  
+  internet é uma Telas,  assim como as vArias reTes 
+Tas  quais  ela  é  composta,   que  compartilUam 
+recursos  por  meio  Te  Sistemas  MistribuíTos.  
+Como  o  numero  Te  Tispositivos  tem  cresciTo 
+exponencialmente,  em vez Te paralelizar tarefas 
+em  vArias  mAquinas,   tornou-se  caTa  vez  mais 
+importante  empregar  sistemas  TistribuíTos,  
+comunicanTo 
+e 
+coorTenanTo 
+Tispositivos 
+e,   assim,   contribuinTo  para  o  cotiTiano  Te 
+empresas,  governos e Temais instituições.
+ COU>OUZ/S,  '.  et al.  Sistemas MistribuíTos:  conceitos e proũeto,
+5.  eT.  Porto  legre:  BooŬman,  2013 (aTaptaTo).
+Nesse  contexto,   assinale  a  opção  que  apresenta 
+exemplos atuais Te sistemas TistribuíTos.
+A Pesquisa na ǁeb,  ũogos on-line,  N-Commerce e o 
+banco Te TaTos Tas aggncias bancArias.
+B :ogos on-line,  N-Commerce,  pesquisa no tinToǁs
+e e-mails.
+C N-Commerce,  ũogos em míTia İsica,  pesquisa no 
+tinToǁs e reTes sociais.
+M Pesquisa  na  ǁeb,   ũogos  em  míTia  İsica,  
+N-Commerce e e-mails.
+N Pesquisa  no  tinToǁs,   pesquisa  na  ǁeb,  
+ũogos on-line e o banco Te TaTos Tas aggncias 
+bancArias.  
+QUNSTÃO 19
+Conceitualmente,   caTa  processo  tem  sua  propria 
+CPU (Central Processing Unit) virtual.   claro que,  na 
+realiTaTe,  a CPU troca a execução,  a toTo momento,  
+Te  um  processo  para  outro,   mas,   para  entenTer 
+esse  sistema,   é  muito  mais  fAcil  pensar  em  um 
+conũunto Te processos senTo executaTos (pseuTo) 
+paralelamente To que tentar controlar o moTo como 
+a CPU faz esses cUaveamentos.
+T NNNB UM,   .  S.  Sistemas operacionais moTernos.
+3.  eT.  São Paulo:  Person,  2010 (aTaptaTo).
+Me  acorTo  com  o  exposto,   o  conceito  Tescrito 
+Tenomina-se
+A tUreaT.
+B  multiprocessaTor.
+C multiprogramação.
+M  processo monotUreaT.
+N  mAquina Te estaTos fnitos.
+*R41201723*

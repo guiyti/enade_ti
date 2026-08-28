@@ -1,13 +1,59 @@
-QUESTÃO 26
-  ĮŐƵƌĂ Ă ƐĞŐƵŝƌ ŵŽƐƚƌĂ ƵŵĂ ŝŵĂŐĞŵ ĚĞ ƌĞƐƐŽŶąŶĐŝĂ 
-ŵĂŐŶĠƟĐĂ  ĐŽƌƌŽŵƉŝĚĂ  ƉŽƌ  ƌƵşĚŽ  ĚŽ  ƟƉŽ ͞ ƐĂů  Ğ 
-ƉŝŵĞŶƚĂ͘͟  
-WĂƌĂ  ƋƵĞ  Ž  ƌƵşĚŽ  ƐĞũĂ  ĂƚĞŶƵĂĚŽ  Ğ  ĂƐ  ďŽƌĚĂƐ  ĚĂƐ 
-ĞƐƚƌƵƚƵƌĂƐ  ƌĞƉƌĞƐĞŶƚĂĚĂƐ  ƐĞũĂŵ  ƉƌĞƐĞƌǀĂĚĂƐ͕  
-ĚĞǀĞͲƐĞ ĂƉůŝĐĂƌ ŶĂ ŝŵĂŐĞŵ Ž ĮůƚƌŽ
-A  ^ŽďĞů͘
-B  ĚĂ ŵĠĚŝĂ͘
-C  >ĂƉůĂĐŝĂŶŽ͘
-D  ĚŽ ŵşŶŝŵŽ͘
-E  ĚĂ ŵĞĚŝĂŶĂ͘
-ƌĞĂ ůŝǀƌĞ
+26
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 26
+  fgura a seguir mostra uma imagem Te ressonancia 
+magnética  corrompiTa  por  ruíTo  To  tipo " sal  e 
+pimenta".  
+Para  que  o  ruíTo  seũa  atenuaTo  e  as  borTas  Tas 
+estruturas  representaTas  seũam  preservaTas,  
+Teve-se aplicar na imagem o fltro
+A  Sobel.
+B  Ta méTia.
+C  >aplaciano.
+M  To mínimo.
+N  Ta meTiana.
+Area livre
+QUNSTÃO 27
+Nm computação grAfica,  existem vArios moTelos 
+Te  iluminação  Tiferentes  que  expressam  e 
+controlam  os  fatores  que  Teterminam  a  cor  Te 
+uma  superfície  em  função  Te  um  TeterminaTo 
+conũunto Te luzes.  Uma vez TefiniTo um moTelo 
+Te  iluminação,   poTe-se  aplicar  luz  sobre  as 
+vArias faces Tos obũetos Te uma cena,  processo 
+TenominaTo sombreamento.
+ s  fguras  a  seguir  ilustram  a  aplicação  Te  Tois 
+moTelos  Te  iluminação,   a  saber:   o  moTelo  Te 
+sombreamento constante (a esquerTa) e o moTelo 
+Te PUong (a Tireita).
+ NsNMO,  N.͖  CONC/,   .  Computação grAfca:  geração Te imagens.
+ Zio Te :aneiro:  Campus,  2003 (aTaptaTo).
+Misponível em:  фUtps:ͬͬ
+ǁǁǁ. cs. cmu. eTuх.   cesso em:  17 ũul 2017.
+Nm 
+relação 
+aos 
+moTelos 
+Te 
+iluminação 
+apresentaTos,  avalie as afrmações a seguir.
+/.      aplicação  To  moTelo  Te  sombreamento 
+constante causa na imagem um efeito visual 
+TenominaTo BanTas Te MacU.
+//.   Nmbora seũa util para gerar imagens realísticas,  
+o moTelo Te PUong mostra-se pouco efciente 
+na apresentação Tas reŇexões especulares.
+///.   O moTelo Te sombreamento constante não 
+é util para gerar imagens realísticas porque 
+ele  TA  Testaque  ao  aspecto  facetaTo  Ta 
+representação polieTral Tas superİcies.
+/s.  Para  a  utilização  To  moTelo  Te  PUong,   é 
+necessArio supor que a fonte Te luz localiza-se 
+no infnito.
+ correto apenas o que se afrma em
+A  / e //.
+B  / e ///.
+C  // e /s.
+M  /,  /// e /s.
+N  //,  /// e /s.
+*R03201726*

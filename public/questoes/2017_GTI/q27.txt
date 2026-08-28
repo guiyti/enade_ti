@@ -1,27 +1,73 @@
-QUESTÃO 27
-  ǀŝƌƚƵĂůŝǌĂĕĆŽ ƉĞƌŵŝƚĞ ƋƵĞ Ƶŵ ƷŶŝĐŽ ĐŽŵƉƵƚĂĚŽƌ 
-ŚŽƐƉĞĚĞ  ĚŝǀĞƌƐĂƐ  ŵĄƋƵŝŶĂƐ  ǀŝƌƚƵĂŝƐ͕   ĐĂĚĂ  ƵŵĂ 
-ĐŽŵ ƐĞƵ ƉƌſƉƌŝŽ ƐŝƐƚĞŵĂ ŽƉĞƌĂĐŝŽŶĂů͘  EƐƐĂ ƚĠĐŶŝĐĂ 
-ŐĂŶŚŽƵ  ŝŵƉŽƌƚąŶĐŝĂ  Ğ  ĐŽŶŚĞĐŝŵĞŶƚŽ  ƉƷďůŝĐŽ  Ă 
-ƉĂƌƟƌ ĚĂ ĚĠĐĂĚĂ ĚĞ 1990 Ğ͕  ĂƚƵĂůŵĞŶƚĞ͕  ǀĞŵ ƐĞŶĚŽ 
-ƵƟůŝǌĂĚĂ ƉĂƌĂ ƌĞƐŽůǀĞƌ ĚŝǀĞƌƐŽƐ ƟƉŽƐ ĚĞ ƉƌŽďůĞŵĂƐ͘
-IŽŶƐŝĚĞƌĂŶĚŽ  ŽƐ  ĚŝǀĞƌƐŽƐ  ĂƐƉĞĐƚŽƐ  Ă  ƐĞƌĞŵ 
-ŽďƐĞƌǀĂĚŽƐ ŶĂ ƵƟůŝǌĂĕĆŽ ĚĂ ǀŝƌƚƵĂůŝǌĂĕĆŽ͕  ĂǀĂůŝĞ ĂƐ 
-ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   hŵ ƐŝƐƚĞŵĂ ŽƉĞƌĂĐŝŽŶĂů ĞǆĞĐƵƚĂĚŽ Ğŵ ƵŵĂ 
-ŵĄƋƵŝŶĂ  ǀŝƌƚƵĂů ƵƟůŝǌĂ Ƶŵ ƐƵďĐŽŶũƵŶƚŽ ĚĂ 
-ŵĞŵſƌŝĂ ĚŝƐƉŽŶşǀĞů ŶĂ ŵĄƋƵŝŶĂ ƌĞĂů͘
-//͘   hŵĂ  ĚĂƐ  ĂƉůŝĐĂĕƁĞƐ  ĚĂ  ǀŝƌƚƵĂůŝǌĂĕĆŽ  Ġ  Ă 
-ĚŝƐƉŽŶŝďŝůŝǌĂĕĆŽ  ĚĞ  ŵƷůƟƉůŽƐ  ƐŝƐƚĞŵĂƐ 
-ŽƉĞƌĂĐŝŽŶĂŝƐ ƉĂƌĂ ƚĞƐƚĞ ĚĞ ƐŽŌǁĂƌĞ.
-///͘   hŵ ƐŝƐƚĞŵĂ ŽƉĞƌĂĐŝŽŶĂů ĞǆĞĐƵƚĂĚŽ Ğŵ ƵŵĂ 
-ŵĄƋƵŝŶĂ ǀŝƌƚƵĂů ĂƉƌĞƐĞŶƚĂ Ƶŵ ĚĞƐĞŵƉĞŶŚŽ 
-ƐƵƉĞƌŝŽƌ ĂŽ ƋƵĞ ĂůĐĂŶĕĂƌŝĂ ƋƵĂŶĚŽ ĞǆĞĐƵƚĂĚŽ 
-ĚŝƌĞƚĂŵĞŶƚĞ ŶĂ ŵĞƐŵĂ ŵĄƋƵŝŶĂ ƌĞĂů͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  /͕  ĂƉĞŶĂƐ͘
-B  ///͕  ĂƉĞŶĂƐ͘
-C  / Ğ //͕  ĂƉĞŶĂƐ͘
-D  // Ğ ///͕  ĂƉĞŶĂƐ͘
-E  /͕  // Ğ ///͘
-ƌĞĂ ůŝǀƌĞ
+28
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 26
+Certamente,   uma  empresa  com  um  volume  Te 
+10  000  notas  fscais  por  mgs  (e  com  vArios  itens 
+por  nota  fscal)  não  usarA  copias  Tessas  notas 
+como meio Te entraTa Te TaTos sobre receitas nos 
+subsistemas Te contas a receber e Te contabiliTaTe.  
+/sso  equivaleria  a  classifcar  e  efetuar  10  000  ou 
+mais  lançamentos,   respectivamente,   para  caTa 
+cliente,   Te  acorTo  com  o  seu  coTigo  contAbil.  
+Por  outro  laTo,   Te  alguma  forma,   o  sistema  Te 
+contas  a  receber  Teve  ΗinformarΗ  ao  sistema  Te 
+contabiliTaTe  os  recebimentos  Te  clientes.   Ma 
+mesma forma,  poTe ser inviAvel o registro contAbil 
+Te um por um Tos comprovantes Te recebimento.
+B/O,  S.  Z.  Sistema Te informação:  um enfoque gerencial. 2.  eT.  
+São Paulo:   tlas,  2008 (aTaptaTo).
+   situação  Tescrita  no  texto  é  um  ơpico  caso  Te 
+problema a ser resolviTo com
+A TataǁareUouse,  
+um 
+Teposito 
+Te 
+TaTos 
+orientaTo  por  assunto,   integraTo,   não  volAtil,  
+variAvel com o tempo,  para apoiar as Tecisões 
+gerenciais.
+B  SO   (Service OrienteT ArcUitecture),   uma 
+arquitetura proposta para interoperabiliTaTe Te 
+sistemas por meio Te um conũunto Te interfaces 
+Te serviços.
+C  NZP (Nnterprise Resource Planning),  um soŌǁare 
+que integra toTos os TaTos e processos Te uma 
+organização em um unico sistema.
+M  'NM  ('estão  Nletrƀnica  Te  Mocumentos),   um 
+conũunto  Te  tecnologias  que  permite  a  uma 
+empresa gerenciar seus Tocumentos em forma 
+Tigital.
+N  gestão To conUecimento,  uma Area Te atuação 
+transversal  relacionaTa,   sobretuTo,   a  gestão 
+estratégica,   teoria  Tas  organizações,   sistema 
+Te informação,  gestão Ta tecnologia,  e as Areas 
+mais traTicionais.
+Area livre
+QUNSTÃO 27
+  virtualização permite que um unico computaTor 
+UospeTe  Tiversas  mAquinas  virtuais,   caTa  uma 
+com seu proprio sistema operacional.  Nssa técnica 
+ganUou  importancia  e  conUecimento  publico  a 
+partir Ta TécaTa Te 1990 e,  atualmente,  vem senTo 
+utilizaTa para resolver Tiversos tipos Te problemas.
+ConsiTeranTo  os  Tiversos  aspectos  a  serem 
+observaTos na utilização Ta virtualização,  avalie as 
+afrmações a seguir.
+/.   Um sistema operacional executaTo em uma 
+mAquina  virtual utiliza um subconũunto Ta 
+memoria Tisponível na mAquina real.
+//.   Uma  Tas  aplicações  Ta  virtualização  é  a 
+Tisponibilização  Te  multiplos  sistemas 
+operacionais para teste Te soŌǁare.
+///.   Um sistema operacional executaTo em uma 
+mAquina virtual apresenta um TesempenUo 
+superior ao que alcançaria quanTo executaTo 
+Tiretamente na mesma mAquina real.
+ correto o que se afrma em
+A  /,  apenas.
+B  ///,  apenas.
+C  / e //,  apenas.
+M  // e ///,  apenas.
+N  /,  // e ///.
+Area livre
+*R43201728*

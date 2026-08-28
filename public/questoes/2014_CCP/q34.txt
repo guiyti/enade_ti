@@ -1,23 +1,25 @@
-QUESTÃO 34
-IŽŶƐŝĚĞƌĞ  Ă  ŝŵƉůĞŵĞŶƚĂĕĆŽ  ĚĞ  Ƶŵ  ĐŽŵƉŝůĂĚŽƌ  Ğŵ  ƋƵĞ  ĂƐ  ĞƚĂƉĂƐ  ĚĞ  ĂŶĄůŝƐĞ  ůĠǆŝĐĂ  Ğ  ƐŝŶƚĄƟĐĂ  ƉŽƐƐĂŵ 
-ĐŽŵƉĂƌƟůŚĂƌ Ž ŵĞƐŵŽ ƉƌŽĐĞƐƐĂĚŽƌ ĚĞ ĨŽƌŵĂ ĐŽŶĐŽƌƌĞŶƚĞ͘  IŽŶƐŝĚĞƌĞ͕  ĂŝŶĚĂ͕  ƵŵĂ ƐŽůƵĕĆŽ ƉĂƌĂ Ž ƉƌŽďůĞŵĂ͕  
-ĐƵũŽ ƉƐĞƵĚŽĐſĚŝŐŽ Ġ ŵŽƐƚƌĂĚŽ ĂďĂŝǆŽ͘  K ĂŶĂůŝƐĂĚŽƌ ůĠǆŝĐŽ ůġ ŽƐ ůĞǆĞŵĂƐ Ğ ŝĚĞŶƟĮĐĂ ŽƐ ƌĞƐƉĞĐƟǀŽƐ tokens ĚŽ 
-ĂƌƋƵŝǀŽͲĨŽŶƚĞ ƉŽƌ ŵĞŝŽ ĚĂ ĐŚĂŵĂĚĂ ĂŽ ƉƌŽĐĞĚŝŵĞŶƚŽ Leia͘  K ĂŶĂůŝƐĂĚŽƌ ƐŝŶƚĄƟĐŽ ǀĞƌŝĮĐĂ Ă ƐĞƋƵġŶĐŝĂ ĚŽƐ 
-tokens ƉŽƌ ŵĞŝŽ ĚĂ ĐŚĂŵĂĚĂ ĂŽ ƉƌŽĐĞĚŝŵĞŶƚŽ Case͘  KƐ ĚŽŝƐ ƉƌŽĐĞƐƐŽƐ ĐŽŵƉĂƌƟůŚĂŵ Ă ĐŽŶƐƚĂŶƚĞ N Ğ ĂƐ 
-ǀĂƌŝĄǀĞŝƐ buffer͕  vez e cont.
+26
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 34
+ConsiTere  a  implementação  Te  um  compilaTor  em  que  as  etapas  Te  anAlise  léxica  e  sintAtica  possam 
+compartilUar o mesmo processaTor Te forma concorrente.  ConsiTere,  ainTa,  uma solução para o problema,  
+cuũo pseuTocoTigo é mostraTo abaixo.  O analisaTor léxico lg os lexemas e iTentifca os respectivos tokens To 
+arquivo-fonte por meio Ta cUamaTa ao proceTimento Leia.  O analisaTor sintAtico verifca a sequgncia Tos 
+tokens por meio Ta cUamaTa ao proceTimento Case.  Os Tois processos compartilUam a constante N e as 
+variAveis buffer,  vez e cont.
 constante N = 10;
 inteiro buffer[N], vez = 0, cont = 0;
-Analisador_Lexico:
+AnalisaTor_Lexico:
 01
 inteiro token, in = 0;
 02
-enquanto verdadeiro faça
+enquanto verTaTeiro faça
 03
 Leia(token);
 04
-enquanto cont = N - 1 aguarde;
+enquanto cont = N - 1 aguarTe;
 05
-enquanto vez = 1 aguarde;
+enquanto vez = 1 aguarTe;
 06
 buffer[in] = token;
 07
@@ -25,17 +27,17 @@ cont = cont + 1;
 08
 vez = 1;
 09
-in = (in + 1) mod N;
-    ¿P HQTXDQWR
-Analisador_Sintatico:
+in = (in + 1) moT N;
+    ¿P HQTXMQPR
+AnalisaTor_Sintatico:
 11
 inteiro token, out = 0;
 12
-enquanto verdadeiro faça
+enquanto verTaTeiro faça
 13
-enquanto cont = 0 aguarde;
+enquanto cont = 0 aguarTe;
 14
-enquanto vez = 0 aguarde;
+enquanto vez = 0 aguarTe;
 15
 token buffer[out];
 16
@@ -43,17 +45,18 @@ cont = cont - 1;
 17
 vez = 0;
 18
-out = (out + 1) mod N;
+out = (out + 1) moT N;
 19
 Case(token);
-    ¿P HQTXDQWR
-  ƉĂƌƟƌ ĚĂ ĂŶĄůŝƐĞ ĚĂ ƐŽůƵĕĆŽ͕  ĂǀĂůŝĞ ĂƐ ĂƐƐĞƌĕƁĞƐ Ă ƐĞŐƵŝƌ Ğ Ă ƌĞůĂĕĆŽ ƉƌŽƉŽƐƚĂ ĞŶƚƌĞ ĞůĂƐ͘
-/͘     ĞůŝŵŝŶĂĕĆŽ ĚĂ ǀĂƌŝĄǀĞů cont Ğ ĚĂƐ ůŝŶŚĂƐ 4͕  7͕ 13 Ğ 16 ĐĂƵƐĂ ĞƌƌŽ ĚĞ ƐŝŶĐƌŽŶŝƐŵŽ ĞŶƚƌĞ ŽƐ ƉƌŽĐĞƐƐŽƐ͘
-PORQUE
-//͘     ǀĂƌŝĄǀĞů cont Ġ ƌĞƐƉŽŶƐĄǀĞů ƉĞůŽ ĐŽŶƚƌŽůĞ ĚŽ ĂĐĞƐƐŽ ă ƐĞĕĆŽ ĐƌşƟĐĂ ĚŽ ĐſĚŝŐŽ͘
-  ƌĞƐƉĞŝƚŽ ĚĞƐƐĂƐ ĂƐƐĞƌĕƁĞƐ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘
-A  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  Ğ Ă // Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-B  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ǀĞƌĚĂĚĞŝƌĂƐ͕  ŵĂƐ Ă // ŶĆŽ Ġ ƵŵĂ ũƵƐƟĮĐĂƟǀĂ ĐŽƌƌĞƚĂ ĚĂ /͘
-C   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͕  Ğ Ă // ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͘
-D   ĂƐƐĞƌĕĆŽ / Ġ ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ĨĂůƐĂ͕  Ğ Ă // ƵŵĂ ƉƌŽƉŽƐŝĕĆŽ ǀĞƌĚĂĚĞŝƌĂ͘
-E  Ɛ ĂƐƐĞƌĕƁĞƐ / Ğ // ƐĆŽ ƉƌŽƉŽƐŝĕƁĞƐ ĨĂůƐĂƐ͘
+    ¿P HQTXMQPR
+  partir Ta anAlise Ta solução,  avalie as asserções a seguir e a relação proposta entre elas.
+/.     eliminação Ta variAvel cont e Tas linUas 4,  7, 13 e 16 causa erro Te sincronismo entre os processos.
+PORQUN
+//.     variAvel cont é responsAvel pelo controle To acesso a seção crítica To coTigo.
+  respeito Tessas asserções,  assinale a opção correta.
+A  s asserções / e // são proposições verTaTeiras,  e a // é uma ũustifcativa correta Ta /.
+B  s asserções / e // são proposições verTaTeiras,  mas a // não é uma ũustifcativa correta Ta /.
+C   asserção / é uma proposição verTaTeira,  e a // uma proposição falsa.
+M   asserção / é uma proposição falsa,  e a // uma proposição verTaTeira.
+N  s asserções / e // são proposições falsas.
+*R03201426*

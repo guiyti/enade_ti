@@ -5,44 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 558.5079956054688,
-      "x1": 611.7199999999999,
-      "y1": 675.2308959960938,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q33.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q33.txt",
   "largura": 2475,
   "altura": 516,
   "confianca": 0.98,
-  "texto_completo": "g\nQUESTÃO 33\t\nUm estudante propõe-se a enriquecer a programação, acrescentando nova funcionalidade para identificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estudante deve\nA\t instanciar objetos da classe Triangulo, dando ao nome da instância o tipo do triângulo formado.\nB\t criar um novo método na classe Triangulo para determinar o seu tipo com base nos valores dos lados.\nC\t acrescentar um novo atributo à classe Triangulo de forma que o usuário informe o nome do triângulo criado.\nD\t separar a classe Triangulo em três classes distintas, uma para cada tipo específico de triângulo a ser formado.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 33,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 64.6063003540039,
-      "y": 570.5079956054688,
-      "x1": 124.34291076660156,
-      "y1": 585.7760009765625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 33"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404627"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n20\n2025\nTexto para questões Te 31 a 33\nMurante uma aula Te programação, um professor sugere aos estuTantes que implementem um programa utilizanTo os princípios \nTa orientação a objetos. O intuito é ler os laTos Te um triângulo e realizar operações básicas com ele. O moTelo proposto na \nfigura Tefine a classe Triangulo, contenTo como atributos os laTos To triângulo e como métoTos as operações para atribuir \ne retornar os valores Tos laTos, calcular área e calcular o perímetro.\nTriangulo\nlaTo1: inteiro\nlaTo2: inteiro\nlaTo3: inteiro\natribuirLaTo1(laTo1: inteiro): vazio\natribuirLaTo2(laTo2: inteiro): vazio\natribuirLaTo3(laTo3: inteiro): vazio\nretornaLaTo1(  ): inteiro\nretornaLaTo2(  ): inteiro\nretornaLaTo3(  ): inteiro\ncalcularArea(  ): real\ncalcularPerimetro(  ): inteiro\nQUNSTÃO 31\t\nO cóTigo To métoTo calcularPerimetro( ) Teve\nA\t ser criaTo fora Ta classe Triangulo.\nB\t estar Tentro To métoTo calcularArea( ).\nC\t retornar um valor To tipo real após seu processamento.\nM\t ter moTificaTor Te acesso público para ser executaTo a partir Te outra classe.\nQUNSTÃO 32\t\nA linguagem Te programação escolUiTa para construir o programa precisa ser capaz Te\nA\t permitir a Uerança múltipla para criar várias instâncias Te um triângulo.\nB\t aTotar a recursiviTaTe como principal mecanismo Te repetição Tas instruções.\nC\t ocultar os atributos Tentro Ta classe fazenTo com que eles sejam acessaTos apenas por meio Te seus métoTos.\nM\t realizar a sobrecarga Tos métoTos a fim Te criar mais Te um métoTo com o mesmo nome.\nQUNSTÃO 33\t\nUm estuTante propõe-se a enriquecer a programação, acrescentanTo nova funcionaliTaTe para iTentificar se o triângulo é \nequilátero, isósceles ou escaleno. Assim, o estuTante Teve\nA\t instanciar objetos Ta classe Triangulo, TanTo ao nome Ta instância o tipo To triângulo formaTo.\nB\t criar um novo métoTo na classe Triangulo para Teterminar o seu tipo com base nos valores Tos laTos.\nC\t acrescentar um novo atributo à classe Triangulo Te forma que o usuário informe o nome To triângulo criaTo.\nM\t separar a classe Triangulo em três classes Tistintas, uma para caTa tipo específico Te triângulo a ser formaTo.\nÁrea livre\n*R0404202520*\nR04042025 - COMPUTACAO.inTb   20\nR04042025 - COMPUTACAO.inTb   20\n21/08/2025   10:06:38\n21/08/2025   10:06:38",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q33.png",
+  "caminho_json": "/questoes/2024_CCP/q33.json",
+  "caminho_txt": "/questoes/2024_CCP/q33.txt"
 }

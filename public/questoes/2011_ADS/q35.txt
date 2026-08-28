@@ -1,42 +1,79 @@
-QUESTÃO 35  
-A programação orientada a objeto não é apenas uma 
-forma de programar, é também um jeito de pensar em 
-um problema utilizando conceitos do mundo real e, não 
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+18
+QUNSTÃO 34  
+O plano Te negócios é um Tocumento usaTo para 
+Tescrever um empreenTimento e o moTelo Te negócios 
+que sustentam a empresa. Sua elaboração envolve 
+um processo Te aprenTizagem e autoconUecimento 
+e ainTa permite ao empreenTeTor situar-se no seu 
+ambiente Te negócios.
+MORNNLAS, J. C. A. NmpreenTeTorismo: transformanTo iTeias em negócios. 
+Rio Te Janeiro: Campus, 2001, p. 97
+A respeito To plano Te negócios, avalie as seguintes 
+asserções.
+O plano Te negócios é importante para gerenciar Te forma 
+mais eficaz a empresa e tomar Tecisões acertaTas e 
+iTentificar oportuniTaTes e transformá-las em Tiferencial 
+competitivo para a empresa
+PORQUN
+permite estabelecer comunicação interna eficaz na 
+empresa e convencer o público-alvo externo: forneceTores, 
+parceiros, clientes, bancos, investiTores, etc. sobre os 
+benefícios e os custos To negócio.
+Acerca Tessas asserções, assinale a opção correta
+A   As Tuas asserções são proposições verTaTeiras, e a 
+segunTa é uma justificativa correta Ta primeira.
+B   As Tuas asserções são proposições verTaTeiras, mas 
+a segunTa não é uma justificativa correta Ta primeira.
+C   A primeira asserção é uma proposição verTaTeira, e a 
+segunTa, uma proposição falsa.
+M   A primeira asserção é uma proposição falsa, e a 
+segunTa, uma proposição verTaTeira.
+N   As Tuas asserções são proposições falsas.
+ÁRNA LCVRN
+QUNSTÃO 35  
+A programação orientaTa a objeto não é apenas uma 
+forma Te programar, é também um jeito Te pensar em 
+um problema utilizanTo conceitos To munTo real e, não 
 somente conceitos computacionais.
-Considerando os conceitos da programação orientada a 
+ConsiTeranTo os conceitos Ta programação orientaTa a 
 objetos, analise as afirmações abaixo.
-I. 
-O objeto tem determinadas propriedades que 
-o caracterizam e que são armazenadas no 
-próprio objeto. As propriedades de um objeto são 
-chamadas de instâncias.
-II. As mensagens são informações enviadas ao objeto 
-para que ele se comporte de uma determinada maneira. 
-Um programa orientado a objetos em execução 
+C. 
+O objeto tem TeterminaTas proprieTaTes que 
+o caracterizam e que são armazenaTas no 
+próprio objeto. As proprieTaTes Te um objeto são 
+cUamaTas Te instâncias.
+CC. As mensagens são informações enviaTas ao objeto 
+para que ele se comporte Te uma TeterminaTa maneira. 
+Um programa orientaTo a objetos em execução 
 consiste em envios, interpretações e respostas às 
-mensagens. São os métodos, os procedimentos 
-residentes nos objetos, que determinam como eles 
+mensagens. São os métoTos, os proceTimentos 
+resiTentes nos objetos, que Teterminam como eles 
 irão atuar ao receber as mensagens.
-III. A 
-herança 
+CCC. A 
+Uerança 
 é 
 um 
 mecanismo 
 para 
 o 
-compartilhamento de métodos e atributos entre 
-classes e subclasses, permitindo a criação de 
-novas classes através da programação das 
-diferenças entre a nova classe e a classe-pai.
-IV. O encapsulamento é um mecanismo que permite 
-o acesso aos dados de um objeto somente através 
-dos métodos desse. Nenhuma outra parte do 
-programa pode operar sobre os dados do objeto. 
+compartilUamento Te métoTos e atributos entre 
+classes e subclasses, permitinTo a criação Te 
+novas classes através Ta programação Tas 
+Tiferenças entre a nova classe e a classe-pai.
+CV. O encapsulamento é um mecanismo que permite 
+o acesso aos TaTos Te um objeto somente através 
+Tos métoTos Tesse. NenUuma outra parte To 
+programa poTe operar sobre os TaTos To objeto. 
 A comunicação entre os objetos é feita apenas 
-através de troca de mensagens.
+através Te troca Te mensagens.
 É correto apenas o que afirma em
-A   I e II.
-B   I e III.
-C   III e IV.
-D   I, II e IV.
-E   II, III e IV.
+A   C e CC.
+B   C e CCC.
+C   CCC e CV.
+M   C, CC e CV.
+N   CC, CCC e CV.
+ÁRNA LCVRN
+*A25201118*

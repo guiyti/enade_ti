@@ -1,6 +1,8 @@
-QUESTÃO 33
-IŽŶƐŝĚĞƌĞ Ă ĨƵŶĕĆŽ ƌĞĐƵƌƐŝǀĂ F Ă ƐĞŐƵŝƌ͕  ƋƵĞ Ğŵ ƐƵĂ ĞǆĞĐƵĕĆŽ ĐŚĂŵĂ Ă ĨƵŶĕĆŽ G͗
-1 void F(int n) {
+31
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 33
+ConsiTere a função recursiva F a seguir,  que em sua execução cUama a função G:
+1 voiT F(int n) {
 2    if(n > 0) {
 3       for(int i = 0; i < n; i++) {
 4          G(i);
@@ -8,15 +10,16 @@ IŽŶƐŝĚĞƌĞ Ă ĨƵŶĕĆŽ ƌĞĐƵƌƐŝǀĂ F Ă ƐĞŐƵŝƌ͕  ƋƵĞ
 6       F(n/2);
 7    }
 8 }
-IŽŵ ďĂƐĞ ŶŽƐ ĐŽŶĐĞŝƚŽƐ ĚĞ ƚĞŽƌŝĂ ĚĂ ĐŽŵƉůĞǆŝĚĂĚĞ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘     ĞƋƵĂĕĆŽ ĚĞ ƌĞĐŽƌƌġŶĐŝĂ ƋƵĞ ĚĞĮŶĞ Ă ĐŽŵƉůĞǆŝĚĂĚĞ ĚĂ ĨƵŶĕĆŽ F Ġ Ă ŵĞƐŵĂ ĚŽ ĂůŐŽƌŝƚŵŽ ĐůĄƐƐŝĐŽ 
-ĚĞ ŽƌĚĞŶĂĕĆŽ mergesort.
-//͘   K ŶƷŵĞƌŽ ĚĞ ĐŚĂŵĂĚĂƐ ƌĞĐƵƌƐŝǀĂƐ ĚĂ ĨƵŶĕĆŽ F Ġ 4 (log n).
-///͘   K ŶƷŵĞƌŽ ĚĞ ǀĞǌĞƐ ƋƵĞ Ă ĨƵŶĕĆŽ G ĚĂ ůŝŶŚĂ 4 Ġ ĐŚĂŵĂĚĂ Ġ O(n log n).
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  /͕  ĂƉĞŶĂƐ͘
-B  //͕  ĂƉĞŶĂƐ͘
-C  / Ğ ///͕  ĂƉĞŶĂƐ͘
-D  // Ğ ///͕  ĂƉĞŶĂƐ͘
-E  /͕  // Ğ ///͘
-ƌĞĂ ůŝǀƌĞ
+Com base nos conceitos Te teoria Ta complexiTaTe,  avalie as afrmações a seguir.
+/.     equação Te recorrgncia que Tefne a complexiTaTe Ta função F é a mesma To algoritmo clAssico 
+Te orTenação mergesort.
+//.   O numero Te cUamaTas recursivas Ta função F é 4 (log n).
+///.   O numero Te vezes que a função G Ta linUa 4 é cUamaTa é O(n log n).
+ correto o que se afrma em
+A  /,  apenas.
+B  //,  apenas.
+C  / e ///,  apenas.
+M  // e ///,  apenas.
+N  /,  // e ///.
+Area livre
+*R03201731*

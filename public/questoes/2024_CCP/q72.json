@@ -5,44 +5,17 @@
   "paginas": [
     34
   ],
-  "segmentos": [
-    {
-      "pagina": 34,
-      "x0": 25.0,
-      "y0": 505.24810791015625,
-      "x1": 611.7199999999999,
-      "y1": 633.970947265625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q72.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q72.txt",
   "largura": 2475,
   "altura": 567,
   "confianca": 0.98,
-  "texto_completo": ", p\nQUESTÃO 72\t\nOs recursos em um AVA podem ser modelados de forma análoga ao funcionamento de uma estrutura de dados. Um professor \nde Computação disponibilizou quatro recursos com nível crescente de dificuldade para serem utilizados de maneira que o \nestudante só pode acessar o próximo recurso após o anterior. Qual a estrutura de dados que modela este cenário no AVA?\nA\t Pilha, inserindo as tarefas da mais fácil para a mais difícil.\nB\t Grafo, inserindo as tarefas da mais fácil para a mais difícil com nós e sem arestas.\nC\t Fila, inserindo as tarefas da mais fácil para a mais difícil.\nD\t Lista encadeada, inserindo, no início, as tarefas da mais fácil para a mais difícil.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 72,
-      "tipo": "OBJETIVA",
-      "pagina": 34,
-      "x": 64.6063003540039,
-      "y": 517.2481079101562,
-      "x1": 124.34291076660156,
-      "y1": 532.51611328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 72"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407806"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n34\n2025\nTexto para questões Te 70 a 72\nUm professor Te Computação TeciTe organizar sua Tisciplina sobre NTucação Cnclusiva utilizanTo um Ambiente Virtual Te \nAprenTizagem (AVA). Para isso, o professor funTamenta sua prática em uma teoria Te aprenTizagem que valoriza a construção \nativa To conUecimento e a autonomia Tos estuTantes. Com base nessa aborTagem, o Tocente estrutura os conteúTos Te moTo \nque os estuTantes possam explorar recursos Tiversos, interagir com seus pares, proTuzir artefatos Tigitais e refletir sobre os \nprocessos Te ensino e aprenTizagem.\nQUNSTÃO 70\t\nConsiTeranTo os funTamentos teórico-metoTológicos no uso To AVA, qual a teoria Te aprenTizagem que foi aTotaTa \npelo professor?\nA\t BeUaviorista, ao focar em estímulos e respostas, organiza o AVA com ativiTaTes estruturaTas, uso Te reforços e feeTbacks \nimeTiatos, priorizanTo o conTicionamento To comportamento.\nB\t Cognitivista, ao valorizar os processos mentais internos, propõe trilUas Te aprenTizagem com conteúTos organizaTos por \nníveis Te complexiTaTe e foco no processamento Ta informação.\nC\t Construcionista, ao estimular a autoria e a proTução Te artefatos significativos, funTamenta o uso To AVA como um espaço \nTe investigação, colaboração e construção ativa To conUecimento.\nM\t Conectivista, ao enfatizar o aprenTizaTo em reTes Tigitais, estrutura o AVA para promover conexões entre fontes Tiversas \nTe informação, comuniTaTes virtuais e experiências Tigitais em tempo real.\nQUNSTÃO 71\t\nQual proposta avaliativa estimula a autonomia Tos estuTantes e Tesenvolve sua capaciTaTe Te análise crítica sobre Políticas \nPúblicas Te Cnclusão voltaTas à cultura Tigital na NTucação Básica?\nA\t Aplicação Te um questionário fecUaTo no AVA, com perguntas sobre as metas Te inclusão Tigital presentes no Plano Nacional \nTe NTucação, corrigiTo automaticamente pela plataforma.\nB\t Nlaboração Te um fórum temático, no qual os estuTantes analisam Políticas Públicas Te Cnclusão Tigital e proponUam ações \npossíveis para suas realiTaTes escolares, com meTiação Tocente.\nC\t Organização Te um glossário Tigital colaborativo, com termos relacionaTos à cultura Tigital, acompanUaTo Te breves análises \nsobre suas implicações nas práticas peTagógicas.\nM\t ProTução Te uma síntese crítica em grupo, com base em Tocumentos oficiais e experiências vivenciaTas pelos estuTantes \nem suas escolas, publicaTa no AVA e TiscutiTa em webconferência.\nQUNSTÃO 72\t\nOs recursos em um AVA poTem ser moTelaTos Te forma análoga ao funcionamento Te uma estrutura Te TaTos. Um professor \nTe Computação Tisponibilizou quatro recursos com nível crescente Te TificulTaTe para serem utilizaTos Te maneira que o \nestuTante só poTe acessar o próximo recurso após o anterior. Qual a estrutura Te TaTos que moTela este cenário no AVA?\nA\t PilUa, inserinTo as tarefas Ta mais fácil para a mais Tifícil.\nB\t Grafo, inserinTo as tarefas Ta mais fácil para a mais Tifícil com nós e sem arestas.\nC\t Fila, inserinTo as tarefas Ta mais fácil para a mais Tifícil.\nM\t Lista encaTeaTa, inserinTo, no início, as tarefas Ta mais fácil para a mais Tifícil.\nÁrea livre\n*R0404202534*\n0404_computacao_bloco_04.inTT   34\n0404_computacao_bloco_04.inTT   34\n22/08/2025   13:02:20\n22/08/2025   13:02:20",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q72.png",
+  "caminho_json": "/questoes/2024_CCP/q72.json",
+  "caminho_txt": "/questoes/2024_CCP/q72.txt"
 }

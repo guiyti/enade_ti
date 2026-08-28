@@ -5,44 +5,17 @@
   "paginas": [
     18
   ],
-  "segmentos": [
-    {
-      "pagina": 18,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 333.13623046875,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/qd05.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/qd05.txt",
   "largura": 2185,
   "altura": 1106,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO DISCURSIVA 05\t\nHá alguns anos, uma empresa automobilística enfrentava, nos Estados Unidos, um problema com \na gestão de dados. Os computadores da empresa geravam grandes quantidades de relatórios, mas \nnenhum direcionamento. Com isso, a administração da empresa era incapaz de exercer controle \nsobre todos esses documentos e, como consequência, não conseguia adotar estratégias e tomar \ndecisões data-oriented. Além disso, os números que apareciam nos documentos não eram exatos, \no que prejudicava também o setor de logística da empresa. A empresa, então, decidiu implementar o \nBusiness Intelligence (BI). O resultado foi impressionante. A Chief Information Officer (CIO) detectou que \nera necessário um data warehouse, isto é: um repositório central de dados históricos, com acesso ágil \nvia web. Além disso, foram adotadas novas ferramentas para efetuar o processamento, a exploração \ne a manipulação desses dados, por meio de um sistema em tempo real. Em pouco tempo, a empresa \nconseguiu otimizar o custo de fabricação dos automóveis e os fluxos de trabalho dos funcionários. \nO retorno sobre o investimento é o que mais impressiona: 506%.\nTURBAN, E. et al. Business Intelligence: um enfoque gerencial para inteligência do negócio. Porto Alegre: Bookman, 2009 (adaptado).\nConsiderando a situação apresentada e a importância do BI nas organizações, elenque dois objetivos \ndiretos que podem ser alcançados com um projeto. (valor: 10,0 pontos)",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 5,
-      "tipo": "DISCURSIVA",
-      "pagina": 18,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 157.49180603027344,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO DISCURSIVA 05"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Governança e Gestão de TI"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241284"
+  "texto_completo": "18\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO MCSCURSCVA 05\t\nHá alguns anos, uma empresa automobilística enfrentava, nos NstaTos UniTos, um problema com \na gestão Te TaTos. Os computaTores Ta empresa geravam granTes quantiTaTes Te relatórios, mas \nnenUum Tirecionamento. Com isso, a aTministração Ta empresa era incapaz Te exercer controle \nsobre toTos esses Tocumentos e, como consequência, não conseguia aTotar estratégias e tomar \nTecisões Tata-orienteT. Além Tisso, os números que apareciam nos Tocumentos não eram exatos, \no que prejuTicava também o setor Te logística Ta empresa. A empresa, então, TeciTiu implementar o \nBusiness Cntelligence (BC). O resultaTo foi impressionante. A CUief Cnformation Officer (CCO) Tetectou que \nera necessário um Tata wareUouse, isto é: um repositório central Te TaTos Uistóricos, com acesso ágil \nvia web. Além Tisso, foram aTotaTas novas ferramentas para efetuar o processamento, a exploração \ne a manipulação Tesses TaTos, por meio Te um sistema em tempo real. Nm pouco tempo, a empresa \nconseguiu otimizar o custo Te fabricação Tos automóveis e os fluxos Te trabalUo Tos funcionários. \nO retorno sobre o investimento é o que mais impressiona: 506%.\nTURBAN, N. et al. Business Cntelligence: um enfoque gerencial para inteligência To negócio. Porto Alegre: Bookman, 2009 (aTaptaTo).\nConsiTeranTo a situação apresentaTa e a importância To BC nas organizações, elenque Tois objetivos \nTiretos que poTem ser alcançaTos com um projeto. (valor: 10,0 pontos)\nRASCUNHO\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nÁrea livre\n*R29202118*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/qd05.png",
+  "caminho_json": "/questoes/2021_GTI/qd05.json",
+  "caminho_txt": "/questoes/2021_GTI/qd05.txt"
 }

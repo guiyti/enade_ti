@@ -5,44 +5,17 @@
   "paginas": [
     35
   ],
-  "segmentos": [
-    {
-      "pagina": 35,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 478.2929992675781,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q26.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q26.txt",
   "largura": 2185,
   "altura": 1711,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 26\t\nAs interfaces adaptativas realizam as adaptações e personalizações de forma automática e dinâmica \ndurante o processo de navegação, com base na aprendizagem da navegação e da interação do usuário. \nTécnicas de interfaces adaptativas podem ser utilizadas para adaptar interfaces às preferências do usuário, \nà sua capacidade cognitiva e ao seu estilo de navegação, tornando as interações mais naturais e atrativas. \nEssas técnicas de adaptação podem ser empregadas tanto para a reorganização dos objetos no ambiente, \ncomo para alterar a forma de apresentar informações. As adaptações podem ocorrer em diferentes níveis \nou de diferentes formas: adaptação de conteúdo, adaptação da navegação e adaptação da apresentação \ndo conteúdo. Cada um desses níveis de adaptação possui métodos e técnicas de adaptação próprios.\n NIENOW, A. L. Interfaces adaptativas no comércio eletrônico como facilitadoras da inclusão digital de idosos. \nRevista Tecnologia e Tendências, v. 9, n. 2, p. 116-136, 2017 (adaptado).\nConsiderando a construção de interfaces adaptativas na interação homem-computador, avalie as \nafirmações a seguir quanto aos níveis e técnicas de adaptação.\nI.\t No nível de conteúdo, podem-se considerar as técnicas de fragmentos de texto, fragmentos \ncondicionais, páginas variantes e abordagem baseada em frames.\nII.\t No nível de navegação, podem-se considerar as técnicas de layouts de página e guias de estilos.\nIII.\t No nível de apresentação, podem-se considerar as técnicas de orientação direta, anotação de links, \napresentação e ocultação e ordenação de links.\nÉ correto o que se afirma em\nA\t I, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t II e III, apenas.\nE\t I, II e III.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 26,
-      "tipo": "OBJETIVA",
-      "pagina": 35,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 26"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469329"
+  "texto_completo": "35\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 26\t\nAs interfaces aTaptativas realizam as aTaptações e personalizações Te forma automática e Tinâmica \nTurante o processo Te navegação, com base na aprenTizagem Ta navegação e Ta interação To usuário. \nTécnicas Te interfaces aTaptativas poTem ser utilizaTas para aTaptar interfaces às preferências To usuário, \nà sua capaciTaTe cognitiva e ao seu estilo Te navegação, tornanTo as interações mais naturais e atrativas. \nNssas técnicas Te aTaptação poTem ser empregaTas tanto para a reorganização Tos objetos no ambiente, \ncomo para alterar a forma Te apresentar informações. As aTaptações poTem ocorrer em Tiferentes níveis \nou Te Tiferentes formas: aTaptação Te conteúTo, aTaptação Ta navegação e aTaptação Ta apresentação \nTo conteúTo. CaTa um Tesses níveis Te aTaptação possui métoTos e técnicas Te aTaptação próprios.\n NCNNOP, A. L. Cnterfaces aTaptativas no comércio eletrônico como facilitaToras Ta inclusão Tigital Te iTosos. \nRevista Tecnologia e TenTências, v. 9, n. 2, p. 116-136, 2017 (aTaptaTo).\nConsiTeranTo a construção Te interfaces aTaptativas na interação Uomem-computaTor, avalie as \nafirmações a seguir quanto aos níveis e técnicas Te aTaptação.\nC.\t No nível Te conteúTo, poTem-se consiTerar as técnicas Te fragmentos Te texto, fragmentos \nconTicionais, páginas variantes e aborTagem baseaTa em frames.\nCC.\t No nível Te navegação, poTem-se consiTerar as técnicas Te layouts Te página e guias Te estilos.\nCCC.\t No nível Te apresentação, poTem-se consiTerar as técnicas Te orientação Tireta, anotação Te links, \napresentação e ocultação e orTenação Te links.\nÉ correto o que se afirma em\nA\t C, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t CC e CCC, apenas.\nN\t C, CC e CCC.\nÁrea livre\n*R02202135*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q26.png",
+  "caminho_json": "/questoes/2021_CCP/q26.json",
+  "caminho_txt": "/questoes/2021_CCP/q26.txt"
 }

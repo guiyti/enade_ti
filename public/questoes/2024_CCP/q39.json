@@ -5,44 +5,17 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 84.02613830566406,
-      "x1": 611.7199999999999,
-      "y1": 342.78839111328125,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q39.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q39.txt",
   "largura": 2475,
   "altura": 1108,
   "confianca": 0.98,
-  "texto_completo": "Texto para questões 39 e 40\nUm professor foi contratado como substituto para assumir as aulas de um professor de Computação afastado. Ao consultar \no planejamento, identificou uma atividade sobre modelagem de dados: “Desenvolva um Diagrama Entidade-Relacionamento \npara a seguinte situação: um autor pode escrever vários livros, e um livro pode ser escrito por vários autores”.\nPara que a atividade despertasse maior interesse e a curiosidade dos estudantes, o professor optou por dividi-la em quatro etapas:\n1.\tEnvio prévio de material sobre modelo entidade-relacionamento e orientação a objetos;\n2.\tRealização da atividade em sala;\n3.\tCompartilhamento dos diagramas produzidos para discussão e sugestões de melhoria entre os estudantes;\n4.\tPesquisa exploratória sobre diferentes formas de organizar dados de livros, utilizando uma grade de informações ou \nestruturas baseadas em características e comportamentos.\nQUESTÃO 39\t\nÉ possível afirmar que o professor pode avaliar no modelo entidade-relacionamento os conceitos de\nA\t organização e consistência de dados.\nB\t consultas de linguagem SQL e tuning.\nC\t restrição e integridade referencial.\nD\t chaves primária e estrangeira e cardinalidade.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 39,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 64.6063003540039,
-      "y": 246.40724182128906,
-      "x1": 124.34291076660156,
-      "y1": 261.67523193359375,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 39"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Banco de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404783"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n23\nCOMPUTAÇÃO\n2025\nTexto para questões 39 e 40\nUm professor foi contrataTo como substituto para assumir as aulas Te um professor Te Computação afastaTo. Ao consultar \no planejamento, iTentificou uma ativiTaTe sobre moTelagem Te TaTos: “Mesenvolva um Miagrama NntiTaTe-Relacionamento \npara a seguinte situação: um autor poTe escrever vários livros, e um livro poTe ser escrito por vários autores”.\nPara que a ativiTaTe Tespertasse maior interesse e a curiosiTaTe Tos estuTantes, o professor optou por TiviTi-la em quatro etapas:\n1.\tNnvio prévio Te material sobre moTelo entiTaTe-relacionamento e orientação a objetos;\n2.\tRealização Ta ativiTaTe em sala;\n3.\tCompartilUamento Tos Tiagramas proTuziTos para Tiscussão e sugestões Te melUoria entre os estuTantes;\n4.\tPesquisa exploratória sobre Tiferentes formas Te organizar TaTos Te livros, utilizanTo uma graTe Te informações ou \nestruturas baseaTas em características e comportamentos.\nQUNSTÃO 39\t\nÉ possível afirmar que o professor poTe avaliar no moTelo entiTaTe-relacionamento os conceitos Te\nA\t organização e consistência Te TaTos.\nB\t consultas Te linguagem SQL e tuning.\nC\t restrição e integriTaTe referencial.\nM\t cUaves primária e estrangeira e carTinaliTaTe.\nQUNSTÃO 40\t\nA quarta etapa proposta pelo professor favorece a compreensão sobre a\nA\tTiferença entre banco Te TaTos relacionais e orientaTos a objetos.\nB\t comunicação, utilização, configuração e instalação Te banco Te TaTos.\nC\t relação Te estrutura Te TaTos com algoritmos e lógica Te programação.\nM\t sintaxe Te consultas SQL como inserções, atualizações e exclusões.\nQUNSTÃO 41\t\nNo tema bancos Te TaTos relacionais, as metoTologias ativas poTem favorecer aborTagens peTagógicas para ensinar tanto \nos funTamentos Ta moTelagem Te TaTos e Ta teoria relacional, quanto UabiliTaTes práticas, como a criação Te Tiagramas \nentiTaTe-relacionamento e a elaboração Te consultas em SQL. Nm bancos Te TaTos orientaTos a objetos, ativiTaTes práticas \ncolaborativas poTem ser propostas para exercitar o armazenamento Te informações, Te acorTo com os princípios To paraTigma \nTe orientação a objetos.\nOs estuTantes analisaram os moTelos relacional e orientaTo a objetos em suas características. Qual alternativa representa a \njustificativa To grupo que TeciTiu utilizar um banco Te TaTos orientaTo a objetos?\nA\t Optamos por esse moTelo porque ele utiliza cUaves primárias e estrangeiras para estabelecer ligações entre Tiferentes estruturas.\nB\t NscolUemos esse moTelo porque ele permite representar TaTos em estruturas que encapsulam atributos e comportamentos.\nC\t MeciTimos por esse moTelo porque suas estruturas oferecem faciliTaTes em realizar operações como junção, intersecção e união.\nM\t Utilizamos esse moTelo porque ele é iTeal para normalizar TaTos e evitar reTunTâncias entre Tiferentes estruturas.\nÁrea livre\n*R0404202523*\nR04042025 - COMPUTACAO.inTb   23\nR04042025 - COMPUTACAO.inTb   23\n21/08/2025   10:06:42\n21/08/2025   10:06:42",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q39.png",
+  "caminho_json": "/questoes/2024_CCP/q39.json",
+  "caminho_txt": "/questoes/2024_CCP/q39.txt"
 }

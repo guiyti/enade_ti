@@ -1,24 +1,101 @@
-g
-ç
-;
-p
-ç
-p g
-QUESTÃO 49	
-Com base nas informações das duas escolas e na BNCC 
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+27
+COMPUTAÇÃO
+2025
+Texto para questões Te 48 a 51
+Muas escolas, A e B, localizaTas em regiões Tiferentes, 
+enfrentam Tesafios Tistintos no ensino Te algoritmos e 
+estruturas Te TaTos. A Nscola A possui um laboratório Te 
+informática equipaTo com computaTores inTiviTuais e acesso 
+à internet estável. Os estuTantes já tiveram contato com lógica 
+Te programação básica e noções introTutórias Te algoritmos, 
+como fluxogramas e pseuTocóTigo. Já na Nscola B, o acesso 
+à internet é instável e Uá apenas um laboratório com poucos 
+computaTores que precisam ser compartilUaTos em pequenos 
+grupos Te 5 estuTantes. Nsses estuTantes, no entanto, 
+Temonstram granTe interesse em tecnologia e criativiTaTe 
+para resolver problemas com os recursos Tisponíveis. A maioria 
+ainTa não teve aulas Te programação, mas já usou ferramentas 
+como planilUas.
+QUNSTÃO 48	
+Na elaboração Te uma ativiTaTe Te ensino Te vetores para 
+estuTantes To 7º ano To Nnsino FunTamental nas Tuas 
+escolas, propõe-se a elaboração Te uma ativiTaTe que integre 
+Tiferentes aborTagens TiTático-peTagógicas. Qual alternativa 
+representa Tuas aborTagens a serem utilizaTas Te forma 
+contextualizaTa nos processos Te ensino e aprenTizagem, 
+respectivamente, nas escolas A e B?
+A	 AprenTizagem BaseaTa em Projetos; Programação por Pares.
+B	AprenTizagem BaseaTa em Mesign; Gamificação.
+C	Rotação por Nstações; Programação em PytUon.
+M	 Programação em Blocos; Computação MesplugaTa. 
+QUNSTÃO 49	
+Com base nas informações Tas Tuas escolas e na BNCC 
 - Complemento Computação, qual alternativa apresenta a 
-abordagem para o ensino de conceitos de algoritmos que 
-seja coerente com os contextos de cada escola e as etapas de 
+aborTagem para o ensino Te conceitos Te algoritmos que 
+seja coerente com os contextos Te caTa escola e as etapas Te 
 escolarização?
-A	 Aprendizagem Baseada em Projetos para o ensino de 
-algoritmos de inserção, remoção e busca para estudantes 
-da Escola A, do 6º ano do Ensino Fundamental.
-B	 Rotação por Estações para o ensino de algoritmos de 
-inserção, remoção e busca para estudantes da Escola B, 
-do 6º ano do Ensino Fundamental.
-C	 Gamificação para o ensino de algoritmos de inserção, 
-remoção e busca para estudantes da Escola A, do 8º ano 
-do Ensino Fundamental.
-D	 Programação por Pares para o ensino de algoritmos de 
-inserção, remoção e busca para estudantes da Escola B, 
-do 8º ano do Ensino Fundamental.
+A	 AprenTizagem BaseaTa em Projetos para o ensino Te 
+algoritmos Te inserção, remoção e busca para estuTantes 
+Ta Nscola A, To 6º ano To Nnsino FunTamental.
+B	 Rotação por Nstações para o ensino Te algoritmos Te 
+inserção, remoção e busca para estuTantes Ta Nscola B, 
+To 6º ano To Nnsino FunTamental.
+C	 Gamificação para o ensino Te algoritmos Te inserção, 
+remoção e busca para estuTantes Ta Nscola A, To 8º ano 
+To Nnsino FunTamental.
+M	 Programação por Pares para o ensino Te algoritmos Te 
+inserção, remoção e busca para estuTantes Ta Nscola B, 
+To 8º ano To Nnsino FunTamental.
+Área livre
+QUNSTÃO 50	
+ConsiTeranTo as especificiTaTes Te caTa escola e Te seus 
+estuTantes, qual alternativa apresenta uma aborTagem 
+metoTológica alinUaTa às características Ta AprenTizagem 
+BaseaTa em Projetos para o ensino Te algoritmos Te orTenação?
+A	 Na Nscola A, propor o Tesenvolvimento, pelos estuTantes, 
+Te algoritmos para organizar TaTos reais, como listas Te 
+livros Ta biblioteca, utilizanTo linguagens Te programação. 
+Na Nscola B, os estuTantes poTem criar simulaTores com 
+objetos manuais, como jogos Te cartas, representanTo o 
+funcionamento Te algoritmos Te orTenação.
+B	 Na Nscola A, propor uma competição entre os estuTantes 
+para verificar suas UabiliTaTes na implementação Te 
+algoritmos Te orTenação mais eficientes. Na Nscola B, 
+organizar Tesafios para orTenar objetos físicos, como 
+ficUas ou papéis, simulanTo os algoritmos Te orTenação 
+e apresentar as estratégias usaTas.
+C	 Na Nscola A, propor o Tesenvolvimento Te ativiTaTes 
+práticas baseaTas em repetição Te cóTigos no laboratório, 
+visanTo a fixação Tos algoritmos Te orTenação por meio 
+Te linguagens Te programação. Na Nscola B, sugerir que os 
+estuTantes criem murais explicativos com os passos Tos 
+algoritmos, utilizanTo materiais recicláveis.
+M	 Na Nscola A, propor a realização Te uma sequência Te 
+oficinas, em que os estuTantes explorem Tiferentes 
+algoritmos Te orTenação, com exercícios guiaTos. 
+Na Nscola B, propor ativiTaTes em que os estuTantes, em 
+grupos, pesquisem algoritmos Te orTenação, com base em 
+exemplos To munTo real, TiscutinTo como eles funcionam.
+QUNSTÃO 51	
+ConsiTeranTo o contexto Tas escolas, qual a aborTagem que 
+representa uma estratégia TiTático-peTagógica que utiliza a 
+Computação MesplugaTa para o ensino Te vetores?
+A	 Promover uma sequência Te passos Te Tança com 
+comanTos repetitivos, como “Repita 3 vezes: pular, girar, 
+bater palmas”.
+B	 Organizar uma ativiTaTe em que os estuTantes fiquem em 
+fila e manipulem cartões numéricos, simulanTo inserção, 
+exclusão e acesso por ínTice.
+C	 Criar cartões com conTições To tipo: “Se o estuTante estiver 
+usanTo camisa azul, então pule para a frente”, para que 
+sigam comanTos baseaTos em conTições.
+M	 Solicitar que o estuTante Tê instruções precisas, como se 
+programasse um robô, para que outro colega monte um 
+sanTuícUe, onTe caTa passo precisa estar em orTem lógica.
+Área livre
+*R0404202527*
+0404_computacao_bloco_04.inTT   27
+0404_computacao_bloco_04.inTT   27
+22/08/2025   13:02:05
+22/08/2025   13:02:05

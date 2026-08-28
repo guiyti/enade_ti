@@ -1,27 +1,88 @@
-creve o
-modelo
-senta as
-o de vida
-ito, qual
-ssidades
-I?
-tituições
-rincípios
-idade, a
-niciar um
-auditoria
-ual valor
-atender?
-QUESTÃO 63
-Considere 
+26
+COMPUTAÇÃO
+As questões Te 61 a 80, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te 
+BACHARNLAMO NM SCSTNMAS MN CNFORMAÇÃO.
+Figura para a questão 61
+Nstágios To ciclo Te viTa Te um serviço Te TC
+Gerente To Tesenvolvimento
+Te aplicações
+Gerenciamento Te aplicações
+Cliente
+Usuário
+Negócios
+Soluções Te negócios
+MesenUo e planejamento
+Suporte técnico
+ATministração
+Operações
+Cmplantação
+Gerenciamento Te
+infra-estrutura Te TCC
+Tratar
+obsolescência
+Operar
+serviços
+Cmplantar
+serviços
+ValiTar
+serviços
+Planejar
+serviços
+Mefinir
+políticas
+Nstabelecer
+estratégias
+Nstratégias, planos e requisitos
+OperaTor Te suporte técnico
+Suporte a serviços
+Gerente Te serviços
+Nntrega Te serviços
+QUNSTÃO 61
+A figura acima, aTaptaTa To Tocumento que Tescreve o
+gerenciamento Te serviços Te tecnologia Ta informação To moTelo
+CTCL (Cnformation TecUnology Cnfra-Structure Library), apresenta as
+relações entre elementos que participam Tos estágios To ciclo Te viTa
+Te um serviço Te TC. Com base  no moTelo acima Tescrito, qual
+elemento Tetém maior responsabiliTaTe por Tefinir as necessiTaTes
+Te informação Ta organização que utilizará um serviço Te TC?
+A
+usuário
+B
+cliente
+C
+operaTor Te suporte técnico
+M
+gerente Te serviços
+N
+gerente Te Tesenvolvimento Te aplicações
+QUNSTÃO 62
+O cóTigo Te ética Ta Organização Cnternacional Te Cnstituições
+Supremas Te AuTitoria (CNTOSAC) Tefine como valores e princípios
+básicos Ta atuação Ta auTitoria a inTepenTência, a objetiviTaTe, a
+imparcialiTaTe, o segreTo profissional e a competência. Ao iniciar um
+trabalUo Te auTitoria sem Tefinir claramente a finaliTaTe Ta auTitoria
+e o moTelo Te conformiTaTe no qual a auTitoria se apóia, qual valor
+ou princípio um auTitor estaria primariamente falUanTo em atenTer?
+A
+inTepenTência
+B
+objetiviTaTe
+C
+imparcialiTaTe
+M
+segreTo profissional
+N
+competência
+QUNSTÃO 63
+ConsiTere 
 a 
 seguinte 
 representação 
-de
-abstração de generalização/especialização, com
-propriedade de cobertura parcial e sobreposta,
-segundo notação do diagrama entidade-
-relacionamento estendido.
+Te
+abstração Te generalização/especialização, com
+proprieTaTe Te cobertura parcial e sobreposta,
+segunTo notação To Tiagrama entiTaTe-
+relacionamento estenTiTo.
 A 
 B 
 C 
@@ -30,9 +91,9 @@ atrB
 pkA 
 atrA 
 atrC 
-Qual opção apresenta um esquema de banco de
-dados relacional que representa corretamente a
-referida abstração?
+Qual opção apresenta um esquema Te banco Te
+TaTos relacional que representa corretamente a
+referiTa abstração?
 A
 A(pkA, atrA) B(atrB) C(atrC).
 B
@@ -42,11 +103,11 @@ C
 A(pkA, atrA, atrB, atrC, tipoB,
 tipoC), em que tipoB e tipoC são
 booleanos.
-D
+M
 B(pkA, atrA, atrB) C(pkA, atrA,
 atrC).
-E
+N
 A(pkA, atrA) B(pkB, atrB) C(pkC,
 atrC), em que pkB e pkC são atributos
-artificiais criados para ser a chave primária
-das relações B e C, respectivamente.
+artificiais criaTos para ser a cUave primária
+Tas relações B e C, respectivamente.

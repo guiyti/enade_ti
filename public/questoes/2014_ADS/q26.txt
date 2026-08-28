@@ -1,35 +1,147 @@
-QUESTÃO 26
-K ƐĞƌǀŝĕŽ DE^ ;DŽŵĂŝŶ EĂŵĞ ^ǇƐƚĞŵͿ ƚƌĂĚƵǌ ŶŽŵĞƐ 
-ĂůĨĂŶƵŵĠƌŝĐŽƐ  ĚĞ  hosts  Ğŵ  ĞŶĚĞƌĞĕŽƐ  ŶƵŵĠƌŝĐŽƐ͕  
-ĚĞ  ĂĐŽƌĚŽ  ĐŽŵ  Ž  ƉƌŽƚŽĐŽůŽ  /W  ;/ŶƚĞƌŶĞƚ  WƌŽƚŽĐŽůͿ͘  
-EƐƐĂ ĂĕĆŽ Ġ ĐŽŵƵŵĞŶƚĞ ĐŚĂŵĂĚĂ ĚĞ ƌĞƐŽůƵĕĆŽ ĚĞ 
-ĞŶĚĞƌĞĕŽ͘
-d EEE hD͕   ͘  ^͘  Redes de Computadores.
-ZŝŽ ĚĞ :ĂŶĞŝƌŽ͗  IĂŵƉƵƐ͕  2003 ;ĂĚĂƉƚĂĚŽͿ͘
-IŽŶƐŝĚĞƌĞ 
-Ƶŵ 
-ĐŽŶũƵŶƚŽ 
-ĚĞ 
-ĐŽŵƉƵƚĂĚŽƌĞƐ 
-ĐŽŶĞĐƚĂĚŽƐ  Ğŵ  ƵŵĂ  ƌĞĚĞ  ůŽĐĂů͕   ŽƐ  ƋƵĂŝƐ  ƚġŵ  ă 
-ƐƵĂ ĚŝƐƉŽƐŝĕĆŽ Ƶŵ ƐĞƌǀŝĚŽƌ DE^ ĐĂƉĂǌ ĚĞ ƌĞƐŽůǀĞƌ 
-ĞŶĚĞƌĞĕŽƐ͕  ƐĞũĂŵ ĞůĞƐ ŝŶƚĞƌŶŽƐ ŽƵ ĞǆƚĞƌŶŽƐ͘
-EĞƐƐĞ ĐŽŶƚĞǆƚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   K ƐĞƌǀŝĚŽƌ DE^ ƚĂŵďĠŵ ĞǆĞĐƵƚĂ ĨƵŶĕƁĞƐ ĚĞ 
-ĐůŝĞŶƚĞ  DE^  ƋƵĂŶĚŽ  ŶĆŽ  Ġ  ĂƵƚŽƌŝƚĂƟǀŽ  ƉĂƌĂ 
-ĚĞƚĞƌŵŝŶĂĚŽ ĞŶĚĞƌĞĕŽ͘
-//͘     ĂĚŽĕĆŽ ĚŽ /Wǀ6 ;/ŶƚĞƌŶĞƚ WƌŽƚŽĐŽů͕  ǀĞƌƐĆŽ 6Ϳ 
-ĚŝƐƉĞŶƐĂƌĄ ƐĞƌǀŝĕŽƐ ĚĞ DE^͕  ƉŽŝƐ ƐƵĂƐ ĨƵŶĕƁĞƐ 
-ƐĞƌĆŽ ŝŶĐŽƌƉŽƌĂĚĂƐ ƉĞůŽ ƉƌſƉƌŝŽ ƉƌŽƚŽĐŽůŽ /W͘
-///͘   K  ĐĂĐŚĞ  DE^  ƉĞƌŵŝƚĞ  ƋƵĞ  ĚĞƚĞƌŵŝŶĂĚĂ 
-ƌĞƋƵŝƐŝĕĆŽ ĚŽ ĐůŝĞŶƚĞ DE^ ƉŽƐƐĂ ƐĞƌ ƌĞƐŽůǀŝĚĂ 
-ƐĞŵ  ƋƵĞ  ƐĞũĂ  ŶĞĐĞƐƐĄƌŝŽ  ƌĞĐŽƌƌĞƌ  Ă  ŽƵƚƌŽ 
-ƐĞƌǀŝĕŽ DE^͘
-/s͘   K  ƉƌŽƚŽĐŽůŽ  DE^  ĚĞƉĞŶĚĞ  ĚĞ  Ƶŵ  ďĂŶĐŽ  ĚĞ 
-ĚĂĚŽƐ ĚŝƐƚƌŝďƵşĚŽ͘
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A / Ğ //͘
-B / Ğ ///͘
-C // Ğ /s͘
-D /͕  /// Ğ /s͘
-E //͕  /// Ğ /s͘
+21
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 24
+O ZUP (Zational UnifeT Process) é subTiviTiTo em 
+&ases,  que inTicam a gnfase que é TaTa ao proũeto 
+em um TaTo instante,  e em &luxos Te trabalUo,  que 
+Tefnem os grupos Te ativiTaTes a serem realizaTas 
+ao longo Tas fases.
+ConsiTeranTo que no Tesenvolvimento Te soŌǁare
+utilizam-se  técnicas  Te  anAlise  e  proũeto  orientaTo 
+a  obũetos  e  que  as  ativiTaTes  seũam  TistribuíTas 
+Te acorTo com o ZUP, o momento que Tevem ser 
+elaboraTos os Tiagramas Te classes e Te interação 
+entre os obũetos To sistema é
+A na fase Te Concepção,  no Ňuxo Te MoTelagem Te 
+negocios.
+B na  fase  Te  Nlaboração,   no  Ňuxo  Te   nAlise  e 
+Mesign.
+C na  fase  Te  Concepção,   no  Ňuxo  Te   nAlise  e 
+Mesign.
+M na fase Te Nlaboração,  no Ňuxo Te Zequisitos.
+N na fase Te Concepção,  no Ňuxo Te Zequisitos.
+QUNSTÃO 25
+  engenUaria Te soŌǁare consiTera Tiversos aspectos 
+para a garantia Ta qualiTaTe.  Os requisitos funcionais 
+Tefnem  como  um  sistema  TeverA  se  comportar 
+em  relação  as  suas  funcionaliTaTes  bAsicas,   ũA  os 
+requisitos não funcionais avaliam outros aspectos To 
+soŌǁare.
+São exemplos Te requisitos não funcionais a serem 
+consiTeraTos em um soŌǁare:
+A segurança,  TesempenUo,  estresse e sistema.
+B usabiliTaTe,  segurança,  aceitação e confabiliTaTe.
+C usabiliTaTe,  
+segurança,  
+TesempenUo 
+e 
+confabiliTaTe.
+M segurança,  
+aceitação,  
+testabiliTaTe 
+e 
+confTencialiTaTe.
+N usabiliTaTe,  
+confTencialiTaTe,  
+aceitação 
+e 
+confabiliTaTe.
+QUNSTÃO 26
+O serviço MNS (Momain Name SǇstem) traTuz nomes 
+alfanuméricos  Te  Uosts  em  enTereços  numéricos,  
+Te  acorTo  com  o  protocolo  /P  (/nternet  Protocol).  
+Nssa ação é comumente cUamaTa Te resolução Te 
+enTereço.
+T NNNB UM,   .  S.  ReTes Te ComputaTores.
+Zio Te :aneiro:  Campus,  2003 (aTaptaTo).
+ConsiTere 
+um 
+conũunto 
+Te 
+computaTores 
+conectaTos  em  uma  reTe  local,   os  quais  tgm  a 
+sua Tisposição um serviTor MNS capaz Te resolver 
+enTereços,  seũam eles internos ou externos.
+Nesse contexto,  avalie as afrmações a seguir.
+/.   O serviTor MNS também executa funções Te 
+cliente  MNS  quanTo  não  é  autoritativo  para 
+TeterminaTo enTereço.
+//.     aToção To /Pv6 (/nternet Protocol,  versão 6) 
+TispensarA serviços Te MNS,  pois suas funções 
+serão incorporaTas pelo proprio protocolo /P.
+///.   O  cacUe  MNS  permite  que  TeterminaTa 
+requisição To cliente MNS possa ser resolviTa 
+sem  que  seũa  necessArio  recorrer  a  outro 
+serviço MNS.
+/s.   O  protocolo  MNS  TepenTe  Te  um  banco  Te 
+TaTos TistribuíTo.
+ correto apenas o que se afrma em
+A / e //.
+B / e ///.
+C // e /s.
+M /,  /// e /s.
+N //,  /// e /s.
+ÁRNA LCVRN
+*R40201421*
+
+22
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO 27
+O barramento é o elemento Te conexão entre toTos 
+os  componentes  To  computaTor,   como  memoria,  
+CPU e Tispositivos Te entraTa e saíTa.  O barramento 
+Te  TaTos  é  o  meio  por  onTe  serão  trafegaTos  os 
+TaTos͖   o  barramento  Te  enTereços  transporta  a 
+informação To enTereço To Tispositivo que poTerA 
+acessar o barramento Te TaTos͖  e o barramento Te 
+controle serve para Teterminar o sentiTo To Ňuxo Te 
+TaTos (se os TaTos são Te entraTa ou saíTa Ta CPU),  
+e se os TaTos Tevem ser TestinaTos a memoria ou a 
+Tispositivos Te /ͬ O e também para controlar o clock
+no barramento.
+ST >>/N'S,  t.  Arquitetura e Organização Te ComputaTores.  8 eT.  
+São Paulo:  Pearson Pratice ,all,  2010 (aTaptaTo).
+ConsiTeranTo um computaTor com um barramento 
+Te TaTos Te 4 bits e barramento Te enTereços Te 3 
+bits,  ele poTerA enTereçar,  respectivamente,  quantas 
+posições Te memoria e quantos Tispositivos Te /ͬ O͍
+A 4 e 4.
+B 4 e 8.
+C 8 e 3.
+M 8 e 4.
+N 8 e 8.
+ÁRNA LCVRN
+QUNSTÃO 28
+   verifcação  e  a  valiTação  Te  uma  interface  Te 
+usuArio  ocorre  em  trgs  pontos  Tistintos:   anAlise,  
+proũeto  e  teste.   ConsiTeranTo  um  cenArio  Te  uma 
+aplicação  web,   tal  verifcação  poTe  ser  realizaTa 
+através Te testes Te interface,  testes Te usabiliTaTe 
+e testes Te compatibiliTaTe.
+PZNSSM N,  Z.  NngenUaria Te SoŌǁare:  Uma  borTagem 
+Profssional,  7 eT.,  Mc 'raǁ ,ill,  2011 (aTaptaTo).
+Nesse contexto,  avalie as afrmações a seguir.
+/.   O teste Te interface experimenta mecanismos 
+Te  interação  e  valiTa  aspectos  estéticos 
+Ta  interface  To  usuArio,   apontanTo  erros 
+específcos  Te  interface  e  erros  na  maneira 
+como a interface implementa as semanticas 
+Te navegação,  funcionaliTaTe ou exibição Te 
+conteuTo.
+//.   O teste Te usabiliTaTe avalia o grau com o qual 
+os  usuArios  poTem  interagir  efetivamente 
+com a aplicação e o grau em que a aplicação 
+Tirige as ações To usuArio.
+///.   O primeiro passo no teste Te compatibiliTaTe 
+é  Tefnir  uma  série  Te  confgurações  ơpicas 
+encontraTas To laTo cliente e suas respectivas 
+variantes,   iTentifcanTo  características  como 
+plataforma,  sistema operacional e navegaTor.
+ correto o que se afrma em
+A /,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R40201422*

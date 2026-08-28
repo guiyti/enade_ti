@@ -5,44 +5,17 @@
   "paginas": [
     27
   ],
-  "segmentos": [
-    {
-      "pagina": 27,
-      "x0": 25.0,
-      "y0": 307.91058349609375,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q18.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q18.txt",
   "largura": 2185,
   "altura": 1746,
   "confianca": 0.98,
-  "texto_completo": "E\nç\np\np\nç\nQUESTÃO 18\t\nAs técnicas de aprendizado de máquinas empregam um princípio de inferência denominado indução, \nno qual é possível obter conclusões genéricas a partir de um conjunto particular de exemplos. \nEstas técnicas de aprendizados indutivos podem ser divididas em dois principais tipos: os supervisionados \ne os não supervisionados. No aprendizado supervisionado é fornecida uma referência do objetivo a ser \nalcançado, isto é, um treinamento com o conhecimento do ambiente. Diferentemente do aprendizado \nsupervisionado, o não supervisionado não utiliza referências, ou seja, não ocorre um treinamento com o \nconhecimento do ambiente.\nPELLUCCI P. R. S. et al. Utilização de técnicas de aprendizado de máquina no reconhecimento de entidades nomeadas no português. \nBelo Horizonte. E-xacta, v. 4, n. 1, p. 73-81, 2011 (adaptado).\nConsiderando as informações do texto, avalie as afirmações a seguir.\nI.\t A regressão linear é um exemplo de modelo baseado no aprendizado supervisionado.\nII.\t A diferença entre a saída desejada e a saída gerada é o valor do erro de um aprendizado não \nsupervisionado.\nIII.\t O aprendizado não supervisionado é mais utilizado quando o entendimento dos dados é feito por \nmeio de reconhecimento de padrões.\nIV.\t O aprendizado supervisionado é capaz de tomar decisões precisas ao receber novos dados a \npartir de um treinamento com dados conhecidos.\nÉ correto apenas o que se afirma em\nA\t I e III.\nB\t II e III.\nC\t II e IV.\nD\t I, II e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 18,
-      "tipo": "OBJETIVA",
-      "pagina": 27,
-      "x": 29.739791870117188,
-      "y": 319.91058349609375,
-      "x1": 94.91178131103516,
-      "y1": 333.66259765625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 18"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469296"
+  "texto_completo": "27\nCCÊNCCA MA COMPUTAÇÃO\nConsiTeranTo o texto e a figura apresentaTos, avalie as asserções a seguir e a relação proposta entre elas.\nC.\t Nm algumas situações, a exclusão mútua poTe ser obtiTa por meio Ta Tesabilitação Ta interrupção \ncontrolaTa pelo Sistema Operacional, não senTo permitiTo que o seu controle seja feito pelo usuário.\nPORQUN\nCC.\t A Tesabilitação Ta interrupção é uma técnica que poTe impeTir que o processaTor que está \nexecutanTo um processo em sua região crítica seja interrompiTo para executar outro cóTigo, senTo \nmais eficiente em sistemas Te multiprocessaTores TeviTo a quantiTaTe Te processos concorrentes.\nA respeito Tessas asserções, assinale a opção correta.\nA\t As asserções C e CC são proposições verTaTeiras, e a CC é uma justificativa correta Ta C.\nB\t As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justificativa correta Ta C.\nC\t A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.\nM\t A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.\nN\t As asserções C e CC são proposições falsas.\nQUNSTÃO 18\t\nAs técnicas Te aprenTizaTo Te máquinas empregam um princípio Te inferência TenominaTo inTução, \nno qual é possível obter conclusões genéricas a partir Te um conjunto particular Te exemplos. \nNstas técnicas Te aprenTizaTos inTutivos poTem ser TiviTiTas em Tois principais tipos: os supervisionaTos \ne os não supervisionaTos. No aprenTizaTo supervisionaTo é forneciTa uma referência To objetivo a ser \nalcançaTo, isto é, um treinamento com o conUecimento To ambiente. Miferentemente To aprenTizaTo \nsupervisionaTo, o não supervisionaTo não utiliza referências, ou seja, não ocorre um treinamento com o \nconUecimento To ambiente.\nPNLLUCCC P. R. S. et al. Utilização Te técnicas Te aprenTizaTo Te máquina no reconUecimento Te entiTaTes nomeaTas no português. \nBelo Horizonte. N-xacta, v. 4, n. 1, p. 73-81, 2011 (aTaptaTo).\nConsiTeranTo as informações To texto, avalie as afirmações a seguir.\nC.\t A regressão linear é um exemplo Te moTelo baseaTo no aprenTizaTo supervisionaTo.\nCC.\t A Tiferença entre a saíTa TesejaTa e a saíTa geraTa é o valor To erro Te um aprenTizaTo não \nsupervisionaTo.\nCCC.\t O aprenTizaTo não supervisionaTo é mais utilizaTo quanTo o entenTimento Tos TaTos é feito por \nmeio Te reconUecimento Te paTrões.\nCV.\t O aprenTizaTo supervisionaTo é capaz Te tomar Tecisões precisas ao receber novos TaTos a \npartir Te um treinamento com TaTos conUeciTos.\nÉ correto apenas o que se afirma em\nA\t C e CCC.\nB\t CC e CCC.\nC\t CC e CV.\nM\t C, CC e CV.\nN\t C, CCC e CV.\n*R02202127*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q18.png",
+  "caminho_json": "/questoes/2021_CCP/q18.json",
+  "caminho_txt": "/questoes/2021_CCP/q18.txt"
 }

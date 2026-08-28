@@ -1,6 +1,10 @@
-QUESTÃO DISCURSIVA 4 
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+20
+QUNSTÃO MCSCURSCVA 4 
  
-Considerando a execução do algoritmo abaixo, responda ao que se pede nos itens a e b.
+ConsiTeranTo a execução To algoritmo abaixo, responTa ao que se peTe nos itens a e b.
 01
 algoritmo Vetores
 02
@@ -39,5 +43,22 @@ inicio
      fimpara
 19
 fimalgoritmo
-a) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 12. (valor: 5,0 pontos)
-b) Apresente os dados dos vetores vetA e vetB ao término da execução da linha 19. (valor: 5,0 pontos)
+a) Apresente os TaTos Tos vetores vetA e vetB ao término Ta execução Ta linUa 12. (valor: 5,0 pontos)
+b) Apresente os TaTos Tos vetores vetA e vetB ao término Ta execução Ta linUa 19. (valor: 5,0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*A25201120*

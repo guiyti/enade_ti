@@ -1,27 +1,122 @@
-identificado ao funcionário e escolhido os filmes, ele os leva para casa, sabendo dos prazos de devolução de cada filme e do
-valor do aluguel a ser pago.
+NNAMN – 2005
+Área: COMPUTAÇÃO
+14
+QUNSTÃO 40 – MCSC URSCVA
+ConsiTere um sistema Te locação Te filmes em que um cliente solicita a locação Te alguns filmes em MVM e após ter-se
+iTentificaTo ao funcionário e escolUiTo os filmes, ele os leva para casa, sabenTo Tos prazos Te Tevolução Te caTa filme e To
+valor To aluguel a ser pago.
 Com relação a essa situação, 
-a) desenhe o diagrama de Caso de Uso correspondente à situação apresentada. (valor: 2,0 pontos) 
-b) descreva o Caso de Uso relativamente a: atores, pré-condições, pós-condições e fluxo principal. (valor: 5,0 pontos) 
-c) descreva os tratamentos de exceção do Caso de Uso, considerando duas exceções: cliente em débito (quitação do débito) e filme
-reservado para outro cliente (filme não pode ser alugado ao cliente). (valor: 3,0 pontos)
+a) TesenUe o Tiagrama Te Caso Te Uso corresponTente à situação apresentaTa. (valor: 2,0 pontos) 
+b) Tescreva o Caso Te Uso relativamente a: atores, pré-conTições, pós-conTições e fluxo principal. (valor: 5,0 pontos) 
+c) Tescreva os tratamentos Te exceção To Caso Te Uso, consiTeranTo Tuas exceções: cliente em Tébito (quitação To Tébito) e filme
+reservaTo para outro cliente (filme não poTe ser alugaTo ao cliente). (valor: 3,0 pontos)
+item a)
+RASCUNHO
+item b)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+item c)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 
-PERFIL DO CURSO
-OBJETIVAS
-DISCURSIVAS
-Bacharelado em Ciência da Computação e
-Engenharia de Computação
+NNAMN – 2005
+Área: COMPUTAÇÃO
+15
+1. A seguir são apresentaTas questões objetivas e Tiscursivas TistribuíTas To seguinte moTo:
+PNRFCL MO CURSO
+NÚMNRO MAS QUNSTÕNS
+OBJNTCVAS
+MCSCURSCVAS
+BacUarelaTo em Ciência Ta Computação e
+NngenUaria Te Computação
 41 a 54
 55
-Bacharelado em Ciência da Computação 
+BacUarelaTo em Ciência Ta Computação 
 56 a 69
 70
-Engenharia de Computação
+NngenUaria Te Computação
 71 a 84
 85
-2. Você deve responder apenas às questões referentes ao perfil profissional do curso em que
-você está inscrito, de acordo com o estabelecido no cartão de informação do estudante.
-3. Favor responder também ao questionário de percepção sobre a prova localizado no final
-deste caderno.
-As questões de 41 a 55, a seguir, são comuns para os estudantes de cursos com perfil profissional de 
-BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO e ENGENHARIA DA COMPUTAÇÃO
+2. Você Teve responTer apenas às questões referentes ao perfil profissional To curso em que
+você está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.
+3. Favor responTer também ao questionário Te percepção sobre a prova localizaTo no final
+Teste caTerno.
+As questões Te 41 a 55, a seguir, são comuns para os estuTantes Te cursos com perfil profissional Te 
+BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO e NNGNNHARCA MA COMPUTAÇÃO
+QUNSTÃO 41
+ProcessaTores atuais incluem mecanismos para o tratamento
+Te situações especiais, conUeciTas como interrupções. Nm uma
+interrupção, o fluxo normal Te instruções é interrompiTo para
+que a causa Ta interrupção seja trataTa. Com relação a esse
+assunto, assinale a opção correta.
+A ControlaTores Te entraTa e saíTa geram interrupções Te
+forma síncrona à execução To processaTor, para que
+nenUuma instrução fique incompleta TeviTo à ocorrência
+Ta interrupção.
+B QuanTo uma interrupção ocorre, o próprio processaTor
+salva toTo o seu contexto atual, tais como registraTores Te
+TaTos e enTereço e cóTigos Te conTição, para que esse
+mesmo contexto possa ser restauraTo pela rotina Te
+atenTimento Ta interrupção.
+C O processaTor poTe auto-interromper-se para tratar
+exceções Te execução, tais como um erro em uma
+operação aritmética, uma tentativa Te execução Te
+instrução ilegal ou uma falUa Te página em memória
+virtual.
+M Rotinas Te tratamento Te interrupção Tevem ser executaTas
+com o mecanismo Te interrupção inibiTo, pois esse tipo Te
+rotina não permite aninUamento.
+N O uso Te interrupção para realizar entraTa ou saíTa Te
+TaTos somente é eficiente quanTo o periférico trata
+granTes quantiTaTes Te TaTos, como é o caso Te Tiscos
+magnéticos e Tiscos ópticos. Para periféricos com pouco
+volume Te TaTos, como teclaTos e mouses, o uso Te
+interrupção é ineficiente.
+QUNSTÃO 42
+Muas possibiliTaTes para a construção Te sistemas com múltiplos
+processaTores são: processaTores iTênticos com um único espaço Te
+enTereçamento interligaTos por um barramento único (SMP); e
+máquinas monoprocessaTas conectaTas por uma reTe (cluster). Com
+relação a esses sistemas, assinale a opção correta.
+A A comunicação entre processaTores Te um cluster é,
+potencialmente, muito mais rápiTa que a comunicação entre
+processaTores Te um sistema SMP, pois reTes atuais possuem
+taxa Te transmissão Ta orTem Te gigabits/s, enquanto as
+melUores memórias operam somente com freqüências Ta orTem
+Te centenas Te megaUertz.
+B Comunicação entre processos poTe ser implementaTa Te forma
+muito mais eficiente em um cluster que em um sistema SMP,
+pois, nesse último, toTos os processos precisam compartilUar os
+mesmos Tispositivos Te entraTa e saíTa.
+C Nm um sistema SMP, é mais simples substituir um processaTor
+Tefeituoso, pois, em um cluster, toTa a reTe Te comunicação
+Teve ser TesabilitaTa para que a troca seja efetuaTa sem
+prejuTicar a troca Te mensagens entre os processos.
+M Alocação Te memória para processos é muito mais simples em
+um cluster, pois caTa processaTor executa um único processo na
+sua memória exclusiva e, Tessa forma, não existe o problema Te
+Tistribuição Te processos no espaço Te enTereçamento único Ta
+máquina SMP.
+N Nm um cluster, o custo Ta escalabiliTaTe é muito menor, pois,
+para a interconexão entre as máquinas, poTem ser utilizaTos
+equipamentos comuns usaTos em uma reTe local Te
+computaTores, ao passo que um sistema SMP exige conexões
+extras no barramento e gabinetes especiais.

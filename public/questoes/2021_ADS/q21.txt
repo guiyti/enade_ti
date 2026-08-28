@@ -1,19 +1,23 @@
-QUESTÃO 21	
-No decorrer de um projeto de desenvolvimento de software é compreensível que mudanças venham 
-a ocorrer, sejam por novos entendimentos dos atores envolvidos ou até mesmo de novas demandas 
-apresentadas pelos clientes. Nesta perspectiva, a Gestão de Configuração de Software estabelece 
-um conjunto de atividades para gerenciar alterações através de todo o ciclo de vida de um software.
-PRESSMAN, R. S. Engenharia de Software: uma abordagem profissional. 8. ed. 
-Porto Alegre: Artmed Editora S.A. e McGraw-Hill Education, 2016 (adaptado).
-Com base no texto, assinale a opção correta acerca das atividades de gestão de configuração de 
+29
+TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS
+QUNSTÃO 21	
+No Tecorrer Te um projeto Te Tesenvolvimento Te software é compreensível que muTanças venUam 
+a ocorrer, sejam por novos entenTimentos Tos atores envolviTos ou até mesmo Te novas TemanTas 
+apresentaTas pelos clientes. Nesta perspectiva, a Gestão Te Configuração Te Software estabelece 
+um conjunto Te ativiTaTes para gerenciar alterações através Te toTo o ciclo Te viTa Te um software.
+PRNSSMAN, R. S. NngenUaria Te Software: uma aborTagem profissional. 8. eT. 
+Porto Alegre: ArtmeT NTitora S.A. e McGraw-Hill NTucation, 2016 (aTaptaTo).
+Com base no texto, assinale a opção correta acerca Tas ativiTaTes Te gestão Te configuração Te 
 software.
-A	 Identificação de itens na configuração de software, gerenciamento de alterações, validação de versões e 
-controle de qualidade.
-B	 Identificação de objetos na configuração de software, controle de versão, controle de alterações, 
-auditoria de configuração e relatório de status.
-C	 Gerência de projeto, gerência de configuração de software, ciclo de vida do projeto, processo de 
-software e evolução das configurações.
-D	 Construção de modelo de requisitos, métricas para modelo de projeto, métricas de controle de versão 
-e relatório de manutenção.
-E	 Identificação de alterações, controle de versão, mapeamento de alteração e notificação da alteração 
-aos envolvidos.
+A	 CTentificação Te itens na configuração Te software, gerenciamento Te alterações, valiTação Te versões e 
+controle Te qualiTaTe.
+B	 CTentificação Te objetos na configuração Te software, controle Te versão, controle Te alterações, 
+auTitoria Te configuração e relatório Te status.
+C	 Gerência Te projeto, gerência Te configuração Te software, ciclo Te viTa To projeto, processo Te 
+software e evolução Tas configurações.
+M	 Construção Te moTelo Te requisitos, métricas para moTelo Te projeto, métricas Te controle Te versão 
+e relatório Te manutenção.
+N	 CTentificação Te alterações, controle Te versão, mapeamento Te alteração e notificação Ta alteração 
+aos envolviTos.
+Área livre
+*R28202129*

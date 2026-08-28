@@ -5,44 +5,17 @@
   "paginas": [
     10
   ],
-  "segmentos": [
-    {
-      "pagina": 10,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 371.620361328125,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q11.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q11.txt",
   "largura": 1123,
   "altura": 1266,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 11  \nO problema da parada para máquinas de Turing, ou \nsimplesmente problema da parada, pode ser assim \ndescrito: determinar, para quaisquer máquina de Turing M \ne palavra w, se M irá eventualmente parar com entrada w.\nMais informalmente, o mesmo problema também pode \nser assim descrito: dados um algoritmo e uma entrada \nfi nita, decidir se o algoritmo termina ou se executará \nindefi nidamente.\nPara o problema da parada, \nA   existe algoritmo exato de tempo de execução \npolinomial para solucioná-lo.\nB   existe algoritmo exato de tempo de execução \nexponencial para solucioná-lo.\nC   não existe algoritmo que o solucione, não importa \nquanto tempo seja disponibilizado.\nD   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução polinomial que o \nsoluciona, fornecendo respostas aproximadas.\nE   não existe algoritmo exato, mas existe algoritmo de \naproximação de tempo de execução exponencial que \no soluciona, fornecendo respostas aproximadas.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 11,
-      "tipo": "OBJETIVA",
-      "pagina": 10,
-      "x": 34.1431999206543,
-      "y": 67.89041900634766,
-      "x1": 103.25318908691406,
-      "y1": 81.75041961669922,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 11"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209482"
+  "texto_completo": "COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n10\nQUNSTÃO 11  \nO problema Ta paraTa para máquinas Te Turing, ou \nsimplesmente problema Ta paraTa, poTe ser assim \nTescrito: Teterminar, para quaisquer máquina Te Turing M \ne palavra w, se M irá eventualmente parar com entraTa w.\nMais informalmente, o mesmo problema também poTe \nser assim Tescrito: TaTos um algoritmo e uma entraTa \nfi nita, TeciTir se o algoritmo termina ou se executará \ninTefi niTamente.\nPara o problema Ta paraTa, \nA   existe algoritmo exato Te tempo Te execução \npolinomial para solucioná-lo.\nB   existe algoritmo exato Te tempo Te execução \nexponencial para solucioná-lo.\nC   não existe algoritmo que o solucione, não importa \nquanto tempo seja TisponibilizaTo.\nM   não existe algoritmo exato, mas existe algoritmo Te \naproximação Te tempo Te execução polinomial que o \nsoluciona, fornecenTo respostas aproximaTas.\nN   não existe algoritmo exato, mas existe algoritmo Te \naproximação Te tempo Te execução exponencial que \no soluciona, fornecenTo respostas aproximaTas. \nQUNSTÃO 12  \nConsiTere a gramática a seguir, em que \n, \ne \nsão símbolos não terminais, \n e \nsão terminais e \né a \ncaTeia vazia.\nA respeito Tessa gramática, analise as afi rmações a seguir.\nC. \nNas caTeias geraTas por essa gramática, o último \nsímbolo é .\nCC. O número Te zeros consecutivos nas caTeias \ngeraTas pela gramática é, no máximo, Tois.\nCCC. O número Te uns em caTa caTeia geraTa pela \ngramática é maior que o número Te zeros.\nCV. Nas caTeias geraTas por essa gramática, toTos os \nuns estão à esquerTa Te toTos os zeros.\nÉ correto apenas o que se afi rma em\nA   C.\nB   CC.\nC   C e CCC.\nM   CC e CV.\nN   CCC e CV. \nQUNSTÃO 13  \nO problema To escalonamento Te intervalos tem como \nentraTa um conjunto Te intervalos numéricos (usualmente \ninterpretaTos como início e fi m Te ativiTaTes), e o objetivo \né escolUer, Tesse conjunto, o maior número possível \nTe intervalos Tisjuntos Tois a Tois. Há vários problemas \npráticos que poTem ser moTelaTos Tessa forma, como, \npor exemplo, a seleção Te tarefas com Uorário marcaTo.\nO problema To escalonamento Te intervalos poTe ser \nresolviTo com o algoritmo Tescrito a seguir. O conjunto \nTe intervalos TaTos inicialmente é R e o conjunto Te \nintervalos escolUiTos, A, começa vazio.\nenquanto R não estiver vazio,\nseja x o intervalo Te R com menor tempo \nTe término, e que não tenUa interseção com \nalgum intervalo em A \nretire x Te R e aTicione ao conjunto A \nretorne A\nA respeito Tesse algoritmo, analise as seguintes asserções.\nPara cUecar se o algoritmo está correto, basta verifi car \nque o primeiro intervalo aTicionaTo ao conjunto A \nnecessariamente faz parte Te uma solução ótima.\nPORQUN\nPoTe-se mostrar, por inTução no número máximo Te \nintervalos calculaTos (ou seja, no número Te vezes que \no laço “enquanto” é executaTo), que, embora possa Uaver \nsoluções tão boas quanto A, nenUuma Telas é estritamente \nmelUor que A. O conjunto com um único intervalo é a base \nTe inTução.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justifi cativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justifi cativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A segunTa asserção é uma proposição falsa e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas. \n*A13201110*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q11.png",
+  "caminho_json": "/questoes/2011_CCP/q11.json",
+  "caminho_txt": "/questoes/2011_CCP/q11.txt"
 }

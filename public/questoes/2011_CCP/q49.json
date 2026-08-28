@@ -5,44 +5,17 @@
   "paginas": [
     31
   ],
-  "segmentos": [
-    {
-      "pagina": 31,
-      "x0": 25.0,
-      "y0": 518.1387329101562,
-      "x1": 287.28,
-      "y1": 719.28,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q49.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q49.txt",
   "largura": 1123,
   "altura": 868,
   "confianca": 0.98,
-  "texto_completo": "p\nQUESTÃO 49  \nConsiderando \no \nconceito \nde \nsistema, \ntrazido \npela Teoria Geral de Sistemas, um projeto de \ndesenvolvimento de software poderia ser considerado \ncomo um sistema aberto.\nNessa perspectiva, solicitações de mudanças originadas \nde um stakeholder externo e que afetam o projeto podem \nser consideradas como\nA   ambiente.\nB   entrada.\nC   feedback.\nD   processos.\nE saída",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 49,
-      "tipo": "OBJETIVA",
-      "pagina": 31,
-      "x": 34.143898010253906,
-      "y": 530.1387329101562,
-      "x1": 103.25389099121094,
-      "y1": 543.9987182617188,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 49"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209647"
+  "texto_completo": "SCSTNMAS MN CNFORMAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n31\nQUNSTÃO 48  \nNo Tesenvolvimento Te um software para um sistema \nTe venTa Te proTutos nacionais e importaTos, o analista \ngerou o Tiagrama Te casos Te uso a seguir.\nMa análise To Tiagrama, conclui-se que\nA   a execução To caso Te uso ‘Consultar estoque’ incorpora \nopcionalmente o caso Te uso ‘Liberar Tesconto’.\nB   a execução To caso Te uso ‘Liberar Tesconto’ incorpora \nopcionalmente o caso Te uso ‘Realizar venTa’.\nC   a execução To caso Te uso ‘Realizar venTa’ incorpora \nobrigatoriamente o caso Te uso ‘Consultar estoque’.\nM   a execução To caso Te uso ‘Realizar venTa Te \nproTuto nacional’ incorpora obrigatoriamente o caso \nTe uso ‘Liberar Tesconto’.\nN   um Gerente poTe interagir com o caso Te uso \n‘Realizar venTa’, pois ele é um Usuário.\nQUNSTÃO 49  \nConsiTeranTo \no \nconceito \nTe \nsistema, \ntraziTo \npela Teoria Geral Te Sistemas, um projeto Te \nTesenvolvimento Te software poTeria ser consiTeraTo \ncomo um sistema aberto.\nNessa perspectiva, solicitações Te muTanças originaTas \nTe um stakeUolTer externo e que afetam o projeto poTem \nser consiTeraTas como\nA   ambiente.\nB   entraTa.\nC   feeTback.\nM   processos.\nN   saíTa.\nQUNSTÃO 50  \nUma empresa vem TesenvolvenTo um programa Te \nmelUoria Te seus processos Te software utilizanTo o \nmoTelo Te qualiTaTe CMMC. O programa envolveu a \nTefinição Te toTos os processos paTrão Ta organização, \nimplementação Te técnicas Te controle estatístico Te \nprocessos e métoTos Te melUoria contínua. Após a \navaliação SCAMPC, classe A, foi TetectaTo que a área \nTe processo Te PP - Project Planning (Planejamento Te \nProjeto) não estava aTerente ao moTelo.\nNesse contexto, consiTeranTo a representação por \nestágios To CMMC, a empresa seria classificaTa em que \nnível Te maturiTaTe?\nA   Nível 1.\nB   Nível 2.\nC   Nível 3.\nM   Nível 4.\nN   Nível 5.\nÁRNA LCVRN\n*A13201131*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_CCP/q49.png",
+  "caminho_json": "/questoes/2011_CCP/q49.json",
+  "caminho_txt": "/questoes/2011_CCP/q49.txt"
 }

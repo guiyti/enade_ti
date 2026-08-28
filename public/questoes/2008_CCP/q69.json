@@ -5,44 +5,17 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 294.59999999999997,
-      "y1": 439.8866882324219,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q69.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q69.txt",
   "largura": 1153,
   "altura": 1551,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 69\nUm ponto crítico para as organizações é a gerência de se\nsistemas legados. Quanto a esses sistemas, é importan\ndecidir se eles devem sofrer uma reengenharia, send\nreimplementados, ou não. Essa decisão é tomada após \navaliarem os sistemas legados com base em dois parâmetro\nvalor estratégico para a organização, ou seja, o valor que e\nagrega para os serviços e produtos da organização; \nqualidade do sistema, ou seja, o custo de manutenção um\nvez que sistemas de baixa qualidade possuem alto custo d\nmanutenção. Essa avaliação classifica esses sistemas d\nacordo com as situações de I a IV indicadas abaixo.\nEm qual(ais) dessas situações um sistema legado deve s\nclassificado para ser indicado a uma reengenharia? \nA\nApenas na situação I.\nB\nApenas na situação IV.\nC\nApenas nas situações I e II.\nD\nApenas nas situações II e III.\nE\nApenas nas situações III e IV.\nalto valor estratégico\nbaixa qualidade (I)\nbaixo valor estratégico\nbaixa qualidade (IV)\nalto valor estratégico\nalta qualidade (II)\nbaixo valor estratégico\nalta qualidade (III)\nvalor estratégico\nqualidade do sistema",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 69,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 35.99909973144531,
-      "y": 80.44668579101562,
-      "x1": 105.36231231689453,
-      "y1": 91.48668670654297,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 69"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027194"
+  "texto_completo": "29\nCOMPUTAÇÃO\nQUNSTÃO 69\nUm ponto crítico para as organizações é a gerência Te seus\nsistemas legaTos. Quanto a esses sistemas, é importante\nTeciTir se eles Tevem sofrer uma reengenUaria, senTo\nreimplementaTos, ou não. Nssa Tecisão é tomaTa após se\navaliarem os sistemas legaTos com base em Tois parâmetros:\nvalor estratégico para a organização, ou seja, o valor que ele\nagrega para os serviços e proTutos Ta organização; e\nqualiTaTe To sistema, ou seja, o custo Te manutenção uma\nvez que sistemas Te baixa qualiTaTe possuem alto custo Te\nmanutenção. Nssa avaliação classifica esses sistemas Te\nacorTo com as situações Te C a CV inTicaTas abaixo.\nNm qual(ais) Tessas situações um sistema legaTo Teve ser\nclassificaTo para ser inTicaTo a uma reengenUaria? \nA\nApenas na situação C.\nB\nApenas na situação CV.\nC\nApenas nas situações C e CC.\nM\nApenas nas situações CC e CCC.\nN\nApenas nas situações CCC e CV.\nQUNSTÃO 70\nNtUernet e suas evoluções Te 100 Mbps e 1 Gbps são\ntecnologias paTronizaTas para comunicações em reTes locais\ncom infra-estrutura Te transmissão compartilUaTa. Acerca Tas\ntransmissões que usam essas tecnologias, assinale a opção\nincorreta.\nA\nNmbora Tiversos segmentos Te uma reTe possam ser\nTefiniTos com o uso Te equipamentos Te comutação\n(switcUes), transmissões Te pacotes com enTereço Te\nbroaTcast (Tifusão) atingem toTos os computaTores na\nmesma reTe.\nB\nO mecanismo Te controle Te acesso ao meio utilizaTo é\nTistribuíTo e, nas reTes com concentraTores (Uubs), caTa\ninterface Te reTe Teve Teterminar quanTo é possível\nrealizar uma transmissão.\nC\nComutaTores (switcUes) realizam o encaminUamento\nseletivo Te quaTros com base nos enTereços CP Te caTa\nestação.\nM\nA escuta To meio Turante as transmissões permite\nTetectar colisões em segmentos compartilUaTos e a\nnecessiTaTe Te retransmissões, mas não Uá envio Te\nquaTros (frames) Te confirmação Te recebimento.\nN\nUm mecanismo Te controle Te consistência é usaTo para\nverificar a integriTaTe Te caTa quaTro (frame) transmitiTo.\nQUNSTÃO 71\nalternativa 1\nalternativa 2\nA\nA\nB\nN\nC\nF\nH\nM\nG\nM\nG\nN\nF\nH\nC\nB\nCoesão \ne \nacoplamento \nsão \nTois \nconceitos\nfunTamentais para a qualiTaTe To projeto moTular Te\num software. A coesão Tiz respeito à funcionaliTaTe\nTos móTulos que compõem o software e é relacionaTa\nao \nconceito \nTe \nocultação \nTe \ninformação.\nO acoplamento está relacionaTo aos TaTos e\nrepresenta a interconexão entre os móTulos. SuponUa\nque TeterminaTo sistema possa ter a arquitetura Te\nseus móTulos projetaTa por meio Tas Tuas\nalternativas Tiferentes mostraTas na figura acima,\nsenTo a funcionaliTaTe Te um móTulo a mesma nas\nTuas alternativas. Nessa figura, os retângulos\nrepresentam os móTulos e as arestas representam\ncUamaTas a funcionaliTaTes Te outros móTulos. A\npartir Tessas informações, assinale a opção correta.\nA\nA coesão e o acoplamento Te toTos os móTulos\nsão iguais nas Tuas alternativas.\nB\nNm relação à alternativa 1, na alternativa 2, a\ncoesão To móTulo A é menor, a Tos móTulos B e\nC é maior e o acoplamento To projeto é maior.\nC\nNm relação à alternativa 1, na alternativa 2, a\ncoesão To móTulo A é maior, a Tos móTulos B e\nC é menor e o acoplamento To projeto é maior.\nM\nNm relação à alternativa 1, na alternativa 2, a\ncoesão To móTulo A é maior, a Tos móTulos B e\nC é maior e o acoplamento To projeto é menor.\nN\nNm relação à alternativa 1, na alternativa 2, a\ncoesão To móTulo A é menor, a Tos móTulos B e\nC é maior e o acoplamento To projeto é menor.\nQUNSTÃO 72\nUma empresa Te créTito e financiamento\nutiliza um sistema Te informação para analisar\nsimulações, com base em cenários, e Teterminar\ncomo as variações Ta taxa básica Te juros To país\nafetam seus lucros.\nComo Teve ser classificaTo esse sistema Te\ninformação?\nA\nsistema Te processamento Te transações\nB\nsistema Te controle Te processos\nC\nsistema Te informação gerencial\nM\nsistema Te apoio à Tecisão\nN\nsistema Te informação executivo\nalto valor estratégico\nbaixa qualiTaTe (C)\nbaixo valor estratégico\nbaixa qualiTaTe (CV)\nalto valor estratégico\nalta qualiTaTe (CC)\nbaixo valor estratégico\nalta qualiTaTe (CCC)\nvalor estratégico\nqualiTaTe To sistema",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q69.png",
+  "caminho_json": "/questoes/2008_CCP/q69.json",
+  "caminho_txt": "/questoes/2008_CCP/q69.txt"
 }

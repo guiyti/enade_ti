@@ -5,44 +5,18 @@
   "paginas": [
     18
   ],
-  "segmentos": [
-    {
-      "pagina": 18,
-      "x0": 25.0,
-      "y0": 156.28671264648438,
-      "x1": 570.1999999999999,
-      "y1": 337.6466979980469,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q42.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q42.txt",
   "largura": 2302,
   "altura": 786,
   "confianca": 0.98,
-  "texto_completo": "G\nO\nU\nÇ O\nQUESTÃO 41\nEm ambientes de manufatura integrada, utilizam-\nse computadores para conectar processos\nconcorrentes separados fisicamente, isto é, um\nsistema \nintegrado \nrequer \ndois \nou \nmais\ncomputadores \nconectados \npara \ntrocar\ninformações. Quando integrados, os processos\npodem compartilhar informações e iniciar ações,\npermitindo decisões mais rápidas com menos\nerros. A automação também permite a execução\nde processos de manufatura sem necessidade\nde intervenções. Um exemplo simples pode ser\num controlador de um robô e um controlador\nlógico programável trabalhando juntos em uma\nú i\ná\ni\nU\nl\nl\né\nQUESTÃO 42\nAo se realizar o acesso a um servidor WWW usando o protocolo\nHTTPS, uma sessão SSL é estabelecida sobre a conexão TCP, entre\no programa navegador do usuário e o processo servidor. Para tanto,\nusam-se mecanismos baseados em criptografia simétrica e\nassimétrica para prover serviços de segurança. Em relação ao\nacesso HTTP, sem SSL, que serviços de segurança são providos\npara o usuário?\nA\nautenticação do servidor e controle de acesso do cliente\nB\nautenticação do cliente e controle da velocidade de transmissão\nC\nautenticação da rede e proteção contra vírus\nD\nautenticação do servidor e confidencialidade das transmissões\nE\nautenticação do cliente e temporização das ações executadas",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 42,
-      "tipo": "OBJETIVA",
-      "pagina": 18,
-      "x": 260.9991149902344,
-      "y": 168.28671264648438,
-      "x1": 330.3623352050781,
-      "y1": 179.3267059326172,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 42"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade",
+    "Segurança da Informação"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.027037"
+  "texto_completo": "17\nCOMPUTAÇÃO\nAs questões Te 41 a 60, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nNNGNNHARCA MN COMPUTAÇÃO.\nQUNSTÃO 41\nNm ambientes Te manufatura integraTa, utilizam-\nse computaTores para conectar processos\nconcorrentes separaTos fisicamente, isto é, um\nsistema \nintegraTo \nrequer \nTois \nou \nmais\ncomputaTores \nconectaTos \npara \ntrocar\ninformações. QuanTo integraTos, os processos\npoTem compartilUar informações e iniciar ações,\npermitinTo Tecisões mais rápiTas com menos\nerros. A automação também permite a execução\nTe processos Te manufatura sem necessiTaTe\nTe intervenções. Um exemplo simples poTe ser\num controlaTor Te um robô e um controlaTor\nlógico programável trabalUanTo juntos em uma\núnica máquina. Um exemplo complexo é uma\nplanta \ninteira \nTe \nmanufatura \nenvolvenTo\ncentenas Te estações conectaTas a bancos Te\nTaTos com instruções e planejamento Te\noperações e tarefas em tempo real, envolvenTo\nsensores, atuaTores, transTutores, conversores\netc. NntenTer, projetar e construir esses sistemas\né um granTe Tesafio que impõe uma aborTagem\nsistemática \npelo \nuso \nTe \nferramentas \ne\nconUecimento conceitual Te moTelagem lógica,\nmanipulação \nmatemática, \nabstração,\nTecomposição, \nconcorrência \netc. \nNesse\ncontexto, julgue os seguintes itens.\nC\nControlaTores lógicos programáveis são\ncomputaTores \npara \nprocessamento \nTe\nentraTas e saíTas, senTo que a maioria\npermite múltiplos programas que poTem ser\nutilizaTos como sub-rotinas.\nCC\nPara leituras Te um sinal analógico que varia\nentre ± 10 volts, com precisão Te ± 0,05 volts,\né necessário um conversor AM com, no\nmínimo, 9 bits.\nCCC O principal objetivo Tas reTes Te Petri\nColoriTas é a reTução To tamanUo To moTelo,\npermitinTo \nque \ntokens \ninTiviTualizaTos\n(coloriTos) representem Tiferentes processos\nou recursos em uma mesma sub-reTe.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens C e CCC estão certos.\nM\nApenas os itens CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 42\nAo se realizar o acesso a um serviTor PPP usanTo o protocolo\nHTTPS, uma sessão SSL é estabeleciTa sobre a conexão TCP, entre\no programa navegaTor To usuário e o processo serviTor. Para tanto,\nusam-se mecanismos baseaTos em criptografia simétrica e\nassimétrica para prover serviços Te segurança. Nm relação ao\nacesso HTTP, sem SSL, que serviços Te segurança são proviTos\npara o usuário?\nA\nautenticação To serviTor e controle Te acesso To cliente\nB\nautenticação To cliente e controle Ta velociTaTe Te transmissão\nC\nautenticação Ta reTe e proteção contra vírus\nM\nautenticação To serviTor e confiTencialiTaTe Tas transmissões\nN\nautenticação To cliente e temporização Tas ações executaTas\nQUNSTÃO 43\nConsiTere que seja necessário escrever um cóTigo para um\nmicrocontrolaTor capaz Te iTentificar teclas acionaTas em um teclaTo\nconectaTo como mostraTo abaixo. O microcontrolaTor atribui valores\nlógicos às linUas X3, X2, X1 e X0 Te uma porta Te saíTa To tipo coletor\naberto, e lê os valores lógicos Tas linUas Y3, Y2, Y1 e Y0 em uma porta\nTe entraTa.\nCaso apenas a tecla 9 To teclaTo esteja pressionaTa e o\nmicrocontrolaTor esteja atribuinTo os valores lógicos 1011 às linUas\nX3, X2, X1 e X0 , respectivamente, qual o paTrão binário que Teverá ser\nliTo nas linUas Y3, Y2, Y1 e Y0, respectivamente?\nA\n0111\nB\n1011\nC\n1101\nM\n1110\nN\n1111\n+5 V\n+5 V +5 V +5 V\nteclaTo\nmicrocontrolaTor\nporta Te saíTa\nporta Te entraTa",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q42.png",
+  "caminho_json": "/questoes/2008_CCP/q42.json",
+  "caminho_txt": "/questoes/2008_CCP/q42.txt"
 }

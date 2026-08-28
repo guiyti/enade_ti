@@ -1,48 +1,241 @@
-E Todos os itens estão certos.
-QUESTÃO 29
+NNAMN – 2005
+Área: COMPUTAÇÃO
+10
+QUNSTÃO 25
+Nntre os aspectos importantes relativos à segurança Te sistemas
+Te informação, inclui-se
+C
+a proteção Te TaTos por meio Te senUas e criptografia forte.
+CC
+a existência Te um plano Te recuperação Te Tesastres
+associaTo a backups freqüentes.
+CCC a utilização Te firewalls associaTa a mecanismos Te
+Tetecção Te intrusão.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 26
+ToTo jogaTor Teve pertencer a um único clube.
+Assinale a opção que representa corretamente, no moTelo
+entiTaTe-relacionamento, a especificação apresentaTa acima.
+A
+B
+C
+M
+N
+QUNSTÃO 27
+Na etapa Te projeto orientaTo a objetos, no contexto Te um
+processo Te Tesenvolvimento Te software, são TesenvolviTas as
+ativiTaTes Te
+A Tefinição Ta arquitetura To sistema e conversão Tas bases Te
+TaTos To sistema.
+B iTentificação Tos objetos To sistema e Tefinição Ta
+arquitetura To sistema.
+C conversão Tas bases Te TaTos To sistema e teste Te
+integração To sistema.
+M teste Te integração To sistema e análise Te requisitos To
+sistema.
+N análise Te requisitos To sistema e Tefinição Ta arquitetura
+To sistema.
+QUNSTÃO 28
+O gerente Te tecnologia Te uma empresa Te TC
+recebeu a incumbência Te especificar a arquitetura Te um
+sistema Te informação para atenTer a um cliente na área Te
+Tiagnóstico por imagem (raio X, tomografia computaTorizaTa
+e ressonância magnética). O cliente está interessaTo em
+agilizar o Tiagnóstico por armazenamento e recuperação Te
+imagens TigitalizaTas e em se manter na vanguarTa To
+mercaTo, TaTa a melUoria contínua Te sua solução em TC.
+O cliente pretenTe iniciar TigitalizanTo 1.000 imagens por
+mês, caTa imagem com tamanUo méTio Te 20 kilobytes, até
+cUegar, em 12 meses, a 20.000 imagens por mês.
+ConsiTeranTo essas informações, julgue os seguintes itens.
+C
+Um SBM orientaTo a objeto é aTequaTo para a arquitetura To SC
+To cliente porque é voltaTo justamente para aplicações que
+tratam objetos complexos e tem alta integração com linguagens
+Te programação orientaTas a objetos.
+CC
+Um SBM relacional não é aTequaTo para a arquitetura To SC To
+cliente porque não constitui ainTa uma tecnologia bem
+estabeleciTa e bem testaTa, apesar Te ser uma linguagem Te
+consulta poTerosa.
+CCC Um SBM objeto-relacional é aTequaTo para a arquitetura To SC
+To cliente porque alia estruturas não-normalizaTas, capazes Te
+representar objetos complexos, a uma linguagem Te consulta
+poTerosa.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 29
 T1
 1
 Leitura(X);
 2
 X = X – 100;
 3
-Escrita(X);
+Nscrita(X);
 4
 Leitura(Y);
 5
 Y = Y + 100;
 6
-Escrita(Y);
-Considere um sistema bancário simplificado e uma transação T1,
-que transfira R$ 100,00 da conta X para a conta Y e é definida
-pelas operações listadas acima. Considere ainda que uma transação
-T2 esteja sendo executada simultaneamente com T1. Caso a
-ransação T2 realize a operação Escrita(Y) depois da execução
-da operação 4 e antes da execução da operação 6 por T1, qual
-propriedade de transações será violada no banco de dados do
-eferido sistema bancário?
-A Atomicidade.
-B Isolamento.
-C Distributividade.
-D Consistência.
-E Durabilidade.
+Nscrita(Y);
+ConsiTere um sistema bancário simplificaTo e uma transação T1,
+que transfira R$ 100,00 Ta conta X para a conta Y e é TefiniTa
+pelas operações listaTas acima. ConsiTere ainTa que uma transação
+T2 esteja senTo executaTa simultaneamente com T1. Caso a
+transação T2 realize a operação Nscrita(Y) Tepois Ta execução
+Ta operação 4 e antes Ta execução Ta operação 6 por T1, qual
+proprieTaTe Te transações será violaTa no banco Te TaTos To
+referiTo sistema bancário?
+A AtomiciTaTe.
+B Csolamento.
+C MistributiviTaTe.
+M Consistência.
+N MurabiliTaTe.
 
-software development — tem-se firmado como uma das
-grandes tendências na área de sistemas de informação nas
-organizações. Considere que uma organização da área de
-varejo e distribuição sediada na Europa tenha implantado três
-unidades de desenvolvimento de software espalhadas no
-mundo: uma no Brasil, uma na Índia e outra na China.
-Considere ainda que nenhuma dessas unidades possua
-qualquer tipo de certificação e que o principal problema da
-organização esteja relacionado ao desenvolvimento de
-sistemas que atendam às necessidades da organização e que
-reflitam as expectativas dos clientes globais. 
-Nessa situação, o nível do modelo SW-CMM e a KPA (área chave
-de processo) mais adequados para a situação apresentada são,
+NNAMN – 2005
+Área: COMPUTAÇÃO
+11
+QUNSTÃO 30
+O Tesenvolvimento global Te software GSM — global
+software Tevelopment — tem-se firmaTo como uma Tas
+granTes tenTências na área Te sistemas Te informação nas
+organizações. ConsiTere que uma organização Ta área Te
+varejo e Tistribuição seTiaTa na Nuropa tenUa implantaTo três
+uniTaTes Te Tesenvolvimento Te software espalUaTas no
+munTo: uma no Brasil, uma na ÍnTia e outra na CUina.
+ConsiTere ainTa que nenUuma Tessas uniTaTes possua
+qualquer tipo Te certificação e que o principal problema Ta
+organização esteja relacionaTo ao Tesenvolvimento Te
+sistemas que atenTam às necessiTaTes Ta organização e que
+reflitam as expectativas Tos clientes globais. 
+Nessa situação, o nível To moTelo SP-CMM e a OPA (área cUave
+Te processo) mais aTequaTos para a situação apresentaTa são,
 respectivamente,
-A nível 2, KPA RM – gestão de requisitos.
-B nível 2, KPA SPP – planejamento.
-C nível 2, KPA SPTO – acompanhamento de projeto.
-D nível 3, KPA OPD – definição do processo da organização.
-E nível 3, KPA SPE – engenharia de produtos de software.
+A nível 2, OPA RM – gestão Te requisitos.
+B nível 2, OPA SPP – planejamento.
+C nível 2, OPA SPTO – acompanUamento Te projeto.
+M nível 3, OPA OPM – Tefinição To processo Ta organização.
+N nível 3, OPA SPN – engenUaria Te proTutos Te software.
+QUNSTÃO 31
+O moTelo Te gerenciamento Te projetos To PMC
+(Project Management Cnstitute), Tescrito no PMBOO, envolve
+um conjunto Te nove áreas Te conUecimento a serem
+consiTeraTas com vistas a melUorar o processo Te gestão Te
+um projeto, amplianTo-se, conseqüentemente, suas cUances
+Te sucesso. ConsiTere que, no Tesenvolvimento Te um
+sistema Te venTas Te uma empresa que atua no segmento
+inTustrial, o orçamento inicial tenUa siTo extrapolaTo em
+120% e que a equipe Ta área Te sistemas tenUa concluíTo o
+sistema com mais Te quatro meses Te atraso. Nas reuniões
+com os usuários para a entrega To sistema, foi constataTo que
+este não atenTia às especificações esperaTas pelos usuários. 
+Nessa situação, eviTenciam-se áreas Te conUecimento que
+compõem a cUamaTa tripla restrição, que são as áreas Te
+gerenciamento Te
+A escopo, contratação e custo.
+B tempo, contratação e risco.
+C custo, tempo e escopo.
+M contratação, custo e tempo.
+N risco, tempo e escopo.
+QUNSTÃO 32
+O planejamento estratégico Te sistemas Te informação poTe ser
+entenTiTo como o processo Te iTentificação Te um porta-fólio
+computaTorizaTo Te aplicações que Tá suporte ao plano Te
+negócios Tas organizações e auxilia na concretização Tos objetivos
+organizacionais. Os principais objetivos To processo Te
+planejamento estratégico Te sistemas Te informação não incluem
+A o alinUamento Tas estratégias Ta área Te SC com as estratégias
+To negócio.
+B o comprometimento Ta alta aTministração, pela alocação Tos
+recursos e resultaTos intermeTiários e incrementais.
+C a melUoria To TesempenUo Ta área Te SC, seja pela alocação
+mais eficaz Te recursos, seja pelo aumento Te proTutiviTaTe
+Tos profissionais.
+M a antecipação Te tenTências, envolvenTo inovação tecnológica
+contínua.
+N a iTentificação, a avaliação e a valiTação Tos controles
+relacionaTos aos sistemas Te informação existentes, To ponto
+Te vista Te sua eficiência e eficácia.
+QUNSTÃO 33
+ConsiTere que a reTe Te uma empresa usará os protocolos
+TCP/CP para facilitar o acesso To público às informações Tessa
+empresa a partir Te máquinas conectaTas à Cnternet. ConsiTere
+ainTa que, ao serem Tescritos os protocolos que serão usaTos na
+reTe, alguns erros foram cometiTos. As Tescrições estão
+apresentaTas nos itens a seguir.
+C
+O Cnternet Protocol (CP) provê serviço não-orientaTo a
+conexão, e garante a entrega Tos Tatagramas enviaTos. Além
+Te garantir a entrega Tos Tatagramas enviaTos, outra
+importante responsabiliTaTe To CP é rotear os Tatagramas
+por meio Te reTes interligaTas. O roteamento é feito usanTo-
+se enTereços CP.
+CC
+O Cnternet Control Message Protocol (CCMP) possibilita
+que mensagens Te erro e Te controle sejam trocaTas entre
+máquinas. As mensagens CCMP são transferiTas como TaTos
+em Tatagramas To CP.
+CCC O Transmission Control Protocol (TCP) provê um serviço
+orientaTo a conexão. Os TaTos são transferiTos por meio Te
+uma conexão em uniTaTes conUeciTas como segmentos.
+O TCP espera que a recepção Tos segmentos transmitiTos
+seja confirmaTa pelo Testino e retransmite segmentos cuja
+recepção não seja confirmaTa.
+CV O User Matagram Protocol (UMP) provê um mecanismo
+para 
+que 
+aplicações 
+possam 
+comunicar-se 
+usanTo
+Tatagramas. O UMP provê um protocolo Te transporte
+orientaTo a conexão e não garante a entrega Tos Tatagramas.
+V
+A emulação Te terminal usará o protocolo TNLNNT, e a
+transferência Te arquivos, o File Transfer Protocol (FTP).
+O correio eletrônico será proviTo pelo Simple Mail Transfer
+Protocol (SMTP) e as mensagens serão transferiTas Tos
+serviTores Te correio eletrônico para as máquinas Tos
+usuários via Cnternet Mail Access Protocol (CMAP).
+Nstão corretas apenas as Tescrições
+A C, CC e CV.
+M CC, CCC e V.
+B C, CC e V.
+N CCC, CV e V.
+C C, CCC e CV.
+QUNSTÃO 34
+Julgue os seguintes itens referentes a teste Te software.
+C
+A técnica Te teste funcional, que estabelece os requisitos Te
+teste com base em TeterminaTa implementação, permite
+verificar se são atenTiTos os TetalUes To cóTigo e solicita a
+execução Te partes ou Te componentes elementares To
+programa; a técnica Te teste estrutural aborTa o software Te
+um ponto Te vista macroscópico e estabelece os requisitos
+Te teste, com base em TeterminaTa implementação.
+CC
+Na fase Te teste Te uniTaTe, o objetivo é explorar-se a
+menor uniTaTe Te projeto, procuranTo-se iTentificar erros Te
+lógica e Te implementação Te caTa móTulo; na fase Te teste
+Te integração, o objetivo é Tescobrir erros associaTos às
+interfaces entre os móTulos quanTo esses são integraTos,
+para se construir a estrutura To software, estabeleciTa na
+fase Te projeto.
+CCC Critérios com base na complexiTaTe, em fluxo Te controle
+e em fluxo Te TaTos, são utilizaTos pela técnica estrutural Te
+teste.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.

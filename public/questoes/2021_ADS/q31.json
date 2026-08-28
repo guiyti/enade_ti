@@ -5,25 +5,15 @@
   "paginas": [
     38
   ],
-  "segmentos": [
-    {
-      "pagina": 38,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 655.31298828125,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_ADS/q31.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q31.txt",
   "largura": 2185,
   "altura": 2449,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 31\t\nFoi solicitado o desenvolvimento de um software para o controle e gestão das matrículas dos alunos \nem uma universidade. Os alunos poderão realizá-las diretamente no sistema, em um terminal a ser \ndisponibilizado na universidade. Além dessas características, o sistema deverá considerar as restrições \nrepresentadas no diagrama a seguir:\nRealizar\nMatricula Fora \ndo Prazo\nRealizar\nMatricula \nValidar via\nReƟna\nValidar via\nDigital\nValidar Aluno\nAluno\n<<extend>>\n<<include>>\nCom base no texto e no diagrama, avalie as afirmações a seguir.\nI.\t O aluno poderá realizar a matrícula fora do prazo e as tratativas são as mesmas da matrícula feita \ndentro do prazo.\nII.\t O aluno poderá, opcionalmente, realizar a matrícula fora do prazo.\nIII.\t O sistema, obrigatoriamente, deverá validar o aluno que realizar a matrícula fora do prazo.\nIV.\t A validação do aluno deverá ser feita a partir da sua matrícula informada no sistema.\nV.\t A validação do aluno, a ser feita por retina, é diferente da validação feita pela digital.\nÉ correto apenas o que se afirma em\nA\t I e IV.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, III e V.\nE\t II, III, IV e V.",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
+  ],
+  "anomalias": [],
+  "texto_completo": "38\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 31\t\nFoi solicitaTo o Tesenvolvimento Te um software para o controle e gestão Tas matrículas Tos alunos \nem uma universiTaTe. Os alunos poTerão realizá-las Tiretamente no sistema, em um terminal a ser \nTisponibilizaTo na universiTaTe. Além Tessas características, o sistema Teverá consiTerar as restrições \nrepresentaTas no Tiagrama a seguir:\nRealizar\nMatricula Fora \nTo Prazo\nRealizar\nMatricula \nValiTar via\nRetina\nValiTar via\nMigital\nValiTar Aluno\nAluno\n<<extenT>>\n<<incluTe>>\nCom base no texto e no Tiagrama, avalie as afirmações a seguir.\nC.\t O aluno poTerá realizar a matrícula fora To prazo e as tratativas são as mesmas Ta matrícula feita \nTentro To prazo.\nCC.\t O aluno poTerá, opcionalmente, realizar a matrícula fora To prazo.\nCCC.\t O sistema, obrigatoriamente, Teverá valiTar o aluno que realizar a matrícula fora To prazo.\nCV.\t A valiTação To aluno Teverá ser feita a partir Ta sua matrícula informaTa no sistema.\nV.\t A valiTação To aluno, a ser feita por retina, é Tiferente Ta valiTação feita pela Tigital.\nÉ correto apenas o que se afirma em\nA\t C e CV.\nB\t C, CC e CV.\nC\t C, CCC e V.\nM\t CC, CCC e V.\nN\t CC, CCC, CV e V.\nÁrea livre\n*R28202138*",
   "figuras": [
     "/questoes/2021_ADS/figuras/q31_fig1.png",
     "/questoes/2021_ADS/figuras/q31_fig2.png",
@@ -32,24 +22,7 @@
     "/questoes/2021_ADS/figuras/q31_fig5.png",
     "/questoes/2021_ADS/figuras/q31_fig6.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 31,
-      "tipo": "OBJETIVA",
-      "pagina": 38,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.92378997802734,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 31"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:38.651800"
+  "caminho_png": "/questoes/2021_ADS/q31.png",
+  "caminho_json": "/questoes/2021_ADS/q31.json",
+  "caminho_txt": "/questoes/2021_ADS/q31.txt"
 }

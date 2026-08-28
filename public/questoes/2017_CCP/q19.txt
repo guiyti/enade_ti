@@ -1,48 +1,51 @@
-QUESTÃO 19
-IŽŶƐŝĚĞƌĞ Ž ĚŝĂŐƌĂŵĂ EŶƟĚĂĚĞͲZĞůĂĐŝŽŶĂŵĞŶƚŽ ĂƉƌĞƐĞŶƚĂĚŽ Ă ƐĞŐƵŝƌ͘
+CCÊNCCA MA COMPUTAÇÃO
+22
+QUNSTÃO 19
+ConsiTere o Tiagrama NntiTaTe-Zelacionamento apresentaTo a seguir.
 Secao
-ŝĚWĂƌƟĚŽ͗  /EdE'EZ EKd Eh>> ΀W<΁
-WĂƌƟĚŽ
-ƐŝŐůĂWĂƌƟĚŽ͗  s ZI, Z;45Ϳ EKd Eh>>
-ĚĞƐĐƌŝĐĂŽWĂƌƟĚŽ͗  s ZI, Z;45Ϳ EKd Eh>>
-ŝĚWĂƌƟĚŽ͗  /EdE'EZ EKd Eh>> ΀W<΁
-Deputado
-ŝĚWĂƌƟĚŽ͗  /EdE'EZ EKd Eh>> ΀&<΁
-ŶŽŵĞDĞƉƵƚĂĚŽ͗  s ZI, Z;60Ϳ EKd Eh>>
-ŝĚ^ĞĐĂŽ͗  /EdE'EZ EKd Eh>> ΀W&<΁
-WĂƌƟĐŝƉĂĐĂŽ
-ŝĚDĞƉƵƚĂĚŽ͗  /EdE'EZ EKd Eh>> ΀W&<΁
-ŝĚ^ĞĐĂŽ͗  /EdE'EZ EKd Eh>> ΀W<΁
-ĚĂƚĂ^ĞĐĂŽ͗  D dE EKd Eh>>
-ŚŽƌĂ^ĞĐĂŽ͗  d/DE EKd Eh>>
-ĚĞĐŝƐĂŽ͗  s ZI, Z;2000Ϳ EKd Eh>>
-YƵĂů ĐſĚŝŐŽ ^Y> ĞǆŝďĞ Ž ŶŽŵĞ ĚĞ ƚŽĚŽƐ ŽƐ ĚĞƉƵƚĂĚŽƐ ƋƵĞ ĐŽŵƉĂƌĞĐĞƌĂŵ Ă ƉĞůŽ ŵĞŶŽƐ ƵŵĂ ƐĞĕĆŽ Ğ ĂƐ 
-ĚĂƚĂƐ ĚĞ ĐĂĚĂ ƐĞĕĆŽ Ğŵ ƋƵĞ ŽƐ ĚĞƉƵƚĂĚŽƐ ƉĂƌƟĐŝƉĂƌĂŵ͍
-A SELECT 
-Deputado.nomeDeputado, 
-Secao.dataSecao 
+iTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁
+PartiTo
+siglaPartiTo:  s ZC, Z(45) NOT NU>>
+TescricaoPartiTo:  s ZC, Z(45) NOT NU>>
+iTPartiTo:  /NTN'NZ NOT NU>> ΀P<΁
+MeputaTo
+iTPartiTo:  /NTN'NZ NOT NU>> ΀&<΁
+nomeMeputaTo:  s ZC, Z(60) NOT NU>>
+iTSecao:  /NTN'NZ NOT NU>> ΀P&<΁
+Participacao
+iTMeputaTo:  /NTN'NZ NOT NU>> ΀P&<΁
+iTSecao:  /NTN'NZ NOT NU>> ΀P<΁
+TataSecao:  M TN NOT NU>>
+UoraSecao:  T/MN NOT NU>>
+Tecisao:  s ZC, Z(2000) NOT NU>>
+Yual coTigo SY> exibe o nome Te toTos os TeputaTos que compareceram a pelo menos uma seção e as 
+Tatas Te caTa seção em que os TeputaTos participaram͍
+A SNLNCT 
+MeputaTo.nomeMeputaTo, 
+Secao.TataSecao 
 FROM 
-Deputado, 
-Participacao, Secao WHERE Deputado.idDeputado=Participacao.idDeputado;
-B SELECT 
-Deputado.nomeDeputado, 
-Secao.dataSecao 
+MeputaTo, 
+Participacao, Secao PHNRN MeputaTo.iTMeputaTo=Participacao.iTMeputaTo;
+B SNLNCT 
+MeputaTo.nomeMeputaTo, 
+Secao.TataSecao 
 FROM 
-Deputado, 
+MeputaTo, 
 Participacao, 
 Secao 
-WHERE 
-Deputado.idDeputado 
+PHNRN 
+MeputaTo.iTMeputaTo 
 = 
 Participacao.
-idDeputado OR Secao.idSecao = Participacao.idSecao;
-C SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado LEFT OUTER 
-JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
-LEFT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
-D SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado RIGHT OUTER 
-JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
-RIGHT OUTER JOIN Secao ON Secao.idSecao = Participacao.idSecao;
-E SELECT Deputado.nomeDeputado, Secao.dataSecao FROM Deputado INNER 
-JOIN Participacao ON Deputado.idDeputado = Participacao.idDeputado 
-INNER JOIN Secao ON Participacao.idSecao=Secao.idSecao;
-ƌĞĂ ůŝǀƌĞ
+iTMeputaTo OR Secao.iTSecao = Participacao.iTSecao;
+C SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo LNFT OUTNR 
+JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
+LNFT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;
+M SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo RCGHT OUTNR 
+JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
+RCGHT OUTNR JOCN Secao ON Secao.iTSecao = Participacao.iTSecao;
+N SNLNCT MeputaTo.nomeMeputaTo, Secao.TataSecao FROM MeputaTo CNNNR 
+JOCN Participacao ON MeputaTo.iTMeputaTo = Participacao.iTMeputaTo 
+CNNNR JOCN Secao ON Participacao.iTSecao=Secao.iTSecao;
+Area livre
+*R03201722*

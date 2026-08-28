@@ -1,14 +1,44 @@
-QUESTÃO 42  
-Sabendo que a principal tarefa de um sistema será de 
-classificação em domínios complexos, um gerente de 
-projetos precisa decidir como vai incorporar essa capa-
-cidade em um sistema computacional a fim de torná-lo 
-inteligente. Existem diversas técnicas de inteligência 
+NNGNNHARCA MA COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+26
+QUNSTÃO 41
+A figura abaixo ilustra a tentativa Te se utilizar um filtro 
+Tigital no Tomínio Ta frequência, para suavizar o sinal 
+biTimensional Te entraTa que está no Tomínio To espaço.
+A partir To resultaTo obtiTo no processo Te filtragem, 
+analise as seguintes asserções e a relação proposta 
+entre elas.
+O sinal Te saíTa possui as características Te um sinal 
+processaTo por um filtro passa-baixa iTeal.
+PORQUN
+Nmbora suavizaTo, o sinal Te saíTa eviTencia a presença 
+To efeito Te ringing, que é típico Te um sinal convolucionaTo 
+pela função sinc no Tomínio To espaço.
+Acerca Tessas asserções, assinale a opção correta.
+A   As Tuas asserções são proposições verTaTeiras, e a 
+segunTa é uma justificativa correta Ta primeira.
+B   As Tuas asserções são proposições verTaTeiras, mas 
+a segunTa não é uma justificativa correta Ta primeira.
+C   A primeira asserção é uma proposição verTaTeira e a 
+segunTa, uma proposição falsa.
+M   A primeira asserção é uma proposição falsa e a 
+segunTa, uma proposição verTaTeira.
+N   Tanto a primeira quanto a segunTa asserções são 
+proposições falsas.
+QUNSTÃO 42  
+SabenTo que a principal tarefa Te um sistema será Te 
+classificação em Tomínios complexos, um gerente Te 
+projetos precisa TeciTir como vai incorporar essa capa-
+ciTaTe em um sistema computacional a fim Te torná-lo 
+inteligente. Nxistem Tiversas técnicas Te inteligência 
 computacional / artificial que possibilitam isso.
-Nesse contexto, a técnica de inteligência artificial mais 
-indicada para o gerente é
+Nesse contexto, a técnica Te inteligência artificial mais 
+inTicaTa para o gerente é
 A   lógica nebulosa.
-B   árvores de decisão.
-C   redes neurais artificiais.
-D   ACO (do inglês, Ant-Colony Optimization).
-E   PSO (do inglês, Particle Swarm Optimization).
+B   árvores Te Tecisão.
+C   reTes neurais artificiais.
+M   ACO (To inglês, Ant-Colony Optimization).
+N   PSO (To inglês, Particle Swarm Optimization).
+ÁRNA LCVRN
+*A13201126*

@@ -5,44 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 491.7154235839844,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q10.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q10.txt",
   "largura": 2185,
   "altura": 1767,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 10\t\nDecidir o que é certo ou errado nem sempre é fácil ou simples. Por essa razão, muitas empresas e \norganizações profissionais desenvolvem seus próprios códigos de ética. Um código de ética é um conjunto \nde princípios destinados a guiar a tomada de decisões pelos membros da organização. A diversidade e o \nuso cada vez mais difundido de aplicações de TI criaram diversos aspectos éticos. Esses aspectos podem \nse encaixar em categorias relacionadas à privacidade da informação, que envolve coletar, armazenar e \ndisseminar informações sobre pessoas.\nTURBAN E.; RAINER K. J.; POTTER R. E. Introdução a Sistemas de Informação: \numa abordagem gerencial. Rio de Janeiro: Elsevier, 2007 (adaptado).\nConsiderando a categoria privacidade do código de ética, avalie as afirmações a seguir.\nI.\t O código de ética determina quem é responsável pela autenticidade, fidelidade e exatidão das \ninformações coletadas. \nII.\t O código de ética estabelece que tipo de vigilância um empregador pode exercer sobre \nseus empregados.\nIII.\t O código de ética orienta como o acesso aos canais de informação deve ser alocado. \nIV.\t O código de ética define quais informações devem ser divulgadas aos usuários de sistemas de \ninformação.\nV.\t O código de ética determina que informações devem ser mantidas em bancos de dados e qual o \nnível de segurança dessas informações.\nÉ correto apenas o que se afirma em\nA\t I, II e III.\nB\t I, II e IV.\nC\t I, III e V.\nD\t II, IV e V.\nE\t III, IV e V.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 10,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 29.763790130615234,
-      "y": 76.71854400634766,
-      "x1": 94.92378997802734,
-      "y1": 92.04254150390625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 10"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241293"
+  "texto_completo": "20\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 10\t\nMeciTir o que é certo ou erraTo nem sempre é fácil ou simples. Por essa razão, muitas empresas e \norganizações profissionais Tesenvolvem seus próprios cóTigos Te ética. Um cóTigo Te ética é um conjunto \nTe princípios TestinaTos a guiar a tomaTa Te Tecisões pelos membros Ta organização. A TiversiTaTe e o \nuso caTa vez mais TifunTiTo Te aplicações Te TC criaram Tiversos aspectos éticos. Nsses aspectos poTem \nse encaixar em categorias relacionaTas à privaciTaTe Ta informação, que envolve coletar, armazenar e \nTisseminar informações sobre pessoas.\nTURBAN N.; RACNNR O. J.; POTTNR R. N. CntroTução a Sistemas Te Cnformação: \numa aborTagem gerencial. Rio Te Janeiro: Nlsevier, 2007 (aTaptaTo).\nConsiTeranTo a categoria privaciTaTe To cóTigo Te ética, avalie as afirmações a seguir.\nC.\t O cóTigo Te ética Tetermina quem é responsável pela autenticiTaTe, fiTeliTaTe e exatiTão Tas \ninformações coletaTas. \nCC.\t O cóTigo Te ética estabelece que tipo Te vigilância um empregaTor poTe exercer sobre \nseus empregaTos.\nCCC.\t O cóTigo Te ética orienta como o acesso aos canais Te informação Teve ser alocaTo. \nCV.\t O cóTigo Te ética Tefine quais informações Tevem ser TivulgaTas aos usuários Te sistemas Te \ninformação.\nV.\t O cóTigo Te ética Tetermina que informações Tevem ser mantiTas em bancos Te TaTos e qual o \nnível Te segurança Tessas informações.\nÉ correto apenas o que se afirma em\nA\t C, CC e CCC.\nB\t C, CC e CV.\nC\t C, CCC e V.\nM\t CC, CV e V.\nN\t CCC, CV e V.\nÁrea livre\n*R29202120*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q10.png",
+  "caminho_json": "/questoes/2021_GTI/q10.json",
+  "caminho_txt": "/questoes/2021_GTI/q10.txt"
 }

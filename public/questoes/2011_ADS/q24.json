@@ -5,44 +5,17 @@
   "paginas": [
     14
   ],
-  "segmentos": [
-    {
-      "pagina": 14,
-      "x0": 293.28,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 494.0238952636719,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2011_ADS/q24.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q24.txt",
   "largura": 1123,
   "altura": 1776,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 24  \nNo que diz respeito aos baselines (linhas base) da \ngerência de configuração, avalie as seguintes afirmações.\nI. \nAs baselines representam conjuntos de itens de \nconfiguração formalmente aprovados que servem de \nbase para as etapas seguintes de desenvolvimento.\nII. As baselines são definidas e podem ocorrer \nao final de cada uma das fases do processo de \ndesenvolvimento de software, ou de algum outro \nmodo definido pela gerência.\nIII. Um item de configuração de software “baselined” \npode ser alterado a qualquer momento durante o \ndesenvolvimento de software independentemente \nde um procedimento formal.\nIV. Ao término de uma etapa do desenvolvimento, e \napós sua aceitação formal, a baseline na qual a \netapa se baseou pode ser descartada pois já se \nencontra representada nos artefatos gerados.\nV. Uma das funções da tarefa “Identificação da \nConfiguração”, envolve a definição de uma \nnomenclatura que possibilite a identificação \ninequívoca dos itens de configuração, baselines \ne releases. \nÉ correto apenas o que se afirma em\nA   III e V.\nB   III e IV.\nC   I, II e III.\nD   I, II e IV.\nE   I, II e V.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 24,
-      "tipo": "OBJETIVA",
-      "pagina": 14,
-      "x": 302.347900390625,
-      "y": 68.1739273071289,
-      "x1": 371.4579162597656,
-      "y1": 82.03392791748047,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 24"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:21.356655"
+  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n14\nQUNSTÃO 23  \nConsiTere o Tiagrama Te entiTaTes e relacionamentos \na seguir, onTe as cUaves primárias Te caTa entiTaTe se \nencontram na parte superior Tos retângulos. As entiTaTes \nfortes são representaTas por retângulos e as entiTaTes fracas \nsão representaTas por retângulos com cantos arreTonTaTos. \nO Tiagrama atenTe as seguintes restrições:\n(i) entre Nnt1 e Nnt2, tem-se um relacionamento \nmuitos para muitos; \n(ii) entre as NntiTaTes Nnt2 e Nnt3, tem-se um \nrelacionamento Te um para nenUum, um ou muitos;\n(iii) entre Nnt1 e Nnt5, tem-se um relacionamento Te \nzero ou um para zero, um ou muitos; e \n(iv) entre Nnt3 e Nnt4, tem-se um relacionamento Te \nmuitos para muitos.\nNnt1\nNnt2\nNnt5\nNnt3\nNnt4\ncent11\ncent12\naent11\naent12\ncent21\naent21\naent22\naent23\ncent51\naent51\ncent31\naent31\naent32\ncent41\naent41\naent42\naent43\nAplicanTo a terceira forma normal ao moTelo, qual será o \ntotal Te colunas que Teve ser criaTo para representar as \ncUaves estrangeiras?\nA   3.\nB   5.\nC   7.\nM   8.\nN   9.\nQUNSTÃO 24  \nNo que Tiz respeito aos baselines (linUas base) Ta \ngerência Te configuração, avalie as seguintes afirmações.\nC. \nAs baselines representam conjuntos Te itens Te \nconfiguração formalmente aprovaTos que servem Te \nbase para as etapas seguintes Te Tesenvolvimento.\nCC. As baselines são TefiniTas e poTem ocorrer \nao final Te caTa uma Tas fases To processo Te \nTesenvolvimento Te software, ou Te algum outro \nmoTo TefiniTo pela gerência.\nCCC. Um item Te configuração Te software “baselineT” \npoTe ser alteraTo a qualquer momento Turante o \nTesenvolvimento Te software inTepenTentemente \nTe um proceTimento formal.\nCV. Ao término Te uma etapa To Tesenvolvimento, e \napós sua aceitação formal, a baseline na qual a \netapa se baseou poTe ser TescartaTa pois já se \nencontra representaTa nos artefatos geraTos.\nV. Uma Tas funções Ta tarefa “CTentificação Ta \nConfiguração”, envolve a Tefinição Te uma \nnomenclatura que possibilite a iTentificação \ninequívoca Tos itens Te configuração, baselines \ne releases. \nÉ correto apenas o que se afirma em\nA   CCC e V.\nB   CCC e CV.\nC   C, CC e CCC.\nM   C, CC e CV.\nN   C, CC e V.\nQUNSTÃO 25  \nNm projetos Te Tesenvolvimento Te software, vários tipos Te \ntestes poTem ser empregaTos para garantia Ta qualiTaTe \nTo proTuto. Um Tos tipos comumente empregaTos é o \nteste Te regressão, o qual tem como objetivo\nA   iTentificar Tefeitos através Ta verificação To \ncóTigo-fonte.\nB   iTentificar Tefeitos através Ta execução To sistema ou \nparte Tele.\nC   iTentificar Tefeitos no sistema em situação Te \nsobrecarga.\nM   verificar a existência Te Tefeitos após alterações em \num sistema (ou parte Tele) já testaTo.\nN   verificar a existência Te Tefeitos em um sistema ou \nparte Tele.\n*A25201114*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_ADS/q24.png",
+  "caminho_json": "/questoes/2011_ADS/q24.json",
+  "caminho_txt": "/questoes/2011_ADS/q24.txt"
 }

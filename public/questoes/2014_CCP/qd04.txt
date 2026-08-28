@@ -1,27 +1,46 @@
-QUESTÃO DISCURSIVA 4
-DƵŝƚĂƐ ĂƉůŝĐĂĕƁĞƐ ƵƟůŝǌĂŵ Ž ƐŝƐƚĞŵĂ ĚĞ ůŽĐĂůŝǌĂĕĆŽ ;'W^Ϳ ĚŽ ĚŝƐƉŽƐŝƟǀŽ ŵſǀĞů ĚŽ ƵƐƵĄƌŝŽ ƉĂƌĂ ĚĞƐĐŽďƌŝƌ 
-ƋƵĂů Ž ŵĞůŚŽƌ ĐĂŵŝŶŚŽ Ă ƐĞŐƵŝƌ͘   ůŐƵŵĂƐ ĂƉůŝĐĂĕƁĞƐ ƚĂŵďĠŵ ƉĞƌŵŝƚĞŵ ƋƵĞ Ž ƵƐƵĄƌŝŽ ŶŽƟĮƋƵĞ Ă ŽĐŽƌƌġŶĐŝĂ 
-ĚĞ ĞǀĞŶƚŽƐ ƋƵĞ ĞůĞ ƉƌĞƐĞŶĐŝĂ ĚƵƌĂŶƚĞ ƐĞƵ ƉĞƌĐƵƌƐŽ͕  ƚĂŝƐ ĐŽŵŽ ĂĐŝĚĞŶƚĞƐ ŽƵ ƚƌąŶƐŝƚŽ ůĞŶƚŽ͘  Eŵ Ƶŵ ƉŽƐƐşǀĞů 
-ĐĞŶĄƌŝŽ͕  ĞƐƚĂ ŶŽƟĮĐĂĕĆŽ Ġ ĞŶǀŝĂĚĂ ƉĂƌĂ Ƶŵ ƐĞƌǀŝĚŽƌ ĐĞŶƚƌĂůŝǌĂĚŽ͕  Ž ƋƵĂů Ġ ƌĞƐƉŽŶƐĄǀĞů ƉŽƌ ĚŝƐƐĞŵŝŶĂƌ Ă 
-ŶŽƟĮĐĂĕĆŽ ƉĂƌĂ ŽƐ ĚĞŵĂŝƐ ƵƐƵĄƌŝŽƐ ĚŽ ĂƉůŝĐĂƟǀŽ͘  hŵĂ ĞƋƵŝƉĞ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ĐƌŝŽƵ ƵŵĂ ĂƉůŝĐĂĕĆŽ 
-ĚĞƐƐĞ  ƟƉŽ  ƵƟůŝǌĂŶĚŽ  ƵŵĂ  ďĂƐĞ  ĚĞ  ĚĂĚŽƐ  ƌĞůĂĐŝŽŶĂů  ƉĂƌĂ  Ž  ĂƌŵĂǌĞŶĂŵĞŶƚŽ  ĚĞ  ĚĂĚŽƐ  ƌĞĨĞƌĞŶƚĞƐ  ĂŽƐ 
-ƵƐƵĄƌŝŽƐ͕  ĞǀĞŶƚŽƐ Ğ ŶŽƟĮĐĂĕƁĞƐ ĞŶǀŝĂĚĂƐ͘    ŵŽĚĞůĂŐĞŵ ĐŽŶĐĞŝƚƵĂů ĨŽŝ ĨĞŝƚĂ ƵƟůŝǌĂŶĚŽ Ž ĚŝĂŐƌĂŵĂ ĞŶƟĚĂĚĞͲ
-ƌĞůĂĐŝŽŶĂŵĞŶƚŽ ĐŽŶĨŽƌŵĞ ĂƉƌĞƐĞŶƚĂĚŽ ŶĂ ĮŐƵƌĂ Ă ƐĞŐƵŝƌ͘
+10
+C/NNC/  M  COMPUT AãO
+QUNSTÃO MCSCURSCVA 4
+Muitas aplicações utilizam o sistema Te localização ('PS) To Tispositivo movel To usuArio para Tescobrir 
+qual o melUor caminUo a seguir.   lgumas aplicações também permitem que o usuArio notifque a ocorrgncia 
+Te eventos que ele presencia Turante seu percurso,  tais como aciTentes ou transito lento.  Nm um possível 
+cenArio,  esta notifcação é enviaTa para um serviTor centralizaTo,  o qual é responsAvel por Tisseminar a 
+notifcação para os Temais usuArios To aplicativo.  Uma equipe Te Tesenvolvimento criou uma aplicação 
+Tesse  tipo  utilizanTo  uma  base  Te  TaTos  relacional  para  o  armazenamento  Te  TaTos  referentes  aos 
+usuArios,  eventos e notifcações enviaTas.    moTelagem conceitual foi feita utilizanTo o Tiagrama entiTaTe-
+relacionamento conforme apresentaTo na fgura a seguir.
 Usuário
 cpf
 nome
-latitude
+latituTe
 0,N
 0,N
 notificação
-longitude
-Evento
-id
-descrição
-  ĞƋƵŝƉĞ ĚĞ ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ ĚĞƐĞũĂ ĂĚŝĐŝŽŶĂƌ ĂƐ ƐĞŐƵŝŶƚĞƐ ĐĂƌĂĐƚĞƌşƐƟĐĂƐ ĂŽ ŵŽĚĞůŽ͗
-ͻ  IĂĚĂ ŶŽƟĮĐĂĕĆŽ ĚĞǀĞ ƚĞƌ ĚĂƚĂ Ğ ŚŽƌĂ͖
-ͻ  K ŐƌƵƉŽ ĚĞ ƵƐƵĄƌŝŽƐ ƉĂƌĂ Ž ƋƵĂů ƵŵĂ ŶŽƟĮĐĂĕĆŽ Ġ ĞŶǀŝĂĚĂ ĚĞǀĞ ƐĞƌ ƌĞƐƚƌŝƚŽ͘  IĂĚĂ ƵƐƵĄƌŝŽ ĚĞǀĞ ƚĞƌ Ƶŵ 
-ŐƌƵƉŽ ĐŽŵ Ƶŵ ŶƷŵĞƌŽ ĂƌďŝƚƌĄƌŝŽ ĚĞ ĂŵŝŐŽƐ͕  ƋƵĞ ƚĂŵďĠŵ ƐĆŽ ƵƐƵĄƌŝŽƐ ĚĂ ĂƉůŝĐĂĕĆŽ͕  Ğ ĂƐ ŶŽƟĮĐĂĕƁĞƐ 
-ĞŶǀŝĂĚĂƐ ƉŽƌ Ƶŵ ƵƐƵĄƌŝŽ ĚĞǀĞŵ ƐĞƌ ĞŶǀŝĂĚĂƐ ƐŽŵĞŶƚĞ Ă ƐĞƵƐ ĂŵŝŐŽƐ͘  dĂŵďĠŵ ƐĞ ĚĞƐĞũĂ ĂƌŵĂǌĞŶĂƌ 
-ŝŶĨŽƌŵĂĕƁĞƐ ƐŽďƌĞ ƋƵĂŝƐ ŶŽƟĮĐĂĕƁĞƐ ĨŽƌĂŵ ĞŶǀŝĂĚĂƐ ƉĂƌĂ ƋƵĂŝƐ ƵƐƵĄƌŝŽƐ͘
-EĞƐƐĂ ƐŝƚƵĂĕĆŽ͕  ĂĚĂƉƚĞ Ž ĚŝĂŐƌĂŵĂ EZ ĚĂ ĮŐƵƌĂ ƉĂƌĂ ĂƚĞŶĚĞƌ ŽƐ ŶŽǀŽƐ ƌĞƋƵŝƐŝƚŽƐ͘ ;ǀĂůŽƌ͗  10͕ 0 ƉŽŶƚŽƐͿ
+longituTe
+Nvento
+iT
+Tescrição
+  equipe Te Tesenvolvimento Teseũa aTicionar as seguintes características ao moTelo:
+ͻ  CaTa notifcação Teve ter Tata e Uora͖
+ͻ  O grupo Te usuArios para o qual uma notifcação é enviaTa Teve ser restrito.  CaTa usuArio Teve ter um 
+grupo com um numero arbitrArio Te amigos,  que também são usuArios Ta aplicação,  e as notifcações 
+enviaTas por um usuArio Tevem ser enviaTas somente a seus amigos.  Também se Teseũa armazenar 
+informações sobre quais notifcações foram enviaTas para quais usuArios.
+Nessa situação,  aTapte o Tiagrama NZ Ta fgura para atenTer os novos requisitos. (valor:  10, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R03201410*

@@ -1,41 +1,148 @@
-QUESTÃO 33
-Compiladores de linguagens de programação traduzem
-programas-fonte, em uma linguagem de entrada, para
-programas-objeto, em uma linguagem de saída. Durante o
-processo de tradução, o compilador deve verificar se as
-sentenças do programa-fonte estão sintaticamente corretas.
-Esse processo de análise sintática pode ser realizado
-construindo-se uma árvore de análise segundo duas
-principais abordagens: top-down, quando a árvore é
-investigada da raiz às folhas; ou bottom-up, das folhas à
-raiz. Acerca desse assunto, julgue os itens seguintes.
-I
-A análise top-down é adequada quando a linguagem de
-entrada é definida por uma gramática recursiva à
-esquerda.
-II
-Independentemente da abordagem adotada, top-down
-ou bottom-up, o analisador sintático utiliza informações
-resultantes da análise léxica.
-III Se os programas em uma linguagem podem ser
-analisados tanto em abordagem top-down como em
-bottom-up, a gramática dessa linguagem é ambígua.
-IV A 
+13
+COMPUTAÇÃO
+QUNSTÃO 31
+Julgue os itens a seguir, relativos a métoTos Te busca com
+informação (busca Ueurística) e sem informação (busca
+cega), aplicaTos a problemas em que toTas as ações têm
+o mesmo custo, o grafo Te busca tem fator Te ramificação
+finito e as ações não retornam a estaTos já visitaTos.
+C
+A primeira solução encontraTa pela estratégia Te busca
+em largura é a solução ótima.
+CC
+A primeira solução encontraTa pela estratégia Te busca
+em profunTiTaTe é a solução ótima.
+CCC As estratégias Te busca com informação usam funções
+Ueurísticas que, quanTo bem TefiniTas, permitem
+melUorar a eficiência Ta busca.
+CV A estratégia Te busca gulosa é eficiente porque
+expanTe apenas os nós que estão no caminUo Ta
+solução.
+Nstão certos apenas os itens
+A
+C e CC.
+B
+C e CCC.
+C
+C e CV.
+M
+CC e CV.
+N
+CCC e CV.
+QUNSTÃO 32
+Uma 
+empresa 
+realizou 
+uma 
+avaliação 
+Te
+TesempenUo Te um sistema web. Nessa avaliação, foram
+TeterminaTos o Tesvio paTrão e a méTia To tempo Te
+resposta To referiTo sistema, tenTo como base 10
+consultas realizaTas. Constatou-se que o tempo Te
+resposta To sistema web possui Tistribuição normal. Para
+um nível Te confiança Te 95%, iTentificou-se o intervalo Te
+confiança para a méTia To tempo Te resposta Tas
+consultas.
+Com relação a essa avaliação Te TesempenUo, julgue os
+itens abaixo.
+C
+Com a meTição To tempo Te resposta To sistema para
+10 consultas aTicionais, é possível que a méTia e o
+Tesvio paTrão To tempo Te resposta para o conjunto
+Tas 20 consultas aumente ou Timinua.
+CC
+Com a meTição To tempo Te resposta To sistema para
+15 consultas aTicionais, com nível Te confiança Te
+95%, o intervalo Te confiança para o conjunto Tas 25
+consultas é maior que o intervalo Te confiança para o
+conjunto Tas 10 consultas iniciais.
+CCC Na meTição To tempo Te resposta Tas 10 consultas
+iniciais, o intervalo Te confiança com nível Te confiança
+Te 99% é maior que o intervalo Te confiança com nível
+Te confiança Te 95%.
+Assinale a opção correta.
+A
+Apenas um item está certo.
+B
+Apenas os itens C e CC estão certos.
+C
+Apenas os itens C e CCC estão certos.
+M
+Apenas os itens CC e CCC estão certos.
+N
+ToTos os itens estão certos.
+QUNSTÃO 33
+CompilaTores Te linguagens Te programação traTuzem
+programas-fonte, em uma linguagem Te entraTa, para
+programas-objeto, em uma linguagem Te saíTa. Murante o
+processo Te traTução, o compilaTor Teve verificar se as
+sentenças To programa-fonte estão sintaticamente corretas.
+Nsse processo Te análise sintática poTe ser realizaTo
+construinTo-se uma árvore Te análise segunTo Tuas
+principais aborTagens: top-Town, quanTo a árvore é
+investigaTa Ta raiz às folUas; ou bottom-up, Tas folUas à
+raiz. Acerca Tesse assunto, julgue os itens seguintes.
+C
+A análise top-Town é aTequaTa quanTo a linguagem Te
+entraTa é TefiniTa por uma gramática recursiva à
+esquerTa.
+CC
+CnTepenTentemente Ta aborTagem aTotaTa, top-Town
+ou bottom-up, o analisaTor sintático utiliza informações
+resultantes Ta análise léxica.
+CCC Se os programas em uma linguagem poTem ser
+analisaTos tanto em aborTagem top-Town como em
+bottom-up, a gramática Tessa linguagem é ambígua.
+CV A 
 análise 
 bottom-up 
 utiliza 
 ações 
 comumente
-conhecidas como deslocamentos e reduções sobre as
-sentenças do programa-fonte. 
-Estão certos apenas os itens
+conUeciTas como Teslocamentos e reTuções sobre as
+sentenças To programa-fonte. 
+Nstão certos apenas os itens
 A
-I e II.
+C e CC.
 B
-I e III.
+C e CCC.
 C
-II e IV.
-D
-I, III e IV.
-E
-II, III e IV.
+CC e CV.
+M
+C, CCC e CV.
+N
+CC, CCC e CV.
+QUNSTÃO 34
+MoTems são Tispositivos capazes Te converter um sinal
+Tigital em um sinal analógico e vice-versa. No processo Te
+moTulação, para representar o sinal Tigital, o moTem poTe
+manipular as características Te uma onTa portaTora
+(amplituTe, freqüência e fase), TerivanTo Tiferentes técnicas
+Te moTulação, por exemplo: cUaveamento Ta amplituTe
+(ASO), cUaveamento Ta freqüência (FSO) e cUaveamento
+Ta fase (PSO). Com relação a técnicas Te moTulação,
+julgue os itens a seguir.
+C
+A moTulação ASO é suscetível a ruíTos.
+CC
+A moTulação FSO possui maior imuniTaTe a ruíTos
+quanTo comparaTa à moTulação ASO.
+CCC Na moTulação PSO, a fase Ta portaTora é moTificaTa
+Turante o intervalo Te sinalização.
+CV Nxistem técnicas UíbriTas Te moTulação Tigital que
+moTificam tanto a amplituTe quanto a fase Ta portaTora.
+V As Tiversas técnicas Te moTulação transmitem, no
+mínimo, um único bit e, no máximo, 2 bits, por intervalo
+Te sinalização.
+Nstão certos apenas os itens
+A
+C, CC e CV.
+B
+C, CC e V.
+C
+C, CCC e CV.
+M
+CC, CCC e V.
+N
+CCC, CV e V.

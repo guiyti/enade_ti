@@ -1,37 +1,40 @@
-QUESTÃO 12
-Eŵ Ƶŵ ĐŽŵƉƵƚĂĚŽƌ͕  Ă ŵĞŵſƌŝĂ Ġ Ă ƵŶŝĚĂĚĞ ĨƵŶĐŝŽŶĂů ƋƵĞ ĂƌŵĂǌĞŶĂ Ğ ƌĞĐƵƉĞƌĂ ŽƉĞƌĂĕƁĞƐ Ğ ĚĂĚŽƐ͘  
-dŝƉŝĐĂŵĞŶƚĞ͕  Ă ŵĞŵſƌŝĂ ĚĞ Ƶŵ ĐŽŵƉƵƚĂĚŽƌ ƵƐĂ ƵŵĂ ƚĠĐŶŝĐĂ ĐŚĂŵĂĚĂ ĂĐĞƐƐŽ ĂůĞĂƚſƌŝŽ͕  ƋƵĞ ƉĞƌŵŝƚĞ 
-Ž ĂĐĞƐƐŽ Ă ƋƵĂůƋƵĞƌ ƵŵĂ ĚĞ ƐƵĂƐ ƉŽƐŝĕƁĞƐ ;ĐĠůƵůĂƐͿ͘   Ɛ ŵĞŵſƌŝĂƐ ĚĞ ĂĐĞƐƐŽ ĂůĞĂƚſƌŝŽ ƐĆŽ ĚŝǀŝĚŝĚĂƐ Ğŵ 
-ĐĠůƵůĂƐ ĚĞ ƚĂŵĂŶŚŽ  ĮǆŽ͕  ĞƐƚĂŶĚŽ  ĐĂĚĂ ĐĠůƵůĂ ĂƐƐŽĐŝĂĚĂ Ă Ƶŵ ŝĚĞŶƟĮĐĂĚŽƌ ŶƵŵĠƌŝĐŽ ƷŶŝĐŽ ĐŚĂŵĂĚŽ 
-ĞŶĚĞƌĞĕŽ͘  dŽĚŽƐ ŽƐ ĂĐĞƐƐŽƐ ă ŵĞŵſƌŝĂ ƌĞĨĞƌĞŵͲƐĞ Ă Ƶŵ ĞŶĚĞƌĞĕŽ ĞƐƉĞĐşĮĐŽ Ğ ĚĞǀĞͲƐĞ ƐĞŵƉƌĞ ďƵƐĐĂƌ ŽƵ 
-ĂƌŵĂǌĞŶĂƌ Ž ĐŽŶƚĞƷĚŽ ĐŽŵƉůĞƚŽ ĚĞ ƵŵĂ ĐĠůƵůĂ͕  ŽƵ ƐĞũĂ͕  Ă ĐĠůƵůĂ Ġ Ă ƵŶŝĚĂĚĞ ŵşŶŝŵĂ ĚĞ ĂĐĞƐƐŽ͘
-^I,EE/DEZ͕  '͘  D͖͘  'EZ^d/E'͕  :͘  >͘   Ŷ /ŶǀŝƚĂƟŽŶ ƚŽ ĐŽŵƉƵƚĞƌ ƐĐŝĞŶĐĞ͘  6͘  ĞĚ͘  ŽƐƚŽŶ͗
-D ͗  IŽƵƌƐĞ dĞĐŚŶŽůŽŐǇ͕  IĞŶŐĂŐĞ >ĞĂƌŶŝŶŐ͕  2009 ;ĂĚĂƉƚĂĚŽͿ͘
-  ĮŐƵƌĂ ƋƵĞ ƐĞ ƐĞŐƵĞ ĂƉƌĞƐĞŶƚĂ Ă ĞƐƚƌƵƚƵƌĂ ĚĞ ƵŵĂ ƵŶŝĚĂĚĞ ĚĞ ŵĞŵſƌŝĂ ĚĞ ĂĐĞƐƐŽ ĂůĞĂƚſƌŝŽ͘
-Endereço
+CCÊNCCA MA COMPUTAÇÃO
+18
+QUNSTÃO 12
+Nm um computaTor,  a memoria é a uniTaTe funcional que armazena e recupera operações e TaTos.  
+Tipicamente,  a memoria Te um computaTor usa uma técnica cUamaTa acesso aleatorio,  que permite 
+o acesso a qualquer uma Te suas posições (células).   s memorias Te acesso aleatorio são TiviTiTas em 
+células Te tamanUo  fxo,  estanTo  caTa célula associaTa a um iTentifcaTor numérico unico cUamaTo 
+enTereço.  ToTos os acessos a memoria referem-se a um enTereço específco e Teve-se sempre buscar ou 
+armazenar o conteuTo completo Te uma célula,  ou seũa,  a célula é a uniTaTe mínima Te acesso.
+SC,NN/MNZ,  '.  M.͖  'NZST/N',  :.  >.   n /nvitation to computer science.  6.  eT.  Boston:
+M :  Course TecUnologǇ,  Cengage >earning,  2009 (aTaptaTo).
+  fgura que se segue apresenta a estrutura Te uma uniTaTe Te memoria Te acesso aleatorio.
+NnTereço
 Memória
-Registrador de endereços
-da memória
+RegistraTor Te enTereços
+Ta memória
 0
 1
 2
 3
 2N-1
-Registrador de dados da
+RegistraTor Te TaTos Ta
 memória
-Largura da memória
+Largura Ta memória
 1 bit
 N bits
-IŽŶƐŝĚĞƌĂŶĚŽ Ž ĨƵŶĐŝŽŶĂŵĞŶƚŽ ĚĞ ƵŵĂ ŵĞŵſƌŝĂ ĚĞ ĂĐĞƐƐŽ ĂůĞĂƚſƌŝŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   ^Ğ Ă ůĂƌŐƵƌĂ ĚŽ ƌĞŐŝƐƚƌĂĚŽƌ ĚĞ ĞŶĚĞƌĞĕŽƐ ĚĂ ŵĞŵſƌŝĂ ĨŽƌ ĚĞ 8 bits͕  Ž ƚĂŵĂŶŚŽ ŵĄǆŝŵŽ ĚĞƐƐĂ 
-ƵŶŝĚĂĚĞ ĚĞ ŵĞŵſƌŝĂ ƐĞƌĄ ĚĞ 256 ĐĠůƵůĂƐ͘
-//͘   ^Ğ Ž ƌĞŐŝƐƚƌĂĚŽƌ ĚĞ ĚĂĚŽƐ ĚĂ ŵĞŵſƌŝĂ ƟǀĞƌ 8 bits͕  ƐĞƌĄ ŶĞĐĞƐƐĄƌŝĂ ŵĂŝƐ ƋƵĞ ƵŵĂ ŽƉĞƌĂĕĆŽ ƉĂƌĂ 
-ĂƌŵĂǌĞŶĂƌ Ž ǀĂůŽƌ ŝŶƚĞŝƌŽ 2 024 ŶĞƐƐĂ ƵŶŝĚĂĚĞ ĚĞ ŵĞŵſƌŝĂ͘
-///͘  ^Ğ Ž ƌĞŐŝƐƚƌĂĚŽƌ ĚĞ ĚĂĚŽƐ ĚĂ ŵĞŵſƌŝĂ ƟǀĞƌ 12 bits͕  Ġ ƉŽƐƐşǀĞů ƋƵĞ Ă ůĂƌŐƵƌĂ ĚĂ ŵĞŵſƌŝĂ ƐĞũĂ 
-ĚĞ 8 bits.
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  /͕  ĂƉĞŶĂƐ͘
-B  ///͕  ĂƉĞŶĂƐ͘
-C  / Ğ //͕  ĂƉĞŶĂƐ͘
-D  // Ğ /// ĂƉĞŶĂƐ͘
-E  /͕  // Ğ ///͘
+ConsiTeranTo o funcionamento Te uma memoria Te acesso aleatorio,  avalie as afrmações a seguir.
+/.   Se a largura To registraTor Te enTereços Ta memoria for Te 8 bits,  o tamanUo mAximo Tessa 
+uniTaTe Te memoria serA Te 256 células.
+//.   Se o registraTor Te TaTos Ta memoria tiver 8 bits,  serA necessAria mais que uma operação para 
+armazenar o valor inteiro 2 024 nessa uniTaTe Te memoria.
+///.  Se o registraTor Te TaTos Ta memoria tiver 12 bits,  é possível que a largura Ta memoria seũa 
+Te 8 bits.
+ correto o que se afrma em
+A  /,  apenas.
+B  ///,  apenas.
+C  / e //,  apenas.
+M  // e /// apenas.
+N  /,  // e ///.
+*R03201718*

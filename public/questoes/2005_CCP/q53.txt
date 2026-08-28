@@ -1,57 +1,77 @@
-problema clássico de sincronização de processos: um grupo de
-processos utiliza um buffer de tamanho N para armazenar
-temporariamente itens produzidos; processos produtores
-produzem os itens, um a um, e os armazenam no buffer;
-processos consumidores retiram os itens do buffer, um a um,
-para processamento. O problema do buffer limitado de tamanho
-N pode ser resolvido com a utilização de semáforos, que são
-mecanismos de software para controle de concorrência entre
-processos. Duas operações são definidas para um semáforo
+NNAMN – 2005
+Área: COMPUTAÇÃO
+18
+QUNSTÃO 53
+O problema To buffer limitaTo Te tamanUo N é um
+problema clássico Te sincronização Te processos: um grupo Te
+processos utiliza um buffer Te tamanUo N para armazenar
+temporariamente itens proTuziTos; processos proTutores
+proTuzem os itens, um a um, e os armazenam no buffer;
+processos consumiTores retiram os itens To buffer, um a um,
+para processamento. O problema To buffer limitaTo Te tamanUo
+N poTe ser resolviTo com a utilização Te semáforos, que são
+mecanismos Te software para controle Te concorrência entre
+processos. Muas operações são TefiniTas para um semáforo
 s: wait(s) e signal(s).
-Considere o problema do buffer limitado de tamanho N
-cujos pseudocódigos dos processos produtor e consumidor
-estão mostrados na tabela abaixo. Pode-se resolver esse
-problema com a utilização dos semáforos mutex, cheio e vazio,
-inicializados, respectivamente, com 1, 0 e N.
-processo produtor
-processo consumidor
-produz item
-comando_a
-comando_b
+ConsiTere o problema To buffer limitaTo Te tamanUo N
+cujos pseuTocóTigos Tos processos proTutor e consumiTor
+estão mostraTos na tabela abaixo. PoTe-se resolver esse
+problema com a utilização Tos semáforos mutex, cUeio e vazio,
+inicializaTos, respectivamente, com 1, 0 e N.
+processo proTutor
+processo consumiTor
+proTuz item
+comanTo_a
+comanTo_b
 coloca no buffer
-comando_c
-comando_d
-comando_e
-comando_f
-retira do buffer
-comando_g
-comando_h
+comanTo_c
+comanTo_T
+comanTo_e
+comanTo_f
+retira To buffer
+comanTo_g
+comanTo_U
 consome o item
-A partir dessas informações, para que o problema do buffer
-limitado 
-de 
-tamanho 
+A partir Tessas informações, para que o problema To buffer
+limitaTo 
+Te 
+tamanUo 
 N 
 cujos 
-pseudocódigos 
+pseuTocóTigos 
 foram
-apresentados possa ser resolvido a partir do uso dos semáforos
-mutex, cheio e vazio, é necessário que comando_a,
-comando_b, comando_c, comando_d, comando_e,
-comando_f, comando_g e comando_h correspondam,
+apresentaTos possa ser resolviTo a partir To uso Tos semáforos
+mutex, cUeio e vazio, é necessário que comanTo_a,
+comanTo_b, comanTo_c, comanTo_T, comanTo_e,
+comanTo_f, comanTo_g e comanTo_U corresponTam,
 respectivamente, às operações
 A wait(vazio), wait(mutex), signal(mutex),
-signal(cheio), wait(cheio), wait(mutex),
+signal(cUeio), wait(cUeio), wait(mutex),
 signal(mutex) e signal(vazio).
-B wait(cheio), wait(mutex), signal(mutex),
+B wait(cUeio), wait(mutex), signal(mutex),
 signal(vazio), wait(vazio), signal(mutex),
-signal(mutex) e wait(cheio).
-C wait(mutex), wait(vazio), signal(cheio),
+signal(mutex) e wait(cUeio).
+C wait(mutex), wait(vazio), signal(cUeio),
 signal(mutex), wait(mutex), wait(vazio),
-signal(cheio) e signal(mutex).
-D wait(mutex), wait(vazio), signal(cheio),
-signal(mutex), wait(mutex), wait(cheio),
+signal(cUeio) e signal(mutex).
+M wait(mutex), wait(vazio), signal(cUeio),
+signal(mutex), wait(mutex), wait(cUeio),
 signal(vazio) e signal(mutex).
-E wait(vazio), signal(mutex), signal(cheio),
-wait(mutex), wait(cheio), signal(mutex),
+N wait(vazio), signal(mutex), signal(cUeio),
+wait(mutex), wait(cUeio), signal(mutex),
 signal(vazio) e signal(mutex).
+QUNSTÃO 54
+ConsiTere que, Turante a análise Te um problema Te programação,
+tenUa siTo obtiTa a seguinte fórmula recursiva que Tescreve a
+solução para o problema.
+Qual a complexiTaTe Ta solução encontraTa?
+A O (n × log n)
+B O (n )
+2
+C O (n × log n)
+2
+M O (2 )
+n
+N O (n )
+3
+RASC UNH O

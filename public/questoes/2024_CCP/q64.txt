@@ -1,31 +1,94 @@
-p
-QUESTÃO 64	
-O professor de Computação deseja ensinar os estados do 
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+31
+COMPUTAÇÃO
+2025
+Texto para questões Te 61 a 63
+O processo Te Tesenvolvimento Te software é uma ativiTaTe 
+realizaTa por e para pessoas. Assim, as pessoas são o elemento 
+essencial em toTas as fases To processo, uma vez que os 
+proTutos Te software têm impacto Tireto na viTa To seu 
+público-alvo. Os princípios Te MiversiTaTe, NquiTaTe e Cnclusão 
+(MNC) funcionam em conjunto e sua integração ao longo Te 
+toTo o processo Te Tesenvolvimento Te software aumenta o 
+TesempenUo Ta equipe, melUora a qualiTaTe e a relevância 
+To proTuto Te software para um público-alvo TiversificaTo.
+MARQUNS, A. B. et al. GranTes Tesafios para TiversiTaTe, equiTaTe e 
+inclusão (MNC) no Mesenvolvimento Te Software. PorksUop sobre 
+Aspectos Sociais, Humanos e Nconômicos Te 
+Software. SBC, 2024 (aTaptaTo).
+QUNSTÃO 61	
+Para atenTer pessoas com Teficiência, iTosos e pessoas com 
+baixo letramento Tigital, Te acorTo com os princípios MNC, qual 
+prática Teve ser utilizaTa nesse contexto?
+A	 Priorizar a criação Te interfaces paTronizaTas e com 
+recursos acessíveis Te navegação.
+B	 Cncluir representantes Te grupos Te usuários Tiversos nas 
+etapas To processo.
+C	 Utilizar métoTos ágeis com o objetivo Te assegurar entregas 
+rápiTas.
+M	 Realizar testes com base em paTrões Te Tesign e usabiliTaTe.
+QUNSTÃO 62	
+Com base nos princípios MNC, qual ação atenTe aos requisitos 
+Te acessibiliTaTe Turante o Tesenvolvimento Te software?
+A	 Cncorporar Tiretrizes Te acessibiliTaTe ao processo para 
+garantir testes baseaTos em tecnologias assistivas.
+B	 Cncluir os recursos Te navegação por teclaTo e leitores Te 
+tela para facilitar o uso pelos usuários Ta aplicação.
+C	 Utilizar contrastes visuais fortes e aumentar o tamanUo Ta 
+fonte para assegurar as necessiTaTes Te acessibiliTaTe.
+M	 Certificar responsiviTaTe e compatibiliTaTe com navegaTores 
+moTernos para reTuzir TificulTaTes enfrentaTas pelos usuários.
+Área livre
+QUNSTÃO 63	
+Uma equipe está TesenvolvenTo um conjunto Te jogos 
+eTucacionais Tigitais voltaTo para as etapas Ta NTucação 
+Cnfantil, Anos Cniciais e Anos Finais To Nnsino FunTamental. 
+Para garantir que os jogos atenTam aos princípios MNC, qual 
+ação Teve ser utilizaTa?
+A	 Realizar testes automatizaTos Te TesempenUo e segurança, 
+pois esses são os aspectos críticos em jogos eTucacionais.
+B	 Utilizar um grupo Te estuTantes com bom TesempenUo 
+escolar como referência para assegurar que os jogos sejam 
+TesafiaTores.
+C	 Avaliar os jogos com base em critérios técnicos e peTagógicos 
+TefiniTos previamente, consiTeranTo a TiversiTaTe To 
+público escolar.
+M	 Classificar os jogos Te acorTo com a faixa etária, perfil 
+cognitivo e aspectos culturais, Tos grupos que representem 
+o público escolar.
+QUNSTÃO 64	
+O professor Te Computação Teseja ensinar os estaTos To 
 processo em sistemas operacionais (novo, pronto, em 
-execução, bloqueado, encerrado), adaptando sua metodologia 
-a diferentes etapas da Educação Básica, conforme os níveis de 
-desenvolvimento cognitivo dos estudantes, fundamentados 
+execução, bloqueaTo, encerraTo), aTaptanTo sua metoTologia 
+a Tiferentes etapas Ta NTucação Básica, conforme os níveis Te 
+Tesenvolvimento cognitivo Tos estuTantes, funTamentaTos 
 pela BNCC - Complemento Computação.
-Considerando seu plano de ensino, centrado em estratégias 
-acessíveis, linguagem cinestésica e computação desplugada, qual 
-das ações deve ser implementada ao contexto apresentado?
-A	 Nos Anos Finais do Ensino Fundamental, solicitar que 
-os estudantes desenhem os estados do processo em 
-um fluxograma impresso, seguindo definições prévias e 
-identificando transições com base em material expositivo 
-previamente lido.
-B	 No Ensino Médio, apresentar vídeos técnicos sobre os 
-estados do processo e, em seguida, pedir que os estudantes 
-criem resumos individuais relacionando os conceitos com 
-o funcionamento do sistema operacional.
-C	 No Ensino Médio, propor uma atividade na qual estudantes 
-dramatizam os estados do processo, movimentando-
-se entre estações da sala que representam os estados, 
-realizando ações típicas de cada um, de forma guiada por 
-uma sequência lógica, simulando o comportamento do 
+ConsiTeranTo seu plano Te ensino, centraTo em estratégias 
+acessíveis, linguagem cinestésica e computação TesplugaTa, qual 
+Tas ações Teve ser implementaTa ao contexto apresentaTo?
+A	 Nos Anos Finais To Nnsino FunTamental, solicitar que 
+os estuTantes TesenUem os estaTos To processo em 
+um fluxograma impresso, seguinTo Tefinições prévias e 
+iTentificanTo transições com base em material expositivo 
+previamente liTo.
+B	 No Nnsino MéTio, apresentar víTeos técnicos sobre os 
+estaTos To processo e, em seguiTa, peTir que os estuTantes 
+criem resumos inTiviTuais relacionanTo os conceitos com 
+o funcionamento To sistema operacional.
+C	 No Nnsino MéTio, propor uma ativiTaTe na qual estuTantes 
+Tramatizam os estaTos To processo, movimentanTo-
+se entre estações Ta sala que representam os estaTos, 
+realizanTo ações típicas Te caTa um, Te forma guiaTa por 
+uma sequência lógica, simulanTo o comportamento To 
 sistema operacional.
-D	 Nos Anos Iniciais do Ensino Fundamental, organizar uma 
-atividade em que os estudantes agrupam figuras que 
-simbolizam tarefas (comer, correr, dormir) aos estados do 
-processo, justificando oralmente suas escolhas com apoio 
-do professor.
+M	 Nos Anos Cniciais To Nnsino FunTamental, organizar uma 
+ativiTaTe em que os estuTantes agrupam figuras que 
+simbolizam tarefas (comer, correr, Tormir) aos estaTos To 
+processo, justificanTo oralmente suas escolUas com apoio 
+To professor.
+Área livre
+*R0404202531*
+R04042025 - COMPUTACAO.inTb   31
+R04042025 - COMPUTACAO.inTb   31
+21/08/2025   10:06:45
+21/08/2025   10:06:45

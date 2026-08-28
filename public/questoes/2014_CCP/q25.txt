@@ -1,36 +1,40 @@
-QUESTÃO 25
-hŵĂ  ŐƌĂŵĄƟĐĂ  ůŝǀƌĞ  ĚŽ  ĐŽŶƚĞǆƚŽ  ;'>IͿ  Ġ  Ƶŵ  ŵŽĚĞůŽ  ĐŽŵƉƵƚĂĐŝŽŶĂů  ŐĞƌĂůŵĞŶƚĞ  ƵƟůŝǌĂĚŽ  ƉĂƌĂ  ĚĞĮŶŝƌ 
-ůŝŶŐƵĂŐĞŶƐ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ Ğ͕  ƋƵĂŶĚŽ ĞƐƚĄ ĚĞ ĂĐŽƌĚŽ ĐŽŵ Ă &ŽƌŵĂ ĚĞ ĂĐŬƵƐͲEĂƵƌ ;E&Ϳ͕  ƉĞƌŵŝƚĞ ƋƵĞ 
-ĂůŐƵŶƐ ŽƉĞƌĂĚŽƌĞƐ ƐĞũĂŵ ƵƟůŝǌĂĚŽƐ ŶŽ ůĂĚŽ ĚŝƌĞŝƚŽ ĚĞ ƐƵĂƐ ƉƌŽĚƵĕƁĞƐ͕  ĐŽŵŽ Ž ŽƉĞƌĂĚŽƌ ͮ  ;pipeͿ ƋƵĞ ŝŶĚŝĐĂ 
-ƐĞůĞĕĆŽ͕  Ž ŽƉĞƌĂĚŽƌ ΀ ΁ ƋƵĞ ŝŶĚŝĐĂ ƋƵĞ Ž ŽƉĞƌĂŶĚŽ Ğŵ ƋƵĞƐƚĆŽ Ġ ŽƉĐŝŽŶĂů͕  Ğ Ž ŽƉĞƌĂĚŽƌ Ύ ƋƵĞ ŝŶĚŝĐĂ ƌĞƉĞƟĕĆŽ 
-ĚĞ 0 ŽƵ ŵĂŝƐ ǀĞǌĞƐ͘
-WƌŽũĞƚĂƌ Ƶŵ ĐŽŵƉŝůĂĚŽƌ ƉĂƌĂ ƵŵĂ ĚĞƚĞƌŵŝŶĂĚĂ ůŝŶŐƵĂŐĞŵ ĞŶǀŽůǀĞ͕  ĞŶƚƌĞ ŽƵƚƌĂƐ ĐŽŝƐĂƐ͕  ĞƐƉĞĐŝĮĐĂƌ ƋƵĂŝƐ ƐĆŽ 
-ŽƐ ƐşŵďŽůŽƐ ǀĄůŝĚŽƐ ŶĞƐƚĂ ůŝŶŐƵĂŐĞŵ͕  ďĞŵ ĐŽŵŽ ƋƵĂŝƐ ƐĆŽ ĂƐ ƌĞŐƌĂƐ ƐŝŶƚĄƟĐĂƐ ƋƵĞ Ă ĚĞĮŶĞŵ͘
-  ůŝŶŐƵĂŐĞŵ ĚĞ ƉƌŽŐƌĂŵĂĕĆŽ :ĂǀĂ Ġ ƵŵĂ ůŝŶŐƵĂŐĞŵ ĐŽŵ ƐƵƉŽƌƚĞ ă ŽƌŝĞŶƚĂĕĆŽ Ă ŽďũĞƚŽƐ ƋƵĞ ŶĆŽ ƉĞƌŵŝƚĞ 
-ŚĞƌĂŶĕĂ ŵƷůƟƉůĂ Ğ ƋƵĞ ƉĞƌŵŝƚĞ ƋƵĞ ƵŵĂ ĐůĂƐƐĞ ŝŵƉůĞŵĞŶƚĞ ŵƷůƟƉůĂƐ ŝŶƚĞƌĨĂĐĞƐ͘    ƐĞŐƵŝƌ͕  ĞǆŝďĞŵͲƐĞ ƚƌĞĐŚŽƐ 
-ĚĞ ĐſĚŝŐŽ ƐŝŶƚĂƟĐĂŵĞŶƚĞ ǀĄůŝĚŽƐ  ŶĂ ůŝŶŐƵĂŐĞŵ :ĂǀĂ͘
-dƌĞĐŚŽ 1͗
-class A extends B { }
-dƌĞĐŚŽ 2͗
+21
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 25
+Uma  gramAtica  livre  To  contexto  ('>C)  é  um  moTelo  computacional  geralmente  utilizaTo  para  Tefnir 
+linguagens Te programação e,  quanTo estA Te acorTo com a &orma Te BacŬus-Naur (BN&),  permite que 
+alguns operaTores seũam utilizaTos no laTo Tireito Te suas proTuções,  como o operaTor ͮ  (pipe) que inTica 
+seleção,  o operaTor ΀ ΁ que inTica que o operanTo em questão é opcional,  e o operaTor Ύ que inTica repetição 
+Te 0 ou mais vezes.
+Proũetar um compilaTor para uma TeterminaTa linguagem envolve,  entre outras coisas,  especifcar quais são 
+os símbolos vAliTos nesta linguagem,  bem como quais são as regras sintAticas que a Tefnem.
+  linguagem Te programação :ava é uma linguagem com suporte a orientação a obũetos que não permite 
+Uerança multipla e que permite que uma classe implemente multiplas interfaces.    seguir,  exibem-se trecUos 
+Te coTigo sintaticamente vAliTos  na linguagem :ava.
+TrecUo 1:
+class A extenTs B { }
+TrecUo 2:
 class F implements C { }
-dƌĞĐŚŽ 3͗
-class J extends A implements C, D { }
-EŽ ƚƌĞĐŚŽ 1͕  ĐƌŝĂͲƐĞ ƵŵĂ ĐůĂƐƐĞ ĐŚĂŵĂĚĂ   ƋƵĞ ŚĞƌĚĂ ĚĞ ƵŵĂ ĐůĂƐƐĞ ĐŚĂŵĂĚĂ ͘  EŽ ƚƌĞĐŚŽ 2͕  ĐƌŝĂͲƐĞ ƵŵĂ 
-ĐůĂƐƐĞ ĐŚĂŵĂĚĂ & ƋƵĞ ŝŵƉůĞŵĞŶƚĂ ƵŵĂ ŝŶƚĞƌĨĂĐĞ ĐŚĂŵĂĚĂ I͘  EŽ ƚƌĞĐŚŽ 3͕  ĐƌŝĂͲƐĞ ƵŵĂ ĐůĂƐƐĞ ĐŚĂŵĂĚĂ : ƋƵĞ 
-ŚĞƌĚĂ ĚĞ ƵŵĂ ĐůĂƐƐĞ ĐŚĂŵĂĚĂ   Ğ ŝŵƉůĞŵĞŶƚĂ ĚƵĂƐ ŝŶƚĞƌĨĂĐĞƐ͕  ĐŚĂŵĂĚĂƐ I Ğ D͘
-IŽŶƐŝĚĞƌĞ ƋƵĞ͗
-ͻ  фĐůĂƐƐĚĞĐůх Ġ Ƶŵ ŶĆŽ ƚĞƌŵŝŶĂů ĐƵũŽ ŝŶƚƵŝƚŽ Ġ ĚĂƌ ŽƌŝŐĞŵ Ă ĚĞĐůĂƌĂĕƁĞƐ ĚĞ ĐůĂƐƐĞƐ͖
-ͻ  фĐůĂƐƐďŽĚǇх Ġ Ƶŵ ŶĆŽ ƚĞƌŵŝŶĂů ĐƵũŽ ŝŶƚƵŝƚŽ Ġ ĚĂƌ ŽƌŝŐĞŵ ĂŽ ĐŽƌƉŽ ĚĞ ĐůĂƐƐĞƐ͖
-ͻ  ŽƐ ƚĞƌŵŝŶĂŝƐ ĂƉĂƌĞĐĞŵ ĞŶƚƌĞ ĂƐƉĂƐ ĚƵƉůĂƐ͖
-ͻ ͞
-ŝĚ͟  Ġ Ƶŵ ƐşŵďŽůŽ ƋƵĞ ƌĞƉƌĞƐĞŶƚĂ ƋƵĂůƋƵĞƌ ŝĚĞŶƟĮĐĂĚŽƌ ǀĄůŝĚŽ͕  ĐŽŵŽ ŶŽŵĞƐ ĚĞ ĐůĂƐƐĞƐ ŽƵ ǀĂƌŝĄǀĞŝƐ͘
-  ŐƌĂŵĄƟĐĂ ƋƵĞ ĞƐƉĞĐŝĮĐĂ ƵŵĂ ůŝŶŐƵĂŐĞŵ ƋƵĞ ŶĆŽ ƉĞƌŵŝƚĂ ŚĞƌĂŶĕĂ ŵƷůƟƉůĂ Ğ ƋƵĞ ŝŵƉůĞŵĞŶƚĞ ǌĞƌŽ ŽƵ ŵĂŝƐ 
-ŝŶƚĞƌĨĂĐĞƐ Ġ
-A фĐůĂƐƐĚĞĐůх ͞ ĐůĂƐƐ͟  ͞ ŝĚ͟  ΀ ͞ ĞǆƚĞŶĚƐ ͞  ΁ ͞ ŝĚ͟  фĐůĂƐƐďŽĚǇх
-B фĐůĂƐƐĚĞĐůх  ͞ ĐůĂƐƐ͟  ͞ ŝĚ͟   ;͞ ĞǆƚĞŶĚƐ ͞   ͞ ŝĚ͟ ͿΎ  фĐůĂƐƐďŽĚǇх
-C фĐůĂƐƐĚĞĐůх   ͞ ĐůĂƐƐ͟  ͞ ŝĚ͟  ΀ ͞ ĞǆƚĞŶĚƐ ͞  ΁ ͞ ŝĚ͟  ΀͞ ŝŵƉůĞŵĞŶƚƐ͟   ; ͕  ͮ͞
-ŝĚ͟ ͿΎ΁  фĐůĂƐƐďŽĚǇх
-D фĐůĂƐƐĚĞĐůх ͞ ĐůĂƐƐ͟  ͞ ŝĚ͟  ΀ ͞ ĞǆƚĞŶĚƐ ͞  ͞ ŝĚ͟ ΁ ΀͞ ŝŵƉůĞŵĞŶƚƐ͟   ͞ ŝĚ͟  ;͕͟͞
- ͞ ŝĚ͟ ͿΎ΁ фĐůĂƐƐďŽĚǇх
-E фĐůĂƐƐĚĞĐůх ͞ ĐůĂƐƐ͟  ͞ ŝĚ͟   ΀͞ ĞǆƚĞŶĚƐ ͞  ͞ ŝĚ͟ ΁ ͞ ŝŵƉůĞŵĞŶƚƐ͟   ͞ ŝĚ͟  ;͕͟͞
- ͞ ŝĚ͟ ͿΎ фĐůĂƐƐďŽĚǇх
+TrecUo 3:
+class J extenTs A implements C, M { }
+No trecUo 1,  cria-se uma classe cUamaTa   que UerTa Te uma classe cUamaTa B.  No trecUo 2,  cria-se uma 
+classe cUamaTa & que implementa uma interface cUamaTa C.  No trecUo 3,  cria-se uma classe cUamaTa : que 
+UerTa Te uma classe cUamaTa   e implementa Tuas interfaces,  cUamaTas C e M.
+ConsiTere que:
+ͻ  фclassTeclх é um não terminal cuũo intuito é Tar origem a Teclarações Te classes͖
+ͻ  фclassboTǇх é um não terminal cuũo intuito é Tar origem ao corpo Te classes͖
+ͻ  os terminais aparecem entre aspas Tuplas͖
+ͻ "
+iT"  é um símbolo que representa qualquer iTentifcaTor vAliTo,  como nomes Te classes ou variAveis.
+  gramAtica que especifca uma linguagem que não permita Uerança multipla e que implemente zero ou mais 
+interfaces é
+A фclassTeclх " class"  " iT"  ΀ " extenTs "  ΁ " iT"  фclassboTǇх
+B фclassTeclх  " class"  " iT"   (" extenTs "   " iT" )Ύ  фclassboTǇх
+C фclassTeclх   " class"  " iT"  ΀ " extenTs "  ΁ " iT"  ΀" implements"   ( ,  ͮ"
+iT" )Ύ΁  фclassboTǇх
+M фclassTeclх " class"  " iT"  ΀ " extenTs "  " iT" ΁ ΀" implements"   " iT"  (","
+ " iT" )Ύ΁ фclassboTǇх
+N фclassTeclх " class"  " iT"   ΀" extenTs "  " iT" ΁ " implements"   " iT"  (","
+ " iT" )Ύ фclassboTǇх
+ÁRNA LCVRN
+*R03201421*

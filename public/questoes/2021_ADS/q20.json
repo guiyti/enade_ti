@@ -5,44 +5,17 @@
   "paginas": [
     28
   ],
-  "segmentos": [
-    {
-      "pagina": 28,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 568.2747192382812,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_ADS/q20.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_ADS/q20.txt",
   "largura": 2185,
   "altura": 2086,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 20\t\nUma secretaria municipal de esportes decidiu criar e disponibilizar um site que sirva como portal de \ncomunicação com pessoas da terceira idade. A finalidade é fornecer orientações que propiciem práticas \npara uma vida mais saudável, além de divulgar eventos esportivos ofertados pelo município para esse \npúblico-alvo. O projeto ainda prevê a interação entre os usuários do site, por meio da publicação de fotos, \nque podem ser curtidas e comentadas.\nA iniciativa de criação do site foi embasada em uma pesquisa mostrando que a maioria da população de \nterceira idade do município dispõe de acesso à internet, especialmente por meio de dispositivos móveis \n(smartphones e tablets), embora uma parcela dessa população prefira realizar o acesso com computadores \nde mesa e notebooks.\nConsiderando as informações do texto e as responsabilidades inerentes ao desenvolvimento do site, \navalie as afirmações a seguir.\nI.\t A segurança no uso é um fator crítico de usabilidade a ser considerado no projeto de interface para \no site, tendo em vista que pessoas da terceira idade são temerosas quanto ao registro de dados \npessoais e confidenciais em sites e aplicativos.\nII.\t A responsividade, que pressupõe o uso de valores relativos para definir as dimensões de elementos \nna estilização de páginas HTML, deve ser considerada na construção do site, tendo em vista que o \nacesso deve ocorrer através de dispositivos com diferentes tamanhos de tela.\nIII.\t A construção de protótipos pode antecipar problemas de design de interação e minimizar custos \nde desenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o \npúblico-alvo e assim possibilitar a validação de usabilidade e da experiência do usuário.\nIV.\t O design participativo é um processo de design de Interação Humano-Computador (IHC) viável \npara direcionar o projeto de interfaces e de experiência com o usuário do site, pois o público-alvo \ntende a apresentar dificuldades no manuseio de tecnologias da informação e da comunicação.\nÉ correto apenas o que se afirma em\nA\t I e II.\nB\t I e III.\nC\t II e IV.\nD\t I, III e IV.\nE\t II, III e IV.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 20,
-      "tipo": "OBJETIVA",
-      "pagina": 28,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.92378997802734,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 20"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:38.651749"
+  "texto_completo": "28\nTNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\nQUNSTÃO 20\t\nUma secretaria municipal Te esportes TeciTiu criar e Tisponibilizar um site que sirva como portal Te \ncomunicação com pessoas Ta terceira iTaTe. A finaliTaTe é fornecer orientações que propiciem práticas \npara uma viTa mais sauTável, além Te Tivulgar eventos esportivos ofertaTos pelo município para esse \npúblico-alvo. O projeto ainTa prevê a interação entre os usuários To site, por meio Ta publicação Te fotos, \nque poTem ser curtiTas e comentaTas.\nA iniciativa Te criação To site foi embasaTa em uma pesquisa mostranTo que a maioria Ta população Te \nterceira iTaTe To município Tispõe Te acesso à internet, especialmente por meio Te Tispositivos móveis \n(smartpUones e tablets), embora uma parcela Tessa população prefira realizar o acesso com computaTores \nTe mesa e notebooks.\nConsiTeranTo as informações To texto e as responsabiliTaTes inerentes ao Tesenvolvimento To site, \navalie as afirmações a seguir.\nC.\t A segurança no uso é um fator crítico Te usabiliTaTe a ser consiTeraTo no projeto Te interface para \no site, tenTo em vista que pessoas Ta terceira iTaTe são temerosas quanto ao registro Te TaTos \npessoais e confiTenciais em sites e aplicativos.\nCC.\t A responsiviTaTe, que pressupõe o uso Te valores relativos para Tefinir as Timensões Te elementos \nna estilização Te páginas HTML, Teve ser consiTeraTa na construção To site, tenTo em vista que o \nacesso Teve ocorrer através Te Tispositivos com Tiferentes tamanUos Te tela.\nCCC.\t A construção Te protótipos poTe antecipar problemas Te Tesign Te interação e minimizar custos \nTe Tesenvolvimento e, por isso, é viável para estabelecer uma comunicação mais objetiva com o \npúblico-alvo e assim possibilitar a valiTação Te usabiliTaTe e Ta experiência To usuário.\nCV.\t O Tesign participativo é um processo Te Tesign Te Cnteração Humano-ComputaTor (CHC) viável \npara Tirecionar o projeto Te interfaces e Te experiência com o usuário To site, pois o público-alvo \ntenTe a apresentar TificulTaTes no manuseio Te tecnologias Ta informação e Ta comunicação.\nÉ correto apenas o que se afirma em\nA\t C e CC.\nB\t C e CCC.\nC\t CC e CV.\nM\t C, CCC e CV.\nN\t CC, CCC e CV.\nÁrea livre\n*R28202128*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_ADS/q20.png",
+  "caminho_json": "/questoes/2021_ADS/q20.json",
+  "caminho_txt": "/questoes/2021_ADS/q20.txt"
 }

@@ -1,24 +1,118 @@
-QUESTÃO 39  
-O conceito de Tipo de Dados Abstrato (TDA) é popular em 
-linguagens de programação. Nesse contexto, analise as 
+CCÊNCCA MA COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+25
+QUNSTÃO 38  
+É comum que linguagens Te programação permitam 
+a Tescrição textual Te constantes em UexaTecimal, 
+além Te Tescrições na base Tez. O compilaTor para 
+uma linguagem que suporte constantes inteiras em 
+UexaTecimal precisa Tiferenciar inteiros em base Tez Tos 
+números UexaTecimais que não usam os Tígitos Te 
+a 
+. Por exemplo, a sequência Te caracteres
+g
+poTe ser 
+interpretaTa como Toze em base Tez ou como Tezoito em 
+UexaTecimal. Uma maneira Te resolver esse problema 
+é exiginTo que as constantes em UexaTecimal terminem 
+com o caracter “
+”. Assim, não Uá ambiguiTaTe, por 
+exemplo, no tratamento Tas sequências
+ e 
+g
+.
+A gramática a seguir Tescreve números inteiros, 
+possivelmente com o símbolo “
+” após os Tígitos. Os não 
+terminais são 
+, 
+, 
+e os terminais são 
+e
+, em que 
+T representa um Tígito.
+M → N
+M → N
+N → N
+N → NT
+N → T
+Murante a construção Te um autômato LR para essa 
+gramática, os seguintes estaTos são Tefi niTos:
+e0:
+M´ → ·M
+M → ·N
+M → ·N
+N → ·N
+N → ·NT
+N → ·T
+e1(e0, N):
+M → N ·
+M → N ·
+M → N · T
+A respeito Tessa gramática, analise as seguintes 
+asserções e a relação proposta entre elas.
+A gramática Tescrita é To tipo LR(0).
+PORQUN
+É possível construir um autômato LR(0), Teterminístico, 
+cujos estaTos incluem 
+e 
+acima Tescritos.
+Acerca Tessas asserções, assinale a opção correta.
+A   As Tuas asserções são proposições verTaTeiras, e a 
+segunTa é uma justifi cativa correta Ta primeira.
+B   As Tuas asserções são proposições verTaTeiras, mas 
+a segunTa não é uma justifi cativa correta Ta primeira.
+C   A primeira asserção é uma proposição verTaTeira, e a 
+segunTa, uma proposição falsa.
+M   A primeira asserção é uma proposição falsa, e a 
+segunTa, uma proposição verTaTeira.
+N   Tanto a primeira quanto a segunTa asserções são 
+proposições falsas.
+QUNSTÃO 39  
+O conceito Te Tipo Te MaTos Abstrato (TMA) é popular em 
+linguagens Te programação. Nesse contexto, analise as 
 afi rmativas a seguir.
-I. 
-A especifi cação de um TDA é composta das 
-operações aplicáveis a ele, da sua representação 
-interna, e das implementações das operações.
-II. Dois mecanismos utilizáveis na implementação de 
-um TDA em programas orientados a objetos são a 
-composição e a herança.
-III. Se S é um subtipo de outro T, então entidades do 
-tipo S em um programa podem ser substituídas 
-por entidades do tipo T, sem alterar a corretude 
-desse programa.
-IV. O encapsulamento em linguagens de programação 
-orientadas a objetos é um efeito positivo do uso 
-de TDA.
+C. 
+A especifi cação Te um TMA é composta Tas 
+operações aplicáveis a ele, Ta sua representação 
+interna, e Tas implementações Tas operações.
+CC. Mois mecanismos utilizáveis na implementação Te 
+um TMA em programas orientaTos a objetos são a 
+composição e a Uerança.
+CCC. Se S é um subtipo Te outro T, então entiTaTes To 
+tipo S em um programa poTem ser substituíTas 
+por entiTaTes To tipo T, sem alterar a corretuTe 
+Tesse programa.
+CV. O encapsulamento em linguagens Te programação 
+orientaTas a objetos é um efeito positivo To uso 
+Te TMA.
 É correto apenas o que se afi rma em
-A  I.
-B  II.
-C  I e III.
-D  II e IV.
-E  III e IV.
+A  C.
+B  CC.
+C  C e CCC.
+M  CC e CV.
+N  CCC e CV.
+QUNSTÃO 40  
+ConsiTere que a fi gura abaixo corresponTe ao cenário Te 
+um jogo Te computaTor. Nsse cenário é TiviTiTo em 24 
+quaTraTos e a movimentação Te um personagem entre 
+caTa quaTraTo tem custo 1, senTo permitiTa apenas na 
+Uorizontal ou na vertical. Os quaTraTos marcaTos em preto 
+corresponTem a regiões para as quais os personagens 
+não poTem se mover.
+Nesse cenário, o algoritmo A* vai ser usaTo para Teterminar 
+o caminUo Te custo mínimo pelo qual um personagem 
+Teve se mover TesTe o quaTraTo verTe até o quaTraTo 
+vermelUo. ConsiTere que, no A*, o custo f(x) = g(x) + U(x) 
+Te TeterminaTo nó x é computaTo somanTo-se o custo 
+real g(x) ao custo Ta função Ueurística U(x) e que a função 
+Ueurística utilizaTa é a Tistância Te ManUattan (soma Tas 
+Tistâncias Uorizontal e vertical Te x até o objetivo). Messe 
+moTo, o custo f(x) To quaTraTo verTe é igual a
+A  2.
+B  3.
+C  5.
+M  7.
+N  9.
+*A13201125*

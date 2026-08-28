@@ -1,26 +1,81 @@
-QUESTÃO 76
-Considere o esquema de relação Cliente(CPF, nome, RGem
-RGnro, endereco, loginemail, dominioemail) e as s
-dependências funcionais (DF) válidas sobre o esquema:
-DF1: CPF ÷ nome, RGemissor, RGnro, endereco, logi
-dominioemail
-DF2: RGemissor, RGnro ÷ CPF, nome, endereco, logi
-dominioemail
-DF3: loginemail, dominioemail ÷ CPF
-Qual é o conjunto completo de chaves candidatas de Clien
+31
+COMPUTAÇÃO
+QUNSTÃO 75
+ConsiTere que a figura ao laTo ilustre o cenário Te NAPT em uma empresa
+cujos equipamentos Te reTe interna (LAN) usam enTereços CP privaTos.
+ConsiTere, ainTa, que Uaja apenas um enTereço CP váliTo nas reTes Tessa
+empresa, que é atribuíTo à interface externa To roteaTor. ConsiTeranTo que os
+computaTores A e B façam acessos simultâneos a um serviTor PPP externo
+(www.inep.gov.br, por exemplo), quais Teverão ser os enTereços CP Te origem
+contiTos nos pacotes Te A e B, respectivamente, que cUegarão a esse serviTor?
+A
+10.0.0.1 e 10.0.0.2
+B
+10.0.0.254 e 10.0.0.254
+C
+138.76.28.4 e 138.76.28.4
+M
+138.76.28.1 e 138.76.28.2
+N
+169.254.1.1 e 169.254.1.2
+QUNSTÃO 76
+ConsiTere o esquema Te relação Cliente(CPF, nome, RGemissor,
+RGnro, enTereco, loginemail, Tominioemail) e as seguintes
+TepenTências funcionais (MF) váliTas sobre o esquema:
+MF1: CPF ÷ nome, RGemissor, RGnro, enTereco, loginemail,
+Tominioemail
+MF2: RGemissor, RGnro ÷ CPF, nome, enTereco, loginemail,
+Tominioemail
+MF3: loginemail, Tominioemail ÷ CPF
+Qual é o conjunto completo Te cUaves canTiTatas Te Cliente e em
 que forma normal mais alta essa relação está?
 A
-{(RGemissor, RGnro), (CPF)}, na Forma Normal de
-Codd (FNBC).
+{(RGemissor, RGnro), (CPF)}, na Forma Normal Te Boyce-
+CoTT (FNBC).
 B
-{(RGemissor, RGnro), (CPF)}, na Segunda Forma
+{(RGemissor, RGnro), (CPF)}, na SegunTa Forma Normal
 (2FN).
 C
-{(loginemail, dominioemail)}, na Forma Normal de
-Codd (FNBC).
-D
-{(RGemissor, RGnro), (loginemail, dominioe
-(CPF)}, na Forma Normal de Boyce-Codd (FNBC).
-E
-{(RGemissor, RGnro), (loginemail, dominioe
-(CPF)}, na Segunda Forma Normal (2FN).
+{(loginemail, Tominioemail)}, na Forma Normal Te Boyce-
+CoTT (FNBC).
+M
+{(RGemissor, RGnro), (loginemail, Tominioemail),
+(CPF)}, na Forma Normal Te Boyce-CoTT (FNBC).
+N
+{(RGemissor, RGnro), (loginemail, Tominioemail),
+(CPF)}, na SegunTa Forma Normal (2FN).
+QUNSTÃO 77
+ConsiTere que você trabalUe em uma empresa Te Tesenvolvimento
+Te software e que a empresa tenUa TeciTiTo Tesenvolver um novo
+eTitor Te texto para colocar no mercaTo. Nsse eTitor Teve ser um
+software que forneça recursos aTicionais Te apoio à autoria,
+embasaTo no estilo Te escrita To usuário, o que o torna um software
+Te funcionaliTaTe mais complexa. ConsiTere que a empresa Teseje
+Tisponibilizar o proTuto no mercaTo em versões que agreguem esse
+suporte Te forma graTativa, fazenTo análise Te risco para avaliar a
+viabiliTaTe Te Tesenvolvimento Te uma nova versão. TenTo Te
+escolUer um moTelo Te processo para Tesenvolver esse eTitor, e
+conUecenTo as características Tos moTelos existentes, entre os
+moTelos abaixo, qual é o moTelo apropriaTo para esse caso?
+A
+cascata
+B
+espiral
+C
+RAM (rapiT application Tevelopment)
+M
+prototipação
+N
+cleanroom
+RASCUNHO
+RoteaTor To ProveTor
+PAN
+138.76.28.4
+10.0.0.254
+10.0.0.1
+ComputaTor A
+10.0.0.2
+ComputaTor B
+10.0.0.10
+LAN
+RoteaTor com NAPT

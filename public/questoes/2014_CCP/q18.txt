@@ -1,13 +1,33 @@
-QUESTÃO 18
-Eŵ ƌĞůĂĕĆŽ ă ĂƉůŝĐĂĕĆŽ ĂĚĞƋƵĂĚĂ ĚĂƐ ƚĠĐŶŝĐĂƐ ĚĞ /ŶƚĞůŝŐġŶĐŝĂ  ƌƟĮĐŝĂů͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   /ŶĚƵĕĆŽ Ğŵ ƌǀŽƌĞ ĚĞ DĞĐŝƐĆŽ Ġ ƵƟůŝǌĂĚĂ ƉĂƌĂ ŝĚĞŶƟĮĐĂĕĆŽ ĚĞ ĨƌĂƵĚĞƐ Ğŵ ĐĂƌƚƁĞƐ ĚĞ ĐƌĠĚŝƚŽ͘
-//͘   ZĞĚĞƐ  EĞƵƌĂŝƐ   ƌƟĮĐŝĂŝƐ  ƐĆŽ  ƵƟůŝǌĂĚĂƐ  ŶŽ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  ƐŝƐƚĞŵĂƐ  ĚĞ  ĂŶĄůŝƐĞ  ĚĞ  ƌŝƐĐŽ  Ğŵ 
-ĂƉůŝĐĂĕƁĞƐ ĮŶĂŶĐĞŝƌĂƐ͘
-///͘   ^ŝƐƚĞŵĂƐ  EƐƉĞĐŝĂůŝƐƚĂƐ  ďĂƐĞĂĚŽƐ  Ğŵ  ƌĞŐƌĂƐ  ƐĆŽ  ƵƟůŝǌĂĚŽƐ  ŶŽ  ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  ĚĞ  ƐŝƐƚĞŵĂƐ  ĚĞ 
-ĚŝĂŐŶſƐƟĐŽ ĚĞ ĨĂůŚĂƐ Ğŵ hardware.
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B ///͕  ĂƉĞŶĂƐ͘
-C / Ğ //͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+17
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 17
+ConsiTeranTo que o gerente Te qualiTaTe é o responsAvel por Tefnir os meios necessArios para se obter um 
+proTuto com a qualiTaTe TeseũaTa,  bem como por estabelecer técnicas para aferir a qualiTaTe To proTuto,  
+avalie as afrmações a seguir.
+/.   O uso Te processos Te Tesenvolvimento paTronizaTos,  sem aTaptações,   inTepenTente To tipo Te 
+soŌǁare a ser TesenvolviTo,  assegura que o proTuto terA a qualiTaTe TeseũaTa.
+//.   O controle Te qualiTaTe poTe ser realizaTo por meio Te revisões,  incluinTo inspeções Te programas 
+e Te artefatos Te proũeto.
+///.   &atores Te qualiTaTe Te soŌǁare estão Tiretamente relacionaTos a um unico atributo interno Te 
+soŌǁare.
+ correto o que se afrma em
+A //,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M / e ///,  apenas.
+N /,  // e ///.
+QUNSTÃO 18
+Nm relação a aplicação aTequaTa Tas técnicas Te /nteliggncia  rtifcial,  avalie as afrmações a seguir.
+/.   /nTução em Arvore Te Mecisão é utilizaTa para iTentifcação Te frauTes em cartões Te créTito.
+//.   ZeTes  Neurais   rtifciais  são  utilizaTas  no  Tesenvolvimento  Te  sistemas  Te  anAlise  Te  risco  em 
+aplicações fnanceiras.
+///.   Sistemas  Nspecialistas  baseaTos  em  regras  são  utilizaTos  no  Tesenvolvimento  Te  sistemas  Te 
+Tiagnostico Te falUas em UarTware.
+ correto o que se afrma em
+A /,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+ÁRNA LCVRN
+*R03201417*

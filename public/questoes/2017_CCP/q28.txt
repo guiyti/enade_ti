@@ -1,29 +1,64 @@
-QUESTÃO 28
-KƐ  ŵĠƚŽĚŽƐ  ĄŐĞŝƐ  ƐĆŽ  ĨƵŶĚĂŵĞŶƚĂĚŽƐ  ŶŽ 
-ĚĞƐĞŶǀŽůǀŝŵĞŶƚŽ  Ğ  ĞŶƚƌĞŐĂ  ŝŶĐƌĞŵĞŶƚĂů  ƚĞŶĚŽ 
-Ğŵ ǀŝƐƚĂ ĂƚĞŶĚĞƌ ĂŽƐ ƌĞƋƵŝƐŝƚŽƐ ĚŽƐ ĐůŝĞŶƚĞƐ͘  EůĞƐ 
-ĂŐƌĞŐĂŵ  Ƶŵ  ĐŽŶũƵŶƚŽ  ĚĞ  ƉƌŝŶĐşƉŝŽƐ  ƉƌŽǀĞŶŝĞŶƚĞƐ 
-ĚŽ ŵĂŶŝĨĞƐƚŽ ĄŐŝů͕  ƚĂŝƐ ĐŽŵŽ͗
-ͻ  ĞŶǀŽůǀŝŵĞŶƚŽ ĚŽ ĐůŝĞŶƚĞ͖
-ͻ  ĞŶƚƌĞŐĂ ŝŶĐƌĞŵĞŶƚĂů͖
-ͻ  ƉĞƐƐŽĂƐ͕  ŶĆŽ ƉƌŽĐĞƐƐŽƐ͖
-ͻ  ĂĐĞŝƚĂĕĆŽ ĚĂƐ ŵƵĚĂŶĕĂƐ͖
-ͻ  ŵĂŶƵƚĞŶĕĆŽ ĚĂ ƐŝŵƉůŝĐŝĚĂĚĞ͘
-K  ^ĐƌƵŵ  Ġ  Ƶŵ  ĞǆĞŵƉůŽ  ĚĞ  ŵĠƚŽĚŽ  ĄŐŝů  ĚĞ 
-ŐĞƌĞŶĐŝĂŵĞŶƚŽ ĚĞ ƉƌŽũĞƚŽƐ͘   ǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă 
-ƐĞŐƵŝƌ ƐŽďƌĞ Ă ƌĞůĂĕĆŽ ĚŽ ^ĐƌƵŵ ĐŽŵ ŽƐ ƉƌŝŶĐşƉŝŽƐ 
-ĚŽ ŵĂŶŝĨĞƐƚŽ ĄŐŝů͘
-/͘   K  ^ĐƌƵŵ  ĂĚŽƚĂ  Ă  ĞŶƚƌĞŐĂ  ŝŶĐƌĞŵĞŶƚĂů  ƉŽƌ 
-ŵĞŝŽ ĚĞ ^ƉƌŝŶƚƐ.
-//͘   K ^ĐƌƵŵ ĂĚŽƚĂ Ă ƐŝŵƉůŝĐŝĚĂĚĞ ƉŽƌ ŵĞŝŽ ĚŽ 
-ƵƐŽ ĚĂ ƉƌŽŐƌĂŵĂĕĆŽ Ğŵ ƉĂƌĞƐ͘
-///͘   K ^ĐƌƵŵ ĂĚŽƚĂ Ž ĞŶǀŽůǀŝŵĞŶƚŽ ĚŽ ĐůŝĞŶƚĞ ĐŽŵ 
-Ă ƉƌŝŽƌŝǌĂĕĆŽ Ğ Ă ŶĞŐŽĐŝĂĕĆŽ ĚŽƐ ƌĞƋƵŝƐŝƚŽƐ 
-ŶĂ ĐŽŶĐĞƉĕĆŽ ĚĞ ^ƉƌŝŶƚƐ.
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  //͕  ĂƉĞŶĂƐ͘
-B  ///͕  ĂƉĞŶĂƐ͘
-C  / Ğ //͕  ĂƉĞŶĂƐ͘
-D  / Ğ ///͕  ĂƉĞŶĂƐ͘
-E  /͕  // Ğ ///͘
-ƌĞĂ ůŝǀƌĞ
+27
+CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 28
+Os  métoTos  Ageis  são  funTamentaTos  no 
+Tesenvolvimento  e  entrega  incremental  tenTo 
+em vista atenTer aos requisitos Tos clientes.  Nles 
+agregam  um  conũunto  Te  princípios  provenientes 
+To manifesto Agil,  tais como:
+ͻ  envolvimento To cliente͖
+ͻ  entrega incremental͖
+ͻ  pessoas,  não processos͖
+ͻ  aceitação Tas muTanças͖
+ͻ  manutenção Ta simpliciTaTe.
+O  Scrum  é  um  exemplo  Te  métoTo  Agil  Te 
+gerenciamento Te proũetos.   valie as afrmações a 
+seguir sobre a relação To Scrum com os princípios 
+To manifesto Agil.
+/.   O  Scrum  aTota  a  entrega  incremental  por 
+meio Te Sprints.
+//.   O Scrum aTota a simpliciTaTe por meio To 
+uso Ta programação em pares.
+///.   O Scrum aTota o envolvimento To cliente com 
+a priorização e a negociação Tos requisitos 
+na concepção Te Sprints.
+ correto o que se afrma em
+A  //,  apenas.
+B  ///,  apenas.
+C  / e //,  apenas.
+M  / e ///,  apenas.
+N  /,  // e ///.
+Area livre
+QUNSTÃO 29
+O  proũetista  To  gerenciaTor  Te  memoria  Te  um 
+novo sistema operacional precisa escolUer entre os 
+algoritmos Te substituição Te pAginas &/&O (First Cn 
+&irst Out - o primeiro a entrar é o primeiro a sair) 
+e >ZU (>east ZecentlǇ UseT - menos recentemente 
+usaTo).   Para  isso,   avaliou  o  numero  Te  faltas  Te 
+pAgina  obtiTas  em  ambos  os  algoritmos  para  o 
+tamanUo  Te  memoria  Te  4  pAginas,   utilizanTo  a 
+sequgncia Te acessos as pAginas 1-2-3-4-1-2-5-1-2-
+3-4-5 Te um processo e memoria inicialmente vazia.  
+Com  base  nessa  simulação,   avalie  as  asserções  a 
+seguir e a relação proposta entre elas.
+/.   Na simulação proposta,  é possível observar 
+que os algoritmos &/&O e >ZU apresentam o 
+mesmo TesempenUo.
+POZYUN
+//.   Os parametros utilizaTos na simulação são 
+insufcientes para Teterminar a Tiferença Te 
+funcionamento entre os algoritmos.
+   respeito  Tessas  asserções,   assinale  a  opção 
+correta.
+A   s asserções / e // são proposições verTaTeiras,  
+e a // é uma ũustifcativa correta Ta /.
+B   s asserções / e // são proposições verTaTeiras,  
+mas a // não é uma ũustifcativa correta Ta /.
+C    asserção / é uma proposição verTaTeira,  e a // 
+é uma proposição falsa.
+M    asserção / é uma proposição falsa,  e a // é uma 
+proposição verTaTeira.
+N   s asserções / e // são proposições falsas.
+Area livre
+*R03201727*

@@ -1,66 +1,69 @@
-QUESTÃO 03
-K ƐŝƐƚĞŵĂ ĚĞ ƚĂƌŝĨĂĕĆŽ ĚĞ ĞŶĞƌŐŝĂ ĞůĠƚƌŝĐĂ ĨƵŶĐŝŽŶĂ ĐŽŵ ďĂƐĞ Ğŵ ƚƌġƐ ďĂŶĚĞŝƌĂƐ͘  EĂ ďĂŶĚĞŝƌĂ ǀĞƌĚĞ͕  
-ĂƐ ĐŽŶĚŝĕƁĞƐ ĚĞ ŐĞƌĂĕĆŽ ĚĞ ĞŶĞƌŐŝĂ ƐĆŽ ĨĂǀŽƌĄǀĞŝƐ Ğ Ă ƚĂƌŝĨĂ ŶĆŽ ƐŽĨƌĞ ĂĐƌĠƐĐŝŵŽ͘  EĂ ďĂŶĚĞŝƌĂ ĂŵĂƌĞůĂ͕  
-Ă ƚĂƌŝĨĂ ƐŽĨƌĞ ĂĐƌĠƐĐŝŵŽ ĚĞ ZΨ 0͕ 020 ƉĂƌĂ ĐĂĚĂ ŬtŚ ĐŽŶƐƵŵŝĚŽ͕  Ğ ŶĂ ďĂŶĚĞŝƌĂ ǀĞƌŵĞůŚĂ͕  ĐŽŶĚŝĕĆŽ ĚĞ 
-ŵĂŝŽƌ ĐƵƐƚŽ ĚĞ ŐĞƌĂĕĆŽ ĚĞ ĞŶĞƌŐŝĂ͕  Ă ƚĂƌŝĨĂ ƐŽĨƌĞ ĂĐƌĠƐĐŝŵŽ ĚĞ ZΨ 0͕ 035 ƉĂƌĂ ĐĂĚĂ ŬtŚ ĐŽŶƐƵŵŝĚŽ͘   ƐƐŝŵ͕  
-ƉĂƌĂ ƐĂďĞƌ Ž ƋƵĂŶƚŽ ƐĞ ŐĂƐƚĂ ĐŽŵ Ž ĐŽŶƐƵŵŽ ĚĞ ĞŶĞƌŐŝĂ ĚĞ ĐĂĚĂ ĂƉĂƌĞůŚŽ͕  ďĂƐƚĂ ŵƵůƟƉůŝĐĂƌ Ž ĐŽŶƐƵŵŽ 
-Ğŵ ŬtŚ ĚŽ ĂƉĂƌĞůŚŽ ƉĞůĂ ƚĂƌŝĨĂ Ğŵ ƋƵĞƐƚĆŽ͘
-DŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉ͗ͬͬ
-ǁǁǁ͘ĂŶĞĞů͘ ŐŽǀ͘ďƌх͘   ĐĞƐƐŽ Ğŵ͗  17 ũƵů͘  2017 ;ĂĚĂƉƚĂĚŽͿ͘
-EĂ  ƚĂďĞůĂ  Ă  ƐĞŐƵŝƌ͕   ƐĆŽ  ĂƉƌĞƐĞŶƚĂĚĂƐ  Ă  ƉŽƚġŶĐŝĂ  Ğ  Ž  ƚĞŵƉŽ  ĚĞ  ƵƐŽ  ĚŝĄƌŝŽ  ĚĞ  ĂůŐƵŶƐ  ĂƉĂƌĞůŚŽƐ 
-ĞůĞƚƌŽĞůĞƚƌƀŶŝĐŽƐ ƵƐƵĂŝƐ Ğŵ ƌĞƐŝĚġŶĐŝĂƐ͘
- ƉĂƌĞůŚŽ 
-WŽƚġŶĐŝĂ 
-(kW)
-dĞŵƉŽ ĚĞ ƵƐŽ 
-ĚŝĄƌŝŽ ;ŚͿ 
-ŬtŚ 
-IĂƌƌĞŐĂĚŽƌ ĚĞ ĐĞůƵůĂƌ 
-0͕ 010 
+7
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 03
+O sistema Te tarifação Te energia elétrica funciona com base em trgs banTeiras.  Na banTeira verTe,  
+as conTições Te geração Te energia são favorAveis e a tarifa não sofre acréscimo.  Na banTeira amarela,  
+a tarifa sofre acréscimo Te ZΨ 0, 020 para caTa ŬtU consumiTo,  e na banTeira vermelUa,  conTição Te 
+maior custo Te geração Te energia,  a tarifa sofre acréscimo Te ZΨ 0, 035 para caTa ŬtU consumiTo.   ssim,  
+para saber o quanto se gasta com o consumo Te energia Te caTa aparelUo,  basta multiplicar o consumo 
+em ŬtU To aparelUo pela tarifa em questão.
+Misponível em:  фUtp:ͬͬ
+ǁǁǁ.aneel. gov.brх.   cesso em:  17 ũul.  2017 (aTaptaTo).
+Na  tabela  a  seguir,   são  apresentaTas  a  potgncia  e  o  tempo  Te  uso  TiArio  Te  alguns  aparelUos 
+eletroeletrƀnicos usuais em resiTgncias.
+ parelUo 
+Potgncia 
+(kP)
+Tempo Te uso 
+TiArio (U) 
+ŬtU 
+CarregaTor Te celular 
+0, 010 
 24
-0͕ 240 
-IŚƵǀĞŝƌŽ 3 500 t 
-3͕ 500 
-0͕ 5 
-1͕ 750 
-IŚƵǀĞŝƌŽ 5 500 t 
-5͕ 500 
-0͕ 5 
-2͕ 250 
->ąŵƉĂĚĂ ĚĞ >ED 
-0͕ 008 
+0, 240 
+CUuveiro 3 500 t 
+3, 500 
+0, 5 
+1, 750 
+CUuveiro 5 500 t 
+5, 500 
+0, 5 
+2, 250 
+>ampaTa Te >NM 
+0, 008 
 5
-0͕ 040 
->ąŵƉĂĚĂ ŇƵŽƌĞƐĐĞŶƚĞ 
-0͕ 015 
+0, 040 
+>ampaTa Ňuorescente 
+0, 015 
 5
-0͕ 075 
->ąŵƉĂĚĂ ŝŶĐĂŶĚĞƐĐĞŶƚĞ 
-0͕ 060 
+0, 075 
+>ampaTa incanTescente 
+0, 060 
 5
-0͕ 300 
-Modem ĚĞ ŝŶƚĞƌŶĞƚ Ğŵ stand-by
-0͕ 005 
+0, 300 
+MoTem Te internet em stanT-by
+0, 005 
 24
-0͕ 120 
-Modem ĚĞ ŝŶƚĞƌŶĞƚ Ğŵ ƵƐŽ 
-0͕ 012 
+0, 120 
+MoTem Te internet em uso 
+0, 012 
 8 
-0͕ 096 
-DŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉƐ͗ͬͬ
-ǁǁǁ͘ ĞĚƵĐĂŶĚŽƐĞƵďŽůƐŽ͘ ďůŽŐ͘ ďƌх͘   ĐĞƐƐŽ Ğŵ͗  17 ũƵů͘  2017 ;ĂĚĂƉƚĂĚŽͿ͘
-IŽŶƐŝĚĞƌĂŶĚŽ ĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĚŽ ƚĞǆƚŽ͕  ŽƐ ĚĂĚŽƐ ĂƉƌĞƐĞŶƚĂĚŽƐ ŶĂ ƚĂďĞůĂ͕  ƵŵĂ ƚĂƌŝĨĂ ĚĞ ZΨ 0͕ 50 ƉŽƌ ŬtŚ 
-Ğŵ ďĂŶĚĞŝƌĂ ǀĞƌĚĞ Ğ Ƶŵ ŵġƐ ĚĞ 30 ĚŝĂƐ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   Eŵ ďĂŶĚĞŝƌĂ ĂŵĂƌĞůĂ͕  Ž ǀĂůŽƌ ŵĞŶƐĂů ĚĂ ƚĂƌŝĨĂ ĚĞ ĞŶĞƌŐŝĂ ĞůĠƚƌŝĐĂ ƉĂƌĂ Ƶŵ ĐŚƵǀĞŝƌŽ ĚĞ 3 500 t 
-ƐĞƌŝĂ ĚĞ ZΨ 1͕ 05͕  Ğ ĚĞ ZΨ 1͕ 65͕  ƉĂƌĂ Ƶŵ ĐŚƵǀĞŝƌŽ ĚĞ 5 500 t͘
-//͘   DĞŝǆĂƌ Ƶŵ ĐĂƌƌĞŐĂĚŽƌ ĚĞ ĐĞůƵůĂƌ Ğ Ƶŵ modem ĚĞ ŝŶƚĞƌŶĞƚ Ğŵ stand-by ĐŽŶĞĐƚĂĚŽƐ ŶĂ ƌĞĚĞ ĚĞ 
-ĞŶĞƌŐŝĂ ĚƵƌĂŶƚĞ 24 ŚŽƌĂƐ ƌĞƉƌĞƐĞŶƚĂ Ƶŵ ŐĂƐƚŽ ŵĞŶƐĂů ĚĞ ZΨ 5͕ 40 ŶĂ ƚĂƌŝĨĂ ĚĞ ĞŶĞƌŐŝĂ ĞůĠƚƌŝĐĂ Ğŵ 
-ďĂŶĚĞŝƌĂ ǀĞƌĚĞ͕  Ğ ĚĞ ZΨ 5͕ 78͕  Ğŵ ďĂŶĚĞŝƌĂ ĂŵĂƌĞůĂ͘
-///͘   Eŵ ďĂŶĚĞŝƌĂ ǀĞƌĚĞ͕  Ž ĐŽŶƐƵŵŝĚŽƌ ŐĂƐƚĂƌŝĂ ŵĞŶƐĂůŵĞŶƚĞ ZΨ 3͕ 90 Ă ŵĂŝƐ ŶĂ ƚĂƌŝĨĂ ĚĞ ĞŶĞƌŐŝĂ ĞůĠƚƌŝĐĂ 
-Ğŵ ƌĞůĂĕĆŽ Ă ĐĂĚĂ ůąŵƉĂĚĂ ŝŶĐĂŶĚĞƐĐĞŶƚĞ ƵƐĂĚĂ ŶŽ ůƵŐĂƌ ĚĞ ƵŵĂ ůąŵƉĂĚĂ >ED͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A //͕  ĂƉĞŶĂƐ͘
-B ///͕  ĂƉĞŶĂƐ͘
-C / Ğ //͕  ĂƉĞŶĂƐ͘
-D / Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+0, 096 
+Misponível em:  фUtps:ͬͬ
+ǁǁǁ. eTucanToseubolso. blog. brх.   cesso em:  17 ũul.  2017 (aTaptaTo).
+ConsiTeranTo as informações To texto,  os TaTos apresentaTos na tabela,  uma tarifa Te ZΨ 0, 50 por ŬtU 
+em banTeira verTe e um mgs Te 30 Tias,  avalie as afrmações a seguir.
+/.   Nm banTeira amarela,  o valor mensal Ta tarifa Te energia elétrica para um cUuveiro Te 3 500 t 
+seria Te ZΨ 1, 05,  e Te ZΨ 1, 65,  para um cUuveiro Te 5 500 t.
+//.   Meixar um carregaTor Te celular e um moTem Te internet em stanT-by conectaTos na reTe Te 
+energia Turante 24 Uoras representa um gasto mensal Te ZΨ 5, 40 na tarifa Te energia elétrica em 
+banTeira verTe,  e Te ZΨ 5, 78,  em banTeira amarela.
+///.   Nm banTeira verTe,  o consumiTor gastaria mensalmente ZΨ 3, 90 a mais na tarifa Te energia elétrica 
+em relação a caTa lampaTa incanTescente usaTa no lugar Te uma lampaTa >NM.
+ correto o que se afrma em
+A //,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M / e ///,  apenas.
+N /,  // e ///.
+*R4320177*

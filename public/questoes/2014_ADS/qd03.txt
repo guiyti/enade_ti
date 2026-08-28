@@ -1,11 +1,63 @@
-QUESTÃO DISCURSIVA 3
- Ɛ ĐůĂƐƐĞƐ ĐŽƐƚƵŵĂŵ ƉŽƐƐƵŝƌ ƌĞůĂĐŝŽŶĂŵĞŶƚŽƐ ĞŶƚƌĞ Ɛŝ͕  ĐŚĂŵĂĚŽƐ ĚĞ ĂƐƐŽĐŝĂĕƁĞƐ͕  ƋƵĞ ƉĞƌŵŝƚĞŵ ƋƵĞ ĞůĂƐ 
-ĐŽŵƉĂƌƟůŚĞŵ ŝŶĨŽƌŵĂĕƁĞƐ ĞŶƚƌĞ Ɛŝ Ğ ĐŽůĂďŽƌĞŵ ƉĂƌĂ Ă ĞǆĞĐƵĕĆŽ ĚŽƐ ƉƌŽĐĞƐƐŽƐ ĞǆĞĐƵƚĂĚŽƐ ƉĞůŽ ƐŝƐƚĞŵĂ͘
-IŽŵ ďĂƐĞ ŶĞƐƐĞ ĐŽŶƚĞǆƚŽ͕  ĐŽŶƐƚƌƵĂ Ƶŵ ĚŝĂŐƌĂŵĂ ĚĞ ĐůĂƐƐĞƐ ƉĂƌĂ ƌĞƉƌĞƐĞŶƚĂƌ ĂƐ ƐĞŐƵŝŶƚĞƐ ĂƐƐŽĐŝĂĕƁĞƐ͗
-ͻ  ƵŵĂ ƌĞǀŝƐƚĂ ĐŝĞŶơĮĐĂ ƉŽƐƐƵŝ ơƚƵůŽ͕  /^^E Ğ ƉĞƌŝŽĚŝĐŝĚĂĚĞ͖
-ͻ  ĞƐƐĂ ƌĞǀŝƐƚĂ ƉƵďůŝĐĂ ĚŝǀĞƌƐĂƐ ĞĚŝĕƁĞƐ ĐŽŵ ŽƐ ƐĞŐƵŝŶƚĞƐ ĂƚƌŝďƵƚŽƐ͗  ŶƷŵĞƌŽ ĚĂ ĞĚŝĕĆŽ͕  ǀŽůƵŵĞ ĚĂ ĞĚŝĕĆŽ Ğ ĚĂƚĂ 
-ĚĞ ĞĚŝĕĆŽ͘  /ŵƉŽƌƚĂŶƚĞ ĚĞƐƚĂĐĂƌ ƋƵĞ ĐĂĚĂ ŝŶƐƚąŶĐŝĂ ĚĂ ĐůĂƐƐĞ ĞĚŝĕĆŽ ƌĞůĂĐŝŽŶĂͲƐĞ ƷŶŝĐĂ Ğ ĞǆĐůƵƐŝǀĂŵĞŶƚĞ Ă 
-ƵŵĂ ŝŶƐƚąŶĐŝĂ ĚĂ ĐůĂƐƐĞ ƌĞǀŝƐƚĂ ĐŝĞŶƟĮĐĂ͕  ŶĆŽ ƉŽĚĞŶĚŽ ƌĞůĂĐŝŽŶĂƌͲƐĞ ĐŽŵ ŶĞŶŚƵŵĂ ŽƵƚƌĂ͖
-ͻ  Ƶŵ ĂƌƟŐŽ ƉŽƐƐƵŝ ơƚƵůŽ Ğ ŶŽŵĞ ĚŽ ĂƵƚŽƌ͘  hŵ ĂƌƟŐŽ Ġ Ƶŵ ĐŽŶƚĞƷĚŽ ĞǆĐůƵƐŝǀŽ ĚĞ ƵŵĂ ĞĚŝĕĆŽ͘  E ƵŵĂ ĞĚŝĕĆŽ 
-ŽďƌŝŐĂƚŽƌŝĂŵĞŶƚĞ ƚĞŵ ƋƵĞ ƉŽƐƐƵŝƌ ŶŽ ŵşŶŝŵŽ 10 Ğ ŶŽ ŵĄǆŝŵŽ 15 ĂƌƟŐŽƐ͘
-;ǀĂůŽƌ͗  10͕ 0 ƉŽŶƚŽƐͿ
+9
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+COMPONNNTN NSPNCÍFCCO
+QUNSTÃO MCSCURSCVA 3
+ s classes costumam possuir relacionamentos entre si,  cUamaTos Te associações,  que permitem que elas 
+compartilUem informações entre si e colaborem para a execução Tos processos executaTos pelo sistema.
+Com base nesse contexto,  construa um Tiagrama Te classes para representar as seguintes associações:
+ͻ  uma revista cienơfca possui ơtulo,  /SSN e perioTiciTaTe͖
+ͻ  essa revista publica Tiversas eTições com os seguintes atributos:  numero Ta eTição,  volume Ta eTição e Tata 
+Te eTição.  /mportante Testacar que caTa instancia Ta classe eTição relaciona-se unica e exclusivamente a 
+uma instancia Ta classe revista cientifca,  não poTenTo relacionar-se com nenUuma outra͖
+ͻ  um artigo possui ơtulo e nome To autor.  Um artigo é um conteuTo exclusivo Te uma eTição.  N uma eTição 
+obrigatoriamente tem que possuir no mínimo 10 e no mAximo 15 artigos.
+(valor:  10, 0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R4020149*
+
+10
+TNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S
+QUNSTÃO MCSCURSCVA 4
+Uma estrutura Te TaTos To tipo pilUa poTe ser usaTa em um algoritmo que permite imprimir uma palavra Te 
+forma invertiTa.  Nxemplo:  &N>/C/M MN Teve ser impresso como NM M/C/>N&.
+UtilizanTo as variAveis TeclaraTas abaixo:
+pilUa[1..50]: caractere;
+i, topo: inteiro;
+palavra: string;
+Nm pseuTocoTigo,  faça o que se peTe nos itens a seguir.
+a)  Mesenvolva a rotina pusU que inclui um elemento na pilUa.  (valor:  3, 0 pontos)
+b)  Mesenvolva a rotina pop que retira um elemento Ta pilUa.  (valor:  3, 0 pontos)
+c)  Mesenvolva a rotina que leia a palavra e,  usanTo a pilUa,  a imprima Te forma invertiTa.  (valor:  4, 0 pontos)
+Caso necessite Te mais espaço,  TiviTa as linUas em Tuas ou trgs colunas.  
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*R40201410*

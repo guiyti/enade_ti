@@ -1,26 +1,30 @@
-QUESTÃO 13	
-Um processo de software é um conjunto de atividades cujo objetivo é o desenvolvimento ou a evolução 
-de um programa. Uma representação simplificada e abstrata é chamada de modelo de processo software. 
-A seguir são apresentados dois exemplos destes modelos.
-•	O modelo em cascata considera as atividades fundamentais do processo, compreendendo a 
-especificação, desenvolvimento, validação e evolução. Esse modelo pode ser representado em fases 
-distintas, tais como especificação de requisitos, projeto de software, implementação, teste e assim 
-por diante.
-•	O desenvolvimento incremental intercala as atividades de especificação, desenvolvimento e 
-validação, com rápido feedback entre as atividades. Ele se baseia na ideia de desenvolver uma 
-implementação inicial a partir de especificações abstratas, que é refinada após feedbacks obtidos 
-do cliente até que o sistema satisfaça as necessidades.
-SOMMERVILLE, I. Engenharia de Software. 9. ed. São Paulo: Pearson Addison Wesley, 2011, p 19 (adaptado).
-Acerca dos modelos de processo de software apresentados, avalie as asserções a seguir e a relação 
+22
+TNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO
+QUNSTÃO 13	
+Um processo Te software é um conjunto Te ativiTaTes cujo objetivo é o Tesenvolvimento ou a evolução 
+Te um programa. Uma representação simplificaTa e abstrata é cUamaTa Te moTelo Te processo software. 
+A seguir são apresentaTos Tois exemplos Testes moTelos.
+•	O moTelo em cascata consiTera as ativiTaTes funTamentais To processo, compreenTenTo a 
+especificação, Tesenvolvimento, valiTação e evolução. Nsse moTelo poTe ser representaTo em fases 
+Tistintas, tais como especificação Te requisitos, projeto Te software, implementação, teste e assim 
+por Tiante.
+•	O Tesenvolvimento incremental intercala as ativiTaTes Te especificação, Tesenvolvimento e 
+valiTação, com rápiTo feeTback entre as ativiTaTes. Nle se baseia na iTeia Te Tesenvolver uma 
+implementação inicial a partir Te especificações abstratas, que é refinaTa após feeTbacks obtiTos 
+To cliente até que o sistema satisfaça as necessiTaTes.
+SOMMNRVCLLN, C. NngenUaria Te Software. 9. eT. São Paulo: Pearson ATTison Pesley, 2011, p 19 (aTaptaTo).
+Acerca Tos moTelos Te processo Te software apresentaTos, avalie as asserções a seguir e a relação 
 proposta entre elas.
-I.	 O modelo em cascata não prevê validação pelo cliente em todas as fases do processo de 
-desenvolvimento do software.
-PORQUE
-II.	 No desenvolvimento incremental, a rápida versão inicial assim como os sucessivos incrementos do 
-sistema permitem validar a entrega e atender as necessidades do cliente.
-A respeito dessas asserções, assinale a opção correta.
-A	 As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
-B	 As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
-C	 A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
-D	 A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
-E	 As asserções I e II são proposições falsas.
+C.	 O moTelo em cascata não prevê valiTação pelo cliente em toTas as fases To processo Te 
+Tesenvolvimento To software.
+PORQUN
+CC.	 No Tesenvolvimento incremental, a rápiTa versão inicial assim como os sucessivos incrementos To 
+sistema permitem valiTar a entrega e atenTer as necessiTaTes To cliente.
+A respeito Tessas asserções, assinale a opção correta.
+A	 As asserções C e CC são proposições verTaTeiras, e a CC é uma justificativa correta Ta C.
+B	 As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justificativa correta Ta C.
+C	 A asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.
+M	 A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.
+N	 As asserções C e CC são proposições falsas.
+Área livre
+*R29202122*

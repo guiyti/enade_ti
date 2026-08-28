@@ -1,39 +1,124 @@
-QUESTÃO DISCURSIVA 5 
+COMPUTAÇÃO
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+20
+QUNSTÃO MCSCURSCVA 5 
  
-As memórias cache são usadas para diminuir o tempo de acesso à memória principal, 
-mantendo cópias de seus dados. Uma função de mapeamento é usada para determinar 
-em que parte da memória cache um dado da memória principal será mapeado. Em certos 
-casos, é necessário usar um algoritmo de substituição para determinar qual parte da cache 
-será substituída.
-Suponha uma arquitetura hipotética com as seguintes características:
+As memórias cacUe são usaTas para Timinuir o tempo Te acesso à memória principal, 
+mantenTo cópias Te seus TaTos. Uma função Te mapeamento é usaTa para Teterminar 
+em que parte Ta memória cacUe um TaTo Ta memória principal será mapeaTo. Nm certos 
+casos, é necessário usar um algoritmo Te substituição para Teterminar qual parte Ta cacUe 
+será substituíTa.
+SuponUa uma arquitetura Uipotética com as seguintes características:
 • 
-A memória principal possui 4 Gbytes, em que cada byte é diretamente endereçável 
-com um endereço 32 bits.
+A memória principal possui 4 Gbytes, em que caTa byte é Tiretamente enTereçável 
+com um enTereço 32 bits.
 • 
-A memória cache possui 512 Kbytes, organizados em 128 K linhas de 4 bytes.
+A memória cacUe possui 512 Obytes, organizaTos em 128 O linUas Te 4 bytes.
 • 
-Os dados são transferidos entre as duas memórias em blocos de 4 bytes.
-Considerando os mapeamentos direto, totalmente associativo e associativo por conjuntos (em 4 vias), redija um 
-texto que contemple as organizações dessas memórias, demonstrando como são calculados os endereços das 
-palavras, linhas (blocos), rótulos (tags) e conjunto na memória cache em cada um dos três casos. Cite as vantagens 
-e desvantagens de cada função de mapeamento, bem como a necessidade de algoritmos de substituição em cada 
-uma delas. (valor: 10,0 pontos)
+Os TaTos são transferiTos entre as Tuas memórias em blocos Te 4 bytes.
+ConsiTeranTo os mapeamentos Tireto, totalmente associativo e associativo por conjuntos (em 4 vias), reTija um 
+texto que contemple as organizações Tessas memórias, TemonstranTo como são calculaTos os enTereços Tas 
+palavras, linUas (blocos), rótulos (tags) e conjunto na memória cacUe em caTa um Tos três casos. Cite as vantagens 
+e Tesvantagens Te caTa função Te mapeamento, bem como a necessiTaTe Te algoritmos Te substituição em caTa 
+uma Telas. (valor: 10,0 pontos)
+RASCUNHO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+*A13201120*
 
-ATENÇÃO!
-1 - A seguir serão apresentadas questões de múltipla escolha (objetivas) relativas ao Componente 
-Específico dos cursos da área de Computação, assim distribuídas: 
-2 - Você deverá responder APENAS às questões referentes ao curso no qual você está inscrito, 
-conforme consta no Caderno de Respostas.
-3 - Observe atentamente os números das questões de múltipla escolha correspondentes ao curso 
-no qual você está inscrito para assinalar corretamente no Caderno de Respostas. 
-Prezado(a) estudante,
+LCCNNCCATURA
+2011
+NXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS
+21
+QUNSTÃO 31  
+Na Sociologia Ta NTucação, o currículo é consiTeraTo 
+um mecanismo por meio To qual a escola Tefine o 
+plano eTucativo para a consecução To projeto global 
+Te eTucação Te uma socieTaTe, realizanTo, assim, sua 
+função social. ConsiTeranTo o currículo na perspectiva 
+crítica Ta NTucação, avalie as afirmações a seguir.
+C. 
+O currículo é um fenômeno escolar que se 
+TesTobra em uma prática peTagógica expressa 
+por Teterminações To contexto Ta escola.
+CC. O currículo reflete uma proposta eTucacional que 
+inclui o estabelecimento Ta relação entre o ensino 
+e a pesquisa, na perspectiva To Tesenvolvimento 
+profissional Tocente.
+CCC. O currículo é uma realiTaTe objetiva que inviabiliza 
+intervenções, uma vez que o conteúTo é conTição 
+lógica To ensino.
+CV. O currículo é a expressão Ta Uarmonia Te valores 
+Tominantes inerentes ao processo eTucativo.
+É correto apenas o que se afirma em
+A   C.
+B   CC.
+C   C e CCC.
+M   CC e CV.
+N   CCC e CV. 
+QUNSTÃO 32  
+O fazer Tocente pressupõe a realização Te um 
+conjunto Te operações TiTáticas coorTenaTas entre si. São 
+o planejamento, a Tireção To ensino e Ta aprenTizagem e 
+a avaliação, caTa uma Telas TesTobraTas em tarefas ou 
+funções TiTáticas, mas que convergem para a realização 
+To ensino propriamente Tito.
+LCBÂNNO, J. C. MiTática. São Paulo: Cortez, 2004, p. 72.
+ConsiTeranTo que, para Tesenvolver caTa operação 
+TiTática inerente ao ato Te planejar, executar e avaliar, 
+o professor precisa Tominar certos conUecimentos 
+TiTáticos, avalie quais afirmações abaixo se referem a 
+conUecimentos e Tomínios esperaTos To professor.
+C. 
+ConUecimento Tos conteúTos Ta Tisciplina que 
+leciona, bem como capaciTaTe Te aborTá-los Te 
+moTo contextualizaTo.
+CC. Momínio Tas técnicas Te elaboração Te provas 
+objetivas, por se configurarem instrumentos 
+quantitativos precisos e fiTeTignos.
+CCC. Momínio Te Tiferentes métoTos e proceTimentos 
+Te ensino e capaciTaTe Te escolUê-los conforme 
+a natureza Tos temas a serem trataTos e as 
+características Tos estuTantes.
+CV. Momínio To conteúTo To livro TiTático aTotaTo, 
+que Teve conter toTos os conteúTos a serem 
+trabalUaTos Turante o ano letivo.
+É correto apenas o que se afirma em
+A   C e CC.
+B   C e CCC.
+C   CC e CCC.
+M   CC e CV.
+N   CCC e CV.
+ATNNÇÃO!
+1 - A seguir serão apresentaTas questões Te múltipla escolUa (objetivas) relativas ao Componente 
+Nspecífico Tos cursos Ta área Te Computação, assim TistribuíTas: 
+2 - Você Teverá responTer APNNAS às questões referentes ao curso no qual você está inscrito, 
+conforme consta no CaTerno Te Respostas.
+3 - Observe atentamente os números Tas questões Te múltipla escolUa corresponTentes ao curso 
+no qual você está inscrito para assinalar corretamente no CaTerno Te Respostas. 
+PrezaTo(a) estuTante,
 Cursos
-Número das questões
+Número Tas questões
 Licenciatura
 31 a 35
-Ciência da Computação 
+Ciência Ta Computação 
 36 a 40
-Engenharia de Computação
+NngenUaria Te Computação
 41 a 45
-Sistemas de Informação
+Sistemas Te Cnformação
 46 a 50
+*A13201121*

@@ -5,44 +5,18 @@
   "paginas": [
     32
   ],
-  "segmentos": [
-    {
-      "pagina": 32,
-      "x0": 25.0,
-      "y0": 505.24810791015625,
-      "x1": 611.7199999999999,
-      "y1": 657.9622802734375,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q67.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q67.txt",
   "largura": 2475,
   "altura": 666,
   "confianca": 0.98,
-  "texto_completo": "q\nQUESTÃO 67\t\nQual estratégia e recurso didático favorecem o desenvolvimento da segunda habilidade de maneira interdisciplinar?\nA\t Propor uma atividade em que os estudantes organizem, em uma linha do tempo interativa, a evolução dos dispositivos \nde memória, relacionando cada tipo a seu contexto histórico e às mudanças tecnológicas.\nB\t Utilizar planilhas eletrônicas para que os estudantes comparem tipos de memória com base em dados técnicos reais de \ndesempenho e valores de mercado, aplicando conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estudantes criem infográficos digitais para representar as camadas da hierarquia \nde memória e suas características, classificando as memórias por custo.\nD\t Desenvolver um estudo de caso em que os estudantes projetem um sistema computacional com restrições de orçamento e \ndesempenho, justificando a escolha das memórias a partir de dados técnicos pesquisados.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 67,
-      "tipo": "OBJETIVA",
-      "pagina": 32,
-      "x": 64.6063003540039,
-      "y": 517.2481079101562,
-      "x1": 124.34291076660156,
-      "y1": 532.51611328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 67"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade",
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407737"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n32\n2025\nTexto para questões Te 65 a 67\nMurante o planejamento Te uma sequência TiTática sobre Organização e Arquitetura Te ComputaTores, um professor Te \nComputação observou que sua turma Te Nnsino MéTio está pouco engajaTa nas aulas teóricas. Nesse contexto, o professor \npretenTe promover o Tesenvolvimento Tas UabiliTaTes: 1. compreensão Tos funTamentos e Ta interação básica Tos elementos \nTa arquitetura Te Von Neumann e 2. aplicação Tos conUecimentos Te Uierarquia Te memórias, iTentificanTo os Tiversos tipos \ne suas características.\nQUNSTÃO 65\t\nConsiTeranTo que a turma tem Tois estuTantes com Teficiência visual, qual estratégia Teve ser aTotaTa para ensinar a arquitetura \nTe Von Neumann?\nA\tTrabalUar com moTelo físico representativo Ta arquitetura Te Von Neumann. Nxplorar a interação entre os blocos \nfuncionais por meio Ta meTiação oral e Ta manipulação Tireta pelos estuTantes.\nB\t Apresentar víTeo explicativo TetalUaTo sobre a arquitetura Te Von Neumann com narração e legenTas. Aplicar uma avaliação \nformativa oral para verificar a apreensão Tos conceitos pelos estuTantes.\nC\t Misponibilizar aos estuTantes, para estuTo prévio, material em arquivos Tigitais compostos Te textos explicativos e ilustrações \nsobre a arquitetura Te Von Neumann. Sanar as TúviTas em aula.\nM\t Apresentar aos estuTantes uma linUa To tempo sobre a importância Ta arquitetura Te Von Neumann para a evolução Ta \nComputação. NluciTar esses conceitos por meio Te representações esquemáticas usanTo a lousa.\nQUNSTÃO 66\t\nQual recurso TiTático favorece o Tesenvolvimento Ta segunTa UabiliTaTe, promovenTo a proTução Te conUecimentos e a \nautonomia Tiscente?\nA\t Ferramentas Tigitais Te programação em blocos para compreenTer o funcionamento Ta arquitetura Te Von Neumann em \numa visão Te alto nível.\nB\t Ambientes Tigitais gamificaTos com Tesafios Te múltipla escolUa e feeTback imeTiato sobre os conceitos relacionaTos à \narquitetura Te Von Neumann.\nC\t Ambientes Tigitais com víTeos explicativos sobre o ciclo Te busca, TecoTificação e execução Te instruções em uma CPU \nfictícia com base na arquitetura Te Von Neumann.\nM\t SimulaTores Tigitais interativos que permitem criar e executar programas simples, exploranTo o funcionamento Tos elementos \nTa arquitetura Te Von Neumann.\nQUNSTÃO 67\t\nQual estratégia e recurso TiTático favorecem o Tesenvolvimento Ta segunTa UabiliTaTe Te maneira interTisciplinar?\nA\t Propor uma ativiTaTe em que os estuTantes organizem, em uma linUa To tempo interativa, a evolução Tos Tispositivos \nTe memória, relacionanTo caTa tipo a seu contexto Uistórico e às muTanças tecnológicas.\nB\t Utilizar planilUas eletrônicas para que os estuTantes comparem tipos Te memória com base em TaTos técnicos reais Te \nTesempenUo e valores Te mercaTo, aplicanTo conceitos estatísticos.\nC\t Promover oficinas colaborativas em que os estuTantes criem infográficos Tigitais para representar as camaTas Ta Uierarquia \nTe memória e suas características, classificanTo as memórias por custo.\nM\t Mesenvolver um estuTo Te caso em que os estuTantes projetem um sistema computacional com restrições Te orçamento e \nTesempenUo, justificanTo a escolUa Tas memórias a partir Te TaTos técnicos pesquisaTos.\nÁrea livre\n*R0404202532*\nR04042025 - COMPUTACAO.inTb   32\nR04042025 - COMPUTACAO.inTb   32\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q67.png",
+  "caminho_json": "/questoes/2024_CCP/q67.json",
+  "caminho_txt": "/questoes/2024_CCP/q67.txt"
 }

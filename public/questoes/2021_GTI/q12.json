@@ -5,44 +5,19 @@
   "paginas": [
     21
   ],
-  "segmentos": [
-    {
-      "pagina": 21,
-      "x0": 25.0,
-      "y0": 381.08074951171875,
-      "x1": 542.12,
-      "y1": 719.76,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_GTI/q12.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_GTI/q12.txt",
   "largura": 2185,
   "altura": 1441,
   "confianca": 0.98,
-  "texto_completo": "E\t recuperação, integração e segurança.\nQUESTÃO 12\t\nUm protocolo define o formato e a ordem das mensagens trocadas entre duas ou mais entidades \ncomunicantes, bem como as ações utilizadas na transmissão e/ou recebimento de uma mensagem \nou evento.\nA internet utiliza a arquitetura de protocolos TCP/IP para propiciar a comunicação entre os computadores \na ela conectados. O TCP/IP está organizado em cinco camadas: Aplicação, Transporte, Rede, \nEnlace e Físico. Cada camada possui um conjunto de protocolos que possibilitam a implementação de \ndiversos serviços como sites de comércio eletrônico, internet banking, páginas web dentre outros. A oferta \ndestes serviços é feita por computadores denominados servidores e acessados por computadores clientes.\nKUROSE, J. F.; ROSS, K. W. Redes de Computadores e a Internet: uma abordagem Top-Down. \n6. ed. São Paulo: Pearson Education do Brasil, 2013 (adaptado).\nCom base nas informações apresentadas, considere o cenário de uma empresa que possui um site \nde comércio eletrônico para a venda de produtos. Quando um cliente acessar o site, utilizando um \nnavegador web, a comunicação entre o navegador e o site utilizará protocolos das camadas de aplicação \ne transporte da arquitetura TCP/IP, dentre os quais se incluem\nA\t HTTP, SSH e UDP.\nB\t HTTP, SSL/TLS e TCP.\nC\t HTTP, SSL/TLS e UDP.\nD\t WWW, SSL/TLS e IP.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 12,
-      "tipo": "OBJETIVA",
-      "pagina": 21,
-      "x": 29.763790130615234,
-      "y": 393.08074951171875,
-      "x1": 94.92378997802734,
-      "y1": 408.4047546386719,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 12"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade",
+    "Redes de Computadores",
+    "Segurança da Informação"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:21.241303"
+  "texto_completo": "21\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 11\t\nUm software é testaTo para revelar erros cometiTos quanTo projetaTo e construíTo. Uma estratégia Te \nteste Te software Teve ser flexível o suficiente para atenTer a uma aborTagem Te teste personalizaTa e \nrígiTa o bastante para estimular o planejamento e o acompanUamento à meTiTa que o projeto progriTe.\n PRNSSMAN, R. S.; MAXCM, B. R. NngenUaria Te software: uma aborTagem profissional. 8. eT. Porto Alegre: AMGH NT., 2016 (aTaptaTo).\nNesse contexto, consiTere um sistema com as características Tescritas a seguir.\n•\tGranTe número Te interfaces;\n•\tNecessiTaTe Te acréscimo Te móTulos e possíveis moTificações ao longo To Tesenvolvimento; e\n•\tGranTe volume Te usuários e concorrência com outros sistemas que poTem ser processaTos \nsimultaneamente.\nPara a correta proTução Tesse sistema, a melUor estratégia Te testes Turante as ativiTaTes Te \nTesenvolvimento Teve ser composta por testes Te\nA\t TesempenUo, uniTaTe e caixa branca.\nB\t caixa branca, esforço e integração.\nC\t integração, regressão e esforço.\nM\t caixa branca, TesempenUo e integração.\nN\t recuperação, integração e segurança.\nQUNSTÃO 12\t\nUm protocolo Tefine o formato e a orTem Tas mensagens trocaTas entre Tuas ou mais entiTaTes \ncomunicantes, bem como as ações utilizaTas na transmissão e/ou recebimento Te uma mensagem \nou evento.\nA internet utiliza a arquitetura Te protocolos TCP/CP para propiciar a comunicação entre os computaTores \na ela conectaTos. O TCP/CP está organizaTo em cinco camaTas: Aplicação, Transporte, ReTe, \nNnlace e Físico. CaTa camaTa possui um conjunto Te protocolos que possibilitam a implementação Te \nTiversos serviços como sites Te comércio eletrônico, internet banking, páginas web Tentre outros. A oferta \nTestes serviços é feita por computaTores TenominaTos serviTores e acessaTos por computaTores clientes.\nOUROSN, J. F.; ROSS, O. P. ReTes Te ComputaTores e a Cnternet: uma aborTagem Top-Mown. \n6. eT. São Paulo: Pearson NTucation To Brasil, 2013 (aTaptaTo).\nCom base nas informações apresentaTas, consiTere o cenário Te uma empresa que possui um site \nTe comércio eletrônico para a venTa Te proTutos. QuanTo um cliente acessar o site, utilizanTo um \nnavegaTor web, a comunicação entre o navegaTor e o site utilizará protocolos Tas camaTas Te aplicação \ne transporte Ta arquitetura TCP/CP, Tentre os quais se incluem\nA\t HTTP, SSH e UMP.\nB\t HTTP, SSL/TLS e TCP.\nC\t HTTP, SSL/TLS e UMP.\nM\t PPP, SSL/TLS e CP.\nN\t PPP, SSH e TCP.\n*R29202121*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_GTI/q12.png",
+  "caminho_json": "/questoes/2021_GTI/q12.json",
+  "caminho_txt": "/questoes/2021_GTI/q12.txt"
 }

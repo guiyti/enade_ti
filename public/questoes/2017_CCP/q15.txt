@@ -1,44 +1,89 @@
-QUESTÃO 15 
-hŵĂ ĚĂƐ ƚĠĐŶŝĐĂƐ ĚĞ ĂƚĂƋƵĞƐ Ğŵ ĂŵďŝĞŶƚĞƐ ǀŝƌƚƵĂŝƐ Ġ 
-ĚĞŶŽŵŝŶĂĚĂ ΗŚŽŵĞŵ ŶŽ ŵĞŝŽΗ ;man in the middleͿ͕  
-ĐƵũŽ ŽďũĞƟǀŽ Ġ ĂƐƐŽĐŝĂƌ Ž ĞŶĚĞƌĞĕŽ D I ĚŽ ŝŶƚƌƵƐŽ 
-ĂŽ ĞŶĚĞƌĞĕŽ /W ĚĞ Ƶŵ ŽƵƚƌŽ Ŷſ ĚĂ ƌĞĚĞ ʹ ŶĞƐƐĞ ĐĂƐŽ͕  
-Ž ƉŽŶƚŽ ĚĞ ĂĐĞƐƐŽ ;Access Point Ͳ  WͿ ǁŝͲĮ ĚĂ ƌĞĚĞ͘  
-IŽŵŽ Ž  W Ġ Ž gateway ƉĂĚƌĆŽ ĚĞƐƐĂ ƐƵďƌĞĚĞ ƐĞŵ 
-ĮŽ͕   ƚŽĚŽ  Ž  ƚƌĄĨĞŐŽ  ŽƌŝŐŝŶĂůŵĞŶƚĞ  ĚŝƌĞĐŝŽŶĂĚŽ  ĂŽ 
-ƉŽŶƚŽ ĚĞ ĂĐĞƐƐŽ ƉŽĚĞ ƐĞƌ ŝŶƚĞƌĐĞƉƚĂĚŽ ƉĞůŽ ŝŶƚƌƵƐŽ͘  
-EƐƐĞ  ĂƚĂƋƵĞ  ĞǆƉůŽƌĂ  ĚĞĮĐŝġŶĐŝĂƐ  ĐŽŶŚĞĐŝĚĂƐ  ŶŽ 
-ƉƌŽũĞƚŽ ĚĞ ƐĞŐƵƌĂŶĕĂ ĚŽ /EEE 802͘ 11 ǁŝͲĮ.
-IKh>KhZ/^͕  '͘  Ğƚ Ăů͘  ^ŝƐƚĞŵĂƐ ĚŝƐƚƌŝďƵşĚŽƐ͗ ĐŽŶĐĞŝƚŽƐ Ğ ƉƌŽũĞƚŽ͘
-WŽƌƚŽ  ůĞŐƌĞ͗  ŽŽŬŵĂŶ͕  2013 ;ĂĚĂƉƚĂĚŽͿ
-IŽŶƐŝĚĞƌĂŶĚŽ  Ƶŵ  ĂƚĂƋƵĞ  ǀŝƌƚƵĂů  ƉĞůĂ  ƚĠĐŶŝĐĂ ͞
-ŚŽŵĞŵ ŶŽ ŵĞŝŽ͕͟  ƉŽƌ ŵĞŝŽ ĚĞ  ĚĚƌĞƐƐ ZĞƐŽůƵƟŽŶ 
-Protocol ; ZWͿ ƐƉŽŽĮŶŐ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘   K  ƉƌŽďůĞŵĂ  ĚŽ  ĐŽŵƉĂƌƟůŚĂŵĞŶƚŽ  ĚĞ  ĐŚĂǀĞ 
-ƉƌĞƐĞŶƚĞ ŶŽ ƉƌŽũĞƚŽ ĚĞ ƐĞŐƵƌĂŶĕĂ ĚŽ  W ƉŽĚĞ 
-ƐĞƌ ƌĞƐŽůǀŝĚŽ ĐŽŵ Ă ƵƟůŝǌĂĕĆŽ ĚĞ Ƶŵ ƉƌŽƚŽĐŽůŽ 
-ďĂƐĞĂĚŽ  Ğŵ  ĐŚĂǀĞ  ƉƷďůŝĐĂ  ƉĂƌĂ  ŶĞŐŽĐŝĂƌ 
-ĐŚĂǀĞƐ ŝŶĚŝǀŝĚƵĂŝƐ͕  ĐŽŵŽ Ġ ĨĞŝƚŽ ŶŽ Transport 
->ĂǇĞƌ ^ĞĐƵƌŝƚǇ ;d>^Ϳ ͬ  ^ĞĐƵƌĞ ^ŽĐŬĞƚƐ >ĂǇĞƌ ;^^>Ϳ͘
-//͘   K  ƉƌŽďůĞŵĂ  ĚŽ  ĚĞƐǀŝŽ  ĚĞ  ƚƌĄĨĞŐŽ  ĐĂƵƐĂĚŽ 
-ƉĞůŽ ĂƚĂƋƵĞ ĚĞ ŚŽŵĞŵ ŶŽ ŵĞŝŽ ƉŽĚĞ ƐĞƌ 
-ĞǀŝƚĂĚŽ ĐŽŵ Ă ĐŽŶĮŐƵƌĂĕĆŽ ĚĞ Ƶŵ ĮƌĞǁĂůů
-ŶŽƐ  ƉŽŶƚŽƐ  ĚĞ  ĂĐĞƐƐŽ  ƋƵĞ  ĮůƚƌĂŵ  ƚƌĄĨĞŐŽ 
-ĞŶƚƌĞ ĐůŝĞŶƚĞƐ ĚĞ ƵŵĂ ŵĞƐŵĂ ƐƵďƌĞĚĞ͘
-///͘   K  ƉƌŽďůĞŵĂ  ĚĂ  ĨĂůƚĂ  ĚĞ  ĂƵƚĞŶƟĐĂĕĆŽ 
-ĚŽƐ  ƉŽŶƚŽƐ  ĚĞ  ĂĐĞƐƐŽ  ƐĞŵ  ĮŽ  ƉŽĚĞ  ƐĞƌ 
-ĐŽŶƚŽƌŶĂĚŽ͕  ŽďƌŝŐĂŶĚŽͲƐĞ Ž ƉŽŶƚŽ ĚĞ ĂĐĞƐƐŽ 
-Ă  ĨŽƌŶĞĐĞƌ  Ƶŵ  ĐĞƌƟĮĐĂĚŽ  ƋƵĞ  ƉŽƐƐĂ  ƐĞƌ 
-ĂƵƚĞŶƟĐĂĚŽ ƉĞůŽ ƵƐŽ ĚĞ ƵŵĂ ĐŚĂǀĞ ƉƷďůŝĐĂ 
-ŽďƟĚĂ ĚĞ ƚĞƌĐĞŝƌŽƐ͘
-/s͘    ǀƵůŶĞƌĂďŝůŝĚĂĚĞ ĚĂƐ ĐŚĂǀĞƐ ĚĞ 40 bits ŽƵ 64 
-bits Ă ĂƚĂƋƵĞƐ ĚĞ ĨŽƌĕĂ ďƌƵƚĂ ƉŽĚĞ ƐĞƌ ĞǀŝƚĂĚĂ 
-ƵƟůŝǌĂŶĚŽͲƐĞ Ƶŵ  W ƋƵĞ ƉĞƌŵŝƚĂ ĐŚĂǀĞƐ ĚĞ 
-128 bits Ğ ůŝŵŝƚĂŶĚŽͲƐĞ Ž ƚƌĄĨĞŐŽ Ă ĚŝƐƉŽƐŝƟǀŽƐ 
-ĐŽŵƉĂơǀĞŝƐ ĐŽŵ ĐŚĂǀĞƐ ĚĞ 128 bits.
- ĐŽƌƌĞƚŽ ĂƉĞŶĂƐ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A  / Ğ //͘
-B  / Ğ ///͘
-C  // Ğ /s͘
-D  /͕  /// Ğ /s͘
-E  //͕  /// Ğ /s.
+CCÊNCCA MA COMPUTAÇÃO
+20
+YUNSTãO 15 
+Uma Tas técnicas Te ataques em ambientes virtuais é 
+TenominaTa ΗUomem no meioΗ (man in tUe miTTle),  
+cuũo obũetivo é associar o enTereço M C To intruso 
+ao enTereço /P Te um outro no Ta reTe ʹ nesse caso,  
+o ponto Te acesso (Access Point -  P) ǁi-f Ta reTe.  
+Como o  P é o gateway paTrão Tessa subreTe sem 
+fo,   toTo  o  trAfego  originalmente  TirecionaTo  ao 
+ponto Te acesso poTe ser interceptaTo pelo intruso.  
+Nsse  ataque  explora  Tefcigncias  conUeciTas  no 
+proũeto Te segurança To /NNN 802. 11 ǁi-f.
+COU>OUZ/S,  '.  et al.  Sistemas TistribuíTos: conceitos e proũeto.
+Porto  legre:  BooŬman,  2013 (aTaptaTo)
+ConsiTeranTo  um  ataque  virtual  pela  técnica "
+Uomem no meio",  por meio Te  TTress Zesolution 
+Protocol ( ZP) spoofng,  avalie as afrmações a seguir.
+/.   O  problema  To  compartilUamento  Te  cUave 
+presente no proũeto Te segurança To  P poTe 
+ser resolviTo com a utilização Te um protocolo 
+baseaTo  em  cUave  publica  para  negociar 
+cUaves inTiviTuais,  como é feito no Transport 
+>aǇer SecuritǇ (T>S) ͬ  Secure SocŬets >aǇer (SS>).
+//.   O  problema  To  Tesvio  Te  trAfego  causaTo 
+pelo ataque Te Uomem no meio poTe ser 
+evitaTo com a confguração Te um freǁall
+nos  pontos  Te  acesso  que  fltram  trAfego 
+entre clientes Te uma mesma subreTe.
+///.   O  problema  Ta  falta  Te  autenticação 
+Tos  pontos  Te  acesso  sem  fo  poTe  ser 
+contornaTo,  obriganTo-se o ponto Te acesso 
+a  fornecer  um  certifcaTo  que  possa  ser 
+autenticaTo pelo uso Te uma cUave publica 
+obtiTa Te terceiros.
+/s.    vulnerabiliTaTe Tas cUaves Te 40 bits ou 64 
+bits a ataques Te força bruta poTe ser evitaTa 
+utilizanTo-se um  P que permita cUaves Te 
+128 bits e limitanTo-se o trAfego a Tispositivos 
+compaơveis com cUaves Te 128 bits.
+ correto apenas o que se afrma em
+A  / e //.
+B  / e ///.
+C  // e /s.
+M  /,  /// e /s.
+N  //,  /// e /s.
+QUNSTÃO 16
+   segurança  Ta  informação  estA  Tiretamente 
+relacionaTa  com  a  proteção  Te  um  conũunto 
+Te  informações,   no  sentiTo  Te  preservar  o 
+valor  que  possuem  para  um  inTivíTuo  ou  uma 
+organização,   tenTo  como  proprieTaTes  bAsicas  a 
+confTencialiTaTe,  a integriTaTe,  a TisponibiliTaTe e 
+a autenticiTaTe.
+>zZ ,  M.  Z.  Segurança e auTitoria em sistemas Te informação.
+Zio Te :aneiro:  Cigncia MoTerna,  2008 (aTaptaTo).
+   engenUaria  social  é  TefniTa  como  o  conũunto 
+Te  técnicas  utilizaTas  para  reunir  informações,  
+exploranTo  a  tenTgncia  Uumana  a  ignorar  os 
+sistemas Te segurança.  Os ataques Te engenUaria 
+social implicam interação com outros inTivíTuos,  
+o  que  eviTencia  o  aspecto  psicologico  Ta 
+engenUaria social.
+M/TN/C<,  <.  M.͖  S/MON,  t.  >.  TUe art of Teception: controlling tUe 
+Uuman element of securitǇ.  Neǁ zorŬ:  tileǇ,  2001 (aTaptaTo).
+   ética  normativa  é  o  ΗcertoΗ  e  o  ΗerraToΗ  To 
+comportamento  social  interpretaTo.      principal 
+Tiferença  entre  essas  Tuas  perspectivas  é  a 
+forma como um Tilema moral é aborTaTo,  e não 
+necessariamente as consequgncias Tisso.
+Misponível em:  фUtp:ͬͬ
+ǁǁǁ. etUicsmorals. comх.
+ cesso em:  18 :ul.  2017 (aTaptaTo).
+Nm  relação  a  segurança  Ta  informação,   avalie  as 
+afrmações a seguir.
+/.    s  empresas  sempre  estarão  vulnerAveis,  
+pois o fator Uumano é o elo mais fraco Ta 
+segurança Ta informação.
+//.      segurança  Ta  informação  não  é  um 
+proTuto e,  sim,  um processo.
+///.     ética profssional é um importante fator a 
+ser consiTeraTo na segurança Ta informação.
+ correto o que se afrma em
+A  /,  apenas.
+B  //,  apenas.
+C  / e ///,  apenas.
+M  // e ///,  apenas.
+N  /,  // e ///.
+*R03201720*

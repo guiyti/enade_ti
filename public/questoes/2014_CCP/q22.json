@@ -5,44 +5,17 @@
   "paginas": [
     20
   ],
-  "segmentos": [
-    {
-      "pagina": 20,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 288.84,
-      "y1": 529.6760864257812,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2014_CCP/q22.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_CCP/q22.txt",
   "largura": 1129,
   "altura": 1925,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 22\nIŽŶƐŝĚĞƌĞ  Ž  ƉƌŽĐĞƐƐŽ  ĚĞ  ĨĂďƌŝĐĂĕĆŽ  ĚĞ  Ƶŵ  ƉƌŽĚƵƚŽ \nƐŝĚĞƌƷƌŐŝĐŽ  ƋƵĞ  ŶĞĐĞƐƐŝƚĂ  ƉĂƐƐĂƌ  ƉŽƌ  n  ƚƌĂƚĂŵĞŶƚŽƐ \nƚĠƌŵŝĐŽƐ  Ğ  ƋƵşŵŝĐŽƐ  ƉĂƌĂ  ĮĐĂƌ  ƉƌŽŶƚŽ͘   IĂĚĂ  ƵŵĂ  ĚĂƐ \nn ĞƚĂƉĂƐ ĚĞ ƚƌĂƚĂŵĞŶƚŽ Ġ ƌĞĂůŝǌĂĚĂ ƵŵĂ ƷŶŝĐĂ ǀĞǌ ŶĂ \nŵĞƐŵĂ ĐĂůĚĞŝƌĂ͘   ůĠŵ ĚŽ ĐƵƐƚŽ ƉƌſƉƌŝŽ ĚĞ ĐĂĚĂ ĞƚĂƉĂ \nĚŽ ƚƌĂƚĂŵĞŶƚŽ͕  ĞǆŝƐƚĞ Ž ĐƵƐƚŽ ĚĞ ƐĞ ƉĂƐƐĂƌ ĚĞ ƵŵĂ ĞƚĂƉĂ \nƉĂƌĂ  ŽƵƚƌĂ͕   ƵŵĂ  ǀĞǌ  ƋƵĞ͕   ĚĞƉĞŶĚĞŶĚŽ  ĚĂ  ƐĞƋƵġŶĐŝĂ \nĞƐĐŽůŚŝĚĂ͕  ƉŽĚĞ ƐĞƌ ŶĞĐĞƐƐĄƌŝŽ ĂůƚĞƌĂƌ Ă ƚĞŵƉĞƌĂƚƵƌĂ ĚĂ \nĐĂůĚĞŝƌĂ Ğ ůŝŵƉĄͲůĂ ƉĂƌĂ ĞǀŝƚĂƌ Ă ƌĞĂĕĆŽ ĞŶƚƌĞ ŽƐ ƉƌŽĚƵƚŽƐ \nƋƵşŵŝĐŽƐ ƵƟůŝǌĂĚŽƐ͘   ƐƐƵŵĂ ƋƵĞ Ž ƉƌŽĐĞƐƐŽ ĚĞ ĨĂďƌŝĐĂĕĆŽ \nŝŶŝĐŝĂ Ğ ƚĞƌŵŝŶĂ ĐŽŵ Ă ĐĂůĚĞŝƌĂ ůŝŵƉĂ͘  DĞƐĞũĂͲƐĞ ƉƌŽũĞƚĂƌ \nƵŵ ĂůŐŽƌŝƚŵŽ ƉĂƌĂ ŝŶĚŝĐĂƌ Ă ƐĞƋƵġŶĐŝĂ ĚĞ ƚƌĂƚĂŵĞŶƚŽƐ \nƋƵĞ ƉŽƐƐŝďŝůŝƚĞ ĨĂďƌŝĐĂƌ Ž ƉƌŽĚƵƚŽ ĐŽŵ Ž ŵĞŶŽƌ ĐƵƐƚŽ \nƚŽƚĂů͘  EĞƐƐĂ ƐŝƚƵĂĕĆŽ͕  ĐŽŶĐůƵŝͲƐĞ ƋƵĞ\nA Ă  ƐŽůƵĕĆŽ  ĚŽ  ƉƌŽďůĞŵĂ  Ġ  ŽďƟĚĂ  Ğŵ  ƚĞŵƉŽ  ĚĞ \nŽƌĚĞŵ  O;nlognͿ͕   ƵƟůŝǌĂŶĚŽͲƐĞ  Ƶŵ  ĂůŐŽƌŝƚŵŽ \nſƟŵŽ ĚĞ ŽƌĚĞŶĂĕĆŽ͘\nB ƵŵĂ  ŚĞƵƌşƐƟĐĂ  ƉĂƌĂ  Ă  ƐŽůƵĕĆŽ  ĚŽ  ƉƌŽďůĞŵĂ  ĚĞ \nĐŽůŽƌĂĕĆŽ ĚĞ ŐƌĂĨŽƐ ƐŽůƵĐŝŽŶĂƌĄ Ž ƉƌŽďůĞŵĂ Ğŵ \nƚĞŵƉŽ ƉŽůŝŶŽŵŝĂů͘\nC Ž ƉƌŽďůĞŵĂ ƐĞ ƌĞĚƵǌ Ă ĞŶĐŽŶƚƌĂƌ Ă ĄƌǀŽƌĞ ŐĞƌĂĚŽƌĂ \nŵşŶŝŵĂ ƉĂƌĂ Ž ĐŽŶũƵŶƚŽ ĚĞ ĞƚĂƉĂƐ ĚŽ ƉƌŽĐĞƐƐŽ͕  \nƌĞƋƵĞƌĞŶĚŽ ƚĞŵƉŽ ĚĞ ŽƌĚĞŵ ƉŽůŝŶŽŵŝĂů ƉĂƌĂ ƐĞƌ \nƐŽůƵĐŝŽŶĂĚŽ͘\nD Ă  ƵƟůŝǌĂĕĆŽ  ĚŽ  ĂůŐŽƌŝƚŵŽ  ĚĞ  DŝũŬƐƚƌĂ  ƉĂƌĂ  ƐĞ \nĚĞƚĞƌŵŝŶĂƌ Ž ĐĂŵŝŶŚŽ ĚĞ ĐƵƐƚŽ ŵşŶŝŵŽ ĞŶƚƌĞ Ž \nĞƐƚĂĚŽ ŝŶŝĐŝĂů Ğ Ž ĮŶĂů ƐŽůƵĐŝŽŶĂ Ž ƉƌŽďůĞŵĂ Ğŵ \nƚĞŵƉŽ ƉŽůŝŶŽŵŝĂů͘\nE ƋƵĂůƋƵĞƌ ĂůŐŽƌŝƚŵŽ ĐŽŶŚĞĐŝĚŽ ƉĂƌĂ Ă ƐŽůƵĕĆŽ ĚŽ \nƉƌŽďůĞŵĂ ĚĞƐĐƌŝƚŽ ƉŽƐƐƵŝ ŽƌĚĞŵ ĚĞ ĐŽŵƉůĞǆŝĚĂĚĞ \nĚĞ  ƚĞŵƉŽ  ŶĆŽͲƉŽůŝŶŽŵŝĂů͕   ƵŵĂ  ǀĞǌ  ƋƵĞ  Ž \nƉƌŽďůĞŵĂ ĚŽ ĐĂŝǆĞŝƌŽ ǀŝĂũĂŶƚĞ ƐĞ ƌĞĚƵǌ Ă ĞůĞ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 22,
-      "tipo": "OBJETIVA",
-      "pagina": 20,
-      "x": 29.62769889831543,
-      "y": 86.31988525390625,
-      "x1": 92.07929992675781,
-      "y1": 98.31988525390625,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 22"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:17.577271"
+  "texto_completo": "20\nC/NNC/  M  COMPUT AãO\nQUNSTÃO 22\nConsiTere  o  processo  Te  fabricação  Te  um  proTuto \nsiTerurgico  que  necessita  passar  por  n  tratamentos \ntérmicos  e  químicos  para  fcar  pronto.   CaTa  uma  Tas \nn etapas Te tratamento é realizaTa uma unica vez na \nmesma calTeira.   lém To custo proprio Te caTa etapa \nTo tratamento,  existe o custo Te se passar Te uma etapa \npara  outra,   uma  vez  que,   TepenTenTo  Ta  sequgncia \nescolUiTa,  poTe ser necessArio alterar a temperatura Ta \ncalTeira e limpA-la para evitar a reação entre os proTutos \nquímicos utilizaTos.   ssuma que o processo Te fabricação \ninicia e termina com a calTeira limpa.  Meseũa-se proũetar \num algoritmo para inTicar a sequgncia Te tratamentos \nque possibilite fabricar o proTuto com o menor custo \ntotal.  Nessa situação,  conclui-se que\nA a  solução  To  problema  é  obtiTa  em  tempo  Te \norTem  O(nlogn),   utilizanTo-se  um  algoritmo \notimo Te orTenação.\nB uma  Ueurística  para  a  solução  To  problema  Te \ncoloração Te grafos solucionarA o problema em \ntempo polinomial.\nC o problema se reTuz a encontrar a Arvore geraTora \nmínima para o conũunto Te etapas To processo,  \nrequerenTo tempo Te orTem polinomial para ser \nsolucionaTo.\nM a  utilização  To  algoritmo  Te  MiũŬstra  para  se \nTeterminar o caminUo Te custo mínimo entre o \nestaTo inicial e o fnal soluciona o problema em \ntempo polinomial.\nN qualquer algoritmo conUeciTo para a solução To \nproblema Tescrito possui orTem Te complexiTaTe \nTe  tempo  não-polinomial,   uma  vez  que  o \nproblema To caixeiro viaũante se reTuz a ele.\nQUNSTÃO 23\nYual o valor Te retorno Ta função a seguir, caso n с 27͍\nint recursao (int n) {\nif (n <= 10) {\nreturn n * 2;\n}\nelse {\nreturn recursao(recursao(n/3));\n}\n}\nA 8.\nB 9.\nC 12.\nM 16.\nN 18.\nQUNSTÃO 24\nConsiTere as seguintes tabelas Te um banco Te TaTos:\n1. &orneceTor (coTͺfornec,  nomeͺfornec,  telefone,  \nciTaTe,  U&)\n2. NstaTo (U&,  nomeͺestaTo)\n  expressão SY> que obtém os nomes Tos estaTos \npara os quais não UA forneceTores caTastraTos é\nA\nSNLNCT N.UF\nFROM NstaTo AS N\nPHNRN N.nome_estaTo NOT CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\nB\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N, FROM \nForneceTor AS F\nPHNRN N.UF = F.UF;\nC\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N\nPHNRN N.UF NOT CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\nM\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N, FROM \nForneceTor AS F\nPHNRN N.nome_estaTo = F.UF;\nN\nSNLNCT N.nome_estaTo\nFROM NstaTo AS N\nPHNRN N.UF CN (\n SNLNCT F.UF\n FROM ForneceTor AS F);\n*R03201420*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_CCP/q22.png",
+  "caminho_json": "/questoes/2014_CCP/q22.json",
+  "caminho_txt": "/questoes/2014_CCP/q22.txt"
 }

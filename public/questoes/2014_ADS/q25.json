@@ -5,52 +5,17 @@
   "paginas": [
     21
   ],
-  "segmentos": [
-    {
-      "pagina": 21,
-      "x0": 25.0,
-      "y0": 444.8786315917969,
-      "x1": 311.15999999999997,
-      "y1": 749.4680786132812,
-      "coluna": 1
-    },
-    {
-      "pagina": 21,
-      "x0": 317.15999999999997,
-      "y0": 75.0,
-      "x1": 603.3199999999999,
-      "y1": 100.5428466796875,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2014_ADS/q25.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2014_ADS/q25.txt",
   "largura": 1223,
   "altura": 1420,
   "confianca": 0.98,
-  "texto_completo": "E\nƉĕ͕\nƋ\nQUESTÃO 25\n  ĞŶŐĞŶŚĂƌŝĂ ĚĞ ƐŽŌǁĂƌĞ ĐŽŶƐŝĚĞƌĂ ĚŝǀĞƌƐŽƐ ĂƐƉĞĐƚŽƐ \nƉĂƌĂ Ă ŐĂƌĂŶƟĂ ĚĂ ƋƵĂůŝĚĂĚĞ͘  KƐ ƌĞƋƵŝƐŝƚŽƐ ĨƵŶĐŝŽŶĂŝƐ \nĚĞĮŶĞŵ  ĐŽŵŽ  Ƶŵ  ƐŝƐƚĞŵĂ  ĚĞǀĞƌĄ  ƐĞ  ĐŽŵƉŽƌƚĂƌ \nĞŵ  ƌĞůĂĕĆŽ  ĂƐ  ƐƵĂƐ  ĨƵŶĐŝŽŶĂůŝĚĂĚĞƐ  ďĄƐŝĐĂƐ͕   ũĄ  ŽƐ \nƌĞƋƵŝƐŝƚŽƐ ŶĆŽ ĨƵŶĐŝŽŶĂŝƐ ĂǀĂůŝĂŵ ŽƵƚƌŽƐ ĂƐƉĞĐƚŽƐ ĚŽ \nƐŽŌǁĂƌĞ.\n^ĆŽ ĞǆĞŵƉůŽƐ ĚĞ ƌĞƋƵŝƐŝƚŽƐ ŶĆŽ ĨƵŶĐŝŽŶĂŝƐ Ă ƐĞƌĞŵ \nĐŽŶƐŝĚĞƌĂĚŽƐ Ğŵ Ƶŵ ƐŽŌǁĂƌĞ͗\nA ƐĞŐƵƌĂŶĕĂ͕  ĚĞƐĞŵƉĞŶŚŽ͕  ĞƐƚƌĞƐƐĞ Ğ ƐŝƐƚĞŵĂ͘\nB ƵƐĂďŝůŝĚĂĚĞ͕  ƐĞŐƵƌĂŶĕĂ͕  ĂĐĞŝƚĂĕĆŽ Ğ ĐŽŶĮĂďŝůŝĚĂĚĞ͘\nC ƵƐĂďŝůŝĚĂĚĞ͕  \nƐĞŐƵƌĂŶĕĂ͕  \nĚĞƐĞŵƉĞŶŚŽ \nĞ \nĐŽŶĮĂďŝůŝĚĂĚĞ͘\nD ƐĞŐƵƌĂŶĕĂ͕  \nĂĐĞŝƚĂĕĆŽ͕  \nƚĞƐƚĂďŝůŝĚĂĚĞ \nĞ \nĐŽŶĮĚĞŶĐŝĂůŝĚĂĚĞ͘\nE ƵƐĂďŝůŝĚĂĚĞ͕  \nĐŽŶĮĚĞŶĐŝĂůŝĚĂĚĞ͕  \nĂĐĞŝƚĂĕĆŽ \nĞ \nĐŽŶĮĂďŝůŝĚĂĚĞ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 25,
-      "tipo": "OBJETIVA",
-      "pagina": 21,
-      "x": 51.851619720458984,
-      "y": 456.8786315917969,
-      "x1": 114.30322265625,
-      "y1": 468.8786315917969,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 25"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:58.502183"
+  "texto_completo": "21\nTNCNO>O'/  NM  NA>/SN N MNSNNsO>s/MNNTO MN S/STNM S\nQUNSTÃO 24\nO ZUP (Zational UnifeT Process) é subTiviTiTo em \n&ases,  que inTicam a gnfase que é TaTa ao proũeto \nem um TaTo instante,  e em &luxos Te trabalUo,  que \nTefnem os grupos Te ativiTaTes a serem realizaTas \nao longo Tas fases.\nConsiTeranTo que no Tesenvolvimento Te soŌǁare\nutilizam-se  técnicas  Te  anAlise  e  proũeto  orientaTo \na  obũetos  e  que  as  ativiTaTes  seũam  TistribuíTas \nTe acorTo com o ZUP, o momento que Tevem ser \nelaboraTos os Tiagramas Te classes e Te interação \nentre os obũetos To sistema é\nA na fase Te Concepção,  no Ňuxo Te MoTelagem Te \nnegocios.\nB na  fase  Te  Nlaboração,   no  Ňuxo  Te   nAlise  e \nMesign.\nC na  fase  Te  Concepção,   no  Ňuxo  Te   nAlise  e \nMesign.\nM na fase Te Nlaboração,  no Ňuxo Te Zequisitos.\nN na fase Te Concepção,  no Ňuxo Te Zequisitos.\nQUNSTÃO 25\n  engenUaria Te soŌǁare consiTera Tiversos aspectos \npara a garantia Ta qualiTaTe.  Os requisitos funcionais \nTefnem  como  um  sistema  TeverA  se  comportar \nem  relação  as  suas  funcionaliTaTes  bAsicas,   ũA  os \nrequisitos não funcionais avaliam outros aspectos To \nsoŌǁare.\nSão exemplos Te requisitos não funcionais a serem \nconsiTeraTos em um soŌǁare:\nA segurança,  TesempenUo,  estresse e sistema.\nB usabiliTaTe,  segurança,  aceitação e confabiliTaTe.\nC usabiliTaTe,  \nsegurança,  \nTesempenUo \ne \nconfabiliTaTe.\nM segurança,  \naceitação,  \ntestabiliTaTe \ne \nconfTencialiTaTe.\nN usabiliTaTe,  \nconfTencialiTaTe,  \naceitação \ne \nconfabiliTaTe.\nQUNSTÃO 26\nO serviço MNS (Momain Name SǇstem) traTuz nomes \nalfanuméricos  Te  Uosts  em  enTereços  numéricos,  \nTe  acorTo  com  o  protocolo  /P  (/nternet  Protocol).  \nNssa ação é comumente cUamaTa Te resolução Te \nenTereço.\nT NNNB UM,   .  S.  ReTes Te ComputaTores.\nZio Te :aneiro:  Campus,  2003 (aTaptaTo).\nConsiTere \num \nconũunto \nTe \ncomputaTores \nconectaTos  em  uma  reTe  local,   os  quais  tgm  a \nsua Tisposição um serviTor MNS capaz Te resolver \nenTereços,  seũam eles internos ou externos.\nNesse contexto,  avalie as afrmações a seguir.\n/.   O serviTor MNS também executa funções Te \ncliente  MNS  quanTo  não  é  autoritativo  para \nTeterminaTo enTereço.\n//.     aToção To /Pv6 (/nternet Protocol,  versão 6) \nTispensarA serviços Te MNS,  pois suas funções \nserão incorporaTas pelo proprio protocolo /P.\n///.   O  cacUe  MNS  permite  que  TeterminaTa \nrequisição To cliente MNS possa ser resolviTa \nsem  que  seũa  necessArio  recorrer  a  outro \nserviço MNS.\n/s.   O  protocolo  MNS  TepenTe  Te  um  banco  Te \nTaTos TistribuíTo.\n\u001e correto apenas o que se afrma em\nA / e //.\nB / e ///.\nC // e /s.\nM /,  /// e /s.\nN //,  /// e /s.\nÁRNA LCVRN\n*R40201421*",
+  "figuras": [],
+  "caminho_png": "/questoes/2014_ADS/q25.png",
+  "caminho_json": "/questoes/2014_ADS/q25.json",
+  "caminho_txt": "/questoes/2014_ADS/q25.txt"
 }

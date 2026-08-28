@@ -1,63 +1,65 @@
-QUESTÃO 16
-hŵĂ ƉŝůŚĂ Ġ ƵŵĂ ĞƐƚƌƵƚƵƌĂ ĚĞ ĚĂĚŽƐ ƋƵĞ ĂƌŵĂǌĞŶĂ 
-ƵŵĂ ĐŽůĞĕĆŽ ĚĞ ŝƚĞŶƐ ĚĞ ĚĂĚŽƐ ƌĞůĂĐŝŽŶĂĚŽƐ Ğ ƋƵĞ 
-ŐĂƌĂŶƚĞ Ž ƐĞŐƵŝŶƚĞ ĨƵŶĐŝŽŶĂŵĞŶƚŽ͗  Ž ƷůƟŵŽ ĞůĞŵĞŶƚŽ 
-Ă ƐĞƌ ŝŶƐĞƌŝĚŽ Ġ Ž ƉƌŝŵĞŝƌŽ Ă ƐĞƌ ƌĞŵŽǀŝĚŽ͘   ĐŽŵƵŵ 
-ŶĂ  ůŝƚĞƌĂƚƵƌĂ  ƵƟůŝǌĂƌ  ŽƐ  ŶŽŵĞƐ  push e pop  ƉĂƌĂ  ĂƐ 
-ŽƉĞƌĂĕƁĞƐ ĚĞ ŝŶƐĞƌĕĆŽ Ğ ƌĞŵŽĕĆŽ ĚĞ Ƶŵ ĞůĞŵĞŶƚŽ 
-Ğŵ ƵŵĂ ƉŝůŚĂ͕  ƌĞƐƉĞĐƟǀĂŵĞŶƚĞ͘  K ƐĞŐƵŝŶƚĞ ƚƌĞĐŚŽ 
-ĚĞ ĐſĚŝŐŽ Ğŵ ůŝŶŐƵĂŐĞŵ I ĚĞĮŶĞ ƵŵĂ ĞƐƚƌƵƚƵƌĂ ĚĞ 
-ĚĂĚŽƐ  ƉŝůŚĂ  ƵƟůŝǌĂŶĚŽ  Ƶŵ  ǀĞƚŽƌ  ĚĞ  ŝŶƚĞŝƌŽƐ͕   ďĞŵ 
-ĐŽŵŽ ĂůŐƵŵĂƐ ĨƵŶĕƁĞƐ ƉĂƌĂ ƐƵĂ ŵĂŶŝƉƵůĂĕĆŽ͘
-#include <stdlib.h>
-#include <stdio.h>
-typedef struct {
+16
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 16
+Uma pilUa é uma estrutura Te TaTos que armazena 
+uma coleção Te itens Te TaTos relacionaTos e que 
+garante o seguinte funcionamento:  o ultimo elemento 
+a ser inseriTo é o primeiro a ser removiTo.   comum 
+na  literatura  utilizar  os  nomes  pusU e pop  para  as 
+operações Te inserção e remoção Te um elemento 
+em uma pilUa,  respectivamente.  O seguinte trecUo 
+Te coTigo em linguagem C Tefne uma estrutura Te 
+TaTos  pilUa  utilizanTo  um  vetor  Te  inteiros,   bem 
+como algumas funções para sua manipulação.
+#incluTe <stTlib.U>
+#incluTe <stTio.U>
+typeTef struct {
       int elementos[100];
       int topo;
-}pilha;
-pilha * cria_pilha() {
-      pilha * p =malloc(sizeof(pilha));
+}pilUa;
+pilUa * cria_pilUa() {
+      pilUa * p =malloc(sizeof(pilUa));
       p->topo = -1;
-      return pilha;
+      return pilUa;
 }
-void push(pilha *p, int elemento) {
+voiT pusU(pilUa *p, int elemento) {
       if (p->topo >= 99)
  return;
       p->elementos[++p->topo] = elemento;
 }
-int pop(pilha *p) {
+int pop(pilUa *p) {
       int a = p->elementos[p->topo];
       p->topo--;
       return a;
 }
-
-K ƉƌŽŐƌĂŵĂ Ă ƐĞŐƵŝƌ ƵƟůŝǌĂ ƵŵĂ ƉŝůŚĂ͘
+O programa a seguir utiliza uma pilUa.
 int main() {
-      pilha * p = cria_pilha();
-      push(p, 2);
-      push(p, 3);
-      push(p, 4);
+      pilUa * p = cria_pilUa();
+      pusU(p, 2);
+      pusU(p, 3);
+      pusU(p, 4);
       pop(p);
-      push(p, 2);
+      pusU(p, 2);
       int a = pop(p) + pop(p);
-      push(p, a);
+      pusU(p, a);
       a += pop(p);
-      printf(“%d”, a);
+      printf(“%T”, a);
       return 0;
 }
-  ĞƐƐĞ ƌĞƐƉĞŝƚŽ͕  ĂǀĂůŝĞ ĂƐ ĂĮƌŵĂĕƁĞƐ Ă ƐĞŐƵŝƌ͘
-/͘      ĐŽŵƉůĞǆŝĚĂĚĞ  ĐŽŵƉƵƚĂĐŝŽŶĂů  ĚĞ  ĂŵďĂƐ 
-ĨƵŶĕƁĞƐ push e pop Ġ K;1Ϳ͘
-//͘   K ǀĂůŽƌ ĞǆŝďŝĚŽ ƉĞůŽ ƉƌŽŐƌĂŵĂ ƐĞƌŝĂ Ž ŵĞƐŵŽ 
-ĐĂƐŽ  Ă  ŝŶƐƚƌƵĕĆŽ  a += pop(p)͖   ĨŽƐƐĞ 
-ƚƌŽĐĂĚĂ ƉŽƌ a += a͖
-///͘   Eŵ  ƌĞůĂĕĆŽ  ĂŽ  ǀĂǌĂŵĞŶƚŽ  ĚĞ  ŵĞŵſƌŝĂ 
-;memory leakͿ͕  Ġ ŽƉĐŝŽŶĂů  ĐŚĂŵĂƌ Ă ĨƵŶĕĆŽ 
-free(p)͕   ƉŽŝƐ  Ž  ǀĞƚŽƌ  ƵƐĂĚŽ  ƉĞůĂ  ƉŝůŚĂ  Ġ 
-ĂůŽĐĂĚŽ ĞƐƚĂƟĐĂŵĞŶƚĞ͘
- ĐŽƌƌĞƚŽ Ž ƋƵĞ ƐĞ ĂĮƌŵĂ Ğŵ
-A /͕  ĂƉĞŶĂƐ͘
-B ///͕  ĂƉĞŶĂƐ͘
-C / Ğ //͕  ĂƉĞŶĂƐ͘
-D // Ğ ///͕  ĂƉĞŶĂƐ͘
-E /͕  // Ğ ///͘
+  esse respeito,  avalie as afrmações a seguir.
+/.      complexiTaTe  computacional  Te  ambas 
+funções pusU e pop é O(1).
+//.   O valor exibiTo pelo programa seria o mesmo 
+caso  a  instrução  a += pop(p)͖   fosse 
+trocaTa por a += a͖
+///.   Nm  relação  ao  vazamento  Te  memoria 
+(memory leak),  é opcional  cUamar a função 
+free(p),   pois  o  vetor  usaTo  pela  pilUa  é 
+alocaTo estaticamente.
+ correto o que se afrma em
+A /,  apenas.
+B ///,  apenas.
+C / e //,  apenas.
+M // e ///,  apenas.
+N /,  // e ///.
+*R03201416*

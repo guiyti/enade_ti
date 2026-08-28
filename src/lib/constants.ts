@@ -63,9 +63,9 @@ export const CATEGORY_DEFINITIONS: Record<string, CategoryDefinition> = {
     component: "Formação Geral",
   },
 
-  // --- FORMAÇÃO ESPECÍFICA (Disciplinas Tecnológicas) ---
+  // --- FORMAÇÃO ESPECÍFICA (Disciplinas Especializadas) ---
   "Engenharia de Software": {
-    description: "Engenharia de requisitos, UML, Scrum/Kanban, padrões de projeto (GoF), testes de software e DevOps.",
+    description: "Engenharia de requisitos, UML, Scrum/Kanban, padrões de projeto (GoF), testes de software (TDD) e DevOps.",
     iconName: "Boxes",
     colorClass: "from-indigo-500 to-purple-600 text-indigo-600 bg-indigo-50 dark:bg-indigo-950/40 border-indigo-200 dark:border-indigo-800",
     component: "Formação Específica",
@@ -77,51 +77,57 @@ export const CATEGORY_DEFINITIONS: Record<string, CategoryDefinition> = {
     component: "Formação Específica",
   },
   "Governança e Gestão de TI": {
-    description: "Frameworks ITIL 4, COBIT, LGPD, Acordos de Nível de Serviço (SLA), Gestão de Riscos, Continuidade (PCN) e PMBOK.",
+    description: "Frameworks ITIL 4, COBIT 2019, Acordos de Nível de Serviço (SLA), Gestão de Riscos, Continuidade (PCN/DRP), BPMN e PMBOK.",
     iconName: "ShieldAlert",
     colorClass: "from-purple-500 to-indigo-600 text-purple-600 bg-purple-50 dark:bg-purple-950/40 border-purple-200 dark:border-purple-800",
     component: "Formação Específica",
   },
   "Algoritmos e Estruturas de Dados": {
-    description: "Árvores binárias, AVL, grafos (BFS/DFS, Dijkstra), filas, pilhas, complexidade assintótica (Big-O) e ordenação.",
+    description: "Árvores binárias/AVL, grafos (BFS/DFS, Dijkstra), filas, pilhas, complexidade assintótica (Big-O) e ordenação.",
     iconName: "Binary",
     colorClass: "from-amber-500 to-orange-600 text-amber-600 bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-800",
     component: "Formação Específica",
   },
   "Programação e POO": {
-    description: "Orientação a objetos, encapsulamento, herança, polimorfismo, interfaces, tratamento de exceções e concorrência.",
+    description: "Orientação a objetos, encapsulamento, herança, polimorfismo, interfaces, tratamento de exceções, ponteiros e tipos abstratos.",
     iconName: "Code2",
     colorClass: "from-emerald-500 to-teal-600 text-emerald-600 bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-800",
     component: "Formação Específica",
   },
-  "Redes e Segurança": {
-    description: "Arquitetura TCP/IP, modelo OSI, roteamento, protocolos de transporte, criptografia e segurança defensiva.",
+  "Redes de Computadores": {
+    description: "Arquitetura TCP/IP, modelo OSI, roteamento, comutação, protocolos (DNS, DHCP, HTTP, TCP/UDP), sub-redes e redes sem fio.",
     iconName: "Network",
     colorClass: "from-sky-500 to-blue-600 text-sky-600 bg-sky-50 dark:bg-sky-950/40 border-sky-200 dark:border-sky-800",
     component: "Formação Específica",
   },
-  "Sistemas Operacionais e Arquitetura": {
-    description: "Gerenciamento de memória, processos e threads, prevenção de deadlocks, registradores, pipeline e hierarquia de memória.",
+  "Segurança da Informação": {
+    description: "Políticas de segurança, criptografia simétrica/assimétrica, assinaturas digitais, firewalls, ameaças (DDoS, injection), ISO 27001 e LGPD.",
+    iconName: "ShieldCheck",
+    colorClass: "from-rose-500 to-red-600 text-rose-600 bg-rose-50 dark:bg-rose-950/40 border-rose-200 dark:border-rose-800",
+    component: "Formação Específica",
+  },
+  "Sistemas Operacionais": {
+    description: "Gerenciamento de memória virtual, paginação, processos e threads, escalonamento de CPU, prevenção de deadlocks e sistemas de arquivos.",
+    iconName: "Terminal",
+    colorClass: "from-amber-600 to-yellow-700 text-amber-600 bg-amber-50 dark:bg-amber-950/40 border-amber-200 dark:border-amber-800",
+    component: "Formação Específica",
+  },
+  "Arquitetura e Organização de Computadores": {
+    description: "Processadores RISC/CISC, pipeline de instruções, registradores, hierarquia de memória cache (L1/L2/L3), barramentos e E/S.",
     iconName: "Cpu",
-    colorClass: "from-rose-500 to-pink-600 text-rose-600 bg-rose-50 dark:bg-rose-950/40 border-rose-200 dark:border-rose-800",
+    colorClass: "from-violet-600 to-indigo-700 text-violet-600 bg-violet-50 dark:bg-violet-950/40 border-violet-200 dark:border-violet-800",
     component: "Formação Específica",
   },
   "Inteligência Artificial e Dados": {
-    description: "Algoritmos de busca heurística, aprendizado de máquina supervisionado e não-supervisionado, redes neurais e mineração de dados.",
+    description: "Algoritmos de busca heurística, aprendizado de máquina supervisionado/não-supervisionado, redes neurais, Big Data e BI.",
     iconName: "BrainCircuit",
     colorClass: "from-cyan-500 to-teal-600 text-cyan-600 bg-cyan-50 dark:bg-cyan-950/40 border-cyan-200 dark:border-cyan-800",
     component: "Formação Específica",
   },
   "Teoria da Computação e Compiladores": {
-    description: "Autômatos finitos determinísticos e não-determinísticos, linguagens livres de contexto, compiladores e análise sintática.",
-    iconName: "Terminal",
-    colorClass: "from-violet-500 to-fuchsia-600 text-violet-600 bg-violet-50 dark:bg-violet-950/40 border-violet-200 dark:border-violet-800",
-    component: "Formação Específica",
-  },
-  "Engenharia e Tecnologias": {
-    description: "Fundamentos tecnológicos complementares, interoperabilidade, arquitetura e tópicos emergentes de tecnologia.",
+    description: "Autômatos finitos determinísticos/não-determinísticos, linguagens livres de contexto, compiladores, análise sintática e decidibilidade.",
     iconName: "Layers",
-    colorClass: "from-slate-500 to-zinc-600 text-slate-600 bg-slate-50 dark:bg-slate-900 border-slate-200 dark:border-slate-800",
+    colorClass: "from-fuchsia-500 to-pink-600 text-fuchsia-600 bg-fuchsia-50 dark:bg-fuchsia-950/40 border-fuchsia-200 dark:border-fuchsia-800",
     component: "Formação Específica",
   },
 };

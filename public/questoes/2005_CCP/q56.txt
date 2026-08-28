@@ -1,38 +1,124 @@
-QUESTÃO 56
-Considere um sistema bancário
-simplificado e uma transação T1,
-que, por meio das 6 operações
-apresentadas na tabela ao lado,
-transfere R$ 100,00 da conta X
-para a conta Y. A partir dessas
+NNAMN – 2005
+Área: COMPUTAÇÃO
+20
+As questões Te 56 a 70, a seguir, são específicas para os estuTantes Te cursos com perfil profissional Te
+BACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO
+QUNSTÃO 56
+ConsiTere um sistema bancário
+simplificaTo e uma transação T1,
+que, por meio Tas 6 operações
+apresentaTas na tabela ao laTo,
+transfere R$ 100,00 Ta conta X
+para a conta Y. A partir Tessas
 informações, julgue os itens que se
 seguem.
-I
-Se, durante a execução de T1,
-ocorrer uma falha depois da
-operação 3 e antes da operação
-6, e o sistema de banco de dados
+C
+Se, Turante a execução Te T1,
+ocorrer uma falUa Tepois Ta
+operação 3 e antes Ta operação
+6, e o sistema Te banco Te TaTos
 restabelecer o valor original
-de X, estará garantida a atomicidade de T1.
-II
-Se ocorrer uma falha de sistema após a transação T1 ser
-completada com sucesso, mas, ao ser reiniciado o sistema, o
-usuário que a tiver disparado for notificado da transferência
-de fundos e o sistema de banco de dados reconstruir as
-atualizações feitas pela transação, estará garantida a
-durabilidade de T1.
-III Se outra transação, T2, que estiver sendo executada
+Te X, estará garantiTa a atomiciTaTe Te T1.
+CC
+Se ocorrer uma falUa Te sistema após a transação T1 ser
+completaTa com sucesso, mas, ao ser reiniciaTo o sistema, o
+usuário que a tiver TisparaTo for notificaTo Ta transferência
+Te funTos e o sistema Te banco Te TaTos reconstruir as
+atualizações feitas pela transação, estará garantiTa a
+TurabiliTaTe Te T1.
+CCC Se outra transação, T2, que estiver senTo executaTa
 simultaneamente a T1, tentar executar a operação
-escrita(Y) depois de T1 ter executado a operação 4 e
-ainda não ter executado a operação 6, e o sistema de banco
-de dados impedir essa escrita, estará garantida a consistência
-de T1.
+escrita(Y) Tepois Te T1 ter executaTo a operação 4 e
+ainTa não ter executaTo a operação 6, e o sistema Te banco
+Te TaTos impeTir essa escrita, estará garantiTa a consistência
+Te T1.
 Assinale a opção correta.
 A Apenas um item está certo.
-B Apenas os itens I e II estão certos.
-C Apenas os itens I e III estão certos.
-D Apenas os itens II e III estão certos.
-E Todos os itens estão certos.
+B Apenas os itens C e CC estão certos.
+C Apenas os itens C e CCC estão certos.
+M Apenas os itens CC e CCC estão certos.
+N ToTos os itens estão certos.
+QUNSTÃO 57
+A escolUa Te uma boa representação Te conUecimento é tarefa
+funTamental na resolução Te problemas que envolvem
+inteligência artificial. Acerca Tesse assunto, assinale a opção
+correta.
+A O encaTeamento regressivo, por utilizar busca em largura
+para resolução Te conflitos, é menos usaTo que o progressivo.
+B O encaTeamento progressivo utiliza busca gulosa para fazer
+a comparação entre os fatos armazenaTos na memória Te
+trabalUo To sistema e os anteceTentes Tas regras a Tisparar.
+C As reTes semânticas, mecanismo mais expressivo que a
+lógica Te primeira orTem, foram TesenvolviTas para se
+superar uma TificulTaTe Tos sistemas embasaTos em lógica
+Te representar categorias.
+M A representação Te conUecimento frames é uma boa
+alternativa para esse tipo Te problema, por incluir, além Te
+um mecanismo Te inferência semanticamente bem TefiniTo,
+mecanismos Te encapsulamento e componentes, comuns ao
+paraTigma orientaTo a objeto. 
+N Tanto reTes semânticas quanto frames representam
+facilmente conUecimento estrutural, comportamental e
+proceTural.
+QUNSTÃO 58
+Uma forma Te analisar e comparar o TesempenUo Te algoritmos
+Te busca Ueurística é utilizar um problema bem conUeciTo como
+referência. Um exemplo Tesse tipo Te problema é o cálculo Te
+rotas entre Tiferentes ciTaTes. No grafo ilustraTo acima, caTa nó
+representa uma ciTaTe Tistinta, e caTa ramo, uma roTovia que
+interliga as ciTaTes representaTas pelos nós que ele une, cujo peso
+inTica a Tistância, em km, entre essas ciTaTes pela roTovia.
+SuponUa que se Teseje encontrar a melUor rota entre as ciTaTes A
+e M, inTicaTas nesse grafo. ConsiTere, ainTa, os valores inTicaTos
+na tabela abaixo como Tistância em linUa reta, em km, Te caTa
+ciTaTe para a ciTaTe M.
+A
+44,72
+N
+30,67
+C
+11,18
+B
+20,00
+F
+22,36
+J
+5,00
+C
+33,54
+G
+14,14
+O
+40,00
+M
+25,00
+H
+10,00
+L
+20,00
+A partir Tessas informações, julgue os itens seguintes, relativos a
+algoritmos Te busca.
+C
+UtilizanTo-se o algoritmo A*, a rota ente A e M encontraTa no
+problema acima é ACMFLM e o custo To caminUo é 56,18.
+CC
+UtilizanTo-se a busca gulosa, a rota encontraTa no problema
+acima é ACMFLM.
+CCC Para utilizar algoritmos Te busca Ueurística, Teve-se Tefinir
+uma Ueurística que superestime o custo Ta solução.
+CV O A* é um algoritmo ótimo e completo quanTo Ueurísticas
+aTmissíveis são utilizaTas.
+V
+No simulateT annealing, é possível Uaver movimentos para um
+estaTo com avaliação pior To que a To estaTo corrente,
+TepenTenTo Ta temperatura To processo e Ta probabiliTaTe
+Te escolUa.
+Nstão certos apenas os itens 
+A C, CC e CCC.
+B C, CV e V.
+C C, CCC, e V.
+M CC, CCC, e CV.
+N CC, CV e V.
 T1
 1
 leitura(X);

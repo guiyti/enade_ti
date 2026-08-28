@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 25.0,
-      "y0": 259.2466735839844,
-      "x1": 570.1999999999999,
-      "y1": 279.2466735839844,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2008_CCP/q21.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2008_CCP/q21.txt",
   "largura": 2302,
   "altura": 113,
   "confianca": 0.98,
-  "texto_completo": "O\nO\nU\nÇ O\nQUESTÃO 21\nQUESTÃO 23",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 21,
-      "tipo": "OBJETIVA",
-      "pagina": 11,
-      "x": 36.8390998840332,
-      "y": 271.2466735839844,
-      "x1": 106.20230865478516,
-      "y1": 282.28668212890625,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 21"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:03.026917"
+  "texto_completo": "10\nCOMPUTAÇÃO\n1 – A seguir serão apresentaTas questões Te Múltipla NscolUa e Miscursivas específicas\npara as moTaliTaTes Tos cursos Te computação, assim TistribuíTas:\nPerfil To curso\nNúmero Tas Questões\nMúltipla NscolUa\nMiscursivas\nBacUarelaTo em Ciência Ta Computação\n21 a 38\n39 e 40\nNngenUaria Te Computação\n41 a 58\n59 e 60\nBacUarelaTo em Sistemas Te Cnformação\n61 a 78\n79 e 80\n2 – Você Teve responTer apenas às questões referentes ao perfil profissional To curso em\nque você está inscrito, Te acorTo com o estabeleciTo no cartão Te informação To estuTante.\n3 – Observe atentamente os números Tas questões corresponTentes à moTaliTaTe To curso na qual você está inscrito\npara preencUer corretamente o CaTerno Te Respostas.\nAs questões Te 21 a 40, a seguir, são específicas para os estuTantes Te cursos com perfis profissionais Te \nBACHARNLAMO NM CCÊNCCA MA COMPUTAÇÃO.\nQUNSTÃO 21\nConsiTere a relação NMPRNGAMO (NumeroNmp, RG, nome,\nsobrenome, salario, enTereco), em que o atributo grifaTo\ncorresponTe à cUave primária Ta relação. SuponUa que se\nTeseje realizar as seguintes consultas:\n1\nListar o nome Tos empregaTos com sobrenome Silva;\n2\nListar o nome Tos empregaTos em orTem crescente Te\nseus sobrenomes.\nNm relação à Tefinição Te um ínTice sobre o atributo\nsobrenome para melUorar o TesempenUo Tas consultas\nacima, julgue os itens a seguir.\nC\nUm ínTice que implemente Árvore-B+ será aTequaTo\npara melUorar o TesempenUo Ta consulta 1.\nCC\nUm ínTice que implemente Árvore-B+ será aTequaTo\npara melUorar o TesempenUo Ta consulta 2.\nCCC Um ínTice que implemente uma função UasU será\naTequaTo para melUorar o TesempenUo Ta consulta 1.\nCV Um ínTice que implemente uma função UasU será\naTequaTo para melUorar o TesempenUo Ta consulta 2.\nAssinale a opção correta.\nA\nApenas um item está certo.\nB\nApenas os itens C e CC estão certos.\nC\nApenas os itens CCC e CV estão certos.\nM\nApenas os itens C, CC e CCC estão certos.\nN\nToTos os itens estão certos.\nQUNSTÃO 22\nQual tipo Te software traTutor Teve ser utilizaTo para\nprogramas em geral, quanTo a velociTaTe Te execução é\numa exigência Te alta prioriTaTe?\nA\ncompilaTores\nB\ninterpretaTores\nC\ntraTutores UíbriTos\nM\nmacroprocessaTores\nN\ninterpretaTores Te macroinstruções\nQUNSTÃO 23 \nConsiTere o esquema Te banco Te TaTos relacional\napresentaTo a seguir, formaTo por 4 relações, que\nrepresenta o conjunto Te estuTantes Te uma universiTaTe\nque poTem, ou não, morar em repúblicas (moraTias\ncompartilUaTas por estuTantes). A relação NstuTante foi\nmoTelaTa como um subconjunto Ta relação Pessoa.\nConsiTere que os atributos grifaTos corresponTam à\ncUave primária Ta respectiva relação e os atributos que\nsão seguiTos Ta palavra referencia sejam cUaves\nestrangeiras.\nPessoa(CTPessoa:integer, \nNome:varcUar(40),\nNnTereco:varcUar(40))\nFonePessoa(CTPessoa:integer referencia Pessoa,\nMMM:varcUar(3), Prefixo:cUar(4), Nro:cUar(4))\nRepublica(CTRep:integer, \nNome:varcUar(30),\nNnTereco:varcUar(40))\nNstuTante(RA:integer, \nNmail:varcUar(30),\nCTPessoa:integer \nreferencia \nPessoa,\nCTRep:integer referencia Republica)\nSuponUa que existam as seguintes tuplas no banco Te\nTaTos:\nPessoa(1, ‘José Silva’, ‘Rua 1, 20’);\nRepublica(20, ‘Várzea’, ‘Rua CUaves, 2001’)\nQual opção apresenta apenas tuplas váliTas para esse\nesquema Te banco Te TaTos relacional?\nA\nNstuTante(10, ‘jsilva@ig.com.br’, null, 20);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nB\nNstuTante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(10, ‘019’, ‘3761’, ‘1370’)\nC\nNstuTante(10, ‘jsilva@ig.com.br’, 1, 20); \nFonePessoa(1, null, ‘3761’, ‘1370’)\nM\nNstuTante(10, ‘jsilva@ig.com.br’, 1, 50); \nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)\nN\nNstuTante(10, ‘jsilva@ig.com.br’, 1, null);\nFonePessoa(1, ‘019’, ‘3761’, ‘1370’)",
+  "figuras": [],
+  "caminho_png": "/questoes/2008_CCP/q21.png",
+  "caminho_json": "/questoes/2008_CCP/q21.json",
+  "caminho_txt": "/questoes/2008_CCP/q21.txt"
 }

@@ -5,44 +5,17 @@
   "paginas": [
     24
   ],
-  "segmentos": [
-    {
-      "pagina": 24,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 435.0931091308594,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q15.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q15.txt",
   "largura": 2185,
   "altura": 1531,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 15\t\nO surgimento das metodologias ágeis eliminou o gerenciamento baseado em planos, substituindo-o \npelo planejamento incremental. A documentação de projeto foi reduzida ao mínimo e deixou de ser \nprevisto um gerente de projeto. Infelizmente, esse tipo de abordagem não atende as necessidades das \norganizações, em que gerentes de negócio necessitam acompanhar o andamento dos projetos, controlar \norçamento, estabelecer prioridades e atualizar seus planos de negócio. Nesse contexto, foi desenvolvido \no SCRUM, um framework para a organização de projetos ágeis. O SCRUM prevê dois indivíduos: o \nScrum Master e o Product Owner, que são responsáveis por atuar como interface entre a equipe de \ndesenvolvimento e a organização.\nSOMMERVILLE, I. Engineering Software Products: An Introduction to Modern Software Engineering. Boston: Pearson, 2019 (adaptado).\nEm relação à metodologia SCRUM, avalie as afirmações a seguir.\nI.\t O papel do Scrum Master é guiar a equipe no uso efetivo da metodologia SCRUM.\nII.\t O papel do Product Owner é garantir o foco no produto, evitando que o mesmo se perca em \nquestões técnicas menos relevantes.\nIII.\t Tanto o Scrum Master como o Product Owner têm autoridade direta sobre a equipe.\nÉ correto o que se afirma em\nA\t II, apenas.\nB\t III, apenas.\nC\t I e II, apenas.\nD\t I e III, apenas.\nE\t I, II e III.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 15,
-      "tipo": "OBJETIVA",
-      "pagina": 24,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 15"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Engenharia de Software"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469283"
+  "texto_completo": "24\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 15\t\nO surgimento Tas metoTologias ágeis eliminou o gerenciamento baseaTo em planos, substituinTo-o \npelo planejamento incremental. A Tocumentação Te projeto foi reTuziTa ao mínimo e Teixou Te ser \nprevisto um gerente Te projeto. Cnfelizmente, esse tipo Te aborTagem não atenTe as necessiTaTes Tas \norganizações, em que gerentes Te negócio necessitam acompanUar o anTamento Tos projetos, controlar \norçamento, estabelecer prioriTaTes e atualizar seus planos Te negócio. Nesse contexto, foi TesenvolviTo \no SCRUM, um framework para a organização Te projetos ágeis. O SCRUM prevê Tois inTivíTuos: o \nScrum Master e o ProTuct Owner, que são responsáveis por atuar como interface entre a equipe Te \nTesenvolvimento e a organização.\nSOMMNRVCLLN, C. Nngineering Software ProTucts: An CntroTuction to MoTern Software Nngineering. Boston: Pearson, 2019 (aTaptaTo).\nNm relação à metoTologia SCRUM, avalie as afirmações a seguir.\nC.\t O papel To Scrum Master é guiar a equipe no uso efetivo Ta metoTologia SCRUM.\nCC.\t O papel To ProTuct Owner é garantir o foco no proTuto, evitanTo que o mesmo se perca em \nquestões técnicas menos relevantes.\nCCC.\t Tanto o Scrum Master como o ProTuct Owner têm autoriTaTe Tireta sobre a equipe.\nÉ correto o que se afirma em\nA\t CC, apenas.\nB\t CCC, apenas.\nC\t C e CC, apenas.\nM\t C e CCC, apenas.\nN\t C, CC e CCC.\nÁrea livre\n*R02202124*",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q15.png",
+  "caminho_json": "/questoes/2021_CCP/q15.json",
+  "caminho_txt": "/questoes/2021_CCP/q15.txt"
 }

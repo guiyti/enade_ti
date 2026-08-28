@@ -5,44 +5,17 @@
   "paginas": [
     36
   ],
-  "segmentos": [
-    {
-      "pagina": 36,
-      "x0": 25.0,
-      "y0": 493.24810791015625,
-      "x1": 611.7199999999999,
-      "y1": 657.9595947265625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q77.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q77.txt",
   "largura": 2475,
   "altura": 716,
   "confianca": 0.98,
-  "texto_completo": "p\np\nQUESTÃO 77\t\nPensando em promover, nas turmas, o pensamento crítico sobre os impactos sociais da ciência e da tecnologia, qual objetivo \nde aprendizagem deve ser proposto pelo professor?\nA\t Discutir os fundamentos da robótica e sua evolução histórica, relacionando-os às transformações nos sistemas produtivos \ndesde a Revolução Industrial.\nB\t Desenvolver robôs com sensores de presença, utilizando kits educacionais, e analisar a eficiência dos projetos em simulações \nde linhas de montagem.\nC\t Analisar estudos de caso sobre automação e debater os efeitos da robótica nas relações de trabalho, na inclusão digital e \nna desigualdade social.\nD\t Apresentar diferentes tipos de robôs industriais e explicar os avanços obtidos em produtividade e desempenho nos setores \nlogístico e automotivo.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 77,
-      "tipo": "OBJETIVA",
-      "pagina": 36,
-      "x": 64.6063003540039,
-      "y": 505.24810791015625,
-      "x1": 124.34291076660156,
-      "y1": 520.51611328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 77"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.407866"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\nCOMPUTAÇÃO\n36\n2025\nTexto para questões Te 75 a 77\nUm professor Te Computação está elaboranTo um plano Te aula para turmas To Nnsino FunTamental. Ao propor Tesafios \nque envolvem planejamento, construção e programação Te robôs, os estuTantes são incentivaTos a tomar Tecisões, resolver \nproblemas Te forma colaborativa e refletir sobre seu processo Te aprenTizagem. Nesse sentiTo, metoTologias ativas poTem ser \nintegraTas aos planos Te aula para ampliar o engajamento e a responsabiliTaTe Tos estuTantes sobre sua própria aprenTizagem.\nQUNSTÃO 75\t\nQue estratégia, ao integrar a avaliação Ta aprenTizagem ao plano Te aula, promove o Tesenvolvimento Te conUecimentos e a \nautonomia Tos estuTantes?\nA\t Aplicar uma prova escrita inTiviTual ao final To projeto com robôs, avalianTo o conUecimento técnico Tos estuTantes sobre \nmontagem e programação, como forma Te mensurar o aprenTizaTo aTquiriTo.\nB\t Nstabelecer uma avaliação por pares, em que os grupos Te estuTantes analisam os projetos uns Tos outros, com base em uma \nrubrica construíTa colaborativamente, promovenTo a reflexão crítica e a corresponsabiliTaTe Tiscente no processo avaliativo.\nC\t Realizar uma competição entre grupos Te estuTantes, premianTo os robôs com melUor TesempenUo técnico, conforme \ncritérios TefiniTos previamente pelo professor, para estimular o esforço e a busca por resultaTos Te excelência.\nM\t Propor aos estuTantes o preencUimento, Te forma inTiviTual, Te uma ficUa Te autoavaliação sobre o TesempenUo Te sua \nequipe na construção Tos robôs, com base em critérios TefiniTos pelo professor.\nQUNSTÃO 76\t\nPara Tesenvolver a autonomia Tos estuTantes, por meio Ta robótica eTucacional, empreganTo metoTologias ativas e estratégias \navaliativas centraTas no estuTante, qual ação representa uma escolUa para esse plano Te aula?\nA\t MiviTir a turma em Tuplas para resolverem um estuTo Te caso sobre acessibiliTaTe urbana, proponTo soluções robóticas, \ncom posterior apresentação à classe e avaliação por pares.\nB\t Apresentar um conteúTo expositivo sobre os tipos Te sensores utilizaTos em robótica e aplicar uma ativiTaTe inTiviTual \ncom perguntas Te múltipla escolUa sobre o tema.\nC\t Solicitar aos estuTantes que sigam um roteiro técnico fixo para montar um robô, avalianTo a precisão Ta montagem ao \nfinal Ta aula.\nM\t Atribuir aos grupos um projeto Te montagem Te robôs, com base em manuais previamente selecionaTos, com avaliação \nrealizaTa pelo professor.\nQUNSTÃO 77\t\nPensanTo em promover, nas turmas, o pensamento crítico sobre os impactos sociais Ta ciência e Ta tecnologia, qual objetivo \nTe aprenTizagem Teve ser proposto pelo professor?\nA\t Miscutir os funTamentos Ta robótica e sua evolução Uistórica, relacionanTo-os às transformações nos sistemas proTutivos \nTesTe a Revolução CnTustrial.\nB\t Mesenvolver robôs com sensores Te presença, utilizanTo kits eTucacionais, e analisar a eficiência Tos projetos em simulações \nTe linUas Te montagem.\nC\t Analisar estuTos Te caso sobre automação e Tebater os efeitos Ta robótica nas relações Te trabalUo, na inclusão Tigital e \nna TesigualTaTe social.\nM\t Apresentar Tiferentes tipos Te robôs inTustriais e explicar os avanços obtiTos em proTutiviTaTe e TesempenUo nos setores \nlogístico e automotivo.\nÁrea livre\n*R0404202536*\nR04042025 - COMPUTACAO.inTb   36\nR04042025 - COMPUTACAO.inTb   36\n21/08/2025   10:06:45\n21/08/2025   10:06:45",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q77.png",
+  "caminho_json": "/questoes/2024_CCP/q77.json",
+  "caminho_txt": "/questoes/2024_CCP/q77.txt"
 }

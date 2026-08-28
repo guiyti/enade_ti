@@ -5,44 +5,17 @@
   "paginas": [
     5
   ],
-  "segmentos": [
-    {
-      "pagina": 5,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_GTI/q01.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_GTI/q01.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 01\nKƐ ďƌŝƚąŶŝĐŽƐ ĚĞĐŝĚŝƌĂŵ ƐĂŝƌ ĚĂ hŶŝĆŽ EƵƌŽƉĞŝĂ ;hEͿ͘    ĚĞĐŝƐĆŽ ĚŽ ƌĞĨĞƌĞŶĚŽ ĂďĂůŽƵ ŽƐ ŵĞƌĐĂĚŽƐ \nĨŝŶĂŶĐĞŝƌŽƐ Ğŵ ŵĞŝŽ ăƐ ŝŶĐĞƌƚĞǌĂƐ ƐŽďƌĞ ŽƐ ƉŽƐƐşǀĞŝƐ ŝŵƉĂĐƚŽƐ ĚĞƐƐĂ ƐĂşĚĂ͘\nKƐ ŐƌĄĮĐŽƐ Ă ƐĞŐƵŝƌ ĂƉƌĞƐĞŶƚĂŵ͕  ƌĞƐƉĞĐƟǀĂŵĞŶƚĞ͕  ĂƐ ĐŽŶƚƌŝďƵŝĕƁĞƐ ĚŽƐ ƉĂşƐĞƐ ŝŶƚĞŐƌĂŶƚĞƐ ĚŽ ďůŽĐŽ \nƉĂƌĂ Ă hE͕  Ğŵ 2014͕  ƋƵĞ ƐŽŵĂŵ Φ 144͕ 9 ďŝůŚƁĞƐ ĚĞ ĞƵƌŽƐ͕  Ğ Ă ĐŽŵƉĂƌĂĕĆŽ ĞŶƚƌĞ Ă ĐŽŶƚƌŝďƵŝĕĆŽ ĚŽ \nZĞŝŶŽ hŶŝĚŽ ƉĂƌĂ Ă hE Ğ Ă ĐŽŶƚƌĂƉĂƌƟĚĂ ĚŽƐ ŐĂƐƚŽƐ ĚĂ hE ĐŽŵ Ž ZĞŝŶŽ hŶŝĚŽ͘\nDŝƐƉŽŶşǀĞů Ğŵ͗  фŚƩƉ͗ͬͬ\nǁǁǁ͘ Ő1͘ ŐůŽďŽ͘ ĐŽŵх͘   ĐĞƐƐŽ Ğŵ͗  6 ƐĞƚ͘  2017 ;ĂĚĂƉƚĂĚŽͿ͘\nIŽŶƐŝĚĞƌĂŶĚŽ Ž ƚĞǆƚŽ Ğ ĂƐ ŝŶĨŽƌŵĂĕƁĞƐ ĂƉƌĞƐĞŶƚĂĚĂƐ ŶŽƐ ŐƌĄĮĐŽƐ ĂĐŝŵĂ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘\nA   ĐŽŶƚƌŝďƵŝĕĆŽ ĚŽƐ ƋƵĂƚƌŽ ŵĂŝŽƌĞƐ ƉĂşƐĞƐ ĚŽ ďůŽĐŽ ƐŽŵŽƵ 41͕ 13й͘\nB K ŐƌƵƉŽ ͞ KƵƚƌŽƐ ƉĂşƐĞƐ͟  ĐŽŶƚƌŝďƵŝƵ ƉĂƌĂ ĞƐƐĞ ďůŽĐŽ ĞĐŽŶƀŵŝĐŽ ĐŽŵ 42͕ 1й͘\nC   ĚŝĨĞƌĞŶĕĂ ĚĂ ĐŽŶƚƌŝďƵŝĕĆŽ ĚŽ ZĞŝŶŽ hŶŝĚŽ Ğŵ ƌĞůĂĕĆŽ ĂŽ ƌĞĐĞďŝĚŽ ĚŽ ďůŽĐŽ ĞĐŽŶƀŵŝĐŽ ĨŽŝ 38͕ 94й͘\nD   ƐŽŵĂ ĚĂƐ ƉĂƌƟĐŝƉĂĕƁĞƐ ĚŽƐ ƚƌġƐ ƉĂşƐĞƐ ĐŽŵ ŵĂŝŽƌ ĐŽŶƚƌŝďƵŝĕĆŽ ƉĂƌĂ Ž ďůŽĐŽ ĞĐŽŶƀŵŝĐŽ ƐƵƉĞƌĂ 50й͘\nE K ƉĞƌĐĞŶƚƵĂů ĚĞ ƉĂƌƟĐŝƉĂĕĆŽ ĚŽ ZĞŝŶŽ hŶŝĚŽ ĐŽŵ Ž ďůŽĐŽ ĞĐŽŶƀŵŝĐŽ Ğŵ 2014 ĨŽŝ ĚĞ 17͕ 8й͕  Ž ƋƵĞ Ž \nĐŽůŽĐŽƵ ĞŶƚƌĞ ŽƐ ƋƵĂƚƌŽ ŵĂŝŽƌĞƐ ƉĂƌƟĐŝƉĂŶƚĞƐ͘\nContribuições para a UE\nDados de 2014, em € bilhões \n40\n30\n20\n10\n0\nAlemanha\nFrança\nItália\nReino Unido\nEspanha\nHolanda\nSuécia\nBélgica\nPolônia\nÁustria\nDinamarca\nOutros países\n50\n42,1\n25,8\n19,5\n14,3\n11,3 9,9\n6,3\n3,8 3,6 3,5 2,6 2,2\nReino Unido e UE\nDados de 2014, em € bilhões\nContribuição do Reino Unido com a UE\nGasto da UE com o Reino Unido\n15\n11,3\n6,9\n10\n5\n0",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 1,
-      "tipo": "OBJETIVA",
-      "pagina": 5,
-      "x": 60.35430145263672,
-      "y": 88.699951171875,
-      "x1": 122.80711364746094,
-      "y1": 100.699951171875,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 01"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:43:16.379404"
+  "texto_completo": "5\nTNCNOLOGCA NM GNSTÃO MA TNCNOLOGCA MA CNFORMAÇÃO\nQUNSTÃO 01\nOs britanicos TeciTiram sair Ta União Nuropeia (UN).    Tecisão To referenTo abalou os mercaTos \nfinanceiros em meio as incertezas sobre os possíveis impactos Tessa saíTa.\nOs grAfcos a seguir apresentam,  respectivamente,  as contribuições Tos países integrantes To bloco \npara a UN,  em 2014,  que somam Φ 144, 9 bilUões Te euros,  e a comparação entre a contribuição To \nZeino UniTo para a UN e a contrapartiTa Tos gastos Ta UN com o Zeino UniTo.\nMisponível em:  фUtp:ͬͬ\nǁǁǁ. g1. globo. comх.   cesso em:  6 set.  2017 (aTaptaTo).\nConsiTeranTo o texto e as informações apresentaTas nos grAfcos acima,  assinale a opção correta.\nA   contribuição Tos quatro maiores países To bloco somou 41, 13%.\nB O grupo \" Outros países\"  contribuiu para esse bloco econƀmico com 42, 1%.\nC   Tiferença Ta contribuição To Zeino UniTo em relação ao recebiTo To bloco econƀmico foi 38, 94%.\nM   soma Tas participações Tos trgs países com maior contribuição para o bloco econƀmico supera 50%.\nN O percentual Te participação To Zeino UniTo com o bloco econƀmico em 2014 foi Te 17, 8%,  o que o \ncolocou entre os quatro maiores participantes.\nContribuições para a UN\nMaTos Te 2014, em € bilUões \n40\n30\n20\n10\n0\nAlemanUa\nFrança\nCtália\nReino UniTo\nNspanUa\nHolanTa\nSuécia\nBélgica\nPolônia\nÁustria\nMinamarca\nOutros países\n50\n42,1\n25,8\n19,5\n14,3\n11,3 9,9\n6,3\n3,8 3,6 3,5 2,6 2,2\nReino UniTo e UN\nMaTos Te 2014, em € bilUões\nContribuição To Reino UniTo com a UN\nGasto Ta UN com o Reino UniTo\n15\n11,3\n6,9\n10\n5\n0\n*R4320175*",
+  "figuras": [],
+  "caminho_png": "/questoes/2017_GTI/q01.png",
+  "caminho_json": "/questoes/2017_GTI/q01.json",
+  "caminho_txt": "/questoes/2017_GTI/q01.txt"
 }

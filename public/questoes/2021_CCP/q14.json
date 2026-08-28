@@ -5,44 +5,17 @@
   "paginas": [
     23
   ],
-  "segmentos": [
-    {
-      "pagina": 23,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 542.12,
-      "y1": 621.518310546875,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2021_CCP/q14.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2021_CCP/q14.txt",
   "largura": 2185,
   "altura": 2308,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 14\t\nO primeiro computador criado foi o ENIAC (Electronic Numerical Integrator And Computer), desenvolvido \npor Eckert e Mauchly na Universidade da Pennsylvania, Estados Unidos. O projeto iniciou-se em 1943, \nfinanciado pelo governo americano. O período era da Segunda Guerra Mundial e o objetivo era poder \ncalcular de forma mais ágil as melhores trajetórias para transporte de armas e mantimentos em meio aos \nexércitos inimigos. Esse é o tipo de cálculo que pequenos aparelhos celulares fazem hoje para encontrar \nrotas nas cidades por meio de GPS (Global Positioning System) e análise de mapa. O projeto só foi concluído \nem 1946, tarde demais para ser utilizado para a Segunda Guerra, mas foi bastante utilizado até 1955.\nMuitos projetos surgiram depois do ENIAC, mas eles eram barrados por algumas dificuldades e limitações, \ncomo por exemplo, o fato de não serem programados e trabalharem com números decimais. O problema \nde trabalhar com decimais é que cada algarismo armazenado possui 10 estados possíveis, representando os \nnúmeros de 0 a 9. Dentro de um sistema eletrônico, isso é complicado por que a carga de cada dispositivo, \nseja transistor, seja válvula, deveria ser medida para se verificar que número ela estava representando. \nOs erros eram muito frequentes. Bastava que uma válvula estivesse fora da temperatura ideal para que \nos resultados das operações começassem a sair errado. Von Neumann recomendou, então, que, em sua \narquitetura, os dados e instruções passasem a ser armazenados em código binário, facilitando a análise \ndos mesmos e reduzindo a quantidade de erros.\nBRITO, A. V. Introdução a Arquitetura de Computadores. UFPB Virtual, 2020. Disponível em: http://producao.virtual.ufpb.br/. \nAcesso em: 05 maio 2020 (adaptado).\nAcerca da arquitetura de Von Neumann, avalie as asserções a seguir e a relação proposta entre elas.\nI.\t Embora as arquiteturas de computadores tenham evoluído muito do ENIAC aos modernos \nnotebooks de hoje, a arquitetura de Von Neumann, conceito da década de 1950, tem se mantido \naté os dias atuais.\nPORQUE\nII.\t A arquitetura de Von Neumann permite que a CPU realize a busca de uma ou mais instruções além da \npróxima a ser executada; essa técnica é utilizada para acelerar a velocidade de operação da CPU, \numa vez que a próxima instrução a ser executada está normalmente armazenada nos registradores \nda CPU e não precisa ser buscada da memória principal, que é muito mais lenta.\nA respeito dessas asserções, assinale a opção correta.\nA\t As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.\nB\t As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.\nC\t\nD\t A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.\nE\t As asserções I e II são proposições falsas.\nA asserção I é uma proposição verdadeira, e a II é uma proposição falsa.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 14,
-      "tipo": "OBJETIVA",
-      "pagina": 23,
-      "x": 29.763790130615234,
-      "y": 76.94654846191406,
-      "x1": 94.93578338623047,
-      "y1": 90.69854736328125,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 14"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Arquitetura e Organização de Computadores"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:00.469279"
+  "texto_completo": "23\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 14\t\nO primeiro computaTor criaTo foi o NNCAC (Nlectronic Numerical Cntegrator AnT Computer), TesenvolviTo \npor Nckert e MaucUly na UniversiTaTe Ta Pennsylvania, NstaTos UniTos. O projeto iniciou-se em 1943, \nfinanciaTo pelo governo americano. O períoTo era Ta SegunTa Guerra MunTial e o objetivo era poTer \ncalcular Te forma mais ágil as melUores trajetórias para transporte Te armas e mantimentos em meio aos \nexércitos inimigos. Nsse é o tipo Te cálculo que pequenos aparelUos celulares fazem Uoje para encontrar \nrotas nas ciTaTes por meio Te GPS (Global Positioning System) e análise Te mapa. O projeto só foi concluíTo \nem 1946, tarTe Temais para ser utilizaTo para a SegunTa Guerra, mas foi bastante utilizaTo até 1955.\nMuitos projetos surgiram Tepois To NNCAC, mas eles eram barraTos por algumas TificulTaTes e limitações, \ncomo por exemplo, o fato Te não serem programaTos e trabalUarem com números Tecimais. O problema \nTe trabalUar com Tecimais é que caTa algarismo armazenaTo possui 10 estaTos possíveis, representanTo os \nnúmeros Te 0 a 9. Mentro Te um sistema eletrônico, isso é complicaTo por que a carga Te caTa Tispositivo, \nseja transistor, seja válvula, Teveria ser meTiTa para se verificar que número ela estava representanTo. \nOs erros eram muito frequentes. Bastava que uma válvula estivesse fora Ta temperatura iTeal para que \nos resultaTos Tas operações começassem a sair erraTo. Von Neumann recomenTou, então, que, em sua \narquitetura, os TaTos e instruções passasem a ser armazenaTos em cóTigo binário, facilitanTo a análise \nTos mesmos e reTuzinTo a quantiTaTe Te erros.\nBRCTO, A. V. CntroTução a Arquitetura Te ComputaTores. UFPB Virtual, 2020. Misponível em: Uttp://proTucao.virtual.ufpb.br/. \nAcesso em: 05 maio 2020 (aTaptaTo).\nAcerca Ta arquitetura Te Von Neumann, avalie as asserções a seguir e a relação proposta entre elas.\nC.\t Nmbora as arquiteturas Te computaTores tenUam evoluíTo muito To NNCAC aos moTernos \nnotebooks Te Uoje, a arquitetura Te Von Neumann, conceito Ta TécaTa Te 1950, tem se mantiTo \naté os Tias atuais.\nPORQUN\nCC.\t A arquitetura Te Von Neumann permite que a CPU realize a busca Te uma ou mais instruções além Ta \npróxima a ser executaTa; essa técnica é utilizaTa para acelerar a velociTaTe Te operação Ta CPU, \numa vez que a próxima instrução a ser executaTa está normalmente armazenaTa nos registraTores \nTa CPU e não precisa ser buscaTa Ta memória principal, que é muito mais lenta.\nA respeito Tessas asserções, assinale a opção correta.\nA\t As asserções C e CC são proposições verTaTeiras, e a CC é uma justificativa correta Ta C.\nB\t As asserções C e CC são proposições verTaTeiras, mas a CC não é uma justificativa correta Ta C.\nC\t\nM\t A asserção C é uma proposição falsa, e a CC é uma proposição verTaTeira.\nN\t As asserções C e CC são proposições falsas.\nÁrea livre\n*R02202123*\nA asserção C é uma proposição verTaTeira, e a CC é uma proposição falsa.",
+  "figuras": [],
+  "caminho_png": "/questoes/2021_CCP/q14.png",
+  "caminho_json": "/questoes/2021_CCP/q14.json",
+  "caminho_txt": "/questoes/2021_CCP/q14.txt"
 }

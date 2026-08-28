@@ -5,46 +5,19 @@
   "paginas": [
     30
   ],
-  "segmentos": [
-    {
-      "pagina": 30,
-      "x0": 25.0,
-      "y0": 76.699951171875,
-      "x1": 603.3199999999999,
-      "y1": 766.56,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2017_CCP/q32.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2017_CCP/q32.txt",
   "largura": 2440,
   "altura": 2905,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 32\nK ƵƐŽ ĚĞ ĂŐĞŶƚĞƐ ŝŶƚĞůŝŐĞŶƚĞƐ ƉĞƌŵŝƚĞ Ă ƌĞƐŽůƵĕĆŽ ĚĞ ƉƌŽďůĞŵĂƐ ĐŽŵƉůĞǆŽƐ ƉŽƌ ŵĞŝŽ ĚŽ ƵƐŽ ĚĞ ŚĞƵƌşƐƟĐĂƐ \nŝŵƉůĞŵĞŶƚĂĚĂƐ ĚĞ ĨŽƌŵĂ ĚŝƐƚƌŝďƵşĚĂ͘  EĂ ůŝƚĞƌĂƚƵƌĂ͕  Ž DƵŶĚŽ ĚŽ  ƐƉŝƌĂĚŽƌ ĚĞ Wſ ;sĂĐƵƵŵͲIůĞĂŶĞƌ tŽƌůĚͿ \nĠ Ƶŵ ƉƌŽďůĞŵĂ ĮĐơĐŝŽ ƋƵĞ ĞŶǀŽůǀĞ Ž ĞŵƉƌĞŐŽ Ğ ƵƐŽ ĚĞ ĂŐĞŶƚĞƐ ŶŽ ĞŶƐŝŶŽ ĚŽƐ ĐŽŶĐĞŝƚŽƐ ƌĞůĂĐŝŽŶĂĚŽƐ Ă \n/ŶƚĞůŝŐġŶĐŝĂ  ƌƟĮĐŝĂů͘  EƐƐĞ ŵƵŶĚŽ ĮĐơĐŝŽ Ġ ĐŽŵƉŽƐƚŽ ƉŽƌ Ƶŵ ĂƐƉŝƌĂĚŽƌ ĚĞ Ɖſ Ğ ĚŽŝƐ ŽƵ ŵĂŝƐ ĂŵďŝĞŶƚĞƐ͕  \nĐŽŶĨŽƌŵĞ ŝůƵƐƚƌĂ Ă ĮŐƵƌĂ Ă ƐĞŐƵŝƌ͘  KƐ ĂŵďŝĞŶƚĞƐ ƉŽĚĞŵ ĞƐƚĂƌ ƐƵũŽƐ ŽƵ ůŝŵƉŽƐ͘\nEĞƐƐĞ ŵƵŶĚŽ͕  Ƶŵ ĂŐĞŶƚĞ ƌĞƉƌĞƐĞŶƚĂ Ž ĂƐƉŝƌĂĚŽƌ ĚĞ Ɖſ ĞƋƵŝƉĂĚŽ ĐŽŵ ĚŽŝƐ ƐĞŶƐŽƌĞƐ͗  Ƶŵ ĚĞ ůŽĐĂůŝǌĂĕĆŽ Ğ \nŽƵƚƌŽ ƉĂƌĂ Ă ŝĚĞŶƟĮĐĂĕĆŽ ĚĞ ƐƵũĞŝƌĂ͘  K ĂŐĞŶƚĞ ƉŽĚĞ ĞǆĞĐƵƚĂƌ ĂƐ ƐĞŐƵŝŶƚĞƐ ŽƉĞƌĂĕƁĞƐ͗\nͻ  ǀĞƌŝĮĐĂƌ ƐĞ Ž ĂŵďŝĞŶƚĞ ĂƚƵĂů ĞƐƚĄ ƐƵũŽ͖\nͻ  ůŝŵƉĂƌ Ž ĂŵďŝĞŶƚĞ͖\nͻ  ĨĂǌĞƌ ŶĂĚĂ͖\nͻ  ŵŽǀĞƌͲƐĞ ƉĂƌĂ Ž ƉƌſǆŝŵŽ ĂŵďŝĞŶƚĞ͕  ƵƚŝůŝǌĂŶĚŽ Ƶŵ ĚŽƐ ĐŽŵĂŶĚŽƐ͗  ĚŝƌĞŝƚĂ͕  ĞƐƋƵĞƌĚĂ͕  ĨƌĞŶƚĞ \nŽƵ ƚƌĄƐ͘\nZƵƐƐĞůů͕  ^͘  :͖͘  EŽƌǀŝŐ͕  W͘  ƌƟĮĐŝĂů ŝŶƚĞůůŝŐĞŶĐĞ͗ Ă ŵŽĚĞƌŶ ĂƉƉƌŽĂĐŚ͘  3͘  ĞĚ͘  EĞǁ :ĞƌƐĞǇ͗  WĞĂƌƐŽŶ͕  2009 ;ĂĚĂƉƚĂĚŽͿ͘\nIŽŵ ƌĞůĂĕĆŽ ĂŽƐ ĐŽŶĐĞŝƚŽƐ ĞŶǀŽůǀĞŶĚŽ ƐŝƐƚĞŵĂƐ ŵƵůƟĂŐĞŶƚĞƐ Ğ Ž ƉƌŽďůĞŵĂ ĚŽ DƵŶĚŽ ĚŽ  ƐƉŝƌĂĚŽƌ ĚĞ \nWſ ĂƉƌĞƐĞŶƚĂĚŽ͕  ĂƐƐŝŶĂůĞ Ă ŽƉĕĆŽ ĐŽƌƌĞƚĂ͘\nA  DĞĮŶŝĚĂƐ ĂƐ ůŽĐĂůŝǌĂĕƁĞƐ ĚŽ ĂŐĞŶƚĞ Ğ ĚĂ ƐƵũĞŝƌĂ ĐŽŵŽ ĞůĞŵĞŶƚŽƐ ƷŶŝĐŽƐ ĚĞ Ƶŵ ĞƐƚĂĚŽ͕  ŶŽ ĐĞŶĄƌŝŽ ĚĂ \nĮŐƵƌĂ͕  ŚĄ 22 с 4 ĞƐƚĂĚŽƐ ƉŽƐƐşǀĞŝƐ ƉĂƌĂ ĂǀĂůŝĂĕĆŽ͘\nB  K  ĐŽŵƉŽƌƚĂŵĞŶƚŽ  ĚĞ  Ƶŵ  ĂŐĞŶƚĞ  Ġ  ĚĞĮŶŝĚŽ  ƉŽƌ  ƵŵĂ  ŽƵ  ŵĂŝƐ  ĨƵŶĕƁĞƐ  ƋƵĞ  ŵĂƉĞŝĂŵ  ƵŵĂ  ĚĂĚĂ \nƐĞƋƵġŶĐŝĂ ƉĞƌĐĞďŝĚĂ ƉĂƌĂ ƵŵĂ ĂĕĆŽ ĚĞĮŶŝĚĂ͘\nC    ƐĞƋƵġŶĐŝĂ ƉĞƌĐĞďŝĚĂ ĚĞ Ƶŵ ĂŐĞŶƚĞ ƌĞĨĞƌĞͲƐĞ ĂŽ ŚŝƐƚſƌŝĐŽ ĚŽ ƌĞƐƵůƚĂĚŽ ĚĞ ƚŽĚĂƐ ĂƐ ĂĕƁĞƐ ƚŽŵĂĚĂƐ \nƉĞůŽ ĂŐĞŶƚĞ ĂƚĠ Ž ƉƌĞƐĞŶƚĞ ŵŽŵĞŶƚŽ͘\nD    ƉĞƌĐĞƉĕĆŽ ĚĞ Ƶŵ ĂŐĞŶƚĞ ƌĞĨĞƌĞͲƐĞ ĂŽƐ ƌĞƐƵůƚĂĚŽƐ ĚĂƐ ĂĕƁĞƐ ƚŽŵĂĚĂƐ ƉŽƌ ĞůĞ͘\nE    ŽƉĕĆŽ ͞ ĨĂǌĞƌ ŶĂĚĂ͟  Ġ ƵŵĂ ƉĞƌĐĞƉĕĆŽ ǀĄůŝĚĂ ĚŽ ĂŐĞŶƚĞ͘",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "30\nCCÊNCCA MA COMPUTAÇÃO\nQUNSTÃO 32\nO uso Te agentes inteligentes permite a resolução Te problemas complexos por meio To uso Te Ueurísticas \nimplementaTas Te forma TistribuíTa.  Na literatura,  o MunTo To  spiraTor Te Po (sacuum-Cleaner torlT) \né um problema fcơcio que envolve o emprego e uso Te agentes no ensino Tos conceitos relacionaTos a \n/nteliggncia  rtifcial.  Nsse munTo fcơcio é composto por um aspiraTor Te po e Tois ou mais ambientes,  \nconforme ilustra a fgura a seguir.  Os ambientes poTem estar suũos ou limpos.\nNesse munTo,  um agente representa o aspiraTor Te po equipaTo com Tois sensores:  um Te localização e \noutro para a iTentifcação Te suũeira.  O agente poTe executar as seguintes operações:\nͻ  verifcar se o ambiente atual estA suũo͖\nͻ  limpar o ambiente͖\nͻ  fazer naTa͖\nͻ  mover-se para o proximo ambiente,  utilizanTo um Tos comanTos:  Tireita,  esquerTa,  frente \nou trAs.\nZussell,  S.  :.͖  Norvig,  P.  rtifcial intelligence: a moTern approacU.  3.  eT.  Neǁ :erseǇ:  Pearson,  2009 (aTaptaTo).\nCom relação aos conceitos envolvenTo sistemas multiagentes e o problema To MunTo To  spiraTor Te \nPo apresentaTo,  assinale a opção correta.\nA  MefniTas as localizações To agente e Ta suũeira como elementos unicos Te um estaTo,  no cenArio Ta \nfgura,  UA 22 с 4 estaTos possíveis para avaliação.\nB  O  comportamento  Te  um  agente  é  TefniTo  por  uma  ou  mais  funções  que  mapeiam  uma  TaTa \nsequgncia percebiTa para uma ação TefniTa.\nC    sequgncia percebiTa Te um agente refere-se ao Uistorico To resultaTo Te toTas as ações tomaTas \npelo agente até o presente momento.\nM    percepção Te um agente refere-se aos resultaTos Tas ações tomaTas por ele.\nN    opção \" fazer naTa\"  é uma percepção vAliTa To agente.\n*R03201730*",
   "figuras": [
     "/questoes/2017_CCP/figuras/q32_fig1.png"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 32,
-      "tipo": "OBJETIVA",
-      "pagina": 30,
-      "x": 60.35430145263672,
-      "y": 88.699951171875,
-      "x1": 122.80711364746094,
-      "y1": 100.699951171875,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 32"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:42:56.549241"
+  "caminho_png": "/questoes/2017_CCP/q32.png",
+  "caminho_json": "/questoes/2017_CCP/q32.json",
+  "caminho_txt": "/questoes/2017_CCP/q32.txt"
 }

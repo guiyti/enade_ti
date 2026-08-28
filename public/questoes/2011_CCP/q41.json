@@ -5,46 +5,19 @@
   "paginas": [
     26
   ],
-  "segmentos": [
-    {
-      "pagina": 26,
-      "x0": 25.0,
-      "y0": 75.0,
-      "x1": 287.28,
-      "y1": 719.28,
-      "coluna": 1
-    }
-  ],
-  "caminho_png": "/questoes/2011_CCP/q41.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_CCP/q41.txt",
   "largura": 1123,
   "altura": 2715,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 41\nA figura abaixo ilustra a tentativa de se utilizar um filtro \ndigital no domínio da frequência, para suavizar o sinal \nbidimensional de entrada que está no domínio do espaço.\nA partir do resultado obtido no processo de filtragem, \nanalise as seguintes asserções e a relação proposta \nentre elas.\nO sinal de saída possui as características de um sinal \nprocessado por um filtro passa-baixa ideal.\nPORQUE\nEmbora suavizado, o sinal de saída evidencia a presença \ndo efeito de ringing, que é típico de um sinal convolucionado \npela função sinc no domínio do espaço.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas",
-  "texto_enunciado": "",
-  "alternativas": {},
+  "status": "APROVADA",
+  "categorias": [
+    "Inteligência Artificial e Dados"
+  ],
+  "anomalias": [],
+  "texto_completo": "NNGNNHARCA MA COMPUTAÇÃO\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n26\nQUNSTÃO 41\nA figura abaixo ilustra a tentativa Te se utilizar um filtro \nTigital no Tomínio Ta frequência, para suavizar o sinal \nbiTimensional Te entraTa que está no Tomínio To espaço.\nA partir To resultaTo obtiTo no processo Te filtragem, \nanalise as seguintes asserções e a relação proposta \nentre elas.\nO sinal Te saíTa possui as características Te um sinal \nprocessaTo por um filtro passa-baixa iTeal.\nPORQUN\nNmbora suavizaTo, o sinal Te saíTa eviTencia a presença \nTo efeito Te ringing, que é típico Te um sinal convolucionaTo \npela função sinc no Tomínio To espaço.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 42  \nSabenTo que a principal tarefa Te um sistema será Te \nclassificação em Tomínios complexos, um gerente Te \nprojetos precisa TeciTir como vai incorporar essa capa-\nciTaTe em um sistema computacional a fim Te torná-lo \ninteligente. Nxistem Tiversas técnicas Te inteligência \ncomputacional / artificial que possibilitam isso.\nNesse contexto, a técnica Te inteligência artificial mais \ninTicaTa para o gerente é\nA   lógica nebulosa.\nB   árvores Te Tecisão.\nC   reTes neurais artificiais.\nM   ACO (To inglês, Ant-Colony Optimization).\nN   PSO (To inglês, Particle Swarm Optimization).\nÁRNA LCVRN\n*A13201126*",
   "figuras": [
     "/questoes/2011_CCP/figuras/q41_fig1.jpeg"
   ],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 41,
-      "tipo": "OBJETIVA",
-      "pagina": 26,
-      "x": 34.1431999206543,
-      "y": 68.1739273071289,
-      "x1": 97.49319458007812,
-      "y1": 82.03392791748047,
-      "coluna": 1,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 41"
-    }
-  ],
-  "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:37.209615"
+  "caminho_png": "/questoes/2011_CCP/q41.png",
+  "caminho_json": "/questoes/2011_CCP/q41.json",
+  "caminho_txt": "/questoes/2011_CCP/q41.txt"
 }

@@ -5,44 +5,17 @@
   "paginas": [
     15
   ],
-  "segmentos": [
-    {
-      "pagina": 15,
-      "x0": 293.28,
-      "y0": 75.0,
-      "x1": 555.56,
-      "y1": 388.1842346191406,
-      "coluna": 2
-    }
-  ],
-  "caminho_png": "/questoes/2011_ADS/q27.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2011_ADS/q27.txt",
   "largura": 1123,
   "altura": 1335,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 27  \nModelos de ciclo de vida de processo de software são \ndescrições abstratas do processo de desenvolvimento, \nmostrando as principais atividades e informações usadas \nna produção e manutenção de software, bem como a \nordem em que as atividades devem ser executadas.\nCom relação aos modelos de ciclo de vida de processo de \nsoftware, analise as seguintes asserções.\nO modelo de desenvolvimento em cascata acrescenta \naspectos gerenciais (planejamento, controle e tomada de \ndecisão) ao processo de desenvolvimento de software\nPORQUE\nconsidera que o processo é composto por várias etapas \nque são executadas de forma sistemática e sequencial.\nAcerca dessas asserções, assinale a opção correta.\nA   As duas asserções são proposições verdadeiras, e a \nsegunda é uma justificativa correta da primeira.\nB   As duas asserções são proposições verdadeiras, mas \na segunda não é uma justificativa correta da primeira.\nC   A primeira asserção é uma proposição verdadeira, e a \nsegunda, uma proposição falsa.\nD   A primeira asserção é uma proposição falsa, e a \nsegunda, uma proposição verdadeira.\nE   Tanto a primeira quanto a segunda asserções são \nproposições falsas.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 27,
-      "tipo": "OBJETIVA",
-      "pagina": 15,
-      "x": 302.347900390625,
-      "y": 68.1739273071289,
-      "x1": 371.4579162597656,
-      "y1": 82.03392791748047,
-      "coluna": 2,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 27"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Sistemas Operacionais"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:41:21.356668"
+  "texto_completo": "TNCNOLOGCA NM ANÁLCSN N MNSNNVOLVCMNNTO MN SCSTNMAS\n2011\nNXAMN NACCONAL MN MNSNMPNNHO MOS NSTUMANTNS\n15\nQUNSTÃO 26  \nUm engenUeiro Te software planejou o Tesenvolvimento \nTe um novo projeto, com prazo máximo Te 220 Tias, em \nseis fases: comunicação, planejamento, moTelagem, \nconstrução, Tocumentação e implantação. As fases seriam \nrealizaTas na sequência em que foram listaTas. Nxceção \nfoi feita para as fases Te construção e a Tocumentação, \nque poTeriam ocorrer em paralelo. Nntretanto, a fase Te \nimplantação só poTeria ocorrer se tanto construção quanto \nTocumentação estivessem encerraTas.\nA tabela a seguir apresenta a Turação Te caTa fase To \nplano Te Tesenvolvimento proposto.\nTabela - Fases e respectivas TepenTências e Turações\n#\nFase\nMepenTência\nMuração\n(Tias)\n1\nComunicação\n-\n15\n2\nPlanejamento\n1\n30\n3\nMoTelagem\n2\n45\n4\nConstrução\n3\n100\n5\nMocumentação\n3\n40\n6\nCmplantação\n4,5\n30\nConsiTeranTo o uso To MétoTo To CaminUo Crítico, e que \no projeto tem prazo máximo Te 220 Tias, com início no Tia 1, \navalie as seguintes afirmações.\nC. \nA Tata mínima para o início Ta fase Te implantação \né o Tia 191. \nCC. O projeto possui um caminUo crítico, que é 1-2-3-5-6.\nCCC. A folga livre Ta ativiTaTe Tocumentação é Te 60 Tias.\nÉ correto apenas o que se afirma em:\nA   C.\nB   C e CC.\nC   C e CCC.\nM   CC e CCC.\nN   C, CC e CCC.\nQUNSTÃO 27  \nMoTelos Te ciclo Te viTa Te processo Te software são \nTescrições abstratas To processo Te Tesenvolvimento, \nmostranTo as principais ativiTaTes e informações usaTas \nna proTução e manutenção Te software, bem como a \norTem em que as ativiTaTes Tevem ser executaTas.\nCom relação aos moTelos Te ciclo Te viTa Te processo Te \nsoftware, analise as seguintes asserções.\nO moTelo Te Tesenvolvimento em cascata acrescenta \naspectos gerenciais (planejamento, controle e tomaTa Te \nTecisão) ao processo Te Tesenvolvimento Te software\nPORQUN\nconsiTera que o processo é composto por várias etapas \nque são executaTas Te forma sistemática e sequencial.\nAcerca Tessas asserções, assinale a opção correta.\nA   As Tuas asserções são proposições verTaTeiras, e a \nsegunTa é uma justificativa correta Ta primeira.\nB   As Tuas asserções são proposições verTaTeiras, mas \na segunTa não é uma justificativa correta Ta primeira.\nC   A primeira asserção é uma proposição verTaTeira, e a \nsegunTa, uma proposição falsa.\nM   A primeira asserção é uma proposição falsa, e a \nsegunTa, uma proposição verTaTeira.\nN   Tanto a primeira quanto a segunTa asserções são \nproposições falsas.\nQUNSTÃO 28  \nCTNM 2489\nA virtualização permite que um único computaTor \nUospeTe múltiplas máquinas virtuais, caTa uma com seu \npróprio sistema operacional. Nssa técnica tem ganUaTo \nimportância nos Tias atuais e vem senTo utilizaTa para \nresolver Tiversos tipos Te problemas.\nConsiTeranTo os Tiversos aspectos a serem consiTeraTos \nna utilização Ta virtualização, avalie as afirmações abaixo.\nC. \nUm sistema operacional senTo executaTo em uma \nmáquina virtual utiliza um subconjunto Ta memória \nTisponível na máquina real.\nCC. Uma Tas aplicações Ta virtualização é a \nTisponibilização Te múltiplos sistemas operacionais \npara teste Te software.\nCCC. A virtualização só poTe ser utilizaTa em sistemas \noperacionais Linux.\nCV. Um sistema operacional executaTo em uma \nmáquina virtual apresenta um TesempenUo \nsuperior ao que alcançaria quanTo executaTo \nTiretamente na mesma máquina real.\n É correto apenas o que se afirma em\nA   C.\nB   CCC.\nC   C e CC.\nM   CC e CV.\nN   CCC e CV.\n*A25201115*",
+  "figuras": [],
+  "caminho_png": "/questoes/2011_ADS/q27.png",
+  "caminho_json": "/questoes/2011_ADS/q27.json",
+  "caminho_txt": "/questoes/2011_ADS/q27.txt"
 }

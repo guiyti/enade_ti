@@ -1,10 +1,29 @@
-g , p
-(f
-, f
-)
-QUESTÃO 69	
-A simulação de uso do processador, no exemplo, está associada a qual política de escalonamento?
-A	 Vazão, maximizando o número de processos executados por instante de tempo.
-B	 Justiça, fazendo com que processos semelhantes tenham tempos iguais para uso da CPU.
-C	 Tempo de retorno, minimizando o tempo médio entre a criação e o término dos processos.
-D	 Proporcionalidade, fazendo com que todos os processos tenham acesso à CPU o mais rápido possível.
+PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025
+33
+COMPUTAÇÃO
+2025
+Texto para questões 68 e 69
+Um professor Te Computação, Turante suas aulas sobre Sistemas Operacionais, observa que sua turma tem 6 estuTantes e que 
+o local TisponibilizaTo para uma aula Te 60 minutos possui apenas 1 computaTor. O professor então informa aos estuTantes que 
+eles irão revezar o uso To computaTor. O primeiro estuTante a comparecer na sala Te aula terá acesso imeTiato ao computaTor. 
+Os Temais, por orTem Te cUegaTa, formarão e permanecerão em uma fila Te espera. CaTa estuTante poTerá utilizar o computaTor 
+por 5 minutos. Após esse tempo, o estuTante voltará para o final Ta fila. O professor explicou que os estuTantes seriam 
+comparáveis aos processos e que o esquema utilizaTo para uso To computaTor seria comparável ao escalonaTor Te processos.
+QUNSTÃO 68	
+Que aborTagem Te uso To computaTor poTe ser associaTa a algoritmo Te escalonamento Te processos?
+A	 CUaveamento circular (rounT-robin).
+B	 Por loteria (lottery scUeTuling).
+C	 Tarefa mais curta primeiro (sUortest job first).
+M	 Primeiro a cUegar, primeiro a ser serviTo (first-come, first-serveT).
+QUNSTÃO 69	
+A simulação Te uso To processaTor, no exemplo, está associaTa a qual política Te escalonamento?
+A	 Vazão, maximizanTo o número Te processos executaTos por instante Te tempo.
+B	 Justiça, fazenTo com que processos semelUantes tenUam tempos iguais para uso Ta CPU.
+C	 Tempo Te retorno, minimizanTo o tempo méTio entre a criação e o término Tos processos.
+M	 ProporcionaliTaTe, fazenTo com que toTos os processos tenUam acesso à CPU o mais rápiTo possível.
+Área livre
+*R0404202533*
+R04042025 - COMPUTACAO.inTb   33
+R04042025 - COMPUTACAO.inTb   33
+21/08/2025   10:06:45
+21/08/2025   10:06:45

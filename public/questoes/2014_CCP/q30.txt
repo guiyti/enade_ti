@@ -1,44 +1,74 @@
-QUESTÃO 30
-hŵĂ  ĨĂǌĞŶĚĂ  ƉŽƐƐƵŝ  Ƶŵ  ƷŶŝĐŽ  ƉŽĕŽ  ĂƌƚĞƐŝĂŶŽ  ƋƵĞ 
-ĚĞǀĞ ĂďĂƐƚĞĐĞƌ n ďĞďĞĚŽƵƌŽƐ ƉĂƌĂ Ž ŐĂĚŽ͘  DĞƐĞũĂͲƐĞ 
-ĚĞƚĞƌŵŝŶĂƌ  Ƶŵ  ƉƌŽũĞƚŽ  ĚĞ  ůŝŐĂĕĆŽ  ĞŶƚƌĞ  ĞƐƐĞƐ  Ŷн1
-ƉŽŶƚŽƐ  ĂƚƌĂǀĠƐ  ĚĞ  ĞŶĐĂŶĂŵĞŶƚŽƐ  ĐŽŵ  Ă  ŵĞŶŽƌ 
-ĞǆƚĞŶƐĆŽ ƚŽƚĂů͘  hŵ ĂůŐŽƌŝƚŵŽ ƉƌŽƉŽƐƚŽ ƉĂƌĂ Ă ƐŽůƵĕĆŽ 
-ĚŽ ƉƌŽďůĞŵĂ ĞǆĞĐƵƚĂ ŽƐ ƐĞŐƵŝŶƚĞƐ ƉĂƐƐŽƐ͗
-1. IƌŝĞ Ŷн1 ĐŽŶũƵŶƚŽƐ ƵŶŝƚĄƌŝŽƐ͕  ĐĂĚĂ Ƶŵ ĐŽŶƚĞŶĚŽ 
-Ƶŵ ĚŽƐ ƉŽŶƚŽƐ Ă ƐĞƌĞŵ ůŝŐĂĚŽƐ ĞŶƚƌĞ Ɛŝ Ğ ŝŶƐŝƌĂ 
-ĞƐƐĞƐ ĐŽŶũƵŶƚŽƐ Ğŵ Ƶŵ ĐŽŶũƵŶƚŽ C.
-2. IƌŝĞ  Ƶŵ  ĐŽŶũƵŶƚŽ  D  ĐŽŶƚĞŶĚŽ  Ƶŵ  ƌĞŐŝƐƚƌŽ 
-ƉĂƌĂ  ĐĂĚĂ  ĐŽŵďŝŶĂĕĆŽ  ƉŽƐƐşǀĞů  ĚĞ  ĚŽŝƐ  ƉŽŶƚŽƐ 
-ĚŝƐƟŶƚŽƐ  Ă  ƐĞƌĞŵ  ůŝŐĂĚŽƐ͘   IĂĚĂ  ƌĞŐŝƐƚƌŽ  ĚĞǀĞ 
-ĐŽŶƚĞƌ ŽƐ ĐĂŵƉŽƐ ci , cj e d, Ğŵ ƋƵĞ ci e cj ƐĆŽ 
-ŽƐ ĚŽŝƐ ƉŽŶƚŽƐ Ă ƐĞƌĞŵ ůŝŐĂĚŽƐ Ğ d Ġ Ă ĚŝƐƚąŶĐŝĂ 
-ĞŶƚƌĞ ĞůĞƐ͘
-3͘   EŶƋƵĂŶƚŽ D ŶĆŽ ĞƐƟǀĞƌ ǀĂǌŝŽ ĨĂĕĂ͗
-3͘ 1͘ ZĞŵŽǀĂ Ž ƌĞŐŝƐƚƌŽ ĚĞ D ĐŽŵ Ž ŵĞŶŽƌ ǀĂůŽƌ ĚĞ 
-ĚŝƐƚąŶĐŝĂ d.
-3͘ 2͘ ^Ğ ŽƐ ǀĂůŽƌĞƐ ĚĞ ci e cj ĚŽ ƌĞŐŝƐƚƌŽ ƌĞŵŽǀŝĚŽ 
-ƉĞƌƚĞŶĐĞƌĞŵ Ă ĐŽŶũƵŶƚŽƐ ĚŝƐƟŶƚŽƐ ĚĞ C, ĞŶƚĆŽ͗
-3͘ 2͘ 1͘ ^ƵďƐƟƚƵĂ ĞƐƚĞƐ ĚŽŝƐ ĐŽŶũƵŶƚŽƐ ƉĞůĂ ƵŶŝĆŽ 
-ĞŶƚƌĞ ĞůĞƐ͘
-3͘ 2͘ 2͘ 'ƵĂƌĚĞ  Ž  ƌĞŐŝƐƚƌŽ  ƌĞŵŽǀŝĚŽ  Ğŵ  Ƶŵ 
-ĐŽŶũƵŶƚŽͲƐŽůƵĕĆŽ͘
-IŽŵ ďĂƐĞ ŶĂ ĚĞƐĐƌŝĕĆŽ ĚŽ ƉƌŽďůĞŵĂ Ğ ĚŽ ĂůŐŽƌŝƚŵŽ 
-ƉƌŽƉŽƐƚŽ͕  ĐŽŶĐůƵŝͲƐĞ ƋƵĞ
-A Ž ƉƌŽďůĞŵĂ ĞǆĞŵƉůŝĮĐĂ Ă ŽďƚĞŶĕĆŽ ĚĞ ƵŵĂ ĄƌǀŽƌĞ 
-ŐĞƌĂĚŽƌĂ ŵşŶŝŵĂ͕  ƉŽƌƚĂŶƚŽ ĞƐƚĄ ŶŽ ĐŽŶũƵŶƚŽ P.
-B Ž ĂůŐŽƌŝƚŵŽ Ġ ƵŵĂ ŚĞƵƌşƐƟĐĂ ƉĂƌĂ Ž WƌŽďůĞŵĂ ĚŽ 
-IĂŝǆĞŝƌŽ  sŝĂũĂŶƚĞ͕   ůŽŐŽ  ĂƉƌĞƐĞŶƚĂ  ĐŽŵƉůĞǆŝĚĂĚĞ 
-ƉŽůŝŶŽŵŝĂů͘
-C Ž  ƉƌŽďůĞŵĂ  ĚĞƐĐƌŝƚŽ  Ġ  ĚĞ  ŽƟŵŝǌĂĕĆŽ͕   ůŽŐŽ 
-ƉĞƌƚĞŶĐĞ  ĂŽ  ĐŽŶũƵŶƚŽ  NPʹĚŝİĐŝů͕   ŵĂƐ  ŶĆŽ  ĂŽ 
-ĐŽŶũƵŶƚŽ NPʹĐŽŵƉůĞƚŽ͘
-D ƵŵĂ  ĂůƚĞƌŶĂƟǀĂ  ƉĂƌĂ  Ă  ƐŽůƵĕĆŽ  ĚŽ  ƉƌŽďůĞŵĂ  Ġ 
-ƵƐĂƌ  Ž  ĂůŐŽƌŝƚŵŽ  ĚĞ  DŝũŬƐƚƌĂ  ƉĂƌĂ  ŽďƚĞŶĕĆŽ  ĚŽ 
-ĐĂŵŝŶŚŽ ŵşŶŝŵŽ ĞŶƚƌĞ ĚŽŝƐ ƉŽŶƚŽƐ͘
-E Ž ƉĂƐƐŽ ĚĞ ŵĂŝŽƌ ĐƵƐƚŽ ĚŽ ĂůŐŽƌŝƚŵŽ Ġ Ă ĐƌŝĂĕĆŽ 
-ĚŽ ĐŽŶũƵŶƚŽ D ĐŽŵ ĂƐ ĐŽŵďŝŶĂĕƁĞƐ ĚĞ ƉŽŶƚŽƐ͕  
-ĂƉƌĞƐĞŶƚĂŶĚŽ 
-ĐŽŵƉůĞǆŝĚĂĚĞ 
-ĐŽŵƉƵƚĂĐŝŽŶĂů 
-O(n!)
+24
+C/NNC/  M  COMPUT AãO
+QUNSTÃO 30
+Uma  fazenTa  possui  um  unico  poço  artesiano  que 
+Teve abastecer n bebeTouros para o gaTo.  Meseũa-se 
+Teterminar  um  proũeto  Te  ligação  entre  esses  nн1
+pontos  através  Te  encanamentos  com  a  menor 
+extensão total.  Um algoritmo proposto para a solução 
+To problema executa os seguintes passos:
+1. Crie nн1 conũuntos unitArios,  caTa um contenTo 
+um Tos pontos a serem ligaTos entre si e insira 
+esses conũuntos em um conũunto C.
+2. Crie  um  conũunto  M  contenTo  um  registro 
+para  caTa  combinação  possível  Te  Tois  pontos 
+Tistintos  a  serem  ligaTos.   CaTa  registro  Teve 
+conter os campos ci , cj e T, em que ci e cj são 
+os Tois pontos a serem ligaTos e T é a Tistancia 
+entre eles.
+3.   Nnquanto M não estiver vazio faça:
+3. 1. Zemova o registro Te M com o menor valor Te 
+Tistancia T.
+3. 2. Se os valores Te ci e cj To registro removiTo 
+pertencerem a conũuntos Tistintos Te C, então:
+3. 2. 1. Substitua estes Tois conũuntos pela união 
+entre eles.
+3. 2. 2. 'uarTe  o  registro  removiTo  em  um 
+conũunto-solução.
+Com base na Tescrição To problema e To algoritmo 
+proposto,  conclui-se que
+A o problema exemplifca a obtenção Te uma Arvore 
+geraTora mínima,  portanto estA no conũunto P.
+B o algoritmo é uma Ueurística para o Problema To 
+Caixeiro  siaũante,   logo  apresenta  complexiTaTe 
+polinomial.
+C o  problema  Tescrito  é  Te  otimização,   logo 
+pertence  ao  conũunto  NPʹTiİcil,   mas  não  ao 
+conũunto NPʹcompleto.
+M uma  alternativa  para  a  solução  To  problema  é 
+usar  o  algoritmo  Te  MiũŬstra  para  obtenção  To 
+caminUo mínimo entre Tois pontos.
+N o passo Te maior custo To algoritmo é a criação 
+To conũunto M com as combinações Te pontos,  
+apresentanTo 
+complexiTaTe 
+computacional 
+O(n!).
+QUNSTÃO 31
+Na 
+transmissão 
+Te 
+TaTos 
+em 
+sistemas 
+computacionais,  o Tispositivo Te verifcação Te erros 
+conUeciTo como bit Te pariTaTe consiste Ta aTição 
+Te  um  bit  extra  Turante  a  transmissão.   O  valor 
+associaTo a esse bit é uma função Ta quantiTaTe Te 
+bits Te TaTos iguais a 1 a serem transmitiTos.
+Nesse contexto,  consiTere a transmissão Te 7 bits Te 
+TaTos,  com um bit extra Te pariTaTe,  em um sistema 
+Te comunicação no qual a probabiliTaTe Te transmitir 
+um bit Te forma incorreta é igual a 10-6e inTepenTe 
+Te outros erros ocorriTos.  O bit Te pariTaTe também 
+poTe sofrer erros.  
+   probabiliTaTe  Ta  ocorrgncia  Te  transmissão  Te 
+2  bits  erraTos,   que  seria  erroneamente  TetectaTa 
+como uma transmissão sem erros,  é
+A 1, 0 u10-12.
+B 2, 0 u10-12.
+C 2, 8 u10-11.
+M 2, 0 u10-6.
+N 2, 8 u10-5.
+ÁRNA LCVRN
+*R03201424*

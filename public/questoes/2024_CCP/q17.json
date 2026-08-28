@@ -5,44 +5,17 @@
   "paginas": [
     11
   ],
-  "segmentos": [
-    {
-      "pagina": 11,
-      "x0": 25.0,
-      "y0": 286.6591796875,
-      "x1": 611.7199999999999,
-      "y1": 455.63482666015625,
-      "coluna": 0
-    }
-  ],
-  "caminho_png": "/questoes/2024_CCP/q17.png",
-  "caminho_json": "",
-  "caminho_txt": "/Users/guiyti/Desktop/ENADE/questoes/2024_CCP/q17.txt",
   "largura": 2475,
   "altura": 734,
   "confianca": 0.98,
-  "texto_completo": "QUESTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional de Avaliação da Educação Básica (Saeb), são utilizadas \ncomo instrumentos de aferição da qualidade da Educação Básica no Brasil. Seu resultado é utilizado no cálculo do Índice de \nDesenvolvimento da Educação Básica (Ideb) das escolas. Uma determinada escola recebeu sua nota do Ideb, e o resultado ficou \nabaixo da média prevista. Diante disso, a direção fez uma reunião com o corpo docente para traçar metas para a melhoria do \ndesempenho da escola.\nA análise dos resultados do Ideb deve orientar as ações pedagógicas para\nA\t direcionar o planejamento de forma estratégica.\nB\t reduzir o espaço de determinadas áreas do currículo.\nC\t dedicar maior atenção a conteúdos extracurriculares.\nD\t focalizar o desenvolvimento de habilidades socioemocionais.",
-  "texto_enunciado": "",
-  "alternativas": {},
-  "figuras": [],
-  "categorias": [],
-  "status": "PENDENTE",
-  "marcadores": [
-    {
-      "numero": 17,
-      "tipo": "OBJETIVA",
-      "pagina": 11,
-      "x": 64.6063003540039,
-      "y": 298.6591796875,
-      "x1": 124.34291076660156,
-      "y1": 313.92718505859375,
-      "coluna": 0,
-      "metodo": "PDF_STRUCTURE",
-      "confianca": 0.98,
-      "texto_original": "QUESTÃO 17"
-    }
+  "status": "APROVADA",
+  "categorias": [
+    "Formação Geral e Sociedade"
   ],
   "anomalias": [],
-  "score": 0.0,
-  "criado_em": "2026-08-25T15:44:45.404127"
+  "texto_completo": "PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PMM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025PNM2025\n11\nFORMAÇÃO GNRAL MOCNNTN\n2025\nQUNSTÃO 16\t\nNm uma reunião Te planejamento, foi proposta uma Tiscussão sobre os Tiferentes tipos Te avaliação e suas aplicações no \nprocesso Te ensino e Te aprenTizagem. Foram apresentaTas as características e as funções Tas avaliações Tiagnóstica, formativa \ne somativa no contexto escolar. Os professores foram conviTaTos a Tescrever suas práticas peTagógicas e a relacioná-las aos \nTiferentes objetivos Tas avaliações.\nNntre as ativiTaTes avaliativas Tescritas, é associaTa à função formativa aquela que\nA\t inicia o ensino Te frações com uma ativiTaTe Te recortes Te moTelos Te pizzas Te papel TiviTiTas em partes iguais, para \nque os estuTantes resolvam uma lista Te exercícios.\nB\t propõe uma série Te perguntas para serem responTiTas pelos estuTantes sobre o tema Te Tesmatamento ilegal, com o \nintuito Te iTentificar os conUecimentos prévios Tos estuTantes sobre o assunto.\nC\t oferece Tevolutivas para a proTução coletiva Te uma linUa To tempo com marcos Ta Revolução CnTustrial, a fim Te orientar \no que poTe ser aperfeiçoaTo no trabalUo.\nM\t aplica uma prova escrita com questões objetivas e Tissertativas sobre os ciclos biogeoquímicos, com a finaliTaTe Te classificar \nos estuTantes.\nQUNSTÃO 17\t\nAs avaliações externas em larga escala, como o Sistema Nacional Te Avaliação Ta NTucação Básica (Saeb), são utilizaTas \ncomo instrumentos Te aferição Ta qualiTaTe Ta NTucação Básica no Brasil. Seu resultaTo é utilizaTo no cálculo To ÍnTice Te \nMesenvolvimento Ta NTucação Básica (CTeb) Tas escolas. Uma TeterminaTa escola recebeu sua nota To CTeb, e o resultaTo ficou \nabaixo Ta méTia prevista. Miante Tisso, a Tireção fez uma reunião com o corpo Tocente para traçar metas para a melUoria To \nTesempenUo Ta escola.\nA análise Tos resultaTos To CTeb Teve orientar as ações peTagógicas para\nA\t Tirecionar o planejamento Te forma estratégica.\nB\t reTuzir o espaço Te TeterminaTas áreas To currículo.\nC\t TeTicar maior atenção a conteúTos extracurriculares.\nM\t focalizar o Tesenvolvimento Te UabiliTaTes socioemocionais.\nÁrea livre\n*R0404202511*\nR04042025 - COMPUTACAO.inTb   11\nR04042025 - COMPUTACAO.inTb   11\n21/08/2025   10:06:35\n21/08/2025   10:06:35",
+  "figuras": [],
+  "caminho_png": "/questoes/2024_CCP/q17.png",
+  "caminho_json": "/questoes/2024_CCP/q17.json",
+  "caminho_txt": "/questoes/2024_CCP/q17.txt"
 }
