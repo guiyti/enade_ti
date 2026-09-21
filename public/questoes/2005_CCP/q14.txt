@@ -1,0 +1,35 @@
+QUESTÃO 14
+Os proprietários de um teatro necessitam de uma
+ferramenta 
+de 
+software 
+para 
+reserva 
+de 
+lugares.
+O desenvolvedor contratado verificou que as poltronas
+disponíveis para reserva são referenciadas pelo número da fila
+(a partir do n. 1) e pelo número da cadeira (a partir do n.
+o
+o
+1) em cada fila, em uma representação matricial em que as
+linhas e colunas da matriz correspondem, respectivamente, às
+filas e às colunas de cadeiras. Embora o contexto seja o da
+organização matricial — N filas de cadeiras (linhas), cada uma
+contendo M cadeiras (colunas) —, a solução a ser
+implementada utilizará uma estrutura linear unidimensional
+(vetor), sendo, portanto, necessária uma conversão entre o
+lugar referenciado (número f da fila, número c da cadeira) e
+a posição real na estrutura de armazenamento (posição p no
+vetor). 
+Na situação apresentada, considere que a referida matriz seja
+armazenada no vetor segundo sua seqüência de linhas, da primeira
+para a última, e, em cada linha, da primeira coluna para a última,
+e que a primeira posição no vetor tenha índice 0. Nessa situação,
+a posição p da poltrona do teatro localizada à fila de número f e
+à coluna de número c, é igual a 
+A c + f × M.
+B f + c × M.
+C M × (f – 1) + (c – 1).
+D M × (c – 1) + (f – 1).
+E M × (c – 1) + M × f.

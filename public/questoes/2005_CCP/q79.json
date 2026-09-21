@@ -1,0 +1,50 @@
+{
+  "id_questao": "q79",
+  "numero": 79,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 308.7555847167969,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q79.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q79.txt",
+  "largura": 1155,
+  "altura": 1151,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 79\nxpto( [ ], R, R ).\nxpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 )\nzpto( X, [X|Y] ).\nzpto( X, [Y|Z] ) :- zpto( X, Z ).\nCom relação aos predicados escritos em Prolog acima, julgue o\nitens a seguir.\nI\nA execução de xpto([1,2,3],[ ], F) conclui com sucess\ninstanciando F para [1,2,3].\nII\nA execução de zpto(5,[1,2,3] ) conclui sem sucesso.\nIII A \nexecução \nde \nzpto(X,[1,2,3]) \nconclui \ncom \nsucesso\ninstanciando X para 1. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [
+    "Programação e POO"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 79,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 39.36000061035156,
+      "y": 44.835601806640625,
+      "x1": 85.78800201416016,
+      "y1": 50.83560562133789,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 79"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297707"
+}

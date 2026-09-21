@@ -1,0 +1,48 @@
+{
+  "id_questao": "q09",
+  "numero": 9,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    36
+  ],
+  "segmentos": [
+    {
+      "pagina": 36,
+      "x0": 25.0,
+      "y0": 640.0067138671875,
+      "x1": 294.59999999999997,
+      "y1": 779.6522827148438,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2008_CCP/q09.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2008_CCP/q09.txt",
+  "largura": 1153,
+  "altura": 612,
+  "confianca": 1.0,
+  "texto_completo": "QUESTÃO 4\nOs enunciados das questões da prova na parte de\nFormação Geral estavam claros e objetivos?\nA\nSim, todos.\nB\nSim, a maioria.\nC\nApenas cerca da metade.\nD\nPoucos.\nE\nNão, nenhum.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 9,
+      "tipo": "OBJETIVA",
+      "pagina": 36,
+      "x": 305.27911376953125,
+      "y": 652.0067138671875,
+      "x1": 368.52618408203125,
+      "y1": 663.0466918945312,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 1.0,
+      "texto_original": "QUESTÃO 9"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:19:36.776892"
+}

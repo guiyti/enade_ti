@@ -48,6 +48,15 @@ O objetivo deste sistema é processar provas oficiais do **ENADE** (em PDF), ext
 ├── next.config.ts             # Configurações do Next.js
 ├── tsconfig.json              # Configuração TypeScript
 ├── tailwind.config.ts         # Estilos Tailwind CSS
+├── Portarias/                 # Ecossistema Central ENADE (Blackboard, Avisos, Docentes, WhatsApp, Portarias MEC)
+│   ├── README.md              # Visão geral do ecossistema institucional e pedagógico
+│   ├── ESTRUTURA_BLACKBOARD.md# Mapeamento do pacote Ultra, TOC e páginas HTML customizadas
+│   ├── AVISOS_BLACKBOARD.md   # Régua oficial de comunicados no Blackboard
+│   ├── COMUNICACAO_WHATSAPP.md# Roteiros de disparo, infográficos e mensagens instantâneas
+│   ├── ALINHAMENTO_DOCENTES.md# Diretrizes pedagógicas e mensagens para professores de TI
+│   ├── NORMATIVAS_E_CRONOGRAMA_MEC.md # Resumo dos editais, portarias e regras de aplicação
+│   ├── enade.html / faq.html  # Páginas interativas embutidas no Blackboard Ultra
+│   └── infografico_enade_2026.png # Infográfico oficial para WhatsApp
 ├── provas/                    # PDFs originais do ENADE (mantidos)
 ├── public/                    # Arquivos estáticos servidos pelo Next.js / Vercel
 │   ├── data/exams.json        # Catálogo mestre de questões
@@ -65,7 +74,16 @@ O objetivo deste sistema é processar provas oficiais do **ENADE** (em PDF), ext
 
 ---
 
-## 4. Checklist para Novas Alterações
+## 4. O Ecossistema Central ENADE (`Portarias/`)
+Este projeto não se limita ao motor de extração de questões:
+- **Finalidade Pedagógica:** A engine de questões alimenta a disciplina **Tópicos Especiais em TI** e as disciplinas específicas dos cursos (ADS, GTI, CCP), onde os docentes resolvem questões oficiais ao vivo em sala de aula.
+- **Ambiente Blackboard Ultra:** As salas virtuais *Central ENADE 2026* reúnem guias visuais (`enade.html`), FAQ interativo (`faq.html`), links oficiais e desafios semanais de microlearning (10 minutos).
+- **Comunicação Multicanal:** Régua de avisos no Blackboard e canal oficial no WhatsApp com infográficos (`infografico_enade_2026.png`) focados no acolhimento, engajamento e no cumprimento das exigências do MEC (como o *Questionário do Estudante*) para a conquista do diploma.
+
+
+---
+
+## 5. Checklist para Novas Alterações
 Antes de submeter ou finalizar qualquer alteração:
 1. Verifique se os testes automatizados continuam passando:
    ```bash

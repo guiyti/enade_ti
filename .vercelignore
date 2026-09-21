@@ -1,0 +1,21 @@
+# Ignore local Python environment and processing engine
+.venv/
+venv/
+engine/
+paginas/
+logs/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Raw input PDFs (processed locally into public/questoes)
+provas/
+documentos/
+Portarias/*.pdf
+
+# Local metadata and tools
+.DS_Store
+.git
+.github
+.agents

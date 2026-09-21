@@ -1,0 +1,21 @@
+QUESTÃO 30
+O desenvolvimento global de software GSD — global
+software development — tem-se firmado como uma das
+grandes tendências na área de sistemas de informação nas
+organizações. Considere que uma organização da área de
+varejo e distribuição sediada na Europa tenha implantado três
+unidades de desenvolvimento de software espalhadas no
+mundo: uma no Brasil, uma na Índia e outra na China.
+Considere ainda que nenhuma dessas unidades possua
+qualquer tipo de certificação e que o principal problema da
+organização esteja relacionado ao desenvolvimento de
+sistemas que atendam às necessidades da organização e que
+reflitam as expectativas dos clientes globais. 
+Nessa situação, o nível do modelo SW-CMM e a KPA (área chave
+de processo) mais adequados para a situação apresentada são,
+respectivamente,
+A nível 2, KPA RM – gestão de requisitos.
+B nível 2, KPA SPP – planejamento.
+C nível 2, KPA SPTO – acompanhamento de projeto.
+D nível 3, KPA OPD – definição do processo da organização.
+E nível 3, KPA SPE – engenharia de produtos de software.

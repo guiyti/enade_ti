@@ -2,7 +2,17 @@
   "mcpServers": {
     "notebooklm": {
       "command": "npx",
-      "args": ["-y", "notebooklm-mcp@latest"]
+      "args": [
+        "-y",
+        "notebooklm-mcp@latest"
+      ]
+    },
+    "vercel": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://mcp.vercel.com"
+      ]
     }
   }
 }

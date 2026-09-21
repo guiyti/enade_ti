@@ -1,0 +1,16 @@
+QUESTÃO 25
+Entre os aspectos importantes relativos à segurança de sistemas
+de informação, inclui-se
+I
+a proteção de dados por meio de senhas e criptografia forte.
+II
+a existência de um plano de recuperação de desastres
+associado a backups freqüentes.
+III a utilização de firewalls associada a mecanismos de
+detecção de intrusão.
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

@@ -1,0 +1,32 @@
+QUESTÃO 84
+Considere que uma empresa esteja projetando um protocolo da camada de rede. Considere, ainda, que a equipe de projeto tenha
+proposto o seguinte conjunto de requisitos.
+I
+O protocolo deve prover um serviço de comunicação não-orientado a conexão e sem garantia da entrega. O protocolo não é
+responsável por ordenar os datagramas que, embora recebidos com sucesso, estejam fora da ordem em que foram transmitidos.
+II
+Os datagramas devem conter, além dos endereços de rede das máquinas, números que identifiquem as entidades nas máquinas de
+origem e destino para distinguirem as entidades nas máquinas envolvidas em uma comunicação.
+III O protocolo deve evitar que as aplicações tenham de definir os formatos usados para representar os dados nas máquinas. Na
+transmissão, o protocolo deve converter os dados de um formato específico de máquina para um formato independente de máquina.
+Na recepção, deve converter de um formato independente de máquina para um formato específico de máquina.
+IV O protocolo poderá fragmentar um datagrama na origem e remontá-lo no destino, para que dados sejam transmitidos por meio de
+redes cujas camadas físicas tenham tamanhos variados para as unidades máximas de transferência (maximum transfer unit). 
+V
+O protocolo deve implementar o controle de acesso ao meio de transmissão. Antes de transmitir, deve aguardar o meio de
+transmissão ficar livre. Se outras máquinas tentarem transmitir ao mesmo tempo, ele deve enviar um sinal para garantir que as
+máquinas detectem a colisão. Em seguida, deve aguardar e novamente tentar transmitir.
+Entre os requisitos propostos pela equipe de projeto, estão adequados para um um protocolo da camada de rede os requisitos 
+A I, II e IV.
+B I, III e V.
+C I, IV e V.
+D II, III e IV.
+E II, IV e V.
+QU ESTÃ O 85 – DISC URSIVA
+Em sistemas distribuídos, é necessário, muitas vezes, resolver problemas decorrentes do fato de diferentes plataformas
+poderem adotar diferentes formas para representar os dados.
+A respeito de sistemas distribuídos heterogêneos, faça o que se pede a seguir.
+a) Apresente exemplos das diferenças nas formas de representação dos dados que podem causar problemas em sistemas distribuídos.
+(valor: 5,0 pontos)
+b) Explique o que é eXternal Data Representation (XDR) e como uma biblioteca XDR pode ser usada em chamadas a procedimentos
+remotos. (valor: 5,0 pontos)

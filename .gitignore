@@ -16,9 +16,6 @@ htmlcov/
 /paginas/
 *.log
 
-# Dados gerados pela engine (binários grandes — não subir para git)
-/public/questoes/
-/public/data/exams.json
 
 # macOS & OS Metadata
 .DS_Store

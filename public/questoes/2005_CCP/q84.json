@@ -1,0 +1,50 @@
+{
+  "id_questao": "q84",
+  "numero": 84,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    31
+  ],
+  "segmentos": [
+    {
+      "pagina": 31,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 396.3665466308594,
+      "coluna": 0
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q84.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q84.txt",
+  "largura": 2306,
+  "altura": 1516,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 84\nConsidere que uma empresa esteja projetando um protocolo da camada de rede. Considere, ainda, que a equipe de projeto tenha\nproposto o seguinte conjunto de requisitos.\nI\nO protocolo deve prover um serviço de comunicação não-orientado a conexão e sem garantia da entrega. O protocolo não é\nresponsável por ordenar os datagramas que, embora recebidos com sucesso, estejam fora da ordem em que foram transmitidos.\nII\nOs datagramas devem conter, além dos endereços de rede das máquinas, números que identifiquem as entidades nas máquinas de\norigem e destino para distinguirem as entidades nas máquinas envolvidas em uma comunicação.\nIII O protocolo deve evitar que as aplicações tenham de definir os formatos usados para representar os dados nas máquinas. Na\ntransmissão, o protocolo deve converter os dados de um formato específico de máquina para um formato independente de máquina.\nNa recepção, deve converter de um formato independente de máquina para um formato específico de máquina.\nIV O protocolo poderá fragmentar um datagrama na origem e remontá-lo no destino, para que dados sejam transmitidos por meio de\nredes cujas camadas físicas tenham tamanhos variados para as unidades máximas de transferência (maximum transfer unit). \nV\nO protocolo deve implementar o controle de acesso ao meio de transmissão. Antes de transmitir, deve aguardar o meio de\ntransmissão ficar livre. Se outras máquinas tentarem transmitir ao mesmo tempo, ele deve enviar um sinal para garantir que as\nmáquinas detectem a colisão. Em seguida, deve aguardar e novamente tentar transmitir.\nEntre os requisitos propostos pela equipe de projeto, estão adequados para um um protocolo da camada de rede os requisitos \nA I, II e IV.\nB I, III e V.\nC I, IV e V.\nD II, III e IV.\nE II, IV e V.\nQU ESTÃ O 85 – DISC URSIVA\nEm sistemas distribuídos, é necessário, muitas vezes, resolver problemas decorrentes do fato de diferentes plataformas\npoderem adotar diferentes formas para representar os dados.\nA respeito de sistemas distribuídos heterogêneos, faça o que se pede a seguir.\na) Apresente exemplos das diferenças nas formas de representação dos dados que podem causar problemas em sistemas distribuídos.\n(valor: 5,0 pontos)\nb) Explique o que é eXternal Data Representation (XDR) e como uma biblioteca XDR pode ser usada em chamadas a procedimentos\nremotos. (valor: 5,0 pontos)",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 84,
+      "tipo": "OBJETIVA",
+      "pagina": 31,
+      "x": 41.63999938964844,
+      "y": 41.835601806640625,
+      "x1": 88.06800079345703,
+      "y1": 47.83560562133789,
+      "coluna": 0,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 84"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297738"
+}

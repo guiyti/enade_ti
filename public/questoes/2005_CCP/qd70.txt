@@ -1,0 +1,54 @@
+QUESTÃO 70 – DISC URSIVA
+A máquina finita de estados (MFE) cujo diagrama é 
+reconhece seqüências de caracteres compostos pelas letras I
+representam, em notação romana, números correspondentes a
+1 a 9, na notação arábica. Considere que todas as sentenças 
+MFE representam números romanos válidos, ou seja, a M
+mecanismo de tratamento de erros. Observe a corresp
+representação dos alfabetos romano e arábito fornecida pela t
+alfabeto
+ Notação:
+romano
+arábico
+  
+estado
+         
+estado
+         
+n é o 
+   
+transi
+I
+  1
+V
+  5
+X
+ 10
+L
+50
+C
+100
+D
+500
+Considerando essas informações, estenda a MFE apresentada acim
+a) reconhecer números no alfabeto romano correspondentes aos n
+(valor: 5,0 pontos)
+b) reconhecer números no alfabeto romano correspondentes ao
+estados. (valor: 5,0 pontos)
+
+visto ao lado
+V e X, que
+o intervalo de
+e entrada da
+FE não tem
+ondência da
+bela abaixo.
+inicial
+final j
+úmero máximo de transições possíveis no respectivo estado
+ão após reconhecimento do caractere "
+ma para:
+úmeros de 1 a 20 no alfabeto arábico, com no máximo oito estados.
+
+As questões de 71 a 85, a seguir, são específicas pa
+ENGENHARIA DE

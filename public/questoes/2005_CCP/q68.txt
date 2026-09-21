@@ -1,0 +1,46 @@
+QUESTÃO 68
+Suponha que uma empresa esteja projetando um protocolo de
+transporte orientado a conexão. Suponha, ainda, que os projetistas
+tenham pouca experiência e que alguns requisitos originalmente
+listados não sejam típicos de um protocolo de transporte
+orientado a conexão. A seguir, apresenta-se a lista dos
+requisitos propostos pela equipe de projetistas.
+I
+O protocolo deve controlar a transmissão por meio de
+mecanismo de janela deslizante (sliding window). Vários
+pacotes poderão ser enviados antes de a origem aguardar uma
+confirmação de recepção. O número máximo de pacotes
+transmitidos antes de uma confirmação ser recebida será
+variável, o que possibilitará o controle do fluxo dos dados. 
+II
+O protocolo deve rotear os pacotes entre redes interligadas.
+O roteamento deve ser realizado a partir das informações em
+tabelas de roteamento. Em uma tabela de roteamento, cada
+entrada deve conter o endereço de um destino e o endereço da
+próxima máquina para a qual os pacotes devem ser enviados,
+de modo a serem encaminhados para o destino.
+III Uma comunicação passará por três fases: estabelecimento da
+conexão, transferência dos dados e término da conexão. O
+protocolo manterá informações sobre uma conexão em uma
+estrutura de dados. Uma instância dessa estrutura será alocada
+quando uma conexão for estabelecida e será liberada quando
+a conexão for terminada.
+IV O protocolo deve calcular dinamicamente o tempo (timeout)
+que a origem de um pacote deve aguardar até retransmitir a
+informação 
+caso 
+a 
+recepção 
+não 
+seja 
+confirmada,
+possibilitando que atrasos variáveis sejam acomodados. Isso
+deverá ser feito por meio de um algoritmo de retransmissão
+adaptativo que periodicamente ajuste o timeout.
+Para um protocolo de transporte orientado a conexão, são
+adequados apenas os requisitos
+A I e II.
+B I e IV.
+C II e III.
+D I, III e IV.
+E II, III e IV.

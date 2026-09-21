@@ -1,0 +1,25 @@
+QUESTÃO 59
+Considere o seguinte esquema relacional para o banco de dados de um grande banco com cobertura nacional.
+AGENCIAS(NOME_AGENCIA, CIDADE_AGENCIA, FUNDOS);
+CONTAS(NOME_AGENCIA, NUMERO_CONTA, SALDO) NOME_AGENCIA REFERENCIA AGENCIAS;
+CLIENTES(NOME_CLIENTE, CIDADE_NASCIMENTO, NUMERO_CONTA) NUMERO_CONTA REFERENCIA CONTAS;
+Considere, ainda, que os atributos sublinhados correspondam às chaves primárias das respectivas relações e, após as definições das
+relações CONTAS e CLIENTES, sejam descritas as regras de integridade referenciais. Suponha que o banco de dados armazene
+informações de 500 agências, de 1.000.000 de contas e de 1.500.000 clientes, sendo que 200.000 contas são de agências da cidade
+de São Paulo e 100.000 clientes nasceram em Recife. Considere, finalmente, que esse sistema de banco de dados tenha um otimizador
+de consultas embasado em heurísticas e que se precise realizar a seguinte consulta.
+SELECT * 
+FROM AGENCIAS, CONTAS, CLIENTES
+WHERE CONTAS.NOME_AGENCIA = AGENCIAS.NOME_AGENCIA
+ AND CLIENTES.NUMERO_CONTA = CONTAS.NUMERO_CONTA
+ AND CIDADE_AGENCIA = ‘SAO PAULO’
+ AND CIDADE_NASCIMENTO = ‘RECIFE’
+ AND SALDO > 1000;
+A partir dessas informações e considerando 
+ o operador de junção natural e F o operador de seleção, assinale a opção que apresenta
+o melhor plano de avaliação de consultas para a consulta apresentada acima.
+A
+D
+B
+E
+C

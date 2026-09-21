@@ -1,0 +1,44 @@
+QUESTÃO 69
+A rede de uma empresa cujo esquema está ilustrado
+acima é composta por 4 redes TCP/IP locais. Essas redes
+TCP/IP são interligadas por uma rede X.25, que opera
+como túnel para as 4 redes. As placas dos computadores
+pertencentes a essas redes são numeradas com endereços IP
+das redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a
+rede no acesso à Internet, sendo que, a partir de qualquer
+máquina na rede, pode-se acessar a Internet. 
+A partir dessas informações, julgue os itens a seguir, relativos à
+rede da referida empresa, considerando o seu correto
+funcionamento.
+I
+É correto utilizar a máscara 255.255.0.0 para segmentar a
+rede.
+II
+Os endereços de E1 a E9 podem ser endereços na rede
+10.0.0.0.
+III
+Os endereços E2, E4, E5 e E7 devem estar em uma mesma
+sub-rede.
+IV
+O endereço E10 deve ser um endereço na rede 164.41.0.0.
+V
+O firewall deve traduzir entre os endereços na rede 10.0.0.0
+e os endereços na rede 164.41.0.0.
+VI
+Os pacotes X.25 são transferidos dentro de pacotes IP.
+VII Não devem ter sido atribuídos endereços X.25 aos
+roteadores 1, 2, 3 e 4.
+VIII A rota default nas tabelas de roteamento dos roteadores
+1, 3 e 4 é o endereço E4.
+IX
+A rota default na tabela de roteamento do roteador 2 é o
+endereço E10.
+X
+Os endereços na rede 10.0.0.0 são visíveis pelas máquinas
+que estiverem na Internet.
+Estão certos apenas os itens
+A I, II, III, V, VIII e X.
+B I, II, III, IV, V e VIII.
+C II, IV, V, VIII, IX e X.
+D III, V, VI, VII, VIII e IX.
+E III, IV, V, VII, VIII e IX.

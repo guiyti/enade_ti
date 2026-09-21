@@ -1,0 +1,32 @@
+QUESTÃO 37
+O gerente de desenvolvimento de uma empresa de
+TI examinou a seguinte planilha sobre andamento de
+projetos.
+projeto
+percentual
+completado (em %)
+percentual do orçamento
+já despendido (em %)
+P1
+50
+70
+P2
+80
+65
+Com base nessa planilha e com relação aos conceitos de dado,
+informação e conhecimento, julgue os itens que se seguem.
+I
+O número 65, na célula inferior direita, é um dado.
+II
+Associar o número 80 (célula inferior central) ao percentual
+completado (em %) e a P2, e concluir que o projeto P2 está
+80% completado é um conhecimento.
+III Dizer que P1 está adiantado ou atrasado é uma informação.
+IV Dizer o quanto P1 vai precisar a mais do que foi
+inicialmente previsto no orçamento é um conhecimento.
+Estão certos apenas os itens
+A I e II.
+B I e IV.
+C II e III.
+D II e IV.
+E III e IV.

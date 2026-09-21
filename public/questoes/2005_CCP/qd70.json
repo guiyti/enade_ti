@@ -1,0 +1,74 @@
+{
+  "id_questao": "qd70",
+  "numero": 70,
+  "tipo": "DISCURSIVA",
+  "paginas": [
+    27,
+    28
+  ],
+  "segmentos": [
+    {
+      "pagina": 27,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    },
+    {
+      "pagina": 27,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 343.20654296875,
+      "coluna": 2
+    },
+    {
+      "pagina": 28,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 70.19558715820312,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/qd70.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/qd70.txt",
+  "largura": 1156,
+  "altura": 4590,
+  "confianca": 0.85,
+  "texto_completo": "QUESTÃO 70 – DISC URSIVA\nA máquina finita de estados (MFE) cujo diagrama é \nreconhece seqüências de caracteres compostos pelas letras I\nrepresentam, em notação romana, números correspondentes a\n1 a 9, na notação arábica. Considere que todas as sentenças \nMFE representam números romanos válidos, ou seja, a M\nmecanismo de tratamento de erros. Observe a corresp\nrepresentação dos alfabetos romano e arábito fornecida pela t\nalfabeto\n Notação:\nromano\narábico\n  \nestado\n         \nestado\n         \nn é o \n   \ntransi\nI\n  1\nV\n  5\nX\n 10\nL\n50\nC\n100\nD\n500\nConsiderando essas informações, estenda a MFE apresentada acim\na) reconhecer números no alfabeto romano correspondentes aos n\n(valor: 5,0 pontos)\nb) reconhecer números no alfabeto romano correspondentes ao\nestados. (valor: 5,0 pontos)\n\nvisto ao lado\nV e X, que\no intervalo de\ne entrada da\nFE não tem\nondência da\nbela abaixo.\ninicial\nfinal j\número máximo de transições possíveis no respectivo estado\não após reconhecimento do caractere \"\nma para:\números de 1 a 20 no alfabeto arábico, com no máximo oito estados.\n\nAs questões de 71 a 85, a seguir, são específicas pa\nENGENHARIA DE",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2005_CCP/figuras/qd70_fig1.jpeg",
+    "/questoes/2005_CCP/figuras/qd70_fig2.jpeg",
+    "/questoes/2005_CCP/figuras/qd70_fig3.jpeg",
+    "/questoes/2005_CCP/figuras/qd70_fig4.jpeg",
+    "/questoes/2005_CCP/figuras/qd70_fig5.jpeg",
+    "/questoes/2005_CCP/figuras/qd70_fig6.jpeg"
+  ],
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 70,
+      "tipo": "DISCURSIVA",
+      "pagina": 27,
+      "x": 40.08000183105469,
+      "y": 43.275604248046875,
+      "x1": 138.8040008544922,
+      "y1": 49.27560806274414,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.85,
+      "texto_original": "QUESTÃO 70 – DISC URSIVA"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297650"
+}

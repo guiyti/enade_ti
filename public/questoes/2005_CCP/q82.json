@@ -1,0 +1,52 @@
+{
+  "id_questao": "q82",
+  "numero": 82,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    30
+  ],
+  "segmentos": [
+    {
+      "pagina": 30,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 568.7356567382812,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q82.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q82.txt",
+  "largura": 1156,
+  "altura": 2235,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 82\nConsidere que, em uma rede WLAN, a função de\ndensidade de probabilidade (PDF) de erro de bit na\ntransmissão entre um computador conectado à rede e o\nerro\nponto de acesso (access point) — p\n(d) — seja dada\npela função cujo gráfico está mostrado acima, em que d\n$ 0 é a distância entre o ponto de acesso e o\ncomputador.\nConsiderando essas informações, julgue os itens a seguir.\nI\nA probabilidade de erro de bit na transmissão no caso de o\n0\ncomputador estar localizado à distância d é dada\npor \n.\nII\nSabendo-se que a média da distribuição correspondente\nà PDF acima mencionada é igual a x, conclui-se que é de\n0,5 a probabilidade de erro de bit na transmissão no caso\nde o computador estar localizado à distância d = x.\nIII Supondo-se que o sistema de transmissão seja binário, as\ninformações \napresentadas \nsão \nsuficientes \npara \nse\nconcluir que a probabilidade de erro dado que foi enviado\num bit 1 é igual à probabilidade de erro dado que foi\nenviado um bit 0. \nAssinale a opção correta.\nA Apenas um item está certo.\nB Apenas os itens I e II estão certos.\nC Apenas os itens I e III estão certos.\nD Apenas os itens II e III estão certos.\nE Todos os itens estão certos.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2005_CCP/figuras/q82_fig1.jpeg"
+  ],
+  "categorias": [
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 82,
+      "tipo": "OBJETIVA",
+      "pagina": 30,
+      "x": 320.2200012207031,
+      "y": 44.835601806640625,
+      "x1": 366.64801025390625,
+      "y1": 50.83560562133789,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 82"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297726"
+}

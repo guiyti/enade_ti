@@ -1,0 +1,26 @@
+QUESTÃO 79
+xpto( [ ], R, R ).
+xpto( [H | T1], Y, [H | T2] ) :- xpto( T1, Y, T2 )
+zpto( X, [X|Y] ).
+zpto( X, [Y|Z] ) :- zpto( X, Z ).
+Com relação aos predicados escritos em Prolog acima, julgue o
+itens a seguir.
+I
+A execução de xpto([1,2,3],[ ], F) conclui com sucess
+instanciando F para [1,2,3].
+II
+A execução de zpto(5,[1,2,3] ) conclui sem sucesso.
+III A 
+execução 
+de 
+zpto(X,[1,2,3]) 
+conclui 
+com 
+sucesso
+instanciando X para 1. 
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

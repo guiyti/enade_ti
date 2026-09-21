@@ -1,0 +1,50 @@
+{
+  "id_questao": "q68",
+  "numero": 68,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 792.8,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q68.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q68.txt",
+  "largura": 1155,
+  "altura": 3168,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 68\nSuponha que uma empresa esteja projetando um protocolo de\ntransporte orientado a conexão. Suponha, ainda, que os projetistas\ntenham pouca experiência e que alguns requisitos originalmente\nlistados não sejam típicos de um protocolo de transporte\norientado a conexão. A seguir, apresenta-se a lista dos\nrequisitos propostos pela equipe de projetistas.\nI\nO protocolo deve controlar a transmissão por meio de\nmecanismo de janela deslizante (sliding window). Vários\npacotes poderão ser enviados antes de a origem aguardar uma\nconfirmação de recepção. O número máximo de pacotes\ntransmitidos antes de uma confirmação ser recebida será\nvariável, o que possibilitará o controle do fluxo dos dados. \nII\nO protocolo deve rotear os pacotes entre redes interligadas.\nO roteamento deve ser realizado a partir das informações em\ntabelas de roteamento. Em uma tabela de roteamento, cada\nentrada deve conter o endereço de um destino e o endereço da\npróxima máquina para a qual os pacotes devem ser enviados,\nde modo a serem encaminhados para o destino.\nIII Uma comunicação passará por três fases: estabelecimento da\nconexão, transferência dos dados e término da conexão. O\nprotocolo manterá informações sobre uma conexão em uma\nestrutura de dados. Uma instância dessa estrutura será alocada\nquando uma conexão for estabelecida e será liberada quando\na conexão for terminada.\nIV O protocolo deve calcular dinamicamente o tempo (timeout)\nque a origem de um pacote deve aguardar até retransmitir a\ninformação \ncaso \na \nrecepção \nnão \nseja \nconfirmada,\npossibilitando que atrasos variáveis sejam acomodados. Isso\ndeverá ser feito por meio de um algoritmo de retransmissão\nadaptativo que periodicamente ajuste o timeout.\nPara um protocolo de transporte orientado a conexão, são\nadequados apenas os requisitos\nA I e II.\nB I e IV.\nC II e III.\nD I, III e IV.\nE II, III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 68,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 44.279998779296875,
+      "y": 44.835601806640625,
+      "x1": 90.70800018310547,
+      "y1": 50.83560562133789,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 68"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297636"
+}

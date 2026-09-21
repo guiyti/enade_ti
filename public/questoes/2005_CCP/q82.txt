@@ -1,0 +1,38 @@
+QUESTÃO 82
+Considere que, em uma rede WLAN, a função de
+densidade de probabilidade (PDF) de erro de bit na
+transmissão entre um computador conectado à rede e o
+erro
+ponto de acesso (access point) — p
+(d) — seja dada
+pela função cujo gráfico está mostrado acima, em que d
+$ 0 é a distância entre o ponto de acesso e o
+computador.
+Considerando essas informações, julgue os itens a seguir.
+I
+A probabilidade de erro de bit na transmissão no caso de o
+0
+computador estar localizado à distância d é dada
+por 
+.
+II
+Sabendo-se que a média da distribuição correspondente
+à PDF acima mencionada é igual a x, conclui-se que é de
+0,5 a probabilidade de erro de bit na transmissão no caso
+de o computador estar localizado à distância d = x.
+III Supondo-se que o sistema de transmissão seja binário, as
+informações 
+apresentadas 
+são 
+suficientes 
+para 
+se
+concluir que a probabilidade de erro dado que foi enviado
+um bit 1 é igual à probabilidade de erro dado que foi
+enviado um bit 0. 
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

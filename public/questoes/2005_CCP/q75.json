@@ -1,0 +1,52 @@
+{
+  "id_questao": "q75",
+  "numero": 75,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    29
+  ],
+  "segmentos": [
+    {
+      "pagina": 29,
+      "x0": 25.0,
+      "y0": 39.8,
+      "x1": 295.08,
+      "y1": 340.79559326171875,
+      "coluna": 1
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q75.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q75.txt",
+  "largura": 1155,
+  "altura": 1285,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 75\nUm engenheiro de uma companhia fabricante de\nmemórias semicondutoras estudou o comportamento\ndo custo em função do número de bits da fabricação de\num chip de memória RAM com determinada\ntecnologia. \nEle \nchegou \nà \nconclusão \nde \nque,\nconsiderando-se a evolução tecnológica, o custo C(x),\nexpresso em determinada unidade monetária, de um\nchip de memória RAM com x bits, na data de conclusão\ndo processo de fabricação, seria determinado pela\nequação\nConsiderando-se que o modelo desenvolvido pelo engenheiro\nesteja correto, caso a empresa decida pelo chip de menor\ncusto, ela deverá optar por um chip com memória de\ncapacidade de \nA 256 megabits.\nB 512 megabits.\nC 1.024 megabits.\nD 2.048 megabits.\nE 4.096 megabits.\nQ\nO\nid\na \nde\nse\ntra\nA\nB\nC",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2005_CCP/figuras/q75_fig1.jpeg"
+  ],
+  "categorias": [
+    "Arquitetura e Organização de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 75,
+      "tipo": "OBJETIVA",
+      "pagina": 29,
+      "x": 40.439998626708984,
+      "y": 44.835601806640625,
+      "x1": 86.86800384521484,
+      "y1": 50.83560562133789,
+      "coluna": 1,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 75"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297683"
+}

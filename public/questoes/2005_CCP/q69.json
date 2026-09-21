@@ -1,0 +1,52 @@
+{
+  "id_questao": "q69",
+  "numero": 69,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    26
+  ],
+  "segmentos": [
+    {
+      "pagina": 26,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 792.7632446289062,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q69.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q69.txt",
+  "largura": 1156,
+  "altura": 3168,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 69\nA rede de uma empresa cujo esquema está ilustrado\nacima é composta por 4 redes TCP/IP locais. Essas redes\nTCP/IP são interligadas por uma rede X.25, que opera\ncomo túnel para as 4 redes. As placas dos computadores\npertencentes a essas redes são numeradas com endereços IP\ndas redes 10.0.0.0 ou 164.41.0.0. Um firewall protege a\nrede no acesso à Internet, sendo que, a partir de qualquer\nmáquina na rede, pode-se acessar a Internet. \nA partir dessas informações, julgue os itens a seguir, relativos à\nrede da referida empresa, considerando o seu correto\nfuncionamento.\nI\nÉ correto utilizar a máscara 255.255.0.0 para segmentar a\nrede.\nII\nOs endereços de E1 a E9 podem ser endereços na rede\n10.0.0.0.\nIII\nOs endereços E2, E4, E5 e E7 devem estar em uma mesma\nsub-rede.\nIV\nO endereço E10 deve ser um endereço na rede 164.41.0.0.\nV\nO firewall deve traduzir entre os endereços na rede 10.0.0.0\ne os endereços na rede 164.41.0.0.\nVI\nOs pacotes X.25 são transferidos dentro de pacotes IP.\nVII Não devem ter sido atribuídos endereços X.25 aos\nroteadores 1, 2, 3 e 4.\nVIII A rota default nas tabelas de roteamento dos roteadores\n1, 3 e 4 é o endereço E4.\nIX\nA rota default na tabela de roteamento do roteador 2 é o\nendereço E10.\nX\nOs endereços na rede 10.0.0.0 são visíveis pelas máquinas\nque estiverem na Internet.\nEstão certos apenas os itens\nA I, II, III, V, VIII e X.\nB I, II, III, IV, V e VIII.\nC II, IV, V, VIII, IX e X.\nD III, V, VI, VII, VIII e IX.\nE III, IV, V, VII, VIII e IX.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [
+    "/questoes/2005_CCP/figuras/q69_fig1.jpeg"
+  ],
+  "categorias": [
+    "Redes de Computadores"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 69,
+      "tipo": "OBJETIVA",
+      "pagina": 26,
+      "x": 310.260009765625,
+      "y": 44.835601806640625,
+      "x1": 356.6880187988281,
+      "y1": 50.83560562133789,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 69"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297642"
+}

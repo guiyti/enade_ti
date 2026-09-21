@@ -1,0 +1,19 @@
+QUESTÃO 19
+Julgue os itens seguintes.
+I
+(x P(x)) v (x ¬P(x)) é uma sentença válida porque existe
+uma interpretação que a torna verdadeira.
+II
+A frase “Se um carro é mais caro que todos os carros
+nacionais, ele deve ser alemão” pode ser traduzida pela
+seguinte sentença: x carro(x)  y [carro(y)  fabricado(y,
+Brasil)  (preco(x) > preco(y)) Y fabricado(x, Alemanha).
+III A frase “Existe um aluno que gosta de todas as disciplinas
+difíceis” pode ser traduzida por: x aluno(x)  y
+[disciplina(y)  difícil(y)]  gosta(x, y).
+Assinale a opção correta.
+A Apenas um item está certo.
+B Apenas os itens I e II estão certos.
+C Apenas os itens I e III estão certos.
+D Apenas os itens II e III estão certos.
+E Todos os itens estão certos.

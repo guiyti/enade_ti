@@ -1,0 +1,50 @@
+{
+  "id_questao": "q22",
+  "numero": 22,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    10
+  ],
+  "segmentos": [
+    {
+      "pagina": 10,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 247.19558715820312,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q22.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q22.txt",
+  "largura": 1156,
+  "altura": 895,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 22\nCom relação ao gerenciamento de memória com paginação em\nistemas operacionais, assinale a opção correta.\nA As páginas utilizadas por um processo, sejam de código ou de\ndados, devem ser obrigatoriamente armazenadas na partição de\nswap do disco, quando o processo não estiver sendo executado.\nB Todas as páginas de um processo em execução devem ser\nmantidas na memória física enquanto o processo não tiver\nterminado.\nC Um processo somente pode ser iniciado se o sistema\noperacional conseguir alocar um bloco contíguo de páginas do\ntamanho da memória necessária para execução do processo.\nD O espaço de endereçamento virtual disponível para os processos\npode ser maior que a memória física disponível.\nE Um processo somente pode ser iniciado se o sistema\noperacional conseguir alocar todas as páginas de código\ndesse processo.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [
+    "Sistemas Operacionais"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 22,
+      "tipo": "OBJETIVA",
+      "pagina": 10,
+      "x": 301.5,
+      "y": 44.835601806640625,
+      "x1": 347.9280090332031,
+      "y1": 50.83560562133789,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 22"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297330"
+}

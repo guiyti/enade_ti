@@ -1,0 +1,50 @@
+{
+  "id_questao": "q37",
+  "numero": 37,
+  "tipo": "OBJETIVA",
+  "paginas": [
+    13
+  ],
+  "segmentos": [
+    {
+      "pagina": 13,
+      "x0": 301.08,
+      "y0": 39.8,
+      "x1": 571.16,
+      "y1": 394.55560302734375,
+      "coluna": 2
+    }
+  ],
+  "caminho_png": "/questoes/2005_CCP/q37.png",
+  "caminho_json": "",
+  "caminho_txt": "/Users/guiyti/Desktop/ENADE/public/questoes/2005_CCP/q37.txt",
+  "largura": 1156,
+  "altura": 1509,
+  "confianca": 0.9,
+  "texto_completo": "QUESTÃO 37\nO gerente de desenvolvimento de uma empresa de\nTI examinou a seguinte planilha sobre andamento de\nprojetos.\nprojeto\npercentual\ncompletado (em %)\npercentual do orçamento\njá despendido (em %)\nP1\n50\n70\nP2\n80\n65\nCom base nessa planilha e com relação aos conceitos de dado,\ninformação e conhecimento, julgue os itens que se seguem.\nI\nO número 65, na célula inferior direita, é um dado.\nII\nAssociar o número 80 (célula inferior central) ao percentual\ncompletado (em %) e a P2, e concluir que o projeto P2 está\n80% completado é um conhecimento.\nIII Dizer que P1 está adiantado ou atrasado é uma informação.\nIV Dizer o quanto P1 vai precisar a mais do que foi\ninicialmente previsto no orçamento é um conhecimento.\nEstão certos apenas os itens\nA I e II.\nB I e IV.\nC II e III.\nD II e IV.\nE III e IV.",
+  "texto_enunciado": "",
+  "alternativas": {},
+  "figuras": [],
+  "categorias": [
+    "Algoritmos e Estruturas de Dados"
+  ],
+  "status": "PENDENTE",
+  "marcadores": [
+    {
+      "numero": 37,
+      "tipo": "OBJETIVA",
+      "pagina": 13,
+      "x": 315.05999755859375,
+      "y": 44.835601806640625,
+      "x1": 361.4880065917969,
+      "y1": 50.83560562133789,
+      "coluna": 2,
+      "metodo": "PDF_STRUCTURE",
+      "confianca": 0.9,
+      "texto_original": "QUESTÃO 37"
+    }
+  ],
+  "anomalias": [],
+  "score": 0.0,
+  "criado_em": "2026-08-28T14:51:08.297428"
+}
