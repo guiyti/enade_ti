@@ -1,0 +1,30 @@
+Depurar: blackboard.persist.KeyNotFoundException: O arquivo ou pasta de destino (/xid-295241414_1) não existe ou o usuário não possui permissão de leitura|gravação.
+	at blackboard.cms.platform.contentsystem.manager.impl.FileSystemEntryUtil.loadFSE(FileSystemEntryUtil.java:73)
+	at blackboard.cms.platform.contentsystem.manager.impl.FileSystemEntryUtil.loadFSEWithViewEntitlement(FileSystemEntryUtil.java:90)
+	at blackboard.cms.platform.contentsystem.manager.impl.DocumentManagerImpl.loadResource(DocumentManagerImpl.java:1671)
+	at blackboard.cms.platform.contentsystem.manager.impl.DocumentManagerImpl.loadResource(DocumentManagerImpl.java:1661)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at blackboard.platform.security.PrivilegedActionInvocationHandler.lambda$invoke$0(PrivilegedActionInvocationHandler.java:78)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:319)
+	at blackboard.platform.security.PrivilegedActionInvocationHandler.invoke(PrivilegedActionInvocationHandler.java:75)
+	at jdk.proxy3/jdk.proxy3.$Proxy53.loadResource(Unknown Source)
+	at blackboard.apps.cx.module.ExModule.addXythosDocument(ExModule.java:416)
+	at blackboard.apps.cx.module.CourseSettingExModule.doExport(CourseSettingExModule.java:70)
+	at blackboard.apps.cx.Exporter.exportCourseSettings(Exporter.java:538)
+	at blackboard.apps.cx.Exporter.execute(Exporter.java:268)
+	at blackboard.apps.cx.Cx.invoke(Cx.java:377)
+	at blackboard.apps.cx.BaseCxQueuedOperation.execute(BaseCxQueuedOperation.java:98)
+	at blackboard.platform.queue.QueuedTaskManager.processTask(QueuedTaskManager.java:866)
+	at blackboard.platform.queue.QueuedTaskManager$QueuedTaskMonitor.lambda$onRun$0(QueuedTaskManager.java:1425)
+	at blackboard.db.LeakCheckRunnable.onRun(LeakCheckRunnable.java:58)
+	at blackboard.db.LeakCheckRunnable.run(LeakCheckRunnable.java:39)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+Aviso: Não foi possível localizar a faixa denominada  /xid-295241414_1 no sistema e, logo, não vai ser copiada.
+Informações: Video studio quiz is being exported for PkId{key=_1163326_1, dataType=blackboard.data.course.Course, container=blackboard.persist.DatabaseContainer@3af6d99}
+Informações: Video Integration is being exported

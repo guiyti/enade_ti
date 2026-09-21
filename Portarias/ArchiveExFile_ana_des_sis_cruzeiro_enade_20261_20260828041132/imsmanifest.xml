@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="man00001" xmlns:bb="http://www.blackboard.com/content-packaging/"><organizations
+   default="toc00001"><organization identifier="toc00001"><item identifier="itm00001"
+     identifierref="res00005"><title>ROOT</title><item identifier="itm00004"
+      identifierref="res00017"><title>--TOP--</title><item identifier="itm00005"
+       identifierref="res00018"><title>Comece Por Aqui (Ações Obrigatórias)</title><item identifier="itm00012"
+        identifierref="res00025"><title>ENADE? O que é isso?</title><item identifier="itm00019"
+       identifierref="res00032"><title>ultraDocumentBody</title></item></item><item identifier="itm00013"
+        identifierref="res00026"><title>Passo a Passo: Como preencher o Cadastro e o Questionário</title><item
+        identifier="itm00020" identifierref="res00033"><title>ultraDocumentBody</title></item></item><item
+       identifier="itm00016" identifierref="res00029"><title>Sistema ENADE - INEP</title></item></item><item
+      identifier="itm00006"
+       identifierref="res00019"><title>Treinos e Pílulas de Conhecimento (Microlearning)</title><item
+       identifier="itm00010" identifierref="res00023"><title>Formação Geral</title></item><item identifier="itm00014"
+      identifierref="res00027"><title>Formação Específica do Curso</title></item></item><item identifier="itm00007"
+       identifierref="res00020"><title>Dúvidas Frequentes</title><item identifier="itm00009"
+       identifierref="res00022"><title>Canal oficial do WhatsApp para comunicações rápidas.</title></item><item
+       identifier="itm00015" identifierref="res00028"><title>FAQ</title><item identifier="itm00018"
+       identifierref="res00031"><title>ultraDocumentBody</title></item></item><item identifier="itm00017"
+      identifierref="res00030"><title>Edital Oficial</title></item></item><item identifier="itm00008"
+       identifierref="res00021"><title>O Dia da Prova</title><item identifier="itm00011"
+    identifierref="res00024"><title>Consulta ao local de prova / Cartão de Confirmação de Inscrição</title></item></item></item></item><item
+    identifier="itm00002" identifierref="res00006"><title>INTERACTIVE</title><item identifier="itm00021"
+    identifierref="res00034"><title>--TOP--</title></item></item><item identifier="itm00003"
+     identifierref="res00007"><title>INDIRECT</title><item identifier="itm00022"
+   identifierref="res00035"><title>--TOP--</title></item></item></organization></organizations><resources><resource
+   bb:file="res00001.dat" bb:title="Central ENADE 2026 (ADS)" identifier="res00001" type="course/x-bb-coursesetting"
+   xml:base="res00001"/><resource bb:file="res00002.dat" bb:title="Learning Standard Sub Document Associations"
+   identifier="res00002" type="course/x-bb-subdocassociation" xml:base="res00002"/><resource bb:file="res00003.dat"
+   bb:title="Course Application Settings" identifier="res00003" type="course/x-bb-courseappsetting"
+   xml:base="res00003"/><resource bb:file="res00004.dat" bb:title="Course Navigation Settings" identifier="res00004"
+   type="course/x-bb-coursenavsetting" xml:base="res00004"/><resource bb:file="res00005.dat" bb:title="ROOT"
+   identifier="res00005" type="course/x-bb-coursetoc" xml:base="res00005"/><resource bb:file="res00006.dat"
+   bb:title="INTERACTIVE" identifier="res00006" type="course/x-bb-coursetoc" xml:base="res00006"/><resource
+   bb:file="res00007.dat" bb:title="INDIRECT" identifier="res00007" type="course/x-bb-coursetoc"
+   xml:base="res00007"/><resource bb:file="res00008.dat" bb:title="Content Handler Data" identifier="res00008"
+   type="course/x-bb-contenthandler" xml:base="res00008"/><resource bb:file="res00009.dat" bb:title="Users"
+   identifier="res00009" type="course/x-bb-user" xml:base="res00009"/><resource bb:file="res00010.dat"
+   bb:title="Course Memberships" identifier="res00010" type="membership/x-bb-coursemembership"
+   xml:base="res00010"/><resource bb:file="res00011.dat"
+   bb:title="⏱️ ENADE 2026: Contagem regressiva e regras importantes" identifier="res00011"
+   type="resource/x-bb-announcement" xml:base="res00011"/><resource bb:file="res00012.dat"
+   bb:title="&#x1f680; ENADE 2026: Liberação dos seus Treinos Rápidos no Blackboard!" identifier="res00012"
+   type="resource/x-bb-announcement" xml:base="res00012"/><resource bb:file="res00013.dat"
+   bb:title="&#x1f4cd; Onde você vai fazer a prova? Cartão de Confirmação Liberado!" identifier="res00013"
+   type="resource/x-bb-announcement" xml:base="res00013"/><resource bb:file="res00014.dat"
+   bb:title="&#x1f393; Bem-vindo ao Programa ENADE 2026!" identifier="res00014" type="resource/x-bb-announcement"
+    xml:base="res00014"><file href="announcements/_4280642_1/Imagem_Blackboard.png"/></resource><resource
+   bb:file="res00015.dat" bb:title="Announcement Status" identifier="res00015" type="resource/x-bb-announcementstatus"
+   xml:base="res00015"/><resource bb:file="res00016.dat" bb:title="Conferences" identifier="res00016"
+   type="resource/x-bb-conference" xml:base="res00016"/><resource bb:file="res00017.dat" bb:title="--TOP--"
+   identifier="res00017" type="resource/x-bb-document" xml:base="res00017"/><resource bb:file="res00018.dat"
+   bb:title="Comece Por Aqui (Ações Obrigatórias)" identifier="res00018" type="resource/x-bb-document"
+    xml:base="res00018"><file href="thumbnail.png"/></resource><resource bb:file="res00019.dat"
+   bb:title="Treinos e Pílulas de Conhecimento (Microlearning)" identifier="res00019" type="resource/x-bb-document"
+    xml:base="res00019"><file href="thumbnail.png"/></resource><resource bb:file="res00020.dat"
+   bb:title="Dúvidas Frequentes" identifier="res00020" type="resource/x-bb-document" xml:base="res00020"><file
+   href="thumbnail.png"/></resource><resource bb:file="res00021.dat" bb:title="O Dia da Prova" identifier="res00021"
+   type="resource/x-bb-document" xml:base="res00021"><file href="thumbnail.png"/></resource><resource
+   bb:file="res00022.dat" bb:title="Canal oficial do WhatsApp para comunicações rápidas." identifier="res00022"
+   type="resource/x-bb-document" xml:base="res00022"/><resource bb:file="res00023.dat" bb:title="Formação Geral"
+   identifier="res00023" type="resource/x-bb-document" xml:base="res00023"/><resource bb:file="res00024.dat"
+   bb:title="Consulta ao local de prova / Cartão de Confirmação de Inscrição" identifier="res00024"
+   type="resource/x-bb-document" xml:base="res00024"/><resource bb:file="res00025.dat" bb:title="ENADE? O que é isso?"
+   identifier="res00025" type="resource/x-bb-document" xml:base="res00025"/><resource bb:file="res00026.dat"
+   bb:title="Passo a Passo: Como preencher o Cadastro e o Questionário" identifier="res00026"
+   type="resource/x-bb-document" xml:base="res00026"/><resource bb:file="res00027.dat"
+   bb:title="Formação Específica do Curso" identifier="res00027" type="resource/x-bb-document"
+   xml:base="res00027"/><resource bb:file="res00028.dat" bb:title="FAQ" identifier="res00028"
+   type="resource/x-bb-document" xml:base="res00028"/><resource bb:file="res00029.dat" bb:title="Sistema ENADE - INEP"
+   identifier="res00029" type="resource/x-bb-document" xml:base="res00029"/><resource bb:file="res00030.dat"
+   bb:title="Edital Oficial" identifier="res00030" type="resource/x-bb-document" xml:base="res00030"/><resource
+   bb:file="res00031.dat" bb:title="ultraDocumentBody" identifier="res00031" type="resource/x-bb-document"
+   xml:base="res00031"/><resource bb:file="res00032.dat" bb:title="ultraDocumentBody" identifier="res00032"
+   type="resource/x-bb-document" xml:base="res00032"/><resource bb:file="res00033.dat" bb:title="ultraDocumentBody"
+   identifier="res00033" type="resource/x-bb-document" xml:base="res00033"/><resource bb:file="res00034.dat"
+   bb:title="--TOP--" identifier="res00034" type="resource/x-bb-document" xml:base="res00034"/><resource
+   bb:file="res00035.dat" bb:title="--TOP--" identifier="res00035" type="resource/x-bb-document"
+   xml:base="res00035"/><resource bb:file="res00036.dat" bb:title="LearnRubrics" identifier="res00036"
+   type="course/x-bb-rubrics" xml:base="res00036"/><resource bb:file="res00037.dat" bb:title="Gradebook"
+   identifier="res00037" type="course/x-bb-gradebook" xml:base="res00037"/><resource bb:file="res00038.dat"
+   bb:title="Attempt Receipts" identifier="res00038" type="course/x-bb-attemptreceipts" xml:base="res00038"/><resource
+   bb:file="res00039.dat" bb:title="Course Statistics" identifier="res00039" type="course/x-bb-trackingevent"
+   xml:base="res00039"/><resource bb:file="res00040.dat" bb:title="Content Review Status" identifier="res00040"
+   type="course/x-bb-review-status" xml:base="res00040"/><resource bb:file="res00041.dat"
+   bb:title="Course Message Folders" identifier="res00041" type="course/x-bb-coursemessagefolder"
+   xml:base="res00041"/><resource bb:file="res00042.dat" bb:title="CSResourceLinks" identifier="res00042"
+   type="course/x-bb-csresourcelinks" xml:base="res00042"/><resource bb:file="res00043.dat"
+   bb:title="Standard Alignments" identifier="res00043" type="course/x-bb-stdsalignments" xml:base="res00043"/><resource
+   bb:file="res00044.dat" bb:title="CourseRubricAssociation" identifier="res00044"
+   type="course/x-bb-crsrubricassocation" xml:base="res00044"/><resource bb:file="res00045.dat"
+   bb:title="CourseRubricEvaluation" identifier="res00045" type="course/x-bb-crsrubriceval"
+   xml:base="res00045"/><resource bb:file="res00046.dat" bb:title="BB_EWS_RULE_" identifier="res00046"
+   type="resource/x-bb-retention" xml:base="res00046"/></resources></manifest>

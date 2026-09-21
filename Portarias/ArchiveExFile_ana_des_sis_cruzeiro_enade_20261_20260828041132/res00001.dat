@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<COURSE id="_1163326_1"><COURSEID value="ana_des_sis_cruzeiro_enade_20261"/><BATCHUID
+  value="ana_des_sis_cruzeiro_enade_20261"/><TITLE
+  value="Central ENADE 2026 (ADS)"/><DESCRIPTION>Ultra</DESCRIPTION><ROW_STATUS value="0"/><DATES><CREATED
+   value="2026-05-21 11:40:18 BRT"/><UPDATED value="2026-08-28 14:36:23 BRT"/><COURSESTART value=""/><COURSEEND
+   value=""/><ENROLLSTART value=""/><ENROLLEND value=""/></DATES><FLAGS><ISAVAILABLE
+   value="true"/><HONORTERMAVAILABILITY value="false"/><INCATALOG value="true"/><ISDESCRIBED value="false"/><EMAILENROLL
+   value="false"/><ISLOCKEDOUT value="false"/><ALLOWGUESTS value="false"/><ALLOWOBSERVERS value="true"/><ENFORCE_LOCALE
+  value="false"/></FLAGS><ALLOWENROLL value="I"/><DURATION value="C"/><PACING value="I"/><SERVICELEVEL
+  value="F"/><DAYSOFUSE value="0"/><FEE value="0.0"/><ENROLLACCESSCODE value=""/><INSTITUTIONNAME
+   value=""/><STORAGELIMITS><HARD value="0"/><SOFT value="0"/><UPLOAD value="0"/></STORAGELIMITS><BANNER
+  value="/xid-295241414_1"/><BANNERALT value=""/><SHOWBANNERIND value="true"/><NAVIGATION><STYLE value="TEXT"/><COLORFG
+   value=""/><COLORBG value=""/><ISCOLLAPSIBLE value="true"/></NAVIGATION><BUTTON><SHAPE value="sq"/><STYLE
+  value="c02"/></BUTTON><DEFAULTCONTENTVIEW value="X"/><CLASSIFICATION value="Education"><CLASSIFICATION
+   value="HigherEducation"/></CLASSIFICATION><REGISTRY><REGISTRYENTRY key="GBSET:NS:promptUserToPostWhenDone"
+   value="false"/><REGISTRYENTRY key="courseMessages.persistenceType" value="relational"/><REGISTRYENTRY
+   key="last_archived_activity_accumulator_pk1" value="16055694315"/><REGISTRYENTRY
+   key="x-bbgs.partner-cloud.providers.updated" value="20260828T230447.623-0300"/><REGISTRYENTRY
+   key="banner_thumbnail_url" value="/xid-295241415_1"/><REGISTRYENTRY key="x-bbgs.partner-cloud.providers.available"
+   value="false"/><REGISTRYENTRY key="blackboard.apps.cx.autoarchiver.lastSyncTime"
+   value="2026-08-24T18:26:23.104-03:00"/><REGISTRYENTRY key="GBSET:EV:afterDecimal" value="5"/><REGISTRYENTRY
+   key="x-bbgs.partner-cloud.providers.list.updated" value="20260825T182621.864-0300"/><REGISTRYENTRY
+   key="blackboard.apps.cx.autoarchiver.lastSyncStatus" value="COMPLETE"/><REGISTRYENTRY
+   key="last access by un-enrolled admin" value="2026-06-01 18:01:55.168"/><REGISTRYENTRY
+   key="x-bbgs.partner-cloud.providers.list.available" value=""/><REGISTRYENTRY
+   key="blackboard.apps.cx.autoarchiver.lastArchiveRunReason" value="Last access time criteria met"/><REGISTRYENTRY
+   key="GBSET:EV:beforeDecimal" value="10"/><REGISTRYENTRY key="student_course_messaging_availability_mode"
+   value="msg_to_anyone"/><REGISTRYENTRY key="last access" value="2026-08-27 23:05:45.631"/></REGISTRY><UUID
+  value="ebe628993bc7420e92b47d8adeedb7f2"/><COURSEVIEWOPTION value="U"/><ULTRASTATUS value="U"/><ISCLOSED
+  value="false"/><COPYFROMUUIDS
+  value="c69b0d61d81f4dbdba1f806243587203,d2909fc1bd7c4f749320b50b502ba743,236c05eb36074974b5b8c672772a46d2,5d4f911e63454ff59df6d9cb8afcb0f6,d297cf50c8194c298d9549040a1beea2"/><PROGRESSTRACKINGENABLED value="DISABLED"/></COURSE>

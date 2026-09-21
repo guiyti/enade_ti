@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NAVIGATIONAPPLICATIONS><NAVIGATIONAPPLICATION id="_116741996_1"><APPLICATION value="blti-placement-Progress"/><LABEL
+    value="Progress Weighting Tool"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741995_1"><APPLICATION
+   value="blti-placement-KalturaMediaGalleryCT5"/><LABEL
+    value="Kaltura Media Gallery Course Tool (5)"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741994_1"><APPLICATION value="blti-placement-bibliotecaaa"/><LABEL value="Biblioteca A"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741993_1"><APPLICATION
+   value="blti-placement-zoom"/><LABEL value="Zoom"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741992_1"><APPLICATION value="blti-placement-KalturaMediaGallery"/><LABEL
+    value="Media Gallery (Ultra)"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741991_1"><APPLICATION
+   value="blti-placement-AcessoDocente"/><LABEL value="Acesso Docente Beecrowd"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741990_1"><APPLICATION
+   value="blti-placement-CMv2-PT"/><LABEL value="Progress Tool"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741989_1"><APPLICATION value="bb-progress-tracking"/><LABEL
+    value="progress_tracking.tool.name"/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741987_1"><APPLICATION
+   value="blti-placement-46eb70d43e2b4c4b858bd6555df6bc48"/><LABEL value="Microsoft Teams Meetings"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741986_1"><APPLICATION
+   value="blti-placement-MicrosoftTeams"/><LABEL value="Microsoft Teams Bb"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116742002_1"><APPLICATION
+   value="course_roster"/><LABEL value="course_roster.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741984_1"><APPLICATION value="avl_rule"/><LABEL value="avl_rule.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741982_1"><APPLICATION
+   value="course_tools_area"/><LABEL value="course_tools_area.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741981_1"><APPLICATION value="discussion_board"/><LABEL value="discussion_board.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741953_1"><APPLICATION
+   value="scor-scormreport"/><LABEL value="scormreport.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741980_1"><APPLICATION
+   value="blti-placement-CMv2-ASSIGN"/><LABEL value="Certificate Assignment"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116742034_1"><APPLICATION
+   value="manual"/><LABEL value="manual.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741979_1"><APPLICATION value="instructor_gradebook"/><LABEL
+    value="instructor_gradebook.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741978_1"><APPLICATION
+   value="calendar"/><LABEL value="calendar.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116742011_1"><APPLICATION value="bbcms-portfolio"/><LABEL value="bbcms-portfolio.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741977_1"><APPLICATION
+   value="announcements"/><LABEL value="announcements.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741976_1"><APPLICATION value="bb-glossary"/><LABEL value="bb-glossary.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741975_1"><APPLICATION
+   value="content"/><LABEL value="content.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116742012_1"><APPLICATION value="cs_portfolio_tool"/><LABEL value="cs_portfolio_home.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741974_1"><APPLICATION
+   value="groups"/><LABEL value="groups.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741973_1"><APPLICATION value="course_email"/><LABEL value="course_email.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741972_1"><APPLICATION
+   value="observer"/><LABEL value="observer.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="true"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741971_1"><APPLICATION value="performance_dashboard"/><LABEL
+    value="performance_dashboard.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741961_1"><APPLICATION
+   value="bb-date-management"/><LABEL value="date.rollover.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741970_1"><APPLICATION
+   value="review_status"/><LABEL value="review_status.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741969_1"><APPLICATION value="tasks"/><LABEL value="tasks.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741968_1"><APPLICATION
+   value="blogs"/><LABEL value="blogs.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741967_1"><APPLICATION value="bbcms-extractor"/><LABEL value="bbcms-extractor.label"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741966_1"><APPLICATION
+   value="bbcms-linkcheck"/><LABEL value="bbcms-linkcheck.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741965_1"><APPLICATION value="student_gradebook"/><LABEL value="student_gradebook.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741998_1"><APPLICATION
+   value="journal"/><LABEL value="journal.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741964_1"><APPLICATION value="staff_information"/><LABEL value="staff_information.label"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="true"/><ALLOWGUESTS
+  value="true"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741962_1"><APPLICATION
+   value="blti-placement-c9dd082533db41e3b4f1c21f05a36107"/><LABEL value="Microsoft Education"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_120915849_1"><APPLICATION
+   value="bb-outcomes"/><LABEL value=""/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741959_1"><APPLICATION
+   value="bb-mathjax"/><LABEL value="mathjax.tool.label"/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116742035_1"><APPLICATION value="bb-selfpeer"/><LABEL value="sap.tool.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741957_1"><APPLICATION
+   value="bbgs-gradejourney-gb_extract"/><LABEL value="GradeJourney.app1.name"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741958_1"><APPLICATION
+   value="bb-attendance"/><LABEL value="course_attendance.name"/><FLAGS><ISENABLED value="false"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741963_1"><APPLICATION value="bb-mashups-youtube"/><LABEL value="yt.vtbe.application.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741956_1"><APPLICATION
+   value="clp_course_link"/><LABEL value="clp_course_link.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741955_1"><APPLICATION value="bbgs-course-performance-app"/><LABEL
+    value="progress.in-course.tool"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741951_1"><APPLICATION
+   value="bb-video-integration"/><LABEL value="video-integration.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741997_1"><APPLICATION value="bb-rubric"/><LABEL value="system_rubric.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741952_1"><APPLICATION
+   value="bb-mashups-flickr"/><LABEL value="flickr.vtbe.application.name"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741954_1"><APPLICATION
+   value="bb-retention"/><LABEL value="retention.application.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741950_1"><APPLICATION value="bb-mashups-slideshare"/><LABEL
+    value="slideshare.vtbe.application.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741949_1"><APPLICATION value="bb-vtbe-tinymce-matheditor"/><LABEL
+    value="tool.matheditor.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741948_1"><APPLICATION
+   value="bb-vtbe-tinymce-spellcheck"/><LABEL value="tool.spellcheck.name"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741960_1"><APPLICATION
+   value="bb-ally-integration"/><LABEL value="ally-integration.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741947_1"><APPLICATION value="messages"/><LABEL value="messages.label"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741946_1"><APPLICATION
+   value="Bb-wiki"/><LABEL value="application.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741945_1"><APPLICATION value="mdb-sa-direct-submit"/><LABEL
+    value="safeassign_direct_submit.tool.name"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS
+    value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION
+   id="_116741944_1"><APPLICATION value="mdb-sa"/><LABEL value="SafeAssign"/><FLAGS><ISENABLED
+    value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741943_1"><APPLICATION
+   value="blti"/><LABEL value="blti.label"/><FLAGS><ISENABLED value="true"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS
+  value="false"/></FLAGS></NAVIGATIONAPPLICATION><NAVIGATIONAPPLICATION id="_116741983_1"><APPLICATION
+   value="bbgs-course-materials-app"/><LABEL value="course.materials.tool.name"/><FLAGS><ISENABLED
+    value="false"/><ALLOWOBSERVERS value="false"/><ALLOWGUESTS value="false"/></FLAGS></NAVIGATIONAPPLICATION></NAVIGATIONAPPLICATIONS>

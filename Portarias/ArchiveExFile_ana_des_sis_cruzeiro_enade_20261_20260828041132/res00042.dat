@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cms_resource_link_list><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23614877_1</parentId><resourceId><![CDATA[335650523_1]]></resourceId><storageType><![CDATA[PRIVATE]]></storageType><resourceGuid><![CDATA[f09abd2950e941bd8dba201d3dc73063]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410115_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23614812_1</parentId><resourceId><![CDATA[335650071_1]]></resourceId><storageType><![CDATA[PRIVATE]]></storageType><resourceGuid><![CDATA[eb0b8b7975bd4d128114bed90afbb193]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410109_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23613951_1</parentId><resourceId><![CDATA[335649560_1]]></resourceId><storageType><![CDATA[PRIVATE]]></storageType><resourceGuid><![CDATA[7de756052e67485088a7a8383644e7db]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410098_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23613929_1</parentId><resourceId><![CDATA[335336460_1]]></resourceId><storageType><![CDATA[PRIVATE]]></storageType><resourceGuid><![CDATA[b0c9990cf9f042d1927f8e48dae04088]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34377613_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="announcement">_4280642_1</parentId><resourceId><![CDATA[330199393_1]]></resourceId><storageType><![CDATA[PRIVATE]]></storageType><resourceGuid><![CDATA[b0dcc9df76f549a8a02d8f6e03e06d2b]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_33969604_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23614867_1</parentId><resourceId><![CDATA[335686132_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410763_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23642769_1</parentId><resourceId><![CDATA[335686130_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><resourceGuid><![CDATA[65e2b932581a4f7b9dc483c2d28cf48a]]></resourceGuid><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410759_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23642769_1</parentId><resourceId><![CDATA[335686127_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><aiState><![CDATA[No]]></aiState><id
+   data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410758_1</id></cms_resource_link><cms_resource_link><courseId
+   data-type="blackboard.data.course.Course">_1163326_1</courseId><parentId
+   parent_data_type="content">_23614867_1</parentId><resourceId><![CDATA[335673112_1]]></resourceId><storageType><![CDATA[PUBLIC]]></storageType><resourceGuid><![CDATA[e39fa31c506e4a89beffeaa4b1619d18]]></resourceGuid><aiState><![CDATA[No]]></aiState><id data-type="blackboard.platform.contentsystem.data.CSResourceLink">_34410479_1</id></cms_resource_link></cms_resource_link_list>

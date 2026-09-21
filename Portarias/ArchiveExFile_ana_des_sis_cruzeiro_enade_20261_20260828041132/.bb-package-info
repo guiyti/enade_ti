@@ -1,0 +1,25 @@
+#Bb PackageInfo Property File
+#Fri Aug 28 16:12:15 BRT 2026
+app.release.number=4000.21.0-rel.28+435d029
+cx.config.course.id=ana_des_sis_cruzeiro_enade_20261
+cx.config.file.references=false
+cx.config.full.value=CxConfig{operation\=ARCHIVE, courseid\=ana_des_sis_cruzeiro_enade_20261, package\=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132.zip, logger\=CxLogger{logs\=[Log{name\=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132.txt, verbosity\=default}, Log{name\=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132_detailed.txt, verbosity\=debug}], logHooks\=[blackboard.apps.cx.CxQueuedOperation@4a687ff3]}, resource_type_inclusions\=[], area_inclusions\=[], area_exclusions\=[], object_inclusions\={}, object_exclusions\={}, features\={BypassDiskQuotaCheck\=false, ExternallyConvertedForUltra\=false, CreateOrg\=false, ArchiveForUltraRestore\=false, AlternateAssessmentCsLinks\=false, RevertFromUltraRestore\=false, ImportCourseStructure\=false, Bb5LinkToBrokenImageFix\=true}, strHostName\=bb.cruzeirodosulvirtual.com.br, isCommandLineRequest\=false, isCourseConversion\=false, eventHandlers\=[], primaryNode\=null, nodes\=[], title\=null, packageVersion\=null, archiveCSItems\=true, archiveECSItems\=true, archiveOnlyReferencedPpg\=false, commonCartridge\=false, qti21Package\=false, createChildFolder\=false, csDir\=, excludedCsFolderIds\=null, homeDir\=, includeGradeHistoryInArchive\=false, isExportPackage\=false, logDetailRubricInfo\=false, taskId\=PkId{key\=_38470175_1, dataType\=blackboard.platform.queue.data.QueueTask, container\=blackboard.persist.DatabaseContainer@3af6d99}, useDefaultLog\=true}
+cx.config.learn.installation.id=a87afd0f40fa4b3ea66383cb74409788
+cx.config.learn.site.id=d036028c-d274-4199-b106-6fcef7c6991b
+cx.config.logs=[Log{name\=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132.txt, verbosity\=default}, Log{name\=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132_detailed.txt, verbosity\=debug}]
+cx.config.operation=blackboard.apps.cx.CxConfig$Operation\:ARCHIVE
+cx.config.package.identifier=f74885bdee0347039f21b4916709bb56
+cx.config.package.name=/usr/local/bbcontent/vi/BB5d152e0e8981d/courses/1/ana_des_sis_cruzeiro_enade_20261/archive/ArchiveExFile_ana_des_sis_cruzeiro_enade_20261_20260828041132.zip
+cx.package.info.version=6.0
+db.driver.name=PostgreSQL JDBC Driver
+db.driver.version=42.7.3
+db.product.name=PostgreSQL
+db.product.version=16.10
+java.class.path=/usr/local/blackboard/apps/service-wrapper/lib/wrapper.jar\:/usr/lib/jvm/java-21-amazon-corretto/lib/tools.jar\:/usr/local/blackboard/apps/tomcat/lib/bb-tomcat-bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/bootstrap.jar\:/usr/local/blackboard/apps/tomcat/bin/tomcat-juli.jar\:/usr/local/blackboard/systemlib/bb-spi.jar
+java.default.locale=en
+java.home=/usr/lib/jvm/java-21-amazon-corretto.x86_64
+java.vendor=Amazon.com Inc.
+java.version=21.0.11
+os.arch=amd64
+os.name=Linux
+os.version=6.1.176-223.369.amzn2023.x86_64
