@@ -47,3 +47,11 @@ yarn-error.log*
 .idea/
 *.swp
 *.swo
+
+# LGPD & Proteção de Dados Pessoais (CPFs e Listagens de Estudantes)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+listagem/**/*.csv
+listagem/*.csv

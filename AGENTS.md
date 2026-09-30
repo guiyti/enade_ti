@@ -57,17 +57,23 @@ O objetivo deste sistema é processar provas oficiais do **ENADE** (em PDF), ext
 │   ├── NORMATIVAS_E_CRONOGRAMA_MEC.md # Resumo dos editais, portarias e regras de aplicação
 │   ├── enade.html / faq.html  # Páginas interativas embutidas no Blackboard Ultra
 │   └── infografico_enade_2026.png # Infográfico oficial para WhatsApp
+├── listagem/                  # Listagens de Estudantes Concluintes ENADE
+│   ├── veteranos/             # CSVs oficiais por campus/curso (originais)
+│   ├── veteranos_consolidado.csv # CSV consolidado com todos os 606 concluintes
+│   └── MANUAL_VERIFICACAO_INSCRICOES.md # Manual técnico e operacional para atualizações futuras
 ├── provas/                    # PDFs originais do ENADE (mantidos)
 ├── public/                    # Arquivos estáticos servidos pelo Next.js / Vercel
 │   ├── data/exams.json        # Catálogo mestre de questões
 │   └── questoes/              # PNGs 300 DPI, full-pages e metadados JSON
 ├── src/                       # Frontend Next.js 15 App Router
-│   ├── app/                   # Rotas da aplicação (Home, Curso, Temas, Docente, Admin)
-│   ├── components/            # PresentationViewer, CourseGallery, TagEditor
+│   ├── app/                   # Rotas da aplicação (Home, Curso, Temas, Docente, Admin, Inscricao, API)
+│   ├── components/            # PresentationViewer, CourseGallery, TagEditor, InscricaoVerifier
+│   ├── data/                  # Dados privados de servidor (inscricoes_hashes.json - Zero-DB LGPD)
 │   └── lib/                   # Taxonomia temática e store local
 └── engine/                    # Motor de Processamento Offline Python
     ├── requirements.txt       # Dependências Python
     ├── run_processing.py      # Pipeline de extração local
+    ├── tools/                 # Scripts utilitários (atualizar_inscritos.py, merge_veteranos.py)
     ├── src/enade/             # Módulos Python (extractor, converter, classifier)
     └── tests/                 # Suíte pytest (33 testes)
 ```

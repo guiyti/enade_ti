@@ -1,0 +1,6 @@
+# LGPD: Proteção absoluta contra vazamento de CPFs e planilhas de estudantes
+*.csv
+*.tsv
+*.xlsx
+*.xls
+veteranos/*.csv
