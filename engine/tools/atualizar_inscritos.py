@@ -5,11 +5,7 @@ atualizar_inscritos.py
 Script utilitário para atualizar a base de hashes de alunos inscritos no ENADE
 (Zero-DB, formato hiper-compacto agrupado por Curso:Campus, sem dados redundantes).
 
-MODO 1: A partir dos arquivos CSV oficiais (com todas as colunas)
-    python3 engine/tools/atualizar_inscritos.py --modo csv
-
-MODO 2: A partir de um arquivo contendo APENAS os CPFs (um por linha ou coluna simples)
-    python3 engine/tools/atualizar_inscritos.py --cpfs caminho/para/lista_cpfs.txt
+Suporta todos os cursos de TI: ADS, GTI e Ciência da Computação (CCP).
 """
 
 import os
@@ -28,24 +24,32 @@ DEFAULT_OUTPUT_JSON = os.path.join(BASE_DIR, "src", "data", "inscricoes_hashes.j
 
 DEFAULT_SALT = os.environ.get("ENADE_CPF_SALT", "ENADE_2026_CRUZEIRO_DO_SUL_TI_HASH_SALT")
 
-CAMPUS_MAP = {
-    "AF": "Anália Franco",
-    "GUA": "Guarulhos",
-    "LIB": "Liberdade",
-    "PTA": "Paulista",
-    "SA": "Santo Amaro",
-    "SM": "São Miguel",
-    "VL": "Villa-Lobos",
-}
+def detect_campus(fname: str) -> str:
+    fname_upper = fname.upper()
+    if "ANALIA" in fname_upper or fname.startswith("AF_") or "_AF_" in fname_upper:
+        return "Anália Franco"
+    if "GUARULHOS" in fname_upper or fname.startswith("GUA_") or "_GUA_" in fname_upper:
+        return "Guarulhos"
+    if "LIBERDADE" in fname_upper or fname.startswith("LIB_") or "_LIB_" in fname_upper:
+        return "Liberdade"
+    if "PAULISTA" in fname_upper or fname.startswith("PTA_") or "_PTA_" in fname_upper:
+        return "Paulista"
+    if "SANTOAMARO" in fname_upper or "SANTO_AMARO" in fname_upper or fname.startswith("SA_") or "_SA_" in fname_upper:
+        return "Santo Amaro"
+    if "SAOMIGUEL" in fname_upper or "SAO_MIGUEL" in fname_upper or fname.startswith("SM_") or "_SM_" in fname_upper:
+        return "São Miguel"
+    if "VILALOBOS" in fname_upper or "VILLALOBOS" in fname_upper or fname.startswith("VL_") or "_VL_" in fname_upper:
+        return "Villa-Lobos"
+    return "Cruzeiro do Sul"
 
 def clean_sigla(raw_name: str) -> str:
     upper = raw_name.upper()
-    if "ANÁLISE" in upper or "ANALISE" in upper:
-        return "ADS"
-    if "GESTÃO" in upper or "GESTAO" in upper:
-        return "GTI"
-    if "COMPUTAÇÃO" in upper or "COMPUTACAO" in upper:
+    if "COMPUTAÇÃO" in upper or "COMPUTACAO" in upper or "CIÊNCIA" in upper or "CIENCIA" in upper:
         return "CCP"
+    if "ANÁLISE" in upper or "ANALISE" in upper or "ADS" in upper:
+        return "ADS"
+    if "GESTÃO" in upper or "GESTAO" in upper or "GTI" in upper:
+        return "GTI"
     return "TI"
 
 def compute_cpf_hash(cpf_digits: str, salt: str = DEFAULT_SALT) -> str:
@@ -60,15 +64,16 @@ def processar_modo_csv(dir_path: str, output_csv: str, output_json: str, salt: s
         print(f"❌ Nenhum arquivo .csv encontrado em '{dir_path}'", file=sys.stderr)
         sys.exit(1)
         
+    print(f"📄 Encontrados {len(csv_files)} arquivos CSV.")
     all_rows = []
     header = None
     grupos = {}
     total_cpfs = 0
+    unique_cpfs = set()
     
     for f in csv_files:
         fname = os.path.basename(f)
-        prefix = fname.split("_")[0]
-        campus_name = CAMPUS_MAP.get(prefix, prefix)
+        campus_name = detect_campus(fname)
         
         with open(f, "r", encoding="utf-8-sig", errors="replace") as fp:
             reader = csv.reader(fp, delimiter=";")
@@ -82,6 +87,7 @@ def processar_modo_csv(dir_path: str, output_csv: str, output_json: str, salt: s
                     cpf_idx = idx
                     break
                     
+            count_file = 0
             for row in reader:
                 if not row or not any(field.strip() for field in row):
                     continue
@@ -102,7 +108,11 @@ def processar_modo_csv(dir_path: str, output_csv: str, output_json: str, salt: s
                     
                 h_val = compute_cpf_hash(cpf_digits, salt)
                 grupos[group_key].append(h_val)
+                unique_cpfs.add(cpf_digits)
+                count_file += 1
                 total_cpfs += 1
+                
+            print(f"   • {fname} -> {count_file} alunos ({campus_name} - {sigla})")
 
     # Salva CSV consolidado
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
@@ -111,7 +121,7 @@ def processar_modo_csv(dir_path: str, output_csv: str, output_json: str, salt: s
         writer.writerow(header)
         writer.writerows(all_rows)
         
-    salvar_json_compacto(grupos, total_cpfs, output_json, salt)
+    salvar_json_compacto(grupos, len(unique_cpfs), output_json, salt)
 
 def processar_modo_apenas_cpfs(filepath: str, output_json: str, salt: str, sigla_padrao: str, campus_padrao: str):
     print(f"\n📋 [MODO APENAS CPFs] Lendo lista de CPFs em: {filepath}")
@@ -129,7 +139,6 @@ def processar_modo_apenas_cpfs(filepath: str, output_json: str, salt: str, sigla
             if not line or "CPF" in line.upper():
                 continue
             digits = "".join(c for c in line if c.isdigit())
-            # Trata se tiver colunas separadas
             if len(digits) != 11:
                 parts = [p.strip() for p in line.replace(";", ",").replace("\t", ",").split(",") if p.strip()]
                 for p in parts:
@@ -156,9 +165,9 @@ def salvar_json_compacto(grupos: dict, total: int, output_json: str, salt: str):
         json.dump(payload, fp, ensure_ascii=False, indent=2)
         
     size_kb = os.path.getsize(output_json) / 1024
-    print(f"✅ Base de hashes compacta gerada: {output_json}")
-    print(f"   Total de inscritos: {total}")
-    print(f"   Grupos configurados: {len(grupos)}")
+    print(f"\n✅ Base de hashes compacta gerada: {output_json}")
+    print(f"   Total de concluintes mapeados: {total}")
+    print(f"   Total de grupos/turmas: {len(grupos)}")
     print(f"   Tamanho do JSON: {size_kb:.1f} KB (otimizado!)")
 
 def main():
